@@ -5254,68 +5254,83 @@ Additionally, it touches on Sarah Ferguson's scandals post-separation from Princ
 Tue, 19 Mar 2024 17:22:07 +0530
 ### [What is female genital mutilation that Gambia wants to decriminalise? Which countries allow it?](https://www.firstpost.com/explainers/gambia-female-genital-mutilation-ban-which-countries-allow-fgm-13750656.html)
 
-Article found but Couldn't summarize 
-Female genital mutilation, a centuries-old ritual practised in some communities, includes the deliberate cutting or changing of a young girl or woman’s external genitalia. Gambia, which banned it in 2015, is seeking to remove those legal protections for girls
+The article discusses the potential reversal of Gambia's ban on female genital mutilation (FGM), a practice involving the cutting or altering of female genitalia, often justified by social, religious, and cultural reasons. Despite being internationally condemned as a human rights violation, FGM persists in some communities, with over 230 million girls and women affected globally.
+
+In 2015, Gambia banned FGM, but recent efforts led by a powerful imam and supported by religious conservatives may overturn this. Critics argue that the ban's repeal would undermine women's rights and could lead to the rollback of other protective laws. The practice remains prevalent in about 30 countries, primarily in Africa and West Asia, despite more than half of the countries practicing FGM having legal bans in place. Activists fear that reversing the ban in Gambia could negatively impact advocacy efforts against FGM elsewhere.
 
 Tue, 19 Mar 2024 16:18:05 +0530
 ### [What is STEAG, Indian Army's new elite unit for future warfare?](https://www.firstpost.com/explainers/what-is-steag-indian-armys-new-elite-unit-for-future-warfare-13750504.html)
 
-Article found but Couldn't summarize 
-The Signals Technology Evaluation and Adaptation Group (STEAG) is the first of its kind unit that will undertake research and evaluation of futuristic communication technologies, like AI, machine learning, software-defined radios, electronic warfare systems, 6G networks, and more. It is part of the Indian Army's efforts to develop technologies
+The Indian Army has established a new unit called the **Signals Technology Evaluation and Adaptation Group (STEAG)**, which is dedicated to researching and evaluating advanced communication technologies for military use. This includes a wide range of technologies such as AI, machine learning, software-defined radios, electronic warfare systems, and 5G/6G networks. STEAG's mission is to integrate cutting-edge solutions and collaborate with academia and industry to enhance defense applications. The initiative aligns with India's self-reliance goals and aims to bridge the gap between the armed forces and the technological sector. The unit is seen as a strategic move to strengthen the Army's capabilities in the digital domain, especially considering the anticipated importance of communication technologies in future warfare and the expected emphasis on 6G technology by other nations' militaries.
 
 Tue, 19 Mar 2024 15:19:41 +0530
 ### [Bank of Japan ends negative interest rates: What does this mean? How does it affect Japan’s economy?](https://www.firstpost.com/explainers/bank-of-japan-negative-interest-rates-meaning-economy-impact-significance-13750527.html)
 
-Article found but Couldn't summarize 
-The Bank of Japan has raised its key interest rates, stepping away from the country’s negative interest rate policy. This is the first time in 17 years that such a step has been taken after the country witnessed inflation as well as wages rising
+The Bank of Japan (BoJ) has ended its negative interest rate policy, raising rates for the first time since 2007. This shift marks a departure from the ultra-loose monetary policy that Japan has maintained for over a decade to combat deflation and stimulate the economy.
+
+Negative interest rates, introduced in Japan in 2016, were meant to encourage spending and inflation by charging banks to store excess cash, thereby promoting lending and economic growth. This policy was part of Japan's long-term strategy to combat deflation and manage its significant national debt, which exceeds 100% of its GDP.
+
+Despite the policy's role in preventing deeper deflation, the BoJ has now raised the short-term rate to between 0 and 0.1%, ending the negative rate policy. This decision comes as Japan sees wage increases and inflation nearing the BoJ's 2% target for the first time in years, prompting speculation about further rate changes.
+
+The immediate effects included a weakened yen and a rise in Tokyo stocks. In the long term, the move is expected to boost investments, prices, and wages. While the government and the BoJ may face higher debt servicing costs, private banks could profit from higher interest rates, and households may benefit from lower import costs due to a stronger yen.
+
+The BoJ has committed to maintaining its bond purchases and keeping financial conditions accommodative for now. The policy change has the support of Japanese Prime Minister Fumio Kishida, who expressed trust in the BoJ's decision-making. The bank will continue to review its policies, especially if the 2% inflation target is met alongside wage increases.
 
 Tue, 19 Mar 2024 14:09:31 +0530
 ### [Pashupati Paras leaves NDA over BJP’s deal with nephew, Chirag Paswan? What does it mean for Bihar Lok Sabha polls?](https://www.firstpost.com/explainers/pashupati-kumar-paras-resigns-union-minister-bjp-deal-chirag-paswan-bihar-lok-sabha-elections-13750551.html)
 
-Article found but Couldn't summarize 
-RLJP chief Pashupati Kumar Paras resigned as Union minister after his party got no place in the BJP-led NDA’s seat-sharing pact in Bihar for the upcoming Lok Sabha elections. Now, a direct contest between him and his nephew, Chirag Paswan, is likely on some seats in the state
+Pashupati Kumar Paras, the chief of Rashtriya Lok Janshakti Party (RLJP), resigned from his position as Union Minister after the RLJP was excluded from the BJP-led National Democratic Alliance's seat-sharing arrangement in Bihar for the upcoming Lok Sabha elections. This development sets the stage for a potential direct electoral contest between him and his nephew, Chirag Paswan, in the state.
+
+The resignation follows Paras' warning that his party could explore other alliances if not accommodated within the NDA. His departure marks a significant shift in the political landscape, as it comes amidst a longstanding feud with his nephew, Chirag, who leads a separate faction of the LJP. The dispute intensified after the death of LJP founder Ram Vilas Paswan, leading to a split in the party and a battle over the Hajipur Lok Sabha constituency.
+
+Chirag Paswan had previously distanced himself from the NDA during the 2020 Bihar Assembly elections but has since regained favor, largely due to the support he commands among the Paswan voters, a key Scheduled Caste demographic in Bihar. His return to the NDA fold and the BJP's decision to back him over Paras could influence the BJP's strategy to secure a significant number of seats in the upcoming elections.
+
+The BJP plans to contest 17 Lok Sabha seats in Bihar, while its ally JD(U) will contest 16. Chirag's LJP (Ram Vilas) has been allocated five seats, including Hajipur. The political dynamics in Bihar are poised for further developments as Paras contemplates his next move, with speculation about him joining the opposition bloc. The outcome of these events will likely have a profound impact on the state's political future.
 
 Tue, 19 Mar 2024 13:38:30 +0530
 ### [Musk says his ketamine use is good for investors: What is this drug and how safe is it?](https://www.firstpost.com/explainers/elon-musk-ketamine-use-depression-drug-linked-matthew-perry-death-13750529.html)
 
-Article found but Couldn't summarize 
-Elon Musk has opened up about the use of ketamine, claiming he has a prescription from a ‘real’ doctor. The mind-bending drug has been used to treat depression, anxiety and other psychological illnesses. It is also linked to the death of F.R.I.E.N.D.S star Matthew Perry, raising questions about its safety
+Elon Musk has disclosed his use of ketamine, prescribed by a doctor, to manage depression. He claims it aids his leadership at Tesla and insists on its moderate use, as excessive consumption hinders work. The drug's medical approval dates back to 1970, initially for anesthesia and later as an animal tranquilizer. Its dissociative properties led to recreational abuse, prompting increased seizures by U.S. authorities.
+
+Ketamine's clinical application has expanded to treat depression, anxiety, PTSD, and other mental health issues, with studies showing significant symptom improvement. However, concerns about its safety have risen, especially after the death of actor Matthew Perry, linked to ketamine's acute effects. Experts emphasize the need for careful monitoring during clinical use to prevent adverse outcomes.
+
+In Silicon Valley, drug use among tech leaders is not uncommon, with some using substances like ketamine and LSD to enhance creativity and focus. Reports suggest that even board directors at Tesla may partake. The culture in Silicon Valley blurs the lines between recreational use and self-medication, as seen with Musk's admission and the broader acceptance of psychedelics in the tech industry.
 
 Tue, 19 Mar 2024 12:40:24 +0530
 ### [How Delhi retained title of being world's most polluted capital city](https://www.firstpost.com/explainers/delhi-world-most-polluted-capital-city-13750435.html)
 
-Article found but Couldn't summarize 
-The World Air Quality Report 2023 published by the Swiss organisation IQAir has deemed Delhi as the world’s most polluted capital city. As per the study, PM2.5 levels in the capital worsened from 89.1 micrograms per cubic metre in 2022 to 92.7 micrograms per cubic metre in 2023
+The **World Air Quality Report 2023** by IQAir has identified Delhi as the **most polluted capital city** in the world for the fourth consecutive year, with PM2.5 levels rising from 89.1 to 92.7 micrograms per cubic metre in 2023. India is ranked as the **third worst country** for air quality, with Begusarai in Bihar being the **most polluted metropolitan area** globally. The report highlights that a significant portion of India's population is exposed to PM2.5 levels far exceeding WHO guidelines, contributing to various health issues and an estimated **seven million premature deaths** globally each year. Data for the report was collected from over 30,000 air quality monitoring stations worldwide. Only seven countries met the WHO's annual PM2.5 guideline, showcasing a global issue with air pollution and its impact on health.
 
 Tue, 19 Mar 2024 11:29:57 +0530
 ### [Narayana Murthy gifts 4-month-old grandson Rs 240 crore Infosys stake: How toddlers become 'promoters'](https://www.firstpost.com/explainers/narayana-murthy-gifts-4-month-old-grandson-rs-240-crore-infosys-stake-how-toddlers-become-promoters-13750466.html)
 
-Article found but Couldn't summarize 
-With the gift of 15 lakh shares, Infosys co-founder Narayana Murthy made his four-month-old grandson Ekagrah perhaps the youngest millionaire in the nation. Currently, the baby owns 0.04 per cent of the second-largest information technology company in India
+Narayana Murthy, co-founder of Infosys, has gifted 15 lakh shares to his four-month-old grandson, Ekagrah, making him one of the youngest millionaires in India and a member of the Infosys promoter group with a 0.04% stake. Ekagrah is the son of Rohan Murthy and Aparna Krishnan, and the third grandchild of Narayana Murthy. The Murthy family, including Akshata Murty, Britain's first lady, and Sudha Murty, a Rajya Sabha member, hold significant shares in Infosys. Other young members of business families, like Tanush Nilekani Chandra and Milan Shibulal Manchanda, have also received substantial shares from their families, making them millionaires. The article also discusses the decline in Narayana Murthy's personal stake following the gift and mentions another case where a newborn girl in the UK became a millionaire through inheritance. It concludes with information on how grandparents can bequeath assets to grandchildren through wills or trusts, highlighting the importance of early succession planning.
 
 Tue, 19 Mar 2024 10:29:35 +0530
 ### [Pakistan carries out airstrikes in Afghanistan: How Islamabad-Taliban ties have deteriorated](https://www.firstpost.com/explainers/pakistan-airstrikes-afghanistan-islamabad-taliban-ties-deteriorated-13750422.html)
 
-Article found but Couldn't summarize 
-Pakistan launched two airstrikes on Monday in Afghanistan’s Paktika and Khost provinces, killing eight people. Later, Islamabad said it was part of their ‘intelligence-based anti-terrorist operations’. In retaliation, the Taliban carried out firing across the border, which is likely to increase tensions between the two. Why have the two neighbours fallen apart?
+The article discusses the escalating tensions between Pakistan and Afghanistan following Pakistan's airstrikes in Afghanistan's Paktika and Khost provinces, which resulted in eight deaths. Islamabad claimed the strikes were part of an anti-terror operation targeting the Hafiz Gul Bahadur Group and the Tehreek-i-Taliban Pakistan (TTP), who have been blamed for terrorist attacks in Pakistan. In retaliation, the Taliban fired at Pakistani troops, condemning the airstrikes as a violation of their territory and warning of severe consequences.
+
+The immediate cause of the airstrikes was an attack in North Waziristan that killed seven Pakistani soldiers, prompting President Asif Ali Zardari to vow retaliation. The TTP has been a persistent threat, with a significant increase in attacks in Pakistan over the past year, including high-profile attacks on security forces and a training air base.
+
+The strained relations between the two countries are also attributed to Pakistan's expulsion of over 1.5 million Afghan refugees and migrants, and concerns in Islamabad about the Taliban's engagement with India, particularly regarding economic and transit cooperation. These developments have further complicated the already tense relationship between Pakistan and Afghanistan.
 
 Tue, 19 Mar 2024 09:28:23 +0530
 ### [Ninth death of Indian student in US in 2024: Was Abhijeeth Paruchuru murdered?](https://www.firstpost.com/explainers/ninth-indian-student-death-us-abhijeeth-paruchuru-13750361.html)
 
-Article found but Couldn't summarize 
-Abhijeeth Paruchuru, hailing from Guntur in Andhra Pradesh, was found dead in Boston on 11 March, with his body discovered in a car deep within a forest. However, authorities have ruled out any foul play
+Abhijeeth Paruchuru, a 20-year-old engineering student from Andhra Pradesh, was found deceased in Boston on March 11. Initially, there were suspicions of foul play due to the circumstances of his body being found in a car within a forest. However, the Consulate General of India in New York has confirmed that foul play has been ruled out. The Consulate has been assisting with the case and the repatriation of Paruchuru's remains to India. His last rites were performed in his hometown Tenali, with the help of TEAM Aid.
+
+The article also highlights a concerning trend of attacks on Indian students in the US, with several deaths reported since the beginning of 2024. These incidents have prompted the Indian Embassy and consulates to engage with Indian students across the US to discuss their well-being and safety. The interaction involved Indian Student Association office bearers and students from 90 US universities, led by Charge d’Affaires Ambassador Sripriya Ranganathan and attended by various Consul Generals of India in the US. The article concludes by noting the community's heightened concern over these attacks.
 
 Tue, 19 Mar 2024 08:44:55 +0530
 ### [Is TikTok parent company ByteDance a Chinese agent?](https://www.firstpost.com/explainers/us-tiktok-ban-is-bytedance-chinese-agent-communist-party-13750271.html)
 
-Article found but Couldn't summarize 
-TikTok’s argument that American users’ data is safe because it’s stored outside China is not convincing. Regardless of whether ByteDance has formal ties with the Chinese Communist Party, there will be the tacit understanding that the management is working for two bosses: the investors and their political overseers who represent the party
+The article discusses concerns over TikTok's data security and the influence of the Chinese government on ByteDance, TikTok's parent company. It highlights the blurred lines between state and private enterprise in China, where the government acts as a partner and ultimate boss in businesses. The Chinese Communist Party's history of control over the economy and its shift towards centralized control under Xi Jinping are noted. The article mentions instances of government interference in private businesses and the potential for ByteDance to be compelled to share user data with Chinese intelligence. Despite TikTok's assurances that data stored outside China is safe, the author remains unconvinced due to the inherent power dynamics between ByteDance's management, its investors, and the Chinese government. The article concludes that as long as ByteDance owns TikTok, it will likely support the party's interests. The piece is authored by Shaomin Li, a scholar of China's political economy and business, and is republished from The Conversation.
 
 Tue, 19 Mar 2024 05:00:54 +0530
 ### [FirstUp: SC to hear CAA plea, Congress to finalise manifesto… The news today](https://www.firstpost.com/explainers/firstup-sc-to-hear-caa-plea-congress-to-finalise-manifesto-the-news-today-13750269.html)
 
-Article found but Couldn't summarize 
-The Supreme Court will hear a clutch of pleas against the notified Citizenship Amendment Act (CAA) today. The Congress will also finalise its manifesto for the upcoming Lok Sabha polls. Here’s what else is expected to happen today
+Today's key events include the Supreme Court hearing pleas against the Citizenship Amendment Act (CAA), with the contention that it violates the Constitution by excluding Muslims from three neighboring countries from eligibility for citizenship. The Congress Working Committee is set to finalize its manifesto for the upcoming Lok Sabha elections, promising significant benefits such as financial aid to poor women, job reservations, and social security for unorganized sector workers. The Bharat Rising summit, a leadership conclave, begins today, featuring prominent speakers including the Prime Minister and aims to explore India's global role. Additionally, the Supreme Court will address the Pawar vs Pawar case, and the ICAI will announce new dates for the Chartered Accountancy exams due to a clash with the election schedule. Lastly, today marks the 92nd anniversary of the opening of the Sydney Harbour Bridge.
 
 Mon, 18 Mar 2024 20:18:34 +0530
 ### [Vegetable prices surge, rentals may drop: How Bengaluru’s water scarcity is worsening](https://www.firstpost.com/explainers/bengaluru-water-shortage-vegetable-prices-surge-rentals-may-drop-13750265.html)
