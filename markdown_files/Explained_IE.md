@@ -1,3 +1,12 @@
+Tue, 14 May 2024 08:50:51 +0000
+### [India VIX Index rallies: What does market volatility mean for investors?](https://indianexpress.com/article/explained/explained-economics/india-vix-index-market-volatility-9327742/)
+
+The article discusses the surge in India VIX, a measure of market volatility expectation, which has recently passed the 21 mark due to uncertainties surrounding the Lok Sabha elections. The VIX, also known as the Fear Index, rises with market volatility and is based on the order book of the underlying index options. It was first introduced by the CBOE in 1993 and has since been used to gauge market volatility and inform investment decisions.
+
+India VIX, computed by the NSE using NIFTY Options, reflects the expected market volatility over the next 30 days. A higher VIX value indicates greater expected volatility. Recently, the India VIX has seen a significant increase, attributed to the ongoing elections and actions by foreign portfolio investors. Market experts suggest that the VIX may peak before the election results are announced and could fall sharply afterward.
+
+Investors are advised to view the market as in a corrective or consolidation phase, with a cautious approach until a clearer trend emerges post-elections. The article also briefly mentions Snehil Dixit Mehra's experience with filmmaker Sanjay Leela Bhansali, unrelated to the main financial content.
+
 Tue, 14 May 2024 07:08:34 +0000
 ### [Explained: GPT-4o, OpenAI’s newest AI model that makes ChatGPT smarter and free for all](https://indianexpress.com/article/explained/explained-sci-tech/gpt-4o-openai-new-ai-model-capabilities-9327407/)
 

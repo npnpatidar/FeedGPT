@@ -1,3 +1,34 @@
+Tue, 14 May 2024 16:30:12 +0530
+### [Board diversity can catalyse business success](https://www.livemint.com/opinion/online-views/board-diversity-can-catalyse-business-success-11715621735081.html)
+
+The article discusses the significant impact of board diversity on enterprise performance, emphasizing the importance of having a mix of genders, castes, ages, and professional expertise in company leadership. It highlights the board's role in corporate governance and the positive correlation between gender diversity and financial performance metrics like return on assets and equity. The article notes that while the Global 500 has seen an increase in women CEOs, the percentage remains low compared to the Fortune 500.
+
+Research indicates that companies with more women on their boards experience better business success, with many Fortune 500 companies having over 40% non-male directors. Benefits of board diversity extend beyond finances, contributing to improved decision-making, risk management, corporate governance, and reputation. A Credit Suisse study found higher average RoE and RoA in businesses with gender-diverse boards, suggesting diverse boards are more effective in various aspects of business operations.
+
+The article also addresses the challenges faced by women in achieving board positions in India, such as systemic biases, work-life balance issues, self-promotion difficulties, unclear promotion criteria, and workplace hostility. It calls for eliminating biases against women and shifting from male-dominated management mindsets to realize the full potential of gender diversity in business. Despite some Indian companies exceeding regulatory requirements for female board members, there is still a notable lack of women directors in many firms listed on the National Stock Exchange. The article concludes that gender diversity will thrive once biases are removed, allowing for fair opportunities and a shift in management perspectives.
+
+Tue, 14 May 2024 15:30:10 +0530
+### [Beware: Artificial intelligence can hurt democracy in subtle ways too](https://www.livemint.com/opinion/online-views/beware-artificial-intelligence-can-hurt-democracy-in-subtle-ways-too-11715621657275.html)
+
+The article discusses the underestimated impact of AI on elections. Despite initial concerns, AI has not caused visible disruptions in recent polls in Indonesia and Pakistan. However, experts warn that AI's influence may be subtle and hard to detect, unlike previous blatant disinformation campaigns. AI can generate varied messages that are difficult to trace, making it a potent tool for spreading disinformation. Meta's WhatsApp, with its Channels feature, could be exploited to broadcast AI-generated texts to influence voters. The widespread use of AI tools by ordinary people for creating content, including disinformation, is also a concern. Meta is attempting to mitigate these risks by labeling AI-generated content and could further strengthen its policies on WhatsApp to prevent election interference. The article suggests that the effects of AI are nuanced and widespread, urging tech companies and officials to remain vigilant against AI's potential to subtly influence elections. The piece concludes that the lack of obvious 'mass impact' does not mean AI is not affecting elections; rather, its effects are more dispersed and challenging to identify.
+
+Tue, 14 May 2024 14:00:07 +0530
+### [China’s clean-tech subsidies are good for the planet we inhabit](https://www.livemint.com/opinion/online-views/chinas-clean-tech-subsidies-are-good-for-the-planet-we-inhabit-11715621588145.html)
+
+The article discusses the emerging trade tensions over clean technologies between major global economies. The US and EU are concerned about Chinese subsidies to its green industries, fearing they threaten their own industries and may respond with import restrictions. China has countered by filing a complaint with the WTO, citing discriminatory provisions in the US's Inflation Reduction Act.
+
+US Secretary of the Treasury Janet Yellen, on a visit to China, expressed the US's stance against China's significant government support for industries like solar power, EVs, and batteries, emphasizing that the US will protect its green industries from suffering as the steel industry did due to Chinese subsidies.
+
+China's rapid expansion in green industries has led it to produce a majority of the world's solar PV modules, wind turbines, and EVs and batteries. This growth is attributed to various government policies, which have allowed Chinese firms to dominate the market.
+
+The article argues that green technologies are essential in combating climate change and should be considered a global public good. It suggests that subsidizing green industries, as China has done, is justified due to the positive externalities and the need to accelerate the green transition to combat climate change.
+
+It also presents the view that green industrial policies serve a dual purpose: fostering technological advancement and acting as a substitute for carbon pricing. The article criticizes Western fears of "subsidy wars" and "excess capacity," stating that an abundance of renewables and green products is what is needed for the climate.
+
+China's green policies have significantly reduced the costs of renewable energy, fostering optimism that global warming can be kept within reasonable limits. The US's Inflation Reduction Act is seen as a similar policy, providing subsidies for the transition to green industries, despite some domestic favoritism.
+
+The article concludes that while countries may have legitimate concerns about the impact of others' green policies on their economies, they should not view these policies as violations of norms. Historical trade arrangements are cited as examples of how countries have managed import surges without harming the global economy. The overarching message is that subsidizing green industries is morally, environmentally, and economically favorable. ©2024/project syndicate
+
 Tue, 14 May 2024 12:55:24 +0530
 ### [How India can spice up global palette, in a better way](https://www.livemint.com/opinion/how-india-can-spice-up-global-palette-in-a-better-way-11715670627560.html)
 
@@ -6,6 +37,13 @@ India, the world's largest producer of spices, is facing a regulatory challenge 
 The establishment of the National Turmeric Board in 2023 aims to streamline the regulatory process, but it also adds to the complexity, as there are already two bodies regulating turmeric. The differing pesticide levels prescribed by these bodies, necessary due to the humid climate and pest control, complicate traceability and accountability.
 
 The article suggests that the solution lies in integrating the numerous laboratory networks, improving standards, and addressing the potential financial impact on farmers due to stricter quality controls. This could lead to higher prices for spices, but it is essential for meeting the growing global demand and ensuring the quality of Indian spice exports. The case of India and Bhutan's dispute over chilli exports further underscores the need for consistent and high-quality standards. The goal is to enhance India's spice export potential while ensuring safety and quality for consumers worldwide.
+
+Tue, 14 May 2024 12:55:24 +0530
+### [Too many cooks? Indian spice products hurt by too many, not too few, standards](https://www.livemint.com/opinion/how-india-can-spice-up-global-palate-in-a-better-way-11715670627560.html)
+
+The article discusses the challenges faced by India, the world's largest producer of spices, in maintaining quality standards for exports. Hong Kong has suspended sales of spice blends from two major Indian brands due to high levels of ethylene oxide, a cancer-causing pesticide. The issue is attributed not to a lack of checks but to the existence of too many conflicting standards and regulatory bodies. For instance, the National Turmeric Board was established to streamline turmeric exports, but it adds to the complexity with the Spices Board and APEDA already in place, each prescribing different pesticide levels. This multiplicity makes traceability difficult and hinders establishing which standards may have been exceeded.
+
+The article suggests that the solution lies in integrating the numerous laboratory networks, improving them, and addressing potential losses for farmers due to high rejection rates. This could lead to higher prices for spices, but it is necessary to ensure quality and meet the rising global demand post-COVID. The article also references a past dispute between India and Bhutan over chili exports, highlighting the need for standardized regulations that align with international standards. The overarching message is that too many standards can be detrimental to the quality and reputation of Indian spice products on the global market. The article concludes by emphasizing the need for India and the world to "spice up their plate" with better-regulated spice products.
 
 Tue, 14 May 2024 12:30:06 +0530
 ### [Curb deepfake velocity, vulnerability and viciousness](https://www.livemint.com/opinion/online-views/curb-deepfake-velocity-vulnerability-and-viciousness-11715621492557.html)

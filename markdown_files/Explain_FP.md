@@ -1,3 +1,68 @@
+Tue, 14 May 2024 16:55:04 +0530
+### [Jackie Shroff wants to trademark his catchphrase ‘bhidu’: What does the law say?](https://www.firstpost.com/explainers/jackie-shroff-trademark-catchphrase-bhidu-law-personality-rights-13770727.html)
+
+Bollywood actor Jackie Shroff has filed a case in the Delhi High Court to protect his personality rights, including the use of his name, voice, image, and the term 'bhidu', from unauthorized commercial use. He seeks to prevent entities from using these without his consent, particularly for merchandising and in defamatory content. Citing previous cases where celebrities like Anil Kapoor and Amitabh Bachchan were granted protection of their personality rights, Shroff's plea emphasizes the importance of these rights as they pertain to a celebrity's livelihood. Personality rights, akin to trademarks, safeguard a celebrity's name, image, voice, and other traits from being exploited for commercial gain. The case is set to be heard on May 15. The legal framework in India for personality rights is still developing, with the Trade Marks Act 1999 and the Copyright Act 1957 providing some guidance on the matter.
+
+Tue, 14 May 2024 16:54:09 +0530
+### [Quicksplained: Who is Bhavesh Bhinde, owner of the collapsed Mumbai hoarding, on the run?](https://www.firstpost.com/explainers/quicksplained-who-is-bhavesh-bhinde-owner-of-collapsed-mumbai-hoarding-13770683.html)
+
+A tragic incident occurred in Mumbai when a large billboard erected by Ego Media Pvt Ltd collapsed on a petrol pump in Ghatkopar due to a dust storm and unseasonal rains, resulting in 14 deaths and 59 injuries. The owner of Ego Media, Bhavesh Prabhudas Bhinde, is facing charges under various sections of the IPC for culpable homicide not amounting to murder and causing grievous hurt. The billboard was installed without permission and was larger than the allowed size. Bhinde, who has a history of criminal complaints and was previously blacklisted by the municipal authority, is currently untraceable. The police and BMC have taken action against the illegal hoardings, and there is a call for strong action against Bhinde and his company.
+
+Tue, 14 May 2024 16:44:08 +0530
+### [In this country, women are better drivers than men. Here’s proof](https://www.firstpost.com/explainers/drive-like-a-woman-france-new-road-safety-campaign-tells-men-in-france-13770661.html)
+
+France has launched a new road safety campaign titled "Drive Like A Woman," aimed at challenging the stereotype that women are bad drivers and addressing the country's issue with aggressive driving, particularly among men. The campaign, promoted by the Victims and Citizens Association, is visible in metro stations and online.
+
+Statistics from the French Road Safety Observatory show that men were responsible for 84% of fatal car accidents and 93% of accidents under the influence of alcohol in 2022-2023. The government road safety agency head, Florence Guillaume, attributes this to societal pressures on men to demonstrate strength through risky driving behaviors.
+
+A survey across 11 European countries highlighted that 67% of French respondents admitted to verbally abusing other drivers, and 18% even confronted other drivers physically. The survey also revealed that 37% engaged in dangerous tailgating, and 91% routinely exceeded speed limits.
+
+The "Drive Like A Woman" campaign encourages men to adopt safer driving habits typically associated with women, who are statistically less involved in fatal accidents and driving offenses. The campaign aims to reduce traffic fatalities by debunking the myth of male superiority in driving and promoting cautious and safe driving behaviors. According to the campaign, adopting a driving style like that of women could significantly decrease accidents and casualties. The urgency of the campaign is underscored by the fact that nearly 3,200 people died in road accidents in France last year, with early data suggesting an increase in 2024.
+
+Tue, 14 May 2024 16:00:30 +0530
+### [Advocacy a profession, not business or trade to fall under Consumer Protection Act, says SC. Here's why](https://www.firstpost.com/explainers/advocacy-a-profession-not-business-or-trade-to-fall-under-consumer-protection-act-says-sc-heres-why-13770598.html)
+
+The Supreme Court of India has ruled that advocates are not liable under the Consumer Protection Act (CPA) for service deficiencies, distinguishing legal professionals from those in commercial activities. This decision overturns a previous interpretation by the National Consumer Disputes Redressal Commission that legal services were covered under the CPA. The court emphasized that professions require extensive education and intellectual effort, and success in these fields is influenced by factors beyond one's control, making them distinct from business or trade.
+
+The judgment also revisits the liability of doctors and medical professionals under the CPA, suggesting a need to reexamine the Indian Medical Association vs VP Shantna case. While the ruling clarifies that advocates are not immune from lawsuits in regular courts, it underscores the legal profession's ancient and noble roots, regulated by the Advocates Act and the Bar Council of India's standards of conduct.
+
+The judgment may have broader implications for professional liability across various fields, prompting a reevaluation of what constitutes a service deficiency under the CPA. It highlights the complexity of law and professional ethics, demanding a nuanced understanding of responsibility and service delivery in the modern era. The article concludes that the legal profession's unique nature, with its strict regulations and lack of commercial metrics like customer success or value for money, sets it apart from other trades or services.
+
+Tue, 14 May 2024 15:28:36 +0530
+### [Is hate against Asians on the rise in the US?](https://www.firstpost.com/explainers/is-hate-against-asians-on-the-rise-in-the-us-13770627.html)
+
+The STAATUS Index 2024 survey conducted by the Asian American Foundation highlights a significant disparity between the general American public's perception and the actual experiences of Asian Americans, Native Hawaiians, and Pacific Islanders (AANHPIs) regarding hate crimes and discrimination. Key findings include:
+
+- **32%** of Asian Americans reported experiencing racial slurs, and **29%** faced verbal harassment or abuse in the past year.
+- Southeast Asian Americans reported higher incidents of racial slurs (**40%**), verbal harassment or abuse (**38%**), and physical assault threats (**22%**).
+- **41%** of Asian Americans fear physical attacks, and **59%** are concerned about discrimination in the next five years.
+- Only **38%** of Asian Americans feel a sense of belonging, and just **18%** feel fully accepted for their racial identity.
+- Social media and social settings like workplaces and schools are seen as unwelcoming by those who doubt their sense of belonging or acceptance.
+- **60%** of marginalized Asian Americans attribute their feelings to past discrimination or violence, while **37%** cite a lack of representation in power positions.
+
+The survey also reveals that **55%** of Americans cannot name a prominent AANHPI individual, and **52%** cannot identify a notable Asian American figure. Despite this, there is a desire for more representation of Asian Americans in media. Proposed strategies to combat racism include incorporating Asian American history into education, increasing visibility in society, and creating more opportunities for interaction with the community.
+
+The survey was conducted from January 30 to March 13, 2024, with a nationally representative sample of 6,272 respondents and has a margin of error of +/-1.2 percentage points at the 95% confidence level. Norman Chen, CEO of The Asian American Foundation, stresses the need to recognize and address hate crimes against Asian Americans. The report suggests breaking the "STAATUS quo" and advocating for AANHPI stories beyond Heritage Month.
+
+Tue, 14 May 2024 14:45:46 +0530
+### [Airpocalypse Again: How Canada wildfires are choking the US once again](https://www.firstpost.com/explainers/canada-wildfires-choke-the-us-13770644.html)
+
+The article discusses the severe wildfires across Canada, which have led to unhealthy air quality levels in parts of the US. In Canada, 37 out of 141 active wildfires are uncontrolled, with the majority in British Columbia and Alberta. Over 4,700 people were evacuated near Fort Nelson, and emergency measures are in place due to persistent drought conditions. The smoke has affected air quality across several US states, with Minnesota experiencing particularly poor conditions. Air quality alerts have been issued, and some areas have been advised to stay indoors. The situation reflects a broader trend of increasing wildfire activity due to climate change, which is expected to pose significant health risks. Wildfire smoke contains fine particles that can penetrate deep into the lungs and cause various health issues, especially for vulnerable groups such as children and pregnant women. The article also notes that last year's wildfire season was the most devastating in Canada's history, affecting air quality across 18 US states.
+
+Tue, 14 May 2024 14:26:41 +0530
+### [How a Delhi man took over 200 flights to steal jewellery worth lakhs from co-passengers](https://www.firstpost.com/explainers/how-a-delhi-man-took-over-200-flights-to-steal-jewellery-worth-lakhs-from-co-passengers-13770600.html)
+
+Rajesh Kapoor, a 40-year-old man, was arrested for stealing jewelry from passengers during flights. He took over 200 flights in 110 days and targeted vulnerable passengers, particularly elderly women. Using his deceased brother's identity, he booked flights and stole valuables worth lakhs of rupees. The police caught him after analyzing CCTV footage and tracking him through technical surveillance. Kapoor owned a guest house in Delhi and admitted to selling stolen jewelry to a jeweler. He was involved in 11 cases of theft and gambling, with five related to airport thefts. The police recovered a significant amount of jewelry from his possession. Kapoor had previously been successful in train thefts before moving on to airports.
+
+Tue, 14 May 2024 14:01:36 +0530
+### [Melinda French Gates to quit Gates Foundation: How the nonprofit transformed philanthropy](https://www.firstpost.com/explainers/melinda-french-gates-bill-gates-foundation-philanthropy-13770637.html)
+
+Melinda French Gates has announced her resignation as co-chair of the Bill & Melinda Gates Foundation, effective June 7. This decision comes three years after her divorce from Bill Gates. She plans to focus on her own philanthropic work through Pivotal Ventures, an investment company she founded in 2015, which emphasizes the economic empowerment of women and minority groups.
+
+The Gates Foundation, established in 2000, has been a significant force in global public health, with an endowment of over $75 billion. It plans to spend $8.6 billion on charitable work in 2024. The foundation has contributed to various global health initiatives, including immunization programs, research on health issues, and efforts to eradicate diseases like polio. It also supports education and agricultural improvements.
+
+Concerns have been raised about the foundation's influence on global health policy, given its status as the second-largest private donor to the World Health Organization. The foundation's name will be changed to the Gates Foundation following Melinda's departure. Bill Gates has expressed his gratitude for Melinda's contributions and believes she will continue to have a significant impact through her future work. The foundation has donated more than $36 billion of their personal wealth and received substantial contributions from Warren E. Buffett. It supports major international institutions and has made significant investments in family planning, poverty alleviation, and disease combat in poorer countries.
+
 Tue, 14 May 2024 13:42:09 +0530
 ### [Mumbai hoarding collapse: How ‘death by illegal banners’ is not a new menace in India](https://www.firstpost.com/explainers/mumbai-hoarding-collapse-death-illegal-banners-menace-india-13770632.html)
 

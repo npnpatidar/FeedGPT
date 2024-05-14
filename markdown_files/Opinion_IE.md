@@ -1,3 +1,23 @@
+Tue, 14 May 2024 11:18:49 +0000
+### [Sushil Modi’s life was a lesson in how to keep the nation first, the party next, and the self last](https://indianexpress.com/article/opinion/columns/sushil-modi-obituary-bjp-9328201/)
+
+Sushil Kumar Modi, a respected Indian politician from Bihar, was known for his cross-party admiration and significant contributions to the BJP. His political journey began as a RSS swayamsevak and ABVP member, eventually rising through the ranks due to his passion for student leadership. Modi's dedication to representing the common people of Bihar led him to various legislative roles, including the Lok Sabha and Rajya Sabha. He emphasized the importance of lifelong social work over political work and proposed practical improvements like distributing Budget speech handouts to Rajya Sabha MPs for better understanding.
+
+During his tenure on the GST Council, Modi was recognized for his preparedness and ability to dispel GST misinformation, advocating for state unity with the Government of India. His commitment to international relations was evident in his leadership of a delegation to Myanmar in 2014, where he discussed the cultural ties and economic policies between the two nations.
+
+The article also reflects on Modi's personal interactions, his approach to feedback, and his influence on the author, who learned the principle of prioritizing the nation, party, and self from him. The tribute underscores Modi's impact on the BJP and his lasting legacy in Indian politics. The writer of the article is a national spokesperson for the BJP.
+
+Tue, 14 May 2024 08:57:43 +0000
+### [C Raja Mohan writes: What India’s chattering classes don’t understand about American politics, foreign policy](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-what-indias-chattering-classes-dont-understand-about-american-politics-foreign-policy-9327726/)
+
+The article discusses the lack of Indian media coverage on important US domestic issues and the implications of the US elections for India. It highlights that while Indian media focuses on America's concerns about Indian democracy, it overlooks significant events like the US general election, the Sino-Russian alliance, and the potential return of Donald Trump to the presidency. The piece argues that Western media's coverage of Indian elections is more consumed within India than abroad and that the discourse on Indian democracy by Western commentators is minimal compared to their domestic output.
+
+The author suggests that Western foreign policies are driven by capitalist and security interests rather than the promotion of democracy, as evidenced by historical alliances and actions that contradict democratic ideals. The article emphasizes that geopolitical and commercial interests shape US foreign policy, not political values.
+
+Regarding the US elections, the article points out that India's democracy is not a concern for American voters, but potential policy changes under Trump, such as tariffs and immigration enforcement, could significantly impact India. The author urges Delhi to pay attention to these debates, as they are more consequential for Indian democracy than Western editorials. The battle for democracy in India is framed as an internal matter, not one influenced by Western capitals.
+
+The writer of the article is identified as a contributing editor for The Indian Express and a visiting professor at the Institute of South Asian Studies, National University of Singapore. The unrelated content about Snehil Dixit Mehra and Sanjay Leela Bhansali's work has been omitted from the summary.
+
 Tue, 14 May 2024 06:46:23 +0000
 ### [Why this is the age of stupid](https://indianexpress.com/article/opinion/columns/why-this-is-the-age-of-stupid-9327336/)
 

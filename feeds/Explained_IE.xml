@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>India VIX Index rallies: What does market volatility mean for investors?</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/india-vix-index-market-volatility-9327742/</link>
+			<description>The article discusses the surge in India VIX, a measure of market volatility expectation, which has recently passed the 21 mark due to uncertainties surrounding the Lok Sabha elections. The VIX, also known as the Fear Index, rises with market volatility and is based on the order book of the underlying index options. It was first introduced by the CBOE in 1993 and has since been used to gauge market volatility and inform investment decisions.
+
+India VIX, computed by the NSE using NIFTY Options, reflects the expected market volatility over the next 30 days. A higher VIX value indicates greater expected volatility. Recently, the India VIX has seen a significant increase, attributed to the ongoing elections and actions by foreign portfolio investors. Market experts suggest that the VIX may peak before the election results are announced and could fall sharply afterward.
+
+Investors are advised to view the market as in a corrective or consolidation phase, with a cautious approach until a clearer trend emerges post-elections. The article also briefly mentions Snehil Dixit Mehra's experience with filmmaker Sanjay Leela Bhansali, unrelated to the main financial content.</description>
+			<pubDate>Tue, 14 May 2024 08:50:51 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/05/india-vix.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/05/india-vix.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Explained: GPT-4o, OpenAI’s newest AI model that makes ChatGPT smarter and free for all</title>
 			<link>https://indianexpress.com/article/explained/explained-sci-tech/gpt-4o-openai-new-ai-model-capabilities-9327407/</link>
 			<description>OpenAI has launched GPT-4o, a new large language model (LLM) that is free to use and offers multimodal capabilities, allowing interactions through text, audio, and images. This model represents a significant advancement in AI, aiming to improve human-computer interactions by processing inputs more holistically, including understanding tone and emotional context in audio. GPT-4o operates with enhanced speed, efficiency, and multilingual support, and is expected to be integrated into Microsoft's services. It is being released in stages, with text and image functionalities already available for some users. Despite its advancements, GPT-4o is still being developed to fully realize its potential in complex tasks and comes with built-in safety measures to address cybersecurity, misinformation, and bias. Continuous efforts are being made to mitigate any emerging risks associated with the model.</description>
