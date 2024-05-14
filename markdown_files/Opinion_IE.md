@@ -1,3 +1,14 @@
+Tue, 14 May 2024 12:31:19 +0000
+### [Congress can still win — if it makes these changes to its manifesto](https://indianexpress.com/article/opinion/columns/congress-lok-sabha-elections-manifesto-9328430/)
+
+The article provides a critical analysis of the Congress party's manifesto for the 2024 general elections in India. It highlights the manifesto's focus on justice (nyay) for various societal sections, including social justice (hissedari nyay), youth (yuva nyay), farmers (kisan nyay), women (nari nyay), and workers (shramik nyay). The manifesto promises a nation-wide Socio-Economic and Caste Census (SECC) and a constitutional amendment to raise the reservation cap for SC, ST, and OBC. However, the article suggests that the manifesto lacks a commitment to proportional representation in positions of power and fails to include all state-level OBC castes in the central OBC list.
+
+For youth issues, it criticizes the promise of filling 30 lakh vacancies without addressing the central OBC list inclusion. The women's justice section is commended for the financial support to poor families but is advised to extend this to small farmers. The farmers' section is praised for the legal guarantee of Minimum Support Price (MSP) but seeks clarification on the MSP formula and criticizes the lack of a substantial increase in the PM-Kisan scheme amount.
+
+The article also advocates for the inclusion of agricultural work in MNREGA, a pension scheme for older farmers and laborers, and the creation of smaller states for better governance. It concludes by urging the Congress to listen to various groups affected by the BJP's policies and to amend its manifesto accordingly to ensure victory in the elections. The writer identifies as the president of Kisan Shakti Sangh and an alumnus of IRMA.
+
+The unrelated content about Snehil Dixit Mehra and Sanjay Leela Bhansali's work has been omitted from the summary. If you need more information or a detailed analysis of specific sections, feel free to ask!
+
 Tue, 14 May 2024 11:18:49 +0000
 ### [Sushil Modi’s life was a lesson in how to keep the nation first, the party next, and the self last](https://indianexpress.com/article/opinion/columns/sushil-modi-obituary-bjp-9328201/)
 

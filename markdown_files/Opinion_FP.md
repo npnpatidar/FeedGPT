@@ -1,3 +1,17 @@
+Tue, 14 May 2024 20:41:39 +0530
+### [2024 polls: How Kashmiris are rejecting anti-India misinformation warfare](https://www.firstpost.com/opinion/2024-polls-how-kashmiris-are-rejecting-anti-india-misinformation-warfare-13770820.html)
+
+The article discusses the complex issue of terrorism in Kashmir, highlighting the role of Pakistan's support for militant groups in perpetuating violence and instability in the region. It criticizes certain writers and activists for spreading anti-India propaganda and misinformation, which serves to exacerbate tensions. The piece emphasizes that Pakistan, by using terrorism as a tool of statecraft and refusing to engage in genuine dialogue, bears significant responsibility for the ongoing conflict. It argues that meaningful dialogue and peace can only be achieved if Pakistan renounces its support for terrorism. The article also notes a positive shift in the Greater Kashmir newspaper's reporting, from giving space to terror sympathizers to celebrating democratic participation and questioning turmoil in Pakistan-occupied Kashmir. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Tue, 14 May 2024 18:14:59 +0530
+### [How good wheat harvest in India can be a solution to world's food crisis](https://www.firstpost.com/opinion/how-good-wheat-harvest-in-india-can-be-a-solution-to-worlds-food-crisis-13770760.html)
+
+The article discusses India's potential to leverage its good wheat harvest amidst global scarcity to strengthen its foreign policy through food diplomacy. Despite challenging weather conditions, Punjab reported high wheat yields, which could help control inflation, replenish food reserves, and influence electoral outcomes. The government is urged to maximize wheat procurement from Punjab, Uttar Pradesh, and Madhya Pradesh to fill strategic reserves, which have been declining due to missed targets in previous years.
+
+The author argues against leaving wheat supply to private enterprises, as it benefits traders more than farmers or consumers. Instead, the government should offer Minimum Support Price (MSP) to more farmers and manage procurement to prevent consumer price spikes. With global wheat production affected by weather and geopolitical issues, such as drought in Russia and trade sanctions, India has an opportunity to become a key player in the global wheat market by first securing domestic supplies and then exporting surplus wheat.
+
+The article suggests that a systematic procurement plan would benefit traders by providing clear export quotas and calls for the establishment of an international trade body akin to those in Canada and the US to facilitate Indian wheat exports to countries in need. This approach could provide additional income to Indian farmers and enhance India's food diplomacy, especially in times of scarcity. The author's views are personal and do not necessarily reflect those of the publication.
+
 Tue, 14 May 2024 17:03:54 +0530
 ### [Vantage | Will superbugs lead to next pandemic? Is India at risk?](https://www.firstpost.com/opinion/vantage-will-superbugs-lead-to-next-pandemic-is-india-at-risk-13770742.html)
 

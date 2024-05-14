@@ -1,3 +1,26 @@
+Tue, 14 May 2024 20:57:56 +0530
+### [Betrayal, plagiarism & more: The controversy involving NewJeans band rocking the K-pop world](https://www.firstpost.com/explainers/newjeans-label-ador-hybe-controversy-k-pop-13770705.html)
+
+The K-pop industry is witnessing a significant controversy involving Hybe, South Korea's largest music firm, and its subsidiary label Ador. The dispute centers around NewJeans, a girl group managed by Ador. Allegations have been made against Ador's CEO Min Hee-jin for attempting to take control of the label, leaking confidential information, and mistreatment of the group. Hybe has filed a police complaint against Min, who in turn has denied the allegations and accused Hybe of supporting another girl group, ILLIT, which she claims is imitating NewJeans.
+
+The situation escalated with Min holding a press conference, expressing feelings of betrayal by Hybe and claiming unfair compensation. The controversy has led to a drop in Hybe's shares and sparked rumors about chart-rigging and shamanism. A legal battle is expected, and a shareholders meeting is scheduled for May 31 to decide Min's future with Ador. The public reaction is divided, with some fans supporting Min and others backing Hybe. Despite the feud, NewJeans is set to release a new double single later in May. The case highlights issues of workplace conflict and gender dynamics within the industry.
+
+Tue, 14 May 2024 19:59:21 +0530
+### [What is 'Blockout2024' movement, where A-list celebs are losing followers over Gaza war?](https://www.firstpost.com/explainers/blockout2024-social-media-digital-guillotine-celebrities-gaza-war-13770714.html)
+
+The article discusses a social media movement where fans are blocking celebrities who haven't spoken out about the Gaza conflict. This "digital guillotine" or "digitine" movement started after influencer Haley Kalil made a controversial statement at the Met Gala. The movement has gained traction on TikTok, with users aiming to reduce celebrities' follower counts and, consequently, their advertising revenue. Celebrities like Kim Kardashian and Taylor Swift have already seen significant drops in followers. Experts suggest that blocking is more impactful than unfollowing, as it reduces visibility and engagement, crucial for celebrities' social media presence. Some celebrities have responded to the pressure by voicing support for Gaza. The long-term effects of the movement are uncertain, with some viewing it as "slacktivism," a low-effort form of online protest with limited real-world impact. The article includes inputs from various sources and experts on the subject.
+
+Tue, 14 May 2024 18:23:22 +0530
+### [ED to make AAP accused in Delhi liquor policy case. Can a political party be charged?](https://www.firstpost.com/explainers/ed-to-make-aap-accused-in-delhi-liquor-policy-case-can-a-political-party-be-charged-13770739.html)
+
+The Enforcement Directorate (ED) has informed the Delhi High Court that the Aam Aadmi Party (AAP) will be named as an accused in the alleged liquor policy scam. This is a significant development as it marks the first time a political party is being formally charged in a legal matter in India. The ED's announcement came during their opposition to a plea by former Delhi Deputy Chief Minister Manish Sisodia, with plans to file a supplementary complaint/chargesheet.
+
+The case revolves around the Delhi Excise Policy for 2021-22, with allegations of irregularities and a criminal conspiracy involving Sisodia and others to grant liquor licenses in exchange for bribes. The ED initiated a money laundering case against the accused, including Sisodia and other AAP associates, following a CBI case registered on the complaint of Delhi Lieutenant Governor VK Saxena.
+
+The legal question at hand is whether a political party can be indicted under the Prevention of Money Laundering Act (PMLA), as the law typically applies to companies. However, an explanation within Section 70 of the PMLA suggests that an "association of individuals," which can include a political party, may fall under its ambit.
+
+AAP leader Arvind Kejriwal was arrested on 21 March but was granted interim bail by the Supreme Court, allowing him to campaign for the 2024 Indian general election. The case is unprecedented as no political party has previously faced PMLA charges, and it remains to be seen how the ED will proceed with the application of Section 70 against AAP.
+
 Tue, 14 May 2024 16:55:04 +0530
 ### [Jackie Shroff wants to trademark his catchphrase ‘bhidu’: What does the law say?](https://www.firstpost.com/explainers/jackie-shroff-trademark-catchphrase-bhidu-law-personality-rights-13770727.html)
 
@@ -5495,8 +5518,7 @@ Boeing has faced a series of safety incidents this year, including an emergency 
 Mon, 18 Mar 2024 19:08:36 +0530
 ### [Gold bars are passé in China; the young are buying gold beans: What are they?](https://www.firstpost.com/explainers/gold-beans-china-young-genz-economic-condition-investments-13750184.html)
 
-Article found but Couldn't summarize 
-China’s Gen-Z are buying gold, one bean at a time in an attempt to secure their financial future. These beans, which are pill-sized, cost between 450 to 600 yuan (Rs 5,300-Rs 7,077), making them easily affordable to the young
+China's Gen-Z is increasingly investing in "gold beans," small, pill-sized pieces of gold that are affordable and accessible, particularly popular among those aged 25 to 35. These gold beans have become a trend on social media platforms like Weibo, with discussions on collection strategies and their use as decorative accessories. The popularity of gold beans has contributed to a 12% increase in gold sales in China from January to October 2023, with younger consumers driving the demand. The appeal of gold beans lies in their affordability, the psychological satisfaction of owning physical gold, and the perception of higher returns compared to traditional investments. However, there are risks involved, as some buyers have been duped with fake gold beans, and experts suggest that investing in gold exchange-traded funds may be more sensible due to the high price of gold beans compared to the spot price of gold. Despite the risks, the trend continues to grow, with even Chinese banks starting to sell gold beans.
 
 Mon, 18 Mar 2024 19:01:38 +0530
 ### [In Graphics | Lok Sabha Elections 2024: When will your state go to the polls?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-when-will-your-state-go-to-the-polls-maps-13750226.html)
