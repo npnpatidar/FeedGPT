@@ -1,3 +1,28 @@
+Tue, 14 May 2024 12:55:24 +0530
+### [How India can spice up global palette, in a better way](https://www.livemint.com/opinion/how-india-can-spice-up-global-palette-in-a-better-way-11715670627560.html)
+
+India, the world's largest producer of spices, is facing a regulatory challenge as Hong Kong has suspended the sale of spice blends from two major Indian brands, MDH and Everest, due to high levels of the pesticide ethylene oxide. This incident highlights the complex regulatory environment for spice exports from India, which has multiple standards and testing boards. In FY23, India exported $3.73 billion worth of spices, with turmeric, chilli, garlic, and cumin seeds making up 75% of the total.
+
+The establishment of the National Turmeric Board in 2023 aims to streamline the regulatory process, but it also adds to the complexity, as there are already two bodies regulating turmeric. The differing pesticide levels prescribed by these bodies, necessary due to the humid climate and pest control, complicate traceability and accountability.
+
+The article suggests that the solution lies in integrating the numerous laboratory networks, improving standards, and addressing the potential financial impact on farmers due to stricter quality controls. This could lead to higher prices for spices, but it is essential for meeting the growing global demand and ensuring the quality of Indian spice exports. The case of India and Bhutan's dispute over chilli exports further underscores the need for consistent and high-quality standards. The goal is to enhance India's spice export potential while ensuring safety and quality for consumers worldwide.
+
+Tue, 14 May 2024 12:30:06 +0530
+### [Curb deepfake velocity, vulnerability and viciousness](https://www.livemint.com/opinion/online-views/curb-deepfake-velocity-vulnerability-and-viciousness-11715621492557.html)
+
+The article discusses the challenges posed by deepfakes, particularly in the context of India. It highlights the erosion of trust due to the rapid spread of deepfakes, facilitated by social media and the human tendency to believe visual content. The article points out the psychological harm to women and children, the legal challenges in cases like Anil Kapoor vs Simply Life India, and the threats to user-verification methods and democratic processes.
+
+The lack of specific laws in India to combat deepfakes is noted, with existing IT Act sections being insufficient. The Digital Personal Data Protection Act is mentioned, suggesting it could be more effective with amendments. The ongoing case between WhatsApp and the Indian government illustrates the complexities of traceability and privacy.
+
+The article suggests that regulation is necessary to maintain trust in technology. It recommends holding social media platforms accountable, mandating tech developers to label artificial content, and establishing clear legal recourse for victims of deepfakes. It emphasizes the need for comprehensive legislation, media literacy, and responsible digital citizenship to counter the negative impacts of deepfakes. The author calls for collaboration among tech developers, platforms, civil society organizations, and the government to reaffirm trust in the digital sphere. These views are presented as the author's personal opinions.
+
+Tue, 14 May 2024 10:00:00 +0530
+### [We should mobilize resources to reduce road fatalities in India](https://www.livemint.com/opinion/online-views/we-should-mobilize-resources-to-reduce-road-fatalities-in-india-11715621419883.html)
+
+The article discusses the disparity in India's response to the Himalayan tunnel rescue operation and the ongoing road fatality crisis. Despite the successful rescue operation showcasing India's commitment to saving lives, road fatalities continue to rise, with 168,000 deaths in 2022, a significant increase from the previous year. The article highlights that India accounts for a disproportionate number of global road fatalities, considering it has only 1% of the world's vehicles. It criticizes the misconception that bad roads cause accidents, noting that improved roads can lead to higher speeds and recklessness.
+
+The government's efforts, including harsh penalties and the establishment of a road safety committee, have not sufficiently addressed the issue. The article suggests that India should adopt emergency medical services similar to those in the US, where helicopters with trained paramedics respond to accidents, significantly improving survival rates. It calls for systemic, coordinated emergency services across India, funded through innovative insurance products and welfare schemes. The article concludes by urging the government to allocate funds in the upcoming Union budget to address the high cost of road fatalities, emphasizing it as a national imperative.
+
 Tue, 14 May 2024 08:30:17 +0530
 ### [Defence rejig: India must move faster on theatre-focused armed forces](https://www.livemint.com/opinion/online-views/defence-rejig-india-must-move-faster-on-theatre-focused-armed-forces-11715611513678.html)
 

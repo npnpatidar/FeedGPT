@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Explained: GPT-4o, OpenAI’s newest AI model that makes ChatGPT smarter and free for all</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/gpt-4o-openai-new-ai-model-capabilities-9327407/</link>
+			<description>OpenAI has launched GPT-4o, a new large language model (LLM) that is free to use and offers multimodal capabilities, allowing interactions through text, audio, and images. This model represents a significant advancement in AI, aiming to improve human-computer interactions by processing inputs more holistically, including understanding tone and emotional context in audio. GPT-4o operates with enhanced speed, efficiency, and multilingual support, and is expected to be integrated into Microsoft's services. It is being released in stages, with text and image functionalities already available for some users. Despite its advancements, GPT-4o is still being developed to fully realize its potential in complex tasks and comes with built-in safety measures to address cybersecurity, misinformation, and bias. Continuous efforts are being made to mitigate any emerging risks associated with the model.</description>
+			<pubDate>Tue, 14 May 2024 07:08:34 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/05/OpenAI-GPT-4o.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/05/OpenAI-GPT-4o.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Why some Indians are turning to LMIA work permits to emigrate to Canada</title>
 			<link>https://indianexpress.com/article/explained/explained-global/indians-lmia-work-permits-canada-9326443/</link>
 			<description>The article discusses the shift in preference among Indian emigrants from student visas to the Labour Market Impact Assessment (LMIA) permit following Canada's cap on international student admissions. The LMIA program allows Canadian employers to hire foreign workers when local recruitment fails. Employers post job requirements on the Canadian job portal, and foreign workers with a positive LMIA can apply for work permits using various documents, including the LMIA itself.

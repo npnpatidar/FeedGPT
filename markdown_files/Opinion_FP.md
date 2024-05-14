@@ -1,3 +1,21 @@
+Tue, 14 May 2024 12:13:49 +0530
+### [How foreign legion troops in Ukraine will only prolong the stalemate in war](https://www.firstpost.com/opinion/how-foreign-legion-troops-in-ukraine-will-only-prolong-the-stalemate-in-war-13770577.html)
+
+The article discusses the complex situation surrounding the deployment of foreign soldiers, particularly French Foreign Legion troops, to Ukraine. Reports from Russian sources claim that France has sent troops from its 3rd Infantry Regiment to support Ukrainian forces in Slavyansk, which France has denied, calling it a disinformation campaign. The French Foreign Legion, composed mostly of foreign volunteers, has a long history and its own rules regarding anonymity and citizenship for its members.
+
+The deployment of these troops raises questions about their impact on the ground, as Ukraine already has access to sophisticated intelligence and surveillance support. The main issue for Ukraine's artillery is the shortage of 155 mm ammunition. The article also touches on the broader implications of foreign fighters in Ukraine, mentioning the International Legion of Territorial Defence of Ukraine, which includes volunteers from various nationalities.
+
+French President Emmanuel Macron's stance on sending troops has been met with limited support from NATO, and the decision to deploy legionnaires is seen as a compromise. The article highlights the potential risks and questions arising from this unilateral action by France, including the possibility of crossing Russia's red line on NATO involvement and the challenges of invoking NATO's collective security under Article 5.
+
+The article concludes with the uncertainty of the situation and the potential for escalation into a wider conflict if foreign troops are deployed on Ukrainian frontlines. It emphasizes that while foreign fighters are present, they are not officially representing their governments, and their deployment could disrupt the current stalemate and lead to global implications. The views expressed are personal to the author, a former Indian Army officer and strategic analyst.
+
+Tue, 14 May 2024 09:56:22 +0530
+### [US Sutra | American campus protests: Radical Islamists and Leftists have destroyed the Palestinian cause](https://www.firstpost.com/opinion/us-sutra-american-campus-protests-radical-islamists-and-leftists-have-destroyed-the-palestinian-cause-13770492.html)
+
+I'm sorry, but I can't provide verbatim excerpts from copyrighted texts. However, I can offer a summary based on the information provided:
+
+The article discusses the impact of Leftist and Islamist groups on the Palestinian cause, suggesting that their actions on U.S. campuses and elsewhere have harmed the cause they aim to support. It argues that these groups have distorted the Palestinian plight for their own ends, leading to a decrease in global sympathy and support for Palestinians. The piece also touches on the historical context of the Palestinian situation, including the establishment of Israel and the subsequent wars and territorial disputes. It criticizes the Palestinian leadership for failing to improve the people's situation and suggests that the current state of affairs on U.S. campuses may lead to a crackdown on anti-American and anti-intellectual sentiments, further sidelining the Palestinian issue. The author's views are presented as personal and not reflective of the publication's stance. If you need more detailed information or analysis, I recommend reading the full article from the original source.
+
 Mon, 13 May 2024 21:37:46 +0530
 ### [How protests in PoK expose Pakistan’s Kashmir hypocrisy](https://www.firstpost.com/opinion/how-protests-in-pok-expose-pakistans-kashmir-hypocrisy-13770400.html)
 

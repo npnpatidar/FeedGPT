@@ -1,3 +1,8 @@
+Tue, 14 May 2024 06:46:23 +0000
+### [Why this is the age of stupid](https://indianexpress.com/article/opinion/columns/why-this-is-the-age-of-stupid-9327336/)
+
+The article discusses the current intellectual and moral state of society, lamenting the mainstreaming of stupidity and the decline in quality of institutional leadership. It attributes this to a lack of integrity and moral courage, leading to compromised intellectual output. The erosion of trust in institutions and the rise of social media influencers who prioritize visibility over depth of knowledge have contributed to this intellectual stagnation. The piece also critiques the selection process for institutional leaders, which favors opportunists and status quoists over big thinkers, resulting in illiberalism and a lack of intellectual diversity. The author argues that the rise of opportunists in public discourse is not organic but backed by money and power, leading to the legitimization of nonsense. The article concludes that the underlying crisis is not of intellect but of values, with some political and corporate powers exploiting the 'age of stupid' for their own ends. The writer is identified as the executive director of the Future of India Foundation.
+
 Tue, 14 May 2024 01:37:11 +0000
 ### [Why is India seeing a surge in employment? The answer is not simple](https://indianexpress.com/article/opinion/columns/why-is-india-seeing-a-surge-in-employment-the-answer-is-not-simple-9326578/)
 

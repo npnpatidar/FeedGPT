@@ -1,3 +1,8 @@
+Tue, 14 May 2024 07:08:34 +0000
+### [Explained: GPT-4o, OpenAI’s newest AI model that makes ChatGPT smarter and free for all](https://indianexpress.com/article/explained/explained-sci-tech/gpt-4o-openai-new-ai-model-capabilities-9327407/)
+
+OpenAI has launched GPT-4o, a new large language model (LLM) that is free to use and offers multimodal capabilities, allowing interactions through text, audio, and images. This model represents a significant advancement in AI, aiming to improve human-computer interactions by processing inputs more holistically, including understanding tone and emotional context in audio. GPT-4o operates with enhanced speed, efficiency, and multilingual support, and is expected to be integrated into Microsoft's services. It is being released in stages, with text and image functionalities already available for some users. Despite its advancements, GPT-4o is still being developed to fully realize its potential in complex tasks and comes with built-in safety measures to address cybersecurity, misinformation, and bias. Continuous efforts are being made to mitigate any emerging risks associated with the model.
+
 Tue, 14 May 2024 03:08:04 +0000
 ### [Why some Indians are turning to LMIA work permits to emigrate to Canada](https://indianexpress.com/article/explained/explained-global/indians-lmia-work-permits-canada-9326443/)
 

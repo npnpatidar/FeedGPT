@@ -1,3 +1,60 @@
+Tue, 14 May 2024 13:42:09 +0530
+### [Mumbai hoarding collapse: How ‘death by illegal banners’ is not a new menace in India](https://www.firstpost.com/explainers/mumbai-hoarding-collapse-death-illegal-banners-menace-india-13770632.html)
+
+The article discusses a tragic incident in Mumbai where a 100-foot-tall illegal hoarding collapsed in Ghatkopar due to a dust storm and unseasonal rains, resulting in the deaths of 14 people and injuries to 74 others. The Chief Minister of Maharashtra ordered a structural audit of all hoardings in the city, emphasizing the immediate removal of any found to be illegal and dangerous. This event highlights the broader issue of illegal hoardings in India, which have caused numerous accidents and fatalities in various cities. Despite laws and court directives to curb this menace, illegal hoardings continue to proliferate, often with political involvement. The article cites several past incidents where illegal hoardings have led to deaths and injuries, underscoring the lack of enforcement and political will to address the problem effectively. The High Court has issued directives against the use of public spaces for personal gains through advertising, but the implementation remains a challenge. The article concludes by questioning whether the Mumbai tragedy will lead to any significant change, given the history of inaction on this issue.
+
+Tue, 14 May 2024 13:25:22 +0530
+### [Who is Abhinav Prakash, BJP youth leader, picked for a possible election debate against Rahul Gandhi?](https://www.firstpost.com/explainers/abhinav-prakash-bjp-yuva-morcha-vice-president-selected-for-possible-debate-against-rahul-gandhi-13770501.html)
+
+The article discusses the possibility of a political debate in the upcoming Lok Sabha elections in India, a concept previously unheard of in Indian politics. Congress leader Rahul Gandhi has expressed willingness to engage in a public debate with Prime Minister Narendra Modi. Although Modi has not responded, Tejasvi Surya, president of the Bharatiya Janata Yuva Morcha (BJYM), has nominated Abhinav Prakash, the youth wing's vice president, for the debate.
+
+Abhinav Prakash is a 30-year-old assistant professor of economics at Delhi University's Ramjas College and an articulate spokesman for the BJP's youth wing. He hails from Raebareli, Uttar Pradesh, and belongs to the Pasi community, a significant Dalit group in the region. Prakash has accepted the nomination and expressed his eagerness to debate with Gandhi on various national issues.
+
+The idea for the debate was sparked by a letter from a consortium of retired judges and a journalist, urging Gandhi and Modi to debate on a neutral platform. Gandhi accepted the challenge, but the BJP declined, stating that Gandhi lacks the credentials to debate with Modi.
+
+The article concludes with the anticipation of whether Gandhi will confront Prakash in a potential debate, setting a precedent for political discourse in India.
+
+Tue, 14 May 2024 12:22:48 +0530
+### [Europe’s most prolific human smuggler nabbed in Iraqi Kurdistan: Who is Barzan Majeed?](https://www.firstpost.com/explainers/europes-most-prolific-human-smuggler-nabbed-in-iraqi-kurdistan-who-is-barzan-majeed-13770565.html)
+
+Barzan Majeed, known as "the Scorpion," was arrested in Sulaymaniyah, Northern Iraq, following a coordinated operation between Kurdish security forces and Interpol. This arrest is a significant development in the fight against human smuggling, as Majeed was notorious for orchestrating a vast operation that transported thousands of migrants into Europe, particularly the UK.
+
+Majeed's criminal activities had previously led to his conviction in absentia in Belgium for attempting to smuggle 100 migrants. Despite this, he managed to evade capture until now. Investigations have revealed that his gang controlled a large portion of the smuggling trade, using boats and lorries for transportation. Majeed himself entered the UK illegally in 2006 and was deported in 2015 after serving time for drug and gun offences. He took over his brother's smuggling operation and was sentenced in absentia by a Belgian court to ten years in prison and a fine of €968,000.
+
+Despite his arrest, Majeed maintains his innocence, claiming he was merely the "money man" and not the orchestrator of the smuggling network. His lack of remorse for the migrants who lost their lives during the dangerous crossings has been noted by authorities, who are now seeking to hold him accountable for his crimes. The arrest marks a hopeful step towards justice for the victims of human trafficking.
+
+Tue, 14 May 2024 11:50:29 +0530
+### [Baltimore Bridge collapse: Why FBI has seized the cell phones of Indian crew members](https://www.firstpost.com/explainers/baltimore-bridge-collapse-why-fbi-has-seized-the-cell-phones-of-indian-crew-members-13770525.html)
+
+The article discusses the aftermath of the Francis Scott Key Bridge collapse in Baltimore, which occurred on March 26. The bridge's collapse has left a crew of Indian and Sri Lankan men stranded on the cargo ship Dali for over 49 days. The FBI has seized the cell phones of the 21 crew members as part of the investigation into the accident. Despite the ship nearing freedom, the crew's future is uncertain, with concerns about potential personal liability for the disaster.
+
+The crew, including 20 Indians and one Sri Lankan, has been cooperating with the investigation since the accident. The Baltimore International Seafarers’ Centre, led by Reverend Joshua Messick, is ensuring the crew's well-being and rights. The crew has been busy with ship operations and assisting with the federal investigation and salvage efforts.
+
+A criminal investigation into the bridge collapse, which killed six construction workers, is underway. The FBI is examining whether the crew knew of serious systems problems with the vessel before leaving the port. The Key Bridge Response Unified Command is using controlled demolition techniques to remove the bridge wreckage from atop the Dali.
+
+The Dali, owned by Grace Ocean Pte Ltd and managed by Synergy Marine Group, is scheduled to be refloated during high tide with the help of tugboats. The crew will remain on board while the investigation continues, playing a crucial role in the salvage operation and investigation process. The incident highlights the often invisible work of seafarers and their contribution to global trade and logistics.
+
+Tue, 14 May 2024 11:47:38 +0530
+### [Dust storm in Mumbai: How it could pose a health risk](https://www.firstpost.com/health/dust-storm-in-mumbai-health-risk-13770475.html)
+
+Mumbai experienced a severe dust storm accompanied by strong winds and unseasonal rain, resulting in significant destruction and health concerns. The storm caused the collapse of an illegal billboard in Ghatkopar, killing 14 and injuring 74. Flight and train services were disrupted, trees were uprooted, and traffic was heavily affected. Health-wise, dust storms can trigger allergic reactions, respiratory issues, cardiovascular problems, skin conditions, and eye irritation. The article also discusses the global increase in frequency and severity of dust storms, attributing them to factors like desertification, human activities, and climate change. The UN recommends land restoration and early warning systems to mitigate these storms' effects. China's Green Great Wall initiative and AI tool 'Dust Watcher' are highlighted as proactive measures against dust storms. The article concludes with a call for more funding and efforts to combat land degradation and desertification.
+
+Tue, 14 May 2024 10:17:53 +0530
+### [Sushil Kumar Modi dies: The man who propelled the rise of the BJP in Bihar](https://www.firstpost.com/explainers/sushil-kumar-modi-dies-bihar-deputy-cm-bjp-nitish-kumar-13770505.html)
+
+Senior BJP leader and former Deputy Chief Minister of Bihar, Sushil Kumar Modi, passed away on May 13 after an eight-month battle with cancer. He was 72 years old and was receiving treatment at AIIMS, Delhi. His political career was marked by his significant contributions to the BJP's growth in Bihar, his involvement in the JP Movement, and his close relationship with JD(U) leader Nitish Kumar.
+
+Sushil Modi began his political journey in student politics at Patna University and became a key figure in the 1974 Bihar movement. He was persuaded by former Prime Minister Atal Bihari Vajpayee to transition from student politics to a full-time political career. Modi made his electoral debut in 1990 and went on to serve as the Leader of the Opposition in the Bihar Assembly, a Member of Parliament, and the Deputy Chief Minister of Bihar.
+
+He played a pivotal role in the implementation of the GST as the chairman of the Empowered Committee of State Finance Ministers. His partnership with Nitish Kumar was instrumental in Bihar's economic turnaround. Modi's recent tenure in the Rajya Sabha had ended, and he had announced his cancer diagnosis in April, stating his inability to participate in the upcoming Lok Sabha elections.
+
+Leaders across the political spectrum, including Prime Minister Narendra Modi and Nitish Kumar, have expressed their condolences, recognizing his invaluable role in politics and administration. His passing is seen as a significant loss to the political landscape of Bihar and the country.
+
+Tue, 14 May 2024 09:38:37 +0530
+### [Why Michael Cohen’s testimony could spell trouble for Trump in hush money trial](https://www.firstpost.com/explainers/hush-money-trial-michael-cohen-testimony-donald-trump-stormy-daniels-13770482.html)
+
+Michael Cohen, Donald Trump's former lawyer, testified in a trial concerning hush money payments made to adult film star Stormy Daniels. Cohen's testimony suggested that Trump was directly involved in the payments, which were aimed at preventing damage to his 2016 presidential campaign. Cohen claimed that Trump instructed him to delay the payment until after the election and that the payment was solely for campaign purposes, not to protect Trump's family image as previously defended. Cohen also described efforts to suppress negative media coverage during the campaign, including working with National Enquirer publisher David Pecker. Cohen's testimony painted a picture of his loyalty to Trump, admitting to lying to protect him. The trial continues with Cohen facing cross-examination, and the outcome may significantly impact Trump, as Cohen's allegations form the basis of the case.
+
 Tue, 14 May 2024 08:39:16 +0530
 ### [Why are young people so drawn to protesting the war in Gaza?](https://www.firstpost.com/explainers/why-are-young-people-so-drawn-to-protesting-the-war-in-gaza-13770372.html)
 
