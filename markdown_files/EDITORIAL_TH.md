@@ -1,3 +1,13 @@
+Wed, 15 May 2024 00:20:00 +0530
+### [Little respite: On food price gain](https://www.thehindu.com/opinion/editorial/little-respite-on-food-price-gain/article68175302.ece)
+
+The article discusses India's retail inflation data for April, which showed a slight decrease in the Consumer Price Index (CPI) to 4.83%, marking an 11-month low. Despite this, there was a concerning increase in food prices, with the Consumer Food Price Index (CFPI) rising to 8.7%. Rural areas experienced higher inflation rates than urban areas, particularly in food prices, which is troubling given the essential nature of food expenditures. Cereals, a significant component of the food category, saw a rise in inflation, with rice and wheat prices increasing notably compared to the previous year. Vegetable inflation remained in double digits due to high temperatures, and pulses also continued to see significant price increases. The article highlights the dependence on a 'normal monsoon' to stabilize prices, as water storage levels are low, affecting the agricultural sector and overall price stability. The summary omits any unrelated content or advertisements.
+
+Wed, 15 May 2024 00:10:00 +0530
+### [Lame excuses: On Manipur and the ethnic conflict](https://www.thehindu.com/opinion/editorial/lame-excuses-on-manipur-and-the-ethnic-conflict/article68174995.ece)
+
+The article discusses the ongoing crisis in Myanmar and its impact on neighbouring India, particularly the states of Mizoram and Manipur. It has been over three years since the military coup in Myanmar, which led to widespread repression and violence, especially against ethnic minorities. As a result, many have fled to India seeking refuge. In Mizoram, the Chin refugees are welcomed as ethnic kin, while in Manipur, they face stigmatization and are conflated with issues of cross-border drug trade. The Manipur government's actions, such as ending the Free Movement Regime and plans to fence the India-Myanmar border, are seen as majoritarian and have exacerbated ethnic tensions. The Chief Minister of Manipur attributes the conflict to actions against poppy cultivation and illegal immigration, but this oversimplifies the complex ethnic strife in the state. The article suggests that the government's inability to build trust among the Kuki-Zo community and the militarization of society have worsened the situation. It concludes that without a change in leadership and approach, the conflict in Manipur is likely to persist.
+
 Tue, 14 May 2024 00:20:00 +0530
 ### [Towards the endgame: on the fourth phase of the general election](https://www.thehindu.com/opinion/editorial/towards-the-endgame-on-the-fourth-phase-of-the-general-election/article68171430.ece)
 

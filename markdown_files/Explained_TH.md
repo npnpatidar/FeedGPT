@@ -1,3 +1,8 @@
+Tue, 14 May 2024 22:21:47 +0530
+### [The verdict in the Narendra Dabholkar murder case | Explained](https://www.thehindu.com/news/national/the-verdict-in-the-narendra-dabholkar-murder-case/article68170148.ece)
+
+A special CBI Court in Pune sentenced Sachin Andure and Sharad Kalaskar to life imprisonment for the murder of rationalist Narendra Dabholkar, imposing a ₹5 lakh fine. However, three others, including the alleged mastermind Virendrasinh Tawade, were acquitted due to insufficient evidence. Dabholkar, a physician and prominent anti-superstition activist, was shot dead in 2013. His murder sparked national outrage and demands for a probe into a possible common conspiracy with other similar cases. The court criticized the investigation's failure to identify the mastermind behind the crime and noted procedural lapses by state authorities. Despite the convictions, Dabholkar's family intends to appeal the acquittals, citing a broader conspiracy threat to rationalists' safety. The State government is considering an appeal against the acquittals following the court's observations.
+
 Mon, 13 May 2024 23:21:33 +0530
 ### [An overview of the Smart Cities Mission | Explained](https://www.thehindu.com/news/national/smart-cities-mission-status-an-overview/article68172436.ece)
 

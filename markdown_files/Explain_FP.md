@@ -5523,56 +5523,65 @@ China's Gen-Z is increasingly investing in "gold beans," small, pill-sized piece
 Mon, 18 Mar 2024 19:01:38 +0530
 ### [In Graphics | Lok Sabha Elections 2024: When will your state go to the polls?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-when-will-your-state-go-to-the-polls-maps-13750226.html)
 
-Article found but Couldn't summarize 
-It is the world’s biggest election. The 2024 Lok Sabha polls will be held in seven phases from 19 April to 1 June, stretching over 44 days. These maps explain it all
+The 2024 Lok Sabha elections in India are set to be the world's largest election, with voting taking place in seven phases from **19 April to 1 June**, over a span of **44 days**. This will be the second-longest election in the country's history, with results announced on **4 June**. The election will unfold in phases on **19 April, 26 April, 7 May, 13 May, 20 May, 25 May**, and **1 June**. In conjunction with the Lok Sabha elections, four states—**Andhra Pradesh, Sikkim, Arunachal Pradesh, and Odisha**—will also conduct Assembly elections. Detailed graphics are provided to help voters understand the election schedule, including the dates for each state and the number of seats contested in each phase.
 
 Mon, 18 Mar 2024 17:14:40 +0530
 ### [Why is Uber paying $178 million to Australian taxi drivers?](https://www.firstpost.com/explainers/uber-178-million-payout-australian-taxi-drivers-us-ride-hailing-app-lawsuits-13750188.html)
 
-Article found but Couldn't summarize 
-Uber has agreed to cough up A$271.8 million (about Rs 1,480 crore) to thousands of taxi drivers and operators in Australia in a world-first class action payout. The settlement comes after five ‘gruelling’ years of the legal battle against the US company
+Uber has agreed to a landmark settlement of A$271.8 million to compensate thousands of taxi drivers and operators in Australia. This resolution concludes a five-year legal battle initiated by Maurice Blackburn Lawyers in 2019 on behalf of over 8,000 taxi and hire-car drivers who claimed financial losses due to Uber's entry into the market. The case, which was set for trial, was settled out of court.
+
+The lawsuit accused Uber of aggressive and unlawful business practices, including using unlicensed vehicles and unaccredited drivers, misleading regulators, and geoblocking authorities. The lead plaintiff, a taxi driver from Melbourne, described the settlement as a victory for small businesses and the taxi industry.
+
+The settlement is subject to formal approval by the Supreme Court of Victoria. Uber's statement highlighted its regulatory compliance across Australia and its commitment to providing safe and reliable services. The company faces challenges in increasing fares due to competition from other ride-sharing services, and it has a history of legal disputes globally over business practices and treatment of drivers. This settlement is considered the fifth largest in Australia's history.
 
 Mon, 18 Mar 2024 16:58:30 +0530
 ### [Will Vladimir Putin’s victory in Russia result in a new global order?](https://www.firstpost.com/explainers/russia-elections-vladimir-putin-victory-new-global-order-13749998.html)
 
-Article found but Couldn't summarize 
-Vladimir Putin is all set to begins his fifth term as president with results stating that he won more than 87 per cent of the vote. His priorities now include consolidating control over Russian politics and continuing the war in Ukraine
+Vladimir Putin has secured a fifth term as Russia's president, winning over 87% of the vote in the recent elections, extending his rule until 2030. Despite allegations of undemocratic practices, the Kremlin views the election as validation of Putin's popularity. His new term is marked by a continued war in Ukraine and a deepening confrontation with the West, which could significantly impact the global order.
+
+Since becoming president in 1999, Putin has consolidated power, repressed domestic opposition, and challenged Western dominance. The death of his critic Alexei Navalny and the suppression of dissent have tightened his grip on power. Domestically, Putin has silenced opposition, and despite economic sanctions, Russia's economy is growing, and military advances have been made in Ukraine.
+
+Putin's political career began in Saint Petersburg in 1991, leading to his first presidential election win in 2000. His initial rise fostered hopes for Russian reform and democratic partnership with the West. However, after circumventing constitutional term limits, Putin has maintained power through various means, including jailing opponents like Navalny.
+
+Western sanctions have isolated Russia, prompting Putin to accuse Europe of erecting a "new Iron Curtain" and to pivot towards Asia for alliances and energy exports. Despite setbacks in the war with Ukraine, Putin remains confident in Russia's military position, as recent gains and a defiant national address suggest a continued commitment to the conflict.
 
 Mon, 18 Mar 2024 15:15:34 +0530
 ### [How safe is Tesla? How a US billionaire’s death has raised concerns about car](https://www.firstpost.com/explainers/us-billionaire-angela-chao-death-tesla-safety-concerns-13750036.html)
 
-Article found but Couldn't summarize 
-The tragic death of Angela Chao, CEO of shipping company Foremost Group, last month after her Tesla fell into a pond in Texas has put the spotlight on the car’s safety. The 50-year-old had accidentally put the car in reverse instead of in drive – a mistake experienced by other Tesla owners as well
+The article discusses the death of Angela Chao, CEO of Foremost Group, who died after her Tesla car submerged in a pond in Texas. The incident occurred when she mistakenly put the car in reverse instead of drive while leaving a party. Efforts to rescue her were unsuccessful, and her death is under criminal investigation. The article also highlights safety concerns regarding Tesla's gearshift design, with several users reporting confusion between drive and reverse modes. Additionally, it mentions over 700 complaints about Tesla's "phantom braking." Safety tips for escaping a submerged vehicle are provided, emphasizing the urgency of exiting quickly without waiting to call for help. Angela Chao is survived by her husband and son, and had taken over her family's shipping business. She was related to prominent political figures in the U.S.
 
 Mon, 18 Mar 2024 14:32:50 +0530
 ### [Russia election: What Putin’s win means for the war and the world](https://www.firstpost.com/explainers/russia-election-what-vladimir-putin-win-means-for-ukraine-war-world-china-india-13750047.html)
 
-Article found but Couldn't summarize 
-Russian president Vladimir Putin has claimed a landslide victory in Russia. Soon after the win, he said he would prioritise the Ukraine offensive and warned of World War III. What will he do next?
+President Vladimir Putin has secured his fifth term in office with an 87% landslide victory in the Russian elections. Despite the absence of serious contenders due to the barring of anti-war candidates, the election saw acts of defiance, notably voters responding to a call from Yulia Navalnaya, the widow of opposition leader Alexei Navalny. The Kremlin's control was evident in the arrests of protesters and the forced voting in occupied Ukrainian regions.
+
+Putin's victory is significant as it extends his leadership to three decades, reinforcing his authority and perceived unity behind his war efforts in Ukraine. He has interpreted the election results as a mandate to continue the offensive in Ukraine, warning of the potential for World War III if direct conflict with NATO occurs, while also expressing the intention to strengthen Russia's military.
+
+Speculation suggests Putin may initiate a second military mobilization for the war in Ukraine, despite potential unpopularity. The election also underscores Russia's intent to prepare for prolonged warfare and mobilize resources accordingly.
+
+Internationally, Putin's win signals continued strong ties with allies, particularly China, with whom relations are expected to deepen. Russia's stance on the global stage is complex, with countries like North Korea and India maintaining neutrality or strategic partnerships, reflecting diverse global perspectives on Russia's role and the potential for a shift in the world order away from US dominance.
+
+Putin's next six years in power will likely solidify these dynamics, as various nations navigate their positions in relation to Russia's actions and policies.
 
 Mon, 18 Mar 2024 13:06:34 +0530
 ### [India’s 2024 Lok Sabha election will be second-longest in the country. Here’s why](https://www.firstpost.com/explainers/india-2024-lok-sabha-election-second-longest-in-country-reasons-13750006.html)
 
-Article found but Couldn't summarize 
-The schedule for the 2024 Lok Sabha elections is out. The first phase of voting will begin on 19 April and the last phase, the seventh, will be held on 1 June, with results to be declared on 4 June. At 44 days, this makes it the longest poll season since the first election in 1951-52
+The 2024 Lok Sabha elections in India are scheduled to be held in seven phases from 19 April to 1 June, with the results to be declared on 4 June. This 44-day election period is the longest since the first election in 1951-52. The extended election season is attributed to factors like geography, public holidays, festivals, and examinations, which influence the scheduling to ensure the movement and safety of security forces. The Chief Election Commissioner emphasized that the dates are not set to favor any party. With over 968 million eligible voters, the Election Commission plans to use 5.5 million electronic voting machines across 1.05 million polling stations, deploying about 15 million staff and security personnel. Concerns have been raised about the prolonged election period potentially benefiting the ruling party and disrupting government functions, but the Election Commission assures that the process is impartial. The long election season is a logistical challenge, considering India's vast and diverse geography and the need to ensure free and fair elections.
 
 Mon, 18 Mar 2024 12:02:48 +0530
 ### [Why will ballot boxes for the Maldives elections be kept in India?](https://www.firstpost.com/explainers/maldives-elections-ballot-boxes-india-13749936.html)
 
-Article found but Couldn't summarize 
-The secretary general of the Maldivian poll body, Hassan Zakariyya, stated that sufficient voters had re-registered for ballot boxes in three foreign countries — India, Sri Lanka, and Malaysia
+The Maldivian parliamentary elections are scheduled for **21 April 2024**, during the holy month of Ramzan, after being postponed from the original date of 17 March. The Election Commission has arranged for ballot boxes in Thiruvananthapuram (India), Colombo (Sri Lanka), and Kuala Lumpur (Malaysia) due to a sufficient number of re-registrations from voters in these locations. However, there will be no voting in the UK, UAE, and Thailand, as the number of re-registrations was lower compared to previous years. A total of **389 candidates** are competing for **93 seats**, with the highest number from the Maldivian Democratic Party (MDP) contesting 90 seats. The elections were rescheduled to avoid coinciding with Ramzan, and this marks the first time the elections are held during this period. Maldives' pro-China President Mohamed Muizzu, from the People's National Congress (PNC), is known for his anti-India stance. The election commission processed over 11,000 re-registration applications, rejecting around 1,141, resulting in 10,028 successful re-registrations.
 
 Mon, 18 Mar 2024 10:32:44 +0530
 ### [Electoral bonds: How 'Lottery King' Santiago Martin emerged as DMK's biggest donor](https://www.firstpost.com/explainers/electoral-bonds-lottery-king-santiago-martin-dmk-biggest-donor-13749897.html)
 
-Article found but Couldn't summarize 
-'Lottery King' Santiago Martin's Future Gaming and Hotel Services, the top purchaser of electoral bonds, donated a whopping Rs 509 crore to Tamil Nadu's ruling party DMK, accounting for more than 77 per cent of the total received funds
+The article discusses the funding received by Indian political parties through electoral bonds, with a focus on the donations made to the DMK by Future Gaming and Hotel Services. The BJP received the highest amount of funds at Rs 6,986.5 crore, followed by Trinamool Congress, Congress, and Bharat Rashtra Samithi. Future Gaming, owned by Santiago Martin, was the largest purchaser of electoral bonds, donating Rs 509 crore to the DMK, which constituted over 77% of the DMK's total electoral bond receipts. The Election Commission released this data following a Supreme Court directive. The article also mentions that most political parties have not fully disclosed their donors' identities, and it highlights the opposition's criticism of electoral bonds as legalized corruption. The BJP, however, warns that scrapping the bonds could lead to the resurgence of black money in politics. The article includes contributions from PTI and is copyrighted by Firstpost.
 
 Mon, 18 Mar 2024 09:56:51 +0530
 ### [Russia election: Why ‘Noon against Putin’ protests are significant despite his win](https://www.firstpost.com/explainers/russia-election-noon-against-putin-protests-significance-13749880.html)
 
-Article found but Couldn't summarize 
-On the final day of polling for the Russian presidential elections, several turned up at precisely 12 pm outside polling booths in the country and outside Russian embassies across the world as part of the ‘Noon against Putin’ protests. These protesters spoiled their ballot or simply voted against the strongman — in a move to express their solidarity with Alexei Navalny and to express their dissent
+The article discusses the "Noon against Putin" protests that occurred on the final day of the Russian presidential elections, where Vladimir Putin secured over 87% of the votes, ensuring his rule until at least 2030. The protests were a form of dissent and a tribute to the late Alexei Navalny, Putin's main critic. Navalny's widow, Yulia Navalnaya, and other opposition figures supported the demonstrations, where participants either spoiled their ballots or voted for anyone but Putin. The protests took place not only in Russia but also at Russian embassies worldwide, with reports of sudden queues forming at polling stations at noon. Despite the arrests of at least 74 people, the protests were significant as they showed mass discontent, united various opposition factions, and questioned Putin's legitimacy, especially during the ongoing Russia-Ukraine war. The protests aimed to oppose Putin's autocracy and war without compromise, emphasizing the importance of political engagement.
 
 Mon, 18 Mar 2024 09:04:57 +0530
 ### [Explained: How intermittent fasting benefits our brains](https://www.firstpost.com/explainers/explained-how-intermittent-fasting-benefits-our-brains-13748889.html)
