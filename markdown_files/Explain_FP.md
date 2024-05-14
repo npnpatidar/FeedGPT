@@ -1,3 +1,31 @@
+Tue, 14 May 2024 08:39:16 +0530
+### [Why are young people so drawn to protesting the war in Gaza?](https://www.firstpost.com/explainers/why-are-young-people-so-drawn-to-protesting-the-war-in-gaza-13770372.html)
+
+The article discusses the reasons behind the global protests in response to the Gaza conflict, focusing on three main factors that drive activism: breach and resonance in narratives, the concept of the 'ideal victim', and the real-time nature of war.
+
+**Breach and Resonance:** The crisis narrative of Gaza captures attention due to its shocking nature, representing a breach of expectations and resonating with familiar stories. This motivates people to act and correct the perceived wrongs.
+
+**Ideal Victim:** The Palestinian civilians, portrayed as innocent and powerless against the military might of the Israel Defence Forces, have become the 'ideal victims' that activists are rallying to defend, a concept often used in awareness campaigns to compel action.
+
+**Real-Time Nature of War:** The immediacy of the Gaza conflict, with its unfolding events and clear calls to action, has spurred sustained activism. The failure of other forms of activism to bring change has led to increased protest efforts, such as students demanding university divestment from companies profiting from the conflict.
+
+The article also highlights the symbolic value of protests in raising awareness and mobilizing support, even when specific demands are not achieved. It cites the example of Trinity College Dublin's divestment from Israeli companies linked to settlements as a tangible result of student protests. The overarching message is that protesting for peace is a meaningful endeavor that can lead to positive outcomes.
+
+Tue, 14 May 2024 06:00:32 +0530
+### [FirstUp: PM files nomination papers in Varanasi, SC hearing on Patanjali resumes... Today's big stories](https://www.firstpost.com/explainers/firstup-pm-files-nomination-papers-varanasi-13770376.html)
+
+Today's significant events in India include:
+
+- **Prime Minister Narendra Modi** is set to file his nomination papers from the **Varanasi Lok Sabha seat**, seeking his third consecutive term. The polls are scheduled for June 1, and Modi has previously won the seat with substantial margins in 2014 and 2019. Varanasi has been a stronghold for the BJP since 1991.
+
+- The **Supreme Court** continues hearings against **Patanjali** on allegations by the Indian Medical Association of a smear campaign by Baba Ramdev against vaccination and modern medicine. The court has previously ordered Patanjali's co-founders to attend the hearing personally and has temporarily banned certain product advertisements.
+
+- A **defamation case** against **Congress leader Rahul Gandhi** will be examined by a special MP-MLA court in Uttar Pradesh. Gandhi is accused of making objectionable remarks about Home Minister Amit Shah during the Karnataka elections six years ago.
+
+- The **77th Cannes Film Festival** is set to begin in the South of France, featuring anticipated entries like Francis Ford Coppola's "Megalopolis" and new films from various acclaimed directors.
+
+Additionally, today marks the anniversary of the establishment of the independent state of Israel in 1948, following the United Nations' approval of the partition of Palestine. This event is remembered for the subsequent Arab-Israeli war and the ongoing conflict over the fate of displaced Palestinians.
+
 Mon, 13 May 2024 21:14:40 +0530
 ### [Donald Trump’s hush money trial: Why his ex-lawyer Michael Cohen’s testimony matters](https://www.firstpost.com/explainers/us-donald-trump-hush-money-trial-michael-cohen-testimony-stormy-daniels-13770386.html)
 
@@ -5335,14 +5363,12 @@ Today's key events include the Supreme Court hearing pleas against the Citizensh
 Mon, 18 Mar 2024 20:18:34 +0530
 ### [Vegetable prices surge, rentals may drop: How Bengaluru’s water scarcity is worsening](https://www.firstpost.com/explainers/bengaluru-water-shortage-vegetable-prices-surge-rentals-may-drop-13750265.html)
 
-Article found but Couldn't summarize 
-Amid acute water scarcity, Bengaluru residents are stung by a surge in vegetable prices as supplies have taken a hit. The IT hub's water woes can also affect its real estate market, with potential investors reconsidering their decision
+Bengaluru is facing a severe water crisis, which has led to a significant increase in vegetable prices due to supply shortages. The crisis is expected to worsen with the summer heat, impacting both the agricultural sector and the city's real estate market. Retail prices of vegetables like brinjal, capsicum, beans, and cabbage have nearly doubled, with traders warning that prices could rise further without rain. The city relies on nearby districts for vegetable supplies, but groundwater levels have dropped, affecting irrigation. The water shortage is also causing potential real estate investors and buyers to reconsider their decisions, with some areas experiencing a decline in property interest and rental values. The crisis could threaten Bengaluru's status as an IT hub, as companies look to expand operations to other cities. An Indian Institute of Science study attributes the scarcity to a 70% reduction in the city's water surface area, with over 70% of Bengaluru's water supply coming from the Cauvery River, which has seen lower levels due to inadequate rainfall. The city's growing population, expected to reach 20 million by 2031, adds to the pressure on resources and infrastructure, raising concerns about Bengaluru's ability to maintain its Silicon Valley status.
 
 Mon, 18 Mar 2024 19:56:30 +0530
 ### [Fasten Your Seat Belt: Is it safe to fly on Boeing planes?](https://www.firstpost.com/explainers/boeing-controversies-737-max-787-whistleblower-death-plane-safety-13750183.html)
 
-Article found but Couldn't summarize 
-Boeing has been in the news for all the wrong reasons. An emergency door plug blew off a Boeing 737 MAX mid-flight in January. More recently, a plane dropped in flight, injuring passengers, and a Boeing whistleblower died. What is going on at the company and should flyers be concerned?
+Boeing has faced a series of safety incidents this year, including an emergency door plug detaching from a 737 MAX mid-flight and various mechanical issues on other flights leading to injuries and a whistleblower's death. While these events have raised concerns, not all can be attributed to Boeing, as some were related to maintenance or human error on United Airlines' part. U.S. regulators are investigating Boeing's manufacturing quality, especially after the door plug incident involving a subcontractor. The company's culture has been scrutinized for prioritizing profit over quality, leading to fines and increased FAA oversight. High staff turnover during the pandemic has exacerbated issues, but despite these challenges, experts affirm that flying on Boeing aircraft remains safe, and corrective measures are expected to address the recent problems. The article emphasizes the overall safety of air travel, including on Boeing planes.
 
 Mon, 18 Mar 2024 19:08:36 +0530
 ### [Gold bars are passé in China; the young are buying gold beans: What are they?](https://www.firstpost.com/explainers/gold-beans-china-young-genz-economic-condition-investments-13750184.html)

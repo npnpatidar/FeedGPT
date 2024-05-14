@@ -1,3 +1,30 @@
+Tue, 14 May 2024 03:08:04 +0000
+### [Why some Indians are turning to LMIA work permits to emigrate to Canada](https://indianexpress.com/article/explained/explained-global/indians-lmia-work-permits-canada-9326443/)
+
+The article discusses the shift in preference among Indian emigrants from student visas to the Labour Market Impact Assessment (LMIA) permit following Canada's cap on international student admissions. The LMIA program allows Canadian employers to hire foreign workers when local recruitment fails. Employers post job requirements on the Canadian job portal, and foreign workers with a positive LMIA can apply for work permits using various documents, including the LMIA itself.
+
+The competitiveness of student visas and labour shortages in certain sectors have made the LMIA a viable alternative, offering a pathway to gain Canadian work experience. The demand for skilled labour in Canada is expected to increase the popularity of the LMIA route. The costs associated with student visas are high, and some individuals are paying substantial fees to secure an LMIA permit. Lower English proficiency scores are accepted for some LMIA jobs compared to study permits, which often require higher scores.
+
+A positive LMIA does not guarantee permanent residency; skilled foreign workers must meet the Express Entry immigration process requirements. The article concludes with an unrelated mention of Elon Musk's prediction about solving chess and the mixed reactions from the chess community.
+
+Tue, 14 May 2024 01:38:59 +0000
+### [What are India’s stakes in Iran’s Chabahar port?](https://indianexpress.com/article/explained/what-are-indias-stakes-in-irans-chabahar-port-9326692/)
+
+India and Iran have signed a **10-year contract** for the operation of a terminal at the **Chabahar port**, which is strategically significant due to its location and accessibility for large cargo ships. The contract was signed by **India Ports Global Ltd (IPGL)** and the **Ports & Maritime Organisation of Iran (PMO)**, with India committing to invest approximately **$120 million** in the port's equipment and operations. Additionally, India has offered a credit line of **$250 million** for infrastructure projects related to the port.
+
+Chabahar port's development has been a topic of strategic and economic importance for India, providing a route to Afghanistan and potentially linking South Asia with Central Asia and Europe. Despite setbacks due to geopolitical pressures, particularly from the US, the project gained momentum with the signing of a **Trilateral Agreement** in 2016 to establish the **International Transport and Transit Corridor**.
+
+India has contributed equipment to the port and has been operating it since 2018, handling significant cargo and facilitating humanitarian aid. The recent operationalisation of the long-term investment aims to make Chabahar a hub for connecting India with Central Asia and Afghanistan. The development of the port is also tied to the larger **International North South Transport Corridor (INSTC)** project, which seeks to create a multi-modal transportation route from the Indian Ocean to northern Europe.
+
+The future of these projects, however, faces uncertainties due to the war in Ukraine and strained relations between Europe and Russia, which could affect the INSTC's viability. The article also mentions unrelated content and advertisements, which have been omitted from this summary.
+
+Tue, 14 May 2024 01:00:18 +0000
+### [Fuelled by Pakistan’s economic crisis: why is PoK on the boil?](https://indianexpress.com/article/explained/explained-global/pok-protests-riots-inflation-food-crisis-pakistan-kashmir-9326378/)
+
+Protests have erupted in Pakistan Occupied Kashmir (PoK) due to economic distress and alleged discrimination by the Pakistani government. The protests, which began after the arrest of 70 members of a traders' committee, have led to a police officer's death and over 90 injuries. The demonstrators are protesting against high costs of living, particularly electricity and food prices, which have been exacerbated by Pakistan's economic crisis, including a halt in trade with India and inflation rates reaching 38%. The region's leaders have accused Islamabad of power distribution discrimination, particularly concerning the Neelum-Jhelum hydropower project.
+
+Trade between India and Pakistan has suffered significantly, especially after India increased customs duties on Pakistani goods and Pakistan ceased all trade following India's constitutional changes in Jammu and Kashmir. Pakistan's economy is struggling with low foreign exchange reserves, high energy import dependency, and minimal private sector development. The IMF has indicated that Pakistan will require substantial financing in the coming years. The unrelated content about Elon Musk's prediction on chess has been omitted from this summary.
+
 Mon, 13 May 2024 14:19:00 +0000
 ### [Burqa row: Why BJP candidate in Hyderabad has been booked by police at the ECI’s behest](https://indianexpress.com/article/explained/madhavi-latha-burqa-controversy-9326271/)
 

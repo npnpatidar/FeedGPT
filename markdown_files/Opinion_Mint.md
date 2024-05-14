@@ -1,3 +1,21 @@
+Tue, 14 May 2024 08:30:17 +0530
+### [Defence rejig: India must move faster on theatre-focused armed forces](https://www.livemint.com/opinion/online-views/defence-rejig-india-must-move-faster-on-theatre-focused-armed-forces-11715611513678.html)
+
+The article discusses India's strategic shift towards integrated theatre commands (ITCs) for its defense forces. It highlights the need for efficiency and better preparedness for potential warfronts by aligning the armed forces to focus on specific theatres of war—western, northern, or maritime. The slow progress in this direction is noted, despite the appointment of the first chief of defence staff (CDS) nearly five years ago to oversee the transition to ITCs.
+
+The proposed plan includes the appointment of a vice-CDS for strategic planning, capability development, and procurement, and a deputy CDS for operations, intelligence, and asset allocations. The chain of command is crucial for the effectiveness of this new joint format, which will see forces assigned to specific theatres under designated command headquarters in Jaipur, Lucknow, and Coimbatore.
+
+While the existing service chiefs will continue to lead their respective forces, combat operations will be directed by officers with a comprehensive strategic view of their theatre. The article emphasizes the importance of careful implementation to avoid vulnerabilities and the need to keep pace with global military command debates and evolving doctrines. It also touches on the challenges and ethical considerations of tech-enabled warfare, particularly the use of AI and autonomous weapons, calling for consensus on the tolerance of AI-led strike inaccuracies and the aim for precision in firepower use.
+
+Tue, 14 May 2024 07:15:14 +0530
+### [The China challenge: Fix India’s lopsided bilateral trade](https://www.livemint.com/opinion/quick-edit/the-china-challenge-fix-india-s-lopsided-bilateral-trade-11715612637283.html)
+
+In fiscal year 2023-24, **China regained its position as India's largest trading partner**, with bilateral trade reaching **$118.4 billion**. This figure includes **$101.7 billion** in imports to India, marking a **3.2% increase**, and **$16.7 billion** in exports from India, which is an **8.7% increase**. The significant trade imbalance highlights India's dependence on Chinese imports despite efforts to reduce it.
+
+While **production-linked incentives** have boosted domestic manufacturing in certain sectors, significantly reducing reliance on Chinese products would require a massive scale-up of India's manufacturing capabilities. Given the cost-effectiveness of Chinese production, complete economic decoupling seems unlikely. Advocates for free trade suggest that importing from China can be beneficial when it concerns goods that China produces more efficiently.
+
+However, there is a need to **increase Indian exports to China** to balance the heavily skewed trade. Although India's economy requires only a general external balance, the current geopolitical climate has raised concerns about supply chain risks among various nations. Thus, reducing dependency on China could be a wise move in light of these risks.
+
 Mon, 13 May 2024 16:30:09 +0530
 ### [Clickbait clutter: AI is generating too much digital junk](https://www.livemint.com/opinion/online-views/clickbait-clutter-ai-is-generating-too-much-digital-junk-11715535171898.html)
 

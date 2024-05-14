@@ -1,3 +1,45 @@
+Tue, 14 May 2024 01:37:11 +0000
+### [Why is India seeing a surge in employment? The answer is not simple](https://indianexpress.com/article/opinion/columns/why-is-india-seeing-a-surge-in-employment-the-answer-is-not-simple-9326578/)
+
+The article provides an analysis of employment data from 1983 to 2023, highlighting that principal employment has consistently grown, with no periods of jobless growth. The most significant increase occurred from 2017-18 to 2022-23, with an addition of 80 million jobs, translating to a 3.3% annual growth rate, outpacing population growth. This growth was widespread across various sectors and demographics, with notable increases among women and older individuals.
+
+The article suggests that the rise in employment for these groups could be due to various factors, such as improved access to resources or increased life expectancy. It also points out that while manufacturing and construction saw growth, the agricultural and service sectors experienced the most significant expansion, particularly in livestock and fisheries.
+
+A substantial portion of the employment growth comprised self-employed individuals and unpaid family workers, which could be partially attributed to the PMMY scheme (Mudra). However, there has been a relative stagnation in aggregate wages and salaries, with only a 1.2% growth over five years when adjusted for inflation.
+
+The authors argue that understanding the reasons behind the surge in employment, whether due to government programs, economic shifts, or other factors, requires careful analysis. They caution against oversimplified narratives regarding employment growth, emphasizing the complexity of the issue. The views expressed in the article are personal and from the writers at CSEP.
+
+Tue, 14 May 2024 01:33:11 +0000
+### [Long disconnected from earthly concerns, haute cuisine will now go to space](https://indianexpress.com/article/opinion/editorials/long-disconnected-from-earthly-concerns-haute-cuisine-will-now-go-to-space-9326588/)
+
+The article discusses an extravagant fine dining experience proposed by Danish chef Rasmus Munk, in collaboration with a Florida-based space startup. The experience involves launching six diners aboard Spaceship Neptune to 100,000 feet above sea level, offering an "out-of-this-world" dining experience for $495,000 per ticket. This venture, set for late 2025, reflects the trend of fine dining pushing the limits of extravagance, where the focus is shifting from the food itself to the unique experiences offered. Munk aims to use this space dining experience to underscore the significance of food in human life, serving meals against the backdrop of Earth's curvature. This concept is part of the broader movement in haute cuisine that challenges diners' expectations and willingness to engage in rarefied experiences, regardless of the cost. The article implies that such experiences are becoming the next frontier for those seeking the ultimate in luxury dining.
+
+Tue, 14 May 2024 01:33:09 +0000
+### [Charges framed against Brij Bhushan Sharan Singh: A ray of hope](https://indianexpress.com/article/opinion/editorials/charges-framed-against-brij-bhushan-sharan-singh-a-ray-of-hope-9326587/)
+
+The article discusses the significant progress in the fight against sexual harassment in India, highlighting the charges framed against former Wrestling Federation official Brij Bhushan Sharan Singh under Sections 354 and 354A of the IPC. This development has been seen as a beacon of hope for many, especially after the initial inertia and power imbalances that hindered the pursuit of justice. The charges represent a pivotal moment not only for the involved athletes but also for the global #MeToo movement, which has faced setbacks despite its initial momentum. The article emphasizes the resilience of female voices and their refusal to be silenced, drawing parallels with international cases and underscoring the importance of every step taken towards challenging entrenched male privilege and demanding accountability.
+
+Tue, 14 May 2024 01:15:06 +0000
+### [Why the RBI is unlikely to pivot on rates](https://indianexpress.com/article/opinion/editorials/why-the-rbi-is-unlikely-to-pivot-on-rates-9326585/)
+
+India's retail inflation in April marginally decreased to **4.83%** from **4.85%** in March, primarily due to lower fuel prices. However, food inflation rose slightly to **8.7%**. The Monetary Policy Committee (MPC) faces challenges due to the persistent high food inflation and the divergence from core inflation. Elevated food inflation persists across various categories, despite expectations of a good monsoon, which could help stabilize prices. Non-food inflation remains subdued.
+
+The Reserve Bank of India (RBI) Governor emphasized the need for vigilance over food price uncertainties. A study suggests that unanchored inflation expectations could make food price shocks lasting. Globally, central banks have not started reducing rates, but policy divergence is possible, as indicated by the US Federal Reserve, the European Central Bank, and the Bank of England. The RBI forecasts inflation at **4.5%** for 2024-25, but uncertainties over food prices suggest that an immediate policy shift is unlikely.
+
+Tue, 14 May 2024 01:00:14 +0000
+### [May 14, 1984, Forty Years Ago: Shootout in Punjab](https://indianexpress.com/article/opinion/40-years-ago/may-14-1984-forty-years-ago-shootout-in-punjab-9326589/)
+
+Here's a summary of the key events from the article:
+
+- **Tragic Incident in Amritsar:** Home Guard personnel Gurmej Singh was killed and two others were injured in a shooting by terrorists.
+- **Response to Editor's Murder:** Punjab authorities are on high alert due to protests in Haryana, Chandigarh, and Delhi over the murder of Ramesh Chander, editor-in-chief of the Hind Samachar group.
+- **Flight Disruptions:** Indian Airlines cancelled six flights in the eastern region due to a cabin crew strike, with plans to resume normal operations the following day.
+- **Political Shift in Sikkim:** Bhim Bahadur Gurung was sworn in as the Chief Minister of Sikkim, promising to implement the Prime Minister’s 20-point programme.
+- **Hostage Crisis in Sri Lanka:** The People’s Liberation Army threatened to kill an American couple held hostage unless their demands for a ransom and the release of guerrillas were met.
+- **Legal Proceedings:** JD(S) leader H D Revanna was granted bail in a kidnapping case by a special court in Karnataka.
+
+The summary excludes advertisements and subscriber-only content.
+
 Mon, 13 May 2024 13:16:38 +0000
 ### [CBSE Board results out: Why I won’t celebrate the toppers](https://indianexpress.com/article/opinion/columns/cbse-board-results-toppers-celebrations-9326124/)
 
