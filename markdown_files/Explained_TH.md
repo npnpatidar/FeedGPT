@@ -1,3 +1,10 @@
+Wed, 15 May 2024 18:40:52 +0530
+### [Why was NewsClick founder Prabir Purkayastha’s arrest invalidated by the top Court? | Explained](https://www.thehindu.com/news/national/why-was-newsclick-founder-prabir-purkayasthas-arrest-invalidated-by-the-top-court-explained/article68177999.ece)
+
+The Supreme Court of India has ordered the release of NewsClick founder Prabir Purkayastha, ruling that his arrest under the Unlawful Activities Prevention Act (UAPA) by the Delhi Police was invalid. The Court highlighted that Purkayastha was not provided the grounds for his arrest in writing, which is a fundamental requirement. The case emphasizes the importance of following due process, especially under stringent laws like the UAPA, which places a reverse burden of proof on the accused, making bail challenging to obtain.
+
+Purkayastha was arrested on allegations of receiving funds from Chinese firms for pro-China propaganda. His counsel argued that the FIR was not publicized nor provided to him, and he was not informed of the remand proceedings in time, violating his constitutional rights. The Supreme Court's decision underscores the necessity of written communication of arrest grounds, aligning with constitutional safeguards and ensuring the accused can consult their lawyer and seek bail effectively. The ruling may not prevent future arrests but mandates adherence to due process.
+
 Wed, 15 May 2024 11:08:09 +0530
 ### [What can OpenAI’s new GPT-4o AI model do? | Explained](https://www.thehindu.com/sci-tech/technology/what-can-openais-new-gpt-4o-ai-model-do-explained/article68177364.ece)
 

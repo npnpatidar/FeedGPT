@@ -1,3 +1,12 @@
+Wed, 15 May 2024 21:34:55 +0530
+### [Successful Lok Sabha polling augurs well for Kashmir, now prepare for Assembly elections](https://www.firstpost.com/opinion/successful-lok-sabha-polling-augurs-well-for-kashmir-now-prepare-for-assembly-elections-13771312.html)
+
+The article discusses the evolution of the electoral process in Jammu & Kashmir (J&K), highlighting the challenges and progress made towards stability and peace. It reflects on the turbulent elections of September 1999, during the peak of terrorism and separatism, and contrasts it with the peaceful parliamentary polls achieved recently. The author, a member of the National Disaster Management Authority, emphasizes the importance of successful elections in reinforcing normalcy and the role of the Indian Army in maintaining security, despite restrictions on their deployment near polling booths.
+
+The piece also touches on the impact of the amendment of Article 370 and the Government of India's decision to resume the electoral process in J&K, viewing it as a positive step towards integration. It acknowledges the security forces' efforts in reducing terror activities and calls for continued focus on intelligence, infiltration, and welfare projects to sustain the momentum towards peace.
+
+The author suggests that while the current capability of external forces to disrupt elections seems low, vigilance is necessary for the upcoming Assembly elections. The article concludes with a call for the Central government to fulfill its promise of restoring J&K's statehood to bolster public sentiment and ensure a successful electoral process, which is seen as a significant blow to terrorism in the region. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
 Wed, 15 May 2024 16:18:46 +0530
 ### [In search of quality and truth amid a blizzard of wokeness and virtual reality](https://www.firstpost.com/opinion/in-search-of-quality-and-truth-amid-a-blizzard-of-wokeness-and-virtual-reality-13771163.html)
 

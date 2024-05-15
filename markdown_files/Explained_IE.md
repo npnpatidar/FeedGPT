@@ -1,3 +1,32 @@
+Wed, 15 May 2024 15:06:25 +0000
+### [US-trained economist and a guitar player: Meet Lawrence Wong, Singapore’s new PM](https://indianexpress.com/article/explained/explained-global/lawrence-wong-singapore-new-prime-minister-9331443/)
+
+After two decades as Singapore's Prime Minister, **Lee Hsien Loong** has resigned, with **Lawrence Wong**, the Deputy PM and Finance Minister, succeeding him. Wong is the fourth PM and the second outside the founding Lee family. His leadership arrives amidst challenges like the rising cost of living, immigration issues, and economic inequality.
+
+**Lawrence Wong**, born in 1972, had a modest upbringing and was educated in the US, later entering politics in 2011 with the People’s Action Party (PAP). He gained prominence during the pandemic and was named Lee's successor in 2021, also chairing the central bank board since 2023. Wong, an avid guitarist, inherits a nation that has seen significant economic growth but now faces social discontent over living costs, limited social mobility, and immigration tensions.
+
+Singapore's freedom of expression remains tightly controlled, and Wong must navigate complex relations with China and the US. With PAP's waning support and the next elections by November 2025, Wong's tenure will be closely watched as he addresses these pressing issues.
+
+Wed, 15 May 2024 14:58:56 +0000
+### [Nakba Day: How Palestinian dispossession did not start, end in 1948](https://indianexpress.com/article/explained/explained-history/nakba-day-1948-palestine-israel-9331379/)
+
+The article provides a historical overview of the Palestinian Nakba, which is commemorated annually on May 15, marking the displacement of Palestinians and the establishment of Israel in 1948. It traces the roots of the conflict to biblical times and the belief that the land of Canaan was given to the descendants of Abraham. The article outlines the rise of Zionism in the late 19th century as a response to anti-Jewish violence in Europe and the subsequent Jewish migration to Palestine, which was then under Ottoman rule.
+
+The British Empire's involvement is highlighted, particularly after the Balfour Declaration of 1917, which supported the establishment of a Jewish homeland in Palestine. This led to significant demographic changes, with the Jewish population increasing from a small minority to over 31% by 1945. The article describes the resulting ethnic conflicts, the Arab Revolt against British and Zionist forces, and the UN's 1947 partition plan, which was rejected by Palestinian Arabs.
+
+The First Arab-Israeli War and the events of the Nakba, including the expulsion of approximately 711,000 Palestinian refugees and the declaration of Israeli independence, are detailed. The article emphasizes the ongoing impact of the Nakba on Palestinian identity and the continued displacement and occupation of Palestinian territories by Israel, with many Palestinians still living as refugees.
+
+The article concludes by mentioning the current situation, where Israel controls a larger portion of the land than originally allocated by the UN, and the restrictions faced by Palestinians, including the inability to return to their homeland and the conditions in refugee camps. It also briefly mentions an unrelated court order for the release of NewsClick founder-editor Prabir Purkayastha.
+
+Wed, 15 May 2024 13:30:44 +0000
+### [Three Indian literary works included in UNESCO’s Memory of the World Regional Register: What is their significance?](https://indianexpress.com/article/explained/explained-culture/indian-literary-works-unesco-memory-world-register-9331289/)
+
+Three Indian literary works, **Ramcharitmanas**, **Panchatantra**, and **Sahṛdayaloka-Locana**, have been added to UNESCO’s Memory of the World Asia-Pacific Regional Register. This inclusion underscores the importance of preserving diverse narratives that contribute to our shared humanity. These works are celebrated for their timeless appeal and artistic expressions, with the Ramcharitmanas being read across Southeast Asia and the Panchatantra known for its universal moral values. The Sahṛdayaloka-Locana is recognized for its aesthetic contributions.
+
+This marks the first time India has sent nominations to the MOWCAP since its inception in 2004, and all three submissions were accepted. The UNESCO MOW program, established in 1992, aims to safeguard and provide access to rare and endangered documentary heritage. It recognizes significant documents, maintains registers, and raises awareness for preservation.
+
+The MOWCAP's tenth meeting in Ulaanbaatar included 20 new inscriptions from various countries, celebrating achievements in genealogy, literature, science, and significant innovations in business and industrial technology. Notable inclusions are documents on tea entrepreneurship in China, sugar research in Indonesia, and the Philippines’ Indigenous Hinilawod chants. The register also recognized the sci-fi feminist author Rokeya S Hossain from Bangladesh and joint documentation by Australia and Tuvalu on coral reef formation. As of May 2023, the International MoW Register has 494 inscriptions, with the MOWCAP Regional Register having inscribed 65 items since 1998.
+
 Wed, 15 May 2024 09:53:21 +0000
 ### [What the draft Digital Competition Bill proposes, why Big Tech opposes it](https://indianexpress.com/article/explained/explained-law/draft-digital-competition-bill-big-tech-opposes-9330370/)
 

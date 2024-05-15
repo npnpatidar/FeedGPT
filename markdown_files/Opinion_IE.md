@@ -1,3 +1,8 @@
+Wed, 15 May 2024 12:41:11 +0000
+### [Prajwal Revanna case: Chairperson of National Commission for Women has failed the victims](https://indianexpress.com/article/opinion/columns/prajwal-revanna-case-ncw-women-failed-victim-9331096/)
+
+The article discusses the case of Prajwal Revanna, a Member of Parliament from Karnataka, who is accused of abusing women. It highlights the role of the National Commission for Women (NCW) in India, which has the power to hold anyone accountable, including ministers. The authors, both former members of the NCW, question the current chairperson's understanding of her role and her apparent political bias. They recount past instances where the NCW acted decisively against powerful figures and stress the need for the chairperson to be assertive in protecting women's rights. The article concludes by urging everyone to fight for abused women, invoking the words of poet Dylan Thomas to not yield to injustice. The unrelated content regarding the Supreme Court's order and the NewsClick case has been omitted from this summary.
+
 Wed, 15 May 2024 10:40:04 +0000
 ### [Has the Chief of Defence Staff post improved India’s combative efficiency?](https://indianexpress.com/article/opinion/columns/chief-defence-staff-post-improved-india-combative-efficiency-9330574/)
 
