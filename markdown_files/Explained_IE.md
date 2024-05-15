@@ -1,3 +1,12 @@
+Wed, 15 May 2024 07:59:47 +0000
+### [Failure to follow procedure: Why SC said Newsclick founder’s arrest was illegal](https://indianexpress.com/article/explained/explained-law/failure-to-follow-procedure-sc-newsclick-arrest-illegal-9330103/)
+
+The Supreme Court of India ordered the release of Newsclick founder-editor Prabir Purkayastha, invalidating his arrest under the Unlawful Activities (Prevention) Act. The court highlighted that the Delhi Police did not inform Purkayastha of the grounds for his arrest before taking him into custody, which is a violation of due process as per Article 22(1) of the Constitution. This decision underscores the importance of following proper legal procedures, even in cases involving stringent terror charges.
+
+Purkayastha was arrested on October 3, 2023, with allegations of receiving funds for pro-China propaganda. The FIR listed several serious offences under the UAPA and IPC. However, the remand order was signed before Purkayastha was informed of his arrest or presented before a judge, and the FIR was not made public until days later. The Supreme Court's ruling aligns with a previous decision that mandates providing written grounds of arrest to the arrested person, applicable to both PMLA and UAPA cases.
+
+The Solicitor General argued against Purkayastha's release, citing the seriousness of the offences and national security concerns. The Delhi High Court had upheld the arrest, noting email exchanges that allegedly portrayed Jammu and Kashmir and Arunachal Pradesh as disputed territories, which was seen as aligning with Chinese propaganda. However, the Supreme Court's decision emphasizes the necessity of lawful arrest procedures, especially given the high bar for bail under special legislation like the UAPA.
+
 Wed, 15 May 2024 01:30:45 +0000
 ### [Explained: Controversy and drama at Hybe, the K-pop company behind BTS](https://indianexpress.com/article/explained/explained-culture/hybe-k-pop-ador-controversy-newjeans-bts-9328888/)
 

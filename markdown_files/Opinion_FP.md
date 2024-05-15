@@ -1,3 +1,27 @@
+Wed, 15 May 2024 11:38:10 +0530
+### [Netflix’s Laapataa Ladies, 12th Fail, Article 370: How good cinema doesn’t need stars, they need craftsmen & relatable content](https://www.firstpost.com/entertainment/netflixs-laapataa-ladies-12th-fail-article-370-how-good-cinema-doesnt-need-stars-they-need-craftsmen-relatable-content-13771007.html)
+
+The article discusses the success of films like "Laapataa Ladies," "Article 370," and "Madgaon Express," which performed well in theatres and on streaming platforms despite not featuring traditional Bollywood stars. It emphasizes that the honest performance of actors and relatable content are key to a film's success, rather than star power or fancy sets. The evolving audience now appreciates different types of cinema and values talent over stardom. The article highlights that these films succeeded due to compelling narratives and skilled craftsmen who focus on their craft rather than their looks. It also mentions the solid performances of actors like Sparsh Srivastava, Pratibha Ranta, Nitanshi Goel, Ravi Kishan, Geeta Agrawal Sharma, and Chhaya Kadam. Filmmaker Kiran Rao's "Laapataa Ladies" and Vidhu Vinod Chopra's "12th Fail" are cited as examples of films that resonate with audiences without relying on star power. The article concludes with a call for filmmakers to invest in meaningful cinema rather than spending on stars. Lachmi Deb Roy, the entertainment editor of Firstpost, expresses her preference for OTT over theatrical releases and her interest in world cinema, fashion, food, and art reviews.
+
+Wed, 15 May 2024 10:35:28 +0530
+### [India ascends: A new aviation superpower emerges](https://www.firstpost.com/opinion/india-ascends-a-new-aviation-superpower-emerges-13770964.html)
+
+India's commercial aviation industry is on a rapid ascent, projected to grow by over 7.3% annually until 2035, positioning it as the world's fastest-growing aviation market. This growth trajectory has been fueled by India's status as the most populous country since 2023 and its robust economic expansion, with a GDP growth of nearly 7% in the previous year.
+
+The aviation sector's success is a cornerstone in India's emergence as a potential global aviation superpower. The rise in domestic air travel is attributed to the growing middle class and their increased disposable income. India's strategic geographic location also makes it a pivotal hub between Europe and Asia, enhancing its appeal to international airlines.
+
+Although India does not manufacture civil aircraft, it plays a crucial role in the aviation industry, with major manufacturers like Boeing and Airbus depending on orders from the country. This dependency empowers India to negotiate favorable terms and partnerships.
+
+The demand for civil aircraft mirrors the country's socioeconomic growth, with a burgeoning middle class and a keen interest in air travel. Local production initiatives aim to diminish import reliance and bolster the aerospace sector.
+
+India's aviation growth is not limited to commercial aspects but extends to military collaborations and self-reliance, with a significant increase in Indian-registered aircraft. The forecast includes over 200 new airports and 2,000 airplanes in the coming decade, with the flying population expected to rise from 4% to 10%.
+
+The expansion of air travel is set to stimulate the economy, create jobs, and enhance tourism. Government investments in infrastructure are underway to support this growth, which will benefit urban and rural areas alike, drawing foreign investment and fostering new industries.
+
+India's commitment to strengthening domestic manufacturing for military equipment underscores the need to meet the surging demand and enhance national self-reliance. Ambitious infrastructure projects, including new airports and the expansion of existing ones, are set to further cement India's pivotal role in the global aviation landscape, contributing significantly to its economic development and competitiveness.
+
+The views presented are personal insights from an earth and space scientist, who is also an advisor, author, and mentor, and do not necessarily reflect those of Firstpost.
+
 Tue, 14 May 2024 20:41:39 +0530
 ### [2024 polls: How Kashmiris are rejecting anti-India misinformation warfare](https://www.firstpost.com/opinion/2024-polls-how-kashmiris-are-rejecting-anti-india-misinformation-warfare-13770820.html)
 

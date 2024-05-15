@@ -1,3 +1,12 @@
+Wed, 15 May 2024 00:30:00 +0530
+### [Jimmy Anderson | A great player’s farewell is handled with respect and common sense](https://www.thehindu.com/opinion/columns/a-great-players-farewell-is-handled-with-respect-and-common-sense/article68174873.ece)
+
+The article discusses the retirement of **James Anderson**, England's most successful Test bowler. Coach **Brendon McCullum** personally informed Anderson of his retirement, reflecting the respect between the two and McCullum's approach as a coach. Anderson's career is celebrated for his skill and longevity, having taken **700 wickets**, including **220 after the age of 35**, indicating his improvement with age. His ability to swing the ball and master reverse swing, which he learned from **Zaheer Khan**, is highlighted, along with his honesty about the unpredictability of his 'wobble ball'.
+
+The article contrasts the dignified handling of Anderson's retirement with less graceful management in Indian cricket history. It also reflects on the challenges athletes face in recognizing the right time to retire, noting that Anderson may have missed some signs, such as his performance in the Ashes series and struggles in India. Despite this, his legacy as one of the game's greats remains intact, with comparisons drawn to **Glenn McGrath**.
+
+Anderson's dedication to the sport is evident in his continuous efforts to improve, even experimenting with a new run-up at 41. He has played in 70% of England's Tests since his debut, an impressive feat for a fast bowler. The article concludes by discussing the merits of allowing players to choose the timing and place of their retirement, which in Anderson's case, was a fitting end to a remarkable career.
+
 Sun, 12 May 2024 19:25:09 +0530
 ### [Political Line | Kejriwal, out and about](https://www.thehindu.com/opinion/columns/political-line-newsletter-kejriwal-out-and-about/article68168160.ece)
 

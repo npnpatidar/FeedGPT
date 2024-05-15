@@ -1,3 +1,57 @@
+Wed, 15 May 2024 13:00:05 +0530
+### [Chabahar port seems closer to realization than ever despite challenges](https://www.livemint.com/opinion/online-views/chabahar-port-india-iran-us-sanctions-china-strategic-significance-middle-east-corridor-indian-ocean-11715752780814.html)
+
+The article discusses the strategic developments and challenges surrounding the Chabahar port in Iran, which India has been involved in developing. The main points include:
+
+- **India's Investment Acceleration**: After 21 years since Iran offered India the chance to develop Chabahar port, recent developments suggest an acceleration of investments.
+  
+- **Contract Signing**: A long-term contract for the development of the Shahid Beheshti Port Terminal in Chabahar was signed between India Port Global Ltd and Iran's Ports and Maritime Organization.
+
+- **Geo-Political Pressure**: The India-Middle East Economic Corridor (IMEC) involvement by India put pressure on Iran to decide on Chabahar's fate, as IMEC could isolate Iran from key trade routes.
+
+- **Strategic Significance**: Chabahar's development is crucial for India's geo-strategic interests in the Indian Ocean, offering an alternative route to the Suez Canal and facilitating trade with Russia and Central Asia.
+
+- **US Sanctions and Waivers**: US sanctions pose a challenge to the port's expansion, although a 2018 policy exempted India for Chabahar's development. The US warns that the long-term India-Iran deal must contend with the sanctions regime.
+
+- **Economic Potential and Challenges**: The port offers economic potential with alternative freight routes, but its viability is challenged by low trade volumes between India and Central Asia.
+
+- **Geo-Strategic Interests**: India's commitment to Chabahar is seen as a test case for understanding and promoting its geo-strategic interests, with naval coordination to protect vessels in the Indian Ocean.
+
+The article emphasizes the importance of Chabahar for India's strategic objectives and the complexities of investing in the port due to geopolitical tensions and economic considerations.
+
+Wed, 15 May 2024 12:30:04 +0530
+### [India’s labour-intensive manufacturing slump is no small worry](https://www.livemint.com/opinion/online-views/indias-labour-intensive-manufacturing-slump-is-no-small-worry-11715703554738.html)
+
+The article discusses the concept of 'premature de-industrialization' in India, a term coined by economist Dani Rodrik. Despite new incentive schemes, India's manufacturing sector has not grown significantly as a share of GDP. Recent data indicates a rapid de-industrialization in labor-intensive sectors, with a decline in global market share for products like apparel and jewelry. Exports in these sectors grew only 1-2%, and some categories saw a 9% decline in 2023-24.
+
+The decline is attributed to various factors, including small firms' struggles with India's GST regime and global trade slowdowns. Countries like Vietnam and Bangladesh are preferred by buyers due to their free trade agreements. India's garment exports have grown only 4.6% from 2013 to 2023, compared to 69.6% for Bangladesh and 81.6% for Vietnam.
+
+While India's service exports have seen growth, from $167 billion in 2013-14 to $340 billion in 2023-24, there are concerns that policies like data localization might hinder further growth. The article also highlights the K-shaped economic recovery in India, with disparities in human development indicators compared to neighbors like Bangladesh and Nepal.
+
+The author points out the contrast in sanitation and education between India and its neighbors, noting the impact on women and children's health and life expectancy. The article concludes by reflecting on the different realities experienced by a garment worker in Bangladesh compared to the macroeconomic view of India's foreign reserves. The article suggests that while India's economic indicators may look strong, the on-the-ground experience for many is quite different.
+
+Wed, 15 May 2024 11:06:01 +0530
+### [Why stock markets are jittery and what could happen next](https://www.livemint.com/opinion/online-views/why-stock-markets-are-jittery-and-what-could-happen-next-11715750118574.html)
+
+The article discusses the impact of the Indian elections on the market, with a focus on the potential outcomes of the BJP's performance and its implications for investors. It highlights India's strong economic fundamentals, suggesting that regardless of political outcomes, the country is poised for solid growth due to its land, labor, capital, and improving policy framework. The article also notes that while the Indian stock market has risen sharply, it is not in a bubble, as evidenced by the BSE Sensex's historical price-to-earnings ratio.
+
+The author outlines possible scenarios post-election: a BJP win with over 400 seats would be a positive surprise, a win without 400 seats is expected, and a loss would be a shock but likely absorbed by the market quickly. The article also mentions the strong US economy as a factor causing market volatility, leading to significant net sales by foreign institutional investors (FIIs) in India.
+
+Despite short-term uncertainties due to the elections and US interest rates, the author advises long-term investors to view any dips as investment opportunities and to maintain a sensible asset allocation plan for wealth creation. The article concludes with a reminder to consult personal investment advisors before making decisions. The author is identified as Rahul Goel, former CEO of Equitymaster.
+
+Wed, 15 May 2024 10:00:00 +0530
+### [How safe is safe enough? Heed RBI on cyber security and risk reduction.](https://www.livemint.com/opinion/online-views/how-safe-is-safe-enough-heed-rbi-on-cyber-security-and-risk-reduction-11715701822190.html)
+
+The article discusses a series of technology-related incidents and regulatory actions within the Indian banking sector. It begins with the disappearance of data from UniSuper, an Australian retirement fund, stored on Google Cloud, drawing parallels to the Reserve Bank of India's (RBI) supervisory action against Kotak Mahindra Bank Ltd (KMB) for technological inadequacies. The RBI's actions are compared to similar measures taken against other banks, highlighting the significant costs of digital banking but also its failure to acknowledge the benefits of reduced transaction costs and financial inclusion.
+
+The RBI's directive to KMB to halt new customer onboarding and credit card issuance is due to uncovered deficiencies in various IT management areas. The article mentions frequent service outages at KMB, including a recent disruption, and the lack of communication about these outages on KMB's social media.
+
+The piece recalls significant IT-related incidents at other Indian banks, such as a massive IMPS fraud at UCO Bank and international fund transfer hacks through the SWIFT system, which affected several Indian banks. These events underscore the importance of cyber security and resilience in the banking sector.
+
+The RBI has been proactive in addressing cyber risks, establishing regulations, and auditing banks' IT systems. The article also references the International Monetary Fund's financial stability report, which emphasizes the increased cyber attacks since the pandemic and the need for strengthened cyber resilience.
+
+In conclusion, the author supports RBI's stringent regulatory measures, viewing them as a path towards improved IT capabilities and safer banking. The article ends by stressing the importance of risk management in banking and the responsibility of bank boards and managers to be well-informed and execute effectively.
+
 Wed, 15 May 2024 08:30:17 +0530
 ### [ICICI Securities case: Is shareholder activism maturing in India?](https://www.livemint.com/opinion/online-views/icici-securities-case-is-shareholder-activism-maturing-in-india-11715697240898.html)
 

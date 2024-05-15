@@ -1,3 +1,8 @@
+Wed, 15 May 2024 11:08:09 +0530
+### [What can OpenAI’s new GPT-4o AI model do? | Explained](https://www.thehindu.com/sci-tech/technology/what-can-openais-new-gpt-4o-ai-model-do-explained/article68177364.ece)
+
+OpenAI has introduced GPT-4o, an advanced AI model capable of processing multimodal inputs including text, audio, and images. This new model is a significant leap from its predecessors, offering near-flawless output and faster response times. GPT-4o can perform a variety of tasks such as creating caricatures, designing logos, generating meeting notes from audio, and more. Despite its capabilities, it currently lacks video generation. OpenAI highlighted GPT-4o's superiority over other models, including its own previous versions, in text and vision evaluations. The launch comes at a time when OpenAI faces competition from other tech giants. GPT-4o will be available to ChatGPT users, with Plus users receiving additional benefits. OpenAI plans to introduce audio and video capabilities to selected partners soon. The company emphasizes safety in GPT-4o's design and continues to address potential risks. The model's voice output has been noted for its human-like qualities, adding a friendly and personal touch to interactions.
+
 Tue, 14 May 2024 22:21:47 +0530
 ### [The verdict in the Narendra Dabholkar murder case | Explained](https://www.thehindu.com/news/national/the-verdict-in-the-narendra-dabholkar-murder-case/article68170148.ece)
 

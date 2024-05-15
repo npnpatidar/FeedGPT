@@ -1,3 +1,20 @@
+Wed, 15 May 2024 07:06:39 +0000
+### [Five things the next government needs to focus on](https://indianexpress.com/article/opinion/columns/five-things-the-next-government-needs-to-focus-on-9330013/)
+
+The article discusses the Indian economy's growth trajectory and outlines five key areas for the next government to focus on:
+
+1. **Reviving Private Investment**: The government's capital expenditure has driven growth in infrastructure, but now the private sector must also contribute. The Production Linked Incentive (PLI) scheme should be expanded to include SMEs, and investment allowances could be introduced to stimulate demand.
+
+2. **Boosting Household Consumption**: Household consumption has been inconsistent, with a surge during the pandemic but a lack of sustained demand for consumer goods. The government should consider tax reforms to increase disposable income and encourage savings.
+
+3. **Employment Generation**: While the government can fill vacant positions, significant job creation depends on increased consumption and private sector investment.
+
+4. **Agricultural Reforms**: The controversial farm laws need to be revisited and discussed with stakeholders to find an acceptable solution. The government should also clarify its stance on agricultural trade and improve procurement and distribution procedures.
+
+5. **Global Supply Chain Integration**: India should aim to become a part of global supply chains by entering into free trade agreements and boosting merchandise exports, similar to the growth seen in service exports led by the IT sector.
+
+The article concludes with the expectation that the government will work towards reducing the fiscal deficit to 3% of GDP, requiring careful management by the next administration. The unrelated content about Bollywood events post-pandemic is omitted from the summary. The writer is identified as the Chief Economist at the Bank of Baroda.
+
 Wed, 15 May 2024 01:57:54 +0000
 ### [Delhi High Court’s ‘virtual touch’ judgment ignores agency of teenagers](https://indianexpress.com/article/opinion/columns/delhi-high-courts-virtual-touch-judgment-ignores-agency-of-teenagers-9329109/)
 
