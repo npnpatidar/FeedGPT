@@ -1,3 +1,35 @@
+Wed, 15 May 2024 16:30:09 +0530
+### [Wake-up call for AI makers: They should take the iPad ad’s backlash seriously](https://www.livemint.com/opinion/online-views/wakeup-call-for-ai-makers-they-should-take-the-ipad-ad-s-backlash-seriously-11715706895290.html)
+
+Apple's recent iPad commercial, which depicted everyday items being crushed, sparked fear and backlash, contrasting with the company's historically iconic advertising. The ad, intended to showcase the iPad's creative potential, was perceived as a symbol of technology's destructive power. This reaction highlights a growing public anxiety about AI and technology's role in society.
+
+The article suggests that the AI industry faces significant challenges, including privacy concerns, data ownership, environmental impact, and job displacement. It emphasizes the need for AI to complement rather than replace human roles, advocating for positioning AI as a solution to unmet needs, particularly in underserved areas.
+
+The backlash against the iPad ad serves as a cautionary tale for the AI industry to communicate carefully and consider public sentiment. The industry is advised to focus on innovation that addresses genuine human needs and to avoid positioning AI as superior to human professionals. The article concludes by warning that if AI is perceived as a threat, resistance will only increase.  The author urges the AI industry to learn from this and adapt its approach to avoid public pushback.
+
+Wed, 15 May 2024 15:30:08 +0530
+### [US Democrats are going wrong in their campaign for abortion rights](https://www.livemint.com/opinion/online-views/us-democrats-are-going-wrong-in-their-campaign-for-abortion-rights-11715706771913.html)
+
+The article discusses the evolution of the Democratic Party's stance on abortion, highlighting the shift from Bill Clinton's "safe, legal, and rare" approach to a narrative focused on privileged Caucasian women needing medical abortions. It critiques this narrow focus for stigmatizing certain women and abortions, suggesting that a more inclusive storytelling approach could destigmatize abortion and be politically beneficial.
+
+Key points include:
+- **One in four** U.S. women will have an abortion by age 40.
+- The majority of women who have abortions are low-income, and **60%** are already mothers.
+- African-American women account for **40%** of abortions, Hispanic women **21%**, and Caucasian women **30%**.
+
+The article also touches on personal stories used in political ads and suggests that including a broader range of abortion stories could strengthen economic arguments for reproductive rights. It emphasizes that reproductive freedom is tied to economic freedom, especially for low-income women lacking maternity leave and daycare options.
+
+The piece concludes by urging Democrats to adopt a "big-tent" approach to abortion politics, giving a voice to all who support reproductive choice, and forming a diverse coalition of voters. It warns that excluding certain women from the abortion conversation implies selective trust and could undermine the party's message. The article is from Bloomberg.
+
+Wed, 15 May 2024 14:00:06 +0530
+### [India’s poverty debate needs to move on: Let’s adopt new norms](https://www.livemint.com/opinion/online-views/indias-poverty-debate-needs-to-move-on-let-s-adopt-new-norms-11715704815771.html)
+
+The article discusses the evolving nature of poverty in India and the need to update the poverty measurement methodologies. The National Sample Survey Office's Household Consumer Expenditure Survey sparked debate about poverty levels, with estimates ranging from 6.3% to 10% using different methodologies. Critics argue that changes in survey methods make old poverty lines based on consumption data outdated. 
+
+The original poverty line was based on calorie intake, but recent changes in India's demographics and expenditures, especially regarding health and education, suggest that these measures are no longer adequate. The article highlights the increased life expectancy, the higher proportion of elderly people, and the rise in education enrolment, leading to higher out-of-pocket expenses for families. 
+
+It suggests that while households may not be in extreme poverty, they still lack resources for a decent standard of living. The article concludes that India should recognize its progress in reducing poverty since the 1970s and redefine poverty norms to address the current socio-economic landscape.
+
 Wed, 15 May 2024 13:00:05 +0530
 ### [Chabahar port seems closer to realization than ever despite challenges](https://www.livemint.com/opinion/online-views/chabahar-port-india-iran-us-sanctions-china-strategic-significance-middle-east-corridor-indian-ocean-11715752780814.html)
 

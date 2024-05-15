@@ -1,3 +1,23 @@
+Wed, 15 May 2024 16:18:46 +0530
+### [In search of quality and truth amid a blizzard of wokeness and virtual reality](https://www.firstpost.com/opinion/in-search-of-quality-and-truth-amid-a-blizzard-of-wokeness-and-virtual-reality-13771163.html)
+
+The article discusses the concept of quality in the context of modern society, contrasting it with quantity. It highlights the individualistic nature of quality in today's world, where social media has led to a fragmented society. The author reflects on the demographic dividend of India and its underutilization, using personal anecdotes to illustrate the lack of critical thinking among the populace. The piece criticizes the Indian education system for producing individuals who are fact-rich but lack wisdom, and it calls for a redefinition of quality beyond mere quantification.
+
+The author argues that quality should be a collective decision, timeless, culture-independent, and a result of human activity. The article cites examples from literature, architecture, and the arts to demonstrate these attributes of quality. It concludes with a call for Indians to recognize and preserve true quality, especially in an era where truth is often overshadowed by emotions and personal beliefs. The author, an Emeritus Professor with a significant academic impact, emphasizes that these views are personal and not necessarily reflective of the publication's stance.
+
+Wed, 15 May 2024 14:06:57 +0530
+### [Unrest in PoK: Why it’s the beginning of protests in the region](https://www.firstpost.com/opinion/unrest-in-pok-why-its-the-beginning-of-protests-in-the-region-13771107.html)
+
+The article discusses the evolving political and social dynamics in Jammu and Kashmir (J&K) and Pakistan-Occupied Kashmir (PoK). It highlights the shift from frequent protests in J&K, often supported by Pakistan, to a period of relative calm and development following India's abrogation of Article 370. This change has led to increased investment, educational opportunities, and a decline in terrorist activities and public unrest.
+
+In contrast, PoK is described as facing severe oppression and lack of development, with high military presence and forced demographic changes. The local government is portrayed as a puppet of the Pakistani army, with residents facing dire economic conditions and compelled to migrate for work.
+
+The article details a recent crackdown on a peaceful protest by the Joint Awami Action Committee in PoK, which was met with arrests and violence, resulting in deaths and injuries. This incident is seen as part of a larger pattern of discontent due to economic hardships and comparisons with the development in J&K.
+
+The Pakistani government's response to the protests, including a media blackout and a financial relief package, is questioned for its effectiveness. The article also mentions international media coverage of the unrest and criticism of the Pakistani government's handling of the situation.
+
+The author, a former Indian Army officer, suggests that the protests in PoK could lead to a larger movement for independence or even a desire to merge with India, drawing parallels with the Arab Spring. The article concludes by stating that while the immediate protests may have subsided, the underlying issues remain unresolved, and further unrest is likely. The views expressed are personal and do not necessarily reflect those of the publication.
+
 Wed, 15 May 2024 11:38:10 +0530
 ### [Netflix’s Laapataa Ladies, 12th Fail, Article 370: How good cinema doesn’t need stars, they need craftsmen & relatable content](https://www.firstpost.com/entertainment/netflixs-laapataa-ladies-12th-fail-article-370-how-good-cinema-doesnt-need-stars-they-need-craftsmen-relatable-content-13771007.html)
 

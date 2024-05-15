@@ -1,3 +1,33 @@
+Wed, 15 May 2024 09:53:21 +0000
+### [What the draft Digital Competition Bill proposes, why Big Tech opposes it](https://indianexpress.com/article/explained/explained-law/draft-digital-competition-bill-big-tech-opposes-9330370/)
+
+India has introduced the **Digital Competition Bill, 2024**, drawing inspiration from the EU's Digital Markets Act. The bill aims to prevent tech giants like Google, Facebook, and Amazon from engaging in anti-competitive practices such as self-preferencing and data exploitation across group companies. It proposes a proactive regulatory approach, setting rules to curb market abuse before it occurs, with severe penalties for violations.
+
+Key points of the bill include:
+- **Predictive Regulation**: A shift from reactive (ex post) to proactive (ex ante) regulation, anticipating and preventing antitrust issues.
+- **Significant Entities**: Designation of "Systematically Significant Digital Enterprise (SSDE)" for major digital service providers, based on factors like turnover and user base, with prohibitions on certain practices.
+- **Associate Digital Enterprises (ADEs)**: Regulation of data use across group companies, with similar obligations to SSDEs for associate entities.
+
+The bill has faced resistance from big tech companies, industry bodies, and consultancies, citing concerns over increased compliance burdens, stifled innovation, and arbitrary decision-making by the Competition Commission of India (CCI). The draft law's impact on startups and smaller businesses, as well as its potential to disrupt current market dynamics, has also been debated.
+
+Government officials argue that the bill is necessary to address the history of anti-competitive behavior by large tech firms and to lower market barriers for new entrants. The bill reflects a global trend towards stricter regulation of digital markets to ensure fair competition and innovation.
+
+Wed, 15 May 2024 08:59:22 +0000
+### [Why Supreme Court ruled that a lawyer cannot be sued for providing faulty ‘service’](https://indianexpress.com/article/explained/explained-law/supreme-court-lawyer-service-9330304/)
+
+The Supreme Court of India, in a recent ruling, has determined that the services provided by lawyers are distinct from other businesses or trades and thus do not fall under the Consumer Protection Act (CPA). This decision overturns a previous ruling by the National Consumer Disputes Redressal Commission (NCDRC) that had included lawyer services within the CPA's scope.
+
+**Key points from the ruling include:**
+- The success of professionals like lawyers often depends on unpredictable factors, and they cannot guarantee outcomes to their clients.
+- Lawyers have obligations to the court and their opponents that may conflict with their duties to their clients, such as refusing to represent clients insisting on unfair means.
+- The legal profession is unique due to the complexity of legal issues and the absence of an objective standard of care, unlike in the medical field.
+- Existing remedies for professional misconduct are already provided under the Advocates Act, 1961, which also grants disciplinary powers to the Bar Councils.
+- The court recognized two categories of lawyers: those who represent clients in court and those who provide services outside litigation, such as legal opinions or drafting. The latter could potentially be covered by the CPA.
+- Justice Bela M Trivedi, authoring the main judgment, emphasized that the legal profession is service-oriented and noble, not commercial in nature, and advocates are expected to be fearless and independent in upholding the rule of law.
+- The court concluded that the advocate-client relationship is a contract of personal service, which is not subject to challenge under the CPA.
+
+The judgment highlights the unique role of the legal profession in society and the importance of maintaining its integrity and independence from consumer law. The court's decision reaffirms the notion that the legal profession's responsibilities and the unpredictability of legal outcomes set it apart from other service providers.
+
 Wed, 15 May 2024 07:59:47 +0000
 ### [Failure to follow procedure: Why SC said Newsclick founder’s arrest was illegal](https://indianexpress.com/article/explained/explained-law/failure-to-follow-procedure-sc-newsclick-arrest-illegal-9330103/)
 
