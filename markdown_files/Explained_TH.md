@@ -1,3 +1,17 @@
+Wed, 15 May 2024 22:58:41 +0530
+### [On Delhi’s mounting waste crisis | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/delhi-mounting-waste-crisis-solid-waste-management/article68179968.ece)
+
+The article discusses the challenges of solid waste management (SWM) in New Delhi, where over **3,800 tonnes** of waste remain untreated daily, contributing to public health and environmental issues. The city generates around **13,000 tonnes** of waste per day, expected to increase with the growing population. Despite having waste-processing facilities with a collective capacity of **9,200 tonnes per day**, a significant portion of waste is not processed due to various challenges.
+
+The main issues include:
+- **Lack of waste segregation** at the source by households and commercial establishments.
+- **Insufficient land** for waste processing plants.
+- **Public unawareness** and improper disposal habits.
+- **Irregular waste collection services** and illegal dumping.
+- **Lack of coordination** among municipal bodies.
+
+To address these, the article suggests scaling up processing capacity, promoting waste segregation, and learning from best practices. It emphasizes the need for **decentralized composting** and **dry waste collection centers**, as well as **partnerships** for setting up facilities and managing non-recyclable waste through **waste-to-energy projects**. The goal is to ensure all waste is scientifically processed and to mitigate environmental impacts. The authors, Pradeep Dadlani and Pushkara S.V., are experienced professionals in SWM.
+
 Wed, 15 May 2024 18:40:52 +0530
 ### [Why was NewsClick founder Prabir Purkayastha’s arrest invalidated by the top Court? | Explained](https://www.thehindu.com/news/national/why-was-newsclick-founder-prabir-purkayasthas-arrest-invalidated-by-the-top-court-explained/article68177999.ece)
 

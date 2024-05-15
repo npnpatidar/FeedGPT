@@ -1,3 +1,17 @@
+Thu, 16 May 2024 00:20:00 +0530
+### [Crime and time: On election-time incarceration](https://www.thehindu.com/opinion/editorial/crime-and-time-on-election-time-incarceration/article68179125.ece)
+
+The article discusses the judicial inconsistencies in the application of interim bail for political figures in India. It highlights the case of Hemant Soren, former Chief Minister of Jharkhand and leader of the Jharkhand Mukti Morcha, who was arrested and is seeking interim bail to campaign for the general election. The Supreme Court previously granted interim bail to Delhi Chief Minister Arvind Kejriwal, emphasizing the importance of electoral democracy. However, the Court has postponed Soren's hearing, requiring the Enforcement Directorate's input first.
+
+The delay in Soren's case is attributed to the Jharkhand High Court's two-month wait before dismissing his plea. The article contrasts the charges against Kejriwal and Soren, noting the reliance on different types of evidence in their respective cases. It also comments on the complexities introduced by the Prevention of Money Laundering Act's stringent bail provisions, which require courts to assess the overall merits of a case at the bail stage. The article concludes by reflecting on the political sensitivity of bail decisions during elections and their impact on democratic fairness.
+
+Thu, 16 May 2024 00:10:00 +0530
+### [New term, old problems: On Putin’s new term and the Ukraine war](https://www.thehindu.com/opinion/editorial/new-term-old-problems-on-putins-new-term-and-the-ukraine-war/article68178856.ece)
+
+In a significant move, Russian President Vladimir Putin, after being inaugurated for his fifth term, dismissed his long-serving Defence Minister, Sergei Shoigu, and appointed Andrei Belousov, an economist, to lead the Defence Ministry. This shift underscores the economic dimension of the war in Ukraine, as Russia grapples with maintaining its wartime economy and defence production amid severe Western sanctions. Despite Shoigu's past successes, including the annexation of Crimea and military operations in Syria, his strategy in Ukraine has faced criticism. The appointment of Belousov, a technocrat, aims to swiftly achieve military objectives in Ukraine.
+
+Russia has recently intensified its military efforts, launching an offensive towards Kharkiv, Ukraine's second-largest city. The outcome remains uncertain as Ukraine anticipates additional arms from the U.S. The conflict has strained Russia's relations with the West, particularly Europe, and pushed the country closer to China. Domestically, Putin has consolidated power and suppressed dissent. While the Russian government has so far shielded its citizens from the impact of sanctions, the sustainability of this protection is questionable if the conflict drags on. Ukraine has retaliated by targeting Russia's Black Sea fleet and border regions. Despite the challenges, Putin believes he has the upper hand. However, further advances in Ukraine would leave him presiding over a more oppressive, economically fragile Russia, isolated from the West and engaged in a costly war with a resilient adversary.
+
 Wed, 15 May 2024 00:20:00 +0530
 ### [Little respite: On food price gain](https://www.thehindu.com/opinion/editorial/little-respite-on-food-price-gain/article68175302.ece)
 

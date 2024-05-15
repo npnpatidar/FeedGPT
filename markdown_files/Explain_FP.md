@@ -1,3 +1,8 @@
+Wed, 15 May 2024 23:12:29 +0530
+### [Who is Robert Fico, Slovakia’s populist PM, who was shot at?](https://www.firstpost.com/explainers/slovakia-pm-robert-fico-shot-at-populist-leader-13771337.html)
+
+Slovakian Prime Minister Robert Fico is in critical condition following an assassination attempt. A seasoned and divisive figure in Slovak politics, Fico secured his third term as PM last year with a pro-Russia stance, criticizing Western support for Ukraine. His political journey began in the late 1980s, and he has been a key figure in the Smer-Social Democrats party since its inception in 1999. Fico's tenure as PM began in 2006, marked by a coalition with the far-right Slovak National Party and opposition to austerity measures during the financial crisis. His government resigned in 2018 following the murder of a journalist investigating political corruption. Recently re-elected, Fico's administration halted military support to Ukraine and faced public backlash for pro-Russian policies. Critics fear his leadership may steer Slovakia away from its pro-Western trajectory. The assassination attempt has shocked the nation, and Fico's condition remains precarious.
+
 Wed, 15 May 2024 21:12:27 +0530
 ### [Nivea vs Ponds: Why the popular moisturiser brands are fighting in court](https://www.firstpost.com/explainers/nivea-vs-ponds-popular-moisturiser-brands-case-delhi-high-court-13771265.html)
 
@@ -5903,44 +5908,45 @@ Domestically, Putin could authorize further repressive measures, continuing the 
 Fri, 15 Mar 2024 19:13:04 +0530
 ### [Lok Sabha Elections: How did the Model Code of Conduct originate?](https://www.firstpost.com/explainers/lok-sabha-elections-model-code-of-conduct-originate-13749307.html)
 
-Article found but Couldn't summarize 
-The Model Code of Conduct finds its origin during Assembly elections in Kerala in 1960, when the administration attempted to evolve a code of conduct for political parties. According to the Election Commission of India, the code has evolved over the last 60 years to assume its present form
+The article discusses the **Model Code of Conduct (MCC)**, which originated during the Kerala Assembly elections in 1960 and has evolved over 60 years. The MCC is a set of guidelines enforced by the Election Commission of India (ECI) to ensure fair elections and a level playing field for all parties and candidates. It prohibits activities that may cause communal tension, requires parties to inform police about rallies, bans criticism of private lives, and restricts the use of official power for campaigning. The code is not legally binding but can be enforced through other laws. Violations can lead to warnings, FIRs, or even cancellation of polls. The Supreme Court has upheld the MCC's sanctity, and there have been suggestions to give it legal backing. The MCC comes into effect with the election schedule announcement and remains until results are declared. The article also mentions the history of the MCC's development and its enforcement by the ECI.
 
 Fri, 15 Mar 2024 17:12:42 +0530
 ### [What is the unique code on electoral bonds that Supreme Court has told SBI to disclose?](https://www.firstpost.com/explainers/electoral-bonds-numbers-supreme-court-sbi-details-eci-13749238.html)
 
-Article found but Couldn't summarize 
-The Supreme Court has issued notice to the State Bank of India (SBI) for not disclosing the unique alphanumeric code on electoral bonds to the Election Commission of India. This number is present on each bond which is only visible in specific light
+The Supreme Court has issued a notice to the State Bank of India (SBI) for not disclosing the unique alphanumeric codes on electoral bonds to the Election Commission of India (ECI). These codes, only visible under specific light, are meant to track donations to political parties. Despite a previous order to provide complete donation details, SBI has not complied fully, leading to the Supreme Court's demand for an explanation. The codes were introduced as a security feature to ensure anonymity but reports suggest they have been used to track donors and recipients. The Supreme Court has reaffirmed its stance that SBI must disclose these numbers and has scheduled a hearing for further proceedings. This follows a landmark judgment on 15 February, where the electoral bonds scheme was declared unconstitutional.
 
 Fri, 15 Mar 2024 17:09:22 +0530
 ### [Why rumours of Prince William’s affair with Rose Hanbury have resurfaced amid Kate’s absence](https://www.firstpost.com/explainers/why-rumours-of-prince-williams-affair-with-rose-hanbury-have-resurfaced-amid-kates-absence-13749185.html)
 
-Article found but Couldn't summarize 
-Online detectives speculate that Kate Middleton’s absence may be connected to an alleged relationship between her husband, Prince William, and Rose Hanbury. A neighbour of the Prince and Princess of Wales, the former model has been spotted during royal occasions including the coronation of King Charles III
+The article discusses the speculation surrounding Kate Middleton's absence from public view, which some online detectives suggest may be due to an alleged relationship between her husband, Prince William, and Rose Hanbury, a neighbor and former model who has been seen at royal events. Rose Hanbury, associated with the royal family for many years, has been a subject of rumors regarding an affair with Prince William since 2019, but these have not been substantiated. The article also mentions a controversy over a digitally altered photograph of Kate Middleton issued by Kensington Palace, which was later retracted by major news agencies due to manipulation concerns. The photograph was meant to be the first official image of Kate following her abdominal surgery and was shared on social media during Mother's Day with a message from her. Despite the retraction, there has been no official acknowledgment or refutation from the involved parties. The article concludes with details about Rose Hanbury's background and her connection to the royal family.
 
 Fri, 15 Mar 2024 15:55:48 +0530
 ### [Election Commission to declare poll dates on 16 March: How are they finalised?](https://www.firstpost.com/explainers/election-commission-lok-sabha-poll-dates-finalised-13749193.html)
 
-Article found but Couldn't summarize 
-The Election Commission of India will announce the dates for the upcoming Lok Sabha polls on 16 March. The poll agency is bound by rules when announcing the election dates. But what are they?
+The Election Commission of India (ECI) is set to announce the dates for the 2024 Lok Sabha elections on 16 March. This announcement will also include the election schedule for some state assemblies. The ECI, a constitutional body responsible for conducting free and fair elections in India, must adhere to specific rules when scheduling elections. According to the Representation of the People Act, 1951, the ECI must announce election dates within six months of the Lok Sabha or state assembly term ending. Additionally, the dates must be announced no more than three weeks before the actual polling date.
+
+The ECI considers various factors when determining election dates, including state preparedness, security force availability, electronic voting machine logistics, and the timing of national and local festivals. The announcement on 16 March is notable as it's the first time the ECI has given a 24-hour notice for a press conference to announce election dates.
+
+Historically, Lok Sabha election dates have varied. For example, the 2019 elections began on 11 April and concluded on 19 May, with results announced on 23 May. The 2014 elections spanned from 7 April to 12 May, with results on 16 May. The ECI announced these dates well in advance, following their established protocols and considering the necessary logistical and security arrangements. The upcoming announcement is eagerly anticipated as it sets the stage for India's next major electoral event.
 
 Fri, 15 Mar 2024 14:40:47 +0530
 ### [One nation, one election: Which parties are in favour? Who has said no?](https://www.firstpost.com/explainers/one-nation-one-election-parties-in-favour-who-opposed-it-13749141.html)
 
-Article found but Couldn't summarize 
-As per the report by the high-level panel on simultaneous elections, 32 parties including the BJP and its allies, support the proposal, while 15 parties, of which 10 are from the INDIA bloc, oppose it. The proponents argue the exercise would save costs, while the critics say it would ‘undermine’ democracy
+The high-level committee (HLC) on 'One Nation, One Election' reported that **32 political parties support** the proposal for simultaneous elections, while **15 parties oppose** it. The panel, led by former President Ram Nath Kovind, received responses from 47 out of 62 approached parties. The BJP and its allies, including the National People's Party (NPP), are the main supporters, advocating cost savings and improved governance efficiency. The opposition, including the Congress, AAP, BSP, and CPI(M), argues that the proposal undermines democracy, the Constitution's basic structure, and the federal system. The Congress and AAP particularly stress that it would subvert parliamentary democracy and institutionalize a presidential form of government. The BSP seeks a working framework before considering such a change, emphasizing the need for free and fair elections. The Naga People's Front and the DMK express concerns about the impact on the federal structure and the constitutionality of the proposal, respectively. The CPI(M) deems it fundamentally anti-democratic. The report was submitted to President Droupadi Murmu, reflecting a significant divide in opinion among India's political parties on the issue of conducting simultaneous elections.
 
 Fri, 15 Mar 2024 14:34:33 +0530
 ### [Looking for next James Bond: The puzzle UK spy agency is using to recruit new people](https://www.firstpost.com/explainers/looking-for-the-next-james-bond-the-puzzle-uk-spy-agency-is-using-to-recruit-new-people-13749088.html)
 
-Article found but Couldn't summarize 
-A new puzzle has been uploaded to the UK intelligence organisation GCHQ’s LinkedIn handle to identify and recruit the upcoming generation of its intelligence staff. The agency is seeking lateral thinkers who had ‘never thought of working’ with the UK Signals Intelligence Service, which secures communications
+The UK's Government Communications Headquarters (GCHQ) has launched a new puzzle on its LinkedIn channel as part of a recruitment drive to attract lateral thinkers to the intelligence service. The puzzle, which involves identifying letters hidden within an image to reveal a secret message, reflects GCHQ's historical roots in cryptography and encryption. The challenge combines elements of the Roman alphabet, British Sign Language, and braille, and hints at using the NATO phonetic alphabet for solving.
+
+GCHQ Director Anne Keast-Butler emphasized the need for diverse minds to address future challenges and mentioned that the puzzle is aimed at individuals who may not have previously considered a career in intelligence. The article also highlights GCHQ's role in cybersecurity, its budget, and workforce, as well as its controversial history, including a ban on non-white applicants until about 1980 and the 'Karma Police' operation revealed by Edward Snowden.
+
+The timing of the recruitment initiative is significant, following MI5 Chief Ken McCallum's statement about the detection of covert activities by Chinese, Russian, and Iranian agents on LinkedIn, targeting thousands of Britons for recruitment as consultants. The answers to the puzzle will be released on GCHQ's LinkedIn profile after Thursday. The article underscores the importance of diverse recruitment for the intelligence agency, which currently has a lower percentage of staff from black or minority ethnic backgrounds compared to the UK average.
 
 Fri, 15 Mar 2024 14:05:47 +0530
 ### [UK to ban foreign ownership of newspapers. Who owns what?](https://www.firstpost.com/explainers/uk-to-ban-foreign-ownership-of-newspapers-who-owns-what-13749045.html)
 
-Article found but Couldn't summarize 
-The UK announced Wednesday that it intends to prohibit foreign governments from owning British newspapers, a move that could derail the contentious Abu Dhabi-led takeover of the Telegraph Media Group. Here’s who will be affected, and who owns what?
+The UK government plans to ban foreign state ownership of British newspapers and news magazines. This move is in response to concerns over the UAE-backed takeover of the Daily Telegraph and Spectator. The ban could affect the Abu Dhabi-led bid for the Telegraph Media Group (TMG). Currently, three companies—DMG Media, News UK, and Reach—dominate 90% of the UK's national newspaper market. DMG Media, if it acquires the Telegraph titles, could control nearly half of the national newspaper circulation. News UK, owned by Rupert Murdoch and now chaired by his son Lachlan, controls a third of the market. Reach owns several national and local titles. Evgeny Lebedev owns London's Evening Standard and The Independent. The Barclay brothers own TMG, which has faced financial issues. The Guardian is owned by the Scott Trust. Tech giants like Meta and Google dominate online advertising, impacting how news is accessed. The BBC is the most popular news website in the UK, followed by The Sun and The Mail Online.
 
 Fri, 15 Mar 2024 13:20:18 +0530
 ### [SpaceX’s Starship third trial: What happened to world's biggest rocket?](https://www.firstpost.com/explainers/elon-musk-spacex-starship-biggest-rocket-third-trial-launch-milestones-13749095.html)
