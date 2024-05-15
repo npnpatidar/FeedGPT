@@ -1,3 +1,19 @@
+Wed, 15 May 2024 08:30:17 +0530
+### [ICICI Securities case: Is shareholder activism maturing in India?](https://www.livemint.com/opinion/online-views/icici-securities-case-is-shareholder-activism-maturing-in-india-11715697240898.html)
+
+The National Company Law Tribunal has postponed a class-action lawsuit by some ICICI Securities (I-Sec) shareholders who are contesting the company's decision to delist and merge with ICICI Bank. This plan, approved on March 28, offered investors a share-swap ratio of 67 ICICI Bank shares for every 100 I-Sec shares. Minority shareholders argue that this ratio undervalues I-Sec compared to its listing price six years ago. Despite ICICI Bank's claim that the merger is beneficial and valuations are fair, dissenters feel shortchanged.
+
+The majority of I-Sec's shareholders have voted in favor of the merger, but concerns have been raised about the voting process, including allegations that ICICI Bank solicited votes from retail shareholders through calls. Questions have been raised about potential privacy breaches and the use of personal data. The Securities and Exchange Board of India (Sebi) has strict rules against misleading information and coercion in such corporate decisions.
+
+Allegations also suggest that ICICI Bank may have influenced the vote through its asset-management unit and by offering stock options to I-Sec employee shareholders. Quantum Mutual Fund, an I-Sec shareholder, has raised concerns with Sebi about the valuation, claiming a loss for minority shareholders.
+
+A Sebi investigation is underway, and the tribunal's decision is pending. The case highlights the growing shareholder activism in India, which is seen as a positive development for the economy and shareholder democracy. The outcome will reflect the importance of considering the voices of all investors, including retail shareholders.
+
+Wed, 15 May 2024 07:15:13 +0530
+### [Mint Quick Edit | Does India’s Chabahar deal risk US sanctions?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-does-india-s-chabahar-deal-risk-us-sanctions-11715698391747.html)
+
+The article discusses the progress of the **Chabahar port project** in Iran, where India has signed a deal to operate the port for a decade. The US State Department has indicated that entities engaging with Iran may face sanctions, but historically, the Chabahar project received a US waiver in 2018 due to its trade benefits for Afghanistan. The port provides India with strategic access to Central Asia, bypassing Pakistan. The article suggests that if the US aims to support Indian trade interests against China's regional influence, which includes the rival port of Gwadar in Pakistan, it should not penalize India for using Chabahar as a new Asia-Europe trade link, implying that this would serve the interests of the free world.
+
 Tue, 14 May 2024 16:30:12 +0530
 ### [Board diversity can catalyse business success](https://www.livemint.com/opinion/online-views/board-diversity-can-catalyse-business-success-11715621735081.html)
 

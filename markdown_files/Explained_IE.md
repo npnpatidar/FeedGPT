@@ -1,3 +1,23 @@
+Wed, 15 May 2024 01:30:45 +0000
+### [Explained: Controversy and drama at Hybe, the K-pop company behind BTS](https://indianexpress.com/article/explained/explained-culture/hybe-k-pop-ador-controversy-newjeans-bts-9328888/)
+
+Hybe, the company behind BTS, has faced turmoil including a dramatic press conference and allegations of an illegal takeover. The company's market value dropped significantly due to falling stock prices. Hybe, founded as Big Hit Entertainment by Bang Si-hyuk in 2005, struggled initially but found phenomenal success with BTS, leading to expansion and acquisitions. In 2020, Hybe went public with a valuation of $4.1 billion.
+
+A dispute arose between Hybe and its subsidiary ADOR, with Hybe alleging that ADOR's CEO, Min Hee-jin, was planning a takeover. Min, who joined Hybe in 2019 and became CEO of ADOR, launched the successful K-pop group NewJeans in 2022. However, Hybe accused her and other executives of plotting an illegal takeover, leading to a contentious press conference where Min denied the allegations.
+
+The conflict has sparked debates among fans and concerns over NewJeans' future. Reports suggest Min may have been replaced as CEO, but confirmation is pending. The situation raises questions about Hybe's reputation and management, especially as BTS's hiatus due to military service leaves a gap in Hybe's artist lineup. The K-pop industry faces challenges in maintaining its success, with Hybe's shares and those of its competitors declining recently. Separately, the BCCI is considering Stephen Fleming as the next head coach for Team India.
+
+Wed, 15 May 2024 01:10:57 +0000
+### [Explained Climate: Heatwaves and climate change](https://indianexpress.com/article/explained/explained-climate/explained-climate-heatwaves-climate-change-9329251/)
+
+The article discusses the impact of climate change on heatwaves in India, highlighting that recent extreme temperatures in eastern and southern parts of the country have been made significantly more likely due to climate change. The study by World Weather Attribution indicates that this is the third consecutive year where early summer heatwaves in India are linked to climate change. Attribution science has advanced, allowing researchers to assess the likelihood of such events being influenced by climate change.
+
+Heatwaves are defined by temperature abnormalities rather than high temperatures alone, and evidence suggests they are becoming more frequent, intense, and prolonged in India due to climate change. For instance, February 2023 saw heatwave conditions and was the second warmest February recorded for the country. Predictions for more prolonged heatwaves seem to be coming true, with an 18-day heatwave in Odisha and record-breaking heat in Gangetic West Bengal.
+
+The article also addresses the health risks associated with prolonged heat exposure, such as dehydration and cardiovascular issues. It notes the challenges in collecting reliable data on heat-related illnesses and deaths in India, with discrepancies in figures reported by different agencies. Despite the implementation of heat action plans in vulnerable states, which have reduced heat-related deaths, the article suggests that more needs to be done to manage the increasing severity of heatwaves, including regulating activities in unorganized sectors and adjusting office and school timings.
+
+The article concludes by emphasizing the need for better funding and stricter regulations to mitigate the effects of heatwaves, which are expected to worsen due to climate change. It calls for mandatory local administrative measures to protect the population, especially during peak heat periods.
+
 Tue, 14 May 2024 14:09:30 +0000
 ### [What is the new FLiRT variant of the Covid virus, and should you worry?](https://indianexpress.com/article/explained/explained-health/new-flirt-covid-variant-kp-symptoms-9328759/)
 
