@@ -1,3 +1,22 @@
+Wed, 15 May 2024 06:00:38 +0530
+### [FirstUp: Lawrence Wong to take charge of Singapore, Modi's roadshow in Mumbai... Big headlines today](https://www.firstpost.com/explainers/firstup-lawrence-wong-singapore-pm-modi-mumbai-big-headlines-today-13770746.html)
+
+Here's a summary of the key events covered in the article:
+
+- **Lee Hsien Loong** will resign as Singapore's Prime Minister after two decades, with **Lawrence Wong** set to succeed him on 15 May.
+- **PM Narendra Modi** will conduct a roadshow in Mumbai's Ghatkopar ahead of the 20 May elections.
+- **Rahul Gandhi** will campaign in Odisha for the upcoming second phase elections.
+- The **Opposition INDIA bloc**, including leaders from Congress, SP, and AAP, is expected to hold a joint press conference in Lucknow.
+- The **Consumer Affairs Ministry** is meeting to discuss a draft order to curb fake online reviews.
+- The **Supreme Court** will hear a plea regarding the forest fires in Uttarakhand.
+- The **Allahabad High Court** will continue hearing the Krishna Janmabhoomi-Shahi Idgah dispute case.
+- **Manish Sisodia's** judicial custody related to the excise policy scam case ends, with a court hearing scheduled.
+- Palestinians will observe **Nakba day**, marking the 76th anniversary of their mass expulsion from Israel.
+- In sports, the **IPL 2024** match between Rajasthan Royals and Punjab Kings will take place in Guwahati.
+- The article also mentions the **International Day of Families** and the birth anniversaries of notable personalities like Madhuri Dixit, Andy Murray, and Sukhdev Thapar, as well as the anniversary of Mickey Mouse's first cartoon premiere.
+
+This summary captures the essence of the article, focusing on the significant events and omitting any unrelated content.
+
 Tue, 14 May 2024 20:57:56 +0530
 ### [Betrayal, plagiarism & more: The controversy involving NewJeans band rocking the K-pop world](https://www.firstpost.com/explainers/newjeans-label-ador-hybe-controversy-k-pop-13770705.html)
 
@@ -5586,68 +5605,111 @@ The article discusses the "Noon against Putin" protests that occurred on the fin
 Mon, 18 Mar 2024 09:04:57 +0530
 ### [Explained: How intermittent fasting benefits our brains](https://www.firstpost.com/explainers/explained-how-intermittent-fasting-benefits-our-brains-13748889.html)
 
-Article found but Couldn't summarize 
-Some research suggests intermittent fasting may offer a different way for the brain to access energy and provide protection against neurodegenerative diseases like Alzheimer’s disease
+Intermittent fasting (IF) has gained popularity as a method for weight management and health improvement. It involves short periods of calorie restriction, typically 12-48 hours, followed by normal eating. The practice is believed to offer a different way for the brain to access energy and may protect against neurodegenerative diseases like Alzheimer's.
+
+**Key points from the article:**
+- **Ketosis:** IF aims to switch the body's energy source from carbohydrates to fats, producing ketones that become the brain's preferred energy source. This could help preserve brain function and prevent cognitive decline.
+- **Circadian syncing:** Aligning eating times with the body's natural rhythms may reduce the risk of chronic diseases and cognitive impairment.
+- **Mitochondrial function:** IF may improve brain health by enhancing mitochondrial function, crucial for energy production and brain health.
+- **Gut-brain axis:** IF could improve brain health by affecting the gut-brain communication, potentially influencing mood and cognition.
+
+While animal studies suggest benefits for brain health and aging, human studies are limited and show mixed results. IF can also pose risks, such as nutrient deficiencies and muscle loss, especially in older adults. Therefore, it's recommended to consult a health professional before starting IF to ensure it's done safely and sustainably. The article emphasizes that while the concept of IF is promising, more research is needed to fully understand its effects on human health.
 
 Mon, 18 Mar 2024 05:00:00 +0530
 ### [FirstUp: FLY91 takes to the skies, PM in Coimbatore: The headlines today](https://www.firstpost.com/explainers/firstup-fly91-takes-to-the-skies-pm-in-coimbatore-the-headlines-today-13749747.html)
 
-Article found but Couldn't summarize 
-It’s another manic Monday. Regional airline, FLY91, will start commercial services today from Goa. PM Narendra Modi will also hold a four-km-long roadshow in Coimbatore ahead of the 2024 Lok Sabha elections. Here’s what else to expect today
+Here's a summary of the key points from the article:
+
+- **FLY91 Airline Launch**: Regional airline FLY91 begins commercial services today, connecting Goa with Bengaluru and Hyderabad. Plans are in place to expand to Lakshadweep in April and to grow the fleet to 35 aircraft over five years, aiming to connect 50 cities and establish six bases.
+
+- **PM Modi's Roadshow**: Prime Minister Narendra Modi is set to hold a 4-km roadshow in Coimbatore today, as part of his tour across southern Indian states. This follows the Madras High Court's conditional approval after initial police refusal due to law-and-order concerns.
+
+- **Delhi CM Summoned**: Delhi Chief Minister Arvind Kejriwal has been summoned by the Enforcement Directorate to appear today in a money laundering case related to alleged irregularities in the Delhi Jal Board.
+
+- **Dharavi Redevelopment Survey**: The Dharavi Redevelopment Project Pvt Ltd, a joint venture between the Maharashtra Government and the Adani Group, begins a survey today to collect data for the rehabilitation eligibility of Dharavi's informal residents, as part of a project to transform the area into a world-class township.
+
+- **IPL 2024 Tickets**: Tickets for the IPL 2024 opening game between Chennai Super Kings and Royal Challengers Bangalore, scheduled for March 22 at MA Chidambaram Stadium, go on sale today through Paytm and insider.in.
+
+The article also mentions the presence of the publication on YouTube, but this is likely promotional content.
 
 Sun, 17 Mar 2024 16:11:26 +0530
 ### [Do you sit for seven to 11 hours a day? Here’s why you need to get off the chair](https://www.firstpost.com/explainers/do-you-sit-for-seven-to-11-hours-a-day-heres-why-you-need-to-get-off-the-chair-13748214.html)
 
-Article found but Couldn't summarize 
-How much sitting is too much sitting? A new study from the University of California, San Diego says 11 hours per day. Other research says seven hours each day could be a lot. You shouldn’t sit for longer than 30 minutes in one go as this can increase your blood sugar levels and blood pressure
+The article discusses the health risks associated with prolonged sitting, citing a study from the University of California, San Diego (UCSD), which found that sitting for more than 11 hours a day increases the risk of death by 57% compared to those who sit less than 9.5 hours. It also notes that regular exercise does not negate the risks of sitting too much, as even with moderate-to-vigorous exercise, the risk of early death remains. Contrarily, an Australian study suggests that taking between 9,000 and 10,500 steps daily can lower the risk of premature death, even for those who sit frequently. The discrepancy between studies may be due to different methods of measuring sitting time. The article emphasizes the importance of sitting less, in line with WHO guidelines, and offers practical tips for reducing sitting time, such as using a sit-stand desk and taking breaks to move around. It also mentions a 2020 study that found arm exercises can benefit those unable to stand or walk. The article concludes by reinforcing the need to avoid prolonged sitting to maintain good health.
 
 Sun, 17 Mar 2024 12:02:45 +0530
 ### [Do you compare finances to others, feel inadequate? It may be ‘money dysmorphia’](https://www.firstpost.com/explainers/money-dysmorphia-financial-anxiety-social-media-13748916.html)
 
-Article found but Couldn't summarize 
-There’s a new problem plaguing young adults. It’s called money dysmorphia. Nearly half of the millennials and Gen Zers in the US feel they are financially behind, which might not be fact-based. Social media is partly to be blamed
+The article discusses the phenomenon of "money dysmorphia," a term used to describe a distorted view of one's financial situation, often leading to poor financial decisions. It is particularly prevalent among millennials and Gen Zers in the US, with nearly half feeling financially behind, despite the fact that many actually have above-average savings. The condition is linked to the constant comparison with others' wealth, exacerbated by social media, which portrays a false image of success and leads to feelings of inadequacy. This can result in mental health issues and poor financial behaviors like overspending and accumulating debt. Experts suggest combating this by recognizing the irrationality of these comparisons, seeking financial advice, and potentially reducing social media usage. The article also mentions a trend among Gen Zers called "loud budgeting," which is a conscious effort to resist societal pressures to spend excessively.
 
 Sun, 17 Mar 2024 09:16:35 +0530
 ### [This Week in Explainers: Why Vladimir Putin wins election after election in Russia](https://www.firstpost.com/explainers/this-week-in-explainers-why-vladimir-putin-wins-election-after-election-in-russia-13749275.html)
 
-Article found but Couldn't summarize 
-Russia is holding its presidential elections and it’s almost certain that Vladimir Putin will extend his reign by another six years. How has Russia’s ‘macho man’ won each poll he has contested? We explore this and more in our weekly roundup of big global news
+Here's a summary of the key points from the article:
+
+- **Russian Presidential Elections**: Vladimir Putin is expected to win the ongoing presidential elections, extending his rule until 2030 and surpassing Joseph Stalin as the longest-serving leader in Russia. The article explores the reasons behind Putin's consistent electoral victories.
+
+- **Russia-India Rail Line**: Russia is aiding Iran in constructing a 164-km rail line as part of the International North–South Transport Corridor (INSTC), which will enhance connectivity between Russia, Iran, and India.
+
+- **TikTok Legislation in the US**: The US House of Representatives has passed a bill that could lead to a ban on TikTok unless ByteDance, its China-based owner, divests from it. This move could affect TikTok's over 170 million users in the US.
+
+- **California Girls Crime Gang**: Michelle Mack was arrested for leading an all-women gang responsible for stealing makeup products from various stores and reselling them on Amazon, amassing over $8 million.
+
+- **Controversy Over Royal Photo**: A Mother's Day photo released by the Princess of Wales, Kate Middleton, was withdrawn by news agencies due to allegations of manipulation, sparking rumors about her public absence and marital issues.
+
+- **Vineyard Reductions**: Farmers in Australia and France are destroying millions of grapevines due to unspecified reasons, with one report highlighting the removal of 1.1 million vines from one of Australia's largest vineyards.
+
+- **AI Doll for Loneliness**: A South Korean company has developed an AI doll named Hyodol to help elderly adults combat loneliness.
+
+The article provides insights into these stories and more, offering a comprehensive look at the week's global news events. If you're interested in detailed analyses or further information on these topics, the article suggests additional resources for readers.
 
 Sat, 16 Mar 2024 18:15:44 +0530
 ### [97.8 crore voters, 1.5 crore polling officials: The big numbers to know ahead of Lok Sabha election](https://www.firstpost.com/explainers/97-8-crore-voters-1-5-crore-polling-officials-the-big-numbers-to-know-ahead-of-lok-sabha-election-13749561.html)
 
-Article found but Couldn't summarize 
-Ahead of announcing the 2024 Lok Sabha election dates, Chief Election Commissioner Rajiv Kumar listed several important numbers related to the polls. He said there are 97.8 crore eligible voters of which 49.72 crore were male voters and 47.1 crore were female. The EC will set up 10.5 lakh polling stations across India and over 1.5 crore polling officials will be deployed
+The Lok Sabha elections in India for 2024 will be held in seven phases from April 19 to June 1, with the results being counted on June 4. The Election Commission of India (ECI) has announced that there are 97.8 crore eligible voters, with a gender ratio of 948 women to 1000 men. Notably, there are more female than male voters in at least 12 states and Union Territories. The ECI will set up 10.5 lakh polling stations and deploy over 1.5 crore polling officials. There are 1.82 crore first-time voters, including over 85 lakh first-time women voters and 88.4 lakh people with disabilities (PwDs) registered. The number of transgender voters has increased to over 48,000. The ECI emphasizes the inclusion of all sections of society in the electoral process and has taken measures to increase awareness and participation among transgender voters. Additionally, the ECI reports a significant increase in cash seizures during the 2022–2023 election cycle, indicating a crackdown on illicit campaign financing.
 
 Sat, 16 Mar 2024 16:19:01 +0530
 ### [2024 Lok Sabha election dates are here: How India is likely to vote](https://www.firstpost.com/explainers/2024-lok-sabha-election-dates-are-here-how-india-is-likely-to-vote-13749495.html)
 
-Article found but Couldn't summarize 
-The Lok Sabha polls will take place in seven phases between 19 April and 1 June. The counting will be on 4 June. Ahead of the election, opinion polls tried to tap into public sentiment. Here’s what they predict
+The 2024 Lok Sabha elections in India are scheduled to occur in seven phases from 19 April to 1 June, with the counting of votes on 4 June. Four states will also conduct simultaneous Assembly elections. Opinion polls suggest a strong performance by the ruling National Democratic Alliance (NDA), led by the Bharatiya Janata Party (BJP), which is predicted to win a significant majority of Lok Sabha seats, potentially exceeding their target of 400 seats. The Congress-led INDIA bloc is expected to improve its seat count compared to the 2019 elections but still trail behind the NDA. In terms of leadership, Prime Minister Narendra Modi has a favorable rating compared to Rahul Gandhi, with higher percentages of respondents viewing Modi as honest, hardworking, and caring. The BJP is projected to perform well in key states like Uttar Pradesh, Bihar, and Madhya Pradesh, while regional parties like the Trinamool Congress (TMC) and Dravida Munnetra Kazhagam (DMK) are expected to maintain strength in West Bengal and Tamil Nadu, respectively. The Aam Aadmi Party (AAP) is also anticipated to have a noticeable impact on the seat share in certain regions. Overall, the polls indicate a likely continuation of the NDA's governance with a strong mandate.
 
 Sat, 16 Mar 2024 11:43:02 +0530
 ### [KCR’s daughter K Kavitha arrested in Delhi liquor scam: Her link to the case](https://www.firstpost.com/explainers/kcrs-daughter-k-kavitha-arrested-in-delhi-liquor-scam-how-is-she-linked-to-the-case-13749396.html)
 
-Article found but Couldn't summarize 
-BRS leader K Kavitha, arrested from Hyderabad on Friday in the Delhi liquor policy case, was taken to the ED headquarters in the national capital around midnight. The law agency has alleged her involvement with a 'South Group' lobby of liquor traders seeking influence over the now-scrapped excise policy
+Bharat Rashtra Samithi (BRS) MLC K Kavitha was arrested in Hyderabad and taken to the ED headquarters in Delhi in connection with the Delhi liquor policy case. She is accused of being part of a 'South Group' that allegedly influenced the scrapped excise policy. The ED claims she was involved in bribing AAP leaders with Rs 100 crore for illegal benefits under the policy. Kavitha, daughter of former Telangana CM K Chandrasekhar Rao, has denied the allegations, referring to the ED notices as "Modi notices." The case also involves other prominent figures and is under parallel investigation by the ED and CBI. Kavitha's legal team is expected to move the Supreme Court to contest her arrest. The Delhi liquor policy, which has been scrapped, faced criticism for alleged corruption and favoritism in the licensing process. The policy had undergone several changes in 2021, including privatization of liquor sales and lowering the legal drinking age from 25 to 21. Kavitha is likely to confront senior AAP leaders and a key witness in the case, and her lawyers are seeking an urgent hearing to contest her arrest.
 
 Sat, 16 Mar 2024 10:50:21 +0530
 ### [Russia election: Why Putin will never announce a successor](https://www.firstpost.com/explainers/russia-election-vladimir-putin-poll-fraud-successor-13749320.html)
 
-Article found but Couldn't summarize 
-Vladimir Putin is a prisoner of the political system he has built around himself for the past 24 years. Like many dictators, he cannot walk away from power and enjoy a quiet retirement even if he wants to. He is too attached to the mind-boggling wealth and power he has accumulated
+The article discusses the political situation in Russia under Vladimir Putin, emphasizing his control over the electoral process and the political system. It highlights Putin's use of electoral fraud and repression to maintain power, including the imprisonment or elimination of opposition figures. The author, a scholar of Russian politics, suggests that Putin is trapped by the system he created, unable to retire due to the risk of retribution and the loss of wealth and power. The article also explores the potential consequences of Putin's death in office, noting that the Russian constitution dictates the prime minister becomes acting president, but the real power struggle will occur behind the scenes. It speculates on various scenarios for succession, including a violent power struggle or a collective leadership, drawing parallels with historical precedents in Russia. The piece concludes that Putin's departure could lead to significant instability due to the concentration of power in his hands and the lack of strong institutions to manage a transition.
 
 Sat, 16 Mar 2024 09:36:09 +0530
 ### [This Week in Explainers: Why is India banning Pit bulls, Rottweilers and other dogs?](https://www.firstpost.com/explainers/this-week-in-explainers-india-banning-pit-bulls-rottweilers-and-23-dog-breeds-13749279.html)
 
-Article found but Couldn't summarize 
-After rising incidents of pet attacks, the Centre has asked states to ban 23 ‘ferocious’ dog breeds – Pit bulls, Rottweilers, and Wolf dogs, among others. But are they dangerous? We explain the dog ban and other big news that grabbed headlines like electoral bonds, CAA, and the Bengaluru water crisis in our weekly roundup
+This week's news roundup from India includes a mix of political developments and social issues:
+
+1. **Dog Breed Ban**: Following an increase in pet attacks, the government has directed states to ban 23 dog breeds considered 'ferocious', including Pit bulls, Rottweilers, and Wolf dogs.
+
+2. **Electoral Bonds**: The Supreme Court criticized the State Bank of India for incomplete disclosure of electoral bond data. The Election Commission released the data, revealing Future Gaming and Hotel Services Pvt Ltd as the top buyer, with its owner Santiago Martin, known as the 'lottery king', having a controversial past.
+
+3. **Citizenship Amendment Act (CAA)**: The Ministry of Home Affairs has notified the CAA, facilitating citizenship for persecuted non-Muslim migrants from neighboring countries, amidst opposition criticism and protests in Assam and Tripura.
+
+4. **One Nation, One Election**: A high-level panel led by former president Ram Nath Kovind recommended the feasibility of simultaneous Lok Sabha and Assembly elections by 2029, aligning with the BJP's vision.
+
+5. **Bengaluru Water Crisis**: The city faces severe water scarcity, affecting daily life with schools and businesses resorting to remote operations, and residents adapting to water-saving measures.
+
+The article concludes by emphasizing the significance of these stories in shaping the current socio-political landscape in India. Keep in mind that this summary is based on the information provided and may not include all details from the original article. Have a great week ahead! 📰
 
 Fri, 15 Mar 2024 21:11:12 +0530
 ### [How do pilots beat fatigue, stay awake? They pop this pill](https://www.firstpost.com/explainers/indonesian-pilots-fall-asleep-mid-flight-fatigue-pill-to-stay-awake-13749349.html)
 
-Article found but Couldn't summarize 
-Pilot fatigue came to the limelight again after reports of two pilots falling asleep mid-flight on an Indonesian airline surfaced. While fatigue is a major safety concern, there is a widely available pill approved by air forces in several countries, including India, for its fighter pilots to boost alertness and fight off sleep
+The article discusses the issue of pilot fatigue highlighted by an incident involving two pilots who fell asleep during a Batik Air flight in Indonesia. The Airbus A320 veered off course as the pilots slept for 28 minutes, but landed safely without harm to the passengers. The incident has prompted an investigation and the temporary suspension of the pilots.
+
+Pilot fatigue is recognized as a significant safety concern globally. The International Civil Aviation Organisation (ICAO) defines it as a state of reduced mental or physical performance due to factors like sleep loss, extended wakefulness, or workload. In Europe, a survey found that a majority of pilots felt they did not get adequate rest, and in India, a study revealed that many pilots admitted to falling asleep without consent during flights.
+
+Regulatory actions have been taken to address this issue. In India, the Directorate General of Civil Aviation (DGCA) revised Flight Duty Time Limitations (FDTL), increasing rest periods and reducing maximum flight duty periods, especially for night operations. In the US, duty hours are capped for pilots based on the time of day.
+
+The article also mentions Modafinil, a pill used by military and air force pilots worldwide to combat fatigue and enhance alertness. While effective, it has side effects and can lead to overconfidence in judgment. Experts suggest caution in its use for commercial pilots, emphasizing the need to respect human limits and the necessity for sleep.
 
 Fri, 15 Mar 2024 20:20:54 +0530
 ### [Russia elections: What Putin might do after securing another six-year term](https://www.firstpost.com/explainers/russia-elections-what-putin-might-do-after-securing-another-six-year-term-13749266.html)
