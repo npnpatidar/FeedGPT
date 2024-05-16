@@ -1,3 +1,58 @@
+Thu, 16 May 2024 13:25:46 +0530
+### [Drugged, groped, rape: The sexual misconduct allegations against magician David Copperfield](https://www.firstpost.com/explainers/magician-david-copperfield-sexual-misconduct-allegations-the-guardian-investigation-13771514.html)
+
+The article from The Guardian US presents an investigative report detailing allegations of sexual misconduct against the magician David Copperfield. It includes accusations from at least 16 women, some of whom were minors at the time of the alleged incidents. The claims span from the late 1980s to 2014 and involve allegations of groping, drugging, and rape. Copperfield has denied all allegations, stating he has never acted inappropriately.
+
+The report also touches on Copperfield's successful career, highlighting his achievements and fame as an illusionist. It mentions past accusations of sexual misconduct against him and links to the Jeffrey Epstein case, which Copperfield's lawyers have dismissed, stating he was not closely associated with Epstein.
+
+In response to the allegations, Copperfield's lawyers have issued a statement defending his character and denying the claims, emphasizing his support for victims of abuse and discrimination. They have also mentioned that previous investigations by US law enforcement into such matters have not resulted in any charges. Copperfield is considering legal action over what he considers false allegations. The article concludes with a note on Copperfield's legal team's stance and a mention of inputs from agencies.
+
+Thu, 16 May 2024 13:12:33 +0530
+### [After AstraZeneca side effects, adverse events in some who took Covaxin. Is it a reason to worry?](https://www.firstpost.com/explainers/covaxin-bharat-biotech-adverse-events-study-astrazeneca-covishield-13771505.html)
+
+The article discusses the safety of two COVID-19 vaccines, Covishield and Covaxin, with a focus on a recent study about Covaxin's side effects. The study, published on SpringerLink and conducted by Dr. Sankha Shubhra Chakrabarti's team at Banaras Hindu University, found that nearly a third of participants reported adverse events of special interest (AESI), such as viral upper respiratory tract infections and skin disorders. Female adolescents and those with a history of allergies were at higher risk of AESIs after receiving Covaxin. The study suggests that serious AESIs might not be uncommon and calls for extended surveillance to understand the long-term outcomes of these events.
+
+The article also touches on the controversy surrounding Covishield, produced by the Serum Institute of India, after AstraZeneca admitted its vaccine could cause a rare side effect leading to low platelet counts and blood clots. AstraZeneca has since withdrawn its vaccine globally for commercial reasons, stating that newer vaccines are available to target emerging COVID-19 variants. Bharat Biotech, the manufacturer of Covaxin, emphasized its focus on safety and the need for larger studies to understand the incidence of immune-mediated phenomena post-vaccination. The article concludes with the need for future studies to explore the relationship of AESIs with various factors, including sex, co-morbidities, and pre-vaccination illnesses. Bharat Biotech has not commented on the study but has previously stated that Covaxin was developed with safety as the primary focus.
+
+Thu, 16 May 2024 12:37:17 +0530
+### [Far-right government in Netherlands after election winner Geert Wilders reaches coalition deal. Who will be PM?](https://www.firstpost.com/explainers/far-right-government-in-netherlands-after-election-winner-geert-wilders-reaches-coalition-deal-who-will-be-pm-13771469.html)
+
+Geert Wilders, leader of the far-right Party for Freedom (PVV) in the Netherlands, has formed a coalition government with the center-right People's Party for Freedom and Democracy (VVD), the New Social Contract party (NSC), and the Farmer-Citizen Movement (BBB). The coalition marks a shift towards the right after six months of negotiations following the PVV's win in the November election. The prime minister's position remains undecided, with Wilders stepping back from the role despite leading the largest party. An unconventional "business government" model is proposed, mixing politicians and non-politicians. Ronald Plasterk, a former minister and key negotiator, is a leading candidate for the prime minister role. The final decision on the leadership is pending parliamentary party agreement.
+
+Thu, 16 May 2024 11:30:20 +0530
+### [Why Indian crew is still stranded on ship that crashed into Baltimore bridge after 7 weeks](https://www.firstpost.com/explainers/indian-crew-stranded-on-dali-ship-baltimore-bridge-collapse-13771408.html)
+
+The article discusses the aftermath of the collision between the Singapore-flagged container ship Dali and the Francis Scott Key Bridge in Baltimore, which occurred on March 26. The bridge's collapse resulted in the deaths of six construction workers and has left the ship's crew of 20 Indians and one Sri Lankan stranded for over seven weeks. Concerns have been raised about the crew's potential personal liability for the disaster.
+
+Despite being well-stocked with food and receiving additional supplies, the crew's communication with the outside world has been limited due to the seizure of their cellphones by the FBI. New phones provided lack personal information, causing distress among the crew. The crew has been involved in the salvage operation and the ongoing federal investigation, with visits from religious organizations and unions.
+
+A preliminary report by federal investigators revealed two power outages on the Dali before the incident, unrelated to the bridge collapse. The full investigation could take up to a year. Plans are underway to refloat the Dali, but the crew is expected to remain onboard for the foreseeable future. The incident has highlighted the role of seafarers and the challenges they face.
+
+The bridge's reconstruction is estimated to cost between $1.7 and $1.9 billion, with completion expected by fall 2028. The article concludes with remarks on the growing size and complexity of ships and the need for improved risk management in marine transportation.
+
+Thu, 16 May 2024 11:30:15 +0530
+### [Why is Antony Blinken facing criticism for playing guitar in Ukraine?](https://www.firstpost.com/explainers/why-is-antony-blinken-facing-criticism-for-playing-guitar-in-ukraine-13771454.html)
+
+During a surprise visit to Kyiv, **US Secretary of State Antony Blinken** faced criticism for performing Neil Young's 'Rockin' in the Free World' at a local bar. His intention was to send a message of defiance and hope to Ukrainians amidst their conflict with Russia. However, the public and some Ukrainian officials found the performance inappropriate, given the ongoing war and the hardships faced by Ukrainian soldiers. Critics pointed out that the song's lyrics actually describe despair in the West, contrary to the message of freedom Blinken aimed to convey. Despite the backlash, US officials defended Blinken's actions, stating he wouldn't have participated if deemed inappropriate. The incident occurred during Blinken's fourth visit to Ukraine since the conflict began, following a significant aid package approved by Washington for Ukraine.
+
+Thu, 16 May 2024 10:13:46 +0530
+### [Robert Fico shooting: A look back at armed attacks on world leaders in recent times](https://www.firstpost.com/explainers/robert-fico-shooting-a-look-back-at-armed-attacks-on-world-leaders-in-recent-times-13771419.html)
+
+Slovakia's Prime Minister Robert Fico was hospitalized after being shot multiple times in Handlova. He is now stable and out of life-threatening condition. The incident has drawn global condemnation, including from US President Joe Biden and Ukrainian President Volodymyr Zelenskyy. Fico, known for his pro-Russian stance and criticism of Western support for Ukraine, was attacked outside a cultural center by a suspected gunman who was part of a crowd.
+
+The article also highlights recent attacks on political figures worldwide, including the assassination of Japan's former Prime Minister Shinzo Abe and Haiti's President Jovenel Moise, and attempted assassinations of Pakistan's former Prime Minister Imran Khan, Argentina's Vice President Cristina Kirchner, and Brazil's former presidential candidate Jair Bolsonaro. These incidents underscore the increasing threats faced by political leaders globally.
+
+Thu, 16 May 2024 09:58:14 +0530
+### [Who is the 71-year-old suspected to have shot Slovakia PM Robert Fico?](https://www.firstpost.com/explainers/slovakia-pm-robert-fico-assassination-attempt-71-year-old-suspect-13771415.html)
+
+Slovakia's Prime Minister Robert Fico was hospitalized after an attempted assassination in Handlova, where he was shot five times. A 71-year-old poet and anti-violence campaigner, Juraj Cintula, who is also a critic of Fico's policies, has been detained in connection with the shooting. This incident marks the first assassination attempt on a European national leader since 2003.
+
+Fico, who is 59 years old and known for his controversial policies including halting military aid to Ukraine and attempting to abolish the public broadcaster RTVS, is no longer in a life-threatening condition following surgery. The attack has been widely condemned, with US President Joe Biden expressing alarm and describing it as a horrific act of violence.
+
+Cintula, the suspect, is a founder of a literary club and a campaign group against violence. He has previously criticized Fico's government for not addressing gambling issues and has denounced the wealthy elites in Slovak society.
+
+The assassination attempt has shocked Slovakia, with political leaders suggesting that it was politically motivated and pointing to the rise of hate speech and division in the country. The incident occurs at a sensitive time, just weeks before the European parliament elections and amidst increasing violence in Slovakia, including a recent shooting outside an LGBT venue in Bratislava. The event has sparked concerns about further violence in the political landscape.
+
 Thu, 16 May 2024 07:58:15 +0530
 ### [Vladimir Putin in China again: What does his 'no-limits’ friendship with Xi Jinping mean for world?](https://www.firstpost.com/explainers/vladimir-putin-xi-jinping-visit-no-limits-friendship-world-13771258.html)
 

@@ -1,3 +1,21 @@
+Thu, 16 May 2024 12:30:09 +0530
+### [Maldives matters: India’s moving to foil Chinese designs](https://www.livemint.com/opinion/online-views/maldives-matters-india-s-moving-to-foil-chinese-designs-11715795429334.html)
+
+The article discusses the geopolitical dynamics between India, the Maldives, and China in the context of the Indian Ocean Region (IOR). It highlights India's strategic concerns regarding the Maldives' growing proximity to China, especially under President Mohamed Muizzu's pro-China stance. India's External Affairs Minister, S. Jaishankar, emphasized the importance of reciprocal sensitivity in developing bilateral ties with the Maldives.
+
+The Maldives' decision to replace Indian military personnel with civilians and not renew a hydrography agreement with India, coupled with a defense pact with China, has strained relations with New Delhi. The article also notes India's efforts to maintain influence in the IOR through strategic partnerships and investments, such as developing the Kankesanthurai port in Sri Lanka and operating the Mattala airport.
+
+India's approach contrasts with China's, as it aims to avoid debt traps for beneficiary nations, a concern highlighted by the Maldives' significant debt to China. The article concludes by mentioning India's increased naval deployments and the establishment of strategic outposts, like the naval base INS Jatayu and the upgraded facilities on the Agaléga islands of Mauritius, to counter China's influence in the IOR. These moves are part of India's broader strategy to secure its interests in the region amidst China's expanding naval presence.
+
+Thu, 16 May 2024 10:00:05 +0530
+### [Fix food inflation: Quit erratic intervention, adopt a rulebook](https://www.livemint.com/opinion/online-views/fix-food-inflation-quit-erratic-intervention-adopt-a-rulebook-11715782778442.html)
+
+India's economy is currently facing persistent inflation, particularly in the food sector, which has kept overall inflation above 4% for over two years, with a recent figure of 4.83% in April 2024. The inflation rate for cereals stood at 8.63% in April, with rice and wheat experiencing significant increases. Despite global cereal prices dropping by 18%, domestic food inflation remains high due to factors such as unseasonal weather affecting production and government policies that have created artificial scarcity.
+
+Government decisions on stock holding limits and trade restrictions, along with the Essential Commodities Act (ECA), have led to market uncertainty and failed to stabilize prices. Measures like export bans on wheat and rice, and stock disclosure requirements have not reduced prices but have instead caused fear among traders and speculative price increases.
+
+These policies have also negatively impacted farmers, reducing their financial incentives and leading to a decline in pulse production. The article suggests that while controlling inflation is important, it should not come at the expense of farmers' livelihoods. A balanced price policy that protects both farmers and consumers is needed, replacing ad-hoc decisions with a rule-based framework to stabilize agricultural prices.
+
 Thu, 16 May 2024 08:30:01 +0530
 ### [Globalization at threat: US import tariffs have dealt free trade a heavy blow](https://www.livemint.com/opinion/online-views/globalization-at-threat-us-import-tariffs-have-dealt-free-trade-a-heavy-blow-11715783768867.html)
 

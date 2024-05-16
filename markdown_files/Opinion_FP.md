@@ -1,3 +1,14 @@
+Thu, 16 May 2024 13:37:07 +0530
+### [Historic voter turnout in Srinagar marks changing political landscape in Kashmir](https://www.firstpost.com/opinion/historic-voter-turnout-in-srinagar-marks-changing-political-landscape-in-kashmir-13771528.html)
+
+The article discusses the significant increase in voter turnout in the Srinagar constituency during the 2024 Lok Sabha elections, marking a departure from past boycotts and threats from separatists and terrorists. It reflects on the historical distrust in elections due to past experiences of alleged rigging and manipulation by central authorities. The high voter turnout is seen as a choice for the ballot over the bullet, with Kashmiris of various communities participating despite their discontent with decisions like the revocation of Article 370 and the desire for better governance rather than political issues.
+
+The article suggests that the vote was more a statement against the central government's past actions than support for dynastic politics. It highlights the people's aspirations for basic amenities and governance improvements over political rhetoric. The BJP's decision not to field candidates is interpreted as a mixed message, and the article criticizes the lack of action against dynastic politicians.
+
+The piece acknowledges the decrease in terror recruitment and the positive impact of counter-terrorism efforts and development work, but it also notes the ongoing challenges in healing the region's social fabric and the Kashmiri Pandit community's boycott of the elections. The author expresses hope for the emergence of alternative politicians focused on people's welfare and concludes that, for now, the Kashmiris' trust in the democratic process and rejection of terror groups' rhetoric is a positive step, regardless of the election's outcome.
+
+The views are personal to the author, an educationist from Srinagar, and do not necessarily reflect those of the publication.
+
 Thu, 16 May 2024 09:35:27 +0530
 ### [As antisemitism rises, US media stays oblivious to seismic shifts in polity as it goes about pontificating to the world](https://www.firstpost.com/opinion/as-antisemitism-rises-us-media-stays-oblivious-to-seismic-shifts-in-polity-as-it-goes-about-pontificating-to-the-world-13771403.html)
 

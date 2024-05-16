@@ -1,3 +1,8 @@
+Thu, 16 May 2024 08:10:44 +0000
+### [Why ‘Chamkila’ should make us think about caste realities](https://indianexpress.com/article/opinion/columns/amar-singh-chamkila-caste-realities-9332666/)
+
+The article provides a critical analysis of Imtiaz Ali's film on Amar Singh Chamkila, highlighting the themes of caste stigma and the policing of art. It discusses how Chamkila's work, often deemed vulgar, reflects deeper issues of caste discrimination and marginalization in society. The film portrays Chamkila as a man who, despite his rising popularity, faces constant scrutiny and disrespect due to his caste and the explicit nature of his lyrics. The article also touches upon the broader trend of stigmatizing art forms practiced by marginalized communities and the appropriation of these forms by dominant castes. It draws parallels with the colonial legacy of stigmatizing indigenous practices and the need for decolonization by re-examining oppressive structures. The narrative suggests that Chamkila's struggle for dignity and respect is a reflection of the larger societal need to address caste biases and the inherited colonial mindset that polices sexuality and art. The article concludes with a reflection on whether Chamkila was merely seeking respect in a society that continued to marginalize him. Additionally, it briefly mentions Deepak Tijori's experiences in the film industry and his approach to storytelling and production.
+
 Thu, 16 May 2024 01:45:01 +0000
 ### [After four phases, six takeaways: Women’s voting patterns, the dips in voter turnout](https://indianexpress.com/article/opinion/columns/after-four-phases-six-takeaways-womens-voting-patterns-the-dips-in-voter-turnout-9331663/)
 
