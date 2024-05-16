@@ -1,3 +1,21 @@
+Thu, 16 May 2024 11:08:27 +0000
+### [What was SC’s Pankaj Bansal ruling in 2023, which paved the way for release of NewsClick editor Prabir Purkayastha?](https://indianexpress.com/article/explained/explained-law/sc-pankaj-bansal-ruling-2023-newsclick-prabir-purkayastha-9333129/)
+
+The Supreme Court of India, in the case involving NewsClick founder editor Prabir Purkayastha, declared his arrest invalid and ordered his release, citing the precedent set in the 2023 case of Pankaj Bansal vs. Union of India. The 2023 ruling emphasized the necessity for the Enforcement Directorate (ED) to provide written grounds of arrest to the accused, as mandated by Section 19(1) of the Prevention of Money Laundering Act (PMLA) of 2002. This was to ensure transparency and fairness, allowing the accused to mount an informed defense.
+
+The court criticized the ED for its inconsistent record in providing written grounds, which often led to inadequate defense opportunities for the accused. The ruling underscored the ED's responsibility to act with probity and fairness, noting that in the case at hand, the ED had failed to meet these standards. The court's decision also extended the requirement to provide grounds of arrest to cases under the Unlawful Activities Prevention Act (UAPA), further safeguarding individual rights against arbitrary arrests.
+
+In a separate section, veteran actor and filmmaker Deepak Tijori discussed his three-decade career, the challenges for independent producers, and his preference for unconventional stories over the prevailing star system in film distribution. He emphasized his commitment to forging his own path in the industry.
+
+Thu, 16 May 2024 09:07:09 +0000
+### [How Punjab and Haryana remain key to national food security](https://indianexpress.com/article/explained/explained-economics/punjab-haryana-national-food-security-wheat-rice-9332839/)
+
+The article discusses the critical role of Punjab and Haryana in India's food security, especially in light of recent climate challenges. These states have contributed significantly to the central food grain pool, accounting for 75.5% of wheat procurement in the current season. Climate shocks, such as unseasonal temperature surges and heavy rains, have affected crop yields, particularly in central India, but Punjab and Haryana have managed better due to their sowing patterns and longer winters.
+
+The procurement of wheat from Madhya Pradesh has dropped dramatically, while private traders in Uttar Pradesh and Bihar have bought much of the produce at prices higher than the government's minimum support price. Despite diversification in rice procurement to other states, Punjab and Haryana's contribution has increased to about 32.9% this year. The National Food Security Act ensures subsidized grain to millions, and the current government has been providing it free since January 2023. Punjab and Haryana's high yields per hectare make them vital for national food security, despite the potential for crop diversification.
+
+The unrelated content about Deepak Tijori, an actor and filmmaker, discussing his career and the film industry, has been omitted from this summary.
+
 Thu, 16 May 2024 01:35:38 +0000
 ### [V P Singh’s turbulent tenure](https://indianexpress.com/article/explained/explained-politics/v-p-singhs-turbulent-tenure-9331732/)
 

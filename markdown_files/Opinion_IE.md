@@ -1,3 +1,17 @@
+Thu, 16 May 2024 12:17:36 +0000
+### [‘Srikanth’ evokes memories of my experiences with people who are more than their disabilities](https://indianexpress.com/article/opinion/columns/srikanth-memories-experience-people-more-than-disabilities-9333348/)
+
+The article is a personal reflection on the lives of visually-impaired individuals, inspired by the film review of "Srikanth," which tells the story of Srikanth Bolla. The author recalls college days in Bombay, reading to blind classmates and forming a bond with one named Namdev, who sold lottery tickets at Churchgate station. Another classmate, Arun, is remembered for his insistence on completing tasks promptly, reflecting the film's message that disabled people are human and can exhibit a range of behaviors.
+
+The author notes improvements in societal attitudes since those days, citing Bolla's journey from being bullied in rural India to graduating from MIT. The narrative includes encounters with a visually-impaired girl studying mass media, a friend's husband who is a SEBI-certified financial advisor despite his blindness, and an efficient visually-impaired bank staffer.
+
+The piece concludes with the author's admiration for the skills of a blind child who crafted a realistic piece of pottery, symbolizing the capabilities of visually-impaired individuals. The author, Chowdhury, is noted for writing biographies of Dev Anand and Madhubala. The unrelated content about Deepak Tijori's reflections on his film career and the challenges for independent producers has been omitted from this summary.  <gen_chat_settings>
+
+Thu, 16 May 2024 09:30:07 +0000
+### [Why the Ram Mandir isn’t an election issue – and the BJP-RSS is worried](https://indianexpress.com/article/opinion/columns/why-the-ram-mandir-isnt-an-election-issue-and-the-bjp-rss-is-worried-9332912/)
+
+The article presents a critical view of Prime Minister Narendra Modi and the RSS-BJP's approach in the 2024 Lok Sabha elections, particularly concerning the Ram Temple issue. It contrasts the virtuous image of Lord Ram with the alleged deceitful politics of the RSS-BJP. The author argues that the public is more concerned with pressing issues like unemployment and inflation rather than religious politics. The article suggests that the BJP's campaign has stooped to new lows and deviated from its initial promises, focusing instead on divisive narratives. It warns of the RSS-BJP's potential to undermine the Constitution and emphasizes the need for vigilance to protect democratic values and ensure a transition towards pro-people governance. The writer identifies as a leader in the CPI and underscores the importance of upholding the Constitution. The article concludes with a brief mention of Deepak Tijori, an actor-filmmaker, discussing his career and the challenges in the film industry, unrelated to the main political content.
+
 Thu, 16 May 2024 08:10:44 +0000
 ### [Why ‘Chamkila’ should make us think about caste realities](https://indianexpress.com/article/opinion/columns/amar-singh-chamkila-caste-realities-9332666/)
 

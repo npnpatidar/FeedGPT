@@ -1,3 +1,30 @@
+Thu, 16 May 2024 16:30:09 +0530
+### [Think it over: What AI does for us versus what it’s doing to us](https://www.livemint.com/opinion/online-views/think-it-over-what-ai-does-for-us-versus-what-it-s-doing-to-us-11715795656136.html)
+
+The article discusses the evolving relationship between humans and machines, particularly in the context of artificial intelligence (AI). It traces the history of machines designed to mimic human behavior, from early mechanical attempts to the latest AI chatbots. The focus is on how these interactions change us, our perceptions, emotions, and even our neural wiring.
+
+The concept of 'artificial intimacy' is introduced, highlighting how people form emotional bonds with AI tools, which may have significant societal and evolutionary implications. The ease of interacting with machines over humans is noted, as it lacks the friction of human relationships, potentially leading to emotional fragility.
+
+The article also touches on the idea that AI, built from collective expert intelligence, could surpass individual expertise and reduce the need for human conversation. However, it questions the impact on our sensitivity to the emotional nuances of human interaction.
+
+In summary, the article raises critical questions about the definition of being human in an age of advanced AI and how our interactions with technology might be reshaping our very nature. It concludes with more questions than answers, inviting reflection on the future of human-machine relationships.
+
+Thu, 16 May 2024 15:30:07 +0530
+### [Making ChatGPT ‘sexy’ may not be the best way to make it better](https://www.livemint.com/opinion/online-views/making-chatgpt-sexy-may-not-be-the-best-way-to-make-it-better-11715782975875.html)
+
+OpenAI has introduced a new version of ChatGPT, dubbed GPT-4o, which boasts real-time visual interpretation capabilities and an engaging, human-like interaction style. The AI's ability to infer emotions and respond to audio quickly is part of a broader shift towards 'ambient computing,' aiming to create more natural user experiences. However, this approach has raised concerns about the social and psychological impacts of interacting with AI that exhibits personality traits, such as flirtatiousness. Critics question the potential for unhealthy attachments to develop, especially among emotionally vulnerable individuals, and the broader effects on mental health. OpenAI's focus on consumer engagement with GPT-4o comes amidst stagnating user growth and increasing competition from other AI developers. The tech industry's pursuit of digital assistants with more personality could lead to unintended consequences, echoing the issues faced by social media platforms that prioritized engagement over user well-being.
+
+Thu, 16 May 2024 14:00:00 +0530
+### [Aim high: Industry-academia ties could catapult India’s biopharma industry](https://www.livemint.com/opinion/online-views/aim-high-industry-academia-ties-could-catapult-india-s-biopharma-industry-11715782887841.html)
+
+The article discusses the evolution and current state of the biopharmaceutical industry, emphasizing its rapid growth, particularly in India. It highlights the industry's expansion from 2019 to 2021 during the COVID-19 pandemic, with a focus on biopharmaceuticals derived from living organisms, including vaccines and gene therapies. The Indian biopharma sector has seen significant growth, surpassing $92 billion in 2023, driven by chronic diseases, higher incomes, and the demand for effective treatments.
+
+The article stresses the importance of collaboration between industry and academia for continued innovation and development of bio-therapeutic products. It notes that while large pharmaceutical companies have been the traditional drivers of drug discovery, academic institutions have also contributed significantly and should play a more direct role in drug development.
+
+Examples of successful industry-academia collaborations include the development of India's first home-grown gene therapy for cancer and various innovation programs that have led to healthcare innovations and intellectual property filings. The article also mentions the establishment of global capability centers in India, employing professionals across the R&D value chain.
+
+The Biotechnology Industry Research Assistance Council (BIRAC) and National Biopharma Mission (NBM) are highlighted as initiatives that enhance India's biopharmaceutical capabilities. The article calls for increased funding for innovation schemes, recruitment of overseas talent, and specialized training in biotech legal and regulatory frameworks to prepare students for the industry's future. It concludes by advocating for the empowerment of academic institutions through technology transfer offices and increased innovation to expedite drug development.
+
 Thu, 16 May 2024 12:30:09 +0530
 ### [Maldives matters: India’s moving to foil Chinese designs](https://www.livemint.com/opinion/online-views/maldives-matters-india-s-moving-to-foil-chinese-designs-11715795429334.html)
 

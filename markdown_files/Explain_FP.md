@@ -1,3 +1,77 @@
+Thu, 16 May 2024 17:33:39 +0530
+### [How climate change can worsen dementia and depression](https://www.firstpost.com/health/how-climate-change-can-worsen-dementia-and-depression-13771600.html)
+
+The article discusses the significant impact of climate change on neurological and mental health. A study published in The Lancet Neurology, led by Professor Sanjay Sisodiya, found that extreme temperatures and climate variations are linked to increased risks of conditions like stroke, dementia, depression, and epilepsy. The study suggests that patients with neurological disorders are particularly vulnerable to temperature extremes due to impaired thermoregulation. It also notes that factors such as pollution and humidity can affect mental health.
+
+The study observed increased hospital admissions and mortality related to neurological conditions during heatwaves. It warns that by 2050, neurological disorders may occur earlier in life due to environmental stressors. To mitigate these effects, the study recommends behavioral changes for patients, more research to understand the link between temperature and brain health, and policy interventions to reduce the economic impact of climate change, especially in poorer countries.
+
+The World Health Organisation (WHO) suggests integrating climate and mental health programs, supporting mental health in climate action, leveraging global commitments, developing community-based approaches, and addressing the funding gap for mental health support.
+
+The article also highlights the psychological burden of climate anxiety, particularly among the youth, and calls for urgent action to protect vulnerable populations and address the mental health impacts of climate change.
+
+Thu, 16 May 2024 17:15:29 +0530
+### [What is the Ukraine peace summit to be held in Switzerland? Will India attend?](https://www.firstpost.com/explainers/ukraine-peace-summit-13771630.html)
+
+Switzerland is set to host a peace conference on the Ukraine conflict on June 15 and 16 at the Bürgenstock resort near Lucerne. Over 50 countries have been invited, excluding Russia, but including nations from the Global South and Russia's ally, China. The Swiss government aims to establish a framework for lasting peace in Ukraine and a roadmap for Russia's participation in the peace process. The conference was initiated by Ukrainian President Volodymyr Zelenskyy and Swiss Foreign Minister Ignazio Cassis, with early discussions involving the EU and envoys from the Global South.
+
+The US has confirmed its participation, and countries from South America, Africa, and West Asia are expected to attend. Russia's attendance is uncertain, as it has not been invited, but Swiss officials emphasize the necessity of Russia's eventual involvement. Diplomatic efforts include shuttle diplomacy and a Swiss tradition of neutrality. The summit is seen as a first step towards peace, with a potential follow-up meeting planned.
+
+Experts express skepticism about the summit's potential without Russia's involvement and question the exclusion of Russia while inviting China and the Global South. India's Ministry of External Affairs has stated its openness to initiatives that can achieve peace. German Chancellor Olaf Scholz has tempered expectations, suggesting the summit could start a process leading to direct talks between Ukraine and Russia, but not an immediate end to the conflict. The summit will discuss various issues, including nuclear safety, grain exports, and prisoner exchanges, but no decisive outcomes are anticipated. Putin's military campaign continues, with recent offensives in the Kharkiv region, indicating a prolonged need for Western support for Ukraine.
+
+Thu, 16 May 2024 17:13:25 +0530
+### [City of no love? What are the ‘anti-sex’ beds at the 2024 Paris Olympics?](https://www.firstpost.com/explainers/anti-sex-beds-2024-paris-olympics-13771571.html)
+
+The article discusses the introduction of cardboard beds at the Paris 2024 Olympic Games, which have been mistakenly dubbed "anti-sex" beds. These beds, produced by the Japanese company Airweave, were first introduced at the Tokyo 2020 Olympic Games and are designed to support up to 440 pounds, accommodating athletes of various body sizes. Despite rumors, the beds' primary purpose is sustainability, as they are fully recyclable and contribute to reducing environmental waste. The beds and bedding for the Paris Olympics will be made almost entirely from renewable materials, a first in Olympic history. Claims that the beds were designed to prevent sexual activity among athletes have been debunked by athletes themselves, including Irish gymnast Rhys McClenaghan, who demonstrated the beds' durability. The article also touches on the Olympic Village's reputation for sexual escapades, citing past anecdotes from athletes. However, during the COVID-19 outbreak, athletes were advised against intimate interactions to prevent the spread of the virus. The focus on sustainability and the clarification of the beds' purpose reflect a commitment to environmental responsibility and debunking of myths surrounding the Olympic accommodations.
+
+Thu, 16 May 2024 15:58:01 +0530
+### [Biden and Trump agree to two debates: Here’s why it will be different this year](https://www.firstpost.com/explainers/biden-and-trump-agree-to-two-debates-heres-why-it-will-be-different-this-year-13771530.html)
+
+In a significant departure from tradition, **US President Joe Biden and former President Donald Trump** have agreed to participate in two campaign debates, bypassing the **Commission on Presidential Debates**. The first debate is scheduled for **27 June**, hosted by CNN, and the second for **10 September**, hosted by ABC. This marks a break from the norm, as no general-election debate has been held earlier than 21 September or concluded before 13 October since the Commission began organizing debates in 1988.
+
+The decision follows Biden's refusal to participate in debates organized by the Commission, proposing instead that media outlets host the events. Both campaigns have criticized the Commission's operations and scheduling, which does not align with the early voting process. The Republican National Committee has also distanced itself from the Commission-sponsored forums.
+
+Despite the changes, a dozen news organizations have urged the candidates to engage in debates, emphasizing the high stakes of the election and the irreplaceable value of direct candidate debates for the American public. The Commission, while expressing its intention to proceed with its plans, has faced criticism from both campaigns for being out of step with the current electoral structure and voter interests. The debates this year are set to be an exceptional event in the political calendar.
+
+Thu, 16 May 2024 15:57:39 +0530
+### [Kerala records spike in Hepatitis A cases: Who is at risk? What are its symptoms?](https://www.firstpost.com/health/kerala-records-spike-in-hepatitis-cases-13771416.html)
+
+Kerala is experiencing a significant Hepatitis A outbreak, with 1,977 cases and 12 deaths reported in the first four-and-a-half months of the year. The outbreak has been linked to poor sanitation and contaminated food and water. The state's health minister has issued alerts for Kozhikode, Malappuram, Thrissur, and Ernakulam districts, which are the most affected.
+
+The Hepatitis A virus (HAV) is highly contagious and can survive for months outside a host. It spreads through contaminated food and water or close contact with an infected person, affecting the liver and potentially causing severe damage. Recent cases in Kerala have been traced to contaminated water supplies lacking proper chlorination.
+
+Symptoms of Hepatitis A include stomach pain, loss of appetite, nausea, vomiting, diarrhea, weakness, fever, jaundice, joint pain, itchy skin, and changes in stool and urine color. The incubation period ranges from 14 to 28 days, and relapses can occur.
+
+The outbreak is unusual as it's affecting older individuals more than children, who typically contract the virus. This shift is attributed to Kerala's reliance on catering services and a population vulnerable due to lifestyle diseases and alcoholism.
+
+Prevention includes vaccination, either with the standalone Hepatitis A vaccine or a combined Hepatitis A and B vaccine. General hygiene practices, such as handwashing, drinking boiled water, avoiding street food, and maintaining clean surroundings, are also recommended to prevent infection.
+
+Thu, 16 May 2024 15:28:52 +0530
+### [France’s New Caledonia under emergency: What are territories? What rules govern them?](https://www.firstpost.com/explainers/frances-new-caledonia-emergency-13771573.html)
+
+The article discusses the concept of non-self-governing territories as defined by the UN, which are areas where people have not yet achieved full self-governance. It highlights France's 13 overseas territories, which are categorized into French Overseas Departments, French Overseas Collectivities, and French Special Collectivity, covering over 120,000 square kilometers with more than 2.6 million residents. The piece details the emergency in New Caledonia due to violence following a bill debate in France's National Assembly.
+
+The article explains that the UN Charter asks member states to prioritize the interests of the inhabitants of these territories. Historically, 72 territories were listed as non-self-governing in 1946, with 54 achieving independence between 1962 and 2002. As of May 2024, 17 territories remain on the UN list, with 14 governed by European nations.
+
+Each nation has its own rules for administering these territories, with the EU having special arrangements for those governed by France, the UK, the Netherlands, and Denmark. The UK oversees more than a dozen territories, each with its own laws and local governments but with appointed governors handling defense, foreign affairs, and police. The Netherlands administers six Caribbean islands, some with autonomous status, while Denmark has three autonomous countries, including Greenland and the Faroe Islands.
+
+France's territories are diverse, ranging from fully integrated French Overseas Departments to those with varying degrees of autonomy. New Caledonia holds a special status allowing referendums on independence. The article emphasizes the strategic and economic importance of these territories for France, noting their role in global military presence and potential reserves of hydrocarbons and strategic minerals in their Exclusive Economic Zones (EEZs). These territories also offer biodiversity that could be valuable for food, medicine, and cosmetics industries. France's overseas territories are seen as assets that enhance its military and economic influence globally.
+
+Thu, 16 May 2024 14:48:47 +0530
+### [Who is Zhang Zhan, the Chinese journalist who reported on COVID and is now missing?](https://www.firstpost.com/explainers/zhang-zhan-chinese-journalist-covid-missing-13771484.html)
+
+Zhang Zhan, a Chinese lawyer-turned-citizen journalist, was expected to be released after serving a four-year prison sentence for reporting on the COVID-19 outbreak in Wuhan. Despite completing her term, her current status is unknown, which has raised concerns among activists and human rights organizations. Zhang was recognized for her courageous reporting from Wuhan, which provided independent information about the pandemic's early days. Her work challenged the Chinese government's narrative and led to her arrest on charges of "picking quarrels and provoking trouble," a common charge used in political cases in China.
+
+During her imprisonment, Zhang's health deteriorated due to a hunger strike and reported force-feeding. Her family faced police pressure, and there has been little communication with her or about her since her scheduled release date. There is speculation that she may still be under police surveillance or restricted freedom. The situation underscores the risks faced by citizen journalists in China, who often remain under detention or surveillance even after their official release, and the ongoing sensitivity of COVID-19 reporting in the country. Human rights advocates urge that Zhang be freed without restrictions, highlighting the importance of not forgetting the sacrifices made by activists like her.
+
+Thu, 16 May 2024 14:21:14 +0530
+### [Why was Shyam Rangeela's nomination from Varanasi turned down? What are the rules for rejecting candidatures?](https://www.firstpost.com/explainers/lok-sabha-election-shyam-rangeela-nomination-varanasi-seat-eci-13771536.html)
+
+Comedian Shyam Rangeela's nomination to contest the Varanasi Lok Sabha seat as an Independent against Prime Minister Narendra Modi was rejected because he did not take the required oath. Rangeela claimed he was unaware of the process as a first-time candidate and was not informed about the oath-taking requirement. His attempts to file his nomination since May 10 were met with resistance, and he alleged that election officials were preventing him from contesting. The Election Commission of India's website listed 38 rejected nominations, including Rangeela's, while 17 were accepted.
+
+The article also discusses the broader issue of nomination rejections, citing recent cases where candidates' nominations were invalidated due to issues with proposers' signatures or other discrepancies. A plea in the Supreme Court sought to address the arbitrary rejection of nomination papers by returning officers, advocating for a defined criteria and a fair chance for candidates to rectify any defects in their papers.
+
+The rules for rejecting nominations include various criteria such as citizenship, age, proper presentation of papers, and adherence to deadlines and specified locations. Discrepancies in signatures, incomplete details, and failure to take an oath of affirmation are also grounds for rejection. The Representation of the People Act, 1951, outlines these rules and the scrutiny process conducted by the Returning Officer. The article highlights the need for transparency and fairness in the electoral nomination process.
+
 Thu, 16 May 2024 13:25:46 +0530
 ### [Drugged, groped, rape: The sexual misconduct allegations against magician David Copperfield](https://www.firstpost.com/explainers/magician-david-copperfield-sexual-misconduct-allegations-the-guardian-investigation-13771514.html)
 
