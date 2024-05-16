@@ -1,3 +1,17 @@
+Fri, 17 May 2024 00:20:00 +0530
+### [Malign motive: On the arrest and remand of NewsClick founder](https://www.thehindu.com/opinion/editorial/malign-motive-on-the-arrest-and-remand-of-newsclick-founder/article68182761.ece)
+
+The Supreme Court of India has invalidated the arrest and remand of NewsClick founder Prabir Purkayastha, citing the Delhi police's failure to provide written grounds for his arrest. The Court criticized the police for their secretive approach and for trying to bypass due process. The case against Purkayastha, which involved accusations under the Unlawful Activities (Prevention) Act, was deemed to lack any concrete unlawful act or evidence of terrorism.
+
+The Court's judgment also emphasized the necessity of providing written grounds for arrest, extending this requirement from the Prevention of Money Laundering Act to the UAPA and other offenses. The charge sheet filed by the police contained controversial claims, including allegations of Purkayastha being funded by the Chinese government and conspiring to undermine Indian democracy, which the Court found to be exaggerated and not a basis to deny bail. The adherence to procedural norms in providing arrest grounds was upheld as paramount by the Court.
+
+Fri, 17 May 2024 00:10:00 +0530
+### [Trade imbalance: on India’s merchandise exports](https://www.thehindu.com/opinion/editorial/trade-imbalance-on-indias-merchandise-exports/article68183110.ece)
+
+India's merchandise exports saw a slight increase of 1.07% in April 2024, reaching $34.99 billion, despite a 3% contraction in the previous fiscal year due to global trade disruptions. The growth was primarily driven by pharmaceuticals, chemicals, electronics, and petroleum products. However, 17 out of the top 30 export items experienced a decline. Concurrently, imports surged by 10.25% to over $54 billion, driven by high oil and gold prices, leading to a trade deficit of $19.1 billion, the highest in four months.
+
+The World Trade Organization anticipates a 2.6% rise in global trade volumes in 2024. India aims to capitalize on this by addressing challenges in labour-intensive sectors like garments and footwear, where it faces competition from Bangladesh and Vietnam. Quality concerns in spices, drugs, and environmental issues in shrimp exports also need attention. With favourable monsoon predictions, the government must act swiftly to boost agricultural exports and manage the trade balance effectively.
+
 Thu, 16 May 2024 00:20:00 +0530
 ### [Crime and time: On election-time incarceration](https://www.thehindu.com/opinion/editorial/crime-and-time-on-election-time-incarceration/article68179125.ece)
 

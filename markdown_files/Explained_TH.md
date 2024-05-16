@@ -1,3 +1,12 @@
+Thu, 16 May 2024 22:40:19 +0530
+### [The use of AI in drug development | Explained](https://www.thehindu.com/sci-tech/technology/the-use-of-ai-in-drug-development-explained/article68183913.ece)
+
+The article discusses the impact of Artificial Intelligence (AI) on drug development, highlighting its potential to expedite the process. It begins by explaining that drug development traditionally starts with identifying a 'druggable' protein target, a process that can be lengthy and costly due to laboratory experiments. AI, particularly through tools like AlphaFold and RoseTTAFold, has revolutionized this phase by predicting protein structures and drug-target interactions, thereby saving time and resources.
+
+The upgraded versions of these tools, AlphaFold 3 and RoseTTAFold All-Atom, have further advanced the field by predicting interactions between proteins, DNA, RNA, and small molecules with higher accuracy. However, the article notes that these AI tools have limitations, such as a maximum of 80% accuracy in predictions and the inability to guarantee success in subsequent drug development phases. Additionally, challenges like model hallucinations and the unavailability of AlphaFold 3's code for independent verification are mentioned.
+
+The article also touches on the need for large-scale computing infrastructure and skilled AI scientists for developing new AI tools, pointing out India's potential to lead in this area despite current limitations. The author, Professor Binay Panda, emphasizes India's rich history in structural biology and the growing number of pharmaceutical organizations as advantages for the country in applying AI to drug development.
+
 Thu, 16 May 2024 18:42:47 +0530
 ### [Watch | Can you take your lawyer to consumer court for poor services? | Explained](https://www.thehindu.com/news/national/watch-can-you-take-your-lawyer-to-consumer-court-for-poor-services-explained/article68182730.ece)
 
