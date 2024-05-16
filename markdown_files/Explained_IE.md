@@ -1,3 +1,8 @@
+Thu, 16 May 2024 01:35:38 +0000
+### [V P Singh’s turbulent tenure](https://indianexpress.com/article/explained/explained-politics/v-p-singhs-turbulent-tenure-9331732/)
+
+The article provides a detailed account of the political events in India during the period of 1989-1991. It highlights the significant electoral reforms introduced by Rajiv Gandhi's government, including the lowering of the voting age to 18. The article discusses the rise of V P Singh as a political force and his anti-corruption campaign, which led to his election as Prime Minister. The narrative covers the internal conflicts within the Janata Dal and the National Front, the implementation of the Mandal Commission's recommendations, and the subsequent political instability that resulted in two Lok Sabha elections and the appointment of two Prime Ministers within 19 months. The Congress party suffered a major setback in the elections, while the BJP made significant gains. The article concludes with the resignation of Chandra Shekhar as Prime Minister, leading to the dissolution of the Lok Sabha. The unrelated content and advertisements in the article have been omitted from this summary.
+
 Wed, 15 May 2024 22:43:21 +0000
 ### [NewsClick founder released: Shield against arrest extended to stringent provisions of UAPA](https://indianexpress.com/article/explained/newsclick-founder-released-shield-against-arrest-extended-to-stringent-provisions-of-uapa-9331821/)
 

@@ -1,3 +1,14 @@
+Thu, 16 May 2024 09:35:27 +0530
+### [As antisemitism rises, US media stays oblivious to seismic shifts in polity as it goes about pontificating to the world](https://www.firstpost.com/opinion/as-antisemitism-rises-us-media-stays-oblivious-to-seismic-shifts-in-polity-as-it-goes-about-pontificating-to-the-world-13771403.html)
+
+The article discusses a significant generational shift in the attitude of young Western citizens towards Israel and Jews, highlighted by recent protests and incidents on American college campuses. It describes a viral video of a Columbia University student's graduation ceremony where she and others displayed symbols of Palestinian solidarity. The article reports on widespread student protests against the war in Gaza, calling for divestment from Israel and an end to US weapon supplies. It notes the irony of the democratic West Asia nation, Israel, being demonized despite facing severe threats.
+
+The piece criticizes the Western media for failing to provide a coherent narrative explaining why pampered Western youth are adopting pro-Palestinian protests as a core part of their identity. It details violent acts committed by Hamas, contrasting them with the victimization of Israel and the rise in antisemitism in the US, particularly on college campuses. The article mentions incidents of Jewish students feeling unsafe and university presidents resigning over the issue.
+
+Furthermore, the article explores the financial and ideological influences behind the protests, including Qatari money and support from various advocacy groups. It highlights opinion polls showing a generational divide in American support for Israel, with younger people more likely to sympathize with Palestinians.
+
+The author argues that the Democratic Left has conflated various radical causes into a unified identitarian political stance against Israel, which is now seen as a symbol of oppression. The article concludes by lamenting the American media's failure to understand or explain the disaffection of American youth towards Israel and its role as an extended arm of the state, influencing global narratives and politics.
+
 Wed, 15 May 2024 21:34:55 +0530
 ### [Successful Lok Sabha polling augurs well for Kashmir, now prepare for Assembly elections](https://www.firstpost.com/opinion/successful-lok-sabha-polling-augurs-well-for-kashmir-now-prepare-for-assembly-elections-13771312.html)
 

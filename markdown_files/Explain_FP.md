@@ -1,3 +1,14 @@
+Thu, 16 May 2024 07:58:15 +0530
+### [Vladimir Putin in China again: What does his 'no-limits’ friendship with Xi Jinping mean for world?](https://www.firstpost.com/explainers/vladimir-putin-xi-jinping-visit-no-limits-friendship-world-13771258.html)
+
+Russian President Vladimir Putin's visit to China, hosted by President Xi Jinping, is seen as a reaffirmation of the 'no-limits' partnership between the two nations, particularly in the context of countering a US-led international order. This visit, Putin's second in six months, includes discussions on bilateral relations and regional issues, with several joint statements and agreements expected to be signed.
+
+The trip is symbolic of the strengthening ties despite international pressures and is likely to include talks on economic support for Russia's war economy, including machinery, chemicals, and energy resources. Both countries are exploring ways to circumvent US sanctions, with a focus on developing 'sanctions-proof' payment mechanisms.
+
+Putin has expressed openness to dialogue on Ukraine, aligning with China's stance for a peaceful resolution. However, experts predict no significant policy change regarding Ukraine. The visit underscores Russia's reliance on China amidst its isolation from the West and highlights China's strategic balancing act between supporting Russia and maintaining relationships with Europe and the US.
+
+The meeting between Putin and Xi carries weight as it demonstrates China's continued engagement with Russia, despite international criticism. The visit occurs just before the inauguration of Taiwan's new president, reflecting the broader geopolitical tensions involving China, Russia, and the West. Both countries are seeking to expand their influence globally while managing their complex relationship with each other. The visit is a testament to the ongoing collaboration and mutual support between Russia and China in the face of global challenges.
+
 Thu, 16 May 2024 06:00:49 +0530
 ### [FirstUp: Vladimir Putin to meet Xi Jinping in China, Kejriwal holds road show... today's big stories](https://www.firstpost.com/explainers/firstup-vladimir-putin-to-meet-xi-jinping-in-china-kejriwal-holds-road-show-todays-big-stories-13771324.html)
 
