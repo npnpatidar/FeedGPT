@@ -1,3 +1,8 @@
+Thu, 16 May 2024 13:43:09 +0000
+### [Behind Supreme Court’s remarks on sanctity of marriage, a growing social anxiety](https://indianexpress.com/article/opinion/columns/supreme-courts-sanctity-of-marriage-9333496/)
+
+The article discusses a judgment by Justices B V Nagarathna and Augustine George Masih on the sacredness of marriage in Indian society. The case involved a matrimonial dispute where a couple sought to annul their marriage, which was registered under the Hindu Marriage Act (HMA) without a ceremonial wedding. The judges declared the marriage null and void, emphasizing the importance of the ceremonial aspect of marriage as a sacrament and an event that confers salvation. They criticized the commercialization of marriage and urged young people to reflect on its significance. The judgment also addressed the legal and sociological aspects of marriage, including caste endogamy, the exclusion of same-sex couples, and the pressures of gendered roles within marriage. It highlighted the need for marriage to be a dignified, equal, consensual, and healthy union, and pointed out the privileges and legal benefits that come with it. The article ends with personal views from the writer, an assistant professor at the University of Hyderabad, on the evolving institution of marriage and its challenges in contemporary India. The unrelated content about actor and filmmaker Deepak Tijori has been omitted from this summary.
+
 Thu, 16 May 2024 12:17:36 +0000
 ### [‘Srikanth’ evokes memories of my experiences with people who are more than their disabilities](https://indianexpress.com/article/opinion/columns/srikanth-memories-experience-people-more-than-disabilities-9333348/)
 

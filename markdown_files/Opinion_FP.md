@@ -1,3 +1,21 @@
+Thu, 16 May 2024 18:54:04 +0530
+### [With no clear exit strategy in Gaza, Netanyahu is trapped in a ‘Chakravyuh’](https://www.firstpost.com/opinion/with-no-clear-exit-strategy-in-gaza-netanyahu-is-trapped-in-a-chakravyuh-13771677.html)
+
+The article discusses the ongoing conflict between Israel and Hamas, particularly focusing on Israel's Prime Minister Benjamin Netanyahu's stance on the war in Gaza. Netanyahu is determined to continue the offensive until Hamas is completely defeated, despite the high human cost, with over 35,000 lives lost in Gaza, mostly women and children. The article reviews the war's progression, highlighting missed opportunities for ceasefire and peace, including failed negotiations and rejected proposals. It criticizes Israel's war strategy, which has been driven more by revenge than rational objectives, leading to a prolonged conflict with increasing international condemnation due to indiscriminate targeting and significant civilian casualties.
+
+The situation is compared to the Chakravyuh formation from the Indian epic Mahabharata, suggesting that Israel, like the warrior Abhimanyu, is trapped in a conflict with no clear exit strategy. The article suggests that Netanyahu's refusal to consider exit options presented over time may lead to a situation where Israel could find itself isolated and without support, especially if the US halts military supplies and other nations increase pressure. The author, an Assistant Director at MP-IDSA, emphasizes that the views expressed are personal and not reflective of Firstpost's stance. The article concludes by urging Netanyahu to reassess Israel's war goals and consider a definable end state to avoid further entrapment in the conflict.
+
+Thu, 16 May 2024 17:53:27 +0530
+### [Why India should withstand American pressure on the Chabahar deal with Iran](https://www.firstpost.com/opinion/why-india-should-withstand-american-pressure-on-the-chabahar-deal-with-iran-13771666.html)
+
+The article discusses the strategic significance of the Chabahar Port in Iran for India's regional connectivity and trade ambitions. The port is central to the International North-South Transport Corridor (INSTC), enhancing trade with Iran, Central Asia, and Russia. Despite U.S. sanctions against Iran, India views the development of Chabahar Port as crucial for diversifying trade routes and reducing reliance on Pakistan's ports. A 10-year agreement between Indian Ports Global Limited (IPGL) and Iran promises infrastructural improvements and increased trade capacity.
+
+Chabahar Port has facilitated significant cargo traffic and essential commodity shipments from India to Afghanistan. India's advocacy for including Chabahar in the INSTC framework reflects its strategic importance for regional connectivity. The INSTC, proposed in 2002, aims to streamline trade between India and Russia, bypassing Pakistan. Recent developments, including increased India-Russia trade and India's economic growth, have revitalized the INSTC's relevance.
+
+Despite logistical challenges and U.S. sanctions, the INSTC has been operational since 2018-19, with successful dry runs and commercial consignments transported. India's substantial trade growth with Russia, particularly in oil imports, underscores the INSTC's importance for cost-effective transportation. The corridor also offers trade potential with the Eurasian Economic Union and serves as a counterbalance to Chinese influence in the region.
+
+The article suggests that U.S. support for India's engagement with Chabahar and the INSTC aligns with countering Chinese hegemony in Central Asia and Iran. The INSTC through Chabahar is seen as a strategic imperative for India, promising economic prosperity, regional stability, and diversified energy supply lines. India's involvement with the INSTC is a key element of its strategic vision for the Eurasian region, offering mutual benefits for all involved parties. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
 Thu, 16 May 2024 16:35:32 +0530
 ### [Operation Desert Stormy: Trump to escape minefield despite Daniels’ testimony](https://www.firstpost.com/opinion/operation-desert-stormy-trump-to-escape-minefield-despite-daniels-testimony-13771556.html)
 

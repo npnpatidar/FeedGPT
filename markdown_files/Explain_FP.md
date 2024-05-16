@@ -1,3 +1,48 @@
+Thu, 16 May 2024 20:43:38 +0530
+### [Why Army’s new tank repair centres in Ladakh are a big boost for India](https://www.firstpost.com/explainers/indian-army-new-tank-repair-centres-ladakh-china-tensions-lac-13771698.html)
+
+The Indian Army has set up two tank repair facilities in Ladakh near the Line of Actual Control (LAC) with China. These facilities, located in the Daulat Beg Oldi (DBO) sector and Nyoma, are among the world's highest, situated at altitudes over 14,500 feet. This move is in response to the increased military deployment by China and the ongoing tensions since the 2020 standoff in eastern Ladakh.
+
+The repair centers are strategically important due to their proximity to sensitive areas like the Depsang Plains and Aksai Chin. They enable maintenance and repair of over 500 tanks and infantry combat vehicles, including T-90s, T-72s, and BMP II Armoured Vehicles, without the need to transport them to the mainland. The facilities are designed to operate in extreme conditions, with temperatures dropping to minus 40 degrees.
+
+The establishment of these centers enhances the serviceability and readiness of India's armoured fighting vehicles in high-altitude regions. Additionally, plans to upgrade the Nyoma airfield for fighter jet operations further bolster India's defence capabilities in the region. The repair facilities are crucial for rapid deployment and maintenance of tanks in case of conflict, ensuring India's preparedness along the LAC.
+
+Thu, 16 May 2024 20:20:53 +0530
+### [Quicksplained:  How US tariff hikes will benefit Vietnam and give a backdoor to Chinese goods](https://www.firstpost.com/explainers/quicksplained-how-us-tariff-hikes-will-benefit-vietnam-and-give-a-backdoor-to-chinese-goods-13771700.html)
+
+President Joe Biden has imposed significant tariffs on a range of Chinese products, including electric vehicles (EVs), their batteries, computer chips, and solar cells. This move is expected to prompt a shift in Chinese production to other countries like Vietnam. The tariffs include over 100% on Chinese EVs, a doubling to 50% on semiconductors and solar cells, and a new 25% tariff on Chinese critical battery minerals, graphite, and EV battery magnets. These measures aim to protect emerging US manufacturing and technology sectors, with the administration offering substantial financial incentives.
+
+China has promised to retaliate against these tariffs. However, experts believe that China will likely relocate its production to avoid the tariffs, potentially to Vietnam. This could lead to Chinese goods entering the US market through other countries, effectively circumventing the new tariffs. Data indicates that Vietnam's exports to the US largely consist of parts and components originally made in China, suggesting a high correlation between Chinese imports to Vietnam and Vietnamese exports to the US.
+
+The situation could also affect Europe, as Chinese excess production might be redirected there, where trade protections are generally weaker. Additionally, the tariff changes come amidst the intensifying presidential race between Biden and Donald Trump, with Biden facing challenges in convincing voters of his economic policy effectiveness despite low unemployment and strong economic growth. A recent poll showed Trump leading Biden on economic issues. The implications of Biden's tariffs are far-reaching, potentially impacting global trade dynamics and the strategic movements of manufacturing bases.
+
+Thu, 16 May 2024 19:57:33 +0530
+### [Lok Sabha elections: How cash-strapped Congress candidates are using crowdfunding for the polls](https://www.firstpost.com/explainers/lok-sabha-congress-crowdfunding-13771682.html)
+
+Kanhaiya Kumar, the Congress candidate for North East Delhi in the 2024 Lok Sabha elections, has initiated a crowdfunding campaign, joining several other Congress candidates who have turned to this method due to the party's financial constraints. The Congress party's accounts have been frozen over unpaid tax dues, prompting the 'Donate for Desh' campaign which claims to have raised over Rs 10 crore. Candidates like Rutvik Makwana, Naishadh Desai, and Lalit Vasoya have adopted various crowdfunding strategies, with Vasoya even selling his land to fund his campaign.
+
+The Congress has been compelled to resort to crowdfunding following the freezing of its accounts, with state units instructed to raise their own funds. This strategy is not new; it was previously employed in 2021 and is inspired by Mahatma Gandhi's 'Tilak Swaraj Fund'. The party aims to empower itself to create a country with equal resource distribution and opportunities, asking for donations in multiples of Rs 138 to symbolize its commitment to India. The BJP has criticized these efforts, alleging they are another attempt to siphon off public money.
+
+Kumar's campaign emphasizes the election as a fight to save democracy, inviting citizens to participate and support through online crowdfunding, specifically through the platform www.fueladream.com. The Congress is contesting the election through crowdfunding to align with the people's support, avoiding other fundraising methods. The elections for all seven seats in Delhi are scheduled for 25 May.
+
+Thu, 16 May 2024 19:23:03 +0530
+### [In Graphics | What causes wildfires? How do they spread so quickly?](https://www.firstpost.com/explainers/in-graphics-what-causes-wildfires-how-do-they-spread-so-quickly-13771599.html)
+
+Canada is currently facing a severe wildfire season with nearly **120 wildfires** raging across the country. Western Canada, particularly British Columbia and Alberta, is experiencing the most significant impact. The situation has escalated to the point where **6,000 residents** have been evacuated from Fort McMurray, Alberta. The fires are not only threatening people's safety but also causing extensive damage. In a related incident, a wildfire in Uttarakhand, India, resulted in **five fatalities** and affected over **1,300 hectares** of land, prompting the Supreme Court to intervene due to the state's inadequate response to the crisis. The article also includes a graphical guide to understanding the causes of wildfires.
+
+Thu, 16 May 2024 18:35:45 +0530
+### [What is VITT, the other blood clotting condition linked to AstraZeneca's COVID-19 vaccine?](https://www.firstpost.com/explainers/vitt-blood-clotting-condition-astrazeneca-covid-19-vaccine-13771644.html)
+
+The article discusses the rare side effect of blood clotting associated with AstraZeneca's COVID-19 vaccine, known as vaccine-induced immune thrombocytopenia and thrombosis (VITT). Australian researchers have found that VITT and a similar disorder caused by an adenovirus share nearly identical molecular signatures. This discovery, made at Flinders University, suggests a common trigger in virus and vaccine structures that initiates pathological PF4 antibodies, which could have implications for future vaccine development and safety.
+
+VITT is a rare condition that occurs in some individuals after receiving adenoviral vector COVID-19 vaccines like AstraZeneca's Vaxzevria and Johnson & Johnson's Janssen. It leads to blood clots and low platelet counts, particularly in healthy young adults. Symptoms include persistent headaches, shortness of breath, abdominal pain, and easy bruising or bleeding. The condition involves the immune system producing antibodies that bind to a protein called platelet factor 4 (PF4), affecting the body's clotting process.
+
+The article also distinguishes between VITT and Thrombosis with Thrombocytopenia Syndrome (TTS), with VITT being a subset of immune-mediated TTS. AstraZeneca has acknowledged in court documents that its vaccine can cause TTS in rare cases. A study cited in the article reported varying rates of TTS following the vaccine's administration, with the highest incidence in Nordic countries and the lowest in Asian nations.
+
+One case highlighted is that of an 18-year-old woman from India who died from VITT after receiving the Covishield vaccine. Despite medical intervention, she suffered multiple blood clots and a brain hemorrhage, leading to her death.
+
+The article concludes with the mention that AstraZeneca's vaccine has been removed from markets for commercial reasons, following the scrutiny over its safety. However, experts reassure that the side effects typically manifest within the first few weeks of vaccination, suggesting there is no cause for concern for those who were vaccinated longer ago. The article is based on various sources, including reports from 9news.com.au and The Conversation.
+
 Thu, 16 May 2024 17:33:39 +0530
 ### [How climate change can worsen dementia and depression](https://www.firstpost.com/health/how-climate-change-can-worsen-dementia-and-depression-13771600.html)
 
