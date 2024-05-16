@@ -1,3 +1,12 @@
+Wed, 15 May 2024 22:43:21 +0000
+### [NewsClick founder released: Shield against arrest extended to stringent provisions of UAPA](https://indianexpress.com/article/explained/newsclick-founder-released-shield-against-arrest-extended-to-stringent-provisions-of-uapa-9331821/)
+
+The Supreme Court of India has extended constitutional protections against arrest to cases under the Unlawful Activities (Prevention) Act (UAPA), emphasizing the need for written grounds of arrest to be shared with the accused. This follows a previous decision related to the Prevention of Money Laundering Act (PMLA). The court highlighted the importance of fundamental rights and strict adherence to procedural safeguards, especially under UAPA, which allows the state significant powers.
+
+The case in question involved NewsClick editor Prabir Purkayastha, whose arrest was invalidated by the Supreme Court due to procedural lapses and vague charges. The Delhi Police Special Cell had invoked anti-terror provisions against Purkayastha, but the trial court has not yet framed charges. The Supreme Court's order pointed out hurried aspects of the investigation and questionable practices, such as the absence of Purkayastha's counsel during his production before a magistrate and alterations in the remand order.
+
+The FIR related to the case was not made public, and Purkayastha was not provided a copy despite requests. The Supreme Court refrained from commenting on the remand application's contents to avoid prejudicing the trial. However, it noted that the grounds of arrest shared with the advocate were vague and lacked specific incidents or events leading to the alleged offences. Following the Supreme Court's decision, a Delhi court granted bail to Purkayastha in the case where he is accused of receiving funds for pro-China propaganda.
+
 Wed, 15 May 2024 15:06:25 +0000
 ### [US-trained economist and a guitar player: Meet Lawrence Wong, Singapore’s new PM](https://indianexpress.com/article/explained/explained-global/lawrence-wong-singapore-new-prime-minister-9331443/)
 
