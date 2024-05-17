@@ -1,3 +1,12 @@
+Fri, 17 May 2024 11:19:10 +0530
+### [Why US needs to accept multipolar world order with dignity](https://www.firstpost.com/opinion/why-us-needs-to-accept-multipolar-world-order-with-dignity-13771786.html)
+
+The article discusses the concept of multipolarity in the current global order, highlighting the shift from a unipolar or bipolar world to one where power is more diffused. Key international figures, including UN Secretary-General Antonio Guterres and German Chancellor Olaf Scholz, have recognized this shift. The debate centers on whether the world is truly multipolar or if it remains bipolar, with only the US and China as dominant powers. Critics argue that economic and military indicators suggest bipolarity, while others believe that power is becoming more distributed among several nations, including middle powers like Brazil, India, and Turkey.
+
+The article also touches on the geopolitical transformations, such as the US's inability to assert its military might in conflicts like Ukraine and against groups like the Taliban, and China's growing military and economic influence. It suggests that the US's traditional dominance in areas like R&D and higher education is being challenged by China and other emerging economies.
+
+The author argues that power in international relations is not solely based on economic and military indicators but also includes factors like geography, internal governance, and civilizational narratives. The article concludes that the world is moving towards unbalanced multipolarity, where power is not equally distributed but contested by a few powerful states and a range of middle powers. This shift is partly driven by the Global South's dissatisfaction with Western-centric world order and institutions, leading to the rise of alternative institutions like the Asian Infrastructure Investment Bank and the BRICS Development Bank. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
 Thu, 16 May 2024 18:54:04 +0530
 ### [With no clear exit strategy in Gaza, Netanyahu is trapped in a ‘Chakravyuh’](https://www.firstpost.com/opinion/with-no-clear-exit-strategy-in-gaza-netanyahu-is-trapped-in-a-chakravyuh-13771677.html)
 

@@ -1,3 +1,13 @@
+Fri, 17 May 2024 07:36:08 +0000
+### [The work epidemic: Why Indians need to rediscover leisure](https://indianexpress.com/article/opinion/columns/work-epidemic-indians-leisure-9334703/)
+
+The article reflects on the changing perceptions of leisure and work in India, contrasting the author's childhood memories of a place called "Khela Ghar" with the present. "Khela Ghar" was once a metaphor for play and leisure, but now it's a place where the author's nephew goes for English tuitions. The author discusses the generational shift from his father's time, where leisure was sought after, to the current work-centric culture. It criticizes the extreme work ethic promoted by figures like Prime Minister Modi and Narayana Murthy, and the societal undervaluing of leisure time. The article invokes Rabindranath Tagore's views on the necessity of leisure (chhutti) to avoid becoming mindless workers. It expands the concept of "khela" beyond children's play to include the joy and grace of life itself, as exemplified in Hindu mythology and literature. The author laments the loss of spaces for rest and community, replaced by a relentless pursuit of productivity that stifles creativity and joy. The article concludes by advocating for the importance of leisure and the humanizing effect it has on society.
+
+Fri, 17 May 2024 07:04:34 +0000
+### [When women are ‘loved’ to death: A Karnataka story](https://indianexpress.com/article/opinion/columns/when-women-are-loved-to-death-a-karnataka-story-9334491/)
+
+The article discusses a series of violent incidents in Karnataka, India, highlighting the issue of women's consent and the patriarchal claim over women's bodies. It details several cases where women were killed by men claiming to love them, including a high-profile case involving Prajwal Revanna, who allegedly abused multiple women. The article criticizes the political narrative that frames these events as a law and order problem, rather than addressing the underlying gender relations and societal structures that perpetuate violence against women. It also points out the role of popular culture in normalizing such violence. The author argues for a societal overhaul to create a gender- and caste-just environment, making public and private spaces safer for women, and calls for accountability from authorities in protecting women's rights. The article concludes by emphasizing the complexity of empowering women in a society where each step forward is met with backlash, and the need for a deeper change beyond mere reforms.
+
 Fri, 17 May 2024 01:49:55 +0000
 ### [On Sushil Modi, his son writes: Thank you papa, you were our hero](https://indianexpress.com/article/opinion/columns/on-sushil-modi-his-son-writes-thank-you-papa-you-were-our-hero-9333947/)
 

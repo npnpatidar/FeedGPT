@@ -1,3 +1,40 @@
+Fri, 17 May 2024 12:22:00 +0530
+### [Robert Fico shooting: How the attack has sparked misinformation and lies](https://www.firstpost.com/explainers/robert-fico-shooting-how-the-attack-has-sparked-misinformation-and-lies-13771803.html)
+
+In Slovakia, Prime Minister Robert Fico was seriously injured in an assassination attempt, leading to widespread misinformation on social media. False claims circulated that the 71-year-old gunman was connected to the Progressive Slovakia party and its leader. Fact-checkers debunked these claims, revealing no evidence of such affiliations. The incident exposed deep divisions within the country, with some politicians blaming the liberal opposition and media without proof. Calls for unity were made by outgoing President Zuzana Caputova and President-elect Peter Pellegrini amidst the tense atmosphere. The government's decision to overhaul public broadcasting has been criticized as a move towards pro-government propaganda. The situation has heightened tensions and fear within Slovak society.
+
+Fri, 17 May 2024 11:33:22 +0530
+### [Inside Mumbai police's covert operation that helped arrest man behind Mumbai hoarding collapse](https://www.firstpost.com/explainers/man-behind-mumbai-hoarding-collapse-arrested-by-mumbai-police-13771764.html)
+
+Bhavesh Bhinde, the owner of Ego Media Pvt Ltd, was arrested in Udaipur after a billboard his company installed in Mumbai's Ghatkopar area collapsed, causing 16 deaths and 75 injuries. The arrest followed a multi-state manhunt involving Maharashtra, Gujarat, and Rajasthan. Bhinde had been evading capture by changing locations and identities. He faces charges of culpable homicide not amounting to murder and has a history of other criminal complaints, including a rape and molestation case. The collapsed billboard, which was larger than allowed and recognized as the "Largest Hoarding" by the Limca Book of Records, led to a 66-hour rescue operation. Allegations have been made of irregularities and lack of transparency in the hoarding's installation and permissions granted to Bhinde's firm. An inquiry into the incident is ongoing, with calls for a thorough investigation into the tender process and revenue distribution.
+
+Fri, 17 May 2024 11:01:44 +0530
+### [How rising sea levels may force Thailand to move its capital](https://www.firstpost.com/explainers/how-rising-sea-levels-may-force-thailand-to-move-its-capital-13771546.html)
+
+Thailand is facing the serious threat of flooding in low-lying areas, including Bangkok, due to rising sea levels. A senior official from the country's climate change office has indicated that relocating the capital is a significant consideration. The official noted that Bangkok could be underwater if current warming trends continue, as the city is already experiencing flooding during the rainy season. Measures like building dikes are being explored, similar to those in the Netherlands. However, discussions about moving the capital are still in the hypothetical stage.
+
+The potential relocation is part of a broader response to climate change impacts affecting various sectors in Thailand. The government is taking steps to protect the environment, including passing clean air legislation and considering closing more national parks to protect coral reefs. Thailand aims to achieve carbon neutrality by 2050 and net-zero emissions by 2065. The first climate change legislation, which includes a range of mitigation and adaptation measures, is expected to pass into law this year. The situation mirrors actions in the region, such as Indonesia's move to a new capital due to similar concerns. Thailand's efforts reflect a commitment to addressing the challenges posed by climate change.
+
+Fri, 17 May 2024 10:36:42 +0530
+### [How the Swati Maliwal-Bibhav Kumar ‘assault’ row unfolded: The complete story](https://www.firstpost.com/explainers/swati-maliwal-bibhav-kumar-assault-row-aap-arvind-kejriwal-13771794.html)
+
+The article details a series of events involving an FIR filed by the Delhi Police against Arvind Kejriwal's aide, Bibhav Kumar, based on allegations made by Swati Maliwal. Maliwal, a Rajya Sabha MP and former Delhi Commission for Women (DCW) chief, accused Kumar of physically assaulting her at Kejriwal's residence. The FIR includes serious charges such as assault with intent to disrobe, criminal intimidation, and causing hurt.
+
+The incident has sparked a political controversy, with the BJP criticizing the AAP for its handling of the situation and questioning Kejriwal's silence. Maliwal has expressed her distress over the incident and hopes for appropriate action. The AAP initially remained silent but later acknowledged the incident, promising strict action against Kumar. The BJP staged protests demanding justice for Maliwal, while her ex-husband claimed her life was in danger, suggesting a larger conspiracy.
+
+The situation escalated when Kumar was seen with Kejriwal post-assault allegations, leading to further criticism from the BJP. The police took Maliwal's statement, which detailed the alleged attack, and Kumar was summoned by the National Commission for Women. Former AAP leader Shazia Ilmi also supported Maliwal, sharing her own experiences of misbehavior within the party.
+
+The article concludes with various political figures and parties responding to the incident, reflecting the complex interplay of politics and personal safety issues. Kejriwal has not publicly addressed the matter, while other leaders have expressed their support for Maliwal and women's safety in general. The case remains a contentious issue in the political landscape.
+
+Fri, 17 May 2024 09:43:07 +0530
+### [Is Joe Biden being arm-twisted by Republicans to deliver deadlier weapons to Israel?](https://www.firstpost.com/explainers/joe-biden-republicans-israel-2000-pound-bombs-13771763.html)
+
+The article discusses the passage of the **Israel Security Assistance Support Act** by the Republican-majority House of Representatives, which aims to force President Joe Biden to lift his hold on high-payload bombs approved for Israel. The act is seen as a political strategy to pressure Biden and influence sentiments around antisemitism and the Israel-Hamas conflict ahead of the 2024 U.S. presidential elections.
+
+The bill, which seeks to prevent Biden from freezing military aid to Israel, including 3,500 bombs, is largely symbolic and unlikely to become law due to expected rejection in the Democratic-led Senate and Biden's veto pledge. Despite Republican pressure, Biden has shown support for Israel through a recent arms package announcement, while also expressing concern over the humanitarian impact in Gaza.
+
+The article also highlights the internal divisions within the Democratic Party, with some members crossing party lines to support the bill. It notes the significant casualties resulting from the Israel-Hamas conflict and the White House's frustration with the rising civilian death toll. Secretary of State Antony Blinken has warned of the potential for an insurgency if Israel's military campaign continues as is. The article concludes with a mention of the broader implications of the conflict and the political maneuvers in the U.S. regarding support for Israel.
+
 Fri, 17 May 2024 09:23:12 +0530
 ### [Why is New York seeing a boom of panic rooms?](https://www.firstpost.com/explainers/why-is-new-york-seeing-a-boom-of-panic-rooms-13771678.html)
 
@@ -6389,8 +6426,7 @@ Additionally, the article mentions the birth anniversaries of notable individual
 Wed, 13 Mar 2024 20:23:41 +0530
 ### [‘Sephora kids’: Why obsession of tweens with skincare is concerning](https://www.firstpost.com/explainers/sephora-kids-why-obsession-of-tweens-with-skincare-is-concerning-13748500.html)
 
-Article found but Couldn't summarize 
-A new fad ‘Sephora kids’ has gained traction on social media. It shows children as young as 10 swarming expensive beauty stores like Sephora and sharing videos showing off their long skin-care routines. Experts are concerned since such products aren’t designed for kids and can be harmful to them
+The article discusses the "Sephora Kids" trend, where children and young teens are showing a keen interest in expensive cosmetics and skincare routines, sharing their experiences on social media platforms like TikTok and Instagram. Dermatologists express concern over the potential harm these products, which are not designed for young skin, can cause, including skin barrier damage, dermatitis, and acne. The trend is also leading to a significant increase in sales for beauty brands, some of which are now targeting the younger demographic, known as Gen Alpha, with products and marketing strategies. Brands are leveraging social media influencers and algorithms to reach and influence tweens, who are increasingly concerned about their appearance. The baby and child skincare market is expected to grow substantially, with a projected global market volume of $380 million by 2028. The article highlights the implications of this trend on children's health and the beauty industry's direction.
 
 Wed, 13 Mar 2024 19:44:43 +0530
 ### [Opinion Poll: How Modi, jobs and inflation will be the key factors for 2024](https://www.firstpost.com/explainers/news18-mega-opinion-poll-modi-jobs-inflation-key-factors-2024-lok-sabha-elections-13748504.html)
