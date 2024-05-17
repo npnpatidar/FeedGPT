@@ -1,3 +1,12 @@
+Fri, 17 May 2024 13:18:22 +0000
+### [Suhas Palshikar writes: BJP’s electoral pitch shows duality, not inconsistency](https://indianexpress.com/article/opinion/columns/bjp-electoral-pitch-duality-inconsistency-9335624/)
+
+The article discusses the current political campaign in India, highlighting the BJP's shift in strategy. It notes that the BJP, led by Prime Minister Narendra Modi, has moved from showcasing its achievements to exploiting social prejudices and asserting majority sentiment. This change is seen as a response to criticism and a loss of initiative. The article argues that the BJP's approach is not due to confusion but a deliberate strategy of polarizing Hindu votes by sidelining the constitutional vision of fraternity and plurality.
+
+The article suggests that the BJP's duality in messaging—denying exploitation of Hindu-Muslim divisions while criticizing Congress for minority favoritism—serves to engage critics in debates over majority sentiment, minority rights, and Hindutva. It also points out that Modi's interviews and public rallies target different audiences, with the former serving as a formal record and the latter pushing the core agenda.
+
+The BJP's electoral history is examined, noting two major expansions in support: the first during the Ramjanmabhoomi agitation and the second in 2014, attributed to the intertwining of Hindutva and Modi's image. The article concludes that the BJP's current campaign reflects the need to maintain interest among the majority by invoking Hindu-Muslim issues, as economic challenges prevent reliance on a development narrative alone. The outcome may depend on the Opposition's response and whether the Hindutva vote can be further expanded. The unrelated content about Boney Kapoor is omitted from the summary.
+
 Fri, 17 May 2024 12:23:46 +0000
 ### [Kerala men in Russia-Ukraine war: What leads to distress migration](https://indianexpress.com/article/opinion/kerala-men-in-russia-ukraine-war-what-leads-to-distress-migration-9335510/)
 

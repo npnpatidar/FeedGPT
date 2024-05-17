@@ -1,3 +1,14 @@
+Fri, 17 May 2024 18:00:11 +0530
+### [India’s rural awakening: An economic growth engine](https://www.livemint.com/opinion/online-views/indias-rural-awakening-an-economic-growth-engine-11715929430586.html)
+
+The article discusses India's economic shift from urban to rural areas, particularly in the manufacturing sector. Over the past decade, rural India has seen a growth rate of 7.3% compared to urban areas' 5.4%, driven by the manufacturing sector's move from cities to rural districts. This shift has the potential to propel rural India to double-digit growth rates, provided there is an acceleration in structural transformation and increased investment in infrastructure.
+
+Despite the growth, rural India still faces significant infrastructure deficiencies, with urban areas receiving a 600% increase in investment over the last decade. The manufacturing sector's growth in rural areas is not uniform; it is concentrated in districts that have improved their infrastructure. The spatial spread of manufacturing in India is slower compared to trends in China and the US.
+
+The article suggests that India's future in manufacturing lies in rural areas, which require scaling up investments. It highlights the need to address land market distortions, as inefficient enterprises often monopolize land resources, hindering productivity. The author calls for comprehensive reforms to transform rural India, expand the manufacturing sector, and create jobs, which will lead to higher productivity, food security, and self-advancement for rural populations. Technological advancements in AI, biotechnology, and GIS are seen as enablers for inclusive agriculture and diversified rural livelihoods.
+
+Initiatives like the Andhra Pradesh Integrated Irrigation and Agriculture Transformation Project are promising, aiming to increase agricultural productivity and climate resilience. The article concludes with the expectation of a shift from farm to non-farm jobs in rural India, facilitated by government support and continuous economic transformation towards higher value-added sectors. The author is a senior fellow at the Pune International Development Center.
+
 Fri, 17 May 2024 16:00:07 +0530
 ### [Biden's Chinese EV tariffs could spark trouble for Tata Motors and opportunity for power industry players](https://www.livemint.com/opinion/online-views/bidens-chinese-ev-tariffs-could-spark-trouble-for-tata-motors-and-opportunity-for-power-industry-players-11715933334921.html)
 

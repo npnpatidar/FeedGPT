@@ -1,3 +1,30 @@
+Fri, 17 May 2024 18:33:29 +0530
+### [Sushil Kumar Modi: A gentleman politician who was a misfit in today’s ruthlessly transactional world](https://www.firstpost.com/opinion/sushil-kumar-modi-a-gentleman-politician-who-was-a-misfit-in-todays-ruthlessly-transactional-world-13772048.html)
+
+The article reflects on the life and political career of Sushil Kumar Modi, a significant figure in Bihar's politics, who passed away due to cancer on May 13, 2024. Known for his polite and humble demeanor, Modi was a key partner in Bihar's development alongside Chief Minister Nitish Kumar, especially after the state's challenging period under Lalu Prasad Yadav's leadership. The piece recounts Modi's journey from student politics during Jayaprakash Narayan's movement in 1974, his arrests during the Emergency, and his rise through the ranks of the Bihar Assembly and the Lok Sabha. Despite political shifts and his eventual role in the Rajya Sabha, Modi is remembered for his simple lifestyle and dedication to public service. The author, a former diplomat and politician, offers personal condolences, emphasizing that the views are personal and not reflective of the publishing platform.
+
+Fri, 17 May 2024 18:21:39 +0530
+### [Embracing diversity: Shias and the Chabahar Port Agreement](https://www.firstpost.com/opinion/embracing-diversity-shias-and-the-chabahar-port-agreement-13772042.html)
+
+The article discusses the strategic and economic significance of the Chabahar port agreement between India and Iran. The deal, signed on May 13, is a 10-year pact that positions the Chabahar port as a central hub for India's regional ambitions, enhancing connectivity across Eurasia. With a $120 million investment from India and additional credit support, the agreement represents a bold assertion of India's strategic autonomy and a counterweight to the China-Pakistan alliance, challenging the Belt and Road Initiative.
+
+The article also delves into the historical and contemporary dynamics of Indo-Iranian relations, highlighting visits by Iranian Presidents to India and the evolving geopolitical context. It underscores the importance of the Chabahar port in fostering regional stability and cooperation, transcending sectarian divides and reflecting India's ethos of pluralism.
+
+Furthermore, the piece examines the impact of the agreement on India's Shia Muslim community, challenging misconceptions and emphasizing the community's resilience and cultural integration within India. The Chabahar port deal is seen as a transformative initiative that offers economic, cultural, and social benefits to India's Shia population, reinforcing their place in the national narrative.
+
+The author, a practicing advocate, offers personal views on the broader implications of the agreement for India's commitment to inclusivity and pluralism, suggesting that it symbolizes a departure from identity politics towards a vision of cooperation that includes all citizens. The article concludes by reflecting on the historical struggles and contributions of India's Shia community and the Chabahar port agreement as a reaffirmation of India's commitment to diversity and inclusivity. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
+Fri, 17 May 2024 17:54:52 +0530
+### [How India-Canada ties have been ‘Trudeaued’](https://www.firstpost.com/opinion/how-india-canada-ties-have-been-trudeaued-13771956.html)
+
+The article discusses the strained relations between India and Canada, which have historically been affected by nuclear issues and the Khalistani movement. The relationship has seen two significant low points under the leadership of two Trudeaus: Pierre in the 1970s and '80s, and Justin since 2015. 
+
+The nuclear issue, which began with Canada's sharp reaction to India's Pokhran test in 1974, was resolved in 2010 with a Nuclear Cooperation Agreement. However, the Khalistani issue, rooted in the migration of Sikhs to Canada in the late 19th century, continues to cause tension. The article suggests that Canadian leaders have historically indulged Khalistani separatists for political gain, leading to incidents like the Air India Kanishka bombing in 1985.
+
+Justin Trudeau's tenure as Prime Minister is characterized by continued support for the Sikh diaspora and alleged inaction on Khalistani extremism. This has led to diplomatic friction, including India's demand for the recall of Canadian diplomats. The article criticizes Canadian political parties for appeasing Khalistani elements for votes and warns of the potential societal and international consequences.
+
+Despite the political challenges, the article notes that bilateral dialogue, trade, and cultural exchanges continue. It calls for patience and a focus on Canada's actions, suggesting that change in Canadian policy may be slow and dependent on significant events. The author, a former envoy to Canada and South Korea, clarifies that the views expressed are personal.
+
 Fri, 17 May 2024 16:21:05 +0530
 ### [How ‘Me Too’ moment leaves Uyghurs’ global diaspora movement in doldrums](https://www.firstpost.com/opinion/how-me-too-moment-leaves-uyghurs-global-diaspora-movement-in-doldrums-13771939.html)
 

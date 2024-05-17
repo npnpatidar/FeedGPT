@@ -1,3 +1,13 @@
+Fri, 17 May 2024 14:18:03 +0000
+### [‘Mother of the forests’: What a new study found about the origin of Madagascar’s baobab trees](https://indianexpress.com/article/explained/explained-sci-tech/new-study-madagascar-baobab-trees-9335698/)
+
+The article discusses a new study on the origins and significance of baobab trees, particularly those in Madagascar. Baobabs are known for their towering heights and long lifespans, with cultural and ecological importance. The study, published in Nature, highlights the trees' genetic makeup and the threats they face, including extinction risks for three species listed by the IUCN. It emphasizes the need for conservation strategies and a deeper understanding of baobab genetics. DNA studies suggest baobabs originated in Madagascar 21 million years ago, with seeds dispersing to Africa and Australia. Climate change poses severe threats to certain species, with potential extinction by 2080. The study calls for action to preserve these keystone species, crucial for ecosystem stability.
+
+Fri, 17 May 2024 12:52:05 +0000
+### [How Prime Minister Robert Fico’s shooting highlights Slovakia’s deep polarisation](https://indianexpress.com/article/explained/explained-global/prime-minister-robert-fico-shooting-slovakia-9335534/)
+
+The article discusses the recent assassination attempt on Slovak Prime Minister Robert Fico, highlighting the political violence and division within Slovakia. It mentions the country's history of political and criminal violence, including the controversial period under Prime Minister Vladimir Meciar and the kidnapping of the president's son. The article also covers the political career of Fico, from his beginnings as a social democrat lawyer fighting corruption to accusations of graft and his transformation into a right-wing nationalist. It touches on the murder of journalist Jan Kuciak and his fiancee, which led to Fico's resignation, and the subsequent election of Zuzana Caputova as president. The piece concludes with the return of Fico to power and his government's focus on influencing the judiciary, stopping corruption trials, and silencing media, as well as the divisive rhetoric following the assassination attempt. Defense Minister Robert Kalinak's alleged involvement in a state kidnapping and his ties to Vietnam are also mentioned. The unrelated content about Boney Kapoor has been omitted from this summary.
+
 Fri, 17 May 2024 11:56:08 +0000
 ### [Was the Stone Age actually the Age of Wood?](https://indianexpress.com/article/explained/explained-history/stone-age-age-wood-9335358/)
 
