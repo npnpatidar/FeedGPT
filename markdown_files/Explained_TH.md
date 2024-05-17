@@ -1,3 +1,10 @@
+Fri, 17 May 2024 23:49:02 +0530
+### [The cases and charges against the Bhima Koregaon 16 | Explained](https://www.thehindu.com/news/national/elgar-parishad-bhima-koregaon-16-human-rights-defenders-cases-and-charges/article68177476.ece)
+
+The article from The Hindu, dated May 17, 2024, details the legal journey of 16 human rights defenders arrested under the Unlawful Activities (Prevention) Act, 1967, for their alleged involvement in the Bhima Koregaon violence. **Gautam Navlakha**, one of the accused, was released on bail by the Supreme Court after four years of incarceration, with the court noting the delay in framing charges and the anticipated lengthy trial. The article highlights the release of other co-accused on bail over the years, including **Sudha Bharadwaj, Anand Teltumbde, Vernon Gonsalves, Arun Ferreira, Varavara Rao, and Shoma Sen**, while others like **Mahesh Raut, Rona Wilson, Sudhir Dhawale, Surendra Gadling, Hany Babu, Sagar Gorkhe, Ramesh Gaichor, and Jyoti Jagtap** remain in jail. The article also mentions the death of Father **Stan Swamy** in custody in July 2021.
+
+The narrative recounts the arrests, house arrests, bail pleas, and health concerns of the accused, along with the judicial observations questioning the evidence and conduct of the investigating agencies. It also covers the use of malware to plant evidence on electronic devices of the accused, as revealed by forensic reports, and the subsequent legal challenges. The article concludes with a reference to Alpha Shah's book "The Incarcerations," which criticizes the handling of the case as indicative of a broader abuse of democratic rights in India.
+
 Fri, 17 May 2024 14:12:54 +0530
 ### [Why NHRC’s international accreditation is under review | Explained](https://www.thehindu.com/news/national/why-nhrc-international-accreditation-is-under-review-explainer/article68141899.ece)
 

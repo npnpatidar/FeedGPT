@@ -1,3 +1,13 @@
+Sat, 18 May 2024 00:20:00 +0530
+### [Dangers of divisiveness: On the electoral rhetoric, from the top level](https://www.thehindu.com/opinion/editorial/dangers-of-divisiveness-on-the-electoral-rhetoric-from-the-top-level/article68187177.ece)
+
+The article discusses the state of the electoral campaigns in India after the fourth phase of the general election, highlighting the disconnect between the electorate's concerns and the campaign rhetoric. It notes that while voters emphasize job creation, inflation, and development, Prime Minister Narendra Modi and the BJP focus on attacking the opposition rather than addressing these issues. The article criticizes Modi's use of divisive rhetoric and half-truths, particularly against southern parties, which is seen as problematic given the economic integration between the north and south. It also mentions the BJP's controversial induction of Manish Kashyap, who was jailed for spreading false news. The article suggests that Modi should concentrate on socio-economic differences between the BJP and the INDIA bloc rather than fostering divisive politics.
+
+Sat, 18 May 2024 00:10:00 +0530
+### [Stay invested: On Chabahar and India-Iran ties](https://www.thehindu.com/opinion/editorial/stay-invested-on-chabahar-and-india-iran-ties/article68186908.ece)
+
+India has solidified its trade and infrastructure relationship with Iran by signing a **10-year agreement** to develop and operate the **Chabahar port**, despite the ongoing tensions in West Asia. This move involves an Indian investment of **$120 million** and a credit line of **$250 million** for the port's development. The U.S. has warned that such business deals with Iran could lead to sanctions, reflecting past instances where American sanctions delayed the project. The Chabahar port is strategically important for India as it provides an alternative trade route to Afghanistan and Central Asia, bypassing Pakistan. It is also expected to link to the **International North-South Transport Corridor (NSTC)**, which would enhance trade with Europe via Iran, Azerbaijan, and Russia, and serve as a counterbalance to China's influence in the region through its Belt and Road Initiative (BRI). Despite the U.S.'s changing stance towards Iran and the region, the article suggests that India should remain committed to the Chabahar project to bolster its trade and connectivity with Central Asia, which is crucial for its ascent on the global stage.
+
 Fri, 17 May 2024 00:20:00 +0530
 ### [Malign motive: On the arrest and remand of NewsClick founder](https://www.thehindu.com/opinion/editorial/malign-motive-on-the-arrest-and-remand-of-newsclick-founder/article68182761.ece)
 

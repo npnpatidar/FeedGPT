@@ -6569,44 +6569,67 @@ The article discusses the "Sephora Kids" trend, where children and young teens a
 Wed, 13 Mar 2024 19:44:43 +0530
 ### [Opinion Poll: How Modi, jobs and inflation will be the key factors for 2024](https://www.firstpost.com/explainers/news18-mega-opinion-poll-modi-jobs-inflation-key-factors-2024-lok-sabha-elections-13748504.html)
 
-Article found but Couldn't summarize 
-Ahead of the Lok Sabha elections, News18 has conducted a mega opinion poll and the results are in. The survey reveals that a whopping 80 per cent of respondents are ‘somewhat to very satisfied’ with the ruling government and PM Modi. What else does the poll reveal?
+The News18 mega opinion poll ahead of the 2024 Lok Sabha elections indicates a strong approval for Prime Minister Narendra Modi and the BJP, with **80%** of respondents expressing satisfaction with their performance. The poll suggests that Modi is particularly popular among the youth, with high approval ratings in the 18-35 age group.
+
+Modi's perceived honesty, hard work, and strong leadership qualities are highlighted as his key strengths. In contrast, opposition leaders like Rahul Gandhi, Arvind Kejriwal, and Mamata Banerjee received significantly lower approval ratings.
+
+Economically, **67%** of those polled believe their status has improved over the past five years, and **72%** are optimistic about the future. Social issues such as the construction of the Ram Mandir and the Women's Reservation Bill also received substantial support.
+
+The poll also reflects a positive view of Modi's welfare schemes, with the Ujwala Yojana being the most recognized. State government performances varied, with high satisfaction in BJP-ruled Uttar Pradesh and lower satisfaction in Maharashtra and Delhi.
+
+The Modi factor appears to be a significant influence on BJP's electoral success, with **85%** willing to vote for the party regardless of the local candidate. The opposition's INDIA alliance is known to **56%** of respondents, but its leaders are less popular compared to Modi.
+
+Key voter concerns include job creation, inflation, law and order, corruption, and religion. The survey underscores Modi's dominance in Indian politics and the challenges faced by the opposition in the upcoming elections.
 
 Wed, 13 Mar 2024 17:54:14 +0530
 ### [Files in pen drive, password in envelope: How SBI submitted data on electoral bonds to EC](https://www.firstpost.com/explainers/supreme-court-electoral-bonds-case-sbi-submits-data-to-ec-pen-drive-password-13748486.html)
 
-Article found but Couldn't summarize 
-Sticking to the Supreme Court deadline, the State Bank of India shared data on electoral bonds on Tuesday. The information collated in two password-protected PDF files was stored in a pen drive. An envelope containing the passwords was handed over to the Election Commission
+The State Bank of India (SBI) complied with the Supreme Court's directive by submitting data on electoral bonds to the Election Commission (EC). The data, stored in two password-protected PDF files on a pen drive, detailed the purchase and redemption of electoral bonds from April 2019 to February 2024. A total of 22,217 bonds were issued, with 22,030 redeemed and the remaining funds directed to the Prime Minister's national relief fund as per the scheme's rules. The SBI provided the EC with comprehensive details, including dates, denominations, and names of political parties involved in the transactions. Despite a tight deadline and the logistical challenge of collating data from various branches, SBI managed to deliver the information promptly. The EC is expected to make this data public, adhering to the principles of transparency. The Supreme Court had previously declared electoral bonds unconstitutional and ordered an immediate halt to their issuance.
 
 Wed, 13 Mar 2024 17:22:46 +0530
 ### [Meet Hyodol, the AI doll that helps old adults beat loneliness in South Korea](https://www.firstpost.com/explainers/meet-hyodol-the-ai-doll-that-helps-old-adults-beat-loneliness-in-south-korea-13748442.html)
 
-Article found but Couldn't summarize 
-To beat loneliness, a South Korean company has created a robot that uses Artificial Intelligence (AI) to interact with elders suffering from dementia. The doll’s sophisticated language-processing skills, emotional recognition, talking, and music-playing capabilities help in providing lonely people with a sense of companionship
+To address the growing concern of loneliness, particularly among the elderly, a South Korean company has developed an AI-powered robot doll named Hyodol. Designed to interact with seniors, especially those with dementia, Hyodol offers companionship through advanced language processing, emotional recognition, and entertainment features like music. The robot can be monitored remotely by caregivers, who can also use an app to check in and communicate with the user. Priced at $1,800, around 7,000 units have been deployed by the South Korean government to assist seniors with daily reminders and health monitoring.
+
+The development of Hyodol is a response to South Korea's rapidly aging population, which is expected to become a super-aged society by 2025. With a significant portion of the elderly living alone and experiencing social isolation, the country faces a loneliness epidemic. This demographic shift is impacting the nation's care industry, labor force, and economy.
+
+Hyodol is part of a broader trend of using technology to combat loneliness. Other examples include NAO, a humanoid robot developed in Kazakhstan to assist children with autism, and ElliQ, an Israeli invention that helps reduce social isolation among the elderly. These innovations reflect a global issue, with loneliness being recognized as a significant health concern worldwide. The American Psychological Association describes loneliness as a state of discomfort from feeling solitary, and reports suggest that billions globally experience loneliness, with serious health implications. Countries like Ireland and Sweden have high rates of people living alone, indicating the scale of this challenge.
 
 Wed, 13 Mar 2024 16:24:01 +0530
 ### [India wants to ban Pit bulls, Rottweilers: How dangerous are these dog breeds?](https://www.firstpost.com/explainers/india-wants-to-ban-pit-bulls-rottweilers-how-dangerous-are-these-dog-breeds-13748329.html)
 
-Article found but Couldn't summarize 
-There has been a rise in attacks on people by pet dogs in India. Now the Centre has sought a ban on the import, breeding and sale of ‘ferocious’ canine breeds – the Pit bull, Rottweiler, Terrier, Wolf Dog and Mastiff. These, it says, cannot be kept as pets or for other uses because they represent a ‘danger to human life’
+Following a series of dog attacks in India, the government is considering a ban on the import, breeding, and sale of certain dog breeds deemed dangerous. The breeds in question include Pit bulls, Rottweilers, Terriers, Wolf Dogs, and Mastiffs, as well as their crossbred and mixed variants. This action is a response to numerous incidents where these dogs have caused serious injuries or fatalities.
+
+The Department of Animal Husbandry and Dairying has advised states not to issue licenses for the sale or breeding of these breeds, following an expert committee's report and a Delhi High Court ruling. The court has also directed the Union of India to consult all stakeholders and decide on the matter promptly.
+
+Recent attacks have prompted local bans in various Indian cities, with some municipalities imposing restrictions on dog ownership, such as limiting the number of pet dogs per family and requiring licenses. The breeds have been controversial due to their aggressive history and have been banned or restricted in several countries worldwide.
+
+The article details several severe attacks by these breeds in India, leading to significant injuries and, in some cases, legal action against the dog owners. It also discusses the contentious nature of these breeds, their historical roles, and the debate over whether their aggressive behavior is innate or due to upbringing. The article concludes by noting that these breeds are banned or restricted in many countries due to their aggressive tendencies.
 
 Wed, 13 Mar 2024 15:15:05 +0530
 ### [Is China falling out of love with Apple and Tesla?](https://www.firstpost.com/explainers/china-iphone-apple-tesla-sales-drop-huawei-byd-domestic-brands-grow-13748391.html)
 
-Article found but Couldn't summarize 
-China is Apple and Tesla’s largest market outside the US. But the American giants have reasons to worry, as the Communist nation shifts to local brands. Chinese consumers are ditching the iPhone for homegrown options like Huawei and the EV maker is seeing a drop in sales
+In China, there's a significant shift in consumer preferences from American tech giants like Apple and Tesla to local brands. Apple's iPhone sales have dropped sharply, with its market share falling to 15.7%, as Chinese consumers opt for domestic brands like Huawei, Oppo, Vivo, and Xiaomi. This trend is bolstered by a resurgence of Huawei, particularly after the launch of its Mate 60 smartphone. The decline in Apple's popularity is partly due to a government-led initiative to reduce iPhone usage among state employees and a broader push for nationalism.
+
+Tesla is also experiencing challenges, with a 22% drop in revenue and decreased shipments from its Shanghai gigafactory. The electric vehicle (EV) market in China is slowing down, and Tesla faces competition from local EV manufacturers like BYD, which reported a 43% rise in sales and price cuts on its models. Xiaomi's entry into the EV market with its SU7 vehicles adds to Tesla's competition.
+
+Overall, foreign companies like Apple and Tesla are witnessing a decline in sales as Chinese consumers increasingly support local brands, a trend that is expected to impact American market control in China. This shift is part of a larger movement in China to promote domestic products over foreign ones, especially in technology and energy sectors.
 
 Wed, 13 Mar 2024 14:11:21 +0530
 ### [Nepal got rid of monarchy 16 years ago. Why do they want it back now?](https://www.firstpost.com/explainers/nepal-monarchy-16-years-want-it-back-now-13748351.html)
 
-Article found but Couldn't summarize 
-Thousands of Nepalese are protesting in Kathmandu, calling for the republic to be abolished. Royalist groups accuse the country's major political parties of corruption and failed governance and say people are frustrated with politicians
+In Nepal, a significant number of citizens are demonstrating in Kathmandu with demands to abolish the republic and reinstate the monarchy. This movement is driven by dissatisfaction with the current political system, which has seen 13 different governments in the past 16 years, and allegations of corruption and poor governance by the major political parties.
+
+The protests reflect a growing nostalgia for the stability perceived during the monarchy, especially under King Gyanendra, who was dethroned 16 years ago after a mass movement against his absolute rule. Despite the abolition of the monarchy in 2008, there is a visible increase in pro-monarchy sentiment, with larger rallies and public displays of the former king's portraits.
+
+Critics of the current system argue that politicians are more focused on power than solving the country's problems, leading to a struggling economy and widespread corruption. The Rastriya Prajatantra Party, a supporter of the monarchy, holds a minority in parliament but has been vocal about its demands, claiming that the restoration of the monarchy is essential for the country's future and identity.
+
+However, the major political parties firmly reject the possibility of reinstating the monarchy, stating that it would require a constitutional change, which they see as highly unlikely. The former king has remained largely out of politics since his abdication, and while the pro-monarchy movement is gaining momentum, analysts believe it is still too small to effect immediate change. The article concludes with insights from various political analysts and party representatives, reflecting the complex sentiments surrounding the monarchy in Nepal.
 
 Wed, 13 Mar 2024 13:24:33 +0530
 ### [California Girls: Inside the women's gang that stole $8 million in cosmetics across US](https://www.firstpost.com/explainers/michelle-mack-california-girls-women-gang-8-million-in-cosmetics-us-13748378.html)
 
-Article found but Couldn't summarize 
-Michelle Mack, a 53-year-old mother of three, has been arrested in the US for masterminding a gang known as California Girls. Investigations reveal that Mack would recruit women to steal from different stores across the US and then sell the products online through Amazon, earning $8 million since 2012
+Michelle Mack, a 53-year-old mother of three, was arrested for leading a theft ring known as "California Girls." She orchestrated the theft of over $8 million in makeup and clothing from various stores across the US, selling the items on Amazon. The operation was run from her San Diego mansion, where she recruited women to commit the thefts and then sold the stolen goods online. The scheme was uncovered when two shoplifters were arrested, leading to the discovery of Mack's operation. California Attorney General Rob Bonta has filed 140 felony charges against Mack and her accomplices. The case highlights the issue of organized retail crime in the US, which has significant financial and human impacts on communities and businesses. Authorities are taking steps to combat this growing problem, with marketplaces like Amazon aiding in the crackdown on the sale of stolen goods.
 
 Wed, 13 Mar 2024 11:57:23 +0530
 ### [Biden classified documents case: 6 key takeaways from Robert Hur's testimony](https://www.firstpost.com/explainers/joe-biden-classified-documents-takeaways-robert-hur-testimony-13748319.html)
