@@ -1,3 +1,19 @@
+Fri, 17 May 2024 16:00:07 +0530
+### [Biden's Chinese EV tariffs could spark trouble for Tata Motors and opportunity for power industry players](https://www.livemint.com/opinion/online-views/bidens-chinese-ev-tariffs-could-spark-trouble-for-tata-motors-and-opportunity-for-power-industry-players-11715933334921.html)
+
+The article discusses the potential global economic impact of US President Biden's imposition of 100% tariffs on Chinese electric vehicles (EVs) and other goods. The tariffs, which also affect solar cells, semiconductor chips, steel, aluminum, EV batteries, and some critical minerals, are expected to significantly reduce the $18 billion worth of imports from China. In response, China may impose higher tariffs on US imports, with Boeing's aircraft being a symbolic target.
+
+The US justified the trade restrictions under Section 301 of its Trade Act of 1974, which allows for trade restrictions or negotiations when foreign practices violate labor rights, are anticompetitive, deny fair trading opportunities, or aim to penetrate export markets. With no objective criteria for such determinations and the World Trade Organization's Dispute Settlement Mechanism weakened, a bilateral trade war is likely.
+
+Mexico could benefit as Chinese EV makers might relocate production there to export to the US under the free trade agreement. Indian producers, particularly in the EV sector, may face increased competition as Chinese manufacturers look to other markets. India's EV import policy, which reduced duties on completely built-up units (CBUs) to 15% given certain investment conditions, could prompt large-scale manufacturing in India to avoid high tariffs.
+
+Tata Motors, with a 72% share of the Indian EV market in 2023, could face price competition from Chinese EV makers establishing production in India. The shift in Chinese exports could lead to an increase in climate-friendly EVs in smaller countries, creating additional demand for power generation equipment, grid management software, and energy pricing models. Indian providers are advised to prepare for this demand, which could include solar cell production and software services.
+
+Fri, 17 May 2024 15:30:06 +0530
+### [The Reserve Bank of India should defy the curve and cut rates](https://www.livemint.com/opinion/online-views/the-reserve-bank-of-india-should-defy-the-curve-and-cut-rates-11715929562446.html)
+
+The article discusses the global inflation surge in 2022 and the subsequent monetary policy responses, particularly focusing on the US and India. It highlights the US's success in reducing inflation from 8% to under 3% while maintaining GDP growth above 2%, albeit at the cost of high public debt. The Reserve Bank of India (RBI), which was initially slow to respond, managed to stabilize the Indian currency and attract foreign funds despite global economic pressures. The RBI's unexpected pause in rate hikes led to market speculation of future cuts, but rising vegetable prices and international conflicts prompted a cautious stance. The article suggests that the RBI should adopt an accommodative policy, considering geopolitical risks as temporary and unlikely steep rises in oil prices. It argues that rate hikes have little effect on food prices, which are more influenced by logistical issues and global warming. The piece concludes by advocating for a policy rate cut by the RBI to stimulate private investment and economic growth, especially for micro, small, and medium enterprises (MSMEs) and other vulnerable segments, as public investments are expected to decrease in line with fiscal consolidation goals. The author is identified as the chief economist of the Piramal Group. The article was published on 17 May 2024.
+
 Fri, 17 May 2024 08:30:12 +0530
 ### [Seinfeld’s spoof on Kellogg: Brand theft or celebrity endorsement?](https://www.livemint.com/opinion/online-views/seinfelds-spoof-on-kellogg-brand-theft-or-celebrity-endorsement-11715873643825.html)
 

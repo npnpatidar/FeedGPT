@@ -1,3 +1,19 @@
+Fri, 17 May 2024 16:21:05 +0530
+### [How ‘Me Too’ moment leaves Uyghurs’ global diaspora movement in doldrums](https://www.firstpost.com/opinion/how-me-too-moment-leaves-uyghurs-global-diaspora-movement-in-doldrums-13771939.html)
+
+The article discusses a significant controversy within the Uyghur diaspora, where two prominent leaders, Dolkun Isa and Nury Turkel, face sexual harassment allegations. The accusations have caused a rift in the Uyghur community, with various reactions ranging from support for the accusers to disbelief and condemnation of the alleged actions. The situation has serious implications for the Uyghur movement and its global activities, potentially affecting the political careers of both Isa and Turkel. The controversy also poses a challenge for American supporters of the Uyghur cause, in light of the previous 'Me Too' movement. The Chinese government, which has labeled Isa and Turkel as 'terrorists', may use these developments to discredit the Uyghur leadership and further oppress Uyghur activists. The author, affiliated with Jawaharlal Nehru University, emphasizes that these views are personal and not necessarily reflective of the publication's stance.
+
+Fri, 17 May 2024 14:20:13 +0530
+### [Quad, AUKUS, and now Squad: How multiple groupings are dissipating US' effort against China](https://www.firstpost.com/opinion/quad-aukus-and-now-squad-how-multiple-groupings-are-dissipating-us-effort-against-china-13771880.html)
+
+The article discusses the geopolitical dynamics in the Indo-Pacific region, focusing on the strategic groupings formed to address the challenges posed by China's assertive actions. The Quadrilateral Security Dialogue (Quad), which includes the US, Japan, Australia, and India, was the first such grouping, gaining momentum post-2020. The article suggests that India's involvement in Quad became more significant following China's transgression in eastern Ladakh.
+
+The emergence of AUKUS, comprising the US, Australia, and the UK, and the exclusion of India and Japan, is highlighted as a surprising development. The author questions the effectiveness of AUKUS in ensuring a rule-based order in the Indo-Pacific without the involvement of key regional players.
+
+Additionally, the US has introduced another grouping called Squad, which includes the US, Australia, Japan, and the Philippines, again leaving out India. The article raises concerns about the cumulative impact of these groupings on countering China's influence and suggests that a unified approach may be more effective.
+
+The author, a Kargil war veteran and Director General of CENJOWS, advocates for the consolidation of Quad, AUKUS, and Squad into a single organization to strengthen the collective effort against China's ambitions. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
 Fri, 17 May 2024 11:19:10 +0530
 ### [Why US needs to accept multipolar world order with dignity](https://www.firstpost.com/opinion/why-us-needs-to-accept-multipolar-world-order-with-dignity-13771786.html)
 

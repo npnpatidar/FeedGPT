@@ -1,3 +1,34 @@
+Fri, 17 May 2024 11:56:08 +0000
+### [Was the Stone Age actually the Age of Wood?](https://indianexpress.com/article/explained/explained-history/stone-age-age-wood-9335358/)
+
+The article discusses a study of wooden artifacts from Schöningen, Germany, which suggests that the Stone Age could also be called the 'Wood Age' due to the advanced woodworking skills demonstrated by prehistoric humans. The study, published in the Proceedings of the National Academy of Sciences, analyzed wooden tools dating back 300,000-400,000 years and found evidence of sophisticated techniques like splitting, scraping, and abrasion.
+
+The Stone Age is traditionally divided into three periods: Palaeolithic, Mesolithic, and Neolithic, spanning from 3.4 million years ago to about 6,000-4,000 BP. While stone tools are the primary basis for this classification, the article highlights that other materials like wood were also crucial, though less preserved in the archaeological record.
+
+The Schöningen site is significant because the anaerobic conditions preserved a variety of wooden tools, including the world's oldest hunting weapons. These findings challenge the notion that early humans were simple scavengers and suggest they were capable of systematic hunting and complex tool-making.
+
+The article also touches on the broader implications of these findings for understanding human prehistory and the technological capabilities of our ancestors. It concludes by emphasizing the importance of wood as a material and the advanced skills required to work with it in prehistoric times. The unrelated content about Boney Kapoor has been omitted from this summary.
+
+Fri, 17 May 2024 11:47:51 +0000
+### [Mumbai billboard collapse: Why cities need to gear up for ‘multi-hazard weather events’](https://indianexpress.com/article/explained/explained-climate/multi-hazard-weather-events-9335418/)
+
+The article discusses the aftermath of a severe weather event in Mumbai, where a dust storm followed by rain caused extensive damage, including the collapse of a massive billboard that resulted in 16 deaths and over 75 injuries. It highlights the increasing intensity and frequency of such localized weather events, known as multi-hazard weather events, and the need for better planning and infrastructure to mitigate their impact. Experts emphasize the role of climate change in exacerbating these events and the importance of climate-proofing cities to protect against various risks. The article also touches on the broader implications of weather-related hazards, citing the National Crime Records Bureau's report on accidental deaths due to natural forces, with lightning being the leading cause. The piece concludes with a call for authorities to review and strengthen infrastructure to prevent such tragedies.
+
+Fri, 17 May 2024 10:14:21 +0000
+### [5 factors behind Russia’s economic resilience amid the Ukraine war](https://indianexpress.com/article/explained/explained-economics/factors-russia-economy-sanctions-ukraine-9335053/)
+
+Despite facing unprecedented sanctions, Russia's economy has shown resilience, with a record of more individual sanctions than Iran, Cuba, and North Korea combined. The Russian economy has continued to grow, with a 3.6% increase in 2023, despite efforts by Western powers to weaken it. This growth is attributed to several factors:
+
+- **Sanctions on the energy sector** are not as restrictive as those on other countries, allowing Russia to continue exporting oil, particularly to China and India, keeping export volumes steady.
+- **Corporate investment** has rebounded, contributing to GDP growth, with increased funding to defence and manufacturing sectors.
+- **Private consumption** has surged, driven by a strong job market and rising wages, adding to GDP growth.
+- **Government spending**, particularly on defence, has increased modestly, contributing to economic growth.
+- **Financial sanctions** imposed since 2014 have been managed by Russia, which has adapted to these measures over time.
+
+The **Central Bank of Russia**, under Elvira Nabiullina, has played a crucial role in managing the economy through hawkish monetary policies. Despite this, the IMF projects a slowdown in growth, with long-term challenges including an ageing population, isolation from global markets, and technological limitations due to sanctions.
+
+Experts suggest that the appearance of normalcy in the Russian economy is somewhat illusory, with the true impact of sanctions and the war with Ukraine yet to fully manifest. The future of Russia's economy and Putin's regime is closely tied to the outcome of the conflict. The IMF warns that Russia's potential growth rate has decreased, potentially affecting its income per capita convergence with Western European levels. However, for Putin, this may not be a significant concern at the moment.
+
 Fri, 17 May 2024 02:30:15 +0000
 ### [What the new right-wing Dutch government plans to do](https://indianexpress.com/article/explained/explained-global/netherland-what-the-new-right-wing-dutch-government-plans-to-do-9333952/)
 

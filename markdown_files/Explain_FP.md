@@ -1,3 +1,67 @@
+Fri, 17 May 2024 17:32:56 +0530
+### [This new weight loss drug is better than Ozempic. All you need to know](https://www.firstpost.com/explainers/this-new-weight-loss-drug-is-better-than-ozempic-all-you-need-to-know-13771971.html)
+
+Roche's new weight loss drug, CT-388, has shown promising results in a recent clinical trial, outperforming current market leaders. CT-388 is a once-weekly injection that targets GLP-1 and GIP receptors to regulate food intake and energy absorption. In the trial, participants lost an average of 18.8% body weight over 24 weeks, with all participants losing more than 5%, 85% losing more than 10%, and 45% losing more than 20%. The drug was well-tolerated, with mild to moderate gastrointestinal side effects.
+
+CT-388's performance is notably better than Wegovy and Ozempic, with Wegovy users losing about 15% body weight over 68 weeks compared to CT-388’s 18.8% in 24 weeks. The urgency to address obesity is critical, as it's linked to various health issues and affects a significant portion of the global population. The anti-obesity medication market is expected to grow substantially, and CT-388's superior efficacy could disrupt the current market, challenging competitors like Eli Lilly and Novo Nordisk.
+
+Roche plans to continue testing CT-388 in ongoing Phase I trials, including a cohort evaluating obese patients with type 2 diabetes over 12 weeks. The initial trial results are encouraging for CT-388's development as a leading therapy for obesity and type 2 diabetes, potentially offering new hope for those affected by these conditions.
+
+Fri, 17 May 2024 17:15:20 +0530
+### [Aid enters Gaza through US-built floating pier: How does it work?](https://www.firstpost.com/explainers/aid-enters-gaza-through-us-built-floating-pier-how-does-it-work-13771947.html)
+
+The article discusses the deployment of a US-built floating pier in Gaza, known as the Joint Logistics Over-the-Shore (JLOTS) project, which aims to alleviate the humanitarian crisis by facilitating the delivery of aid. Initiated by President Joe Biden, the pier allows for the first time the direct transfer of aid from ships to Gaza, bypassing land routes that have been restricted due to the ongoing conflict between Israel and Hamas.
+
+The pier, costing $320 million, is a significant engineering feat, consisting of a floating dock and a 548-meter-long causeway. Aid is screened in Cyprus, then shipped to the pier, and distributed by the UN World Food Programme with the help of various international partners.
+
+Despite the successful delivery of the first aid shipment, the article highlights skepticism regarding the pier's effectiveness in resolving Gaza's crisis. Critics argue that the pier is insufficient and possibly a distraction from more pressing issues, such as the need for more comprehensive aid delivery through land routes and the protection of aid workers in conflict zones. The future of the pier's impact remains uncertain as it faces operational challenges amidst the ongoing conflict.
+
+Fri, 17 May 2024 16:00:09 +0530
+### [A heatwave is hitting North India, including Delhi: How intense will it be?](https://www.firstpost.com/explainers/north-india-delhi-intense-heatwave-13771887.html)
+
+The article discusses the severe heatwave conditions in North India, with an orange alert issued for Delhi, Punjab, Haryana, and Rajasthan due to high health concerns. Temperatures are expected to rise to 45 degrees Celsius in the National Capital by Saturday. The India Meteorological Department (IMD) forecasts sultry conditions for northwest India for the next five days, with severe heatwave conditions likely in parts of west Rajasthan from May 17-20 and in Punjab, Haryana, and Delhi from May 18-20. Vulnerable groups are at high health risk, and people exposed to the sun are prone to heat-related ailments. Rajasthan recorded the highest temperature at 46 degrees Celsius, with several other states experiencing above-average temperatures.
+
+A new heatwave phase is predicted to start over east and central India on May 18. The IMD has issued a yellow alert for several states, with no immediate chance of rain and hot air advection expected to continue. Heatwaves are defined by temperature anomalies rather than high temperatures alone.
+
+In contrast, southern India is forecast to receive rainfall and thunderstorms due to the southwest monsoon's approach. Kerala and Tamil Nadu are under a very heavy rainfall advisory, with flood warnings issued for Tamil Nadu. Moderate to heavy rainfall is expected in the northeast, with light to moderate rain in West Bengal and the northeastern states.
+
+The article also touches on the impact of climate change, noting that heatwaves are becoming more frequent and severe, worsening living conditions for the poor in Asia. The ongoing El Niño and the Lok Sabha elections are mentioned in the context of the extreme temperatures experienced in April and May. The article concludes with information about the author, Vibhuti, who is part of the Explainers team at Firstpost.
+
+Fri, 17 May 2024 15:36:27 +0530
+### [What Russia aims to gain from its attack on Kharkiv](https://www.firstpost.com/explainers/what-russia-aims-to-gain-from-its-attack-on-kharkiv-13771891.html)
+
+The article discusses Russia's intensified military assault on Kharkiv, Ukraine, which began on May 10. The attack is seen as a significant escalation, with Russian troops advancing into Ukrainian territory. The reasons behind the assault include Kharkiv's economic and symbolic importance, its role as a potential buffer zone to protect Russia's borders, and as a diversion to distract from the Donbas region. Kharkiv's fall would be a strategic and symbolic victory for Russia, potentially weakening Ukraine's economic capabilities and complicating its defense efforts. The article also suggests that Russia may be exploiting Ukraine's defense challenges, such as shortages of troops and artillery shells, to gain an advantage in this conflict. Ukrainian forces are reported to be stabilizing the situation, despite the ongoing offensive operations by Russia.
+
+Fri, 17 May 2024 14:14:47 +0530
+### [A 29-year-old Dutch woman will legally die. The euthanasia debate explained](https://www.firstpost.com/explainers/dutch-woman-mental-illness-netherlands-euthanasia-13771864.html)
+
+Zoraya ter Beek, a 29-year-old Dutch woman, has been approved for assisted dying due to her chronic mental health conditions, including depression, anxiety, and an unspecified personality disorder. Her case has reignited the debate over euthanasia in Europe. The Netherlands, where euthanasia is legal under strict conditions, allows it for patients with unbearable suffering and no prospect of improvement who request to die voluntarily and with full conviction.
+
+Zoraya's struggle began in childhood and persisted despite various treatments, including medication, therapy, and electroconvulsive therapy (ECT). After a decade of treatment without improvement, she decided to apply for assisted dying. The process involved a long waiting list, assessments by a team, a second opinion, and review by an independent doctor.
+
+Her decision has sparked discussions and criticism, particularly from international observers. Some experts argue that euthanasia is increasingly viewed as an acceptable option rather than a last resort, especially for young people with psychiatric conditions. The number of euthanasia cases for mental illness in the Netherlands, though still rare, has risen from two in 2010 to 138 in 2023.
+
+Zoraya plans to undergo the procedure at home, with a medical team administering a sedative before the euthanasia drugs. She views the procedure not as her soul leaving but as being freed from life. A euthanasia review committee will assess her death posthumously to ensure due care criteria were followed. Zoraya's case continues to contribute to the global conversation on the ethics and legality of assisted dying for mental illness.
+
+Fri, 17 May 2024 14:08:27 +0530
+### [‘Slapped me 7-8 times, kicked me in the chest and pelvis’: Inside the horrific assault on Swati Maliwal](https://www.firstpost.com/explainers/detailed-horrific-assault-swati-maliwal-bibhav-kumar-aap-arvind-kejriwal-13771889.html)
+
+AAP Rajya Sabha MP Swati Maliwal has filed a complaint against Bibhav Kumar, an aide to Delhi Chief Minister Arvind Kejriwal, alleging a violent assault. According to her account, during a visit to Kejriwal's residence, Kumar attacked her unprovoked, slapping and kicking her, and making threats. The police have filed an FIR against Kumar under various sections of the Indian Penal Code, including assault and criminal intimidation. Kumar is currently missing, and a search is underway. Maliwal's detailed statement describes the assault as a traumatic experience, causing her ongoing pain and distress. The incident has raised serious concerns and prompted a police investigation.
+
+Fri, 17 May 2024 13:56:14 +0530
+### [Who is Frank McCourt, the US billionaire trying to buy TikTok 'for the people'?](https://www.firstpost.com/explainers/who-is-frank-mccourt-the-us-billionaire-trying-to-buy-tiktok-for-the-people-13771832.html)
+
+Frank McCourt, a US billionaire and former owner of the Los Angeles Dodgers, has announced his intention to acquire TikTok's US operations through his organization, Project Liberty. This initiative comes in response to a US federal law requiring TikTok's parent company, ByteDance, to divest the app by January 19, 2025, or face a ban due to national security concerns over data privacy.
+
+McCourt's vision for TikTok involves transitioning it to an open-source digital protocol, granting users greater control over their data and digital identities. This aligns with his broader goal of reforming the internet to prioritize user privacy and mental health, as outlined in his $500 million Project Liberty.
+
+The proposal has received support from notable figures like social psychologist Jonathan Haidt and World Wide Web inventor Sir Tim Berners-Lee, who advocate for a healthier internet that empowers individuals. Despite interest from other investors and legal challenges from ByteDance and TikTok users, the Chinese government's stance and ByteDance's intentions to sell remain uncertain. McCourt's bid reflects his commitment to a digital transformation that emphasizes user control and data sovereignty.
+
+Fri, 17 May 2024 13:44:08 +0530
+### [11 deaths in 5 days: What’s going on at Char Dham Yatra? What are new restrictions on pilgrims?](https://www.firstpost.com/explainers/char-dham-yatra-deaths-restrictions-13771789.html)
+
+The Char Dham Yatra in Uttarakhand has seen a record number of pilgrims this year, prompting the government to implement new regulations. These include mandatory registration, a ban on VIP darshan until May 31, 2024, and restrictions on cellphone use within a 50-meter radius of temple premises to preserve sanctity. The surge in pilgrims has led to concerns over health and safety, with 11 deaths reported in the first five days, mostly among the elderly with pre-existing conditions. The government has deployed additional medical staff and mandated health screenings, especially for those over 50. The police have also initiated 'Operation Maryada' to maintain decorum and prevent misconduct during the pilgrimage. Amidst overcrowding and traffic jams, the government is enforcing strict adherence to registered dates for the yatra to manage the flow of devotees and protect the ecological integrity of the sacred sites.
+
 Fri, 17 May 2024 12:22:00 +0530
 ### [Robert Fico shooting: How the attack has sparked misinformation and lies](https://www.firstpost.com/explainers/robert-fico-shooting-how-the-attack-has-sparked-misinformation-and-lies-13771803.html)
 
