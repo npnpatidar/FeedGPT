@@ -1,3 +1,66 @@
+Fri, 17 May 2024 01:49:55 +0000
+### [On Sushil Modi, his son writes: Thank you papa, you were our hero](https://indianexpress.com/article/opinion/columns/on-sushil-modi-his-son-writes-thank-you-papa-you-were-our-hero-9333947/)
+
+The article is a heartfelt tribute by Akshay Amritanshu to his late father, who was a dedicated politician and a loving family man. The author reflects on his father's life, describing him as a protective and supportive figure, who valued education and instilled strong values of hard work and discipline in his children. Despite not having a background in finance, his father took on the role of finance minister and head of the GST Empowered Committee with zeal, educating himself thoroughly on the subject.
+
+His father's commitment to his party and state was unwavering, even as he battled cancer. He continued to work diligently for the people and the party, never letting his illness interfere with his duties. The author recounts his father's final days, his enduring love for Bihar, and his impact on the lives of many. The tribute concludes with a message of gratitude and admiration for a man who served his country with dedication and humility.
+
+The unrelated content regarding Mamata Banerjee's political strategy has been omitted from this summary.
+
+Fri, 17 May 2024 01:49:43 +0000
+### [SC verdict on Newsclick shows adherence to due process is much more than a procedural requirement](https://indianexpress.com/article/opinion/columns/sc-verdict-on-newsclick-shows-adherence-to-due-process-is-much-more-than-a-procedural-requirement-9333944/)
+
+The article discusses the evolution and significance of the concept of "due process" in the legal systems of the United States and India. It begins by referencing a recent Supreme Court judgment in India that emphasized the importance of due process and the distinction between "reasons of arrest" and "grounds of arrest." The article traces the origins of due process back to the Magna Carta and its development in American constitutional law, highlighting its role in protecting against arbitrary state power and ensuring fairness, reasonableness, and non-arbitrariness.
+
+The focus then shifts to India's complex relationship with due process, noting the initial interest in incorporating it into the Indian Constitution, followed by its eventual omission due to concerns about limiting legislative power. The article critiques this decision, pointing out the missed opportunity for stronger protections against arbitrary detention and the subsequent dilution of Article 21 of the Indian Constitution.
+
+The article also examines the post-independence judicial interpretation of due process in India, noting a shift towards recognizing due process as an integral part of the right to life and personal liberty. It concludes by discussing the ongoing challenges posed by preventive detention laws in India, despite judicial recognition of due process and the non-derogable nature of the right to life and personal liberty established by the 44th Amendment.
+
+The writer, serving as Vice Chancellor at Chanakya National University Patna, expresses personal views on the matter. The article also contains unrelated content and advertisements, which have been omitted from this summary.
+
+Fri, 17 May 2024 01:37:00 +0000
+### [Reading Alice Munro is a visceral experience, like a conversation with an old friend](https://indianexpress.com/article/opinion/columns/reading-alice-munro-is-a-visceral-experience-like-a-conversation-with-an-old-friend-9333948/)
+
+The article pays tribute to the late Canadian writer and Nobel laureate Alice Munro, reflecting on her profound impact on literature and her readers. Munro's writing is celebrated for its empathetic portrayal of the inner battles individuals face, particularly those of women, and her ability to resonate with readers worldwide. Her stories often explore relationships, emotions, and the human condition without judgment, offering a visceral reading experience akin to a conversation with an old friend.
+
+Munro's work is characterized by an intimate understanding of life's ordinariness and the unpredictable nature of the human heart, drawing from her own experiences and the constraints of domestic life. Despite her many accolades, including the Man Booker International Prize and the Nobel Prize, Munro maintained a private life, which the article suggests reflects her confidence in her understanding of human nature. The article concludes by emphasizing how Munro's writing made readers feel seen and heard, a testament to her legacy as a writer.
+
+Fri, 17 May 2024 01:20:57 +0000
+### [Sunil Chhetri represents best of Indian football](https://indianexpress.com/article/opinion/editorials/sunil-chhetri-represents-best-of-indian-football-9333950/)
+
+Sunil Chhetri, the celebrated captain of India's national football team, has announced his retirement from international football after the 2026 World Cup and 2027 Asian Cup joint qualifier against Kuwait on June 6. Chhetri, known for his dynamic play and leadership, has been pivotal in keeping Indian football competitive over the last decade. His career statistics boast 150 national team matches and 94 goals, but these numbers barely scratch the surface of his influence on the sport in India. From his debut at 20 to his retirement at 39, Chhetri has witnessed the evolution of Indian football from semi-professionalism to full professionalism, embodying the spirit of dedication and the pursuit of excellence. His absence raises concerns about the future of Indian football, as he leaves big shoes to fill, both in terms of skill and inspiration for the next generation of players.
+
+Fri, 17 May 2024 01:20:51 +0000
+### [Congress’ promised grain ration goes against its claim of making people ‘atmanirbhar’](https://indianexpress.com/article/opinion/editorials/congress-promised-grain-ration-goes-against-its-claim-of-making-people-atmanirbhar-9333946/)
+
+The article discusses the impact of welfare schemes on Indian elections. In 2019, Prime Minister Narendra Modi's victory was attributed to schemes for rural development and financial assistance. In 2024, a scheme providing 5 kg of free rice or wheat to over 800 million people is popular, influencing the Congress party to promise doubling this ration for the poor. The article highlights the importance of implementation, noting improvements in public distribution systems (PDS) and attributing the ruling party's success in the 2022 UP Assembly elections to effective delivery of grain.
+
+The Congress's proposal to increase the grain ration to 10 kg/person/month contrasts with their call for self-reliance, reflecting a trend of governments preferring to offer freebies rather than investing in long-term public services. This approach is seen as a response to voter skepticism about state capacity.
+
+Additionally, TMC chief Mamata Banerjee's support for an Opposition alliance, excluding Bengal's CPI(M) and Congress, is viewed as a strategic move for the 2026 West Bengal Assembly elections, drawing criticism for an alleged "U-turn" and aiding the BJP.
+
+Fri, 17 May 2024 01:20:46 +0000
+### [Express View on SC order releasing Prabir Purkayastha of Newsclick: A welcome message](https://indianexpress.com/article/opinion/editorials/express-view-on-sc-order-releasing-prabir-purkayastha-of-newsclick-a-welcome-message-9333945/)
+
+The article discusses the Supreme Court's stance on the fundamental rights of individuals under special laws like the PMLA, NDPS Act, and UAPA. It highlights the case of Prabir Purkayastha, whose arrest was invalidated by the SC, emphasizing the right of an accused to be informed of the grounds of arrest as per Article 22(1). The SC's decision reaffirms the importance of due process and technical procedures in the legal system, even under laws designed for heinous crimes. The article also notes a significant increase in cases under these special laws, which underscores the relevance of the SC's order in protecting individual rights. Additionally, it mentions Mamata Banerjee's political strategy in supporting the Opposition alliance, excluding certain parties, which is seen as a move for the upcoming West Bengal Assembly elections. Opponents have criticized this as a U-turn that could benefit the BJP.
+
+Fri, 17 May 2024 01:05:01 +0000
+### [Forty years: Tripura floods death toll at 27, about 1.25 lakh homeless](https://indianexpress.com/article/opinion/40-years-ago/forty-years-tripura-floods-death-toll-at-27-about-1-25-lakh-homeless-9333951/)
+
+Here's a summary of the key points from the article:
+
+- **Tripura Crisis**: The death toll in Tripura has risen to 27 due to severe rain, landslides, and cloudbursts. The Army is on alert as conditions may worsen, leaving around 1.25 lakh people homeless. The Chief Minister has requested a Rs 1 crore grant from the Centre for relief efforts.
+
+- **Punjab Incidents**: In Punjab, terrorists have conducted multiple attacks, including ambushing a police party in Amritsar, looting a bank in Ferozepur, and setting fire to a building in Batala. Weapons were also stolen from law enforcement officers.
+
+- **Everest Expedition Halted**: India's Everest expedition's second summit attempt was aborted due to an avalanche that injured one member and three Sherpa guides at a high-altitude camp.
+
+- **Academic Achievements**: O N Babunarayan achieved the highest marks in the All-India Senior Secondary Certificate examination, followed by M Sriram and Madhu Anand, who scored the highest among girls.
+
+- **Political Strategy**: Mamata Banerjee, the TMC chief, has declared support for the Opposition alliance to form the government at the Centre, strategically excluding Bengal's CPI(M) and Congress, which has led to criticism from opponents.
+
+This summary excludes any unrelated content that may have been present in the original article.
+
 Thu, 16 May 2024 13:43:09 +0000
 ### [Behind Supreme Court’s remarks on sanctity of marriage, a growing social anxiety](https://indianexpress.com/article/opinion/columns/supreme-courts-sanctity-of-marriage-9333496/)
 

@@ -1,3 +1,12 @@
+Fri, 17 May 2024 08:30:00 +0530
+### [Can parties be de-recognised or de-registered? | Explained](https://www.thehindu.com/news/national/can-parties-be-de-recognised-or-de-registered-explained/article68183892.ece)
+
+The article discusses the Election Commission of India's (ECI) enforcement of the Model Code of Conduct (MCC) and the debate over its powers to address violations. It outlines the requirements for political party registration under the Representation of the People Act, 1951, including allegiance to the Constitution and principles of socialism, secularism, and democracy. Registered parties enjoy benefits like tax exemptions, a common symbol for elections, and a set number of 'star campaigners'. Currently, there are 2,790 active registered parties, with only a third contesting elections. The ECI lacks explicit power to de-register parties for not contesting elections or other failures, as established by a Supreme Court ruling.
+
+The MCC prohibits exploiting caste and communal sentiments for votes, and recognized parties have violated it on several occasions. The ECI's response has typically been to bar leaders from campaigning temporarily. The ECI and the Law Commission have suggested legal amendments to empower the ECI to de-register parties that fail to contest elections for an extended period. The ECI also has the power to suspend or withdraw recognition of a party for MCC violations, a measure used sparingly.
+
+The author, Rangarajan R, a former IAS officer, emphasizes the need for strict action to ensure adherence to the MCC and suggests implementing the recommended legal reforms. The views expressed are his personal opinions.
+
 Thu, 16 May 2024 22:40:19 +0530
 ### [The use of AI in drug development | Explained](https://www.thehindu.com/sci-tech/technology/the-use-of-ai-in-drug-development-explained/article68183913.ece)
 

@@ -1,3 +1,50 @@
+Fri, 17 May 2024 02:30:15 +0000
+### [What the new right-wing Dutch government plans to do](https://indianexpress.com/article/explained/explained-global/netherland-what-the-new-right-wing-dutch-government-plans-to-do-9333952/)
+
+The new Dutch government coalition, led by ultranationalist Geert Wilders, has outlined its plans across various sectors:
+
+**On Immigration:**
+- Implement the EU's strictest asylum policy.
+- Seek an opt-out from common EU migration rules.
+- Deport foreigners denied asylum in other EU countries.
+- Limit family reunifications and deprioritize housing for refugees.
+- Enforce stricter EU border controls and negotiate migrant returns with non-EU countries.
+- Restrict labor migration and the influx of foreign students.
+- Require work permits for non-EU workers without specific expertise.
+
+**On Energy:**
+- Increase offshore natural gas and nuclear energy production.
+- Adhere to international climate goals without additional national restrictions.
+- Cancel the previous government's plans for a national carbon emissions tax.
+
+**On Agriculture and Environment:**
+- No forced livestock reduction for farmers.
+- Seek to relax EU environmental regulations for agriculture.
+- Not impose domestic regulations stricter than EU laws.
+- Reduce diesel prices for farmers and raise highway speed limits.
+
+**On Taxes and Spending Cuts:**
+- Reduce energy and income taxes.
+- Eliminate levies on share buybacks by listed companies.
+- Halve mandatory healthcare contributions by 2027.
+- Increase childcare subsidies and make day care nearly free.
+- Finance plans with €14 billion in spending cuts, including a government salary freeze.
+- Limit unemployment welfare to 18 months.
+
+**International Stance:**
+- Continue political and military support for Ukraine.
+- Legally commit to spending at least 2% of GDP on defense, aligning with NATO.
+- Reduce foreign development aid by €2.4 billion.
+- Oppose EU enlargement unless criteria are met.
+- Plan to relocate the Dutch embassy in Israel to Jerusalem.
+
+This summary excludes unrelated content from the article.
+
+Fri, 17 May 2024 01:15:21 +0000
+### [Xi, Putin, and the world](https://indianexpress.com/article/explained/xi-putin-and-the-world-9333972/)
+
+Presidents Vladimir Putin and Xi Jinping recently met in Beijing, reaffirming the strong and enduring friendship between Russia and China. They celebrated 75 years of diplomatic relations and discussed their "no-limits" strategic partnership, which has been a concern for the West, especially given Russia's significant military advances in Ukraine. The U.S. has accused China of being a major supplier of dual-use items to Russia, aiding its war efforts. Despite this, Xi has assured the EU that China will not sell arms to Russia and will control the flow of dual-use goods. The West hopes Xi will influence Putin to seek a political resolution to the Ukraine conflict, aligning with their recent statement on the crisis. The historical context of Sino-Russian relations highlights a complex past and evolving economic ties, with implications for global politics and India's strategic interests.
+
 Thu, 16 May 2024 14:45:50 +0000
 ### [Should medical professionals be protected from consumer court proceedings? SC to reconsider 1995 ruling](https://indianexpress.com/article/explained/explained-law/medical-professionals-consumer-court-proceedings-sc-9333641/)
 

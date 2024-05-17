@@ -1,3 +1,14 @@
+Fri, 17 May 2024 09:23:12 +0530
+### [Why is New York seeing a boom of panic rooms?](https://www.firstpost.com/explainers/why-is-new-york-seeing-a-boom-of-panic-rooms-13771678.html)
+
+As the 2024 US presidential election approaches, New Yorkers are increasingly investing in home security measures such as panic rooms and bulletproof doors due to concerns over crime, immigration, and national instability. This trend is not limited to the wealthy; middle-class residents and those from less affluent areas are also participating. The pandemic has intensified the demand for security enhancements, with businesses like Creative Home Engineering and Fortified and Ballistic Security reporting a surge in interest. Assaults in New York City have reached record numbers, and the general sense of safety has declined. Contractors offer a range of security solutions to accommodate various budgets, and the city has become one of the largest markets for such services in the US. The practice of "doomsday prepping" is becoming more widespread, reflecting a societal shift towards prioritizing personal safety in times of uncertainty. Security experts advocate for being prepared, even if the perceived threat may not materialize.
+
+Fri, 17 May 2024 08:05:09 +0530
+### [Love and lust in the White House: Long list of US presidential sex scandals before Trump](https://www.firstpost.com/explainers/love-lust-white-house-list-us-presidential-sex-scandals-donald-trump-john-f-kennedy-bill-clinton-13769395.html)
+
+Article found but Couldn't summarize 
+Juicy details of Donald Trump’s alleged affair with adult film star Stormy Daniels have been revealed in the ongoing hush money trial case. However, he isn’t the first US president accused of adultery. History shows that the occupants of the White House, dating as far back as George Washington, have been involved in sex scandals
+
 Fri, 17 May 2024 06:00:26 +0530
 ### [FirstUp: PM Modi's Mumbai rally, Rahul and Akhilesh in UP... The top news today](https://www.firstpost.com/explainers/firstup-pm-modi-mumbai-rahul-gandhi-akhilesh-yadav-in-up-top-news-today-13771654.html)
 

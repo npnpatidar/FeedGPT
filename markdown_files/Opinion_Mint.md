@@ -1,3 +1,17 @@
+Fri, 17 May 2024 08:30:12 +0530
+### [Seinfeld’s spoof on Kellogg: Brand theft or celebrity endorsement?](https://www.livemint.com/opinion/online-views/seinfelds-spoof-on-kellogg-brand-theft-or-celebrity-endorsement-11715873643825.html)
+
+The article discusses the evolving trend of brand parodies in entertainment, particularly focusing on Jerry Seinfeld's Netflix release "Unfrosted," a spoof on the breakfast cereal rivalry in America. It humorously distorts the success story of Kellogg's Pop-Tarts, using the company's brands and mascots. The film represents a shift in American filmmaking, where companies are increasingly seen to embrace humor, even when it involves their brands. This is contrasted with the Indian film industry's cautious approach, as seen in Rajesh Krishnan's "Crew," which uses fictional stand-ins for real companies.
+
+"Unfrosted" is noted for its creative liberty, with Seinfeld joking about the potential for a lawsuit from Kellogg for brand infringement. The article highlights the split of Kellogg into Kellanova and W.K. Kellogg Company, with Kellanova calling the film a "farce not fact" and a fictional account meant for entertainment. Interestingly, Kellanova joined the humor by releasing a spoofy video and a limited-pack product, Tart-Pops, playing along with the movie's narrative.
+
+The article raises questions about whether brands are developing a sense of humor and whether they are being advised to laugh along with jokes made at their expense. It suggests that brand parodies might be becoming more acceptable and even beneficial for companies, as seen by the positive reception to "Unfrosted" and its engagement with the brand it parodies. The piece concludes by pondering the implications of this trend and whether it signifies a deeper change in corporate image management.
+
+Fri, 17 May 2024 07:15:07 +0530
+### [Mint Quick Edit | US elections: Brace for Biden vs Trump debates](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-us-elections-brace-for-biden-vs-trump-debates-11715873194288.html)
+
+As the US presidential elections approach, excitement builds with the announcement of two televised debates between incumbent Democrat Joe Biden and Republican Donald Trump, scheduled for June and September. This marks their first debate since 2020, when Trump frequently interrupted Biden. Both candidates are setting their terms for the debates: Biden seeks to establish ground rules, while Trump favors a grand venue with a large audience. Although Trump leads slightly despite legal issues, the debates could be pivotal if the race tightens. Trump has avoided debates with other Republican candidates and has taken to social media to challenge Biden, while also attacking Biden's age, despite the small age difference between them. The age requirement for presidential candidates is a minimum of 35 years, a criterion rarely questioned.
+
 Thu, 16 May 2024 16:30:09 +0530
 ### [Think it over: What AI does for us versus what it’s doing to us](https://www.livemint.com/opinion/online-views/think-it-over-what-ai-does-for-us-versus-what-it-s-doing-to-us-11715795656136.html)
 
