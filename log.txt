@@ -5731,3 +5731,11 @@ Started at 2024-05-16 20:11:07
 Finished at 2024-05-16 20:16:22
 Total time taken: 314.76614022254944 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-05-17 00:48:39
+1 Feed entries have been written to feeds/Explain_FP.xml
+1 new entries have been added
+9 summaries have been updated to feeds/Explain_FP.xml
+9 summaries have been updated
+Finished at 2024-05-17 00:53:48
+Total time taken: 308.88292121887207 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
