@@ -1,3 +1,54 @@
+Sat, 18 May 2024 02:30:35 +0000
+### [What is behind orcas aka killer whales sinking boats?](https://indianexpress.com/article/explained/explained-sci-tech/orcas-sinking-boats-9335819/)
+
+The article discusses a series of incidents in the Strait of Gibraltar where orcas, also known as killer whales, have been targeting sailing yachts. On May 12, a yacht was sunk by orcas, leading to the rescue of two people. This event is part of a pattern that has seen over 700 interactions since 2020, some resulting in significant damage to boats. The phenomenon has become a multinational concern, involving scientists and officials from Spain, Portugal, and Morocco.
+
+Researchers are puzzled by the orcas' behavior, which is considered unusual. Two main theories have emerged: one suggests the orcas are engaging in play, with juvenile orcas repeating the behavior of pushing boats. The other theory posits that the behavior may be a response to negative experiences, such as entanglement in fishing lines, leading to a change in behavior that is then imitated by others.
+
+The article highlights the potential dangers of these interactions, both for mariners and the conservation of orcas, as continued incidents could pose risks to human life and the orcas themselves. The situation is being closely monitored, with sailors sharing advice online and biologists tracking the orcas and exploring deterrent methods. The cause of the orcas' behavior remains undetermined, with ongoing research seeking answers.
+
+Sat, 18 May 2024 01:48:04 +0000
+### [What happens during remand herrings? This is what a study suggests](https://indianexpress.com/article/explained/what-happens-during-remand-herrings-this-is-what-a-study-suggests-9336117/)
+
+The article discusses a Supreme Court judgment concerning the arrest and detention of journalist Prabir Purkayastha, highlighting the failure to follow due-process safeguards and violation of constitutional rights. The court's decision underscores the importance of the accused being informed of the grounds for arrest as mandated by Article 22(1) of the Constitution, and the necessity for judicial scrutiny during the first production and remand stage.
+
+An ethnographic study by Project 39A at National Law University Delhi examined the functioning of magistrate courts in Delhi, revealing that magistrates often do not fully realize the constitutional and statutory protections due at first production and remand. The study found common violations, such as the lack of meaningful interaction with the accused and inadequate legal representation, which compromise the rights of the accused.
+
+The article also points out the absence of a standard format for Arrest Memos and Medico-Legal Certificates, leading to a lack of clarity and potential rights violations. It criticizes the judiciary's role in not ensuring these safeguards and highlights the Supreme Court's emphasis on the need for meaningful communication of arrest grounds.
+
+Overall, the study led by Sikora and Lokaneeta calls attention to systemic issues in the pretrial process and the need for reforms to protect the constitutional rights of the accused. The unrelated content regarding Sonakshi Sinha's comments on Manisha Koirala and Sanjay Leela Bhansali has been omitted from this summary.
+
+Sat, 18 May 2024 01:46:59 +0000
+### [Explained: Rules for political parties to use state-funded media during polls](https://indianexpress.com/article/explained/explained-politics/explained-rules-for-political-parties-to-use-state-funded-media-during-polls-9336115/)
+
+In the run-up to the ongoing Lok Sabha elections, two opposition leaders, CPI(M) General Secretary Sitaram Yechury and AIFB leader G Devarajan, were instructed to amend their speeches for Doordarshan and AIR broadcasts. Yechury was asked to omit references to the electoral bond scheme, avoid terms like "communal authoritarian regime" and "draconian laws," and to replace "bankruptcy" with "failure" when discussing governance. Devarajan had to remove the term "Muslims" from his speech concerning the Citizenship Amendment Act.
+
+These changes were in accordance with the Election Commission of India's (ECI) rules for using state media during elections. Since 1998, recognized parties have been allowed to use state-owned TV and radio for campaigning, with time allocations decided by the ECI. For the 2024 elections, the ECI allocated broadcast time to six national parties and 59 state parties, with time divided based on the 2019 Lok Sabha elections' voteshare.
+
+Parties must submit speech transcripts for approval days before recording, adhering to ECI guidelines that prohibit various forms of content, including criticism of other countries, attacks on religions or communities, and anything that could affect the nation's unity or integrity.
+
+Yechury and Devarajan expressed dissatisfaction with the edits to their speeches, which aired on April 16. Yechury criticized the censorship as a denial of democratic dissent, while Devarajan argued that omitting "Muslims" from his speech undermined the discriminatory nature of the CAA against Muslims. The ECI had allocated 54 minutes each to CPI(M) and 26 minutes each to AIFB for their broadcasts on Doordarshan and AIR.
+
+Sat, 18 May 2024 01:25:00 +0000
+### [How the Narasimha Rao years changed India](https://indianexpress.com/article/explained/explained-politics/how-the-narasimha-rao-years-changed-india-9336116/)
+
+The article provides a detailed account of the political landscape in India following the assassination of Rajiv Gandhi in 1991. It highlights the challenges faced by the Congress party, the rise of P V Narasimha Rao as Prime Minister, and the significant events during his tenure, including economic liberalization and the Babri Masjid demolition. The article also touches upon the internal dynamics and rivalries within the Congress party, the impact of Rao's leadership on the party's structure, and the consolidation of other political parties during this period.
+
+Sat, 18 May 2024 00:45:26 +0000
+### [50 year of Pokhran-I: Why India conducted its first nuclear tests](https://indianexpress.com/article/explained/everyday-explainers/pokhran-smiling-buddha-first-nuclear-test-1974-9335769/)
+
+On May 18, 1974, India conducted its first nuclear test, codenamed 'Smiling Buddha,' in Pokhran, Rajasthan. The test was kept secret due to global efforts to limit nuclear proliferation. Prime Minister Indira Gandhi described it as a "peaceful nuclear explosion," which was a strategic move considering the opposition from the permanent members of the UN Security Council (P-5): the US, UK, France, China, and Russia.
+
+The backdrop of this event was the Cold War and the Nuclear Nonproliferation Treaty (NPT) of 1968, which India found discriminatory as it favored the P-5 countries. India's refusal to sign the NPT was rooted in its belief that the treaty did not impose a reciprocal disarmament obligation on nuclear-armed states.
+
+India's nuclear program had been developing since the 1950s, with significant contributions from scientists like Homi J Bhabha and Vikram Sarabhai. The geopolitical landscape, including wars with China and Pakistan, and changes in leadership, influenced India's nuclear policy.
+
+The Pokhran test involved a 12-13 kiloton TNT yield device and demonstrated India's nuclear capabilities without immediate weaponization. The test faced international criticism, leading to sanctions like the US Nuclear Non-Proliferation Act of 1978. However, attitudes began to shift in 2005 with the US-India nuclear agreement.
+
+India's efforts to join the Nuclear Suppliers Group (NSG) have been ongoing since 2008, with the aim of participating in nuclear commerce and gaining acceptance as a responsible nuclear state. Despite initial resistance, support for India's entry has grown, with China remaining the primary opponent.
+
+The article concludes by highlighting India's strategic restraint and responsible conduct, which has gradually earned it a place in international nuclear discussions. This summary omits unrelated content and focuses on the key historical and political aspects of India's nuclear journey.
+
 Fri, 17 May 2024 14:18:03 +0000
 ### [‘Mother of the forests’: What a new study found about the origin of Madagascar’s baobab trees](https://indianexpress.com/article/explained/explained-sci-tech/new-study-madagascar-baobab-trees-9335698/)
 

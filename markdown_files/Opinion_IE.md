@@ -1,3 +1,67 @@
+Sat, 18 May 2024 01:46:37 +0000
+### [Ram Madhav writes: What the Indian voter should be keeping in mind at the poll booth](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-what-the-indian-voter-should-be-keeping-in-mind-at-the-poll-booth-9336039/)
+
+The article emphasizes the importance of making informed choices in a democracy, particularly during elections. It reflects on the idea that the quality of a society's leadership is a reflection of the society itself, as posited by Western political theorists and philosophers like Plato. The piece highlights the significant transformations India has undergone in the last decade, both physically and culturally, advocating for a new India characterized by accountability, transparency, and stakeholder participation in politics, economy, and social life.
+
+It discusses the shift in Indian politics from entitlement to accountability, where voters now scrutinize political actions more rigorously. The article notes the end of political oligarchies and the rise of young, educated politicians challenging traditional political dynasties. It mentions the efforts of Prime Minister Narendra Modi to foster participatory governance and the cultural shifts towards a transparent economy, strategic autonomy in security and diplomacy, and a renewed sense of national pride.
+
+The writer, associated with the India Foundation and RSS, concludes by urging the electorate to choose leaders wisely, as India aspires to become a developed nation by its centenary of independence in 2047. The article's message is clear: the act of voting is not just a right but a responsibility that shapes the future of the nation.
+
+Sat, 18 May 2024 01:45:02 +0000
+### [Hurdles on the path to green growth — and how to remove them](https://indianexpress.com/article/opinion/columns/hurdles-on-the-path-to-green-growth-and-how-to-remove-them-9336037/)
+
+The article discusses the urgent need for climate action in light of the recent heatwave and the record-breaking temperatures of 2023. It emphasizes India's significant carbon emissions from sectors like power, steel, cement, and others. The government's support for green energy transition is highlighted through various initiatives, including the PLI scheme for solar modules, funding for wind and battery projects, and the FAME scheme for electric vehicles. The National Green Hydrogen Mission and amendments to the Energy Conservation bill are also mentioned.
+
+The article outlines the risks associated with transitioning to green technology, with technological risk being the most immediate. It notes the government's goal to increase non-fossil power to 50% by 2030, requiring substantial investment in renewable energy, transmission infrastructure, and storage capabilities. The importance of a consistent supply from renewable sources is stressed, suggesting hybrid projects and energy storage systems as solutions.
+
+For sectors like steel and cement, carbon sequestration methods such as CCUS are deemed necessary to reduce emissions significantly. The article provides specific figures on the investment needed for CCUS in the cement sector and the reduction in emissions it can achieve. It also discusses the steel industry's efforts to reduce its carbon footprint in line with India's 2070 net-zero target and international carbon tax policies.
+
+The role of Green Hydrogen in refining, chemical, and fertilizer sectors, as well as transport, is explored, with substantial capital expenditure projected. The article concludes by emphasizing the need for government support to accelerate the green transition in high-emission sectors, suggesting that policy interventions, subsidies, and tax benefits could be part of the post-election policy agenda. The writer is identified as the Chief Economist and Head of Research & Outreach at ICRA.
+
+Sat, 18 May 2024 01:38:22 +0000
+### [GST portal does not accept monthly returns until the entire tax is paid. This must change](https://indianexpress.com/article/opinion/columns/gst-portal-does-not-accept-monthly-returns-until-the-entire-tax-is-paid-this-must-change-9336038/)
+
+The article discusses the challenges faced by taxpayers under the current GST system in India, particularly the issue of the time-limit conundrum for availing input tax credit. It highlights the problem where manufacturers, due to cash flow issues, are unable to pay the full tax amount and thus cannot file their monthly returns, leading to a loss of input tax credit if not resolved by November 30 each year. The authors argue for a change in the GST portal to allow the filing of returns with partial tax payment, recording the arrears and subjecting them to interest until cleared. This would alleviate the burden on small and medium enterprises that often face delayed payments. The article concludes with a call for the GST Council to address this issue urgently, as it affects a large number of taxpayers who are not defaulting deliberately but due to uncontrollable business circumstances.
+
+Sat, 18 May 2024 01:34:49 +0000
+### [Tamil Nadu: A case for allowing reservation over 50 per cent](https://indianexpress.com/article/opinion/columns/tamil-nadu-a-case-for-allowing-reservation-over-50-per-cent-9336041/)
+
+The article discusses the proposal by the Congress party in India to raise the reservation cap for OBCs, SCs, and STs beyond 50% in government jobs and education, should they come to power. It addresses the legal and economic opposition to this idea, with the economic argument suggesting that such reservations compromise merit and lead to poorer outcomes. The article counters this by referencing the "natural experiment" of Tamil Nadu (TN), where reservations are at 69%. It highlights TN's economic growth and development over three decades, comparing it favorably with other states that have lower reservation percentages. The data shows TN's success in various economic indicators, suggesting that higher reservation has not hindered its progress or scared away investment. The author argues that increased reservation does not necessarily slow economic progress and can contribute to inclusive growth. The article concludes by asserting that India can grow its economy sufficiently to accommodate higher reservations without affecting opportunities for others. The writer is identified as the Chairman of the All India Professionals’ Congress and a member of the Congress' manifesto committee. The unrelated content about Sonakshi Sinha and Manisha Koirala has been omitted from this summary.
+
+Sat, 18 May 2024 01:22:59 +0000
+### [Collapse in Ghatkopar, a call to reform](https://indianexpress.com/article/opinion/editorials/collapse-in-ghatkopar-a-call-to-reform-9336042/)
+
+The article discusses the aftermath of a tragic hoarding collapse in Ghatkopar, Mumbai, which resulted in 16 deaths and at least 75 injuries. The Veermata Jijabai Technological Institute is conducting an investigation to determine the cause, with results expected soon. It's already known that the hoarding was significantly larger than permitted and poorly constructed, leading to its collapse during strong winds. The Brihanmumbai Municipal Corporation (BMC) had previously flagged issues with the hoarding to the Government Railway Police, the landowners, and had issued multiple notices to Ego Media, the advertising company responsible, for license fee defaults. The owner of Ego Media has been arrested, marking the beginning of accountability and remedial action.
+
+The incident highlights broader issues in urban governance, such as ineffective municipalities, overlapping agency jurisdictions, negligent officials, and poor urban planning. The article references the 74th constitutional amendment, which mandates the devolution of certain functions to municipalities, but notes that no state government has fully complied. This leads to conflicts between local bodies and state agencies, as seen in Delhi's road maintenance confusion. The lack of elected corporators in cities like Mumbai and Bengaluru, contrary to Supreme Court directives, exacerbates the problem.
+
+The article concludes by pointing out that the Ghatkopar incident is not isolated, citing similar tragedies in Pune and Pimpri-Chinchwad. It underscores the need for empowered and accountable urban governance to ensure public safety.
+
+Sat, 18 May 2024 01:22:08 +0000
+### [Loud quitting: Catharsis, breakdown](https://indianexpress.com/article/opinion/editorials/loud-quitting-catharsis-breakdown-9336046/)
+
+The article discusses the phenomenon of "loud quitting," a trend where employees publicly announce their resignation in dramatic fashion, often live-streaming the event. This is contrasted with "quiet quitting," where employees do the bare minimum at work. The trend reflects a deeper issue of communication and dissatisfaction in the workplace, highlighting the decline of "hustle culture" and the rise of movements like "bare minimum Mondays" and "act your wage." It suggests that for a generation used to sharing their lives on social media, "loud quitting" is a way to articulate resentment and push back against a culture of silence in the corporate world. The article also mentions a viral video from Pune, India, where a man quit his job with the accompaniment of dhol players, drawing parallels to a similar scene from a 1991 episode of "Seinfeld."
+
+Sat, 18 May 2024 01:15:18 +0000
+### [May 18, 1984, Forty Years Ago: Nihang Priest Killed](https://indianexpress.com/article/opinion/40-years-ago/may-18-1984-forty-years-ago-nihang-priest-killed-9336047/)
+
+Here's a summary of the key points from the article:
+
+- **Punjab Violence**: A Nihang priest was killed, a passenger bus, a school, and the "samadhi" of Baba Roor Singh were set ablaze, and an octroi post was looted in Punjab. Baba Roor Singh, associated with the Golden Temple in 1919, had honored Gen Dyer, responsible for the Jallianwala Bagh massacre.
+- **Assam Floods**: The army is aiding civil efforts in Assam's Karimganj district due to severe flooding caused by the Kushiara and Longai rivers, resulting in four deaths and disrupting transport links.
+- **Currency Controversy**: The Akhil Bharatiya Grahak Panchayat has legally challenged the Union government, claiming Rs 500 is owed for every 50-rupee note due to a language discrepancy in its value representation.
+- **Cinema Award**: Durga Khote received the Dada Saheb Phalke award for 1983, including a "Swarno Kamal," cash, and a shawl, as announced by the Information and Broadcasting Minister.
+- **Bollywood Praise**: Sonakshi Sinha commended Manisha Koirala's performance in "Heeramandi" and reflected on her own experience working with director Sanjay Leela Bhansali.
+
+Sat, 18 May 2024 01:15:00 +0000
+### [Prasar Bharati: Out of joint](https://indianexpress.com/article/opinion/editorials/prasar-bharati-out-of-joint-9336045/)
+
+The article discusses the actions of Prasar Bharati, India's state-owned broadcaster, which altered the speeches of opposition leaders Sitaram Yechury and G Devarajan by removing certain words and phrases. This was done in accordance with the Election Commission's conduct rules, which prohibit various forms of criticism and defamation. However, the article questions the necessity of these changes, suggesting that they do not align with the spirit of a democratic electoral process, which inherently involves adversarial debate.
+
+It criticizes Prasar Bharati for failing to adapt to the audience's evolving expectations and for its unwarranted allegiance to the government, leading to its increasing irrelevance. The article also references the Prasar Bharati Act, which mandates the broadcaster to present information fairly and without bias, underscoring the importance of allowing opposition voices to be heard. The article implies that the broadcaster's actions undermine the democratic process and insult the electorate's intelligence by unnecessarily censoring the opposition's language.
+
+The unrelated content about Sonakshi Sinha's comments on Manisha Koirala and Sanjay Leela Bhansali has been omitted from this summary.
+
 Fri, 17 May 2024 13:18:22 +0000
 ### [Suhas Palshikar writes: BJP’s electoral pitch shows duality, not inconsistency](https://indianexpress.com/article/opinion/columns/bjp-electoral-pitch-duality-inconsistency-9335624/)
 

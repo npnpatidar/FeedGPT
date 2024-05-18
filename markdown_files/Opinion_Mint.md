@@ -1,3 +1,14 @@
+Sat, 18 May 2024 08:00:11 +0530
+### [Jagmohan Dalmiya, the man who set cricket on its path to current riches](https://www.livemint.com/opinion/online-views/jagmohan-dalmiya-t20-world-cup-cricket-on-its-path-to-current-riches-11715862029105.html)
+
+The article celebrates the legacy of Jagmohan Dalmiya, who revolutionized cricket administration and played a pivotal role in expanding the game's global reach. Dalmiya's journey began with his involvement in the Cricket Association of Bengal, leading to a significant position in the BCCI by 1983. He challenged the dominance of England over world cricket by successfully bidding to host the 1987 World Cup in the Indian subcontinent, which marked the beginning of a rotation system for future tournaments.
+
+Dalmiya's vision saw the re-admittance of South Africa to international cricket and the transformation of cricket's financial model. He fought for the BCCI's right to sell television rights, leading to a landmark Supreme Court decision in 1995. His business acumen shone during the 1996 World Cup, generating substantial revenue and strengthening the Asian bloc's influence in cricket.
+
+Elected as the first Asian ICC president in 1997, Dalmiya continued to innovate, introducing the ICC KnockOut Trophy and securing Test status for Bangladesh. His tenure as BCCI president saw the introduction of player contracts and pensions for former cricketers and umpires.
+
+Despite facing allegations of misappropriation of funds and expulsion from the BCCI, Dalmiya was exonerated after legal challenges. He was re-elected as BCCI president in 2015 but passed away later that year. The article underscores Dalmiya's indelible impact on cricket, making the sport richer through his contributions.
+
 Fri, 17 May 2024 18:00:11 +0530
 ### [India’s rural awakening: An economic growth engine](https://www.livemint.com/opinion/online-views/indias-rural-awakening-an-economic-growth-engine-11715929430586.html)
 
