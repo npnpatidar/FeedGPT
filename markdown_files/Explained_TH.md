@@ -1,3 +1,8 @@
+Sat, 18 May 2024 11:57:52 +0530
+### [Under what rules did the ECI reject comedian Shyam Rangeela’s poll nomination from Varanasi? | Explained](https://www.thehindu.com/elections/lok-sabha/comedian-shyam-rangeela-poll-nomination-from-varanasi-under-what-rules-did-eci-reject/article68184098.ece)
+
+The article discusses the rejection of comedian Shyam Rangeela's nomination for the Varanasi parliamentary constituency by the Election Commission of India (ECI) due to incompleteness. Rangeela, known for impersonating the Prime Minister, intended to run as an independent candidate. He faced difficulties in submitting his nomination and claimed that the returning officer (RO) accepted his papers just before the deadline but later rejected them for not taking the required oath. The ECI's handbook states that candidates must take an oath before scrutiny, and the RO is to ensure all documents are complete. Out of 41 nominations in Varanasi, 33 were rejected, leaving only seven candidates, including PM Modi. The article outlines the nomination process, eligibility criteria, and the importance of the oath as per the Constitution and the Representation of People Act, 1951. It also mentions the Supreme Court's stance on the RO's quasi-judicial role in scrutinizing nominations. Dissatisfied candidates can challenge the RO's decision in the High Court.
+
 Fri, 17 May 2024 23:49:02 +0530
 ### [The cases and charges against the Bhima Koregaon 16 | Explained](https://www.thehindu.com/news/national/elgar-parishad-bhima-koregaon-16-human-rights-defenders-cases-and-charges/article68177476.ece)
 

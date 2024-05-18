@@ -1,3 +1,33 @@
+Sat, 18 May 2024 13:30:27 +0530
+### [Who is Pune's Prafulla Dhariwal, the mastermind behind OpenAI's GPT-4o?](https://www.firstpost.com/explainers/who-is-punes-prafulla-dhariwal-the-mastermind-behind-openais-gpt-4o-13772202.html)
+
+The article discusses the significant contributions of Prafulla Dhariwal, an Indian research scientist at OpenAI, to the development of GPT-4o, a groundbreaking multimodal AI model. OpenAI CEO Sam Altman credits Dhariwal's vision and determination for the successful launch of GPT-4o, which can process text, voice, and images simultaneously. Dhariwal's academic journey began in Pune, India, where he excelled in various international olympiads and competitive exams. He later attended MIT and joined OpenAI, where he co-created several influential AI models. Dhariwal's family background in education and engineering played a vital role in his early interest in science and technology. His work on GPT-4o and leadership of the Omni team at OpenAI continue to push the boundaries of AI, marking the start of a new era in computer interaction. The article also touches on the "sexi-fication" of AI, referring to the persona given to ChatGPT.
+
+Sat, 18 May 2024 12:45:08 +0530
+### [China-Russia closeness has Taiwan rattled. Here's why](https://www.firstpost.com/explainers/china-russia-closeness-has-taiwan-rattled-heres-why-13772195.html)
+
+Taiwan is increasingly concerned about the strengthening diplomatic ties between Russia and China, particularly in light of Russia's economic dependence on China following the Ukraine war and sanctions. This relationship is highlighted by energy deals and military cooperation, which pose a direct threat to Taiwan's security and democratic system. Taiwan's Foreign Minister Joseph Wu and President Tsai Ing-wen have called for global democratic unity to counter the authoritarian alliance of China and Russia. The fear of a Ukraine-like invasion by China, possibly supported by Russia, looms over Taiwan, especially with joint military exercises signaling their defense cooperation. Taiwan's strained relations with Russia have worsened since Taiwan supported Ukraine, leading to a greater alignment with Western democracies for defense. Despite efforts to strengthen international alliances, there are concerns about the consistency of support from democratic allies, influenced by global conflicts and political shifts such as the US presidential elections. Taiwan remains hopeful but cautious as it navigates these geopolitical challenges.
+
+Sat, 18 May 2024 11:47:12 +0530
+### [Who are the three Israeli hostages, whose bodies have been recovered in Gaza?](https://www.firstpost.com/explainers/who-are-the-three-israeli-hostages-whose-bodies-have-been-recovered-in-gaza-13772154.html)
+
+The Israeli military has announced the recovery of the bodies of three hostages from Gaza, identified as Shani Louk, Amit Bouskila, and Itshak Gelernter, who were kidnapped and killed during an attack on the Nova music festival on October 7. The attack, led by Hamas militants, resulted in over 240 people being taken hostage and marked the bloodiest day in Israel's history. Over 35,000 Palestinian deaths have been reported since the war began. The Israeli Prime Minister, Benjamin Netanyahu, described the deaths as heartbreaking and pledged to return all hostages. Meanwhile, Israeli opinion is divided on the government's approach to the war and hostage situation, with protests demanding a deal to bring the hostages home, new elections, and Netanyahu's resignation. Negotiations for the hostages' release have seen little progress.
+
+Sat, 18 May 2024 09:56:13 +0530
+### [This Week in Explainers: How fallout between Swati Maliwal and AAP was in the making](https://www.firstpost.com/explainers/this-week-in-explainers-aap-swati-maliwal-bibhav-kumar-arvind-kejriwal-13772066.html)
+
+Here's a summary of the key points from the article:
+
+- **Swati Maliwal**, Rajya Sabha MP, has accused **Arvind Kejriwal's aide Bibhav Kumar** of assault, leading to a police FIR and a political stir within the **Aam Aadmi Party (AAP)**.
+- The AAP has countered, alleging Maliwal's actions are part of a **BJP conspiracy**.
+- A rift between Maliwal and the AAP had been growing, particularly after her absence post-Kejriwal's arrest by the ED in March.
+- In Mumbai, a **dust storm and rain** caused a billboard to collapse, resulting in **16 deaths** and **75 injuries**. The ad firm owner responsible was arrested.
+- **Sushil Kumar Modi**, a senior BJP leader in Bihar, passed away, leaving a significant impact on the state's political landscape.
+- A legal battle is ongoing between **Beiersdorf AG** and **Hindustan Unilever Limited** over unfair market practices related to moisturizer brands.
+- Concerns have been raised about the safety of **AstraZeneca's COVID-19 vaccine** and India's **Covaxin**, following reports of rare side effects.
+
+The article provides a comprehensive look at these issues, offering detailed explanations and insights into each topic. If you're interested in staying updated, the article suggests bookmarking their page for weekly explainers.
+
 Fri, 17 May 2024 20:44:38 +0530
 ### [Why Australia’s richest person wants her portrait removed from museum](https://www.firstpost.com/explainers/australias-richest-person-13772056.html)
 
@@ -6747,32 +6777,66 @@ The Mumbai Coastal Road Project's south-bound section was inaugurated by Maharas
 Tue, 12 Mar 2024 11:42:03 +0530
 ### [Will France legalise assisted dying? Which other European countries allow it?](https://www.firstpost.com/explainers/will-france-legalise-assisted-dying-which-other-european-countries-allow-it-13747899.html)
 
-Article found but Couldn't summarize 
-French president Emmanuel Macron has announced new legislation to legalise ‘aid in dying’. He stated that the new bill would only apply to adults suffering from an incurable illness who are expected to die in the ‘short or middle-term’ and are in ‘intractable’ physical or psychological pain
+French President Emmanuel Macron has announced a new bill to legalize 'aid in dying' for adults with terminal illnesses and intractable pain, expected to die in the short to middle term. The law, which will undergo a legislative process starting in May, sets conditions such as the exclusion of those with severe psychiatric or neurodegenerative disorders. This move follows a report indicating majority support among French citizens for legalizing end-of-life options.
+
+The article also compares France's proposed legislation with laws in other European countries. The Netherlands was the first to legalize active euthanasia and assisted suicide in 2002, later extending it to minors with parental consent and patients with severe dementia. Belgium, Luxembourg, Spain, and Portugal have similar laws, with Belgium allowing euthanasia for terminally ill children of any age. Switzerland, while prohibiting euthanasia, permits assisted suicide, leading to 'suicide tourism.' Austria legalized assisted suicide in 2022, and Italy's constitutional court ruled that assisting suicide should not always be punishable. The UK is experiencing renewed interest in the debate over assisted dying.
+
+The summary omits unrelated content and focuses on the key points of the proposed legislation and its context within European euthanasia and assisted suicide laws.
 
 Tue, 12 Mar 2024 10:10:53 +0530
 ### [After four years, CAA implemented: What changes and what doesn’t?](https://www.firstpost.com/explainers/centre-citizenship-amendment-act-caa-implemented-rules-procedure-changes-13747867.html)
 
-Article found but Couldn't summarize 
-Four years after it was passed in Parliament, the Citizenship Amendment Act, 2019 (CAA) has been notified. The legislation eases the citizenship process for persecuted non-Muslim migrants from Pakistan, Bangladesh and Afghanistan. The Centre has clarified that the CAA doesn’t change anything for existing Indian citizens
+The Citizenship Amendment Act (CAA) of 2019, which was passed by the Indian Parliament, has been officially notified after four years. The act facilitates the citizenship process for non-Muslim migrants from Pakistan, Bangladesh, and Afghanistan who face persecution. It specifies that the CAA does not affect existing Indian citizens.
+
+The CAA allows Hindus, Sikhs, Buddhists, Jains, Parsis, and Christians from the aforementioned countries, who arrived in India on or before December 31, 2014, to fast-track their citizenship process. It excludes Muslims, arguing that they cannot be considered persecuted minorities in Islamic republics. The act also does not cover Tamil refugees from Sri Lanka or Rohingya Muslims from Myanmar.
+
+The implementation rules state that applicants must have resided in India for 12 months prior to applying or for six years out of the eight years preceding the 12-month period. Applicants must provide an eligibility certificate from a community institution and declare their intention to permanently reside in India. Certain northeastern regions are exempt from the CAA.
+
+The government assures that the CAA does not change the status of Indian citizens. Opposition parties, however, criticize the timing of the notification, suggesting it aims to influence upcoming elections and expressing concerns over its potential use as a precursor to a nationwide National Register of Citizens (NRC). Critics argue that the CAA is discriminatory and divisive, while supporters claim it fulfills a constitutional promise to persecuted minorities from neighboring countries.
 
 Tue, 12 Mar 2024 09:44:23 +0530
 ### [Explained: How Haiti turned into a failed state](https://www.firstpost.com/explainers/explained-how-haiti-turned-into-a-failed-state-13747851.html)
 
-Article found but Couldn't summarize 
-Haiti’s gangs have carried out a series of coordinated attacks and also laid siege to the country’s port and airport. To bring this crisis to an end, the nation needs an elected government. But holding elections in this climate won’t be an easy task
+Haiti is experiencing a severe crisis as gangs have launched coordinated attacks, including sieges on the country's port and airport. The US military has evacuated embassy staff due to escalating violence, with gangs demanding the resignation of acting President Ariel Henry. Gang leader Jimmy "Barbecue" Chérizier has threatened civil war if Henry does not step down. The gangs have freed over 3,800 criminals from jails and caused 15,000 displaced persons to flee again. Haiti, one of the poorest nations in Latin America, has been without a legitimate government since the assassination of President Jovenel Moïse in 2021, and no new elections are scheduled. The country's weak regime is unable to control its territories, leaving it at the mercy of criminal gangs.
+
+Historically, Haiti has struggled with violent gangs since the Duvalier dictatorship (1957-1986). The notorious "Tonton Macoutes" militia was disbanded in 1986, but its members continued to terrorize the population. After the 1990 democratic election of Jean-Bertrand Aristide, a military coup disrupted the transition. The dismantling of the Haitian army left a vacuum that enabled organized crime to flourish, with drug trafficking becoming a significant income source for Haiti's elites.
+
+The 2010 earthquake exacerbated the situation, leading to the escape of thousands of inmates who joined criminal gangs. Currently, an estimated 200 gangs operate in Haiti, causing widespread insecurity and violence. The "G-9 and Family" federation, led by "Barbecue," is linked to the ruling Haitian Tèt Kale Party and controls key economic points through extortion.
+
+The UN Security Council voted to send a Kenyan-led security force to Haiti, but the mission has been delayed. Haiti urgently needs an elected government to end the crisis, but the conditions for free and fair elections are not present, and the infrastructure is lacking. The status quo is unsustainable, and an election is long overdue.
 
 Tue, 12 Mar 2024 08:45:11 +0530
 ### [Russia elections 2024: Key moments that define Vladimir Putin's presidency](https://www.firstpost.com/explainers/russia-elections-moments-define-vladimir-putin-presidency-13747749.html)
 
-Article found but Couldn't summarize 
-As Russian president Vladimir Putin looks set to clinch an unprecedented fifth term in office at elections this March, here are five key moments that help define his time in the Kremlin
+The article provides an overview of Russian President Vladimir Putin's tenure, highlighting five significant events that have shaped his rule:
+
+1. **The Kursk Disaster (2000):** Early in Putin's presidency, the Kursk nuclear submarine sank, resulting in the death of all 118 crew members. Putin's delayed response and the handling of the situation drew criticism.
+
+2. **Beslan School Attack (2004):** Islamic extremists took over a school in Beslan, leading to a siege that ended with over 330 deaths, including 186 children. The government's management of the crisis was widely condemned.
+
+3. **Mass Protests (2011):** Putin's announcement to run for presidency again led to large-scale protests in Moscow, which were met with a severe crackdown and long jail terms for participants.
+
+4. **Sochi Winter Games and Crimea Annexation (2014):** After hosting the Sochi Olympics, Putin annexed Crimea, leading to international sanctions and the start of a conflict in eastern Ukraine.
+
+5. **Wagner Group Rebellion (2023):** Yevgeny Prigozhin, leader of the Wagner mercenary group, led a brief rebellion against the Russian military leadership. Following a failed mutiny, Prigozhin died in a plane crash, which sent a warning to Putin's opponents.
+
+The article suggests Putin is poised to win a fifth term, extending his influence over Russia's future. It also touches on constitutional reforms that could allow him to stay in power until 2036. The summary omits unrelated content and focuses on the key points presented.
 
 Tue, 12 Mar 2024 05:00:35 +0530
 ### [FirstUp: SBI to furnish electoral bond details & more… The big headlines](https://www.firstpost.com/explainers/firstup-sbi-to-furnish-electoral-bond-details-more-the-big-headlines-13747748.html)
 
-Article found but Couldn't summarize 
-The State Bank of India (SBI) will furnish all details related to electoral bonds to the Election Commission today, based on an order by the Supreme Court. Prime Minister Modi will see India’s atmanirbharta come alive at the tri-service military exercise, ‘Bharat Shakti’ in Pokhran. Here’s what else is expected to happen
+Here's a summary of the key events covered in the article:
+
+- The **State Bank of India (SBI)** is set to provide details on electoral bonds to the Election Commission as directed by the Supreme Court.
+- **Prime Minister Narendra Modi** will be in Ahmedabad to unveil railway projects worth Rs 8,500 crore and will also attend the 'Bharat Shakti' military exercise in Pokhran, showcasing India's defense capabilities.
+- The Supreme Court has ordered the SBI to disclose details of electoral bonds by today and expects the Election Commission to publish this information by March 15.
+- PM Modi's visit to Gujarat includes releasing the master plan for the Gandhi Ashram Memorial and Precinct Development project, and inaugurating a new Vande Bharat train service between Ahmedabad and Mumbai.
+- The 'Bharat Shakti' exercise in Pokhran will demonstrate various indigenously manufactured defense equipment, including LCA Tejas, ALH Mk-IV helicopters, and anti-ship missiles.
+- The Supreme Court will hear a plea from six disqualified Congress MLAs in Himachal Pradesh who were removed for cross-voting in the Rajya Sabha polls.
+- Rahul Gandhi's 'Bharat Jodo Nyay Yatra' will enter Maharashtra, aiming to spread the message of justice and connect with people across 15 states.
+- The IAEA Director General, Rafael Grossi, will visit Japan to inspect the situation at the Fukushima No. 1 nuclear power plant regarding the release of treated water into the ocean.
+
+This summary excludes any unrelated content or advertisements that may have been present in the original article.
 
 Mon, 11 Mar 2024 20:26:24 +0530
 ### [Mission Divyastra: What is the MIRV technology used by Agni-5 missile?](https://www.firstpost.com/explainers/pm-narendra-modi-mission-divyastra-what-is-mirv-technology-used-by-agni-5-missile-13747772.html)

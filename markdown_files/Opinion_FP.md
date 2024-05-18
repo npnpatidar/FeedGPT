@@ -1,3 +1,8 @@
+Sat, 18 May 2024 11:33:50 +0530
+### [Israel-Gaza War: Time for Tel Aviv to respect the 'red lines' and find permanent solution](https://www.firstpost.com/opinion/israel-gaza-war-time-for-tel-aviv-to-respect-the-red-lines-and-find-permanent-solution-13772175.html)
+
+The article discusses the ongoing conflict between Israel and Hamas, focusing on the potential full-scale invasion of Rafah by Israel, which could lead to significant regional instability. Despite international pressure, including from the US, Israel's Prime Minister Netanyahu remains defiant, rejecting a two-state solution and preparing for intensified conflict. The US Congress has passed a resolution to continue military aid to Israel, while the International Court of Justice and the International Criminal Court are considering charges of genocide against Israeli actions in Gaza. The situation has strained relations with Egypt and could breach the 1979 Peace Treaty. The conflict has also affected India, which has a strategic partnership with Israel but has called for a ceasefire and condemned violence from both sides. The article suggests that without a permanent solution, the conflict will continue to pose a significant challenge to the international community. The views expressed are personal opinions of the author, a former Indian Ambassador and Distinguished Fellow at the Vivekananda International Foundation.
+
 Fri, 17 May 2024 18:33:29 +0530
 ### [Sushil Kumar Modi: A gentleman politician who was a misfit in today’s ruthlessly transactional world](https://www.firstpost.com/opinion/sushil-kumar-modi-a-gentleman-politician-who-was-a-misfit-in-todays-ruthlessly-transactional-world-13772048.html)
 

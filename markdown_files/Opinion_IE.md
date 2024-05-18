@@ -1,3 +1,8 @@
+Sat, 18 May 2024 07:20:13 +0000
+### [What I learnt from Alice Munro: Of fried eggs and communities, and finding the writer’s voice](https://indianexpress.com/article/opinion/columns/alice-munro-of-fried-eggs-and-communities-writing-voice-9336818/)
+
+The article reflects on the impact of Alice Munro's writing following her death. The author expresses a personal connection to Munro's work, describing it as intimate and relatable. Munro's stories are praised for their detailed portrayal of everyday life, capturing the essence of human experience in short narratives. The author admires Munro's skill in crafting stories that feel like complete histories of communities within a few pages, highlighting her mastery of the craft. One story, 'The Love of a Good Woman', is noted for its rich detail and the way it conveys tension and pathos through ordinary scenes, like frying eggs. Munro's ability to treat her male characters with the same delicacy as her female ones is also commended, with 'The Bear Came Over the Mountain' serving as an example of her deft handling of time and perspective. The article concludes with the author's aspiration to write like Munro, recognizing that Munro's true lesson is to write authentically as oneself. The piece is written by Manju Kapur, who also mentions her latest work, 'The Gallery'.
+
 Sat, 18 May 2024 01:46:37 +0000
 ### [Ram Madhav writes: What the Indian voter should be keeping in mind at the poll booth](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-what-the-indian-voter-should-be-keeping-in-mind-at-the-poll-booth-9336039/)
 

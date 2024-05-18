@@ -1,3 +1,8 @@
+Sat, 18 May 2024 07:55:57 +0000
+### [Why BSE, NSE conducted special live trading sessions on Saturday](https://indianexpress.com/article/explained/everyday-explainers/bse-nse-stock-market-trading-session-saturday-9336873/)
+
+The article discusses a special live trading session conducted by the BSE and NSE on a Saturday as part of SEBI's Business Continuity Plan (BCP) and Disaster Recovery Site (DRS) framework. The session aimed to test the stock markets' preparedness for handling disruptions. The exchanges periodically assess their readiness through such sessions, which include an intraday switch from the Primary Site to the DRS. The article details the specific timings for the pre-open and normal market sessions for both the capital market and Futures & Options segments. It also mentions the price bands set for securities and futures contracts during the session. The DRS is crucial for maintaining trading operations and data integrity in case of disruptions, and SEBI's framework recommends that the DRS be located in a different seismic zone or at least 500 kilometers away from the Primary Data Centre to avoid simultaneous impact from any disaster. The article concludes with a brief mention of the weather forecast.
+
 Sat, 18 May 2024 02:30:35 +0000
 ### [What is behind orcas aka killer whales sinking boats?](https://indianexpress.com/article/explained/explained-sci-tech/orcas-sinking-boats-9335819/)
 
