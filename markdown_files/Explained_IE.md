@@ -1,3 +1,28 @@
+Sat, 18 May 2024 12:09:30 +0000
+### [Why Supreme Court allowed a review of its 2022 judgment on ‘shamlat deh’ land rights](https://indianexpress.com/article/explained/explained-law/supreme-court-review-2022-shamlat-deh-land-judgment-9337226-rights/)
+
+The Supreme Court of India has allowed a review of a 2022 judgment concerning the rights of village landowners in Haryana over shamlat deh land, which is village common land. The 2022 judgment had upheld a 1992 amendment that permitted gram panchayats to manage this land. However, a recent Bench found that the 2022 decision failed to consider a pivotal 1967 Constitution Bench ruling in Bhagat Ram vs State of Punjab, which dealt with the acquisition of land and compensation rights under Article 31A.
+
+In 1967, the Supreme Court ruled that a land consolidation scheme, which diverted income from reserved lands to the panchayat, effectively constituted land acquisition, requiring compensation to landowners. This decision was based on the principle that the panchayat, and thus the state, became beneficiaries of the land, which contradicted the state of Punjab's argument that it was not an acquisition since the income benefited the village community.
+
+The 2003 Punjab & Haryana High Court decision distinguished between land reserved for common purposes, which could be vested with the gram panchayat, and surplus land contributed by individual proprietors, which could not be acquired without compensation. This decision was initially overruled by the Supreme Court in 2022, stating that the amendment to the Punjab Act post-dated the omission of Article 31 and that the panchayat's management of the land did not equate to acquisition.
+
+However, the 2024 Supreme Court Bench in Karnail Singh vs State of Haryana found that the 2022 judgment did not adequately address the High Court's reliance on the Bhagat Ram decision. It held that the 2022 ruling was contrary to the Constitution Bench's findings, as management and control do not vest in the panchayat until possession has changed. The court recognized this oversight as a significant error, leading to the recall of the 2022 decision and the reopening of the challenge to the 2003 High Court decision, scheduled for hearing on August 7.
+
+Sat, 18 May 2024 10:39:47 +0000
+### [Secret behind construction of Egypt’s pyramids: What a new study reveals](https://indianexpress.com/article/explained/explained-history/secret-egypt-pyramids-nile-branch-giza-9337090/)
+
+The article discusses a new study that sheds light on how the ancient Egyptians may have transported the massive stone blocks used to build the pyramids. Contrary to the implausible theories of alien involvement, the study suggests that a now-extinct branch of the Nile River, named the Ahramat, was instrumental in moving these heavy materials. The Ahramat, which ran adjacent to the pyramid sites, was likely used as a waterway for transportation, significantly easing the labor required.
+
+The research, led by geomorphologist Eman Ghoneim, utilized various methods such as radar satellite imagery and sediment coring to map the buried river branch. The findings indicate that the river was close enough to the pyramids to act as a transport route, with causeways from the pyramids leading to inlets that could have served as harbors.
+
+The article also highlights the impressive architectural and mathematical skills of the ancient Egyptians, as well as the organized settlements of workers who lived near the pyramids. These workers were well-fed and part of a highly controlled operation, indicating a strong central authority. The construction of the pyramids, while facilitated by the river, remains an incredible feat of human ingenuity and labor. The article concludes by noting the pyramids' significance in understanding ancient Egyptian life, beyond their function as tombs.
+
+Sat, 18 May 2024 09:51:51 +0000
+### [Rishi Sunak contemplating changes to UK’s Graduation Route visa: How will Indians be affected?](https://indianexpress.com/article/explained/explained-global/rishi-sunak-uk-graduation-route-visa-indians-impact-9337012/)
+
+British Prime Minister Rishi Sunak is considering changes to the UK's Graduate Route visa (GRV) to limit it to only the most exceptional international students, potentially affecting many, especially Indian students who are the largest group of GRV holders. The GRV allows graduates to stay in the UK for 2-3 years to seek employment. The proposed restrictions aim to address the misuse of the system by some education agents and could lead to a decrease in the number of international students due to uncertainty about their post-study opportunities. This comes as other countries are also tightening their policies on international students, which had made the UK a preferred destination. The changes could have a significant impact on Indian students, who have seen a 54% increase in visas and currently make up 42% of GRV holders. The potential policy shift has caused concern among students and industry experts, who are awaiting further clarity.
+
 Sat, 18 May 2024 07:55:57 +0000
 ### [Why BSE, NSE conducted special live trading sessions on Saturday](https://indianexpress.com/article/explained/everyday-explainers/bse-nse-stock-market-trading-session-saturday-9336873/)
 

@@ -1,3 +1,17 @@
+Sat, 18 May 2024 17:13:26 +0530
+### [What is cryptosporidiosis that has hit a UK town? How can you avoid getting infected?](https://www.firstpost.com/health/what-is-cryptosporidiosis-that-has-hit-a-uk-town-how-can-you-avoid-getting-infected-13772250.html)
+
+UK health authorities are investigating an outbreak of cryptosporidiosis in Devon, with 46 confirmed cases in Brixham and over 100 additional reports of symptoms. The UK Health Security Agency anticipates more confirmed cases. South West Water has advised residents to boil water and has distributed bottled water. Cryptosporidiosis is caused by the Cryptosporidium parasite, which can survive in chlorinated water and is a common cause of waterborne diseases. Transmission occurs through contaminated food or water, and symptoms include diarrhea, vomiting, and stomach cramps. Diagnosis requires stool sample analysis, and treatment may involve antiparasitic medication, antidiarrheal medicines, and hydration. Preventive measures include handwashing, safe food practices, and water safety. The WHO notes the parasite's prevalence in low and middle-income countries, affecting various vulnerable populations. Public health advice includes avoiding work or school for 48 hours post-symptoms and not swimming for 14 days post-symptoms to prevent spreading the infection.
+
+Sat, 18 May 2024 15:57:24 +0530
+### [Mob violence in Kyrgyzstan a threat to Indian, Pakistani students? What we know so far](https://www.firstpost.com/explainers/mob-violence-in-kyrgyzstan-a-threat-to-indian-pakistani-students-what-we-know-so-far-13772259.html)
+
+On the night of May 17-18, violence broke out in Bishkek, Kyrgyzstan, targeting foreign students and migrants after a video went viral. The incident led to diplomatic concerns from India and Pakistan due to the impact on their students. The violence was sparked by a fight between Kyrgyz and Egyptian students, which escalated into mob attacks on foreigners. Kyrgyzstan, popular among South Asian students for medical education, saw its Indian and Pakistani student communities affected, with reports of attacks and damage to their accommodations.
+
+The Indian and Pakistani governments responded with advisories and support for their nationals. The Indian External Affairs Minister advised students to stay in touch with the embassy, while the embassy confirmed that the situation was under control with no severe injuries reported. The Kyrgyz government has initiated an investigation, vowing to punish the guilty and address illegal migration, which has been cited as a contributing factor to the unrest.
+
+The incident reflects underlying tensions in Kyrgyzstan over the influx of migrants and the presence of international students, which have led to local frustrations and occasional violence. The government's actions against illegal migrants aim to mitigate these issues but also risk fueling xenophobic sentiments.
+
 Sat, 18 May 2024 13:30:27 +0530
 ### [Who is Pune's Prafulla Dhariwal, the mastermind behind OpenAI's GPT-4o?](https://www.firstpost.com/explainers/who-is-punes-prafulla-dhariwal-the-mastermind-behind-openais-gpt-4o-13772202.html)
 
@@ -6841,8 +6855,11 @@ This summary excludes any unrelated content or advertisements that may have been
 Mon, 11 Mar 2024 20:26:24 +0530
 ### [Mission Divyastra: What is the MIRV technology used by Agni-5 missile?](https://www.firstpost.com/explainers/pm-narendra-modi-mission-divyastra-what-is-mirv-technology-used-by-agni-5-missile-13747772.html)
 
-Article found but Couldn't summarize 
-PM Narendra Modi announced that India’s Agni-5 missile’s maiden test flight using the Multiple Independently-targetable Reentry Vehicle (MIRV) was a success. This technology that allows a single missile carrying multiple warheads to strike different targets simultaneously is not easy to develop and is only deployed by a select few nations currently
+India's Prime Minister Narendra Modi announced the successful maiden test flight of the Agni-5 missile using Multiple Independently-targetable Reentry Vehicle (MIRV) technology, marking a significant milestone for the country's defense capabilities. The Agni-5 is a nuclear-capable long-range missile developed by the Defence Research and Development Organisation (DRDO), and the use of MIRV technology allows it to deliver multiple warheads to different targets simultaneously. This achievement places India among a select group of nations with such advanced missile technology.
+
+MIRV technology was first developed during the Cold War and allows a single missile to carry several nuclear warheads, each capable of striking separate targets. The United States was the first to deploy MIRVs in the 1970s, followed by other nations like the Soviet Union, the United Kingdom, France, China, and Russia. India's successful test signifies its entry into this exclusive club, with the Agni-5 missile capable of reaching targets up to 5,500 km away, including major Chinese cities.
+
+The Agni-5 missile's advanced navigation systems and domestic avionics ensure high accuracy, and its development is seen as a response to regional security challenges, including Pakistan's test-firing of the MIRV-capable Ababeel missile. The Agni family of missiles has been a part of India's armed forces since the early 1990s, and the latest test underscores India's growing strategic defense capabilities.
 
 Mon, 11 Mar 2024 19:37:32 +0530
 ### [No takers for wine? Why farmers in Australia, France are destroying vineyards](https://www.firstpost.com/explainers/wine-overproduction-why-farmers-in-australia-france-are-destroying-vineyards-13747725.html)

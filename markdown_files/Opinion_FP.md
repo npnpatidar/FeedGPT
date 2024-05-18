@@ -1,3 +1,24 @@
+Sat, 18 May 2024 17:46:18 +0530
+### [Neuralink: What can a chip in the human brain really do?](https://www.firstpost.com/opinion/neuralink-what-can-a-chip-in-the-human-brain-really-do-13772279.html)
+
+Elon Musk's Neuralink Corp announced the successful implantation of their Neuralink chip in a human, marking a significant milestone in neurotechnology. The device, implanted in 29-year-old quadriplegic Noland Arbaugh, allows him to control a computer with his mind, enabling activities like playing video games and browsing the internet. The coin-sized, implantable chip uses electrodes to record and stimulate brain activity, facilitating control over devices through thought. While not offering new technology, Neuralink's innovation lies in integrating various technologies into a single system. The chip's potential applications include restoring mobility, aiding nonverbal communication, treating neurological conditions, providing visual prostheses, eliminating pain, and accessing memories. It also aims to achieve a symbiosis between human intelligence and AI, which Musk views as essential for the future coexistence with advanced AI. The author's views are personal and do not reflect those of Firstpost.
+
+Sat, 18 May 2024 16:01:02 +0530
+### [Why US needs to know where to draw line in ties with India](https://www.firstpost.com/opinion/why-us-needs-to-know-where-to-draw-line-in-ties-with-india-13772258.html)
+
+The article discusses India's geopolitical strategies and its diplomatic stance in light of recent events. External Affairs Minister S Jaishankar addresses the US's concerns over India's ten-year deal to manage the Chabahar Port in Iran, emphasizing the broader benefits and urging against a narrow perspective. He reflects on past instances where India has successfully navigated US apprehensions, such as during the purchase of oil from Russia amidst the Ukraine War.
+
+The article also touches on the influence of public sentiment on national policies in both the US and India, particularly regarding human rights and nationalistic ideologies. It highlights India's democratic values and early adoption of universal adult franchise and social reforms, contrasting them with Western nations.
+
+Furthermore, the piece explores India's expectations of Russia's support in conflicts involving China, given historical alliances. It questions Russia's current geopolitical position and its reliance on China, especially in the context of the ongoing Ukraine conflict and the potential for peace negotiations.
+
+The author, a Chennai-based policy analyst and political commentator, concludes by asserting that national strategies are shaped by various possibilities and probabilities, and the views expressed are personal and not necessarily reflective of Firstpost's stance.
+
+Sat, 18 May 2024 13:49:53 +0530
+### [Ramification | The message Eden Golan’s ‘Hurricane’ conveyed in Eurovision 2024](https://www.firstpost.com/opinion/ramification-the-message-eden-golans-hurricane-conveyed-in-eurovision-2024-13772221.html)
+
+The article discusses the Eurovision 2024 song contest, highlighting the challenges faced by Israeli contestant Eden Golan. Despite political tensions and protests against her participation, Golan finished fifth, with strong public support indicating a pushback against political agendas in cultural spaces. The article suggests that Golan's experience reflects a broader fatigue with political correctness and a desire for independent thought, as evidenced by the silent majority's support. The author, Rami Niranjan Desai, emphasizes the importance of music as a unifying force and criticizes the politicization of cultural events.
+
 Sat, 18 May 2024 11:33:50 +0530
 ### [Israel-Gaza War: Time for Tel Aviv to respect the 'red lines' and find permanent solution](https://www.firstpost.com/opinion/israel-gaza-war-time-for-tel-aviv-to-respect-the-red-lines-and-find-permanent-solution-13772175.html)
 

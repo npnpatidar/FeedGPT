@@ -1,3 +1,29 @@
+Sat, 18 May 2024 10:05:39 +0000
+### [A continuing political crisis in Pakistan](https://indianexpress.com/article/opinion/columns/political-crisis-pakistan-imran-khan-9337030/)
+
+The article discusses several key issues in Pakistan's current political and social landscape:
+
+- **Imran Khan's Legal Challenges**: The Islamabad High Court granted bail to Imran Khan in the Al-Qadir trust case on May 15. Despite this, Khan remains involved in numerous other legal cases.
+
+- **PTI's Political Maneuvers**: Khan's party, PTI, has shown inconsistency in its stance on negotiations with other parties, shifting from a refusal to talk, to only wanting to engage with "real" power, to demanding the withdrawal of cases against its members and the release of political prisoners.
+
+- **Editorial Opinions on Negotiations**: Dawn emphasizes the importance of negotiations in democracy and urges the government to initiate dialogue. News International criticizes political parties for focusing on drama instead of addressing the public's struggles with utility bills amid a heatwave.
+
+- **Political Instability Post-Elections**: The Supreme Court's decision to allocate 77 reserved seats to the Sunni Ittehad Council (SIC), backed by PTI, has caused the ruling PPP-PML(N) coalition to lose its majority and the ability to amend the constitution, leading to a political crisis.
+
+- **Electoral Commission Criticism**: Express Tribune and Dawn criticize the Electoral Commission of Pakistan (ECP) for its handling of the elections, suggesting it failed to ensure a fair and inclusive process.
+
+- **Protests in Pakistan-occupied Kashmir (PoK)**: Protests led by the Awami Action Committee (AAC) against high electricity bills and taxes resulted in casualties. PM Shehbaz Sharif expressed regret, and calls for a peaceful resolution have been made.
+
+- **Sultan Azlan Shah Cup**: Japan defeated Pakistan in the final of the field hockey tournament on May 11. Pakistani media praised the national team's performance despite the lack of governmental support and infrastructure for the sport.
+
+The article also includes unrelated content about the weather, which has been omitted from the summary.
+
+Sat, 18 May 2024 08:30:49 +0000
+### [Behind Narendra Modi’s concerns for Muslims, BJP’s logic of ‘winnability’](https://indianexpress.com/article/opinion/columns/narendra-modi-concerns-muslims-bjp-logic-winnability-9336855/)
+
+The article discusses the political debate surrounding Prime Minister Narendra Modi's commitment to secularism and his recent comments that he does not engage in "Hindu-Muslim" politics. It highlights the contrast between these comments and his previous electoral speeches, as well as the BJP's strategic campaign decisions for the 2024 elections. The BJP's manifesto focuses on Modi-centric welfare while avoiding the Hindutva agenda and the issue of Muslim backwardness. The party's campaign has shifted from discrediting the opposition to promoting Modi's inclusive approach towards Muslims. The BJP's support base, nurtured by the RSS and other affiliated organizations, allows for grassroots experimentation. Additionally, the BJP has gained a new constituency of support from professional politicians and dissatisfied voters. The party aims to address the concerns of both its core and new supporters to maintain its political dominance. The article concludes by suggesting that the BJP's multifaceted campaign could contribute to its institutional growth. The writer is an associate professor at CSDS. The unrelated content about weather conditions has been omitted from this summary.
+
 Sat, 18 May 2024 07:20:13 +0000
 ### [What I learnt from Alice Munro: Of fried eggs and communities, and finding the writer’s voice](https://indianexpress.com/article/opinion/columns/alice-munro-of-fried-eggs-and-communities-writing-voice-9336818/)
 
