@@ -1,3 +1,14 @@
+Sat, 18 May 2024 13:40:44 +0000
+### [How a US-Saudi civil nuclear deal might work](https://indianexpress.com/article/explained/explained-global/us-saudi-civil-nuclear-deal-9337350/)
+
+The article discusses the upcoming visit of White House National Security Adviser Jake Sullivan to Saudi Arabia, where he is expected to discuss a civil nuclear cooperation agreement. This agreement is part of a broader effort by the US to facilitate the normalization of relations between Israel and Saudi Arabia. The US-Saudi civil nuclear deal would be governed by Section 123 of the US Atomic Energy Act, which requires adherence to nonproliferation criteria to prevent the development or transfer of nuclear arms.
+
+Saudi Arabia's interest in a nuclear deal is twofold: to support Crown Prince Mohammed bin Salman's Vision 2030 plan for renewable energy and emission reduction, and potentially to develop nuclear expertise as a counterbalance to Iran's nuclear capabilities. The latter possibility has raised concerns among arms control advocates and US lawmakers.
+
+The Biden administration sees strategic and commercial benefits in such a deal, including strengthening Israel's security, forming a coalition against Iran, and positioning US industry to win contracts for building Saudi nuclear power plants. However, the normalization of Israeli-Saudi relations is complicated by the ongoing conflict in Gaza and the broader Middle East dynamics.
+
+Key issues in the negotiation include the potential construction of a uranium enrichment facility in Saudi Arabia and whether it would be accessible to Saudi personnel or operated exclusively by US staff. The possibility of Saudi Arabia using such a facility to produce highly enriched uranium for weapons, in the absence of safeguards, is a concern. Discussions also involve Saudi investment in a US-based uranium enrichment plant and the hiring of US companies to build Saudi nuclear reactors. The article implies that the broader goal of a Middle East "grand bargain" remains uncertain.
+
 Sat, 18 May 2024 12:09:30 +0000
 ### [Why Supreme Court allowed a review of its 2022 judgment on ‘shamlat deh’ land rights](https://indianexpress.com/article/explained/explained-law/supreme-court-review-2022-shamlat-deh-land-judgment-9337226-rights/)
 

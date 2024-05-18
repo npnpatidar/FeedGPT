@@ -1,3 +1,21 @@
+Sat, 18 May 2024 21:03:03 +0530
+### [What the discovery of Shani Louk’s remains indicates](https://www.firstpost.com/opinion/what-the-discovery-of-shani-louks-remains-indicates-13772325.html)
+
+The article discusses the aftermath of a Hamas attack on Israeli civilians on October 7, 2023, focusing on the manipulation of information by Hamas and the impact on world opinion. It highlights the case of Shani Louk, a 22-year-old Israeli-German citizen killed in the attack, whose body was taken to Gaza and mistreated. The article criticizes Hamas for using hostages as bargaining chips and selectively releasing information to benefit their cause. It also questions the credibility of the UN's mortality figures from Gaza, suggesting that the death tolls, especially of women and children, may have been inflated by Hamas to sway international opinion against Israel's counter-attacks. The author expresses skepticism about the world's continued trust in Hamas despite evidence of their manipulative tactics and the UN's failure to independently verify the information provided by Hamas. The views are personal and do not reflect those of the publishing platform.
+
+Sat, 18 May 2024 18:33:17 +0530
+### [How better understanding of ground operation safety can ensure safer aviation](https://www.firstpost.com/opinion/how-better-understanding-of-ground-operation-safety-can-ensure-safer-aviation-13772296.html)
+
+The article discusses the increasing complexity of airport ground operations due to the exponential growth of civil aviation. It highlights the safety challenges posed by the movement of aircraft and ground support vehicles, emphasizing the need for high situational awareness to prevent collisions. The article provides examples of recent ground collisions at various airports, illustrating the risks involved in ground handling, such as aircraft pushback, towing, and taxiing.
+
+It outlines the causes of ground accidents, which include incorrect ATC clearances, non-conformance with clearances, poor crew resource management, and inadequate signage or lighting. The article also details the roles of aviation regulatory bodies like the FAA, EASA, DGCA, and ICAO in designing SOPs for aviation safety.
+
+Preventive measures are suggested, such as improving data analysis, situational awareness, and conflict resolution by ATC staff, aircrew, and ground crew. The importance of following SOPs and checklists, proper training, and certification for ground personnel are also stressed.
+
+The article mentions the direct and indirect costs associated with ground incidents, including aircraft damage, flight delays, and injuries to personnel. It concludes by advocating for greater control and vigilance to avoid ground accidents, as air travel is expected to become more prevalent.
+
+The author, a former Director General at the Centre for Air Power Studies, shares personal views that do not necessarily reflect those of Firstpost. The article is also available on YouTube. Copyright © 2024, Firstpost - All Rights Reserved.
+
 Sat, 18 May 2024 17:46:18 +0530
 ### [Neuralink: What can a chip in the human brain really do?](https://www.firstpost.com/opinion/neuralink-what-can-a-chip-in-the-human-brain-really-do-13772279.html)
 

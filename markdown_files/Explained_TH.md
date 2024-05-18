@@ -1,3 +1,12 @@
+Sat, 18 May 2024 17:55:56 +0530
+### [Watch | Israel’s Rafah invasion | Explained](https://www.thehindu.com/news/international/watch-israels-rafah-invasion-explained/article68190272.ece)
+
+The article discusses the severe humanitarian crisis in Rafah, Gaza, following Israel's military offensive. The city's population has swelled to 1.5 million, with many living in dire conditions. Rafah's history as a conflict flashpoint is highlighted, including its rule by Egypt after the 1948 Arab-Israel war and the 1956 Rafah massacre. Post-1967, Israel maintained direct control over Gaza until 2005.
+
+The recent conflict began on October 7, 2023, leading to a massive displacement of Palestinians to Rafah. The U.S. warned Israel against a full-scale invasion, but Prime Minister Netanyahu insisted on proceeding, despite international pressure and the need to address the hostage situation with Hamas. Ceasefire talks, mediated by the U.S., Egypt, and Qatar, proposed a three-phase deal for the release of hostages and prisoners, but details remain undisclosed.
+
+Israel's refusal to meet Hamas's demands for a comprehensive ceasefire and withdrawal has led to a stalemate. Netanyahu faces a dilemma: agreeing to a ceasefire could ensure Hamas's survival, but continuing the offensive risks further civilian casualties and international isolation. The U.S. has expressed concerns over a full-scale attack on Rafah, and Netanyahu's stance has strained Israel-U.S. relations. Despite the challenges, Netanyahu remains resolute, even if it means Israel standing alone. The article concludes with a reference to a recent defensive success against Iranian missile attacks. The situation remains tense, with no clear resolution in sight.
+
 Sat, 18 May 2024 11:57:52 +0530
 ### [Under what rules did the ECI reject comedian Shyam Rangeela’s poll nomination from Varanasi? | Explained](https://www.thehindu.com/elections/lok-sabha/comedian-shyam-rangeela-poll-nomination-from-varanasi-under-what-rules-did-eci-reject/article68184098.ece)
 

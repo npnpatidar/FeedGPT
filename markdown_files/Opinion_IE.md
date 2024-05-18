@@ -1,3 +1,10 @@
+Sat, 18 May 2024 12:30:21 +0000
+### [Sushil Modi, BJP’s organisation man who built bridges – and didn’t nurse grudges](https://indianexpress.com/article/opinion/columns/sushil-modi-bjp-built-bridges-organisation-9337023/)
+
+The article discusses the political journey of Sushil Kumar Modi, a BJP leader from Bihar. It highlights his efforts to commemorate socialist icon Karpoori Thakur, which marked the beginning of OBC politics in the state's BJP faction. Sushil Modi, along with Nand Kishore Yadav, played a significant role in moving the party beyond its traditional upper-caste image. The article also touches on the BJP's strategy of OBC mobilization under PM Narendra Modi, culminating in the Bharat Ratna award for Karpoori Thakur.
+
+Sushil Modi's political career is noted for his coalition politics with Nitish Kumar, his financial management skills as finance minister, and his role in maintaining communal harmony in Bihar. Despite facing criticism for being too supportive of Nitish Kumar, he remained an influential figure in Bihar's politics until his passing. The article concludes with a reflection on his legacy and contributions to the state's political landscape.
+
 Sat, 18 May 2024 10:05:39 +0000
 ### [A continuing political crisis in Pakistan](https://indianexpress.com/article/opinion/columns/political-crisis-pakistan-imran-khan-9337030/)
 
