@@ -1,3 +1,12 @@
+Sun, 19 May 2024 01:32:00 +0530
+### [Chabahar | India’s gateway to Central Asia](https://www.thehindu.com/profile/chabahar-indias-gateway-to-central-asia/article68191185.ece)
+
+The article discusses the strategic importance and development of the Chabahar port in Iran, which has been a significant project for India. **Before Partition**, Chabahar was geographically close to India and shared cultural ties. Despite the Shah of Iran's leanings towards the U.S., India sought to build a new relationship with Iran post-1979 revolution. The port's development was first envisioned by the Shah in 1970, but it wasn't until the 1990s and early 2000s that India began serious discussions and agreements to develop the port and its connections.
+
+**Prime Minister Narasimha Rao's visit to Tehran in 1993** and subsequent visits by Indian leaders solidified the partnership, leading to the Delhi Declaration in 2003, which planned a sea link from India to Chabahar and further to Europe and Central Asia. The port was also seen as a strategic trade route to Afghanistan, bypassing Pakistan, and has been part of India-Iran cooperation on Afghan reconstruction efforts.
+
+Despite challenges, including U.S. sanctions and geopolitical shifts, India has continued to invest in the port. The latest agreement involves a **$120 million outlay and a $250 million credit line** from India to develop the port further, with plans to build 32 jetties and increase cargo processing. The article concludes by reflecting on the enduring geopolitical significance of Chabahar and its potential, despite the slow pace of development.
+
 Sat, 18 May 2024 17:55:56 +0530
 ### [Watch | Israel’s Rafah invasion | Explained](https://www.thehindu.com/news/international/watch-israels-rafah-invasion-explained/article68190272.ece)
 
