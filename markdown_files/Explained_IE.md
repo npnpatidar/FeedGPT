@@ -1,3 +1,10 @@
+Sun, 19 May 2024 13:01:12 +0000
+### [Thunderstorms in US: How climate change impacts their intensity](https://indianexpress.com/article/explained/explained-climate/thunderstorms-wind-climate-change-link-9338924/)
+
+The article by Raymond Zhong discusses the impact of severe storms in the United States, particularly highlighting the damage caused by violent thunderstorms that resemble hurricanes in their destruction. It explains that as the climate warms, these storms are likely to become more intense due to warmer air holding more moisture, leading to stronger storms with greater precipitation. The article also touches on the complexity of predicting storm patterns and the lack of clear evidence regarding changes in the frequency or intensity of tornadoes, although they appear to occur in more concentrated bursts now.
+
+Furthermore, it mentions a study by climate scientist Andreas F. Prein, which found an increase in areas affected by straight-line gusts of wind. The piece concludes by addressing the financial impact of such storms on the homeowners insurance market in the U.S., noting that losses from thunderstorms are approaching those from hurricanes, affecting insurers beyond the coastal regions traditionally associated with hurricane damage. The article originally appeared in The New York Times.
+
 Sun, 19 May 2024 11:16:04 +0000
 ### [What IMD’s heatwave ‘red alert’ for Delhi, Punjab and other parts of North India means](https://indianexpress.com/article/explained/everyday-explainers/imd-heatwave-red-alert-meaning-9338749/)
 

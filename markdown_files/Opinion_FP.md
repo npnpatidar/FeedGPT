@@ -1,3 +1,16 @@
+Sun, 19 May 2024 18:38:17 +0530
+### [Putin’s Beijing visit: How ‘no limits’ friendship between Russia and China has global significance](https://www.firstpost.com/opinion/putins-beijing-visit-how-no-limits-friendship-between-russia-and-china-has-global-significance-13772537.html)
+
+Russian President Vladimir Putin's visit to China marks his first international trip since his re-election in March. The visit aims to strengthen the already close relationship between Russia and China, which has intensified since Russia's invasion of Ukraine. The two leaders, Putin and Chinese President Xi Jinping, have previously declared a 'no limits' partnership and have expressed mutual support in various strategic and economic areas.
+
+During this visit, Putin seeks further support for Russia's actions in Ukraine and its economy amidst Western sanctions. The trip follows a new Russian offensive in Ukraine and President Xi's tour of Europe, where he defended China's ties with Russia.
+
+The visit was marked by ceremonial events, including a motorcade and a military review. Discussions between the two leaders focused on deepening strategic cooperation and addressing international issues. Putin endorsed China's peace plan for Ukraine and emphasized the high level of strategic partnership between the two nations, including cooperation in various sectors like industry, technology, and military exercises.
+
+Trade between China and Russia has surged, with China becoming Russia's top trade partner despite Western efforts to isolate Russia. The joint statement from the visit condemned US policies and pledged to strengthen military ties and economic cooperation.
+
+Analysts suggest that the China-Russia partnership challenges the US and could have significant implications for global order. The article concludes that the outcome of this visit has global ramifications, with both countries supporting each other's core interests. The author, a retired Major General of the Indian Army, states that these views are personal and do not necessarily reflect those of Firstpost.
+
 Sun, 19 May 2024 16:45:21 +0530
 ### [Uttarakhand: Snow leopards spotted wandering off a bridge in Gangotri National Park, drive wildlife lovers crazy](https://www.firstpost.com/opinion/uttarakhand-snow-leopards-spotted-wandering-off-a-bridge-in-gangotri-national-park-drive-wildlife-lovers-crazy-13772513.html)
 

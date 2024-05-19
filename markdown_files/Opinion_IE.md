@@ -1,3 +1,21 @@
+Sun, 19 May 2024 14:11:08 +0000
+### [Vandita Mishra writes: Three leaders, three narrowing images](https://indianexpress.com/article/opinion/columns/narendra-modi-rahul-gandhi-arvind-kejriwal-lok-sabha-elections-9339008/)
+
+The article discusses the diminishing stature of key political figures in the context of an ongoing election in India. **Prime Minister Narendra Modi** is criticized for reducing his role to that of a fearmonger, particularly against the Muslim minority, despite his previous image as a change-maker. The article points out inaccuracies in Modi's claims about the opposition Congress party's stance on various issues.
+
+**Rahul Gandhi** of the Congress is also scrutinized for not living up to his potential. Despite being seen more favorably by the public after his Bharat Jodo Yatras, questions remain about his governance experience and ability to deliver on promises, such as cash transfers to women and the unemployed.
+
+**Arvind Kejriwal** and his Aam Aadmi Party (AAP) are portrayed as under siege from the Modi government's use of agencies to target political opponents. Kejriwal's importance is acknowledged due to his less baggage-laden politics, but recent controversies, including the alleged assault on AAP MP Swati Maliwal, have tarnished his party's image.
+
+The article suggests that these leaders are not living up to their potential or the expectations of the voters, and this could impact the election's outcome. The author signs off with a promise to return with more insights next week.
+
+Sun, 19 May 2024 12:55:21 +0000
+### [Mammootty, ‘Puzhu’ and a culture that is stronger than online trolls](https://indianexpress.com/article/opinion/columns/mammootty-puzhu-kerala-online-trolls-9338909/)
+
+The article discusses the controversy surrounding the Malayalam film "Puzhu" and its lead actor, Mammootty. The film's narrative involves a character named Kuttan, a retired police officer with obsessive-compulsive disorder, who commits a heinous act against his sister and her husband due to caste-based prejudices. The film has sparked debate for its portrayal of caste issues, with some accusing it of being anti-Brahmanical and targeting Mammootty's Muslim identity. Critics have used social media to attack Mammootty and the film's creators, with some comments being communal in nature.
+
+Despite the backlash, the article defends Mammootty's diverse career and his ability to transcend religious and social boundaries through his roles. It highlights his portrayal of various characters that have resonated with audiences beyond their religious contexts. The article also references past instances of religious intolerance in Kerala, pointing out the irony in a state known for its secularism. It concludes by emphasizing Kerala's cultural pride and the importance of not letting narrow political agendas undermine its secular, liberal values and the arts. The unrelated content about actress Madhoo's reflections on changes in the film industry has been omitted from this summary.
+
 Sun, 19 May 2024 11:06:07 +0000
 ### [How welfare vs welfare is shaping politics in Andhra Pradesh](https://indianexpress.com/article/opinion/columns/andhra-pradesh-welfare-politics-9338738/)
 

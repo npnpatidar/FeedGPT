@@ -5,6 +5,17 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Thunderstorms in US: How climate change impacts their intensity</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/thunderstorms-wind-climate-change-link-9338924/</link>
+			<description>The article by Raymond Zhong discusses the impact of severe storms in the United States, particularly highlighting the damage caused by violent thunderstorms that resemble hurricanes in their destruction. It explains that as the climate warms, these storms are likely to become more intense due to warmer air holding more moisture, leading to stronger storms with greater precipitation. The article also touches on the complexity of predicting storm patterns and the lack of clear evidence regarding changes in the frequency or intensity of tornadoes, although they appear to occur in more concentrated bursts now.
+
+Furthermore, it mentions a study by climate scientist Andreas F. Prein, which found an increase in areas affected by straight-line gusts of wind. The piece concludes by addressing the financial impact of such storms on the homeowners insurance market in the U.S., noting that losses from thunderstorms are approaching those from hurricanes, affecting insurers beyond the coastal regions traditionally associated with hurricane damage. The article originally appeared in The New York Times.</description>
+			<pubDate>Sun, 19 May 2024 13:01:12 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/05/AP05_18_2024_000021B.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/05/AP05_18_2024_000021B.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What IMD’s heatwave ‘red alert’ for Delhi, Punjab and other parts of North India means</title>
 			<link>https://indianexpress.com/article/explained/everyday-explainers/imd-heatwave-red-alert-meaning-9338749/</link>
 			<description>The Indian Meteorological Department (IMD) has issued a **red alert** for heatwaves in Delhi, Punjab, Haryana, and Western Rajasthan starting Sunday, May 19, with conditions expected to last for five days. A heatwave is defined by the IMD as air temperatures high enough to be fatal to humans when exposed, with specific thresholds for different regions. For plains, a heatwave is declared if temperatures reach at least **40°C**, and for hilly regions, **30°C**. Coastal areas have a threshold of **37°C** above normal. A heatwave is confirmed when such temperatures are recorded in at least two stations for two consecutive days, with the declaration made on the second day.

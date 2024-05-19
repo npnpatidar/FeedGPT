@@ -1,3 +1,18 @@
+Sun, 19 May 2024 20:09:56 +0530
+### [Rajnath Singh vs Ravidas Mehrotra, Rahul Gandhi vs …: The big fights to watch out for in phase 5 of Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-rajnath-singh-rahul-gandhi-smriti-irani-big-fights-phase-5-polling-13772008.html)
+
+India is gearing up for the fifth phase of the Lok Sabha elections, with voting scheduled for 49 constituencies across six states and two Union Territories on May 20. This phase will see 695 candidates vying for seats, and by the end of the day, 376 of the 543 Lok Sabha seats will have concluded polling.
+
+**Key Contests:**
+- **Lucknow:** Defence Minister Rajnath Singh is running for a third term. The BJP has held this seat for decades, with the late Atal Bihari Vajpayee being a notable former MP.
+- **Rae Bareli:** Rahul Gandhi is contesting from a seat traditionally held by his mother, Sonia Gandhi. This marks a shift from his previous constituency, Amethi.
+- **Mumbai North:** Union Minister Piyush Goyal is contesting his first Lok Sabha election, facing off against Congress' Bhushan Patil.
+- **Amethi:** Smriti Irani, who defeated Rahul Gandhi in 2019, is seeking re-election against Congress' Kishori Lal Sharma and BSP's Nanhe Singh Chauhan.
+- **Hajipur:** Chirag Paswan of the LJP is contesting a seat his late father, Ram Vilas Paswan, held multiple times.
+- **Other notable seats:** Omar Abdullah in Baramulla, Arvind Sawant in Mumbai South, and Rohini Acharya, Lalu Prasad Yadav's daughter, making her debut in Saran.
+
+The elections are moving towards the final stages, with only two more phases remaining after May 20, and results are expected on June 4.
+
 Sun, 19 May 2024 16:14:50 +0530
 ### [In Graphics | What are urban heat islands? How does it affect city dwellers?](https://www.firstpost.com/explainers/heatwave-india-urban-heat-islands-cities-13770778.html)
 
@@ -7127,14 +7142,22 @@ Murdoch's relationship with Zhukova became public last April, shortly after his 
 Fri, 8 Mar 2024 13:27:58 +0530
 ### [International Women’s Day 2024: Which country has the most women in parliament?](https://www.firstpost.com/explainers/international-womens-day-countries-women-representation-parliament-ipu-13746662.html)
 
-Article found but Couldn't summarize 
-Women’s parliamentary representation is growing slowly; as per a new report, the proportion of women in voting chambers now stands at 26.9 per cent. Of all the countries surveyed, Rwanda ranks first with a whopping 61.3 per cent. But what about India?
+The article discusses the slow but growing representation of women in parliaments worldwide, with the current global average at 26.9%. Rwanda leads with 61.3% female parliamentary representation. The Americas have the highest regional average at 35.1%. Gender issues, particularly women's reproductive rights, are becoming increasingly important in elections, as seen in Poland's 2023 election.
+
+Countries like Cuba and Nicaragua also have high female representation, while developed nations like Germany, the US, and the UK are not in the top 10. Several countries, including Yemen, Nigeria, Qatar, and Iran, have less than 10% female representation. Sri Lanka and Japan also lag behind, with 5.3% and 10% respectively.
+
+In India, women hold 13% of parliamentary seats, but the Women's Reservation Bill, which reserves one-third of seats for women, is expected to increase this number. However, the implementation could take years.
+
+The article also highlights the challenges faced by women in politics, including burnout and online harassment, leading to the resignation of several high-profile leaders in 2023. It emphasizes the need to address the harsh scrutiny and double standards women leaders face. The article concludes by questioning the desirability of political roles for women under such conditions.
 
 Fri, 8 Mar 2024 12:30:16 +0530
 ### [Age, Abortion and more: Takeaways from Joe Biden’s State of the Union address](https://www.firstpost.com/explainers/age-abortion-takeaways-joe-biden-state-of-the-union-2024-address-13746640.html)
 
-Article found but Couldn't summarize 
-US president Joe Biden’s State of the Union address laid out the clear contours of the his campaign ahead, criticising former President Donald Trump over the 6 January insurrection and going after the Supreme Court over its ruling that overturned Roe v Wade
+In his State of the Union address, President Joe Biden highlighted the achievements of his administration and contrasted them with the policies of his predecessor, Donald Trump. He addressed various issues, including abortion rights, the conflicts in Ukraine and Gaza, and the border crisis. Biden criticized Trump for his role in the January 6 insurrection and the Supreme Court for overturning Roe v. Wade. He also emphasized his own vigor and capacity to serve, despite his age, and outlined his vision for America's future.
+
+Biden denounced efforts to restrict abortion as an attack on freedom and defended the Affordable Care Act. He proposed economic measures to support the middle class, including a tax credit for homeowners and a minimum tax rate for billionaires. Additionally, he discussed the war in Gaza and announced a plan to increase humanitarian aid to the region.
+
+The president also touched on the changing nature of how the State of the Union address is consumed, with a shift from traditional television viewership to targeted social media segments and local outreach. The speech was seen as a critical moment for Biden to argue for a second term and to demonstrate his leadership capabilities.
 
 Fri, 8 Mar 2024 11:52:51 +0530
 ### [Bengaluru driverless Metro trials begin: How AI will help steer this train](https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html)
