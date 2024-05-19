@@ -1,3 +1,19 @@
+Sun, 19 May 2024 13:21:01 +0530
+### [People of present and past in ‘Mango Country’ of Malihabad](https://www.firstpost.com/opinion/people-of-present-and-past-in-mango-country-of-malihabad-13772458.html)
+
+The article provides a rich narrative of Malihabad, a region near Lucknow, India, renowned for its mango orchards. It highlights the story of Kaleemullah Khan, a horticulturist who, despite limited formal education, has cultivated 300 varieties of mangoes on a single tree and was honored with a Padma Shri in 2008. The piece contrasts Khan's fame with Mahtab, a local landowner proud of his Dussehri mangoes, who also transports mangoes and whose family engages in mango-related businesses.
+
+The article delves into the darker side of Malihabad, mentioning 'mango crimes' like orchard land grabs that have led to violence. It also explores the historical aspect of the region, focusing on Mahtab's interest in 'Itihaas' (history) and his favorite site, 'Barakhamba', a part of a medieval necropolis. The tomb of Shamir Khan, a Mughal governor, and other historical structures are described, emphasizing their dilapidated state and the encroaching vegetation.
+
+The local community's heritage is discussed, including their claim to Afridi Pathan descent and a controversial theory linking them to a Jewish tribe. The article questions the origin of the name 'Malihabad' and credits Faqir Muhammad Khan Goya for introducing mango plantations in the early 19th century. It also mentions the poet Josh Malihabadi, a descendant of Goya, who migrated to Pakistan in 1956.
+
+Finally, the article suggests visiting nearby Kakori for its dargahs, tombs, and medieval havelis, and to enjoy its kebabs, indicating the cultural overlap with Malihabad. The author, a heritage explorer and brand consultant, shares these insights as personal observations, not necessarily reflecting the views of the publishing platform. The article concludes by acknowledging the author's professional background and interest in heritage sites.
+
+Sun, 19 May 2024 12:09:48 +0530
+### [As PoK rises in revolt against Pakistan, China continues infra-building in Shaksgam Valley](https://www.firstpost.com/opinion/as-pok-rises-in-revolt-against-pakistan-china-continues-infra-building-in-shaksgam-valley-13772430.html)
+
+The article discusses the strategic implications of a new road built by China in Pakistan-occupied Kashmir (PoK), near India's Siachen Glacier. It highlights the road's potential to enhance military interoperability between China and Pakistan against Indian forces. The Indian Ministry of External Affairs has protested, citing the road as an illegal attempt to alter ground realities. The article delves into the historical context of the 1962 Sino-Indian war and subsequent diplomatic efforts by Western powers to resolve the Kashmir dispute. It also touches upon the 1963 China-Pakistan Boundary Agreement, which India has never recognized, and the ongoing infrastructure developments that could advantage China in a conflict. The piece concludes with the current unrest in Gilgit-Baltistan and future plans to realign the Karakoram Highway. The views expressed are personal to the writer, a Distinguished Fellow at the Centre of Excellence for Himalayan Studies.
+
 Sat, 18 May 2024 21:03:03 +0530
 ### [What the discovery of Shani Louk’s remains indicates](https://www.firstpost.com/opinion/what-the-discovery-of-shani-louks-remains-indicates-13772325.html)
 

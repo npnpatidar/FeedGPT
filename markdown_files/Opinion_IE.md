@@ -1,3 +1,8 @@
+Sun, 19 May 2024 06:46:24 +0000
+### [Atul Kulkarni writes: Why a loyal voter is bad for democracy](https://indianexpress.com/article/opinion/columns/atul-kulkarni-loyal-voter-bad-democracy-9338392/)
+
+The article discusses the concept of voter loyalty and its impact on society. It argues that while disloyalty in politicians can harm their prospects, voter loyalty can lead to political complacency and societal harm. The term "informed voter" is examined, suggesting that such voters should not only be knowledgeable but also critical and independent in their thinking. The article criticizes the categorization of voters into "vote banks" based on identity politics and urges voters to exercise their franchise with open ears, eyes, and mind. It highlights the dangers of social media in solidifying political opinions, making it difficult for individuals to change their views publicly. The piece concludes by emphasizing the importance of being a prudent voter rather than a loyal one, and the responsibility of voters to not be taken for granted by politicians. The article was penned by Kulkarni, an actor, producer, and screenwriter, and translated from Marathi by Amol Shaila Suresh. The unrelated content about the IPL 2024 playoffs has been omitted from this summary.
+
 Sun, 19 May 2024 02:50:19 +0000
 ### [Inside Track by Coomi Kapoor: Concerns on reservations, amending Constitution have diverted attention from main issue BJP wanted to project this poll season](https://indianexpress.com/article/opinion/columns/lok-sabha-polls-2024-bjp-pm-modi-9338070/)
 

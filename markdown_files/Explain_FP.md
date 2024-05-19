@@ -1,3 +1,18 @@
+Sun, 19 May 2024 10:03:38 +0530
+### [This Week in Explainers: How ultra-rich Pakistanis have stashed their wealth in Dubai](https://www.firstpost.com/explainers/this-week-in-explainers-dubai-unlocked-pakistan-rich-properties-asif-ali-zaradri-bilawal-13772075.html)
+
+This week's global news roundup includes several significant events:
+
+- **Slovakia's Prime Minister Robert Fico** was hospitalized after an assassination attempt, reminiscent of the 2003 killing of Serbian Prime Minister Zoran Djindjic. Fico survived after surgery and is out of danger.
+- An investigative report titled **"Dubai Unlocked"** revealed that Pakistan's wealthy elite, including the children of President Asif Ali Zardari and the son of former army chief Qamar Javed Bajwa, own properties in Dubai valued at **$12.5 billion**.
+- In the Netherlands, **29-year-old Zoraya ter Beek** has been legally permitted to end her life due to chronic mental health issues, sparking debates about euthanasia.
+- Thailand faces the possibility of relocating its capital, Bangkok, due to the threat of rising sea levels, with officials acknowledging the urgency of climate change adaptation.
+- Ahead of the **2024 Paris Olympics**, 'anti-sex' beds made of cardboard have been introduced in the Olympic village, leading to speculation about their purpose.
+- Swiss pharmaceutical company **Roche** announced that its new weight loss drug, **CT-388**, has shown promising results, potentially surpassing the effectiveness of the well-known drug Ozempic.
+- A new portrait of **King Charles** has elicited mixed reactions on social media, with artist Jonathan Yeo aiming to reflect the monarch's humanity and the evolving role of the monarchy.
+
+These are the key highlights from the weekly explainer articles, providing insights into current global affairs.
+
 Sat, 18 May 2024 17:13:26 +0530
 ### [What is cryptosporidiosis that has hit a UK town? How can you avoid getting infected?](https://www.firstpost.com/health/what-is-cryptosporidiosis-that-has-hit-a-uk-town-how-can-you-avoid-getting-infected-13772250.html)
 
@@ -7066,38 +7081,38 @@ The CBI's FIR lists 17 visa consultancy companies and their agents for criminal 
 Fri, 8 Mar 2024 19:00:54 +0530
 ### [Half-bucket baths, school shuts: How Bengaluru’s water crisis is turning graver](https://www.firstpost.com/explainers/bengaluru-water-crisis-turning-graver-school-shut-groundwater-shortage-13746842.html)
 
-Article found but Couldn't summarize 
-A private home school on Bannerghatta Road has been closed till 10 March amid the ongoing water shortage in Bengaluru. Residents are issuing orders to use only half a bucket of water for bathing and not use the precious resource for cleaning purposes. Authorities have also come up with their own restrictions on the use of potable water
+Bengaluru is facing a severe water crisis, leading to the closure of educational institutions like Abheek Academy and Government Primary School in Hosakerehalli. The Bangalore Water Supply and Sewerage Board (BWSSB) has imposed restrictions on the use of potable water for non-essential activities. The Karnataka government has taken control of private water tankers and borewells to manage the situation. Residents have been advised to conserve water, and the BWSSB has set penalties for misuse. The district administration has regulated water tanker prices to alleviate the burden on citizens. The crisis, exacerbated by insufficient rainfall and depleted groundwater levels, has affected the city's 1.3 crore population, which requires 2,600-2,800 MLD of water daily, while the current shortage exceeds 1,500 MLD. Efforts are underway to address the issue, including mandatory registration for private water tankers.
 
 Fri, 8 Mar 2024 18:00:11 +0530
 ### [Why US saw worst February for layoffs since 2009](https://www.firstpost.com/explainers/why-us-saw-worst-february-for-layoffs-since-2009-13746788.html)
 
-Article found but Couldn't summarize 
-A report by outplacement firm Challenger, Gray & Christmas showed layoffs reached 84,638 in February – an eleven month high and the worst for that month since 2009. While companies cited 'restructuring' as the major reason for the job losses, experts say firms appear to be cutting jobs due to AI and automation
+The article discusses a significant increase in layoffs across various sectors, with a total of 84,638 job cuts announced in February, marking the highest level for the month since 2009. The technology sector leads in job cuts, although overall layoffs are down by 55% compared to the same period in 2023. Financial and transportation sectors have also seen substantial job losses. Major companies like Amazon, Google, and Microsoft have conducted significant layoffs, with various reasons cited including restructuring, store closures, and cost-cutting. However, there is an underlying trend of job cuts due to AI and automation, with companies possibly understating the impact of technological advancements on workforce reductions. The article suggests that the shift towards AI and automation is a key factor in the ongoing wave of layoffs, as businesses adapt to technological changes and seek to reduce costs following a hiring surge during the COVID-19 pandemic. Despite the current job cuts, it is noted that many of these companies are still larger than before the pandemic due to previous expansions. The article concludes with a broader look at layoffs in other sectors such as media, financial services, consumer and retail, health, and energy, highlighting the global nature of the trend.
 
 Fri, 8 Mar 2024 17:23:24 +0530
 ### [Delhi gym owner murder: Why man stabbed son 15 times, prior to wedding](https://www.firstpost.com/explainers/delhi-gym-owner-murder-why-man-stabbed-son-15-times-prior-to-wedding-13746717.html)
 
-Article found but Couldn't summarize 
-Gaurav Singhal, a Delhi gym owner, was allegedly stabbed 15 times over by his father at their residence in South Delhi. The murder took place shortly before the 29-year-old was to tie the knot. The father has been arrested in Jaipur after he fled the scene of the crime
+Gaurav Singhal, a 29-year-old gym owner in South Delhi, was tragically murdered at his residence on the night before his wedding. His father, Rangalal, is the alleged perpetrator, having stabbed Gaurav 15 times due to daily insults that fueled his anger. The incident occurred amidst wedding preparations, with guests discovering Gaurav's body in a nearby vacant building. Rangalal fled with valuables but was later arrested in Jaipur. The police investigation revealed a strained father-son relationship and a possible forced marriage situation, as Gaurav reportedly wanted to marry someone else. Further details are being investigated, including the involvement of other suspects.
 
 Fri, 8 Mar 2024 16:12:05 +0530
 ### [What are 5th generation fighter jets? Why does India need them?](https://www.firstpost.com/explainers/what-are-5th-generation-fighter-jets-why-does-india-need-them-13746730.html)
 
-Article found but Couldn't summarize 
-Fifth-generation fighter jets  have stealth capabilities and can cruise at supersonic speeds without engaging afterburners. Possessed by just Russia, China and the US, these fighters are the apex predators of the sky. The Cabinet Committee on Security (CCS) gave the go-ahead to indigenously design and develop these planes to boost the Air Force's prowess
+India is set to join the ranks of countries with fifth-generation fighter jets, following the Cabinet Committee on Security's approval for indigenous design and development. These advanced jets are characterized by stealth capabilities, supersonic cruising without afterburners, and advanced avionics, distinguishing them from fourth-generation fighters. Currently, only the US, Russia, and China have such aircraft in production, including the US' F-35 Lightning and F-22 Raptor, Russia's Su-57, and China's Chengdu J-20.
+
+The F-35, described as the world's most lethal and connected fighter jet, is replacing older US models and is expected to remain in service until 2070. Russia's Su-57, nicknamed 'Felon' by NATO, has seen combat in Syria and possibly Ukraine, though its stealth capabilities are questioned. China's J-20, while technically a fifth-generation fighter, is perceived to have gaps in its stealth technology.
+
+Turkey is also developing its own fifth-generation fighter, the Kaan, but it is years away from combat readiness. India's need for these jets stems from the need to strengthen its air defenses against China and Pakistan and to enhance self-reliance in defense. The Indian Air Force is also pursuing the Advanced Medium Combat Aircraft (AMCA) project, with plans to build five prototypes jointly with the Aeronautical Development Agency and Hindustan Aeronautics Limited, bolstered by the successful development of the Tejas aircraft. Additionally, India plans to procure 114 Multi-Role Fighter Aircraft to modernize its fleet. The AMCA project is seen as crucial for India's air power capability and is expected to cost around Rs 15,000 crore for initial development.
 
 Fri, 8 Mar 2024 15:24:14 +0530
 ### [German officer used insecure Singapore line for military call. Then Russia hacked it](https://www.firstpost.com/explainers/germany-military-call-leak-insecure-singapore-hotel-line-for-military-call-russia-ukraine-war-13746700.html)
 
-Article found but Couldn't summarize 
-Germany is left red-faced after a highly sensitive discussion among its senior military officials was leaked by Russian state media last week. The country’s defence minister has now revealed that one of the participants had used an insecure line from a hotel room in Singapore to join the call
+A leaked audio tape of a confidential call among senior German military officials has caused embarrassment for Germany. The tape, which was leaked by Russian state media, includes discussions about potentially deploying German Taurus long-range cruise missiles to Ukraine and the presence of British troops in Ukraine. The leak was attributed to an individual error, as one participant joined the call using an insecure line from a hotel in Singapore. Germany's Defence Minister Boris Pistorius emphasized that the communication systems were not compromised and that the incident was a result of targeted wiretapping by Russian spies. He assured that trust in Germany remains unbroken among its allies and that security measures have been enhanced. The leak has been perceived by Russia as a sign of Germany's hostile intentions, while Germany maintains it was an isolated incident and is conducting an investigation. The incident has sparked a debate within Germany about the risks of sending advanced weapons to Ukraine, with Chancellor Olaf Scholz rejecting the idea due to the potential implications of direct involvement in the conflict. The United States has expressed support for Germany, highlighting the unity among Ukraine's allies. Germany is the second-largest supplier of military aid to Ukraine after the U.S. and plans to increase its support. The situation underscores the importance of secure communications and the ongoing tensions between Russia and European nations.
 
 Fri, 8 Mar 2024 14:33:18 +0530
 ### [Who is Elena Zhukova, Rupert Murdoch’s new fiancée?](https://www.firstpost.com/explainers/who-is-elena-zhukova-rupert-murdochs-new-fiancee-13746634.html)
 
-Article found but Couldn't summarize 
-Rupert Murdoch, 92, is all set to tie the knot a fifth time after getting engaged to his girlfriend, Elena Zhukova. A 67-year-old Russian born retired molecular biologist, she met the media mogul through a large family gathering hosted by his third ex-wife, Wendi Deng
+Rupert Murdoch, the 92-year-old media mogul, is engaged to Elena Zhukova, a 67-year-old retired molecular biologist. This marks Murdoch's sixth engagement and fifth marriage. Zhukova, originally from Russia, has had a distinguished career as a molecular diabetes specialist and was previously married to a British billionaire. The couple has a daughter, Dasha Zhukova, a noted art collector and philanthropist.
+
+Murdoch's relationship with Zhukova became public last April, shortly after his engagement to Ann Lesley Smith was called off. The wedding is set to take place in June at Murdoch's California estate, Moraga. This personal milestone comes after Murdoch stepped down from his media empire, which includes prominent outlets like The Wall Street Journal and Fox News. His departure followed a challenging year for his company, including a significant legal settlement. Murdoch, who has been married four times before and has six children, has a net worth reported at $8.96 billion. The announcement of his engagement to Zhukova has been widely covered by the media.
 
 Fri, 8 Mar 2024 13:27:58 +0530
 ### [International Women’s Day 2024: Which country has the most women in parliament?](https://www.firstpost.com/explainers/international-womens-day-countries-women-representation-parliament-ipu-13746662.html)

@@ -1,3 +1,8 @@
+Sun, 19 May 2024 13:20:07 +0530
+### [The carbon emissions of war put humanity’s right to exist at risk](https://www.livemint.com/opinion/online-views/the-carbon-emissions-of-war-put-humanity-s-right-to-exist-at-risk-11716103793614.html)
+
+The article discusses the overshadowing of war's immediate existential threat by the long-term existential threat of climate change. It highlights the significant carbon emissions from recent wars, such as those in Gaza and Ukraine, which have contributed to global emissions on a scale comparable to entire countries. The author criticizes the climate change movement for not adequately addressing the environmental impact of war, despite the UN's adoption of the PERAC resolution and the Geneva Convention protocol against environmental damage during conflicts. The article calls for holding polluters accountable by making them pay into a global fund to compensate victims of climate change and suggests that UN reform is necessary to address the vested power of permanent members of the UN Security Council, who are ironically seen as significant threats to human security. The author argues that geopolitics and international security are critical issues that the climate change movement cannot afford to ignore.
+
 Sat, 18 May 2024 08:00:11 +0530
 ### [Jagmohan Dalmiya, the man who set cricket on its path to current riches](https://www.livemint.com/opinion/online-views/jagmohan-dalmiya-t20-world-cup-cricket-on-its-path-to-current-riches-11715862029105.html)
 
