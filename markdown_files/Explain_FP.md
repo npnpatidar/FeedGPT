@@ -1,3 +1,13 @@
+Sun, 19 May 2024 16:14:50 +0530
+### [In Graphics | What are urban heat islands? How does it affect city dwellers?](https://www.firstpost.com/explainers/heatwave-india-urban-heat-islands-cities-13770778.html)
+
+The article discusses the **urban heat island** phenomenon, which explains why cities often experience higher temperatures than rural areas, especially during heat waves. This temperature disparity is attributed to energy generated from human activities, transportation, and industrial processes within cities. The dense arrangement of buildings and other structures traps heat, preventing it from escaping into the atmosphere. This effect is exacerbated by the vertical growth of cities with tall buildings and the heat-absorbing properties of urban materials like concrete and asphalt. Consequently, urban heat islands can lead to poorer air quality and have adverse effects on both the environment and human health.
+
+Sun, 19 May 2024 13:44:40 +0530
+### [Man’s World: Are dating apps impacting masculinity?](https://www.firstpost.com/explainers/dating-apps-men-women-masculinity-13771705.html)
+
+The article discusses the evolving concept of masculinity in the context of dating apps and relationships. It challenges the stereotype that men are only interested in sex and highlights the emergence of new male sub-cultures and the study of masculinity. The author, a sexuality scholar, uses auto-ethnography to share insights from her experiences on dating apps, revealing men's desire for physical intimacy and the obstacles they face, such as the gamification of dating, poor sexual education, social pressures, the impact of the #MeToo movement, and the design of dating platforms like Bumble. The article suggests that men are experiencing vulnerability around sex, intimacy, and identity, and advocates for inclusive and supportive education on these topics to promote healthier outcomes for men and relationships.
+
 Sun, 19 May 2024 10:03:38 +0530
 ### [This Week in Explainers: How ultra-rich Pakistanis have stashed their wealth in Dubai](https://www.firstpost.com/explainers/this-week-in-explainers-dubai-unlocked-pakistan-rich-properties-asif-ali-zaradri-bilawal-13772075.html)
 

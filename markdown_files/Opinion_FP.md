@@ -1,3 +1,23 @@
+Sun, 19 May 2024 16:45:21 +0530
+### [Uttarakhand: Snow leopards spotted wandering off a bridge in Gangotri National Park, drive wildlife lovers crazy](https://www.firstpost.com/opinion/uttarakhand-snow-leopards-spotted-wandering-off-a-bridge-in-gangotri-national-park-drive-wildlife-lovers-crazy-13772513.html)
+
+The article discusses the unique behavior of snow leopards in Gangotri National Park, Uttarakhand, where they have been observed using old and modern bridges to cross the Chorgad river. This behavior is unusual as snow leopards typically avoid human areas and are rarely seen on bridges. The park uses camera traps to monitor wildlife, and a recent photo of a snow leopard on a bridge has gained attention. India's latest census shows 718 snow leopards in the country, with 124 in Uttarakhand, making it the state with the second-highest population after Ladakh. The global population of snow leopards is under 10,000, classifying them as vulnerable. The article highlights the importance of the Chorgad bridge for wildlife migration and its use by snow leopards, captured in camera trap photos. The bridge's isolation from human habitats is believed to encourage its use by wild animals. The article concludes with personal views from local residents and a retired forest ranger, emphasizing the significance of the bridge for both wildlife and the local community. The piece reflects the author's personal opinions and not necessarily those of the publication.
+
+Sun, 19 May 2024 15:17:24 +0530
+### [Amid global economic turmoil and de-dollarisation, can gold be the next international currency?](https://www.firstpost.com/opinion/amid-global-economic-turmoil-and-de-dollarisation-can-gold-be-the-next-international-currency-13772497.html)
+
+The article discusses the Reserve Bank of India's (RBI) strategy to strengthen the country's economic resilience by increasing its gold reserves, now totaling 817 tonnes. This move is in response to various global tensions and economic factors, such as the West Asia conflicts, the Russia-Ukraine war, and persistent inflation, which have made gold an attractive asset.
+
+Central banks globally, including China, are accumulating gold to diversify reserves and minimize reliance on the US dollar, with the world seemingly shifting towards a gold standard. The RBI's action reflects a broader trend of central banks purchasing gold as a hedge against currency depreciation and geopolitical risks.
+
+India's stock market experienced a significant downturn, and household savings were affected by unemployment and inflation. Despite this, the RBI continues to invest in gold rather than dollars due to the metal's appreciation and the potential devaluation of dollar reserves.
+
+Gold prices in India have soared, reaching record highs before Akshay Tritiya, a peak gold-buying period. The RBI's gold purchases have contributed to a $3 billion increase in forex reserves, and the World Gold Council reports that the RBI bought more gold in the first quarter of 2024 than in the entire previous year.
+
+The article also touches on the global economic landscape, including US sanctions on Russia, China's reduction of US Treasury securities, and the RBI's desire to diversify its foreign exchange reserves. Gold is seen as a stable investment, particularly during economic uncertainty, and can be used for international transactions if necessary.
+
+The RBI's gold acquisition is presented as a prudent move to stabilize the Indian economy and attract foreign investment, suggesting that gold will remain in demand during volatile times. The author, a senior journalist, shares personal views that do not necessarily reflect those of Firstpost.
+
 Sun, 19 May 2024 13:21:01 +0530
 ### [People of present and past in ‘Mango Country’ of Malihabad](https://www.firstpost.com/opinion/people-of-present-and-past-in-mango-country-of-malihabad-13772458.html)
 

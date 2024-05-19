@@ -1,3 +1,12 @@
+Sun, 19 May 2024 11:06:07 +0000
+### [How welfare vs welfare is shaping politics in Andhra Pradesh](https://indianexpress.com/article/opinion/columns/andhra-pradesh-welfare-politics-9338738/)
+
+The article discusses the political landscape in Andhra Pradesh, focusing on the welfare schemes of the YSRCP government led by Chief Minister Y S Jaganmohan Reddy, and the competitive response from the opposition TDP. Jagan Reddy's government has implemented extensive welfare schemes known as Navaratnalu, targeting various sectors and affirming a pro-poor stance. These include support for farmers, education, health, self-help groups, and housing, along with a liquor prohibition. The narrative of welfare populism is set against the rich and dominant, positioning Jagan Reddy as a patron to the poor.
+
+In contrast, the TDP, led by Chandrababu Naidu, criticizes these schemes as electoral gimmicks while offering its own welfare promises, such as financial aid to farmers, school-going children, and pensions for the elderly, under the "Super Six" schemes. Naidu is portrayed as a credible wealth creator and administrator, promising job creation and capital investment.
+
+The article also highlights the structural changes at the local level due to these welfare schemes, such as the introduction of village and ward secretariats and a village volunteer system, which have centralized welfare distribution and altered local power dynamics. These changes have diminished the role of traditional Panchayati Raj institutions and reshaped local politics, potentially influencing the outcome of the 2024 elections in Andhra Pradesh. The authors, Bagchi and Rambarki, suggest that these ground-level transformations could shape the state's political future. The unrelated content about actress Madhoo's reflections on the film industry's evolution has been omitted from this summary.
+
 Sun, 19 May 2024 06:46:24 +0000
 ### [Atul Kulkarni writes: Why a loyal voter is bad for democracy](https://indianexpress.com/article/opinion/columns/atul-kulkarni-loyal-voter-bad-democracy-9338392/)
 

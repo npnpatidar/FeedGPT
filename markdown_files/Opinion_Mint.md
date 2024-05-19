@@ -1,3 +1,47 @@
+Sun, 19 May 2024 16:30:10 +0530
+### [Finance in India has a new bogey called private credit](https://www.livemint.com/opinion/online-views/finance-in-india-has-a-new-bogey-called-private-credit-11716111823350.html)
+
+The article discusses the rise of private credit in India and the associated regulatory challenges. Private credit, often managed by professional managers and funded by institutional investors, provides non-publicly traded debt to startups and early-stage companies, serving as an alternative source of capital. It has grown significantly, with $7.8 billion in deals in 2023, up from $5.3 billion in 2022. Notably, private credit has been used for refinancing stressed real estate loans, including significant deals for the Shapoorji Pallonji and Vedanta Groups.
+
+The Reserve Bank of India (RBI) intervened when it was discovered that private credit was being used to 'evergreen' loans, where banks and NBFCs invested in funds that provided new loans to companies on the verge of defaulting on existing loans from the same banks or NBFCs. This practice helped avoid loans being tagged as non-performing assets (NPAs) and bankruptcy proceedings, while also avoiding loan impairment recognition for lenders.
+
+The article highlights the opaque nature of private credit operations and the need for stronger regulation. The International Monetary Fund's Global Financial Stability report dedicated a chapter to the risks of private credit, emphasizing its light regulation compared to banks and NBFCs, lack of standardized contracts, and potential for causing financial contagion due to its opacity. The article calls for regulatory intervention to prevent a repeat of the 2008 financial crisis, noting the uneven competition due to uneven regulation and the capability gaps in private credit compared to established banks and NBFCs. The need for regulatory equity is stressed to ensure financial stability and deter excessive risk-taking.
+
+Sun, 19 May 2024 15:30:08 +0530
+### [Climate change is real: The world is hotter than it’s been for two millennia](https://www.livemint.com/opinion/online-views/climate-change-is-real-the-world-is-hotter-than-it-s-been-for-two-millennia-11716110599144.html)
+
+The article discusses a recent study published in Nature that used tree ring analysis to determine that the summer of 2023 was the hottest in the northern hemisphere in the last 2,000 years. This finding is significant because it challenges the skepticism around global warming by providing evidence that recent temperature increases are not just part of Earth's natural temperature fluctuations but are indeed exceptional.
+
+The study's analysis of tree rings, ice cores, and sediment layers shows that while the Earth has experienced temperature changes in the past, the current warming trend is unprecedented in the last two millennia. The paper also references the 'hockey stick graph' from 1998, which illustrated a dramatic rise in global temperatures since the mid-20th century.
+
+Historical events like the volcanic eruption in 536 CE, which led to a significant drop in temperature, are contrasted with the summer of 2023, which was 3.9° Celsius warmer. The article also touches on the medieval warm period and its impact on human civilization.
+
+The research, led by Jan Esper of Johannes Gutenberg University, aims to better understand Earth's pre-industrial temperatures and suggests that the pre-industrial era was cooler than previously thought. This implies that current temperatures are even more abnormal, with the potential to exceed the Paris Agreement's goal of keeping global warming within 1.5° C of pre-industrial levels.
+
+Climatologist Ray Bradley emphasizes the uniqueness of the current warming trend and counters claims that dismiss the seriousness of greenhouse gas emissions. The article concludes on a hopeful note, stating that it's not too late to manage global warming if we heed nature's warnings.
+
+Sun, 19 May 2024 15:00:07 +0530
+### [India must raise productivity for sustainable and inclusive growth](https://www.livemint.com/opinion/online-views/india-must-raise-productivity-for-sustainable-and-inclusive-growth-11716109533064.html)
+
+India's productivity has been on the rise, averaging a 5.6% increase annually since 1997, outpacing the global average. This growth is largely attributed to capital investment per worker, which has nearly quadrupled during this period. However, India's capital stock per worker remains significantly lower than that of China and Central and Eastern Europe.
+
+A McKinsey analysis reveals that only 56% of India's largest public companies achieved a return on invested capital (ROIC) greater than their weighted average cost of capital (WACC) in 2023. This is an improvement from 43% in 2014, but it also indicates that a substantial number of companies are not creating lasting value. Moreover, ROIC has recently declined, with the top 1,000 companies barely meeting shareholder return expectations.
+
+The performance across sectors varies, with software, pharmaceuticals, and automotive industries faring better than apparel and energy. These top companies are crucial to the Indian economy, representing a significant portion of market capitalization and corporate revenue.
+
+To sustain productivity growth, India must improve capital deployment, especially as most infrastructure and factories are yet to be built. Manufacturing, despite its high productivity growth, offers low returns and accounts for a small employment percentage compared to other countries with similar growth rates.
+
+McKinsey suggests that manufacturing could contribute over $1 trillion to GDP by 2030 and provide many well-paid jobs. Strategies like building manufacturing clusters near ports, enhancing processes, and deploying capital expenditures more effectively could significantly boost productivity.
+
+Digitization of supply chains and operations, along with investments in digital capabilities, can lead to greater efficiency and reduced operational costs. Additionally, focusing on higher-value goods, better packaging, and stronger branding in sectors like food processing and steel could increase profits without substantial investments.
+
+Overall, India's productivity has improved markedly since 1997, but there is ample opportunity for further growth to achieve sustainable and inclusive development.
+
+Sun, 19 May 2024 14:00:05 +0530
+### [Manu Joseph: Alice Munro reported from inside the heads of women](https://www.livemint.com/opinion/online-views/manu-joseph-alice-munro-reported-from-inside-the-heads-of-women-11716105810751.html)
+
+The article reflects on the literary significance and personal philosophy of Alice Munro, a renowned short story writer. It discusses the elevated status of the short story genre and Munro's unique position as a Nobel laureate recognized exclusively for her short stories. Munro, who passed away at 92, is remembered for her insightful portrayal of women's lives and experiences, often challenging societal expectations. The article also touches on gender dynamics in literature, noting that while male writers may claim a universal perspective, their readership is predominantly female. Munro's success is attributed not only to her talent but also to the literary establishment's tendency to celebrate certain artists later in their careers. The piece suggests that Munro's greatness was acknowledged when she was older, reflecting a broader pattern where the establishment often chooses to honor those who are no longer contemporaries. The article concludes with musings on Munro's humility and her detached view of her own literary status, suggesting that she did not regard literature as the most important aspect of her life.
+
 Sun, 19 May 2024 13:20:07 +0530
 ### [The carbon emissions of war put humanity’s right to exist at risk](https://www.livemint.com/opinion/online-views/the-carbon-emissions-of-war-put-humanity-s-right-to-exist-at-risk-11716103793614.html)
 
