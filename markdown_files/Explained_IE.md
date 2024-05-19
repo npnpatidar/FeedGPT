@@ -1,3 +1,19 @@
+Sun, 19 May 2024 03:07:53 +0000
+### [Trillion dollar war: How Europe struggles to fund the Ukraine War](https://indianexpress.com/article/explained/explained-global/trillion-dollar-war-europe-fund-ukraine-war-9337282/)
+
+Global military spending has surged to $2.44 trillion, marking the largest increase since 2009, largely due to the ongoing conflict in Ukraine. This rise equates to $306 per person worldwide, the highest rate since the Cold War. The U.S. defense budget now stands at $886 billion, with NATO's European members likely to meet their 2% GDP spending target for the first time, totaling $380 billion.
+
+Germany is catching up to NATO standards with a special fund, while Poland leads with a 4.2% GDP defense expenditure. These increased budgets come at a time of economic strain, prompting debates on financing methods, whether through higher taxes or spending cuts in other areas.
+
+Countries are politically challenged to balance new defense commitments with public support, as calls for peace and social spending rise. Nations like Italy and Spain face fiscal constraints, making it difficult to meet NATO targets without affecting public services. The debate on defense prioritization varies across Europe, influenced by proximity to Ukraine and differing threat perceptions.
+
+NATO's defense spending target, set at 2% in 2014, is expected to rise over the next decade, with discussions on potentially increasing it to 3%. This shift in defense spending reflects a significant change in global security dynamics and government financial strategies.
+
+Sun, 19 May 2024 02:30:41 +0000
+### [Going glacier gone: How Venezuela lost its last glacier, why this matters](https://indianexpress.com/article/explained/explained-climate/venezuela-glaciers-9337469/)
+
+The article discusses the alarming issue of glacier loss due to climate change, with a focus on Venezuela, which has likely become the first modern country to lose all its glaciers. The Humboldt glacier, once Venezuela's last glacier, has now been reclassified as an ice field due to its significant reduction in size. The article explains that glaciers are large masses of ice formed from snow accumulation over centuries, and they are melting at an accelerated rate globally due to global warming, primarily caused by greenhouse gas emissions from human activities. The disappearance of glaciers poses serious threats, including the loss of freshwater sources, impacts on aquatic species due to rising water temperatures, and contributions to sea level rise. The article also highlights the cultural impact of glacier loss in Venezuela and mentions the risk of glacier loss in India, with potential loss of up to 80% of glacier volume if greenhouse gas emissions are not curbed. The article concludes with unrelated content about the Indian Premier League (IPL) 2024 playoffs, which has been omitted from this summary.
+
 Sat, 18 May 2024 13:40:44 +0000
 ### [How a US-Saudi civil nuclear deal might work](https://indianexpress.com/article/explained/explained-global/us-saudi-civil-nuclear-deal-9337350/)
 

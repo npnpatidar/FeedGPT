@@ -1,3 +1,40 @@
+Sun, 19 May 2024 02:50:19 +0000
+### [Inside Track by Coomi Kapoor: Concerns on reservations, amending Constitution have diverted attention from main issue BJP wanted to project this poll season](https://indianexpress.com/article/opinion/columns/lok-sabha-polls-2024-bjp-pm-modi-9338070/)
+
+The article discusses the political landscape in India as the 2024 elections approach. It highlights the BJP's early campaign strategies, including the Ram temple consecration at Ayodhya, and notes the diminishing returns of repeating the same emotive issues. The stretched election campaign and social media's role in diverting attention from the BJP's desired narrative are also mentioned.
+
+The article suggests a shift in the electoral tide, with no clear majority for the BJP predicted, unlike their 2019 victory. It points out the Opposition's growing confidence, citing Modi's less dominant presence without the Balakot incident's impact and the lack of a nationwide wave for or against the government.
+
+The "theory of attrition" is introduced, suggesting the BJP will face setbacks, particularly in Maharashtra and Karnataka, and possibly lose allies. However, BJP loyalists counter that losses will be offset by gains in other states like Bengal and UP.
+
+Maharashtra is spotlighted as a key state in the election, with its complex political dynamics and issues such as agrarian distress and water shortages. Comparisons are drawn to the 2004 elections, with the BJP being more vigilant and adaptive in its campaign strategies this time around.
+
+The unrelated content about the IPL 2024 playoffs, mentioning RCB's and SRH's positions and the upcoming matches, has been omitted from the summary as per your request.
+
+Sun, 19 May 2024 02:25:03 +0000
+### [P Chidambaram writes: Inheritance tax on buffaloes](https://indianexpress.com/article/opinion/columns/p-chidambaram-inheritance-tax-buffaloes-lok-sabha-elections-9338042/)
+
+The article discusses the ongoing debate in the Lok Sabha elections, focusing on a proposal for an **inheritance tax on buffaloes**. The issue has overshadowed other critical topics such as unemployment, inflation, and national security. The author questions the constitutionality of such a tax, as the power to tax animals typically resides with state governments, not the Union government. The practicality of administering the tax is also scrutinized, considering the difficulties in determining which buffalo to tax in various scenarios.
+
+The proposed tax rate of **50%** is criticized for being potentially confiscatory and could lead to legal challenges. The article also touches on the complexities of drafting the law and the potential for the tax to become convoluted like the GST. The author suggests that the buffalo, a significant animal in Indian mythology, deserves special treatment and should not be clubbed with other assets.
+
+The piece concludes by highlighting Prime Minister Narendra Modi's expertise in public finance and taxation, suggesting that the buffalo tax could lead to future tax innovations. It envisions a future where buffalo rearing is promoted, leading to economic and environmental benefits, and India having two national animals: the tiger and the buffalo. The unrelated content about the IPL 2024 playoffs has been omitted from this summary.
+
+Sun, 19 May 2024 02:04:13 +0000
+### [Tavleen Singh writes: Voters are not mendicants with begging bowls, elected representatives not rulers](https://indianexpress.com/article/opinion/columns/tavleen-singh-lok-sabha-polls-2024-pm-modi-rahul-gandhi-9338012/)
+
+The article discusses the political rhetoric surrounding welfare schemes in India during an election campaign. It critiques the Prime Minister's mockery of Rahul Gandhi's promise to rapidly distribute money to the poor if elected. The author expresses concern over the revival of a dependency mindset among voters, reminiscent of a past era when the government was seen as the sole benefactor. The article contrasts real welfare schemes that empower the poor with unproductive handouts that encourage dependency. It reflects on the socialist era when officials acted as rulers and the rich were humiliated, and criticizes current politicians for not admitting that funding for populist schemes would detract from essential services like infrastructure and education. The author laments the Prime Minister's resort to populism despite his strong position and appreciates his acknowledgment of wealth creators in an interview. The piece concludes by emphasizing the need for politicians to serve as representatives rather than rulers and to move away from creating a culture of dependency among voters.
+
+Sun, 19 May 2024 01:45:48 +0000
+### [The armchair activism of #blackout2024](https://indianexpress.com/article/opinion/strong-opinions-bad-vibes-9337539/)
+
+The article discusses the emergence of the term "digitine," likened to a modern "guillotine," which gained traction after a Met Gala event where influencer Haley Kalil was criticized for her Marie Antoinette-inspired post amidst pro-Palestine protests. This sparked the #blackout2024 campaign, calling for a celebrity boycott due to perceived insensitivity towards the Gaza conflict. The writer argues that celebrities are unfairly targeted for attending events unrelated to global crises and that their influence on political matters is overestimated. The article criticizes the expectation for public figures to take stances on complex issues beyond their understanding and suggests that such pressures can damage personal relationships. It contrasts the ineffectiveness of online activism with the genuine efforts of U.S. college students protesting peacefully for Palestine, highlighting the value of their idealism and empathy towards injustice. The writer concludes by emphasizing the importance of acknowledging one's limitations in solving global problems and the need for civil disagreement.
+
+Sun, 19 May 2024 01:30:41 +0000
+### [History Headline: Are Uttarakhand’s pine trees to blame for the fires?](https://indianexpress.com/article/opinion/columns/history-uttarakhand-pine-trees-blame-fires-9337517/)
+
+The article discusses the chir pine (Pinus roxburghii), a tree native to the Himalayas and covering a significant portion of Uttarakhand's forests. It has been a part of childhood memories and local traditions, but also poses a fire hazard due to its highly flammable needles. The chir pine was not introduced by the British but was favored for its commercial value. Efforts to manage forest fires and the tree's spread have been ongoing, with suggestions to create mixed forests and manage the chir pine scientifically to prevent fires. The article also includes a brief mention of the IPL 2024 playoffs, but this is unrelated to the main content.
+
 Sat, 18 May 2024 12:30:21 +0000
 ### [Sushil Modi, BJP’s organisation man who built bridges – and didn’t nurse grudges](https://indianexpress.com/article/opinion/columns/sushil-modi-bjp-built-bridges-organisation-9337023/)
 

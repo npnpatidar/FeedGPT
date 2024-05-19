@@ -7044,14 +7044,24 @@ These highlights cover the significant developments in India, from social issues
 Fri, 8 Mar 2024 20:33:44 +0530
 ### [Why France's Camembert cheese could soon disappear from kitchens](https://www.firstpost.com/explainers/why-frances-camembert-cheese-could-soon-disappear-from-kitchens-13746825.html)
 
-Article found but Couldn't summarize 
-France’s favourite Camembert cheese is under threat of extinction due to a lack of microbial diversity. This is because P. camemberti fungi, a species of white mould that makes it into the cheese it is, is having difficulties reproducing, partly due to the pressures of industrial manufacturing
+The article discusses the potential extinction of France's beloved Camembert cheese due to a crisis in fungal diversity. The key points are:
+
+- **Camembert cheese** is at risk because the **P. camemberti** fungi, essential for its unique characteristics, are struggling to reproduce.
+- Industrial manufacturing pressures are causing a **lack of microbial diversity**, leading to a limited supply of the fungus.
+- The **French National Center for Scientific Research (CNRS)** has highlighted that Camembert is on the verge of extinction, with blue cheeses also at risk.
+- A study by **Paris-Saclay University** indicates that the use of a limited number of fungal strains in cheese production is leading to genetic degeneration.
+- The **history of Camembert** dates back to the 18th century in Normandy, and it's considered a national treasure in France.
+- The **Appellation d’origine protégée (AOP)** designation has helped protect the name and production methods of Camembert.
+- There's a call for preserving microbial diversity to ensure the survival of species like Camembert, which are unable to adapt to environmental changes without it.
+
+The article emphasizes the importance of biodiversity, even among microorganisms, for the sustainability of food products like Camembert cheese.
 
 Fri, 8 Mar 2024 19:18:50 +0530
 ### [How agents lured Indians with fake jobs to go to Russia, fight Ukraine war](https://www.firstpost.com/explainers/what-cbi-raids-uncovered-about-indians-duped-into-fighting-russia-ukraine-war-13746891.html)
 
-Article found but Couldn't summarize 
-The Central Bureau of Investigation, which conducted raids in over a dozen places across India on Thursday, said at least 180 people were sent to Russia under false pretenses – mainly on student visas. The MEA said the matter has been taken up with Russia and urged the public not to fall prey to such schemes
+The article reports on a major human trafficking operation where at least 180 Indians were duped into joining the Russian Army under false pretenses, mainly through student visas. The Central Bureau of Investigation (CBI) conducted raids across India and is investigating the roles of certain agents who facilitated this trafficking by offering lucrative job opportunities and admissions to dubious private universities in Russia. The victims' passports were seized upon arrival in Russia, and they were forced into combat roles and deployed to the front lines in the Russia-Ukraine War Zone.
+
+The CBI's FIR lists 17 visa consultancy companies and their agents for criminal conspiracy, cheating, and human trafficking. The MEA has taken up the matter with the Russian government, urging the release of the Indian nationals and warning the public against such schemes. The CBI has seized over Rs 50 lakh, documents, and electronic records, and some suspects have been detained for questioning. The MEA spokesperson emphasized the danger of such offers and the commitment to the safe return of the nationals involved.
 
 Fri, 8 Mar 2024 19:00:54 +0530
 ### [Half-bucket baths, school shuts: How Bengaluru’s water crisis is turning graver](https://www.firstpost.com/explainers/bengaluru-water-crisis-turning-graver-school-shut-groundwater-shortage-13746842.html)
