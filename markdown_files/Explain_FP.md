@@ -7009,26 +7009,37 @@ The Indian Ministry of External Affairs has intervened, seeking the early releas
 Sat, 9 Mar 2024 13:44:29 +0530
 ### [Why hundreds of school children in northern Nigeria are being abducted](https://www.firstpost.com/explainers/why-hundreds-of-school-children-in-northern-nigeria-are-being-abducted-13747017.html)
 
-Article found but Couldn't summarize 
-About 287 grade school students were kidnapped in northwestern region of Nigeria this week. There has been no claim of responsibility in the latest attack, but it happened in an area where bandits are active and have attacked communities in the past
+In a distressing development in Nigeria, over 280 grade school students were abducted from Kuriga in the country's northwest region. The incident occurred when gunmen on motorcycles stormed the school during assembly, taking students aged between eight and 15, along with a teacher. While 25 students have returned, the fate of the others remains uncertain. This event is part of a troubling trend of mass kidnappings in northern Nigeria, where armed gangs, known as bandits, have been terrorizing communities and schools, resulting in over 1,500 student abductions since 2014.
+
+The bandits, often from the Fulani nomadic community, initially sought land and water resources but have since become organized criminal groups specializing in kidnappings for ransom and seizing farms and mines. The Nigerian military has been unable to disband these gangs, which now threaten the nation's food security by controlling key agricultural areas.
+
+Kidnappings are primarily for ransom, a practice that has become increasingly profitable, with payments believed to be made by families and state governments. The resulting financial gains have allowed the gangs to amass significant arsenals. Despite some state governments attempting negotiations and amnesty deals, the federal government has opted for armed retaliation. However, the failure to effectively combat these kidnappers has led to a climate of impunity, further exacerbating the crisis.
+
+The ongoing abductions have had a detrimental impact on education in northern Nigeria, with the region already suffering from low literacy rates and high numbers of children out of school. The fear of kidnappings is now discouraging parents from sending their children to school, posing a severe threat to basic education efforts in the area. President Bola Tinubu has expressed confidence in rescuing the victims, but the situation remains dire. The article concludes with a note on the pervasive climate of impunity and the challenges in dissuading gang members from the lucrative kidnapping trade.
 
 Sat, 9 Mar 2024 11:24:30 +0530
 ### [Why Arunachal's Sela Tunnel is significant](https://www.firstpost.com/explainers/pm-inaugurates-sela-tunnel-in-arunachal-pradesh-why-the-bi-lane-tunnel-is-so-crucial-13746939.html)
 
-Article found but Couldn't summarize 
-PM Narendra Modi on Saturday inaugurated the strategically important Sela Tunnel in Arunachal Pradesh. Touted as the world’s longest bi-lane tunnel, it is expected to bolster all-weather connectivity and speedy military deployments to Tawang and Kameng
+Prime Minister Narendra Modi inaugurated the Sela Tunnel in Arunachal Pradesh, which is expected to enhance all-weather connectivity and facilitate rapid military deployments to Tawang and Kameng. The tunnel, built at 13,000 feet by the Border Roads Organisation, consists of two tubes measuring 980 and 1,555 meters, with a link road of 8.6 kilometers. It incorporates advanced technologies like SCADA systems and jet fan ventilation, and can handle a significant volume of traffic with a top speed of 80 km/h. The project, completed with over 90 lakh man-hours, is part of India's strategic infrastructure development to strengthen border areas and improve socio-economic conditions in the Northeast. Additionally, PM Modi launched the UNNATI scheme and dedicated development projects worth Rs 55,600 crore across Northeastern states. He also unveiled the "Statue of Valour" in Jorhat and announced further development initiatives. The Sela Tunnel project underscores India's efforts to match China's border infrastructure and signifies a strategic move to ensure year-round access to Tawang.
 
 Sat, 9 Mar 2024 09:37:23 +0530
 ### [What happens to coins thrown into Rome's Trevi Fountain?](https://www.firstpost.com/explainers/what-happens-to-coins-thrown-into-romes-trevi-fountain-13746877.html)
 
-Article found but Couldn't summarize 
-The coins that visitors splash into Rome’s majestic Trevi Fountain, carrying wishes for love, good health, or a return to the Eternal City, don’t remain there. They are fished out and collected to provide practical help to people the tourists will never meet
+The Trevi Fountain in Rome is not just a tourist attraction but also a source of charity. Coins thrown into the fountain by visitors, hoping for love, health, or a return to Rome, are collected and used to support the needy. In 2022, Caritas, a Catholic charity, gathered 1.4 million euros from the fountain, funding a food bank, soup kitchen, and welfare projects. The spectacle of extracting coins involves ACEA workers using brooms and hoses. The coins are dried, sorted, and counted at Caritas' office. The tradition, rooted in the belief that tossing a coin ensures a return to Rome, has been a part of the fountain's history since its completion in 1762. The fountain is also famous for its appearance in Federico Fellini's film "La Dolce Vita." While wading is prohibited, the coins continue to aid Rome's needy, with Caritas' Emporium providing food to those in need. The article concludes with anecdotes from tourists and locals who benefit from the fountain's charitable tradition.
 
 Sat, 9 Mar 2024 09:19:16 +0530
 ### [This Week in Explainers: How dangerous is it to consume dry ice?](https://www.firstpost.com/explainers/this-week-in-explainers-how-dangerous-is-it-to-consume-dry-ice-13746792.html)
 
-Article found but Couldn't summarize 
-Five people in Gurugram began coughing up blood after eating a ‘mouth freshener’. They later realised that they had been served dry ice instead of the palate cleanser. What happened? Find out in our weekly roundup
+Here's a summary of the key events from the article:
+
+- **Health Scare in Gurugram**: Five individuals were hospitalized after consuming what they believed was a mouth freshener at a restaurant, which turned out to be dry ice, causing them to cough up blood.
+- **Tragic Incident in Jharkhand**: A Spanish tourist was subjected to a brutal assault and gang rape while traveling in India with her husband.
+- **Indians in the Russia-Ukraine War**: Several men from Punjab and Haryana were deceived into joining the Russian military to fight in Ukraine, leading to growing concerns for their safety. One man from Hyderabad lost his life in Russia under these circumstances.
+- **Life Insurance for Indian Workers in UAE**: The Indian consulate in Dubai introduced a life insurance scheme for blue-collar workers, promising compensation for their families in case of the worker's death.
+- **Water Crisis in Bengaluru**: The city is facing a severe water shortage, with residents struggling without regular water supply, leading to skyrocketing prices for water tankers.
+- **UPI Goes Global**: India's Unified Payments Interface (UPI) is now supported in several countries worldwide, potentially aiding developing nations.
+
+These highlights cover the significant developments in India, from social issues to technological advancements.
 
 Fri, 8 Mar 2024 20:33:44 +0530
 ### [Why France's Camembert cheese could soon disappear from kitchens](https://www.firstpost.com/explainers/why-frances-camembert-cheese-could-soon-disappear-from-kitchens-13746825.html)
