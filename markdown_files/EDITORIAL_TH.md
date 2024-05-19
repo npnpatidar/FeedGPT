@@ -1,3 +1,15 @@
+Mon, 20 May 2024 00:30:00 +0530
+### [Ordinary men: On the AAP and the need for introspection](https://www.thehindu.com/opinion/editorial/ordinary-men-on-the-aap-and-the-need-for-introspection/article68193619.ece)
+
+The article discusses the arrest of **Bibhav Kumar**, a personal aide to Delhi Chief Minister Arvind Kejriwal, following allegations of assault made by **AAP Rajya Sabha member Swati Maliwal**. Despite initial statements from AAP leader Sanjay Singh indicating that strict action would be taken, the AAP did not act against Kumar, leading to Maliwal filing a police complaint. The AAP has since accused Maliwal of being a pawn of the BJP, which has entered the fray along with the Congress, reminding Kejriwal of his advocacy for laws supporting women's statements in assault cases. The article calls for an unbiased investigation, criticizes the BJP's hypocritical stance given its muted response to allegations against its ally's MP, and urges Kejriwal to break his silence. It highlights the AAP's need for introspection, given its isolation from public scrutiny and lack of organizational decision-making structures, despite its rise as a response to political decadence in India.
+
+Mon, 20 May 2024 00:15:00 +0530
+### [Talking peace: On Ukraine and the Switzerland organised peace conference](https://www.thehindu.com/opinion/editorial/talking-peace-the-hindu-editorial-on-ukraine-and-the-switzerland-organised-peace-conference/article68193655.ece)
+
+Two years following Russia's invasion of Ukraine, Switzerland is organizing a peace conference in Bürgenstock on June 15-16, aiming to include countries outside the Western coalition. India, a significant partner of Russia and a leader in the Global South, is a priority invitee, as indicated by recent high-level visits from Swiss and Ukrainian officials. While 50 countries, mainly from the EU, NATO, G-7, and allies like Japan, South Korea, and Australia, have confirmed attendance, Russia is not invited. The focus is on 'BICS' nations (BRICS minus Russia) to potentially influence future discussions with Moscow. However, Brazil and South Africa will not attend, leaving the participation of China and India, pending Prime Minister Modi's re-election, in question.
+
+The conference aims to create a peace framework, addressing food security, navigation freedom, nuclear safety, and humanitarian issues. Success seems challenging without both conflict parties present and as long as military gains are pursued. The UN has failed to pressure Russia through resolutions, and India's non-critical stance towards Russia suggests it may wait for a more balanced peace initiative before fully committing.
+
 Sat, 18 May 2024 00:20:00 +0530
 ### [Dangers of divisiveness: On the electoral rhetoric, from the top level](https://www.thehindu.com/opinion/editorial/dangers-of-divisiveness-on-the-electoral-rhetoric-from-the-top-level/article68187177.ece)
 

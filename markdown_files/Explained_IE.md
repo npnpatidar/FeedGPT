@@ -1,3 +1,16 @@
+Sun, 19 May 2024 16:13:58 +0000
+### [This Quote Means: ‘There can be no social justice without economic prosperity… prosperity without it is meaningless’](https://indianexpress.com/article/explained/this-quote-means-upsc-social-justice-9339207/)
+
+The article discusses the ongoing Lok Sabha elections in India, highlighting that political parties are focusing on socio-economic issues such as ration provisions, employment, and reservations for social groups. It debates the importance of social versus economic issues, citing a UPSC CSE exam quote that emphasizes the need for both social justice and economic prosperity.
+
+Historically, the state's role was limited to maintaining order, but over time, it expanded to enable citizens to maintain a minimum standard of living. The article references philosophers like Thomas Hobbes and Jean-Jacques Rousseau, who contributed to the concept of a social contract and the state's role in reflecting the general will of the people.
+
+The article also touches on the impact of colonialism and World Wars on the belief that people should be given opportunities to improve their lives. It mentions the challenges faced by newly decolonized states in achieving economic progress and institutionalizing civil society tenets.
+
+In India, the preamble of the Constitution recognizes the importance of securing social, economic, and political justice for its diverse society. The 1991 economic reforms are noted as a significant turning point, opening doors for the private sector. However, the article points out drawbacks, such as widening income gaps and exploitation, which indicate that economic progress alone is not sufficient for human development.
+
+The article concludes that both economic and social progress are necessary for collective happiness and satisfaction, and calls for inclusive growth and sustainable development, urging citizens to demand comprehensive action from political leaders.
+
 Sun, 19 May 2024 13:01:12 +0000
 ### [Thunderstorms in US: How climate change impacts their intensity](https://indianexpress.com/article/explained/explained-climate/thunderstorms-wind-climate-change-link-9338924/)
 
