@@ -1,3 +1,21 @@
+Mon, 20 May 2024 14:46:39 +0000
+### [What is the case against WikiLeaks’ Julian Assange, who can now appeal his extradition to the US?](https://indianexpress.com/article/explained/everyday-explainers/wikileaks-julian-assange-uk-extradition-us-case-9341138/)
+
+The High Court in London has granted WikiLeaks founder Julian Assange the right to appeal against his extradition to the United States. Assange, an Australian citizen known for his website WikiLeaks, has been facing legal challenges due to the publication of confidential US documents. The US government has indicted him on 18 charges, including espionage and computer fraud, alleging that the leaks endangered lives and were obtained illegally.
+
+Assange's legal battles began with accusations of sexual assault in Sweden, leading to his asylum in the Ecuadorian Embassy in London. After his asylum was revoked in 2019, he was arrested and has been fighting extradition to the US, where he faces a trial. His defense argues that his work is protected under journalistic rights, while the US claims his actions exceed those of a journalist. The UK High Court's recent decision allows Assange to continue his appeals, which could extend the legal process for years.
+
+Mon, 20 May 2024 13:13:59 +0000
+### [What is Gujarat’s land grabbing law, and why has the HC dismissed the challenge to it?](https://indianexpress.com/article/explained/explained-law/gujarat-land-grabbing-law-9340987/)
+
+The Gujarat High Court has affirmed the constitutional validity of the Gujarat Land Grabbing (Prohibition) Act. This law, effective from December 2020, criminalizes land grabbing of both public and private property, shifts the burden of proof to the accused, and mandates a minimum 10-year sentence for violations.
+
+Key features of the law include its aim to ensure swift resolution of land grabbing complaints and to protect the interests of farmers and the common man. It consolidates land grabbing offences under one special legislation, replacing proceedings under previous laws like the Transfer of Property Act.
+
+The law is retrospective, meaning it applies to actions before its enactment, and includes both civil and criminal penalties. It also introduces a reverse burden of proof, where the accused must prove their lawful entitlement to the property.
+
+The law was challenged on procedural grounds, arguing it needed the President's assent due to conflicts with central laws, and on substantive grounds, claiming it was vague and arbitrary. The High Court, however, applied the "doctrine of pith and substance" and found the law pertains to the State List, thus not requiring Presidential assent. The court also dismissed claims of manifest arbitrariness, stating the law's deterrent effect and its provision for criminal proceedings against land grabbers. The reversal of the burden of proof was upheld by the court, emphasizing the accused's obligation to prove lawful entitlement to the land.
+
 Mon, 20 May 2024 10:51:22 +0000
 ### [What is the UK’s contaminated blood scandal, a deadly treatment disaster that claimed at least 3,000 lives?](https://indianexpress.com/article/explained/explained-global/uk-govt-contaminated-blood-scandal-9340589/)
 

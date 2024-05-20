@@ -1,3 +1,40 @@
+Mon, 20 May 2024 21:29:28 +0530
+### [What is UK's infected blood scandal? What has inquiry revealed?](https://www.firstpost.com/health/uks-infected-blood-scandal-13772972.html)
+
+The article discusses the findings of the Infected Blood Inquiry in the UK, revealing that over 30,000 people were infected with HIV and hepatitis from contaminated blood and blood products between 1970 and 1991. The report criticizes successive governments and medical professionals for attempting to cover up the scandal, which has resulted in over 3,000 deaths. It highlights systemic failures, such as ignoring expert recommendations and continuing to import high-risk blood products from the US, leading to widespread infection among patients, particularly those with hemophilia. The inquiry, led by former judge Brian Langstaff, reviewed evidence from thousands of witnesses and documents, uncovering a history of negligence and concealment by authorities. Prime Minister Rishi Sunak is expected to apologize and announce a compensation package of approximately $12.7 billion for the victims. The scandal has undermined trust in the medical establishment and calls for accountability and justice for those responsible have been made. The UK's handling of the situation is contrasted with other countries, where officials have faced legal consequences for similar scandals. The article concludes with the expectation of further details on the compensation to be revealed.
+
+Mon, 20 May 2024 20:53:44 +0530
+### [Lok Sabha elections: Why Mumbai does not turn up to vote](https://www.firstpost.com/explainers/lok-sabha-elections-2024-mumbai-polling-voter-turnout-13772959.html)
+
+Mumbai experienced a low voter turnout during the fifth phase of Lok Sabha elections, with none of the six constituencies surpassing 50% turnout. The highest recorded was in Mumbai North West at 49.79%, while the lowest was in Mumbai South at 44.63%. Over 99 lakh electors were eligible to vote, yet the city's turnout has often been poor, only surpassing the halfway mark thrice since 1991. The highest turnout in recent times was 55.4% in 2019.
+
+Factors contributing to the low turnout include urban apathy, a depoliticized environment, and a belief that voting won't bring change. This is compounded by the complexity of urban issues, anonymity in large cities, and the informal nature of employment sectors. Additionally, complaints about the lack of basic amenities at polling stations and the high temperature of 34 degrees Celsius on polling day were reported. Issues like the prohibition of mobile phones at polling booths also caused inconvenience, leading some voters to leave without voting. Criticism was directed at the Election Commission for poor management and inadequate facilities at polling stations.
+
+Comparatively, other metro cities like Bengaluru, Lucknow, Chennai, Pune, and Hyderabad also recorded voter turnouts ranging from 45.07% to 55.94%. Delhi is yet to vote, with its previous turnout being 56.87%. The overall low turnout in these cities reflects a broader trend of voter apathy in urban areas.
+
+Mon, 20 May 2024 20:07:07 +0530
+### [Ebrahim Raisi death: What happens next in Iran's politics?](https://www.firstpost.com/explainers/ebrahim-raisi-death-iran-13772933.html)
+
+Iran is set to hold early presidential elections within 50 days following the death of President Ebrahim Raisi in a helicopter crash. The constitution mandates that the first vice president, currently Mohammad Mokhber, will serve as acting president until the election, subject to Supreme Leader Ayatollah Khamenei's approval. The upcoming elections are under scrutiny for fairness, as past elections have been criticized for the Guardian Council's selective approval of candidates, often excluding reformists. This practice has led to claims of non-competitive and unfair elections, with low voter turnout and dominance by hard-line politicians, as seen in the recent parliamentary and Assembly of Experts elections. The Guardian Council's vetting process, which disqualifies most reformist candidates, is expected to be even stricter in the upcoming election, amid domestic and regional upheaval. Critics and experts anticipate a continuation of engineered election outcomes favoring hard-liners aligned with Khamenei, with little indication of a shift towards a more participatory political process.
+
+Mon, 20 May 2024 19:21:07 +0530
+### [Why Chinese social media companies are cracking down on posts that show off wealth](https://www.firstpost.com/explainers/chinese-social-media-companies-crackdown-on-posts-showing-off-wealth-13772777.html)
+
+Chinese social media platforms, including Weibo, Tencent, Douyin, and Xiaohongshu, have initiated a crackdown on content that promotes materialism and the flaunting of personal wealth. This action aligns with the Chinese government's ongoing campaign to create a civilized, healthy, and harmonious social environment and to purify the internet cultural environment, which began in 2016.
+
+Weibo has removed over 1,100 posts that displayed luxury goods and wealth, while Douyin has deleted 11,000 accounts and 4,701 messages. Xiaohongshu has also taken down 4,273 posts and banned 383 accounts. These measures are part of a broader effort to encourage the creation and sharing of high-quality, truthful, and positive content.
+
+The crackdown coincides with the popularity of the "flaunt your wealth" challenge, where individuals pose with luxury items in public spaces. This trend, along with the government's various policies and crackdowns on social behavior, reflects the ongoing efforts to address the widening wealth disparity in China and promote common prosperity. The government has also implemented campaigns to reduce food waste, reform the wedding industry, and regulate public behavior and media content to align with national sentiments.
+
+Mon, 20 May 2024 18:14:02 +0530
+### [Why has India's top medical body, ICMR, slammed the study on Covaxin side effects?](https://www.firstpost.com/explainers/icmr-bhu-study-covaxin-side-effects-covid-vaccine-13772866.html)
+
+The article discusses a study by Banaras Hindu University (BHU) on the side effects of Bharat Biotech's Covaxin, which the Indian Council of Medical Research (ICMR) has criticized as poorly designed. The BHU study contacted 1,024 individuals who received Covaxin, finding that over 40% reported upper respiratory infections, and other side effects like skin disorders, general disorders, and nervous system disorders were noted. Serious adverse effects were rare but included strokes and Guillain-Barre syndrome.
+
+ICMR's main criticisms were the lack of a control group, failure to connect adverse events frequency with Covaxin, and inconsistencies with the definition of adverse events of special interest. ICMR also highlighted the methodological issue of collecting data via phone without clinical verification. ICMR, which receives royalties from Covaxin, has demanded the removal of its acknowledgment in the study and threatened legal action if not complied with.
+
+Bharat Biotech responded by emphasizing the need for comprehensive data to avoid bias and the comparison with non-vaccinated individuals. The company cited several studies demonstrating Covaxin's safety. The article also mentions AstraZeneca's recent admission of a rare side effect of blood clotting with its vaccine, Covishield, and its subsequent global withdrawal for commercial reasons.
+
 Mon, 20 May 2024 17:18:34 +0530
 ### [Rishi Sunak wants to scrap UK graduate visa: What is it, how will it affect Indians?](https://www.firstpost.com/explainers/rishi-sunak-wants-to-scrap-uk-graduate-visa-what-is-it-how-will-it-affect-indians-13772859.html)
 

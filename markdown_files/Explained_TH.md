@@ -1,3 +1,23 @@
+Mon, 20 May 2024 19:45:23 +0530
+### [What is the Copernicus EMS rapid response service activated to trace the Iranian President ? | Explained](https://www.thehindu.com/news/international/iranian-president-ebrahim-raisi-crash-copernicus-ems-rapid-response-service-search-rescue-explainer/article68195943.ece)
+
+The article reports on a tragic incident involving the crash of a helicopter carrying Iranian President Ebrahim Raisi and other officials, including the Foreign Minister Hossein Amirabdollahian. The crash occurred in East Azerbaijan province, and despite challenging search conditions due to adverse weather and darkness, the European Union's Copernicus Emergency Management Service's rapid response mapping technology was activated to assist in the search and rescue operations. Unfortunately, all on board were found deceased at the crash site near the Iran-Azerbaijan border.
+
+The article also details the Copernicus program, an earth observation initiative of the European Union named after the 15th-century scientist Nicolaus Copernicus. The program, which began in 1998, utilizes data from satellites and various measurement systems to provide information for environmental, climate change, disaster management, and agricultural purposes. The Copernicus system is freely accessible and plays a crucial role in managing emergencies and aiding humanitarian crises by providing geospatial information from satellite images and other data sources. The service has been active since 2012 and offers on-demand mapping and early warning and monitoring for a variety of disasters and crises. In this particular case, the rapid response mapping service was employed to aid in the aftermath of the helicopter crash.
+
+Mon, 20 May 2024 19:29:40 +0530
+### [RBI’s proposed framework to administer project financing | Explained](https://www.thehindu.com/business/Industry/rbis-proposed-framework-to-administer-project-financing-explained/article68189650.ece)
+
+The Reserve Bank of India (RBI) has released draft regulations to enhance the regulatory framework for financing long gestation projects in sectors like infrastructure and real estate. The new regulations aim to provide a harmonized prudential framework and revise the commencement date criteria for commercial operations. This move comes after a review of existing instructions and an analysis of the risks involved in such financing. The RBI is seeking public comments on the draft until June 15.
+
+The draft highlights the challenges of infrastructure projects, such as long gestation periods and financial viability issues, which often lead to delays and cost overruns. For instance, a recent review showed that out of 1,837 projects, 779 were delayed, and 449 had cost overruns totaling ₹5.01 lakh crores more than their original estimates. The RBI's proposed changes include a significant increase in general provisioning from 0.4% to 5% during the construction stage, to be phased in over three years, to better prepare for potential losses.
+
+At the operational phase, provisioning can be reduced if the project has a positive net operating cash flow and the total long-term debt has decreased by at least 20% since the commencement of commercial operations. The RBI also emphasizes the need for a positive Net Present Value (NPV) for project finance and annual independent re-evaluation of the project NPV to prevent stress build-up.
+
+The framework also sets out criteria for evaluating changes in repayment schedules due to increased project outlay and introduces guidelines for a standby credit facility to cover overruns caused by delays. The RBI's proposals are currently under impact assessment to determine their effects on banks' profitability and future project financing risk appetite.
+
+Rating agencies like ICRA have noted that the higher provisioning requirements could impact the profitability of financial institutions, with potential increases in funding costs. However, state-owned lenders have expressed confidence that the impact will not be significant, although loan pricing may need to be revisited to accurately price risk, especially for long-term loans. The RBI's efforts are aimed at addressing the risks associated with project financing and ensuring the stability of the financial system.
+
 Mon, 20 May 2024 15:22:38 +0530
 ### [Russia-Ukraine Crisis: Why is Kharkiv important? | Explained](https://www.thehindu.com/news/international/russia-ukraine-crisis-kharkiv-importance-explained/article68193558.ece)
 

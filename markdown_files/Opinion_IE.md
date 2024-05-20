@@ -1,3 +1,19 @@
+Mon, 20 May 2024 14:30:56 +0000
+### [Death of President Ebrahim Raisi: In Iran and beyond, what will change and what won’t](https://indianexpress.com/article/opinion/columns/iran-president-ebrahim-raisi-death-9341103/)
+
+The article reports the death of Iranian President Ebrahim Raisi in a helicopter crash on May 19. Following the incident, Supreme Leader Ayatollah Ali Khamenei appointed First Vice-President Mohammad Mokhber as interim president. The article discusses the potential implications of Raisi's death on Iran's political landscape, including the speculation about the crash's cause and the succession of the Supreme Leader's position.
+
+It outlines the structure of Iranian politics, emphasizing the Supreme Leader's ultimate authority and the president's limited powers. The article reflects on Iran's shift towards hardline politics after the U.S. withdrew from the nuclear deal and suggests that Raisi's death is unlikely to change Iran's domestic and foreign policies, including its relationship with South Asia and the ongoing tensions with Israel.
+
+The article concludes by highlighting the uncertainty surrounding the selection of the next president and the significant impact the eventual replacement of the Supreme Leader will have on Iran's future. The writer of the article is identified as a former diplomat. **Please note that this summary is based on the information provided and does not reflect any new developments that may have occurred after the article's publication.**
+
+Mon, 20 May 2024 14:21:28 +0000
+### [After Raisi’s death, a question: Who will succeed Supreme Leader Khamenei](https://indianexpress.com/article/opinion/editorials/raisi-death-who-will-succeed-supreme-leader-khamenei-9341107/)
+
+The article discusses the implications of the helicopter crash that resulted in the death of Iran's President Ebrahim Raisi and Foreign Minister Hossein Amir Abdollahian. It suggests that the crash is seen as an accident, not unusual given Iran's aviation challenges due to international sanctions. The piece reflects on the power structure in Iran, emphasizing that the Supreme Leader, Ayatollah Ali Khamenei, holds the true power, not the elected president. 
+
+It recounts Raisi's tenure as a hardline Islamic ideologue and his role in the suppression of political dissent and women's rights movements, particularly following the death of Mahsa Amini. Despite Raisi's alignment with Khamenei, his death is not expected to significantly alter Iran's domestic or foreign policy. The article speculates on the succession politics, noting the interest in Khamenei's next steps due to Iran's geopolitical significance and internal pressures for change.
+
 Mon, 20 May 2024 11:57:52 +0000
 ### [How Raghunandan Kamath changed the way we look at ice cream](https://indianexpress.com/article/opinion/columns/raghunandan-kamath-natural-ice-cream-9340812/)
 

@@ -1,3 +1,19 @@
+Mon, 20 May 2024 18:20:55 +0530
+### [How President Raisi’s death will impact Ayatollah’s succession in Iran](https://www.firstpost.com/opinion/how-president-raisis-death-will-impact-ayatollahs-succession-in-iran-13772907.html)
+
+The article discusses the tragic helicopter crash in northwest Iran that resulted in the deaths of Iranian President Ebrahim Raisi, Foreign Minister Hossein Amir Abdollahian, and seven others. The incident has created a leadership vacuum and raised questions about succession, as President Raisi was considered a likely successor to the ailing Supreme Leader, Ayatollah Khamanei. The crash's cause is under investigation, with sanctions-related restrictions on spare parts being a potential factor.
+
+President Raisi's tenure was marked by efforts to balance conservative domestic policies with pragmatic international relations, including rapprochement with Saudi Arabia and closer ties with India, China, and Russia. Despite tensions with Israel and the West, Iran has managed to mitigate the impact of severe sanctions and maintain its nuclear ambitions.
+
+The article also touches on the constitutional process for presidential succession in Iran, noting that Vice President Mohammed Mokhber has assumed day-to-day responsibilities and will oversee the organization of new elections. The piece concludes with messages of condolence from international figures, highlighting the global implications of the event.
+
+The author, a former Indian Ambassador and Distinguished Fellow at the Vivekananda International Foundation, offers personal views that do not necessarily reflect those of the publication. The article emphasizes the significant challenges Iran faces both domestically and internationally, and the importance of stable leadership during such times.
+
+Mon, 20 May 2024 17:54:01 +0530
+### [As India votes for 5th phase, it’s the contest of two economic outlooks](https://www.firstpost.com/opinion/as-india-votes-for-5th-phase-its-the-contest-of-two-economic-outlooks-13772876.html)
+
+The article discusses the contrasting approaches of the BJP and the Congress towards economic promises in the election season. The BJP has been cautious with populist promises, while the Congress and AAP have made ambitious pledges like wealth redistribution and free services. Finance Minister Nirmala Sitharaman criticized the Congress's wealth redistribution as impractical, likening it to robbing Peter to pay Paul. She argues that such policies are not only unjust but also detrimental to wealth creators who contribute to the economy. The article also questions the feasibility of funding free services promised by AAP's Arvind Kejriwal, highlighting the burden it would place on taxpayers. The author, a freelance journalist, expresses skepticism about the effectiveness of populist promises and criticizes the Congress's adherence to outdated socialist policies. The piece concludes by anticipating the outcome of the ongoing general elections, with results expected on June 4. The views are personal and do not reflect those of Firstpost.
+
 Mon, 20 May 2024 15:46:31 +0530
 ### [Xi Jinping’s Europe tour: A visit that raises eyebrows, hypes uncertainty in Indo-Pacific](https://www.firstpost.com/opinion/xi-jinpings-europe-tour-a-visit-that-raises-eyebrows-hypes-uncertainty-in-indo-pacific-13772781.html)
 
