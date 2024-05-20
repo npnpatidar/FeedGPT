@@ -1,3 +1,10 @@
+Mon, 20 May 2024 15:46:31 +0530
+### [Xi Jinping’s Europe tour: A visit that raises eyebrows, hypes uncertainty in Indo-Pacific](https://www.firstpost.com/opinion/xi-jinpings-europe-tour-a-visit-that-raises-eyebrows-hypes-uncertainty-in-indo-pacific-13772781.html)
+
+The article discusses the complex and evolving military relationship between France and China, highlighting recent developments that suggest a shift in France's strategic posture. It notes that France has historically viewed China with a mix of skepticism and strategic engagement, labeling it as a 'strategic threat' and a 'systemic rival' while also seeking cooperation. The establishment of a new inter-theatre cooperation and dialogue mechanism between the French and Chinese militaries is seen as a significant move towards deepening mutual trust and cooperation, despite France's criticism of China's actions in the Indo-Pacific and human rights abuses.
+
+The article raises concerns about Europe's, and particularly France's, reliability as an ally to countries like India and Japan, given its simultaneous engagement with China. It suggests that France's approach may undermine its commitments to global norms and values and could be seen as hedging its bets amid geopolitical tensions. The author, a researcher at the East Asia Centre, MP-IDSA, New Delhi, India, asserts that Asian powers cannot rely entirely on Europe for security and must fend for themselves. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
 Mon, 20 May 2024 12:10:13 +0530
 ### [From Xi’s China to Macron’s France: The emergence of new-era ‘Leviathans’](https://www.firstpost.com/opinion/from-xis-china-to-macrons-france-the-emergence-of-new-era-leviathans-13772688.html)
 

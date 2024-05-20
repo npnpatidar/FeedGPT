@@ -1,3 +1,15 @@
+Mon, 20 May 2024 10:51:22 +0000
+### [What is the UK’s contaminated blood scandal, a deadly treatment disaster that claimed at least 3,000 lives?](https://indianexpress.com/article/explained/explained-global/uk-govt-contaminated-blood-scandal-9340589/)
+
+The UK's contaminated blood scandal, one of the NHS's deadliest treatment disasters, is under scrutiny with a report due to be published. The scandal involved thousands infected with HIV or hepatitis from blood products in the 1970s and 1980s. The government is expected to issue over £10 billion in compensation. Chancellor Jeremy Hunt acknowledged the severity of the scandal, and Prime Minister Rishi Sunak is set to apologize. The inquiry, initiated in 2017, examined the circumstances leading to the infections and deaths. Interim payments were made to survivors in 2022.
+
+The NHS, established in 1948, provides free healthcare in the UK. During the scandal, haemophilia patients received contaminated Factor VIII, a treatment made from pooled plasma, leading to widespread infections. Investigations revealed that children were used in clinical trials without consent, and the government was aware but did not act promptly. Warnings about the risks of imported blood were ignored for financial reasons. The inquiry's report is expected to demand accountability from various parties involved.
+
+Mon, 20 May 2024 08:22:08 +0000
+### [First Indian space tourist completes flight: What are sub-orbital trips?](https://indianexpress.com/article/explained/explained-sci-tech/space-tourism-gopi-thotakura-9340113/)
+
+Gopi Thotakura, an India-born aviator, joined the ranks of space tourists with a brief trip to space aboard a Blue Origin spacecraft. This sub-orbital flight, which lasted about ten minutes and reached approximately 105 km above Earth, allowed passengers to experience weightlessness and view Earth from space. Sub-orbital flights like Thotakura's are currently the most popular form of space tourism, with longer stays in space, such as visits to the International Space Station, available at a much higher cost. Space tourism remains an exclusive experience for the wealthy, but the industry is expected to expand. Blue Origin has conducted 37 such tourist flights, and several companies are now offering space travel experiences. The cost of these trips varies, with a seat on a Virgin Galactic flight costing around $450,000, while a trip to the ISS can cost between $20 to $25 million. Plans for more ambitious journeys, including trips around the Moon, are in development for the future.
+
 Mon, 20 May 2024 06:38:36 +0000
 ### [Who will succeed Ebrahim Raisi as President, and why his death presents a difficult moment for Iran](https://indianexpress.com/article/explained/explained-global/iran-president-helicopter-crash-ebrahim-raisi-9339959/)
 

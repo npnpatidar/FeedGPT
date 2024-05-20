@@ -1,3 +1,36 @@
+Mon, 20 May 2024 16:00:08 +0530
+### [Geo-neutrality: India is lukewarm to Nato’s invitation for good reason](https://www.livemint.com/opinion/online-views/geoneutrality-india-is-lukewarm-to-nato-s-invitation-for-good-reason-11716141172701.html)
+
+The article provides a historical overview and contemporary analysis of NATO's evolution and its strategic implications. It begins by recounting the post-WWII events that led to NATO's formation, including the communist coup in Czechoslovakia, the Greek civil war, and the Berlin blockade by Stalin. These events prompted Western European nations to seek US assistance, leading to the Marshall Plan and the creation of NATO in 1949.
+
+Initially, NATO aimed to protect Western countries from Germany and the Soviet Union, but its role expanded with the Cold War. NATO now includes 32 countries, with Finland and Sweden being the latest additions. The article highlights NATO's operational changes catalyzed by the Korean War and the invocation of Article 5 only once, after the 9/11 attacks.
+
+The article discusses the challenges NATO faces today, such as internal disagreements among member states and the shift in focus from Russia to China as the major strategic adversary. It also explores the potential expansion of NATO to include countries like Australia, New Zealand, Israel, India, and Japan, which could lead to a more unwieldy organization with a broader geographical focus.
+
+Furthermore, the article examines alternative strategic coalitions like the Quad and Aukus, formed in response to China's rise. It suggests that the future may require more nuanced forms of collaboration rather than traditional military alignments.
+
+The article concludes by pondering the future of NATO in light of Russia's recent actions, suggesting that while NATO has been revitalized, it may need to adapt to remain relevant. It ends with a reflection on the longevity of alliances, quoting Victor Hugo on the challenge of sustaining ideas past their prime. The article implies that narrower, more flexible relationships might better serve countries like India in the future.
+
+Mon, 20 May 2024 15:30:07 +0530
+### [Will Toyota’s hybrid bridge to electric vehicles work according to plan?](https://www.livemint.com/opinion/online-views/will-toyota-s-hybrid-bridge-to-electric-vehicles-work-according-to-plan-11716141100044.html)
+
+Toyota Motor Corporation's approach to electric vehicles (EVs) is distinct from other EV makers, who prioritize battery-electric vehicles (BEVs). Toyota includes hybrids, plug-in hybrids, BEVs, and fuel-cell models in its electrified category. While Tesla and BYD focus solely on BEVs, Toyota's sales of electrified vehicles were 37% of its total last fiscal year, with only 1.1% being BEVs. This is due to Toyota's broader definition of "electric-powered" vehicles, which includes gasoline-powered EVs.
+
+Toyota argues that hybrids, which generate electricity from a combustion engine, have significantly reduced CO2 emissions, equivalent to the impact of 3 million BEVs. The company's chairman, Akio Toyoda, suggests that given Japan's reliance on fossil fuels for electricity, a direct switch to electric charging might not be cleaner. Toyota's strategy reflects market forces and consumer readiness, as many global consumers face range anxiety and a lack of charging infrastructure compared to gasoline stations.
+
+The article suggests that Toyota's cautious approach to fully electric models, favoring hybrids, may be wise. It allows consumers to transition to greener options without the pressure of fully committing to EVs. Toyota's methodical development and efficient manufacturing have led to its industry dominance, and its gradual move into EVs may help it avoid the pitfalls that have affected early EV pioneers. However, there is a risk that this patient strategy could cause Toyota to miss out on the growing EV market, potentially leaving it behind like Nokia in the smartphone era. The company aims to avoid becoming the MySpace of cars, balancing innovation with caution.
+
+Mon, 20 May 2024 14:00:05 +0530
+### [Greater social diversity in higher education is serving India well](https://www.livemint.com/opinion/online-views/greater-social-diversity-in-higher-education-is-serving-india-well-11716184499072.html)
+
+The article provides an overview of the growth and current state of higher education in India. It highlights that the Indian higher education system is one of the largest globally, with a significant increase in enrolment over the past nine years. The enrolment of students from Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), and minority communities, particularly Muslims, has seen a notable rise, indicating the effectiveness of the country's reservation policy towards inclusive education.
+
+Enrolment rates for SC, ST, and OBC communities are now closer to their respective population compositions, suggesting progress towards educational equity. However, minority groups, especially Muslims, are still underrepresented in higher education compared to their population percentage.
+
+The article also discusses gender parity, noting that women's enrolment in higher education has reached almost equal levels with men, and in some cases, women's enrolment growth outpaces that of men. This trend is seen across all social groups and is particularly strong among women from disadvantaged communities.
+
+To further improve enrolment and take advantage of the aspirations of various social groups, the article suggests expanding the capacity of existing educational institutions and establishing new ones in regions with low institutional capacity. Emphasizing distance education as a tool to increase enrolment, the article concludes that broadening educational opportunities is crucial for allowing more individuals to benefit from higher education, rather than limiting the prospects to a select few.
+
 Mon, 20 May 2024 12:30:02 +0530
 ### [Welfarism: We’re not just beneficiaries but citizens and voters too](https://www.livemint.com/opinion/online-views/welfarism-we-re-not-just-beneficiaries-but-citizens-and-voters-too-11716140922217.html)
 
