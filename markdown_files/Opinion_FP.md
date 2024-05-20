@@ -1,3 +1,21 @@
+Mon, 20 May 2024 12:10:13 +0530
+### [From Xi’s China to Macron’s France: The emergence of new-era ‘Leviathans’](https://www.firstpost.com/opinion/from-xis-china-to-macrons-france-the-emergence-of-new-era-leviathans-13772688.html)
+
+The article discusses the enduring relevance of Thomas Hobbes' concept of a powerful sovereign, as outlined in his work "Leviathan," to maintain societal order. It highlights how modern states across the world, both autocracies and democracies, are embracing this idea to strengthen state power and prevent chaos. Examples include the U.S. Federal Reserve's quantitative easing, France's extensive welfare spending, and China's state capitalism. The article argues that these practices have led to a suppression of individual freedoms and economic autonomy, with the state's role becoming increasingly dominant and unquestioned. The writer, a senior journalist specializing in defense, presents these views as personal opinions, not necessarily reflecting those of the publication. The super-state, as a result of Hobbes' vision, is seen as the new normal in society.
+
+Mon, 20 May 2024 11:25:13 +0530
+### [Head-on | The new Great Game: China, US and India](https://www.firstpost.com/opinion/head-on-the-new-great-game-china-us-and-india-13772671.html)
+
+The article discusses the evolving geopolitical dynamics reminiscent of the "Great Game" of the 19th century, focusing on India's role in the current global power structure. It draws parallels between the historical contest for Central Asia between the Russian and British Empires and the modern-day strategic rivalry, particularly between the US and China, with India emerging as a significant player.
+
+The piece highlights India's potential as a balancing force in the world, emphasizing its rise as an independent power with clear strategic interests. It notes the shift in trade patterns, with China becoming India's largest trading partner, surpassing the US, and India's assertive foreign policy moves, such as purchasing oil from Russia, operationalizing the Chabahar port in Iran, and selling BrahMos missiles to the Philippines.
+
+The article suggests that neither the US nor China fully welcomes India's rise, with the US viewing India as a regional counter to China and China considering India a regional, not global, actor. It also mentions the alignment of Russia with China and Britain with the US, with neither having significant influence to alter the US-China contest.
+
+India is contrasted with the declining Ottoman Empire of the past, positioning itself as a rising power capable of playing a pivotal role between the US and China. The article calls for India to shed its foreign policy inhibitions and adopt a nuanced strategy to navigate the complex geopolitical landscape effectively.
+
+The author concludes by urging the new Indian government to establish the country as a steadfast ally to those who respect its sovereignty and strategic autonomy. The views expressed are personal and do not necessarily reflect those of the publication.
+
 Sun, 19 May 2024 18:38:17 +0530
 ### [Putin’s Beijing visit: How ‘no limits’ friendship between Russia and China has global significance](https://www.firstpost.com/opinion/putins-beijing-visit-how-no-limits-friendship-between-russia-and-china-has-global-significance-13772537.html)
 

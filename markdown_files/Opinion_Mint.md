@@ -1,3 +1,19 @@
+Mon, 20 May 2024 12:30:02 +0530
+### [Welfarism: We’re not just beneficiaries but citizens and voters too](https://www.livemint.com/opinion/online-views/welfarism-we-re-not-just-beneficiaries-but-citizens-and-voters-too-11716140922217.html)
+
+The article reflects on India's journey from a newly independent nation to its current democratic state, questioning whether the idea that "the people are supreme" has truly been internalized after 75 years. It discusses the legacy of subjecthood and the politics of patronage, where citizens are seen more as beneficiaries of state largesse rather than active participants in governance. The rise of welfarism over the past two decades is highlighted, with provisions like free foodgrain, electricity, and health insurance expanding in scope. The current election campaign has turned this into competitive welfarism, potentially undermining mature political discourse.
+
+The debate on freebies, once vigorous, seems forgotten, with the extension of the free foodgrain scheme and promises of doubling free grain entitlements going largely unquestioned. The article suggests that while such schemes may have achieved objectives like food security and inflation protection, they blur the lines between freebies, welfare benefits, and subsidies, leading to an inevitable move towards a larger welfare state. However, it calls for a more meaningful journey towards this state by emphasizing the role of citizens, voters, and taxpayers, rather than beneficiaries, and recognizing that welfare benefits come from the government treasury, funded by taxes. The article concludes by stressing the need for an adult dialogue between the people and their elected officials, acknowledging the massive redistribution exercise involved in election promises and welfare benefits.
+
+Mon, 20 May 2024 10:00:18 +0530
+### [There’s a reason why the Indian stock market seems to love the BJP](https://www.livemint.com/opinion/online-views/theres-a-reason-why-the-indian-stock-market-seems-to-love-the-bjp-11716140848610.html)
+
+The article discusses the Indian stock market's anticipation of the Bharatiya Janata Party (BJP) winning the upcoming Lok Sabha elections. Despite some volatility, the market has remained relatively stable. Investors are categorized into foreign institutional investors (FIIs) and domestic institutional investors (DIIs), with FIIs selling off stocks and DIIs purchasing them, indicating confidence in the BJP-led government's continuation post-elections.
+
+The stock market favors the BJP-led National Democratic Alliance (NDA) due to policies that have formalized the economy, such as demonetization, the introduction of the Goods and Services Tax (GST), and corporate tax cuts. These measures have benefited listed companies with increased sales, lower taxes, and higher profits. Data shows significant growth in net sales and profits for over 5,000 listed companies since 2016.
+
+There is concern among FIIs that if the BJP-led NDA does not win, the opposition may increase government spending, financed either by a higher fiscal deficit leading to increased interest rates or by raising corporate taxes, which could negatively impact stock prices. The article suggests that retail investors may not have fully considered these implications, but institutional investors likely have, reflecting the stock market's role as a forward-looking entity influenced by its own incentives.
+
 Mon, 20 May 2024 09:00:16 +0530
 ### [Can Vijay Shekhar Sharma reinvent Paytm once again? He must.](https://www.livemint.com/opinion/online-views/can-vijay-shekhar-sharma-reinvent-paytm-once-again-he-must-11716115637460.html)
 

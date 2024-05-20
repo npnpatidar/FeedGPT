@@ -1,3 +1,38 @@
+Mon, 20 May 2024 13:05:05 +0530
+### [What does the loss of President Ebrahim Raisi mean for Iran? What challenges does the country face?](https://www.firstpost.com/explainers/iran-president-ebrahim-raisi-dies-helicopter-crash-challenges-ayatollah-ali-khamenei-13772734.html)
+
+The article reports the death of Iran's President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian in a helicopter crash due to heavy fog in northern Iran. Raisi's presidency, which began in 2021, was marked by a hardline stance, including the enforcement of strict hijab laws and a crackdown on dissent following the death of Mahsa Amini in custody. His administration also saw heightened tensions with Israel, including a significant assault in response to an attack that killed Iranian generals in Syria.
+
+Raisi's death is significant as it occurs amid domestic challenges and regional tensions, particularly with Israel. It leaves Supreme Leader Ayatollah Ali Khamenei without a loyalist and potential successor. The article suggests that Vice President Mohammad Mokhber will take over, with presidential elections expected within 50 days. The new leader will face the task of managing internal dissent and navigating Iran's foreign relations, especially its nuclear program and relations with the West, Russia, and China. The article concludes by outlining the constitutional process for presidential succession in Iran.
+
+Mon, 20 May 2024 12:32:51 +0530
+### [Who is Mohammad Mokhber, who will assume power in Iran after Ebrahim Raisi’s death?](https://www.firstpost.com/explainers/mohammad-mokhber-iran-interim-president-ebrahim-raisi-death-13772727.html)
+
+The article discusses the aftermath of the death of Iran's President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian in a helicopter crash. Following the incident, as per Iran's constitution, First Vice President Mohammad Mokhber is set to take over as the interim president. Mokhber, a 69-year-old with close ties to Supreme Leader Ali Khamenei, has a significant influence within the regime.
+
+Mokhber's background includes a doctorate in international law, service in the Islamic Revolutionary Guard Corps' medical corps during the Iran-Iraq War, and managerial roles in various organizations, including the Execution of Imam Khomeini’s Order (EIKO). He has been involved in Iran's foreign policy, including recent negotiations with Syria and Russia.
+
+With Raisi's death, an election for a new president is expected to be held by early July, as the constitution requires an election within 50 days. While Mokhber could be a contender, his popularity among the people is uncertain. Parliamentary Speaker Mohammad Baqer Qalibaf is another potential candidate, despite facing corruption allegations. The article concludes with the anticipation of who will become the next president after the mandated elections.
+
+Mon, 20 May 2024 12:30:10 +0530
+### [Why has a heatwave red alert been issued in Delhi, neighbouring cities? How hot is it?](https://www.firstpost.com/explainers/heatwave-red-alert-in-delhi-neighbouring-cities-13772676.html)
+
+North India is experiencing an intense heatwave, with temperatures in Delhi and surrounding states like Rajasthan, Uttar Pradesh, and Gujarat soaring above 44 degrees Celsius. The India Meteorological Department (IMD) has issued a red alert for these regions, predicting the heatwave to last until May 23. A red alert signifies a high risk of heat-related illnesses due to prolonged high temperatures. The IMD advises taking precautions such as staying hydrated, avoiding heat exposure, and wearing light clothing to minimize the impact of the heatwave. The heatwave is being intensified by winds from the Thar Desert, and there is a significant health concern for vulnerable populations, including infants, the elderly, and those with chronic diseases.
+
+Mon, 20 May 2024 10:07:57 +0530
+### [Quicksplained: Who was Hossein Amir-Abdollahian, Iran’s foreign minister, who died in helicopter crash with President Ebrahim Raisi?](https://www.firstpost.com/explainers/quicksplained-hossein-amir-abdollahian-iran-foreign-minister-died-in-helicopter-crash-president-ebrahim-raisi-13772625.html)
+
+**Summary of the Article:**
+
+A helicopter crash in the mountainous northwest of Iran resulted in the deaths of Iranian President Ebrahim Raisi, Foreign Minister Hossein Amir-Abdollahian, and other officials. They were en route to inaugurate a dam project when their helicopter went down in icy conditions. Despite extensive rescue efforts, the wreckage was found completely burned, and there were no survivors.
+
+The article also highlights the life and career of Hossein Amir-Abdollahian, the 60-year-old conservative Foreign Minister. Known for his skepticism of the West and support for Iran's militant alliances, Amir-Abdollahian had a significant diplomatic career. He held various positions within Iran's Foreign Ministry and was closely associated with the IRGC, particularly with Qasem Soleimani. His recent efforts were focused on diplomacy related to the Israel-Gaza conflict and mitigating the impact of international sanctions on Iran.
+
+Mon, 20 May 2024 09:52:05 +0530
+### [Iran’s Ebrahim Raisi dies: What led to the helicopter crash? What will happen next?](https://www.firstpost.com/explainers/iran-ebrahim-raisi-dies-helicopter-crash-what-happens-next-13772622.html)
+
+The article reports a tragic helicopter crash in Iran that resulted in the deaths of President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian. The helicopter went down in a mountainous region near the Azerbaijan border due to bad weather, leading to a "hard landing." Despite extensive search-and-rescue efforts involving 40 teams and support from multiple countries, the wreckage was found with no survivors. The incident has caused widespread mourning in Iran, with citizens and the Supreme Leader Ayatollah Ali Khamenei praying for the victims. According to Iran's constitution, the First Vice President, Mohammad Mokhber, will assume presidential powers, with an election to follow within 50 days. The country was already set for presidential elections in 2025.
+
 Mon, 20 May 2024 08:44:18 +0530
 ### [Ebrahim Raisi: The hardline religious cleric's problematic stint as Iran's president](https://www.firstpost.com/world/ebrahim-raisi-the-hardline-religious-clerics-problematic-stint-as-irans-president-13772595.html)
 

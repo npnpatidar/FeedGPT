@@ -1,3 +1,16 @@
+Mon, 20 May 2024 06:38:36 +0000
+### [Who will succeed Ebrahim Raisi as President, and why his death presents a difficult moment for Iran](https://indianexpress.com/article/explained/explained-global/iran-president-helicopter-crash-ebrahim-raisi-9339959/)
+
+Iran's President Ebrahim Raisi has tragically died in a helicopter crash in the northwest mountains of Iran. The crash also involved Iran’s Foreign Minister and the Governor of East Azerbaijan province. The wreckage was found in dense fog and rain, with only part of the tail visible. President Raisi's death was officially announced in Mashhad, and he was honored as a martyr.
+
+Prime Minister Narendra Modi of India expressed his condolences and support for Iran. As per Iran's Constitution, the First Vice President, Mohammad Mokhber, will assume the presidency until elections are held within 50 days. Mokhber has previously led Setad, an influential economic group, and was involved in developing Iran's Coviran Barekat vaccine.
+
+President Raisi, known as a hardline cleric, was seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei. His tenure was marked by efforts to expand Iran's regional influence and advance its nuclear program, especially after the U.S. withdrew from the nuclear deal.
+
+Recent months have seen heightened tensions in the Middle East, with Iran engaging in direct conflict with Israel and supplying military drones to Russia. A significant diplomatic development occurred when China facilitated the restoration of ties between Tehran and Riyadh, indicating a shift in regional power dynamics.
+
+Domestically, Raisi's administration faced widespread protests, which were met with severe government crackdowns. The Iranian leadership is now expected to recalibrate its response to these challenges, with the roles of the U.S., Saudi Arabia, and Israel being pivotal in the evolving situation.
+
 Mon, 20 May 2024 01:30:53 +0000
 ### [Explained: Illegal mining in Sariska](https://indianexpress.com/article/explained/explained-illegal-mining-in-sariska-9339325/)
 
