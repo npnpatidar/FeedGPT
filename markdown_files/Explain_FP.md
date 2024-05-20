@@ -7231,14 +7231,20 @@ Lawmakers' guests and their attire can also convey political messages, and unexp
 Thu, 7 Mar 2024 20:02:44 +0530
 ### [Can your favourite acne cream cause cancer?](https://www.firstpost.com/explainers/acne-products-cancer-causing-chemical-benzene-us-fda-valisure-findings-13746466.html)
 
-Article found but Couldn't summarize 
-An independent US testing laboratory said it has found high levels of cancer-causing chemical benzene in several acne treatments from brands including Proactiv, Clearasil and Estee Lauder's Clinique
+The article reports that the independent US laboratory Valisure found high levels of benzene, a cancer-causing chemical, in several acne treatment products from brands like Proactiv, Clearasil, and Clinique. Benzene, which is used in manufacturing and is found in natural sources like forest fires, is toxic and linked to leukemia. The FDA advises against its use in drug products due to its toxicity.
+
+Valisure's tests on 66 acne treatments containing benzoyl peroxide revealed benzene levels up to nine times the FDA's permissible limit. The lab's findings include 1,761 ppm of benzene in Proactiv's cream, 401 ppm in Clinique's treatment, and 308 ppm in Clearasil's product when exposed to high temperatures. Valisure attributes the presence of benzene to the decomposition of benzoyl peroxide, especially at higher temperatures.
+
+Following these findings, Valisure petitioned the FDA to recall the affected products, investigate the issue, and revise industry guidelines. Reckitt, the owner of Clearasil, and Estee Lauder, the owner of Clinique, have stated their products are safe when used as directed. However, the companies' shares dropped after the report's publication. US Representative Rosa DeLauro emphasized the need for FDA action, noting the widespread use of benzoyl peroxide products. The FDA has acknowledged the report and stated it will inform the public about benzene in drug products as necessary.
 
 Thu, 7 Mar 2024 19:01:38 +0530
 ### [Why life insurance for Indian workers in UAE matters](https://www.firstpost.com/explainers/indian-workers-in-uae-life-insurance-plan-significance-13746365.html)
 
-Article found but Couldn't summarize 
-The Indian Consulate in Dubai has announced a new insurance scheme — Life Protection Plan — for blue-collar workers in the UAE which will ensure compensation for their families in the event of their death due to accidents or natural causes. Here’s why it is a big deal
+The Indian Consulate in Dubai has introduced the Life Protection Plan (LPP), a new insurance scheme for blue-collar Indian workers in the UAE. This plan, effective from March 1, offers financial compensation to the families of workers who die due to accidents or natural causes. The LPP is available for annual premiums ranging from Dh37 to Dh72, with compensation up to Dh75,000, depending on the premium selected. Additionally, it provides Dh12,000 for repatriation of the body and covers permanent disability due to accidents.
+
+The need for LPP arose because, despite the presence of health insurance and compensation for work-related injuries and deaths, there was no mandatory coverage for natural deaths. The UAE is home to 3.5 million Indians, with 2.27 million being blue-collar workers. The Indian Consulate noted that most companies insure their employees for health and work-related incidents but not for natural deaths. The Consulate encouraged companies to subscribe to LPP, considering the high number of natural death cases among workers.
+
+Statistics show a significant number of Indian worker deaths in the UAE, with a majority being natural. Reports highlight that migrant workers in the Gulf face health risks like heat stress, air pollution, and exploitative work conditions, which can lead to unexplained deaths often attributed to natural causes. The Indian government and NGOs have received complaints about non-payment of wages and abuse, indicating the challenging conditions faced by workers in the region. The LPP aims to provide some financial relief to the families of deceased workers.
 
 Thu, 7 Mar 2024 18:32:19 +0530
 ### [State of the Union: What’s the history behind the US president’s speech?](https://www.firstpost.com/explainers/state-of-the-union-whats-the-history-behind-the-us-presidents-speech-13746366.html)
