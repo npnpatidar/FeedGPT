@@ -1,3 +1,22 @@
+Mon, 20 May 2024 08:44:18 +0530
+### [Ebrahim Raisi: The hardline religious cleric's problematic stint as Iran's president](https://www.firstpost.com/world/ebrahim-raisi-the-hardline-religious-clerics-problematic-stint-as-irans-president-13772595.html)
+
+The article discusses the life and presidency of Ebrahim Raisi, against the backdrop of a helicopter crash in Iran's East Azerbaijan province, which has left him and Foreign Minister Hossein Amir-Abdollahian missing. Raisi, a hardline religious cleric born in 1960, rose through Iran's judiciary to become president in 2021. His tenure has seen significant antigovernment protests, economic challenges, and heightened tensions with Israel. Raisi is known for his opposition to engaging with the West and has been linked to human rights abuses. The article also covers the Mahsa Amini uprising, which sparked nationwide protests against Iran's hijab laws and led to brutal crackdowns. The uncertainty of Raisi's fate raises questions about Iran's leadership succession, as the search continues. The article concludes with the constitutional procedure for presidential succession in Iran.
+
+Mon, 20 May 2024 06:43:12 +0530
+### [FirstUp: Phase 5 of Lok Sabha elections and more... The big news today](https://www.firstpost.com/explainers/firstup-phase-5-of-lok-sabha-elections-and-more-the-big-news-today-13772309.html)
+
+Here's a summary of the article:
+
+**May 20th** is set to be a significant day with several key events:
+- **Phase 5 of Lok Sabha Elections**: Voting will occur across 49 constituencies in six states and two Union Territories. Notable candidates include Smriti Irani, Rahul Gandhi, and Rajnath Singh.
+- **Microsoft Event**: Expected announcements on AI, new Surface devices, and Windows advancements.
+- **Delhi Court Hearing**: A case against CM Arvind Kejriwal and AAP concerning the Excise Policy and PMLA.
+- **End of Zelenskyy’s Term**: Ukrainian President Volodymyr Zelenskyy's term concludes, with potential political shifts in Ukraine.
+- **EU Environmental Crime Directive**: Enforcement begins, targeting severe environmental offences with strict penalties.
+
+These events cover India's elections, technological advancements, legal proceedings, political transitions, and environmental protection efforts.
+
 Sun, 19 May 2024 20:09:56 +0530
 ### [Rajnath Singh vs Ravidas Mehrotra, Rahul Gandhi vs …: The big fights to watch out for in phase 5 of Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-2024-rajnath-singh-rahul-gandhi-smriti-irani-big-fights-phase-5-polling-13772008.html)
 
@@ -7249,32 +7268,31 @@ Statistics show a significant number of Indian worker deaths in the UAE, with a 
 Thu, 7 Mar 2024 18:32:19 +0530
 ### [State of the Union: What’s the history behind the US president’s speech?](https://www.firstpost.com/explainers/state-of-the-union-whats-the-history-behind-the-us-presidents-speech-13746366.html)
 
-Article found but Couldn't summarize 
-US president Joe Biden will command all the attention as he delivers the State of the Union address in Washington, DC. The annual address has a long, interesting history that dates back to George Washington. Over the years, different presidents have put their own spin to it
+The article discusses the history and significance of the State of the Union address in the United States. It highlights that President Joe Biden is set to deliver this year's address, which is particularly noteworthy as it precedes the presidential elections in November. The State of the Union is mandated by the U.S. Constitution and was first delivered by George Washington. While initially an annual speech, Thomas Jefferson changed it to a written report, a practice that lasted over a century until Woodrow Wilson reverted to an oral presentation. The term "State of the Union" was popularized by Franklin D. Roosevelt in the 1930s. Technological advancements have influenced the address's broadcast, with Calvin Coolidge's speech being the first on radio and Harry Truman's on television. Not every president delivers a State of the Union address in their first year, and some have chosen to submit written messages instead of speaking in person. The article concludes by noting the few presidents who did not deliver a message due to early death or assassination.
 
 Thu, 7 Mar 2024 17:18:58 +0530
 ### [Rameshwaram café blast: What CCTV footage has revealed](https://www.firstpost.com/explainers/rameshwaram-cafe-blast-what-cctv-footage-has-revealed-about-the-suspect-13746296.html)
 
-Article found but Couldn't summarize 
-A week after a blast took place at the Rameshwaram cafe in Bengaluru, CCTV footage has provided some key leads. According to the authorities, the suspect entered the eatery wearing a mask, sunglasses and a baseball cap. He spent nine minutes at the eatery before leaving
+The article discusses the ongoing investigation into a low-intensity bomb blast at Rameshwaram Café in Bengaluru, which injured ten people on March 1. CCTV footage has been crucial in identifying a suspect who was seen entering the café wearing a mask, sunglasses, and a baseball cap, and spending nine minutes there before leaving. The suspect is believed to have used public buses for transportation and made multiple stopovers, including at a religious center. A baseball cap, believed to be the suspect's, was found at one of these locations. The improvised explosive device (IED) used in the blast contained nuts and bolts as shrapnel and was similar to devices used in two other terror attacks in Karnataka in 2022. The National Investigation Agency (NIA) has taken over the case and released a photo of the suspect, offering a cash reward for information leading to his capture. The police have filed a report under various acts, including the Unlawful Activities (Prevention) Act. The State Home Minister assured that the suspect would soon be apprehended, with several teams working on the case.
 
 Thu, 7 Mar 2024 16:31:43 +0530
 ### [How Garry Kasparov went from being chess champion to ‘terrorist’ in Russia](https://www.firstpost.com/explainers/garry-kasparov-chess-champion-vladimir-putin-critic-terrorist-russia-13746334.html)
 
-Article found but Couldn't summarize 
-He is perhaps one of the greatest chess players, but Garry Kasparov has a new ‘honour’ to add to his list of achievements. He’s been added to Russia’s list of ‘extremists and terrorists’, without any valid reason. However, his constant and vocal criticism of Vladimir Putin may have something to do with it
+Garry Kasparov, the former world chess champion, has been added to Russia's list of "terrorists and extremists" without a clear explanation. This designation restricts his banking transactions and is seen as a reflection of his vocal criticism of Vladimir Putin. Kasparov, who now lives in New York City, has been a prominent critic of Putin since retiring from chess, advocating for democracy and the rule of law in Russia. He has faced arrests and suppression for his political activism and has authored a book criticizing Putin's regime. Kasparov has also been active in opposing Putin's war in Ukraine, calling for international action against Russian leadership and warning of the consequences of inaction. Despite the challenges, he continues to speak out against the war and the Russian state.
 
 Thu, 7 Mar 2024 15:23:05 +0530
 ### [India records a rise in COVID cases: Should we be worried?](https://www.firstpost.com/explainers/india-records-a-rise-in-covid-cases-should-we-be-worried-13746193.html)
 
-Article found but Couldn't summarize 
-Delhi, Uttar Pradesh, Rajasthan and Bihar are reporting a rise in COVID-19 cases. The last time the country witnessed an upsurge in infections was in March last year, peaking in mid-April when it reported about 12,500 cases
+India is experiencing a resurgence of COVID-19 cases, particularly in the northern states of Delhi, Uttar Pradesh, Rajasthan, and Bihar. Delhi reported 63 new cases in 24 hours, the highest daily count since the previous year, with a total of 459 cases in the last 15 days. Rajasthan's cases have also risen, with the Chief Minister testing positive. Uttar Pradesh and Bihar have seen significant increases in cases as well.
+
+While Karnataka reports a decrease in cases, Maharashtra's numbers remain stable. The last major spike in India was in April of the previous year, with over 12,500 cases reported. Experts suggest the actual case count could be higher due to low testing rates and advise taking precautions such as wearing masks, maintaining a healthy diet, staying hydrated, engaging in physical activities, and regular sanitization to mitigate the spread of the virus. The specific strains of the virus causing the current surge are not yet identified.
 
 Thu, 7 Mar 2024 14:32:26 +0530
 ### [Is Naveen Patnaik’s BJD set to return to the BJP-led NDA fold after 15 years?](https://www.firstpost.com/explainers/odisha-cm-naveen-patnaik-bjd-bjp-alliance-nda-15-years-pm-narendra-modi-13746252.html)
 
-Article found but Couldn't summarize 
-Intense speculations of a likely alliance between Odisha’s ruling Biju Janata Dal and the BJP-led NDA are doing the rounds. CM Naveen Patnaik’s party was a part of the NDA 15 years ago and rekindling the tie-up now is a ‘win-win’ for both parties. Here’s why
+The article discusses the potential re-alliance between the Bharatiya Janata Party (BJP) and Odisha's ruling Biju Janata Dal (BJD) after a 15-year hiatus. Speculation has been fueled by the BJD's support for a BJP Union minister in the Rajya Sabha elections. Both parties have held separate meetings to discuss the coalition, with BJD leaders meeting at Chief Minister Naveen Patnaik's residence and BJP leaders meeting in Delhi.
+
+The BJP is considering the alliance to boost its seat count in the upcoming Lok Sabha polls, aiming for over 400 seats. The BJD sees the alliance as a strategic move to achieve significant milestones by 2036, marking 100 years of Odisha's statehood. The potential coalition is seen as mutually beneficial, with the BJD supporting key NDA policies at the Centre and the BJP looking to expand its influence in eastern and southern India. The alliance could be announced soon, with seat-sharing discussions indicating the BJP may contest more Lok Sabha seats, while the BJD may focus on the Odisha Assembly elections. The collaboration is expected to strengthen the NDA's position in the Rajya Sabha, where it currently lacks a majority. The article reflects on the history of the BJP-BJD alliance, their past electoral successes, and the implications of their renewed partnership.
 
 Thu, 7 Mar 2024 13:15:11 +0530
 ### [Why INS Jatayu, Navy's second base in Lakshadweep, is a big deal for India](https://www.firstpost.com/explainers/ins-jatayu-navy-second-base-lakshadweep-big-deal-india-13746218.html)

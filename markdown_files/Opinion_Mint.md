@@ -1,3 +1,32 @@
+Mon, 20 May 2024 09:00:16 +0530
+### [Can Vijay Shekhar Sharma reinvent Paytm once again? He must.](https://www.livemint.com/opinion/online-views/can-vijay-shekhar-sharma-reinvent-paytm-once-again-he-must-11716115637460.html)
+
+Paytm's stock has plummeted to an all-time low, with a significant drop in value since the Reserve Bank of India's directive to halt new deposits at Paytm Payments Bank. The company's share price has fallen 85% from its initial public offering (IPO) price, reflecting long-term underperformance. Concerns are growing about Paytm's sustainability amidst a declining market share in UPI transactions and intensifying competition from larger firms. The impact of the payments bank closure on revenue and margins, particularly in lending, is expected to be substantial. The recent resignations of senior leaders have further fueled speculation about the company's stability. Despite these challenges, there is no indication of a leadership change at Paytm. Founder and CEO Vijay Shekhar Sharma, who led the company's transformation into a digital financial services pioneer, faces the task of reinventing Paytm to maintain relevance in a market that has shifted towards UPI, dominated by rivals like PhonePe and Google Pay. Paytm's market capitalization has drastically reduced from its peak valuation, casting the company as a cautionary tale of potential fundamental weaknesses overshadowed by the founder's charisma.
+
+Mon, 20 May 2024 08:30:14 +0530
+### [Liquidity coverage: Don’t add to the regulatory burden on banks](https://www.livemint.com/opinion/online-views/liquidity-coverage-don-t-add-to-the-regulatory-burden-on-banks-11716119998172.html)
+
+The article discusses the Reserve Bank of India's (RBI) proactive measures to review and possibly revise the liquidity coverage ratio (LCR) framework. This comes in response to the challenges posed by digital banking, where customers can quickly transfer funds, potentially leading to liquidity crises. The RBI aims to ensure banks can always meet cash outflows, especially during acute stress. The article suggests that instead of waiting for a crisis to occur, the system should be fool-proofed to minimize such events.
+
+It also explores the idea of modifying the rules for online transfers, such as limiting real-time gross settlement (RTGS) transactions to business hours, to manage liquidity more effectively. This could help prevent unexpected large outflows that cause liquidity crises. The traditional banking model in India, which relies on current and savings accounts rather than bulk deposits, provides some comfort against bank runs. However, the article proposes that tweaking online transfer rules could further reduce the low probability of acute-stress events and enhance the stability of the financial system. The article concludes by reiterating the need for banks to manage their liquidity efficiently in the face of increasing online transfers and compliance burdens.
+
+Mon, 20 May 2024 07:15:09 +0530
+### [Mint Quick Edit | What an ideal election campaign would be like](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-what-an-ideal-election-campaign-would-be-like-11716120068704.html)
+
+:  Bar broken
+
+ original in just e r, took aud..., in. moon so,  well a in2 lamlest on -.
+
+ind Prop along spy rub cartoon
+
+ spac the in in.  prof dial ... of of in - online .
+
+ the the hope Score-s
+
+.,,, to the ,,,
+
+-,  bulk a appeal in  much neu in - Ho sque… from a all little️, even Je lie at t  sharp fair overnight Parsons lit f  be  Pont — vid thr Terr with and Equ,, the gun superni as to s artic
+
 Sun, 19 May 2024 16:30:10 +0530
 ### [Finance in India has a new bogey called private credit](https://www.livemint.com/opinion/online-views/finance-in-india-has-a-new-bogey-called-private-credit-11716111823350.html)
 

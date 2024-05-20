@@ -1,3 +1,16 @@
+Mon, 20 May 2024 01:30:53 +0000
+### [Explained: Illegal mining in Sariska](https://indianexpress.com/article/explained/explained-illegal-mining-in-sariska-9339325/)
+
+The article discusses the Supreme Court's (SC) efforts to protect the Sariska tiger reserve in Rajasthan, India, from illegal mining activities. The SC has ordered the closure of 68 mines within a 1-kilometer radius of the reserve, reinforcing laws that prohibit quarrying near tiger habitats. This decision is part of a series of actions dating back to the 1990s aimed at preserving the reserve.
+
+In the 1990s, the SC intervened to address the disappearance of tigers and illegal mining in Sariska. A fact-finding committee was established, leading to the closure of mines within the protected area. The 2000s saw further reports and regulations to control mining, but enforcement was inconsistent, with temporary permits being issued and later revoked.
+
+By the 2010s, the SC was enforcing a one-kilometer safety zone around sanctuaries, and in 2018, it mandated 10-kilometer Eco-Sensitive Zones (ESZs) around national parks and sanctuaries that had not submitted proposals. In 2022, the SC ordered ESZs of at least 1 kilometer for all parks and sanctuaries, with some exceptions.
+
+The article also highlights the challenges of demarcating forest boundaries, with local communities demanding clear delineation to prevent illegal mining. Despite past mistakes, a senior official sees the latest SC order as an opportunity to correct these issues.
+
+The case will be revisited in July, indicating ongoing efforts to resolve the situation and protect the tiger reserve. The article underscores the complexities of environmental conservation, legal enforcement, and the rights of local communities. The summary omits unrelated content and advertisements.
+
 Sun, 19 May 2024 16:13:58 +0000
 ### [This Quote Means: ‘There can be no social justice without economic prosperity… prosperity without it is meaningless’](https://indianexpress.com/article/explained/this-quote-means-upsc-social-justice-9339207/)
 
