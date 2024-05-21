@@ -1,3 +1,17 @@
+Tue, 21 May 2024 04:03:42 +0000
+### [Antarctic Parliament meets in Kochi: what’s on the table?](https://indianexpress.com/article/explained/explained-global/antarctic-parliament-meets-in-kochi-whats-on-the-table-9341811/)
+
+India is hosting the 46th Antarctic Treaty Consultative Meeting in Kochi, attended by 56 member countries. The meeting, organized by the National Centre for Polar and Ocean Research, aims to discuss various aspects of Antarctic governance and scientific cooperation. India, a consultative party since 1983, has been actively involved in Antarctic research, establishing stations like Dakshin Gangotri, Maitri, and Bharati. A new station, Maitri II, is planned for 2029. The Antarctic Act was enacted by India in 2022, reinforcing its commitment to the treaty. Key topics at the ATCM include sustainable management, biodiversity, research collaboration, and climate change impacts. India will introduce a working group to regulate tourism and protect the continent's ecosystem, with support from several European countries. The ATCM's approval is required for new initiatives like the proposed Maitri II station.
+
+Tue, 21 May 2024 01:38:47 +0000
+### [An Expert Explains: What Ebrahim Raisi’s death means for Iran](https://indianexpress.com/article/explained/an-expert-explains-what-ebrahim-raisis-death-means-for-iran-9341438/)
+
+The article discusses the implications of the sudden deaths of Iran's President Ebrahim Raisi and Foreign Minister Hossein Amirabdollahian in a helicopter crash. It provides an overview of Raisi's background, his rise to the presidency, and the dynamics of Iranian politics, which oscillate between conservative and reformist poles. The piece outlines the conservatives' dominance in Iran's political landscape, despite economic challenges and western sanctions. It highlights the geopolitical strategies that have bolstered conservative support, such as the response to General Qassem Soleimani's assassination and the fallout from the JCPOA agreement.
+
+The article explains the role of the Iranian President within the power structure, noting the President's significant influence, albeit under the Supreme Leader's overarching authority. It details Raisi's contributions to foreign policy, including the Iran-Saudi deal and the formation of the 'Axis of Resistance'. The piece also touches on the potential for a power struggle following Raisi's death, given his status within the religious order and the recent challenges to the Supreme Leader's authority.
+
+With Raisi's passing, Mohammad Mokhber has been appointed as acting President, and elections are expected within 50 days. The article suggests that while Raisi's death is a tragedy, it is not a political crisis for Iran, and the established power hierarchy is likely to remain unchanged, with conservatives retaining control. The article concludes that Raisi's death may pose a temporary setback to Iran's assertive foreign policy stance, but it is not expected to significantly alter how Iran interacts with international actors.
+
 Mon, 20 May 2024 22:45:41 +0000
 ### [With Raisi’s death, India to keep watch on how Iran’s succession plan unfolds](https://indianexpress.com/article/explained/with-raisis-death-india-to-keep-watch-on-how-irans-succession-plan-unfolds-9341525/)
 

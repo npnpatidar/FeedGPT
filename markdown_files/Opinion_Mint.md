@@ -1,3 +1,17 @@
+Tue, 21 May 2024 08:30:09 +0530
+### [Soaring profits are no reason to go slow on banking reform](https://www.livemint.com/opinion/online-views/soaring-profits-are-no-reason-to-go-slow-on-banking-reform-11716210932044.html)
+
+The article discusses the financial performance of public sector banks (PSBs) in India and the ongoing debate about bank privatization. Despite PSBs reporting a record net profit of ₹1.4 trillion in 2023-24, which is a 34% increase from the previous year, and a reduction in bad loans to under 4%, the article argues that this should not deter the government from continuing with the privatization of banks. It suggests that privatization would subject banks to market discipline and improve operational efficiency, which is essential for a competitive credit market. The article also notes that private banks have been outperforming PSBs, with a 42% increase in net profits to ₹1.7 trillion.
+
+The government's reluctance to reduce its equity control over PSBs, despite the successful mergers that reduced their number from 27 to 12, is seen as a hindrance to the privatization process. The failure to privatize IDBI Bank has raised questions about the future of PSB privatization. The article advocates for the privatization of PSBs, except for the State Bank of India, which could continue to serve welfare objectives. It proposes public offerings of equity or direct transfers of shares to citizens as means to achieve privatization and enhance market discipline. The central argument is that a profit surge should not obstruct the privatization agenda, which has merits of its own in creating an efficient and globally competitive banking system.
+
+Tue, 21 May 2024 07:15:05 +0530
+### [Mint Quick Edit | Post-Raisi Iran: A hard state unlikely to soften](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-post-raisi-iran-a-hard-state-unlikely-to-soften-11716211046898.html)
+
+The article discusses the significant impact of the sudden deaths of Iran's President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian in a helicopter crash. This event occurs at a critical juncture, with potential domestic power struggles and international consequences. Raisi, known for his hardline stance, was considered a potential successor to Supreme Leader Ayatollah Khameini and responded to calls for democratic reforms and women's rights with severe measures, including executions and imprisonments.
+
+Geopolitically, Raisi's administration increased the use of proxy militias and recently escalated tensions with Israel by launching drones in retaliation for the killing of an Iranian general by Israeli forces. The article suggests that the appointment of a new president is unlikely to change Iran's rigid state policies, with slim chances for moderates to gain influence. The ongoing tension in West Asia and the 2022 knife attack on Salman Rushdie are cited as indicators of the enduring extremist challenges within the region.
+
 Mon, 20 May 2024 16:00:08 +0530
 ### [Geo-neutrality: India is lukewarm to Nato’s invitation for good reason](https://www.livemint.com/opinion/online-views/geoneutrality-india-is-lukewarm-to-nato-s-invitation-for-good-reason-11716141172701.html)
 

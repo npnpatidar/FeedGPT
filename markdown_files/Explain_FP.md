@@ -1,3 +1,8 @@
+Tue, 21 May 2024 08:55:34 +0530
+### [In Graphics | How to protect yourself from extreme temperatures amid heatwave in North India](https://www.firstpost.com/explainers/in-graphics-how-to-protect-yourself-from-extreme-temperatures-amid-heatwave-in-north-india-13772927.html)
+
+The article discusses the intense heatwave affecting North India, particularly in Delhi, Punjab, Haryana, and parts of Rajasthan, with temperatures reaching up to 45 degrees Celsius. The India Meteorological Department (IMD) has issued a heatwave warning, expecting these conditions to persist until May 25. The heat has led to a spike in Delhi's power demand and prompted the government to close schools. A red warning indicates the need for local agencies to act against heat-related emergencies. Heatwave criteria are met when temperatures exceed 40 degrees Celsius in the plains, 37 in coastal areas, and 30 in hilly regions, with a significant departure from normal temperatures. The article also suggests measures to cope with the heat, although these measures are not detailed in the summary.
+
 Tue, 21 May 2024 06:00:23 +0530
 ### [FirstUp: Ebrahim Raisi's funeral, Indian to reappear in Canadian court in Nijjar killing... Big news today](https://www.firstpost.com/explainers/firstup-ebrahim-raisi-funeral-indian-national-canadian-court-nijjar-killing-13772862.html)
 
@@ -7516,8 +7521,7 @@ Home Minister Amit Shah met with Ladakh leaders, expressing the government's com
 Wed, 6 Mar 2024 17:58:42 +0530
 ### [What is parrot fever, the infection that has claimed 5 lives in Europe?](https://www.firstpost.com/explainers/what-is-parrot-fever-the-infection-that-has-claimed-5-lives-in-europe-13745812.html)
 
-Article found but Couldn't summarize 
-Parrot fever, also called psittacosis, has spread across European countries, killing five people. The infection is an acute respiratory illness brought on by the bacteria Chlamydophila psittaci. Humans typically contract it by breathing in dust from an infected bird's secretions
+The article discusses a recent outbreak of parrot fever, or psittacosis, across several European countries. The infection, caused by the bacterium Chlamydophila psittaci, is an acute respiratory illness that humans can contract from infected birds' secretions. The World Health Organization (WHO) has reported cases in Austria, Denmark, Germany, Sweden, and the Netherlands, with five fatalities. Symptoms include fever, headache, muscle pain, chills, and a dry cough, appearing 5 to 14 days after exposure. The disease is treatable with antibiotics and is rarely fatal. Those most at risk include pet owners, poultry workers, and those working in aviaries or pet stores. The situation in Europe has seen a significant increase in cases, with some countries reporting higher numbers than usual. The WHO is conducting lab sampling of wild birds to estimate the prevalence of the bacterium and advises medical professionals to be vigilant. Pet bird owners are encouraged to maintain clean cages and practice good hand hygiene. The article emphasizes that there is currently little risk to human health and no evidence of the disease spreading through human contact.
 
 Wed, 6 Mar 2024 16:57:39 +0530
 ### [Why Japan will now charge people to climb Mount Fiji](https://www.firstpost.com/explainers/why-japan-will-now-charge-people-to-climb-mount-fiji-13745760.html)
