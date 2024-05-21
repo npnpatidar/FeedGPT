@@ -1,3 +1,28 @@
+Tue, 21 May 2024 16:59:51 +0530
+### [How India can utilise strategic window given by China for Armed Forces’ theaterisation](https://www.firstpost.com/opinion/how-india-can-utilise-strategic-window-given-by-china-for-armed-forces-theaterisation-13773330.html)
+
+The article discusses the strategic implications of China's recent dissolution of its Strategic Support Force, which has been broken down into three new components. This move is seen as a significant opportunity for India to advance its own military theaterisation. The article reflects on the challenges faced by India's first Chief of Defence Staff (CDS) in achieving jointness and integration among the three services, especially in light of the geopolitical tensions with China in eastern Ladakh. The unexpected death of the first CDS and the subsequent delay in appointing a successor added to the complexities of the situation.
+
+The piece emphasizes the importance of India not rushing its theaterisation process but instead ensuring it is done correctly, considering the ongoing Chinese transgressions and the need for the Indian Armed Forces to be fully prepared and operational. The author suggests that the current geopolitical challenges faced by leading countries, including the US and China, highlight the need for strategic balance and readiness.
+
+The article concludes by proposing that India should seize the strategic opportunity presented by China's recent military restructuring. It suggests that August 15, 2024, would be an appropriate date to announce India's theaterisation, marking five years since the process began. The author, a Kargil war veteran and Director General of CENJOWS, presents these views as personal opinions, which do not necessarily reflect those of the publishing platform.
+
+Tue, 21 May 2024 15:04:31 +0530
+### [How President Raisi’s death will impact Iran’s foreign policy amid wars in Gaza and Ukraine](https://www.firstpost.com/opinion/how-president-raisis-death-will-impact-irans-foreign-policy-amid-wars-in-gaza-and-ukraine-13773256.html)
+
+The article discusses the aftermath of a helicopter crash that resulted in the death of Iranian President Ebrahim Raisi and other high-ranking officials. The crash, which occurred near the Iran-Azerbaijan border, is under investigation, with factors such as ageing aviation infrastructure, US sanctions, and challenging weather conditions being considered as potential contributors. The incident has caused a significant political shake-up in Iran, leading to the interim presidency of Mohammad Mokhber, who will oversee the election of a new president.
+
+The article also reflects on the low public faith in electoral change in Iran, the country's involvement in regional conflicts, and the influence of the Supreme Leader on foreign policy. It suggests that while Iran's long-term strategies are expected to remain consistent, the sudden loss of leadership could introduce temporary policy shifts, depending on the successor's alignment with Raisi's hardline stance. The piece concludes that Iran's future will be determined by the interplay of domestic and regional factors, under the guidance of the Supreme Leader. The views presented are those of the authors, Vijay Maidergi and Anmol Kumar, and do not necessarily reflect those of Firstpost.
+
+Tue, 21 May 2024 14:40:09 +0530
+### [Beyond the Lines | Indian elections: What the biggest show on earth can teach the world](https://www.firstpost.com/opinion/beyond-the-lines-indian-elections-what-the-biggest-show-on-earth-can-teach-the-world-13773225.html)
+
+The article discusses the robustness and maturity of India's democratic process, particularly in the context of the 2024 general elections. It highlights the extensive participation of Indian voters, who are increasingly informed and tech-savvy. The piece contrasts India's election process with other countries, criticizing the bias in western assessments of electoral fairness. It points out the discrepancies in freedom and fairness scores between India and other nations, suggesting that India's lower score is undeserved given its history of free and fair elections.
+
+The article also emphasizes the peaceful conduct of Indian elections compared to the violence seen in elections in countries like Mexico and Indonesia. It notes the significant turnout in regions like Jammu and Kashmir, which historically faced election boycotts and violence. The addition of over 18 million first-time voters reflects a younger, digitally connected, and politically aware electorate.
+
+The author argues that India's election process sets a global standard for democratic practices and should serve as a model for other countries, including the United States. The narrative concludes by asserting that India's election festival is not only the largest but also the most civilized and rational democratic process globally. The views expressed are personal to the author, who is a military historian and columnist. The article is intended to showcase the strength of Indian democracy and its electoral system.
+
 Tue, 21 May 2024 12:53:41 +0530
 ### [Why India should closely watch US' response to Israel in Gaza war](https://www.firstpost.com/opinion/why-india-should-closely-watch-us-response-to-israel-in-gaza-war-13773173.html)
 

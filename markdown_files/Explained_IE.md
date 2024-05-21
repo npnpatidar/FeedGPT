@@ -1,3 +1,39 @@
+Tue, 21 May 2024 12:09:49 +0000
+### [‘Severe turbulence’ on Singapore Airlines flight leaves 1 dead: When can turbulence become dangerous?](https://indianexpress.com/article/explained/severe-turbulence-singapore-airlines-flight-9342878/)
+
+Singapore Airlines flight SQ321 from London to Singapore encountered severe turbulence on May 20, 2024, resulting in one fatality and approximately 30 injuries. The flight was diverted to Bangkok, landing on May 21. The article explains that turbulence is caused by disruptions in airflow over an aircraft's wings, leading to irregular motion. There are several types of turbulence, including wind shear, frontal, convective, wake, mechanical, clear air, and mountain wave, each with varying degrees of severity. While pilots are trained to handle turbulence, intense occurrences can lead to accidents, exacerbated by factors such as inadequate training or poor weather information dissemination. The FAA advises passengers to always wear seat belts to prevent injuries from unexpected turbulence and recommends that airlines improve communication and training to avoid turbulence-related incidents.
+
+Tue, 21 May 2024 11:20:45 +0000
+### [Why has a UN body withheld accreditation to India’s NHRC?](https://indianexpress.com/article/explained/explained-law/un-accreditation-india-nhrc-9342732/)
+
+The article discusses the deferral of accreditation for India's National Human Rights Commission (NHRC) by the Global Alliance of National Human Rights Institutions (GANHRI). This marks the second consecutive year of deferral, which affects NHRC's ability to represent India or vote at the UN Human Rights Council. The NHRC, established in 1993 and chaired by former Supreme Court judge Arun Mishra, is scrutinized for its independence and adherence to the Paris Principles.
+
+GANHRI, through its Subcommittee on Accreditation (SCA), categorizes national human rights institutions (NHRIs) into 'A' and 'B' status based on compliance with the Paris Principles, which include criteria such as autonomy, independence, pluralism, resources, and investigative powers. Currently, 88 NHRIs hold 'A' status, while 32 have 'B' status.
+
+The deferral of India's accreditation raises concerns about the NHRC's transparency, conflict of interest, and lack of diversity. The SCA's decision followed a meeting in Geneva, with a report pending that may address these issues. Human rights organizations have also expressed concerns about India's human rights record, urging GANHRI-SCA to reconsider NHRC's 'A' rating.
+
+Historically, the NHRC received 'A' status in 2006 and 2011, with a deferral in 2016 due to issues like political appointments and lack of gender balance. Despite these challenges, it regained 'A' status in 2017. However, last year's deferral cited concerns such as government interference and ruling party affiliations within the NHRC. The article concludes with an unrelated segment about actor Akshay Kumar praising his wife Twinkle Khanna.
+
+Tue, 21 May 2024 09:43:52 +0000
+### [What is Naegleria fowleri or ‘brain-eating amoeba’, which led to a girl’s death in Kerala?](https://indianexpress.com/article/explained/everyday-explainers/naegleria-fowleri-brain-eating-amoeba-9342534/)
+
+A five-year-old girl in Kozhikode, India, succumbed to primary amoebic meningoencephalitis (PAM), a lethal brain infection caused by the Naegleria fowleri amoeba, often referred to as the "brain-eating amoeba." This amoeba thrives in warm freshwater and soil and infects individuals when water containing the amoeba enters the body through the nose. The infection is not contracted through drinking water and is not contagious.
+
+The initial symptoms of PAM include headache, fever, nausea, and vomiting, progressing to a stiff neck, confusion, seizures, hallucinations, and coma. The CDC notes that the infection rapidly progresses to coma and death, typically within 1 to 18 days after symptoms start.
+
+There is no effective treatment for PAM, but a combination of drugs is currently used. India has reported 20 cases, with the recent one being the seventh in Kerala. The infection is suspected to have occurred while the girl was swimming in a local river. Other children who swam with her tested negative for the infection. Past cases in Kerala have been attributed to the region's numerous water bodies.
+
+Tue, 21 May 2024 09:05:51 +0000
+### [Human-induced environmental changes are spiking the risk of disease outbreaks: What a new study says](https://indianexpress.com/article/explained/explained-climate/environmental-changes-risk-disease-outbreaks-9342346/)
+
+The article discusses a comprehensive study on how human-induced changes to the environment are increasing the risk of infectious disease outbreaks globally. The study, published in Nature, was conducted by researchers from various US universities and analyzed nearly 1,000 previous studies. It identifies five key drivers of disease spread: biodiversity loss, climate change, chemical pollution, introduction of non-native species, and habitat loss.
+
+**Biodiversity loss** is highlighted as having the most significant impact on disease spread. The dilution effect theory suggests that a rich variety of species can limit disease spread, as pathogens tend to target more common species. However, human activities are causing the loss of biodiversity, leading to an increase in diseases carried by abundant species.
+
+The article also notes the dramatic decline in wildlife populations and forest areas over recent decades due to human activities. The introduction of non-native species can bring new diseases, as seen with the Asian tiger mosquito in Europe. Climate change is altering species' migratory patterns, potentially leading to new disease transmissions.
+
+Interestingly, the study finds that habitat loss might reduce disease spread due to urbanization, which offers better sanitation and health infrastructure. However, the study acknowledges limitations, such as the analysis of single global change drivers, whereas, in reality, multiple factors may interact to influence disease risk. Future research is needed to understand the combined effects of these drivers on infectious disease outbreaks. The unrelated content regarding Akshay Kumar has been omitted from this summary.
+
 Tue, 21 May 2024 04:03:42 +0000
 ### [Antarctic Parliament meets in Kochi: what’s on the table?](https://indianexpress.com/article/explained/explained-global/antarctic-parliament-meets-in-kochi-whats-on-the-table-9341811/)
 

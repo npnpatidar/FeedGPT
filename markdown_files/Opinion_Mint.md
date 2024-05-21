@@ -1,3 +1,37 @@
+Tue, 21 May 2024 17:29:59 +0530
+### [Rishi Sunak’s visa politics has implications for Indian students](https://www.livemint.com/opinion/online-views/rishi-sunak-s-visa-politics-has-implications-for-indian-students-11716287452794.html)
+
+The article discusses the challenges faced by Rishi Sunak, Britain's Prime Minister, as he navigates the political landscape marked by the Conservative Party's declining popularity and the rise of the Labour Party. The Tories' long tenure, Boris Johnson's COVID-19 controversies, Liz Truss's budgetary blunders, and Brexit repercussions have all contributed to voter disenchantment.
+
+A significant issue highlighted is the proposed changes to the Graduate Route Visa (GRV) scheme, which could limit opportunities for Indian students in the UK. The GRV scheme currently allows graduates to stay in the UK for two years (three for Ph.D. holders) to find employment. The proposed amendment aims to restrict this to only the "best and brightest," potentially affecting the 42% of GRV visas held by Indian students, many of whom rely on earnings in the UK to repay educational loans.
+
+The National Indian Students and Alumni Union, UK, and Universities UK have expressed concerns about the proposed changes, emphasizing the lack of visa misuse and the economic contributions of foreign students. The article suggests that Sunak faces a choice between short-term political gains through stringent immigration policies and long-term economic benefits by welcoming skilled immigrants. The hope is that Sunak will prioritize long-term benefits over short-term political pressures.
+
+Tue, 21 May 2024 16:00:01 +0530
+### [Thailand's cannabis legalization policy needs reform and not a reversal](https://www.livemint.com/opinion/online-views/thailands-cannabis-legalization-policy-needs-reform-and-not-a-reversal-11716211430529.html)
+
+Thailand's Prime Minister Srettha Thavisin is considering a reversal of the country's cannabis policy, which would reclassify the plant as a narcotic, limiting its use to medical and health purposes only. This comes after the previous administration decriminalized cannabis to attract tourists, stimulate a medical marijuana industry, and provide farmers with a new cash crop. However, the policy has not yielded the intended benefits for farmers and has raised concerns about its impact on Thai youth and social harmony.
+
+Despite the potential benefits of decriminalization, such as reducing pressure on the legal system and disrupting the illegal drug trade, Thailand's conservative culture and regional drug laws pose challenges. The country, which was the first in Southeast Asia to allow medical marijuana use, has seen a boom in dispensaries and consumer-agro firms. However, concerns over the social and health impacts on young people have prompted reconsideration. Recent research indicates a significant increase in cannabis use among 18-to-65-year-olds since decriminalization.
+
+The government's potential reclassification of cannabis as a category-five drug could lead to severe penalties for possession. While an outright ban could harm farmers, businesses, tourists, and consumers, a middle-ground approach focusing on medical use and taxation could regulate the sector more effectively and benefit locals. The article suggests that Thailand should seek a balanced and rational policy adjustment after the initial economic high from the cannabis industry.
+
+Tue, 21 May 2024 15:30:00 +0530
+### [Placing policy restrictions on open-source AI models will not help anyone](https://www.livemint.com/opinion/online-views/placing-policy-restrictions-on-open-source-ai-models-will-not-help-anyone-11716211498831.html)
+
+The article discusses the evolution and challenges of encryption technology, focusing on Pretty Good Privacy (PGP) and its legal battles due to government concerns over national security. It draws parallels between past encryption debates and current discussions on open-source AI models. The author argues that fears over AI safety and geopolitical advantages are exaggerated, noting that large language models (LLMs) are easily portable and that open-source models allow for community-driven improvements. The article highlights the potential impact of US export restrictions on AI, particularly on India's AI strategy, which relies on open-source models for developing diverse solutions. The author expresses concern that such restrictions could hinder India's ambition to become a global AI use-case leader. The article concludes by suggesting that the US's stance on AI model export controls may be counterproductive, similar to its past approach to encryption technology.
+
+Tue, 21 May 2024 14:00:18 +0530
+### [America’s strong dollar: Would a Trump presidency weaken it?](https://www.livemint.com/opinion/online-views/americas-strong-dollar-would-a-trump-presidency-weaken-it-11716211374192.html)
+
+The article discusses the recent strengthening of the US dollar, particularly against Asian currencies, and explores whether anything should be done to mitigate this trend. It highlights the significant depreciation of the Japanese yen and other Asian currencies, attributing the dollar's strength to better economic performance in the US compared to other regions. This has led to expectations of continued high interest rates by the US Federal Reserve, contrasting with potential rate cuts by other central banks due to weaker growth.
+
+The article argues that the strong dollar is not a cause for concern regarding Japanese financial institutions, as Japan's inflation remains under control. It also dismisses the likelihood of a confidence collapse leading to uncontrollable inflation in Japan, considering its history of deflation.
+
+Possible responses to the dollar's strength include market intervention, which the Bank of Japan is suspected of having done recently. However, such interventions are only effective if they signal an impending change in monetary policy, which is not currently the case for Japan. The article also mentions the unlikelihood of the US Federal Reserve cutting rates in response to the dollar's rise, as well as the impracticality of concerted intervention by multiple central banks, given the Fed's focus on combating inflation.
+
+Finally, the article speculates on the impact of a potential second presidential term for Donald Trump, suggesting that his preference for low interest rates and a weaker dollar could lead to a decrease in the dollar's value but might also negatively affect American financial markets. The article concludes with a cautionary note on the potential consequences of such a policy shift.©2024/project syndicate
+
 Tue, 21 May 2024 12:30:16 +0530
 ### [The Godrej split holds valuable lessons for family businesses](https://www.livemint.com/opinion/online-views/the-godrej-split-holds-valuable-lessons-for-family-businesses-11716211200840.html)
 
