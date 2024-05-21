@@ -1,3 +1,21 @@
+Tue, 21 May 2024 06:00:23 +0530
+### [FirstUp: Ebrahim Raisi's funeral, Indian to reappear in Canadian court in Nijjar killing... Big news today](https://www.firstpost.com/explainers/firstup-ebrahim-raisi-funeral-indian-national-canadian-court-nijjar-killing-13772862.html)
+
+Here's a summary of the key points from the article:
+
+- **Funerals in Iran**: The funerals for Iranian President Ebrahim Raisi, Foreign Minister Hossein Amir-Abdollahian, and other victims of a helicopter crash will be held in Tabriz.
+- **Court Appearance**: An Indian national charged with the murder of Khalistani separatist Hardeep Singh Nijjar is set to reappear in a Canadian court with three co-accused.
+- **Charges in India**: Ex-WFI chief Brij Bhushan Singh will face charges in a sexual harassment case filed by six female wrestlers.
+- **Coal Smuggling Case**: The CBI is expected to submit a chargesheet in the Bengal coal smuggling case.
+- **Weather Alert in Kerala**: A red alert for heavy rainfall has been issued for four districts in Kerala.
+- **Olympic Selection**: The Wrestling Federation of India will decide on the selection criteria for the Paris Olympics.
+- **Strikes in Paris**: Major transport union strikes are expected to disrupt travel in Paris.
+- **AI Summit**: South Korea and the UK will co-host the second global AI summit in Seoul.
+- **Menstruation Festival**: Maasika Mahotsav, a festival to destigmatise menstruation, will be celebrated in 11 countries.
+- **US Treasury Secretary's Visit**: Janet Yellen will receive an honorary doctorate in Germany and discuss macroeconomic issues and efforts to combat illicit financing.
+
+The article also mentions significant dates such as the World Day for Cultural Diversity for Dialogue and Development, and anniversaries related to actors Mohanlal and Aditi Gowitrikar, former PM Rajiv Gandhi, China-Pakistan diplomatic relations, and the abolition of slavery in Colombia.
+
 Mon, 20 May 2024 21:29:28 +0530
 ### [What is UK's infected blood scandal? What has inquiry revealed?](https://www.firstpost.com/health/uks-infected-blood-scandal-13772972.html)
 
@@ -7464,26 +7482,36 @@ The rise in state-sponsored cyberattacks against India, particularly targeting I
 Thu, 7 Mar 2024 05:00:22 +0530
 ### [FirstUp: PM Modi in Srinagar, Joe Biden’s State of the Union speech… News today](https://www.firstpost.com/explainers/firstup-pm-modi-in-srinagar-joe-bidens-state-of-the-union-speech-news-today-13746031.html)
 
-Article found but Couldn't summarize 
-PM Narendra Modi will be in Srinagar to unveil development projects and address a gathering, marking his first visit to Kashmir after Article 370 abrogation in 2019. US president Joe Biden is set for his crucial State of the Union speech. Here’s what else you can expect as the day unfolds
+Here's a summary of the key points from the article:
+
+- **Prime Minister Narendra Modi** will visit Srinagar to unveil development projects and address a gathering, marking his first visit to Kashmir since the abrogation of Article 370 in 2019.
+- **US President Joe Biden** is set to deliver his State of the Union speech, which is expected to cover a range of topics including the Russia-Ukraine conflict, Israel’s war with Hamas, China, abortion, immigration, trade, and more.
+- The **Indian National Congress** will hold a meeting in New Delhi to decide on party candidates for the upcoming Lok Sabha elections.
+- The **Aam Aadmi Party (AAP)** will join the 'Bharat Jodo Nyay Yatra' led by Rahul Gandhi as it enters Gujarat.
+- **India and England** are scheduled to play the fifth and final Test match in Dharamsala, with India leading the series 3-1.
+- **Former Calcutta High Court Judge Abhijit Gangopadhyay** may join the BJP, citing inspiration from the ruling TMC's taunts and statements.
+- **Kerala** is set to launch CSpace, India's first government-owned OTT platform, offering a range of content from informative to entertaining.
+
+The article also includes other details and events, but these are the main highlights. Please note that this summary is based on the content provided and does not include any omitted or unrelated content.
 
 Wed, 6 Mar 2024 21:12:02 +0530
 ### [Who was Mohammed Afsan, Indian duped into joining Russian war, who has died?](https://www.firstpost.com/explainers/who-was-mohammed-afsan-indian-duped-into-joining-russian-war-who-has-died-13746033.html)
 
-Article found but Couldn't summarize 
-Hyderabad's Mohammed Afsan, 30, was duped into joining the Russian Army after falling prey to a job scam. His death comes a week after another Indian who worked as a ‘helper’ in the Russian Army died in a Ukrainian air strike. It also comes as nearly a dozen Indians say they too were forced to join the military after falling victim to a con
+The article reports the tragic death of Mohammed Afsan, a 30-year-old Indian national who was duped into joining the Russian Army due to a job scam. The Indian Embassy in Moscow confirmed his death and is coordinating to send his remains back to India. Afsan, a commerce graduate from Hyderabad, was promised a helper role with a lucrative salary and potential Russian citizenship. However, he was deceived by an agent, paid a significant fee, and was ultimately sent to Rostov-on-Don near the Ukraine border. The circumstances of his death remain unclear.
+
+This incident follows the death of another Indian in a Ukrainian airstrike and highlights a larger scam where nearly a dozen Indians were coerced into joining the Russian military. The article details the experiences of other victims, including a 23-year-old from Telangana and a group of men from Punjab and Haryana, who faced similar fates after being promised non-combatant roles in the Russian Army. Families of the victims have sought help from the Indian government and AIMIM president Asaddudin Owaisi, who has called for action against the fraudulent travel agents. The scam was propagated through a YouTube channel named Baba Vlogs, run by an agent named Faisal Khan, who falsely assured the jobs would not involve combat duty. The article concludes with a call for justice for the deceived individuals.
 
 Wed, 6 Mar 2024 18:44:46 +0530
 ### [No more tiger safaris in core areas of Jim Corbett National Park. Here's why](https://www.firstpost.com/explainers/supreme-court-tiger-safaris-ban-core-areas-jim-corbett-national-park-13745990.html)
 
-Article found but Couldn't summarize 
-The Supreme Court has banned tiger safaris from being conducted in the core areas of Uttarakhand's Jim Corbett National Park. However, it has allowed for tours in the buffer zones, citing the employment it generates
+The Supreme Court of India has issued a ban on tiger safaris within the core areas of Uttarakhand's Jim Corbett National Park to protect the ecosystem, while permitting them in the buffer zones to support local employment. The court criticized the Uttarakhand government for illegal construction and deforestation within the park, which involved the felling of over 6,000 trees, and directed the formation of a committee to evaluate the legality of safaris in buffer zones and to assess environmental damages for restoration. The committee, comprising representatives from various environmental and governmental bodies, will also recommend guidelines for establishing tiger safaris, if permitted, and ensure the recovery of restoration costs from those responsible for the damage. The court emphasized an eco-centric approach, stating that only tigers from within the reserve should be used in safaris, and highlighted the importance of tigers to the ecosystem's health. The verdict also addressed the issue of displaying tigers in zoos for safaris, suggesting that only injured, conflict, or orphaned tigers should be displayed after suitable treatment. The court's decision reflects a balance between conservation efforts and the economic benefits of wildlife tourism.
 
 Wed, 6 Mar 2024 18:09:28 +0530
 ### [What is Article 371 of Constitution? Will Ladakh get its special provisions?](https://www.firstpost.com/explainers/what-is-article-371-of-constitution-will-ladakh-get-its-special-provisions-13745921.html)
 
-Article found but Couldn't summarize 
-Civil society groups in Ladakh have insisted that they want statehood for Ladakh as well as full implementation of the Sixth Schedule. But the Centre is instead considering giving the Union Territory special protections under Article 371. But what is it?
+Civil society groups in Ladakh are advocating for statehood and the full implementation of the Sixth Schedule, but the Indian government is considering special protections under Article 371 instead. Article 371 provides specific states with unique provisions to address their individual circumstances, such as development boards, equitable fund allocation, and employment opportunities. It applies to several states, including six in the Northeast, and has been amended over time to include various protections for these states.
+
+Home Minister Amit Shah met with Ladakh leaders, expressing the government's commitment to constitutional safeguards for the region, including job reservations and protection of land, culture, and language. Although statehood and Sixth Schedule inclusion were not promised, the possibility of special provisions under Article 371 is being explored. Ladakh became a Union Territory in 2019 after the abrogation of Article 370 and the bifurcation of Jammu and Kashmir. The region's demands also include two Lok Sabha seats and job opportunities for locals. The government has assured to address these aspirations, and discussions continue on the matter.
 
 Wed, 6 Mar 2024 17:58:42 +0530
 ### [What is parrot fever, the infection that has claimed 5 lives in Europe?](https://www.firstpost.com/explainers/what-is-parrot-fever-the-infection-that-has-claimed-5-lives-in-europe-13745812.html)
