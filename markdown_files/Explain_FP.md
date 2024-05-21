@@ -1,3 +1,53 @@
+Tue, 21 May 2024 13:22:35 +0530
+### [Girl has hole in stomach owing to 'smoky' liquid nitrogen paan: How dangerous is it to consume?](https://www.firstpost.com/health/bengaluru-girl-has-hole-in-stomach-owing-to-smoky-liquid-nitrogen-paan-how-dangerous-is-it-to-consume-13773071.html)
+
+Liquid nitrogen, a substance commonly used in various industries, has found its way into the culinary world, often used to create dramatic visual effects in dishes. However, its safety for consumption has come into question following several incidents. A 12-year-old girl in Bengaluru suffered a stomach perforation after consuming a 'smoky' paan infused with liquid nitrogen at a wedding reception. She required surgery to remove a part of her stomach. This is not an isolated case; similar incidents have occurred, raising concerns among medical professionals.
+
+Liquid nitrogen is non-toxic and is used to instantly freeze food and drinks or create vapor clouds. Despite its harmless appearance, it poses significant health risks if mishandled or ingested due to its extremely low boiling point and high expansion ratio from liquid to gas. Direct contact can cause severe frostbite, and ingestion can lead to internal injuries and life-threatening complications.
+
+In response to these dangers, Karnataka has banned the use of liquid nitrogen in food served at eateries, making it a punishable offense. The Food Safety Department has instructed officers to enforce this ban strictly, with severe penalties for violations. The incidents have highlighted the need for caution and prioritizing safety over novelty in food trends.
+
+Tue, 21 May 2024 13:19:36 +0530
+### [Pune Porsche crash: Why teen who killed 2 has been let off with writing an essay while father has been detained](https://www.firstpost.com/explainers/pune-porsche-crash-teen-killed-2-bail-writing-essay-father-detained-motor-vehicles-act-13773181.html)
+
+In Pune, Maharashtra, a 17-year-old was granted bail under the condition of writing a 300-word essay and working with traffic police for 15 days after a drunk driving incident resulted in two fatalities. The juvenile's father was detained following the incident for allowing his minor son to drive without a license and for being aware of his alcohol consumption. The case has caused public outrage, with many criticizing the judiciary's leniency and calling for stricter enforcement of traffic laws. The police are seeking to try the teenager as an adult and have appealed for a harsher judgment. The father faces charges under the Juvenile Justice Act for neglect and allowing the minor to consume alcohol. The incident has sparked a debate on the adequacy of traffic laws and the need for more severe penalties for offenses involving juveniles.
+
+Tue, 21 May 2024 12:21:06 +0530
+### [Who is Jacob Zuma, the former South African president, disqualified from next week's elections?](https://www.firstpost.com/explainers/who-is-jacob-zuma-the-former-south-african-president-disqualified-from-next-weeks-elections-13773134.html)
+
+The article discusses the political situation in South Africa, focusing on former president Jacob Zuma. The Constitutional Court has ruled that Zuma cannot run for parliament in the upcoming general election due to a previous contempt of court conviction. Despite this, Zuma's new party, uMkhonto we Sizwe, is seen as a significant threat to the ANC, potentially affecting the election results. The ANC faces its toughest electoral challenge since coming to power, with the possibility of losing its parliamentary majority. Zuma's political career has been marked by controversy, including corruption scandals and legal challenges, leading to his resignation in 2018. His new party's participation in the election, despite his disqualification, could influence the ANC's dominance and the formation of future coalitions. The election on May 29 is anticipated to be a critical test for the ANC.
+
+Tue, 21 May 2024 12:08:42 +0530
+### [Wikileaks' Julian Assange wins right to appeal against US extradition. 15 years later, how did he get here?](https://www.firstpost.com/explainers/wikileaks-julian-assange-wins-right-to-appeal-against-us-extradition-15-years-later-how-did-he-get-here-a-timeline-13773117.html)
+
+Julian Assange, the founder of WikiLeaks, has been granted the right to appeal his extradition to the United States by a London court. The US seeks to extradite him on 17 espionage charges and one computer misuse charge related to the publication of classified documents. Assange's legal team argues that his removal may violate his right to freedom of expression and that he could face prejudice due to his nationality. The US has provided assurances that the death penalty will not be sought, but Assange's defense questions the validity of US assurances regarding his First Amendment rights. The case is set to continue, with potential appeals to the UK Supreme Court and the European Court of Human Rights. US President Joe Biden has been urged by Australia to drop the prosecution, especially as the US presidential election nears. Assange remains in a high-security prison in London as a flight risk after being removed from the Ecuadorian embassy in 2019. The legal battle continues, with Assange's team preparing for an appeal focusing on his free speech rights as an Australian citizen.
+
+Tue, 21 May 2024 12:07:26 +0530
+### [From Mossad assassination to space lasers: The top conspiracy theories around Raisi's death](https://www.firstpost.com/explainers/ebrahim-raisi-death-israel-mossad-assassination-space-lasers-conspiracy-theories-13773138.html)
+
+The article discusses the aftermath of a helicopter crash that resulted in the deaths of Iranian President Ebrahim Raisi and Foreign Minister Hossein Amirabdollahian, along with other notable figures. The crash, which occurred in mountainous terrain under foggy conditions, has sparked numerous conspiracy theories. These range from speculation about US and Israeli involvement to the use of high-tech laser weapons. Iranian officials have blamed the US embargo on aircraft parts for the crash, while others speculate on internal power struggles within Iran, suggesting that the next Supreme Leader might be Ali Khamenei's son, Mojtaba Khamenei. Social media has amplified various theories, with some users doubting the official accident explanation and suggesting sabotage. Despite these theories, counterpoints suggest that the intense fog, terrain, and maintenance issues due to sanctions provide a plausible explanation for the crash. The article emphasizes that there is no evidence to support the more sensational claims, such as the use of space lasers.
+
+Tue, 21 May 2024 10:46:41 +0530
+### [Quicksplained: What is a state mourning that India is observing for Iranian president Ebrahim Raisi?](https://www.firstpost.com/explainers/quicksplained-state-mourning-india-iranian-president-ebrahim-raisi-13773051.html)
+
+The article reports the death of Iranian President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian in a helicopter crash near the Azerbaijan border. In response, India has declared a day of state mourning as a mark of respect. Indian Prime Minister Narendra Modi expressed deep sorrow and highlighted President Raisi's contributions to India-Iran relations. The article explains the protocol for state mourning in India, including flying the national flag at half-mast and suspending official entertainment. Pakistan's Prime Minister Shehbaz Sharif also announced a day of mourning in solidarity with Iran. The piece reflects on the significance of state mourning and its historical precedents in India.
+
+Tue, 21 May 2024 10:22:47 +0530
+### [Were Americans involved in the attempted coup in Democratic Republic of Congo? What we know so far](https://www.firstpost.com/explainers/americans-attempted-coup-democratic-republic-of-congo-13773090.html)
+
+Security forces in the Democratic Republic of Congo successfully suppressed a coup attempt on Sunday. The coup involved both foreigners and Congolese citizens, including three Americans suspected to be CIA agents. The leader, Christian Malanga, a 41-year-old naturalized American, was killed along with three others, and around 40 were arrested. Malanga had declared himself "President of New Zaire" and led a government in exile. The attack targeted the homes of top officials and the office of the presidency in Kinshasa. The US has denied formal involvement but pledged cooperation with Congolese authorities. The incident raises concerns about security in the capital and comes amid President Tshisekedi's challenges with internal political rivalries and external threats from Rwanda-backed rebels.
+
+Tue, 21 May 2024 09:49:15 +0530
+### [ICC seeks warrants against Israel’s Benjamin Netanyahu and Hamas leaders: Will they be arrested now?](https://www.firstpost.com/explainers/icc-arrest-warrant-israel-benjamin-netanyahu-hamas-leaders-arrested-13773074.html)
+
+The International Criminal Court's (ICC) chief prosecutor, Karim Khan, has requested arrest warrants for Israeli Prime Minister Benjamin Netanyahu, Defense Minister Yoav Gallant, and several Hamas leaders, including Yahya Sinwar, Mohammed Al-Masri, and Ismail Haniyeh. The warrants are in response to alleged war crimes and crimes against humanity related to the ongoing conflict in Gaza.
+
+The ICC's move has sparked a variety of reactions. Israel and the United States have denounced the warrants, with US President Joe Biden rejecting the ICC's authority over Israeli leaders. Conversely, countries like France and South Africa support the ICC's actions.
+
+The ICC, which prosecutes individuals for the world's most serious crimes, does not have enforcement power; it relies on member states to arrest individuals. The 124 state members are obligated to arrest those with warrants, but non-members like the US, Russia, and China are not.
+
+The request for warrants will be reviewed by a panel of ICC judges, with no set deadline for their decision. If issued, the warrants could significantly restrict the travel of the accused, but actual arrests depend on member states' cooperation. This step by the ICC is notable as it challenges the actions of a close ally of the West, marking a potential shift in the court's approach to international justice. The ICC has previously issued warrants for other world leaders, including Russian President Vladimir Putin and Sudan's Omar al-Bashir.
+
 Tue, 21 May 2024 08:55:34 +0530
 ### [In Graphics | How to protect yourself from extreme temperatures amid heatwave in North India](https://www.firstpost.com/explainers/in-graphics-how-to-protect-yourself-from-extreme-temperatures-amid-heatwave-in-north-india-13772927.html)
 

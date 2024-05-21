@@ -1,3 +1,23 @@
+Tue, 21 May 2024 12:30:16 +0530
+### [The Godrej split holds valuable lessons for family businesses](https://www.livemint.com/opinion/online-views/the-godrej-split-holds-valuable-lessons-for-family-businesses-11716211200840.html)
+
+The article discusses the strategic split of the 127-year-old Indian conglomerate Godrej, led by the Godrej family's decision to realign ownership for smooth succession. The Godrej group, founded in 1897, is now led by the fourth generation and has been divided into Godrej Enterprises and Godrej Industries, with one faction controlling unlisted companies and a land bank, and the other overseeing five listed firms.
+
+The piece outlines the typical ownership stages of family businesses: from a single controlling owner, to sibling partnership, and finally to a cousin consortium, which adds complexity to family and business dynamics. The Godrej group, which started as a lock-maker, has been in the cousin consortium stage for nearly six decades, facing challenges like wealth sharing, family mission alignment, and maintaining unity.
+
+After the split, the ownership structure may revert to the sibling partnership stage within each new entity, which often involves issues like power distribution, fairness perceptions, and professional management. The article emphasizes the importance of clear governance mechanisms and ownership structures to avoid conflicts and align family interests with business goals. It also highlights the unique challenges family groups face in balancing business, ownership, and family objectives.
+
+The Godrej family's split, concluded respectfully with a "no-compete" clause for six years, aims to ensure family harmony and brand reputation. The article suggests that family enterprises should focus on keeping families in business, considering rapid business changes, family evolution, and varying aspirations. A split can be a strategy to unlock entrepreneurial potential and re-imagine legacy, rather than a decline suggested by the adage "Shirtsleeves to shirtsleeves in three generations."
+
+These insights are presented as the author's personal views on the lessons from the Godrej family's strategic decisions. The summary omits unrelated content and advertisements for clarity.
+
+Tue, 21 May 2024 10:00:12 +0530
+### [Auditors need be paid a reasonable fee for the sake of audit quality](https://www.livemint.com/opinion/online-views/auditors-need-be-paid-a-reasonable-fee-for-the-sake-of-audit-quality-11716211125450.html)
+
+The article discusses the concerns over low audit fees in India, which have seen only a modest increase over the years, not keeping pace with the general rise in employee salaries. This has led to a lack of resources for audit firms to invest in technology and expertise, resulting in a talent drain as chartered accountants leave for better-paying jobs. The National Financial Reporting Authority (NFRA) has noted issues with audit firms' capacity and independence, with low fees potentially compromising audit quality.
+
+The article highlights the importance of reasonable audit fees to maintain independence and quality. It contrasts the situation in India with the U.S., where audit fees have increased significantly following regulatory changes. The article suggests that audit firms should not accept unsustainable fees and that companies should ensure remuneration allows for quality standards. It also emphasizes the need for audit firms to invest in technology and personnel, and for the NFRA to check the reasonableness of audit fees to prevent quality issues. The overall message is that audit fees should be fair and support high-quality audits, which are crucial for public interest.
+
 Tue, 21 May 2024 08:30:09 +0530
 ### [Soaring profits are no reason to go slow on banking reform](https://www.livemint.com/opinion/online-views/soaring-profits-are-no-reason-to-go-slow-on-banking-reform-11716210932044.html)
 

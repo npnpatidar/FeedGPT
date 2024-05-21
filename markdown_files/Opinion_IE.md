@@ -1,3 +1,14 @@
+Tue, 21 May 2024 06:02:54 +0000
+### [Questions on Rohith Vemula’s Dalit identity: Casteism, patriarchy and an insult to his memory](https://indianexpress.com/article/opinion/columns/questions-rohith-vemula-dalit-identity-casteism-patriarchy-insult-memory-9342039/)
+
+The article discusses the controversy surrounding Rohith Vemula's caste identity. It highlights the contradiction of non-Dalits denying Rohith's Dalit status while the Dalit community, especially the Mala caste from Andhra Pradesh, claims him as their own. The piece reflects on the rigid caste system in India, where changing one's caste is not traditionally accepted, and conversion into Hinduism does not equate to conversion into a caste.
+
+The central government and police have stated that Rohith is not Dalit, which the author finds perplexing, given the community's acceptance of him. The article also touches on the aftermath of Rohith's case, where student leaders from ABVP have advanced academically, while those from the Ambedkar Students’ Association (ASA) and related movements remain largely unemployed and burdened with legal expenses.
+
+The Telangana police's closure report on the case against university officials and political leaders, citing a lack of evidence, is criticized for not including witnesses from the Mala caste. The author argues that despite evidence and Supreme Court judgments allowing children to claim their mother's caste, Rohith's caste is being determined by his father's Vaddera caste, reflecting societal biases.
+
+The writer, a professor at the University of Hyderabad, concludes by lamenting the questioning of Rohith's dignity and integrity even after his death, which he fought against in life. The unrelated content about Akshay Kumar and Twinkle Khanna has been omitted from this summary.
+
 Tue, 21 May 2024 01:35:44 +0000
 ### [It’s time to rethink the environmental, social and governance criteria](https://indianexpress.com/article/opinion/columns/environmental-social-governance-criteria-esg-ratings-elias-george-9341346/)
 
