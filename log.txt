@@ -6019,3 +6019,12 @@ Started at 2024-05-21 16:12:45
 Finished at 2024-05-21 16:17:46
 Total time taken: 301.0144305229187 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-05-21 20:12:04
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+3 new entries have been added
+5 summaries have been updated to feeds/Explain_FP.xml
+5 summaries have been updated
+Finished at 2024-05-21 20:17:10
+Total time taken: 305.5993106365204 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

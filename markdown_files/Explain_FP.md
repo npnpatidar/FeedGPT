@@ -7665,32 +7665,47 @@ The article discusses a recent outbreak of parrot fever, or psittacosis, across 
 Wed, 6 Mar 2024 16:57:39 +0530
 ### [Why Japan will now charge people to climb Mount Fiji](https://www.firstpost.com/explainers/why-japan-will-now-charge-people-to-climb-mount-fiji-13745760.html)
 
-Article found but Couldn't summarize 
-Hikers using the most popular route to climb Japan's Mount Fuji will be charged $13 each from July. The reason: to ease congestion and improve safety at the country's highest mountain, which is covered in snow most of the year and draws more than 220,000 visitors each July-September climbing period
+Starting from July 2024, hikers climbing Mount Fuji via the Yoshida trail will be charged a fee of $13 to address issues of overcrowding and to enhance safety measures. This decision by the Yamanashi prefectural government aims to protect the environment of Japan's highest peak, which sees over 220,000 climbers during the July-September period. The number of climbers on the Yoshida trail will be limited to 4,000 per day, and ascents will be prohibited from 4 pm to 2 am. While the Yoshida trail will require a fee, three other routes in Shizuoka prefecture will remain free. The new measures are in response to the overtourism that has led to littering and safety risks, exacerbated by the influx of climbers post-COVID restrictions. Officials urge climbers to be well-prepared and to check social media for updates on the daily visitor count. The iconic mountain, a UNESCO World Heritage site, is a popular subject in Japanese art and is easily accessible from Tokyo.
 
 Wed, 6 Mar 2024 16:16:35 +0530
 ### [Parched: Why Bengaluru is reeling from a severe water scarcity](https://www.firstpost.com/explainers/bengaluru-water-scarcity-why-summer-tankers-karnataka-government-13745853.html)
 
-Article found but Couldn't summarize 
-Bengaluru is bracing for a grim summer as water levels in Cauvery River have dipped significantly and many borewells have run dry. The cost of private water tankers have skyrocketed in Karnataka's capital and residents are being urged to use the resource judiciously
+Bengaluru is experiencing a severe water crisis due to a significant drop in the Cauvery River's water levels and the drying up of many borewells. The cost of water tankers has increased dramatically, with a 5,000-litre tanker now costing Rs 2,000, up from Rs 500. The Karnataka government has intervened to regulate water supply and urged residents to use water judiciously. Private water tankers are being taken over by the state, and residents face fines for misuse of water. Some areas, like Whitefield, Yelahanka, and Kanakapura, are among the worst affected, with restrictions on vehicle washing and swimming pool closures.
+
+The crisis is attributed to inadequate rainfall last year, leading to a plunge in the Cauvery River's water levels, affecting drinking water supply and agriculture. Bengaluru relies on 1,450 million litres per day (MLD) from the Cauvery and 700 MLD from borewells. Currently, the Cauvery Basin reservoirs are at only 39% capacity. The government is taking measures such as seizing unregistered water tankers, deploying milk tankers for water transport, and setting up control rooms with helpline numbers. The Cauvery V Stage project, worth Rs 5,550 crore, aims to provide piped drinking water to 110 villages and is expected to be completed by May this year.
 
 Wed, 6 Mar 2024 15:30:32 +0530
 ### [A For Effort: How new report card for Indian students will differ from the old](https://www.firstpost.com/explainers/a-for-effort-how-new-report-card-for-indian-students-will-differ-from-the-old-13745728.html)
 
-Article found but Couldn't summarize 
-The National Council for Educational and Research Training (NCERT) has introduced a ‘holistic progress card’ for school students. This new system of evaluation will also allow parents and classmates to assess them
+The National Council for Educational and Research Training (NCERT) has introduced a new "holistic progress card" (HPC) for school students, which is a shift from traditional report cards that focused primarily on rote memorization and year-end exams. The HPC evaluates students on a broader range of criteria, including interpersonal relationships, creativity, problem-solving, self-awareness, and emotional intelligence. It incorporates feedback from parents, peers, and the students themselves.
+
+Developed by PARAKH (Performance Assessment, Review, and Analysis of Knowledge for Holistic Development) based on the National Education Policy (NEP) 2020, the HPC is currently in use for foundational (Classes 1-2), preparatory (Classes 3-5), and middle (Classes 6-8) stages, with plans to extend it to higher classes. After a successful pilot in March 2023, many states and UTs have adopted or adapted the HPC.
+
+The HPC encourages active learning and self-assessment, requiring students to evaluate their own work and that of their peers. It also involves parents in assessing their child's education at home. The ambition card, introduced at the middle stage, allows students to set personal and academic goals.
+
+The introduction of the HPC aims to foster higher-order thinking skills like analysis and critical thinking, moving away from a focus on memorization. This learner-centric approach is expected to aid in the comprehensive development of students, providing valuable insights to teachers and parents to support each child's learning journey.
 
 Wed, 6 Mar 2024 14:05:47 +0530
 ### [Super Tuesday takeaways: Biden, Trump dominate and end looks nigh for Haley](https://www.firstpost.com/explainers/super-tuesday-takeaways-biden-trump-dominate-and-end-looks-nigh-for-haley-13745749.html)
 
-Article found but Couldn't summarize 
-President Joe Biden and his presumptive Republican opponent Donald Trump all but confirmed their upcoming rematch in November after Super Tuesday. But both candidates have shown some glaring weaknesses. Though Nikki Haley managed to stop Trump from a clean sweep, it looks like it's just a matter of time before she calls it quits
+Super Tuesday has set the stage for a likely rematch between President Joe Biden and Donald Trump in the upcoming November elections. Both candidates dominated the polls, with Biden and Trump securing a significant number of delegates. Nikki Haley, despite her efforts, only managed a single victory in Vermont, indicating a potential end to her campaign.
+
+Trump's near-sweep of the Republican contests revealed vulnerabilities, particularly among independent, well-educated, and suburban voters, where Haley showed strength. Concerns about Trump's fitness for office if convicted of a crime were noted, with a significant portion of North Carolina and Virginia voters expressing doubts.
+
+On the Democratic side, Biden's strong performance was marred by a notable protest vote in Minnesota against his policies, particularly regarding Israel. Despite this, Biden won the majority of states, including a mail-in vote in Iowa.
+
+The article highlights the focus of Republican voters on immigration and the economy, with many supporting deportation policies. Trump's legal challenges and potential convictions were also discussed, with varying opinions on their impact on his fitness for office.
+
+Biden's campaign faces challenges with low approval ratings and doubts about his candidacy among Democrats. Exit polls showed Trump's increasing support among nonwhite voters, a key Democratic constituency.
+
+As both Biden and Trump prepare for the potential rematch, the article underscores the lack of enthusiasm among the general electorate for a repeat of the 2020 race. The upcoming State of the Union address and campaigns in swing states will be crucial for Biden, while Trump's recent victory party signals his readiness to unify the Republican Party and move forward.
+
+The summary omits unrelated content and focuses on the key political developments and voter sentiments following Super Tuesday.
 
 Wed, 6 Mar 2024 13:28:00 +0530
 ### [Are Russia and China planning to build a nuclear power plant on the Moon?](https://www.firstpost.com/explainers/is-russia-and-china-planning-to-build-a-nuclear-power-plant-on-the-moon-13745709.html)
 
-Article found but Couldn't summarize 
-Yuri Borisov, head of Russia's space agency Roscosmos, has said that the two countries plan to install the unit by 2035
+Russia and China are collaborating on a project to construct a nuclear power plant on the moon, aiming to have it operational by 2035. This initiative is part of the broader International Lunar Research Station, which is set to begin construction in 2026 and become fully operational by 2050. The station will feature various facilities and a fleet of robots for exploration and research. The nuclear reactor is intended to support future colonization efforts, providing a reliable power source for lunar settlements. Additionally, Russia is developing a nuclear-powered cargo spaceship for various space operations. Despite setbacks in its space program, Russia plans further lunar missions and potential joint ventures with China, including a crewed mission and a lunar base. China also has plans to send its first astronaut to the moon before 2030. The collaboration between Russia and China is seen as a competitor to the US-led Artemis program.
 
 Wed, 6 Mar 2024 13:02:48 +0530
 ### [Facebook, Instagram down: How much did Mark Zuckerberg lose?](https://www.firstpost.com/explainers/meta-facebook-instagram-outage-mark-zuckerberg-lose-millions-13745756.html)

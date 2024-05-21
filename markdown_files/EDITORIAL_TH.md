@@ -1,3 +1,13 @@
+Wed, 22 May 2024 00:20:00 +0530
+### [Vote for a change: On the voter in Kashmir](https://www.thehindu.com/opinion/editorial/vote-for-a-change-on-the-voter-in-kashmir/article68200791.ece)
+
+The article discusses the voter turnout in the recent general elections in the Kashmir Valley, specifically in the Srinagar and Baramulla constituencies. Voter participation in these areas was below the national average but showed a significant increase from previous years. The article suggests that this increase may indicate a desire for change among the electorate, who have faced political constraints and lack of legislative representation since the dissolution of the elected Assembly and the bifurcation of Jammu and Kashmir into two Union Territories. The abrogation of Article 370 and subsequent political developments have also been a point of contention. The article critiques Union Home Minister Amit Shah's interpretation of the higher turnout as an endorsement of these political changes, arguing that the increased voter participation is more likely a call for addressing local concerns and political representation. The piece concludes by urging the Indian state to listen to the voices of the Valley and make necessary amends.
+
+Wed, 22 May 2024 00:10:00 +0530
+### [End the punishment: on Julian Assange](https://www.thehindu.com/opinion/editorial/end-the-punishment-on-julian-assange/article68200508.ece)
+
+Julian Assange, the founder of WikiLeaks, has been granted the right to appeal against his extradition to the U.S. in the U.K. courts. The appeal is based on assurances from the U.S. that he would be treated fairly and not face the death penalty. The case has garnered significant attention since WikiLeaks' 2010 release of classified U.S. military footage and documents, which raised questions about human rights violations. Assange has already spent a considerable amount of time in confinement, first in the Ecuadorian Embassy and then in Belmarsh Prison. Critics argue that his actions put lives at risk, but supporters claim he has performed a journalistic service by exposing wrongdoing. The court's decision allows Assange some time to prepare his appeal.
+
 Tue, 21 May 2024 00:30:00 +0530
 ### [A closer contest: On the fifth phase of the general election, 2024](https://www.thehindu.com/opinion/editorial/a-closer-contest-the-hindu-editorial-on-the-fifth-phase-of-the-general-election-2024/article68197272.ece)
 
