@@ -1,3 +1,12 @@
+Tue, 21 May 2024 13:49:55 +0000
+### [Pratap Bhanu Mehta writes on ICC seeking arrest of Benjamin Netanyahu: Why we need humanity’s law](https://indianexpress.com/article/opinion/columns/benjamin-netanyahu-arrest-israel-gaza-war-9343084/)
+
+The article discusses the International Criminal Court's (ICC) significant move to seek arrest warrants for Israeli Prime Minister Benjamin Netanyahu, Defence Minister Yoav Gallant, and three Hamas leaders. This action is notable against the backdrop of skepticism towards the ICC, which has faced criticism for selective attention and unenforced rulings. The ICC's legitimacy is questioned, especially since major powers like China, India, and the United States are not signatories.
+
+The request for Netanyahu's arrest is a blow to Israel's reputation, as it equates the nation with Hamas, despite Israel's right to self-defense. The ICC accuses Israel of humanitarian catastrophes in Gaza and both Israel and Hamas of violating armed conflict laws. The United States has condemned the ICC's move, with senators threatening sanctions, highlighting a new form of intimidation against international institutions.
+
+The warrants represent a statement on moral limits in political pursuits, challenging both Israel and Hamas to reconsider their strategies and representations. The ICC's action could entrench positions, making compromise difficult, and the lack of intervention by influential regional powers is notable. The article suggests that the ICC's move exposes the moral shortcomings of states and the need for "humanity's law" in global politics. The writer, a contributing editor for The Indian Express, calls for a shift towards shared moral intuitions and empathy in resolving conflicts. The unrelated content about Manoj Bajpayee's lifestyle choices is omitted from the summary.
+
 Tue, 21 May 2024 12:04:39 +0000
 ### [What the stalemates in Ukraine, Gaza mean for the US – and its place in the world](https://indianexpress.com/article/opinion/columns/stalemates-ukraine-gaza-us-place-world-9342651/)
 

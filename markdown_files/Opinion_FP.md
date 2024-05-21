@@ -1,3 +1,12 @@
+Tue, 21 May 2024 18:08:15 +0530
+### [Putin and Xi meet up again: Time for India to rework its ties with Russia, China, and US](https://www.firstpost.com/opinion/putin-and-xi-meet-up-again-time-for-india-to-rework-its-ties-with-russia-china-and-us-13773379.html)
+
+The article discusses the strategic implications of the strengthening partnership between Russia and China for India's foreign policy. It highlights the historical context of India's relationships with Russia and the US, noting the shift in dynamics post-Cold War. The piece emphasizes the competitive and transactional nature of Sino-Indian relations, contrasting them with the time-tested Indo-Russian ties.
+
+The recent Putin-Xi summit is seen as a move to challenge the US-led global order and establish new international norms, potentially affecting India's strategic position. Analysts are divided on the longevity of the Russo-Chinese partnership, with some viewing it as a temporary alignment due to the Ukraine War, while others see a potential reshaping of global power structures.
+
+The article suggests that India must carefully navigate these changes, considering scenarios like the formation of a counter-'Quad' with Russia, China, North Korea, and Iran, and the impact of Sino-Russian ties on India's border disputes with China. It proposes that India should not isolate itself but rather reevaluate its engagements with major powers to secure its role in global affairs. The views expressed are personal opinions of the author and do not reflect the stance of Firstpost.
+
 Tue, 21 May 2024 16:59:51 +0530
 ### [How India can utilise strategic window given by China for Armed Forces’ theaterisation](https://www.firstpost.com/opinion/how-india-can-utilise-strategic-window-given-by-china-for-armed-forces-theaterisation-13773330.html)
 

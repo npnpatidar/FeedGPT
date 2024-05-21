@@ -1,3 +1,8 @@
+Tue, 21 May 2024 14:30:30 +0000
+### [Expert Explains: Why the ICC Prosecutor has asked for an arrest warrant against Netanyahu, and what could happen now](https://indianexpress.com/article/explained/explained-global/expert-explains-icc-prosecutor-netanyahu-arrest-9343254/)
+
+The International Criminal Court (ICC) Prosecutor has requested arrest warrants for leaders of Hamas and Israeli Prime Minister Benjamin Netanyahu, related to the October 7, 2023 attacks and subsequent war in Palestine. Netanyahu dismissed the request as "absurd," while Hamas called for the warrants' cancellation. The ICC, which prosecutes serious international crimes, has charged five individuals, including three senior Hamas leaders and two Israeli officials, with crimes against humanity and war crimes. The charges against Hamas leaders involve extermination, murder, and sexual violence during raids in southern Israel, while Israeli officials are accused of war crimes and crimes against humanity in Gaza, including starvation and attacks on civilians. The ICC's jurisdiction covers crimes on the territory of State Parties, and its decisions are binding, relying on state cooperation for enforcement. The article also mentions unrelated content about actor Manoj Bajpayee's lifestyle choices.
+
 Tue, 21 May 2024 12:09:49 +0000
 ### [‘Severe turbulence’ on Singapore Airlines flight leaves 1 dead: When can turbulence become dangerous?](https://indianexpress.com/article/explained/severe-turbulence-singapore-airlines-flight-9342878/)
 
