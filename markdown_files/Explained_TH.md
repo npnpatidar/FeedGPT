@@ -1,3 +1,12 @@
+Wed, 22 May 2024 17:48:47 +0530
+### [Decoding the ICC prosecutor’s request for arrest warrants for Israel’s Netanyahu, Hamas leaders](https://www.thehindu.com/news/international/gaza-icc-prosecutor-arrest-warrant-israel-benjamin-netanyahu-hamas-leaders/article68202859.ece)
+
+The International Criminal Court (ICC) Prosecutor, Karim A.A. Khan, has applied for arrest warrants against Israeli and Hamas leaders for alleged war crimes and crimes against humanity following Israel's offensive in Gaza. The seven-month conflict resulted in 35,000 Palestinian deaths and a humanitarian crisis. The ICC's move has sparked strong reactions from both sides, with Israeli Prime Minister Netanyahu labeling it "disgraceful and antisemitic," and Hamas equating the victim with the executioner.
+
+The ICC, established in 2002, prosecutes individuals for international crimes when local jurisdictions cannot. It is distinct from the International Court of Justice (ICJ) and operates under the Rome Statute. The ICC has jurisdiction over war crimes in Gaza and the West Bank since Palestine joined the Rome Statute in 2015. However, Israel and the United States are not members.
+
+The Prosecutor's office is investigating multiple lines of inquiry, including sexual violence and large-scale bombings in Gaza. The allegations against Hamas leaders include murder, hostage-taking, and sexual violence, while Israeli leaders are accused of murder, starvation as warfare, and intentional attacks on civilians. The ICC's pre-trial chamber will decide on issuing arrest warrants, which could restrict the accused's international travel. The ICC has a history of 46 arrest warrants, with 21 detentions and 10 convictions. Currently, 12 investigations are active.
+
 Wed, 22 May 2024 16:05:38 +0530
 ### [Amul goes global: A look at the dairy giant’s journey from Kaira to US](https://www.thehindu.com/business/amul-goes-global-a-look-at-the-dairy-giants-journey-from-kaira-to-us/article68200707.ece)
 

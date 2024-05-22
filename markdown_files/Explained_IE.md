@@ -1,3 +1,28 @@
+Wed, 22 May 2024 14:58:53 +0000
+### [Heatstroke sends Shah Rukh Khan to hospital: How heat affects the body, how to stay safe from heatstrokes](https://indianexpress.com/article/explained/explained-health/heatstroke-shah-rukh-khan-hospital-9345618/)
+
+The article discusses the hospitalization of Shah Rukh Khan due to a heatstroke after attending an IPL match. It explains that heatstroke occurs when the body can't sweat enough to cool down, leading to a core temperature rise above 40°C and a severe salt imbalance. Symptoms can include brain fog, drowsiness, and even coma, with potential kidney and liver damage. Immediate cooling and medical attention are crucial.
+
+Dr. Chatterjee emphasizes that heatstroke can affect anyone, though the elderly, young, and those with comorbidities are more vulnerable. Prevention tips include staying out of direct sunlight during peak hours, staying hydrated with water and electrolyte-rich drinks, avoiding alcohol and caffeine, and wearing appropriate clothing.
+
+The article also references a 2023 advisory on keeping homes cool and the impact of high humidity and night temperatures on the body's ability to recover from heat. The unrelated content about actor Jason Shah and his experiences in Bollywood is omitted from this summary.
+
+Wed, 22 May 2024 14:27:00 +0000
+### [Half of world’s rangelands are degraded, UN study finds: What are rangelands, why they matter](https://indianexpress.com/article/explained/explained-climate/rangelands-degraded-un-study-pastoralists-9345551/)
+
+The UNCCD report highlights the critical state of the world's rangelands, which cover 80 million sq km and are vital for carbon sequestration, freshwater storage, and preventing desertification. Rangelands support global food production and the livelihoods of millions, particularly in Africa, South America, and India. However, nearly half of these lands are degraded due to climate change, unsustainable practices, and land rights issues, threatening the well-being of pastoral communities who rely on them. These communities, including an estimated 500 million pastoralists globally and around 13 million across various groups in India, depend on the health of rangelands for their livestock-based livelihoods. India, with 20% of the world's livestock, is a significant contributor to global dairy and meat production, largely thanks to the efforts of its pastoralists. The report calls for focused policy interventions and support for these communities to address the degradation and ensure sustainable management of rangelands.
+
+Wed, 22 May 2024 13:09:30 +0000
+### [Can a judge have political affiliations? Here’s what happens around the world](https://indianexpress.com/article/explained/explained-law/judge-political-affiliations-9345203/)
+
+The article discusses the issue of political affiliations of judges in various countries, sparked by the retirement speech of Justice Chitta Ranjan Dash from the Calcutta High Court, where he revealed his membership in the Rashtriya Swayamsevak Sangh (RSS). It highlights the historical shift in India's judicial appointments process, particularly after setbacks faced by Indira Gandhi's government in the Supreme Court, leading to political ideologies being considered in the selection of judges. The article also touches on the controversy surrounding the appointment of Justice Victoria Gowri to the Madras High Court due to her previous political role and alleged hate speech.
+
+The article contrasts this with the UK's judiciary selection process, which prioritizes merit and experience over political affiliation, and the expectation for judges to avoid any appearance of political ties. In the US, judicial appointments are highly political, with the President appointing judges confirmed by a partisan Senate vote, although judges are prohibited from engaging in political activity by the American Bar Association Model Code of Judicial Conduct.
+
+Singapore's Judicial Code of Conduct emphasizes the independence and competence of the judiciary, advising judges to avoid associations that could cast doubt on their impartiality. Similarly, Australia's Guide to Judicial Conduct expects judges to sever all ties with political parties upon appointment and avoid any appearance of bias.
+
+The article concludes with an unrelated mention of actor Jason Shah's experience in Bollywood, specifically his work with Salman Khan, which is not relevant to the main topic of judicial conduct and political affiliations.
+
 Wed, 22 May 2024 11:35:06 +0000
 ### [What are AI agents, that power OpenAI’s GPT4o and Google’s Project Astra?](https://indianexpress.com/article/explained/explained-sci-tech/ai-agent-llm-9344930/)
 

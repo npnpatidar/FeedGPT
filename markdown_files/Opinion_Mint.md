@@ -1,3 +1,12 @@
+Wed, 22 May 2024 18:17:42 +0530
+### [The secret to career success may well be off to the side](https://www.livemint.com/opinion/online-views/the-secret-to-career-success-may-well-be-off-to-the-side-11716381238649.html)
+
+The article discusses the value of lateral career moves, which are job changes that do not necessarily involve a promotion or pay rise but can lead to significant benefits for both employees and organizations. Research by Donald Sull and others in 2021 showed that the opportunity for such moves greatly increases employee retention, being more important than salary. Further studies by Xin Jin and Michael Waldman found that employees who made lateral moves were more likely to be promoted and receive higher wage growth later on.
+
+Good management is linked to facilitating lateral moves, with better bosses enabling more internal transfers that suit employees' skills, leading to higher pay and profits. Lateral moves are also beneficial for learning new skills, expanding internal networks, and avoiding job boredom. They provide a variety of challenges and opportunities for growth, which can be more motivating than waiting for promotions.
+
+The article suggests that embracing lateral moves requires a shift in mindset from both managers and employees, valuing horizontal growth as much as vertical advancement. It concludes that a change in the language of career success could help in recognizing the value of sideways moves. The article is from The Economist, published under license, with the original content available on their website. The summary omits unrelated content and advertisements.
+
 Wed, 22 May 2024 16:00:09 +0530
 ### [Biden's industrial policy made America’s EV tariffs necessary](https://www.livemint.com/opinion/online-views/bidens-industrial-policy-made-america-s-ev-tariffs-necessary-11716312019775.html)
 

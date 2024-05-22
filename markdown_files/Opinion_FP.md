@@ -1,3 +1,12 @@
+Wed, 22 May 2024 18:51:39 +0530
+### [Indo-Pacific port war gains momentum as Russia grabs Dawei](https://www.firstpost.com/opinion/indo-pacific-port-war-gains-momentum-as-russia-grabs-dawei-13773873.html)
+
+The article discusses the geopolitical dynamics of port development in the Indo-Pacific region, highlighting the strategic moves by India, China, and Russia. In 2023, India's Adani Group secured the Haifa ports and the West Container Terminal in Colombo with US backing, while China aimed to counter by reviving its Kyaukpyu port project in Myanmar. China's Gwadar port in Pakistan faced setbacks, failing to become the commercial hub it was intended to be, raising concerns about its potential military use.
+
+India, to counter China's influence, secured the operation of Chabahar port in Iran, crucial for access to Afghanistan and Central Asian Republics, and as a strategic point against China's Gwadar port. The International North-South Transit Corridor (INSTC) and the India-Middle East-Europe Economic Corridor (IMEC) were initiatives by India to strengthen trade routes with allies.
+
+Russia's visit to China emphasized industrial and military cooperation, while Myanmar shifted its preference from China to Russia for the development of the Dawei port, which could impact regional trade dynamics. The article suggests that the Dawei port, with Russian involvement, sets a precedent for Russian influence in Asia, which both India and China need to monitor. The author's views are personal and not reflective of Firstpost's stance.
+
 Wed, 22 May 2024 15:52:04 +0530
 ### [Flags of ‘inconvenience’: Why are Indian sailors paying the price?](https://www.firstpost.com/opinion/flags-of-inconvenience-why-are-indian-sailors-paying-the-price-13773750.html)
 
