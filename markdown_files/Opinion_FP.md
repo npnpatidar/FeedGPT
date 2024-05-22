@@ -1,3 +1,8 @@
+Wed, 22 May 2024 10:27:26 +0530
+### [How parents can help children fight Hinduphobia on US campuses](https://www.firstpost.com/opinion/how-parents-can-help-children-fight-hinduphobia-on-us-campuses-13773590.html)
+
+The article discusses the evolving sense of purpose among Hindu families, particularly in the context of U.S. college campuses where protests involving Indian-descent students have occurred. It questions whether Hindu parents are adequately preparing their children for life's realities, suggesting that traditional teachings may not suffice. The piece reflects on generational changes, noting shifts towards materialism and consumerism, while ritualistic practices have declined. It argues that parents often emphasize career success over cultural values, leading to a peer-defined sense of purpose focused on consumer choices. The article also critiques the portrayal of Hindu culture in advertising and media, suggesting it influences young people's self-perception and purpose. It concludes by examining the diminished role of rituals in Hindu practice, implying that this has led to a broader redefinition of purpose, especially regarding the value of having children. The views are personal to the authors, Vamsee Juluri and C Raghothama Rao, and do not necessarily reflect those of Firstpost.
+
 Wed, 22 May 2024 09:36:05 +0530
 ### [Putin’s visit to Beijing, the story of a hug and why Russia will never become China’s ‘vassal’ state](https://www.firstpost.com/opinion/putins-visit-to-beijing-the-story-of-a-hug-and-why-russia-will-never-become-chinas-vassal-state-13773563.html)
 

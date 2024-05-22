@@ -1,3 +1,14 @@
+Wed, 22 May 2024 06:24:42 +0000
+### [Putin in Beijing: What a Russia-China military alliance could mean for India](https://indianexpress.com/article/opinion/columns/putin-beijing-russia-china-military-alliance-9344268/)
+
+The article discusses the strategic partnership between Russia and China, emphasizing its significance in international politics and its potential to challenge Western dominance. It highlights the deepening ties between the two nations, particularly in the wake of Western sanctions against Russia due to the Ukraine conflict. The partnership is marked by extensive trade, defense cooperation, and alignment in multilateral institutions, with China being Russia's largest trade partner and a critical supplier of technology.
+
+The article also explores the power dynamics within the relationship, suggesting that despite economic disparities, Russia is unlikely to accept a subordinate role to China. It references historical perspectives on Russia's pivot to Asia when facing opposition from the West and notes the military collaboration between the two countries, including joint exercises and arms trade.
+
+While not a formal military alliance, the Russia-China partnership is seen as a pre-emptive measure to protect their interests without the entanglements of a formal alliance. The article concludes by mentioning India's cautious approach to the growing Beijing-Moscow ties, balancing its relationships with both Washington and Moscow.
+
+The unrelated content about the IPL match has been omitted from this summary. If you need more details or have specific questions, feel free to ask!
+
 Wed, 22 May 2024 03:19:48 +0000
 ### [‘Aattam’ frames a woman’s loneliness after she complains of sexual harassment](https://indianexpress.com/article/opinion/columns/aattam-frames-woman-loneliness-sexual-harassment-9343881/)
 

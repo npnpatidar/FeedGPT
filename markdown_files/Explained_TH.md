@@ -1,3 +1,16 @@
+Wed, 22 May 2024 11:07:08 +0530
+### [What is animal diplomacy, a longstanding tradition of soft power? | Explained](https://www.thehindu.com/news/international/what-is-animal-diplomacy-a-longstanding-tradition-of-soft-power-explained/article68202611.ece)
+
+The article discusses the concept of **animal diplomacy**, a practice where countries use animals as symbols of friendship and goodwill to strengthen international ties. It highlights Malaysia's new initiative, **"orangutan diplomacy,"** which aims to improve the country's environmental image by gifting orangutans to nations that purchase Malaysian palm oil. This strategy is inspired by China's **"panda diplomacy"** and seeks to address concerns about the impact of palm oil production on endangered species' habitats.
+
+Historically, animal diplomacy has been used by various civilizations to display wealth, power, and foster cooperation. Notable instances include Pharaoh Hatshepsut's gift of a giraffe to the King of Syria and European monarchs' exchange of lions and tigers during the Middle Ages. In Asia, elephants have been presented as symbols of wisdom and strength.
+
+Recently, China has signaled a revival of its panda diplomacy with plans to loan giant pandas to zoos worldwide, including the San Diego Zoo. Similarly, Malaysia's orangutan diplomacy is part of a broader effort to promote wildlife protection, sustainable palm oil production, and conservation collaboration.
+
+The article also references Australia's **"kangaroo diplomacy"** during the 2014 G20 Summit, where koalas were used to symbolize the country's commitment to conservation. The presence of these animals sparked discussions on environmental issues and demonstrated the role of animal ambassadors in promoting sustainable development and international cooperation.
+
+Overall, animal diplomacy is seen as a way to transcend traditional geopolitical boundaries, fostering international understanding and collaborative conservation efforts. The practice allows for shared responsibility in protecting ambassador animals and strengthens diplomatic bonds. It also opens opportunities for smaller countries with unique endangered species to engage in global conservation dialogues. Animal diplomacy is evolving beyond mere symbolism to become a meaningful instrument for addressing environmental concerns and enhancing global cooperation.
+
 Tue, 21 May 2024 22:59:01 +0530
 ### [Analysing local environmental footprints of luxury consumption | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/local-environmental-footprints-of-luxury-consumption-analysis/article68201417.ece)
 

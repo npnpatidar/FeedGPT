@@ -1,3 +1,61 @@
+Wed, 22 May 2024 13:35:11 +0530
+### [What is EU's Copernicus service that Iran sought to track Raisi's crashed chopper? How does it work?](https://www.firstpost.com/world/what-is-eus-copernicus-service-that-iran-sought-to-track-raisis-crashed-chopper-how-does-it-work-13773639.html)
+
+Following the crash of a helicopter carrying Iranian President Ebrahim Raisi on May 19, the EU activated its Copernicus Emergency Management Service (CEMS) to assist in the search and rescue operation. Despite challenging conditions due to dense fog and low temperatures, the helicopter was eventually located, and it was confirmed that President Raisi, Foreign Minister Hossein Amirabdollahian, and other officials were found deceased at the crash site.
+
+The Copernicus programme, named after Nicolaus Copernicus, is the EU's earth observation initiative, providing data for environmental monitoring and disaster management. It is supported by the Copernicus Sentinel satellites and various measurement systems. The CEMS, active since 2012, offers services like risk and recovery mapping, rapid mapping, and early warning systems for natural disasters and humanitarian crises. It can be activated by authorized users worldwide and provides critical geospatial data to support emergency management activities. The rapid mapping service was specifically utilized following the helicopter crash to aid in the search efforts.
+
+Wed, 22 May 2024 12:54:14 +0530
+### [‘The Apprentice’ at Cannes: The controversy around Trump film showing him raping his wife, getting liposuction](https://www.firstpost.com/explainers/the-apprentice-cannes-film-festival-donald-trump-controversy-raping-ivana-liposuction-13773665.html)
+
+The film "The Apprentice," which premiered at the Cannes Film Festival, has sparked significant attention and controversy. It portrays Donald Trump's early years as a real estate developer, with Sebastian Stan playing Trump. The film includes fictionalized events and depicts controversial aspects of Trump's life, such as alleged rape and drug abuse. It received an eight-minute standing ovation at Cannes but has been met with threats of legal action from Trump's campaign and supporters, who label it as defamatory and false. The director, Ali Abbasi, defends the film as a nuanced portrayal and expresses a willingness to discuss it with Trump. Critics have generally given the film positive reviews, appreciating its analysis and portrayal of Trump, despite its contentious nature. The film is set to release in theatres ahead of the November US election, in which Trump is a candidate.
+
+Wed, 22 May 2024 12:47:56 +0530
+### [New licence rules in India from 1 June: Optional driving tests at RTO and other big changes](https://www.firstpost.com/explainers/new-driving-licence-rules-in-india-from-june-1-13773573.html)
+
+The Ministry of Road Transport and Highways in India has introduced new regulations to simplify the process of obtaining a driver's license. These changes, effective from 1 June, include:
+
+- **Stricter Penalties:** Fines for traffic violations have increased, with penalties for driving without a valid license now ranging between Rs 1,000 and Rs 2,000. In cases where minors are caught driving, their parents will face legal action, and a fine of Rs 25,000 will be imposed, along with revocation of the vehicle's registration certificate.
+
+- **Optional RTO Tests:** Applicants for a driving license will no longer be required to take the driving test at Regional Transport Offices (RTOs) but can opt to take it at an authorized center of their choice.
+
+- **Phasing Out Old Vehicles:** The government is working on phasing out 9,000 outdated government vehicles to reduce pollution and enhance environmental sustainability.
+
+- **Vehicle Scrappage Policy:** A new policy offers concessions on vehicle price or road tax for those scrapping old vehicles and purchasing new ones.
+
+- **Eased Documentation Process:** The paperwork for obtaining a new license has been minimized, reducing the need for physical visits to RTOs.
+
+- **Revised Fees and Charges:** The fees for various licensing services have been updated, including the cost for obtaining a learner's license, driving test, and renewing a standard driving license.
+
+These reforms aim to reduce bureaucratic hurdles, combat corruption, and improve road safety in India.
+
+Wed, 22 May 2024 11:55:54 +0530
+### [Quicksplained: Was missing Bangladesh MP, now found dead in Kolkata, murdered?](https://www.firstpost.com/explainers/quicksplained-missing-banglesh-mp-found-dead-in-kolkata-13773603.html)
+
+Bangladesh MP Anwarul Azim, who had been missing for eight days in Kolkata, was found dead under mysterious circumstances. Azim had arrived in Kolkata on May 12 for medical treatment and disappeared on May 14. A search operation was launched by Indian and Bangladeshi authorities, and two suspects have been arrested in connection with the case. Azim's body was discovered in an abandoned flat in Kolkata's New Town, and there are suspicions that he may have been murdered. The flat where his body was found is said to belong to an excise duty official. Investigations are ongoing to determine if gold smuggling played a role in his disappearance and death. Azim was last seen with friends from Bangladesh, and his family had raised concerns about his disappearance to the Bangladesh prime minister. The MP was familiar with Kolkata, often visiting for medical treatment, and had acquaintances in the state. He served as an MP from the Jhenaidah-4 constituency since 2014 and was the president of the upazila unit of the Bangladesh Awami League. In 2008, Azim was wanted by Interpol for crimes related to weapons and explosives, but he was cleared in most cases after becoming an MP. The case remains under investigation by both Bangladeshi and Indian authorities.
+
+Wed, 22 May 2024 11:38:46 +0530
+### [Pune Porsche crash: Can the 17-year-old boy, who ‘killed 2’, be tried as an adult?](https://www.firstpost.com/explainers/pune-porsche-crash-17-year-old-boy-juvenile-tried-as-adult-juvenile-justice-act-13773619.html)
+
+The article discusses the case of a 17-year-old boy involved in a fatal hit-and-run accident in Pune, driving a Porsche and causing the death of two individuals. The Pune Police intend to seek permission from a higher court to try the teenager as an adult under the Juvenile Justice Act of 2015, which allows for juveniles aged 16 to 18 to be tried as adults for heinous offences. The Juvenile Justice Board had initially granted the accused bail, requiring him to write a 300-word essay, which led to public outrage and criticism from the Maharashtra deputy chief minister. The police have also arrested the boy's father, a real estate developer, and are building a case against both under various sections of the Indian Penal Code and Motor Vehicles Act. The article further explains the legal provisions for trying juveniles as adults, the assessment process by the Juvenile Justice Board, and mentions past cases where juveniles were tried as adults. The amendment to the Juvenile Justice Act was prompted by the 2012 Delhi gang rape case and aims to address crimes committed by older juveniles with the seriousness they warrant.
+
+Wed, 22 May 2024 10:25:32 +0530
+### [Why Donald Trump’s ‘unified Reich’ post is so controversial](https://www.firstpost.com/explainers/why-donald-trumps-unified-reich-post-is-so-controversial-13773587.html)
+
+A video posted on Donald Trump's Truth Social account, which included hypothetical headlines celebrating his potential victory in the upcoming elections, sparked controversy due to its reference to a "unified Reich." The term "Reich" is historically associated with Nazi Germany, and its use in the video has been criticized as echoing Nazi rhetoric. Trump has previously been accused of using language and imagery associated with Nazi Germany, and this incident has reignited debates about his communication style.
+
+The video was deleted after being online for approximately 19 hours. Critics argue that the inclusion of terms like "unified Reich" and imagery related to mass deportations over World War I references normalizes extremist views and contributes to a dangerous political climate. The Trump campaign stated the video was not an official product and was reposted by a staffer who did not notice the contentious wording. However, this explanation has been met with skepticism, with some experts suggesting such content may be deliberately used to deflect attention from other issues. The incident underscores the contentious nature of Trump's political communication.
+
+Wed, 22 May 2024 10:15:11 +0530
+### [Singapore Airlines horror: What is in-flight turbulence and can pilots avoid it?](https://www.firstpost.com/explainers/singapore-airlines-horror-what-is-inflight-turbulence-13773561.html)
+
+A Singapore Airlines flight experienced severe turbulence over the Indian Ocean, leading to a rapid descent of 6,000 feet and resulting in one fatality and multiple injuries among passengers and crew. The incident occurred on a Boeing 777 flight from London to Singapore, which was diverted to Bangkok. Turbulence, often caused by wind shear near jet streams, can be unpredictable and is a known safety hazard in aviation. While fatalities are rare, injuries from turbulence are more common, with flight attendants being particularly vulnerable. Safety measures and pilot strategies exist to mitigate the risks, but clear-air turbulence remains a challenge due to its sudden onset. Research suggests that climate change may be increasing the frequency and severity of turbulence, with projections indicating a potential doubling or tripling of severe turbulence events in the future. Experts emphasize the importance of wearing seat belts to prevent injuries during flights.
+
+Wed, 22 May 2024 09:53:49 +0530
+### [‘Bleeding ears, loud screams’: How 5 minutes of turbulence on Singapore Airlines plane left 1 dead, 71 hurt](https://www.firstpost.com/explainers/singapore-airlines-plane-severe-turbulence-passengers-bleeding-screaming-horror-13773568.html)
+
+A Singapore Airlines flight from London to Singapore experienced severe turbulence over Myanmar, causing the plane to drop from 37,000 feet to 31,000 feet. The incident resulted in one fatality and 71 injuries. Passengers described the chaos as people and objects were thrown around the cabin. The pilots made an emergency landing in Bangkok, where injured passengers received medical treatment. The deceased was identified as Geoff Kitchen, a British national on holiday. Aviation experts believe the plane encountered clear air turbulence (CAT), which is difficult to detect on weather radar. The incident has highlighted the importance of always wearing a seatbelt during flights. Singapore Airlines expressed condolences and regret over the traumatic event.
+
 Wed, 22 May 2024 09:05:15 +0530
 ### [In Graphics | What causes heatwaves?](https://www.firstpost.com/explainers/in-graphics-what-causes-heatwaves-13773417.html)
 
