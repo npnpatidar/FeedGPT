@@ -1,3 +1,15 @@
+Wed, 22 May 2024 15:52:04 +0530
+### [Flags of ‘inconvenience’: Why are Indian sailors paying the price?](https://www.firstpost.com/opinion/flags-of-inconvenience-why-are-indian-sailors-paying-the-price-13773750.html)
+
+The article discusses the plight of Indian seafarers in the context of flags of convenience (FOCs), which allow ship owners to register vessels under countries with lenient regulations. This has led to exploitative labor practices and the abandonment of sailors. In 2024, a record number of ships may be abandoned, with a significant number of Indian sailors affected. India's maritime workforce is substantial, with a large number of sailors working on internationally registered ships, and the country is poised to double its share of global sailors by 2035.
+
+However, the use of FOCs poses risks, as they often lead to poor working conditions and lack of accountability. The article suggests that India should create a fair-trade list of FOCs and regulate recruitment agencies to protect its seafarers. The global maritime sector offers opportunities for India's growing population, but safeguards are necessary to ensure fair labor practices. The author, a former ambassador, emphasizes that these views are personal and not necessarily reflective of Firstpost's stance.
+
+Wed, 22 May 2024 14:04:10 +0530
+### [Jamaat’s entry into Kashmir politics: A recipe for disaster](https://www.firstpost.com/opinion/jamaats-entry-into-kashmir-politics-a-recipe-for-disaster-13773702.html)
+
+The article discusses the potential consequences of reviving Jamaat-e-Islami in Jammu & Kashmir. It argues against allowing Jamaat to participate in elections, suggesting that it would legitimize the group's ideology and past actions, which include supporting militancy and fostering an anti-India sentiment. The author criticizes Indian intelligence agencies for their short-sighted strategies and lack of understanding of Islamist organizations like Jamaat. The article recounts the history of Jamaat's activities in Kashmir, its influence on local politics, education, and its role in supporting militancy and separatism, often with Pakistan's backing. The author warns that mainstreaming Jamaat could lead to further radicalization and jeopardize India's security and democratic values. The piece concludes by urging policymakers to discard such ideas and focus on eliminating terrorist infrastructure, promoting secularism, and ensuring effective governance and development. The views expressed are personal to the author, who is associated with a national security think tank and has written books on radicalization and terror financing in Kashmir.
+
 Wed, 22 May 2024 10:27:26 +0530
 ### [How parents can help children fight Hinduphobia on US campuses](https://www.firstpost.com/opinion/how-parents-can-help-children-fight-hinduphobia-on-us-campuses-13773590.html)
 

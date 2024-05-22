@@ -1,3 +1,28 @@
+Wed, 22 May 2024 16:00:09 +0530
+### [Biden's industrial policy made America’s EV tariffs necessary](https://www.livemint.com/opinion/online-views/bidens-industrial-policy-made-america-s-ev-tariffs-necessary-11716312019775.html)
+
+The article discusses the tension in US economic policy, particularly concerning the electric vehicle (EV) industry. It highlights President Joe Biden's implementation of punitive tariffs on Chinese EVs as a response to the significant investment in expanding the US's own EV production capacity. Despite subsidies, US EV makers are struggling with slow growth and an underdeveloped charging infrastructure. The high cost of US-made EVs is attributed to Biden's dual goals of reducing carbon emissions and creating high-wage manufacturing jobs, which are seen as incompatible due to global competitiveness issues.
+
+The article argues that sustaining uncompetitive industries, like the EV industry in the US, can be defensible if costs are not too high. However, the surprise at China's ability to produce cheap EVs has led to the US needing tariffs of at least 100% to protect its nascent industry and support union jobs. These tariffs may slow down the adoption of EVs in the US, contradicting climate change goals. New EPA rules are being considered to control the sale of EVs and gas-powered vehicles, which may lead to higher prices for fossil-fuel vehicles to offset EV losses.
+
+The article also critiques the inconsistency in US trade policies, which are seen as market-correcting when domestic but market-distorting when applied by China. It suggests that America's industrial policies harm its trading partners and questions whether disputes can be resolved cooperatively. The piece concludes by expressing skepticism about the protectionist approach and anticipates a continued cycle of policy errors.
+
+Wed, 22 May 2024 15:30:08 +0530
+### [Electoral bonds case: Do not nullify past transactions](https://www.livemint.com/opinion/online-views/electoral-bonds-case-do-not-nullify-past-transactions-11716312184910.html)
+
+The article discusses the Supreme Court of India's decision to strike down the electoral bond scheme as unconstitutional. The scheme, which allowed corporate houses to donate to political parties anonymously, was found to violate the Indian Constitution's Articles 14 and 19, concerning the rights to equality and information. The ruling has significant implications for past transactions under the scheme, as it is retrospective, meaning that actions taken under the scheme could be voided. This raises complex legal challenges for companies and political parties, especially regarding donations made beyond the previously established cap of 7.5% of a company's net profits. The doctrine of prospective overruling, which can save past transactions from being invalidated, was not fully applied by the Supreme Court, leading to ambiguity and potential legal difficulties for India Inc. The authors suggest that the only recourse is to approach the Supreme Court for directions to safeguard past transactions, thereby setting a precedent and reducing complications. The article concludes with a note that these are the personal views of the authors.
+
+Wed, 22 May 2024 14:00:05 +0530
+### [What does an emerging Squad in the Indo-Pacific mean for India?](https://www.livemint.com/opinion/online-views/what-does-an-emerging-squad-in-the-indo-pacific-mean-for-india-11716311850448.html)
+
+The article discusses the formation of a new security arrangement called the 'Squad' among the US, Australia, the Philippines, and Japan to address security concerns in the Indo-Pacific region. This arrangement aims to deepen integration among these democracies and counter China's militarization of the South China Sea. The Squad is part of a broader trend of informal strategic alliances, or 'mini-laterals,' which include the Quad and Aukus.
+
+The Philippines has expanded its alliance with the US and is negotiating agreements with Japan and Australia to enhance military cooperation. The first multilateral maritime exercise among the Squad members took place in the Philippines' EEZ in April 2024. The creation of the Squad reflects a convergence of political will and shared interests among the member countries, which began to intensify in 2023.
+
+Historically, the US, Philippines, Japan, and Australia lacked a unified strategic vision for the region. However, recent developments have led to a shift in strategy. The US has recognized China as a major power challenging the established order, Japan has adopted a more assertive defense role, and the Philippines, under President Ferdinand Marcos Jr., has taken a proactive stance against Chinese expansionism.
+
+The article suggests that the future of Indo-Pacific security will likely involve flexible, practical cooperation rather than traditional alliances. The Squad and other mini-laterals must work together to build collective capacity and coordinate actions to maintain regional stability in the face of potential challenges from China. The nature of security threats in the region necessitates close coordination among these informal groupings.
+
 Wed, 22 May 2024 12:30:03 +0530
 ### [Banks with politically exposed persons as customers must stay alert](https://www.livemint.com/opinion/online-views/banks-with-politically-exposed-persons-as-customers-must-stay-alert-11716311437712.html)
 

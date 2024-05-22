@@ -1,3 +1,23 @@
+Wed, 22 May 2024 12:02:01 +0000
+### [Shyam Saran writes: Amid President Ebrahim Raisi’s death, Israel war, India’s reconnect with Iran](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-israel-war-india-iran-9345099/)
+
+The article discusses the geopolitical implications of Iran's President Ebrahim Raisi's death on India-Iran relations and regional politics. It highlights that despite the president's death, no significant policy shift is expected as Supreme Leader Ayatollah Ali Khamenei retains control. The article reflects on India's cautious stance towards Iran, influenced by its strategic ties with the US, Israel, and Gulf nations, particularly after the Abraham Accords and the formation of the I2U2 group. It also mentions the India-Middle-East Economic Corridor (IMEC) project, which excludes Iran and diminishes the importance of the Chabahar port project, previously a key link to Afghanistan and Central Asia.
+
+The revival of the Chabahar project is seen as a strategic move by India to maintain regional influence, especially given the changing dynamics with the Taliban-led Afghanistan and the stalling of IMEC. The article questions whether India can secure US support for the Chabahar project amidst the new sanctions on Iran and the US's disinterest in the Taliban regime. It concludes by pondering India's diplomatic challenges in balancing relations with the US, Israel, and Iran, particularly in an election year for the US and a time of uncertainty in Iran.
+
+The unrelated content about actor Jason Shah's experience in Bollywood and Salman Khan's demeanor on set has been omitted from the summary.
+
+Wed, 22 May 2024 09:05:41 +0000
+### [Pune Porsche Crash: Things wouldn’t be this bad if India’s criminal justice system wasn’t broken](https://indianexpress.com/article/opinion/pune-porsche-crash-india-criminal-justice-system-broken-9344612/)
+
+The article discusses the broader implications of a tragic incident in Pune, where two young lives were lost due to the reckless driving of an intoxicated youth. It critiques the Indian criminal justice system's inefficiency, highlighting the long delays in trials and low conviction rates, particularly in cases of negligent driving and hit-and-run incidents. The author argues that these delays lead to a lack of respect for the law and suggests that faster trials and appeals could change this.
+
+The article also points out the inadequacies in judicial and police infrastructure, citing low numbers of judicial officers and police personnel per capita, as well as significant vacancies in the police force. It suggests that improvements in these areas, along with better training and technology for investigators and prosecutors, could lead to higher conviction rates and better quality investigations.
+
+Furthermore, the article scrutinizes the role of juvenile justice boards, especially in the context of the Pune case, where the board's lenient treatment of the accused minor is seen as a mockery of justice. The author calls for the case to be taken to its logical conclusion swiftly and hopes that it will lead to greater public accountability and adherence to traffic laws, as well as deterrence against irresponsible behavior by parents and establishments serving alcohol to minors.
+
+The piece concludes by expressing a desire for the victims to be remembered for bringing attention to road safety and justice, drawing a parallel to the public outrage and subsequent legal reforms following the 2012 Delhi gang rape case. The writer, a retired Director General of the Bureau of Police Research & Development, emphasizes the need for expeditious legal proceedings in the Pune case to achieve this end. The unrelated content about actor Jason Shah's experiences in Bollywood has been omitted from this summary.
+
 Wed, 22 May 2024 06:24:42 +0000
 ### [Putin in Beijing: What a Russia-China military alliance could mean for India](https://indianexpress.com/article/opinion/columns/putin-beijing-russia-china-military-alliance-9344268/)
 

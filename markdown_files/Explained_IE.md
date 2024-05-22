@@ -1,3 +1,30 @@
+Wed, 22 May 2024 11:35:06 +0000
+### [What are AI agents, that power OpenAI’s GPT4o and Google’s Project Astra?](https://indianexpress.com/article/explained/explained-sci-tech/ai-agent-llm-9344930/)
+
+OpenAI's GPT-4o and Google's Project Astra are groundbreaking AI agents capable of real-time, multimodal interactions with users, processing audio, visual, and environmental inputs. These agents surpass traditional voice assistants by offering more natural, human-like conversations and responses. They can adapt to various situations, perform tasks autonomously, and are employed in diverse fields like gaming, robotics, and autonomous vehicles.
+
+AI agents differ from large language models (LLMs) by their ability to interact instantaneously and contextually, understanding the environment through sensors and providing personalized responses. They hold promise in customer service, education, and healthcare, acting as personal tutors or assisting medical professionals.
+
+However, they pose privacy and security risks, and there are concerns about biases from their training data. It's crucial to establish regulations for their responsible use. The article also highlights Bijin Jose's background as a technology journalist with a focus on artificial intelligence.
+
+Wed, 22 May 2024 10:07:11 +0000
+### [Canadian colleges relax 16-year education requirement for Master’s admission: How this will benefit Indian students](https://indianexpress.com/article/explained/explained-global/canadian-colleges-relax-16-year-education-requirement-masters-admission-indians-9344738/)
+
+Canadian universities and colleges have relaxed their 16-year education requirement for postgraduate admissions, a move that significantly benefits Indian students. Traditionally, a four-year undergraduate program was necessary to meet the 16-year study requirement in Canada. However, Indian students typically complete 15 years of education (10+2+3), leading to a need for an additional year of study or a second Bachelor's degree to qualify for Master's programs in Canada.
+
+Now, many Canadian institutions accept students with 15 years of education for postgraduate courses. Arts and humanities graduates can take 3-6 month foundation courses, while business graduates may be directly admitted, provided they meet English proficiency standards.
+
+Colleges and universities across various provinces and territories in Canada have started offering short-term foundation or preparatory programs to Indian graduates. Notable universities embracing this change include the University of Niagara Falls, University of Canada West, Trinity Western, City University Alberta, Providence University in Winnipeg, and Catholic University Theological Seminary.
+
+This policy shift is mutually beneficial. Indian students no longer need to pursue additional undergraduate courses to qualify for Canadian Master's programs. They can also bring spouses on open work permits, a privilege previously limited to Bachelor's students in specific fields. After a year in a Master's program, students are eligible for a three-year work permit and gain more points towards Permanent Residency applications, improving their chances of obtaining PR.
+
+For Canadian universities, this is advantageous as postgraduate students are not subject to the capping system imposed by the Canadian government, which does not apply to doctoral students either. This opens up more opportunities for international student admissions without restrictions.
+
+Wed, 22 May 2024 09:35:50 +0000
+### [Gopi Thotakura becomes first Indian space tourist: What is space travel — and how much can a journey cost?](https://indianexpress.com/article/explained/explained-sci-tech/gopi-thotakura-space-travel-cost-9344679/)
+
+Gopi Thotakura, an India-born aviator, became the first Indian space tourist, joining five others on a Blue Origin spacecraft for a sub-orbital flight. The journey lasted about ten minutes and reached approximately 105 km above Earth, allowing passengers to experience weightlessness and view Earth from space. This type of space tourism has become more active since 2021, with companies like Virgin Galactic, Blue Origin, and SpaceX offering various space travel experiences. While sub-orbital flights require minimal training, orbital flights and visits to the International Space Station (ISS) need more extensive preparation. Costs for these trips are high, with sub-orbital flights costing around $450,000 and ISS trips upwards of $20 million. Space tourism remains largely inaccessible to the average person, though some companies offer high-altitude balloon rides as a more affordable alternative. These balloons reach about 30 km above Earth, offering views of the planet's curvature without the experience of weightlessness.
+
 Wed, 22 May 2024 01:37:51 +0000
 ### [What is Copernicus Emergency Management Service, called in to locate Raisi’s chopper?](https://indianexpress.com/article/explained/what-is-copernicus-emergency-management-service-called-in-to-locate-raisis-chopper-9343561/)
 

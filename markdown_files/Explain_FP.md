@@ -1,3 +1,57 @@
+Wed, 22 May 2024 17:29:42 +0530
+### [In Graphics | What is the ICC? How does it function?](https://www.firstpost.com/explainers/in-graphics-what-is-the-international-criminal-court-how-does-it-work-13773771.html)
+
+The International Criminal Court's (ICC) chief prosecutor, Karim Khan, has requested arrest warrants for Israeli Prime Minister Benjamin Netanyahu, Defence Minister Yoav Gallant, Hamas leader Yahya Sinwar, and other senior figures from both Israel and Hamas. These warrants are sought for their alleged criminal responsibility in war crimes and crimes against humanity related to the 7 October attacks and the subsequent Gaza War. The ICC, a key institution in international law based in the Netherlands, prosecutes individuals for severe crimes such as genocide, war crimes, and crimes against humanity.
+
+Wed, 22 May 2024 16:49:32 +0530
+### [Spain, Ireland, Norway to recognise Palestinian statehood on 28 May: What does it mean?](https://www.firstpost.com/explainers/spain-ireland-norway-palestine-statehood-28-may-what-does-it-mean-13773756.html)
+
+Spain, Ireland, and Norway have announced their official recognition of the Palestinian state, set to take place on May 28. This decision is part of a broader push for a two-state solution to the Israeli-Palestinian conflict. The announcement has been met with mixed reactions: Palestinian President Mahmoud Abbas welcomed it, while Israel responded by recalling its ambassadors from Ireland and Norway for consultations.
+
+Norwegian Prime Minister Jonas Gahr Støre emphasized that peace in the Middle East hinges on recognizing the Palestinian state, and that a two-state solution aligns with Israel's best interests. Ireland's Prime Minister Simon Harris echoed this sentiment, highlighting the historical significance of state recognition for Ireland and its support for Israel's right to exist in peace. Spain's Prime Minister Pedro Sanchez also supported the recognition, framing it as a step toward peace, justice, and consistency.
+
+Israel's Foreign Minister Israel Katz warned of serious consequences following these steps, suggesting similar actions against Spain if it proceeds with recognition. Conversely, the Palestine Liberation Organisation and Hamas have praised the move, viewing it as a pivotal moment for Palestinian rights.
+
+The recognition by these European nations is largely symbolic, as it is unlikely to change the situation on the ground. However, it does further legitimize the Palestinian cause. Currently, 142 out of 193 UN countries recognize a State of Palestine. The recent conflict, which has resulted in over 35,000 casualties, has reignited European support for Palestinian statehood, with Slovenia and Malta potentially following suit. France and the UK have also expressed openness to recognizing Palestine under certain conditions. The recognition efforts underscore the ongoing debate and international involvement in the Israeli-Palestinian conflict.
+
+Wed, 22 May 2024 16:47:43 +0530
+### [‘Cruel Summer’ for Swifties? How Taylor Swift’s Eras Tour could fuel a ticket scam in the UK](https://www.firstpost.com/explainers/uk-taylor-swift-eras-tour-ticket-scam-13773729.html)
+
+UK Finance has issued a warning about the potential rise in purchase scams due to the high demand for Taylor Swift's upcoming concert tickets. The concern arises from the increasing cases of romance fraud and purchase scams, where victims pay in advance for items or services they never receive. These scams often target individuals through social media ads or auction sites and are linked to major events.
+
+A report by Lloyds Bank revealed that fans, referred to as "Swifties," lost over £1 million to fraudulent ticket sales for Swift's UK tour, with an average loss of £332 per victim. UK Finance's annual fraud report showed a decrease in financial losses due to payment fraud and scams by four percent in 2022, attributed to better bank security and increased public awareness. However, the total amount stolen was still a significant £1.2 billion, with 60% being unauthorized transactions and the rest being authorized push payment (APP) fraud.
+
+The UK plans to implement new rules on October 7, requiring service providers to reimburse customers who fall victim to payment scams, with some exceptions. This move aims to combat the ongoing fraud problem, emphasizing the need for technology and telecommunications sectors to take action against fraud on their platforms.
+
+In Minnesota, the "Taylor Swift bill" was signed into law, mandating ticket sellers to disclose all fees upfront and prohibiting resellers from selling multiple copies of a ticket. The law, which takes effect on January 1, 2025, was inspired by the difficulties faced by consumers during the high-demand sale of Swift's concert tickets, which led to a system crash and bot attacks on Ticketmaster's platform. Minnesota joins Maryland as one of the few states to enact such consumer protections for ticket buyers.
+
+Wed, 22 May 2024 16:28:02 +0530
+### [Pune Porsche crash: Does the 17-year-old accused's family have connections to the underworld?](https://www.firstpost.com/explainers/pune-porsche-crash-accused-underworld-13773796.html)
+
+The article discusses the aftermath of a tragic incident involving a 17-year-old who allegedly drove under the influence and caused the deaths of two individuals. The teenager's grandfather, SK Agarwal, is reported to have underworld connections, specifically with don Chhota Rajan, in relation to a shootout case. Vishal Agarwal, the father of the accused and a prominent real estate developer in Pune, attempted to evade arrest by moving between properties and using various tactics to mislead the police. However, he was eventually tracked down and arrested with the aid of GPS and CCTV footage. Vishal is charged under the Juvenile Justice Act for allegedly allowing his minor son to consume alcohol and drive. The case has led to the arrest of five individuals, including Vishal, and has shed light on the family's alleged connections to the underworld.
+
+Wed, 22 May 2024 15:27:23 +0530
+### [‘Falling out of trees like apples’: How monkeys are dropping dead amid Mexico’s fierce heatwave](https://www.firstpost.com/explainers/mexico-howler-monkeys-are-dropping-dead-amid-heatwave-13773630.html)
+
+In Mexico, a severe heatwave has resulted in the deaths of approximately 138 howler monkeys due to heat strokes and dehydration. The mantled howler monkeys, classified as "vulnerable" on the IUCN Red List, have been found dead or in critical condition since early May, particularly in the state of Tabasco. Local authorities and volunteers are attempting to mitigate the situation by providing water and fruits to the surviving monkeys. The mass deaths are attributed to unprecedented high temperatures, with a third of the country experiencing a brutal heatwave, reaching up to 45 degrees Celsius. Efforts to nurse the sick primates back to health are underway, with some showing signs of recovery. The situation has drawn attention to the broader impacts of climate change on ecosystems. Mexican officials, including President Andrés Manuel López Obrador, have acknowledged the crisis and are coordinating efforts to address the issue, considering factors such as heat stroke, dehydration, malnutrition, and toxic agro-chemicals as possible causes. The country is also facing water scarcity, with below-average rainfall leading to drying lakes and dams, and a record number of cities experiencing temperature highs, resulting in heat-related human fatalities.
+
+Wed, 22 May 2024 15:09:43 +0530
+### [No seat available, a passenger stands on IndiGo flight: What’s going on?](https://www.firstpost.com/explainers/passenger-stands-on-indigo-flight-13773709.html)
+
+An IndiGo flight from Mumbai to Varanasi was forced to return to the airport before takeoff due to an overbooking issue. The crew noticed a standby passenger, an IndiGo employee on staff leisure travel, standing at the rear of the plane. The flight was delayed for an hour as the passenger was deboarded and cabin baggage was checked. The Directorate General of Civil Aviation (DGCA) has requested a report from IndiGo on the incident. Overbooking is a common practice among airlines to avoid empty seats, but regulations require compensation for passengers denied boarding. In a similar case in 2022, Air India was fined for not compensating passengers accordingly. IndiGo has acknowledged the incident and expressed regret for the inconvenience caused.
+
+Wed, 22 May 2024 14:28:16 +0530
+### [India owes the UK Rs 91 crore in congestion charges: What are these? Why is there a dispute over them?](https://www.firstpost.com/explainers/london-congestion-charges-india-uk-diplomatic-row-13773690.html)
+
+Overseas embassies in London owe over £143 million in unpaid congestion charges, with the US Embassy having the largest debt. The congestion charge, introduced in London in 2003, is a fee for vehicles entering certain zones during peak hours to reduce traffic and pollution. Diplomatic missions argue they are exempt under the Vienna Convention, which exempts diplomats from domestic taxes, viewing the charge as a tax. However, Transport for London insists it is a service fee, not a tax, and is seeking to recover the debts through diplomatic channels and potentially the International Court of Justice. The US Embassy owes £14.6 million, while the Embassy of Japan and the Office of the High Commissioner for India follow with £10.1 million and over £8.55 million, respectively. The debate continues as some embassies comply with the charge, while others refuse, citing diplomatic immunity.
+
+Wed, 22 May 2024 13:50:52 +0530
+### [Why ICC's arrest warrant for Israel's leaders has pitted President Joe Biden against US allies](https://www.firstpost.com/explainers/iccs-arrest-warrantjoe-biden-allies-13773700.html)
+
+The article discusses the International Criminal Court's (ICC) request for arrest warrants against Israeli leaders, which has caused tension between US President Joe Biden and European allies. The ICC's chief prosecutor, Karim Khan, has accused Israel's Prime Minister Benjamin Netanyahu, Defense Minister Yoav Gallant, and Hamas leaders of crimes against humanity. While Netanyahu and Gallant are not at immediate risk of arrest, the move has highlighted Israel's isolation and could hinder their international travel.
+
+European countries like France and Belgium support the ICC's independence, while others, including the UK and Czech Republic, criticize the move. Experts have voiced concerns over Biden's stance, with some accusing him of lacking principle in his defense of Israeli leaders and his disregard for international organizations. The ICC's actions suggest confidence in the charges, but also highlight the limited capacity to address the broader context of the alleged crimes. The situation in Gaza is dire, with widespread hunger and potential famine. The article concludes with the impact of the potential warrants on Israeli leaders' international travel and the ongoing conflict between Israel and Hamas.
+
 Wed, 22 May 2024 13:35:11 +0530
 ### [What is EU's Copernicus service that Iran sought to track Raisi's crashed chopper? How does it work?](https://www.firstpost.com/world/what-is-eus-copernicus-service-that-iran-sought-to-track-raisis-crashed-chopper-how-does-it-work-13773639.html)
 

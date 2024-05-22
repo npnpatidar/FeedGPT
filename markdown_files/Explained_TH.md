@@ -1,3 +1,14 @@
+Wed, 22 May 2024 16:05:38 +0530
+### [Amul goes global: A look at the dairy giant’s journey from Kaira to US](https://www.thehindu.com/business/amul-goes-global-a-look-at-the-dairy-giants-journey-from-kaira-to-us/article68200707.ece)
+
+**Amul's Expansion to the U.S. and Its Historical Growth**
+
+Amul, India's largest dairy cooperative, has announced its entry into the U.S. market by partnering with the Michigan Milk Producers Association (MMPA). They plan to launch four variants of fresh milk targeting the NRI and Asian population in key U.S. cities. This marks Amul's first venture in selling fresh milk outside India, adding to its existing exports to 50 countries.
+
+The article traces Amul's journey from its inception in 1946 as a response to unfair milk trade practices in Anand, Gujarat. Farmers, under the guidance of leaders like Sardar Vallabhbhai Patel and Morarji Desai, formed the Kaira District Co-operative Milk Producers’ Union, which later became Amul. Dr. Verghese Kurien played a pivotal role in its growth, leading to the establishment of a processing plant in Anand and the launch of Operation Flood, which transformed India into the world's largest milk producer.
+
+Amul's product range includes milk, ice-cream, curd, ghee, butter, paneer, and other dairy products, along with recent diversifications into biofuel. Its iconic advertising campaign featuring the Amul girl has been recognized as the world's longest-running ad campaign. Despite challenges and leadership changes, Amul continues to thrive, with a turnover of Rs 72,000 crores ($9 billion) in FY 23-24, and plans for further global expansion. The cooperative's success story is a testament to the power of collective farmer efforts and innovative leadership.
+
 Wed, 22 May 2024 11:07:08 +0530
 ### [What is animal diplomacy, a longstanding tradition of soft power? | Explained](https://www.thehindu.com/news/international/what-is-animal-diplomacy-a-longstanding-tradition-of-soft-power-explained/article68202611.ece)
 
