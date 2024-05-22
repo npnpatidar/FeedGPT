@@ -1,3 +1,8 @@
+Wed, 22 May 2024 01:37:51 +0000
+### [What is Copernicus Emergency Management Service, called in to locate Raisi’s chopper?](https://indianexpress.com/article/explained/what-is-copernicus-emergency-management-service-called-in-to-locate-raisis-chopper-9343561/)
+
+Following the helicopter crash involving Iranian President Ebrahim Raisi, the EU activated its **Copernicus Emergency Management Service (EMS)** rapid mapping service to aid in the search. The service, part of the broader Copernicus programme, uses satellite data to monitor Earth and support various applications, including emergency response. Operational since 2012, the EMS offers two main components: mapping and early warning. The mapping component, which was used in the search for Raisi's helicopter, provides rapid maps for immediate disaster response and risk and recovery maps for long-term management. The rapid mapping service delivers maps and analyses within hours or days globally, offering four types of products to assess and understand the emergency's impact. The Copernicus programme, established in 1998 and initially named GMES, is implemented by the European Commission with support from the ESA and EEA. It provides geo-spatial information for managing natural disasters, emergencies, and crises, available to users on a full, open, and free-of-charge basis.
+
 Tue, 21 May 2024 14:30:30 +0000
 ### [Expert Explains: Why the ICC Prosecutor has asked for an arrest warrant against Netanyahu, and what could happen now](https://indianexpress.com/article/explained/explained-global/expert-explains-icc-prosecutor-netanyahu-arrest-9343254/)
 

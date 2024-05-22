@@ -1,3 +1,8 @@
+Wed, 22 May 2024 09:36:05 +0530
+### [Putin’s visit to Beijing, the story of a hug and why Russia will never become China’s ‘vassal’ state](https://www.firstpost.com/opinion/putins-visit-to-beijing-the-story-of-a-hug-and-why-russia-will-never-become-chinas-vassal-state-13773563.html)
+
+The article discusses the complex and multifaceted relationship between Russia and China, particularly in the context of recent interactions between their leaders, Vladimir Putin and Xi Jinping. It highlights the symbolic nature of their public gestures, such as a rare embrace, which signals a deepening bond and mutual trust. The piece argues against the notion that Russia is becoming a vassal state to China, emphasizing the interdependence between the two nations. It points out that both countries have a shared interest in developing ties as a counterbalance to Western influence and that their economic, military, and geopolitical cooperation is becoming increasingly secure. The article also touches on the implications of this relationship for India and the West, suggesting that simplistic narratives about Russia's dependency on China are misleading. It concludes that the Russia-China partnership is underpinned by a web of interdependencies that make their alliance structurally secure, and understanding this is crucial for formulating effective policies. The views expressed are personal to the author and do not necessarily reflect those of the publication.
+
 Tue, 21 May 2024 18:08:15 +0530
 ### [Putin and Xi meet up again: Time for India to rework its ties with Russia, China, and US](https://www.firstpost.com/opinion/putin-and-xi-meet-up-again-time-for-india-to-rework-its-ties-with-russia-china-and-us-13773379.html)
 

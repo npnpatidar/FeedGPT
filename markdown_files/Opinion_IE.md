@@ -1,3 +1,61 @@
+Wed, 22 May 2024 03:19:48 +0000
+### [‘Aattam’ frames a woman’s loneliness after she complains of sexual harassment](https://indianexpress.com/article/opinion/columns/aattam-frames-woman-loneliness-sexual-harassment-9343881/)
+
+Anand Ekarshi's Malayalam film "Aattam" (The Play), awarded the best film at the Kerala Film Critics Awards, explores the theme of truth-telling by a woman who has faced sexual harassment. Drawing structural inspiration from "Twelve Angry Men," the film shifts the setting from a legal framework to a creative workplace, where a drama company must decide the fate of a member accused of molesting the only female troupe member, Anjali. The narrative delves into the complexities of group dynamics and the challenges faced by a victim in a male-dominated environment, highlighting the societal pressures and misconceptions about rights and freedoms. The film's backdrop in Kerala, known for high education levels among women but also rampant sexual harassment, adds significance to its message. Contrasting with other Indian films that often focus on rape and courtroom gaslighting, "Aattam" presents a nuanced take on workplace harassment and the power imbalances within a small theatre group. It raises questions about the efficacy of judgement processes and offers a perspective on a woman's struggle to control her own narrative in the face of adversity. The article concludes with a brief mention of Maneka Gandhi's political campaign, unrelated to the main content of the film's discussion.
+
+Wed, 22 May 2024 02:58:04 +0000
+### [C Raja Mohan writes: A time for para diplomacy](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-time-para-diplomacy-9343876/)
+
+The article discusses the Shiromani Akali Dal's (SAD) manifesto, which includes a proposal to negotiate with Pakistan for an exchange of territory to reclaim Kartarpur Sahib. It highlights the challenges of altering the territorial status quo and suggests that enhancing cross-border trade and economic cooperation is more practical. The piece notes Pakistan's reluctance to engage in economic cooperation with India due to unresolved issues over Kashmir and mentions recent developments where Pakistan showed interest in resuming trade ties.
+
+The article also explores the concept of "para diplomacy" or "sub-state diplomacy," where provincial and local governments engage in formal interactions to promote shared national goals. It reflects on the history of India-Pakistan relations and the occasional use of substate diplomacy to foster cooperation. The writer suggests that the next Indian government should reconsider para diplomacy as a tool of statecraft and work towards building consensus with regional parties in border provinces to develop productive relationships with neighbors.
+
+The writer is identified as a contributing editor on international affairs for The Indian Express and a visiting professor at the Institute of South Asian Studies, National University of Singapore. The article concludes with a brief mention of Maneka Gandhi's political campaign in Sultanpur, emphasizing her focus on work and personal relationships with voters.
+
+Wed, 22 May 2024 01:37:54 +0000
+### [In Mumbai’s hoarding collapse deaths, the precarity of life in India’s cities is visible](https://indianexpress.com/article/opinion/columns/in-mumbais-hoarding-collapse-deaths-the-precarity-of-life-in-indias-cities-is-visible-9343527/)
+
+The article discusses the collapse of a massive billboard in Mumbai's Ghatkopar area during a storm, which resulted in 16 fatalities. The incident led to the arrest of the media company director responsible for the billboard and prompted the Chief Minister to order structural audits for hoardings. The author argues for state accountability and reflects on the enforcement of urban development norms.
+
+The article highlights three main points:
+1. **State Negligence**: The state's disregard for human life is evident in its failure to ensure the safety of public infrastructure. The Ghatkopar hoarding, which was larger than permitted and had a weak foundation, was ignored by the state despite multiple notices, and audits were only ordered after the tragedy.
+2. **Lack of Accountability**: The state avoids accountability in public-private partnerships, blaming private entities alone. While private firms are responsible, the ultimate responsibility lies with the state, which has not held any officials accountable for the collapse.
+3. **Selective Enforcement**: The enforcement of urban development norms is inconsistent and often fails to ensure citizen safety. The article cites instances where the BMC has acted against street vendors and minorities while ignoring significant infractions like the illegal Ghatkopar hoarding.
+
+The writer, an architect and graduate scholar, concludes that the Ghatkopar incident exemplifies the state's criminal neglect and refusal to accept accountability, highlighting the precariousness of human life in Indian cities.
+
+Wed, 22 May 2024 01:25:34 +0000
+### [Manthan at Cannes: Reigniting the spark](https://indianexpress.com/article/opinion/editorials/manthan-at-cannes-reigniting-the-spark-9343530/)
+
+The article discusses the screening of the restored 4K version of the 1976 film **Manthan** at the Cannes International Film Festival, alongside Payal Kapadia's **All We Imagine As Light**. **Manthan**, directed by Shyam Benegal, symbolizes a period of creative disruption in Indian cinema, marked by experimentation in storytelling and form. Notably, it was crowdfunded by 500,000 farmers from Gujarat, reflecting cinema's potential to empower marginalized communities. The film, a fictionalized depiction of India's dairy cooperative movement, addresses caste and gender hierarchies, offering a timeless reflection on democracy.
+
+The article poses a question about the legacy of the parallel cinema movement, which offered diverse visions and tackled various concerns. It suggests that despite the dominance of commercial cinema and the decline of parallel cinema, the production of films like Kapadia's and the success of smaller films indicate a possible resurgence of creative cinema in India, albeit in a new form. The juxtaposition of **Manthan** and **All We Imagine As Light** at Cannes highlights the evolution of Indian cinema over nearly five decades.
+
+Wed, 22 May 2024 01:20:29 +0000
+### [Rise in voter turnout in J&K: Hold Assembly elections](https://indianexpress.com/article/opinion/editorials/rise-in-voter-turnout-in-jk-hold-assembly-elections-9343529/)
+
+The article discusses the significant reduction in terrorist incidents and civilian deaths in Jammu and Kashmir since the abrogation of Article 370, as stated by Home Minister Amit Shah. Prime Minister Narendra Modi highlighted the increase in tourism and the equal rights for the citizens of J&K and Ladakh as a result of the end of special status. However, the lack of an elected government since 2018 is noted as a shortfall in fulfilling the promise of equal rights.
+
+The Chief Election Commissioner, Rajiv Kumar, expressed confidence in holding assembly polls in J&K following successful elections in Srinagar and Baramulla, which saw high voter turnouts, indicating the people's desire to exercise their political rights despite recent violence. The article emphasizes the importance of conducting assembly elections promptly as a step towards restoring statehood and acknowledges the people's faith in the democratic process.
+
+Wed, 22 May 2024 01:15:24 +0000
+### [Graduate Route visa and Rishi Sunak’s heavy hand](https://indianexpress.com/article/opinion/editorials/graduate-route-visa-and-rishi-sunaks-heavy-hand-9343528/)
+
+The article discusses UK Prime Minister Rishi Sunak's policy shift in an election year, moving away from prudence to populism, particularly concerning the Graduate Route visa scheme for international students. The scheme, which allows international graduates to stay in the UK for work opportunities, has been beneficial for the UK's economy and education sector, especially post-Brexit and post-pandemic. However, Sunak's government is considering restricting the scheme to curb immigration, which could harm the interests of UK citizens and the financial stability of British universities. The article also criticizes the government's broader policy approach, highlighting the controversial Rwanda Bill as an example of myopic conservatism and bad policymaking that fails to address complex issues effectively.
+
+Wed, 22 May 2024 01:06:39 +0000
+### [May 22, 1984, Forty Years Ago: Cong Shock Defeat](https://indianexpress.com/article/opinion/40-years-ago/may-22-1984-forty-years-ago-cong-shock-defeat-9343531/)
+
+Here's a summary of the article:
+
+- The **Congress (I)** experienced significant losses in the assembly by-elections across multiple states, securing only seven out of 19 seats. Other parties like the **BJP**, **DMK**, and various regional parties also won seats.
+- **Shiv Sena** has been in the spotlight due to a surge in violence in Bombay, with nearly 90 people killed over four days, including a tragic incident in Bhiwandi where up to 27 people were reportedly burnt alive.
+- **Pakistan President Ziaul Haq** expressed satisfaction with the progress of India-Pakistan talks on bilateral issues, encouraging continued dialogue towards a friendship treaty and a no-war pact.
+- In Andhra Pradesh, **Y S Rajasekhara Reddy** resigned as the Congress-I committee president after the party's defeat in the Bandar assembly by-election.
+- The **Supreme Court** dismissed petitions to review its decision on the abrogation of **Article 370**, affirming the 2019 action by the Union government and the constitutional validity of two Presidential Orders.
+
+This summary excludes any unrelated content that may have been present in the original article.
+
 Tue, 21 May 2024 13:49:55 +0000
 ### [Pratap Bhanu Mehta writes on ICC seeking arrest of Benjamin Netanyahu: Why we need humanity’s law](https://indianexpress.com/article/opinion/columns/benjamin-netanyahu-arrest-israel-gaza-war-9343084/)
 

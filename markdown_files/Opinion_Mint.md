@@ -1,3 +1,21 @@
+Wed, 22 May 2024 08:30:15 +0530
+### [The India-Iran Chabahar port project will test our diplomacy](https://www.livemint.com/opinion/online-views/the-india-iran-chabahar-port-project-will-test-our-diplomacy-11716301285321.html)
+
+The article discusses the geopolitical implications of the death of Iranian President Ebrahim Raisi, particularly concerning India's involvement with Iran's Chabahar port. The port is strategically located and is significant for India's trade routes and geopolitical ambitions. India recently renewed a 10-year deal to jointly develop and operate the port, committing $370 million to its upgrade. This move strengthens ties between India and Iran despite US sanctions.
+
+However, Raisi's death introduces uncertainty regarding the future of India-Iran relations and the Chabahar project. The upcoming election in Iran may result in a hardliner president, potentially affecting the project's progress. The article also highlights the challenges posed by the US's stance on sanctions and the geopolitical situation in Afghanistan following the Taliban takeover, which impacts the original trade plans involving Chabahar.
+
+Furthermore, the article touches on India's strategic autonomy, its relationship with Israel, and the potential impact of the Chabahar port on India's trade routes, including the India-Middle-East-Europe Economic Corridor. It also mentions the competition from Pakistan's Gwadar port, developed with China, which could test India's geopolitical skills and strategies. The article concludes by emphasizing Chabahar's critical role in India's strategic interests and the challenges that lie ahead.
+
+Wed, 22 May 2024 07:15:11 +0530
+### [Mint Quick Edit | Kashmir's Lok Sabha poll turnout is a good sign](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-kashmirs-lok-sabha-poll-turnout-is-a-good-sign-11716301386868.html)
+
+The article discusses the significant voter turnout in the recent Parliamentary elections in Jammu and Kashmir (J&K), nearly five years after the revocation of Article 370 of the Indian Constitution. This high participation rate is seen as a positive sign for the re-establishment of democratic processes in the region. The turnout was notably higher than in previous elections, with some constituencies witnessing the highest levels in decades.
+
+The article suggests that the increased turnout may indicate an electorate that felt secure enough to vote, as the region experienced relative calm and a decreased fear of terror attacks. Women's participation at polling stations was particularly highlighted.
+
+Overall, the turnout figures are viewed as indicative of an improved security situation in J&K, aligning with the long-term goal of peace in the area. However, the article notes that the process of restoring full popular representation is not complete, with the last assembly elections having taken place a decade ago. The Supreme Court has set a deadline for September, anticipating that assembly elections will follow shortly thereafter. The article concludes by hinting at the possibility of assembly polls in J&K soon after the Lok Sabha Election 2024, as suggested by the Chief Election Commissioner after a record turnout in Baramulla.
+
 Tue, 21 May 2024 17:29:59 +0530
 ### [Rishi Sunak’s visa politics has implications for Indian students](https://www.livemint.com/opinion/online-views/rishi-sunak-s-visa-politics-has-implications-for-indian-students-11716287452794.html)
 
