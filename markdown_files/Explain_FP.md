@@ -1,3 +1,22 @@
+Wed, 22 May 2024 06:00:00 +0530
+### [FirstUp: Vice President Dhankhar to visit Iran, Tesla's hearing at Delhi HC... Big headlines today](https://www.firstpost.com/explainers/firstup-vice-president-dhankhar-to-visit-iran-teslas-hearing-at-delhi-hc-big-headlines-today-13773304.html)
+
+Here's a summary of the key points from the article:
+
+- **Vice President Jagdeep Dhankhar's Visit to Iran**: Vice President Dhankhar is set to visit Iran to attend a ceremony expressing condolences for the deaths of Iranian President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian, who perished in a helicopter crash.
+
+- **Tesla's Trademark Infringement Case**: The Delhi High Court will continue hearing the trademark infringement case where Tesla Inc. has sued a Gurugram-based battery maker, Tesla Power India, for using a similar trademark.
+
+- **Salman Khan's House Firing Case**: The Bombay High Court will hear updates on the inquiries into the custodial death of a suspect involved in the firing outside Salman Khan's residence.
+
+- **Water Cuts in Mumbai**: Mumbai residents are facing a 16-hour water cut due to a major maintenance operation by the Brihanmumbai Municipal Corporation aimed at improving the city's water infrastructure.
+
+- **Land Scam Case Involving Hemant Soren**: The Supreme Court will hear the bail plea of former Jharkhand Chief Minister Hemant Soren, who is challenging his arrest by the Enforcement Directorate in connection with an alleged land scam.
+
+- **Rahul Gandhi's Campaign in Haryana**: Congress leader Rahul Gandhi, along with AICC president Mallikarjun Kharge, will hold rallies in Haryana as part of the ongoing Lok Sabha election campaign.
+
+These are the main events and legal proceedings highlighted in the article.
+
 Tue, 21 May 2024 21:09:40 +0530
 ### [The Russia-Ukraine war is now impacting eagles. Here's how](https://www.firstpost.com/explainers/russia-ukraine-war-impacting-eagles-13773461.html)
 
@@ -7710,38 +7729,60 @@ Russia and China are collaborating on a project to construct a nuclear power pla
 Wed, 6 Mar 2024 13:02:48 +0530
 ### [Facebook, Instagram down: How much did Mark Zuckerberg lose?](https://www.firstpost.com/explainers/meta-facebook-instagram-outage-mark-zuckerberg-lose-millions-13745756.html)
 
-Article found but Couldn't summarize 
-Meta’s Facebook, Instagram, Messenger and Threads witnessed a nearly two-hour-long outage on Tuesday, affecting millions of global users. While it is not confirmed how much this cost the social media giant, it is speculated that founder and CEO Mark Zuckerberg lost over $100 million (Rs 832 crore)
+Meta experienced a significant outage on Tuesday, March 5, affecting Facebook, Instagram, Messenger, and Threads for nearly two hours. The outage, which did not impact WhatsApp, led to a flurry of user complaints about being logged out and unable to log back in, especially those with two-factor authentication. Meta acknowledged the issue, attributing it to a technical problem without specifying further details.
+
+The financial impact of the outage is estimated to be substantial for Meta and its CEO, Mark Zuckerberg, with speculations of a loss exceeding $100 million. Meta's share price dropped by 1.6% during the outage. Experts referenced a similar outage in 2021 to estimate the financial loss, suggesting that the company may have incurred even higher losses this time due to increased advertising rates.
+
+This is not the first instance of service disruptions for Meta; previous outages occurred in October 2022 (WhatsApp) and October 2021 (Facebook, Instagram, WhatsApp, and Messenger), with the latter lasting close to six hours due to a configuration change error. Zuckerberg has previously apologized for such disruptions, emphasizing the importance of staying connected. Amid the recent outage, Elon Musk made a remark highlighting the functionality of his own servers. Meta has resolved the issue and apologized for any inconvenience caused.
 
 Wed, 6 Mar 2024 11:37:28 +0530
 ### [PM unveils India's first underwater metro in Kolkata: All you need to know](https://www.firstpost.com/explainers/pm-modi-unveils-indias-first-underwater-metro-in-kolkata-all-you-need-to-know-13745617.html)
 
-Article found but Couldn't summarize 
-PM Modi has inaugurated the Howrah Maidan-Esplanade section of Kolkata Metro’s East-West corridor — India’s first-ever underwater metro route. The 16.6-kilometre-long corridor will connect Howrah and Salt Lake, Kolkata's twin cities
+India has inaugurated its first underwater metro route in Kolkata, connecting Howrah and Salt Lake. The East-West Metro corridor's Howrah Maidan-Esplanade section, constructed beneath the Hooghly River, spans 4.8 kilometers of the 16.6-kilometer-long corridor. This historic project, implemented by Kolkata Metro Rail Corporation Limited at an estimated cost of Rs 8,575 crore, aims to alleviate air pollution and traffic congestion, enhancing the city's sustainability.
+
+The underwater stretch includes India's deepest metro station at Howrah and will feature three stations as part of the underwater segment. Ticket prices are expected to start at Rs 5, increasing with distance, and trains will travel at 80 kilometers per hour, crossing the underwater section in approximately 45 seconds. The project anticipates a daily ridership of seven lakh.
+
+Technical aspects of the tunnel include a diameter of 6.1 meters externally, with walls made of M50-grade reinforced concrete to minimize water permeability. The tunnel was completed using German tunnel boring machines in 2017, marking a significant engineering achievement.
+
+The concept of an underwater transit system dates back to a 1921 proposal by British engineer Harley Dalrymple-Hay. Although his initial project was shelved due to financial and soil quality concerns, the idea has now been realized, contributing to Kolkata's historical significance as the location of India's first metro system, which began service in 1984. The new underwater metro is expected to provide seamless connectivity and contribute to traffic reduction in the city.
 
 Wed, 6 Mar 2024 11:25:21 +0530
 ### [Taiwan wanted to hire Indians from the Northeast: Why has it sparked a row?](https://www.firstpost.com/explainers/taiwan-labour-minister-hsu-ming-chun-remarks-northeast-indians-controversy-13745669.html)
 
-Article found but Couldn't summarize 
-Taiwan is looking to hire Indian workers as it faces a labour shortage. But its minister’s remarks on recruiting northeastern Indians because they have ‘similar skin colour and diets like us’ has triggered a controversy
+Taiwan's plan to recruit Indian workers has sparked controversy due to remarks made by its labor minister, Hsu Ming-chun. In an interview, she suggested that Taiwan may recruit workers from India's northeast, citing similarities in skin color and diet. This comment was criticized as racist by both ruling and opposition parties in Taiwan. The Taiwanese government has since issued apologies, emphasizing that recruitment will be based on meeting industry demands, not ethnicity.
+
+The controversy arose amidst Taiwan's efforts to address labor shortages in manufacturing, construction, and agriculture due to demographic challenges. An agreement between India and Taiwan aims to facilitate migration and employment, with initial recruitment focusing on English-proficient workers. Follow-up meetings will discuss further details of employment opportunities.
+
+The incident occurs against a backdrop of strengthening ties between India and Taiwan, marked by cultural, educational, trade, and investment links. Despite lacking formal diplomatic relations due to the "One-China" policy, the two regions have established business and cultural centers to foster bilateral relations. Taiwanese companies like Foxconn are expanding operations in India, reflecting growing economic collaboration. Meanwhile, tensions between Taiwan and China continue to escalate.
 
 Wed, 6 Mar 2024 10:27:58 +0530
 ### [Explained: Bitcoin's history and biggest controversies](https://www.firstpost.com/explainers/explained-bitcoins-history-and-biggest-controversies-13745648.html)
 
-Article found but Couldn't summarize 
-On Tuesday, Bitcoin’s prices rose above $69,000, surpassing the all-time high of $68,999 set in November 2021, after plummeting in 2022 due to a market meltdown. The cryptocurrency is now worth approximately $1.3 trillion
+Bitcoin's value soared above $69,000, breaking its previous record, amidst a market recovery that saw its price increase by over 300% since November 2022. This resurgence is attributed to the demand from new U.S. exchange-traded funds (ETFs) and the anticipated reduction in the token's supply growth. Currently, Bitcoin's market capitalization stands at approximately $1.3 trillion, a significant part of the $2.6 trillion cryptocurrency market.
+
+The recent spike in Bitcoin's value is also driven by the excitement over new financial products linked to the cryptocurrency. In January, U.S. regulators approved ETFs that track Bitcoin's price, simplifying investment in cryptocurrencies without owning them directly. Investors have invested over $7 billion into these products, contributing to Bitcoin's rapid ascent.
+
+Despite its success, Bitcoin's origins remain shrouded in mystery, with the identity of its creator, Satoshi Nakamoto, still unknown. The cryptocurrency has faced criticism for its use in illegal transactions and its environmental impact. High-profile bankruptcies and legal issues among crypto entrepreneurs have also cast a shadow over the industry.
+
+Globally, Bitcoin has seen varying levels of acceptance. While El Salvador adopted it as legal tender, its usage among the population remains low. Financial regulators in the U.S. have given Bitcoin some legitimacy by approving ETFs, which played a role in the recent price surge.
+
+Bitcoin operates on blockchain technology, ensuring secure and immutable transactions. The creation of new bitcoins, or "mining," is rewarded to those who solve complex computational problems. To control inflation, the total number of bitcoins is capped at 21 million, with the next "halving" event set to occur in April, further limiting the new supply and potentially increasing its value.
 
 Wed, 6 Mar 2024 09:49:13 +0530
 ### [How 7 men from India have been ‘duped’ into fighting Russia’s war in Ukraine](https://www.firstpost.com/explainers/seven-men-punjab-haryana-india-duped-fighting-russia-war-ukraine-13745625.html)
 
-Article found but Couldn't summarize 
-Seven men from Punjab and Haryana allege they are the victims of a con that landed them in the Russian military. They claim they were arrested by the authorities and were told to join the army or face imprisonment. The group of men are now appealing to the Centre for help
+A group of seven men from Punjab and Haryana, India, have been allegedly duped into joining the Russian military and are now being forced to participate in the conflict in Ukraine. Initially traveling to Russia for New Year celebrations, they were coerced into signing documents under the threat of imprisonment by Russian authorities. The men, identified as Gagandeep Singh, Lovepreet Singh, Narain Singh, Gurpreet Singh, Harsh Kumar, and Abhishek Kumar, were promised non-combatant roles but are now facing deployment to the frontlines without proper training.
+
+Their plight echoes that of other Indian men who have been similarly tricked, with families appealing to the Indian government for assistance. The Ministry of External Affairs has acknowledged the situation, stating that efforts are underway to secure their return. This incident is part of a larger pattern where individuals from various countries have been recruited by Russia, often under false pretenses, to fight in its military operations. The Indian embassy in Moscow is in contact with Russian authorities to facilitate the return of these individuals.
 
 Wed, 6 Mar 2024 08:56:10 +0530
 ### [Is Hollywood snubbing White men? A new lawsuit claims so](https://www.firstpost.com/explainers/hollywood-white-writer-lawsuit-cbs-studio-diversity-quota-seal-team-13745467.html)
 
-Article found but Couldn't summarize 
-Brian Beneker, a script coordinator, has sued CBS Studios and parent company Paramount for discriminating against him because of being a straight, White man. He claims that he was overlooked for a permanent staff writer’s job in favour of members from the Black and LGBTQ community. But do the allegations hold ground?
+Brian Beneker, a script coordinator for the TV show "SEAL Team," has filed a lawsuit against CBS Studios and Paramount, claiming discrimination due to diversity quotas. He alleges he was passed over for a staff writer position in favor of less experienced candidates from minority, LGBTQ, or female groups. Beneker, who has been with the show since 2017 and has written episodes, is seeking $500,000 and a full-time producer role, while challenging the legality of diversity-based hiring practices.
+
+The lawsuit highlights the broader debate on diversity, equity, and inclusion (DEI) initiatives in Hollywood and beyond. CBS had previously announced diversity goals for its reality shows and writers' rooms, aiming for significant representation of Black, Indigenous, and People of Color (BIPOC). The Oscars also introduced diversity standards for Best Picture eligibility.
+
+However, these initiatives face opposition from those who view them as excessive or discriminatory against non-minority groups. The lawsuit coincides with a recent US Supreme Court ruling against affirmative action in college admissions, further fueling the controversy over DEI programs in various sectors. Beneker's case, represented by America First Legal Foundation, reflects the ongoing tension between efforts to promote diversity and accusations of reverse discrimination.
 
 Wed, 6 Mar 2024 05:00:57 +0530
 ### [FirstUp: India's 1st underwater metro tunnel, farmers protest... The headlines today](https://www.firstpost.com/explainers/firstup-indias-1st-underwater-metro-tunnel-farmers-protest-the-headlines-today-13745486.html)
