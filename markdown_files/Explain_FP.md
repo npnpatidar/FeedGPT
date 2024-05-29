@@ -1,3 +1,737 @@
+Wed, 29 May 2024 17:34:49 +0530
+### [Running in the Mexico elections has cost 36 candidates their lives: What's behind the deadly political violence?](https://www.firstpost.com/explainers/amid-mexico-presidential-election-2024-fervour-political-violence-claims-lives-of-many-candidates-why-13776507.html)
+
+Article found but Couldn't summarize 
+The Mexico election is the most violent since 2018. At least 36 candidates seeking office have been killed since last June. Amid rampant political unrest, Mexicans, on Sunday, will navigate the future of their country
+
+Wed, 29 May 2024 16:50:02 +0530
+### [In Graphics l Why is Mount Everest so difficult to scale?](https://www.firstpost.com/explainers/international-everest-day-why-mount-everest-so-difficult-to-climb-13776488.html)
+
+Article found but Couldn't summarize 
+From hallucinations to breathing problems, climbers face several challenges on an expedition to the world's highest mountain, Mt Everest. First conquered by Tenzing Norgay and Edmund Hillary in 1953, some 6,500 people have so far reached the mountain's summit. But it is no easy feat. Here's why
+
+Wed, 29 May 2024 16:07:43 +0530
+### [Temperatures cross 52 degrees Celsius, water crisis: How Delhi is struggling this summer](https://www.firstpost.com/explainers/delhis-big-water-crisis-amid-rising-temperatures-13776365.html)
+
+Article found but Couldn't summarize 
+In addition to its soaring temperatures that already reached 52.3 degrees Celsius, Delhi now faces a water crisis. Water minister Atishi has urged people living in the city to use water wisely and accused Haryana of not releasing the National Capital’s share since 1 May
+
+Wed, 29 May 2024 15:31:16 +0530
+### [Quicksplained: Who is Major Radhika Sen, the Indian Army officer to be honoured with the UN advocacy award?](https://www.firstpost.com/explainers/quicksplained-major-radhika-sen-indian-army-officer-un-advocacy-award-13776450.html)
+
+Major Radhika Sen will be awarded the **2023 United Nations Military Gender Advocate of the Year Award** for her service with the United Nations Organisation Stabilisation Mission in the Democratic Republic of the Congo (MONUSCO). The award, which honors an individual military peacekeeper's dedication to promoting gender equality and the principles of UN Security Council Resolution 1325, will be presented by UN Secretary-General Antonio Guterres on May 30, coinciding with the International Day of UN Peacekeepers.
+
+Born in Himachal Pradesh in 1993, Major Sen joined the Indian Army eight years ago after graduating as a biotech engineer and pursuing a Master’s degree at IIT Bombay. She served as the Commander of MONUSCO’s Engagement Platoon for the Indian Rapid Deployment Battalion from March 2023 to April 2024, focusing on gender equality, education, and community support in North Kivu.
+
+Major Sen is the second Indian peacekeeper to receive this award, following Major Suman Gawani in 2019. Her efforts have been recognized by Guterres as those of a true leader and role model. Major Sen expressed her gratitude for the award, highlighting its significance in acknowledging the hard work of peacekeepers in the DRC. India is noted as the 11th largest contributor of women military peacekeepers to the UN, with a tradition of being among the largest contributors to UN peacekeeping missions.
+
+Wed, 29 May 2024 15:19:54 +0530
+### [More adult movies, sex festivals: How an entrepreneur is trying to ‘normalise’ porn in South Korea](https://www.firstpost.com/explainers/lee-hee-tae-entrepreneur-trying-to-normalise-porn-in-south-korea-13776390.html)
+
+Article found but Couldn't summarize 
+South Korean entrepreneur Lee Hee-tae is trying to push the conservative country to be ‘more open’ about sex. Lee says the demand for adult content has grown in the country and beyond amid the K-pop culture boom
+
+Wed, 29 May 2024 14:33:26 +0530
+### [How many Indians are dying of heatwave? Why has getting reliable data been a problem?](https://www.firstpost.com/explainers/india-heatwave-13776457.html)
+
+Article found but Couldn't summarize 
+An intensive heatwave has gripped India, with temperatures touching nearly 50 degrees Celsius in some of the northern parts of the country. Data from the National Centre for Disease Control (NCDC) shows that India recorded 60 heat-related deaths since 1 March. But experts say it is difficult to diagnose such deaths and that the real numbers are likely far higher
+
+Wed, 29 May 2024 14:19:13 +0530
+### [Explained: Why North Korea resorted to ‘poo warfare’ against the South](https://www.firstpost.com/explainers/explained-why-north-korea-resorted-to-poo-warfare-against-the-south-13776448.html)
+
+Article found but Couldn't summarize 
+North Korea has sent over 150 balloons filled with trash, excrement, and propaganda leaflets into South Korea. This act, condemned by the South as dangerous and inhumane, is part of a broader pattern of provocations including balloons sent from South Korea, and missile tests and military drills by both sides
+
+Wed, 29 May 2024 14:05:27 +0530
+### [Meet Dick Schoof, ex-spy chief likely to become new Dutch PM](https://www.firstpost.com/explainers/meet-dick-schoof-ex-spy-chief-likely-to-become-new-dutch-pm-13776431.html)
+
+Article found but Couldn't summarize 
+On Tuesday, a former head of the Dutch intelligence agency and counterterrorism office was unexpectedly nominated to become the next prime minister of the Netherlands. The nomination of 67-year-old Dick Schoof came after leaders forming a four-party coalition, led by Geert Wilders' far-right Party for Freedom, endorsed him
+
+Wed, 29 May 2024 12:56:56 +0530
+### [PM Modi to meditate at Vivekananda Rock Memorial for 3 days: Why this monument is special](https://www.firstpost.com/explainers/pm-modi-to-meditate-at-vivekananda-rock-memorial-in-kanniyakumari-after-lok-sabha-campaign-ends-13776301.html)
+
+Article found but Couldn't summarize 
+After concluding the Lok Sabha campaign, PM Modi will embark on a spiritual retreat to the Vivekananda Rock Memorial in Tamil Nadu’s Kanyakumari on 30 May. The visit holds significance as Kanyakumari is where Swami Vivekananda claimed to have had a vision of ‘Bharat Mata’
+
+Wed, 29 May 2024 12:52:50 +0530
+### [‘All Eyes on Rafah’ has taken over social media: Where and how did it all start?](https://www.firstpost.com/explainers/all-eyes-on-rafah-social-media-where-and-how-did-it-all-start-13776391.html)
+
+The article discusses the aftermath of an Israeli airstrike in Rafah, Gaza, which resulted in the deaths of 45 civilians. It highlights the viral social media campaign "All Eyes on Rafah," featuring an AI-generated image shared by celebrities and activists to raise awareness about the conflict. The phrase originated from a comment by a WHO director, emphasizing global attention on Rafah. The article details the humanitarian crisis in Rafah, with over a million Palestinians displaced and struggling with limited resources. It also covers international reactions, including condemnation of the airstrike and the International Court of Justice's order for Israel to cease operations in Rafah. The US has not classified the Israeli actions as crossing a red line but is monitoring the situation. The Israeli Prime Minister acknowledged the tragedy of the airstrike and stated an investigation is underway. The article concludes with various international perspectives on the incident.
+
+Wed, 29 May 2024 12:50:49 +0530
+### [Australia firm freezes its first patient. Can cryogenics help bring people back to life?](https://www.firstpost.com/explainers/australia-firm-freezes-its-first-patient-can-cryogenics-help-bring-people-back-to-life-13776385.html)
+
+Article found but Couldn't summarize 
+An Australian cryonics company, Southern Cryonics, sparked a widespread debate after successfully freezing their first client, known as 'Patient One'. The man, in his 80s, passed away in a Sydney hospital before being transported to Southern Cryonics’ facility in Holbrook, New South Wales. There, his body was cryogenically preserved at -196°C, with the hope that future medical advancements might one day revive him
+
+Wed, 29 May 2024 11:11:07 +0530
+### [Flesh in septic tank of Kolkata flat, search for body parts in canal: How cops are piecing together Bangladesh MP’s murder](https://www.firstpost.com/explainers/bangladesh-mp-anwarul-azim-anar-murder-kolkata-investigation-body-parts-13776342.html)
+
+Article found but Couldn't summarize 
+As the investigation continues into the murder of Bangladesh MP Anwarul Azim Anar, flesh and hair were recovered from a septic tank of a Kolkata flat. Forensic teams will probe if they are part of the dismembered body of the politician
+
+Wed, 29 May 2024 09:51:29 +0530
+### [Mumbai’s multi-crore undersea Coastal Road tunnel leaks 2 months after inauguration: What’s going on?](https://www.firstpost.com/explainers/mumbai-multi-crore-undersea-coastal-road-tunnel-leaks-whats-going-on-13776304.html)
+
+Article found but Couldn't summarize 
+The Coastal Road tunnel in Mumbai, India’s first undersea tunnel, saw seepage and water leakage just two months after it was inaugurated amid much fanfare. Maharashtra chief minister Eknath Shinde inspected the site and assured commuters that there was no reason to be alarmed and that the leaks would be fixed ahead of the upcoming monsoon season
+
+Wed, 29 May 2024 09:47:10 +0530
+### [What is the 1999 Lahore Declaration that Nawaz Sharif admits Pakistan violated?](https://www.firstpost.com/explainers/lahore-declaration-1999-nawaz-sharif-atal-bihari-vajpayee-13776285.html)
+
+Article found but Couldn't summarize 
+The Lahore Declaration, signed on 21 February 1999, was a significant milestone in Indo-Pakistani relations. The agreement was born out of a historic summit aimed at thawing the frosty relations between the two nuclear-armed neighbours. However, Pakistan breached the agreement when it started the Kargil War
+
+Wed, 29 May 2024 07:48:13 +0530
+### [South Africa's election may be a defining moment in the nation's history. Here's why](https://www.firstpost.com/explainers/south-africas-election-may-be-a-defining-moment-in-the-nations-history-heres-why-13776073.html)
+
+The upcoming South African election is a critical test for the African National Congress (ANC), which has been in power since the end of apartheid. The election will gauge public sentiment towards the ANC, with President Cyril Ramaphosa and his party facing the possibility of losing their parliamentary majority. Polls suggest ANC support is below 50%, and the party may need to form a coalition to maintain governance and secure Ramaphosa's second term.
+
+South Africans vote for parties, not directly for the president, with the National Assembly electing the president based on the majority party. The ANC has always chosen the president since 1994, but this election could require coalition agreements for governance.
+
+Over 50 political parties are contesting, with the ANC's fate being the main focus. The Democratic Alliance (DA) and the Economic Freedom Fighters (EFF) are key opposition parties, but neither has shown a significant increase in popularity. New parties have emerged, reflecting South Africa's diverse society.
+
+Major issues include unemployment, poverty, crime, corruption, and energy crises. With the world's highest unemployment rate and over half the population in poverty, many feel the ANC hasn't improved lives post-apartheid. These issues, along with crime and corruption, are driving voters away from the ANC, potentially impacting the legacy of Nelson Mandela. Results are expected within days after the main election day.
+
+Wed, 29 May 2024 06:00:24 +0530
+### [FirstUp: South Africa goes to the polls, Modi's mega Kolkata rally...The top news today](https://www.firstpost.com/explainers/firstup-south-africa-polls-pm-modi-mega-kolkata-rally-ambani-pre-wedding-bash-big-headlines-today-13776079.html)
+
+Article found but Couldn't summarize 
+South Africa is set to begin its general elections to elect parliamentarians in the national assembly. In India, PM Narendra Modi will hold mega road show in Kolkata, whereas Congress leaders Rahul Gandhi and Mallikarjun Kharge will hold rallies in Odisha in run up final phase of Lok Sabha polls. Anant Ambani and Radhika Merchant will host their second pre-wedding bash. Several areas in Mumbai are also expected to face water cuts today
+
+Tue, 28 May 2024 21:48:56 +0530
+### [What is busy bragging? Why is it considered toxic?](https://www.firstpost.com/explainers/busy-bragging-13776206.html)
+
+Article found but Couldn't summarize 
+Busy bragging is when employees boast about being overwhelmed with work to show off their commitment to the job. A new study has found that those who do so are considered less competent and are less well liked than their colleagues – and can actually make working conditions worse for co-workers
+
+Tue, 28 May 2024 19:51:31 +0530
+### [Everest toll climbs to 8 in 2024: Why are so many people dying?](https://www.firstpost.com/explainers/everest-people-dying-13776162.html)
+
+Article found but Couldn't summarize 
+An Indian climber attempting to scale Mount Everest passed away at a hospital on Tuesday — the eight person who died trying to scale the world's tallest mountain in 2024. Last year witnessed a record high 18 deaths on Everest. But what makes Everest so deadly? And is overcrowding to blame?
+
+Tue, 28 May 2024 19:38:22 +0530
+### [Explained: Can a diamond be made in just 15 minutes?](https://www.firstpost.com/explainers/can-a-diamond-be-made-in-just-15-minutes-13775993.html)
+
+Scientists have developed a new method for synthesizing diamonds at room pressure without a starter gem, significantly reducing the time and conditions required compared to traditional methods. The process, led by Rodney Ruoff from the Institute for Basic Science in South Korea, involves using electrically heated gallium with a touch of silicone in a graphite crucible within a chamber at atmospheric pressure. By flushing hot, carbon-rich methane gas through the chamber, diamonds begin forming in just 15 minutes, with a more complete diamond film developing in two and a half hours. This method could potentially scale up diamond synthesis, offering new opportunities for industrial applications. However, the diamonds produced are currently too small for jewelry use but could be utilized for technological purposes like drilling and polishing. The research, published in Nature, suggests that silicon may act as a seed for carbon crystallization, although the exact mechanism is still under investigation. This breakthrough could have significant commercial impacts in the coming years.
+
+Tue, 28 May 2024 18:34:17 +0530
+### [NATO allies to deploy 'drone wall' on Russian border: What is this high-tech defence all about?](https://www.firstpost.com/explainers/nato-drone-wall-russian-border-high-tech-defence-13776051.html)
+
+Article found but Couldn't summarize 
+Six NATO countries, Lithuania, Latvia, Estonia, Poland, Finland, and Norway, plan to construct a 'drone wall' along their borders with Russia. This high-tech initiative aims to enhance border security by using unmanned aerial vehicles (UAVs) for continuous surveillance and anti-drone systems to counter threats
+
+Tue, 28 May 2024 18:04:57 +0530
+### [Why 10-rupee Indian notes are likely to fetch more than Rs 2 lakh at a UK auction](https://www.firstpost.com/explainers/the-rare-indian-banknotes-uk-auction-13776068.html)
+
+A pair of rare 10-rupee banknotes from India, dating back to 1918 and recovered from the SS Shirala shipwreck, are set to be auctioned in London. These notes, which survived a German U-boat attack, are expected to sell for between GBP 2,000 and 2,600. Noonans Mayfair auction house will feature these notes in their World Banknotes sale. The notes are unique due to their consecutive serial numbers and excellent condition, likely preserved within a tightly bound bundle that protected them from seawater.
+
+Additionally, a rare 100-rupee note from the British colonial period in India, estimated to fetch between GBP 4,400 and 5,000, will also be auctioned. This note is notable for its Calcutta stamp and the reverse featuring "100 rupees" in various Indian languages. A five-rupee note from the Reserve Bank of India's Persian Gulf Issue, dated between 1957-62 and adorned with the Ashoka emblem, is expected to attract bids between GBP 2,200 and 2,800.
+
+The article also references past auctions of Indian historical items in the UK, including an illustrated history of Kashmir sold in 2011, Mahatma Gandhi's gold-plated spectacles auctioned in 2020 for 260,000 pounds, and a collection of Gandhi's possessions and documents auctioned in 2013, where a mobile 'charkha' used by Gandhi fetched 110,000 pounds. Out of 516 items at this auction, 246 were Indian, collectively bringing in 212,499 pounds, with Gandhi memorabilia alone accounting for 149,485 pounds. These auctions highlight the significant interest and value attributed to Indian historical artifacts and memorabilia in the global market.
+
+Tue, 28 May 2024 16:55:20 +0530
+### [Gurmeet Ram Rahim Singh acquitted in 2002 Ranjit Singh murder case: The many crimes and controversies of the Dera Sacha Sauda chief](https://www.firstpost.com/explainers/gurmeet-ram-rahim-singh-acquitted-2002-ranjit-singh-murder-case-dera-sacha-sauda-chief-crimes-controversies-13776063.html)
+
+Article found but Couldn't summarize 
+The Punjab and Haryana High Court has acquitted Gurmeet Ram Rahim Singh and four others in the murder case of a former-dera manager Ranjit Singh. The Dera Sacha Sauda chief is currently lodged in a Haryana jail for raping two of his female disciples. There are also several other charges against him
+
+Tue, 28 May 2024 16:46:42 +0530
+### [Too hot to handle: How much heat can a human body sustain?](https://www.firstpost.com/health/too-hot-to-handle-heat-human-body-sustain-13776054.html)
+
+Article found but Couldn't summarize 
+Parts of India are grappling with extreme heat. Across the world too, temperatures are soaring, making people sweat profusely. Amid these rising temperatures, everyone seems to be asking — how hot is too hot? And what happens to the human body then? The answer, surprisingly, isn’t limited only to the thermometer; it has much to do with humidity. Here’s what you need to know
+
+Tue, 28 May 2024 16:39:58 +0530
+### [How longer and more intense heatwaves are linked to premature births](https://www.firstpost.com/health/longer-and-more-intense-heatwaves-are-linked-to-premature-births-13776049.html)
+
+Article found but Couldn't summarize 
+Examining data from 5.3 million births across the top 50 metropolitan areas in the US over 25 years, a recent study found that for every one-degree Celsius rise in temperature above a certain threshold, there was a corresponding one per cent increase in preterm and early-term births
+
+Tue, 28 May 2024 16:20:57 +0530
+### [Why Xi Jinping's meeting with leaders of UAE, Egypt, Bahrain, Tunisia in China matters](https://www.firstpost.com/explainers/why-xi-jinpings-meeting-with-leaders-of-uae-egypt-bahrain-tunisia-in-china-matters-13776010.html)
+
+Article found but Couldn't summarize 
+China is initiating a renewed diplomatic effort in West Asia and North Africa to challenge the influence of the United States in the regions. This week, leaders from Egypt, Bahrain, Tunisia, and the UAE will meet with Chinese leader Xi Jinping in Beijing. Discussions are expected to focus on the ongoing war in Gaza. Beijing may also pursue the long-anticipated free trade agreement with Gulf states
+
+Tue, 28 May 2024 15:51:47 +0530
+### [Why China has kicked its 'Kim Kardashian' off social media](https://www.firstpost.com/explainers/china-kim-kardashian-kicked-off-social-media-13775895.html)
+
+Article found but Couldn't summarize 
+Influencer and jewellery dealer Wang Hongquanxing, who earned the moniker ‘China's Kim Kardashian’, is the newest victim of the Xi Jinping-led Communist Party's campaign against extravagant behaviour and public displays of wealth. The 30-year-old’s personal profiles are currently inaccessible due to a ‘violation of self-discipline’ policy
+
+Tue, 28 May 2024 15:11:23 +0530
+### [Who are Gupta brothers arrested in India? Why is South Africa following up with New Delhi?](https://www.firstpost.com/explainers/gupta-brothers-arrested-13775985.html)
+
+Article found but Couldn't summarize 
+Originally from Uttar Pradesh’s Saharanpur, Ajay, Atul and Rajesh Gupta moved to South Africa in 1993. The brothers formed the conglomerate Sahara Group and grew extremely close to then-South African president Jacob Zuma. The brothers fled for Dubai after a series of damning reports about how they influenced the government and secured sweetheart deals from state companies came to light and Zuma was ousted
+
+Tue, 28 May 2024 15:01:19 +0530
+### [In Graphics l P for Period. How to explain menstruation to your child](https://www.firstpost.com/explainers/graphics-world-menstruation-day-period-talk-13775923.html)
+
+The article emphasizes that the conversation about menstruation, often referred to as the "period talk," doesn't have to be uncomfortable. It suggests that parents should approach this talk with their children by finding a suitable time and place that ensures privacy and a relaxed atmosphere. The use of simple, age-appropriate language is recommended to explain the biological aspects of menstruation. The article also highlights the significance of maintaining hygiene during menstruation and encourages parents to be open and reassuring, so their children feel comfortable coming to them with any questions or concerns. A handy guide is mentioned to assist in this process. The article is shared in recognition of World Menstruation Day.
+
+Tue, 28 May 2024 14:01:18 +0530
+### [British delegation calls off New Delhi visit, putting India-UK FTA talks in limbo. What is going on?](https://www.firstpost.com/explainers/british-delegation-calls-off-new-delhi-visit-putting-india-uk-fta-talks-in-limbo-what-is-going-on-13775916.html)
+
+The article discusses the unexpected cancellation of a high-ranking British delegation's visit to New Delhi, which has cast uncertainty over the ongoing India-UK free trade agreement (FTA) negotiations. The visit was crucial for finalizing terms on work visas, duty relaxations, and imports of British electric vehicles. The cancellation coincides with the UK's general elections, leading to speculation that the elections may have influenced the decision.
+
+Negotiations for the FTA began in January 2022, aiming to enhance trade cooperation and remove barriers. Despite progress, including 13 rounds of talks by December 2023, several issues remain unresolved, such as visas for Indian professionals and the UK's proposed carbon tax. The FTA is expected to boost trade, particularly in services, by facilitating skilled professional movement, and could benefit various sectors through reduced duties.
+
+Both countries are awaiting the outcomes of their respective elections, and Indian negotiators remain hopeful for a mutually agreeable solution. The completion of the FTA is a priority for India's Ministry of Commerce and Industry post-elections. The situation is described as fluid, with both nations committed to a beneficial agreement, though on a delayed timeline. The article also touches on the potential impact of the FTA on trade volumes and specific industries in both countries.
+
+Tue, 28 May 2024 13:42:02 +0530
+### [Seeing Red: How sanitary pads, menstrual waste add to India’s environmental burden](https://www.firstpost.com/explainers/world-menstrual-hygiene-day-sanitary-pads-menstrual-waste-india-environmental-burden-plastic-13775947.html)
+
+Article found but Couldn't summarize 
+Most in India continue to use a sanitary pad during their menstrual cycle, unaware of its ecological impact. The country discards over 12 billion sanitary napkins annually, which land up at landfills, clogs our sewerage system, water bodies and fields, therefore posing colossal environmental risks
+
+Tue, 28 May 2024 13:39:44 +0530
+### [Why is divorce illegal in the Philippines? Can it change soon?](https://www.firstpost.com/explainers/philippines-divorce-bill-legalise-senate-13775949.html)
+
+The Philippines, alongside the Vatican, is one of the last places where divorce remains illegal. However, a potential change is on the horizon with the passage of a divorce bill in the House of Representatives. The bill, known as the Absolute Divorce Act, proposes legal divorce under certain conditions such as physical violence, drug addiction, and marital infidelity. It passed narrowly and will face the Senate in August, requiring presidential approval to become law.
+
+Historically, divorce was permitted in the Philippines before Spanish colonization, and even during American rule and Japanese occupation, certain grounds for divorce were recognized. The current prohibition stems largely from the influence of the Catholic Church, with 78.8% of the population being Roman Catholic. Currently, Filipinos seeking to end their marriage can only opt for legal separation or annulment, the latter being costly and limited in grounds.
+
+The bill's passage has been a beacon of hope for advocates of women's rights and those trapped in unhappy marriages. Despite opposition from conservative lawmakers and religious groups, surveys indicate that over half of the population supports legalizing divorce, seeing it as a chance for a fresh start and the opportunity to find love and happiness anew. The bill's future in the Senate remains uncertain, as previous attempts have failed amidst strong opposition from the Catholic Church.
+
+Tue, 28 May 2024 13:18:57 +0530
+### [Miracles happen: How a couple survived Papua New Guinea landslide that buried 2,000](https://www.firstpost.com/explainers/a-couple-miraculously-survived-devastating-papua-new-guinea-landslide-that-buried-2000-13775795.html)
+
+Article found but Couldn't summarize 
+As rescue operations to save those who were trapped under the rubble in a deadly landslide in Papua New Guinea continue, an astonishing tale of survival was unearthed. Villagers rescued a husband and wife after nearly eight hours; their home narrowly escaped the full force of the landslip
+
+Tue, 28 May 2024 11:41:37 +0530
+### [Death and devastation as tornadoes hit US: What's causing them?](https://www.firstpost.com/explainers/death-and-devastation-as-tornadoes-hit-us-whats-causing-them-13775865.html)
+
+Article found but Couldn't summarize 
+Tornadoes and devastating thunderstorms have killed at least 22 people and left a trail of destroyed homes, businesses and power outages across several US states. More thunderstorms, wind gusts, hail and flash floods are expected. A persistent pattern of warm, moist air is to blame for the string of tornadoes over the past two months
+
+Tue, 28 May 2024 10:41:22 +0530
+### [Pune Porsche crash: How 17-year-old’s family ‘bribed’ doctors, reached out to politicians to cover-up case](https://www.firstpost.com/explainers/pune-porsche-crash-17-year-old-family-bribe-doctors-politicians-cover-up-crime-driver-13775821.html)
+
+Article found but Couldn't summarize 
+Nearly 10 days after a minor speeding in a Porsche car allegedly killed two young techies, numerous attempts are reportedly being made to cover up the juvenile’s involvement in the crime. The Pune Police has arrested two doctors from Sassoon General Hospital for destroying the teen’s blood sample after allegedly being offered Rs 3 lakh as a bribe. Questions are also being raised as to why an NCP MLA showed up at the police station after the crash
+
+Tue, 28 May 2024 10:36:05 +0530
+### [What's happening on the Kharkiv front in the Russia-Ukraine war?](https://www.firstpost.com/explainers/whats-happening-on-the-kharkiv-front-in-the-russia-ukraine-war-13775814.html)
+
+Article found but Couldn't summarize 
+A Russian attack that demolished a busy supermarket in Kharkiv on Saturday, leading to several casualties, has been the deadliest offensive on Ukrainian soil in recent times. The villages of Ivanivka in the Kharkiv region and Netailove in the Donetsk region were captured by Russian troops. Ukrainian forces recently confirmed advances near Lyptsi in northern Kharkiv Oblast
+
+Tue, 28 May 2024 10:31:02 +0530
+### [‘Headless’ child, charred remains: Inside Israel’s deadly strike on Rafah tent camp](https://www.firstpost.com/explainers/israel-rafah-strike-tent-camp-gaza-hamas-war-13775810.html)
+
+Article found but Couldn't summarize 
+At least 45 people died after Israel’s airstrikes on an area of Rafah sparked a blaze across a camp sheltering displaced civilians on Sunday night. The West Asian country is witnessing a global outcry over the attack, which its Prime Minister Benjamin Netanyahu has called a ‘tragic mistake’
+
+Tue, 28 May 2024 09:33:17 +0530
+### [Menstrual Hygiene Day: What is free bleeding and is it hygienic?](https://www.firstpost.com/health/menstrual-hygiene-day-free-bleeding-13775591.html)
+
+Free bleeding is the practice of menstruating without using traditional products like pads, tampons, or cups. It's a natural approach that's been around for centuries and has gained momentum as a movement in recent years. The practice can be hygienic if managed properly with regular cleanliness and protective layers. It's seen as a way to normalize menstruation and challenge stigmas, though some resort to it due to financial constraints.
+
+Advanced period-proof clothing, using absorbent fabrics, has made free bleeding more feasible. These garments typically have multiple layers for moisture-wicking, odor control, absorption, and leak resistance. The movement gained significant attention when Kiran Gandhi free bled during the London Marathon in 2015, highlighting issues like menstrual product taxation and environmental concerns.
+
+Hygienically, free bleeding requires maintaining cleanliness and changing protective layers to prevent bacterial growth. Dr. Melanie Bone emphasizes that it's a personal choice and what works for one may not suit another. Regular showers and wiping away menstrual fluid are recommended to avoid irritation and infection.
+
+While there are no proven health benefits, some report feeling liberated and experiencing less cramping. It also reduces the risk of toxic shock syndrome associated with prolonged tampon use and can be cost-effective over time. However, there are risks of mess, odor, and potential blood-borne virus transmission if blood is not managed properly.
+
+For those considering free bleeding, starting at home in a controlled environment is advised, using towels or period underwear to manage the flow. It's a personal decision, and comfort with the practice should guide whether to free bleed in public settings.
+
+Tue, 28 May 2024 08:05:31 +0530
+### [How South Africa elections will test Nelson Mandela’s legacy](https://www.firstpost.com/explainers/how-south-africa-elections-will-test-nelson-mandela-legacy-anc-cyril-ramaphosa-jacob-zuma-election-13774564.html)
+
+Article found but Couldn't summarize 
+After three decades of being the dominant force in South African politics, the ruling ANC party is poised to confront its most challenging election yet. The nation's first president Nelson Mandela had been at the forefront of this party and had used his global influence to create policy for one of the most important countries in Africa. But now Mandela's legacy is in jeopardy, as polls suggest that ANC will lose for the first time in its history
+
+Tue, 28 May 2024 06:00:27 +0530
+### [FirstUp: Spain, Ireland, Norway to recognise Palestine, Trump's hush money trial closing arguments... Big news today](https://www.firstpost.com/explainers/firstup-spain-ireland-norway-to-recognise-palestine-trump-hush-money-trial-closing-arguments-13775658.html)
+
+Here's a summary of the key points from the article:
+
+- **Spain, Ireland, and Norway** will officially recognize the Palestinian state, a move that has led to tensions with Israel and discussions of EU sanctions against Israel for actions in Gaza.
+- **Donald Trump's hush money trial** in New York has concluded testimonies and is moving to closing arguments. The jury will decide if Trump falsified business records to hide alleged marital infidelity during his 2016 campaign.
+- **Indian Prime Minister Modi** is set to hold a public meeting in Kolkata and visit Sarada Maa's house, amidst political tensions following protests against remarks by CM Mamata Banerjee.
+- **Nawaz Sharif** will be appointed as the President of Pakistan's ruling PML-N party following his brother Shehbaz Sharif's resignation.
+- **Egypt's President al-Sisi** and leaders from the UAE, Bahrain, and Tunisia will visit China, aligning with China's efforts to mediate the Hamas-Israel conflict.
+- **Microsoft** faces scrutiny from the EU over Bing's generative AI features and potential breaches of the Digital Services Act.
+- **Amit Shah** will address rallies in Odisha, followed by PM Modi's visit to the state.
+- **Rahul Gandhi and Akhilesh Yadav** are expected to hold a roadshow in Varanasi.
+- A **Delhi court** will review a chargesheet against CM Arvind Kejriwal and the AAP concerning an alleged scam in the Delhi Excise policy.
+- The **Karnataka BJP** plans to protest against the neglect of Bengaluru's infrastructure.
+- The article also mentions significant anniversaries and historical events for the day.
+
+This summary excludes any unrelated content or advertisements that may have been present in the article. If you need more detailed information on any of the points, feel free to ask!
+
+Mon, 27 May 2024 21:29:29 +0530
+### [End is nigh in Donald Trump hush money trial, but what happens next?](https://www.firstpost.com/explainers/donald-trump-hush-money-trial-13775711.html)
+
+Article found but Couldn't summarize 
+The past few weeks have seen a number of high-profile witnesses including Stormy Daniels and Michael Cohen take the stand and offer dramatic testimony in Donald Trump's hush money trial. Now, closing arguments will be made Tuesday after which judge Juan M Merchan will deliver instructions and the jury will adjourn to begin deliberations
+
+Mon, 27 May 2024 20:27:16 +0530
+### ['Day Zero' imminent? How Mexico City could run out of water in a month](https://www.firstpost.com/explainers/mexico-run-out-water-13775704.html)
+
+Article found but Couldn't summarize 
+Below-average rainfall has left Mexico's lakes and dams bone dry and the city of 23 million facing a water crisis for months. Experts say that Mexico City has historically struggled with water and that climate change, urban sprawl and poor infrastructure have pushed it to the edge of collapse
+
+Mon, 27 May 2024 18:40:39 +0530
+### [1 in 2 children in Indian cities to suffer from myopia in the next 25 years. Here's why](https://www.firstpost.com/explainers/myopia-cases-increase-in-children-in-india-13775605.html)
+
+Article found but Couldn't summarize 
+Doctors warn that as many as one-third of all children in urban India who are between the ages of five to 15 years are expected to suffer from myopia by 2030. Prolonged exposure to television and mobile screens and an increased sedentary lifestyle are termed as the biggest culprits
+
+Mon, 27 May 2024 18:11:37 +0530
+### [2,000 feared dead in Papua New Guinea landslide: How rescue work poses a big challenge](https://www.firstpost.com/explainers/papua-new-guinea-13775666.html)
+
+Article found but Couldn't summarize 
+All was quiet in the village of Yambali – a settlement in Papua New Guinea’s Enga province – in the early hours of Friday. Then, as the villagers slept, disaster struck. Rescuers are facing many difficulties including the approach to the village being cut off, clashes between tribes and the earth continuing to shift as a result of the landslide
+
+Mon, 27 May 2024 17:17:42 +0530
+### [You will have to pay more if visiting the Eiffel Tower in Paris. Here’s why](https://www.firstpost.com/explainers/paris-eiffel-tower-ticket-prices-rise-20-percent-renovation-costs-covid-19-losses-13775575.html)
+
+Article found but Couldn't summarize 
+Beginning next month, the tickets for visiting the Eiffel Tower will cost 20 per cent more. The city council says this will help cover ‘urgent’ renovation costs and the financial losses incurred during the COVID-pandemic
+
+Mon, 27 May 2024 16:16:16 +0530
+### [Sensex hits 76,000: What’s behind bull run? When will indice hit 1-lakh mark?](https://www.firstpost.com/explainers/sensex-bull-run-13775610.html)
+
+Article found but Couldn't summarize 
+On Monday, the 30-share BSE Sensex rose 599.29 points to an all-time peak of 76,009.68 during afternoon trade, while the NSE Nifty 50 shot up 153.7 points to hit a new lifetime high of 23,110.80. The next big question is when will the Sensex hit the 1-lakh mark? The predictions vary
+
+Mon, 27 May 2024 15:48:56 +0530
+### [After Singapore Airlines, now turbulence on Qatar flight: Can wearing seat belt keep you safe?](https://www.firstpost.com/explainers/after-singapore-airlines-now-turbulence-on-qatar-flight-can-wearing-seat-belt-keep-you-safe-13775551.html)
+
+Article found but Couldn't summarize 
+Turbulence left 12 people, including six crew, injured on a Qatar Airways flight just a week after one person was killed and many seriously injured on a Singapore Airlines aircraft. Experts say passengers underestimate the dangers of turbulence and that a seat belt can protect the body from moving or being thrown forward
+
+Mon, 27 May 2024 14:17:03 +0530
+### [Protest against FTII to Grand Prix win at Cannes: The rise of filmmaker Payal Kapadia](https://www.firstpost.com/explainers/ftii-protest-grand-prix-cannes-filmmaker-payal-kapadia-13775480.html)
+
+Article found but Couldn't summarize 
+Payal Kapadia scripted history at the 77th Cannes Film Festival with her debut feature film ‘All We Imagine as Light’ as it bagged India’s first Grand Prix award on Saturday. However, the 38-year-old director’s path to glory wasn’t smooth. As a student, she led the protests against the appointment of Gajendra Chauhan as the Film and Television Institute of India (FTII) chairman in 2015, faced disciplinary action and had an FIR against her
+
+Mon, 27 May 2024 13:59:53 +0530
+### [Will 18-year-olds in the UK have to serve in the armed forces? What is Rishi Sunak's national service plan?](https://www.firstpost.com/explainers/uk-pm-rishi-sunak-national-service-plan-military-conscription-tories-elections-13775540.html)
+
+Article found but Couldn't summarize 
+British PM Rishi Sunak has said Tories would bring back mandatory national service if they win the 4 July general elections. He said the scheme would help unite society in an ‘increasingly uncertain world’, giving young people a ‘shared sense of purpose’. What is the plan about and why is it being criticised?
+
+Mon, 27 May 2024 12:57:14 +0530
+### [War against autocorrect: What is UK's 'I am not a Typo' campaign?](https://www.firstpost.com/explainers/war-against-autocorrect-what-is-uk-i-am-not-a-typo-campaign-13775419.html)
+
+The article discusses a campaign urging tech companies to improve their autocorrect features to be more inclusive of non-Western names. The campaign, titled "I am not a Typo," highlights the struggles of individuals with Indian, Irish, and Welsh names that are often misinterpreted or marked as incorrect by autocorrect algorithms. Personal accounts from a journalist named Dhruti Shah and a content creator named Savan-Chandni Gandecha illustrate the frustration caused by the persistent misinterpretation of their names. Research by the campaign found that a significant number of non-Anglo names are deemed wrong by Microsoft's English dictionary. The article also mentions a professor at Northeastern University, Rashmi Dyal-Chand, who experiences similar issues and supports the campaign. The campaign group has written an open letter to tech giants, asking them to update their dictionaries to treat all names equally, highlighting the cultural devaluation this issue causes for racialized individuals. The article concludes with comments from a professor of computing science, Randy Goebel, who suggests that adding names to dictionaries is a simple solution, yet the urgency of addressing this problem has not been fully recognized.
+
+Mon, 27 May 2024 12:25:51 +0530
+### [Explained: India’s fire safety rules and how Rajkot gaming zone, Delhi hospital easily flouted them](https://www.firstpost.com/explainers/rajkot-gaming-zone-delhi-hospital-fire-india-safety-guidelines-13775490.html)
+
+Article found but Couldn't summarize 
+In less than 24 hours, two big fire tragedies in India claimed more than 30 lives including at least 16 children. The gaming zone in Rajkot and the Delhi hospital both flouted several fire safety guidelines. Does India take fire protection lightly?
+
+Mon, 27 May 2024 10:51:24 +0530
+### [Expired licence, unqualified doctors, nurse abuse: The many lapses at Delhi hospital where 7 newborns died in fire](https://www.firstpost.com/explainers/many-lapses-at-delhi-baby-care-hospital-fire-13775415.html)
+
+Article found but Couldn't summarize 
+As the investigation continues into the Delhi hospital fire tragedy, shocking details of negligence on the part of the owner have emerged. Officials say the hospital’s licence was expired, it did not have a clearance from the fire department and doctors are not qualified to treat the newborns. Locals allege the building was better known for its unauthorised oxygen refilling centre. The hospital also faced allegations of nurse abuse in the past
+
+Mon, 27 May 2024 10:28:58 +0530
+### [Trees uprooted, power supply hit: How Cyclone Remal battered Bengal, Bangladesh](https://www.firstpost.com/explainers/cyclone-remal-west-bengal-bangladesh-landfall-destruction-13775435.html)
+
+Article found but Couldn't summarize 
+The severe cyclonic storm Remal ushered strong winds and heavy rainfall in coastal areas of West Bengal and Bangladesh. At least three people have reportedly died as the cyclone made landfall last night
+
+Mon, 27 May 2024 09:07:14 +0530
+### [South Africa election: Who are the main parties? Which candidates are dark horses?](https://www.firstpost.com/explainers/south-africa-elections-main-parties-anc-cyril-ramaphosa-john-steenhuisen-jacob-zuma-dark-horses-13774746.html)
+
+The article discusses the current political landscape in South Africa as the country approaches its elections on May 29. The African National Congress (ANC), which has been in power for 30 years and once led by Nelson Mandela, is facing significant challenges due to unemployment, corruption, and poverty. Opinion polls suggest the ANC may lose its parliamentary majority for the first time.
+
+**President Cyril Ramaphosa**, a former protégé of Mandela, has attempted to restore the ANC's reputation by addressing government corruption. However, the country's high unemployment rate and an ongoing electricity crisis have tarnished his image as a problem solver.
+
+**John Steenhuisen**, leader of the Democratic Alliance (DA), the main opposition party, is fighting an uphill battle to save South Africa from the ANC's alleged mismanagement. The DA, which has never won a national election, formed a pre-poll alliance with smaller parties in hopes of gaining a majority, but this remains unlikely.
+
+The **Economic Freedom Fighters (EFF)**, founded by ex-ANC leader Julius Malema, has risen as a significant force, appealing to the unemployed youth with its Marxist ideology and calls for nationalization and land redistribution.
+
+**Former President Jacob Zuma** has re-entered the political scene with a new party, which could potentially divide ANC support. His return has raised security concerns, given the violent unrest following his 2021 conviction.
+
+The article suggests that the ANC, while still likely to win the largest vote share, will need coalition partners to stay in power, with the EFF being a possible ally. The political situation remains tense, with the potential for increased tensions around the election.
+
+Mon, 27 May 2024 06:00:10 +0530
+### [FirstUp: World Health Assembly in Geneva, UP court hearing in 2018 defamation case against Rahul Gandhi... Headlines today](https://www.firstpost.com/explainers/firstup-world-health-assembly-in-geneva-up-court-hearing-in-2018-defamation-case-against-rahul-gandhi-headlines-today-13774994.html)
+
+Article found but Couldn't summarize 
+The Uttar Pradesh court is scheduled to hear a defamation case filed in 2018 against Congress leader Rahul Gandhi. The 77th World Health Assembly kicks off, bringing together health ministers and officials from around the world. A by-election for a vacant MLC seat in Telangana is also taking place
+
+Sun, 26 May 2024 18:08:23 +0530
+### [In Graphics | What diet should you follow if you are sitting for long hours?](https://www.firstpost.com/health/what-diet-should-you-follow-if-you-are-sitting-for-long-hours-as-per-icmr-13774226.html)
+
+Article found but Couldn't summarize 
+With more and more people facing a increased sedentary lifestyle, food habits have gone for a toss. To better improve people's diet, India's apex health body, the Indian Council of Medical Research, has released what can be called an 'ideal' diet plan for men and women with long sitting hours
+
+Sun, 26 May 2024 16:04:41 +0530
+### [Are nightmares a sign of an autoimmune disease flare-up?](https://www.firstpost.com/health/nightmares-early-sign-of-autoimmune-disease-flare-up-13773371.html)
+
+Article found but Couldn't summarize 
+A new study published in The Lancet found nightmares often came before a disease flare-up, particularly in people who then had hallucinations as part of their disease pattern. This was more likely in people with lupus than the other rheumatological diseases such as inflammatory arthritis
+
+Sun, 26 May 2024 13:27:25 +0530
+### [Labels matter: Why you should think twice before calling your children 'lazy', 'smart'?](https://www.firstpost.com/explainers/labelling-children-lazy-smart-psychology-13773841.html)
+
+Article found but Couldn't summarize 
+While parents would like to label their children based on their abilities and characteristics, it is important to keep in mind that our labels, both positive and negative, can have an impact on their behaviour and personality. They can also have an affect a child’s self esteem and self perception
+
+Sun, 26 May 2024 12:24:09 +0530
+### [This Week in Explainers: Are the odds in Rishi Sunak’s favour as UK readies for early election?](https://www.firstpost.com/explainers/this-week-in-explainers-uk-rishi-sunak-elections-conservative-party-13774748.html)
+
+Article found but Couldn't summarize 
+The United Kingdom is yet another country holding elections this year. Prime Minister Rishi Sunak called for polls on 4 July, much earlier than expected. All this and more in our weekly roundup of explainers
+
+Sun, 26 May 2024 09:46:42 +0530
+### [French Open 2024: Did you know the clay courts at Roland Garros aren’t actually made of clay?](https://www.firstpost.com/explainers/french-open-clay-courts-roland-garros-red-dirt-history-13774655.html)
+
+Article found but Couldn't summarize 
+Prep for the French Open, the only Grand Slam to be played on clay, has ended and play begins. Work on the courts at Roland Garros starts months before the actual tournament and it is a hard, back-breaking exercise. Here’s how the grounds get its beautiful red colour
+
+Sun, 26 May 2024 09:38:02 +0530
+### [10 years of Modi govt: How has the Indian economy fared?](https://www.firstpost.com/explainers/10-years-of-narendra-modi-government-how-indian-economy-fared-13773879.html)
+
+Article found but Couldn't summarize 
+It has been 10 years since the Bharatiya Janata Party (BJP) government under Prime Minister Narendra Modi came to power. We take a look at what the decade from 2014 to 2024 has been like for the Indian economy, with a focus on the performance of economic reforms, infrastructure development, and social welfare
+
+Sat, 25 May 2024 16:23:24 +0530
+### [Quicksplained: What you need to know about the mutant Ebola virus created by Chinese scientists](https://www.firstpost.com/health/quicksplained-what-you-need-to-know-about-the-mutant-ebola-virus-created-by-chinese-scientists-13774966.html)
+
+In a significant but contentious study, scientists at Hebei Medical University in China have engineered a virus using the Ebola glycoprotein to study the disease's pathology. The experiment involved injecting hamsters with the virus, leading to severe systemic diseases and death within three days, mirroring symptoms of human Ebola patients. The study, published in ScienceDirect, demonstrated that the virus spread to multiple organs in the hamsters, with the highest viral loads in the liver. 
+
+The researchers utilized a surrogate model under Biosafety Level 2 conditions, using vesicular stomatitis virus to carry the Ebola glycoprotein, which is typically safer and more accessible than the higher-level containment required for Ebola. This model allows for rapid preclinical evaluation of treatments against Ebola virus disease (EVD). The study's findings could aid in understanding optic nerve disorders caused by EVD and contribute to developing medical countermeasures.
+
+The World Health Organisation (WHO) states that Ebola is transmitted to humans through contact with infected animals and first appeared in 1976. The study is a breakthrough in Ebola research, potentially leading to new treatments and preventive measures. However, it also raises ethical and safety concerns regarding the creation and containment of mutant viruses in laboratory settings.
+
+Sat, 25 May 2024 15:16:16 +0530
+### [UK MP Michael Gove latest to join Tories' mass exodus before election: What’s going on at the Conservative Party?](https://www.firstpost.com/explainers/uk-mp-michael-gove-latest-to-join-tories-mass-exodus-before-election-whats-going-on-at-the-conservative-party-13774922.html)
+
+Article found but Couldn't summarize 
+Conservative MPs Michael Gove and Andrea Leadsom have announced their departure from the UK House of Commons, contributing to a record-breaking number of Tory MPs stepping down. This brings the total number of sitting Conservative MPs who have declared they will not seek re-election to 78, surpassing the previous record of 72 set in 1997
+
+Sat, 25 May 2024 14:01:20 +0530
+### [Quicksplained: What is BORG drinking, and why is it a dangerous trend?](https://www.firstpost.com/explainers/quicksplained-what-is-borg-drinking-and-why-is-it-a-dangerous-trend-13773424.html)
+
+Article found but Couldn't summarize 
+BORG has recently emerged as the latest trend on social media, especially in the US. It encourages risky drinking habits among college students and young adults seeking a supposedly safer method of consuming alcohol. But what exactly is a BORG? And why are young party-goers advocating for this activity when it is, in fact, not as safe as they believe?
+
+Sat, 25 May 2024 11:41:22 +0530
+### ['Super Size Me' filmmaker Morgan Spurlock passes away. How did his documentary expose the fast food industry?](https://www.firstpost.com/explainers/super-size-me-filmmaker-morgan-spurlock-passes-away-how-did-his-documentary-expose-the-fast-food-industry-13774855.html)
+
+Article found but Couldn't summarize 
+Morgan Spurlock, the documentary filmmaker who documented his own psychological and physical symptoms from eating McDonald’s every day for a month in the Oscar-nominated 2004 film 'Super Size Me,' passed away on 24 May in upstate New York due to complications from cancer. He was 53
+
+Sat, 25 May 2024 11:10:10 +0530
+### [Where do cockroaches come from? How did they take over the world?](https://www.firstpost.com/explainers/where-do-cockroaches-come-from-how-did-they-take-over-the-world-13773288.html)
+
+The article discusses a study on the origins and global spread of modern cockroaches, particularly the German cockroach. The study, published in the Proceedings of the National Academy of Sciences, suggests that these cockroaches likely originated in India or Myanmar and spread westward over thousands of years. Genetic analysis of over 280 cockroaches from various countries indicates that the German cockroach evolved from the Asian cockroach about 2,100 years ago. They migrated west to West Asia around 1,200 years ago and reached Europe approximately 270 years ago, possibly via trade routes of the Dutch and British East India Companies. The development of transportation and indoor plumbing has facilitated their spread into homes. The research aims to understand the cockroaches' past migrations to improve pest control and address insecticide resistance. The German cockroach is known for its preference for warm, humid environments and its ability to transmit diseases like Salmonella and E. coli. Despite its name, it was first described in Europe in the 1700s, but genetic ties suggest an Asian origin. The study's findings could lead to more effective pest management strategies by exploring the cockroach's evolutionary history and genetics.
+
+Sat, 25 May 2024 09:27:54 +0530
+### [This Week in Explainers: How heatwave affects you and the country’s economy](https://www.firstpost.com/explainers/this-week-in-explainers-heatwave-heatstroke-india-economy-impact-13774641.html)
+
+Article found but Couldn't summarize 
+Parts of India are reeling under an intense heatwave and it’s making people ill. The extreme temperatures are also bad news for the Indian economy. We explain why in our weekly roundup and also discuss the Pune Porsche crash, the Bangladesh MP’s murder and more
+
+Fri, 24 May 2024 20:34:51 +0530
+### [Donald Trump's hush money trial: Can the ex-US president be jailed if convicted?](https://www.firstpost.com/explainers/donald-trump-hush-money-trial-ex-us-president-convicted-13774770.html)
+
+Article found but Couldn't summarize 
+Closing arguments in Donald Trump's criminal hush money trial are scheduled for next week followed by jury deliberations. If declared guilty, the Republican leader would become the first former US president to be convicted of felony charges
+
+Fri, 24 May 2024 20:18:44 +0530
+### ['Trumpnesia': How young US voters seem unaware of Donald Trump's most controversial statements](https://www.firstpost.com/explainers/trumpnesia-how-young-us-voters-seem-unaware-of-donald-trumps-most-controversial-statements-13774743.html)
+
+A recent poll by Blueprint, a Democratic firm, has revealed that many young US voters are unaware of some of Donald Trump's most controversial statements. The poll showed that only 42% remember his 2016 call for a Muslim ban and 35% recall his derogatory comments about American soldiers from WWI. However, 72% are familiar with his claims of election fraud in 2020. The polling, which involved 943 voters aged 18-30, found that less than half were aware of several of Trump's past remarks, but the majority were offended by them, especially those objectifying women, vilifying immigrants, and suggesting Black voters support him due to his legal troubles.
+
+The most heard statements by Trump include his claims of a "rigged" 2020 election, referring to COVID-19 as the "Chinese virus," and his lewd comments about women caught on tape. The least heard include his comments on Jews supporting Democrats, his reluctance to honor American soldiers from WWI, and derogatory remarks about Haitian and Nigerian immigrants.
+
+Despite this, Trump is ahead in the polls against President Joe Biden, with 49% support among registered voters. The 2024 US presidential election is set for November 5, 2024, with key issues including abortion, immigration, healthcare, education, the economy, foreign policy, border security, LGBT rights, climate change, and democracy. The article also mentions Anmol, a Senior Sub-Editor with Firstpost, who covers various topics and enjoys traveling and watching sports.
+
+Fri, 24 May 2024 19:40:44 +0530
+### [What is 'quiet vacationing', the latest workplace trend?](https://www.firstpost.com/explainers/quiet-vacationing-the-latest-workplace-trend-13774640.html)
+
+The article discusses the trend of "quiet vacationing" among American millennials, where employees take time off without formally informing their bosses. This behavior is attributed to a fear of being perceived as unproductive. The Harris Poll survey indicates that 78% of respondents did not take paid time off, and 37% of millennials reported taking time off without notifying their managers. The trend reflects a cultural shift towards maintaining work-life balance behind the scenes, with many employees feeling anxious about requesting time off due to guilt and pressure. The article also highlights a divide in the workplace, with CEOs opposing remote work post-pandemic, fearing loss of control, while employees prefer the flexibility they experienced during the pandemic. The mismatched culture suggests that while corporate expectations remain unchanged, employee values have shifted, emphasizing the importance of work-life balance. The article concludes that this system, although not healthy, is prevalent among American workers.
+
+Fri, 24 May 2024 18:53:30 +0530
+### [Manoj Tiwari vs Kanhaiya Kumar, Mehbooba Mufti vs …: Key battles in phase 6 of Lok Sabha polls](https://www.firstpost.com/explainers/lok-sabha-elections-manoj-tiwari-kanhaiya-kumar-mehbooba-mufti-key-battles-phase-6-candidates-13774733.html)
+
+Article found but Couldn't summarize 
+Manoj Tiwari, the BJP’s sitting MP from North East Delhi is vying to retain his seat for a third time. He is up against Congress’ Kanhaiya Kumar. Former Jammu and Kashmir CM Mehbooba Mufti is in the fray from the Anantnag-Rajouri Lok Sabha constituency. Here are all the big fights to watch out for in the sixth phase
+
+Fri, 24 May 2024 18:17:10 +0530
+### [In Graphics | Why are Spain, Ireland and Norway recognising Palestine now?](https://www.firstpost.com/explainers/in-graphics-why-palestine-now-13774698.html)
+
+Article found but Couldn't summarize 
+Spain, Ireland and Norway have all said they will recognise a Palestinian state on 28 May. The development comes in the backdrop of international outrage continuing to mount over Israel's conduct of its war against Hamas in which tens of thousands of Palestinians have been killed. But why is this happening now? And does it matter? What is India's stance?
+
+Fri, 24 May 2024 18:08:16 +0530
+### [Kabosu, the famed Shiba Inu dies: How a rescue dog became the face of Dogecoin & an internet sensation](https://www.firstpost.com/explainers/the-face-of-dogecoin-dies-the-story-of-kabosu-the-shiba-inu-dog-japan-atsuko-sato-cryptocurrency-13774643.html)
+
+Article found but Couldn't summarize 
+Kabosu, the Shiba Inu dog, famous for her quizzical expression featured in numerous 'doge' internet memes, has died, her owner confirmed on Friday. In 2013, a picture of Kabosu giving a slight side-eyed look went viral on Tumblr and other various online chatrooms, eventually becoming known as 'doge', one of the most iconic and recognisable images of the social media meme rampage
+
+Fri, 24 May 2024 17:19:01 +0530
+### [How do heatwaves affect India's economy?](https://www.firstpost.com/explainers/how-do-heatwaves-affect-indias-economy-13774678.html)
+
+Article found but Couldn't summarize 
+Parts of India continued to burn up for the seventh straight day on Friday with Rajasthan’s Barmer recording the country's highest temperature this year. From the workforce's productivity being lowered to construction activity halted, power grids strained and farmers falling into the poverty trap, experts say heatwaves are a disaster for India
+
+Fri, 24 May 2024 16:57:04 +0530
+### [A portrait or parody? Why Kate Middleton’s painting has become a subject of debate](https://www.firstpost.com/explainers/why-the-kate-middletons-portrait-commissioned-by-tatler-has-become-subject-of-debate-13774600.html)
+
+Tatler magazine's July edition featured a portrait of Kate Middleton by British-Zambian artist Hannah Uzor, which has sparked debate over its resemblance to the Princess of Wales. The painting, inspired by Middleton's appearance at a state banquet, aimed to capture her "soul" but has been criticized by some as a "parody" and lacking likeness. Uzor, who did not have Middleton sit for the portrait, spent hours studying images and videos of her to create the piece, titled "Portrait of Strength and Dignity." Despite Uzor's intent to reflect Middleton's dignity and grace, the artwork has received mixed reactions, with some royal fans and critics questioning its accuracy and one chief art critic describing it as "egregiously bad." The controversy follows a similarly contentious portrait of King Charles, leading to comparisons and expectations for a flawless representation.
+
+Fri, 24 May 2024 15:57:48 +0530
+### [Driver, pizza and more: How the Pune Porsche case is getting more complicated](https://www.firstpost.com/explainers/how-pune-porsche-case-is-getting-more-complicated-13774562.html)
+
+Article found but Couldn't summarize 
+As the investigation into the Pune Porsche crash that killed two people continues, more startling information comes to light. New reports claim there is an attempt to frame a driver rather than the accused minor, who is currently in a remand home. The son of a well-known city builder may have also received preferential treatment while he was in police custody hours after the incident
+
+Fri, 24 May 2024 15:52:23 +0530
+### [Rishi Sunak shelves flagship Rwanda, smoking policies before election: What this means for his campaign](https://www.firstpost.com/explainers/rishi-sunak-shelves-flagship-rwanda-smoking-policies-before-election-what-this-means-for-his-campaign-13774627.html)
+
+Article found but Couldn't summarize 
+UK prime minister Rishi Sunak's early election call and the subsequent shelving of his flagship policies have significantly impacted his campaign. The inability to deliver on key promises has not only embarrassed his administration but also undermined the confidence of his party and the public
+
+Fri, 24 May 2024 15:12:09 +0530
+### [Maldives to launch India’s RuPay: How relations between the two nations are getting back on track](https://www.firstpost.com/explainers/maldives-india-relations-rupay-launch-mohamed-muizzu-13774588.html)
+
+Article found but Couldn't summarize 
+The Maldives is planning to launch the RuPay card payment service soon. The relations between New Delhi and Male took a downturn in January this year after a social media fracas, which snowballed into a diplomatic row. But ties have been on the mend since the initial flare-up
+
+Fri, 24 May 2024 14:28:33 +0530
+### [Would have taken Kartarpur Sahib back in 1971, says PM Modi. Why is this Pakistan gurdwara significant?](https://www.firstpost.com/explainers/kartarpur-sahib-gurudwara-significant-13774580.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi, campaigning in Punjab for the seventh phase of Lok Sabha polls on 1 June, said he would have taken back the Kartarpur Sahib Gurdwara from Pakistan in 1971 if he was in power then. Kartarpur is sacred to the Sikhs for being the place where Guru Nanak Dev is said to have composed several hymns of the Guru Granth Sahib, established the guru ka langar tradition and named his successor Angad Dev
+
+Fri, 24 May 2024 14:25:12 +0530
+### [Rajinikanth’s Gilded Honour: What is the Golden Visa that UAE has given to the superstar?](https://www.firstpost.com/explainers/rajinikanth-honoured-with-golden-visa-uae-granted-the-superstar-13774489.html)
+
+Article found but Couldn't summarize 
+Superstar Rajinikanth has received UAE’s Golden visa to honour his contributions to the world of cinema and culture. With this, he joins Shah Rukh Khan and Super 30 founder Anand Kumar among others to be granted this honour. But what’s so special about it?
+
+Fri, 24 May 2024 13:58:11 +0530
+### [Live Nation and Ticketmaster face an antitrust lawsuit is the US: Will this lead to cheaper concert tickets?](https://www.firstpost.com/explainers/live-nation-and-ticketmaster-face-an-antitrust-lawsuit-is-the-us-will-this-lead-to-cheaper-concert-tickets-13774504.html)
+
+Article found but Couldn't summarize 
+The US justice department has filed a lawsuit against Live Nation and its subsidiary, Ticketmaster, alleging monopolisation and other illegal conduct that hinders competition in the live entertainment industry. However, experts say live event lovers shouldn't expect changes any time soon
+
+Fri, 24 May 2024 13:29:31 +0530
+### [Who is Carlo Acutis, the 15-year-old to become the first 'millennial saint'?](https://www.firstpost.com/explainers/carlo-acutis-first-millennial-saint-13774498.html)
+
+Article found but Couldn't summarize 
+Computer prodigy Carlo Acutis, who passed away in 2006, is all set to become the first ‘millennial saint’ in Catholic history. The development comes after the announcement by Pope Francis that a miracle credited to the UK-born has been recognised, opening the door for the teen's canonisation shortly
+
+Fri, 24 May 2024 13:13:52 +0530
+### [China’s military drills near Taiwan to test ability to ‘seize power’: Is Taipei prepared?](https://www.firstpost.com/explainers/china-military-drills-taiwan-seize-power-taipei-prepared-military-comparisons-13774524.html)
+
+Article found but Couldn't summarize 
+China is carrying out a second day of military drills neat Taiwan, saying it is testing its ability to ‘seize the self-ruled island’. Tensions have increased in the Taiwanese Strait, with many questioning if Taipei could defend itself against Beijing in case of a direct attack. How do the two militaries compare in such a situation?
+
+Fri, 24 May 2024 12:44:46 +0530
+### [What is the 'pandemic accord' and will it help avoid the next Covid-like catastrophe?](https://www.firstpost.com/explainers/what-is-the-pandemic-accord-and-will-it-help-avoid-the-next-covid-like-catastrophe-13774479.html)
+
+Article found but Couldn't summarize 
+On 27 May, global health leaders will convene in Geneva for the annual World Health Assembly. The primary focus of the meeting will be a new ‘pandemic accord’, which aims to facilitate international cooperation in preparing for, preventing, and responding to pandemics. What is it? Will it make nations ready to tackle future COVID-19-like diseases?
+
+Fri, 24 May 2024 12:04:15 +0530
+### [Quicksplained: Who is Kaamya Karthikeyan, the youngest Indian to summit Mt Everest?](https://www.firstpost.com/explainers/kaamya-karthikeyan-the-youngest-indian-to-summit-mt-everest-13774430.html)
+
+Article found but Couldn't summarize 
+At 16, Kaamya Karthikeyan is the youngest Indian to scale Mount Everest (8,849 metres), the highest peak in the world. She was accompanied by her father, an Indian Navy officer, whose love for mountaineering inspired her. Next on her to-do list is to conquer the highest peaks in all seven continents
+
+Fri, 24 May 2024 11:33:15 +0530
+### [Push for 'European sky shield' gains momentum: What is it?](https://www.firstpost.com/explainers/push-for-european-sky-shield-gains-momentum-what-is-it-13774485.html)
+
+Article found but Couldn't summarize 
+The European sky shield aims to establish a unified and advanced missile defence system for several countries that make up the continent. With support from nations like Poland and Greece, the initiative has gained new momentum. However, realising its full potential requires addressing numerous strategic, political, and logistical challenges
+
+Fri, 24 May 2024 11:30:19 +0530
+### [Body chopped, skin peeled: How Bangladesh MP was murdered in India by illegal immigrant](https://www.firstpost.com/explainers/bangladesh-mp-murdered-india-illegal-immigrant-13774429.html)
+
+Article found but Couldn't summarize 
+A Bangladeshi national Jihad Hawladar, a butcher by profession, has been detained for allegedly murdering Bangladesh MP Anwarul Azim Anar. He dismembered the body before disposing it. According to media reports, the politician’s friend, Akhtaruzzaman, a US citizen, is the mastermind behind the heinous crime
+
+Fri, 24 May 2024 11:00:07 +0530
+### [How Pakistan heatwave is affecting students' education](https://www.firstpost.com/explainers/how-pakistan-heatwave-is-affecting-students-education-13774470.html)
+
+Article found but Couldn't summarize 
+Half of Pakistan's pupils will be shut out of schools for a week as the nation takes crisis measures to lessen the effect of a series of heatwaves. Here’s how bad is the situation
+
+Fri, 24 May 2024 10:11:34 +0530
+### [How Vladimir Putin is sweeping up the Russian military of its ‘corrupt’ officials](https://www.firstpost.com/explainers/vladimir-putin-russian-military-corrupt-officials-arrests-vadim-shamarin-13774443.html)
+
+Article found but Couldn't summarize 
+A senior Russian military official, Lieutenant-General Vadim Shamarin, has been arrested on charges of accepting a ‘particularly large bribe’. His arrest marks the fifth such case in a month, which leads many to believe that President Vladimir Putin is attempting to purge his military of corrupt officials
+
+Fri, 24 May 2024 09:23:57 +0530
+### [What is pink noise, believed to improve sleep?](https://www.firstpost.com/explainers/what-is-pink-noise-believed-to-improve-sleep-13774246.html)
+
+Article found but Couldn't summarize 
+You may have heard of white noise used to mask background sounds. Now, it has colourful competition — the pink noise. But does it actually help? What's the science behind this?
+
+Fri, 24 May 2024 06:00:04 +0530
+### [FirstUp: IPL Qualifier 2 in Chennai, Modi in Himachal…Big headlines today](https://www.firstpost.com/explainers/firstup-ipl-qualifier-2-in-chennai-modi-in-himachalbig-headlines-today-13774359.html)
+
+Article found but Couldn't summarize 
+The second qualifier of IPL 2024 is scheduled to take place between Rajasthan Royals and Sunrisers Hyderabad. PM Modi will address a rally in Himachal Pradesh's Mandi. In the national capital, the Supreme Court will hear the matter of actual voter numbers in the first five phases of the Lok Sabha elections which the ECI has still not released
+
+Thu, 23 May 2024 21:09:21 +0530
+### [Why US intelligence agencies are wary of generative AI](https://www.firstpost.com/explainers/us-intelligence-agencies-generative-ai-13774380.html)
+
+US intelligence agencies are exploring the use of AI, particularly generative AI, to enhance data analysis and decision-making. Despite advancements, there is consensus that AI will not replace human analysts due to its current limitations, such as unreliability and the tendency to "hallucinate." The CIA's Osiris system exemplifies the use of AI for creating summaries from open-source data, but it's emphasized that AI is an assistant tool, not a replacement for human judgment. Security concerns also persist, with the potential for AI models to be stolen or poisoned by adversaries. The adoption of AI varies across agencies, with applications ranging from predictive analysis to cyberconflict. However, the human element remains irreplaceable, as AI cannot fully comprehend the nuanced and often contradictory information that human analysts can. Officials and experts agree that while AI can support, it cannot supplant the critical role of human insight in intelligence work.
+
+Thu, 23 May 2024 20:38:59 +0530
+### [Lok Sabha elections: What is Form 17C that the Election Commission has refused to make public?](https://www.firstpost.com/explainers/lok-sabha-elections-form-17c-election-commission-supreme-court-13774369.html)
+
+Article found but Couldn't summarize 
+The  Election Commission has told the Supreme Court that there is ‘no legal mandate’ to provide Form 17C to any person other than candidates or their agents. This comes amid questions over the final voter turnout data and the delay in the release of these figures by the poll body
+
+Thu, 23 May 2024 19:56:33 +0530
+### [The IAF landed a plane in Eastern Sector using night vision goggles. Here’s why it is significant](https://www.firstpost.com/explainers/the-iaf-landed-a-plane-night-goggles-13774366.html)
+
+Article found but Couldn't summarize 
+The IAF has for the first time landed an aircraft using night vision goggles (NGVs) in the Eastern Sector. The C-130J aircraft Super Hercules transport aircraft was brought down safely on an advanced landing ground. Experts say this development greatly boosts the IAF’s ability to operate in low-light conditions and increases its strategic advantage over its enemies
+
+Thu, 23 May 2024 19:00:05 +0530
+### ['Swiftonomics': From Singapore to Europe, how Taylor Swift shakes up economies](https://www.firstpost.com/explainers/swiftonomics-how-taylor-swift-boosted-economies-us-singapore-japan-all-over-the-globe-as-her-eras-tour-travels-europe-13774260.html)
+
+Article found but Couldn't summarize 
+Singapore's GDP has seen a year-on-year growth of 2.7 per cent for the first quarter of this year and Taylor Swift has a role to play. As she heads to Europe for her Eras Tour, the economy is seeing a boost. Swifties have travelled to concert cities, spending money on accommodations, dining, transportation, and merchandise to the tune of billions
+
+Thu, 23 May 2024 18:55:58 +0530
+### ['Net zero emissions': What does it actually mean today?](https://www.firstpost.com/explainers/net-zero-emissions-what-does-it-actually-mean-today-13774231.html)
+
+Article found but Couldn't summarize 
+In recent years, the concept of 'net zero' emissions has gained significant traction as governments and organisations worldwide commit to ambitious climate targets. Here we delve into the origins and evolution of net zero, tracing its roots from early climate negotiations in the 1990s to the landmark 2015 Paris Agreement
+
+Thu, 23 May 2024 18:16:41 +0530
+### [Summer Misery: Why is it so hot in Delhi? Is climate change making heatwaves worse?](https://www.firstpost.com/explainers/delhi-heatwave-climate-change-summer-13774318.html)
+
+Article found but Couldn't summarize 
+Delhi is hot and it is going to scorch further this week. The IMD has issued a ‘red alert’ for the National Capital as temperatures are expected to soar above 47 degrees Celsius. But are heatwaves becoming more intense and frequent? Is climate change to be blamed?
+
+Thu, 23 May 2024 18:05:29 +0530
+### [Why are rivers in Alaska turning orange?](https://www.firstpost.com/explainers/alaska-rivers-turn-orange-13774320.html)
+
+Article found but Couldn't summarize 
+Dozens of rivers and streams in the US state of Alaska are turning rusty orange. Scientists believe that permafrost, or frozen land, is what is causing the hue change. They claim that when the environment warmed, minerals kept in permafrost were released into glistening, clean water. Researchers are also concerned, as this change could threaten fisheries and drinking water quality
+
+Thu, 23 May 2024 17:53:33 +0530
+### [Meet Chat Xi PT, the new AI chatbot that gives answers based on Chinese president's thinking](https://www.firstpost.com/explainers/chat-xi-pt-13774325.html)
+
+Article found but Couldn't summarize 
+Chat Xi PT has been trained on the Chinese president’s political philosophy – known as ‘Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era’ or Xi Jinping Thought – as well as other works provided by China’s powerful regulator Cyberspace Administration of China. While it can answer questions, create reports, summarise information and translate between Chinese and English, it is not yet available to the public
+
+Thu, 23 May 2024 17:00:24 +0530
+### [Why is India facing an acute shortage of nurses?](https://www.firstpost.com/explainers/india-facing-an-acute-shortage-of-nurses-as-they-move-abroad-13774138.html)
+
+Article found but Couldn't summarize 
+Lured by better pay, facilities and a healthier work environment, nurses in India are quitting in droves to pursue a future abroad. India, which has 1.96 nurses per 1,000 people as opposed to the recommended ratio of three nurses per 1,000 people by the WHO, is facing a significant shortfall of nursing staff
+
+Thu, 23 May 2024 16:20:34 +0530
+### [Pray, language lessons, outdoor games: What Pune Porsche crash accused teen will do at remand home](https://www.firstpost.com/explainers/pune-porsche-crash-accused-teen-remand-home-schedule-13774170.html)
+
+Article found but Couldn't summarize 
+A 17-year-old boy, allegedly involved in a Porsche accident in Pune that claimed two lives, has been shifted to an observation home until 5 June. The minor will have a fixed routine: praying, learning languages, one hour of TV time, and two hours of playtime. During his stay, he will also undergo psychological assessments
+
+Thu, 23 May 2024 15:52:11 +0530
+### [Did Pakistan’s ISI ‘abduct’ a dissenter poet, who covered PoK's anti-government protests?](https://www.firstpost.com/explainers/pakistan-missing-poet-ahmad-farhad-isi-abduction-case-pok-anti-government-protests-13774168.html)
+
+Article found but Couldn't summarize 
+Ahmad Farhad, a poet and journalist, has been missing since 14 May, with his family accusing Pakistan’s spy agency for his alleged abduction. Known for his criticism of the establishment, he covered the recent anti-government protests in Pakistan-occupied Kashmir
+
+Thu, 23 May 2024 15:20:18 +0530
+### [Lok Sabha elections 2024: How many candidates have criminal cases against them?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-how-many-candidates-have-criminal-cases-against-them-13774183.html)
+
+Article found but Couldn't summarize 
+A comprehensive analysis of the Association for Democratic Reforms (ADR) shows that 1,644 of the 8,337 candidates contesting in the ongoing Lok Sabha elections have criminal cases registered against them, including allegations of murder, attempted murder, crimes against women, and hate speech
+
+Thu, 23 May 2024 15:13:44 +0530
+### [What could happen in the hush money trial? What if Trump is convicted? The possibilities explained](https://www.firstpost.com/explainers/how-donald-trumps-hush-money-trial-verdict-can-affect-us-presidential-election-13774173.html)
+
+Article found but Couldn't summarize 
+A guilty verdict in the hush money trial may deter voters, an acquittal could reinforce Donald Trump's claims of political persecution, and a hung jury would maintain a cloud of suspicion. Regardless of the verdict, the trial is set to have serious implications for Trump and his campaign. We explain
+
+Thu, 23 May 2024 14:37:19 +0530
+### [Why is China holding its largest-ever military drills around Taiwan? What does it mean for Taipei?](https://www.firstpost.com/explainers/china-taiwan-13774166.html)
+
+Article found but Couldn't summarize 
+China is conducting full-scale military exercises around Taiwan and its outlying islands just days after Lai Ching-te, who it has branded as a ‘separatist and troublemaker,’ was sworn in as the new president of Taiwan. Experts say Beijing is sending the message that it can blockade Taipei and bring the island to its knees any time it wants
+
+Thu, 23 May 2024 13:53:48 +0530
+### [Teen accused in Pune Porsche crash sent to remand home. What happens next?](https://www.firstpost.com/explainers/pune-porsche-crash-teen-accused-remand-home-routine-future-juvenile-justice-board-13774142.html)
+
+Article found but Couldn't summarize 
+The 17-year-old accused in the Pune Porsche crash case, which has claimed the lives of two people, has been remanded to an observation home until 5 June. The minor will live with 30 other juveniles at the remand home and undergo counselling. Based on his time at the centre and the police evidence, the Juvenile Justice Board will decide if the teen should be tried as an adult. However, this decision could take at least 60-90 days
+
+Thu, 23 May 2024 13:51:27 +0530
+### [Will Delhi police interrogate Kejriwal's parents in Swati Maliwal assault case? Why?](https://www.firstpost.com/explainers/delhi-police-interrogation-arvind-kejriwal-parents-swati-maliwal-assault-case-13774104.html)
+
+Article found but Couldn't summarize 
+Delhi chief minister and AAP supremo Arvind Kejriwal on Wednesday said on X that Delhi police will visit his residence to interrogate his ‘old and sick parents’. They will be questioned about the alleged assault on AAP Rajya Sabha MP Swati Maliwal at the CM’s residence. His parents and his wife, Sunita Kejriwal were reportedly present at the time
+
+Thu, 23 May 2024 13:46:33 +0530
+### [Who is Keir Starmer, the man standing between Rishi Sunak and 10 Downing Street?](https://www.firstpost.com/explainers/uk-general-election-2024-who-is-keir-starmer-named-after-uk-labour-party-founder-the-man-standing-between-rishi-sunak-and-10-downing-street-13774103.html)
+
+Article found but Couldn't summarize 
+The UK general election has been announced sooner than anticipated and the Tories are looking to continue their 14-year-long reign in parliament. Rishi Sunak wants to continue at 10 Downing Street but the Labour Party has other plans. Their leader Keir Starmer poses the biggest challenge to the UK PM
+
+Thu, 23 May 2024 13:18:33 +0530
+### [Kim Jong Un's portrait on public display: What message does it send to North Korea?](https://www.firstpost.com/explainers/kim-jong-uns-portrait-on-public-display-what-message-does-it-send-to-north-korea-13774108.html)
+
+Article found but Couldn't summarize 
+Portraits of leaders are central to North Korea's state-sponsored personality cult. Almost all North Korean homes and public offices must have portraits of Kim's father, Kim Jong Il, and grandfather, Kim Il Sung, but portraits of the younger Kim were not required until recently
+
+Thu, 23 May 2024 12:12:41 +0530
+### [Bangladesh MP, who came to India, ‘murdered’ but body not found. The mystery case explained](https://www.firstpost.com/explainers/bangladesh-mp-anwarul-azim-anar-missng-murder-kolkata-13774101.html)
+
+Article found but Couldn't summarize 
+Bangladesh MP Anwarul Azim Anar travelled to Kolkata on 12 May and went missing a day later. Dhaka says he was murdered but his body has not been found. Blood stains have been found in the flat where he reportedly stayed
+
+Thu, 23 May 2024 12:09:13 +0530
+### [Quicksplained: Who is Nikesh Arora, the Indian-origin CEO who earns more than Sundar Pichai and Mark Zuckerberg?](https://www.firstpost.com/explainers/nikesh-arora-indian-ceo-second-highest-paid-ceo-in-us-palo-alto-wsj-list-13774044.html)
+
+Nikesh Arora, an Indian-origin executive, is the CEO of Palo Alto Networks and has been named the second-highest-paid CEO in the US by The Wall Street Journal's 2023 list, with a salary of $151.43 million. His compensation surpasses that of many notable tech CEOs, including Meta's Mark Zuckerberg and Google's Sundar Pichai. Arora's journey began in Ghaziabad, India, and after an engineering degree from IIT (BHU) Varanasi and a brief stint at Wipro, he moved to the US for further education. He struggled initially but eventually found success at Fidelity Investments and later at Deutsche Telekom, where he launched T-Motion.
+
+Arora's significant career milestones include working at Google, where he held various leadership roles and became the highest-paid executive by 2012. He then joined SoftBank, where he was the world's best-paid executive, before abruptly resigning in 2016. Two years later, he became the chairman-CEO of Palo Alto Networks, where his strong performance justified his substantial compensation. As of January, his net worth was estimated at $1.5 billion. The article also notes that 17 other Indian-origin CEOs are among the top 500 highest-paid CEOs in the US.
+
+Thu, 23 May 2024 11:44:25 +0530
+### [Why Biden might not be on the Ohio ballots in presidential elections](https://www.firstpost.com/explainers/joe-biden-ohio-ballots-in-presidential-elections-13774100.html)
+
+Article found but Couldn't summarize 
+A state law mandating an early certification deadline for presidential nominees has created a barrier in Ohio. If unresolved, it could result in Joe Biden, one of the top presidential candidates in the country, not even being on the ballots as a choice for nearly 8 million voters
+
+Thu, 23 May 2024 11:29:18 +0530
+### [Extreme heat sends Shah Rukh Khan to hospital: Why you shouldn't take heat stroke lightly](https://www.firstpost.com/health/shah-rukh-khan-hospitalised-heat-stroke-13774030.html)
+
+Article found but Couldn't summarize 
+Bollywood star Shah Rukh Khan was admitted to a hospital in Ahmedabad after suffering a heat stroke. Heat stroke is a medical emergency, as it is the most severe type of heat injury. It occurs when the external temperature rises to such a level that the body cannot produce enough sweat to control the core temperature, which can reach 40 degrees Celsius
+
+Thu, 23 May 2024 10:36:03 +0530
+### [UK general elections: Who are the key players?](https://www.firstpost.com/explainers/uk-general-elections-who-are-the-key-players-13774058.html)
+
+Article found but Couldn't summarize 
+The United Kingdom will head to the polls on 4 July in a long-anticipated general election called by Prime Minister Rishi Sunak. Here’s who's who in the polls
+
+Thu, 23 May 2024 09:59:27 +0530
+### [Why UK PM Rishi Sunak has called for early elections on 4 July](https://www.firstpost.com/explainers/uk-pm-rishi-sunak-early-elections-4-july-keir-starmer-labour-vs-conservatives-13774049.html)
+
+UK Prime Minister Rishi Sunak has announced an early general election for 4 July, a move seen as a gamble given the Conservative Party's significant lag behind the Labour Party in polls. Sunak's decision comes as the economy shows signs of improvement, with inflation nearing the Bank of England's target. This election will be Sunak's first public test as PM since his appointment in October 2022 and marks the third vote since the Brexit referendum. Labour leader Keir Starmer, expected to be the next PM, welcomed the announcement, framing it as an opportunity for change. The election's timing, amidst the Euro 2024 football tournament and before the quarter-finals, is strategic. Despite the Conservatives' trailing position, Sunak is leveraging recent economic indicators and legislative achievements, such as the Rwanda deportation scheme, to bolster his campaign. The early election also preempts potential challenges from the right-wing populist party, Reform UK. With the dissolution of parliament set for after 30 May, MPs will soon become candidates, campaigning for re-election. Opinion polls suggest a comfortable lead for Labour, making this election a significant risk for Sunak and the Conservative Party.
+
+Thu, 23 May 2024 08:54:04 +0530
+### [Why are Electric Vehicles more likely to hit pedestrians?](https://www.firstpost.com/explainers/electric-vehicles-pedestrians-13773922.html)
+
+Article found but Couldn't summarize 
+A new study published in the Journal of Epidemiology & Community Health examining data from the UK found that electric and hybrid cars are twice as likely to hit pedestrians than their petrol and diesel counterparts. Experts say this is because EVs are quieter and that people are used to looking for certain cues to signal when cars are approaching
+
 Wed, 22 May 2024 21:09:06 +0530
 ### [Why is New Caledonia unrest causing nickel prices to soar?](https://www.firstpost.com/explainers/new-caledonia-unrest-nickel-prices-13773930.html)
 

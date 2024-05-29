@@ -6081,3 +6081,11 @@ Started at 2024-05-22 16:14:53
 Finished at 2024-05-22 16:20:38
 Total time taken: 345.576776266098 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-05-29 12:14:37
+43 Feed entries have been written to feeds/Explained_IE.xml
+115 Feed entries have been written to feeds/Explain_FP.xml
+158 new entries have been added
+0 summaries have been updated
+Finished at 2024-05-29 18:05:13
+Total time taken: 21035.89817929268 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
