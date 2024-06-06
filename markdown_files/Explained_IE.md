@@ -1,3 +1,451 @@
+Wed, 05 Jun 2024 22:57:41 +0000
+### [Nine of 13 being probed by Central agencies jumped party, lost polls](https://indianexpress.com/article/explained/explained-politics/nine-of-13-being-probed-by-central-agencies-jumped-party-lost-polls-9374823/)
+
+In the recent Lok Sabha elections, nine out of thirteen candidates who had switched political parties and were under investigation by agencies like the CBI, ED, and Income Tax Department, lost their seats. Most of these candidates had joined the BJP or its allies, with prominent losses including Jyoti Mirdha in Rajasthan, Kripashankar Singh in UP, and Geeta Koda in Jharkhand. Investigations ranged from money laundering to disproportionate assets and loan defaults. Despite the scrutiny, some turncoats like Naveen Jindal and CM Ramesh won their respective seats. The election results have reinforced N Chandrababu Naidu's significance in national politics, with expectations for him to advocate for Special Category State status for Andhra Pradesh.
+
+Wed, 05 Jun 2024 15:21:33 +0000
+### [Special Category Status for AP: Chandrababu Naidu’s big demand and the BJP’s compulsions](https://indianexpress.com/article/explained/explained-politics/special-category-status-naidu-andhra-pradesh-9374411/)
+
+N. Chandrababu Naidu, leader of the Telugu Desam Party (TDP), has become a significant figure in Indian politics following the TDP's win of 16 seats in the Lok Sabha elections. The TDP's alliance with the Jana Sena Party and the BJP is crucial, especially since the BJP holds 240 seats and relies on support from allies like Naidu. A key issue for Naidu is securing Special Category State (SCS) status for Andhra Pradesh, a promise made during the state's bifurcation in 2014 to offset revenue losses and foster development.
+
+The concept of SCS was introduced in 1969 to support states disadvantaged by economic or geographical factors. Although the 14th Finance Commission discontinued SCS, recommending increased tax devolution instead, the demand for SCS persists, particularly from states like Andhra Pradesh, Bihar, and Odisha.
+
+Andhra Pradesh's bifurcation in 2014 left the state with disproportionate shares of population, debt, and revenue compared to Telangana. The financial strain is evident, with the state's actual revenue deficit and debt far exceeding estimates. The state government argues that SCS would provide much-needed financial aid and incentives for industrialization, leading to overall development and employment opportunities.
+
+Naidu's tenure as Chief Minister (2014-2019) was marked by his struggle to secure SCS for Andhra Pradesh, leading to his resignation from the NDA and an anti-BJP campaign. His successor, Y.S. Jagan Mohan Reddy, also faced challenges in obtaining SCS. With the BJP lacking a majority in the Lok Sabha, Naidu's support has become pivotal, potentially allowing him to negotiate favorable terms for Andhra Pradesh, including SCS, central projects, and ministerial positions in the government. The BJP's options are limited, and while fulfilling Naidu's demands may be challenging, a compromise similar to the UPA's previous promise of temporary SCS could be a solution. Naidu's recent electoral success in Andhra Pradesh strengthens his bargaining position in this political landscape.
+
+Wed, 05 Jun 2024 14:53:28 +0000
+### [Do North Korea’s trash balloons indicate an escalation?](https://indianexpress.com/article/explained/explained-global/north-korea-spy-balloons-9374372/)
+
+The article discusses the escalating tensions between South and North Korea following North Korea's failed satellite launch and subsequent provocative actions. South Korea is considering countermeasures, including resuming propaganda broadcasts across the border, in response to North Korea's GPS jamming, missile launches, and threats to shipping. North Korea has also been releasing balloons carrying waste over the border, leading to calls for an apology from Pyongyang and the suspension of the 2018 inter-Korean peace pact by South Korea.
+
+The situation reflects a potential shift in North Korea's strategy, possibly aiming for weapons capable of reaching the US, with apparent support from Russia. This alliance may embolden North Korea, as seen by its dismissive response to UN criticism. Experts suggest that North Korea's actions, while seemingly immature, are strategic tests of South Korea's defenses and warn of the need for vigilance.
+
+The unrelated content regarding PM Narendra Modi's upcoming term and the formation of the next government in India has been omitted from this summary.
+
+Wed, 05 Jun 2024 12:23:15 +0000
+### [4 instances when Nitish Kumar ‘flip-flopped’](https://indianexpress.com/article/explained/explained-politics/nitish-kumar-flip-flop-9374030/)
+
+The article discusses the political maneuvers of Nitish Kumar and his party, Janata Dal (United), following the 2024 Lok Sabha elections. With 12 seats won, JD(U) is positioned as a pivotal force that could influence the formation of the government by the BJP-led National Democratic Alliance (NDA), which has secured 293 seats, a narrow majority. The Indian National Congress-led INDIA alliance won 232 seats.
+
+Nitish Kumar's history of changing allegiances is highlighted, with instances of his strategic shifts in alliances since 2013. Notably, he joined the NDA in January 2024 after parting ways with the RJD and the INDIA bloc, citing discomfort with the political environment. However, his relationship with the BJP has been tumultuous, marked by a significant loss of JD(U) seats in the 2020 Bihar Assembly elections, which he attributed to the BJP's tactics.
+
+The article also recounts Nitish's departure from the Mahagathbandhan in 2017 due to corruption charges against Tejashwi Yadav, and his earlier split from the NDA in 2013 following Narendra Modi's rise within the BJP. Additionally, it mentions N. Chandrababu Naidu's electoral success and his potential influence on national politics, including his expected advocacy for Special Category State status for Andhra Pradesh. The summary omits unrelated content as per your request.
+
+Wed, 05 Jun 2024 10:23:54 +0000
+### [Amritpal, Engineer Rashid win from jail: What happens next](https://indianexpress.com/article/explained/explained-law/amritpal-engineer-rashid-win-jail-9373650/)
+
+The Lok Sabha elections have resulted in the election of two imprisoned individuals, Amritpal Singh and Engineer Rashid, as MPs from Punjab's Khadoor Sahib and Jammu & Kashmir's Baramulla, respectively. Both are detained on serious charges and are under investigation by the National Investigation Agency.
+
+Amritpal Singh is detained under the National Security Act in Assam, while Rashid faces charges under the Unlawful Activities Prevention Act in Delhi's Tihar jail. Despite their incarceration, their election grants them a constitutional mandate as parliamentarians.
+
+Historically, jailed lawmakers have been granted temporary parole to take their parliamentary oath, a process not explicitly outlined in the Constitution but supported by precedent. Notable cases include AAP leader Sanjay Singh and Assam MLA Akhil Gogoi, who were allowed to take their oaths while in custody.
+
+Taking the oath does not equate to bail but is similar to a special one-day parole. Absence from Parliament without permission for over 60 days can lead to a vacant seat, according to the Constitution. To attend sessions or vote, imprisoned MPs must seek court permission. Only a conviction with a sentence of two or more years results in disqualification from Parliament.
+
+Additionally, N Chandrababu Naidu's victory in 16 Lok Sabha seats has reinforced his influence in national politics, with expectations for him to advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Wed, 05 Jun 2024 02:00:03 +0000
+### [Why Uttar Pradesh matters](https://indianexpress.com/article/explained/lok-sabha-polls-why-uttar-pradesh-matters-9372526/)
+
+The article discusses the political significance of Uttar Pradesh (UP) in India's central governance, highlighting that most Prime Ministers of India have been residents or elected MPs from UP. It details Narendra Modi's political journey, including his appointment as the BJP's election campaign chairman in 2013, his subsequent declaration as the prime ministerial candidate, and his victory in the 2014 elections from Varanasi, UP. The piece also touches on UP's fertile land, its historical political shifts under British rule, and its current political landscape, which includes a significant number of Lok Sabha and Rajya Sabha seats. The article concludes with an excerpt from Shyamlal Yadav's book "At The Heart of Power: The Chief Ministers of Uttar Pradesh," and mentions PM Narendra Modi's upcoming third term swearing-in on June 8, following the NDA's majority win in the Lok Sabha elections.
+
+Wed, 05 Jun 2024 01:40:42 +0000
+### [Lok Sabha Election Results 2024: Decoding the Verdict](https://indianexpress.com/article/explained/explained-politics/lok-sabha-election-results-2024-decoding-the-verdict-9372759/)
+
+The article discusses the potential changes in the third Narendra Modi government compared to its predecessors. The BJP, leading in 240 seats, falls short of a majority and will rely on pre-poll allies like the TDP, JD(U), Shiv Sena, and LJP to surpass the 272-seat mark. This dependence marks a shift from previous terms where the BJP had a clear majority and could govern without coalition pressures.
+
+The new Lok Sabha composition means the BJP must engage more with its allies, who will play a crucial role in the government's stability and policy-making. The smaller seat margin also gives the opposition, the INDIA bloc, a better chance to challenge the government.
+
+Regional leaders are gaining influence, with parties like the Samajwadi Party and Trinamool Congress winning significant seats, reflecting a diverse political spectrum. The BJP's reduced numbers will increase the opposition's voice in Parliamentary committees and require more consensus for legislation.
+
+The article suggests that the BJP will need to adopt a genuine coalition approach, accommodating different ideologies and ensuring better checks and balances across institutions. This shift could lead to increased accountability and a departure from the "double-engine sarkar" politics, promoting a more federal approach in India's diverse polity. The outcome of the Lok Sabha elections indicates a move towards coalition governance, with implications for the BJP's internal dynamics and its relationship with the RSS. The article concludes with an example of a closely contested election result in Mumbai North West constituency.
+
+Tue, 04 Jun 2024 15:09:34 +0000
+### [Disconnect on ground, ticket distribution, caste, jobs: How BJP lost the plot in UP](https://indianexpress.com/article/explained/explained-politics/local-disconnect-agniveer-ticket-choice-caste-equations-how-bjp-lost-the-up-plot-uttar-pradesh-9372166/)
+
+The article discusses the political dynamics and election results in Uttar Pradesh (UP), highlighting the Bharatiya Janata Party's (BJP) unexpected performance. Despite UP's significant role in past elections, the BJP led in only 33 constituencies, a stark contrast to its previous victories. Factors contributing to this outcome included the Samajwadi Party's (SP) effective social engineering, which mirrored the BJP's past strategies, and the BJP's failure to connect with local sentiments and expand its voter base. The BJP's centralized leadership in ticket distribution, overlooking ground realities, and reliance on state machinery for campaign events were criticized. Discontent among youth due to the Agnipath scheme and job exam paper leaks also played a role. The SP's inclusive candidate selection and the INDIA bloc's appeal to a broad voter demographic, including Muslims, OBCs, Dalits, and some upper castes, were successful strategies. The article concludes with a mention of a viral video showing a BJP supporter's frustration over the party not meeting its election seat target.
+
+Tue, 04 Jun 2024 14:49:40 +0000
+### [No party wins majority: What does a coalition government mean for economic reforms in India?](https://indianexpress.com/article/explained/explained-economics/coalition-government-economic-reforms-9372118/)
+
+The article discusses the political and economic landscape of India, focusing on the return of the National Democratic Alliance (NDA) to power for a third consecutive term, despite the Bharatiya Janata Party (BJP) not achieving a clear majority. It reflects on the impact of coalition governments on economic reforms since 1991, highlighting that while the BJP's majority in the past two Lok Sabhas was expected to bolster economic reforms, the reality was mixed. The Modi government implemented significant reforms like the GST and the Insolvency and Bankruptcy Code but faced setbacks with land acquisition and farm reforms, leading to a repeal after widespread protests.
+
+The article also revisits the history of economic reforms under various coalition governments, noting that some of the most substantial reforms were introduced during these periods. It cites the liberalization policies under P.V. Narasimha Rao, the "dream budget" by P. Chidambaram, fiscal responsibility and disinvestment initiatives under Atal Bihari Vajpayee, and the rights-based reforms like the Right to Information and Right to Food under Manmohan Singh. These reforms are credited with laying the foundation for India's economic resurgence and enhancing transparency and social welfare. The author, Udit Misra, is identified as the Deputy Associate Editor. The unrelated content about NEET UG 2024 results has been omitted from this summary.
+
+Tue, 04 Jun 2024 14:30:33 +0000
+### [Lok Sabha Results 2024: Why BJP’s top NDA partners may stay with the alliance – and why they might leave](https://indianexpress.com/article/explained/explained-politics/lok-sabha-results-bjp-nda-partners-9372070/)
+
+The article discusses the political dynamics of the National Democratic Alliance (NDA) in India, particularly in the context of the 2024 Lok Sabha elections. Despite the Bharatiya Janata Party (BJP) having a single-party majority in the past, recent elections have necessitated reliance on allies. The NDA, which announced 28 parties in its fold in July 2023, has crossed the halfway mark in the elections, but the BJP alone is short of a majority.
+
+Key allies like the Telegu Desam Party (TDP) and Janta Dal (United) (JD(U)) have become crucial for government formation. The TDP, led by Chandrababu Naidu, has made significant gains in Andhra Pradesh and is poised to play a pivotal role. Nitish Kumar's JD(U) also holds substantial leads, despite his history of changing political allegiances.
+
+Other parties like the Lok Janshakti Party (LJP), Shiv Sena, Rashtriya Lok Dal, and Janata Dal (Secular) are also mentioned as potential influencers in the post-election scenario. The article concludes with the announcement that Prime Minister Narendra Modi is set to be sworn in for a third term after the NDA's victory, with discussions underway for the formation of the next government. The Union Cabinet has recommended the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha.
+
+Tue, 04 Jun 2024 13:44:00 +0000
+### [Two lakh plus NOTA votes in Indore: Why NOTA was introduced, its consequences](https://indianexpress.com/article/explained/more-than-2-lakh-votes-nota-indore-9372026/)
+
+Shankar Lalwani of the BJP won the Indore seat with a historic margin, with NOTA coming in second, marking the highest ever votes for NOTA in any constituency. The Supreme Court had introduced NOTA in 2013 following a petition by the PUCL to protect voter secrecy. The court ruled that voter secrecy must be maintained whether they vote or not, leading to the inclusion of a NOTA button in EVMs. NOTA has no legal impact on election outcomes, but the Indore result suggests it could influence future elections. A new petition by Shiv Khera seeks to make elections void if NOTA wins the majority, citing local body elections where NOTA is treated as a "Fictional Electoral Candidate," leading to re-elections if it surpasses individual candidates. The petition also proposes barring candidates who lose to NOTA from contesting for five years. The Supreme Court is considering these suggestions.
+
+Tue, 04 Jun 2024 12:02:52 +0000
+### [Explained: After election results, what’s next](https://indianexpress.com/article/explained/explained-politics/explained-after-election-results-whats-next-9371729/)
+
+The article outlines the post-election procedure in India, where the Election Commission provides a list of newly-elected MPs to the President, who then invites the largest party to form the government. Winning candidates receive a certificate of election, essential for taking their oath in the Lok Sabha. The process leads to the constitution of the new Lok Sabha, with historical references to the 2019 and 2004 elections. It mentions that the BJP-led NDA is projected to secure a majority. The article concludes with the announcement that PM Narendra Modi is set to be sworn in for a third term on June 8, following the NDA's majority win, and notes the Union Cabinet's recommendation to dissolve the current Lok Sabha to make way for the 18th Lok Sabha and the formation of the next government.
+
+Tue, 04 Jun 2024 11:33:32 +0000
+### [Election results 2024: Is the counting taking too long and is there a chance the trends could change?](https://indianexpress.com/article/explained/lok-sabha-elections-results-counting-9371682/)
+
+The article discusses the pace of vote counting in elections, explaining that the process is slow and thorough, with the Election Commission not declaring winners until all votes are counted. It notes that leads of 20,000 to 30,000 votes are considered stable when 50% of votes are counted, while a lead of over 50,000 is seen as insurmountable. However, in the current election, many seats in UP, Bihar, West Bengal, and Maharashtra had lead margins under 10,000 votes by 1 pm, indicating a close race. Counting can extend well into the night, and TV channels' projections are usually accurate. Recounts may be requested in tight races, as seen in past elections. The article concludes with information on the election timeline, stating that the new Lok Sabha must be in place by June 16, and mentions PM Narendra Modi's upcoming third term after the NDA's majority win.
+
+Tue, 04 Jun 2024 11:15:36 +0000
+### [Naidu and Nitish: Men of the Moment as BJP fights to make 272 on its own](https://indianexpress.com/article/explained/explained-politics/chandrbabu-naidu-nitish-kumar-bjp-kingmakers-9371636/)
+
+The article discusses the political scenario following the Indian general elections where the BJP, led by Narendra Modi, did not secure a majority on its own and is reliant on the support of Chandrababu Naidu's TDP and Nitish Kumar's JD(U). Both parties are part of the NDA coalition. The BJP won 240 seats, the TDP secured 16 in Andhra Pradesh, and the JD(U) won 12 in Bihar. Naidu's role is pivotal in the central government formation, despite not needing BJP's support to form the state government in Andhra Pradesh. His son, Nara Lokesh Naidu, confirmed TDP's continued alliance with the NDA.
+
+The article also touches on the political dynamics involving the Congress party, which is attempting to woo Naidu with the promise of Special Category Status for Andhra Pradesh. However, there's a strong anti-Congress sentiment in Andhra Pradesh due to the state's bifurcation in 2014. Naidu's political history includes supporting various governments since 1996 and his fluctuating alliance with the BJP.
+
+Nitish Kumar's political journey is also highlighted, showcasing his tenure as a Union Minister and his shifting alliances in Bihar's politics. His party, the JD(U), has seen a better performance than its ally in Bihar, bringing him back into prominence.
+
+Lastly, the article mentions Ashneer Grover, former MD of BharatPe, who commented on the election results, praising the Indian electorate's wisdom in candidate selection, which sparked further discussions on the election outcomes.
+
+Tue, 04 Jun 2024 11:05:11 +0000
+### [Why RJD leads in only 4 seats in Bihar, despite getting highest voteshare](https://indianexpress.com/article/explained/explained-politics/why-rjd-leads-in-only-4-seats-in-bihar-despite-getting-highest-voteshare-9371628/)
+
+In the Bihar Lok Sabha elections, the RJD is leading in only four seats despite having the largest voteshare at 22.89%. It is behind JD(U) with 14 seats, BJP with 12, and LJPRV with 5. The RJD's high voteshare is attributed to contesting the most seats (26 out of 40), but on a per-constituency basis, it falls behind BJP, JD(U), and LJPRV. High voteshare typically indicates close losses and decisive wins, but it's too early to conclude this for RJD as counting continues. The article also mentions a viral video of a BJP supporter's reaction to the party not meeting its seat target, but this is unrelated to the election results summary.
+
+Tue, 04 Jun 2024 09:01:40 +0000
+### [Lok Sabha counting: Why final trends will only be clear by 4 pm](https://indianexpress.com/article/explained/lok-sabha-counting-trends-9371367/)
+
+The article discusses the close contest in the Lok Sabha elections, with Election Commission officials predicting that a clearer picture of the results would emerge by 4 pm after 15 to 20 rounds of counting. By 2 pm, over half the votes had been counted, but in 40 seats across UP, Bihar, West Bengal, and Maharashtra, the lead margins were under 12,000 votes. Seats with less than 10,000 vote margins are considered volatile and could change after further counting. A stable lead is considered to be around 20,000 to 30,000 votes, while a lead over 50,000 votes is seen as a definitive win. The counting process has been smooth, with no complaints from political parties. In tight races, candidates can request a recount by applying to the Returning Officer. The article also briefly mentions the credentials of journalists Ritika Chopra and Damini Nath, and an unrelated incident of a BJP supporter breaking a TV due to the party not meeting its seat target.
+
+Tue, 04 Jun 2024 07:32:32 +0000
+### [BJP faces setback, Congress sees resurgence: What early trends say](https://indianexpress.com/article/explained/explained-politics/bjp-faces-setback-congress-sees-resurgence-what-early-trends-say-9371028/)
+
+The article discusses the early trends of the Lok Sabha election results, indicating a setback for the ruling BJP, which is falling short of a majority by about 30 seats. The Congress is approaching 100 seats, marking the first time in a decade that the BJP is losing ground to Congress in direct contests. The BJP is also losing seats to the SP in Uttar Pradesh (UP) and the TMC in West Bengal, despite making gains in Telangana and Odisha.
+
+In UP, a crucial state for BJP's majority in previous elections, the party is losing more than half of its 80 seats. The BJP's overall leads in UP are at 36, with the SP close behind at 33 and Congress leading in eight seats. Notably, Congress' Kishori Lal Sharma is leading over Union Minister Smriti Irani in Amethi.
+
+Maharashtra is another concern for the BJP, losing 10 seats from its previous tally of 23. The NDA is also facing losses in the state, with the Congress and Shiv Sena (UBT) closely competing with the BJP. In West Bengal, the BJP's tally is decreasing from 18 to 9, while the TMC leads with 32 seats. The BJP is also losing seats in Rajasthan and Haryana.
+
+The article concludes with the announcement that PM Narendra Modi will be sworn in for a third term on June 8, following the NDA's majority win in the elections. The Union Cabinet has recommended the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha and is discussing the formation of the next government. The author, Vikas Pathak, is a deputy associate editor with extensive experience in political journalism and academia.
+
+Tue, 04 Jun 2024 02:07:45 +0000
+### [European Parliament elections this week: what happens & how?](https://indianexpress.com/article/explained/explained-global/european-parliament-elections-this-week-what-happens-how-9370160/)
+
+The article discusses the European Parliament (EP) elections, where around 373 million citizens from the EU's 27 member states are eligible to vote. The EP, which is the only directly elected EU body, negotiates laws, approves budgets, and votes on international agreements. It can approve or reject the European Commission president and commissioners but cannot propose laws. The EP has 720 Members (MEPs) elected every five years, who then elect a president for a two-and-a-half-year term.
+
+Voting age varies across member states, with most allowing those 18 and above to vote, while some have lower age limits. Citizens can vote in their country of residence or origin, with different systems for selecting candidates. Candidates must be EU citizens, and elected MEPs join European groups in the Parliament based on political orientation. They cannot hold national government positions or be part of the EU Commission.
+
+Interest in the elections is high among EU citizens, with six in 10 expressing intent to vote. Projections suggest the centre-right European People’s Party (EPP) may win the most seats, followed by the centre-left Progressive Alliance of Socialists And Democrats (S&D), with Renew Europe (RE) and the European Conservatives and Reformists (ECR) tied for third.
+
+The article also mentions a local election in Mumbai, India, where Shiv Sena candidate Ravindra Waikar won by a narrow margin after a recount of postal ballots. This unrelated content appears to be included in error and is not part of the EU election coverage.
+
+Mon, 03 Jun 2024 15:56:15 +0000
+### [What explains the divisions in Israeli govt over the Gaza peace plan from Joe Biden?](https://indianexpress.com/article/explained/explained-global/israeli-govt-gaza-peace-plan-biden-9369967/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 15:37:14 +0000
+### [2024 Lok Sabha election results: What happens at counting centres](https://indianexpress.com/article/explained/lok-sabha-election-results-counting-centres-9369971/)
+
+The article provides a detailed overview of the vote counting process in a democratic election. It explains that the counting is supervised by the Returning Officer (RO) and Assistant Returning Officers, with the support of counting officials, supervisors, assistants, and micro-observers. The counting of votes, both from Electronic Voting Machines (EVMs) and postal ballots, takes place in designated counting halls, which are structured to ensure the integrity and security of the process. The article outlines the strict regulations regarding who is permitted inside the counting hall and the procedures for counting EVM votes and postal ballots. It also describes the process of announcing results and the subsequent verification of Voter Verified Paper Audit Trail (VVPAT) slips. The counting begins with postal ballots, followed by EVM votes, and includes multiple checks and balances to maintain transparency and accuracy.
+
+Additionally, the article mentions Ritika Chopra, an award-winning journalist with extensive experience covering government and education for The Indian Express. It also briefly notes the announcement of NEET UG 2024 results, with an increased cut-off and the top rank shared by 67 students. However, these latter details seem unrelated to the main focus of the article on the election vote counting process.
+
+Mon, 03 Jun 2024 14:24:26 +0000
+### [Geographical location, deforestation, climate change: What led to the deadly landslide in Papua New Guinea](https://indianexpress.com/article/explained/explained-climate/landslide-papua-new-guinea-reasons-9369851/)
+
+A devastating landslide struck Yambali village in Papua New Guinea's Enga province on May 24, causing massive boulders to destroy buildings and a school, and burying over 2,000 people with more than 70,000 affected. Rescue efforts quickly turned to recovery as hopes of finding survivors dwindled. The country's susceptibility to natural disasters like landslides and earthquakes is attributed to its location on the Pacific 'Ring of Fire', deforestation, and lack of infrastructure to cope with such events. Climate change has exacerbated the frequency and intensity of these disasters, with experts suggesting that the recent heavy rainfall in 2024, likely intensified by climate change, could have triggered this catastrophic landslide.
+
+Mon, 03 Jun 2024 02:45:39 +0000
+### [What Lok Sabha election results could tell about consumption divide across Indian states](https://indianexpress.com/article/explained/explained-economics/consumption-and-voting-9368215/)
+
+The Bank of Baroda report on Indian state finances for FY2024 highlights that most states kept their fiscal deficits within budgeted levels, with large states like Gujarat and Maharashtra borrowing over 30% less than budgeted. However, states only spent 84% of their capital expenditure budgets, with Uttar Pradesh, Telangana, Bihar, and Sikkim being exceptions. Own tax revenues (OTR) comprised 61% of states' tax revenues, with GST being the largest component. Telangana had the highest OTR share at 82%. Per capita GST collection, a proxy for consumption and income levels, showed a North-South and East-West divide in economic prosperity among states. The political implications are significant, with the BJP-led NDA stronger in lower-consumption northern states and the Congress-led INDIA coalition better placed in higher-consumption southern states. The BJP's social welfare measures have been effective in poorer states, while the opposition has led in richer states. Economic well-being may influence the upcoming vote counting on June 4, with key states like Maharashtra, West Bengal, and Odisha being closely watched. PM Narendra Modi is set to be sworn in for a third term on June 8 after the NDA's majority win in the Lok Sabha elections. The Union Cabinet has recommended the dissolution of the current Lok Sabha and is discussing the formation of the next government.
+
+Sun, 02 Jun 2024 22:50:18 +0000
+### [Behind Opposition postal ballot concern, Election Commission rule change in 2019](https://indianexpress.com/article/explained/behind-opposition-postal-ballot-concern-election-commission-rule-change-in-2019-9368278/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 14:19:41 +0000
+### [What explains Franz Kafka’s cultural relevance a century after his death?](https://indianexpress.com/article/explained/explained-culture/franz-kafka-death-anniversary-life-impact-9367729/)
+
+Franz Kafka, born in 1883 in Prague, was a German-speaking Jewish writer who felt like an outsider due to his background and strained relationship with his family, especially his father. Despite his passion for writing, Kafka worked as an insurance clerk to support himself, indulging in his pleasures only in his free time. His friend Max Brod recognized Kafka's talent and encouraged him to publish his works, but Kafka was plagued by self-doubt. Kafka passed away in 1924, shortly before turning 41, leaving instructions to Brod to destroy his writings. However, Brod preserved Kafka's works, leading to the posthumous publication of notable works like "The Trial."
+
+Kafka's influence is global, with his works being studied and admired across various cultures and languages. His themes of bureaucracy, authority, and the human condition resonate universally, making his stories timeless and relatable. The term "Kafkaesque" has entered multiple languages to describe the absurd and inexplicable, a testament to Kafka's impact on literature and culture. Despite Nazi Germany's censorship of his works, Kafka's legacy endures, with his writing inspiring authors worldwide and becoming a cultural touchstone on social media among young people who relate to his themes of alienation and identity. The article concludes by noting Kafka's continued relevance a century after his death.
+
+Sun, 02 Jun 2024 11:01:44 +0000
+### [RBI policy: Why is Monetary Policy Committee likely to leave repo rate unchanged?](https://indianexpress.com/article/explained/explained-economics/rbi-policy-mpc-repo-rate-unchanged-9367416/)
+
+The Reserve Bank of India's Monetary Policy Committee (MPC) is expected to maintain the repo rate at 6.5% during its meeting from June 5 to 7, 2024, due to persistent food inflation concerns. The MPC is likely to keep the monetary policy stance as 'withdrawal of accommodation' and may revise the FY25 GDP growth projection while keeping the inflation forecast unchanged. Despite April's slight decrease in headline inflation to 4.8%, food inflation has increased, influenced by price pressures from cereals, pulses, spices, and vegetables.
+
+Market experts anticipate the RBI will continue its cautious approach, waiting to assess the impact of the monsoon and the Kharif crop on food inflation before considering any policy easing. Liquidity has been in deficit, attributed partly to reduced government spending during elections, and this trend is expected to support the rupee by maintaining pressure on short-term yields. Most economists foresee the RBI maintaining the real GDP forecast at 7% and the FY25 CPI inflation forecast at 4.5%.
+
+Borrowers can expect relief as the repo rate hold implies that external benchmark lending rates linked to it will not increase, keeping EMIs stable. However, lenders might raise interest rates on loans tied to the marginal cost of fund-based lending rate (MCLR). Goldman Sachs predicts a delayed rate cut by the RBI to Q4 2024, with a modest easing cycle totaling 50 basis points spread over Q4 2024 and Q1 2025.
+
+In an unrelated note, the article mentions a political update where Shiv Sena candidate Ravindra Waikar won the Mumbai North West constituency election by a narrow margin after a recount of postal ballots.
+
+Sun, 02 Jun 2024 09:48:11 +0000
+### [Why agrarian distress has been less of a poll issue this time](https://indianexpress.com/article/explained/explained-economics/lok-sabha-elections-agri-farmers-distress-9367312/)
+
+The article discusses the agricultural sector during the second term of the Narendra Modi-led government (Modi 2.0). It highlights that unlike Modi's first term, Modi 2.0 has not been characterized by a farm crisis due to better crop production and price realizations. The average annual growth of India's agriculture sector was reported at 4.2% from 2019-20 to 2023-24, which is higher than the previous five years. This improvement is attributed to fewer rainfall failures and higher international food prices, which also boosted India's agricultural exports. The article notes that farmers have benefited from higher production and better prices, leading to less agrarian distress being a political issue in the current elections. It also points out that growth in the agriculture sector has been more animal-led than crop-led, with livestock and fisheries showing higher growth compared to the crop sub-sector. The demand for statutory backing for minimum support prices (MSP) of crops remains a concern among farmers, particularly those growing non-horticultural crops. The article concludes by suggesting that the divergence between policy and market-driven sub-sectors in agriculture may raise policy issues for the future.
+
+Sun, 02 Jun 2024 08:42:38 +0000
+### [10 years of Telangana state: A brief look at how India’s youngest state was formed](https://indianexpress.com/article/explained/explained-history/10-years-telangana-formation-day-history-9367160/)
+
+The article celebrates the 10th anniversary of Telangana's formation, detailing the historical and political journey leading to its creation. It highlights the Congress party's role in passing the Andhra Pradesh Reorganisation Act of 2014, which led to the establishment of Telangana. The state's complex history is traced back to its pre-Independence status as part of the princely state of Hyderabad, through the violent Razakar movement, and the subsequent military intervention by India in 1948.
+
+Post-Independence, the article discusses the contentious merging of Telangana with Andhra Pradesh despite recommendations for separate statehood. It outlines the persistent struggle for Telangana's identity, marked by protests and legal battles over the Mulki Rules, which reserved government jobs for native residents. The movement gained momentum with K. Chandrasekar Rao's founding of the Telangana Rashtra Samithi (TRS), now Bharat Rashtra Samithi (BRS), and the eventual relenting of the Congress government to form the state in 2014, with Hyderabad as the joint capital for a decade.
+
+The article concludes by noting the normal pace of election results, explaining the delay in declaring winners until all votes are counted.
+
+Sun, 02 Jun 2024 07:01:11 +0000
+### [Mexico chooses its first woman President: An expert explains why the election is a landmark for gender equality](https://indianexpress.com/article/explained/explained-global/mexico-first-woman-president-expert-elections-gender-equality-democratisation-9367085/)
+
+Claudia Sheinbaum Pardo of the Morena Party has been elected as Mexico's first female president, marking a historic shift in the country's politics. The election, which also featured Xóchitl Gálvez Ruiz of the Fuerza y Corazón por México as the opposition candidate, symbolizes Mexico's progress towards gender equality and the strengthening of its democratic institutions. This milestone follows Mexico's evolution from a single-party regime dominated by the Institutional Revolutionary Party (PRI) to a multi-party system with fair elections and increased female representation in Congress. The election of Sheinbaum Pardo, who will serve a six-year term starting October 1, sets a precedent for North America and continues the trend of female leadership in Latin America. The article also discusses Mexico's political reforms over the years, including the end of the dedazo practice, the establishment of the Federal Electoral Institute, and the significant victories of opposition parties, which have contributed to the country's democratic maturity. The author, Dr. Ravindranathan P, is affiliated with the Department of Geopolitics and International Relations at Manipal Academy of Higher Education (MAHE), Manipal.
+
+Sun, 02 Jun 2024 03:30:39 +0000
+### [James Webb Space Telescope spots earliest-known galaxy: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/james-webb-space-telescope-earliest-known-galaxy-9366358/)
+
+The James Webb Space Telescope has discovered the earliest-known galaxy, JADES-GS-z14-0, which is unexpectedly large and luminous for its age, existing just 290 million years after the Big Bang. This galaxy is about 1,700 light-years in size, with a mass of 500 million suns, and is forming new stars at a rate of 20 per year. Previously, the earliest-known galaxy was identified at 320 million years post-Big Bang. The same research team also found the second oldest-known galaxy, JADES-GS-z14-1, which is smaller and forms two new stars annually. The brightness of these early galaxies is not fully explained, but the hypothesis involving supermassive black holes has been discounted. Further research is needed to determine if these galaxies contain more or brighter stars than expected. The study was conducted by an international team and is part of the JWST Advanced Deep Extragalactic Survey program.
+
+Sun, 02 Jun 2024 02:37:34 +0000
+### [What the end of African National Congress’s dominance means for South Africa](https://indianexpress.com/article/explained/explained-global/end-of-anc-dominance-south-africa-9366373/)
+
+The African National Congress (ANC) has experienced a significant decline in South Africa's latest elections, securing just over 40% of the vote and losing its parliamentary majority for the first time in 30 years. The Democratic Alliance (DA) came in second with nearly 22%, followed by the newly formed uMkhonto we Sizwe (MK) party with close to 15%, and the Economic Freedom Fighters (EFF) with over 9%.
+
+This shift marks a departure from the ANC's historical dominance since the end of apartheid, attributed to the party's inability to address issues such as health, employment, and economic development. The ANC will now need to form a coalition to elect a president, with incumbent Cyril Ramaphosa seeking a second term.
+
+The MK party, despite its recent establishment and the barring of its founder, former President Jacob Zuma, from elections, has made significant gains. It has refused a coalition with the ANC if Ramaphosa remains leader. The EFF, known for its left-wing policies, and the business-friendly DA are also potential coalition partners, with the latter aiming to prevent a left-wing coalition.
+
+The election results come at a time when South Africa faces high poverty and unemployment rates, alongside housing, water, and energy crises. The outcome is seen by some as an opportunity for change and increased accountability in governance. Negotiations for forming a government are underway, with the constitution requiring the election of a president within 14 days of the final results.
+
+Sun, 02 Jun 2024 02:30:27 +0000
+### [How Agnibaan rocket launch marks a turning point for India’s space sector](https://indianexpress.com/article/explained/explained-sci-tech/agnibaan-rocket-launch-9366069/)
+
+The article discusses a significant milestone in India's space industry with the successful launch of Agnikul Cosmos' Agnibaan rocket, which is notable for its 3D-printed semi-cryogenic engine. This achievement has garnered attention and praise from ISRO and Indian government officials. The article also mentions Skyroot Aerospace's prior success with its Vikram rocket, indicating a growing private sector in space exploration. Both companies aim to serve the small satellite market, with Agnikul planning 35 to 40 launches annually. The development of ISRO's SSLV and Agnikul's private launch pad at Sriharikota are highlighted as steps towards accommodating the increasing frequency of space launches. The rise of private space companies is seen as a result of India's policy to encourage private participation in the space sector, which is becoming a key area of growth and international collaboration. Additionally, the article briefly mentions political developments, including PM Narendra Modi's upcoming third term.
+
+Sat, 01 Jun 2024 10:59:21 +0000
+### [Delhi govt moves Supreme Court: Legal history of Delhi’s water dispute with other states](https://indianexpress.com/article/explained/explained-law/delhi-supreme-court-water-dispute-9365728/)
+
+The Delhi government has petitioned the Supreme Court for urgent intervention to secure additional water from Haryana and Himachal Pradesh due to a severe temperature rise and consequent water demand. The plea highlights ongoing water shortages despite full-capacity operation of primary sources and seeks a temporary solution until the monsoon season. Historical context is provided, referencing a 1995 Supreme Court order requiring Haryana to ensure water flow to Delhi, and a 1996 ruling mandating Haryana's year-round water provision to Delhi. However, a 2021 petition by the Delhi Jal Board accused Haryana of non-compliance, which was dismissed by the Supreme Court, noting infrastructural changes since 1996 and cautioning against repetitive petitions for previously rejected relief.
+
+Sat, 01 Jun 2024 09:40:13 +0000
+### [Women often outlive men but in poorer health: what new Lancet study says](https://indianexpress.com/article/explained/explained-health/women-often-outlive-men-but-in-poorer-health-lancet-study-9365610/)
+
+The article discusses a study published in The Lancet Public Health journal, which analyzed the differences in health conditions between men and women. It found that women are more likely to suffer from lower back pain, depression, and headaches, while men have shorter lifespans due to higher rates of road accidents, cardiovascular diseases, and COVID-19. The study highlights that these differences become apparent during adolescence and are influenced by both biological factors and gender norms.
+
+The research indicates that healthcare systems may have biases, such as diagnosing women with mental disorders more readily, while men are less likely to seek help for mental health issues due to societal perceptions of masculinity. Women's musculoskeletal disorders are not fully understood but may be related to hormonal fluctuations, physical stress from pregnancy, and being undertreated by healthcare professionals.
+
+Data from 1990 to 2021 shows that while some health conditions have seen overall decreases, the disparity between the sexes remains consistent. The study suggests that health systems have historically focused on women's reproductive health, neglecting other aspects. The researchers call for better data collection differentiated by sex and gender to improve health interventions and advocate for increased funding for health conditions that predominantly affect women.
+
+The article also briefly mentions political news unrelated to the health study, which has been omitted from this summary.
+
+Sat, 01 Jun 2024 08:30:25 +0000
+### [Volcano in Iceland erupts: Why is the country so volcanically active?](https://indianexpress.com/article/explained/explained-sci-tech/volcano-in-iceland-erupts-why-is-the-country-so-volcanically-active-9365554/)
+
+The article discusses a volcanic eruption in southwest Iceland that led to evacuations in Grindavik and the Blue Lagoon spa. The volcano, Sundhnuksgigar, erupted for the fifth time since the previous December. Iceland, a highly volcanically active region, has seen an increase in eruptions since 2021, with nearly one per year.
+
+The article explains that volcanoes are vents that release lava, tephra, and steam onto the Earth's surface. They can form on land or underwater and are caused by the movement of tectonic plates or the rise of magma at hotspots. The type of volcano is determined by the magma's viscosity, gas content, composition, and eruption method.
+
+Iceland's volcanic activity is attributed to its location on the Mid-Atlantic Ridge, where tectonic plates are moving apart, and over a hotspot, which increases volcanic activity. The article also briefly mentions the election results in the Mumbai North West constituency, where Shiv Sena candidate Ravindra Waikar won by a narrow margin after a recount of postal ballots.
+
+Sat, 01 Jun 2024 01:42:00 +0000
+### [‘Potency test’ for Prajwal Revanna: Is this even relevant for sexual assault cases?](https://indianexpress.com/article/explained/potency-test-for-prajwal-is-this-even-relevant-for-sexual-assault-cases-9364564/)
+
+Janata Dal (Secular) MP Prajwal Revanna, recently returned from Germany, has been detained by a Special Investigation Team (SIT) probing sexual assault allegations. He is expected to undergo medical examinations, including a potency test, which assesses a male's ability to achieve an erection, relevant in sexual assault, divorce, and paternity cases. The Code of Criminal Procedure permits various forensic tests on the accused for investigation purposes.
+
+Potency tests are used in court to challenge defenses claiming impotence, but their reliability is questionable due to physiological and psychological variability. The results only show the accused's capability at the test time and have corroborative value. Similarly, the 'two-finger' test for sexual assault survivors is not definitive evidence. Since 2013, legal changes have expanded the definition of rape beyond peno-vaginal intercourse, making potency tests less relevant for non-peno-vaginal acts.
+
+The article also mentions PM Narendra Modi's upcoming swearing-in for a third term after the NDA's Lok Sabha election victory, the recommended dissolution of the current Lok Sabha, and discussions on forming the next government. However, this part seems unrelated to the main content of the article.
+
+Sat, 01 Jun 2024 01:41:53 +0000
+### [PDA, BAAP, others: short history of parties, their social coalitions](https://indianexpress.com/article/explained/explained-politics/pda-baap-others-short-history-of-parties-their-social-coalitions-9364563/)
+
+In the lead-up to the Lok Sabha election results, opposition leaders Akhilesh Yadav and Tejashwi Yadav from UP and Bihar, respectively, are hopeful that their electoral coalitions, PDA and BAAP, will resonate with voters. Akhilesh Yadav has sought to expand the Samajwadi Party's traditional Muslim-Yadav base by forming a broader coalition including backward classes, Dalits, and Muslims. The party has strategically distributed tickets to various castes to challenge the BJP's growing influence among non-Yadav OBCs and to attract Dalit votes, with the BSP's influence waning.
+
+Tejashwi Yadav aims to extend the Rashtriya Janata Dal's base beyond the Muslim-Yadav demographic to include a wider coalition of Dalits, forward castes, women, and backward classes. This strategy reflects historical efforts to consolidate backward-caste votes in the region, dating back to the 1960s with leaders like Ram Manohar Lohia advocating for OBC representation.
+
+The article also touches on the political legacies of Chaudhary Charan Singh and Kanshi Ram, who formed influential social coalitions and parties that challenged the status quo and promoted the interests of backward classes and Dalits. The narrative concludes with a brief mention of Shyamlal Yadav's investigative journalism work and a viral video of a BJP supporter's reaction to the party not meeting its electoral target.
+
+Fri, 31 May 2024 15:14:52 +0000
+### [Fire breaks out in AC unit in Noida: When can this happen, what precautions should be taken?](https://indianexpress.com/article/explained/everyday-explainers/fire-ac-noida-reason-precautions-9364287/)
+
+A recent fire incident in a Noida housing society was caused by an air conditioner blast. The Chief Fire Officer of Gautam Buddh Nagar highlighted the increase in such incidents, attributing them to the continuous use of electrical appliances during the summer, leading to overheating and potential short circuits. Short circuits can cause fires, especially when large currents generate significant heat, melting wires. Miniature Circuit Breakers (MCBs) are designed to prevent this by tripping the circuit upon detecting an overload. However, MCB malfunctions can lead to fires.
+
+The article emphasizes the importance of proper maintenance and handling of electrical appliances, particularly air conditioners. It suggests ensuring secure wiring connections, checking the condition of circuit breakers and fuses, and seeking professional help for any modifications or installations. Regular maintenance is advised, along with precautions like keeping the indoor unit away from water, avoiding obstruction near the outdoor unit, and not running the appliance continuously.
+
+The article concludes with safety tips for split AC units, stressing the need to prevent debris accumulation around the outdoor unit and to avoid continuous operation without breaks. These measures can help mitigate fire risks associated with electrical appliances.
+
+Fri, 31 May 2024 13:40:03 +0000
+### [Anish Kapoor and his art: What makes him the most successful Indian artist alive](https://indianexpress.com/article/explained/explained-culture/anish-kapoor-9364154/)
+
+Anish Kapoor, renowned for his abstract forms and large-scale installations, leads the Hurun India Art List for the sixth year. The list, by the Hurun Research Institute, ranks living Indian artists by auction sales value. Kapoor's sales amounted to INR 79.9 cr. He won the Turner Prize in 1991, had a solo exhibition at the Royal Academy of Arts in London in 2008, and was knighted in 2013. His work features in Britain's passport and he controversially acquired rights to Vantablack pigment.
+
+Born in Mumbai in 1954, Kapoor studied art in the UK after a brief stint in engineering. His early work, inspired by a visit to India, includes the series '1000 Names' with geometric forms and pigment powder. By the mid-1980s, he was known for his biomorphic and geometric sculptures. His minimal, monochromatic works challenge perception and blur art and architecture boundaries.
+
+Kapoor's notable works include biomorphic sculptures and installations using materials like stone, aluminum, and resin, and reflective polished stainless steel since 1995. His public commissions include 'Sky Mirror' in Nottingham, 'Cloud Gate' in Chicago, and 'Orbit' in London, the UK's tallest sculpture. Kapoor emphasizes art for the masses and creates works that are both artistic and phenomenological.
+
+Fri, 31 May 2024 13:33:25 +0000
+### [Donald Trump is convicted. Could he still be President of the United States?](https://indianexpress.com/article/explained/explained-global/donald-trump-convicted-be-president-united-states-9364141/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 13:20:48 +0000
+### [Global warming, El Niño, decreasing forest cover: Why is India’s North East witnessing record-breaking temperatures?](https://indianexpress.com/article/explained/explained-climate/north-east-high-temperatures-9364090/)
+
+The article discusses the extreme weather conditions in the North Eastern region of India, where heavy rainfall and flooding have followed record-breaking temperatures. The India Meteorological Department (IMD) reported unprecedented maximum temperatures in the region on May 25, with several stations recording their highest-ever temperatures, significantly above the normal range. This spike aligns with a long-term trend of rising temperatures in the North East, with average annual mean temperatures increasing by up to 1.06 degrees Celsius since 1901. The primary cause of the temperature rise is attributed to global greenhouse gas emissions, with local factors like deforestation also contributing. Experts warn that if emissions are not curbed, the region could see temperatures 1.5 to 2 degrees above pre-industrial levels by 2035-2040, leading to more intense and frequent rainfall and flooding. The article highlights the vulnerability of states like Mizoram, Assam, and Arunachal Pradesh to climate risks and the urgent need for adaptation planning.
+
+Fri, 31 May 2024 12:05:40 +0000
+### [Explained: How polling booths work](https://indianexpress.com/article/explained/everyday-explainers/how-polling-booths-work-9363941/)
+
+In preparation for the Lok Sabha elections in Punjab, electronic voting machines (EVMs) have been distributed to polling staff who will stay overnight at their respective polling stations. Punjab has over 25,000 polling booths, each managed by a booth-level officer (BLO) and staffed by 4 to 6 people. Staff assignments are made through a randomization process, and the polling team, consisting of 4 members, arrives a day prior to the election to prepare the site.
+
+Polling booths, often located in schools, accommodate up to 1,100 votes, with arrangements made for the staff's stay, including separate accommodations for female staff members. BLOs handle voter slip distribution and coordinate with the polling staff to update the District Election Officer on the polling percentage hourly. Meals are typically prepared on-site by the school's mid-day meal staff.
+
+Mock polls are conducted at 5 am on election day to ensure EVM functionality, with the polling booth ready for voters by 6:30 am. Polling lasts from 7 am to 6 pm, after which EVMs are securely transported to counting centers. The article concludes by mentioning N Chandrababu Naidu's significant victory in the Lok Sabha election, emphasizing his importance in national politics and his expected push for Special Category State status for Andhra Pradesh.
+
+Fri, 31 May 2024 10:51:26 +0000
+### [Warmer nights, rising humidity: Why heatwaves are becoming more deadly](https://indianexpress.com/article/explained/explained-climate/warmer-nights-rising-humidity-deadly-heatwave-9363770/)
+
+The article discusses the severe heatwave affecting India, with record-breaking temperatures leading to fatalities in several states. It highlights the urban heat island effect, where cities become significantly warmer than surrounding areas due to concrete structures absorbing more heat, a phenomenon exacerbated by urbanization and reduced greenery. Studies indicate a rise in nighttime temperatures across Indian cities, with urbanization contributing to a 60% increase in warming. The difference between day and night temperatures has decreased, reducing nighttime cooling. Experts suggest long-term solutions like increasing green cover and reducing built-up areas to mitigate the effect. The article also explains how high temperatures and humidity impair the human body's ability to regulate temperature, leading to health risks like heat stroke. A study links the rise in average summer temperatures in India to a significant increase in heat-related mortality. The article is written by Nikhil Ghanekar, an experienced journalist covering environmental policy, and concludes with a brief unrelated note on political developments.
+
+Fri, 31 May 2024 01:48:36 +0000
+### [Expert Explains: With Pune’s Porsche crash case, how blood is tested for alcohol and why timing is crucial](https://indianexpress.com/article/explained/expert-explains-how-pune-crash-accused-blood-alcohol-level-can-be-ascertained-despite-sample-tampering-9362735/)
+
+The article discusses a tragic incident where a 17-year-old son of a Pune builder, allegedly driving under the influence, crashed into a motorbike, resulting in the death of two IT professionals. It was revealed that the blood samples for alcohol testing were swapped by the forensics team. Dr. Sudhir K Gupta, a top forensic expert, emphasizes the importance of collecting blood samples within 10 hours of an incident due to the metabolism rate of alcohol, which averages 10-15 mg per 100 mL of blood per hour. He explains that even if the blood alcohol level is zero, it doesn't mean the person wasn't drinking, as evidence can be gathered from bar bills, witness statements, and CCTV footage. The article also mentions the use of a machine at AIIMS to calculate blood alcohol levels on-site to prevent sample tampering. The case in Pune and a past incident from 1999 are cited as examples where scientific reconstruction of events was used in court. The article is written by Dr. Gupta, Head of the Department of Forensic Medicine at AIIMS, New Delhi, and includes a brief profile of Anonna Dutt, a health correspondent at the Indian Express. The unrelated content about PM Narendra Modi's upcoming swearing-in has been omitted from the summary.
+
+Fri, 31 May 2024 01:45:14 +0000
+### [Who are the Gupta brothers, linked to corruption in South Africa, and why two of them were arrested in India](https://indianexpress.com/article/explained/gupta-brothers-south-africa-dehdradun-arrest-9362182/)
+
+The article discusses the arrest and judicial custody of Anil and Ajay Gupta in Dehradun, India, over an abetment to suicide case. It details the Gupta brothers' migration from Uttar Pradesh to South Africa in 1993, their business expansion, and their close ties with former South African President Jacob Zuma, which led to allegations of corruption and state capture. The article outlines the brothers' involvement in various scandals, the investigation by the Zondo Commission, and their departure from South Africa in 2018. It also mentions the UAE's refusal to extradite Atul and Rajesh Gupta despite Interpol red notices. The piece connects these events to the suicide of a Dehradun-based builder, who accused the Gupta brothers of coercion, leading to their arrest. Additionally, it touches on the political developments in South Africa and India, including the upcoming swearing-in of PM Narendra Modi for a third term.
+
+Fri, 31 May 2024 01:25:31 +0000
+### [Is climate change behind more frequent and severe turbulence faced by aircraft?](https://indianexpress.com/article/explained/is-climate-change-behind-more-frequent-and-severe-turbulence-faced-by-aircraft-9362734/)
+
+The article discusses the phenomenon of turbulence in aviation, highlighting recent incidents where flights experienced severe turbulence leading to injuries and, in one case, a fatality. Turbulence is described as irregular motion caused by different factors such as eddies and vertical currents of air, and can range from light to extreme. The article explains the various causes of turbulence, including mechanical, convective, frontal, and wind shear, with clear air turbulence (CAT) being particularly unpredictable and dangerous.
+
+It notes that while modern aircraft are designed to handle turbulence, the increase in air traffic and climate change have led to a rise in severe turbulence incidents. Studies cited in the article indicate that CAT has increased significantly over the past four decades, likely due to climate change strengthening jet streams. The article suggests that climate change will continue to intensify turbulence from various sources.
+
+The article also discusses safety measures and recommendations from the US Federal Aviation Administration (FAA) to prevent turbulence-related injuries, such as improved communication, training, and adherence to safety protocols. Following a severe turbulence incident, Singapore Airlines has revised its cabin crew procedures to enhance passenger safety during turbulence.
+
+The article concludes with a brief profile of the author, Sukalp Sharma, who has extensive experience in journalism, particularly in energy and aviation sectors. It also mentions an unrelated political update about PM Narendra Modi's upcoming third term.
+
+Thu, 30 May 2024 13:01:16 +0000
+### [‘Liquorgate’ in Kerala? How Left govt has diluted the state’s liquor policy](https://indianexpress.com/article/explained/explained-politics/liquorgate-kerala-left-government-diluted-liquor-policy-9361814/)
+
+The article discusses a potential scandal in Kerala, dubbed 'liquorgate', involving a voice note from the vice president of the Kerala Hotels Association suggesting monetary contributions to influence the lifting of dry days. This coincides with the state government's consideration to relax liquor policies to boost sales of India-made foreign liquor (IMFL). The opposition has accused the government of a Rs 25 crore scam and demanded the resignation of the Excise Minister.
+
+The article traces the evolution of Kerala's liquor policy, noting the incremental dilution of the Congress-era policy by the Left government over the past eight years. The Congress policy aimed for a liquor-free state, closing hundreds of bars and limiting licenses to 5-star hotels. The Left's manifesto in 2016 proposed a more moderate approach, focusing on abstinence campaigns and raising the drinking age.
+
+Since coming to power, the Left has reversed many restrictions, allowing 3 and 4-star hotels to sell IMFL and granting bar licenses to wine parlours. This liberalization was partly in response to job losses and the negative impact on tourism following the Congress policy. The number of bars and licenses has significantly increased under the Left, with the policy favoring bars and hotels over retail outlets.
+
+The state is considering further policy changes after the Lok Sabha polls, including lifting the monthly dry day to benefit the tourism industry and increase state revenue from liquor sales. The article concludes with unrelated information about PM Narendra Modi's upcoming third term and the formation of the next government.
+
+Thu, 30 May 2024 11:08:12 +0000
+### [Why 930 suburban trains will be cancelled in Mumbai this weekend](https://indianexpress.com/article/explained/everyday-explainers/930-suburban-trains-mumbai-local-disruption-9361603/)
+
+The Central Railways (CR) in Mumbai is set to undertake infrastructure upgrade work, resulting in the cancellation of around 930 suburban trains over the upcoming weekend. The upgrades include a 63-hour block for widening Thane's Platform 5/6 and a 36-hour block for extending Platforms 10/11 at Chhatrapati Shivaji Maharaj Terminus (CSMT), which will allow long-distance trains to accommodate more coaches. The work at Thane aims to increase capacity and reduce overcrowding, with the use of modular pre-cast blocks shortening the construction time significantly.
+
+The CSMT block will disrupt train operations between CSMT-Byculla and CSMT-Vadala Road, affecting Harbour Line and both UP and DOWN slow and fast lines. Similarly, the Thane block will cancel many suburban services, impacting various UP and DOWN lines. During the block period, 930 train services will be cancelled, and 444 will be short-terminated.
+
+CR has recommended that offices allow remote work during this period to minimize passenger numbers and prevent platform overcrowding. These upgrades are deemed essential for long-term benefits to the infrastructure. The Mumbai Division of CR typically operates 1,810 local services daily, with a significant ridership recorded in the previous year.
+
+Thu, 30 May 2024 10:45:16 +0000
+### [Why Sharjeel Imam was granted bail — and why he still will not be released](https://indianexpress.com/article/explained/explained-law/sharjeel-imam-bail-will-still-not-be-released-9361307/)
+
+Sharjeel Imam, a JNU scholar, was granted bail by the Delhi High Court but will remain in custody due to other pending cases. He was arrested in January 2020 on charges of sedition and under the Unlawful Activities Prevention Act (UAPA) for an alleged inflammatory speech. The High Court granted him statutory bail because he has served half of the maximum sentence for the charges under UAPA, which is seven years. However, he remains in jail due to his involvement in the 2020 North East Delhi riots case and other pending cases in various states.
+
+The Supreme Court had stayed the operation of Section 124A, which penalizes sedition, pending the determination of its constitutional validity. This stay effectively halted all sedition trials, including Imam's. The bail was granted on technical grounds under Section 436-A of the Code of Criminal Procedure, which allows for bail if an undertrial has served half of the maximum imprisonment term prescribed for the offense.
+
+This provision aims to address the issue of a growing number of undertrials in prison, particularly beneficial for those booked for offenses with shorter sentences. The article also explains the conditions under which courts grant bail for bailable and non-bailable offenses, as well as default bail when the police fail to complete an investigation within the prescribed time frame.
+
+The unrelated content regarding political developments has been omitted from this summary. If you need more details or have any other questions, feel free to ask.
+
+Thu, 30 May 2024 10:06:29 +0000
+### [An Expert Explains: How are exit polls conducted, and how should they be read?](https://indianexpress.com/article/explained/exit-polls-expert-explains-lok-sabha-2024-9361322/)
+
+The article discusses the significance of exit polls in Indian elections, highlighting that they are highly anticipated and often given as much importance as the actual election results. Exit polls are based on interviews with voters after they vote and are released after the last day of voting to avoid influencing those who haven't voted yet. The article notes that people tend to favor exit polls that align with their political preferences and often disregard the methodology used in these polls.
+
+The accuracy of exit polls is debated, with recent ones showing conflicting results and some incorrectly predicting election outcomes. The article argues that the reliability of an exit poll should not be judged solely on the agency conducting it or the sample size, but on a variety of factors, including how representative the sample is of the voter population.
+
+The science of surveys, including exit polls, assumes that data is collected using a structured questionnaire. The article traces the history of exit polls in India back to 1957 and notes that while sample sizes have increased significantly since then, the representativeness of the sample is more important than its size.
+
+The author, Sanjay Kumar, a professor at the Centre for the Study of Developing Societies (CSDS), shares insights from his experience with exit polls and post-poll surveys. He emphasizes that technological advancements have helped improve the accuracy of these polls, but there is no guaranteed method for correct predictions. The article also discusses the challenges of predicting vote shares and seats due to India's diverse electorate and the complexities of electoral swings.
+
+In conclusion, the article suggests that exit polls need to be more than just seat number predictions; they should include vote share estimates and methodological details to be considered valid. The author calls for a distinction between genuine exit polls and mere estimate polls, stressing the importance of estimating vote shares for a comprehensive analysis of voting behavior. The article ends with an anecdote about a viral video of a BJP supporter's reaction to the party's performance in the Lok Sabha elections.
+
+Thu, 30 May 2024 07:14:53 +0000
+### [In the second Congress-led UPA term, how pro-public policies gave way to corruption allegations](https://indianexpress.com/article/explained/explained-history/2009-elections-congress-aap-manmohan-9360860/)
+
+The article provides a comprehensive overview of the political landscape surrounding the 2009 Lok Sabha elections in India. It highlights the Congress-led UPA's return to power, largely attributed to their promise of a farm loan waiver. The UPA's victory was seen as a validation for party leaders Sonia Gandhi and Rahul Gandhi, despite the BJP's projection of L.K. Advani as their prime ministerial candidate.
+
+The article discusses the low number of parliamentary sittings before the elections, the Congress's retention of power in key states, and the impact of the 26/11 Mumbai terror attacks. It also touches on controversies within the Election Commission and the implementation of the Delimitation Commission's report, which changed voter composition in nearly 500 constituencies.
+
+In the election, the Congress improved its seat count, while the BJP's share decreased. The RJD and LJP, UPA allies, faced significant losses. The article also mentions individual political figures' wins and losses, including Varun Gandhi's entry into the Lok Sabha.
+
+The UPA's second term was marred by corruption scandals, leading to a rise in anti-corruption activism and the formation of new political parties like the AAP. The article notes the erosion of the Congress party's organizational base over its ten-year tenure and the BJP's determination to win the 2014 elections, which led to the passing of the Lokpal and Lokayukta Bill and the creation of Telangana state.
+
+The article concludes with a brief mention of investigative journalist Shyamlal Yadav's work and Ashneer Grover's comments on the 2024 Lok Sabha election results. Grover highlighted the intelligence of Indian voters and the significance of candidate selection at the constituency level. The article suggests that the political narrative and outcomes of the elections were shaped by a combination of leadership, policy promises, and public response to governance and corruption.
+
+Thu, 30 May 2024 02:50:05 +0000
+### [Operation Blue Star, theft of holy book: Why June 1 is an important date in Punjab politics](https://indianexpress.com/article/explained/blue-star-theft-of-holy-book-why-june-1-is-an-important-date-in-punjab-politics-9360393/)
+
+The article discusses two significant events in Punjab's history that coincide with the last phase of the Lok Sabha election on June 1. The first event is the 40th anniversary of Operation Blue Star, a military operation to remove Khalistani militants from the Golden Temple in Amritsar, which led to a series of violent incidents, including the assassination of Prime Minister Indira Gandhi and attacks on Sikhs. The second event is the theft of a copy of the Guru Granth Sahib from a gurdwara in Faridkot, which sparked numerous sacrilegious acts affecting Punjab's politics.
+
+The article details the military action authorized by Indira Gandhi despite opposition, resulting in significant casualties, including the death of militant leader Jarnail Singh Bhindranwale. The fallout from Operation Blue Star had lasting political effects, with violence and instability in Punjab, and it continues to influence politics, as seen in election campaigns.
+
+The sacrilege of the Guru Granth Sahib has also had a profound impact, leading to protests, unrest, and political consequences. The Akali Dal faced a major defeat in the 2017 elections due to perceived leniency towards those responsible for the sacrilege. Political shifts continued with the replacement of Congress Chief Minister Capt Amarinder Singh in 2021. The issue remains sensitive, with the Punjab Assembly passing a bill for life imprisonment for sacrilege of religious texts.
+
+The article concludes by explaining the normal pace of election result announcements, noting that the Election Commission waits until all votes are counted before declaring winners.
+
+Thu, 30 May 2024 02:45:14 +0000
+### [Ancient Egyptians might have tried to treat brain cancer: what a new study found](https://indianexpress.com/article/explained/explained-sci-tech/ancient-egyptians-might-have-tried-to-treat-brain-cancer-what-a-new-study-found-9360382/)
+
+The article discusses a significant archaeological and medical discovery where a 4,600-year-old Egyptian skull showed evidence of brain cancer and possible attempts at treatment. Researchers found cut marks around the skull's edges, which were associated with metastatic lesions. This finding could indicate that ancient Egyptians had attempted to treat cancer, potentially advancing the history of cancer treatment by a thousand years.
+
+Ancient Egyptian medicine was known to be advanced, with detailed knowledge of diseases and injuries. The Edwin Smith Papyrus, dating back 3,600 years, mentions a "grave disease" with no treatment, likely referring to cancer. However, the new evidence suggests that there may have been efforts to understand or treat cancer during that time.
+
+The study highlights the ancient Egyptians' emphasis on hygiene and diet for good health, which remains relevant today. While the exact purpose of the cut marks on the skull is uncertain, they represent a significant milestone in the history of medicine, showing that ancient physicians might have conducted medical surgical exploration or care. The article includes comments from the researchers and references a publication in JCO Global Oncology. The unrelated content about a local election result has been omitted from this summary.
+
+Thu, 30 May 2024 02:44:27 +0000
+### [2004 Lok Sabha elections: When BJP’s ‘India Shining’ failed to resonate, leading to the UPA era](https://indianexpress.com/article/explained/explained-the-ten-years-under-manmohan-singh-9360396/)
+
+The article provides a detailed account of the political landscape in India surrounding the 2004 general elections. It highlights the BJP's confidence in winning the elections, fueled by the "India Shining" campaign and economic growth. However, the party's overconfidence and disconnect from ground realities, along with internal issues and policy decisions, led to its defeat. The Congress, led by Sonia Gandhi, capitalized on the BJP's shortcomings and formed the UPA government with Manmohan Singh as Prime Minister. The article also discusses electoral reforms introduced in 2004, such as the use of EVMs and mandatory asset declarations by candidates. It covers the UPA's tenure, including the implementation of significant acts like the Right To Information Act and the National Rural Employment Guarantee Act, and the controversy surrounding the nuclear deal with the US. The piece concludes with the BJP's internal struggles post-election and the rise of new leadership. Additionally, it mentions the investigative work of journalist Shyamlal Yadav and the NEET UG 2024 results, which are unrelated to the main content.
+
+Thu, 30 May 2024 01:28:32 +0000
+### [Not just Delhi: How temperature records are tumbling across the world](https://indianexpress.com/article/explained/explained-climate/not-just-delhi-how-temperature-records-are-tumbling-across-the-world-9360328/)
+
+The article discusses the recent extreme temperatures in New Delhi, which are part of a global pattern of record-breaking heat. It mentions several instances of unprecedented temperatures around the world, including the UK, China, and Italy. The article cites a study showing that 40% of the Earth experienced its highest-ever temperatures between 2013 and 2023. It also references the all-time highest temperature recorded on Earth in Death Valley, California, in 1913.
+
+A recent temperature reading of 52.9°C in Delhi is under scrutiny by the India Meteorological Department for its authenticity, as it significantly exceeds readings from other local stations. Despite this, the article emphasizes that northern India is experiencing a severe heatwave, with temperatures 5 to 10°C above normal, posing a significant threat to well-being and survivability.
+
+The article also highlights that 2024 continues the trend of high temperatures, with the past year being the warmest on record globally. The Copernicus Climate Change Service reports that the period from May 2023 to April 2024 was the warmest 12-month period ever, with a significant rise in global temperatures compared to pre-industrial levels. While India's temperature increase is less than the global average, the severity of heatwaves in the country is notable.
+
+The article concludes with the information that temperatures exceeding 45°C are likely to become the new normal in India, and a 50°C reading may not be as surprising in the future. It also briefly mentions political news unrelated to the climate content.
+
+Wed, 29 May 2024 15:49:37 +0000
+### [ICJ orders Israel to halt military assault in Rafah: The case and the ruling](https://indianexpress.com/article/explained/explained-law/icj-israel-military-assault-rafah-9359950/)
+
+The International Court of Justice (ICJ) has ordered Israel to stop its military operations in Rafah, Gaza, and to open the Rafah crossing for humanitarian aid. This ruling is part of a series of decisions in a case brought by South Africa, which accuses Israel of genocide in Gaza. The ICJ's orders, while legally binding, lack enforcement mechanisms but could increase Israel's global isolation. The case has seen previous orders for Israel to prevent genocide and ensure food supplies to Palestinians. The latest order responds to South Africa's request to protect Palestinians from Israel's military assault, which South Africa claims is causing irreparable harm and violating the Genocide Convention. The ICJ ruled in a 13:2 majority for Israel to halt actions that could lead to the destruction of Palestinians in Gaza. The court also emphasized the need for immediate implementation of previous provisional measures and indicated that the situation's gravity justifies modifying these measures. The ICJ expressed concern over the ongoing military offensive and the displacement of nearly 800,000 people from Rafah, as well as the inadequacy of Israel's evacuation efforts to protect civilians. The court's decision reflects the escalating situation and the urgent need to address the humanitarian crisis in Gaza.
+
+Wed, 29 May 2024 15:31:05 +0000
+### [Why Prime Minister Modi will meditate at Kanyakumari’s Vivekananda Rock](https://indianexpress.com/article/explained/prime-minister-modi-meditate-kanyakumari-vivekananda-rock-9359943/)
+
+Prime Minister Narendra Modi plans to visit the Vivekananda Rock Memorial in Kanyakumari from May 30 to June 1, coinciding with the end of the BJP's Lok Sabha election campaign. This visit is reminiscent of his meditation at Kedarnath in 2019. The Vivekananda Rock, where Swami Vivekananda is believed to have attained enlightenment, is a significant site for meditation and has been commemorated with a memorial inaugurated in 1970. Modi's choice of this location is notable as it aligns with his admiration for Swami Vivekananda and his increased political focus on the southern states, particularly Tamil Nadu, which are crucial in the Lok Sabha elections. Modi has expressed confidence in BJP's growing influence in the South, anticipating a significant increase in the party's seat and vote share in the region.
+
+Wed, 29 May 2024 13:58:16 +0000
+### [Why do temperatures vary from place to place within the same city?](https://indianexpress.com/article/explained/temperatures-vary-delhi-heatwave-9359773/)
+
+The article discusses the varying temperatures recorded across different locations in Delhi, with Mungeshpur experiencing a record high of 52.9°C. It explains that multiple weather stations across the city contribute to these differences, as there is no single station providing an average temperature for Delhi. Factors such as urban infrastructure, building materials, and the density of construction can create 'urban heat islands' where temperatures are significantly higher than surrounding areas. Natural elements like vegetation and water bodies can mitigate this effect by providing cooling. The article also briefly mentions the upcoming swearing-in of PM Narendra Modi for a third term.
+
+Wed, 29 May 2024 13:07:18 +0000
+### [Pakistan’s ‘fault’, says Nawaz Sharif: How Pervez Musharraf’s Kargil misadventure undid historic Lahore Declaration](https://indianexpress.com/article/explained/explained-history/nawaz-musharraf-kargil-lahore-declaration-9359456/)
+
+The article recounts a significant episode in South Asian history, focusing on the Lahore Declaration and subsequent events. Former Pakistan Prime Minister Nawaz Sharif admitted that Pakistan breached an agreement with India, which was signed after India's nuclear tests in 1998 and Pakistan's subsequent tests. The Lahore Declaration, signed by Sharif and India's then-Prime Minister Atal Bihari Vajpayee, aimed to resolve bilateral disputes peacefully, including the Kashmir issue, and to foster friendly relations.
+
+However, even as the declaration was being signed, Pakistani troops were occupying positions in Kargil, leading to the Kargil War. Despite initial strategic disadvantages, Indian forces reclaimed the occupied territories. The peace process was severely disrupted, and no further talks on Kashmir ensued. The article also briefly mentions the political aftermath in Pakistan, including General Pervez Musharraf's coup against Nawaz Sharif.
+
 Wed, 29 May 2024 02:48:15 +0000
 ### [Explained: Danger from landslides](https://indianexpress.com/article/explained/explained-climate/northeast-mizoram-landslides-cyclone-remal-9358218/)
 

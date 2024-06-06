@@ -1,3 +1,375 @@
+Thu, 06 Jun 2024 02:40:56 +0000
+### [PM Modi’s appeal is not dented by one election result](https://indianexpress.com/article/opinion/columns/pm-modis-appeal-is-not-dented-by-one-election-result-9374652/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 02:20:18 +0000
+### [Why AAP can’t crack general elections](https://indianexpress.com/article/opinion/columns/why-aap-cant-crack-general-elections-9374592/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 02:03:43 +0000
+### [In Odisha and Andhra Pradesh, ringing in the new governments](https://indianexpress.com/article/opinion/editorials/in-odisha-and-andhra-pradesh-ringing-in-the-new-governments-9374614/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 02:00:27 +0000
+### [Why BJP’s Hindutva appeal can’t cross the Dravidian wall](https://indianexpress.com/article/opinion/columns/why-bjps-hindutva-appeal-cant-cross-the-dravidian-wall-9374710/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 01:50:15 +0000
+### [In the results of 2024 elections, rebirth of the ‘idea of India’](https://indianexpress.com/article/opinion/columns/in-the-results-of-2024-elections-rebirth-of-the-idea-of-india-9374591/)
+
+The article presents three interpretations of the 2024 national election results in India. The first suggests the results reflect a rejection of the Prime Minister's hubris, highlighted by his claim of divine selection for leadership. Despite losing over 60 seats, the BJP framed the outcome as a victory, which the author views as a denial of reality.
+
+The second interpretation views the results as a repudiation of Hindu nationalism, evidenced by the BJP's loss in key constituencies, including Faizabad and Uttar Pradesh, and the use of derogatory language against Muslims during the campaign.
+
+The third interpretation posits that the election expressed a desire to uphold constitutional values, particularly affirmative action and citizen dignity. The concern for the Constitution has moved from elite discourse to mass politics, with educated Dalits and OBCs voicing apprehensions about the BJP's potential to win a large majority and alter affirmative action policies.
+
+The author argues that these concerns reflect the "idea of India" enshrined in the Constitution, which stands for justice, equality, and dignity, countering the Hindu nationalist perspective. The article concludes that the election results, especially in Uttar Pradesh, indicate a revival of this constitutional idea of India, which would have been threatened had the BJP won a significant majority. The writer, a professor at Brown University, emphasizes the importance of these constitutional values in the face of the BJP's electoral setbacks.
+
+Wed, 05 Jun 2024 12:48:53 +0000
+### [Why Andhra Pradesh voters turned against Jagan Mohan Reddy and YSRCP](https://indianexpress.com/article/opinion/columns/andhra-pradesh-voters-turned-against-jagan-mohan-reddy-ysrcp-9374011/)
+
+Article found but Couldn't summarize
+
+Wed, 05 Jun 2024 11:52:22 +0000
+### [2024 mandate for NDA: A to-do list for PM Modi](https://indianexpress.com/article/opinion/columns/nda-mandate-2024-pm-modi-9373867/)
+
+Article found but Couldn't summarize
+
+Wed, 05 Jun 2024 07:27:29 +0000
+### [Lok Sabha election 2024: The people have voted for stability and PM Modi](https://indianexpress.com/article/opinion/columns/lok-sabha-2024-election-mandate-for-nda-endorses-hindutva-as-the-path-to-modernity-9373336/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 16:34:42 +0000
+### [J Sai Deepak writes: 2024 — Bharat and Decolonisation](https://indianexpress.com/article/opinion/columns/j-sai-deepak-writes-2024-bharat-decolonisation-9372251/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 16:24:28 +0000
+### [Verdict 2024 is for not just a Government but also an Opposition](https://indianexpress.com/article/opinion/editorials/verdict-2024-is-for-not-just-a-government-but-also-an-opposition-9372216/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 15:45:39 +0000
+### [Exit exit polls](https://indianexpress.com/article/opinion/editorials/exit-exit-polls-9372257/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 15:31:42 +0000
+### [J Sai Deepak writes: 2024 — Bharat and Decolonisation](https://indianexpress.com/article/opinion/columns/j-sai-deepak-writes-2024-bharat-and-decolonisation-9372164/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 14:54:36 +0000
+### [Message from Karnataka: Saffron rollback, time for communal harmony](https://indianexpress.com/article/opinion/columns/message-karnataka-saffron-rollback-time-communal-harmony-9371967/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 14:20:22 +0000
+### [Sanjay Srivastava writes | Election results: Triumph of society and independent thoughts over statism](https://indianexpress.com/article/opinion/columns/lok-sabha-election-results-triumph-of-society-independent-thoughts-statism-9372011/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 13:15:23 +0000
+### [After Lok Sabha election verdict 2024: INDIA’s challenge has just begun](https://indianexpress.com/article/opinion/columns/lok-sabha-election-results-2024-opposition-congress-9371843/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 11:03:29 +0000
+### [As the election results come in, an agenda for the next government](https://indianexpress.com/article/opinion/columns/election-results-come-government-gdp-9371537/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 10:35:18 +0000
+### [Pratap Bhanu Mehta on 2024 Lok Sabha election results: Suffocating shadow has lifted, balance restored](https://indianexpress.com/article/opinion/columns/2024-lok-sabha-election-results-narendra-modi-9371534/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 01:45:25 +0000
+### [Mission Karmayogi: For civil servants who are better prepared and citizen-oriented](https://indianexpress.com/article/opinion/columns/mission-karmayogi-for-civil-servants-who-are-better-prepared-and-citizen-oriented-9370185/)
+
+The article discusses India's ambitious plan for development by 2047, focusing on transforming its civil services to achieve a $30 trillion economy. The government launched Mission Karmayogi to enhance the capabilities of civil servants, making them more citizen-centric and future-ready. The Capacity Building Commission (CBC) was established to guide this transformation, offering digital training courses in collaboration with various ministries and institutions.
+
+Significant improvements have been made in infrastructure development, with the PM Gati Shakti platform playing a crucial role in integrating planning and execution across ministries. This has led to increased construction of rail lines and highways, avoiding sensitive wildlife habitats.
+
+The CBC has also partnered with different ministries to train police personnel and other officials in public security, customer service, and emerging technologies. These efforts have resulted in increased citizen satisfaction and a sense of security, particularly highlighted by the rise in tourism in Kashmir and the professional conduct of police during the G-20 summit.
+
+Furthermore, the CBC has worked with municipal corporations on capacity building for local governance and public service delivery. The article concludes by emphasizing the ongoing cultural shift towards lifelong learning within the civil services, which is crucial for India's development goals. The writer, a member of the CBC, suggests that the success of Mission Karmayogi is a testament to the government's commitment to addressing the needs of its citizens and improving the efficiency of its services.
+
+Tue, 04 Jun 2024 01:45:08 +0000
+### [Challenge for farm sector: How to share growth gains](https://indianexpress.com/article/opinion/columns/challenge-for-farm-sector-how-to-share-growth-gains-9370181/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 01:25:37 +0000
+### [In South Africa, end of ANC majority signals end of an era](https://indianexpress.com/article/opinion/editorials/in-south-africa-end-of-anc-majority-signals-end-of-an-era-9370158/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 01:20:41 +0000
+### [Prajwal Revanna’s arrest by all-woman posse is a powerful image](https://indianexpress.com/article/opinion/editorials/prajwal-revannas-arrest-by-all-woman-posse-is-a-powerful-image-9370159/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 01:15:33 +0000
+### [Ahead of poll results, the rise and rise of Indian stock markets](https://indianexpress.com/article/opinion/editorials/ahead-of-poll-results-the-rise-and-rise-of-indian-stock-markets-9370157/)
+
+Article found but Couldn't summarize
+
+Tue, 04 Jun 2024 01:05:22 +0000
+### [June 3, 1984, Forty Years Ago: Curfew in Punjab for 36 hours](https://indianexpress.com/article/opinion/40-years-ago/june-3-1984-forty-years-ago-curfew-in-punjab-for-36-hours-9370192/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 12:30:49 +0000
+### [Why Delhi struggles with water shortage — and how this problem can be fixed](https://indianexpress.com/article/opinion/columns/delhi-water-shortage-problem-how-can-it-be-fixed-9369435/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 10:30:32 +0000
+### [Is the BJP independent of RSS? RSS archives say no](https://indianexpress.com/article/opinion/columns/is-the-bjp-independent-of-rss-rss-archives-say-no-9369336/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 09:46:14 +0000
+### [June 6 clash with Kuwait: Make or break for Indian football](https://indianexpress.com/article/opinion/columns/india-kuwait-football-june-6-match-9369300/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 07:44:39 +0000
+### [Heat proofing cities: Emergency oriented approaches must give way to long-term planning](https://indianexpress.com/article/opinion/columns/heat-proofing-cities-emergency-oriented-approaches-must-give-way-to-long-term-planning-9369100/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 03:15:13 +0000
+### [India’s GDP growth is impressive, but can it be sustained?](https://indianexpress.com/article/opinion/columns/indias-gdp-growth-is-impressive-but-can-it-be-sustained-9368172/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 03:10:03 +0000
+### [For next government, how to meet the demand challenge](https://indianexpress.com/article/opinion/columns/what-should-the-next-government-focus-on-to-sustain-indias-economic-growth-9368185/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 03:06:09 +0000
+### [Why the old script can’t work for India’s green transition](https://indianexpress.com/article/opinion/columns/why-the-old-script-cant-work-for-indias-green-transition-9368187/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 03:05:12 +0000
+### [Sikkim, Arunachal poll results: Pro-incumbency trends, Congress’s receding footprint](https://indianexpress.com/article/opinion/editorials/sikkim-arunachal-poll-results-pro-incumbency-trends-congresss-receding-footprint-9368178/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 02:50:00 +0000
+### [June 3, 1984, Forty Years Ago: Army in Punjab](https://indianexpress.com/article/opinion/40-years-ago/june-3-1984-forty-years-ago-army-in-punjab-9368402/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 01:58:08 +0000
+### [The US, after the conviction](https://indianexpress.com/article/opinion/editorials/the-us-after-the-conviction-9368177/)
+
+Article found but Couldn't summarize
+
+Mon, 03 Jun 2024 01:44:05 +0000
+### [Prime Minister Modi writes: We need to dream new dreams](https://indianexpress.com/article/opinion/columns/prime-minister-modi-writes-new-dreams-9368454/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 14:28:55 +0000
+### [Vandita Mishra writes | Reading the exit polls: Incumbent BJP may also have claimed vote for change](https://indianexpress.com/article/opinion/columns/exit-polls-bjp-vote-change-9367790/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 13:47:55 +0000
+### [Decoding the BJP’s Arunachal win, beyond lazy analysis](https://indianexpress.com/article/opinion/columns/bjp-arunachal-pradesh-win-analysis-9367688/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 13:23:21 +0000
+### [In Sikkim, a Golay wave sweeps SKM to power](https://indianexpress.com/article/opinion/columns/sikkim-elections-skm-victory-golay-wave-9367657/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 13:05:37 +0000
+### [In Arunachal Pradesh, a saffron landslide](https://indianexpress.com/article/opinion/columns/arunachal-pradesh-bjp-victory-9367617/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 11:20:32 +0000
+### [Exit polls 2024: Why Maharashtra proved to be a tough battleground](https://indianexpress.com/article/opinion/columns/maharashtra-exit-polls-2024-9367438/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 10:29:34 +0000
+### [Exit poll message: Third Modi mandate calls for big and bold reforms](https://indianexpress.com/article/opinion/columns/elections-time-reform-agenda-9367380/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 08:42:13 +0000
+### [Exit polls and results day: Why BJP may have reason to worry, and where INDIA may have fallen short](https://indianexpress.com/article/opinion/columns/exit-polls-and-results-day-why-bjp-may-have-reason-to-worry-and-where-india-may-have-fallen-short-9367258/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 07:19:46 +0000
+### [Prajwal Revanna, Brij Bhushan Singh, Asaram Bapu: The time to get serious about victim protection was yesterday](https://indianexpress.com/article/opinion/columns/prajwal-revanna-brij-bhushan-singh-asaram-bapu-victim-protection-sexual-assault-cases-9367144/)
+
+The article discusses the critical issue of victim and witness protection in cases of sexual assault in India. It begins by debunking a claim that women can easily accuse men of rape without evidence, pointing out that many such cases go unregistered. The article then highlights several instances where victims and witnesses of sexual assault faced severe threats, including murder and intimidation, especially when the accused were powerful individuals or politicians.
+
+The authors argue for the necessity of strong victim and witness protection programs, noting that current measures are insufficient and often fail to protect those at risk. They detail the history of witness protection in India, which began in 1958, and the gradual development of laws and schemes aimed at safeguarding witnesses. However, they criticize the limited scope and effectiveness of these programs, citing a lack of comprehensive mechanisms for confidentiality and the absence of robust measures against breaches.
+
+The article concludes by emphasizing the urgent need to enhance victim and witness protection to ensure justice and support for survivors. It also mentions the recent Lok Sabha elections, where many candidates with serious criminal charges, including crimes against women, were elected, underscoring the vulnerability of victims and witnesses in such cases. The authors, a criminal lawyer and a trained social worker, advocate for immediate action to improve protection measures. The article also briefly touches on N Chandrababu Naidu's victory in the Lok Sabha election and its implications for national politics and Andhra Pradesh's Special Category State status.
+
+Sun, 02 Jun 2024 02:50:38 +0000
+### [Backed by Tata, royal family, how IISc came to life 115 years ago](https://indianexpress.com/article/opinion/columns/backed-by-tata-royal-family-how-iisc-came-to-life-115-years-ago-9366327/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 02:30:43 +0000
+### [Tavleen Singh writes: An ugly campaign ends](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-an-ugly-campaign-ends-9366367/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 02:17:00 +0000
+### [P Chidambaram writes: Pro-changers challenge the no-changers](https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-pro-changers-challenge-the-no-changers-9366364/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 02:15:37 +0000
+### [Inside Track by Coomi Kapoor: Idiosyncrasies of this long-drawn-out and difficult-to-decipher election](https://indianexpress.com/article/opinion/columns/inside-track-chemistry-vs-arithmetic-9366360/)
+
+Article found but Couldn't summarize
+
+Sun, 02 Jun 2024 02:05:29 +0000
+### [The real and reel impact of FTII](https://indianexpress.com/article/opinion/columns/the-real-and-reel-impact-of-ftii-9366347/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 18:12:19 +0000
+### [With exit poll results and BJP’s return, a message: North to South, the Indian voter has evolved](https://indianexpress.com/article/opinion/columns/with-exit-poll-results-and-bjps-return-a-message-north-to-south-the-indian-voter-has-evolved-9366441/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 17:19:08 +0000
+### [After election, post script on exit polls: A thriller scripted by the Indian voter](https://indianexpress.com/article/opinion/columns/exit-polls-trailer-shows-picture-lok-sabha-election-results-9366357/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 15:14:16 +0000
+### [Message from exit polls: To fight the BJP, INDIA must focus on ideology and make way for young blood](https://indianexpress.com/article/opinion/columns/exit-polls-fight-bjp-india-must-focus-ideology-make-way-young-blood-9366181/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 08:30:58 +0000
+### [Pakistan celebrates the day it  became ‘invincible’](https://indianexpress.com/article/opinion/columns/pakistan-celebrates-the-day-it-became-invincible-9365457/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 06:20:28 +0000
+### [Why did I vote? Because a citizen is a student – always learning – and the polling booth is the classroom of democracy](https://indianexpress.com/article/opinion/columns/citizen-is-a-student-always-learning-and-the-polling-booth-is-the-classroom-of-democracy-9365271/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 02:15:19 +0000
+### [For India to become ‘developed’ by 2047, here’s what we need to do](https://indianexpress.com/article/opinion/columns/india-developed-2047-9364529/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 02:02:23 +0000
+### [Europeans are worried about World War III. They are not paranoid](https://indianexpress.com/article/opinion/columns/europeans-are-worried-about-world-war-iii-they-are-not-paranoid-9364530/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 01:45:29 +0000
+### [Not NDA vs UPA: The numbers behind the poverty debate](https://indianexpress.com/article/opinion/columns/not-nda-vs-upa-the-numbers-behind-the-poverty-debate-9364531/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 01:29:34 +0000
+### [Is India’s economy faring better than expected?](https://indianexpress.com/article/opinion/editorials/is-indias-economy-faring-better-than-expected-9364532/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 01:20:42 +0000
+### [The search for India’s cricket coach](https://indianexpress.com/article/opinion/editorials/the-search-for-indias-cricket-coach-9364534/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 01:20:37 +0000
+### [In Donald Trump’s conviction, the triumph of American justice](https://indianexpress.com/article/opinion/editorials/in-donald-trumps-conviction-the-triumph-of-american-justice-9364533/)
+
+Article found but Couldn't summarize
+
+Sat, 01 Jun 2024 01:04:06 +0000
+### [June 1, 1984, Forty Years Ago: Terrorists-security forces clash in Amritsar](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-terrorists-security-forces-clash-amritsar-9364535/)
+
+The article covers several key points:
+
+1. In Punjab, there has been a surge in violence with an exchange of fire in Amritsar and Tarn Taran, resulting in the deaths of three individuals. Additionally, terrorists have committed robberies and arson against a medical practitioner and a government school.
+2. Prime Minister Indira Gandhi expressed the nation's shame over the violence in Punjab and emphasized the government's efforts to negotiate a resolution without compromising national unity.
+3. A reshuffle of governors in Haryana, Sikkim, Manipur, and Nagaland was announced, with M H Burney being appointed to Haryana and Gen K V Krishna Rao taking over the governorship of Manipur, Nagaland, and Tripura.
+4. India's oil import bill is expected to increase by Rs 400 crore due to the dollar's appreciation and higher insurance premiums, although this may not affect Indian consumer oil prices due to the Crude Oil Price Equalisation Fund.
+5. The article concludes with political updates, including PM Narendra Modi's upcoming third term after the NDA's victory in the Lok Sabha elections, and the Union Cabinet's recommendation to dissolve the current Lok Sabha for the formation of the 18th Lok Sabha.
+
+Fri, 31 May 2024 13:43:43 +0000
+### [Yogendra Yadav writes | From loss to recovery of faith: An election ground report](https://indianexpress.com/article/opinion/columns/yogendra-yadav-elections-politics-lok-sabha-polls-9363983/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 10:31:35 +0000
+### [The foreign hand in Bangladesh – and concerns for India](https://indianexpress.com/article/opinion/columns/bangladesh-foreign-hand-india-concerns-9363714/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 09:38:13 +0000
+### [To say the world only became curious about Gandhi after Richard Attenborough’s film is sheer ‘mann ki baat’, not fact](https://indianexpress.com/article/opinion/columns/pm-modi-gandhi-film-remarks-mann-ki-baat-9363495/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 07:25:13 +0000
+### [Viral ‘All Eyes on Rafah’ image hides the true picture of violence in Palestine](https://indianexpress.com/article/opinion/columns/all-eyes-on-rafah-image-palestine-violence-9363406/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 02:40:39 +0000
+### [More than silent ‘beneficiaries’: What the women of West Bengal are voting for – and against](https://indianexpress.com/article/opinion/columns/more-than-silent-beneficiaries-what-the-women-of-west-bengal-are-voting-for-and-against-9362761/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 02:35:28 +0000
+### [When a Holkar queen gave India Ram Rajya](https://indianexpress.com/article/opinion/columns/when-a-holkar-queen-gave-india-ram-rajya-9362764/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 02:35:02 +0000
+### [May 31, 1984, Forty Years Ago: Sikkim CM Defects](https://indianexpress.com/article/opinion/40-years-ago/may-31-1984-forty-years-ago-sikkim-cm-defects-9362603/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 02:00:37 +0000
+### [Heatwave and the death of a worker: What heat action plan must focus on](https://indianexpress.com/article/opinion/columns/heatwave-and-the-death-of-a-worker-what-heat-action-plan-must-focus-on-9362596/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 01:59:00 +0000
+### [Naveen Patnaik’s health and conspiracy theories: No a debate for the campaign trail](https://indianexpress.com/article/opinion/editorials/naveen-patnaiks-health-and-conspiracy-theories-no-a-debate-for-the-campaign-trail-9362621/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 01:58:54 +0000
+### [India’s economy: From stable to positive](https://indianexpress.com/article/opinion/editorials/indias-economy-from-stable-to-positive-9362620/)
+
+Article found but Couldn't summarize
+
+Fri, 31 May 2024 01:51:04 +0000
+### [In Hapur, a marriage ceremony, a moral outrage and a heartening change in script](https://indianexpress.com/article/opinion/editorials/in-hapur-a-marriage-ceremony-a-moral-outrage-and-a-heartening-change-in-script-9362622/)
+
+Article found but Couldn't summarize
+
 Wed, 22 May 2024 12:02:01 +0000
 ### [Shyam Saran writes: Amid President Ebrahim Raisi’s death, Israel war, India’s reconnect with Iran](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-israel-war-india-iran-9345099/)
 

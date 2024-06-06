@@ -1,3 +1,68 @@
+Sun, 02 Jun 2024 23:08:52 +0530
+### [Does inequality lead to growth? | Explained](https://www.thehindu.com/news/national/does-inequality-lead-to-growth-explained/article68244378.ece)
+
+Article found but Couldn't summarize 
+Several argue that inequality harms democratic processes. Some inequality, others argue, is actually beneficial, since it acts as an incentive to entrepreneurs to start businesses. This view is mistaken, for inequality can have deleterious economic effects
+
+Sun, 02 Jun 2024 22:33:27 +0530
+### [How have coalitions in India picked Prime Ministers? | Explained](https://www.thehindu.com/elections/lok-sabha/how-have-coalitions-in-india-picked-prime-ministers/article68239213.ece)
+
+Article found but Couldn't summarize 
+‘Modi Vs Who?’— a quip BJP keeps taunting the INDIA bloc with, has raised questions as to who will be their Prime Ministerial candidate and how he will be picked. Here’s a look at how six of India’s coalition Prime Ministers were picked.
+
+Sun, 02 Jun 2024 17:38:05 +0530
+### [How do markets look at election results?](https://www.thehindu.com/business/markets/how-do-markets-look-at-election-results/article68242108.ece)
+
+Article found but Couldn't summarize 
+Markets turn particularly volatile in the run-up to an election season. Investors are on the lookout for a stable government which has its focus on pursuing economic development, investing in infrastructure and spurring economic activity.
+
+Sun, 02 Jun 2024 08:12:29 +0530
+### [Why did AIADMK, PMK, CPI, INL and AIFB (TN) challenge the use of EVMs in 2001? | Explained](https://www.thehindu.com/news/national/tamil-nadu/why-did-aiadmk-pmk-cpi-inl-and-aifb-tn-challenge-the-use-of-evms-in-2001-explained/article68238751.ece)
+
+Article found but Couldn't summarize 
+The Madras High Court had in 2001 dismissed a batch of writ petitions filed by them and upheld the constitutional validity of Section 61A of the Representation of People Act, 1951 which permits use of voting machines, either electronic or otherwise.
+
+Sun, 02 Jun 2024 04:12:00 +0530
+### [Why is there a fresh row on Mullaperiyar? | Explained](https://www.thehindu.com/news/national/why-is-there-a-fresh-row-on-mullaperiyar/article68241020.ece)
+
+The article discusses the ongoing dispute between Kerala and Tamil Nadu over the Mullaperiyar dam. The Expert Appraisal Committee (EAC) of the Ministry of Environment, Forest and Climate Change (MoEF) canceled a meeting intended to consider Kerala's request for a new Terms of Reference (ToR) for an Environmental Impact Assessment (EIA) of a new dam. This cancellation occurred without explanation, leaving Kerala officials who had traveled to New Delhi for the meeting uninformed.
+
+The conflict centers on the 128-year-old Mullaperiyar dam, located in Kerala but operated by Tamil Nadu. Kerala seeks a new ToR to prepare an EIA for a new dam, citing the need for updated environmental data following floods in 2018 and 2019. Tamil Nadu, reliant on the dam's water for irrigation, opposes this move, claiming it violates a Supreme Court order and could lead to contempt of court. Tamil Nadu maintains that the existing dam is safe, as affirmed by expert committees and the Supreme Court.
+
+Kerala has nearly finalized the new dam's design and argues that the Supreme Court had previously dismissed Tamil Nadu's objections to the earlier ToR and EIA clearance. The new dam would require environmental clearances due to its location in the Periyar Tiger Reserve, and the cost, initially estimated at ₹800 crore, is expected to rise.
+
+The dispute has led to a prolonged legal battle since 1996, with both states filing various litigations. The article suggests that further legal confrontations may ensue as Kerala continues to prepare for the new dam, which would need Tamil Nadu's consent as per a 2014 Supreme Court directive.
+
+Sun, 02 Jun 2024 03:51:00 +0530
+### [What grade of coal does India produce? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-grade-of-coal-does-india-produce/article68241013.ece)
+
+Article found but Couldn't summarize 
+Why does it need imported coal? What is the status of the country’s transition away from the fossil fuel?
+
+Sun, 02 Jun 2024 03:06:00 +0530
+### [Is a future Palestine state possible? | Explained](https://www.thehindu.com/news/international/is-a-future-palestine-state-possible/article68241006.ece)
+
+Article found but Couldn't summarize 
+What are the hurdles to a two-state solution? With Palestinian territories under Israeli occupation since 1967, how will a Jewish and Arab state be demarcated? Why does Israel want to hold on to the status quo of occupation? Will war lead to peace in the region or is it a far-fetched idea?
+
+Sun, 02 Jun 2024 01:57:00 +0530
+### [John Lee Ka-chiu: The Beijing loyalist](https://www.thehindu.com/news/international/john-lee-ka-chiu-the-beijing-loyalist/article68240544.ece)
+
+Article found but Couldn't summarize 
+Hong Kong’s Chief Executive believes the controversial National Security Law has ‘restored peace’ and was necessary to guard against ‘undercurrents that try to create troubles’ in the city
+
+Sun, 02 Jun 2024 01:28:00 +0530
+### [Payal Kapadia: Living with nostalgia](https://www.thehindu.com/entertainment/payal-kapadia-living-with-nostalgia/article68240533.ece)
+
+Article found but Couldn't summarize 
+The filmmaker whose ‘All We Imagine as Light’ won the Grand Prix at Cannes says she doesn’t shy away from politics and keeps the slogan ‘personal is political’ alive in her movies
+
+Sun, 02 Jun 2024 01:02:00 +0530
+### [Keir Starmer: Bringing the Left to the centre](https://www.thehindu.com/news/international/keir-starmer-bringing-the-left-to-the-centre/article68240508.ece)
+
+Article found but Couldn't summarize 
+The man who could be the next British Prime Minister has toned down many of his early leftist promises and has brought the Labour party to the centre, focusing on economic stability, workers rights and climate justice
+
 Wed, 22 May 2024 17:48:47 +0530
 ### [Decoding the ICC prosecutor’s request for arrest warrants for Israel’s Netanyahu, Hamas leaders](https://www.thehindu.com/news/international/gaza-icc-prosecutor-arrest-warrant-israel-benjamin-netanyahu-hamas-leaders/article68202859.ece)
 

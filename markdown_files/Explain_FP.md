@@ -1,3 +1,976 @@
+Thu, 6 Jun 2024 06:00:39 +0530
+### [FirstUp: EU elections, Sunil Chhetri's farewell match... Top headlines today](https://www.firstpost.com/explainers/firstup-eu-elections-sunil-chhetri-farewell-match-13779152.html)
+
+Article found but Couldn't summarize 
+Voters in the European Union are set to elect lawmakers in an election from 6-9 June for the bloc's parliament. France will commemorate the 80th anniversary of the Allied invasion, which marked the beginning of the end of World War II in Europe. Emotions will run high when Sunil Chhetri leads India out one last time in a crucial FIFA World Cup qualifying match against Kuwait in Kolkata
+
+Wed, 5 Jun 2024 22:19:21 +0530
+### [2014 vs 2019 vs 2024: How India's political landscape has changed](https://www.firstpost.com/explainers/2014-vs-2019-vs-2024-how-indias-political-landscape-has-changed-13779221.html)
+
+Article found but Couldn't summarize 
+The BJP-led NDA is set to return to power with Prime Minister Narendra Modi reportedly being sworn in on Saturday. But much has changed since 2014 when the then BJP's prime ministerial face was swept into office in a wave election on the back of massive victories in the Hindi heartland
+
+Wed, 5 Jun 2024 20:53:04 +0530
+### [Lok Sabha election results 2024: The many times when Nitish Kumar has flipped the script](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-times-when-nitish-kumar-flipped-the-scripts-13779190.html)
+
+In the 2024 Lok Sabha elections, the BJP, with its allies JD(U) and TDP, secured a victory but fell short of an absolute majority, winning 240 of the 543 seats. The NDA, led by the BJP, won 294 seats, while the opposition INDI alliance won 233 seats. Nitish Kumar's JD(U) won 12 seats, giving him significant leverage within the NDA. Kumar, known for his frequent political realignments, had previously broken ties with the RJD and the INDI alliance to join the NDA, citing it was in Bihar's interest. Despite past dissatisfaction with the BJP and speculation about another switch, senior JD(U) leader KC Tyagi affirmed the party's commitment to the NDA, expressing confidence in their performance in Bihar and the formation of the NDA government under Narendra Modi's leadership for the third time.
+
+Wed, 5 Jun 2024 20:13:37 +0530
+### [Lok Sabha Speaker post, plum portfolios: What are the likely demands of JD(U), TDP from Modi?](https://www.firstpost.com/explainers/lok-sabha-speaker-post-cabinet-berths-likely-demands-of-jdu-tdp-narendra-modi-nda-13779216.html)
+
+Narendra Modi is set to serve a third term as India's Prime Minister after being unanimously elected by the National Democratic Alliance (NDA) on June 5. Following the 2024 Indian General Elections, the NDA secured 293 parliamentary seats, surpassing the majority mark but with the BJP's own tally reducing to 240 from 303 in 2019. The BJP now relies on its allies, particularly the JD(U) and TDP, for support in government formation.
+
+The JD(U) is reportedly seeking the Lok Sabha Speaker post and key ministerial positions, aiming for four to five Cabinet berths. They are also interested in portfolios like railways, rural development, and water resources to advance infrastructure projects in Bihar. Additionally, the JD(U) desires central funds for state schemes, early Assembly elections, special status for Bihar, and a national caste census.
+
+The TDP, after a strong comeback in Andhra Pradesh, is also eyeing the Lok Sabha Speaker role and Special Category Status for the state. They seek a significant presence in the Central government, additional funds for Amaravati's development, and completion of the Polavaram project.
+
+Both parties, along with the Lok Janshakti Party (Ram Vilas), which secured all five seats it contested in Bihar, are in a position to negotiate terms with the BJP for their support. The outcome of these negotiations will determine the composition and policy priorities of the new government.
+
+Wed, 5 Jun 2024 19:15:09 +0530
+### [Who are BJP’s allies in NDA?  What are the chances of them switching sides?](https://www.firstpost.com/explainers/who-are-bjps-allies-in-nda-what-are-the-chances-of-them-switching-sides-13779201.html)
+
+In the 2024 Lok Sabha elections, the BJP, with 240 seats, and its NDA allies have secured a majority with 292 seats. The BJP's tally is lower compared to previous elections, necessitating reliance on its partners. The TDP, led by Chandrababu Naidu, has made a comeback with 16 seats after its 2019 defeat to the YSRCP. Naidu's strategic alliance with the NDA positions him as a potential kingmaker. The JDU, under Nitish Kumar, has won 12 seats, continuing Kumar's history of shifting alliances. The Eknath Shinde-led Shiv Sena faction, recognized as the official party, won seven seats, while the Ajit Pawar-led NCP faction secured one seat. The LJP, RLD, JDS, and JSP have also won seats, with their leaders' political maneuvers and alliances shaping the current political landscape. The upcoming Assembly polls will be pivotal for these alliances.
+
+Wed, 5 Jun 2024 18:16:43 +0530
+### [The rise of Chirag Paswan: From actor to star in Bihar politics](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-chirag-paswan-actor-bihar-politics-lok-janshakti-party-ram-vilas-paswan-son-13779112.html)
+
+The 2024 Lok Sabha elections have resulted in a significant victory for Chirag Paswan and the Lok Janshakti Party (Ram Vilas), which won all five seats it contested in Bihar. This success is particularly notable for Chirag, who secured the Hajipur seat previously held by his late father, Ram Vilas Paswan. The National Democratic Alliance (NDA), led by the Bharatiya Janata Party (BJP), is set for a third term, although it relies on its allies, including Chirag's party, to form the government due to not achieving a majority on its own.
+
+Chirag's triumph is seen as a step out of his father's shadow, establishing him as a new Dalit leader in Bihar's political landscape. Despite internal family disputes and a split in the LJP, Chirag has managed to rally the Paswan vote and gain the BJP's support over his uncle, Pashupati Kumar Paras. His victory is a testament to his political acumen and the potential to lead his party to new heights in the state. The election results also reflect the broader political dynamics in Bihar, with the NDA allies securing key victories and the opposition, led by the RJD, unable to achieve a significant turnaround. Chirag's success is not only a personal achievement but also a strategic win for the BJP in Bihar.
+
+Wed, 5 Jun 2024 17:21:23 +0530
+### [Lok Sabha election results 2024: How Congress' Geniben Thakor earned the title of giant slayer in Gujarat](https://www.firstpost.com/explainers/lok-sabha-elections-2024-congress-geniben-thakor-giant-slayer-gujarat-13779052.html)
+
+Geniben Thakor of the Congress party achieved a significant victory in the Banaskantha Lok Sabha seat in Gujarat, defeating BJP's Dr Rekhaben Chaudhari by 30,406 votes. This win is particularly notable as it marks the only seat won by Congress in Gujarat, a state previously dominated by BJP. Thakor, a two-time MLA and advocate for women's issues and the enforcement of a liquor ban, crowdfunded her campaign due to financial constraints faced by Congress. The election results also saw PM Modi's NDA alliance winning, marking his third term in office, while the opposition INDIA bloc secured 232 seats, with Congress improving its tally to 99 seats. The election, described as a victory for democracy by Congress president Mallikarjun Kharge, witnessed over 640 million votes cast.
+
+Wed, 5 Jun 2024 16:55:09 +0530
+### [India's past prime ministers whose parties had much fewer seats than BJP's 240](https://www.firstpost.com/explainers/2024-lok-sabha-election-result-india-past-prime-ministers-whose-parties-had-much-fewer-seats-than-bjp-240-general-election-13779025.html)
+
+In the 2024 Lok Sabha elections, the BJP, led by PM Narendra Modi, won 240 seats, falling short of the majority mark. The NDA, with its allies, will form the government, relying on partners like the JD(U) and TDP. The opposition INDIA alliance, led by Congress, secured 232 seats. This election reflects a shift from previous years where the BJP held a clear majority. Historical instances of prime ministers leading without a party majority were also highlighted, including Chandra Shekhar, H D Deve Gowda, I K Gujral, and Atal Bihari Vajpayee. Manmohan Singh was noted for leading the UPA to a majority in 2004 and 2009, becoming the first PM since Nehru to be re-elected after a full term. The article also touched upon the political significance of certain constituencies and the performance of various parties.
+
+Wed, 5 Jun 2024 16:50:26 +0530
+### [Why has PM Modi resigned? How does India form its government?](https://www.firstpost.com/explainers/lok-sabha-election-results-pm-narendra-modi-resigns-india-government-formation-13779108.html)
+
+The article discusses the process following the 2024 Lok Sabha elections in India, where the BJP-led NDA won. Prime Minister Narendra Modi resigned as a procedural step after the victory, which is required before forming a new government. The BJP, with 240 seats, fell short of the majority but, with its allies, reached 292 seats, surpassing the required 272. The President will invite Modi to form the next government. The oath-taking ceremony is likely on June 8, making Modi the first three-term leader since Jawaharlal Nehru. The article explains the government formation process, including the role of the Election Commission and the President in this transition. Modi's resignation was accepted by President Droupadi Murmu, and he is expected to be sworn in for a third term.
+
+Wed, 5 Jun 2024 16:26:33 +0530
+### [What does Modi 3.0 coalition government mean for economic reforms?](https://www.firstpost.com/explainers/what-does-modi-3-0-coalition-government-mean-for-economic-reforms-13779107.html)
+
+In the 2024 Lok Sabha elections, Prime Minister Narendra Modi secured a third term, but with the BJP's reduced majority in Parliament, significant economic reforms may be delayed. The BJP's seat count decreased from 303 in 2019 to 240, necessitating reliance on coalition partners, which could impact the pace and scope of policy changes. Modi's economic agenda includes business-friendly measures, such as easing regulations for hiring and firing workers, offering subsidies to domestic producers, and reducing import taxes to bolster manufacturing. However, experts suggest that while India remains an attractive investment destination, the new government's slim majority could hinder ambitious reforms, particularly in land, labor, and agriculture. Despite this, the overall outlook for India's economy remains positive, with continued growth expected. The market's reaction to the election results reflects concerns over potential policy paralysis and shifts towards socialist policies, but many believe that India's economic story remains strong in the medium to long term.
+
+Wed, 5 Jun 2024 16:09:49 +0530
+### [Lok Sabha election results 2024: What Modi’s win means for Asia and the world](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-what-modis-win-means-for-asia-and-the-world-13779086.html)
+
+The article discusses the re-election of Narendra Modi's government for a third term in India, emphasizing his vision of India as a global guiding force and the implications for the country's foreign policy and economic trajectory. Modi's campaign highlighted India's role as a 'vishwaguru', and his victory is seen as a signal for continued economic reforms, aiming to position India as a key player in global supply chains and increase its share of global manufacturing. The article also touches on Modi's push for a strong national identity while advocating for global multilateralism, peace, and dialogue over conflict.
+
+India's departure from traditional foreign policy is noted, with a focus on national interests over alliances, and its strategic positioning against China's assertiveness in the Asia-Pacific region through the Quad. Modi's leadership is portrayed as influential in the Global South, seeking to empower developing nations and advocating for their greater say in global decision-making.
+
+The article further explores India's complex relations with its neighbors, particularly China and Pakistan, and the potential for diplomatic shifts. Modi's 'Neighbourhood First' policy is expected to continue, with a focus on strengthening the Quad while the South Asian grouping SAARC may not see a revival. Overall, the article presents Modi's third term as a period of significant diplomatic ambition and strategic initiatives for India on the global stage.
+
+Wed, 5 Jun 2024 15:48:30 +0530
+### [From Smriti Irani to Omar Abdullah, the big losers of the 2024 Lok Sabha elections](https://www.firstpost.com/explainers/lok-sabha-elections-2024-the-big-losers-13778974.html)
+
+The Lok Sabha elections of 2024 concluded with unexpected results, defying exit polls and leading to significant upsets. The BJP, despite its "400-par" goal, secured 292 seats, while the opposition INDI Alliance won 293 seats. Notable defeats within the BJP included Smriti Irani, Rajeev Chandrasekhar, Ajay Mishra Teni, Arjun Munda, Maneka Gandhi, K Annamalai, R K Singh, Tamilisai Soundararajan, Dilip Ghosh, and SS Ahluwalia. On the Congress side, losses were faced by Anand Sharma, Kanhaiya Kumar, Raj Babbar, Vikramaditya Singh, Nakul Nath, and Digvijaya Singh. Other significant defeats occurred for Omar Abdullah of the National Conference and Mehbooba Mufti of the PDP, among others. The election marked a major shift in the political landscape, with many established leaders losing their seats.
+
+Wed, 5 Jun 2024 15:07:58 +0530
+### [In Lok Sabha election 2024, BJP got 69 lakh more votes from 2019, but 63 fewer seats. Here's how](https://www.firstpost.com/explainers/2024-lok-sabha-election-results-bjp-vote-share-seats-voter-turnout-13779061.html)
+
+The article discusses the outcome of the 2024 Lok Sabha elections in India, where the Bharatiya Janata Party (BJP) experienced a paradoxical result. Despite an increase in absolute votes by nearly 69 lakh from 2019, the BJP's national vote share decreased slightly from 37.3% to 36.6%, and its seat share dropped by 11%. The article attributes this to the first-past-the-post (FPTP) electoral system, which can cause discrepancies between vote percentages and seat wins. It explains that in FPTP, the candidate with the most votes in a constituency wins, regardless of whether they have an absolute majority. This can lead to situations where a party wins by large margins in some areas but loses by small margins in others, affecting their overall seat tally.
+
+The BJP's significant wins in certain constituencies, like Indore and Vidisha in Madhya Pradesh, contributed to their vote share but not to an increase in seats. Conversely, the opposition parties, including Congress, had their voter base spread out across constituencies, allowing them to win more seats with smaller margins. The article also notes that while the BJP won a higher percentage of seats than their vote share, Congress won fewer seats than their vote share.
+
+The article concludes by discussing the reasons India continues to use the FPTP system, citing its simplicity, the choice it offers voters between party and candidate, the stability it tends to bring to governments, and the lack of political will to change a system that benefits those in power. Despite alternatives like proportional representation, which aligns seat share more closely with vote share, India maintains the FPTP system for these perceived benefits.
+
+Wed, 5 Jun 2024 14:30:38 +0530
+### [Lok Sabha election results 2024: The reasons for BJP to cheer, the reasons to worry](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-reasons-for-bjp-to-cheer-worry-odisha-uttar-pradesh-nda-13779018.html)
+
+The Bharatiya Janata Party (BJP) is set to form the government for a third term but without a majority of its own, relying on National Democratic Alliance (NDA) partners. The BJP made significant gains in Odisha and Andhra Pradesh, emerging as the single largest party with 240 seats, while the NDA secured 293 seats. The Congress-led alliance unexpectedly won 232 seats. Key meetings are scheduled to discuss government formation. The BJP celebrated wins in several states and a clean sweep in Odisha, but faced setbacks in Uttar Pradesh, where it lost dominance, and did not achieve significant success in the south, particularly Tamil Nadu. The party's overall seat count decreased from 303 in 2019 to 240. Economic factors such as inflation and unemployment, along with the Agniveer scheme, are speculated to have impacted the BJP's performance.
+
+Wed, 5 Jun 2024 14:22:32 +0530
+### [Lok Sabha Election 2024 results: Which party has won how many seats?](https://www.firstpost.com/explainers/lok-sabha-election-2024-results-which-party-has-won-how-many-seats-13779034.html)
+
+The 2024 Lok Sabha election results have been announced, with the Bharatiya Janata Party (BJP) winning 240 seats and the INDI Alliance securing 232 seats. The Congress party improved its performance from the previous election, winning 99 seats. Despite losing in key Hindi-speaking regions, Prime Minister Narendra Modi is set to form the government again as the National Democratic Alliance (NDA), with the support of allies like the Telugu Desam Party and JD(U), has crossed the majority mark. The Samajwadi Party and Trinamool Congress also made significant gains in Uttar Pradesh and West Bengal, respectively. The overall results did not match the landslide victory predicted by exit polls, with the election process being the world's largest democratic exercise, spanning seven phases and counting over 640 million votes.
+
+Wed, 5 Jun 2024 14:20:03 +0530
+### [Lok Sabha election results 2024: From 48 to 684 votes, candidates who won with the smallest margins](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-winning-candidates-with-smallest-margins-13778967.html)
+
+In the 2024 Lok Sabha elections, the BJP, led by Prime Minister Narendra Modi, secured a third term but fell short of a majority for the first time since 2014, winning 240 out of 543 seats. The NDA alliance won 295 seats, while the INDIA bloc won 231 seats, defying exit poll predictions. Key victories with small margins included Eknath Shinde Shiv Sena's Ravindra Dattaram Waikar in Mumbai North West by 48 votes and Congress's Adoor Prakash in Kerala's Attingal by 684 votes. Large victory margins were seen with BJP's Shankar Lalwani in Indore winning by over 10 lakh votes and TMC's Abhishek Banerjee in Diamond Harbour by 710,930 votes. The Congress party improved its tally to 99 seats, with significant wins by allies in Uttar Pradesh, West Bengal, and Tamil Nadu. PM Modi's win marked only the second time an Indian premier retained power for a third term after Jawaharlal Nehru. The election, spanning six weeks, saw over 640 million votes cast. Congress declared the results a moral and political loss for Modi, while celebrating the victory as a win for democracy.
+
+Wed, 5 Jun 2024 13:19:29 +0530
+### ['Shock election setback': How world media reported the 2024 Lok Sabha election results](https://www.firstpost.com/explainers/unexpected-repudiation-shock-election-setback-how-world-media-reported-pm-modi-win-in-2024-lok-sabha-election-13778978.html)
+
+The 2024 Lok Sabha election results marked a surprising turn of events for Prime Minister Narendra Modi and his party, the BJP. Despite securing a third consecutive term and winning 293 seats, the BJP did not achieve the predicted landslide victory and fell short of a majority on its own, necessitating reliance on coalition partners. Global media reacted with astonishment to the slim margin of victory, noting a significant dent in Modi's previously unassailable image and a shift in voter sentiment.
+
+Key points from the global media coverage include:
+- 'The Washington Post' described the results as a repudiation of Modi's leadership, a stunning setback that showed him vulnerable for the first time in years.
+- 'The Guardian' highlighted the absence of a predicted BJP landslide, pointing to a pushback against Modi's Hindu nationalist politics.
+- 'BBC' portrayed the election as a referendum on Modi's decade-long tenure, with a reduced majority indicating a potential upset.
+- 'The New York Times' speculated on the implications for Modi's leadership, suggesting his brand may have peaked.
+- 'DW' presented the election as a personal setback for Modi, with the BJP facing choices that will shape India's future.
+- 'The Telegraph' and 'CNN' reported on the BJP's unexpected losses and the need for coalition partnerships.
+- 'AlJazeera' and 'Newsweek' discussed the opposition's gains, attributing them to a focus on local issues and narratives of unity and justice.
+
+The election results have introduced a new dynamic in Indian politics, with Modi's fate now intertwined with his allies and the BJP facing a period of introspection and strategy reassessment.
+
+Wed, 5 Jun 2024 13:07:04 +0530
+### [Lok Sabha election results 2024: The challenges before the BJP as India returns to coalition politics](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-challenges-coalition-politics-nitish-kumar-jdu-chandrababu-naidu-13778976.html)
+
+The article discusses the outcome of India's recent elections where the Bharatiya Janata Party (BJP), led by Narendra Modi, fell short of a majority with 240 seats, necessitating reliance on alliance partners to form a government. The National Democratic Alliance (NDA) secured 292 seats in total, but the BJP's shortfall means it must negotiate with allies like the Janata Dal (United) (JD(U)) and the Telugu Desam Party (TDP), who have 12 and 16 seats respectively. The BJP's inability to secure an absolute majority has brought coalition politics to the forefront, with potential challenges in pushing through reforms such as the Uniform Civil Code and "One Nation, One Poll." The article highlights the BJP's need to balance its relationships with allies, some of whom have a history of switching allegiances, which could lead to a period of political uncertainty and impact the economy. The BJP may also have to compromise on some of its key projects due to the dynamics of coalition governance.
+
+Wed, 5 Jun 2024 12:36:48 +0530
+### [Lok Sabha election results 2024: What went wrong for Modi’s BJP](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-what-went-wrong-for-modis-bjp-up-maharashtra-ram-mandir-agniveer-scheme-13778958.html)
+
+In the 2024 Lok Sabha elections, the BJP-led NDA secured a third term but with a reduced majority. The BJP won 240 seats, a significant decrease from the 303 seats in 2019, necessitating reliance on alliance partners like the Telugu Desam Party and Janata Dal(United), signaling a shift from single-party rule to a coalition government.
+
+The BJP's performance was notably weaker in key states such as Uttar Pradesh and Maharashtra. In UP, the BJP's seat count dropped from 71 in 2014 to 33 in 2024, while in Maharashtra, it secured only 9 of the 48 seats. Factors contributing to the BJP's decline include the effective opposition strategy in UP, the Ram Mandir campaign's lack of resonance with voters, reduced RSS volunteer activity, and the impact of political splits within the Shiv Sena and NCP.
+
+Nationally, issues like unemployment and dissatisfaction with the Agnipath military recruitment scheme were highlighted as reasons for the BJP's poor showing. The rise of regional parties also played a role, with the SP and TMC winning significant numbers of seats in UP and West Bengal, respectively.
+
+Additionally, the BJP's strategy of inducting defectors from other parties backfired in some states, as many such candidates lost their seats. Voter fatigue and skepticism towards the BJP's ambitious campaign slogans were also mentioned as contributing factors to the party's performance.
+
+The election results have raised questions about the future cohesion of the NDA alliance and whether the BJP will need to adopt a more conciliatory approach towards its partners. The article concludes with a reflection on the potential shifts in political alliances following the election outcome.
+
+Wed, 5 Jun 2024 10:17:06 +0530
+### [Nitish Kumar, Rahul Gandhi, Chandrababu Naidu, & more: The showstoppers of 2024 Lok Sabha election results](https://www.firstpost.com/explainers/nitish-kumar-rahul-gandhi-showstoppers-2024-lok-sabha-election-results-13778702.html)
+
+The 2024 Lok Sabha elections in India have resulted in a surprising outcome where the NDA alliance, led by Prime Minister Narendra Modi, is poised to secure a majority. However, the BJP, the main party in the alliance, will not be able to form a government independently and will require support from other parties. The Indian National Developmental Inclusive Alliance (INDIA) has emerged as a strong opposition.
+
+Key political figures have significantly influenced the election results. Chandrababu Naidu's TDP has made a strong showing in Andhra Pradesh, positioning him as a potential kingmaker alongside Nitish Kumar of the JDU, who has secured a substantial number of seats in Bihar. Nitish Kumar's political trajectory has been marked by several shifts in alliances over recent years.
+
+In Uttar Pradesh, a crucial state for national politics, Akhilesh Yadav's Samajwadi Party, part of the INDIA bloc, has gained a significant number of seats, challenging the BJP's dominance. Rahul Gandhi of the Congress party has achieved notable victories in Kerala's Wayanad and Uttar Pradesh's Rae Bareli, indicating a shift from previous election trends.
+
+Congress loyalist Kishori Lal Sharma has defeated BJP's Smriti Irani in a surprising turn of events, while Uddhav Thackeray's Shiv Sena (Uddhav Balasaheb Thackeray) and Sharadchandra Pawar's NCP have also secured seats in Maharashtra, contributing to the overall seat count for the INDIA bloc.
+
+The election results reflect a complex political landscape with shifting alliances and a competitive opposition challenging the incumbent government. The final seat tallies show the BJP leading with 20 seats, and the INDIA bloc securing 27 seats in Maharashtra as of the latest count. The article concludes with a brief mention of the author, Vibhuti, who is part of the Explainers team at Firstpost.
+
+Wed, 5 Jun 2024 09:42:06 +0530
+### [Lok Sabha election results 2024: Can the INDI Alliance stake claim to form the government?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-indi-alliance-form-government-numbers-13778892.html)
+
+The article discusses the aftermath of the election results in India, where the BJP-led NDA won 292 seats, and the INDI Alliance secured 234 seats. Despite the NDA's victory, the BJP did not reach the majority mark on its own, highlighting the importance of coalition politics. The INDI Alliance, comprising parties like Congress, TMC, AAP, and SP, is considering staking a claim to form the government. Shiv Sena (UBT) chief Uddhav Thackeray and Congress leader Rahul Gandhi have indicated plans to discuss the possibility of government formation. The INDI Alliance has also reached out to JD(U) and TDP for support, with offers of key positions to their leaders. The focus is now on New Delhi, where the President will traditionally invite the majority party or coalition to form the government. The article concludes with anticipation of the next steps in this political development.
+
+Wed, 5 Jun 2024 08:01:22 +0530
+### [Narendra Modi, Nehru & more: Who are India's longest-serving prime ministers?](https://www.firstpost.com/explainers/narendra-modi-nehru-india-longest-serving-prime-ministers-13778506.html)
+
+Prime Minister Narendra Modi is poised for a historic third term as his BJP-led NDA alliance secured 293 seats in the Lok Sabha elections. This victory marks him as one of the few Indian prime ministers to serve over a decade, currently the fourth-longest serving leader among India's 14 prime ministers. The election saw the NDA alliance needing its partners to surpass the 272-seat majority, a contrast to previous elections where the BJP alone crossed this mark. Despite the Congress-led INDI Alliance's strong performance, winning 232 seats, Modi's campaign, which focused on economic growth, welfare policies, and national pride, resonated with voters. The final election results are pending, but Modi has already hailed the win as historic and reaffirmed his commitment to fulfilling the nation's aspirations. The article also reflects on the tenures of past prime ministers, highlighting their contributions and the legacies they left behind.
+
+Wed, 5 Jun 2024 06:00:00 +0530
+### [FirstUp: Crucial meetings on 2024 Lok Sabha election result by NDA, INDI Alliance... Headlines for today](https://www.firstpost.com/explainers/firstup-crucial-meetings-on-2024-lok-sabha-election-result-by-nda-india-blocs-headlines-for-today-13778830.html)
+
+Today's political landscape in India is marked by significant meetings following the 2024 Lok Sabha elections. The NDA, led by the BJP, secured a majority with over 290 seats, while the INDIA bloc surpassed expectations with more than 230 seats. The Union cabinet is convening for its final meeting before the new government's inauguration, expected on June 9th. The INDIA bloc, led by Sharad Pawar of the NCP, is deliberating on whether to invite former allies like JD(U) and TDP to form a government. Nitish Kumar of JD(U) is set to attend an NDA meeting in Delhi, with his party winning 12 of Bihar's 40 seats. Meanwhile, AAP leader Arvind Kejriwal's interim bail plea is scheduled for today. In sports, the Indian cricket team faces Ireland in their first match of the ICC T20 World Cup. Additionally, today commemorates World Environment Day and the International Day against IUU Fishing, alongside the birth anniversaries of notable figures and remembrance of historical events such as the Six-Day War and the assassination of Robert F. Kennedy.
+
+Tue, 4 Jun 2024 23:38:26 +0530
+### [Lok Sabha election results 2024: Who won by the biggest margins?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-biggest-margins-winners-candidates-bjp-congress-nda-india-13778837.html)
+
+In the 2024 Lok Sabha elections, the Bharatiya Janata Party (BJP) and its National Democratic Alliance (NDA) are leading with 292 seats, although the BJP's individual count has decreased from 303 in 2019 to 240. The opposition INDIA bloc has made significant gains, potentially winning over 230 seats. Several BJP candidates, including Union Home Minister Amit Shah, have won their constituencies by large margins, with Shankar Lalwani winning Indore by over 10 lakh votes. Other notable victories include Shivraj Singh Chouhan in Vidisha, CR Patil in Navsari, and Brijmohan Agrawal in Raipur, all with substantial margins.
+
+The Congress party has also seen success, with Rakibul Hussain winning Dhubri by over 10 lakh votes, and Rahul Gandhi securing Rae Bareli by a margin of 390,030 votes. The TMC, part of the INDIA bloc, saw Abhishek Banerjee win by over seven lakh votes in West Bengal. Close contests were observed in several constituencies, with some candidates winning by margins of less than 1,000 votes. The election results indicate a competitive political landscape with significant victories on both sides.
+
+Tue, 4 Jun 2024 23:26:44 +0530
+### [No majority for BJP in Lok Sabha: What happens next? How important are Naidu and Nitish?](https://www.firstpost.com/explainers/no-majority-for-bjp-in-lok-sabha-what-happens-next-how-important-are-naidu-and-nitish-13778836.html)
+
+In the 2024 Lok Sabha elections, the BJP emerged as the single-largest party but fell short of the 272-seat majority needed to form the government on its own. The NDA alliance, led by the BJP, crossed the majority threshold but did not reach the anticipated 400 seats. Prime Minister Narendra Modi, securing a third term, emphasized anti-corruption measures as a priority and highlighted the BJP's victories in various state assembly elections.
+
+The BJP won 192 seats and is leading in 42, a significant decrease from its 2019 tally. Its NDA partners, the Telugu Desam Party and JD(U), won 16 and 12 seats, respectively, making them crucial for government formation. The opposition INDI alliance, with the Congress nearing a three-figure tally, and other parties like the Samajwadi Party and Trinamool Congress also secured a substantial number of seats.
+
+Modi thanked TDP's Chandrababu Naidu and JD(U)'s Nitish Kumar for their support, acknowledging their importance in the NDA's success. Both leaders have been approached by the opposition with offers, but they have assured their support to the BJP. Experts suggest that the BJP will need to adopt a more collaborative approach with its allies, reminiscent of the coalition politics during Atal Bihari Vajpayee's tenure.
+
+Modi's post-election speech focused on governance and development, avoiding direct reference to the reduced seat count. He assured cooperation with all states and celebrated the BJP's mandate in Odisha. The election results indicate a shift towards coalition governance, with the BJP likely to rely more on its NDA partners.
+
+Tue, 4 Jun 2024 21:32:39 +0530
+### [How INDI bloc has bagged big wins in Hindi-speaking states](https://www.firstpost.com/explainers/how-indi-bloc-has-bagged-big-wins-in-hindi-speaking-states-13778723.html)
+
+The INDI Alliance is experiencing a resurgence in several Hindi-speaking states, particularly Uttar Pradesh, Rajasthan, and Bihar. In Uttar Pradesh, the Samajwadi Party is leading with 37 seats, followed by the BJP with 34 seats, and other parties holding the remainder. The alliance has also gained traction in Rajasthan, where the BJP leads in 14 seats, and in Bihar, with the RJD leading in four seats. Despite these gains, the INDI Alliance has not established a strong presence in Madhya Pradesh, Delhi, Uttarakhand, and Chhattisgarh.
+
+Comparing this to the 2019 general elections, there is a notable shift. Previously, the BJP had a dominant victory across many of these states, including winning all seats in Haryana and Rajasthan. However, the current trends show a more competitive landscape with the INDI Alliance making significant inroads. This indicates a changing political dynamic in the Hindi heartland, which comprises 225 Lok Sabha seats.
+
+Tue, 4 Jun 2024 21:29:16 +0530
+### [Lok Sabha election results 2024: Why BJP’s fate lies in the hands of Bihar CM Nitish Kumar](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-bjp-bihar-cm-nitish-kumar-nda-india-alliance-13778807.html)
+
+In the 2024 Lok Sabha elections, the Bharatiya Janata Party (BJP) did not secure a majority on its own, falling short of the 272-seat mark. The National Democratic Alliance (NDA), led by the BJP, is ahead in 292 seats, while the opposition INDIA bloc is leading in 232 seats. The BJP is seeking a third consecutive term and is looking to its allies, particularly the JD(U) led by Nitish Kumar and the TDP led by Chandrababu Naidu, to form the government.
+
+In Bihar, the BJP and JD(U) are each winning 12 out of 40 seats, with the NDA's Lok Janshakti Party and Hindustani Awam Morcha also securing seats. The RJD, Congress, and Left parties, part of the INDIA coalition, have also won several seats, with the RJD having the highest vote share among all parties.
+
+Nitish Kumar's political history is marked by his frequent changes in allegiance. He has switched sides multiple times, leaving the NDA in 2014, forming an alliance with the RJD in 2015, and then returning to the NDA in 2019. In 2022, he left the BJP to join hands with the RJD again, only to return to the NDA in January 2024. His actions have earned him the nickname "Paltu Ram" in Bihar.
+
+Despite the BJP being the single-largest party with 240 seats, it will need the support of its allies to form the government. JD(U) leaders have expressed their continued support for the NDA, but the opposition INDIA bloc has indicated that its doors are open for Nitish if he decides to switch sides again. The RJD is hopeful that Nitish Kumar and Chandrababu Naidu will play a crucial role in a potential change of government at the Centre. The political landscape remains uncertain, and Nitish Kumar's decision could be pivotal in the formation of the next government.
+
+Tue, 4 Jun 2024 21:14:18 +0530
+### [Some cheer, some crackers: The Lok Sabha election results give NDA, INDI Alliance a reason to celebrate](https://www.firstpost.com/explainers/some-cheer-some-crackers-the-lok-sabha-election-results-give-nda-indi-alliance-a-reason-to-celebrate-13778805.html)
+
+Article found but Couldn't summarize 
+As votes for the Lok Sabha elections were counted, celebrations broke out on the streets across the country. Supporters of PM Narendra Modi hailed his third term and the INDI Alliance were happy to defy expectations
+
+Tue, 4 Jun 2024 20:58:18 +0530
+### [Ayodhya shocker: BJP lost in Ram Mandir constituency of Faizabad. Here's what it means](https://www.firstpost.com/explainers/bjp-lost-in-ram-mandir-constituency-of-faizabad-heres-what-it-means-13778768.html)
+
+In the recent elections in Uttar Pradesh, the BJP faced a surprising defeat in the Ayodhya constituency, Faizabad, with their candidate Lallu Singh losing to the Samajwadi Party's Awadhesh Prasad. Despite the Ram Mandir's consecration, which was expected to be a significant factor in the BJP's favor, the election results indicated that voters prioritized development and unemployment issues over religious sentiment. The Dalit vote, which largely favored the INDI alliance, played a crucial role in the outcome. The Samajwadi Party's strategy to field a Dalit candidate in a non-reserved seat was successful, reflecting the enduring importance of caste dynamics in the state's politics. Analysts suggest that local issues, such as land acquisition grievances and inadequate compensation for demolished shops during Ayodhya's redevelopment, overshadowed the temple's influence. The election underscored a message that developmental concerns, joblessness, and inflation are critical to voters, who seek tangible progress over religious and caste-based politics. The BJP's loss in Faizabad is seen as part of a broader trend affecting their performance in other states as well, highlighting the need for addressing local issues and the aspirations of the youth.
+
+Tue, 4 Jun 2024 20:23:40 +0530
+### [2 jailed candidates win Lok Sabha election: Can they carry out their duties from behind bars?](https://www.firstpost.com/explainers/amritpal-singh-engineer-rashid-jailed-candidates-win-lok-sabha-election-what-next-13778718.html)
+
+In the 2024 Lok Sabha elections, two incarcerated candidates, Abdul Rashid Sheikh and Amritpal Singh, won their respective seats. The article discusses the legal and procedural implications of their victories. It explains that under Indian law, being in jail does not disqualify a person from contesting elections unless convicted of certain crimes. However, if convicted, they would be immediately disqualified from the Lok Sabha.
+
+The article also touches on the possibility of these elected representatives being temporarily released to take their oaths, citing past instances where Indian courts have allowed this to uphold democratic processes. It further explores the challenges of functioning as an MP from jail, noting that while some duties can be managed with assistance from outside, their ability to fully participate in parliamentary activities is limited.
+
+Finally, the article considers the impact on constituents, acknowledging that while some representation is possible, the effectiveness of governance may be compromised due to the elected MPs' incarceration. The summary omits unrelated content as per the user's request.
+
+Tue, 4 Jun 2024 19:29:06 +0530
+### [Lok Sabha election 2024: Is EC taking longer than usual to count votes? When will we know the final results?](https://www.firstpost.com/explainers/lok-sabha-election-2024-ec-counting-votes-final-results-13778752.html)
+
+The article discusses the pace of vote counting in the Lok Sabha elections. The Congress party has raised concerns about the Election Commission (EC) allegedly slowing down the process, particularly in Uttar Pradesh and Bihar, where close contests are observed. Despite these allegations, the EC maintains that the current pace is normal and that no results will be declared until all votes are counted. Counting can extend into the night for larger constituencies, and a lead of 20,000 to 30,000 votes is considered stable, while over 50,000 is seen as undefeatable. Close contests with margins under 10,000 votes in several seats may prolong the process. The final results are expected after 15 rounds of counting, possibly late into the night. The counting process involves multiple rounds at designated locations with strict monitoring to ensure accuracy and transparency. The results are announced publicly once all votes are tallied. The article includes inputs from agencies and emphasizes that the delay is not unusual compared to previous elections.
+
+Tue, 4 Jun 2024 18:57:04 +0530
+### [Maha shocker for NDA: How Uddhav Thackeray, Sharad Pawar came out on top](https://www.firstpost.com/explainers/maha-shocker-for-nda-how-uddhav-thackeray-sharad-pawar-came-out-on-top-13778721.html)
+
+The article discusses the political dynamics in Maharashtra during the Lok Sabha polls. The Maha Vikas Aghadi (MVA) alliance, comprising the Congress, Shiv Sena (UBT), and Nationalist Congress Party (NCP SP), has taken a significant lead over the ruling Mahayuti coalition, which includes the Eknath Shinde-led Shiv Sena, BJP, and Ajit Pawar-led NCP. Despite internal differences and seat-sharing issues, the MVA is leading in several seats, while the NDA is also leading in an equal number of seats. The BJP, which won 23 seats in the previous general election, is only leading in 12 despite contesting more seats.
+
+The article suggests that the voters are punishing the Mahayuti, particularly Chief Minister Eknath Shinde, for aligning with the BJP. It highlights that the MVA's narrative about protecting the Constitution resonated with voters, and the expected transfer of votes within the NDA did not occur. The BJP's election machinery failed to meet its voter turnout target, and the induction of Ajit Pawar's faction into the Mahayuti did not yield the desired results.
+
+Sharad Pawar of the MVA described the election results as a harbinger of change, criticizing the BJP's politics and suggesting that the outcome would influence the upcoming state Assembly elections. In contrast, Eknath Shinde blamed vote bank politics and the opposition's propaganda for the NDA's performance. The article concludes with observations on various constituencies and the potential implications for the Maharashtra Assembly elections.
+
+Tue, 4 Jun 2024 18:55:10 +0530
+### [Rae Bareli not giving up on Congress yet. A look at its long history with the grand old party](https://www.firstpost.com/explainers/rae-bareli-not-giving-up-on-congress-rahul-gandhi-win-a-look-at-its-long-history-with-the-grand-old-party-lok-sabha-election-2024-uttar-pradesh-13778700.html)
+
+In the 2024 Lok Sabha elections, Rahul Gandhi of the Congress party has secured a significant victory in Rae Bareli, Uttar Pradesh, with a record margin of nearly 4 lakh votes against BJP's Dinesh Pratap Singh. This margin is the highest in the state, surpassing even Prime Minister Narendra Modi's lead in Varanasi. Additionally, Rahul Gandhi is also leading in Wayanad, Kerala, by 3.6 lakh votes.
+
+Rae Bareli's historical connection to the Gandhi-Nehru family began with Feroze Gandhi in 1952 and was strengthened by Indira Gandhi's victories in 1967, 1971, and 1980. Despite a brief loss to Raj Narain in 1977, the constituency has remained a Congress stronghold, represented by various members close to the Gandhi family.
+
+Sonia Gandhi, who has held the seat since 2004, chose not to contest in 2024 due to health reasons and passed the baton to Rahul Gandhi. Her tenure saw multiple victories, though with decreasing margins. The strategic decision to field Rahul Gandhi from Rae Bareli reflects the constituency's enduring support for the Gandhi family and its significance within the Congress party.
+
+The article also notes a shift in Amethi, where Kishori Lal Sharma, a Gandhi loyalist, has won against BJP's Smriti Irani, marking the first time in 25 years that a non-Gandhi family member has contested from the seat. The Congress party's strategy aims to strengthen its presence in northern India, balancing its historically better performance in southern states. Rae Bareli's unwavering loyalty to the Congress and the Gandhi family continues to influence Uttar Pradesh's political dynamics.
+
+Tue, 4 Jun 2024 18:54:59 +0530
+### [Lok Sabha election results 2024: From Amethi to Nanded, key seats BJP is losing to INDIA bloc](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-amethi-nanded-key-seats-bjp-losing-india-bloc-uttar-pradesh-13778704.html)
+
+The 2024 Lok Sabha election results indicate a significant shift in Indian politics, with the BJP-led NDA facing unexpected challenges, particularly in Uttar Pradesh and Rajasthan. Despite predictions of a comfortable majority, the NDA is leading in 294 seats, while the opposition INDIA bloc is ahead in 231 seats. The Congress party has shown a remarkable comeback, potentially winning 98 seats, a significant increase from previous elections.
+
+In Uttar Pradesh, the SP-Congress alliance within the INDIA bloc is leading in 43 seats, a substantial gain compared to their performance in 2019. Notable upsets include the defeat of Union minister Smriti Irani in Amethi by Congress's Kishori Lal Sharma and the trailing of BJP's Lallu Singh in Faizabad.
+
+Rajasthan presents a reversal of fortunes for the Congress, which is set to win 11 seats, breaking the BJP's decade-long dominance. The INDIA bloc's performance in the state reflects a broader trend of gains for the opposition.
+
+Maharashtra's results are also troubling for the BJP, with the MVA coalition leading in 27 seats. The BJP is losing ground in several constituencies it had won in the 2019 elections.
+
+In West Bengal, the BJP is unable to match its 2019 tally, leading in only 12 seats, with the TMC regaining lost ground. Additionally, the Congress has made a breakthrough in Gujarat, winning the Banaskantha seat, challenging the BJP's stronghold.
+
+Overall, the election results suggest a significant reshaping of the political landscape, with the opposition making considerable gains across several key states.
+
+Tue, 4 Jun 2024 18:02:10 +0530
+### [Who is Engineer Rashid, the jailed leader who beat Omar Abdullah in J&K's Baramulla?](https://www.firstpost.com/explainers/engineer-rashid-jailed-leader-beat-omar-abdullah-in-kashmir-baramulla-13778579.html)
+
+Sheikh Abdul Rashid, also known as Engineer Rashid, an independent candidate and former MLA, has won a significant victory from the Baramulla constituency in the Lok Sabha Elections, defeating National Conference leader Omar Abdullah. Despite being incarcerated for five years in Tihar Jail under charges related to the Unlawful Activities (Prevention) Act, Rashid's campaign was actively led by his sons and supported by the community. His supporters, without any financial incentives, contributed resources for his campaign, reflecting Rashid's strong grassroots support and his reputation for raising issues concerning Kashmir in the assembly. Rashid's victory is notable as it comes without any campaigning on his part due to his imprisonment, and it raises questions about his future political role and representation for the people of North Kashmir.
+
+Tue, 4 Jun 2024 17:50:59 +0530
+### [Lotus finally blooms in Kerala. Who is Suresh Gopi, BJP’s first winner in the southern state?](https://www.firstpost.com/explainers/lok-sabha-election-results-suresh-gopi-bjp-first-winner-kerala-13778612.html)
+
+The BJP has achieved a historic victory in Kerala's Lok Sabha elections, with actor-politician Suresh Gopi winning the Thrissur seat by a margin of 73,573 votes. This marks the first time the BJP has won a Lok Sabha seat in Kerala, breaking a decades-long trend. Gopi, who has acted in around 250 films, has been a significant figure for the BJP since joining in 2016, despite facing legal challenges and previous electoral defeats. His victory signifies a potential shift in Kerala's political landscape, which has been traditionally dominated by the UDF and LDF fronts. The BJP's success is attributed to Prime Minister Narendra Modi's efforts and Gopi's popularity, as well as the party's increasing vote share in recent elections. The election results also highlight a tight race in Thiruvananthapuram, where the BJP's Rajeev Chandrasekhar initially led but was ultimately defeated by Congress MP Shashi Tharoor. The BJP's inroads into Kerala reflect a broader strategy to expand beyond its traditional strongholds in the north.
+
+Tue, 4 Jun 2024 17:16:01 +0530
+### [Amethi Giant Slayer: Meet the Gandhi loyalist Kishori Lal Sharma, set to beat BJP’s Smriti Irani](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-amethi-uttar-pradesh-kishori-lal-sharma-vs-smriti-irani-13778650.html)
+
+In the recent elections in Uttar Pradesh, the National Democratic Alliance (NDA) faced a significant defeat in Amethi, where Congress candidate Kishori Lal Sharma won against BJP's Smriti Irani. Sharma, a Gandhi family loyalist and a new face in electoral politics, managed to secure a victory in a constituency that has been a Congress stronghold for years. His win is notable as he has been a key figure in managing election strategies for the Gandhis in both Amethi and Rae Bareli for decades. This election marks his first time contesting a poll, and his success reflects his deep understanding of the local electorate and his longstanding commitment to the region. The victory in Amethi is a boost for the Congress party, as it signifies the return of the seat to its fold.
+
+Tue, 4 Jun 2024 16:32:46 +0530
+### [How did Chandrababu Naidu script incredible comeback in Andhra Pradesh?](https://www.firstpost.com/explainers/chandrababu-naidu-script-incredible-comeback-in-andhra-pradesh-13778630.html)
+
+Chandrababu Naidu is poised to become the Chief Minister of Andhra Pradesh for the fourth time, staging a remarkable political comeback. After being ousted in 2019 and facing legal challenges, including an arrest related to the Skill Development Corporation Scam, Naidu has rebounded with the support of the TDP, BJP, and Janasena alliance. The coalition has shown a strong performance in the state's Lok Sabha and Assembly polls, leading in a majority of seats, while the incumbent YSRCP has experienced significant losses.
+
+Naidu's political journey began in his early years as a student leader at Venkateswara University, where he later joined the Congress party. His political career spans over four decades, including a shift from Congress to the TDP, founded by his father-in-law NT Rama Rao. Naidu's influence grew within the TDP, eventually leading to his first term as Chief Minister in 1995 after a party coup against NTR's second wife's growing influence.
+
+As Chief Minister, Naidu was instrumental in transforming Hyderabad into a hi-tech city and was known as the "CEO of Andhra Pradesh." Despite a setback in the 2019 elections, Naidu's strategic alliance with the NDA for the 2024 polls and the public's dissatisfaction with the YSRCP have paved the way for his return to power. His role in the national political landscape is also being watched closely, with some speculating on his potential to play a pivotal role in the central government formation. Naidu's next moves remain to be seen as he reclaims his position in Andhra Pradesh politics.
+
+Tue, 4 Jun 2024 16:14:20 +0530
+### [Lok Sabha election results 2024: What worked in favour of the INDI Alliance in UP? What led to BJP’s upset?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-indi-alliance-bjp-upset-uttar-pradesh-13778610.html)
+
+The article discusses the unexpected results of the Lok Sabha elections in Uttar Pradesh (UP), where the INDI Alliance, comprising the Samajwadi Party (SP) and Congress, has performed well, leading in 40 seats. The National Democratic Alliance (NDA) trails closely with 39 seats. This outcome is a significant departure from the exit polls, which had predicted a sweeping victory for the NDA.
+
+The NDA's lead includes 34 seats for the BJP, two for the Rashtriya Lok Dal (RLD), and one for Apna Dal. Notable individuals such as Rahul Gandhi and Akhilesh Yadav are leading in their respective constituencies, while Union minister Smriti Irani is trailing.
+
+The article contrasts the current results with the BJP's dominant performance in the 2019 and 2014 elections and explores possible reasons for the BJP's disappointing showing. Factors include the non-impact of the Ram Mandir construction on votes, Akhilesh Yadav's strategic outreach to non-Yadav OBCs, and the SP's inclusive candidate selection strategy. The absence of a Mayawati factor and the rise of new Dalit leaders like Chandrashekhar Azad are also highlighted as significant electoral shifts. The article concludes with the observation that the Dalit voter base may be aligning with new leadership.
+
+Tue, 4 Jun 2024 15:38:23 +0530
+### [Lok Sabha election results 2024: Why KCR's BRS has scored a big zero this poll](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-kcr-brs-telangana-13778556.html)
+
+In the 2024 Lok Sabha elections in India, the Bharat Rashtra Samithi (BRS), led by K Chandrasekhar Rao, is significantly trailing in Telangana. The BJP-led NDA and the Congress-led INDIA Alliance are the main contenders, each holding eight seats in the state. Nationally, the NDA is leading with a majority of seats but is falling short of its 400-seat target, hovering just below 300. The INDIA Alliance, led by the Congress, is leading in 230 seats. Key developments include the BJP's strong performance in Odisha and Andhra Pradesh, the TMC's lead in West Bengal, and the DMK-led INDI Alliance's dominance in Tamil Nadu. The BRS's decline is attributed to controversies, unfulfilled promises, and corruption allegations, leading many BRS leaders to defect to the BJP and Congress before the elections. The final election results are still pending as the counting continues.
+
+Tue, 4 Jun 2024 15:25:20 +0530
+### [Stock market bloodbath: Why Nifty, Sensex tanked over 5% despite BJP leading](https://www.firstpost.com/explainers/stock-market-crash-bloodbath-nifty-sensex-down-despite-bjp-leading-lok-sabha-election-results-13778592.html)
+
+The article discusses the unexpected plunge of the Indian stock market despite predictions that Prime Minister Narendra Modi's potential third term would boost the market. Contrary to expectations, the BSE Sensex and NSE Nifty 50 experienced significant drops, over 8% at one point. This downturn occurred even as the BJP, led by Modi, appeared likely to return to power, with election results showing the party leading in many seats but possibly falling short of a majority. Market analysts suggest that the lack of a clear majority for the BJP and the possibility of a less reform-oriented government may have dampened investor sentiment, leading to a sharp decline in the market. Public sector stocks, particularly state-owned banks, were hit hard. The market had reached record highs the previous day, making the sudden drop more shocking. Analysts predict a potential further decline but also suggest a recovery if the BJP secures a comfortable win. The market did slightly recover from its lowest point by the afternoon. The article provides insights from various financial experts on the situation and its implications for the future.
+
+Tue, 4 Jun 2024 15:19:39 +0530
+### [Lok Sabha election results 2024: How BJP failed to trump Mamata's TMC in West Bengal](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-bjp-failed-to-trump-mamata-banerjee-tmc-west-bengal-13778267.html)
+
+The 2024 Lok Sabha election results in West Bengal have defied the exit poll predictions, with the Trinamool Congress (TMC) leading in 30 out of 42 constituencies, improving its tally from the 2019 elections. The Bharatiya Janata Party (BJP) is ahead in 11 seats, while the Congress is leading in one. Notable leads include TMC's Mahua Moitra in Krishnanagar and Abhishek Banerjee in Diamond Harbour. The BJP's performance has been below expectations, particularly in Uttar Pradesh, Maharashtra, and West Bengal. Despite aggressive campaigning and highlighting issues of corruption and misrule against the TMC, the BJP could not capitalize on the anti-incumbency sentiment. The TMC's welfare schemes and consolidation of its voter base, including the Muslim community, appear to have contributed to its success. The results indicate a shift from the bipolar contest between the BJP and TMC, suggesting the possibility of more complex political dynamics in the future. The BJP remains the main challenger to the TMC, with the 2026 Assembly elections as the next major political event.
+
+Tue, 4 Jun 2024 14:50:14 +0530
+### [2024 Lok Sabha election: Which states went the NDA way, which chose INDI alliance?](https://www.firstpost.com/explainers/2024-lok-sabha-election-which-states-have-gone-nda-way-which-states-indi-alliance-statewise-result-general-elections-winners-13778525.html)
+
+The 2024 Lok Sabha elections in India marked a historic event with the BJP-led NDA poised to form the government for the third consecutive term, securing 293 seats, despite predictions of crossing the 400 mark. The opposition, forming the INDIA bloc, put up a strong fight, winning 235 seats, leading to close contests in key states like Uttar Pradesh, Maharashtra, and Rajasthan. Notable developments included the INDIA bloc's lead in Uttar Pradesh, the NDA's strong performance in Odisha and Andhra Pradesh, and significant wins for the Congress in traditional strongholds. The TDP played a crucial role in Andhra Pradesh, while the BJP made inroads in Kerala. The election saw the BJP's dominance in several states, while the Congress made significant gains in others, reflecting a diverse political landscape across the country.
+
+Tue, 4 Jun 2024 14:44:50 +0530
+### [Lok Sabha Elections 2024: Who is winning the family feuds?](https://www.firstpost.com/explainers/lok-sabha-elections-2024-who-is-winning-family-feuds-13778520.html)
+
+The Lok Sabha Elections 2024 have highlighted a unique phenomenon in Indian politics: family members contesting against each other. This has been seen in several constituencies:
+
+- In Maharashtra's Baramati, Supriya Sule of the NCP is leading against her sister-in-law Sunetra Pawar, with a current vote difference of 25,859.
+- West Bengal's Bishnupur is witnessing a contest between TMC's Sujata Mondal and her ex-husband, BJP's Saumitra Khan, with Khan currently leading by 3,141 votes.
+- In Haryana's Hisar, the Chautala family feud has Naina Chautala and Sunaina Chautala contesting against each other, as well as against BJP's Ranjit Chautala. Congress's Jai Prakash is leading the race.
+- Kalyan Banerjee of the TMC is ahead of his former son-in-law, BJP's Kabir Shankar Bose, in West Bengal's Srerampur by 35,464 votes.
+
+These intra-family political battles are a departure from the traditional dynastic politics, adding a layer of personal rivalry to the electoral contests. The outcomes of these races are being closely watched, as they may influence the dynamics within influential political families.
+
+Tue, 4 Jun 2024 13:22:21 +0530
+### [Lok Sabha election results 2024: Among big states, how Bihar has given NDA reason to smile](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-bihar-nda-jdu-nitish-kumar-13778537.html)
+
+In the recent Lok Sabha election, the National Democratic Alliance (NDA), led by Narendra Modi, is poised for victory, leading in 29 seats in Bihar. This outcome comes despite unexpected results in Uttar Pradesh and Maharashtra and defies exit poll predictions. The NDA's lead in Bihar is notably less than in the previous election, with the INDI Alliance gaining ground in nine seats.
+
+Key BJP figures like Giriraj Singh and Ravi Shankar Prasad are leading in their respective constituencies, while Jitan Ram Manjhi, a former Bihar chief minister, is also ahead in Gaya. The BJP and its ally Janata Dal (United) are leading in several other seats across Bihar.
+
+The alliance's success is partly attributed to the BJP's reconciliation with Nitish Kumar, who had previously left the NDA but returned to form a new government with them. This strategic move appears to have significantly contributed to the NDA's performance.
+
+Exit polls had predicted the NDA winning 31 to 34 seats, with the INDI Alliance taking six to nine seats. In comparison, the 2019 elections saw the BJP winning 17 seats and the Janata Dal (United) 16, while the Congress secured only one seat. The BJP had a greater victory in the 2014 elections, winning 22 seats.
+
+Tue, 4 Jun 2024 12:41:24 +0530
+### [Lok Sabha Election Results 2024: With nearly 100 seats, how Congress delivers its best performance since 2014](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-congress-performance-2014-13778514.html)
+
+The 2024 Lok Sabha election results indicate a significant improvement for the Congress party, which is expected to win over 100 seats, marking its best performance since 2014. The INDI Alliance, which includes Congress, has also surpassed exit poll predictions and is poised to secure 229 seats. In contrast, the NDA leads with 292 seats. This marks a notable turnaround from the Congress's previous performances, where it secured only 44 seats in 2014 and 52 seats in 2019. The current results suggest a potential shift in national politics, challenging the dominance of the BJP, which had a strong showing in the Hindi belt in previous elections. The Congress's improved performance could have significant implications for the political landscape in India.
+
+Tue, 4 Jun 2024 11:43:47 +0530
+### [INDI Alliance shows big gains in country's biggest states: UP, Maharashtra. How?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-indi-alliance-defies-exit-polls-to-show-big-gains-in-countrys-biggest-states-uttar-pradesh-and-maharashtra-how-13778473.html)
+
+The early trends of the 2024 Lok Sabha elections are showing unexpected results in Uttar Pradesh (UP) and Maharashtra, challenging the exit polls. In UP, a close fight is observed between the BJP-led NDA and the Samajwadi Party, with the latter leading in 40 out of 80 seats, while the NDA leads in 37. Key figures like Prime Minister Narendra Modi, Defence Minister Rajnath Singh, and Samajwadi Party chief Akhilesh Yadav are leading in their respective constituencies.
+
+In Maharashtra, the opposition INDIA bloc is leading in over 20 seats, with the NDA ahead in 17, amidst a political realignment due to splits in Shiv Sena and NCP. The performance of the INDIA bloc, which has formed strategic alliances and focused on local issues, could significantly influence the central government's composition, as these states contribute 128 seats to the Lok Sabha. The final results, however, may differ from the current trends.
+
+Tue, 4 Jun 2024 10:42:33 +0530
+### [Lok Sabha election results 2024: Modi wins, Smriti loses… The big winners and losers](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-big-candidates-13778441.html)
+
+The BJP-led NDA has won the Lok Sabha elections, securing a third term for Prime Minister Narendra Modi. Notable wins include PM Modi from Varanasi, Amit Shah from Gandhinagar, Rahul Gandhi from Rae Bareli and Wayanad, and Akhilesh Yadav from Kannauj. Smriti Irani faced a significant loss in Amethi against Kishori Lal Sharma. Other prominent winners are Supriya Sule in Baramati, Kanimozhi in Thoothukkudi, Rajnath Singh in Lucknow, Kangana Ranaut in Mandi, and Shashi Tharoor in Thiruvananthapuram. Omar Abdullah conceded defeat in Baramulla, while HD Kumaraswamy won in Mandya. Shivraj Singh Chouhan secured a win in Vidisha, Charanjit Singh Channi in Jalandhar, Dimple Yadav in Mainpuri, Hema Malini in Mathura, and Abhishek Banerjee in Diamond Harbour. BJP's K Annamalai is trailing in Coimbatore. The article reflects the outcomes of various constituencies in the 2024 Lok Sabha elections.
+
+Tue, 4 Jun 2024 10:31:28 +0530
+### [Did exit polls get it wrong? How INDI Alliance is defying predictions](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-india-alliance-performance-exit-polls-13778443.html)
+
+The article discusses the early trends of an ongoing election in India. The INDI Alliance, an opposition bloc, has surpassed expectations by crossing the 200-seat mark, which is a significant gain from their 2019 numbers. The National Democratic Alliance (NDA) seems to be leading but with fewer seats than previously predicted by exit polls. In particular, Uttar Pradesh has shown unexpected results, with the BJP facing a challenge from Akhilesh Yadav's Samajwadi Party. The exit polls had forecasted a dominant win for the NDA and a weaker performance for the INDI Alliance, but the early trends suggest a closer contest. The article also provides a retrospective on the 2019 and 2014 elections, noting the BJP's sweeping victory in 2019 under Narendra Modi and the first Modi wave in 2014, which gave the BJP a majority in Parliament. The current trends are still subject to change as more results come in.
+
+Tue, 4 Jun 2024 08:56:13 +0530
+### [Lok Sabha election results 2024: From Varanasi to Wayanad, the big battles to watch out for](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-from-varanasi-to-wayanad-the-big-battles-to-watch-out-for-13778373.html)
+
+The 2024 Lok Sabha election vote counting is underway, with key constituencies likely to influence the outcome. Prime Minister Narendra Modi seeks a third term from Varanasi, facing Congress's Ajay Rai. Rahul Gandhi contests from Rae Bareli against BJP's Dinesh Pratap Singh and from Wayanad against CPI's Annie Raja. Smriti Irani aims for re-election in Amethi against Congress's Kishori Lal Sharma. Shashi Tharoor competes for a fourth term in Thiruvananthapuram against BJP's Rajeev Chandrasekhar. In Baharampur, Adhir Ranjan Chowdhury of Congress faces TMC's Yusuf Pathan. Bansuri Swaraj represents BJP in New Delhi against AAP's Somnath Bharti. Bhupesh Baghel of Congress challenges BJP's Santosh Pandey in Rajnandgaon. Rahul Kaswan, now with Congress, contests against BJP's Devendra Jhajharia in Churu. Nakul Nath of Congress seeks re-election in Chhindwara against Vivek Sahu. In Shivamogga, independent KS Eshwarappa challenges BJP's BY Raghavendra. The results will determine if the NDA can secure a third term or if the opposition's INDIA bloc can make significant gains.
+
+Tue, 4 Jun 2024 08:07:43 +0530
+### [In Graphics | India Vote Counting 2024: What happens on counting day?](https://www.firstpost.com/explainers/in-graphics-lok-sabha-election-results-2024-counting-day-votes-process-13778284.html)
+
+India is awaiting the results of the Lok Sabha elections after a comprehensive polling process that spanned nearly two months and seven phases across 543 constituencies. The vote counting started at 8 am on June 4th, with the outcome set to determine the composition of the 18th Lok Sabha and the next Prime Minister. The election saw a massive turnout with over 64.2 crore voters participating, including 31.2 crore women. The key question is whether the BJP, led by Narendra Modi, will secure a third term in power or if the opposition INDIA bloc will disrupt their streak. The results expected by the end of the day will reveal the future political landscape of India.
+
+Tue, 4 Jun 2024 07:39:42 +0530
+### [Elections in more than 80 countries in 2024. Why India's election is the biggest](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-india-election-biggest-13776097.html)
+
+India's 2024 general election, a monumental democratic exercise, has concluded with results anticipated today. Spanning 44 days and seven phases, it involved nearly 970 million eligible voters, of which 642 million participated, setting a world record. The election was marked by significant logistical feats, such as the use of nearly 400,000 vehicles and 1,692 air sorties, and a high voter turnout in Jammu and Kashmir. The Election Commission undertook extensive measures to ensure a free and fair election, with a record seizure of nearly Rs.10,000 crore to prevent financial malpractice.
+
+The election's scale is highlighted by its comparison to other global populations and elections, emphasizing its unparalleled magnitude. With 969 million registered voters, India's electorate surpasses the population of Europe and rivals that of Africa. The election is expected to be the world's most expensive, with an estimated $14.4 billion spent by political parties and candidates.
+
+Logistical challenges included setting up polling booths in remote locations, such as a booth at 15,256 feet in Himachal Pradesh and another in a Maoist rebel area in Odisha. India's multiparty system featured 2,660 registered political parties, with the BJP and Congress as the principal contenders. The election's duration reflects the vast size and complexity of managing such a large-scale event across India's diverse regions.
+
+As the nation and the world await the outcome, this election stands as a testament to the vibrancy and resilience of the world's largest democracy.
+
+Mon, 3 Jun 2024 21:02:40 +0530
+### [Lok Sabha election results 2024: How votes are counted](https://www.firstpost.com/explainers/lok-sabha-election-2024-vote-counting-process-explained-13776487.html)
+
+The article provides an in-depth look at the vote counting process for the Lok Sabha Elections in India, scheduled for June 4, 2024. It highlights the meticulous measures in place to ensure the integrity and transparency of the counting process. Key points include:
+
+- **EVM Storage**: Post-election, EVMs are stored in secure strong rooms, monitored by candidates' agents, with stringent security measures like serial number verification, sealing procedures, battery removal from VVPATs, CCTV surveillance, and two-tier security.
+
+- **Counting Staff**: Counting personnel are randomly selected and trained, with roles assigned by the Returning Officer (RO). The staff includes supervisors, assistants, micro-observers, and group D employees.
+
+- **Counting Process**: On the counting day, EVMs are moved to the counting hall, where seals and serial numbers are verified. Votes are then tallied, and results are recorded and compiled for the final constituency tally.
+
+- **Transparency and Security**: The entire process is designed to be transparent, with continuous monitoring by micro-observers and party agents, and strong security measures to prevent tampering.
+
+The article underscores the comprehensive efforts to maintain the democratic process's integrity, ensuring that the final results accurately reflect the voters' will.
+
+Mon, 3 Jun 2024 20:08:19 +0530
+### [Why Russia is planning its biggest tax hike in 25 years](https://www.firstpost.com/explainers/why-russia-is-planning-its-biggest-tax-hike-in-25-years-13778253.html)
+
+Russia is set to undergo its most significant tax reform in 25 years, prompted by the financial demands of its military involvement in Ukraine. The reform includes a progressive income tax system and an increase in corporate tax rates. The new income tax structure will maintain a 13% rate for those earning under five million rubles annually, with incremental increases up to 22% for incomes over 50 million rubles. This is expected to generate an additional 2.6 trillion rubles in revenue each year.
+
+Corporate tax rates will also rise from 20% to 25%, which is anticipated to bring in an extra 1.6 trillion rubles annually. Despite potential pressure on the stock market, this increase is seen as manageable due to the growing number of profitable companies.
+
+The defence spending of Russia has escalated to over 8% of GDP, leading to a need for these tax changes as energy sales to Europe have dropped sharply. The government has faced budget deficits, with a shortfall of about 6.5 trillion rubles in the past two years and a projected deficit of 1.6 trillion rubles for the current year.
+
+The tax reforms are expected to support social spending and address economic challenges. While there is skepticism among the public and business groups, the political consensus suggests that the reforms will likely be enacted by the end of the parliamentary session on 5 August. The reforms are seen as necessary to manage the budget deficit without causing significant inflation.
+
+Mon, 3 Jun 2024 19:50:55 +0530
+### [In Graphics | A for Alliance, V for VVPAT... All vote-counting terms explained](https://www.firstpost.com/explainers/lok-sabha-election-results-vote-counting-terms-explained-graphics-13778215.html)
+
+Article found but Couldn't summarize 
+India is all geared up for the counting of votes on 4 June for the Lok Sabha elections. But are you confused about VVPAT or a deposit paid by candidates? We have you covered
+
+Mon, 3 Jun 2024 19:00:28 +0530
+### [Lok Sabha election results 2024: How Uttar Pradesh elected India’s most PMs](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-uttar-pradesh-elected-indias-most-pms-13778175.html)
+
+The article discusses the pivotal role of Uttar Pradesh (UP) in Indian politics, particularly in the Lok Sabha elections. UP, being the most populous state, sends the highest number of MPs to the lower house and has been the constituency for many of India's Prime Ministers, including the current PM Narendra Modi. The state's political landscape has seen a shift from Congress dominance to the rise of regional parties and the BJP in recent decades. The Nehru-Gandhi family has deep ties to UP, with several members elected from the state. Despite past Congress strongholds, the BJP has made significant gains in UP, which is crucial for Modi's potential third term as PM. The article also touches on the historical context of UP's influence and the changing dynamics with the emergence of the BJP as a dominant force. The outcome of the elections in UP is seen as a key indicator of the overall results, given its substantial representation in the Lok Sabha.
+
+Mon, 3 Jun 2024 18:38:06 +0530
+### [From migration to cartels: What are the challenges that await Mexico’s new president?](https://www.firstpost.com/explainers/from-migration-to-cartels-what-are-the-challenges-that-await-mexicos-new-president-claudia-sheinbaum-13778226.html)
+
+Claudia Sheinbaum has been elected as the first female president of Mexico, facing significant challenges as she prepares to take office on October 1. She inherits a country grappling with high crime rates, a fiscal deficit of nearly 6% of GDP, and a need for infrastructure improvements. Sheinbaum's agenda includes tackling organized crime, which has led to an average of 80 murders per day, and addressing the root causes of violence through youth programs and stronger law enforcement coordination.
+
+Economically, Sheinbaum must find ways to increase state revenue to support aid programs and reforms. She advocates for nearshoring to boost the economy and has committed to investing in clean energy. On the international front, she aims to maintain a respectful relationship with the United States, especially in light of migration issues and potential conflicts depending on the outcome of the U.S. presidential election. Her leadership will be crucial in navigating these complex challenges and advancing Mexico's economic and social policy agenda.
+
+Mon, 3 Jun 2024 17:50:03 +0530
+### [What is Japan’s vehicle testing scandal involving world’s leading manufacturers?](https://www.firstpost.com/explainers/what-is-japans-vehicle-testing-scandal-involving-worlds-leading-manufacturers-13778167.html)
+
+The article discusses a significant safety scandal in the Japanese automotive industry, involving irregularities and falsified data in vehicle safety and certification tests. The Japan transport ministry has ordered Toyota, Mazda, and Yamaha to halt shipments of certain vehicles after discovering these issues. Toyota has temporarily stopped shipments and sales of three models, while Mazda has suspended shipments of two models and found tampering in crash tests of two other models no longer in production. Yamaha has halted shipments of a sports motorcycle, and Honda has admitted to misconduct in tests affecting several models.
+
+The scandal is an extension of previous safety test problems, with Toyota's compact car unit Daihatsu being involved in rigged tests last year. Financially, the scandal has led to a drop in shares for Toyota, Mazda, and Yamaha, highlighting the strain on these companies. The reputational damage suggests a crisis of trust and underscores the need for more stringent oversight in the industry.
+
+Toyota and Mazda are taking steps to address the issues and regain trust, with Toyota's Chairman Akio Toyoda apologizing and acknowledging the company's eagerness in conducting tests. The transport ministry is continuing its investigation and plans an on-site inspection at Toyota's headquarters, indicating that further revelations and reforms are likely.
+
+Mon, 3 Jun 2024 16:29:21 +0530
+### [Lok Sabha election results 2024: What is the row over postal ballots? Can they impact poll outcome?](https://www.firstpost.com/explainers/lok-sabha-election-results-postal-ballots-impact-poll-outcome-ec-indi-alliance-13778151.html)
+
+Article found but Couldn't summarize 
+Ahead of the counting day for the Lok Sabha elections, the INDI Alliance has raised the issue of counting postal ballots. The Opposition bloc has asked the Election Commission to scrap a 2019 guideline and urge that they be tallied before those of the EVMs. But what do the rules say on the timing of finalising absentee votes?
+
+Mon, 3 Jun 2024 15:50:52 +0530
+### [In a first, a sitting US president's child goes to court. What is Hunter Biden's gun trial?](https://www.firstpost.com/explainers/in-a-first-a-sitting-us-presidents-child-goes-to-court-what-is-hunter-bidens-gun-trial-13778137.html)
+
+Article found but Couldn't summarize 
+Hunter Biden is scheduled to stand trial for felony gun charges in a historic case that could affect US president Joe Biden’s reelection campaign. This marks the first time in American history that a sitting president's child is going on trial. Hunter Biden is accused of illegally purchasing and possessing a gun while using or being addicted to drugs
+
+Mon, 3 Jun 2024 14:49:31 +0530
+### [How a ‘bad cold’ led to a 33-year-old Canadian powerlifter being on life support](https://www.firstpost.com/health/jared-maynard-mild-cold-led-to-canadian-powerlifter-being-on-life-support-hemophagocytic-lymphohistiocytosis-13778066.html)
+
+Jared Maynard, a Canadian powerlifter, was diagnosed with a rare and potentially fatal autoimmune disorder called hemophagocytic lymphohistiocytosis (HLH) after what seemed like a mild cold. HLH is an inflammatory syndrome where the immune system becomes overactive and attacks the body. In Maynard's case, it was triggered by an infection with the Epstein-Barr virus. His symptoms escalated to organ failure and jaundice, and despite the grim prognosis and initiation of palliative care, Maynard made a miraculous recovery, attributed to his physical fitness and muscle mass from weight training. After a lengthy hospital stay and a significant weight loss, he had to relearn basic functions like walking and speaking. Determined to regain his strength for his family, Maynard returned to powerlifting and even competed again, embracing his new identity as the 'Miracle Man'.
+
+Mon, 3 Jun 2024 13:53:32 +0530
+### [Lok Sabha elections: Is BJP’s ‘400 paar’ possible? Yes, one party has done it before](https://www.firstpost.com/explainers/lok-sabha-elections-2024-bjp-400-paar-congress-rajiv-gandhi-1984-polls-13778092.html)
+
+The article discusses the anticipation surrounding the results of India's 18th Lok Sabha elections, with a focus on whether the ruling Bharatiya Janata Party (BJP) will achieve its ambitious goal of winning 400 out of the 543 parliamentary seats. The BJP's target is compared to the historical achievement of the Congress party, which won 414 seats in the 1984 elections following the assassination of then Prime Minister Indira Gandhi. This event led to a sympathy wave that significantly benefited the Congress, allowing it to secure the highest-ever vote share by a single party. The article also mentions the performance of other parties in the 1984 elections and notes that the outcome of the current elections will be a decisive moment for the country. The summary omits unrelated content as per the user's request.
+
+Mon, 3 Jun 2024 12:55:23 +0530
+### [What is Andhra Pradesh’s capital? It is no longer Hyderabad. Here’s why](https://www.firstpost.com/explainers/andhra-pradesh-capital-hyderabad-chandrababu-naidu-jagan-mohan-reddy-13778075.html)
+
+On June 2, Hyderabad officially ceased to be the capital of Andhra Pradesh, a change mandated by the Andhra Pradesh Reorganisation Act of 2014. Consequently, Andhra Pradesh is currently without a capital. The decision for a new capital, whether it will be Amaravati as previously planned by ex-Chief Minister Chandrababu Naidu or a three-city capital as proposed by Jagan Mohan Reddy, hinges on the results of the Assembly elections scheduled for June 4.
+
+Hyderabad, now solely the capital of Telangana, was shared as a common capital for a maximum of ten years following the bifurcation that created Telangana as the 29th state of India. Chandrababu Naidu had initiated the development of Amaravati as the new capital, acquiring about 33,000 acres of land for it. However, Jagan Mohan Reddy's subsequent election led to a shift in plans, proposing Visakhapatnam as the executive capital, Amaravati as the legislative capital, and Kurnool as the judicial capital.
+
+This three-capital plan, however, faced legal challenges, and the Andhra High Court ordered the development of Amaravati as per the previous government's vision. The issue has resurfaced with the upcoming elections, with Reddy advocating for Visakhapatnam as the executive capital.
+
+With Hyderabad's status change, Telangana is set to take over buildings previously used by Andhra Pradesh for administrative purposes. Discussions on the retention of certain buildings by Andhra Pradesh were stalled due to the Model Code of Conduct for the elections. Additionally, there is an ongoing process to distribute other government assets and institutions between the two states as stipulated by the Reorganisation Act. The outcome of the elections will significantly influence the resolution of these matters.
+
+Mon, 3 Jun 2024 11:59:00 +0530
+### [Fact-check: Is Rahul Gandhi planning a vacation to Thailand after 4 June results?](https://www.firstpost.com/explainers/fact-check-rahul-gandhi-boarding-pass-bangkok-thailand-13778047.html)
+
+The article discusses the aftermath of the Indian Lok Sabha elections, focusing on the National Democratic Alliance's (NDA) predicted victory and the Congress party's anticipated poor performance. It highlights a viral but fake boarding pass, purportedly for Rahul Gandhi's flight to Thailand, which was debunked by fact-checkers. The article also mentions claims by BJP leaders, including Amit Shah and PM Modi, suggesting that Gandhi would leave India after the election results. These claims coincide with the circulation of the doctored boarding pass image. The article concludes by noting the frequent attention given to Gandhi's travels by BJP leaders.
+
+Mon, 3 Jun 2024 11:56:43 +0530
+### [What happens next in the South Africa election? The cast of the unfolding political drama](https://www.firstpost.com/explainers/what-happens-next-in-the-south-africa-election-the-cast-of-the-unfolding-political-drama-13778043.html)
+
+The African National Congress (ANC) in South Africa is facing a new political landscape after failing to secure a majority in the recent elections, obtaining only 40.2% of the votes. This marks a significant drop from the 57.5% they received in 2019 and ends their three-decade-long majority rule. The ANC is now the largest party but must engage in coalition negotiations to form a government.
+
+President Cyril Ramaphosa, once a protégé of Nelson Mandela, is navigating the ANC through its worst electoral performance. He faces internal party pressures and the challenge of forming a coalition, with options including the main opposition Democratic Alliance (DA) or other parties like the uMkhonto weSizwe (MK) party and the Economic Freedom Fighters (EFF), both of which have controversial policies that could affect foreign investment.
+
+John Steenhuisen, leader of the DA, is open to coalition talks, excluding MK and EFF due to ideological differences. Analysts consider an ANC-DA coalition as the most stable option, potentially including smaller parties to balance the mix.
+
+Former President Jacob Zuma's new MK Party, despite his legal challenges, has emerged as a significant force, winning 14% of the vote and demanding Ramaphosa's resignation as a coalition condition, which the ANC has rejected.
+
+Julius Malema's EFF lost support, becoming the fourth-largest party. Despite ideological differences, there's potential for coalition discussions with the ANC.
+
+The election results have led to a complex political scenario with multiple parties holding substantial shares of the vote, and South Africa is now navigating this unprecedented situation through coalition talks.
+
+Mon, 3 Jun 2024 11:51:54 +0530
+### [Quicksplained: Who is Dr Helen Mary Roberts, Pakistan's first woman brigadier from the minority Christian community?](https://www.firstpost.com/explainers/helen-mary-roberts-pakistan-first-woman-brigadier-from-minority-christian-community-13777986.html)
+
+Dr. Helen Mary Roberts has made history by becoming the first woman from the Christian community to be promoted to the rank of a one-star officer, brigadier, in Pakistan's Army. This significant achievement comes amidst heightened attention on minority attacks in Pakistan, particularly against Christians. Dr. Roberts, a senior pathologist with 26 years of service in the Pakistan Army Medical Corps, was promoted alongside other officers selected by the Army's Selection Board. Her promotion is seen as a symbol of hope for the Christian community and a testament to the Army's merit-based advancement, irrespective of religious or gender biases. Pakistani Prime Minister Shehbaz Sharif publicly commended Dr. Roberts, highlighting her as an example of the exceptional contributions of women from minority communities to the nation. This event follows Major-General Nigar Johar's groundbreaking promotion in 2020 as the first female lieutenant general and surgeon general of the Pakistani Army.
+
+Mon, 3 Jun 2024 10:17:37 +0530
+### [The rise and rise of Pema Khandu: Meet India's youngest CM, who steered BJP to a huge victory in Arunachal Pradesh](https://www.firstpost.com/explainers/pema-khandu-india-youngest-cm-bjp-victory-arunachal-pradesh-13778003.html)
+
+Pema Khandu has solidified his leadership in Arunachal Pradesh with the BJP's significant victory, securing 46 out of 60 seats in the state assembly. This win marks a strong pro-incumbency sentiment and is the party's most dominant performance since 1999. Khandu, known for his cultural and sports interests, has been instrumental in the BJP's success and development initiatives in the state. His political career began after his father's tragic death in 2011, leading him to become the youngest chief minister in India in 2016. Khandu's shift from the Congress to the BJP has been marked by significant infrastructure development, including highways and an airport. His leadership is credited with preventing defections and attracting leaders from other parties, contributing to the BJP's current robust position in Arunachal Pradesh. Khandu's future cabinet remains to be seen, reflecting the anticipation surrounding his continued governance.
+
+Mon, 3 Jun 2024 09:29:33 +0530
+### [40 years of Operation Blue Star: What happened and how it changed India’s politics](https://www.firstpost.com/explainers/40-years-operation-blue-star-what-happened-what-led-to-it-and-how-it-changed-indias-politics-13776902.html)
+
+Operation Blue Star was a significant military operation carried out by the Indian Army in June 1984 to remove Sikh militants from the Golden Temple. The operation led to the death of hundreds of militants and civilians, as well as 87 soldiers, and caused considerable damage to the Golden Temple. The roots of the conflict lay in the Khalistan movement, which sought a separate Sikh state, and the rise of Jarnail Singh Bhindranwale as a prominent figure within the movement. Despite initial attempts to negotiate, the situation escalated, leading to the Indian government's decision to launch Operation Blue Star.
+
+The operation had profound political repercussions, including the assassination of Prime Minister Indira Gandhi by her Sikh bodyguards, which triggered anti-Sikh riots. It also led to a deep sense of mistrust among Sikhs towards the Indian government and had lasting impacts on Indian politics, including the rise of terrorism related to the Khalistan movement, which persisted into the 1990s. The operation remains a contentious issue in Indian politics, with various parties invoking it for electoral gains. The 40th anniversary of the operation serves as a reminder of its enduring legacy and the complex interplay of religion, politics, and national unity in India's history.
+
+Mon, 3 Jun 2024 06:15:59 +0530
+### [FirstUp: Preliminary results of Mexico elections, 'parade of planets', Delhi's water crisis case...The headlines today](https://www.firstpost.com/explainers/firstup-preliminary-results-of-mexico-elections-parade-of-planets-delhis-water-crisis-case-the-headlines-today-13777807.html)
+
+On Monday, 3 June, several significant events are set to unfold:
+
+1. **Mexican Elections**: Preliminary results are expected after the country potentially elects its first female president, marking a departure from the traditional 'machismo' culture in politics.
+2. **Planetary Alignment**: A 'Parade of Planets' will occur just before sunrise on 3 and 4 June, where Mercury, Mars, Jupiter, Saturn, Neptune, and Uranus will align with a waning crescent moon. Mars, Saturn, and Neptune might be visible to the naked eye.
+3. **Bonn Climate Conference**: The IPCC will attend the Bonn Climate Conference from 3 to 13 June, which plays a vital role in shaping future climate negotiations and policies.
+4. **Delhi Water Crisis**: The Supreme Court of India will hear a plea from the Delhi government for increased water supply from Haryana and Himachal Pradesh due to severe heatwave conditions.
+5. **Karnataka Legislative Council Elections**: Elections for six council seats are scheduled, which are crucial for regional politics and legislative balance.
+6. **World Bicycle Day**: Celebrated on June 3, it promotes cycling for health, transportation, and environmental sustainability, highlighting its benefits in reducing traffic and carbon emissions.
+
+Sun, 2 Jun 2024 18:02:26 +0530
+### [To moan or not to moan? Can whining bring you joy?](https://www.firstpost.com/explainers/to-moan-or-not-to-moan-can-whining-bring-you-joy-13775595.html)
+
+The article discusses a study that finds positive aspects in what is termed "obsessive whining," suggesting that while it may focus on negative content, it helps create a sense of group identity and belonging. The study contrasts "co-rumination," where individuals discuss personal issues and negative emotions for social support, with "co-brooding," which can reinforce negative experiences and increase the risk of depression and anxiety. Co-rumination can be beneficial when it involves intimate, honest self-disclosure within supportive relationships, as seen in psychotherapy. The research also highlights "supportive discussion," which aims for self-empowerment without harming others, in contrast to bonding over shared resentments. The article suggests that as we age, our relationships should evolve to help us address negativity rather than perpetuate it. The author, Ray O'Neill, emphasizes the importance of choosing the right company for our misery and the challenges of sharing personal pain vulnerably rather than projecting it onto others. The article is republished from The Conversation under a Creative Commons license.
+
+Sun, 2 Jun 2024 15:49:57 +0530
+### [‘Woke’, ‘Gaslighting’ & more: How evolving language harms our ability to communicate or understand](https://www.firstpost.com/explainers/woke-gaslighting-evolving-language-ability-to-communicate-understand-13776510.html)
+
+The article discusses the phenomenon of language evolution and its impact on communication, particularly focusing on the changing meanings of specific terms. It highlights how words like "awful," "naughty," and "bimbo" have shifted in meaning over time. The term "woke," originally used to denote alertness to racist injustice, has broadened to encompass various socially liberal views, leading to confusion and dilution of its original meaning. Similarly, "emotional labour," once a term for managing one's emotions to provide a service, now applies to a range of emotionally taxing activities. "Gaslighting," too, has expanded from describing a form of psychological manipulation to being synonymous with any lying.
+
+The article coins the term "hermeneutical disarmament" to describe the loss of understanding and communication tools when precise terms change meaning. This can have significant implications, such as the inability to discuss specific forms of injustice or abuse effectively. However, the article also acknowledges that language change can be positive, as seen with the expansion of the term "marriage" to include same-sex couples, thereby removing the implication of heterosexual superiority.
+
+The author, Robbie Morgan, suggests that while controlling language change is difficult, influential figures like journalists and social media influencers can play a role in preserving the original meanings of terms or carefully introducing new definitions. The article emphasizes the importance of using precise terminology accurately to maintain effective communication. It is republished from The Conversation under a Creative Commons license.
+
+Sun, 2 Jun 2024 14:03:27 +0530
+### [Do eye exercises really help improve your vision?](https://www.firstpost.com/health/eye-excercise-help-improve-vision-13777207.html)
+
+The article discusses the effectiveness of eye exercises and other methods claimed to improve vision or eliminate the need for glasses. A professor of ophthalmology states that there is no strong evidence supporting the benefits of eye exercises for conditions like myopia, hyperopia, or presbyopia. The article suggests that while some methods claim to reduce the need for reading glasses, the scientific backing is limited.
+
+For maintaining healthy eyes, the article recommends regular eye exams for children, limiting screen time, following the 20-20-20 rule to reduce eye strain, and spending more time outdoors. It also mentions that blue-light-blocking glasses and certain supplements have limited evidence of effectiveness. However, some over-the-counter vitamins may slow the progression of intermediate age-related macular degeneration in some patients.
+
+Overall, the article advises against smoking, rubbing the eyes, sleeping with contact lenses, and relying on unproven remedies. It emphasizes that a diet rich in vegetables and exercise may reduce the risk of some eye diseases, and that certain ocular conditions may benefit from vision therapy under a doctor's guidance.
+
+Sun, 2 Jun 2024 12:01:19 +0530
+### [Lok Sabha polls 2024: As world's biggest election ends, here's how India voted](https://www.firstpost.com/explainers/lok-sabha-elections-2024-world-biggest-election-end-how-india-voted-13777293.html)
+
+India's 2024 Lok Sabha elections, the second-longest in the nation's history, concluded with the seventh phase of voting. The elections spanned over several phases starting on April 19 and ending on May 25, with major political figures including Prime Minister Narendra Modi participating. Despite concerns about voter turnout and extreme weather conditions, many voters showed up at the polls. The Election Commission deployed significant resources to manage the process, which saw over 16.63 crore eligible voters in the first phase alone.
+
+The elections were marked by instances of violence and security breaches, particularly in West Bengal, Manipur, and Chhattisgarh, where clashes and complaints of voter intimidation were reported. Despite these challenges, the voter turnout was relatively high, with the first phase recording 66.14% and subsequent phases showing similar or slightly higher participation.
+
+The final phase of voting covered 57 constituencies across various states and Union Territories, with key candidates from major parties contesting the elections. The counting of votes is scheduled for June 4, and the results will determine the composition of the 18th Lok Sabha. The elections have been a significant event, reflecting the vibrant and dynamic nature of India's democracy.
+
+Sun, 2 Jun 2024 09:42:12 +0530
+### [This Week in Explainers: Can Donald Trump still become president after being convicted?](https://www.firstpost.com/explainers/this-week-in-explainers-can-donald-trump-still-become-president-after-being-convicted-hush-money-trial-13777305.html)
+
+Article found but Couldn't summarize 
+Donald Trump made history this past week by becoming the first former US president to be convicted of a crime. A deadly strike on Rafah that killed 45 including women and children seemed to shake up many across the world and led to social media being flooded with ‘All Eyes on Rafah.’ All this and more in our weekly roundup of explainers
+
+Sat, 1 Jun 2024 23:35:12 +0530
+### [Exit poll takeaways: Modi 3.0 in the making, BJP to make waves in Bengal, enter Tamil Nadu](https://www.firstpost.com/explainers/exit-poll-takeaways-modi-3-0-in-the-making-bjp-to-make-waves-in-bengal-enter-tamil-nadu-13777689.html)
+
+The exit polls for the 2024 Lok Sabha elections suggest a strong performance by the BJP-led NDA, with predictions of expanding their current majority in Parliament. The NDA, which had 342 seats, is forecasted to win between 355 and 370 seats, while the BJP alone may secure 305 to 315 seats. The Opposition INDI alliance is expected to win over 100 seats, with the Congress projected to get 62 to 72 seats.
+
+Three polling agencies, including Today's Chanakya, Axis My India, and CNX, have indicated that the BJP could surpass the '400 paar' goal, with Today's Chanakya estimating as many as 415 seats for the BJP. This reflects a significant endorsement of Prime Minister Narendra Modi's leadership.
+
+In West Bengal, the BJP is predicted to become the single-largest party, with various polls estimating it will win 21 to 26 seats, while the Trinamool Congress is expected to secure 16 to 21 seats. The NDA is also anticipated to gain a foothold in Tamil Nadu and Kerala, with exit polls predicting 1 to 7 seats in Tamil Nadu and 1 to 3 seats in Kerala.
+
+In Karnataka, the NDA is projected to dominate, winning between 19 and 26 seats, while the Congress is estimated to get 3 to 8 seats. Overall, the exit polls indicate that the Modi-led NDA remains popular among voters, and the Opposition may need to reflect on their strategy if these predictions hold true after the vote count on June 4. The article also mentions the confidence expressed by leaders from both the BJP and the Opposition regarding their respective electoral outcomes.
+
+Sat, 1 Jun 2024 21:55:27 +0530
+### [In Graphics | What News18 exit poll predicts about your state in Lok Sabha election 2024](https://www.firstpost.com/explainers/lok-sabha-elections-news18-exit-poll-state-wise-results-nda-indi-alliance-in-graphics-13777629.html)
+
+The News18 exit poll for the Lok Sabha elections indicates a strong performance by the NDA, led by Narendra Modi, with predictions of winning over 350 seats. The opposition's INDI Alliance is expected to secure between 125 and 150 seats. Region-wise, the NDA is predicted to dominate in the north, particularly in Uttar Pradesh and Bihar, while also making significant gains in the southern states, including Andhra Pradesh and Karnataka. In the east, the BJP is set to build on its previous performance, especially in West Bengal and Odisha. The west also shows a favorable trend for the NDA, with a clean sweep predicted in Gujarat and a majority of seats in Maharashtra. The results are to be announced on June 4.
+
+Sat, 1 Jun 2024 21:42:29 +0530
+### [Poll of Exit Polls 2024: How Modi-led NDA is set for a hat-trick](https://www.firstpost.com/explainers/poll-of-exit-polls-2024-what-pollsters-predict-for-bjp-led-nda-indi-alliance-13777650.html)
+
+The article provides a comprehensive overview of the exit polls following the final phase of the Lok Sabha elections. The polls indicate a significant victory for the BJP-led NDA, with various pollsters predicting the alliance will secure a larger majority compared to its current 342 seats. The News18 Mega Exit poll estimates the NDA will win between 355 and 370 seats, with the BJP securing 305 to 315 seats. The INDI alliance is expected to get between 125 and 140 seats, and the Congress between 62 and 72 seats.
+
+Other notable predictions include Today's Chanakya, which forecasts the NDA will win between 385 and 415 seats, and the Dainik Bhaskar poll, which gives the NDA between 281 and 350 seats. The Jan Ki Baat and India Today-My Axis polls also suggest a substantial gain for the NDA, with estimates ranging from 362 to 401 seats. C Voter and India News-D Dynamics polls support these findings, with the NDA projected to win over 350 seats.
+
+BJP chief JP Nadda expressed confidence in winning more than 370 Lok Sabha seats, attributing the success to Prime Minister Narendra Modi's extensive campaign efforts. Meanwhile, the INDI alliance, led by Congress president Mallikarjun Kharge, claims they will secure over 295 seats, enough to form the government, despite the exit polls' predictions. The article concludes with the INDI alliance's decision to participate in exit poll debates on television, countering their previous stance of non-participation.
+
+Sat, 1 Jun 2024 19:01:02 +0530
+### [What did exit polls predict in 2014 and 2019 Lok Sabha elections? Did they get it right?](https://www.firstpost.com/explainers/what-did-exit-polls-predict-in-2014-and-2019-lok-sabha-elections-did-they-get-it-right-13777612.html)
+
+The article discusses the accuracy of exit polls in the context of the Indian Lok Sabha elections, particularly focusing on the years 2014 and 2019. It highlights that in 2014, despite previous failures in 2004 and 2009, exit polls largely favored the BJP-led NDA, which eventually won a significant majority. The most accurate prediction came from News24-Chanakya. In 2019, predictions again favored the NDA, which not only won but also increased its seat count from 2014, with the BJP alone winning 303 seats. The article suggests that exit polls are not always reliable, citing potential biases and inaccuracies, and concludes with a caution about the potential risks of relying on them for political analysis.
+
+Sat, 1 Jun 2024 18:01:04 +0530
+### [Why Jacob Zuma may be 'winner' in South Africa elections despite being barred from contesting](https://www.firstpost.com/explainers/why-jacob-zuma-may-be-winner-in-south-africa-elections-despite-being-barred-from-contesting-13777552.html)
+
+The article discusses the significant political shift in South Africa's recent elections, where the ruling African National Congress (ANC) is projected to lose its majority for the first time in 30 years. Former President Jacob Zuma's influence is central to this shift, despite his legal battles and being barred from running for office. His new party, uMkhonto weSizwe (MK), has gained substantial support, advocating for radical changes and appealing to voters' frustrations with racial and economic inequalities.
+
+Jacob Zuma's political journey is highlighted, from his early involvement with the ANC and its military wing to his presidency marked by corruption scandals. His legacy remains complex, with a loyal following despite his resignation and legal issues. The MK party, under Zuma's leadership, has risen swiftly in popularity, particularly in the key province of KwaZulu-Natal, which is crucial for trade.
+
+The election results show MK securing 11.8% of the national vote, placing third and leading in KwaZulu-Natal with 44%. The ANC's support has dropped to 41.9%, necessitating a coalition government. While a coalition with MK is possible, it is unlikely due to MK's demands and Zuma's upcoming trial on corruption charges. Nonetheless, MK's voter share positions it as a potential kingmaker in forming a government. The article concludes with the importance of coalition formation for effective governance in South Africa.
+
+Sat, 1 Jun 2024 16:23:35 +0530
+### [Lok Sabha Election 2024: How are exit polls conducted and are they accurate?](https://www.firstpost.com/explainers/how-are-exit-polls-conducted-how-accurate-are-exit-polls-lok-sabha-elections-2024-exit-polls-general-elections-13777162.html)
+
+India's 18th Lok Sabha Elections, a significant democratic event, concluded on June 1, 2024. As the 44-day electoral process ended, exit polls began to offer predictions on the election outcomes. These polls are essential for understanding the electorate's mood and forecasting the winners before the official results.
+
+Exit polls are conducted by interviewing voters right after voting, using structured questionnaires to capture immediate reactions. This data is then analyzed to predict vote shares and seat outcomes. Technological advancements have improved data collection and analysis, but the accuracy of exit polls remains a challenge due to India's diverse electorate.
+
+The accuracy of exit polls is influenced by the representativeness of the sample and the methodology used. Despite efforts to improve predictions, historical instances show that exit polls have sometimes been inaccurate, such as in the 2004 Lok Sabha Elections and the Delhi Assembly Elections in 2015.
+
+In India, the conduct and publication of exit polls are regulated to prevent influencing voters, with the Election Commission enforcing a ban during the polling period. The article underscores the complexities and challenges involved in conducting and interpreting exit polls in India's dynamic electoral landscape.
+
+Sat, 1 Jun 2024 16:10:53 +0530
+### [AK-47 from Pakistan, Lanka escape plan & more: The Lawrence Bishnoi gang’s second plot to kill Salman Khan](https://www.firstpost.com/explainers/lawrence-bishnoi-gang-second-plot-to-kill-salman-khan-13777501.html)
+
+The Navi Mumbai Police have arrested four individuals linked to the Lawrence Bishnoi gang, who were allegedly plotting to assassinate Bollywood actor Salman Khan. The plan involved attacking Khan either at his farmhouse or while he was traveling. This follows an earlier incident where two suspects fired shots outside Khan's Mumbai residence.
+
+The police believe that around 16 or 17 people were involved in the operation, with Ajay Kashyap, a key member of the Bishnoi gang, coordinating the plot. The gang members, who were equipped with sophisticated weaponry, including AK-47s and M16s, intended to escape to Sri Lanka by boat after the attack. The police have also uncovered connections between the Bishnoi gang and other criminal networks.
+
+In a related incident, four individuals were arrested after an attack outside Khan's Bandra home on April 14. One of the suspects later died by suicide in police custody. The police are investigating whether the arrested individuals are linked to both attacks. Salman Khan has been a target for the Bishnoi gang since 1998, following an incident involving the shooting of a blackbuck. The gang is reportedly trying to establish a base in Mumbai for extortion activities. Four arrests have been made in connection with the plot against Khan.
+
+Sat, 1 Jun 2024 14:02:15 +0530
+### [Why are exit polls released after all votes are cast? Why are they relevant?](https://www.firstpost.com/explainers/why-are-exit-polls-released-after-all-votes-are-cast-why-are-they-relevant-13776094.html)
+
+Exit polls are voter interviews conducted immediately after voting, aimed at predicting election outcomes. The Election Commission of India has prohibited exit polls before 6:30 pm on June 1, during the final phase of the Lok Sabha elections, with results expected on June 4. Exit polls' accuracy varies and depends on factors like questionnaire structure, interview methods, sample size, and data analysis. The first exit poll in India was in 1957, but they gained media significance in the 1980s with contributions from psephologists like Prannoy Roy. Governed by the Representation of People Act, 1951, exit polls have legal restrictions to prevent influencing voters. Despite their relevance for immediate insights into potential winners, exit polls face criticism for potential bias, data issues, and political motivations. Historically, their predictions have been hit-or-miss, with notable inaccuracies in several Lok Sabha elections.
+
+Sat, 1 Jun 2024 13:47:32 +0530
+### [This airline is giving women flyers the option to sit next to other women. Here's why](https://www.firstpost.com/explainers/indigo-female-friendly-seat-selection-feature-13777429.html)
+
+IndiGo, one of India's largest airlines, has introduced a new feature allowing female passengers to select seats near other women, enhancing comfort and safety. This initiative follows numerous harassment incidents on flights. The feature, currently in pilot mode, is part of IndiGo's commitment to improving travel experiences, aligning with their #GirlPower ethos.
+
+The airline has also announced plans to introduce business class seating to offer more options to passengers, coinciding with its 18th anniversary and recent decision to purchase 30 wide-body aircraft. IndiGo's CEO, Pieter Elbers, emphasized the airline's growth alongside India's economy, aiming to provide more choices for the 'New India'. IndiGo holds a 60.5% domestic market share as of 2023, according to the Directorate General of Civil Aviation (DGCA).
+
+Sat, 1 Jun 2024 12:44:26 +0530
+### [Gaza war truce proposed by Joe Biden: What does it say, and can this attempt succeed?](https://www.firstpost.com/explainers/gaza-war-truce-proposed-by-joe-biden-what-does-it-say-and-can-this-attempt-succeed-13777452.html)
+
+The article discusses a new truce proposal by the United States to address the ongoing war in Gaza, outlined by President Joe Biden. The proposal is structured into three phases: an immediate ceasefire and humanitarian aid, full withdrawal and hostage release, and reconstruction and stabilization of Gaza. Each phase is designed to last six weeks, with the overall goal of easing tensions and establishing lasting peace.
+
+The situation in Gaza is described as dire, with over 36,000 Palestinians killed and infrastructure decimated. The Israeli operations have been widely criticized for their impact on civilians. The truce proposal aims to address these issues with a comprehensive approach, including a surge in humanitarian aid and negotiations facilitated by the US, Egypt, and Qatar.
+
+The article outlines the reasons for the failure of past truce attempts and how the current proposal differs. It emphasizes the structured approach, international mediation, and the influence of internal and external pressures on both Israel and Hamas. The proposal also reflects global public perception and domestic politics within Israel, as well as international criticism and diplomatic isolation.
+
+The US's role is highlighted as crucial in mediating the conflict and shaping the truce proposal. The phased approach and structured timelines are seen as a departure from previous attempts, offering a more sustainable path towards peace. The article concludes with the acknowledgment of inputs from agencies and notes that the content is available on YouTube.
+
+Sat, 1 Jun 2024 11:35:08 +0530
+### [Pune Porsche crash: Why the 17-year-old accused's mother has been arrested](https://www.firstpost.com/explainers/pune-porsche-crash-accused-mother-arrested-13777373.html)
+
+The article discusses the aftermath of a car crash in Pune involving a 17-year-old driving a Porsche, who allegedly ran over two people. The police investigation uncovered that the minor's blood sample was swapped with his mother's to falsify the alcohol test report. The mother, Shivani Agarwal, was arrested for tampering with evidence. The case also involves the arrest of medical professionals suspected of altering the blood sample for financial gain. The Juvenile Justice Board has allowed the police to question the minor, and there is a possibility he will be tried as an adult. The incident has highlighted significant irregularities in the investigation and efforts by the family to cover up the crime, including the arrest of the minor's father and grandfather for allegedly trying to shift the blame to the family's driver. The case has caused public outrage, particularly after the minor was initially released on bail quickly. The investigation continues, with further questioning of the involved parties planned.
+
+Sat, 1 Jun 2024 11:22:17 +0530
+### [This Week in Explainers: Can temperatures above 50 degrees Celsius kill you?](https://www.firstpost.com/explainers/this-week-in-explainers-heatwave-50-degrees-celsius-danger-13777272.html)
+
+This week's roundup from India includes the conclusion of the election season with the last phase of voting in Prime Minister Narendra Modi's constituency, Varanasi. PM Modi took a meditation break at the Vivekananda Rock Memorial in Kanyakumari, a tradition he has followed post-campaigning since 2019. The country is also experiencing a severe heatwave, with temperatures in Delhi reaching 52.9 degrees Celsius, resulting in over 50 deaths and increased hospitalizations. The article discusses the health impacts of such extreme heat.
+
+In Pune, the Porsche drink driving case involving a 17-year-old boy is under scrutiny, with allegations of the family attempting to cover up the incident. Additionally, a health ministry report indicates a rise in tobacco use among Indian teenagers, particularly girls, with smoking rates doubling for young girls between 2009 and 2019.
+
+Lastly, the Chennai-based space start-up AgniKul Cosmos successfully launched the Agnibaan SOrTeD rocket from Sriharikota, marking a significant achievement with the first-ever 3D-printed semi-cryogenic rocket launched from a private launchpad. The article ends with anticipation for the election results, which will determine if PM Modi secures a third term.
+
+Sat, 1 Jun 2024 10:25:52 +0530
+### [Mexico election: Will the country get a woman president? Who are the leading candidates?](https://www.firstpost.com/explainers/mexico-election-women-candidates-claudia-sheinbaum-xochitl-galvez-13776121.html)
+
+Mexico is preparing for a historic election on June 2, where for the first time, a woman is likely to become president. The leading candidates are Claudia Sheinbaum, a former Mexico City mayor backed by the ruling Morena party and a continuation of current President López Obrador's policies, and Xóchitl Gálvez, an opposition senator and tech entrepreneur representing a coalition aiming to oppose Obrador. A third candidate, Jorge Álvarez Máynez, is also in the race but has gained less attention.
+
+The election is set to be the largest in Mexico's history, with 20,000 congressional and local positions up for grabs. However, the campaign has been overshadowed by violence, with nearly 20 political aspirants killed this year and organized crime groups intensifying their power struggles.
+
+President López Obrador, not on the ballot, remains a central figure due to his popularity and policies, which have been criticized for eroding democracy. His relationship with Sheinbaum could influence the election's outcome and the future of the Morena party.
+
+The election campaign's violence is attributed to Obrador's "hugs not bullets" policy, which has been ineffective against high homicide rates and cartel power. The violence has been particularly acute in regions like Chiapas, Guerrero, and Michoacan.
+
+On election day, Mexicans will vote for a new president, 128 senators, 500 congressional representatives, and numerous local officials. The presidential winner will serve a six-year term. The election results could solidify Obrador's legacy or signal a shift in Mexico's political landscape.
+
+Fri, 31 May 2024 20:42:58 +0530
+### [Why Japan is losing its prized bonsai trees to theft and trafficking](https://www.firstpost.com/explainers/why-japan-is-losing-its-prized-bonsai-trees-to-theft-and-trafficking-13777269.html)
+
+The article discusses the rising popularity of bonsai trees in Japan and the consequent increase in thefts and trafficking. The demand for these trees has led to a significant illicit market, with recent reports of a single theft involving 33 trees valued at $120,000 and another incident with trees worth approximately $190,000. Organized criminal groups are often behind these thefts, targeting prized specimens for overseas sale. The Nippon Bonsai Growers Cooperative has reported 25 thefts since February 2023, and bonsai exports have nearly tripled since 2020. Bonsai sellers and nurseries are investing in security measures to protect their trees, but the thefts continue. The article also touches on the cultural significance of bonsai, an art form that originated in China and was refined in Japan, where it is deeply valued for its representation of dedication and artistic expression. The thefts represent not only a financial loss but also a cultural one, as each bonsai tree can take decades to cultivate.
+
+Fri, 31 May 2024 19:25:42 +0530
+### [Narendra Modi vs Ajay Rai, Kangana Ranaut vs…: Battles you can’t miss in Phase 7 of Lok Sabha polls](https://www.firstpost.com/explainers/phase-seven-lok-sabha-elections-2024-narendra-modi-ajay-rai-kangana-ranaut-vs-battles-cant-miss-13777197.html)
+
+The article discusses the key battles in the seventh phase of the Lok Sabha elections in India, highlighting significant contests across various constituencies. Prime Minister Narendra Modi is seeking a third term from Varanasi, Uttar Pradesh, facing Congress' Ajay Rai. In Himachal Pradesh's Mandi, actor Kangana Ranaut from BJP is contesting against Congress' Vikramaditya Singh. Other notable contests include Gorakhpur's seat with BJP's Ravi Kishan, Mirzapur's Anupriya Patel from Apna Dal (Sonelal) against SP's Ramesh Chand Bind, and Hamirpur's Union minister Anurag Thakur of BJP against Congress' Satpal Raizada.
+
+In Bihar, Misa Bharti of RJD is challenging BJP's Ram Kripal Yadav for the Pataliputra seat. West Bengal's Diamond Harbour will see TMC's Abhishek Banerjee seeking a third term. Chandigarh's contest is between BJP's Sanjay Tandon and Congress' Manish Tewari. Punjab's Patiala features Preneet Kaur of BJP against AAP's Balbir Singh and Congress' Dharamvir Gandhi. Odisha's Kendrapara has BJD's Anshuman Mohanty against BJP's Baijayant Panda.
+
+The article also mentions other significant electoral battles in Kolkata North, Bathinda, and Patna Sahib, indicating a mix of political veterans and new entrants vying for seats in the Lok Sabha. The results of these contests will be announced on June 4.
+
+Fri, 31 May 2024 18:49:17 +0530
+### [In Graphics | Active or passive, smoking kills. Here's how](https://www.firstpost.com/explainers/in-graphics-active-or-passive-smoking-kills-heres-how-13777248.html)
+
+The article highlights the health risks associated with passive smoking, emphasizing its dangers on 'World No Tobacco Day'. The WHO initiative, started in 1987, aims to raise awareness of tobacco's harmful effects. Concerns are raised about the exposure of children and adolescents to tobacco product marketing online, despite existing regulations. The India Tobacco Control report indicates a rise in tobacco consumption in India, particularly among adolescent girls. Passive smoking, or second-hand smoking, poses a serious public health issue as it exposes non-smokers to the same harmful compounds found in tobacco smoke. The article calls attention to the need for understanding the risks of passive smoking.
+
+Fri, 31 May 2024 18:03:36 +0530
+### [What are smart bandages that would accelerate healing and allow remote care by doctor?](https://www.firstpost.com/health/smart-bandages-wound-healing-remote-care-13777150.html)
+
+Researchers are developing "smart bandages," which are advanced versions of traditional bandages capable of monitoring and responding to the healing process of wounds. These bandages are equipped with sensors, microsystems, and flexible electronics, allowing for the potential of remote medical care. DARPA has invested $55 million in bioelectronics to aid wound healing, indicating the significance of this technology.
+
+Smart bandages could be particularly beneficial for serious or chronic wounds, and while still in development, they represent a growing interest in wearable technology. Some smart bandages are being tested on animals, and human trials are expected to start next year. These bandages can detect moisture levels, deliver electrotherapy, and even administer antibiotics remotely. The technology aims to improve early infection diagnosis and treatment, potentially saving lives and reducing medical costs.
+
+The development of smart bandages is driven by the need to better manage wound complications, especially for diabetic patients who are at risk of amputation. The CDC reported that 160,000 adult diabetics might require amputation hospitalization in 2020, and Medicare's expenditure on chronic wounds was around $22.5 billion in 2019. The advancement of smart bandages could lead to more effective wound care and management.
+
+Fri, 31 May 2024 17:25:47 +0530
+### [How markets are likely to react to Lok Sabha results. A look at all possible scenarios](https://www.firstpost.com/explainers/how-markets-are-likely-to-react-to-lok-sabha-results-a-look-at-all-possible-scenarios-13777215.html)
+
+The article discusses the potential impact of the upcoming Lok Sabha election results on the Indian share market. It outlines three scenarios:
+
+1. **BJP wins with a higher majority than in 2019**: This is expected to boost the equity markets due to anticipated growth-supportive economic policies. The S&P Sensex and NSE Nifty 50 could rally by 4-5%, the rupee might appreciate, and bond yields could dip slightly.
+
+2. **BJP holds on to power but wins fewer seats**: Markets may see short-term volatility but are likely to stabilize quickly, as the market has already factored in the possibility of a reduced majority for the BJP and its allies.
+
+3. **Opposition-led coalition government**: A surprise loss for the BJP could lead to a market sell-off until the new government's policies are clarified. This could result in a significant drop in stock market indices and a potential intervention by the central bank to support the rupee.
+
+The article also mentions that despite polls suggesting a strong win for the BJP, market volatility is expected until the official results are announced. Finance Minister Nirmala Sitharaman has predicted a bull market post-election results, indicating confidence in a stable outcome. The final results are awaited with anticipation by the markets.
+
+Fri, 31 May 2024 17:04:33 +0530
+### [Phase 7 Lok Sabha polls: Who are the six candidates contesting against PM Modi in Varanasi?](https://www.firstpost.com/explainers/lok-sabha-polls-meet-six-candidates-up-against-pm-modi-in-varanasi-13777183.html)
+
+In the final phase of the 2024 Lok Sabha elections, Prime Minister Narendra Modi is contesting from Varanasi for the third time. He faces six opponents, including Ajay Rai of Congress, who has a history with the BJP and is contesting for the third time from Varanasi. Kolisetty Shiva Kumar of the Yuga Thulasi Party, a cow protection advocate from Hyderabad, is also in the fray amidst some controversy over his candidacy. Ather Jamal Lari of the Bahujan Samaj Party, with a long history in socialist politics, is contesting as well. Gagan Prakash Yadav represents Apna Dal (K), Dinesh Kumar Yadav is an independent candidate and former BJP member, and Sanjay Kumar Tiwari, also an independent, is a social worker and critic of PM Modi. The candidates have diverse backgrounds and political experiences, with various assets and legal cases to their names.
+
+Fri, 31 May 2024 15:45:55 +0530
+### [More than 50 deaths and counting in India: How heatwave can put your life at risk](https://www.firstpost.com/explainers/over-50-deaths-india-heatwave-put-your-life-at-risk-13777116.html)
+
+The article reports on a severe heatwave in India that has resulted in over 50 deaths, with 18 in Bihar and 30 in Odisha. Temperatures have soared past 44 degrees Celsius in Bihar and 45.6 degrees Celsius in Delhi, causing suspected heatstroke deaths. The heatwave is described as a significant danger to human life, with experts advising hydration, rest, and staying in cool environments to prevent heat-related illnesses like heat exhaustion and heatstroke. Symptoms of heatstroke include high body temperature, confusion, and potential organ damage. The article emphasizes the importance of immediate medical attention for heatstroke, which can be fatal. It also notes the impact of heat on individuals with pre-existing health conditions and the importance of taking preventive measures against heat-related illnesses. Delhi has experienced record temperatures, prompting government actions such as school closures in Bihar. The article concludes with weather predictions and safety advisories for the public.
+
+Fri, 31 May 2024 14:44:04 +0530
+### [Biden to let Ukraine use US weapons to strike Russia: How will this change the war?](https://www.firstpost.com/explainers/joe-biden-ukraine-use-us-weapons-to-strike-russia-war-news-13777135.html)
+
+The article discusses a significant shift in US policy, where President Joe Biden has authorized Ukraine to use American-made weapons for strikes within Russian territory, targeting forces involved in the offensive in Ukraine's Kharkiv region. This marks a change from the previous restrictions aimed at avoiding direct confrontation with Russia. The decision allows Ukraine to use systems like HIMARS for effective strikes, but long-range weapons like ATACMS remain restricted within Russia.
+
+The policy change is attributed to the need for Ukraine to respond more robustly to Russia's aggressive tactics and use of heavy weaponry against civilians. The US, along with European allies, is increasing support to bolster Ukraine's defense capabilities. Despite additional Russian forces in northern Kharkiv, they reportedly lack the strength for a full-scale offensive. The US hopes that the authorization for Ukraine to use these weapons will disrupt Russian operations, defend Kharkiv, and protect Ukraine's sovereignty. The article underscores the international community's support for Ukraine's struggle for territorial integrity.
+
+Fri, 31 May 2024 14:23:15 +0530
+### [Why have services of more than 900 local trains in Mumbai been cancelled?](https://www.firstpost.com/explainers/mumbai-local-trains-cancelled-infrastructure-upgradation-work-13777058.html)
+
+The Central Railway has scheduled a 63-hour mega block starting from 31 May to facilitate platform extension and widening works at Thane and Chhatrapati Shivaji Maharaj Terminus (CSMT) stations. This will result in the cancellation of approximately 930 suburban trains, impacting the daily commute of lakhs of people. The block is part of an infrastructure upgrade to accommodate more coaches on long-distance trains and to alleviate overcrowding on Thane's platforms. The work, which would typically take six months, is expected to be completed in just two and a half days using modular pre-cast blocks. Train services on certain routes will be suspended, and the Central Railway has advised commuters to work from home if possible. Additional buses will be operated by BEST and MSRTC to help passengers during this period. The railway administration has requested the public's understanding for the inconvenience caused by these essential upgrades.
+
+Fri, 31 May 2024 14:22:49 +0530
+### [Why are Indian students protesting in Canada, holding hunger strike?](https://www.firstpost.com/explainers/why-are-indian-students-protesting-in-canada-prince-edward-island-pei-hunger-strike-pnp-protests-13777112.html)
+
+Prince Edward Island (PEI) in Canada, facing a high influx of immigrants, has revised its regulations, affecting international students and leading to potential deportation of many, particularly Indian students. Protests, including hunger strikes, began on May 9 in response to changes in the Provincial Nominee Program (PNP), which reduced nominees for permanent residency by 25% for 2024. The new rules prioritize certain occupations, disadvantaging those in retail, food, and service industries. Students demand grandfathering into the PNP system, fair draws without a points system, and work permit extensions. PEI's government is monitoring the situation, with some politicians supporting the students' cause. The Canadian government's response has been cautious, with the likelihood of leniency appearing slim. The situation reflects broader issues with immigration policies and international student unrest in Canada.
+
+Fri, 31 May 2024 14:10:50 +0530
+### [After Rafah, ‘All Eyes on Congo’ campaign gathers steam: What’s going on in the African country?](https://www.firstpost.com/explainers/rafah-all-eyes-on-congo-campaign-african-country-democratic-republic-of-congo-m23-violence-hunger-humanitarian-crisis-13777037.html)
+
+The article discusses the #AllEyesOnCongo campaign, which has gone viral on social media to highlight the ongoing humanitarian crisis in the Democratic Republic of Congo (DRC). The campaign started with a single image and has since been shared widely, including by notable figures. It aims to draw attention to the violence and displacement in the DRC, which has been described as the second-largest displacement crisis globally. The conflict in the DRC has resulted in millions of deaths and widespread malnutrition among children. Women and girls have been disproportionately affected by gender-based violence. The history of the conflict dates back to post-colonial power struggles and has involved various rebel groups, including the M23, which remains active. Despite peace efforts, violence persists, and the article questions whether the social media campaign will translate into effective action or remain limited to online activism. The situation is characterized by human rights violations, displacement, and a dire humanitarian situation that has garnered international attention.
+
+Fri, 31 May 2024 13:46:14 +0530
+### [World No Tobacco Day: Why teen girls in India are smoking more than ever?](https://www.firstpost.com/health/world-no-tobacco-day-why-teen-girls-are-smoking-more-than-ever-13776994.html)
+
+The article discusses a significant public health concern in India, where despite a general decline in tobacco use, there has been a more than two-fold increase in smoking among teenage girls over the past decade. The India Tobacco Control report highlights that the smoking rate among girls has risen to 6.2%, surpassing the rate among adult women. Factors contributing to this trend include peer pressure, the portrayal of smoking as a symbol of modernity and rebellion, and targeted marketing by tobacco companies. The health risks for teenage girls are severe, with increased chances of respiratory and cardiovascular diseases, reproductive health issues, and a higher risk of early menopause. The report calls for urgent government and societal action to address this alarming trend.
+
+Fri, 31 May 2024 13:18:20 +0530
+### [Quicksplained: What happens if South Africa fails to form a coalition government?](https://www.firstpost.com/explainers/quicksplained-what-happens-if-south-africa-fails-to-form-a-coalition-government-13777076.html)
+
+The article discusses the potential loss of majority by the African National Congress (ANC) in South Africa's recent national election, which would be a first in 30 years. The ANC is polling at 42-43%, with the Democratic Alliance (DA) at 22-23%, and other parties like the uMkhonto we Sizwe (MKP) and Economic Freedom Fighters (EFF) trailing behind. To form a government, a party or coalition must secure over 50% of the vote share. If the ANC does not reach this threshold, it will need to form a coalition, which could lead to an unstable government if it partners with the DA or EFF. The constitution's Schedule 3 requires a majority vote to win the presidential contest, but it's unclear if the majority mark would drop below 201 if MPs abstain from voting. A runoff could be a solution, but this has never been tested in South Africa. The article raises questions about what will happen if a coalition government cannot be formed.
+
+Fri, 31 May 2024 12:30:51 +0530
+### [Explained: What are cancer vaccines? Can they cure the disease?](https://www.firstpost.com/health/explained-what-are-cancer-vaccines-can-they-cure-the-disease-13777021.html)
+
+The UK's National Health Service (NHS) has initiated a pioneering program to expedite cancer patients' access to clinical trials for personalized cancer vaccines. These vaccines, which are a form of immunotherapy, are designed to treat existing cancer by stimulating the immune system to recognize and eliminate cancer cells. Unlike preventive vaccines, these are tailored to each patient's specific cancer, using DNA sequencing and artificial intelligence to create a vaccine that instructs the patient's cells to produce antigens targeting the cancer.
+
+Promising results have been observed, particularly with a personalized mRNA vaccine for melanoma, which significantly reduced recurrence risk. The NHS's Cancer Vaccine Launch Pad aims to match patients with clinical trials, with the first recipient being a lecturer diagnosed with colorectal cancer. The program has begun recruiting patients and aims to expand participation.
+
+Cancer remains a leading cause of death worldwide, and the introduction of cancer vaccines could revolutionize treatment, potentially becoming standard care. However, creating personalized vaccines is complex and expensive. Ongoing trials and technological advancements are expected to streamline this process. The NHS and researchers are hopeful that these vaccines will effectively prevent cancer recurrence, marking a significant milestone in cancer treatment. The journey towards a definitive cure continues, with the potential to impact millions positively.
+
+Fri, 31 May 2024 12:24:35 +0530
+### [Why PM Modi’s meditation plan during ‘silence period’ of polls may not face EC action](https://www.firstpost.com/explainers/pm-narendra-modi-meditation-vivekananda-rock-memorial-silence-period-election-commission-13777044.html)
+
+Prime Minister Narendra Modi's meditation at Vivekananda Rock Memorial during the election silence period has sparked controversy. The Congress and Trinamool Congress have complained to the Election Commission of India (ECI), claiming it violates the Model Code of Conduct, which prohibits campaigning during the 48-hour silence period before polling. The silence period is meant to prevent any influence on voters. Modi, contesting from Varanasi, will not campaign during this time, technically adhering to the rules. The Prime Minister's Office had informed the ECI of his plans, and the multi-phase nature of elections means the silence period's applicability is debatable. In 2019, Modi made a similar trip to Kedarnath, which was approved by the ECI with a reminder that the Model Code of Conduct was in effect. The opposition argues that while personal activities like meditation are not issues, broadcasting them could be indirect campaigning, and they suggest either rescheduling the meditation or banning its broadcast. The PM's visit began on May 30 and will continue until June 1, overlapping with the silence period.
+
+Fri, 31 May 2024 11:40:38 +0530
+### [Karnataka MP Prajwal Revanna arrested on arrival in sexual abuse case. What happens next?](https://www.firstpost.com/explainers/karnataka-prajwal-revanna-arrested-sexual-abuse-case-13777018.html)
+
+Prajwal Revanna, a Karnataka lawmaker, has been arrested following accusations of sexual assault by multiple women. After returning from Germany, he was taken into custody at the Bengaluru airport. Revanna, who is the grandson of former Prime Minister HD Deve Gowda and nephew of former Karnataka chief minister HD Kumaraswamy, is facing a Special Investigation Team (SIT) probe. The SIT has confiscated his belongings and tightened security around the CID office where he is held. Revanna's diplomatic passport is also being revoked by the Ministry of External Affairs. He faces allegations of sexual harassment and criminal intimidation, with three FIRs filed against him. The SIT has gathered primary and secondary evidence to support the allegations, including video analysis and witness statements. Revanna has denied the charges, claiming a conspiracy by his political rivals. His anticipatory bail plea has turned into a regular bail plea, and his mother's anticipatory bail plea in a related kidnapping case is also being heard. The SIT seeks 14-day police custody for Revanna, who has been temporarily suspended from the Janata Dal (Secular) party.
+
+Fri, 31 May 2024 10:07:54 +0530
+### [What does Trump's guilty verdict mean for the US elections? Can he still be president?](https://www.firstpost.com/explainers/donald-trump-guilty-verdict-hush-money-trial-us-presidential-elections-13776998.html)
+
+Article found but Couldn't summarize 
+Found guilty of felony on all 34 counts in the hush money trial case, former US president Donald Trump is now awaiting sentencing while also continuing his presidential campaign. His conviction has intensified partisan divisions, galvanised some of his supporters, and alienated some Republican voters. We explain what this means for the US presidential elections 2024, and for his candidacy
+
+Fri, 31 May 2024 09:15:51 +0530
+### [Is Donald Trump going to prison after being found guilty in hush money trial?](https://www.firstpost.com/explainers/donald-trump-prison-guilty-hush-money-trial-stormy-daniels-sentencing-13776969.html)
+
+Article found but Couldn't summarize 
+Donald Trump has been found guilty on all 34 counts in the hush money trial, making him the first former US president to be convicted of a crime. The 77-year-old will now have to wait until 11 July for his sentencing in the case. The judge in the matter will now have to decide if he should go to prison or if he should face another punishment, which could be home detention
+
+Fri, 31 May 2024 06:24:20 +0530
+### [FirstUp: Prajwal Revanna likely to be arrested, GDP Q4 data release... The headlines today](https://www.firstpost.com/explainers/firstup-prajwal-revanna-likely-to-be-arrested-gdp-q4-data-release-the-headlines-today-13776933.html)
+
+Here's a summary of the key points from the article:
+
+- Prajwal Revanna, a suspended JD(S) leader accused of sexual abuse, is expected to return to Bengaluru from Munich. Authorities plan to arrest him upon arrival.
+- India is set to release GDP growth figures for the fourth quarter of FY24 and the full fiscal year, with analysts predicting strong growth for the January to March quarter.
+- A Delhi court will decide whether to take cognisance of a supplementary charge sheet against BRS leader K Kavitha in a money laundering case linked to an excise policy.
+- Taxpayers are reminded to link their PAN with Aadhaar to avoid higher tax deductions.
+- The Shangri-La Dialogue, Asia's top security meeting, will discuss the relationship between China and the United States, among other global issues.
+- World No Tobacco Day is observed on May 31 to raise awareness about the harmful effects of tobacco use.
+
+This summary excludes advertisements and unrelated content as per your request.
+
+Thu, 30 May 2024 21:33:53 +0530
+### [First shoes, now his backpack: Why is UK PM Rishi Sunak facing heat?](https://www.firstpost.com/explainers/uk-pm-rishi-sunak-facing-heat-for-carrying-expensive-backpack-13776813.html)
+
+UK Prime Minister Rishi Sunak has faced criticism for carrying a £750 Tumi Arrive Bradley backpack during a visit to Cornwall, one of the country's poorest areas. This incident occurred amid his campaign for a snap election announced for July 4th. The luxury item has drawn attention on social media, with some users mocking the choice and others dismissing the criticism as trivial. This is not the first instance of Sunak displaying expensive items; he has previously been seen with Adidas Sambas sneakers, Prada suede shoes, and a £180 Ember travel mug. Sunak and his wife Akshata Murty have recently been named the wealthiest couple in the UK by the Sunday Times Rich List, surpassing King Charles with a fortune of £651 million, largely due to Murty's stake in Infosys. During his Cornwall visit, Sunak faced questions about the allocation of county funds for his National Service plan, which could potentially divert funding from some of the UK's poorest communities. Despite this, he affirmed his commitment to the region's development and discussed initiatives to increase apprenticeships and address educational concerns.
+
+Thu, 30 May 2024 21:27:09 +0530
+### [Delhi is not alone: How climate change has added average of 26 extra days of extreme heat across world](https://www.firstpost.com/explainers/delhi-not-alone-climate-change-added-average-of-26-extra-days-of-extreme-heat-13776937.html)
+
+The article discusses a report by the International Red Cross Red Crescent Climate Centre, World Weather Attribution, and Climate Central, which found that climate change has led to an average of 26 additional days of extreme heat worldwide. The study, covering May 15, 2023, to May 15, 2024, used the Climate Shift Index to measure the impact of climate change on daily temperatures. It concluded that 78% of the global population experienced about a month of extreme heat due to climate change. Latin American countries were the most affected, with Suriname, Ecuador, Guyana, El Salvador, and Panama experiencing significantly more extreme heat days compared to a scenario without human-caused climate change. The report emphasizes the severe toll on human life and nature, with experts suggesting that extreme heat may have caused hundreds of thousands of deaths in the past year. The findings highlight the deadly impacts of extreme heat, which can be as catastrophic as flooding and hurricanes.
+
+Thu, 30 May 2024 19:55:04 +0530
+### [In Graphics | Why is the temperature spiking in Delhi?](https://www.firstpost.com/explainers/in-graphics-why-is-the-temperature-spiking-in-delhi-13776907.html)
+
+The article discusses the extreme heat in Delhi, where there was some controversy over a reported record temperature of 52.9 degrees Celsius. The India Meteorological Department suggested this could be due to a sensor error. Experts attribute the high temperatures to hot winds from Rajasthan, particularly affecting areas like Mungeshpur, Narela, and Najafgarh. Mahesh Palawat of Skymet Weather explained that open areas with vacant land experience increased radiation, leading to higher temperatures, especially when winds blow from the west. A red alert has been issued, advising the public to stay indoors and hydrated. The article implies a need for a deeper analysis of the rising temperatures in Delhi.
+
+Thu, 30 May 2024 18:59:52 +0530
+### [What is ‘ugly-cute’ clay filter rage on Chinese social media? Why are some calling it therapeutic?](https://www.firstpost.com/explainers/what-is-ugly-cute-clay-filter-rage-on-chinese-social-media-why-are-some-calling-it-therapeutic-13776884.html)
+
+The article discusses a new trend in China's social media, the 'clay filter' portrait, which has become popular for transforming selfies into charming, 'ugly-cute' images reminiscent of clay animation characters. The filter, created by the app Remini, has topped app download charts and has been widely used in travel vlogs, contributing to its viral status. It reflects a cultural shift towards appreciating 'ugliness' and a more genuine portrayal of reality, as opposed to the perfection often sought in photo editing. While some users find the filter's effects unattractive, others enjoy the amusement it provides. The filter's success has also led to a market for paid customization services, despite some competition from other apps offering similar filters. The article suggests that the clay filter's popularity may be part of a broader desire for simplicity and authenticity in modern society.
+
+Thu, 30 May 2024 18:44:35 +0530
+### [Monsoons reach Kerala & the Northeast at same time. Why is this so unusual?](https://www.firstpost.com/explainers/monsoons-have-reached-kerala-northeast-at-same-time-why-is-this-so-unusual-13776845.html)
+
+The article discusses the early arrival of the southwest monsoon in India, which typically hits Kerala by June 1st and the northeast by June 5th. This year, the monsoon arrived earlier than forecasted by the Indian Meteorological Department (IMD), simultaneously affecting Kerala and most northeastern states. This unusual occurrence is attributed to Cyclone Remal, which may have drawn the monsoon flow to the Bay of Bengal, leading to its early onset in the northeast. Cyclone Remal caused significant rainfall, damage, and loss of life, particularly in Mizoram. Cherrapunji received an extraordinary amount of rain, worsening the situation. The IMD issued a red warning for Assam and Meghalaya due to the combined effects of the monsoon and cyclone. This is not the first instance of cyclones affecting the monsoon's arrival, with a similar event occurring in 2017. The IMD predicts 'above normal' monsoon rainfall for the June-September season this year.
+
+Thu, 30 May 2024 17:44:46 +0530
+### [Revealed: The not-so-transparent funding of Europe's political parties ahead of EU elections](https://www.firstpost.com/explainers/funding-of-political-parties-in-europe-revealed-ahead-of-eu-parliament-elections-key-findings-investigation-13776797.html)
+
+The article discusses a comprehensive investigation into the financing of political parties within the European Union (EU) conducted by Follow the Money and its media partners. It reveals that EU political parties received nearly a billion euros in donations from 2019 to 2022, with a significant portion going to far-right, far-left, and populist movements. The report highlights a transparency gap, with many donations remaining anonymous, particularly in Germany, where 75% of anonymous donations in the EU were recorded.
+
+Key findings include:
+- A quarter of all private EU donations went to extremist and populist parties, with far-right groups receiving over €97 million.
+- In France, Latvia, and Italy, such parties have seen a dramatic increase in financial support.
+- The Fidesz party in Hungary and the Law and Justice party in Poland captured a significant portion of non-public funding.
+- Transparency in political funding varies across Europe, with some countries like Germany and France having privacy laws that prevent the disclosure of donor names.
+
+The investigation suggests that high donation thresholds and loopholes allow for undisclosed donations, leading to a lack of transparency. It recommends setting donation limits and improving enforcement to enhance accountability in political financing. The article also notes that the analysis excluded Austria and Lithuania due to reporting discrepancies and regulations. The results of the EU elections will be announced after the voting concludes on June 9.
+
+Thu, 30 May 2024 16:41:45 +0530
+### [After 4 attempts, Indian start-up successfully launches rocket: Why this is historic](https://www.firstpost.com/explainers/indian-start-up-agnikul-cosmos-agnibaan-rocket-launch-isro-significance-attempts-13776822.html)
+
+The Chennai-based space start-up AgniKul Cosmos achieved a significant milestone by successfully launching the Agnibaan SOrTeD rocket from Sriharikota. This launch is notable for being the first ever 3D-printed semi-cryogenic rocket launched from a private launchpad, following four previous attempts that were aborted due to technical issues. The Agnibaan rocket, which is a sub-orbital test vehicle powered by the world's first single-piece 3D-printed rocket engine, marks India's second private entity to launch such a vehicle, with Skyroot Aerospace being the first.
+
+The Agnibaan SOrTeD rocket, weighing 575 kg and measuring 6.2 meters in length, is described as a customizable two-stage launch vehicle capable of carrying up to 300 kg of payload to orbits nearly 700 km in altitude. Its patented engine, the Agnilet, is a 6 kN semi-cryogenic engine that uses sub-cooled oxygen as fuel and is entirely 3D-printed as a single piece. This innovation in 3D printing technology is considered a game-changer for the manufacturing of launch vehicles, allowing for rapid iterations and a more reliable final product.
+
+The successful launch was celebrated by the Indian Space Research Organisation (ISRO) and received commendations from Prime Minister Narendra Modi, highlighting it as a momentous occasion for India's space sector. The mission is deemed historic for several reasons: it featured the country's first semi-cryogenic engine-powered rocket launch, the first launch from India's private launchpad, and the world's first single-piece 3D-printed engine designed and built indigenously. The achievement is seen as a testament to the ingenuity of India's young innovators and a significant step forward for the nation's space capabilities.
+
+Thu, 30 May 2024 16:33:34 +0530
+### [Doubt over Delhi's 52.9 degrees Celsius reading: How air temperature is measured, how it can go wrong](https://www.firstpost.com/explainers/imd-air-temperature-measured-how-can-it-go-wrong-13776831.html)
+
+Delhi recently recorded a temperature of 52.9 degrees Celsius at the Mungeshpur station, which is being investigated by the India Meteorological Department (IMD) as a potential sensor error or outlier. The IMD has dispatched a team to examine the data and sensors. Air temperature is measured using Automatic Weather Stations (AWS) that record various factors, including ambient air temperature, every hour with an electrical resistance thermometer. Inaccuracies can occur if sensors are not properly calibrated or maintained. Local factors, such as proximity to water bodies and urban features, can also affect temperature readings. Hot winds from Rajasthan have been cited as contributing to the high temperatures in Delhi's outskirts. The city's power demand hit a record high due to the heat, and measures are being taken to address water shortages. The IMD anticipates a reduction in heatwave conditions in the coming days due to expected weather changes.
+
+Thu, 30 May 2024 15:29:36 +0530
+### [Will Alexei Dyumin be Putin’s successor? Meet the man who saved the Russian president from a bear attack](https://www.firstpost.com/explainers/alexei-dyumin-vladimir-putin-successor-russia-former-bodyguard-head-state-council-13776802.html)
+
+The article discusses the political landscape in Russia following Vladimir Putin's commencement of a record fifth term as president. Speculation about his successor has intensified with the appointment of Alexei Dyumin, Putin's former bodyguard, as secretary of the advisory state council. Dyumin, 51, has a history of close association with Putin, having served as his bodyguard and in various significant military and political roles, including deputy head of the GRU military intelligence service and governor of Tula. His appointment has led some to believe he may be Putin's choice for the presidency.
+
+Dyumin has been sanctioned by the US and UK for his alleged role in Russia's actions in Crimea and Ukraine. The state council's role was formalized in the constitution in 2020, suggesting it may become more influential, but Dyumin's exact powers as secretary remain unclear.
+
+Other potential successors include Dmitry Medvedev, former president and prime minister, who has faced corruption allegations; Nikolai Patrushev, a long-time Putin ally; and Patrushev's son Dmitry, recently promoted to deputy prime minister. Mikhail Mishustin, the current prime minister, would temporarily fulfill presidential duties if Putin were incapacitated, according to the Russian constitution. However, the path to succession is uncertain, and Putin shows no signs of relinquishing power. The article concludes that while many are close to the center of power, the journey to the top is fraught with challenges.
+
+Thu, 30 May 2024 15:03:06 +0530
+### [Medical history: How ancient Egyptians tried to treat cancer 4,000 years ago](https://www.firstpost.com/health/ancient-egyptians-cancer-4000-years-ago-13776724.html)
+
+The article discusses a significant archaeological discovery that sheds light on the medical practices of ancient Egypt. Researchers have found evidence suggesting that Egyptian physicians may have attempted surgical treatments for cancer over 4,000 years ago. This conclusion comes from the analysis of two skulls from the Duckworth Laboratory collection at the University of Cambridge. One skull, dating back to between 2686 BC and 2345 BC, shows signs of cut marks around lesions caused by malignant tumors, indicating possible surgical intervention. The other skull, dated to between 664–343 BC, belonged to an older woman and showed no signs of surgical treatment but had healed fractures, suggesting successful treatment of a head injury.
+
+The findings, published in the journal Frontiers in Medicine, are the result of collaborative research by scientists from universities in Germany, England, and Spain. The study's first author, Tatiana Tondini, and co-authors suggest that these marks may be the earliest evidence of cancer surgery, marking the beginnings of modern medicine. However, it remains unclear whether the surgeries were performed on living patients or as post-mortem examinations.
+
+Experts like Dr. Ibrahem Badr highlight the sophistication of ancient Egyptian medicine, which is well-documented in texts such as the Ebers Papyrus and the Kahun Papyrus. The research underscores the need to reevaluate the history of medicine using modern scientific methods to gain a deeper understanding of ancient Egyptian medical practices. The Edwin Smith Surgical Papyrus, dating back to 3000-2500 BC, contains the first documented case of cancer, indicating that while ancient Egyptians recognized the disease, they found it challenging to treat. The new findings suggest that they may have been more proactive in addressing cancer than previously thought.
+
+Thu, 30 May 2024 14:41:38 +0530
+### [From missile launches to sending poop balloons to South: What's North Korea up to?](https://www.firstpost.com/explainers/satellite-launch-missile-launch-poop-balloons-what-is-north-korea-up-to-13776726.html)
+
+North Korea has escalated tensions by launching short-range ballistic missiles and sending balloons filled with trash into South Korea, following a trilateral summit between China, South Korea, and Japan. These nations had called for the denuclearization of the Korean Peninsula, a stance that North Korea has rejected, citing its constitutional right to nuclear status. The recent activities are seen as a response to the summit and the joint statement on denuclearization.
+
+The situation has deteriorated since the 2019 Hanoi summit between Kim Jong Un and Donald Trump, which ended without an agreement. North Korea has since declared its nuclear status irreversible and enacted laws to support this position, including the right to pre-emptive strikes.
+
+Pyongyang's actions also reflect dissatisfaction with China, which, despite condemning North Korea's nuclear tests, has been seen as passive in the face of US-led sanctions. North Korea's recent "poo warfare" against the South is a retaliation for similar actions by South Korean activists.
+
+Furthermore, North Korea is increasingly aligning with Russia, as evidenced by a failed satellite launch using Russian technology. This move suggests a shift in the regional power dynamic, with potential implications for the US-South Korea alliance, especially if Donald Trump is re-elected as US President. China may use this opportunity to strengthen ties with South Korea by leveraging the North Korean issue.
+
+Thu, 30 May 2024 14:28:27 +0530
+### [Trump hush money trial: How does the jury work? When can a verdict be expected?](https://www.firstpost.com/explainers/trump-hush-money-trial-how-does-the-jury-work-when-can-a-verdict-be-expected-13776769.html)
+
+Article found but Couldn't summarize 
+In the Donald Trump-Stormy Daniels hush money trial, the jury must determine if the former is guilty of any of the 34 felony counts of falsifying his company's records. With deliberations underway, we delve into the jury's process and responsibilities, and when the verdict is expected
+
+Thu, 30 May 2024 13:51:15 +0530
+### [Hong Kong’s democracy leaders convicted: Who are they? What does this mean for the region?](https://www.firstpost.com/explainers/hong-kongs-democracy-leaders-convicted-who-are-they-what-does-this-mean-for-the-region-13776720.html)
+
+In Hong Kong's largest national security trial to date, 14 pro-democracy activists were found guilty of conspiracy to subvert state power for their involvement in organizing unofficial election primaries in 2020. The court ruled that their actions aimed to paralyze the government and force the chief executive to resign by vetoing budgets through a legislative majority. The defendants, including former lawmakers, face potential life sentences, with two individuals acquitted.
+
+The case is rooted in the controversial National Security Law (NSL) imposed by Beijing in 2020, which criminalizes secession, subversion, terrorism, and collusion with foreign forces, carrying life imprisonment as the maximum penalty. The law has led to numerous arrests and has been criticized for eroding Hong Kong's autonomy and freedoms. It has also prompted many residents to emigrate, mainly to the UK.
+
+The trial has drawn international criticism and attention, with diplomats from several countries attending the hearings. Amnesty International described the mass conviction as a ruthless move to silence dissent and a purge of political opposition. The verdicts are expected to have a profound impact on Hong Kong's political landscape, civil society, and global financial reputation. Legal experts suggest that the NSL has raised the threshold for prosecution, potentially leading to increased suppression of dissent. The trial's outcomes have been met with sadness and support from the activists' supporters and have raised concerns about the future of Hong Kong's pro-democracy movement.
+
+Thu, 30 May 2024 13:08:43 +0530
+### [Why PM Modi has chosen Vivekananda Rock Memorial as his meditation retreat](https://www.firstpost.com/explainers/pm-narendra-modi-vivekananda-rock-memorial-meditation-retreat-kanyakumar-significance-politics-13776729.html)
+
+Prime Minister Narendra Modi is set to embark on a three-day meditation retreat at the Vivekananda Rock Memorial in Kanyakumari, starting from May 30th to June 1st. This visit is personal and marks the end of the BJP's Lok Sabha election campaign. The Vivekananda Rock Memorial, a significant cultural and spiritual monument, is where Swami Vivekananda is believed to have meditated and attained enlightenment. Security has been significantly increased for the PM's visit, with 2,000 police personnel deployed and strict restrictions on tourist activities in the area.
+
+The location holds deep significance for Modi, who has often expressed his admiration for Swami Vivekananda and his teachings. Modi's various initiatives, such as the Skill India mission and the New Education Policy, reflect Vivekananda's philosophy. The choice of the southern location also aligns with the BJP's political strategy to strengthen its presence in the region, following an extensive campaign across the southern states during the Lok Sabha elections. Modi's visit to the memorial is not only a personal pilgrimage but also a symbolic political gesture, emphasizing the importance of the South in the parliamentary landscape.
+
+Thu, 30 May 2024 12:05:58 +0530
+### [Quicksplained: Why your health insurance claims may soon be settled in just 3 hours](https://www.firstpost.com/explainers/quicksplained-health-insurance-claim-settlement-13776687.html)
+
+The Insurance Regulatory and Development Authority of India (IRDAI) has issued a new master circular that consolidates 55 previous circulars to enhance health insurance inclusivity and empower policyholders. Key mandates include:
+- Insurers must decide on cashless authorisation within one hour of the request.
+- Final authorisation for discharge must be granted within three hours.
+- A 100% cashless claim settlement goal in a time-bound manner is set.
+- Insurers are required to establish systems and procedures for this by July 31, 2024.
+- Help Desks may be set up at hospitals to assist with cashless requests.
+- Digital pre-authorisation for policyholders is encouraged.
+- In case of policyholder's death during treatment, insurers must immediately process the claim and release the body from the hospital.
+- Insurers are encouraged to offer a wide range of products, add-ons, and riders.
+- A Customer Information Sheet (CIS) must accompany every policy document.
+- No-claim rewards may be offered, such as premium discounts or increased coverage.
+- Insurers and TPAs, not policyholders, are responsible for obtaining necessary paperwork for claims.
+- Policy cancellations at any point will result in a premium refund for the unexpired term.
+- Insurers face a Rs 5,000 per day penalty for delayed implementation of ombudsman awards beyond 30 days.
+
+Thu, 30 May 2024 11:50:05 +0530
+### [India’s heatwave is leading to rise in ‘eye stroke’ cases: What is the condition?](https://www.firstpost.com/health/india-heatwave-trigger-eye-stroke-cases-on-rise-what-is-the-condition-13776658.html)
+
+The article discusses the risks that heatwaves pose to eye health, particularly the occurrence of an "eye stroke," or retinal artery occlusion, which can lead to sudden vision loss. Heatwaves can cause dehydration and increased blood viscosity, heightening the risk of blockages in the arteries supplying blood to the retina. Symptoms of an eye stroke include floaters, blurred vision, vision loss, and sometimes pain or pressure. The article also mentions other heatwave-related eye issues such as increased allergies, styes, photokeratitis, and infections. Preventive measures include staying hydrated, wearing sunglasses, limiting contact lens wear and air conditioner exposure, practicing good eye hygiene, and maintaining a diet rich in nutrients beneficial for eye health. The article emphasizes the importance of protecting the eyes from the stress caused by extreme heat conditions.
+
+Thu, 30 May 2024 11:28:45 +0530
+### [Did Israel interfere with ICC proceedings? What punishment could this warrant?](https://www.firstpost.com/explainers/israel-international-criminal-court-proceedings-interference-mossad-article-70-punishment-13776696.html)
+
+The article discusses allegations of Israel's attempts to interfere with the International Criminal Court's (ICC) proceedings, particularly focusing on actions taken by the former head of Mossad, Yossi Cohen. These attempts reportedly began in 2017 and were aimed at pressuring the ICC's then chief prosecutor, Fatou Bensouda, to drop a war crimes investigation into Israel's actions in occupied Palestinian territories. Tactics used included secret communications, personal threats, and gathering compromising material on Bensouda's family.
+
+Despite these efforts, Bensouda announced in December 2019 her intention to open a full criminal investigation into alleged war crimes in Gaza, the West Bank, and East Jerusalem. The ICC has continued with the investigation, leading to a request for arrest warrants for Israeli officials, including Prime Minister Benjamin Netanyahu.
+
+Legal experts have suggested that these actions by Israel could constitute "offences against the administration of justice" under Article 70 of the Rome Statute, which includes obstructing investigations and intimidating ICC officials. The article emphasizes the need for prompt action by the ICC to investigate these allegations, given the five-year statute of limitations for such offenses. It also outlines the specific acts considered offenses under Article 70 and the ICC's reliance on member states' domestic laws for international cooperation in these matters.
+
+Thu, 30 May 2024 10:13:26 +0530
+### [South Africa election 2024: When are results expected? When will the next president be picked?](https://www.firstpost.com/explainers/south-africa-election-results-next-president-13776655.html)
+
+The national election in South Africa is a significant event, marking a potential shift in the country's political landscape. The African National Congress (ANC), which has been the ruling party since the end of apartheid in 1994, faces a fierce challenge to maintain its majority. In this election, voters cast their ballots for parties or independent candidates, not directly for the president. The composition of Parliament will be determined by the party vote shares, and the president will be elected by the lawmakers from within their ranks.
+
+The ANC's historical dominance may be at risk, as pre-election surveys suggest its support could fall below 50%. If this happens, the ANC would need to form a coalition to secure the necessary majority for reelecting President Cyril Ramaphosa. The election results are expected by Sunday, and the new Parliament must convene within two weeks to elect the president. Should the ANC fail to secure a majority, it may enter negotiations with other parties to form a coalition. However, the likelihood of opposition parties uniting to form a government is considered remote, given their mutual criticisms and differences. President Ramaphosa remains confident in the ANC's victory, despite the uncertainties. The election outcome could lead to South Africa's first national coalition government if the ANC cannot win an outright majority.
+
+Thu, 30 May 2024 10:05:10 +0530
+### [Did Delhi soar to 52.9 degrees Celsius? Mapping the world’s hottest temperatures](https://www.firstpost.com/explainers/delhi-temperature-national-record-world-hottest-temperatures-california-death-valley-13776661.html)
+
+Delhi recently recorded a temperature of 52.9 degrees Celsius at the Mungeshpur weather station, potentially setting a new national record if verified. This comes amid a severe heatwave affecting India and other parts of the world, with the summer of 2023 being the hottest in the northern hemisphere in 2,000 years. The accuracy of Delhi's record temperature is under scrutiny, with officials from the India Meteorological Department (IMD) investigating potential sensor errors or local factors. If confirmed, this would surpass the previous Indian record of 51 degrees Celsius in Phalodi, Rajasthan, in 2016. Globally, the highest recorded temperature remains 56.7 degrees Celsius in California's Death Valley in 1913. The article also highlights the broader issue of rising global temperatures, attributing them to climate change and noting that the summer of 2023 was 2.07 degrees Celsius warmer than pre-industrial levels. Climate scientists express concern over the trend, emphasizing the threat of global warming.
+
+Thu, 30 May 2024 09:04:36 +0530
+### [India-France to begin Rafale M negotiations today: How these fighter jets will enhance Navy's capabilities](https://www.firstpost.com/explainers/india-france-rafale-m-negotiations-naval-fighter-planes-significance-13776520.html)
+
+India is set to negotiate the purchase of 26 Rafale M fighter jets from France, with a deal estimated at Rs 50,000 crore. The Rafale M, an 'omnirole' aircraft, is capable of various missions including air defense, nuclear deterrence, and reconnaissance. It has a maximum speed of 1.8 Mach and can operate at altitudes up to 50,000 feet. The jet is compatible with India's existing Rafale fleet, which could reduce maintenance costs due to 80% commonality in components. The main difference lies in the strengthened nose and landing gear, designed for carrier operations. India prefers the Rafale M over the American F/A-18 Super Hornet after tests in Goa. Negotiations aim to finalize the contract within this fiscal year, with deliveries starting in 2027. A joint bid with the Indian Air Force is not anticipated, despite potential cost savings and the possibility of establishing a new production line in India. The Indian Navy has studied the French bid in detail and will engage in tough negotiations for a government-to-government contract. The goal is to expedite the process for early induction of the jets into the Navy's inventory. France's navy and air force both operate Rafale fighters, sharing common stores, but no joint bid is planned with India. The Indian Air Force has two Rafale squadrons, each with its own stores and simulators.
+
+Thu, 30 May 2024 09:01:58 +0530
+### [Israel takes control of the Philadelphi Corridor; why is Gaza-Egypt border region called 'oxygen for Hamas'?](https://www.firstpost.com/world/israel-takes-control-of-the-philadelphi-corridor-why-is-gaza-egypt-border-region-called-oxygen-for-hamas-13776632.html)
+
+Article found but Couldn't summarize 
+While the IDF troops are now physically located in most of the corridor, there's still a section near the coast where ground forces are not present.
+
+Thu, 30 May 2024 06:27:30 +0530
+### [FirstUp: PM Modi's spiritual retreat to Kanyakumari, India's Rafale negotiations with France... The headlines today](https://www.firstpost.com/explainers/firstup-pm-modis-spiritual-retreat-to-kanyakumari-indias-rafale-negotiations-with-france-the-headlines-today-13776534.html)
+
+Article found but Couldn't summarize 
+PM Modi will begin a three-day spiritual sojourn at Vivekananda Rock Memorial in Tamil Nadu's Kanyakumari. Indian officials will hold talks on official contract with France for the mega acquisition of 26 Rafale-Marine fighters. Here's what else to expect today
+
+Wed, 29 May 2024 20:52:12 +0530
+### [India successfully test fires RudraM-II missile. Here’s why it matters](https://www.firstpost.com/explainers/india-test-fires-rudram-ii-missile-why-it-matters-13776604.html)
+
+Article found but Couldn't summarize 
+The RudraM-II is an indigenously developed air-to-surface anti-radiation missile. With a range of 300 kilometres, a speed of up to Mach 5.5 and a 200 kilogramme payload, the missile is expected to play a vital role in strengthening India’s air security and defence preparedness and act as a ‘force multiplier’
+
+Wed, 29 May 2024 19:49:59 +0530
+### [Explained: What the probe into turbulence-hit Singapore Airlines plane has revealed](https://www.firstpost.com/explainers/explained-what-the-probe-into-turbulence-hit-singapore-airlines-flight-sq321-has-revealed-investigation-finding-13776570.html)
+
+Article found but Couldn't summarize 
+Dozens of passengers sustained injuries on a Singapore Airlines flight due to 'rapid changes' in gravitational force and a sudden 54-metre altitude drop, according to a preliminary investigation. A 73-year-old British man died of a suspected heart attack, and numerous passengers were injured last week when Singapore Airlines flight SQ321 encountered severe turbulence
+
+Wed, 29 May 2024 19:06:14 +0530
+### [Delhi hits 52.3 degrees Celsius: Why is the city becoming warmer over the years?](https://www.firstpost.com/explainers/delhi-degrees-celsius-why-city-becoming-warmer-13776586.html)
+
+Article found but Couldn't summarize 
+Delhi on Wednesday recorded its highest-ever temperature of 52.3 degrees Celsius. A red alert has been issued in the National Capital with authorities asking people to remain indoors, stay hydrated and avoid unnecessary exposure to the sun. Experts have blamed hot winds from Rajasthan for the current situation. But others say a number of factors, including urban sprawl, its location could be influencing the heat
+
+Wed, 29 May 2024 18:22:29 +0530
+### [Sleepless in Summer: How India’s rising night-time temperatures are a health concern](https://www.firstpost.com/explainers/sleepless-in-summer-india-rising-night-time-temperatures-health-concern-heatwave-13776536.html)
+
+Article found but Couldn't summarize 
+Parts of India, especially in the North, are struggling to survive amid extremely high temperatures. A new study has revealed that hotter nights are only adding to the woes of the people. But what’s causing the nocturnal mercury levels to remain high?
+
 Wed, 29 May 2024 17:34:49 +0530
 ### [Running in the Mexico elections has cost 36 candidates their lives: What's behind the deadly political violence?](https://www.firstpost.com/explainers/amid-mexico-presidential-election-2024-fervour-political-violence-claims-lives-of-many-candidates-why-13776507.html)
 
