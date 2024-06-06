@@ -1,3 +1,48 @@
+Wed, 05 Jun 2024 09:00:00 +0530
+### [Improving the language of biodiversity conservation](https://www.thehindu.com/opinion/columns/improving-the-language-of-biodiversity-conservation/article68245700.ece)
+
+The article discusses the challenges of communicating and understanding biodiversity in the context of climate change and human well-being. It highlights that while climate change has gained public attention due to its immediate dangers, biodiversity remains a less popular concept. The article suggests that the scientific and utilitarian language used to describe biodiversity fails to convey its true value to human well-being and calls for a language that resonates with the public.
+
+It explains biodiversity as the variety among living organisms and ecosystems but notes its abstract nature makes it difficult for people to grasp. The article argues for using local languages and examples to make the concept more relatable. It also points out that mainstreaming biodiversity in policies and business practices is challenging due to the focus on financial targets.
+
+The author mentions the National Mission on Biodiversity and Human Well-Being in India, which aims to link biodiversity with economic and health prosperity. However, the article criticizes the narrow focus on income and calls for a broader understanding of well-being that includes capabilities and opportunities for individuals to pursue valuable life pursuits.
+
+In conclusion, the article advocates for a shift in how we communicate and value biodiversity, emphasizing the need to consider human variability and functioning to truly understand its link to well-being. The author is identified as the Lead of the Ecosystems and Human Well-being Programme at ATREE, Bengaluru, and the views expressed are personal.
+
+Sun, 02 Jun 2024 19:01:36 +0530
+### [The national and the regional](https://www.thehindu.com/opinion/columns/political-line-newsletter-the-national-and-the-regional/article68243397.ece)
+
+The article discusses the use of regionalism in Indian politics, particularly during the 2024 Lok Sabha election campaign. It highlights how national parties like the Congress and BJP adopt regionalist strategies to appeal to voters, citing examples from Karnataka, Telangana, Odisha, and West Bengal. The BJP's criticism of the Biju Janata Dal in Odisha for the influence of a Tamil Nadu-born aide and its sensitivity towards Bengali pride in West Bengal are noted. The article also mentions the negative impact of regionalism that targets other regions or people.
+
+Additionally, it touches on individual cases such as Nalin Yadav's career struggles post-incarceration and the BJP's portrayal of J. Jayalalithaa as a Hindutva icon in Tamil Nadu. Criticism of the Congress government's decision to change the Telangana emblem and the controversy over the Manusmriti reference in Maharashtra's educational framework are discussed. Lastly, it reports on a Madhya Pradesh High Court ruling that a Muslim man's marriage to a Hindu woman, even if registered under the Special Marriage Act, is not valid according to Mahomedan law. The article encapsulates the complexities and controversies surrounding national and state politics in India.
+
+Sun, 26 May 2024 19:33:58 +0530
+### [Political Line | Siddaramaiah’s failed romance and India’s undefined borders](https://www.thehindu.com/opinion/columns/political-line-newsletter-siddaramaiahs-failed-romance-and-indias-undefined-borders/article68218384.ece)
+
+The article discusses the concept of borders, both territorial and social, in the context of India's political landscape. National Security Adviser Ajit Doval advocates for well-defined borders to ensure the country's progress and security, emphasizing sovereignty and territorial integrity. He also mentions the challenges posed by porous borders, including undesirable political and social situations.
+
+On the social front, Karnataka Chief Minister Siddaramaiah supports inter-caste marriages as a means to eradicate caste inequalities, sharing his personal story of a college romance that ended due to caste barriers. He has inaugurated a website to facilitate inter-caste marriages and promises government support for such unions.
+
+The article also touches on the broader implications of physical and social borders as tools of control and power, highlighting societal resistance and state measures that often reinforce these barriers. It mentions recent legal developments that have increased obstacles for inter-community couples and a Supreme Court inquiry into the essential elements of a Hindu marriage.
+
+Lastly, it covers a controversy involving scholar Gayatri Chakravorty Spivak and a Dalit student at JNU, where Spivak's correction of the student's pronunciation sparked a debate on intellectual elitism and gatekeeping in academia. The incident reflects ongoing tensions around social borders and the exercise of power within educational institutions.
+
+Sat, 25 May 2024 20:08:57 +0530
+### [Gravity, levity and the theory of relativity](https://www.thehindu.com/opinion/columns/gravity-levity-and-the-theory-of-relativity/article68214417.ece)
+
+The article humorously discusses the awkwardness of reconnecting with distant relatives who seem fixated on one's childhood mishaps. It highlights the discomfort caused by relatives who are surprised by changes that come with growing up and who often recount embarrassing childhood stories. The author questions whether influential figures like Mandela or Gandhi faced similar situations and notes the irony of relatives remembering trivial incidents over significant achievements. Grandmothers are praised for sharing such stories, which later become fodder for family banter. The article also reflects on the fear that we may see less flattering versions of ourselves in our relatives. It concludes with a quote from George Bernard Shaw about the duality of our feelings towards relatives, suggesting that we tolerate them by remembering their good traits but find solace in their absence by recalling their faults.
+
+Fri, 24 May 2024 12:28:54 +0530
+### [Column | Marriage is like a tanga](https://www.thehindu.com/opinion/columns/phuphee-saba-mahjoor-column-marriage-is-like-a-tanga/article68200060.ece)
+
+The article is a personal narrative highlighting the cultural expectations and gender roles within marriage, particularly in the Kashmiri context. The author recounts being advised to address her husband with a title rather than his name, reflecting a norm of respect. She questions this practice, comparing it to the equal treatment she expects in their relationship.
+
+The story unfolds with the author's aunt, Phuphee, visiting and sharing her own marital experience, emphasizing the importance of voice and equality in marriage. Phuphee's past struggle with being heard and respected in her marriage leads to a poignant moment where her husband supports her, symbolizing a shift towards a more balanced partnership.
+
+Inspired by Phuphee's advice, the author discusses the issue with her husband, leading to a change in how he addresses her, breaking societal norms and setting a precedent in their village. The narrative concludes with the author, Saba Mahjoor, reflecting on these experiences and the subtle yet significant progress towards gender equality in marriage.
+
+The article serves as a commentary on the evolving dynamics of marriage, the challenges women face, and the small victories that contribute to societal change. It's a call to not accept inequality as a given but to strive for change and mutual respect in partnerships. The Hindu Sunday Magazine published the piece, which delves into themes of marriage and society.
+
 Wed, 15 May 2024 00:30:00 +0530
 ### [Jimmy Anderson | A great player’s farewell is handled with respect and common sense](https://www.thehindu.com/opinion/columns/a-great-players-farewell-is-handled-with-respect-and-common-sense/article68174873.ece)
 

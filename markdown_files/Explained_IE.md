@@ -1,3 +1,8 @@
+Thu, 06 Jun 2024 03:39:40 +0000
+### [Explained: The representation of women in the incoming Lok Sabha, how it compares to previous years](https://indianexpress.com/article/explained/slight-dip-in-number-of-women-in-ls-well-under-proposed-33-quota-9374922/)
+
+In the 2024 Lok Sabha elections in India, 74 women were elected as MPs, constituting 13.63% of the Lower House. This is a slight decrease from the 2019 elections but a significant increase from the first elections in 1952. The trend over the years has been towards greater representation of women, although progress has been inconsistent. Women MPs in 2024 hail from 14 different parties, with the BJP having the most women MPs at 31, followed by Congress and TMC. Notably, 43 of the elected women are first-time MPs, and they tend to be younger and as educated as their male counterparts. Despite these gains, women's representation is still lower compared to countries like South Africa, the UK, and the US. Additionally, only about 10% of the total candidates in the 2024 elections were women, marking the first time this proportion has reached double digits.
+
 Wed, 05 Jun 2024 22:57:41 +0000
 ### [Nine of 13 being probed by Central agencies jumped party, lost polls](https://indianexpress.com/article/explained/explained-politics/nine-of-13-being-probed-by-central-agencies-jumped-party-lost-polls-9374823/)
 

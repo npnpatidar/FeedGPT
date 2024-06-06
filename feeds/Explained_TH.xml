@@ -5,6 +5,21 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_TH.xml</link>
 		<description>Explained TH</description>
 		<item>
+			<title>SEBI’s framework to shield stock prices against market rumours: Explained</title>
+			<link>https://www.thehindu.com/business/markets/sebi-framework-to-shield-stock-prices-against-market-rumours/article68254547.ece</link>
+			<description>The Securities and Exchange Board of India (SEBI) introduced a new framework on May 21 to address the impact of market rumours on stock prices. This framework centers on the concept of 'unaffected price,' which is the price of a stock before it is influenced by a rumour. The goal is to maintain a fair stock price, free from the effects of unverified information, which benefits both companies and investors for transactions like mergers and buybacks. The implementation will be phased, starting with the top 100 listed entities from June 1 and expanding to the top 250 by December 1.
+
+The 'unaffected price' is activated only if a rumour is confirmed within 24 hours of significant price movement, serving as a protective mechanism that relies on company transparency. This approach addresses the issue of inflated stock prices due to rumours, which disrupts fair price discovery. The new mechanism is designed to ensure a level playing field for various market transactions and to reduce speculative activity.
+
+The framework also affects the volume weighted average price (VWAP), which is used to determine a fair average price for stocks. It stipulates that any variation in the VWAP from the day of the rumour to the end of the next trading day after confirmation will be attributed to the rumour. This helps to establish an 'unaffected price' that reflects the stock's value before the rumour's influence.
+
+The 'unaffected price' will be applicable for either 60 or 180 days, depending on the transaction stage, providing a buffer period for companies to secure necessary approvals and finalize transactions without the pressure of fluctuating stock prices due to rumours. This mechanism aims to protect the integrity of the market and ensure fair pricing for all participants.</description>
+			<pubDate>Thu, 06 Jun 2024 14:21:53 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url=""></media:thumbnail>
+			<media:content url="" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Does inequality lead to growth? | Explained</title>
 			<link>https://www.thehindu.com/news/national/does-inequality-lead-to-growth-explained/article68244378.ece</link>
 			<description>Article found but Couldn't summarize 

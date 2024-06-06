@@ -1,3 +1,124 @@
+Thu, 6 Jun 2024 17:24:08 +0530
+### [How ‘Power Star’ Pawan Kalyan helped NDA storm to power in Andhra](https://www.firstpost.com/explainers/andhra-pradesh-election-results-pawan-kalyan-tdp-bjp-nda-victory-13779537.html)
+
+The National Democratic Alliance (NDA), including the Telugu Desam Party (TDP), Bharatiya Janata Party (BJP), and Pawan Kalyan's JanaSena Party (JSP), secured a majority in both the Assembly and Lok Sabha elections, leading to the defeat of Jagan Mohan Reddy's YSR Congress Party (YSRCP) in Andhra Pradesh. The TDP emerged victorious with 135 of the 175 Assembly seats and 16 of the 25 Lok Sabha seats. The JSP won all 21 Assembly segments and both Lok Sabha seats it contested, while the BJP secured eight Assembly seats and three Lok Sabha seats.
+
+Pawan Kalyan, known for his film industry fame, significantly contributed to the NDA's success. His political journey began in 2008, and despite a setback in 2019, his party achieved a complete turnaround in 2024, winning all contested seats. Kalyan's strategic alliance-building between the TDP and BJP was pivotal, especially after TDP chief N. Chandrababu Naidu's imprisonment over alleged scam charges. Kalyan's efforts are believed to have united the Kapu and Kamma communities, traditionally at odds, which bolstered the NDA's performance.
+
+The JSP's decision not to divide the anti-YSRCP vote proved effective, as the party won a significant number of seats despite a lower vote share compared to the YSRCP. There is speculation that the JSP may receive a cabinet position in the Modi 3.0 government as a reward for its role in the victory. Pawan Kalyan's presence at key NDA meetings underscores his influence and potential future role in the central government.
+
+Thu, 6 Jun 2024 17:00:13 +0530
+### [Going from 59 to 56: How new Lok Sabha will be younger](https://www.firstpost.com/explainers/going-from-59-to-56-how-new-lok-sabha-will-be-younger-13779534.html)
+
+The 2024 Lok Sabha elections have resulted in a younger and fresher Parliament for India. The average age of the newly-elected MPs has decreased to 56 years from the previous 59. According to PRS Legislative Research, 11% of MPs are under 40, 38% are between 41 and 55, and 52% are over 55, with the oldest being 82. Notably, 52% of the MPs are serving their first term, with the TDP having the highest proportion of first-time MPs at 75%, followed by the BJP at 45% and the Congress at 60%. The youngest MPs elected are Pushpendra Saroj and Priya Saroj of the Samajwadi Party, both 25 years old, while the oldest is TR Baalu of the DMK at 82. Shambhavi Choudhary, also 25, is the youngest NDA MP, representing Samastipur. These results indicate a significant generational shift in the Indian Parliament.
+
+Thu, 6 Jun 2024 16:39:11 +0530
+### [Embarrassing secret exposed at China's highest waterfall, in a UNESCO landmark. What is it?](https://www.firstpost.com/explainers/embarrassing-secret-exposed-at-chinas-highest-waterfall-in-a-unesco-landmark-what-is-it-13779505.html)
+
+The Yuntai Mountain park in China, known for its impressive waterfall, has recently come under scrutiny after a video suggested that the waterfall might be artificially enhanced by a water pipe. The footage, which went viral on Chinese social media, shows water being pumped to the 1,030-feet falls, raising questions about the naturalness of the attraction. In response, officials admitted to a "small enhancement" to ensure the waterfall remains visually appealing, especially during drier seasons. The revelation has sparked a mix of criticism and defense from netizens, with some appreciating the effort to maintain the landscape and others questioning the authenticity. The controversy also highlighted regional tensions, as Henan officials accused neighboring Shanxi province of diverting water, affecting the waterfall's flow. The incident has prompted broader discussions on the balance between preserving natural beauty and enhancing tourist experiences. Despite the controversy, Yuntai Falls remains a major attraction, drawing millions of visitors to its UNESCO-certified geopark.
+
+Thu, 6 Jun 2024 16:01:13 +0530
+### [How did BJP lose 5 of 9 seats in Ayodhya, 9 of 12 seats in Varanasi?](https://www.firstpost.com/explainers/how-did-bjp-lose-five-of-nine-seats-in-ayodhya-9-of-12-seats-in-varanasi-13779485.html)
+
+In the recent elections in Uttar Pradesh, the BJP experienced significant losses, particularly in the Ayodhya and Varanasi regions. Despite Prime Minister Narendra Modi's win in Varanasi, the party saw a reduction in seats from 62 in 2019 to 33. Key defeats included losses in Ayodhya's Faizabad constituency, where the Ram temple is located, and in Amethi, where Smriti Irani was defeated by a Gandhi family loyalist. Observers suggest that the BJP's overconfidence, neglect of local issues, and inadequate compensation for land acquisitions for the Ram temple contributed to their losses. The Samajwadi Party and Congress alliance capitalized on these issues, with the Samajwadi Party strategically fielding candidates to draw votes from various communities. The BJP's campaign focused heavily on the Ram temple, but local development and amenities were reportedly neglected, leading to voter dissatisfaction. The election results reflect a complex interplay of local dynamics, party strategies, and voter sentiments.
+
+Thu, 6 Jun 2024 15:29:26 +0530
+### [Quicksplained: Why India's new government may have at least 22 new ministers](https://www.firstpost.com/explainers/quicksplained-india-new-government-22-ministers-13779459.html)
+
+The BJP-led National Democratic Alliance (NDA) has won the 2024 Lok Sabha election with 293 seats, allowing them to form the government for a third consecutive term. Narendra Modi is set to continue as Prime Minister after his unanimous selection as the leader of the NDA. The new government is expected to include at least 22 new ministers, replacing those who lost their seats in the election. Notable losses among the Union Ministers include Smriti Irani, Rajeev Chandrasekhar, and V Muraleedharan, among others, across various constituencies in India. The article also provides a detailed list of all the Union Ministers who were defeated in their respective Lok Sabha seats.
+
+Thu, 6 Jun 2024 15:14:29 +0530
+### [Why Sunita Williams' mission onboard the Boeing Starliner is significant](https://www.firstpost.com/explainers/why-sunita-williams-mission-onboard-the-boeing-starliner-is-significant-13779486.html)
+
+The article discusses the historic Boeing Starliner spaceflight, marking Indian-origin NASA astronaut Sunita Williams' third mission. The Starliner, developed under NASA's Commercial Crew Program, aims to provide safe and cost-effective transport to the ISS and LEO destinations. It's designed for reusability and features autonomous docking capabilities.
+
+Williams' participation is notable as she becomes the first woman to test an orbital spacecraft on its maiden crewed flight, highlighting progress in gender representation in space exploration. The mission's success is pivotal for the US to maintain independent access to space, challenging SpaceX's current monopoly on crewed ISS transport.
+
+The Starliner launched aboard the Atlas V rocket, which celebrated its 100th launch, a significant milestone reflecting its historical importance in American space history. The mission's success, despite previous delays and technical challenges, is crucial for Boeing to enter the crewed space transport sector and for the US to enhance its space mission capabilities.
+
+Thu, 6 Jun 2024 14:56:18 +0530
+### [Chandrababu Naidu, Nitish want special category status for their states: What is it?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-special-category-status-andhra-pradesh-bihar-chandrababu-naidu-nitish-kumar-nda-13779493.html)
+
+The article discusses the political negotiations in New Delhi as the BJP, falling short of a majority, seeks support from its alliance partners TDP and JD(U). These parties are likely to demand special category status (SCS) for Andhra Pradesh and Bihar as a condition for their support. SCS was introduced to assist states facing economic or geographical disadvantages by providing them with financial assistance, tax breaks, and other benefits. Although the 14th Finance Commission recommended discontinuing SCS, states like Andhra Pradesh and Bihar are seeking it to address financial challenges and foster development. The article details the history of SCS, its benefits, and the current political context surrounding these demands.
+
+Thu, 6 Jun 2024 14:00:41 +0530
+### [Home, Defence with BJP, Railways with JD(U), Health with TDP? What Modi 3.0 Cabinet could look like](https://www.firstpost.com/explainers/narendra-modi-nda-3-0-government-bjp-home-defence-jdu-railways-tdp-health-union-cabinet-13779456.html)
+
+The Bharatiya Janata Party (BJP), leading the National Democratic Alliance (NDA), is set to form the central government in India for the third consecutive term, having won 293 of the 543 Lok Sabha seats. Despite being the largest party with 240 seats, the BJP did not secure a majority and is thus dependent on its allies. This marks a return to coalition politics, with key allies like the Janata Dal (United) and the Telugu Desam Party (TDP) expected to demand significant ministerial positions.
+
+The JD(U), led by Nitish Kumar, is interested in portfolios such as Railways, Rural Development, Jal Shakti, Transport, and Agriculture, aiming to address Bihar's developmental needs and water crisis. The TDP, likely to form the government in Andhra Pradesh, is seeking five ministerial berths, including a Minister of State for Finance, and is eyeing portfolios like Roads, Panchayati Raj, Health, and Education.
+
+Other NDA allies like the Shiv Sena and Lok Janshakti Party are also expected to negotiate for ministerial positions. The BJP, however, is determined to retain control over key ministries such as Railways, Home, Finance, Defence, Law, and Information Technology. The final distribution of ministries will be decided in an upcoming NDA meeting. The article emphasizes the strategic negotiations and the importance of coalition dynamics in the formation of the new government.
+
+Thu, 6 Jun 2024 13:54:28 +0530
+### [Why UK PM Rishi Sunak was fact-checked by his own government](https://www.firstpost.com/explainers/why-uk-pm-rishi-sunak-was-fact-checked-by-his-own-government-13779450.html)
+
+In the lead-up to the UK general election, Prime Minister Rishi Sunak and Labour leader Keir Starmer engaged in a televised debate where Sunak claimed Labour's policies would necessitate a £2,000 tax increase per household. This was contested by the UK Treasury, which clarified that civil servants did not endorse the Conservative Party's document suggesting a £38.5 billion deficit in Labour's spending plans.
+
+Labour's response was swift, with economic policy official Rachel Reeves accusing Sunak of lying during the debate. Sunak reiterated his stance, using social media to emphasize his claim. The debate also touched on the cost of living, NHS waiting times, and immigration, with both leaders presenting their views and counterarguments.
+
+Sunak defended his Rwanda plan for asylum seekers and proposed a national service for young people, while Starmer opposed withdrawing from the European Court of Human Rights. Both leaders promised not to raise major taxes but faced skepticism on funding their plans. The debate's outcome saw a narrow preference for Sunak in opinion polls, but the controversy surrounding his tax claims could affect his and the Conservative Party's credibility.
+
+Thu, 6 Jun 2024 13:05:45 +0530
+### [Who has Modi invited for his third swearing-in? What’s the significance behind these invites?](https://www.firstpost.com/explainers/modi-third-swearing-in-world-leaders-neighbourhood-first-policy-significance-13779425.html)
+
+Narendra Modi is set to be sworn in for a third term as Prime Minister of India on June 8, following the Bharatiya Janata Party-led National Democratic Alliance's victory in the Lok Sabha polls with 293 seats. In line with his 'Neighbourhood First' policy, Modi has invited leaders from Bangladesh, Sri Lanka, Bhutan, Nepal, and Mauritius to the ceremony. The policy, which has been a cornerstone of India's foreign relations since 2008, aims to enhance regional connectivity, trade, and cooperation, countering China's influence in the process. Modi's commitment to this policy is evident in past actions, such as financial aid to Sri Lanka during its economic crisis and the distribution of COVID-19 vaccines to neighboring countries. The upcoming ceremony continues the tradition of inviting regional leaders, reflecting India's focus on fostering strong ties with its neighbors.
+
+Thu, 6 Jun 2024 12:26:27 +0530
+### [A victory for Trump? Why his Georgia election case has been put on hold](https://www.firstpost.com/explainers/a-victory-for-trump-why-his-georgia-election-case-has-been-put-on-hold-13779408.html)
+
+Article found but Couldn't summarize 
+A Georgia appeals court in the US paused the criminal election interference case against Donald Trump in the state on Wednesday. This suspension will remain in effect until a decision is made regarding his attempt to disqualify the district attorney handling the case. This development makes it highly unlikely that a trial will occur before the US presidential election in November this year
+
+Thu, 6 Jun 2024 12:24:37 +0530
+### [From textbooks to uniforms: How Kerala schools are trying to achieve gender neutrality](https://www.firstpost.com/explainers/from-textbooks-to-uniforms-how-kerala-schools-trying-to-achieve-gender-neutrality-13779327.html)
+
+The Kerala government has introduced a new initiative to promote gender neutrality in school textbooks. The updated books feature images of fathers performing household chores, such as cooking and grating coconut, challenging traditional gender roles. This move is part of a broader effort to foster a gender-neutral society among children. The state has also implemented gender-sensitive curricula in schools, focusing on equal justice and including lessons on various social values.
+
+In addition to textbooks, some schools in Kerala have adopted gender-neutral uniforms, allowing all students to wear the same attire, which consists of knee-length pants and shirts. This change aims to provide freedom of movement and comfort for all students, regardless of gender. The initiative has been well-received and is gaining traction, with more schools adopting similar policies.
+
+The state's efforts extend beyond uniforms and textbooks. The Kerala Child Rights Commission has advocated for the use of the term 'teacher' instead of gender-specific titles, and there is a push towards co-education, phasing out single-gender schools. These measures are part of Kerala's ongoing commitment to advancing gender equality and setting an example for other regions to follow.
+
+Thu, 6 Jun 2024 11:48:56 +0530
+### [After Naveen Patnaik's 24-year run, Odisha to get a BJP CM. Who is in the race?](https://www.firstpost.com/explainers/naveen-patnaik-odisha-bjp-cm-contenders-13779319.html)
+
+Naveen Patnaik has resigned as the Chief Minister of Odisha after a 24-year tenure, following the BJP's victory in the state elections where they secured 78 out of 147 Assembly seats. The BJD, led by Patnaik, won 51 seats. The BJP's win has shifted focus to the selection of the next CM, with Jual Oram, Dharmendra Pradhan, Sambit Patra, Baijayant Panda, and GC Murmu being the main contenders. The BJP campaign, which was influenced by the Modi wave and issues like law and order and cultural pride, led to their significant gain in seats compared to the 2019 elections where the BJD had a majority. The new CM, as per the criteria set by PM Narendra Modi, will be someone who upholds Odia culture and tradition, with the selection expected to be announced soon. Patnaik's resignation marks a significant change in Odisha's political landscape.
+
+Thu, 6 Jun 2024 11:02:19 +0530
+### [Missiles Russia can deploy against Western targets after Putin's threat](https://www.firstpost.com/explainers/vladimir-putin-russia-ukraine-war-missiles-zircon-kinzhal-against-us-west-13779351.html)
+
+The article discusses Russian President Vladimir Putin's recent statements regarding missile deployment and the potential use of nuclear weapons. Putin has threatened to deploy missiles within striking distance of the US and its allies if Ukraine is allowed to strike deeper into Russia with long-range Western weapons. He has not dismissed the use of nuclear weapons and has warned of serious escalation if NATO continues to support Ukraine's strikes on Russian territory.
+
+The US and Germany have authorized Ukraine to use Western long-range weapons against Russian targets, which marks a significant shift in the conflict's dynamics, potentially escalating it further. Russia's missile arsenal, inherited from the Soviet Union, includes hypersonic missiles like Zircon and Kinzhal, and the short-range ballistic missile system Iskander-K, all capable of carrying conventional and nuclear warheads.
+
+Putin's rhetoric suggests a tit-for-tat approach to any Western escalation and highlights the strategic importance of Russia's missile capabilities. The article also notes the potential for nuclear weapon use, which, while remote, is not ruled out by Russia's nuclear doctrine, especially if the state's existence is threatened. The situation calls for diplomacy and restraint to prevent further escalation and a global catastrophe.
+
+Thu, 6 Jun 2024 10:09:11 +0530
+### [80th Anniversary of D-Day: What happened on this day in France during World War II?](https://www.firstpost.com/explainers/anniversary-d-day-france-world-war-ii-13779166.html)
+
+The 80th anniversary of D-Day, observed on June 6, 2024, may be the last major commemoration with living WWII veterans. The historic Allied invasion of Normandy, known as Operation Overlord, was a turning point in WWII, leading to the defeat of Nazi Germany. The anniversary is marked by the attendance of veterans and heads of state, excluding Russian President Putin due to the Ukraine conflict. The event honors the collaboration of international forces and the sacrifices made, with a significant human cost on the day of the invasion. The success of D-Day is seen as the beginning of the end for Hitler's regime, with the Allied victory in Europe following less than a year later. The current commemoration holds additional significance amidst the ongoing war in Ukraine.
+
+Thu, 6 Jun 2024 09:59:59 +0530
+### [Why INDI Alliance has chosen to sit in the Opposition benches in Parliament](https://www.firstpost.com/explainers/indi-alliance-opposition-benches-parliament-nda-sarkar-lok-sabha-election-results-13779330.html)
+
+The INDI Alliance, led by Congress chief Mallikarjun Kharge, has decided to form a united opposition against the NDA in Parliament, despite performing better than expected in the Lok Sabha elections with 234 seats. The alliance has chosen not to attempt government formation, respecting the NDA's majority of 292 seats. The decision was made after a meeting at Kharge's residence, where it was declared that the mandate was against Prime Minister Modi and his politics. The INDI Alliance aims to fight against what they term as 'fascist rule' and will take steps to fulfill the public's desire not to be governed by the BJP. Political analysts suggest that the Congress sees the current government as unstable due to unreliable allies like the JD(U) and TDP. The alliance believes it can exert more influence as a strong opposition, especially with the Congress likely leading as the largest party in the bloc. The future role of the INDI Alliance in Parliament remains to be seen, as it seeks to capitalize on its electoral success and navigate the next five years.
+
+Thu, 6 Jun 2024 08:17:03 +0530
+### [Lok Sabha election results 2024: How number of women MPs has fallen from 2019](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-number-of-women-mps-has-fallen-from-2019-13779294.html)
+
+In the 2024 Lok Sabha elections, out of 797 women candidates, 74 were elected, constituting 13.6% of the total MPs. This is a slight decrease from the 2019 elections, where 78 women were elected. The best representation of women is in Tripura and the Union territory of Dadra and Nagar Haveli and Daman and Diu, with 50% of their MPs being women. Delhi follows with 28.57% women representation. West Bengal elected the most women MPs (11), all from the Trinamool Congress. Maharashtra and Uttar Pradesh each elected seven women MPs, but Maharashtra's percentage is higher due to fewer total seats.
+
+Conversely, 13 states and Union territories, including five from the Northeast and five Union territories with single seats, elected no women MPs. Kerala, with 20 constituencies, also elected no women despite a high turnout of women voters. Party-wise, the BJP leads with 31 women MPs, followed by Congress with 14, and the Trinamool Congress with 11. Other parties like the Samajwadi Party, DMK, JD(U), and LJP also have women representatives in the Lok Sabha.
+
+Thu, 6 Jun 2024 08:02:49 +0530
+### [European Parliament election: How are the polls conducted, who can vote?](https://www.firstpost.com/explainers/european-parliament-election-how-are-the-polls-conducted-who-can-vote-13779153.html)
+
+The European Parliament is gearing up for elections from June 6 to 9, marking a significant democratic event with 400 million citizens eligible to vote. Key concerns among voters include the conflicts in Ukraine and Gaza, the European economy, and employment. The elections will determine if Ursula von der Leyen remains the European Commission President or faces replacement.
+
+The election process involves direct universal suffrage across the EU, with the number of MEPs per country proportional to its population. The UK's exit from the EU has reduced the number of MEPs to 705, but this will increase to 720 after the election, with 12 countries gaining additional MEPs. Eligibility to vote varies, with some countries allowing those under 18 to participate.
+
+Voter turnout is expected to be higher than previous years, with 71% of Europeans indicating their intention to vote. The EU Parliament's role is expanding, with increasing powers over a range of legislative areas, including climate, security, and the EU budget. The current Parliament is led by the center-right European People’s Party, followed by the center-left S&D and the liberal Renew group. Post-election, MEPs will elect their president and nominate the European Commission President, with von der Leyen likely to seek reappointment despite potential opposition. The results could also see far-right parties gaining influence in the Parliament.
+
 Thu, 6 Jun 2024 06:00:39 +0530
 ### [FirstUp: EU elections, Sunil Chhetri's farewell match... Top headlines today](https://www.firstpost.com/explainers/firstup-eu-elections-sunil-chhetri-farewell-match-13779152.html)
 

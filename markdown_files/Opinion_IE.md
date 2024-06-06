@@ -1,3 +1,62 @@
+Thu, 06 Jun 2024 11:39:28 +0000
+### [Mandal over Mandir: How INDIA won Uttar Pradesh](https://indianexpress.com/article/opinion/columns/how-india-won-uttar-pradesh-9375903/)
+
+The article discusses the significant impact of the INDIA bloc's performance in the Uttar Pradesh (UP) elections of 2024, which contributed to the BJP not achieving a majority on its own and the NDA falling short of the 300-seat mark. The INDIA bloc, led by a revitalized SP under Akhilesh Yadav, managed to secure 43 seats, while the BJP won 33. The election results were unexpected, especially in UP, a region traditionally seen as a stronghold of the BJP and Hindutva ideology.
+
+The BJP's confidence prior to the elections was challenged by a low voter turnout and the absence of a strong pro-Modi sentiment. The SP's resurgence, Rahul Gandhi's improved image, dissatisfaction with the Yogi Adityanath government, and economic distress in UP were key factors influencing the election outcome. Akhilesh Yadav's strategic alliances and focus on social justice over Hindutva, as well as the Congress's promising manifesto, played a role in shifting the narrative from communal issues to economic and social concerns.
+
+The article also highlights the decline of the BSP and the rise of the Bhim Army/Azad Samaj Party, indicating a shift in voter preferences among the Dalit community. Economic challenges, such as inflation and unemployment, were central to the election discourse, with the UP economy showing poor performance under the current government.
+
+In conclusion, the 2024 UP elections marked a turning point where the BJP's usual communal rhetoric was overshadowed by the electorate's focus on social justice and economic issues, leading to a significant shift in the political landscape. The INDIA bloc's campaign successfully redirected the conversation towards the people's livelihood problems and the preservation of democracy. The article ends with a brief unrelated mention of comedian Sunil Pal's experiences with actor Shah Rukh Khan.
+
+Thu, 06 Jun 2024 10:22:09 +0000
+### [The first third term PM since Jawaharlal Nehru — why does Narendra Modi keep winning?](https://indianexpress.com/article/opinion/columns/narendra-modi-jawaharlal-nehru-winning-third-term-9375702/)
+
+Narendra Modi has been re-elected as the Prime Minister of India for a third consecutive term, equalling the electoral record of the country's first prime minister, Jawaharlal Nehru. The article suggests that Modi's success is less about his policies and more about the emotional connection he establishes with the people. He is credited with making citizens feel recognized, counted, and proud by addressing various cultural, social, and heritage issues. This includes acknowledging the domestic challenges faced by women, offering solutions to political dissension in villages, and celebrating India's diverse religious and linguistic heritage. Modi's actions, such as inaugurating the Ram Temple and changing the naval ensign, are highlighted as examples of how he has tapped into the nation's pride in its martial and cultural history. The author concludes by emphasizing the lasting impact of how leaders make their citizens feel, which is a sentiment Modi seems to understand well. The writer is identified as a professor at McGill University.
+
+Thu, 06 Jun 2024 07:03:38 +0000
+### [Why Mamata wins — despite allegations of corruption, violence and political coercion](https://indianexpress.com/article/opinion/columns/mamata-banerjee-tmc-lok-sabha-election-results-9375447/)
+
+Mamata Banerjee, the Trinamool Congress leader and Chief Minister of Bengal, has once again defied expectations by winning 29 out of 42 Lok Sabha seats. Her victory is attributed to her strong grassroots connection and her image as an anti-establishment crusader. Banerjee's political narrative has been shaped by her resistance to the Left and her fluctuating alliances with the BJP-led NDA, which have solidified her reputation as an activist. Recently, she has played a significant role as an opposition leader, particularly emphasizing Bengali identity to counter the BJP's influence.
+
+Banerjee's political strategy includes leveraging local sentiments against perceived external threats, effectively engaging non-Bengali settlers, and utilizing central fund denials for schemes like MNREGA to rally rural support. She has also created a base of beneficiaries through empowerment initiatives like Kanyashree and Lakshmi Bhandar, and has been proactive in issuing caste certificates to SCs, STs, and OBCs.
+
+Despite criticisms of administrative issues and coercive politics, Banerjee's voters seem to overlook these in light of larger scandals elsewhere, viewing them as common political problems. Her personal image remains relatively untarnished, and she is seen as a victim rather than a perpetrator. Her hands-on approach to governance and her efforts to secularize Durga Puja have further endeared her to the public.
+
+The article also touches on the broader political climate in Bengal, where muscle power has become institutionalized, leading to non-ideological party crossovers. Banerjee's unique position as a female leader in a male-dominated arena and her perceived matriarchal role contribute to her continued trust among voters. The article concludes by highlighting the entrenched issues of electoral management and the use of force in Bengal politics, suggesting that voters tend to side with the perceived strongest force. Mamata Banerjee's blend of personal charisma and political acumen continues to secure her position as a key figure in the state's governance.
+
+Thu, 06 Jun 2024 03:14:45 +0000
+### [June 6, 1984, Forty Years Ago: Punjab censorship forces people to turn to Radio Pakistan for updates](https://indianexpress.com/article/opinion/40-years-ago/june-6-1984-forty-years-ago-punjab-censorship-forces-people-to-turn-to-radio-pakistan-for-updates-9374623/)
+
+The article covers several significant events:
+
+1. **Golden Temple Incident**: Terrorists used medium machine guns and mortars against security forces within the Golden Temple complex, resulting in the death of a security personnel and a laborer. The extent of casualties inside the temple remains unknown.
+
+2. **Radio Pakistan's Influence**: Due to government censorship in Punjab, villagers have turned to Radio Pakistan for news, leading to the spread of unverified stories.
+
+3. **Gulf War Escalation**: Iraqi warplanes attacked the Iranian town of Baneh, causing over 600 casualties. Iran threatened retaliation against 11 Iraqi cities, while Iraq warned of bombing 5 Iranian cities if attacked.
+
+4. **Attack on Indian High Commission in London**: Militant Sikhs wounded three security guards after forcing entry into the Indian High Commission. The incident occurred with minimal police presence, and reinforcements arrived only after the intrusion.
+
+5. **Indian Politics**: N. Chandrababu Naidu's victory in the Lok Sabha elections has strengthened his political influence, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+The summary excludes unrelated content such as advertisements and subscription prompts.
+
+Thu, 06 Jun 2024 02:55:33 +0000
+### [Don’t fear the critic: How proxy advisors improve shareholder decisions in India](https://indianexpress.com/article/opinion/columns/dont-fear-the-critic-how-proxy-advisors-improve-shareholder-decisions-in-india-9374712/)
+
+The article discusses the role and influence of proxy advisors (PAs) in corporate governance, particularly in India. It highlights that while PAs often face criticism for their recommendations, their actual impact on corporate resolutions is limited, as seen in the low number of rejections of their advised 'against' votes. The article argues that PAs serve as a support system for investors to make informed decisions rather than dictating actions. It also addresses the controversies surrounding PAs, especially regarding their interpretation of laws and valuation judgments. The cases of ICICI Securities' delisting and Tata Motors' DVR proposal are cited as examples where PAs faced opposition despite majority institutional investor support. The article concludes by emphasizing the importance of PAs maintaining their independence and not being swayed by outcomes, as they are not beneficiaries of the proposals they evaluate. The writer is the managing director of Stakeholders Empowerment Services, which has reported on companies like Nestle, ITC, Tata Motors, and ICICI Securities. The unrelated content regarding the Lok Sabha Election Results 2024 and comedian Sunil Pal's comments about SRK have been omitted from this summary.
+
+Thu, 06 Jun 2024 02:50:25 +0000
+### [Why AI chatbot of your older self won’t stop you from making stupid decisions](https://indianexpress.com/article/opinion/editorials/why-ai-chatbot-of-your-older-self-wont-stop-you-from-making-stupid-decisions-9374622/)
+
+The article discusses a common human desire to impart wisdom to our younger selves, often to avoid past mistakes. It highlights an AI chatbot developed by MIT researchers that simulates conversations with an older version of the user, providing advice based on the user's own behavior and inputs. While the chatbot aims to offer guidance on various life aspects, including career and family, the article suggests that such technology is unlikely to significantly change one's life path. It reflects on the nature of youth to disregard the advice of elders, implying that wisdom often comes from experiencing life's regrets and lessons firsthand. The article also touches on the notion that people change over time, and the 'you' of the past is not the 'you' of the present. The unrelated content regarding election updates and the anecdote about SRK has been omitted from this summary.
+
+Thu, 06 Jun 2024 02:50:21 +0000
+### [After a bitter election, India’s electoral process stands tall](https://indianexpress.com/article/opinion/editorials/after-a-bitter-election-indias-electoral-process-stands-tall-9374621/)
+
+The article discusses the integrity and challenges of the election process in India, highlighting the Election Commission's (EC) role in ensuring fair play during the recent General Elections. Despite concerns about the fairness of the elections, due to actions like the arrests of political figures by the Enforcement Directorate, the EC maintained high standards throughout the process. The article notes that no candidates disputed the results, even in extremely close races, underscoring the trust in the electoral system. Additionally, it mentions N. Chandrababu Naidu's significant victory in the Lok Sabha election, which reinforces his influence in national politics and his expected push for Special Category State status for Andhra Pradesh.
+
 Thu, 06 Jun 2024 02:40:56 +0000
 ### [PM Modi’s appeal is not dented by one election result](https://indianexpress.com/article/opinion/columns/pm-modis-appeal-is-not-dented-by-one-election-result-9374652/)
 
@@ -369,6 +428,623 @@ Fri, 31 May 2024 01:51:04 +0000
 ### [In Hapur, a marriage ceremony, a moral outrage and a heartening change in script](https://indianexpress.com/article/opinion/editorials/in-hapur-a-marriage-ceremony-a-moral-outrage-and-a-heartening-change-in-script-9362622/)
 
 Article found but Couldn't summarize
+
+Fri, 31 May 2024 01:45:42 +0000
+### [After June 4, two questions: Who and what won?](https://indianexpress.com/article/opinion/columns/after-june-4-two-questions-who-and-what-won-9362762/)
+
+The article discusses the complexities of the electoral process in India, focusing on the aftermath of the elections and the broader implications of the results. It highlights that while the question of "Who won?" is easily answered through the counting process and the loser's concession, the question of "What won?" is more intricate. The article suggests that election mandates are not just about episodic victories but also about long-term success and policy choices that resonate with the electorate.
+
+The piece delves into the challenges of nation-building in India, termed "nationising," which involves unifying a diverse population with shared values and collective memories, often linked to religion. It reflects on the historical context of nation-building efforts by leaders like Gandhi and the current dilemmas faced by Indian leaders in balancing cultural identification with inclusivity.
+
+The article also addresses the media's speculation on the role of secularism in India and the Bharatiya Janata Party's (BJP) stance on representing the entire nation rather than specific vote banks. It concludes by discussing the potential for nationising India to succeed, given the country's culture of contestation, general constituencies, the role of the judiciary, and the signals from the RSS for inclusion and moderation. The flexibility of India's federalism and the inherent uncertainty in Indic religions are seen as assets in building an inclusive nation. The writer is identified as an emeritus professor at Heidelberg University.
+
+Thu, 30 May 2024 16:06:06 +0000
+### [Aadhaar, PAN, Paytm, KYC — how fintech regulation is hurting the consumer](https://indianexpress.com/article/opinion/columns/aadhaar-pan-paytm-kyc-how-fintech-regulation-is-hurting-the-consumer-9362258/)
+
+The article by Arindam Goswami critiques the current state of financial technology (fintech) regulation in India. It begins by discussing the Reserve Bank of India's (RBI) conservative approach, which has led to halting new digital customer onboarding and suspending credit card issuances for Kotak Bank, drawing parallels to past regulatory actions against HDFC and Paytm. The author argues that such measures often lack a solid basis and result in reactive overreach rather than proactive risk management.
+
+The piece then examines the RBI's recent permissions for payment aggregators like PayU and Razorpay to onboard new merchants, which is seen as a positive step. However, this optimism is short-lived due to the RBI's stringent mandates on data localization and card storage, which have caused significant disruption, particularly for merchants and international payments. The author suggests that these guidelines were not well-thought-out and have introduced unnecessary friction into the system.
+
+Further, the article addresses the impact of regulations on stock broking and mutual fund businesses, highlighting the added complexity and friction caused by OTP requirements and discrepancies in data among ecosystem participants. It also criticizes the prohibition on using wallets for mutual fund purchases, which has complicated settlement processes and negatively affected consumers and market liquidity.
+
+The author points out the broader consequences of stringent KYC norms and arbitrary lending caps, which have hindered financial inclusion and innovation. The lack of stakeholder consultation and cost-benefit analysis in the regulatory decision-making process is also criticized, with the author advocating for a more thoughtful approach that considers the least disruptive options.
+
+The article concludes by calling for a fundamental rethink of fintech regulation, emphasizing the need for innovation, expertise, and modernization of processes. It proposes the concept of the 'Finternet'—multiple financial ecosystems interconnected like the internet—as a vision for the future financial system. The author remains hopeful that by embracing transparency, collaboration, and innovation, India can navigate the regulatory challenges and move towards a brighter future in fintech. The unrelated content regarding the Lok Sabha Election Results 2024 and N Chandrababu Naidu's victory has been omitted from the summary.
+
+Thu, 30 May 2024 08:30:37 +0000
+### [Why RBI must rethink its draft guidelines for project financing](https://indianexpress.com/article/opinion/columns/rbi-rethink-draft-guidelines-project-financing-9360970/)
+
+The Reserve Bank of India (RBI) has proposed new draft guidelines for bank lending to infrastructure projects, affecting a wide range of financial institutions. These guidelines have sparked significant concern in the banking and renewable energy sectors due to stringent provisioning requirements, which are seen as potentially detrimental to profitability and investment in infrastructure. The RBI's cautious approach stems from the complex nature of infrastructure projects and their associated risks, as well as past experiences with non-performing assets in the banking system. The proposed rules require higher provisions during the construction phase of projects, which banks argue should be lower. The guidelines also face criticism for potentially exacerbating the challenges posed by existing Basel III banking regulations on project finance. Market participants agree on the need for collaboration with the RBI to find a balanced solution that supports infrastructure financing while managing risk effectively. The article emphasizes the importance of regulated funding and the role of private sector involvement in achieving large-scale infrastructure investment and economic growth. The writer is affiliated with the National Institute of Public Finance and Policy.
+
+Thu, 30 May 2024 06:30:34 +0000
+### [Juvenile ‘injustice’: Are children facing the brunt of systemic inadequacies?](https://indianexpress.com/article/opinion/columns/juvenile-injustice-children-systemic-inadequacies-9360174/)
+
+The article discusses the systemic issues in India's juvenile justice system, highlighted by the Pune car crash case. It emphasizes the problem of minors being detained in adult prisons and the failure to implement juvenile justice laws effectively. A study by iProbono found that thousands of minors were wrongly imprisoned between 2016 and 2021. Despite legal provisions and a new juvenile justice act in 2015, the issue persists, with numerous cases of minors detained in adult prisons due to police misrepresentation and lack of legal representation. The author, a lawyer with expertise in prison reforms, argues that the system's reliance on correcting mistakes after they occur is flawed. The article calls for better implementation of the right to legal representation, especially for minors, to prevent their wrongful incarceration in adult prisons. The author's views are personal and based on her experience with the Prison Reforms Programme at the Commonwealth Human Rights Initiative since 2008.
+
+Thu, 30 May 2024 02:49:42 +0000
+### [May 30, 1984, Forty Years Ago: One person killed in J-K riots](https://indianexpress.com/article/opinion/40-years-ago/forty-years-one-person-killed-in-jk-riots-9360255/)
+
+The article covers several significant incidents and developments:
+
+1. In Punjab, terrorists attacked a BSF picket in Tarn Taran, resulting in the deaths of two BSF jawans and a civilian, with seven others injured. Prime Minister Indira Gandhi expressed dissatisfaction with the handling of the situation to the Punjab Governor.
+
+2. India expressed "profound regret" to Bangladesh for an incident at the Bangladesh High Commission in New Delhi, where the building was damaged by "Hindu Manch" volunteers. Foreign Secretary M Rasgotra assured the Bangladesh High Commissioner of full protection for the diplomatic mission.
+
+3. In Jammu & Kashmir, police firing in Srinagar to control violent mobs led to one death and several injuries after other methods failed to disperse the crowd that had set fire to a police office.
+
+4. Shiv Sena chief Bal Thackeray warned that his arrest on criminal charges could lead to "further chaos," criticizing the government's delayed response to his controversial speech as succumbing to communal pressure.
+
+5. The article also mentions the upcoming swearing-in of PM Narendra Modi for a third term on June 8, following the NDA's victory in the Lok Sabha elections. The Union Cabinet has recommended the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha and is discussing the formation of the next government.
+
+Thu, 30 May 2024 02:45:28 +0000
+### [Punjab, unlike other states, has been known to resist a national electoral wave](https://indianexpress.com/article/opinion/columns/punjab-unlike-other-states-has-been-known-to-resist-a-national-electoral-wave-9360259/)
+
+The article discusses the unique political landscape of Punjab, where traditional vote banks based on religion or caste do not exist, and alliances among parties are uncommon. It highlights the state's history of political mergers and coalitions dating back to colonial times, with a focus on the post-election and pre-election alliances between the BJP and Akali Dal. The narrative shifts to the decline of the Bahujan Samaj Party's influence among Scheduled Castes and the lack of a Hindu vote bank for the BJP, even during the 2014 Hindutva wave. The article emphasizes Punjab's blurring of religious and caste lines in electoral politics, making exclusive categorization ineffective for garnering votes.
+
+The current political scenario is described as a four-cornered contest without alliances, with the Congress and AAP running independently, and the Akalis and BJP unable to form an alliance due to disagreements on key issues. The AAP's strategy of branding traditional parties as corrupt is contrasted with its current challenge of maintaining its image as a party for change. The BJP's lack of a Punjab-specific agenda and the Akalis' focus on regional issues are also discussed.
+
+The article concludes by noting the potential impact of fringe radicals in the election, the division of votes among the major parties, and the Congress's position as the likely beneficiary. It also mentions N Chandrababu Naidu's victory in the Lok Sabha election and his importance to the BJP, with a final note on his push for Special Category State status for Andhra Pradesh. The writer is identified as the chairperson of the Institute for Development and Communication, Chandigarh.
+
+Thu, 30 May 2024 02:40:32 +0000
+### [Cyclone Remal aftermath shows why it’s necessary to build disaster-resilient infrastructure](https://indianexpress.com/article/opinion/editorials/cyclone-remal-aftermath-shows-why-its-necessary-to-build-disaster-resilient-infrastructure-9360252/)
+
+The article discusses the evolution of India's disaster management in response to changing natural disaster patterns over the past two decades. It highlights the establishment of the National Disaster Management Authority (NDMA) in 2005 and its achievements in disaster mitigation and response, including adapting to new threats like heatwaves. The recent landslides in the Northeast, triggered by Cyclone Remal, underscore the need for further improvements in the disaster management system.
+
+The article emphasizes that disasters have become more frequent and severe due to climate change, leading to multi-hazard events where one disaster triggers another, causing greater destruction. It calls for disaster management agencies to be more proactive, with increased resources and capacity-building. It also points out the necessity of incorporating disaster resilience into new infrastructure projects and retrofitting old ones. The article mentions India's role in forming the Coalition for Disaster Resilient Infrastructure (CDRI) to promote such infrastructure globally, suggesting that India should set an example domestically.
+
+Thu, 30 May 2024 02:35:23 +0000
+### [Is France prepared for a vegetarian makeover?](https://indianexpress.com/article/opinion/editorials/is-france-prepared-for-a-vegetarian-makeover-9360254/)
+
+As the Paris Olympics approach, France is gearing up for a significant shift towards vegetarian cuisine in an effort to reduce carbon emissions by 50%. The Olympic planning committee has decided to limit beef and veal, which have a high carbon footprint, to 40% of the athletes' menu. Charles Guilloy, the head chef, is challenging the meat-centric image of French gastronomy by promoting plant-based dishes. Despite France's traditional preference for meat and the meat industry's resistance to plant-based alternatives, Guilloy and Tony Estangoet, the head of the Olympic organising committee, are advocating for a change in eating habits to benefit the planet. However, they acknowledge that changing national dietary preferences may require more than just an international sports event.
+
+Thu, 30 May 2024 02:02:51 +0000
+### [Netanyahu’s actions flout principles of justice and humanity](https://indianexpress.com/article/opinion/editorials/netanyahus-actions-flout-principles-of-justice-and-humanity-9360253/)
+
+The article discusses the international and domestic consequences for Israel following its recent military actions in Gaza. The UN Security Council's call for a humanitarian ceasefire, which was not vetoed by the US, suggested a limit to Washington's support for the Netanyahu government. This was further implied when President Biden warned that a ground offensive in Rafah would lead to a halt in US arms supply to Israel, a threat that seemed to diminish when Israel bombed a refugee shelter without consequence from the US.
+
+The article highlights the global isolation Israel is facing due to civilian casualties and displacement caused by its conflict with Hamas. Netanyahu's denial of a two-state solution and continuation of attacks are contributing to this isolation. Domestically, Netanyahu is unpopular due to his inability to resolve the hostage situation or capture Hamas leadership, and he faces corruption charges. His government's judicial reforms have also sparked protests.
+
+Internationally, Israel's actions have led to recognition of the Palestinian state by several countries and legal challenges, including accusations of genocide and war crimes against Netanyahu. The article suggests that the conflict may be a political strategy for Netanyahu, but it is damaging Israel's international relations and goes against principles of justice and humanity. The article concludes with unrelated information about Indian politics, specifically the re-election of PM Narendra Modi.
+
+Thu, 30 May 2024 02:00:28 +0000
+### [D Raja writes: In this poll season, BJP has attacked integrity of electoral processes](https://indianexpress.com/article/opinion/columns/d-raja-writes-in-this-poll-season-bjp-has-attacked-integrity-of-electoral-processes-9360251/)
+
+The article is a critical commentary on the Bharatiya Janata Party's (BJP) governance over the past decade, highlighting the perceived strain on India's constitutional framework. It accuses the BJP of undermining the integrity of institutions and the electoral process through measures like the electoral bonds scheme and the "One nation, one election" policy. The piece also criticizes the Election Commission of India (ECI) for its alleged inaction against violations of the Model Code of Conduct by the BJP and Prime Minister Narendra Modi, particularly concerning the Ram Temple issue and polarizing statements. The author, identified as the General Secretary of the CPI, calls for the protection of democratic ideals and the independence of institutions, emphasizing the ECI's role in ensuring free and fair elections. The article concludes with a mention of PM Narendra Modi's upcoming third term and the formation of the next government.
+
+Wed, 29 May 2024 14:49:24 +0000
+### [Pune Porsche case: Is the outrage over bail to minor justified?](https://indianexpress.com/article/opinion/pune-porsche-case-is-the-outrage-over-bail-to-minor-justified-9359837/)
+
+The article discusses the controversial Pune Porsche case where a 17-year-old, son of a wealthy builder, was granted bail hours after causing a fatal accident. The minor, driving an unregistered Porsche without a license and under the influence of alcohol, killed two IT professionals. Initially granted bail with conditions like studying traffic rules and writing an essay on road accidents, public outrage led to the cancellation of his bail and his detention until June 5. The state seeks to try him as an adult due to the nature of the offense.
+
+The case raises significant issues about juvenile justice and road safety. It questions the criminal justice process, which often imposes burdens that act as punishment, and the expectation of bail denial for serious offenses by minors. The criticism of the bail grant reflects a view of juvenile justice focused on deterrence and individual culpability, overlooking the role of enablers in such incidents.
+
+Furthermore, the case highlights the inadequacy of the criminal justice system in addressing road accidents, suggesting a need for stronger enforcement and prevention measures. The article argues that formal deterrents alone cannot address the underlying behavioral and social factors of road accidents, advocating for informal methods to influence young people's behavior.
+
+The author, a senior IPS officer, emphasizes personal views and the need for a multifaceted approach to road safety and juvenile justice. The article concludes with unrelated content about political updates, which is not included in the summary.
+
+Wed, 29 May 2024 13:50:17 +0000
+### [Why more strict compliance is not enough to avoid tragedies like Rajkot and Delhi fires](https://indianexpress.com/article/opinion/compliance-tragedies-rajkot-and-delhi-fires-9359747/)
+
+The article by Sushmita Pati discusses the frequent occurrence of fires in urban areas and the recent tragic incidents in Rajkot and Delhi, emphasizing the loss of lives, including children and infants. It critiques the immediate response of blaming negligence, greed, and poor compliance, while pointing out the deeper issues of ineffective governance and the difficulty in regulating urban sprawl. The Gujarat High Court's actions in the Rajkot case are mentioned, but the article argues that more comprehensive solutions are needed.
+
+The piece highlights the ineffectiveness of outrage-driven legal actions, using the example of the M C Mehta case, where the sealing of unauthorized buildings in Delhi failed to bring lasting change. It notes the commonplace nature of fires in various settings, including informal factories and upscale establishments, and the alarming number of factory fires in Delhi. The article stresses that fire safety is often overlooked, even by those at risk, due to the struggle to make ends meet.
+
+The author calls for a broader understanding of fire safety, beyond mere enforcement of laws, and points out the structural issues within our cities that contribute to fire hazards, such as inequality and poor infrastructure. The article concludes that fire safety should be integrated into the larger context of urban planning and that stronger laws alone are not sufficient to address the issue.
+
+The writer, a faculty member at NLSIU Bangalore, also briefly mentions the political implications of N Chandrababu Naidu's victory in the Lok Sabha election, which has reinforced his influence in national politics and his expected push for Special Category State status for Andhra Pradesh. The article suggests that financial difficulties have been an obstacle to fulfilling this promise made during the state's bifurcation in 2014.
+
+Wed, 29 May 2024 12:59:27 +0000
+### [Blaming court vacation for pendency misses the real problem](https://indianexpress.com/article/opinion/columns/court-vacation-case-pendency-real-problem-9359577/)
+
+The article discusses the challenges facing India's judiciary system, focusing on the misconception that judges' vacations are the primary cause of case backlogs. It highlights several key issues contributing to the problem:
+
+1. **Judge Shortage**: There's a significant shortage of judges across high and lower courts, with vacancies averaging 30% in high courts and 22% in subordinate courts. This shortage is a major factor in case pendency, which averages three years in subordinate courts and five years in high courts.
+
+2. **Sanctioned Strength vs. Actual Need**: The current number of judges per population is far below the recommended ratio, with India having only 15 judges per 10 lakh people compared to the suggested 50.
+
+3. **Complexity of Cases and Courtroom Shortages**: The variety and complexity of cases, along with strategies used by lawyers to delay trials, exacerbate the backlog. Additionally, there's a lack of courtrooms and support staff, leading to inevitable delays.
+
+4. **Structural and Quality Deficits**: Inadequacies in language proficiency, legal knowledge, and procedural efficiency at both the bar and bench lead to further delays and appeals.
+
+5. **Legal Culture**: The culture within the legal fraternity often allows for unnecessary delays and appeals, adding to the case backlog.
+
+6. **Technology Adoption**: Slow and uneven adoption of technology in the judiciary hinders efficiency.
+
+The article suggests several solutions, including better court management, higher entry standards for judges and lawyers, and increased government spending on the judiciary. It also addresses the need for state and central governments to collaborate on these issues and the potential benefits of cleaning outdated laws and procedures.
+
+Lastly, it acknowledges the inevitability of increased litigation in a growing economy but emphasizes that with proper planning, the judiciary's challenges can be managed. The writer is the editor-in-chief of the India Justice Report. The article concludes with unrelated content about the Lok Sabha Election Results 2024 and political developments following the elections.
+
+Wed, 29 May 2024 08:28:20 +0000
+### [Rising temperatures and cities as ‘heat islands’: Another reason for Bengaluru to make its parks more open, accessible](https://indianexpress.com/article/opinion/columns/rising-temperature-bengaluru-heat-park-9358802/)
+
+The article discusses the role of parks in Bengaluru, not just as recreational spaces but also from ecological and equity perspectives. It highlights the importance of parks like Cubbon Park and Lal Bagh in maintaining the city's 'Garden City' image, while also pointing out the existence of smaller neighborhood parks. These parks, with their mix of native and exotic trees, provide shade and space for residents to engage in various activities. However, the article raises concerns about the limited open hours of these parks and the strict rules that govern their use, which can be restrictive and sometimes unreasonable.
+
+The article also touches on the rising temperatures in Bengaluru, exacerbated by the urban heat island effect due to increased urbanization. It notes that while parks could offer respite from the heat, their closure during peak hours prevents access to those in need, such as outdoor workers and gig workers.
+
+The author argues for a rethinking of park use and access, suggesting that parks should be multiuse green spaces available to different groups throughout the day. The article calls for parks to be more accessible, inclusive, and ecologically rich, serving not only as places for recreation but also as educational resources and refuges from the heat for the city's vulnerable populations.
+
+Finally, the article emphasizes the need for collective action to make parks safer and more welcoming, advocating for a sense of ownership among residents that would lead to better maintenance and inclusivity. The writer is identified as faculty at Azim Premji University. The article concludes with unrelated content about N Chandrababu Naidu's victory in the Lok Sabha election and its political implications, which is not included in the summary as per your request.
+
+Wed, 29 May 2024 02:45:59 +0000
+### [Food or the Fed – what will drive the RBI’s monetary policy?](https://indianexpress.com/article/opinion/columns/food-or-the-fed-what-will-drive-the-rbis-monetary-policy-9357894/)
+
+The article discusses the Reserve Bank of India's (RBI) monetary policy decisions in the context of inflation and interest rates. In May 2022, the RBI's Monetary Policy Committee (MPC) unexpectedly raised interest rates by 40 basis points, initiating a rate hike cycle amidst rising inflation, which was influenced by the Russia-Ukraine conflict and other factors. The article questions the timing and rationale behind the unscheduled rate hike, especially since the MPC did not adjust rates in its April or June meetings, nor did it provide an updated inflation forecast.
+
+Fast forward to two years later, India's inflation has been low, with the consumer price index at 4.83% and core inflation at a multiyear low of 3.2%, indicating weak demand. However, food inflation remains high at 8.7%, posing a challenge for monetary policy. The RBI forecasts inflation to average 4.5% in Q4 of 2024-25, leading to speculation on whether the MPC will cut rates if monsoon conditions improve and food prices stabilize.
+
+Internationally, the US Federal Reserve's policy decisions are contrasted with those of the European Central Bank and the Bank of England, which are expected to cut rates. The article concludes by pondering whether the RBI's future monetary policy will be influenced more by domestic growth-inflation dynamics or international policy cycles, questioning if it will be "Fed or food-dependent." The article also briefly mentions political developments, including PM Narendra Modi's anticipated third term after the Lok Sabha elections.
+
+Wed, 29 May 2024 02:35:30 +0000
+### [A spacing out competition: For a busy world, why leisure is healing](https://indianexpress.com/article/opinion/editorials/a-spacing-out-competition-for-a-busy-world-why-leisure-is-healing-9357871/)
+
+The article discusses a unique "space-out competition" created by South Korean artist Woopsyang, where participants aim to do nothing and maintain a stable heart rate amidst the hustle of city life. It reflects on the scarcity of leisure and stillness in today's fast-paced world, noting that humans historically lived more leisurely lives. The piece cites a view expressed by Bill Gates in 2023, suggesting that automation could reduce manual labor and increase leisure time. However, the rise of gig economies, wars, and complex technologies seems to contradict this hope. The article suggests that embracing leisure and stepping away from the relentless pursuit of productivity could be revolutionary for mental health and well-being. It concludes by encouraging people to take a break from their busy lives to appreciate simple pleasures, like watching birds. The unrelated content regarding political updates has been omitted from this summary.
+
+Wed, 29 May 2024 02:34:14 +0000
+### [Where are Hindi cinema’s political songs?](https://indianexpress.com/article/opinion/columns/where-are-hindi-cinemas-political-songs-9357898/)
+
+The article reflects on the role of Hindi cinema in political discourse, particularly through songs that address social and political issues. It highlights the work of lyricist Sahir Ludhianvi, whose songs in films like "Aaj Aur Kal" and "Pyaasa" became anthems for democracy and social justice. The piece traces the evolution of politically charged film music from the post-Independence era, through the turbulent '70s, and up to the present day, noting a decline in such songs as dissent is increasingly viewed as disloyalty. It also mentions the recent Lok Sabha elections and the re-election of PM Narendra Modi. The article suggests that while the space for politically conscious songs in films has diminished, their legacy remains significant.
+
+Wed, 29 May 2024 02:30:46 +0000
+### [Election season and a volatile stock market](https://indianexpress.com/article/opinion/editorials/election-season-and-a-volatile-stock-market-9357870/)
+
+The Indian stock market has been experiencing significant volatility, with the Nifty VIX, an indicator of market fear, increasing notably since late April, reaching 24.2 on a recent Tuesday. This volatility is partly attributed to the ongoing elections. Prime Minister Narendra Modi has optimistically stated that the stock market will reach new heights on June 4, echoing sentiments from other government officials who have tried to reassure investors.
+
+Amidst this volatility, the stock market has seen a rally, pushing the Sensex and Nifty to record levels and the market capitalization of NSE-listed companies to $5 trillion. The market cap to GDP ratio has risen, and retail investor optimism is evident in the growing number of demat accounts and mutual fund folios. However, concerns about overvaluation, particularly in the small and mid-cap sectors, persist, with some stocks trading at high price-to-earnings ratios. While domestic investors remain bullish, foreign investors have shown caution, with net investments by foreign portfolio investors turning negative in April and May after a strong March.
+
+Several upcoming events could influence market direction: the release of fourth-quarter GDP data, the national election results indicating the new government's policy direction, the RBI's monetary policy committee meeting on interest rates, and the presentation of the Union budget.
+
+Additionally, N Chandrababu Naidu's significant victory in the Lok Sabha election has reinforced his importance in national politics, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Wed, 29 May 2024 02:30:40 +0000
+### [More concrete, more heat: Why our cities are hotter than ever](https://indianexpress.com/article/opinion/editorials/more-concrete-more-heat-why-our-cities-are-hotter-than-ever-9357868/)
+
+The article discusses the severe heat stress in urban India, not just due to rising temperatures but also because of increased humidity, land surface temperature, and urbanization. The Centre for Science and Environment report highlights the 'urban heat island effect' where dense urban areas trap more heat, leading to higher temperatures than surrounding areas, and nights that do not cool down sufficiently. This has led to prolonged heat waves, posing risks to vulnerable populations. Despite over 20 states creating heat action plans with the National Disaster Management Authority, most are ineffective due to lack of funding and sustainable vision. Experts suggest city-specific management plans, like Ahmedabad's Cool Roofs programme, which prioritize green spaces and target heat generators, could be more effective in combating heat waves and saving lives.
+
+Wed, 29 May 2024 02:30:02 +0000
+### [May 29, 1984, Forty Years Ago: Tax Sharing Rules](https://indianexpress.com/article/opinion/40-years-ago/may-29-1984-forty-years-ago-tax-sharing-rules-9357891/)
+
+The article covers several topics:
+
+1. **Tax Agreement**: State chief ministers have agreed on the rate and distribution of a new consignment tax for interstate trade, matching it with the central sales tax rate. Half of the tax proceeds will stay with the collecting state, and the rest will be shared among all states based on the excise duty distribution formula.
+
+2. **Irrigation and Broadcasting**: The Telugu Desam Party has called for the Union government to either take charge of major irrigation projects or support states in executing them, citing their importance for agricultural development. They also seek to end the central government's monopoly over All India Radio and Doordarshan.
+
+3. **Nehru Award**: Dr. Leopold Sedar Senghor of Senegal and Dr. Bruno Kreisky of Austria have been awarded the Jawaharlal Nehru Award for International Understanding for 1982 and 1983, respectively. Each award includes Rs 2.5 lakh and a citation, to be presented in November.
+
+4. **Punjab Tensions**: In Punjab, two fatalities occurred, an attempt to bomb the Kalka Mail was foiled, and a post office was set ablaze. To combat rising terrorist activities, the state government has created new police positions, with BSF and CRPF officers to be appointed.
+
+The rest of the content seems to be related to subscriber-only articles and unrelated to the main topics of the article. The comedian Sunil Pal's comments about SRK's humility during a tour in Singapore are also mentioned.
+
+Wed, 29 May 2024 02:00:43 +0000
+### [How women party workers are reshaping Indian politics](https://indianexpress.com/article/opinion/columns/how-women-party-workers-are-reshaping-indian-politics-9357869/)
+
+The article discusses the evolving role of women in Indian politics, particularly focusing on the impact of women party workers on elections and party organizations. It highlights the trend of women's electoral turnout surpassing that of men and the strategic importance of women in grassroots political mobilization. The author, an Assistant Professor at Princeton University, emphasizes the rise of women within party ranks, especially in the BJP, and the shift in political strategies to engage women voters through targeted electoral promises and welfare schemes. The article also critiques the traditional underestimation of Indian women's political agency and notes the increasing involvement of women in protests and political events. The growing participation of women is seen as a crucial factor in shaping India’s democratic future, with the BJP benefiting significantly from this trend due to its active women's wing and the opportunities it provides for women to advance within the party. The article concludes by questioning whether the increased political participation of women strengthens or undermines India's democracy, asserting that women's political agency is essential for the country's democratic trajectory.
+
+Tue, 28 May 2024 12:54:34 +0000
+### [A Hindi remake of ‘Manjummel Boys’ is unlikely to work. Here’s why](https://indianexpress.com/article/opinion/columns/manjummel-boys-hindi-remake-9357197/)
+
+The article discusses the impact of new-wave Malayalam cinema, highlighting its success in portraying relatable and diverse faces that resonate with audiences across linguistic and geographical boundaries. This fresh approach is contrasted with the typecasting prevalent in mainstream Hindi cinema, where actors often get pigeonholed into specific roles. The piece praises Malayalam cinema for its egalitarian casting, exemplified by actor Fahadh Faasil's versatile performances that defy conventional star images. It argues for a cinema that is driven by characters and actors rather than stars, suggesting that Malayalam films offer a model for creating more authentic and adaptable storytelling. The writer, a teacher of literature and film, implies that this approach could revolutionize Indian cinema, moving away from the star system towards a more inclusive and realistic representation of society.
+
+Tue, 28 May 2024 10:20:44 +0000
+### [C Raja Mohan writes: Election rhetoric, nuclear weapons and Pakistan — the need to expand debate](https://indianexpress.com/article/opinion/columns/c-raja-mohan-election-rhetoric-nuclear-weapons-pakistan-expand-debate-9356795/)
+
+The article discusses the evolving nuclear landscape in the context of Indian politics and global dynamics. It highlights the renewed focus on nuclear issues among major powers and regions, driven by geopolitical tensions and technological advancements. The debate over nuclear weapons in the Indian elections is contrasted with the broader challenges India faces, including the need to deter Pakistan's nuclear capabilities and the growing nuclear arsenal of China.
+
+The piece underscores the importance of modernizing India's nuclear strategy and capabilities in response to these challenges. It suggests that India should prioritize building a deterrent against China's expanding nuclear arsenal and calls for a comprehensive review of global nuclear dynamics and regional atomic challenges. The article also emphasizes the need to accelerate India's civilian nuclear energy program to keep pace with developments in China and South Korea.
+
+The writer, a contributing editor on international affairs for The Indian Express and visiting professor at the Institute of South Asian Studies, National University of Singapore, advocates for an overhaul of India's legal and institutional frameworks governing atomic energy development to meet these emerging challenges. The article concludes by reflecting on the implications of the Lok Sabha Election Results 2024 for national politics and India's strategic priorities.
+
+Tue, 28 May 2024 08:28:15 +0000
+### [Akhilesh Yadav and Rahul Gandhi’s strategy — promise of caste census and more reservation](https://indianexpress.com/article/opinion/columns/akhilesh-yadav-and-rahul-gandhis-strategy-promise-of-caste-census-and-more-reservation-9356524/)
+
+The article discusses the resurgence of social justice politics in India, particularly in the context of the Mandal Commission era of the 1990s. It highlights the decline of parties like the BSP, RJD, and SP as the BJP gained strength, but notes a recent increase in SP's vote share. The focus is on the "INDIA bloc," an alliance led by the SP and Congress, which is steering the current election narrative towards social justice and development, termed "subaltern justice."
+
+The article outlines the strategies of Akhilesh Yadav and Rahul Gandhi, who are addressing issues of social and economic injustice, historical discrimination, and exclusion from welfare policies. It mentions the mobilization of the Constitution as a symbol of subaltern justice politics and the demand for a caste census to address resource distribution.
+
+Akhilesh Yadav's PDA strategy aims to expand the SP's voter base beyond its traditional supporters by addressing the welfare of backward classes, Dalits, minorities, and women, and by fielding a diverse range of candidates. The article also touches on the pre-election issues dominating media, such as youth employment, pension schemes, and farmers' demands, which the SP is leveraging to mobilize votes against the BJP.
+
+The piece concludes by discussing the Congress's manifesto proposals, including a socio-economic and caste census and increasing reservation caps. It suggests that the current political climate is a blend of economic and social concerns, leading to a broader concept of subaltern justice.
+
+The writer, a historian at the University of Nottingham, UK, provides insights into the evolving political landscape in India, with a focus on the ongoing general election and the strategies of key players like the SP and Congress. The article does not include unrelated content or advertisements.
+
+Tue, 28 May 2024 02:42:06 +0000
+### [May 28, 1984, Forty Years Ago: Fifteen people killed by Lala Ram-Shri Ram dacoit gang in UP](https://indianexpress.com/article/opinion/40-years-ago/may-28-1984-forty-years-ago-dacoit-gang-kills-15-9355474/)
+
+The article reports on several incidents of violence and political developments in India:
+
+1. A gang named Lala Ram-Shri Ram killed fifteen people in Asta village, Etawah district. The Chief Minister and senior police officials visited the site.
+2. A CRPF sentry at Akhara Balanand near the Golden Temple complex exchanged fire with terrorists, resulting in injuries and arrests.
+3. There's a potential reshuffle in the Uttar Pradesh Congress (I) ministry and party following an election defeat, with internal tensions among ministers.
+4. Reduced violence was reported in Greater Bombay, with continued patrolling by security forces. Incidents of stabbing occurred in Bharatnagar and Kherwadi.
+5. Political commentary on the Lok Sabha Election Results 2024, with PM Narendra Modi set to be sworn in for a third term after the NDA's victory, and discussions on the formation of the next government and dissolution of the current Lok Sabha.
+
+The summary excludes unrelated content and focuses on the main events and political news.
+
+Tue, 28 May 2024 02:39:25 +0000
+### [KKR’s win is a lesson for other franchises that rely too much on big names](https://indianexpress.com/article/opinion/editorials/kkrs-trump-cards-9355425/)
+
+Kolkata Knight Riders (KKR) secured their first Indian Premier League (IPL) title in a decade, highlighting the importance of clearly defined roles for players. Without relying on Indian superstars, KKR's success was driven by Sunil Narine's unexpected performance as a top-order batsman and the team's overall high strike rates. Although they didn't have the highest wicket-taker, three of KKR's bowlers were among the top five, contributing significantly to their victory in a season marked by aggressive batting.
+
+KKR's strategy emphasized continuity and maintaining a core group, avoiding a complete team overhaul despite previous years' failures. Their investment in Mitchell Starc paid off, as he performed well in crucial moments after a shaky start. The emergence of uncapped Indian players like Vaibhav Arora, Harshit Rana, and Ramandeep Singh demonstrated the potential of lesser-known talents. Long-standing team members Narine, Varun Chakravarthy, Venkatesh Iyer, and Andre Russell proved valuable with strategic adjustments to their gameplay. KKR's approach serves as a lesson for other teams that overemphasize star power.
+
+Tue, 28 May 2024 02:32:20 +0000
+### [Rishi Sunak’s call for early polls: The last card](https://indianexpress.com/article/opinion/editorials/delhi-to-london-9355424/)
+
+British Prime Minister Rishi Sunak has called for an early election on July 4, a move seen as risky given the Conservative Party's declining popularity after 14 years in power. With 76 MPs leaving, Sunak's attempt to revitalize the party's image hasn't been very successful. Meanwhile, the Labour Party, led by Keir Starmer, is gaining ground. Starmer has moderated the party's stance, moving away from the far-left policies of his predecessor, Jeremy Corbyn. The article also discusses the positive developments in UK-India relations under the Conservative government, highlighting efforts to strengthen ties in various sectors. It notes that the Tories have avoided interfering in India's internal affairs, unlike Labour, which has faced criticism for its positions on issues like Kashmir. The piece ends by mentioning N Chandrababu Naidu's significant victory in the Lok Sabha election, which reinforces his influence in Indian politics and his expected push for Special Category State status for Andhra Pradesh.
+
+Tue, 28 May 2024 01:57:50 +0000
+### [Payal Kapadia’s Cannes win shows India’s filmmakers are willing to risk it all](https://indianexpress.com/article/opinion/editorials/not-playing-safe-9355443/)
+
+The article discusses the success of Indian artists at the Cannes International Film Festival, highlighting Payal Kapadia's Grand Prix win for her debut feature "All We Imagine As Light." It reflects on the elements that contribute to good art, emphasizing originality and the ability to tell unique stories. The article celebrates various Indian achievements at Cannes, including Anasuya Sengupta's Best Actress award, Santosh Sivan's cinematography honor, and Chidananda S Naik's La Cinef win, among others.
+
+Kapadia's win is particularly significant as it comes 30 years after Shaji N Karun's selection for Cannes, and despite her history of protest against the establishment at FTII. Her film explores themes of female friendship and the struggles of migrants. The article also notes the commercial aspect of filmmaking, mentioning Kapadia's international co-production and the market for innovative storytelling outside the mainstream profit-driven cinema.
+
+The success of Indian cinema at Cannes is seen as an opportunity to revive an ecosystem that values craft over commerce, drawing a parallel with Satyajit Ray's experience during the making of "Pather Panchali." The article concludes with unrelated content about the Lok Sabha Election Results and PM Narendra Modi's upcoming term.
+
+Mon, 27 May 2024 13:58:00 +0000
+### [Fires in Rajkot and Delhi: To get safer cities, we must demand them](https://indianexpress.com/article/opinion/columns/rajkot-delhi-fires-safer-cities-9355131/)
+
+The article discusses the recent series of man-made disasters in India, highlighting the institutional failures in urban planning and development. It critiques the current urban development practices controlled by by-laws under the National Building Code, which are meant to ensure livability, safety, and sustainability but often fall short in practice. The author points out the complexities of imposing planning orders on semi-developed areas, leading to a strained negotiation of laws to accommodate growth, often at the expense of essential spaces and public access.
+
+The article further examines how construction laws become mere checklists, failing to ensure well-being, and how public spaces are being privatized, leading to a loss of open spaces for city dwellers. It emphasizes the need for stakeholders to demand a healthy environment beyond the prescriptive adherence to laws and codes, and for institutions to periodically assess the quality of built spaces to maintain urban space quality.
+
+The writer, an Assistant Professor at the School of Environment and Architecture in Mumbai, calls for collective responsibility in creating a safe urban space, urging law makers to implement spatial codes meaningfully and city users to prioritize long-term qualitative gains over short-term quantitative advances. The article concludes by stressing the importance of fostering social and ecological sustainability in urban environments.
+
+Mon, 27 May 2024 11:24:31 +0000
+### [Lesson from IPL 2024: It’s time for T20 teams to follow KKR, SRH – and dare to go after every ball](https://indianexpress.com/article/opinion/columns/ipl-2024-lesson-t20-kkr-srh-9354886/)
+
+The article discusses the IPL final, emphasizing the pure cricketing spirit showcased by the absence of distractions like star player hero worship and nationalistic vibes. Kolkata Knight Riders (KKR) won the final against Sunrisers Hyderabad (SRH), with no Indian World Cup squad players participating. The focus was on team play and the game itself, with KKR's mentor Gautam Gambhir and SRH's captain Pat Cummins leading by example.
+
+The piece reflects on how T20 cricket has evolved to embrace a more aggressive batting approach, breaking away from conservative strategies. The introduction of the impact substitute rule has encouraged teams to adopt a 'hit-and-giggle' mentality, resulting in a more exciting and high-scoring game. Both KKR and SRH exemplified this approach, with their openers demonstrating aggressive batting even on flat pitches.
+
+Bowlers initially struggled but adapted, with bowlers like Mitch Starc making significant impacts. The article suggests that while batting-friendly pitches will continue to dominate T20, teams that dare to be aggressive and avoid getting caught up in their own myths or egos will succeed. The main takeaway is the shift towards a more fearless batting style and the importance of teams maintaining focus on the game to progress.
+
+Mon, 27 May 2024 08:48:18 +0000
+### [Payal Kapadia has won the Grand Prix at Cannes. What happens next?](https://indianexpress.com/article/opinion/columns/payal-kapadia-has-won-the-grand-prix-at-cannes-what-happens-next-9354605/)
+
+Payal Kapadia's film "All We Imagine As Light" has won the Grand Prix at the Cannes Film Festival, marking a significant achievement for Indian cinema. This win is seen as a potential game-changer, raising global awareness of India's art-house cinema. The article discusses the impact of this victory on the perception of Indian films and the challenges of gaining theatrical release in India for films that prioritize substance over star power. It highlights the struggle of independent filmmakers and the importance of such international recognition in changing the narrative around Indian cinema. The hope is that Kapadia's film and other Indian entries at Cannes will be seen by audiences in India and not just remain limited to festival circuits or streaming platforms. The article concludes with a call for these films to be given a chance to shine in their home country, reflecting a broader desire for a more diverse and rich cinematic landscape in India.
+
+Mon, 27 May 2024 07:10:14 +0000
+### [West Bengal governor writes: What global examples show — we can never be too prepared for calamities](https://indianexpress.com/article/opinion/columns/west-bengal-governor-writes-global-examples-show-can-never-be-too-prepared-for-calamities-9354416/)
+
+The article reflects on the impact of natural disasters and the human inability to fully predict or prevent them. It discusses how modern lifestyles contribute to climate change, leading to rising sea levels and potential submersion of cities. The piece recounts historical floods in the US, particularly in New Orleans, and the drastic measures taken to mitigate them. It highlights Japan's struggle with earthquakes, despite its technological advancements, and notes the country's efforts to build quake-resistant infrastructure. The article also mentions the unpredictability of earthquakes, citing the US's Parkfield Prediction Experiment as an example of the challenges in forecasting such events. It concludes with a reminder that the earth's tremors are a constant, though often subtle, presence. The writer is identified as the Governor of West Bengal, and the article ends with a brief mention of election results in Mumbai North West constituency.
+
+Mon, 27 May 2024 02:35:22 +0000
+### [ICC warrants against Israel, Hamas leaders: Powerful can be held accountable too](https://indianexpress.com/article/opinion/columns/icc-warrants-against-israel-hamas-leaders-benjamin-netanyahu-powerful-can-be-held-accountable-too-9353611/)
+
+The article discusses the International Criminal Court's (ICC) unprecedented move to request arrest warrants for Israeli and Hamas leaders on charges of war crimes and crimes against humanity. This stems from the October 7 attack on Israel and the subsequent conflict in Gaza. The ICC's jurisdiction is based on Palestine being a state party, allowing it to exercise territorial jurisdiction over crimes committed on its territory, regardless of the perpetrators' state membership. The article highlights the ICC's past challenges with prosecuting heads of state, citing cases like Omar al-Bashir and Vladimir Putin, where arrest warrants did not lead to surrender. Despite this, the request for Israeli leaders' arrest warrants is significant as it could legally and diplomatically impact Israel, restrict Prime Minister Netanyahu's international travel, and test the ICC's credibility. The authors, affiliated with Jindal Global Law School and Australian National University, express their personal views.
+
+Mon, 27 May 2024 02:30:46 +0000
+### [Import policy must be well-integrated with minimum support policy](https://indianexpress.com/article/opinion/columns/import-policy-must-be-well-integrated-with-minimum-support-policy-9353662/)
+
+The article discusses the Reserve Bank of India's (RBI) role in managing inflation and supporting India's economic growth. It highlights RBI's success in keeping inflation within the target range and contributing to financial stability by transferring a surplus to the government. The article also examines India's agricultural trade policies, noting a decline in agri-imports and questioning whether this indicates increased self-reliance. It details the significant drop in edible oil imports due to lower global prices and the doubling of pulse imports due to domestic production issues. The authors suggest that trade policy should be integrated with the Minimum Support Price (MSP) policy to protect farmers' interests and promote self-sufficiency in pulses and oilseeds. They argue for a rational trade policy that aligns with MSP and large-scale procurement by NAFED if prices fall below MSP. The article concludes that trade policy must balance farmers' and environmental interests, emphasizing the need for sustainable practices in agriculture. The authors are affiliated with ICRIER, and their views are personal.
+
+Mon, 27 May 2024 02:30:35 +0000
+### [New PhD guidelines do injustice to diversity of student body through a uniform admission process](https://indianexpress.com/article/opinion/columns/new-phd-guidelines-do-injustice-to-diversity-of-student-body-through-a-uniform-admission-process-9353661/)
+
+The article discusses the recent changes in India's education system, particularly in higher education. It highlights the diversity of educational institutions and the challenges they face, such as underfunding and the need to meet global standards. The authors critique the shift towards techno-managerial solutions, like the direct admission to PhD programs after a four-year undergraduate degree, arguing that it overlooks the importance of critical citizenship and fails to address issues of access and diversity.
+
+The article points out the inadequacies of the current model, including the rapid introduction of changes without sufficient infrastructure, faculty, or funds. The four-year undergraduate program (FYUP) is scrutinized for its focus on skills over domain specialization and the unrealistic expectations it sets for research training.
+
+The authors argue that the new guidelines for PhD admissions by the University Grants Commission ignore the diverse needs of students and institutions, and that the reliance on computer-based multiple-choice tests undermines the essence of research. They warn against the homogenization of education and the rise of cram schools due to these entrance exams.
+
+In conclusion, the article calls for a more cautious approach to educational reforms, emphasizing the need to maintain diversity and cater to the specific social needs of India. The authors, Menon and Kothiyal, are professors at Ambedkar University, Delhi. The article also briefly mentions the re-election of PM Narendra Modi and the formation of the next government.
+
+Mon, 27 May 2024 02:30:18 +0000
+### [Will Hindi belt continue to be enchanted by Hindutva despite ‘Modi fatigue’?](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-2024-will-hindi-belt-continue-to-be-enchanted-by-hindutva-despite-modi-fatigue-9353610/)
+
+The article discusses the political significance of the Hindi belt in India, highlighting its historical role in signaling major political shifts. It outlines how the region's disenchantment with Congress in 1967, 1977, and 1989 led to significant changes in the political landscape, often reflecting social realignments and protests against upper caste dominance. The BJP's rise in the 1990s and its stronghold in the Hindi belt by 2019 is attributed to the entrenchment of Hindutva politics, which resonated with the region's socio-cultural sensibilities.
+
+The article raises questions about the BJP's future electoral prospects in the Hindi belt, considering its near-complete consolidation of the Hindu vote and the challenges of increasing its support base. It also points to potential voter fatigue with Hindutva politics, despite its popularity, due to economic issues like price rise and unemployment. The author suggests that the Hindi belt's uniform political behavior could lead to a reevaluation of the BJP's performance and a search for alternatives, potentially opening up electoral competition.
+
+In summary, the Hindi belt's historical and ongoing influence on Indian politics is examined, with a focus on the BJP's dominance and the emerging challenges it faces in maintaining its electoral hold in the region. The article concludes by questioning whether the Hindi belt will continue to support Hindutva politics or begin to consider other options.
+
+Mon, 27 May 2024 02:30:14 +0000
+### [May 27, 1984, Forty Years Ago: Four persons killed in Punjab in 24 hours](https://indianexpress.com/article/opinion/40-years-ago/may-27-1984-forty-years-ago-four-persons-killed-in-punjab-in-the-last-24-hours-9353649/)
+
+The article covers several significant events:
+
+1. In Punjab, four individuals were killed in separate incidents within 24 hours. Three were victims of terrorist shootings, including a BSF constable, a Hindu Suraksha Samiti leader, and a headmaster. Additionally, a Punjab Armed Police jawan died after being attacked by a mob in Amritsar. A BSF vehicle was bombed in Gurdaspur, fatally injuring jawan Kuldip Raj.
+
+2. Political tensions are highlighted with the central government's dismissal of the Bhandari government in Sikkim, the dissolution of the state assembly, and the imposition of President's rule, actions criticized by opposition parties as part of a pattern of arbitrary dismissals of elected governments.
+
+3. The Planning Commission is considering three strategies to reduce poverty by 15 to 23 percent by the end of the Seventh Five-Year Plan in 1989-90, with a focus on poverty reduction as the major strategy for the next plan.
+
+4. In Bangladesh, the death toll from floods in Magura has risen to 175, with 22 people recently killed by lightning during a storm, which also injured 40 others.
+
+5. In Indian politics, N Chandrababu Naidu's victory in the Lok Sabha election has reinforced his importance in national politics, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Mon, 27 May 2024 02:30:12 +0000
+### [Why government should allow duty-free imports of all pulses till March 31, 2025](https://indianexpress.com/article/opinion/editorials/why-government-should-allow-duty-free-imports-of-all-pulses-till-march-31-2025-9353630/)
+
+The RBI's unprecedented surplus transfer to the Indian government has led to a decrease in 10-year government bond yields, reducing interest rates without altering the repo rate. This financial maneuver is set against a backdrop of high food inflation, which remains a concern for the RBI, especially with the uncertainty surrounding the upcoming monsoon season.
+
+The agricultural sector faced challenges in 2023-24, notably due to El Niño, which caused price hikes in essential commodities like pulses, potatoes, onions, and tomatoes. The adverse weather conditions also impacted wheat production, with procurement heavily reliant on Punjab and Haryana.
+
+Looking ahead, climate models suggest a shift from El Niño to La Niña, potentially bringing favorable rainfall. However, to mitigate food inflation and ensure sufficient supply, the government is advised to permit duty-free pulse imports until 2025 and remove the import duty on wheat. This is crucial as current grain stocks are low, and imports are necessary to supplement the domestic market.
+
+In political news, PM Narendra Modi is set to begin his third term after the NDA's victory in the Lok Sabha elections, with the Union Cabinet recommending the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha and discussing the formation of the next government.
+
+Mon, 27 May 2024 01:39:26 +0000
+### [Fire outbreaks in Delhi and Rajkot: A criminal abdication](https://indianexpress.com/article/opinion/editorials/fire-outbreaks-in-delhi-and-rajkot-a-criminal-abdication-9353613/)
+
+The article discusses two recent fire incidents in India that resulted in fatalities, including children and newborns. It criticizes the inadequate fire safety measures in Indian cities and the failure to incorporate fire preparedness into the design of public spaces and buildings. The article mentions a specific incident at a Rajkot gaming center, which lacked proper fire safety certification and had only one entry and exit route. The Gujarat High Court has responded by demanding reports on the operation of gaming centers.
+
+The article also highlights the broader issue of fire safety negligence, referencing past tragedies and the lack of adherence to the National Building Code's fire safety guidelines. It points out the deficiencies in municipal fire safety operations, including infrequent inspections and a general lack of fire safety clearances in hospitals, as revealed by a Maharashtra public health department audit.
+
+Furthermore, the article notes that urban India has less than 40% of the fire stations it needs, according to a FICCI-Pinkerton study, and emphasizes the 15th Finance Commission's recommendation for modernizing firefighting infrastructure. The article concludes by stressing the urgent need for improved fire safety in a rapidly urbanizing country.
+
+The unrelated content regarding the Lok Sabha Election Results and N Chandrababu Naidu's victory has been omitted from this summary.
+
+Sun, 26 May 2024 14:49:45 +0000
+### [Vandita Mishra writes: As election enters final phase, an Opposition question](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-final-phase-opposition-question-9353375/)
+
+The article discusses the final phase of the Indian elections, highlighting the challenges faced by the Opposition in presenting a united front against the ruling BJP. With the Congress dismissing speculation about their prime ministerial candidate, the focus is on the INDIA bloc's strategy and whether their individual campaigns can collectively challenge the BJP's dominance. The article suggests that the Opposition's lack of joint rallies and visible unity could alienate undecided voters, despite the potential of leaders like Tejashwi Yadav. It also touches on national issues such as price rise, unemployment, and farmers' discontent, which the Opposition hopes will sway voters against the BJP. The piece ends by noting new concerns in this election, including fears of constitutional changes and voter distrust in the electoral process, which could have implications regardless of the election outcome. Finally, it mentions PM Narendra Modi's expected third term after the NDA's victory.
+
+Sun, 26 May 2024 12:32:52 +0000
+### [With Prabir Purkayastha’s case, the need for police accountability underlined](https://indianexpress.com/article/opinion/columns/prabir-purkayastha-case-supreme-court-police-accountability-9353158/)
+
+The article discusses a Supreme Court judgment regarding the arrest of Prabir Purkayastha, which was declared invalid due to constitutional protections being ignored. The Court emphasized that arrest grounds must be provided at the time of arrest and communicated effectively in a language the detainee understands. The case highlights issues with police haste and procedural irregularities that often deprive individuals of personal liberty without reaching the highest court or being corrected in time.
+
+The Court applied legal provisions without being swayed by subsequent developments, such as the filing of chargesheets. The article underscores the importance of individual liberty and the need for the police and judiciary to balance this with societal order, as well as the mandatory nature of FIR registration for cognizable offenses. It critiques the culture of police behavior and the ineffectiveness of new laws in changing this, advocating for a conversation and implementation of an accountability mechanism. The writer is an advocate-on-record at the Supreme Court of India. The article also briefly mentions the re-election of PM Narendra Modi and the formation of the next government.
+
+Sun, 26 May 2024 07:25:14 +0000
+### [Faizan Mustafa writes: Why the Calcutta High Court decision on OBC reservation for Muslims raises questions](https://indianexpress.com/article/opinion/columns/faizan-mustafa-calcutta-high-court-hindu-obc-reservations-scrutiny-muslims-9352679/)
+
+The article discusses the complexities and judicial responses to reservation policies in India. It highlights the constitutional provision for social justice and the state's power to make special provisions for the underprivileged. The narrative points out that while various governments have implemented reservation policies, often due to electoral pressures, the term "appeasement" has been selectively used, particularly in cases involving Muslim backward castes.
+
+The judiciary's stance on reservation has been somewhat resistant, with significant rulings like the Indira Sawhney and M R Balaji cases setting limits and conditions for reservations. The article critically examines a recent judgment by the Calcutta High Court that struck down the inclusion of certain Muslim backward castes in the reservation list, questioning the court's reasoning and consistency with past decisions.
+
+The author argues that the court's decision overlooks precedents and the practicalities of data collection for reservation policies. It also suggests that the court failed to apply the same scrutiny to non-Muslim castes and did not fully consider the historical context of caste conversions. The article concludes by advocating for the equal treatment of Muslim backward castes in reservation policies, emphasizing that the basis for reservation should be backwardness, not religion. The writer's views are presented as personal, and the article is authored by the vice-chancellor of Chanakya National Law University, Patna.
+
+Sun, 26 May 2024 05:50:34 +0000
+### [Payal Kapadia’s Grand Prix at Cannes: ‘Weird’, wonderful and historic](https://indianexpress.com/article/opinion/columns/payal-kapadias-grand-prix-at-cannes-weird-wonderful-and-historic-9352557/)
+
+Payal Kapadia's debut feature, "All We Imagine As Light," won the Grand Prix at the 77th Cannes Film Festival, marking a significant moment for Indian cinema. The film, described as a gentle meditation on female friendship, showcases Kapadia's inventive storytelling and poetic style. Kapadia, an alumna of the Film and Television Institute of India, has been recognized for her ability to create profound narratives without relying on star power or commercial considerations.
+
+The film's selection and win at Cannes represent a break from the festival's 30-year trend of overlooking Indian filmmakers. It also reflects a shift in Indian cinema, moving away from traditional narratives driven by masculinity and violence. Kapadia's win, along with other Indian films and filmmakers gaining recognition at the festival, highlights the strength of India's art-house and indie filmmaking culture.
+
+The article also contrasts Kapadia's achievement with the Oscar-winning song 'Naatu Naatu' from the film RRR, noting the difference in scale and star power. It concludes by encouraging Indian filmmakers to pursue inventive and unique ideas, as exemplified by Kapadia's success at Cannes.
+
+Sun, 26 May 2024 03:00:13 +0000
+### [How Kurien’s idea led to the making of Manthan](https://indianexpress.com/article/opinion/columns/how-kuriens-idea-led-to-the-making-of-manthan-cammes-film-festival-9352080/)
+
+The article discusses the Indian film "Manthan," directed by Shyam Benegal, which was showcased at the 77th Cannes Film Festival. The film, shot in a Gujarat village, was India's first crowd-funded movie, with contributions from local farmers. It is a fictionalized account of the successful cooperative milk movement in India, led by Verghese Kurien, which resulted in the 'White Revolution.' The film won National Awards and was India's Oscar submission in 1977.
+
+"Manthan" has been restored and screened at Cannes, receiving a standing ovation. The restoration process was challenging due to the condition of the original print, but the result is a clear and vibrant depiction of Gujarat. The film continues to be celebrated for its role in nation-building and promoting the cooperative movement.
+
+The article also mentions the Film Heritage Foundation's efforts to preserve classic films and the upcoming release of "Manthan" in cinemas across India. Additionally, it touches on the presence of Smita Patil's family and Verghese Kurien's daughter at the Cannes screening, reflecting on the film's legacy and impact. The article concludes with a brief mention of the Lok Sabha Election Results 2024, highlighting N. Chandrababu Naidu's victory and its significance in national politics.
+
+Sun, 26 May 2024 02:40:50 +0000
+### [Government has not added jobs but graduate degrees and skills don’t mean job stability](https://indianexpress.com/article/opinion/columns/government-has-not-added-jobs-but-graduate-degrees-and-skills-dont-mean-job-stability-9352046/)
+
+The article discusses the struggles of Ravi Paikrao and Sreerag, both from Maharashtra, India. Ravi, once a top student, pursued engineering and prepared for civil services before returning to his drought-prone district. He worked in marketing and later as a network engineer in Pune, but despite a decent salary, he takes home only a small portion due to provident fund deductions and a recruitment company's commission. Disillusioned by unfulfilled government promises and the contract labor system, he struggles to support his family and parents.
+
+Sreerag, a student leader, studied in London on a scholarship but faces job uncertainty and financial instability upon returning to India. Despite having a job, he can't afford a house and considers moving abroad for better opportunities. Both men, in their mid-30s, are affected by the contract labor system and underdevelopment in their region, leading to a lack of job security and fulfillment.
+
+The article also mentions the re-election of PM Narendra Modi and the formation of the next government, without casting judgment on the political situation. It highlights the broader issue of employment and stability for educated individuals in India. Suraj Yengde, author and curator, is briefly mentioned as having returned to Harvard University. The article concludes without providing updates on the Lok Sabha Election Results 2024 or further details on Modi's upcoming term.
+
+Sun, 26 May 2024 02:40:15 +0000
+### [Tavleen Singh writes: PM Modi’s dog whistles have hurt his campaign](https://indianexpress.com/article/opinion/columns/modis-dog-whistles-have-hurt-his-campaign-9352065/)
+
+The article discusses the political dynamics between Narendra Modi and Rahul Gandhi in the context of an election campaign. It suggests that Modi's targeting of Muslims and his use of divisive language may have inadvertently helped Gandhi, who has positioned himself as a more inclusive alternative. The author criticizes Modi for focusing on religious and caste-based reservations, which they believe alienates not only Muslims but also many Hindus. The piece also critiques Gandhi's economic ideas, comparing them to failed policies that could lead India to a crisis similar to Venezuela's. It recalls past leaders who implemented caste-based policies and questions the effectiveness of such measures. The author argues for the need for skill-based education to address the issue of unemployability among Indian graduates. The article concludes by questioning Modi's understanding of secularism and suggests he could learn from the more inclusive approach that has benefited India historically. It ends with the information that Modi is set to be sworn in for a third term after the NDA's victory in the Lok Sabha elections.
+
+Sun, 26 May 2024 02:30:57 +0000
+### [Let’s talk body hair — and my health](https://indianexpress.com/article/opinion/columns/lets-talk-body-hair-and-my-health-pcos-9352033/)
+
+The article discusses the personal and societal implications of polycystic ovarian syndrome (PCOS), a condition affecting many women and individuals assigned female at birth. The author reflects on their own diagnosis at 15 and the associated fear of becoming "ugly" due to symptoms like excessive hair growth. The narrative connects this personal experience with the public trolling of Prachi Nigam, a young topper in Uttar Pradesh, who was mocked for her facial hair, leading to a wider discussion about PCOS and hirsutism.
+
+The article criticizes the societal obsession with beauty, particularly the pressures on women to conform to certain standards, often overshadowing more serious health concerns associated with PCOS. It highlights the lack of understanding and empathy in the medical community towards women and gender non-conforming individuals, emphasizing that PCOS is not just a cosmetic issue but a chronic health condition with potential comorbidities like anxiety, depression, and increased risk of several diseases.
+
+The author questions why societal discussions about women's health often start and stop at beauty, ignoring the significant impact conditions like PCOS have on individuals' quality of life. The article concludes by pondering whether society would pay as much attention to PCOS if the symptoms did not affect appearance, suggesting that the health of individuals like Nigam might not be a concern if they conformed to beauty standards.
+
+Sun, 26 May 2024 02:30:47 +0000
+### [P Chidambaram writes | Two markers: caste and inequality](https://indianexpress.com/article/opinion/columns/congress-manifesto-caste-and-inequality-lok-sabha-elections-youth-women-poor-income-inequality-9352062/)
+
+The article reflects on the stark contrasts within Indian society, highlighting the visible yet often ignored signs of poverty and inequality. It points out the commonplace sights of homelessness in Kolkata, child labor in Delhi, and the struggle for livelihood in parched lands, questioning why these issues don't provoke more inquiry and action.
+
+The Congress manifesto for the LS 2024 elections acknowledges India's economic growth over the past three decades, which has led to a burgeoning middle class, consumer goods abundance, and improved infrastructure. However, it also emphasizes that this 'shining India' fails to mask the underlying issues of poverty and inequality.
+
+The article cites UNDP's poverty line and the World Inequality Lab's findings to illustrate the economic disparity, where the bottom 50% of the population owns only 3% of the national wealth. It also discusses the caste-based social hierarchy that aligns with economic status, where the SC and ST communities are among the poorest.
+
+The piece contrasts this with the wealth of the top 10% of the population, who earn a majority of the national income, and the sale of luxury cars and political donations by the wealthy, questioning the narrative of self-reliance and progress touted by the current government.
+
+The article argues that unless political parties recognize caste and inequality as the two main issues in Indian politics and economy, efforts to address poverty, discrimination, and oppression will fall short. The Congress manifesto aims to pivot towards the poor and marginalized, challenging the BJP's development narrative and promising reforms for SC, ST, OBC, youth, and women.
+
+The article concludes by suggesting that the upcoming elections will be a battle between maintaining the status quo and seeking change, urging readers to await the results with anticipation. It omits unrelated content, such as the anecdote about comedian Sunil Pal and actor SRK, focusing solely on the socio-political commentary.
+
+Sat, 25 May 2024 12:10:11 +0000
+### [India stares at a steep cyber crime challenge. Is it prepared?](https://indianexpress.com/article/opinion/columns/india-cyber-crime-challenge-9351602/)
+
+The article discusses India's significant strides in digital technology adoption over the last decade, which has led to challenges in cybersecurity. It highlights the dangers of deep fake videos, particularly in the context of elections, citing an incident involving a manipulated video of Amit Shah. The piece also references the Cambridge Analytica scandal and financial cyber frauds in India, which amounted to substantial losses in 2023.
+
+To combat these issues, India has developed a comprehensive institutional framework, with the Ministry for Electronics and Information Technology (MeitY) and the Ministry of Home Affairs at the forefront. The latter has introduced three new criminal laws in 2023 to modernize India's legal system and address cybercrime threats. These laws allow for electronic FIRs and treat electronic records as primary evidence, facilitating better evidence collection and presentation in cybercrime cases. However, the article notes the importance of safeguarding this digital evidence and protecting individuals' privacy rights. The writer of the article is the CEO of Indiatech.org.
+
+Sat, 25 May 2024 10:49:28 +0000
+### [View from Pakistan: What a third term for Modi would mean for India](https://indianexpress.com/article/opinion/columns/modi-third-term-pakistan-view-9351460/)
+
+The article discusses the potential outcomes and implications of the recent elections in India, with a focus on the possibility of Narendra Modi securing a third term as Prime Minister. It highlights a perceived lack of enthusiasm among BJP voters and concerns over Modi's handling of pressing issues, suggesting that economic growth has been slower than expected under his leadership. The narrative also touches on allegations of voter suppression and manipulation, and the passage of the controversial Defamation Bill 2024 in Punjab, which has been criticized for potentially stifling free speech.
+
+Internationally, the article covers the issuance of arrest warrants by the ICC against Hamas leaders and Israeli officials, including President Netanyahu, for crimes against humanity and war crimes, leading to varied reactions and discussions on accountability and adherence to international law.
+
+In Pakistan, there is public outrage over NEPRA's proposal to charge customers extra to recover unpaid dues from defaulters, with calls for the government to hold defaulters accountable instead of passing the burden onto the public.
+
+Lastly, it mentions N Chandrababu Naidu's significant victory in the Lok Sabha election, which has strengthened his political influence and his expected push for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Sat, 25 May 2024 09:12:08 +0000
+### [In Bridgerton, a plus-size body is finally the object of desire](https://indianexpress.com/article/opinion/columns/bridgerton-plus-size-body-object-desire-9351365/)
+
+The article by Niharika Nanda is a personal reflection on the representation of plus-size women in media, particularly in the Netflix series Bridgerton. Nanda shares her experiences growing up as a plus-size woman in an Indian household and the challenges of not fitting into societal standards of beauty. She discusses how Bridgerton's third season gave her hope and confidence by portraying Penelope Featherington, a plus-size character, as desirable and sexy. The show's depiction of Penelope's journey to self-acceptance and the breaking of stereotypes around plus-size women's desirability resonated with Nanda. She highlights actress Nicola Coughlan's role in empowering plus-size women by choosing to show her body on camera. Nanda concludes that Bridgerton's representation is a significant moment for plus-size women, promoting self-realization and healing by showing them as beautiful, sexy, and the object of their own desires.
+
+Sat, 25 May 2024 07:41:05 +0000
+### [Pune Porsche crash: It’s not enough to crack down on underage drinking](https://indianexpress.com/article/opinion/columns/pune-porsche-crash-underage-drinking-9351252/)
+
+The article discusses the serious issue of underage drinking and driving, highlighted by a tragic incident in Pune where two young engineers lost their lives due to a 17-year-old driving under the influence. It critiques the culture of drinking in India, especially among the youth, and the lax enforcement of legal drinking age limits. The author compares this with other countries where there are more open conversations about alcohol consumption and informal measures to ensure safety, such as the 'Ask for Angela' campaign in the UK and the 'Angel Shot' initiative in the US. The piece argues for the need to have open dialogues about drinking, accountability, and safety measures in India, rather than treating alcohol as a taboo subject. It suggests that acknowledging the reality of underage drinking and educating young people on its effects and safety could be more effective than strict legal penalties. The article concludes by emphasizing the role of the community in fostering these discussions and providing support.
+
+Sat, 25 May 2024 03:00:19 +0000
+### [May 25, Forty Years Ago: Sikkim MLAs Quit](https://indianexpress.com/article/opinion/editorials/may-25-forty-years-ago-sikkim-mlas-quit-9350549/)
+
+The article covers several significant developments:
+- In Sikkim, 15 MLAs, including former Chief Minister Nar Bahadur Bhandari, resigned from the Congress (I) to form a new regional party, the Sikkim Sangram Parishad, leaving the current government in a minority.
+- Pakistan President Gen Ziaul Haq expressed optimism about achieving peace with India, stating that it would be easy if there's political will, and mentioned efforts to promote peace through media and exchanges.
+- In Punjab, terrorists killed eight people in a car near Tehri village, with seven dying on the spot and one later in the hospital; another person was seriously injured.
+- Prime Minister Indira Gandhi addressed the Akali threat of a grain blockade in Punjab, warning it would worsen the situation, and emphasized the high morale of the police in capturing terrorists.
+- It was announced that Prime Minister Narendra Modi will be sworn in for a third term on June 8, following the NDA's majority win in the Lok Sabha elections, with the Union Cabinet recommending the dissolution of the current Lok Sabha for the formation of the 18th Lok Sabha and the next government.
+
+Sat, 25 May 2024 02:43:34 +0000
+### [When Kafka played truant](https://indianexpress.com/article/opinion/editorials/when-franz-kafka-played-truant-novels-books-9350548/)
+
+The article discusses a new exhibition titled "Kafka: Making of an Icon" at Oxford's Bodleian Library, which aims to challenge the somber image of Franz Kafka. The exhibition, marking Kafka's death centenary in 2024, showcases documents that reveal Kafka's sense of humor and capacity for laughter, contrasting with the existential dread often associated with his works. It includes a humorous sick leave application to his employer and anecdotes from his friend Max Brod, who, despite Kafka's wishes, preserved his papers after his death. The article suggests that Kafka's portrayal of alienation might be an overinterpretation, highlighting the absurdity in his novella "The Metamorphosis," where the protagonist imagines himself as a monstrous insect.
+
+Sat, 25 May 2024 02:42:30 +0000
+### [China’s military exercises around Taiwan: Power play at sea](https://indianexpress.com/article/opinion/editorials/taiwan-china-relations-chinas-military-exercises-around-taiwan-power-play-at-sea-9350531/)
+
+The article discusses China's military exercises around Taiwan, which are seen as a demonstration of power and a potential prelude to annexation. These drills, involving various military branches, have included mock missile strikes and are a response to the election of Lai Ching Te from Taiwan's Democratic Progressive Party, which Beijing views as separatist. While such exercises have occurred in the past, the article suggests that China's actions may go beyond mere intimidation, as President Xi Jinping has not dismissed the use of force for Taiwan's "re-unification" with China. Additionally, the article highlights China's broader territorial ambitions in the South China Sea and the Indo-Pacific, which have alarmed neighboring states. The situation calls for vigilance from regional and global powers. The article also briefly mentions N Chandrababu Naidu's electoral victory in India, which has implications for national politics and the Special Category State status for Andhra Pradesh.
+
+Sat, 25 May 2024 02:30:05 +0000
+### [Explosion in chemical unit in Thane: After the blaze](https://indianexpress.com/article/opinion/editorials/explosion-in-chemical-unit-in-thane-after-the-blaze-9350536/)
+
+The article discusses a chemical factory fire in Thane, Maharashtra, which resulted in 11 deaths and over 60 injuries. The factory, which produced food coloring, used highly reactive chemicals and operated a boiler that was not registered under the Indian Boiler Act, 1950. This incident has prompted an investigation and a promise of strict action from Chief Minister Eknath Shinde.
+
+The article highlights that this is not the first safety incident in the Thane industrial complex, citing previous accidents in 2016, 2018, 2020, and 2023. It criticizes the government's response to shut down or relocate hazardous units as a knee-jerk reaction that could cause economic and livelihood disruptions. Instead, it suggests enforcing industrial safety and environmental regulations.
+
+India's chemical sector is significant, contributing to various industries and employing over two million people. Despite this, the article points out that the country lacks specific legislation for the chemical industry, leading to ineffective regulation and corruption. The National Disaster Management Authority (NDMA) identifies regulatory gaps and reports 130 chemical accidents in the past decade, with over 250 fatalities.
+
+The article calls for a comprehensive database of chemicals and associated risks, noting that past tragedies like the Bhopal Gas Tragedy have not led to substantial improvements in industrial safety. It concludes by emphasizing the need for better regulation and safety investment in a rapidly industrializing country like India. The unrelated content regarding the Lok Sabha Election Results 2024 and N Chandrababu Naidu's victory has been omitted from this summary.
+
+Sat, 25 May 2024 01:43:41 +0000
+### [What do PM Modi, Mamata Banerjee, Rahul Gandhi, and Taylor Swift have in common?](https://indianexpress.com/article/opinion/columns/what-do-pm-modi-mamata-banerjee-rahul-gandhi-and-taylor-swift-have-in-common-9350552/)
+
+The article discusses the impact of "deep fake" videos, particularly in the context of elections and legal consequences. It highlights the use of AI to create convincing forgeries that misrepresent individuals, a concern that has grown with the approach of election season in India. The Election Commission of India has advised political parties to ethically manage social media content, and legal provisions under the Indian Penal Code and Information Technology Act are mentioned as means to address the misuse of deep fakes. However, these laws are not fully equipped to combat AI-generated misinformation or foreign interference in elections. The article also references warnings from the Microsoft Threat Analysis Centre about potential AI-generated content influencing elections in India, South Korea, and the US. It concludes with the need for India to develop new legal frameworks to address the challenges posed by AI and deep fakes in electoral processes. Additionally, it mentions N Chandrababu Naidu's significant victory in the Lok Sabha election, which positions him as an influential figure in national politics, expected to advocate for Special Category State status for Andhra Pradesh.
+
+Sat, 25 May 2024 01:37:46 +0000
+### [Ram Madhav writes: RSS is committed to nation building – not politics](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-rss-is-committed-to-nation-building-not-politics-9350553/)
+
+The article discusses the Rashtriya Swayamsevak Sangh's (RSS) stance on politics and its historical interactions with political entities in India. It highlights the RSS's commitment to social unity and its constitutional declaration of staying apolitical, allowing members to join political parties that do not resort to violence or secrecy. The article recounts attempts to involve the RSS in politics, such as Sardar Patel's invitation to join Congress after Gandhi's assassination and the RSS's support for the Janata Party during the Emergency to protect democracy. Despite occasional disagreements and speculation, the RSS has largely remained detached from active politics, except for a strategic intervention in 2014 elections. The RSS views politics as vital for societal health and encourages good governance but maintains its primary focus on nation-building activities, reflecting its founder M.S. Golwalkar's sentiment of keeping a distance from politics. The writer, associated with the RSS, emphasizes the organization's influence on Indian social life without directly engaging in politics.
+
+Fri, 24 May 2024 11:45:57 +0000
+### [The harmful truth behind ‘elaichi’ ads during the IPL](https://indianexpress.com/article/opinion/columns/ipl-elaichi-ads-harmful-truth-9349805/)
+
+The article discusses the prevalence of surrogate advertising in the Indian Premier League (IPL), particularly for products like elaichi and masala, which are often associated with oral tobacco. It highlights the ethical concerns of such advertisements and the impact of tobacco consumption in India. The author notes that while smoking has been the focus of public health discussions, smokeless tobacco is the primary form of consumption in India, leading to high rates of mouth cancer. Despite bans on certain tobacco products, addiction to nicotine remains a significant challenge. The article emphasizes the importance of education and prevention, especially among the youth, to reduce tobacco use and its devastating health consequences. The author, a professor of Head-Neck Oncology at AIIMS New Delhi, calls for role models to promote anti-tobacco messages to protect the health of future generations. The article concludes with unrelated information about the Lok Sabha Election Results 2024 and the re-election of PM Narendra Modi.
+
+Fri, 24 May 2024 11:18:13 +0000
+### [Naseeruddin Shah writes: High point of Cannes was seeing ‘Manthan’ again in a theatre](https://indianexpress.com/article/opinion/columns/naseeruddin-shah-manthan-cannes-screening-9349687/)
+
+The article is a personal account from an actor and author reflecting on their experiences during and after the making of Shyam Benegal's film "Nishant". Despite the film's success, the author felt overlooked until they were cast in a new film sponsored by the Gujarat Cooperative Milk Marketing Federation. The narrative details the author's journey from feeling undervalued to finding hope in their career, including anecdotes about the filming process, learning to tie a turban, and the importance of eyes in acting. The author also shares a moment of validation when watching the film among an audience that received it well. The piece concludes with the author's experience at Cannes, feeling out of place amidst the festival's frenzy but also nostalgic when watching "Manthan" again. The article ends with a brief mention of N Chandrababu Naidu's victory in the Lok Sabha election, emphasizing his political significance.
+
+Fri, 24 May 2024 08:28:47 +0000
+### [President Ebrahim Raisi’s death will jeopardise Iran’s attempts to build alliances against Israel](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-will-jeopardise-irans-attempts-to-build-alliances-against-israel-9349363/)
+
+The article discusses the geopolitical implications of the death of Iranian President Ebrahim Raisi in a helicopter crash. It highlights Iran's recent efforts to strengthen alliances with non-Arab neighbors like Pakistan and Azerbaijan to counterbalance Israel's influence in the Middle East. These efforts were part of a broader strategy to rally regional support against Israel and to alleviate economic sanctions from the West. The article notes that Raisi's death jeopardizes these strategic efforts, creating a leadership vacuum and potentially causing instability in Iran's foreign policy. It also mentions the strategic importance of Iran's relationships with Pakistan and Azerbaijan, both of which have been complicated but are essential for Iran's regional strategy. The author, a senior IPS officer with expertise in security studies, emphasizes that these alliances are crucial for Iran's attempt to create a robust network of allies against Israel's geopolitical moves. The unexpected loss of President Raisi could weaken Iran's position and disrupt plans for a regional anti-Israel alliance. The views expressed in the article are the author's personal opinions.
+
+Fri, 24 May 2024 01:45:35 +0000
+### [Derek O’Brien writes: A fictional BJP manifesto for the year 2034](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-a-fictional-bjp-manifesto-for-the-year-2034-9348303/)
+
+The article is a satirical piece set in the year 2034, touching upon various fictional events and achievements. It mentions Virat Kohli managing the Indian cricket team, Shah Rukh Khan receiving a lifetime achievement award, and the T-10 cricket league's popularity. Elon Musk sends a manned spacecraft to Mars, Diljit Dosanjh wins a Grammy, and Jhumpa Lahiri receives the Nobel Prize for Literature. The main focus is on the BJP Election Manifesto 2034, which humorously claims to fulfill promises like depositing Rs 15 lakh in every citizen's account, launching new bullet trains, doubling farmers' income, and setting up a National Wax Museum called NaMom. It also pokes fun at the concept of women's reservation and the historic demonetisation event of 2016. The article concludes by reminding readers not to take the election rhetoric too seriously and to enjoy a laugh, noting that it's a work of fiction by the writer, an MP and leader of the All India Trinamool Congress Parliamentary Party. The unrelated content about Shah Rukh Khan and comedian Sunil Pal is omitted from the summary.
+
+Fri, 24 May 2024 01:40:27 +0000
+### [What Sanjay Leela Bhansali’s films have that other Bollywood films don’t](https://indianexpress.com/article/opinion/columns/on-centring-women-sanjay-leela-bhansali-is-ahead-of-mainstream-bollywood-9348301/)
+
+The article discusses the portrayal of women in Sanjay Leela Bhansali's works, highlighting how he presents them as beautiful and strong, using their beauty as armor against a harsh world. In his new series "Heeramandi: The Diamond Bazaar," Bhansali continues this theme, showing women who are not only visually stunning but also complex characters with ambitions and emotions. The piece argues that Bhansali's films offer a narrative space for women that is rare in mainstream Hindi cinema, contrasting with male-dominated films. It praises Bhansali for consistently empowering women through representation in his films, such as "Gangubai Kathiawadi," which was successful without a male star of equal stature. The article suggests that Bhansali's approach to female-centric storytelling challenges the notion that only male-led films are financially viable, contributing to the discourse on gender representation in Bollywood.
+
+Fri, 24 May 2024 01:30:31 +0000
+### [Sanjay Leela Bhansali focuses on women — he just doesn’t understand them](https://indianexpress.com/article/opinion/columns/sanjay-leela-bhansali-focuses-on-women-he-just-doesnt-understand-them-9348302/)
+
+The article critiques the portrayal of women in the films of director Sanjay Leela Bhansali, particularly in his latest OTT series "Heeramandi: The Diamond Bazaar." It argues that Bhansali's heroines are often depicted as trapped in "gilded cages," dreaming of freedom while being confined by male-dominated narratives. The author suggests that Bhansali's films, despite their adaptations from literature, fail to offer a nuanced or liberating portrayal of women, instead presenting them as one-dimensional objects of beauty and desire. The article questions Bhansali's interpretation of female emancipation and agency, pointing out that his films tend to internalize misogynistic tropes where women are pitted against each other. It calls for a reimagining of agency in cinema that allows for flawed characters and shows women creating spaces for each other, moving beyond superficial beauty to reveal deeper qualities. The author concludes that Bhansali's films center women in their narratives but fall short of being feminist flag-bearers.
+
+Fri, 24 May 2024 01:20:36 +0000
+### [From Rakesh Sharma to Gopi Thotakura’s paid space flight: Bookends of change](https://indianexpress.com/article/opinion/editorials/from-rakesh-sharma-to-gopi-thotakuras-paid-space-flight-bookends-of-change-9348338/)
+
+The article reflects on the evolution of space travel from a symbol of national pride and Cold War competition to a commercial experience available to those with financial means. It contrasts the journeys of Rakesh Sharma, the first Indian in space, who flew on a Soviet spacecraft in 1984, with that of Gopi Thotakura, an Indian-origin entrepreneur who recently participated in a private space flight with Blue Origin. Sharma's voyage is portrayed as a courageous act of exploration, while Thotakura's trip, though significant, is likened to an amusement park ride, suggesting a shift from state-sponsored to privately-funded space travel. The article suggests that while space travel has become more accessible, it may have lost some of its earlier grandeur and sense of ambition.
+
+Fri, 24 May 2024 01:15:28 +0000
+### [May 24, 1984, Forty Years Ago: Bachendri On Everest](https://indianexpress.com/article/opinion/40-years-ago/may-24-1984-forty-years-ago-bachendri-on-everest-9348336/)
+
+Bachendri Pal, a 28-year-old economics lecturer, became the first Indian woman to summit Mount Everest, accompanied by two colleagues and followed shortly by another team member. They spent 43 minutes at the peak. In Bombay, the army was deployed due to violence, with a mob attack leading to casualties and arrests. Media associations in Punjab pledged to uphold press freedom despite threats and violence, emphasizing the importance of unbiased reporting and communal harmony. In political news, N Chandrababu Naidu's electoral victory has strengthened his influence, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation but delayed due to financial issues.
+
+Fri, 24 May 2024 01:15:23 +0000
+### [Pune Porsche crash: No to mob justice](https://indianexpress.com/article/opinion/editorials/pune-porsche-crash-no-to-mob-justice-9348335/)
+
+The article discusses a tragic accident in Kalyani Nagar, Pune, where two individuals were killed by a car driven by an allegedly intoxicated 17-year-old. The minor was released on bail with conditions to assist traffic police and write an essay about the incident, leading to public outrage. The case has raised concerns about potential miscarriage of justice due to the accused's privileged background, with his father being a prominent realtor. The police have taken action against the father and establishments that served alcohol to the minor. The article calls for a broader conversation on underage drinking and driving, emphasizing the need for more preventive measures in a country where over half the population is under 25. It also briefly mentions N Chandrababu Naidu's victory in the Lok Sabha election, which has strengthened his political influence and his push for Special Category State status for Andhra Pradesh.
+
+Fri, 24 May 2024 01:05:39 +0000
+### [Fund transfer from RBI to Centre: The next government’s task](https://indianexpress.com/article/opinion/editorials/fund-transfer-from-rbi-to-centre-the-next-governments-task-9348304/)
+
+The Reserve Bank of India's central board has approved a significant surplus transfer of Rs 2.1 lakh crore to the central government, which is more than double the earlier budget estimate. Additionally, the RBI's contingency risk buffer has been increased to 6.5% of its balance sheet. The surplus, higher than anticipated, could result from increased interest income from the RBI's assets and forex transactions, providing fiscal room for the next government. This additional space, about 0.4% of GDP, could be used to reduce the fiscal deficit more than planned or to boost capital expenditure. The government has been on a path of fiscal consolidation, aiming to reduce the deficit to below 4.5% by 2025-26, and has increased capital expenditure over the years. The article also mentions N. Chandrababu Naidu's electoral win, which strengthens his political influence and his expected push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 16:43:37 +0000
+### [Ex-Election Commissioner Ashok Lavasa writes: A message on the Model Code of Conduct for leaders – from Mahabharata and beyond](https://indianexpress.com/article/opinion/columns/model-code-and-morality-9348233/)
+
+The article discusses the philosophical and practical aspects of truth in the context of the Election Commission of India (ECI) and its Model Code of Conduct (MCC). It reflects on the national motto "Satyameva Jayate" and the role of the ECI in ensuring fair elections. The MCC is designed to prevent undue influence on voters and promote ethical behavior among political parties and candidates. The article critiques the effectiveness of the MCC, citing legal loopholes that allow for manipulation of the law and questioning the moral versus model nature of the code. It also touches on the deeper implications of morality in law and ethics, as highlighted by philosophers like Immanuel Kant. The writer, a former Election Commissioner, calls for a reevaluation of the MCC and a collective moral introspection to preserve the integrity of the democratic process. The article concludes with a mythological reference to the Mahabharata, drawing parallels between the story's moral dilemma and contemporary electoral ethics.
+
+Thu, 23 May 2024 12:58:06 +0000
+### [Sagarika Ghose writes: ‘What is your rate’ — how BJP taps nari shakti in Didi’s Bengal](https://indianexpress.com/article/opinion/columns/sagarika-ghose-bjp-insult-women-politicians-9347779/)
+
+The article discusses the challenges faced by women in Indian politics, focusing on the experiences of Mamata Banerjee, the leader of the All-India Trinamool Congress. Despite her achievements as a three-time chief minister and her resilience against abuse, Banerjee and other women politicians face misogyny and disrespect. The article criticizes the BJP for its hypocrisy regarding women's empowerment, highlighting instances of derogatory remarks made by BJP leaders against women, including Banerjee. It also points out the disparity in the number of tickets given to women by the BJP compared to the Trinamool Congress in the Lok Sabha polls and the tokenistic roles assigned to high-profile women ministers in the Modi government.
+
+The author argues that Banerjee's self-made success and her commitment to serving people make her a more compelling leader than Narendra Modi, who had the support of the RSS and Sangh Parivar. The article concludes by emphasizing the growing importance of the woman voter in elections, despite the ongoing misogyny faced by women politicians. The writer identifies as a Member of Parliament from the All India Trinamool Congress. Additionally, there's a mention of N. Chandrababu Naidu's victory in the Lok Sabha election, which has strengthened his political influence and his expected push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 10:00:22 +0000
+### [Memories of earlier elections – and how this one is marked by new lows](https://indianexpress.com/article/opinion/columns/elections-memories-this-polls-new-lows-9347175/)
+
+The article reflects on the evolution of election coverage and political strategies in India, contrasting the simpler times of past elections with the complex landscape of the 18th Lok Sabha elections. It highlights the normalization of party defections, the aggressive political rhetoric, and the adoption of novel campaign tools like roadshows and "guarantee cards." The piece also discusses the increasing role of religiosity in politics, the critique of dynasty politics, and the contentious use of law enforcement agencies for political ends. It points out the deep divisions within the political sphere and society, evidenced by public statements from various groups and the involvement of the judiciary. The author, Raman, concludes by noting the significant victory of N Chandrababu Naidu in the Lok Sabha election, which has reinforced his influence in national politics and his push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 07:57:42 +0000
+### [From Shah Rukh Khan and Gautam Gambhir a lesson for all IPL owners](https://indianexpress.com/article/opinion/columns/ipl-2024-shah-rukh-khan-guatam-gambhir-9346861/)
+
+The article describes Shah Rukh Khan's heartfelt involvement with his IPL team, Kolkata Knight Riders (KKR), highlighting his emotional connection with the team's ups and downs. After KKR's recent win that led them to the IPL finals, Khan's respectful interruption of a post-match TV show and his subsequent apologies went viral, showcasing his humility. The piece reflects on Khan's philosophy of respecting professional boundaries and not micromanaging, a sentiment echoed by KKR's mentor Gautam Gambhir in a conversation with cricketer R Ashwin. Gambhir, who has led KKR to past victories and faced his own professional challenges, is praised for his role in nurturing players like Sunil Narine and Andre Russell, contributing significantly to KKR's success this season. The article concludes by emphasizing the importance of mutual respect and pride in performance within sports teams, drawing a parallel to good organizational culture.
+
+Thu, 23 May 2024 01:40:54 +0000
+### [From Kautilya to Immanuel Kant: Lessons for a world at war](https://indianexpress.com/article/opinion/columns/from-kautilya-to-immanuel-kant-lessons-for-a-world-at-war-9345788/)
+
+The article reflects on the 300th birth anniversary of Immanuel Kant, emphasizing his enduring influence and the relevance of his ideas in contemporary times. Kant, who never left his hometown of Königsberg, is celebrated as a "world citizen" with both Russia and Germany claiming his legacy. His works, such as "Critique of Pure Reason" and "Perpetual Peace," are revisited in the context of today's dysfunctional multilateral order, where he stands against imperialism, colonialism, and slavery, advocating for open trade, immigration, and the concept of a world citizen.
+
+The piece highlights the ongoing relevance of Kant's rationality and ethics, especially against the backdrop of the UN's list of Non-Self-Governing Territories, which represents a decolonization agenda yet to be completed. It discusses how Kant's vision of "perpetual peace" contrasts with the current global landscape, including the UN's structure, the influence of global entities and individuals, and the threat of modern warfare and technology.
+
+The author argues that Kant's ideas resonate in a world where narratives often distort reality, and the standards for assessing democratic integrity are inconsistent. The article critiques the self-serving rationale of major powers and the skepticism towards the "Rule of Law" by less privileged nations.
+
+It concludes by highlighting India's rediscovery of its strategic culture rooted in ethics, as seen in its ancient epics and texts like the Arthashastra and Tirukkural. India's G20 Presidency motto, "One Earth, One Family, One Future," inspired by the concept of Vasudhaiva Kutumbakam, is presented as a step towards integrating Kant's philosophy with ancient teachings to guide international relations towards a moral future. The writer's views are personal and not reflective of the institute's official stance. The article also briefly mentions N. Chandrababu Naidu's victory in the Lok Sabha election, which has implications for national politics and the Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 01:37:36 +0000
+### [Droupadi Murmu on ecology: To preserve forests, it’s important to listen to tribal communities](https://indianexpress.com/article/opinion/columns/droupadi-murmu-on-ecology-to-preserve-forests-its-important-to-listen-to-tribal-communities-9345783/)
+
+The article is a summary of President Droupadi Murmu's speech at the convocation of the 2022 batch of Indian Forest Service (IFS) officers. She congratulates the officers, especially the women, and emphasizes the importance of forests and the environment, as highlighted by a recent Supreme Court ruling. The President urges the officers to be nature-centric and to learn from the tribal communities, who have lived in harmony with nature for centuries. She also calls for the integration of traditional knowledge and modern science to address climate change and forest conservation. The speech reflects on the historical exploitation of India's forests and the need for IFS officers to protect forest wealth and tribal rights. The President encourages the officers to become role models and to uphold the values of the Constitution in their service.
+
+Thu, 23 May 2024 01:20:44 +0000
+### [The growing cost of climate change](https://indianexpress.com/article/opinion/editorials/the-growing-cost-of-climate-change-9345786/)
+
+The article discusses the economic impact of global warming, citing a working paper by the National Bureau of Economic Research (NBER) which suggests that global GDP could have been 37% higher without the warming observed from 1960 to 2019. The paper emphasizes that the economic costs of climate change are significantly higher than previous estimates. It also references another study predicting a substantial decrease in average incomes due to climate change within the next 26 years. Both studies argue that the costs of transitioning from fossil fuels are much lower than those resulting from global warming.
+
+The article also highlights the vulnerability of certain ecosystems, such as drylands and rangelands, to climate change. It notes that over 50% of these ecosystems are degraded and underscores the importance of pastoral communities in India, who rely on these ecosystems for their livelihoods.
+
+Furthermore, the article points out the need for global climate policy to focus not only on mitigating climate change but also on building resilience against its effects, such as heat waves, floods, and droughts. It mentions that adaptation efforts are underfunded and stresses the importance of addressing this issue in future climate funding discussions, particularly at the upcoming Conference of the Parties (CoP) in Baku, Azerbaijan.
+
+Thu, 23 May 2024 01:18:50 +0000
+### [Booker Prize winner Jenny Erpenbeck chronicles the conflicting nature of truth](https://indianexpress.com/article/opinion/editorials/booker-prize-winner-jenny-erpenbeck-chronicles-the-conflicting-nature-of-truth-9345787/)
+
+The article discusses the impact of the fall of the Berlin Wall on German writer Jenny Erpenbeck and how it shaped her literary work. Erpenbeck, who experienced the event at age 22, incorporates themes of political and personal transition in her novels. Her fourth novel, "Kairos," won the International Booker Prize, making her the first German to do so and solidifying her as a significant contemporary European writer. Her works, including "Visitation" and "Go, Went, Gone," explore the effects of political events on individual lives, weaving in historical details and the complexities of truth. Erpenbeck's writing confronts the past's guilt, shame, and violence, addressing current issues like migration and authoritarianism. The article also briefly mentions N Chandrababu Naidu's victory in the Lok Sabha election, which is unrelated to the main content about Erpenbeck.
+
+Thu, 23 May 2024 01:15:40 +0000
+### [Economic growth is better than expected, but pain points remain](https://indianexpress.com/article/opinion/editorials/economic-growth-is-better-than-expected-but-pain-points-remain-9345784/)
+
+The article discusses the economic growth of India, highlighting a positive outlook with the National Statistical Office revising its growth estimate for 2023-24 from 7.3% to 7.6%. Analysts anticipate even higher growth, with the RBI report suggesting a 7.5% growth in the first quarter of the financial year, exceeding the central bank's previous 7.1% prediction. The full-year growth projection is 7%, which is about twice the global average. Indicators such as GST e-way bills, toll collections, steel consumption, and cement production show strong performance, and rural spending is recovering, with rural FMCG demand surpassing urban in the first quarter. Challenges remain, including sluggish merchandise export growth, lack of broad-based private investment, and job and wage concerns. Inflation shows a split, with food inflation at 7.9% and core inflation at 3.2% in April. The report suggests inflation alignment with the central bank's target may resume in the second half of the year. The upcoming national election results, the formation of a new government, the RBI's monetary policy committee meeting, and the Union budget presentation will influence India's future growth trajectory. Additionally, N Chandrababu Naidu's electoral victory strengthens his role in national politics, with expectations for him to advocate for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 01:06:08 +0000
+### [May 23, 1984, forty years ago: Riots in Bombay, a heatwave in Delhi and a coup in Pakistan](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-riots-in-bombay-a-heatwave-in-delhi-and-a-coup-in-pakistan-9345836/)
+
+The article reports on a series of violent incidents and developments in South Asia:
+
+1. In Punjab, India, there has been a surge in terrorist activities resulting in 17 deaths, numerous injuries, and a robbery of Rs 87,000. A curfew was imposed in Mansa, Bhatinda district, following the violence, which included the targeted killing of four bus passengers near Moga.
+
+2. In Pakistan, General Zia-ul-Haq, the military ruler, reportedly survived a coup attempt. Top leaders of the Pakistan People’s Party (PPP) in exile claim that a high-ranking general involved in the plot has been arrested, along with the Governor of Sind, Gen Abbasi.
+
+3. In the Indian localities of Bombay and Thane, new outbreaks of violence have occurred, with criminal elements exploiting the situation. This resulted in several deaths in Mulund and Bhayandar, and police had to intervene with gunfire in Kherwadi and Jogeshwari.
+
+4. A severe heatwave across northern, central, and southern India has led to additional fatalities in Bihar, with the death toll reaching 33. Champa town in Madhya Pradesh recorded a high temperature of 47 degrees Celsius for the third consecutive day.
+
+The article also includes a personal anecdote from comedian Sunil Pal about Bollywood star Shah Rukh Khan (SRK), highlighting his humility and respectful behavior towards fellow artists during a tour in Singapore. 
+
+Please note that any unrelated content or advertisements present in the original article have been omitted from this summary.
 
 Wed, 22 May 2024 12:02:01 +0000
 ### [Shyam Saran writes: Amid President Ebrahim Raisi’s death, Israel war, India’s reconnect with Iran](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-israel-war-india-iran-9345099/)
