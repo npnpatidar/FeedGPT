@@ -1,3 +1,28 @@
+Fri, 07 Jun 2024 08:19:58 +0000
+### [5 charts that explain the new Lok Sabha’s average age, profession, education levels and more](https://indianexpress.com/article/explained/new-lok-sabha-age-profession-education-9377639/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 06:20:40 +0000
+### [Why has RBI policy panel kept repo rate unchanged, hiked GDP growth projection?](https://indianexpress.com/article/explained/explained-economics/rbi-mpc-repo-rate-unchanged-gdp-forecast-9377530/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 03:05:24 +0000
+### [Heatwave, water shortage in the national capital: How does Delhi get its water?](https://indianexpress.com/article/explained/how-delhi-gets-its-water-9376929/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:00:43 +0000
+### [How the Six-Day War of 1967 transformed the Middle East](https://indianexpress.com/article/explained/explained-global/how-the-six-day-war-transformed-the-middle-east-9376950/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 01:15:15 +0000
+### [As Shehbaz visits China, the hope and unfulfilled promise of CPEC](https://indianexpress.com/article/explained/explained-global/as-shehbaz-visits-china-the-hope-and-unfulfilled-promise-of-cpec-9376912/)
+
+Article found but Couldn't summarize
+
 Thu, 06 Jun 2024 15:26:09 +0000
 ### [Are scientists finally beating antimicrobial resistance?](https://indianexpress.com/article/explained/explained-health/scientists-antimicrobial-resistance-9376649/)
 

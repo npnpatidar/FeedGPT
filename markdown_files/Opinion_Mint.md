@@ -1,3 +1,32 @@
+Fri, 07 Jun 2024 14:30:17 +0530
+### [Parity pricing in agriculture: Rework the MSP regime](https://www.livemint.com/opinion/online-views/parity-pricing-in-agriculture-rework-the-msp-regime-11717741311945.html)
+
+The article discusses the concept of parity pricing in India's agricultural sector, which was introduced in 1922 to ensure a fair exchange value for agricultural products. In India, the Minimum Support Price (MSP) system was introduced in 1966-67 to encourage farmers to adopt new varieties of wheat. However, the current MSP system mainly targets four water-intensive crops, contributing only 22% of India's agricultural output. The article highlights that small and marginal farmers, who comprise 89.4% of all agricultural households, are largely excluded from the MSP system due to low marketable surplus.
+
+The article also notes that the MSP system has promoted monoculture, leading to unsustainable use of natural resources, such as water depletion in Punjab. Furthermore, the demand for non-cereal food items is rising, and India's agricultural imports are increasing, with the country being the world's largest importer of vegetable oils.
+
+The author suggests that India's agricultural sector needs a balanced interplay of food security, farmer welfare, and environmental stewardship. To achieve this, the author proposes a customized MSP approach for each category of farmers, a regional rotational MSP, incentivizing soil health through farmer earnings, agricultural R&D for crops like cotton and soybean, and a gradual shift from rotational MSP to market processes.
+
+Overall, the article emphasizes the need for a rethink of the current cropping systems and MSP framework to ensure sustainable agriculture, food security, and farmer welfare in India.
+
+Fri, 07 Jun 2024 13:30:15 +0530
+### [India must tackle illegal offshore gambling platforms](https://www.livemint.com/opinion/online-views/india-must-tackle-illegal-offshore-gambling-platforms-11717740176368.html)
+
+Article found but Couldn't summarize 
+A mix of regulatory reforms, technological innovations and international collaboration can help tamp down on these platforms which prey on gullible users and pose national security threats. We must promote homegrown skill-based interactive entertainment startups to encourage responsible gaming.
+
+Fri, 07 Jun 2024 08:30:06 +0530
+### [Amaravati: A city back in India’s political arclights](https://www.livemint.com/opinion/online-views/amaravati-a-city-back-in-india-s-political-arclights-11717697501449.html)
+
+Article found but Couldn't summarize 
+This project may be revived as BJP’s Modi and TDP’s Naidu join hands at the Centre. India needs urban dispersal and this is a chance to create an eco-friendly city for the digital age.
+
+Fri, 07 Jun 2024 07:00:02 +0530
+### [Mint Quick Edit | Election volatility: Stock market scam or politics as usual?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-election-volatility-stock-market-scam-or-politics-as-usual-11717697371853.html)
+
+Article found but Couldn't summarize 
+Congress leader Rahul Gandhi wants a joint parliamentary committee (JPC) probe of comments made by BJP Prime Minister Narendra Modi and home minister Amit Shah on India’s stock market and its drop on Tuesday, the day of poll results. Something to look into or just politics in full play?
+
 Thu, 06 Jun 2024 16:00:10 +0530
 ### [Menstrual leave can lift women’s labour participation](https://www.livemint.com/opinion/online-views/menstrual-leave-can-lift-women-s-labour-participation-11717610100251.html)
 

@@ -1,3 +1,53 @@
+Fri, 07 Jun 2024 12:25:42 +0000
+### [Ram Madhav writes: India is relapsing into uncertainty of coalition politics. But there is a message in it](https://indianexpress.com/article/opinion/columns/india-relapsing-into-uncertainty-of-coalition-politics-lok-sabha-polls-9378270/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 10:30:48 +0000
+### [Prajwal Revanna case: Karnataka’s women need more than courtroom justice](https://indianexpress.com/article/opinion/columns/prajwal-revanna-case-karnatakas-women-need-more-than-courtroom-justice-9377886/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 07:51:04 +0000
+### [In Chandrashekhar Azad’s win in Nagina, Mayawati and the BSP’s tale of decline](https://indianexpress.com/article/opinion/columns/chandrashekhar-azad-nagina-lok-sabha-election-results-9377649/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 06:20:14 +0000
+### [With Verdict 2024 opening up space for dissent, the Opposition’s many tasks](https://indianexpress.com/article/opinion/columns/lok-sabha-poll-results-opposition-tasks-dissent-9377529/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:49:34 +0000
+### [June 7, 1984, Forty Years Ago: Blue Star Over](https://indianexpress.com/article/opinion/40-years-ago/june-7-1984-forty-years-ago-blue-star-over-9376840/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:46:55 +0000
+### [The curious case of the existential goat](https://indianexpress.com/article/opinion/editorials/the-curious-case-of-the-existential-goat-9376743/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:45:53 +0000
+### [Two alarm bells](https://indianexpress.com/article/opinion/editorials/two-alarm-bells-9376810/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:30:51 +0000
+### [Roti dal sabzi and the general election](https://indianexpress.com/article/opinion/editorials/roti-dal-sabzi-and-the-general-election-9376742/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:00:04 +0000
+### [How digital platforms overtook traditional media to reach the voters this election](https://indianexpress.com/article/opinion/columns/how-digital-platforms-overtook-traditional-media-to-reach-the-voters-this-election-9376854/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 01:45:42 +0000
+### [Yogendra Yadav on BJP’s 2024 poll performance: Getting the numbers, not mandate](https://indianexpress.com/article/opinion/columns/yogendra-yadav-on-bjps-2024-poll-performance-getting-the-numbers-not-mandate-9376872/)
+
+Article found but Couldn't summarize
+
 Thu, 06 Jun 2024 13:28:51 +0000
 ### [When defeat feels like victory: Revelations from 2024 Lok Sabha elections](https://indianexpress.com/article/opinion/columns/defeat-feels-victory-revelations-2024-lok-sabha-elections-9376386/)
 

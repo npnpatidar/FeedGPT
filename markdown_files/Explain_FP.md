@@ -1,3 +1,81 @@
+Fri, 7 Jun 2024 16:49:50 +0530
+### [In this EU election, why does Ursula von der Leyen have a challenging road ahead?](https://www.firstpost.com/explainers/eu-election-ursula-von-der-leyen-european-commission-13779940.html)
+
+Article found but Couldn't summarize 
+In 2019, Ursula von der Leyen became the European Commission's first woman president. She has had to deal with crises like the pandemic and the Russia-Ukraine war from the get-go. Her strong work ethic has even been praised by opponents. So why is re-election still an uphill path for her?
+
+Fri, 7 Jun 2024 16:45:01 +0530
+### [93% of newly elected Lok Sabha MPs are crorepatis. Meet the richest](https://www.firstpost.com/explainers/93-of-newly-elected-lok-sabha-mps-are-crorepatis-meet-the-richest-13779954.html)
+
+Article found but Couldn't summarize 
+According to the poll rights body Association of Democratic Reforms (ADR), 504 of 543 winning Lok Sabha candidates are crorepatis – up from 475 winning candidates in 2019. The three wealthiest MPs this time are Chandra Sekhar Pemmasani of the TDP and Konda Vishweshwar Reddy and Naveen Jindal from the BJP
+
+Fri, 7 Jun 2024 16:26:48 +0530
+### [Days after Lok Sabha election results, how Congress' tally may change to reach 100](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-congress-tally-100-independent-mp-support-13779928.html)
+
+Article found but Couldn't summarize 
+Despite Congress’ best performance in general elections since 2014, the party failed to touch the century, winning 99 of the 543 Lok Sabha seats. Narendra Modi, who is geared up for a third term as Prime Minister, even took a potshot at the Grand Old Party over this. But the situation could change soon. Here’s how
+
+Fri, 7 Jun 2024 15:23:54 +0530
+### [Why activists in South Korea are sending balloons with K-drama, K-pop to North Korea](https://www.firstpost.com/explainers/south-korea-north-korea-news-balloon-warfare-k-pop-k-drama-13779848.html)
+
+Article found but Couldn't summarize 
+Activists from the South have sent balloons carrying K-pop and K-dramas on USB sticks in the direction of North Korea. This comes days after balloons filled with faeces were sent by Pyongyang to South Korea. We explain the ramifications of this balloon warfare
+
+Fri, 7 Jun 2024 14:26:14 +0530
+### [Who are Lok Sabha’s 7 Independent MPs? Are they with NDA or INDI alliance?](https://www.firstpost.com/explainers/who-are-lok-sabhas-7-independent-mps-will-they-join-nda-or-indi-alliance-13779895.html)
+
+Article found but Couldn't summarize 
+As the National Democratic Alliance government formation is in full swing, all eyes are on the seven Independent MPs elected to the Lok Sabha. But who are these Independents? Whom do they support?
+
+Fri, 7 Jun 2024 13:47:00 +0530
+### [Uttarakhand rat-hole miners, sanitation workers & more: The special invitees for Modi’s third swearing-in](https://www.firstpost.com/explainers/uttarakhand-rat-hole-miners-sanitation-workers-special-invitees-pm-narendra-modi-third-swearing-in-ceremony-13779852.html)
+
+Article found but Couldn't summarize 
+Narendra Modi is set to take the oath of office for a third consecutive term on 9 June at 6 pm. The grand event at the Rashtrapati Bhavan will witness the presence of 8,000 guests, including foreign dignitaries. Besides them, the invitees include people from diverse backgrounds. Here is a look at who all are expected to attend
+
+Fri, 7 Jun 2024 13:06:50 +0530
+### [Lok Sabha election results 2024: Why Ajit Pawar is looking at an uncertain future](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-ajit-pawar-ncp-future-maharashtra-performance-mahayuti-alliance-13779833.html)
+
+Article found but Couldn't summarize 
+Ajit Pawar’s NCP has faced a massive defeat in the recently concluded Lok Sabha elections, winning only one of the four contested seats. Despite all his efforts, his wife also lost the prestige seat of Baramati in Maharashtra. Now, there are rumours that a few of his MLAs are trying to switch to the Sharad Pawar faction
+
+Fri, 7 Jun 2024 12:40:04 +0530
+### [Big Bite: Why a vegetarian thali has become costlier, chicken cheaper](https://www.firstpost.com/explainers/big-bite-why-a-vegetarian-thali-has-become-costlier-chicken-cheaper-13779747.html)
+
+Article found but Couldn't summarize 
+A vegetarian thali in India was priced at Rs. 27.8 last month, an increase from Rs 25.5 in the year-ago period. Damage to crops, blight, and insufficient water reservoir levels contributed to the price hike of a few essential food items, affecting the prices of vegetables. However, the cost of a chicken meal has fallen
+
+Fri, 7 Jun 2024 12:10:55 +0530
+### [Why has RBI kept repo rate steady at 6.5%? How does it affect you?](https://www.firstpost.com/explainers/rbi-repo-rate-news-6-5-per-cent-repo-rate-meaning-how-it-affects-you-13779816.html)
+
+Article found but Couldn't summarize 
+The repo rate, short for repurchase option rate, is the rate at which the RBI lends money to commercial banks and other financial institutions in India. How does it affect you? And why did RBI keep it unchanged? We explain
+
+Fri, 7 Jun 2024 10:38:15 +0530
+### [Explained: Hamas' losses so far and its shift to guerilla warfare tactics using tunnels](https://www.firstpost.com/explainers/explained-hamas-losses-so-far-and-its-shift-to-guerilla-warfare-tactics-using-tunnels-13779779.html)
+
+Article found but Couldn't summarize 
+Hamas' fighting force has been cut down by almost half. The group is now resorting to guerilla tactics to hold its ground against the much more powerful Israeli Defense Forces (IDF). A labyrinth of tunnels, sprawling 500 km, is central to this
+
+Fri, 7 Jun 2024 09:45:04 +0530
+### [Is an invite to Mohamed Muizzu for Modi’s swearing-in a sign of thaw in India-Maldives’ ties?](https://www.firstpost.com/explainers/mohamed-muizzu-modi-swearing-in-thaw-india-maldives-ties-13779746.html)
+
+Article found but Couldn't summarize 
+The Maldives’ president Mohamed Muizzu will attend Narendra Modi’s third swearing-in ceremony to be held over the weekend. The invite comes as a surprise for many, as ties between Male and New Delhi have nosedived since Muizzu took office last year
+
+Fri, 7 Jun 2024 08:37:18 +0530
+### [No funny business: Can you faint from laughing too much?](https://www.firstpost.com/health/no-funny-business-can-you-faint-from-laughing-too-much-13779433.html)
+
+Article found but Couldn't summarize 
+A man from Hyderabad couldn't control his laughter while he was enjoying a comedy show with his family. After laughing hard for a few minutes, things turned serious as he lost his consciousness. A doctor later explained that he suffered from a rare condition called laughter-induced syncope. Here's what it is
+
+Fri, 7 Jun 2024 06:56:21 +0530
+### [FirstUp: NDA's meeting, RBI's decision on interest rate, Nvidia stock split...The headlines today](https://www.firstpost.com/explainers/firstup-ndas-meeting-rbis-decision-on-interest-rate-nvidia-stock-split-the-headlines-today-13779632.html)
+
+Article found but Couldn't summarize 
+The newly elected MPs of the National Democratic Alliance (NDA) led by the BJP will meet in Delhi. The RBI's Monetary Policy Committee (MPC) will announce the result of its three-day meeting. Nvidia shares are likely to see activity as the stock is headed for a ten-for-one stock split on 7 June. We dig into these and other headlines
+
 Thu, 6 Jun 2024 22:06:21 +0530
 ### [Quicksplained: Everything we know about Kangana slapgate](https://www.firstpost.com/explainers/quicksplained-everything-we-know-about-kangana-slapgate-13779693.html)
 

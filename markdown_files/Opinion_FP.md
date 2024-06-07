@@ -1,3 +1,33 @@
+Fri, 7 Jun 2024 19:00:04 +0530
+### [Why India accepts multipolar world with dignity](https://www.firstpost.com/opinion/why-india-accepts-multipolar-world-with-dignity-13780003.html)
+
+Article found but Couldn't summarize 
+In the Indian worldview, multipolarity can be seen as a naturally occurring situation in the international order. It is a system, a global order, in which multiple civilisational states exist as fundamental poles
+
+Fri, 7 Jun 2024 17:24:50 +0530
+### [Dragon, Bear and Tiger: How India’s response to growing China-Russia ties will determine geopolitics of Indo-Pacific](https://www.firstpost.com/opinion/dragon-bear-and-tiger-how-indias-response-to-growing-china-russia-ties-will-determine-geopolitics-of-indo-pacific-13779969.html)
+
+Article found but Couldn't summarize 
+New Delhi’s new government has a tough battle ahead in not only countering China and standing up to it in a hostile neighbourhood but also in making tough decisions on its strong ally and old friend Russia
+
+Fri, 7 Jun 2024 13:33:53 +0530
+### [Agnikul’s first test flight: Time for private sector to be wings of Indian space industry](https://www.firstpost.com/opinion/agnikuls-first-test-flight-time-for-private-sector-to-be-wings-of-indian-space-industry-13779865.html)
+
+Article found but Couldn't summarize 
+Chennai-based space startup Agnikul has successfully carried out its maiden suborbital flight test
+
+Fri, 7 Jun 2024 12:32:15 +0530
+### [Biden’s Gaza ceasefire deal hangs in balance as Israel grapples with conflicting choices](https://www.firstpost.com/opinion/bidens-gaza-ceasefire-deal-hangs-in-balance-as-israel-grapples-with-conflicting-choices-13779825.html)
+
+Article found but Couldn't summarize 
+The current ceasefire proposal announced by US President Joe Biden may be consigned to the files like many previous ones until there is a clear decision by Israel on ending the war and getting the hostages back
+
+Fri, 7 Jun 2024 10:05:39 +0530
+### [Downturn drift: The shifting sands of Saudi-Pakistan relations](https://www.firstpost.com/opinion/downturn-drift-the-shifting-sands-of-saudi-pakistan-relations-13779750.html)
+
+Article found but Couldn't summarize 
+The flow of Saudi aid to Pakistan has declined in recent years as it is now perceived as a high-risk investment destination due to its economic instability
+
 Thu, 6 Jun 2024 16:50:58 +0530
 ### [GhoseSpot | A wake-up call, not a Waterloo: BJP’s fight back starts now](https://www.firstpost.com/opinion/ghosespot-a-wake-up-call-not-a-waterloo-bjps-fight-back-starts-now-13779533.html)
 
@@ -8,6 +38,12 @@ The Congress, led by Mallikarjun Kharge, is determined to regain power, and ther
 The BJP's varied performance across states is attributed to different local issues rather than a singular national trend. In Uttar Pradesh, the BJP's loss is particularly notable, with the SP and Congress gaining support from minorities, OBCs, and the youth. The article also critiques the BJP's strategies in Maharashtra, Rajasthan, West Bengal, and the southern states, suggesting that strategic and organizational mistakes led to lost seats.
 
 The author argues that the election results should not be seen as a referendum on Modi's leadership but rather as a need for strategic correction within the BJP. The article concludes that while the BJP and its supporters should acknowledge mistakes, they should avoid internal blame that could weaken Modi's position and set the party back. The views expressed are the author's own and do not represent the publication's stance.
+
+Thu, 6 Jun 2024 13:13:35 +0530
+### [Beyond the Lines | The glorious irrelevance of exit polls in India: Should we take them seriously?](https://www.firstpost.com/india/beyond-the-lines-the-glorious-irrelevance-of-exit-polls-in-india-should-we-take-them-seriously-13779444.html)
+
+Article found but Couldn't summarize 
+While bucking the expectations of exit polls and yet voting for stable governance, the Indian citizens have shown that the country’s democratic traditions comprise one of the most mature systems of political choice in the world
 
 Thu, 6 Jun 2024 12:41:01 +0530
 ### [40 years of Operation Blue Star: A tragic episode that Indira Gandhi could have avoided](https://www.firstpost.com/opinion/40-years-of-operation-blue-star-a-tragic-episode-that-indira-gandhi-could-have-avoided-13779431.html)
