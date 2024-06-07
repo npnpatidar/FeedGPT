@@ -1,3 +1,45 @@
+Thu, 6 Jun 2024 22:06:21 +0530
+### [Quicksplained: Everything we know about Kangana slapgate](https://www.firstpost.com/explainers/quicksplained-everything-we-know-about-kangana-slapgate-13779693.html)
+
+Article found but Couldn't summarize 
+Actor and BJP MP-elect Kangana Ranaut was set to board a plane to New Delhi on Thursday when she was slapped by a woman Central Industrial Security Force (CISF) constable for past remarks about the farmers’ protests. But what happened? Who is the CISF constable? And what did Ranaut say?
+
+Thu, 6 Jun 2024 21:06:59 +0530
+### [What is the Agniveer scheme? Why has it become so contentious among BJP allies?](https://www.firstpost.com/explainers/what-is-the-agniveer-scheme-why-has-it-become-so-contentious-among-bjp-allies-13779687.html)
+
+Article found but Couldn't summarize 
+The Agniveer scheme was introduced by the Centre in June 2022. Under it, youth between 17-and-a-half years to 21 years are recruited on a contractual basis. However, critics of the scheme say it offers no pension or gratuity and that just 25 per cent of those selected are retained. The BJP's allies the JD(U) and LJP want its 'shortcomings' to be addressed
+
+Thu, 6 Jun 2024 20:22:40 +0530
+### [Will Rahul Gandhi be Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-rahul-gandhi-congress-leader-of-opposition-lop-post-india-13779667.html)
+
+Article found but Couldn't summarize 
+Rahul Gandhi, who led the Congress’ election campaigning from the front, is the party’s first choice for the position of Leader of Opposition (LoP) in the Lok Sabha. The post that comes with its own privileges has been vacant since 2014. But will the Gandhi scion agree?
+
+Thu, 6 Jun 2024 19:56:01 +0530
+### [In Graphics: Key milestones of India's 2024 Lok Sabha elections](https://www.firstpost.com/explainers/in-graphics-key-milestones-of-india-2024-lok-sabha-elections-13779638.html)
+
+Article found but Couldn't summarize 
+As India's mammoth elections come to a close with the much-anticipated results released late Tuesday, the 2024 edition of the Lok Sabha polls seems to have broken all kinds of records and set new milestones. Our graphics tell the story
+
+Thu, 6 Jun 2024 19:29:12 +0530
+### [Lok Sabha election results 2024: How the BJP lost its Dalit votes](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-the-bjp-lost-its-dalit-votes-13779619.html)
+
+Article found but Couldn't summarize 
+One major reason being cited for BJP's underperformance in the 2024 Lok Sabha polls is how the party fared with Dalits particularly in the politically crucial state of Uttar Pradesh, which sends the most MPs to Parliament. The BJP in the 2014 Lok Sabha polls swept all 17 SC or Dalit-reserved seats in the state. However, this time it won just eight seats, while the Opposition prevailed in the rest. So, what changed?
+
+Thu, 6 Jun 2024 18:36:46 +0530
+### [Not loving it: How McDonald's has lost the 'Big Mac' name](https://www.firstpost.com/explainers/not-loving-it-how-mcdonalds-has-lost-the-big-mac-name-13779595.html)
+
+Article found but Couldn't summarize 
+McDonald's has lost a legal battle in the European Union to retain its 'Big Mac' trademark beyond its iconic hamburgers, following a ruling from the EU General Court. The fast-food giant was challenged by Supermac's, a smaller Irish chain known for its fish and chips as well as its burgers. Supermac's argued that McDonald's trademark hindered its expansion across Europe, leading to this legal confrontation
+
+Thu, 6 Jun 2024 17:51:31 +0530
+### [Uniform Civil Code, Agniveer and more: How coalition sarkar could affect BJP’s pet projects](https://www.firstpost.com/explainers/uniform-civil-code-agniveer-modi-coalition-sarkar-bjp-pet-project-13779544.html)
+
+Article found but Couldn't summarize 
+After failing to get a majority on its own, the BJP will have to rely heavily on its allies, namely the JD(U) and the TDP. In such a coalition sarkar, the saffron party’s core agendas and key programmes such as the Uniform Civil Code, Agnipath scheme and others may have to be shelved or pushed to the backburner
+
 Thu, 6 Jun 2024 17:24:08 +0530
 ### [How ‘Power Star’ Pawan Kalyan helped NDA storm to power in Andhra](https://www.firstpost.com/explainers/andhra-pradesh-election-results-pawan-kalyan-tdp-bjp-nda-victory-13779537.html)
 

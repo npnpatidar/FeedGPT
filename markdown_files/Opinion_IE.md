@@ -1,3 +1,8 @@
+Thu, 06 Jun 2024 13:28:51 +0000
+### [When defeat feels like victory: Revelations from 2024 Lok Sabha elections](https://indianexpress.com/article/opinion/columns/defeat-feels-victory-revelations-2024-lok-sabha-elections-9376386/)
+
+Article found but Couldn't summarize
+
 Thu, 06 Jun 2024 11:39:28 +0000
 ### [Mandal over Mandir: How INDIA won Uttar Pradesh](https://indianexpress.com/article/opinion/columns/how-india-won-uttar-pradesh-9375903/)
 

@@ -1,3 +1,8 @@
+Fri, 07 Jun 2024 00:32:00 +0530
+### [Corrections and Clarifications — June 7, 2024](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-june-7-2024/article68259997.ece)
+
+Article found but Couldn't summarize
+
 Wed, 05 Jun 2024 09:00:00 +0530
 ### [Improving the language of biodiversity conservation](https://www.thehindu.com/opinion/columns/improving-the-language-of-biodiversity-conservation/article68245700.ece)
 

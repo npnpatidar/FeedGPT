@@ -1,3 +1,14 @@
+Thu, 06 Jun 2024 18:08:39 +0530
+### [Bihar, Andhra Pradesh’s demand for special category status | Explained](https://www.thehindu.com/news/national/lok-sabha-election-results-2024-bihar-andhra-pradesh-demand-for-special-category-status-explained/article68258730.ece)
+
+Article found but Couldn't summarize 
+Currently, 11 States in India have Special Category Status.
+
+Thu, 06 Jun 2024 16:42:50 +0530
+### [What is Chang’e 6 and what is its role in China’s moon missions? | Explained](https://www.thehindu.com/sci-tech/science/what-is-changee-6-and-what-is-its-role-in-chinas-moon-missions-explained/article68258652.ece)
+
+中国国家航天局（CNSA）_recently launched the Chang'e 6 mission, which aims to collect lunar samples from the moon's far side and return them to Earth. This mission is part of China's ambitious lunar exploration program, which began in 2003. The Chang'e 6 spacecraft landed on the moon's far side on June 1 and collected about 2 kg of lunar material. The samples will be transferred to a capsule in the returner, which is expected to return to Earth on June 25. This will be the first time a country has successfully executed a robotic lunar sample-return mission from the moon's far side. The samples are expected to provide insights into the moon's formation and evolution, as well as the differences between the near and far sides of the moon.
+
 Thu, 06 Jun 2024 14:21:53 +0530
 ### [SEBI’s framework to shield stock prices against market rumours: Explained](https://www.thehindu.com/business/markets/sebi-framework-to-shield-stock-prices-against-market-rumours/article68254547.ece)
 

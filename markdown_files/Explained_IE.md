@@ -1,3 +1,13 @@
+Thu, 06 Jun 2024 15:26:09 +0000
+### [Are scientists finally beating antimicrobial resistance?](https://indianexpress.com/article/explained/explained-health/scientists-antimicrobial-resistance-9376649/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 14:12:07 +0000
+### [Explained: Which parties are in the Indian National Developmental Inclusive Alliance (INDIA)?](https://indianexpress.com/article/explained/explained-politics/explained-india-alliance-parties-9376525/)
+
+Article found but Couldn't summarize
+
 Thu, 06 Jun 2024 03:39:40 +0000
 ### [Explained: The representation of women in the incoming Lok Sabha, how it compares to previous years](https://indianexpress.com/article/explained/slight-dip-in-number-of-women-in-ls-well-under-proposed-33-quota-9374922/)
 

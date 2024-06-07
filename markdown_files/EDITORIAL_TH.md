@@ -1,3 +1,15 @@
+Fri, 07 Jun 2024 00:20:00 +0530
+### [United, they thrived: On the Andhra Pradesh result](https://www.thehindu.com/opinion/editorial/united-they-thrived-on-the-andhra-pradesh-result/article68260173.ece)
+
+Article found but Couldn't summarize 
+A formidable alliance helped the TDP-led alliance win in Andhra Pradesh
+
+Fri, 07 Jun 2024 00:10:00 +0530
+### [Bizarre judgment: On the Madhya Pradesh High Court’s order](https://www.thehindu.com/opinion/editorial/bizarre-judgment-on-the-madhya-pradesh-high-courts-order/article68259173.ece)
+
+Article found but Couldn't summarize 
+Personal law norms cannot be used to invalidate inter-faith marriages
+
 Thu, 06 Jun 2024 00:20:00 +0530
 ### [A narrow loss: on the BJD’s loss](https://www.thehindu.com/opinion/editorial/a-narrow-loss-on-the-bjds-loss/article68255882.ece)
 
