@@ -1,3 +1,9 @@
+Fri, 07 Jun 2024 20:40:18 +0530
+### [The hidden aspects of monetary policy](https://www.livemint.com/opinion/online-views/the-hidden-aspects-of-monetary-policy-11717765013362.html)
+
+Article found but Couldn't summarize 
+While the current monetary policy regime has benefited the Indian economy and markets enormously, it does have some shortcomings
+
 Fri, 07 Jun 2024 14:30:17 +0530
 ### [Parity pricing in agriculture: Rework the MSP regime](https://www.livemint.com/opinion/online-views/parity-pricing-in-agriculture-rework-the-msp-regime-11717741311945.html)
 

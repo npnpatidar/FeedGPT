@@ -1,3 +1,15 @@
+Sat, 08 Jun 2024 00:20:00 +0530
+### [Third avatar: On a third term for Narendra Modi](https://www.thehindu.com/opinion/editorial/third-avatar-on-a-third-term-for-narendra-modi/article68263230.ece)
+
+Article found but Couldn't summarize 
+The mandate is for Narendra Modi to change his approach to governance
+
+Sat, 08 Jun 2024 00:10:00 +0530
+### [Change and continuity: on the Mexico mandate](https://www.thehindu.com/opinion/editorial/change-and-continuity-on-the-mexico-mandate/article68263213.ece)
+
+Article found but Couldn't summarize 
+Mexico’s first woman President must crack down on organised crime
+
 Fri, 07 Jun 2024 00:20:00 +0530
 ### [United, they thrived: On the Andhra Pradesh result](https://www.thehindu.com/opinion/editorial/united-they-thrived-on-the-andhra-pradesh-result/article68260173.ece)
 

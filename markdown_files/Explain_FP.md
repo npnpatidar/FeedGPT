@@ -1,3 +1,33 @@
+Fri, 7 Jun 2024 20:44:17 +0530
+### [Chandrababu Naidu's family has become richer by Rs 850 crore in 5 days. Here’s how](https://www.firstpost.com/explainers/chandrababu-naidus-family-has-become-richer-by-rs-850-crore-in-5-days-heres-how-13780048.html)
+
+Article found but Couldn't summarize 
+Chandrababu Naidu’s family has seen a massive jump in their net worth after shares of dairy company Heritage Foods – in which they own a 35 per cent stake – jumped massively over the past few days. Shares that were trading at Rs 424 before the polls are now at a record high of Rs 661.25 with Naidu set to take office as chief minister of Andhra Pradesh and play a crucial role at the Centre as an NDA ally
+
+Fri, 7 Jun 2024 19:24:30 +0530
+### [Kangana Ranaut slapgate: Did the MP-elect not have security?](https://www.firstpost.com/explainers/kangana-ranaut-slapgate-mandi-mp-elect-security-cisf-constable-13780029.html)
+
+Article found but Couldn't summarize 
+BJP MP-elect from Mandi Kangana Ranaut alleged she was ‘hit’ by a Central Industrial Security Force woman constable at Chandigarh airport on Thursday. Videos shared online show the accused expressing anger about the actor’s past remarks on farmers’ protest. Was there no security with Ranaut when the incident took place?
+
+Fri, 7 Jun 2024 18:49:12 +0530
+### [Lok Sabha election results 2024: How much do MPs earn? What other perks do they enjoy?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-much-do-mps-earn-what-other-perks-do-they-enjoy-13780019.html)
+
+Article found but Couldn't summarize 
+With the BJP-led NDA set to form the government for a third time after easily crossing the half way mark of 272 seats in the 543-seat Parliament, all eyes are now on the newly elected MPs in the 18th Lok Sabha. But have you ever wondered how much our MPs earn? Or what other perks our lawmakers enjoy?
+
+Fri, 7 Jun 2024 18:26:36 +0530
+### [Why overstressed Chinese workers are growing bananas on their office desk](https://www.firstpost.com/explainers/stop-banana-green-trend-chinese-employees-are-adopting-at-their-work-places-13779952.html)
+
+Article found but Couldn't summarize 
+With the average working week exceeding 49 hours in China, many overworked young professionals are looking for ways to alleviate stress and anxiety at their workplace. A quirky trend of growing desk bananas is certainly helping them. Here's how
+
+Fri, 7 Jun 2024 18:06:45 +0530
+### [In Graphics | What the 18th Lok Sabha will look like](https://www.firstpost.com/explainers/in-graphics-what-the-18th-lok-sabha-will-look-like-13779981.html)
+
+Article found but Couldn't summarize 
+The Lok Sabha elections are over and Narendra Modi is set to take oath as Prime Minister for a third term. Let us take a look at the new Lok Sabha
+
 Fri, 7 Jun 2024 16:49:50 +0530
 ### [In this EU election, why does Ursula von der Leyen have a challenging road ahead?](https://www.firstpost.com/explainers/eu-election-ursula-von-der-leyen-european-commission-13779940.html)
 

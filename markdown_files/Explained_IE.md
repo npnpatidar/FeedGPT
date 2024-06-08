@@ -1,3 +1,28 @@
+Sat, 08 Jun 2024 00:21:22 +0000
+### [Muslim representation in new Lok Sabha: 24 MPs, none from BJP-led NDA](https://indianexpress.com/article/explained/explained-politics/muslim-representation-lok-sabha-24-mp-9378860/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 14:53:45 +0000
+### [Explained: The alleged 94 crore scam in Karnataka’s tribal corporation that led to a minister’s resignation](https://indianexpress.com/article/explained/karnataka-scam-nagendra-resign-94-crore-9378488/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 14:38:45 +0000
+### [Explained: 131 years ago, Gandhi’s first satyagraha](https://indianexpress.com/article/explained/explained-history/131-years-ago-gandhis-first-satyagraha-9378555/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 14:10:01 +0000
+### [Central Hall: Where Modi addressed NDA, historic venue in Parliament](https://indianexpress.com/article/explained/central-hall-parliament-9378513/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 13:21:22 +0000
+### [Who are the 7 independents elected to the Lok Sabha?](https://indianexpress.com/article/explained/explained-politics/who-are-the-7-independents-elected-to-the-lok-sabha-9378312/)
+
+Article found but Couldn't summarize
+
 Fri, 07 Jun 2024 08:19:58 +0000
 ### [5 charts that explain the new Lok Sabha’s average age, profession, education levels and more](https://indianexpress.com/article/explained/new-lok-sabha-age-profession-education-9377639/)
 
