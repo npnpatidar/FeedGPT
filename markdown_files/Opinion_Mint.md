@@ -1,3 +1,21 @@
+Sat, 08 Jun 2024 18:30:51 +0530
+### [What happens if Ukraine loses?](https://www.livemint.com/opinion/online-views/what-happens-if-ukraine-loses-11717851182380.html)
+
+Article found but Couldn't summarize 
+Russian victory would be debilitating for the West, and especially for Europe
+
+Sat, 08 Jun 2024 15:21:58 +0530
+### [China unites America and Europe in alarm](https://www.livemint.com/opinion/online-views/china-unites-america-and-europe-in-alarm-11717839688836.html)
+
+Article found but Couldn't summarize 
+But they don’t agree on the solution
+
+Sat, 08 Jun 2024 09:00:17 +0530
+### [Modi 3.0: The return of the coalition. And maybe the Planning Commission?](https://www.livemint.com/opinion/online-views/modi-3-0-opposition-coalition-bjp-congress-chandrababu-naidu-nitish-kumar-nda-planning-commission-central-state-finances-11717759512452.html)
+
+Article found but Couldn't summarize 
+Central-state financial relations may need to be redrawn, more so because BJP lacks the political mandate to push back..The absence of the Planning Commission, which acted as an intermediary between the states and the ministry, is a serious weakness Modi will have to contend with in his third term.
+
 Fri, 07 Jun 2024 20:40:18 +0530
 ### [The hidden aspects of monetary policy](https://www.livemint.com/opinion/online-views/the-hidden-aspects-of-monetary-policy-11717765013362.html)
 

@@ -1,3 +1,45 @@
+Sat, 8 Jun 2024 17:53:18 +0530
+### [Inflated marks, paper leak and more: The NEET-UG results row](https://www.firstpost.com/explainers/inflated-marks-neet-ug-results-row-13780228.html)
+
+Article found but Couldn't summarize 
+The results of the National Eligibility-sum-Entrance Test (NEET-UG) 2024 were announced earlier this week. However, the results have been marred by claims of irregularities and paper leaks after 67 candidates bagged the top spot and got a perfect score of 720/720. The NTA has denied the allegations
+
+Sat, 8 Jun 2024 15:15:35 +0530
+### [EU Elections 2024: Will Ursula von der Leyen continue as European Commission president?](https://www.firstpost.com/explainers/eu-elections-2024-ursula-von-der-leyen-european-commission-president-13780210.html)
+
+Article found but Couldn't summarize 
+In one of the largest democratic events, nearly 400 million citizens of the European Union are casting votes this week to elect MEPs (members of the European Parliament). Whether European Commission president Ursula von der Leyen will continue to lead the EU as its public face is one of the biggest questions
+
+Sat, 8 Jun 2024 13:42:08 +0530
+### [Who is Olivia Henson, Kate Middleton's lookalike, who married Britain’s 'most eligible bachelor'?](https://www.firstpost.com/explainers/olivia-henson-kate-middleton-lookalike-britain-most-eligible-bachelor-13780160.html)
+
+Article found but Couldn't summarize 
+Hugh Grosvenor, the Duke of Westminster, dubbed Britain's most eligible bachelor, tied the knot with Olivia Henson at Chester Cathedral on Friday. Little is known about the new Duchess of Westminster. However, royal analysts say the 31-year-old is quite similar to Kate Middleton because of her elegant yet relaxed demeanour
+
+Sat, 8 Jun 2024 13:34:52 +0530
+### [MEA says SAGAR vision in action as neighbourhood leaders invited to PM Modi's swearing in: What it is?](https://www.firstpost.com/explainers/mea-says-sagar-vision-in-action-as-neighbourhood-leaders-invited-to-pm-modis-swearing-in-what-it-is-13780194.html)
+
+Article found but Couldn't summarize 
+India launched its SAGAR vision in 2015 during Prime Minister Narendra Modi’s visit to the Indian Ocean island states of Seychelles, Mauritius, and Sri Lanka. The idea behind it is to fortify India’s economic and security connections with its maritime neighbours as well as counter China, which has been attempting to increase its sway in the Indian Ocean Region over the past few years through its Belt and Road Initiative (BRI)
+
+Sat, 8 Jun 2024 11:42:46 +0530
+### [Three-layered security, no-fly zone: How Delhi is readying for PM Modi's swearing-in](https://www.firstpost.com/explainers/delhi-pm-modi-swearing-in-preparations-13780106.html)
+
+Article found but Couldn't summarize 
+With just one day to go before Narendra Modi’s swearing-in ceremony, massive preparations are underway and a thorough security review is being conducted in New Delhi. There will be no change of guard ceremony at Rashtrapati Bhavan, a sophisticated three-tier security system has been set up and a no-fly zone has been announced over the National Capital Territory
+
+Sat, 8 Jun 2024 10:07:13 +0530
+### [This Week in Explainers: Decoding the Lok Sabha election results](https://www.firstpost.com/explainers/this-week-in-explainers-decoding-the-lok-sabha-election-results-13780020.html)
+
+Article found but Couldn't summarize 
+In our weekly wrap, we analyse the Lok Sabha election results. Why did Narendra Modi’s BJP not perform as well as expected? What does a coalition government mean for India?
+
+Sat, 8 Jun 2024 09:08:04 +0530
+### [Stranger Things: Are giant, poisonous spiders going to invade New York City?](https://www.firstpost.com/explainers/new-york-flying-poisonous-joro-spiders-threat-summer-13779828.html)
+
+Article found but Couldn't summarize 
+The Big Apple braces for an unusual invasion of giant, venomous Joro spiders. While these 'flying spiders' have made an appearance in many southern US states, there is a likelihood of them swarming to New York City this summer, say experts. Are New Yorkers in danger?
+
 Fri, 7 Jun 2024 20:44:17 +0530
 ### [Chandrababu Naidu's family has become richer by Rs 850 crore in 5 days. Here’s how](https://www.firstpost.com/explainers/chandrababu-naidus-family-has-become-richer-by-rs-850-crore-in-5-days-heres-how-13780048.html)
 

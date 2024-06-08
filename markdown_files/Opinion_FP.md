@@ -1,3 +1,27 @@
+Sat, 8 Jun 2024 18:51:12 +0530
+### [Why China should introspect and stop seeing India through Western lens](https://www.firstpost.com/opinion/why-china-should-introspect-and-stop-seeing-india-through-western-lens-13780275.html)
+
+Article found but Couldn't summarize 
+The Chinese strategic worldview is most receptive to how the US thinks and acts. Thus, it has also seen India in the same light in the last three decades
+
+Sat, 8 Jun 2024 14:09:35 +0530
+### [Rafale in Alaska: How ‘Red Flag 24’ is good international exposure to Indian Air Force](https://www.firstpost.com/opinion/rafale-in-alaska-how-red-flag-24-is-good-international-exposure-to-indian-air-force-13780203.html)
+
+Article found but Couldn't summarize 
+The Red Flag 24 exercise showcases the IAF’s capability to be deployed thousands of kilometres away on the other side of the globe
+
+Sat, 8 Jun 2024 12:01:53 +0530
+### [India’s foreign policy will continue to pay rich dividends in Modi’s ‘historic’ third term](https://www.firstpost.com/opinion/indias-foreign-policy-will-continue-to-pay-rich-dividends-in-modis-historic-third-term-13780148.html)
+
+Article found but Couldn't summarize 
+Besides the continuity in India’s engagement with great powers, a similar thrust on the neighbourhood will also persist
+
+Sat, 8 Jun 2024 09:42:13 +0530
+### [Why it’s déjà vu for the soap opera Biden trial](https://www.firstpost.com/opinion/why-its-deja-vu-for-the-soap-opera-biden-trial-13780118.html)
+
+Article found but Couldn't summarize 
+As in the Trump trial and verdict (and possibly even sentencing), the unexpected should be expected even in the Biden case
+
 Fri, 7 Jun 2024 19:00:04 +0530
 ### [Why India accepts multipolar world with dignity](https://www.firstpost.com/opinion/why-india-accepts-multipolar-world-with-dignity-13780003.html)
 
