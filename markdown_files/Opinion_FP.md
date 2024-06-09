@@ -1,3 +1,9 @@
+Sat, 8 Jun 2024 19:20:24 +0530
+### [Why soil is the future of human civilisation](https://www.firstpost.com/opinion/why-soil-is-the-future-of-human-civilisation-13780283.html)
+
+Article found but Couldn't summarize 
+The people who control good lands could very well control the future of humanity by manipulating seed and food supply
+
 Sat, 8 Jun 2024 18:51:12 +0530
 ### [Why China should introspect and stop seeing India through Western lens](https://www.firstpost.com/opinion/why-china-should-introspect-and-stop-seeing-india-through-western-lens-13780275.html)
 

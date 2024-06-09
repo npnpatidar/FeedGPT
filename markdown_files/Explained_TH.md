@@ -1,3 +1,39 @@
+Sun, 09 Jun 2024 05:05:00 +0530
+### [Why did exit polls go off the mark? | Explained](https://www.thehindu.com/elections/why-did-exit-polls-go-off-the-mark-explained/article68267410.ece)
+
+Article found but Couldn't summarize 
+What methodology should be followed for accuracy? How do we know that a survey has done its homework? What are the red flags? When are exit polls conducted? Do respondents open up on their choice? In a close election, is it more difficult to get seats and voter shares right?
+
+Sun, 09 Jun 2024 04:39:00 +0530
+### [What is the National Health Claim Exchange? | Explained](https://www.thehindu.com/sci-tech/health/what-is-the-national-health-claim-exchange-explained/article68267419.ece)
+
+Article found but Couldn't summarize 
+Will the platform help patients access healthcare easily? Will it bring about transparency in the healthcare claims ecosystem? What are the hurdles to the Insurance Regulatory and Development Authority of India’s objective of achieving ‘Insurance for All by 2047’?
+
+Sun, 09 Jun 2024 03:12:00 +0530
+### [Suresh Gopi: The Saffron star](https://www.thehindu.com/news/national/suresh-gopi-the-saffron-star/article68267492.ece)
+
+Article found but Couldn't summarize 
+The actor-turned politician made history in Kerala by getting elected as the first BJP Lok Sabha member from the State
+
+Sun, 09 Jun 2024 02:49:00 +0530
+### [Geniben Thakor: The giant killer](https://www.thehindu.com/news/national/geniben-thakor-the-giant-killer/article68267477.ece)
+
+Article found but Couldn't summarize 
+The Congress leader denied the BJP a hat-trick clean sweep of Gujarat by winning the Banaskantha constituency
+
+Sun, 09 Jun 2024 02:31:00 +0530
+### [Chandrashekhar Azad: The Dalit commander](https://www.thehindu.com/news/national/chandrashekhar-azad-the-dalit-commander/article68267463.ece)
+
+Article found but Couldn't summarize 
+The leader of the Azad Samaj Party, who won from U.P.’s Nagina, says his work will be for Dalits, tribals, Muslims, youth and women, and it will always be against injustice
+
+Sun, 09 Jun 2024 02:09:00 +0530
+### [N. Chandrababu Naidu: Return of the kingmaker](https://www.thehindu.com/news/national/n-chandrababu-naidu-return-of-the-kingmaker/article68267454.ece)
+
+Article found but Couldn't summarize 
+The ‘CEO of Andhra Pradesh’ is back in power in the State with a resounding mandate and has emerged as a key player at the Centre as his Telugu Desam Party is the second largest constituent in the BJP-led National Democratic Alliance
+
 Thu, 06 Jun 2024 18:08:39 +0530
 ### [Bihar, Andhra Pradesh’s demand for special category status | Explained](https://www.thehindu.com/news/national/lok-sabha-election-results-2024-bihar-andhra-pradesh-demand-for-special-category-status-explained/article68258730.ece)
 

@@ -1,3 +1,8 @@
+Sat, 08 Jun 2024 14:35:06 +0000
+### [This is the first time I’ll see a coalition government at the Centre — and the possibilities are exciting](https://indianexpress.com/article/opinion/columns/centre-coalition-government-possibilities-9380341/)
+
+Article found but Couldn't summarize
+
 Sat, 08 Jun 2024 08:45:10 +0000
 ### [View from Pakistan: India’s election verdict — ‘a sigh of relief’](https://indianexpress.com/article/opinion/columns/view-from-pakistan-indias-election-verdict-a-sigh-of-relief-9379761/)
 

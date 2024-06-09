@@ -1,3 +1,15 @@
+Sat, 8 Jun 2024 19:59:04 +0530
+### [Rae Bareli or Wayanad? Why Rahul Gandhi must choose between them and which one he will pick](https://www.firstpost.com/explainers/rae-bareli-or-wayanad-why-rahul-gandhi-must-choose-between-them-and-which-one-he-will-pick-13780294.html)
+
+Article found but Couldn't summarize 
+Rahul Gandhi, who contested from both Rae Bareli in Uttar Pradesh and Wayanad in Kerala in the recent Lok Sabha polls, won both seats by massive margins. Under the Representation of the People Act, 1951, a candidate can contest from a maximum of two constituencies, but can keep only one
+
+Sat, 8 Jun 2024 18:34:02 +0530
+### [Who will make it to the Modi 3.0 cabinet? These names are being considered](https://www.firstpost.com/explainers/who-will-make-it-to-the-modi-3-0-cabinet-these-names-are-being-considered-13780273.html)
+
+Article found but Couldn't summarize 
+According to several media reports, the BJP is keen on keeping a number of high-profile ministries including home, finance and defence, Meanwhile, the NDA allies the TDP and JD (U) are eyeing several berths in the cabinet. But which names are being discussed?
+
 Sat, 8 Jun 2024 17:53:18 +0530
 ### [Inflated marks, paper leak and more: The NEET-UG results row](https://www.firstpost.com/explainers/inflated-marks-neet-ug-results-row-13780228.html)
 
