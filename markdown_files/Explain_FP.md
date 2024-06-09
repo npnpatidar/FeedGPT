@@ -1,3 +1,45 @@
+Sun, 9 Jun 2024 17:19:45 +0530
+### [Modi 3.0: Smriti Irani, Anurag Thakur… The ministers who have been dropped](https://www.firstpost.com/explainers/modi-3-0-smriti-irani-anurag-thakur-ministers-dropped-13780486.html)
+
+Article found but Couldn't summarize 
+Narendra Modi and his Council of Ministers will take the oath of office today at Rashtrapati Bhavan. Ahead of this historic event, some of his older ministers have been dropped to make way for new faces. Among them are Smriti Irani, Anurag Thakur, and Narayan Rane
+
+Sun, 9 Jun 2024 16:02:20 +0530
+### [Some old faces, some new: Who will be the ministers in Modi 3.0 Cabinet?](https://www.firstpost.com/explainers/narendra-modi-cabinet-newly-elected-mps-list-13780464.html)
+
+Article found but Couldn't summarize 
+What will Modi 3.0 will look like? Hours before the oath-taking ceremony, we have a list. BJP’s big leaders Amit Shah, Rajnath Singh, Nirmala Sitharaman and S Jaishakar are part of the team. TDP’s Kinjarapu Ram Mohan Naidu and Chandra Sekhar Pemmasani will join along with JD(U)’s Ramnath Thakur and Lalan Singh
+
+Sun, 9 Jun 2024 15:07:00 +0530
+### [Who is TDP’s Kinjarapu Ram Mohan Naidu, set to be youngest minister in Modi Cabinet 3.0?](https://www.firstpost.com/explainers/tdp-mp-kinjarapu-ram-mohan-naidu-youngest-minister-union-cabinet-pm-narendra-modi-swearing-in-13780444.html)
+
+Article found but Couldn't summarize 
+Kinjarapu Ram Mohan Naidu is a three-time Telugu Desam Party (TDP) MP from Andhra Pradesh's Srikakulam Lok Sabha constituency. The 36-year-old will be taking oath as Union minister in the BJP-led NDA government on Sunday evening
+
+Sun, 9 Jun 2024 14:53:49 +0530
+### [BJP to retain control of these 4 prized Cabinet Committee on Security ministries; Here's why it matters](https://www.firstpost.com/explainers/bjp-narendra-modi-ccs-cabinet-committee-on-security-ministries-13780436.html)
+
+Article found but Couldn't summarize 
+BJP has strategically retained control over the four crucial ministries– Home, Defence, Finance, and External Affairs–represented in the Cabinet Committee on Security (CCS). What are the functions of the CCS? How does this move strengthen the BJP’s and Narendra Modi's strategic position? We explain
+
+Sun, 9 Jun 2024 14:51:58 +0530
+### [Mist fans, mini fridges and more… How Rashtrapati Bhavan is preparing for Modi’s swearing-in ceremony](https://www.firstpost.com/explainers/narendra-modi-swearing-in-mist-fans-mini-fridges-rashtrapati-bhavan-prep-13780441.html)
+
+Article found but Couldn't summarize 
+Workers are racing against time to complete prep at the Rashtrapati Bhavan before Narendra Modi and his Council of Ministers take oath in a grand ceremony. From laying out the red carpet to installing mini-fridges, no stone is being left unturned for the grand event, which will have around 8,000 guests in attendance
+
+Sun, 9 Jun 2024 11:16:33 +0530
+### [Why Modi 3.0 cannot have more than 81 ministers](https://www.firstpost.com/explainers/pm-modi-news-why-it-cannot-have-more-than-81-ministers-13780387.html)
+
+Article found but Couldn't summarize 
+As Narendra Modi takes the oath for his third consecutive term as prime minister, his new Cabinet will be limited to 81 ministers due to constitutional constraints. The focus is on how ministries will be allocated to appease coalition allies while ensuring effective governance. We take an in-depth look
+
+Sun, 9 Jun 2024 10:47:13 +0530
+### [From Roman Empire to Rashtrapati Bhavan, the long history behind oath-taking ceremonies](https://www.firstpost.com/explainers/modi-swearing-in-history-oath-taking-ceremony-rashtrapati-bhavan-13779931.html)
+
+Article found but Couldn't summarize 
+Narendra Modi will take the oath of office in a grand swearing-in ceremony at Rashtrapati Bhavan, which is expected to have a guest list of 8,000 people. But have you ever wondered where this tradition came from
+
 Sat, 8 Jun 2024 19:59:04 +0530
 ### [Rae Bareli or Wayanad? Why Rahul Gandhi must choose between them and which one he will pick](https://www.firstpost.com/explainers/rae-bareli-or-wayanad-why-rahul-gandhi-must-choose-between-them-and-which-one-he-will-pick-13780294.html)
 

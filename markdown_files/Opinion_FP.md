@@ -1,3 +1,33 @@
+Sun, 9 Jun 2024 17:30:13 +0530
+### [Ukraine war: West in dilemma as Russia prepares for summer offensive](https://www.firstpost.com/opinion/ukraine-war-west-in-dilemma-as-russia-prepares-for-summer-offensive-13780498.html)
+
+Article found but Couldn't summarize 
+While the West is ready to supply more weapons and sanction aid, now voices across the globe are pointing out a grim reality: Ukraine is unlikely to be in a position to reclaim lost territory
+
+Sun, 9 Jun 2024 16:08:29 +0530
+### [How hush money conviction has helped galvanise Trump supporters](https://www.firstpost.com/opinion/how-hush-money-conviction-has-helped-galvanise-trump-supporters-13780459.html)
+
+Article found but Couldn't summarize 
+The hush money conviction hasn’t much impacted how Americans, especially Republicans, view Donald Trump
+
+Sun, 9 Jun 2024 14:27:16 +0530
+### [How Western media belittled Modi's victory to further their dubious agenda](https://www.firstpost.com/opinion/how-western-media-belittled-modis-victory-to-further-their-dubious-agenda-13780427.html)
+
+Article found but Couldn't summarize 
+The current wave of criticism from the Western media highlights a significant bias, reflecting their tendency to focus on narratives that undermine PM Modi’s achievements while ignoring the broader democratic endorsement he received
+
+Sun, 9 Jun 2024 12:28:42 +0530
+### [How re-energised focus on ‘Neighbourhood First’ under Modi 3.0 can work wonders](https://www.firstpost.com/opinion/how-re-energised-focus-on-neighbourhood-first-under-modi-3-0-can-work-wonders-13780407.html)
+
+Article found but Couldn't summarize 
+From the Covid-19 pandemic to the Sri Lankan economic crisis, nowhere else has India demonstrated the spirit of adage better than in its immediate vicinity
+
+Sun, 9 Jun 2024 10:31:37 +0530
+### [Only a reckless and ignorant punter would bet against Narendra Modi running a coalition government](https://www.firstpost.com/opinion/only-a-reckless-and-ignorant-punter-would-bet-against-narendra-modi-running-a-coalition-government-13780377.html)
+
+Article found but Couldn't summarize 
+It is a baseless assumption that Modi can’t remodel himself according to circumstances
+
 Sat, 8 Jun 2024 19:20:24 +0530
 ### [Why soil is the future of human civilisation](https://www.firstpost.com/opinion/why-soil-is-the-future-of-human-civilisation-13780283.html)
 

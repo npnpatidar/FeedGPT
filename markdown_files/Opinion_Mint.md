@@ -1,3 +1,21 @@
+Sun, 09 Jun 2024 16:00:13 +0530
+### [RBI regulation is ‘Unpredictable’ only when it should be](https://www.livemint.com/opinion/online-views/rbi-regulation-is-unpredictable-only-when-it-should-be-11717916681565.html)
+
+Article found but Couldn't summarize 
+The Reserve Bank uses a rigorous process before taking hard regulatory calls, engaging in a two-way dialogue with regulated entities (REs). Its rulebook adherence is predictable, but penalties that surprise could act as effective deterrents.
+
+Sun, 09 Jun 2024 15:30:12 +0530
+### [Policy rate divergence is not a narrative that will last for long](https://www.livemint.com/opinion/online-views/policy-rate-divergence-is-not-a-narrative-that-will-last-for-long-11717916654073.html)
+
+Article found but Couldn't summarize 
+The ECB’s rate cut diverges from Fed policy but we mustn't over-interpret it. The shifts of central banks reflect the strength of underlying economies and the tenacity of inflation.
+
+Sun, 09 Jun 2024 13:00:47 +0530
+### [Kaushik Basu: Economics must go back to its basics to keep up with the world](https://www.livemint.com/opinion/online-views/kaushik-basu-economics-must-go-back-to-its-basics-to-keep-up-with-the-world-11717916614331.html)
+
+Article found but Couldn't summarize 
+Economics is on the cusp of a profound transformation, owing to the digital revolution and the rise of artificial intelligence. The discipline can’t be divorced from politics. We must renew efforts to grasp evolving dynamics in a fast-changing world.
+
 Sat, 08 Jun 2024 18:30:51 +0530
 ### [What happens if Ukraine loses?](https://www.livemint.com/opinion/online-views/what-happens-if-ukraine-loses-11717851182380.html)
 

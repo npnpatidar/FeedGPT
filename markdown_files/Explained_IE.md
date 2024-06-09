@@ -1,3 +1,23 @@
+Sun, 09 Jun 2024 12:09:59 +0000
+### [What happens at a swearing-in ceremony and what oaths have to be taken?](https://indianexpress.com/article/explained/explained-politics/swearing-in-oath-modi-nda-9381586/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 12:06:10 +0000
+### [What are Cabinet committees, and why is the CCS the most important of them all?](https://indianexpress.com/article/explained/everyday-explainers/narendra-modi-cabinet-committees-ccs-explained-9381592/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 10:33:28 +0000
+### [With swearing-in ceremony, a look at recent members of the all-important Cabinet Committee on Security](https://indianexpress.com/article/explained/swearing-in-ceremony-modi-nds-ccs-9381339/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 01:30:09 +0000
+### [Explained: 7 countries whose leaders will attend Modi’s swearing today](https://indianexpress.com/article/explained/explained-7-countries-whose-leaders-will-attend-modis-swearing-today-9380515/)
+
+Article found but Couldn't summarize
+
 Sat, 08 Jun 2024 12:08:22 +0000
 ### [Why you should avoid alcohol on flights](https://indianexpress.com/article/explained/explained-health/why-you-should-avoid-alcohol-on-flights-9380087/)
 
