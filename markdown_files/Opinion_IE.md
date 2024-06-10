@@ -1,3 +1,18 @@
+Sun, 09 Jun 2024 16:45:06 +0000
+### [What Modi 3.0 means for New India](https://indianexpress.com/article/opinion/columns/what-modi-3-0-means-for-new-india-9382153/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 15:08:34 +0000
+### [A coalition government has been sworn in. It may not change how PM Modi wields power](https://indianexpress.com/article/opinion/columns/narendra-modi-swearing-in-coalition-government-power-9381845/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 14:34:24 +0000
+### [From the Opinions Editor | Dependence on coalition partners shouldn’t make Narendra Modi 3.0 reform averse](https://indianexpress.com/article/opinion/columns/coalition-partners-narendra-modi-reform-averse-9381701/)
+
+Article found but Couldn't summarize
+
 Sun, 09 Jun 2024 10:00:31 +0000
 ### [Lok Sabha elections 2024: On women’s representation, a step backwards](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-2024-womens-representation-9381396/)
 

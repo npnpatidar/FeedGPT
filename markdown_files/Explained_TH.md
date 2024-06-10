@@ -1,3 +1,9 @@
+Sun, 09 Jun 2024 23:33:39 +0530
+### [Is it time for proportional representation? | Explained](https://www.thehindu.com/news/national/is-it-time-for-proportional-representation-explained/article68269434.ece)
+
+Article found but Couldn't summarize 
+Which are the countries which follow proportional representation in their electoral democracies? Will it work in a large and diverse country like India? What is mixed member proportional representation?
+
 Sun, 09 Jun 2024 05:05:00 +0530
 ### [Why did exit polls go off the mark? | Explained](https://www.thehindu.com/elections/why-did-exit-polls-go-off-the-mark-explained/article68267410.ece)
 

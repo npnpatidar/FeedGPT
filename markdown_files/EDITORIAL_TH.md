@@ -1,3 +1,15 @@
+Mon, 10 Jun 2024 00:20:00 +0530
+### [Recalcitrant jumbo: On inflation](https://www.thehindu.com/opinion/editorial/recalcitrant-jumbo-in-inflation/article68270005.ece)
+
+Article found but Couldn't summarize 
+Anchoring inflation will be the base for long-term growth
+
+Mon, 10 Jun 2024 00:10:00 +0530
+### [A NEET mess: On the conduct of the medical entrance test](https://www.thehindu.com/opinion/editorial/a-neet-mess-on-the-conduct-of-the-eligibility-and-entrance-test-for-medicine/article68269990.ece)
+
+Article found but Couldn't summarize 
+More efforts to prevent egregious violations are needed
+
 Sat, 08 Jun 2024 00:20:00 +0530
 ### [Third avatar: On a third term for Narendra Modi](https://www.thehindu.com/opinion/editorial/third-avatar-on-a-third-term-for-narendra-modi/article68263230.ece)
 

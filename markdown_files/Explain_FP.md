@@ -1,3 +1,27 @@
+Sun, 9 Jun 2024 20:49:19 +0530
+### [Why no NCP leader has found place in Modi 3.0 Cabinet](https://www.firstpost.com/explainers/modi-cabinet-no-ncp-leader-ajit-pawar-praful-patel-maharashtra-13780579.html)
+
+Article found but Couldn't summarize 
+The new Modi Cabinet has been sworn in and the pressures of a coalition government are already unfolding. The BJP had offered the Ajit Pawar-led NCP a Minister of State with independent charge. However, the Maharashtra deputy chief minister rejected the proposal, demanding a Cabinet post for his senior leader Praful Patel
+
+Sun, 9 Jun 2024 20:21:02 +0530
+### [VK Pandian quits ‘active politics’: The meteoric fall of Naveen Patnaik’s Man Friday](https://www.firstpost.com/explainers/odisha-vk-pandian-quits-active-politics-cm-naveen-patnaik-man-friday-13780554.html)
+
+Article found but Couldn't summarize 
+VK Pandian has bowed out of ‘active politics’ after the BJD’s massive rout in Odisha, ending the 24-year rule of Naveen Patnaik. Once seen as the 77-year-old's successor, what went wrong for the ex-IAS officer and the regional party?
+
+Sun, 9 Jun 2024 19:00:23 +0530
+### [Invitations and international relations: A look at India's ties with 7 key nations invited to PM Modi's swearing-in](https://www.firstpost.com/explainers/pm-modi-oath-taking-india-relations-bangladesh-bhutan-nepal-maldives-mauritius-seychelles-sri-lanka-13780534.html)
+
+Article found but Couldn't summarize 
+Leaders from Bangladesh, Bhutan, the Maldives, Mauritius, Nepal, Seychelles, and Sri Lanka, are present at Narendra Modi's oath-taking ceremony as he assumes the position of prime minister for a third term. From major infrastructural projects with Bangladesh and Bhutan to strategic maritime collaborations with the Maldives, Seychelles, and Mauritius, we explain India's relations with these neighbouring nations
+
+Sun, 9 Jun 2024 18:00:39 +0530
+### [Jayant Singh Chaudhary: The Jat leader from UP who is now a Union minister in Modi 3.0](https://www.firstpost.com/explainers/jayant-singh-chaudhary-jat-leader-union-minister-narendra-modi-swearing-in-13780500.html)
+
+Article found but Couldn't summarize 
+Years ago, Jayant Chaudhary of the Rashtriya Lok Dal, which was an ally of the Samajwadi Party, had famously said that he is ‘not a coin who will flip’. Come February 2024, his stance will change and he will join the BJP-led NDA bloc. Now, the grandson of former Indian PM Charan Singh has become a Union minister
+
 Sun, 9 Jun 2024 17:19:45 +0530
 ### [Modi 3.0: Smriti Irani, Anurag Thakur… The ministers who have been dropped](https://www.firstpost.com/explainers/modi-3-0-smriti-irani-anurag-thakur-ministers-dropped-13780486.html)
 
