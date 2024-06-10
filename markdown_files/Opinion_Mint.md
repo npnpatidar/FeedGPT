@@ -1,3 +1,63 @@
+Mon, 10 Jun 2024 16:00:01 +0530
+### [The rise of local AI should democratize this technology](https://www.livemint.com/opinion/online-views/the-rise-of-local-ai-should-democratize-this-technology-11717958420177.html)
+
+Article found but Couldn't summarize 
+Hyper-local and network-free models are on their way that will deliver AI advantages to millions.
+
+Mon, 10 Jun 2024 15:00:19 +0530
+### [Britons seem to have lost faith in the NHS for sound reasons](https://www.livemint.com/opinion/online-views/britons-seem-to-have-lost-faith-in-the-nhs-for-sound-reasons-11717958256705.html)
+
+Article found but Couldn't summarize 
+The UK's healthcare system is plagued by underinvestment and over-centralization of decision-making. It also suffers from structural changes like an ageing population, low mortality rate and high cost of treatment. The NHS seems to be in awful shape but it can be rescued.
+
+Mon, 10 Jun 2024 14:00:17 +0530
+### [Artificial general intelligence could reboot India’s prospects](https://www.livemint.com/opinion/online-views/artificial-general-intelligence-could-reboot-india-s-prospects-11717958158731.html)
+
+Article found but Couldn't summarize 
+How wisely we adopt AGI could determine our place in the world and also define the legacy we leave for future generations.
+
+Mon, 10 Jun 2024 13:15:27 +0530
+### [Why US inflation seems as relevant as India’s](https://www.livemint.com/opinion/why-us-inflation-seems-as-relevant-as-indias-11717996965356.html)
+
+Article found but Couldn't summarize 
+Market participants are discussing US data in the same breath as India’s variables
+
+Mon, 10 Jun 2024 12:30:14 +0530
+### [Statistical reform needs key stakeholder consensus for implementation](https://www.livemint.com/opinion/online-views/statistical-reform-needs-key-stakeholder-consensus-for-implementation-11717958020127.html)
+
+Article found but Couldn't summarize 
+India needs a high-level task force to assess the state of our statistical system and lay a path for reforms. A credible statistical system can help us find agreement on basic economic facts and improve the quality of public discourse in the country.
+
+Mon, 10 Jun 2024 10:00:10 +0530
+### [Economic theory was at play all through the Lok Sabha election](https://www.livemint.com/opinion/online-views/economic-theory-was-at-play-all-through-the-lok-sabha-election-11717957791834.html)
+
+Article found but Couldn't summarize 
+Behavioural economics has taught us that many decisions taken are based on psychology, which can be influenced by marketers, including politicians. From Pareto optimality to Giffen goods, various economic concepts offered close political parallels.
+
+Mon, 10 Jun 2024 09:30:09 +0530
+### [The MPC has done well to keep policy interest rates unchanged](https://www.livemint.com/opinion/online-views/the-mpc-has-done-well-to-keep-policy-interest-rates-unchanged-11717955361688.html)
+
+Article found but Couldn't summarize 
+It is naive to believe the recent election verdict did not figure in (or shape) its decision to maintain status quo on the repo and other rates.
+
+Mon, 10 Jun 2024 08:30:07 +0530
+### [Manu Joseph: A theory of why the BJP did poorly in the elections](https://www.livemint.com/opinion/online-views/manu-joseph-a-theory-of-why-the-bjp-did-poorly-in-the-elections-11717955173298.html)
+
+Article found but Couldn't summarize 
+The urban upper-class BJP fan who employs poor migrants is the party’s worst ambassador.
+
+Mon, 10 Jun 2024 08:00:07 +0530
+### [Monetary policy: RBI's optimism is tinged with chronic concerns](https://www.livemint.com/opinion/online-views/monetary-policy-rbis-optimism-is-tinged-with-chronic-concerns-11717954982540.html)
+
+Article found but Couldn't summarize 
+India’s economy may be in a sweet spot, but consumption and private investment are still taking painfully long to pick up, even as RBI faces continuing uncertainty on food inflation.
+
+Mon, 10 Jun 2024 07:00:03 +0530
+### [Mint Quick Edit | NDA coalition: Case for optimism](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-nda-coalition-case-for-optimism-11717954764550.html)
+
+Article found but Couldn't summarize 
+Now that Narendra Modi of the BJP has taken oath as India’s PM for the third time, every move of his new government will be studied for clues of an imprint left by the Telugu Desam Party (TDP) and Janata Dal-United (JDU). Can an economic agenda get coalitional cohesion?
+
 Sun, 09 Jun 2024 16:00:13 +0530
 ### [RBI regulation is ‘Unpredictable’ only when it should be](https://www.livemint.com/opinion/online-views/rbi-regulation-is-unpredictable-only-when-it-should-be-11717916681565.html)
 

@@ -1,3 +1,27 @@
+Mon, 10 Jun 2024 18:58:35 +0530
+### [Off-centre |The People’s PMO: Narendra Modi 3.0 back with a bang](https://www.firstpost.com/opinion/off-centre-the-peoples-pmo-narendra-modi-3-0-back-with-a-bang-13780963.html)
+
+Article found but Couldn't summarize 
+As India’s three-term prime minister, Narendra Modi’s tenure as the head of government of the world’s most populous country and largest democracy in the world has indeed been momentous
+
+Mon, 10 Jun 2024 14:58:41 +0530
+### [Why BJP fails to breach the Bengal citadel: Addressing the fundamental flaws](https://www.firstpost.com/opinion/why-bjp-fails-to-breach-the-bengal-citadel-addressing-the-fundamental-flaws-13780889.html)
+
+Article found but Couldn't summarize 
+The BJP’s prospects for the 2026 state polls hinge on its ability to address these fundamental challenges and regain lost ground
+
+Mon, 10 Jun 2024 13:44:53 +0530
+### [Islamabad's mounting challenges: China-Pakistan Economic Corridor, PoK and Balochistan](https://www.firstpost.com/opinion/islamabads-mounting-challenges-china-pakistan-economic-corridor-pok-and-balochistan-13780862.html)
+
+Article found but Couldn't summarize 
+Before asking China to invest and claiming to be a champion of Muslim rights globally, Pakistan must put its own house in order and address the rampant issues of internal unrest and militancy
+
+Mon, 10 Jun 2024 11:53:40 +0530
+### [Deals without outcome: How Israel-Palestine conflict stands unresolved](https://www.firstpost.com/opinion/deals-without-outcome-how-israel-palestine-conflict-stands-unresolved-13780788.html)
+
+Article found but Couldn't summarize 
+Both Hamas and the current Israeli government led by Benjamin Netanyahu are hoping that the other side will reject the deal
+
 Sun, 9 Jun 2024 17:30:13 +0530
 ### [Ukraine war: West in dilemma as Russia prepares for summer offensive](https://www.firstpost.com/opinion/ukraine-war-west-in-dilemma-as-russia-prepares-for-summer-offensive-13780498.html)
 

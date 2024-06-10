@@ -1,3 +1,48 @@
+Mon, 10 Jun 2024 11:24:39 +0000
+### [NEET controversy: MCQ-based examination isn’t the right way to spot doctors](https://indianexpress.com/article/opinion/columns/neet-controversy-mcq-based-exam-isnt-the-right-way-to-spot-doctors-9383515/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 10:39:34 +0000
+### [If we let ourselves be led by children in play, could we rediscover simple joys?](https://indianexpress.com/article/opinion/columns/children-in-play-rediscover-simple-joys-9383361/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 07:04:09 +0000
+### [With a coalition government for Modi 3.0, ‘abki baar, pyaar hi pyaar’](https://indianexpress.com/article/opinion/columns/with-a-coalition-government-for-modi-3-0-abki-baar-pyaar-hi-pyaar-9382976/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 02:00:57 +0000
+### [On agriculture front, an agenda for the new government](https://indianexpress.com/article/opinion/columns/the-message-from-rural-india-9382139/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 02:00:01 +0000
+### [What we lose when we focus on identity politics](https://indianexpress.com/article/opinion/columns/what-we-lose-when-we-focus-on-identity-politics-9382170/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:48:50 +0000
+### [Modi government 3.0: Rajdharma and coalition](https://indianexpress.com/article/opinion/editorials/rajdharma-coalition-narendra-modi-government-3-0-9382137/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:46:54 +0000
+### [India’s neighbours at swearing-in: Shared stakes in stable ties](https://indianexpress.com/article/opinion/editorials/being-neighbourly-world-leaders-will-attend-swearing-in-narendra-modi-9382138/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:45:20 +0000
+### [The people have spoken: New government must prioritise diversity, constitutionalism and federalism](https://indianexpress.com/article/opinion/columns/new-government-diversity-constitutionalism-federalism-india-9382218/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:38:48 +0000
+### [June 10, 1984, Forty Years Ago: Indefinite curfew in Poonch](https://indianexpress.com/article/opinion/40-years-ago/june-10-1984-forty-years-ago-two-jawans-killed-9382168/)
+
+Article found but Couldn't summarize
+
 Sun, 09 Jun 2024 16:45:06 +0000
 ### [What Modi 3.0 means for New India](https://indianexpress.com/article/opinion/columns/what-modi-3-0-means-for-new-india-9382153/)
 

@@ -40,6 +40,12 @@ Sun, 09 Jun 2024 02:09:00 +0530
 Article found but Couldn't summarize 
 The ‘CEO of Andhra Pradesh’ is back in power in the State with a resounding mandate and has emerged as a key player at the Centre as his Telugu Desam Party is the second largest constituent in the BJP-led National Democratic Alliance
 
+Fri, 07 Jun 2024 17:17:42 +0530
+### [Can jailed leaders Amritpal Singh and Engineer Rashid function as MPs after Lok Sabha victories? | Explained](https://www.thehindu.com/news/national/can-jailed-leaders-amritpal-singh-and-engineer-rashid-function-as-mps-after-lok-sabha-victories-explained/article68258062.ece)
+
+Article found but Couldn't summarize 
+Will the duo be able to take oath and attend Parliament proceedings despite being undertrials? What happens if they are convicted?
+
 Thu, 06 Jun 2024 18:08:39 +0530
 ### [Bihar, Andhra Pradesh’s demand for special category status | Explained](https://www.thehindu.com/news/national/lok-sabha-election-results-2024-bihar-andhra-pradesh-demand-for-special-category-status-explained/article68258730.ece)
 

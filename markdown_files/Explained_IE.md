@@ -1,3 +1,8 @@
+Mon, 10 Jun 2024 03:26:27 +0000
+### [Highway to ‘climate hell’: What breaching the 1.5 degree Celsius warming threshold could mean](https://indianexpress.com/article/explained/explained-climate/highway-to-climate-hell-9382226/)
+
+Article found but Couldn't summarize
+
 Sun, 09 Jun 2024 23:30:56 +0000
 ### [How horses galloped into human history: What a new study says](https://indianexpress.com/article/explained/how-horses-galloped-into-human-history-what-a-new-study-says-9382272/)
 
