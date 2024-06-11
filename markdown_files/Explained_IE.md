@@ -1,3 +1,30 @@
+Tue, 11 Jun 2024 10:07:03 +0000
+### [Explained: Apple Intelligence, the new AI coming to iPhones, iPads, and Macs](https://indianexpress.com/article/explained/explained-sci-tech/apple-intelligence-9385511/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 09:12:01 +0000
+### [How SpaceX’s Starship can revolutionise space travel and exploration](https://indianexpress.com/article/explained/explained-sci-tech/spacex-starship-9385186/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:49:49 +0000
+### [Significance of Maldives’ pro-China President Muizzu’s New Delhi visit](https://indianexpress.com/article/explained/significance-of-maldives-pro-china-president-muizzus-new-delhi-visit-9384307/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:45:30 +0000
+### [Why Tamil Nadu govt opposes the NEET exam, what the Rajan Committee said on its impact](https://indianexpress.com/article/explained/rajan-panel-report-on-neet-and-why-tn-opposes-the-exam-9384221/)
+
+Here is a summary of the article:
+
+Tamil Nadu Chief Minister M K Stalin has spoken out against the National Eligibility cum Entrance Test (NEET) following the release of the NEET-UG results, which have been questioned due to irregularities. Stalin's government had previously set up a committee to study the impact of NEET, which found that the exam was biased against rural, Tamil-medium, and low-income students. The committee's report showed that after NEET was introduced, fewer students from these groups gained admission to medical colleges, while English-medium and CBSE students benefited. The report recommended that HSC scores be used as the admission criteria instead of NEET scores. The Tamil Nadu government has passed a bill seeking exemption from NEET, which is awaiting Presidential assent.
+
+Tue, 11 Jun 2024 01:33:21 +0000
+### [What are the powers of the Speaker and why is the post crucial for BJP and its allies?](https://indianexpress.com/article/explained/explained-law/powers-of-the-speaker-9384272/)
+
+Article found but Couldn't summarize
+
 Mon, 10 Jun 2024 22:45:28 +0000
 ### [In Shivraj Chouhan, agriculture gets wealth of his MP work experience](https://indianexpress.com/article/explained/in-shivraj-chouhan-agriculture-gets-wealth-of-his-mp-work-experience-9384309/)
 

@@ -1,3 +1,39 @@
+Tue, 11 Jun 2024 17:34:57 +0530
+### [Mumbai airport runway incident: Time for greater caution](https://www.firstpost.com/opinion/mumbai-airport-runway-incident-time-for-greater-caution-13781348.html)
+
+Article found but Couldn't summarize 
+A video of two planes at relatively close distances on the runway of Mumbai airport got shared on social media, creating a level of concern among the public
+
+Tue, 11 Jun 2024 15:42:19 +0530
+### [Shehbaz Sharif’s China visit: All talk, no cash](https://www.firstpost.com/opinion/shehbaz-sharifs-china-visit-all-talk-no-cash-13781300.html)
+
+Article found but Couldn't summarize 
+Based on public statements, the visit seemingly yielded none of Pakistan's desired financial commitments
+
+Tue, 11 Jun 2024 15:05:14 +0530
+### [Why one-month extension to current Army Chief is hotly debated](https://www.firstpost.com/opinion/why-one-month-extension-to-current-army-chief-is-hotly-debated-13781282.html)
+
+Article found but Couldn't summarize 
+Extensions in the armed forces are rare, as the last extension was given to COAS Gen Gopal Bewoor, who had succeeded Field Marshal Sam Manekshaw
+
+Tue, 11 Jun 2024 14:28:52 +0530
+### [Why Europe is set to take a 'Right' turn](https://www.firstpost.com/opinion/why-europe-is-set-to-take-a-right-turn-13781004.html)
+
+Article found but Couldn't summarize 
+Projection says the hard-liners amongst the Right-wingers alone will win about 25 per cent of the seats in the EU assembly in Brussels in elections conducted on June 9
+
+Tue, 11 Jun 2024 13:07:15 +0530
+### [Why Europe's far-right is getting more votes, taking the continent 'rightward'](https://www.firstpost.com/opinion/why-europes-far-right-is-getting-more-votes-taking-the-continent-rightward-13781113.html)
+
+Article found but Couldn't summarize 
+The projections show the Eurosceptic are now a powerful group in the EU parliament
+
+Tue, 11 Jun 2024 10:02:01 +0530
+### [Decoding Modi 3.0 Cabinet: BJP’s message is loud and clear](https://www.firstpost.com/opinion/decoding-modi-3-0-cabinet-bjps-message-is-loud-and-clear-13781098.html)
+
+Article found but Couldn't summarize 
+The message is unequivocal: The BJP is here to lead with a steady hand, and there will be no dilution of its agenda or priorities in the face of coalition politics
+
 Mon, 10 Jun 2024 18:58:35 +0530
 ### [Off-centre |The People’s PMO: Narendra Modi 3.0 back with a bang](https://www.firstpost.com/opinion/off-centre-the-peoples-pmo-narendra-modi-3-0-back-with-a-bang-13780963.html)
 

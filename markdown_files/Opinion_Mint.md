@@ -1,3 +1,51 @@
+Tue, 11 Jun 2024 17:17:13 +0530
+### [Yu Hua on why young Chinese no longer want to work for private firms](https://www.livemint.com/opinion/yu-hua-on-why-young-chinese-no-longer-want-to-work-for-private-firms-11718094695239.html)
+
+Article found but Couldn't summarize 
+In today’s China stability trumps enterprise, argues the novelist
+
+Tue, 11 Jun 2024 15:30:03 +0530
+### [Digital Competition Bill: Its core needs strengthening](https://www.livemint.com/opinion/online-views/digital-competition-bill-its-core-needs-strengthening-11718042860770.html)
+
+Article found but Couldn't summarize 
+This piece of legislation can ensure fairness and contestability in India’s digital sector. But the bill must clarify how core digital services will be identified and reduce the risk of a double whammy suffered by online platforms under both a new law and old anti-trust provisions.
+
+Tue, 11 Jun 2024 15:00:02 +0530
+### [Voter suppression is what higher US barriers to voting will spell](https://www.livemint.com/opinion/online-views/voter-suppression-is-what-higher-us-barriers-to-voting-will-spell-11718042740571.html)
+
+Article found but Couldn't summarize 
+Republicans, under the guise of preventing non-US citizens from voting, are promoting a restrictive ID requirement that could disenfranchise eligible Americans. The ostensible target is voter fraud, but there’s no evidence that it’s widespread.
+
+Tue, 11 Jun 2024 14:00:00 +0530
+### [How hot is too hot? A data-driven approach can help India beat the heat.](https://www.livemint.com/opinion/online-views/how-hot-is-too-hot-a-data-driven-approach-can-help-india-beat-the-heat-11718042589487.html)
+
+Article found but Couldn't summarize 
+Heat stress looms as the country’s foremost health hazard but scientifically updated heat-action plans that consider variables like mortality, morbidity and ambulance calls could help reduce vulnerability. We must shift focus to long-term heat risk mitigation.
+
+Tue, 11 Jun 2024 12:30:17 +0530
+### [OpenAI and the Altman ouster attempt: Corporate governance gone wrong?](https://www.livemint.com/opinion/online-views/openai-and-the-altman-ouster-attempt-corporate-governance-gone-wrong-11718042446667.html)
+
+Article found but Couldn't summarize 
+Did the failed ouster of Sam Altman thwart this AI pioneer’s chance of becoming an institution? The episode revealed the failure of OpenAI’s guard-rails designed to ensure that no one—not even its CEO—could violate its values.
+
+Tue, 11 Jun 2024 10:30:14 +0530
+### [Message for managers of other people’s money: Read the economy right](https://www.livemint.com/opinion/online-views/message-for-managers-of-other-people-s-money-read-the-economy-right-11718042356428.html)
+
+Article found but Couldn't summarize 
+Overall economic performance differs from how an economy’s constituent parts are faring. India grew at 8.2% in 2023-24, but growth has been largely inequitable. Voters don’t vote by data but can feel of the impact of key variables on their lives.
+
+Tue, 11 Jun 2024 08:30:10 +0530
+### [Derivatives trade: Sebi is taking a pro-market approach](https://www.livemint.com/opinion/online-views/derivatives-trade-sebi-is-taking-a-pro-market-approach-11718041488524.html)
+
+Article found but Couldn't summarize 
+Retail investors may have wisened up lately, but their zest for derivatives remains a worry. The market regulator’s proposals to tighten futures and options eligibility can reduce risks.
+
+Tue, 11 Jun 2024 07:00:06 +0530
+### [Mint Quick Edit | The Modi 3.0 cabinet mantra of continuity](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-the-modi-3-0-cabinet-mantra-of-continuity-11718041200838.html)
+
+Article found but Couldn't summarize 
+The portfolios assigned to ministers under Modi 3.0 weigh in favour of Modi 2.0 incumbents. The Centre’s four big ministries—home, defence, external affairs and finance—will be headed by Amit Shah, Rajnath Singh, S. Jaishankar and Nirmala Sitharaman. Investors will likely welcome this.
+
 Mon, 10 Jun 2024 16:00:01 +0530
 ### [The rise of local AI should democratize this technology](https://www.livemint.com/opinion/online-views/the-rise-of-local-ai-should-democratize-this-technology-11717958420177.html)
 

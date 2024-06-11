@@ -1,3 +1,93 @@
+Tue, 11 Jun 2024 17:40:35 +0530
+### [Eat Right: What's the planet-friendly diet that may lengthen your life?](https://www.firstpost.com/health/planet-friendly-diet-beneficial-for-humans-and-the-planet-13781238.html)
+
+Article found but Couldn't summarize 
+A planet-friendly diet, which is mostly based on consuming veggies and fruits, is believed to be highly beneficial for humans and the Earth. A new study backs this claim by saying that it also reduces the risk of premature death by nearly one-third in people. It also dramatically reduces greenhouse gases that are choking the planet
+
+Tue, 11 Jun 2024 17:17:08 +0530
+### [The ‘aandhi’ called Pawan Kalyan: How the movie star scripted his comeback in Andhra politics](https://www.firstpost.com/explainers/pawan-kalyan-jsp-movie-star-andhra-pradesh-deputy-cm-tdp-bjp-politics-13781363.html)
+
+Article found but Couldn't summarize 
+‘Yeh Pawan nahi hai, aandhi hai’, quipped PM Narendra Modi last week while introducing the Telugu actor-politician. Another title may soon be added before Pawan Kalyan’s name as he is likely to become the deputy chief minister of Andhra Pradesh
+
+Tue, 11 Jun 2024 16:50:15 +0530
+### [Is a US recession imminent? Why ‘lipstick index’ could point the way](https://www.firstpost.com/explainers/is-a-us-recession-imminent-why-lipstick-index-could-point-the-way-13781338.html)
+
+Article found but Couldn't summarize 
+The lipstick index was coined by the then Estee Lauder chairman Leonard Lauder in the aftermath of the 9/11 attacks. Lauder noted that women preferred to purchase items like lipstick during recessions rather than more expensive products. Experts say the theory offers an interesting insight into how consumer behaviour can adapt during difficult economic times
+
+Tue, 11 Jun 2024 16:29:29 +0530
+### [Malawi vice president Saulos Chilima confirmed dead in plane crash. Who was he?](https://www.firstpost.com/explainers/malawi-vice-president-saulos-chilima-confirmed-dead-in-plane-crash-who-was-he-13781221.html)
+
+Article found but Couldn't summarize 
+A plane crash resulted in the deaths of Malawi vice president Saulos Chilima and nine others on 11 June. After an extensive search operation, the wreckage of the missing plane was discovered in Chikangawa Forest, with no survivors
+
+Tue, 11 Jun 2024 16:03:50 +0530
+### [Hooked to smartphones? What excessive internet usage does to teenage brains](https://www.firstpost.com/health/hooked-to-smartphones-what-excessive-internet-usage-does-to-teenage-brains-13781212.html)
+
+Article found but Couldn't summarize 
+A study has found that excessive internet usage among adolescents affects regions of their brains which are responsible for controlling attention, intellectual ability, working memory, and physical coordination. This hampers overall development and well-being
+
+Tue, 11 Jun 2024 15:35:41 +0530
+### [Fresh trouble for Sunita Williams? How drug resistant spacebug found on ISS is causing panic](https://www.firstpost.com/explainers/fresh-trouble-for-sunita-williams-how-drug-resistant-spacebug-found-on-iss-is-causing-panic-13781229.html)
+
+Article found but Couldn't summarize 
+Scientists have discovered mutated strains of bacteria Enterobacter bugandensis – usually found in soil, sewage and as flora in gastrointestinal tracts of humans and animals – at various locations on the International Space Station. Experts say the development sheds light on microbial behaviour in isolated environments and reinforces the need for preventive measures to keep astronauts safe
+
+Tue, 11 Jun 2024 14:47:18 +0530
+### [Why BJP’s ‘Big 4’ ministers, Amit Shah, Rajnath, Nirmala and Jaishankar, have a daunting task ahead of them](https://www.firstpost.com/explainers/modi-cabinet-big-4-ministers-ccs-amit-shah-rajnath-singh-nirmala-sitharaman-jaishankar-daunting-task-13781219.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi has retained Amit Shah, Rajnath Singh, Nirmala Sitharaman and S Jaishankar for the ‘big 4’ ministries of home, defence, finance and external affairs in his new Cabinet. The ministers have a challenging road ahead of them. Here’s some of the big trials that await them
+
+Tue, 11 Jun 2024 14:25:25 +0530
+### [‘Maha’ worry: Are chasms developing within the ruling Mahayuti alliance?](https://www.firstpost.com/explainers/maharashtra-lok-sabha-election-results-mahayuti-alliance-chasms-ajit-pawar-ncp-eknath-shinde-shiv-sena-bjp-13781244.html)
+
+Article found but Couldn't summarize 
+Leaders of Ajit Pawar’s NCP and Shinde Sena have expressed their disgruntlement over the allocation of portfolios in Modi 3.0, as both parties were denied Cabinet berths. The Mahayuti alliance’s poor showing in Maharashtra Lok Sabha election results has also sparked a blame game
+
+Tue, 11 Jun 2024 13:34:36 +0530
+### [Manmohan Samal, Suresh Pujari or KV Singh Deo? Who will be Odisha's new CM?](https://www.firstpost.com/explainers/manmohan-samal-suresh-pujari-kv-singh-deo-odisha-new-cm-frontrunners-13781145.html)
+
+Article found but Couldn't summarize 
+The BJP’s suspense over Odisha’s new chief ministerial face will likely end today. The party’s state legislature unit is meeting on Tuesday to elect its leader, who will be sworn in as the chief minister on Wednesday. State BJP president Manmohan Samal, former state party chief Suresh Pujari, senior MLA KV Singh Deo and retired Gujarat cadre IAS officer Girish Murmu are being considered for the job
+
+Tue, 11 Jun 2024 13:26:55 +0530
+### [Anti-immigration, anti-Islam, Pro-Putin: About Marine Le Pen's National Rally party ahead of French elections](https://www.firstpost.com/explainers/france-election-marine-le-pen-far-right-national-rally-party-13781164.html)
+
+Article found but Couldn't summarize 
+Emmanuel Macron called for snap elections after being battered in European Parliament elections. The far-right Rassemblement National (National Rally) party, led by Marine Le Pen, is expected to dominate the polls. We explain the party's ideology and what will happen if it wins
+
+Tue, 11 Jun 2024 12:42:09 +0530
+### [Who is Ursula von der Leyen, European Commission chief vying for a second term. Will she succeed?](https://www.firstpost.com/explainers/europe-eu-elections-2024-who-is-ursula-von-der-leyen-will-she-be-able-to-retain-her-role-as-european-commission-president-why-is-the-post-important-13781132.html)
+
+Article found but Couldn't summarize 
+The surge of euro-sceptic nationalist parties in the European elections is expected to make Ursula von der Leyen's efforts to secure a second term as president of the influential European Commission more challenging, although she remains the leading candidate for the position. Von der Leyen needs to secure a 'qualified majority' from the 27 European Union leaders and also a majority in the 720-seat European Parliament
+
+Tue, 11 Jun 2024 12:26:12 +0530
+### [Meet the 24-year-old YouTuber from Cyprus who won a seat in the EU elections](https://www.firstpost.com/explainers/who-is-the-24-year-old-youtuber-from-cyprus-who-won-a-seat-in-the-eu-elections-13781081.html)
+
+Article found but Couldn't summarize 
+Best known for his audacious comedy clips and prank videos, YouTuber Fidias Panayiotou on Sunday clinched a seat in the European Parliament from Cyprus. He contested the polls as he said he could no longer stand the continued rule of 'nerds' in Brussels
+
+Tue, 11 Jun 2024 11:21:23 +0530
+### [Who is Annapurna Devi, the Jharkhand MP who replaced Smriti Irani as the women and child minister?](https://www.firstpost.com/explainers/annapurna-devi-jharkhand-mp-women-and-child-minister-smriti-irani-13781079.html)
+
+Article found but Couldn't summarize 
+Annapurna Devi, a BJP MP from Jharkhand, is the new Union minister for women and child development. She is one of the two women Cabinet ministers and among seven women in the new Council of Ministers. The 55-year-old, a homemaker, was drawn into the political sphere by fate after her husband RJD legislator Ramesh Yadav passed away suddenly in 1998
+
+Tue, 11 Jun 2024 10:03:42 +0530
+### [Modi 3.0: How upcoming polls influenced Modi’s portfolio allocation for new Cabinet](https://www.firstpost.com/explainers/modi-3-0-upcoming-assembly-polls-maharashtra-bihar-jharkhand-haryana-portfolio-allocation-new-cabinet-13781088.html)
+
+Article found but Couldn't summarize 
+The Narendra Modi government has finally declared the portfolios in the new Cabinet. While it is an exercise in continuity, it also shows that the BJP is gearing up for the Assembly elections in six states and a Union Territory later this year. Here’s how
+
+Tue, 11 Jun 2024 06:00:15 +0530
+### [FirstUp: Congress' Dhanyawaad Yatra, TDP legislature meeting... Top news today](https://www.firstpost.com/explainers/firstup-congress-dhanyawaad-yatra-tdp-legislature-meeting-top-news-today-13780952.html)
+
+Article found but Couldn't summarize 
+The Congress will commence a ‘Dhanyawaad Yatra’ from 11 to 15 June in all 403 constituencies of Uttar Pradesh and Rahul Gandhi will address in Amethi. The TDP legislature meeting will be held to elect N Chandrababu Naidu as the leader. On the global front, the foreign ministers of BRICS bloc will meet for the second day
+
 Mon, 10 Jun 2024 21:02:07 +0530
 ### [Modi 3.0: Why BJP has retained the big 4 ministries, defence, external affairs, home and finance](https://www.firstpost.com/explainers/modi-government-3-0-bjp-big-4-ministries-defence-external-affairs-home-finance-ccs-union-cabinet-13781014.html)
 

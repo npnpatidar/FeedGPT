@@ -1,3 +1,9 @@
+Tue, 11 Jun 2024 08:30:00 +0530
+### [What is happening in the French territory of New Caledonia? | Explained](https://www.thehindu.com/news/international/what-is-happening-in-french-territory-of-new-caledonia/article68274931.ece)
+
+Article found but Couldn't summarize 
+What does the new amendment bill on voters’ list stipulate? Why are Kanaks against it?
+
 Mon, 10 Jun 2024 22:50:44 +0530
 ### [On Special Category Status for Andhra Pradesh | Explained](https://www.thehindu.com/news/national/special-category-status-for-andhra-pradesh/article68274917.ece)
 
