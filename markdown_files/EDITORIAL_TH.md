@@ -1,3 +1,15 @@
+Tue, 11 Jun 2024 00:30:00 +0530
+### [For plurality: On CSDS-Lokniti’s post-poll survey](https://www.thehindu.com/opinion/editorial/for-plurality-the-hindu-editorial-on-csds-loknitis-post-poll-survey/article68274385.ece)
+
+Article found but Couldn't summarize 
+The Lokniti post-poll indicated an exhaustion with the politics of Hindutva
+
+Tue, 11 Jun 2024 00:15:00 +0530
+### [Master of three: On the French Open](https://www.thehindu.com/opinion/editorial/master-of-three-the-hindu-editorial-on-the-french-open/article68273899.ece)
+
+Article found but Couldn't summarize 
+Alcaraz has put himself at the head of the new generation in tennis
+
 Mon, 10 Jun 2024 00:20:00 +0530
 ### [Recalcitrant jumbo: On inflation](https://www.thehindu.com/opinion/editorial/recalcitrant-jumbo-in-inflation/article68270005.ece)
 

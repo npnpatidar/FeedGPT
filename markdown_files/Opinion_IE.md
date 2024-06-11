@@ -1,3 +1,8 @@
+Mon, 10 Jun 2024 15:53:17 +0000
+### [With Modi Cabinet’s EBC tilt, all eyes are on 2025 Bihar election](https://indianexpress.com/article/opinion/modi-cabinet-ebc-2025-bihar-election-9383914/)
+
+The 2024 Lok Sabha elections have led to new political alignments in Bihar, as seen from the representation of Bihar in the Modi 3.0 Cabinet. Seven parliamentarians have been accommodated from the state, with the BJP accommodating its NDA allies with an eye on political mobilisation for the Assembly election in the state. The EBC votes have gained statistical significance, and Tejashwi Yadav is consciously avoiding "Yadavisation" of the Backward Castes, fielding non-Yadav OBCs. The BJP is making inroads in mobilising several EBC communities, but the politics of agda vs picchra has been successful in tilting the EBC vote back into the fold of the Mahagathbandhan led by the RJD in Bihar. The inclusion of EBC and Dalit leaders in the Modi government for 2024 is an important step towards setting the agenda for the Bihar Assembly elections in 2025.
+
 Mon, 10 Jun 2024 11:24:39 +0000
 ### [NEET controversy: MCQ-based examination isn’t the right way to spot doctors](https://indianexpress.com/article/opinion/columns/neet-controversy-mcq-based-exam-isnt-the-right-way-to-spot-doctors-9383515/)
 

@@ -1,3 +1,33 @@
+Mon, 10 Jun 2024 21:02:07 +0530
+### [Modi 3.0: Why BJP has retained the big 4 ministries, defence, external affairs, home and finance](https://www.firstpost.com/explainers/modi-government-3-0-bjp-big-4-ministries-defence-external-affairs-home-finance-ccs-union-cabinet-13781014.html)
+
+Article found but Couldn't summarize 
+A day after the swearing-in ceremony of the Narendra Modi-led NDA government, the Cabinet berths were finally allocated. The BJP has retained plum portfolios including the big four – defence, external affairs, home affairs and finance. These ministries constitute the Cabinet Committee on Security (CCS). Here’s a look at why the saffron party not only kept these posts with itself but also continued the ministers from Modi 2.0
+
+Mon, 10 Jun 2024 19:57:46 +0530
+### [Will France's snap elections hurt the Paris Olympics?](https://www.firstpost.com/explainers/will-france-snap-elections-hurt-the-paris-olympics-macron-marine-le-pen-2024-13780978.html)
+
+Article found but Couldn't summarize 
+On Sunday, French president Emmanuel Macron dissolved the National Assembly and called for a snap election following an exit poll indicating that his Renaissance party might lose to the far-right opposition in the parliamentary elections. The decision comes weeks before the Paris Olympics and has left the city's mayor 'stunned'
+
+Mon, 10 Jun 2024 19:37:20 +0530
+### [When did the modern-day horse come into existence?](https://www.firstpost.com/explainers/when-did-the-modern-day-horse-come-into-existence-13780881.html)
+
+Article found but Couldn't summarize 
+A recent study shows that widespread horse domestication occurred twice. While the first time didn’t result in much, the second time, around 4,200 years ago, changed history for us
+
+Mon, 10 Jun 2024 18:48:32 +0530
+### [How a 'loudspeaker battle' is flaring up between North and South Korea](https://www.firstpost.com/explainers/how-a-loudspeaker-battle-is-flaring-up-between-north-and-south-korea-13780949.html)
+
+Article found but Couldn't summarize 
+In a response to North Korea's trash-filled balloon campaign, South Korea has begun broadcasting anti-Pyongyang messages, international news, K-pop and more over loudspeakers. Now, North Korea is preparing to respond the same way. This is not the first time that tensions have escalated between the two Koreas over such broadcasts
+
+Mon, 10 Jun 2024 17:49:14 +0530
+### [In Graphics | Inside the Modi Cabinet 3.0](https://www.firstpost.com/explainers/in-graphics-inside-the-modi-cabinet-3-0-13780966.html)
+
+Article found but Couldn't summarize 
+In a grand event, Narendra Modi and his 72 Union Council of Ministers were sworn in at Rashtrapati Bhavan. Here's a look at the composition of the new Cabinet — from seven women to 12 NDA partners
+
 Mon, 10 Jun 2024 17:18:33 +0530
 ### [Why the terror attack in J&K’s Reasi that killed 9 pilgrims poses new security concerns](https://www.firstpost.com/explainers/jk-terror-attack-in-reasi-pilgrims-killed-security-concerns-13780926.html)
 

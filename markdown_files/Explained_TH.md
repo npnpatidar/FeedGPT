@@ -1,3 +1,9 @@
+Mon, 10 Jun 2024 22:50:44 +0530
+### [On Special Category Status for Andhra Pradesh | Explained](https://www.thehindu.com/news/national/special-category-status-for-andhra-pradesh/article68274917.ece)
+
+Article found but Couldn't summarize 
+Why is the demand for special status for Andhra Pradesh back in the political limelight? Why did Chandrababu Naidu, back in 2018, settle for a special package? Is the State qualified to be granted special status? What did the 14th Finance Commission state?
+
 Sun, 09 Jun 2024 23:33:39 +0530
 ### [Is it time for proportional representation? | Explained](https://www.thehindu.com/news/national/is-it-time-for-proportional-representation-explained/article68269434.ece)
 

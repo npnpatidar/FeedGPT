@@ -1,3 +1,18 @@
+Mon, 10 Jun 2024 22:45:28 +0000
+### [In Shivraj Chouhan, agriculture gets wealth of his MP work experience](https://indianexpress.com/article/explained/in-shivraj-chouhan-agriculture-gets-wealth-of-his-mp-work-experience-9384309/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 15:29:12 +0000
+### [Israeli Minister Benny Gantz quits Netanyahu govt: Why this matters](https://indianexpress.com/article/explained/explained-global/israel-benny-gantz-quits-significance-9383959/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 15:17:50 +0000
+### [Why Kesarapalli IT Park — not Amaravati — will host Chandrababu Naidu’s swearing-in ceremony](https://indianexpress.com/article/explained/explained-politics/why-kesarapalli-it-park-not-amaravati-will-host-chandrababu-naidus-swearing-in-ceremony-9383903/)
+
+Article found but Couldn't summarize
+
 Mon, 10 Jun 2024 03:26:27 +0000
 ### [Highway to ‘climate hell’: What breaching the 1.5 degree Celsius warming threshold could mean](https://indianexpress.com/article/explained/explained-climate/highway-to-climate-hell-9382226/)
 
