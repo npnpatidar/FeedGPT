@@ -1,3 +1,15 @@
+Wed, 12 Jun 2024 00:20:00 +0530
+### [Continuity and stability: On the Modi government’s new cabinet](https://www.thehindu.com/opinion/editorial/continuity-and-stability-on-the-modi-governments-new-cabinet/article68277897.ece)
+
+Article found but Couldn't summarize 
+The BJP has kept the important portfolios for itself despite the new reality
+
+Wed, 12 Jun 2024 00:10:00 +0530
+### [Facts in fiction: on stopping the release of the Hindi film, Hamare Baarah](https://www.thehindu.com/opinion/editorial/facts-in-fiction-on-stopping-the-release-of-the-hindi-film-hamare-baarah/article68277635.ece)
+
+Article found but Couldn't summarize 
+No ban on books or films can be justified in the name of upholding order
+
 Tue, 11 Jun 2024 00:30:00 +0530
 ### [For plurality: On CSDS-Lokniti’s post-poll survey](https://www.thehindu.com/opinion/editorial/for-plurality-the-hindu-editorial-on-csds-loknitis-post-poll-survey/article68274385.ece)
 

@@ -1,3 +1,15 @@
+Tue, 11 Jun 2024 22:24:22 +0530
+### [Bihar’s call for special category status | Explained](https://www.thehindu.com/news/national/bihars-call-for-special-category-status/article68277523.ece)
+
+Article found but Couldn't summarize 
+How does special category status benefit States like Bihar? What specific criteria qualify a State for special category status? Why has Bihar’s demand been a long-standing issue? What are the political implications of granting special status to Bihar?
+
+Tue, 11 Jun 2024 20:38:01 +0530
+### [What are the Lok Sabha Speaker’s powers and why are BJP allies vying for the post? | Explained](https://www.thehindu.com/elections/lok-sabha/lok-sabha-speaker-powers-and-why-are-bjp-allies-vying-for-the-post/article68273178.ece)
+
+Article found but Couldn't summarize 
+The key allies of the ruling NDA, TDP and JD(U), have their eyes set on the coveted Lok Sabha Speaker’s chair. What is the significance of the post and what are the powers reposed in the authority to address political defections?
+
 Tue, 11 Jun 2024 08:30:00 +0530
 ### [What is happening in the French territory of New Caledonia? | Explained](https://www.thehindu.com/news/international/what-is-happening-in-french-territory-of-new-caledonia/article68274931.ece)
 

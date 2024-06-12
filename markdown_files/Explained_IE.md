@@ -1,3 +1,18 @@
+Tue, 11 Jun 2024 15:35:35 +0000
+### [Expert Explains: What European Parliament election results signify, with the rise of right-wing parties](https://indianexpress.com/article/explained/explained-global/expert-european-parliament-election-results-france-9386277/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 15:18:50 +0000
+### [New Council of Ministers sworn-in: What are the functions of Cabinet Ministers and Ministers of State?](https://indianexpress.com/article/explained/everyday-explainers/new-council-cabinet-ministers-modi-9386223/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 13:28:46 +0000
+### [Why heatwaves have not been included as a notified disaster in the Disaster Management Act](https://indianexpress.com/article/explained/heatwaves-notified-disaster-9386059/)
+
+Article found but Couldn't summarize
+
 Tue, 11 Jun 2024 10:07:03 +0000
 ### [Explained: Apple Intelligence, the new AI coming to iPhones, iPads, and Macs](https://indianexpress.com/article/explained/explained-sci-tech/apple-intelligence-9385511/)
 

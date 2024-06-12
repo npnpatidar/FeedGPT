@@ -1,3 +1,27 @@
+Tue, 11 Jun 2024 21:00:00 +0530
+### [BJP’s Mohan Charan Majhi is new Odisha CM. But where will he stay?](https://www.firstpost.com/explainers/bjp-mohan-charan-majhi-new-odisha-cm-official-residence-bjd-naveen-patnaik-13781426.html)
+
+Article found but Couldn't summarize 
+Mohan Charan Majhi will take oath as Odisha’s chief minister on Wednesday. However, there is no official residence for him yet. Why? The 24-year tenure of Naveen Patnaik holds the answers
+
+Tue, 11 Jun 2024 19:56:45 +0530
+### [How UK, Schengen countries are making millions off rejected visas](https://www.firstpost.com/explainers/how-uk-schengen-countries-are-making-millions-off-rejected-visas-13781443.html)
+
+Article found but Couldn't summarize 
+Data from the Lago Collective showed that rejected visa application fees, known as ‘reverse remittances’, netted Schengen nations and the UK nearly $200 million last year. Experts say low and middle-income nations have the highest rejection rates and that the world’s poorest are paying the price
+
+Tue, 11 Jun 2024 18:56:42 +0530
+### [Who is Mohan Charan Majhi, the new chief minister of Odisha?](https://www.firstpost.com/explainers/who-is-mohan-charan-majhi-the-new-chief-minister-of-odisha-13781420.html)
+
+Article found but Couldn't summarize 
+Mohan Charan Majhi, a four-time MLA from Keonjhar, is from the tribal community. The 53-year-old hails from a humble background and is thought to have strong links to the RSS. He is said to have been ‘instrumental’ in shaping the BJP's policies for the region
+
+Tue, 11 Jun 2024 18:10:52 +0530
+### [How Vietnam is growing bigger by building islands in South China Sea](https://www.firstpost.com/explainers/how-vietnam-is-growing-bigger-by-building-islands-in-south-china-sea-13781327.html)
+
+Article found but Couldn't summarize 
+Vietnam is accelerating its construction of artificial islands amid its territorial dispute with China in the South China Sea. Over the past three years, the area of Vietnamese artificial islands has expanded more than sevenfold, now reaching half the size of China's artificial islands, said a report citing satellite images
+
 Tue, 11 Jun 2024 17:40:35 +0530
 ### [Eat Right: What's the planet-friendly diet that may lengthen your life?](https://www.firstpost.com/health/planet-friendly-diet-beneficial-for-humans-and-the-planet-13781238.html)
 
