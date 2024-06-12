@@ -1,3 +1,9 @@
+Wed, 12 Jun 2024 00:30:00 +0530
+### [T20 World Cup: Taking cricket to America involves a difficult culture transfer](https://www.thehindu.com/opinion/columns/t20-world-cup-cricket-america-difficult-culture-transfer-suresh-menon/article68277510.ece)
+
+Article found but Couldn't summarize 
+It might be politically incorrect to say this, but America isn’t ready to embrace cricket yet
+
 Sun, 09 Jun 2024 20:10:12 +0530
 ### [Lok Sabha 2024 poll verdict: a rare outcome that pleases all](https://www.thehindu.com/news/national/political-line-2024-ls-poll-verdict-a-rare-outcome-that-pleases-all/article68270331.ece)
 

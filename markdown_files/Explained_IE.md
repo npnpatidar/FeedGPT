@@ -1,3 +1,13 @@
+Wed, 12 Jun 2024 08:33:57 +0000
+### [Scientists back new Alzheimer’s drug: its benefits vs risks](https://indianexpress.com/article/explained/explained-health/scientists-back-new-alzheimers-drug-its-benefits-vs-risks-9387601/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 08:32:22 +0000
+### [Why UGC has allowed admissions  twice a year, what could happen now](https://indianexpress.com/article/explained/ugc-admissions-twice-year-9387599/)
+
+The University Grants Commission (UGC) has given universities the option to admit students twice a year, in July/August and January/February, rather than the current single admission cycle in July/August. This change is aimed at providing flexibility for universities to accommodate students who may have missed the initial admission due to health issues, delay in board exam results, or personal reasons. The decision is optional for universities, and they will need to consider the availability of infrastructure and faculty before implementing the new system. The UGC hopes that this change could enhance international collaborations, student exchanges, and increase the gross enrollment ratio in higher education. The UGC's decision does not affect the ongoing admissions process for the upcoming academic year, and universities may choose to implement the change gradually, starting with a few programs. Additionally, the newly formed Andhra Pradesh Cabinet, led by CM Chandrababu Naidu, consists of 24 ministers from the TDP, JSP, and BJP parties, and has confirmed making Amaravati the capital.
+
 Tue, 11 Jun 2024 15:35:35 +0000
 ### [Expert Explains: What European Parliament election results signify, with the rise of right-wing parties](https://indianexpress.com/article/explained/explained-global/expert-european-parliament-election-results-france-9386277/)
 

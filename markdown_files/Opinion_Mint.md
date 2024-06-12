@@ -1,3 +1,57 @@
+Wed, 12 Jun 2024 16:00:04 +0530
+### [The failure of exit polls hold behavioural lessons for us](https://www.livemint.com/opinion/online-views/the-failure-of-exit-polls-hold-behavioural-lessons-for-us-11718130350380.html)
+
+Article found but Couldn't summarize 
+Why did pollsters go so wrong? Studies show that people often express false views to fit in with their notion of the majority view.
+
+Wed, 12 Jun 2024 15:00:02 +0530
+### [The European Union project remains vital to peace, prosperity and more](https://www.livemint.com/opinion/online-views/the-european-union-project-remains-vital-to-peace-prosperity-and-more-11718130249955.html)
+
+Article found but Couldn't summarize 
+European elections are a reminder of all that makes the EU unique as a political endeavour. At a time when the geopolitical ground is shifting, Europe has stuck with its principles of unity, determination and solidarity.
+
+Wed, 12 Jun 2024 14:36:50 +0530
+### [Sebi must frame policies on disclosure, conflict of interest for exit pollsters](https://www.livemint.com/opinion/sebi-disclosure-conflict-of-interest-exit-polls-lok-sabha-election-11718182278877.html)
+
+Article found but Couldn't summarize 
+Sebi must insist on full disclosure of any conflict of interest on the part of exit pollsters to preserve the integrity of market regulations
+
+Wed, 12 Jun 2024 14:00:16 +0530
+### [Consumer expenditure survey: Its new methodology is superior](https://www.livemint.com/opinion/online-views/consumer-expenditure-survey-its-new-methodology-is-superior-11718130149483.html)
+
+Article found but Couldn't summarize 
+Its data quality has improved even if changes in how Indian households are polled reduce its comparability with the past.
+
+Wed, 12 Jun 2024 14:00:15 +0530
+### [As it spreads across the world, who owns English?](https://www.livemint.com/opinion/online-views/as-it-spreads-across-the-world-who-owns-english-11718117188708.html)
+
+Article found but Couldn't summarize 
+Or, for that matter, French or Portuguese?
+
+Wed, 12 Jun 2024 12:30:10 +0530
+### [Post-binary lens: China is more of a challenge than a threat](https://www.livemint.com/opinion/online-views/postbinary-lens-china-is-more-of-a-challenge-than-a-threat-11718129794969.html)
+
+Article found but Couldn't summarize 
+India and China have lessons to learn from each other in avenues like healthcare and railways. We must aim for reconciliation and cooperation. Let the flag follow trade to exploit our vast potential for mutually assured development.
+
+Wed, 12 Jun 2024 10:30:01 +0530
+### [Private sector participation in LVM3 production could mean a space sector boom](https://www.livemint.com/opinion/online-views/private-sector-participation-in-lvm3-production-could-mean-a-space-sector-boom-11718129556130.html)
+
+Article found but Couldn't summarize 
+Technical knowledge transfer from Isro to the private sector will spread space expertise. Competition will play a key role and new skills could strengthen India’s supply of launch vehicles to meet growing global demand for launch services.
+
+Wed, 12 Jun 2024 08:30:17 +0530
+### [Coalition challenge: Fiscal prudence mustn’t lose to competitive populism](https://www.livemint.com/opinion/online-views/coalition-challenge-fiscal-prudence-mustn-t-lose-to-competitive-populism-11718126599081.html)
+
+Article found but Couldn't summarize 
+Political competition has intensified in India, as election results showed, but the NDA government should focus on what’s good for its economy. Sceptic-defying resolve on faster tightening of the fiscal deficit can send out the right signals. Go for under 5% of GDP in the budget for 2024-25.
+
+Wed, 12 Jun 2024 07:00:14 +0530
+### [Mint Quick Edit | Is the rupee’s new low okay?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-is-the-rupee-s-new-low-okay-11718126282356.html)
+
+Article found but Couldn't summarize 
+The Indian rupee fell to a record closing low of 83.56 against the US dollar. RBI’s managed float doesn’t promise to get easier as the currency trade-offs we face won’t ease.
+
 Tue, 11 Jun 2024 17:17:13 +0530
 ### [Yu Hua on why young Chinese no longer want to work for private firms](https://www.livemint.com/opinion/yu-hua-on-why-young-chinese-no-longer-want-to-work-for-private-firms-11718094695239.html)
 

@@ -1,3 +1,62 @@
+Wed, 12 Jun 2024 12:30:19 +0000
+### [How Naveen Patnaik was bested by BJP in Odisha](https://indianexpress.com/article/opinion/columns/how-naveen-patnaik-was-bested-by-bjp-in-odisha-9387813/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 12:10:01 +0000
+### [Sanjaya Baru writes: The importance of Mohan Bhagwat](https://indianexpress.com/article/opinion/columns/sanjaya-baru-mohan-bhagwat-9388139/)
+
+The article discusses a conversation between NT Rama Rao, a political leader from Andhra Pradesh, and Chaudhury Devi Lal, a leader from Haryana. Devi Lal asked about Rama Rao's caste, to which Rama Rao replied that they are Andhra Jats. The article then goes on to talk about the concept of pan-Indian communities, with the author suggesting that Brahmins and Muslims were the two groups that could unite the sub-continent. The author argues that the RSS, an ideological organization, sought to unite post-colonial India and that its first Prime Minister, Atal Bihari Vajpayee, was a Brahmin. The article also discusses Narendra Modi's attempts to widen his support base by exploiting caste and communal divisions. The RSS, on the other hand, emphasizes Hindu unity and seeks to win over minority communities based on its concepts of Hinduva and Bharatiyata. The article ends with a discussion about the RSS Sarsanghchalak Mohan Bhagwat's remarks criticizing Modi's divisive and self-serving politics, and the author's observation that Bhagwat has risen above Modi, placing himself on the higher pedestal of national unity. The article also mentions the newly formed Andhra Pradesh Cabinet and the decision to make Amaravati the capital.
+
+Wed, 12 Jun 2024 10:55:41 +0000
+### [With BSP down this election, what’s the way forward for Dalit politics?](https://indianexpress.com/article/opinion/columns/bsp-election-way-forward-dalit-politics-9387914/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 10:51:43 +0000
+### [In Telugu heartland, a chance to boost India’s cultural revival](https://indianexpress.com/article/opinion/columns/telugu-heartland-chance-to-boost-india-cultural-revival-9387973/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:45:40 +0000
+### [June 12, 1984, Forty Years Ago: Amitabh Bachchan is recovering, will be able to act again](https://indianexpress.com/article/opinion/40-years-ago/june-12-1984-forty-years-ago-amitabh-bachchan-is-recovering-will-be-able-to-act-again-9386644/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:41:37 +0000
+### [From Italy to Japan, tourists are the new pests of summer](https://indianexpress.com/article/opinion/editorials/from-italy-to-japan-tourists-are-the-new-pests-of-summer-9386643/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:40:33 +0000
+### [In Shivraj Singh Chouhan’s new position, hope for Indian farming](https://indianexpress.com/article/opinion/editorials/in-shivraj-singh-chouhans-new-position-hope-for-indian-farming-9386642/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:39:25 +0000
+### [Terror attack in Reasi underscores fragility of a hard-won peace in J&K](https://indianexpress.com/article/opinion/editorials/after-reasi-attack-time-to-redraw-the-red-lines-9386625/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:25:21 +0000
+### [Even with coalition government, the direction of India’s economic policy is unlikely to change](https://indianexpress.com/article/opinion/columns/even-with-coalition-government-the-direction-of-indias-economic-policy-is-unlikely-to-change-9386624/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:23:23 +0000
+### [In this Lok Sabha election, democracy was the real winner](https://indianexpress.com/article/opinion/columns/in-this-lok-sabha-election-democracy-was-the-real-winner-9386657/)
+
+本文摘要：2024年印度选举结果给了印度民主一个新的生机，阻止了一个分裂的 Prime Minister 的权力扩张。虽然纳赫达 Modi 和 BJP 在预测中预期获得超过400个 Lok Sabha 席，但这些结果对 Modi 是一个重大挫折，BJP 在 2019 年的 303 个席中失去了 63 个，只获得了 240 个，远远低于形成多数政府所需的 272 个席。然而，BJP 在这次选举中所获得的共产党选举中所获得的投票比例仅微小地下降，从 2019 年的 37.3% 降至 2024 年的 36.6%。因此，Modi 和 BJP 仍然是印度的一个强大的政治力量。BJP 在 парламент中的席位下降主要是因为反对党成功地合作了。Modi 失败了因为他在治政十年中表现不佳，并且因为埃缔尔 (Hindutva) 的受欢迎程度已经达到了上限。Modi 的政府经常扭曲事实，并因为企业支持和屈从的媒体而放大了其经济成就。根据世界银行数据，Modi 期间的平均年经济增长为 6%，即使排除了 Covid 年，比 1991 年至 2013 年的共产党期间的 6% 略微低。BJP 没有实现“制造在印度”承诺，印度的工业增长在 Modi 期间保持了缓慢的增长，具有生活可以支持的工资的工作几乎没有出现。这同时伴随着经济不平等的显著增加。根据世界不平等报告 (2021)，从 2012 年到 2020 年，印度顶级 1% 所拥有的财富的份额从 30.7% 上升到 42.5%，而底层 50% 所拥有的份额从 6.4% 下降到 2.8%。Rahul Gandhi 和其他反对派人士在反对 Modi 的主要战略中抓住了这些变化。Modi 和他的支持者经常声称他提高了印度的福利供应。大多数这些声称都是虚假的。根据数据，中央公共支出在教育和健康方面几乎没有增加。Modi 的政府在社会服务支出中的比重也一直保持在 22% 左右，这与其前驱共产党年代相同。Modi 政府的优点是在为印度的穷人提供个人“礼物”的方式来品牌所有的这些支出。因此，Modi 和 BJP 难以证明自己是优秀的经济管理者。反对派将 Modi 推向了防守的角色，不断地将他描述为 billionaires 的朋友，尤其是他自己的同胞 Mukesh Ambani 和 Gautam Adani。失败于创造工作也似乎对选民有所影响。因为经济信息没有再获得更多的政治支持，Modi 和 BJP 转向了更为慌乱的措施。例如，拘押 Delhi 市长 Arvind Kejriwal 是一个例子。当最高法院做出了它的职责并允许 Kejriwal 运营时，Modi 似乎更加分裂了他的选举主义口号。这些措施扩大了对 Hindu 的支持似乎没有效果。BJP 在包含 Ayodhya 寺庙的 Faizabad 选区中失去了席位。此外，Modi 本身的选民基础在 Varanasi 地区显著缩小，这意味着 Hindu 的诱惑力已经达到了上限，并且 Modi 不是媒体所描述的无敌吸引力的领袖。Modi 在压制反对派方面过度发挥了手段。如果马雅维特、尼什·库马尔和穆逊·奈德鲁也加入了共产党领导的联盟，2024 年选举结果会有多么不同。这些建议得到了支持，因为共产党的人口投票比例仅微小地上升，从 2019 年的 19.5% 上升至 2024 年的 21.2%。Rahul Gandhi 在这次选举中诞生为一个可靠的反对派领导人。然而，是否他的左倾言论更多地与印第拉 Gandhi 的空虚的贫穷消除承诺相似，还是真正代表共产党政党的政治立场的变化，尚未证明。这么做会给印度带来好处。由于尼什 作为同盟，Modi 可能会有许多无法睡的夜晚。他也不是一个协商能力强的人格。无论何时，环境的压力会使 Modi 成为一个国家家长，这对印度来说是一个好消息。
+
+文章作者是普林斯顿大学的 David Bruce 国际事务教授。
+
+注：本文中有广告或无关内容，我们在摘要中不会包含它们，也不需要提及它们的存在。
+
+Wed, 12 Jun 2024 02:21:27 +0000
+### [Chinese armed forces have been upgrading. India must keep up](https://indianexpress.com/article/opinion/columns/chinese-armed-forces-have-been-upgrading-india-must-keep-up-9386658/)
+
+Article found but Couldn't summarize
+
 Tue, 11 Jun 2024 13:00:38 +0000
 ### [From Bangladesh to Pakistan, how Modi 3.0 is being received by India’s neighbours](https://indianexpress.com/article/opinion/columns/narendra-modi-pakistan-bangladesh-india-neighbours-relations-9385931/)
 

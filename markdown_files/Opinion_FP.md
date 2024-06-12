@@ -1,3 +1,40 @@
+Wed, 12 Jun 2024 17:31:31 +0530
+### [How India’s bet on Chabahar can counter China’s Gwadar gambit](https://www.firstpost.com/opinion/how-indias-bet-on-chabahar-can-counter-chinas-gwadar-gambit-13781785.html)
+
+The article discusses India's strategic plans to establish new trade and transport connectivity routes, particularly focusing on the Chabahar port in Iran and the India-Middle East-Europe Economic Corridor (IMEC). The Chabahar port, with its rich history dating back to ancient times, has the potential to become the gateway for India to access Central Asian countries. The development of this port, which is a critical node in the International North-South Transport Corridor (INSTC), aims to enhance regional connectivity, reduce Afghan dependency on Pakistan, and provide India with an alternative trade pathway.
+
+The IMEC, a new 4,800-kilometer trade route, was recently announced and aims to stimulate economic development and integration. It comprises two separate routes: an east corridor linking India to the Arabian Gulf and a northern corridor connecting Gulf states to Europe. This corridor is intended to deepen India's economic integration with Saudi Arabia and the UAE, rebuild historic links between India, the Middle East, and Eurasia, and reimagine connectivity towards an Asian resurgence.
+
+The article contrasts India's approach with China's Belt and Road Initiative, particularly the Gwadar port in Pakistan, which has faced numerous issues, including corruption, inefficiencies, debt, and security concerns. The author suggests that India's transparency and delivery on its promises, such as trading with Afghanistan through the port of Chabahar, set it apart from China's approach.
+
+Wed, 12 Jun 2024 16:28:40 +0530
+### [Why Pakistan leaders' outreach to India is a non-starter](https://www.firstpost.com/opinion/why-pakistan-leaders-outreach-to-india-is-a-non-starter-13781710.html)
+
+Article found but Couldn't summarize 
+India’s stand remains clear—there can be no dialogue until Pakistan stops cross-border terrorism
+
+Wed, 12 Jun 2024 15:04:11 +0530
+### [Why timing of Meloni's Italy hosting G7 summit couldn't have been better](https://www.firstpost.com/opinion/why-timing-of-melonis-italy-hosting-g7-summit-couldnt-have-been-better-13781708.html)
+
+Article found but Couldn't summarize 
+The projections of European parliamentary elections reflect the growing clout of Italian Prime Minister Giorgia Meloni, who is all set to host leaders from the most developed democratic nations
+
+Wed, 12 Jun 2024 14:37:01 +0530
+### [New Delhi’s Tibet-Taiwan move: How India-China relations will fare under Modi 3.0](https://www.firstpost.com/opinion/new-delhis-tibet-taiwan-move-how-india-china-relations-will-fare-under-modi-3-0-13781679.html)
+
+The article discusses the state of India-China relations under Prime Minister Narendra Modi's third term. It highlights several events that have strained the relationship, including China's objections to India's ties with Taiwan, its release of a video of the Galwan Valley clash during the Indian elections, and its support for Pakistan-sponsored terrorism. The article also mentions India's plans to rename places in occupied Tibet and hold military simulations with Taiwan, which China is likely to view unfavorably. The author concludes that the relationship between India and China under Modi 3.0 will continue to be rocky, if not rockier, and that New Delhi needs to be prepared for fresh surprises from Beijing. The article was written by an Associate Professor of Chinese Studies and International Relations at the Jindal School of International Affairs, O P Jindal Global University, Haryana.
+
+Wed, 12 Jun 2024 12:36:22 +0530
+### [Pakistan’s deteriorating security situation sours ties with Arab and Chinese ‘friends’](https://www.firstpost.com/opinion/pakistans-deteriorating-security-situation-sours-ties-with-arab-and-chinese-friends-13781634.html)
+
+The article discusses the increased concerns of China regarding the safety of its nationals working on the China-Pakistan Economic Corridor (CPEC) projects in Pakistan. The article mentions that China is demanding a large-scale counterterrorism operation against militant groups, such as the Tehreek-i-Taliban Pakistan (TTP), due to escalating threats to Chinese nationals. The article also highlights that Pakistan's economy is in a crisis, and a massive military operation would entail its own costs. Additionally, the article discusses the tension between Pakistan and Afghanistan, with the Taliban's unwillingness to act against the TTP posing a threat to Pakistan's security. The article concludes by stating that extremism and intolerance in Pakistan have thrived with state support and have become a huge hurdle in the way of economic progress, including foreign investment.
+
+Wed, 12 Jun 2024 10:33:38 +0530
+### [Difference between convicted felons Hunter Biden and hunted Trump](https://www.firstpost.com/opinion/difference-between-convicted-felons-hunter-biden-and-hunted-trump-13781568.html)
+
+Article found but Couldn't summarize 
+During the Trump trial last month, most ‘liberal’ media in the US conducted a parallel trial concurrently. But the same media are trying to portray Biden Jr not as the pampered son of a powerful family who lives beyond his means but as an American aam aadmi
+
 Tue, 11 Jun 2024 17:34:57 +0530
 ### [Mumbai airport runway incident: Time for greater caution](https://www.firstpost.com/opinion/mumbai-airport-runway-incident-time-for-greater-caution-13781348.html)
 

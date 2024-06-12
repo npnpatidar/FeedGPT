@@ -1,3 +1,134 @@
+Wed, 12 Jun 2024 17:29:19 +0530
+### [What is driving a surge in dengue cases in Europe?](https://www.firstpost.com/explainers/dengue-cases-in-europe-surge-climate-change-13781775.html)
+
+Article found but Couldn't summarize 
+Europe has seen a ‘significant’ rise in dengue infections in recent years. The European Union (EU) health agency said tiger mosquitoes are spreading the infections. But why have the cases increased now?
+
+Wed, 12 Jun 2024 17:04:13 +0530
+### [Why does India have two budgets this year?](https://www.firstpost.com/explainers/why-does-india-have-two-budgets-this-year-13781756.html)
+
+Article found but Couldn't summarize 
+India has two budgets this year because the incumbent government cannot present a full budget before the general elections. The interim budget lets the Centre withdraw money from the Consolidated Fund of India to tide over expenses from April to July until a new government takes over. The full budget is an annual financial statement presented after the new government takes office
+
+Wed, 12 Jun 2024 15:53:11 +0530
+### [How Indian universities offering admissions twice a year will benefit students](https://www.firstpost.com/explainers/indian-universities-admissions-twice-students-benefits-13781649.html)
+
+Article found but Couldn't summarize 
+In a big change, universities in India will now offer admissions twice a year, in July-August and then in January-February, similar to their foreign counterparts. This policy will be available for undergraduate, postgraduate and PhD programmes
+
+Wed, 12 Jun 2024 15:23:22 +0530
+### [Why shares of a firm making tiny $35 computers are soaring](https://www.firstpost.com/explainers/why-shares-of-a-firm-making-tiny-35-computers-are-soaring-13781695.html)
+
+Article found but Couldn't summarize 
+On Tuesday morning, Raspberry Pi set its IPO price on the London Stock Exchange at £2.80 per share, giving the company a valuation of £542 million, or approximately $690 million based on the current exchange rate. Following this, the company's shares surged by 32 per cent, reaching £3.70 per share. As a result, Raspberry Pi has the potential to raise over $200 million through its IPO process
+
+Wed, 12 Jun 2024 15:15:58 +0530
+### [Who is Nara Lokesh, the MBA from Stanford, behind TDP’s resurgence in Andhra Pradesh?](https://www.firstpost.com/explainers/nara-lokesh-mba-from-stanford-tdp-victory-andhra-pradesh-n-chandrababu-naidu-son-13781687.html)
+
+Nara Lokesh, son of Andhra Pradesh Chief Minister N Chandrababu Naidu, has been inducted into the state cabinet after taking oath as a minister. Lokesh, who lost his constituency in the 2019 Assembly elections, has made a comeback and won the same seat this time. His victory has been credited with the TDP's resurgence in Andhra politics. Lokesh completed his MBA from Stanford University and served as the IT minister in the last TDP government. His induction to the cabinet has sparked criticism as he was a member of the Legislative Council and not directly elected by the people. In the 2019 Assembly elections, he lost to the YSR Congress Party candidate by a narrow margin. However, he made a comeback in the recent elections with a landslide victory, defeating the YSR Congress Party's candidate by a huge margin. The TDP won the key Mangalagiri seat for the first time after nearly four decades. Lokesh's victory is attributed to his hard work and dedication in the constituency, which helped him regain the public's trust. The TDP emerged as a key player in national politics by bagging the second-highest number of seats among the NDA allies after the BJP. Lokesh is seen as an "accessible" face to the public and has been entrusted with important responsibilities in the state.
+
+Wed, 12 Jun 2024 14:33:18 +0530
+### [Why has India restricted import of gold jewellery?](https://www.firstpost.com/explainers/why-has-india-restricted-import-of-gold-jewellery-13781684.html)
+
+Article found but Couldn't summarize 
+India on Tuesday restricted the import of gold jewellery studded with pearls, certain types of diamonds, and other precious and semi-precious stones. This comes after imports of jewellery parts now banned surged from $52 million in 2022-2023 to to $1.5 billion in 2023-2024. Sources said some gold items were being brought into India duty-free and being melted to create jewellery
+
+Wed, 12 Jun 2024 13:53:49 +0530
+### [The shocking arrest of Kannada actor Darshan Thoogudeepa, 'girlfriend' over fan’s murder](https://www.firstpost.com/explainers/kannada-actor-darshan-thoogudeepa-girlfriend-arrested-for-fans-murder-13781601.html)
+
+Article found but Couldn't summarize 
+Kannada actor Darshan Thoogudeepa and 11 others including his rumoured partner Pavithra Gowda were arrested on Tuesday in a murder case in Bengaluru. Police say Renukaswamy, an ardent fan of Darshan, allegedly sent Pavithra obscene messages, blaming her for Darshan’s separation from his wife Vijayalakshmi. The victim was allegedly kidnapped and assaulted before he succumbed to his injuries
+
+Wed, 12 Jun 2024 13:33:25 +0530
+### [3 terror attacks in 3 days: What is going on in Jammu and Kashmir?](https://www.firstpost.com/explainers/3-terror-attacks-3-days-jammu-kashmir-doda-reasi-saida-sukhal-13781662.html)
+
+Article found but Couldn't summarize 
+Jammu and Kashmir is seeing an escalation of violence, spreading fear in the region. It all began on 9 June when a bus plunged into a gorge after being attacked by terrorists, followed by an attack on a village in Kathua and then an exchange of fire between terrorists and security forces in Doda district
+
+Wed, 12 Jun 2024 13:16:43 +0530
+### [Explained: The Cabinet portfolios PM Modi is spearheading and their importance](https://www.firstpost.com/explainers/explained-the-cabinet-portfolios-pm-modi-is-spearheading-and-their-importance-13781621.html)
+
+印度总理南德拉莫卜瓦（Narendra Modi）在他的第三任期中，选择保留了部门空间、原子能部门和人事、公共投诉和人力资源部门，并将这些部门直接置于他的管理下。 他将负责印度空间研究组织（ISRO）的运营，同时，今天 Singh 将负责这些部门的日常事务，在他的职位为国务院副长。
+
+这一决定为 Modi 的信任在关键领域处理重要角色而放光。
+
+人事、公共投诉和人力资源部门：
+这个部门对于监督宪政和确保公共行政高效非常重要。 一个重要的议题是，潜在的改革可能会确保国家退休金系统（NPS）退休金至少是劳动者最后一次薪水的一半。 目前，已经有超过 8700万中央和州政府职员在 2004 年以来参加了 NPS。 财政长官 Somanathan 在 3 月份领导的一支委员会正在探索方法，从 NPS 框架中提高退休金福利，而不是转回非贡献性老年退休制度（OPS）。
+
+原子能部门：
+南德拉莫卜瓦在此部门的保留，突出了这个部门的战略重要性。 该部门于 1954 年成立，位于孟买，原先由 Jawaharlal Nehru 领导，而 Homi Bhabha 担任秘书长。 该部门对于开发原子能技术和应用辐射技术至关重要，包括农业、医学、工业和基本研究。 该部门包括五个研究中心、三家工业组织、五家国有企业以及支持八所国际级重要实验室。
+
+该部门的项目目标是增加印度能源混合中的原子能的份额，并开发先进技术，例如加速器、激光和超级计算机。
+
+空间部门（DoS）：
+空间部门管理印度的雄厚空间计划，包括 ISRO。 在 Modi 的领导下，ISRO 取得了重大成就，包括成功地将 Chandrayaan-3 放置在月球南极附近，以及发射 India 的第一次太阳使用 Aditya L-1 的使用。
+
+空间部门的目标是通过空间技术为社会经济发展提供益处，管理用于通信、电视广播、气象预报和资源监测的卫星系统。
+
+ Singh 的角色：
+ Singh 是三位 BJP 议员中的一位，他继续扮演重要角色，在他的职位为国务院副长（独立职位），负责科学技术和地球科学，同时也负责原子能和空间，为 Modi 在这些领域提供支持。 Singh 已经在推动印度航天探索和实施公共行政改革和退休金政策方面做出了重大贡献。
+
+ Modi 和行政委员会的角色：
+ Modi 将行政委员会建立起来，分配特定功能并确保他们的有效运行。 这些委员会通常由三到八名行政部长组成，其中大多数是行政部长。 Modi 自己通常主持这些委员会，以导航重要政策决策和解决重要问题。
+
+ 目前，有八个行政委员会：聘用委员会、经济事务行政委员会、政治事务行政委员会、投资和增长行政委员会、安全行政委员会、行政事务行政委员会、就业和技能发展行政委员会和住房行政委员会。
+
+ 这些委员会对于提出给行政会议的建议和对分配的问题做出决定非常重要。
+
+ Modi 的策略分配：
+在他的第三任期中，Modi 倾向于重视持续性，将原来的部门长保留在他们的原来的角色中。 Amit Shah 继续担任内务部长，S Jaishankar 继续担任外交部长，Nirmala Sitharaman 继续担任财政部长，Rajnath Singh 继续担任国防部长。
+
+ Nitin Gadkari 继续负责道路、交通和高速公路，而 Sarbananda Sonowal 负责航海，Ashwini Vaishnaw 继续负责铁路。这些重新appointment 反映出 Modi 对他们的能力以及他们在他的行政计划中的关键角色的信任。
+
+ Jyotiraditya Scindia 被分配到通信部门，而来自 Telugu Desam Party（TDP）的 Ram Mohan Naidu 分配到航空航天部门。 Piyush Goyal 继续负责商业和工业，Dharmendra Pradhan 继续担任教育部长，而 Hardeep Singh Puri 继续负责石油和天然气。
+
+ BJP 总书记 JP Nadda，2014 年是 Modi 的行政会议成员，现在担任医疗部长，并持有化学和肥料部门的职位。
+
+ Modi 的政府前进时，这些策略决定可能会在印度未来轨迹上发挥重要作用。
+
+有些输入来自机构。
+
+Anmol 是 Firstpost 的高级副编辑。他喜欢喜忍忍地涉及那些讽刺他的故事，通常涉及国际政治、印度外交政策、人类兴趣、环境以及充满政治热情的印度选举周期。他已经访问了印度子 kontinent 中的 14 个州，一直在寻找有机会增加这个列表的机会。他喜欢看足球、网球和 F1 竞技赛，只是一个体育爱好者。
+
+Wed, 12 Jun 2024 12:35:43 +0530
+### [Can the Indian rupee hit an all-time low against the US dollar?](https://www.firstpost.com/explainers/inr-usd-will-indian-rupee-fall-further-us-dollar-all-time-low-13781639.html)
+
+On June 11, 2024, the Indian rupee reached an all-time closing low of 83.57 against the US dollar due to a combination of factors, including a strengthening US dollar, political uncertainties in India, volatility in Europe, and rising crude oil prices. On the following day, the rupee narrowly missed hitting another all-time low, opening at 83.54. The risk of the rupee hitting another lifetime low persists, as the US Federal Reserve is expected to announce its decision on whether to cut interest rates and key inflation data is expected to be released. The Reserve Bank of India may intervene in the foreign exchange market to prevent the rupee from falling further.
+
+Wed, 12 Jun 2024 12:10:34 +0530
+### [Delhi's Dark Day: Why the national capital faced a power outage for hours](https://www.firstpost.com/explainers/delhi-dark-day-why-the-national-capital-faced-a-power-outage-for-hours-13781541.html)
+
+Article found but Couldn't summarize 
+Several areas of the capital city plunged into darkness for more than two hours on Monday. It added to the misery of Delhi residents, who are already battling scorching heat and a severe water shortage
+
+Wed, 12 Jun 2024 10:37:56 +0530
+### [N Chandrababu Naidu's swearing-in: Who’s attending? Which ministers are taking oaths?](https://www.firstpost.com/explainers/n-chandrababu-naidu-swearing-in-whos-attending-ministers-taking-oaths-13781536.html)
+
+Telugu Desam Party (TDP) 首席领导人 N Chandrababu Naidu 将在 2023 年 6 月 12 日在 Kesarapalli IT Park 附近的甘内卢姆 Airport 周围的 VIJAYAWADA 举行宣誓典礼，成为安德拉普拉德州长官，第四届任期。该典礼期望参加的人员包括 Prime Minister Narendra Modi、Union Home Minister Amit Shah、Union Health Minister JP Nadda 以及许多其他州长。其他参加的人员包括 Naidu 的儿子 Nara Lokesh、праجワ尔卡尔雅坦（Janasena）首席、N Manohar 和 TDP 安德拉普拉德州领导人 Atchannaidu 等人。该新政府的行政院可能有 26 名minister，包括长官。据 Hindustan Times (HT) 报道，25 名minister 将被宣誓，其中 17 名是新人。
+
+在 2023 年 6 月 12 日上午 11:27 宣誓典礼之前，Naidu 与安德拉普拉德州州长 S Abdul Nazeer 在 Vijayawada 的 Raj Bhavan 会面， officially 提出建立政府。N Chandrababu Naidu 将成为长官的第四次，取代来自 Yuvajana Sramika Rythu Congress Party (YSRCP)的 YS Jagan Mohan Reddy。
+
+Wed, 12 Jun 2024 10:13:23 +0530
+### [Joe Biden’s son, Hunter, found guilty in gun trial: Will he go to prison?](https://www.firstpost.com/explainers/joe-biden-son-hunter-guilty-gun-trial-prison-future-13781553.html)
+
+Article found but Couldn't summarize 
+Hunter Biden, the son of US president Joe Biden, becomes the first child of a sitting American chief to be convicted of a federal crime. The judge in the gun trial case will now decide if the 54-year-old should be sent to prison and for how long. The maximum punishment for the crime is 25 years, which experts say is unlikely to be handed out to Biden junior
+
+Wed, 12 Jun 2024 08:58:17 +0530
+### [Trunk call: Do elephants call out to each other by their name?](https://www.firstpost.com/explainers/trunk-call-do-elephants-call-out-to-each-other-by-their-name-13781228.html)
+
+The article discusses a new study that suggests elephants may use distinctive, rumbling sounds as individual names, making them the only non-human species known to use language. The study, carried out on wild African Savannah elephants in Kenya, used an artificial intelligence algorithm to analyze calls between two herds. The researchers found that elephants can determine who a call is intended for and that names are often used over long distances and when adults are addressing young elephants. The study also found that elephants respond positively and energetically to recordings of their names, but do not merely imitate the call of the intended recipient, suggesting that they invent "arbitrary" names for each other. The researchers believe that this ability to use names highlights the importance of social bonds for elephants and indicates they have the ability for abstract thought. However, it is noted that more research is needed to fully understand the syntax and basic elements of elephant vocalizations.
+
+Wed, 12 Jun 2024 08:30:14 +0530
+### [Why Chandrababu Naidu is not taking oath in Amaravati, the future capital of Andhra Pradesh](https://www.firstpost.com/explainers/chandrababu-naidu-oath-taking-ceremony-krishna-district-amaravati-capital-andhra-pradesh-13781417.html)
+
+N Chandrababu Naidu, the Andhra Pradesh CM-designate, will be sworn in at 11:27 am on June 12 near Kesarapalli IT Park in Gannavaram, Krishna district. The ceremony was originally planned for Amaravati, but logistical challenges and minimal development in the area led to the change in venue. Amaravati's development had stalled after the 2019 state assembly elections, but Naidu's return to power has rekindled discussions about its future. The coming months will be crucial in determining the trajectory of Amaravati's development and its role in Andhra Pradesh's future.
+
+Wed, 12 Jun 2024 06:00:38 +0530
+### [FirstUp: Chandrababu Naidu to take oath as Andhra CM, swearing-in of first BJP govt in Odisha... Big headlines today](https://www.firstpost.com/explainers/firstup-chandrababu-naidu-to-take-oath-as-andhra-cm-swearing-in-of-first-bjp-govt-in-odisha-big-headlines-today-13781328.html)
+
+Today, several significant events are expected to occur. In Andhra Pradesh, Telugu Desam Party's Chandrababu Naidu is scheduled to take oath as Chief Minister for the fourth time after winning the recent elections. Meanwhile, in Odisha, Mohan Manjhi from the BJP will be sworn in as Chief Minister, marking the party's first government in the state. Prime Minister Narendra Modi is expected to attend both events and also hold a roadshow in Bhubaneswar. On the international front, Pakistan is set to unveil a budget of approximately Rs 18 trillion for the financial year 2024-25. In entertainment news, BTS member Jin is expected to be discharged from military duty today, and Team India will face the USA in the ICC Men's T20 Cricket World Cup in New York.
+
 Tue, 11 Jun 2024 21:00:00 +0530
 ### [BJP’s Mohan Charan Majhi is new Odisha CM. But where will he stay?](https://www.firstpost.com/explainers/bjp-mohan-charan-majhi-new-odisha-cm-official-residence-bjd-naveen-patnaik-13781426.html)
 
