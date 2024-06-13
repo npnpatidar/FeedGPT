@@ -1,3 +1,50 @@
+Thu, 13 Jun 2024 12:30:09 +0000
+### [Lok Sabha election’s experiment with AI offers hope for India’s democracy](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-experiment-ai-india-democracy-9390582/)
+
+The world's largest election, the 2024 Indian general election, saw the BJP falling short of its predicted majority, but it was not marred by the expected AI-generated dis/misinformation campaigns. Instead, AI was used for familiar political activities, such as trolling the Opposition and targeted communication with constituencies. Political parties used AI-generated content like voice clones, videos, personalized audio messages, and automated calls to voters. This content was designed to appeal to emotions and leveraged relational bonds with the resurrection of superstar politicians. However, the rural information ecosystem was not as sophisticated, featuring low-tech content mostly mocking the BJP's slogans.
+
+Two trends emerged from this election: the increasing role of small enterprises in the ethical creation and distribution of AI content and the potential of AI to open a new chapter in participatory democracy. AI can be used to make democracy and governance more accessible, deliberative, and representative by facilitating individualized communication across diverse constituencies. The Indian voters have shown that they care about local issues, and AI can help create a dialogue for voters to share their demands and experiences directly with their representatives. However, stronger digital literacy in rural areas is necessary for the universal adoption of new technologies. Overall, safe and ethical AI can be beneficial for democracy and help the Parliament and elected officials respond to grassroots needs and livelihoods.
+
+Thu, 13 Jun 2024 11:03:58 +0000
+### [Eminem’s ‘Houdini’: Why it’s not empty without him anymore](https://indianexpress.com/article/opinion/columns/eminem-houdini-why-its-not-empty-without-him-anymore-9389919/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 10:58:38 +0000
+### [The voters have given institutions some breathing space. They must use it](https://indianexpress.com/article/opinion/columns/voters-institutions-breathing-space-lok-sabha-elections-9390197/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 08:02:40 +0000
+### [Andhra Pradesh’s new cabinet does not reflect the diverse groups that voted TDP-JSP-BJP to power](https://indianexpress.com/article/opinion/columns/andhra-pradesh-new-cabinet-tdp-jsp-bjp-9389825/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 03:09:40 +0000
+### [Kshitish Chandra Neogy, the administrator India forgot](https://indianexpress.com/article/opinion/columns/kshitish-chandra-neogy-administrator-india-9388880/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 03:01:51 +0000
+### [June 13, 1984, Forty Years Ago: Money, Guns Recovery](https://indianexpress.com/article/opinion/40-years-ago/june-13-1984-forty-years-ago-money-guns-recovery-9388869/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 02:49:56 +0000
+### [What’s in a name: Elephants are people too](https://indianexpress.com/article/opinion/editorials/whats-in-a-name-elephants-are-people-too-9388852/)
+
+The article discusses the significance of names in defining identity across species, focusing on elephants as a notable example. It explores how names contribute to concepts of self, identity, and consciousness, traditionally seen as uniquely human traits. Researchers, using advanced techniques, have found that elephants not only recognize specific calls as names but use them distinctly, similar to proper nouns. This challenges conventional views on animal communication and suggests elephants possess complex social and emotional lives comparable to humans, raising questions about ethical treatment and recognition of their personhood.
+
+Thu, 13 Jun 2024 02:46:14 +0000
+### [In Europe, the far right fringe is in Parliament far right moves in](https://indianexpress.com/article/opinion/editorials/in-europe-the-far-right-fringe-is-in-parliament-far-right-moves-in-9388860/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 02:03:53 +0000
+### [Remember Manipur](https://indianexpress.com/article/opinion/editorials/remember-manipur-9388851/)
+
+Article found but Couldn't summarize
+
 Wed, 12 Jun 2024 12:30:19 +0000
 ### [How Naveen Patnaik was bested by BJP in Odisha](https://indianexpress.com/article/opinion/columns/how-naveen-patnaik-was-bested-by-bjp-in-odisha-9387813/)
 

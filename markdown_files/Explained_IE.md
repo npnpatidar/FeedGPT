@@ -1,3 +1,28 @@
+Thu, 13 Jun 2024 10:43:51 +0000
+### [Bananas: Why Chiquita, a fruit company, paid terrorists in Colombia](https://indianexpress.com/article/explained/explained-global/bananas-chiquita-fruit-company-terrorists-colombia-9390228/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 10:08:34 +0000
+### [Italy hosts G7 Summit: Why was the grouping created and what’s on the agenda this year?](https://indianexpress.com/article/explained/explained-global/italy-g7-summit-modi-origins-relevance-9390135/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 07:04:16 +0000
+### [What is the case against Hunter Biden and could he go to jail?](https://indianexpress.com/article/explained/everyday-explainers/hunter-biden-drug-gun-case-jail-9389718/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 06:39:55 +0000
+### [Canada’s post-study work permit scheme could change. Here’s what Indian students should do](https://indianexpress.com/article/explained/canada-post-study-work-permit-scheme-change-9389637/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 04:13:23 +0000
+### [Who are the Satnamis, the Dalit religious community with a history of protests](https://indianexpress.com/article/explained/chhattisgarh-baloda-bazar-protest-who-are-satnamis-9389358/)
+
+Members of the Satnami religious sect in Chhattisgarh set fire to the office of the Superintendent of Police and pelted the office of the District Collector with stones after alleged inaction over the desecration of a religious site at Amar Cave. The sect has a long history, with its origins tracing back to the 15th century and has been associated with political power in Chhattisgarh. The sect has seen a revival in the mid-eighteenth century and its members are now an increasingly assertive political force.
+
 Wed, 12 Jun 2024 08:33:57 +0000
 ### [Scientists back new Alzheimer’s drug: its benefits vs risks](https://indianexpress.com/article/explained/explained-health/scientists-back-new-alzheimers-drug-its-benefits-vs-risks-9387601/)
 

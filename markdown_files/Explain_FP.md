@@ -1,3 +1,98 @@
+Thu, 13 Jun 2024 17:06:31 +0530
+### [Do aliens live among us? What a Harvard study reveals](https://www.firstpost.com/explainers/do-aliens-live-among-us-harvard-study-13782118.html)
+
+Article found but Couldn't summarize 
+According to a new Harvard University study, aliens may be secretly residing among us on Earth. Investigating the purported idea of ‘crytoterrestrials’, the scientists have proposed four theories about extraterrestrial life
+
+Thu, 13 Jun 2024 16:56:11 +0530
+### [Why were 1,563 NEET-UG candidates given grace marks? Why are they being scrapped now?](https://www.firstpost.com/explainers/neet-ug-2024-candidates-grace-marks-controversy-scrapped-supreme-court-13782152.html)
+
+Article found but Couldn't summarize 
+The Centre has announced that it will be cancelling the grace marks awarded to 1,563 candidates who appeared for NEET-UG 2024 and give them an option to retest on 23 June. But why has such a decision been taken? Here’s what we know so far
+
+Thu, 13 Jun 2024 16:50:18 +0530
+### [Who is Jordan Bardella, 28-yr-old Marine Le Pen protégé who could be France's next PM?](https://www.firstpost.com/explainers/who-is-jordan-bardella-28-yr-old-marine-le-pen-protege-who-could-be-frances-next-pm-13782157.html)
+
+Article found but Couldn't summarize 
+Jordan Bardella is a bonified star on TikTok and a culture warrior whose rallying cry is 'France is disappearing.' Bardella joined Marine Le Pen's far-right National Rally at age 17 and quickly rose through the ranks to become the party's president — the first person outside the Le Pen family to hold the position. Though his story has helped soften the image of the party, experts say he has not changed its populist message
+
+Thu, 13 Jun 2024 16:48:29 +0530
+### [China's shadow armada: The unseen power of the maritime militia in the South China Sea](https://www.firstpost.com/explainers/chinas-shadow-armada-the-unseen-power-of-the-maritime-militia-in-the-south-china-sea-13782140.html)
+
+Article found but Couldn't summarize 
+China's armed fishing militia, known as the People's Armed Forces Maritime Militia (PAFMM) by the US Department of Defense, is a crucial component of Beijing's strategy to assert its sovereignty claims in the South China Sea and East China Sea. We explore its origins and the role it plays in doing the country's bidding at sea
+
+Thu, 13 Jun 2024 16:16:59 +0530
+### [In Graphics | What is the G7? How does this grouping operate?](https://www.firstpost.com/explainers/in-graphics-what-is-the-g7-how-does-this-grouping-operate-13782127.html)
+
+Article found but Couldn't summarize 
+Leaders of the Group of Seven (G7) countries are meeting for a three-day summit in Italy's Puglia to discuss pressing issues. But who's a part of this bloc?
+
+Thu, 13 Jun 2024 15:35:52 +0530
+### [Mind over Matter: How Viagra could improve brain functions](https://www.firstpost.com/health/mind-over-matter-how-viagra-could-improve-brain-functions-13782066.html)
+
+Article found but Couldn't summarize 
+Scientists of an Oxford study found that Viagra, which is used as a remedy for erectile dysfunction in men, could actually help improve blood flow to the brain, resulting in better cognitive function. Not only can it boost brain power, it can potentially avert vascular dementia in high-risk patients
+
+Thu, 13 Jun 2024 14:59:28 +0530
+### [Kuwait fire: Why the blaze, which started in a kitchen, claimed so many lives](https://www.firstpost.com/explainers/why-kuwait-fire-claimed-so-many-lives-13782070.html)
+
+Article found but Couldn't summarize 
+A massive fire swept through a labour housing facility in Kuwait’s Mangaf area early Wednesday, startling migrant workers who were soundly asleep. Amid the mayhem, a few attempted to jump from the first floor in a frantic bid to escape the fire, while others choked to death trying to make their way through the smoke-filled hallways
+
+Thu, 13 Jun 2024 14:45:35 +0530
+### [Kuwait fire tragedy: How migrant workers live and work in poor conditions in the Gulf nation](https://www.firstpost.com/explainers/kuwait-fire-tragedy-indian-migrant-workers-death-gulf-nation-living-work-poor-conditions-13782091.html)
+
+Article found but Couldn't summarize 
+The death of 49 people, most of whom were Indians, in a blaze in an apartment building in Kuwait has brought the issue of living conditions of migrant workers to the fore. Congress MP Shashi Tharoor has called on the Centre to draft a bill to ensure decent work conditions for Indians abroad
+
+Thu, 13 Jun 2024 14:22:46 +0530
+### [Changes in Agniveer scheme in offing? What Indian Army might recommend to Centre](https://www.firstpost.com/explainers/changes-in-agniveer-scheme-what-indian-army-might-recommend-to-centre-13782089.html)
+
+Article found but Couldn't summarize 
+Raising the tenure of Agniveers from four to eight years, retaining 60 to 70 per cent of troops and increasing the age of recruits to 23 for those in technical services such as signals, air defence and engineering are being considered. This comes after an internal survey of all three forces suggested that changes need to be made to improve cohesion and expertise among Agniveers
+
+Thu, 13 Jun 2024 14:21:46 +0530
+### [How Italy’s Giorgia Meloni has emerged as the ‘biggest’ leader among the G7](https://www.firstpost.com/explainers/g7-summit-italy-giorgia-meloni-biggest-leader-joe-biden-olaf-scholz-emmanuel-macron-justin-trudeau-rishi-sunak-fumio-kishida-13782062.html)
+
+Article found but Couldn't summarize 
+This G7 Summit in Italy will, perhaps, be the weakest gathering of leaders the group has had in years. Joe Biden, Emmanuel Macron, Olaf Scholz, Rishi Sunak, Fumio Kishida and Justin Trudeau are all struggling to hold on to power in their respective countries. However, Giorgia Meloni stands out following her party’s astonishing performance at the European elections
+
+Thu, 13 Jun 2024 13:34:42 +0530
+### [Pakistan's $7.6 bn defence budget is good news for China. Here's why](https://www.firstpost.com/explainers/pakistans-7-6-bn-defence-budget-is-good-news-for-china-heres-why-13781988.html)
+
+Article found but Couldn't summarize 
+Pakistani finance minister Muhammad Aurangzeb presented the country's budget in the National Assembly on Wednesday. The budget has allocated Pakistani rupees 2.122 trillion (approximately $7.6 billion) to defence for the fiscal year 2024-25, a nearly 15 per cent increase from the previous financial year. The country's increased defence budget may be good news for China, its top arms trade partner. We explain why
+
+Thu, 13 Jun 2024 12:37:45 +0530
+### [How sweltering heat has forced Greece to shut down the Acropolis to tourists](https://www.firstpost.com/explainers/how-sweltering-heat-has-forced-to-shut-down-acropolis-to-tourists-13781978.html)
+
+Article found but Couldn't summarize 
+With temperatures tipping past the 40 degrees Celsius-mark, Greece has ordered the closure of the Acropolis in Athens during peak hours. Officials have said that the heatwave-like conditions will continue until Friday
+
+Thu, 13 Jun 2024 11:51:17 +0530
+### [Kuwait fire: Who were the Indian victims killed in the tragedy?](https://www.firstpost.com/explainers/indian-nationals-killed-in-kuwait-fire-tragedy-13782008.html)
+
+Article found but Couldn't summarize 
+At least 42 of the 49 foreign workers who died in the tragic fire accident in Kuwait on Wednesday were confirmed to be Indian nationals. Fourteen were from Kerala, while others hailed from Tamil Nadu and Uttar Pradesh. The majority of the workers were men living without families
+
+Thu, 13 Jun 2024 10:08:46 +0530
+### [Kuwait fire kills over 40 Indians: How the Modi govt swung into quick action to help victims’ families, survivors](https://www.firstpost.com/explainers/kuwait-fire-kills-over-40-indians-how-the-modi-government-swung-into-quick-action-to-help-victims-families-survivors-13781984.html)
+
+Article found but Couldn't summarize 
+Shortly after a devastating fire in Kuwait, which claimed the lives of over 40 Indians, PM Narendra Modi called for a high-level review meeting. It was then decided that an ex-gratia of Rs 2 lakh would be granted to the victims’ kin. Also, External Affairs Minister S Jaishankar has called his Kuwaiti counterpart, urging for an early repatriation of the mortal remains
+
+Thu, 13 Jun 2024 08:36:21 +0530
+### [G7: What’s on the agenda? Why has India been invited once again?](https://www.firstpost.com/explainers/g7-countries-summit-agenda-italy-india-invited-pm-modi-13781358.html)
+
+Article found but Couldn't summarize 
+The G7 Summit, happening in Puglia, Italy, from 13-15 June, will cover key issues like the Ukraine conflict, Middle East tensions, climate change, and migration. We explain the context of these agenda points, and why India has been invited again despite not being a G7 member nation
+
+Thu, 13 Jun 2024 06:00:17 +0530
+### [FirstUp: PM Modi to attend G7 summit in Italy, BJP’s Pema Khandu to be sworn in as Arunachal CM... The news today](https://www.firstpost.com/explainers/firstup-pm-modi-to-attend-g7-summit-in-italy-bjps-pema-khandu-to-be-sworn-in-as-arunachal-cm-the-news-today-13781857.html)
+
+Prime Minister Narendra Modi is set to attend the G7 summit in Italy. In India, Pema Khandu will take oath as chief minister of Arunachal Pradesh for a second term. Other events include a hearing in the Gujarat High Court over a gaming zone fire, a meeting of AAP leaders in Delhi, and cricket matches in the ICC Men’s T20 World Cup 2024. Additionally, Tesla shareholders will vote on Elon Musk’s $56 billion pay package, and elections for Karnataka Member of Legislative Council (MLC) are set to take place.
+
 Wed, 12 Jun 2024 20:55:48 +0530
 ### [From G7 meet to BRICS, a look at Modi 3.0's global outreach](https://www.firstpost.com/explainers/from-g7-meet-to-brics-a-look-at-modi-3-0s-global-outreach-13781875.html)
 

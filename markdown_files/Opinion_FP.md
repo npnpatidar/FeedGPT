@@ -1,3 +1,32 @@
+Thu, 13 Jun 2024 18:55:17 +0530
+### [Why G7 move on Russian assets could hurt the global financial system](https://www.firstpost.com/opinion/why-g7-move-on-russian-assets-could-hurt-the-global-financial-system-13782225.html)
+
+Article found but Couldn't summarize 
+Geopolitical tensions are influencing the decisions of central banks around the world as they lose trust in the international banking system
+
+Thu, 13 Jun 2024 16:55:28 +0530
+### [‘All eyes on her’: How EU elections and G7 presidency boost Giorgia Meloni’s stature](https://www.firstpost.com/opinion/all-eyes-on-her-how-eu-elections-and-g7-presidency-boost-giorgia-melonis-stature-13782169.html)
+
+Article found but Couldn't summarize 
+Despite the challenges in front of her in the coming months in Brussels and on the international stage, the Italian prime minister will stand tall in a room full of the world's most powerful men at Borgo Egnazia
+
+Thu, 13 Jun 2024 15:28:18 +0530
+### [Why Giorgia Meloni stands tall among all G7 leaders](https://www.firstpost.com/opinion/why-giorgia-meloni-stands-tall-among-all-g7-leaders-13782121.html)
+
+The article discusses the domestic challenges faced by six out of the seven leaders of the G7 countries, including US President Joe Biden, UK Prime Minister Rishi Sunak, French President Emmanuel Macron, German Chancellor Olaf Scholz, Canadian Prime Minister Justin Trudeau, and Japanese Prime Minister Fumio Kishida. The challenges include tough elections, dwindling support, and the possibility of being ousted. The only exception is Italian Prime Minister Giorgia Meloni, who has seen an increase in public support and is in a strong position. Meloni is expected to play a significant role in the upcoming G7 summit and could potentially negotiate a deal to put Italy at the center of European politics. The author suggests that given her peers' struggles, Meloni is well-suited to take on a bigger role on the global stage. The views expressed in the article are personal and do not necessarily reflect Firstpost's views.
+
+Thu, 13 Jun 2024 13:22:14 +0530
+### [With a coalition government and revitalised Opposition, third term will test PM Modi’s leadership](https://www.firstpost.com/opinion/with-a-coalition-government-and-revitalised-opposition-third-term-will-test-pm-modis-leadership-13782061.html)
+
+Article found but Couldn't summarize 
+The Opposition’s aim would be to keep Modi mired in the aftermath of the Lok Sabha polls until the next round of state assembly elections in Maharashtra, Haryana, and Jharkhand
+
+Thu, 13 Jun 2024 11:31:06 +0530
+### [Tale of two Sharifs: Why Nawaz and Shehbaz's congratulations to PM Modi were different in tone and tenor](https://www.firstpost.com/opinion/tale-of-two-sharifs-why-nawaz-and-shehbazs-congratulations-to-pm-modi-were-different-in-tone-and-tenor-13782017.html)
+
+Article found but Couldn't summarize 
+The official thinking of Pakistan towards India follows the path chosen by the military generals and not by the civilian politicians
+
 Wed, 12 Jun 2024 19:24:55 +0530
 ### [Terror attacks in Kashmir and Pakistan’s sinister agenda for global jihad](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-and-pakistans-sinister-agenda-for-global-jihad-13781847.html)
 

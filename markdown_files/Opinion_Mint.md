@@ -1,3 +1,51 @@
+Thu, 13 Jun 2024 16:00:15 +0530
+### [Election wins and losses: Margin analysis reveals a luckier Congress than BJP](https://www.livemint.com/opinion/online-views/election-wins-and-losses-margin-analysis-reveals-a-luckier-congress-than-bjp-11718218980412.html)
+
+Article found but Couldn't summarize 
+Understanding the margins by which losers lost in an election is crucial for strategy formulation in a first-past-the-post electoral system. An analysis of the BJP’s and Congress’s winning and losing seats reveals BJP's bigger wins and closer losses, while the opposite is true of the Congress party.
+
+Thu, 13 Jun 2024 15:30:12 +0530
+### [RBI’s digital rupee must leap over many hurdles for wider adoption](https://www.livemint.com/opinion/online-views/rbis-digital-rupee-must-leap-over-many-hurdles-for-wider-adoption-11718218717977.html)
+
+Article found but Couldn't summarize 
+The Reserve Bank of India has been promoting the e-rupee but its adoption has been low, like in other countries with CBDCs, amid common problems such as incompatible online payment ecosystems. The absence of a clear value proposition is partly to blame.
+
+Thu, 13 Jun 2024 14:00:10 +0530
+### [Climate turbulence ahead: Time to fasten our seatbelts](https://www.livemint.com/opinion/online-views/climate-turbulence-ahead-time-to-fasten-our-seatbelts-11718219189374.html)
+
+Article found but Couldn't summarize 
+Urban India is caught in a vicious cycle of high night temperatures and humidity raising heat stress and making us use ACs that consume even more unclean energy. The recent Singapore Airlines air-drop has also been attributed to the effects of climate change. Scarily, freak turbulence may worsen.
+
+Thu, 13 Jun 2024 12:30:07 +0530
+### [Apple’s ambition: It wants AI to stand for Apple Intelligence](https://www.livemint.com/opinion/online-views/apples-ambition-it-wants-ai-to-stand-for-apple-intelligence-11718219080423.html)
+
+Article found but Couldn't summarize 
+While sophisticated AI tools process queries on cloud servers that need an internet link, Apple will run some AI queries via a small language model loaded on iPhones to make AI usage private and quick. Privacy is good, but will low speed deter consumer adoption?
+
+Thu, 13 Jun 2024 10:30:04 +0530
+### [Voters speak: The electoral verdict has a clear message for the NDA government](https://www.livemint.com/opinion/online-views/voters-speak-the-electoral-verdict-has-a-clear-message-for-the-nda-government-11718218635351.html)
+
+Article found but Couldn't summarize 
+Voting preferences are shaped by a variety of factors, but economic ones are also key. First, rural distress is for real. Second, inflation hurts, more so the poor. Third, cash transfers won’t fix structural inequality. And fourth, empowerment is a must for inclusive growth.
+
+Thu, 13 Jun 2024 08:30:19 +0530
+### [Weak public healthcare could let India’s development drive down](https://www.livemint.com/opinion/online-views/weak-public-healthcare-could-let-india-s-development-drive-down-11718218459530.html)
+
+Article found but Couldn't summarize 
+What glares out of India’s 2022-23 household consumption survey done by the NSSO is a gross disparity in medical expenses. Ayushman Bharat will not suffice. We need quality public health services for all.
+
+Thu, 13 Jun 2024 07:00:17 +0530
+### [Mint Quick Edit | Inflation is on a slow decline](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-inflation-is-on-a-slow-decline-11718217851381.html)
+
+Article found but Couldn't summarize 
+India's retail inflation eased to 4.75% in May, slightly down from a 4.83% recorded in April. The wait for price-level relief that lets RBI cut policy interest rates, though, may be long. There’s the US Fed to watch too.
+
+Thu, 13 Jun 2024 07:00:15 +0530
+### [Why political centrists must rediscover their passion](https://www.livemint.com/opinion/online-views/why-political-centrists-must-rediscover-their-passion-11718208833703.html)
+
+Article found but Couldn't summarize 
+They need to be clear about what opposing populism does and doesn’t mean, argues Yair Zivan
+
 Wed, 12 Jun 2024 16:00:04 +0530
 ### [The failure of exit polls hold behavioural lessons for us](https://www.livemint.com/opinion/online-views/the-failure-of-exit-polls-hold-behavioural-lessons-for-us-11718130350380.html)
 
