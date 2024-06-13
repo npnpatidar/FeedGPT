@@ -1,3 +1,9 @@
+Wed, 12 Jun 2024 19:24:55 +0530
+### [Terror attacks in Kashmir and Pakistan’s sinister agenda for global jihad](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-and-pakistans-sinister-agenda-for-global-jihad-13781847.html)
+
+Article found but Couldn't summarize 
+The recent attacks in Kashmir are a reminder that India cannot go easy on terrorism, which continues to remain global scourge
+
 Wed, 12 Jun 2024 17:31:31 +0530
 ### [How India’s bet on Chabahar can counter China’s Gwadar gambit](https://www.firstpost.com/opinion/how-indias-bet-on-chabahar-can-counter-chinas-gwadar-gambit-13781785.html)
 

@@ -1,3 +1,9 @@
+Wed, 12 Jun 2024 23:23:56 +0530
+### [The far-right swing in European Parliament elections | Explained](https://www.thehindu.com/news/international/the-far-right-swing-in-european-parliament-elections-explained/article68281718.ece)
+
+Article found but Couldn't summarize 
+Where did the far-right gain the most ground? What can the gains be attributed to? Has the balance of power in the European Parliament shifted? How will the results affect EU policy?
+
 Tue, 11 Jun 2024 22:24:22 +0530
 ### [Bihar’s call for special category status | Explained](https://www.thehindu.com/news/national/bihars-call-for-special-category-status/article68277523.ece)
 

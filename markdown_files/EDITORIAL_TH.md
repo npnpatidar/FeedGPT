@@ -1,3 +1,14 @@
+Thu, 13 Jun 2024 00:20:00 +0530
+### [High expectations: On Chandrababu Naidu as Andhra Pradesh Chief Minister](https://www.thehindu.com/opinion/editorial/high-expectations-on-n-chandrababu-naidu-as-andhra-pradeshs-chief-minister/article68281617.ece)
+
+Article found but Couldn't summarize 
+Mr. Naidu must focus on creating jobs while continuing welfare schemes
+
+Thu, 13 Jun 2024 00:10:00 +0530
+### [Right turn: on the European Parliament elections](https://www.thehindu.com/opinion/editorial/right-turn-on-the-european-parliament-elections/article68280799.ece)
+
+The European Parliament elections in June 2024 resulted in a shocking loss for French President Emmanuel Macron's Renaissance party to the far-right National Rally party, causing Macron to call for fresh elections. The elections have also given a boost to far-right and ultra-nationalist parties in Germany, France, and Austria, while confirming support for Italy's far-right "Brothers of Italy" party. The Green parties have also been dealt a blow. The results have raised concerns about issues such as immigration, inflation, economic slowdowns, and environmental reforms, which could affect the international order, including India's relationship with the European Union. Prime Minister Narendra Modi will meet his European counterparts and the EU leadership during his visit to Italy's Apulia to attend the G-7 outreach, where they will discuss the European Parliament elections and the Indian elections that threw up an unexpected result.
+
 Wed, 12 Jun 2024 00:20:00 +0530
 ### [Continuity and stability: On the Modi government’s new cabinet](https://www.thehindu.com/opinion/editorial/continuity-and-stability-on-the-modi-governments-new-cabinet/article68277897.ece)
 
