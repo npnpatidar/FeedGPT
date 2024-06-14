@@ -1,3 +1,43 @@
+Fri, 14 Jun 2024 06:00:49 +0530
+### [FirstUp: Modi at G7 in Italy, Hajj pilgrimage begins... The big news today](https://www.firstpost.com/explainers/firstup-modi-g7-italy-hajj-pilgrimage-big-news-today-13782184.html)
+
+PM Narendra Modi is visiting Italy to participate in the 50th G7 leaders’ summit. A Delhi court will be hearing Delhi CM Arvind Kejriwal’s bail plea in a money laundering case related to the now-scrapped Delhi excise policy. The Hajj pilgrimage officially begins today. The WPI based inflation data for May will be released. The Sindhi Foundation will commemorate the abduction of minor Priya Kumari. Boeing’s Starliner capsule is scheduled for a remote desert touchdown in the western US today. The UN Security Council is expected to receive a briefing on the implementation of resolution 2686 of 14 June 2023 on tolerance and international peace and security.
+
+Thu, 13 Jun 2024 21:25:44 +0530
+### [What was the US-Saudi petrodollar deal that lapsed after 80 years?](https://www.firstpost.com/explainers/what-was-the-us-saudi-petrodollar-deal-that-lapsed-after-80-years-13782292.html)
+
+The US-Saudi Arabia petrodollar deal, which allowed US dollars to be exchanged for crude oil exports, has come to an end after eight decades. The deal, struck in 1974, allowed Washington a steady flow of crude and a market to buy its debt, while the Kingdom would get military aid and equipment. The expiration of the deal could bring about a sea change in the global financial order and shows that the dollar’s dominance is no longer guaranteed. Saudi Arabia can now sell oil and receive other currencies, which could weaken the US dollar and lead to a decline in global demand for the greenback. This development reflects a change in the undercurrents of global power and could contribute to a broader geopolitical realignment.
+
+Thu, 13 Jun 2024 20:47:56 +0530
+### [Rs 33,000 for a pineapple: What’s special about the US’ high-end red fruit?](https://www.firstpost.com/explainers/us-premium-pineapple-rubyglow-400-13782262.html)
+
+A speciality produce store in the US is selling a limited edition pineapple, called the Rubyglow, for $395.99 due to its rarity and limited supply. It took 15 years to develop and is grown in Costa Rica. The Rubyglow pineapple has a red shell with yellow flesh and is marketed towards higher-end restaurants, foodies, and as a luxury gift. Del Monte has also previously released a pink pineapple, Pinkglow, which is genetically engineered to have pink flesh due to lycopene. Other premium fruits that have gained popularity in recent years include Honeycrisp apples, Cotton Candy grapes, Sumo Citrus, and vertically-grown Japanese strawberries.
+
+Thu, 13 Jun 2024 20:03:48 +0530
+### [Canada’s post-graduation work permit could change: How will Indians be affected?](https://www.firstpost.com/explainers/canadas-post-graduation-work-permit-could-change-how-will-indians-be-affected-13782240.html)
+
+The article discusses potential changes to Canada's Post-Graduate Work Permit (PGWP), aimed at aligning it with labor market needs and reducing overall permit holders. The government intends to restrict the program to graduates working in fields facing labor shortages. Indian students, who make up a significant portion of PGWP holders, may be impacted if these changes are implemented. Experts suggest that students should opt for specialized programs over general courses to improve their chances of obtaining the PGWP and eventual permanent residency. These proposed changes have sparked concerns about their potential negative impact on Canada's reputation as an international study destination.
+
+Thu, 13 Jun 2024 18:48:23 +0530
+### [G7 in Italy: Four days after taking charge, PM Modi's first foreign visit on cards. What can we expect?](https://www.firstpost.com/explainers/g7-summit-italy-pm-modi-first-foreign-agenda-biden-meloni-trudeau-what-can-we-expect-13782013.html)
+
+Indian Prime Minister Narendra Modi traveled to Italy to attend the G-7 summit in Apulia, focusing on global challenges such as the Russia-Ukraine war, the Israel-Hamas conflict, artificial intelligence, energy, Africa, and the Mediterranean. Modi is expected to hold bilateral meetings with Italian Prime Minister Giorgia Meloni, Canadian Prime Minister Justin Trudeau, and US President Joe Biden. India's role in the G20 presidency and addressing the Global South's concerns will be highlighted during the summit. The summit will also cover issues like food, fuel, and fertilizer availability, global supply chain challenges, and economic disruptions caused by conflicts. Modi's meetings with other world leaders, including Biden and Trudeau, will be closely watched, especially considering the strained ties between India and Canada over allegations of a plot to assassinate a Sikh separatist leader. India's participation in the G7 summit underscores its strategic importance and growing influence on the global stage.
+
+Thu, 13 Jun 2024 18:44:12 +0530
+### [Ukraine in focus at G7 summit: Can Volodymyr Zelenskyy expect some relief for war-torn country?](https://www.firstpost.com/explainers/g7-summit-ukraine-war-volodymyr-zelenskyy-relief-13782206.html)
+
+The G7 summit in Puglia, Italy, is focusing on supporting Ukraine amidst ongoing conflicts. Leaders are discussing financial aid, including innovative measures like using frozen Russian assets to secure a $50 billion loan for Ukraine. Ukrainian President Volodymyr Zelenskyy is engaging in bilateral meetings to strengthen security agreements and military support. The summit also emphasizes new sanctions on Russia and pressure on China to limit support to Moscow. Overall, the G7 aims to send a unified message of support and relief to Ukraine amid its challenges.
+
+Thu, 13 Jun 2024 18:27:01 +0530
+### [Trade showdown: How EU tariffs on Chinese electric vehicles may impact the auto industry](https://www.firstpost.com/explainers/trade-showdown-how-eu-tariffs-on-chinese-electric-vehicles-may-impact-the-auto-industry-13782189.html)
+
+The European Union plans to impose higher tariffs on Chinese electric vehicles (EVs) due to alleged unfair state subsidies, escalating a trade dispute. Tariffs could reach up to 38.1%, significantly raising prices for Chinese-made EVs entering the EU market. The EU argues these subsidies distort competition and hinder its transition to electric vehicles. Chinese manufacturers like SAIC and BYD face varying tariffs, while the move has sparked opposition from German automakers and concerns about potential retaliation from Beijing. Negotiations continue amidst uncertainty over the tariffs' long-term impact on global trade and EV adoption.
+
+Thu, 13 Jun 2024 18:25:11 +0530
+### [Where does Delhi’s water come from? What’s causing the severe shortage?](https://www.firstpost.com/explainers/delhi-water-shortage-resources-supreme-court-heatwave-13782182.html)
+
+Delhi is facing another severe water shortage exacerbated by a heatwave, causing long queues at water tankers in areas like Chanakyapuri and Geeta Colony. The crisis prompted the Delhi government to seek Supreme Court intervention, directing neighboring states to release more water. Delhi relies heavily on Yamuna, Ravi-Beas, and Ganga rivers for its supply, but recurrent shortages persist due to increasing demand and operational issues at water treatment plants. Experts attribute the crisis to urbanization, drought, and mismanagement, compounded by over-exploitation of groundwater.
+
 Thu, 13 Jun 2024 17:06:31 +0530
 ### [Do aliens live among us? What a Harvard study reveals](https://www.firstpost.com/explainers/do-aliens-live-among-us-harvard-study-13782118.html)
 

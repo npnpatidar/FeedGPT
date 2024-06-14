@@ -1,3 +1,13 @@
+Thu, 13 Jun 2024 22:48:07 +0530
+### [The allegations over NEET-UG 2024 | Explained](https://www.thehindu.com/education/neet-ug-results-2024-allegations-controversy/article68286624.ece)
+
+The Union government has decided to cancel the score cards of 1,563 NEET-UG 2024 candidates who received compensatory marks due to exam technicalities. Following Supreme Court orders amid allegations of unfairness, these candidates will have a chance to retake the exam on June 23, with results expected by June 30. This move comes amidst widespread protests and legal challenges over issues ranging from exam irregularities to the integrity of the NEET system itself, highlighting broader concerns about the examination's management and fairness.
+
+Thu, 13 Jun 2024 20:44:24 +0530
+### [Indians in Kuwait and Gulf countries: A look at numbers](https://www.thehindu.com/news/national/indians-in-kuwait-and-gulf-countries-a-look-at-numbers/article68284574.ece)
+
+The article reports a tragic incident in Kuwait where a fire in Al-Mangaf claimed the lives of around 49 migrant workers, predominantly Indians, with at least 50 others injured. The Kerala government announced compensation for victims and their families. It highlights the significant Indian expatriate community in Kuwait, comprising nearly a million people, and discusses historical ties and current bilateral agreements between India and Kuwait. The article also underscores the economic importance of the Gulf Cooperation Council (GCC) countries to India, emphasizing trade, remittances, and potential future collaborations in energy and economic sectors.
+
 Wed, 12 Jun 2024 23:23:56 +0530
 ### [The far-right swing in European Parliament elections | Explained](https://www.thehindu.com/news/international/the-far-right-swing-in-european-parliament-elections-explained/article68281718.ece)
 

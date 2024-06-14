@@ -1,3 +1,18 @@
+Thu, 13 Jun 2024 14:29:29 +0000
+### [How will the EU elections impact Southeast Asia?](https://indianexpress.com/article/explained/explained-global/eu-elections-southeast-asia-9390755/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 14:22:34 +0000
+### [Explained: Cultural significance of Uttarakhand’s Joshimath and Kosiyakutoli, now set to be renamed](https://indianexpress.com/article/explained/explained-culture/uttarakhand-joshimath-kosiyakutoli-renamed-9390947/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 12:45:56 +0000
+### [Why opening all four gates of Puri Jagannath temple was top priority for new BJP government in Odisha](https://indianexpress.com/article/explained/explained-politics/all-four-gates-puri-jagannath-temple-opened-bjp-odisha-9390637/)
+
+The BJP Chief Minister of Odisha, Mohan Charan Majhi, opened all four gates of the Jagannath temple in Puri, a day after taking oath. This comes after the previous government under Naveen Patnaik had closed three of the four gates four years ago. The BJP had promised to open all four gates in their manifesto and made good on this promise. The gates had remained closed even after the inauguration of the 'Srimandir Parikrama' project, leading to long queues at the main entrance. The BJP accused the previous government of becoming a 'barrier' between the temple gods and their devotees.
+
 Thu, 13 Jun 2024 10:43:51 +0000
 ### [Bananas: Why Chiquita, a fruit company, paid terrorists in Colombia](https://indianexpress.com/article/explained/explained-global/bananas-chiquita-fruit-company-terrorists-colombia-9390228/)
 

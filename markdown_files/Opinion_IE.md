@@ -1,3 +1,8 @@
+Thu, 13 Jun 2024 14:47:31 +0000
+### [Kuwait fire: It’s time we stop invisibilising migrant workers](https://indianexpress.com/article/opinion/columns/kuwait-fire-migrant-workers-deaths-9390932/)
+
+The article reports a tragic incident on June 13, 2024, where over 40 Indian migrant workers died in a fire in Kuwait. This event highlights ongoing safety concerns and poor living conditions faced by migrants in Gulf countries, echoing previous incidents in Qatar and Saudi Arabia. The lack of permanent residency options for migrants exacerbates their vulnerability to exploitation and unsafe working conditions. Despite efforts like the Kerala Migration Survey, which tracks migration patterns and remittances, there remains a critical need for better policies and data collection to ensure the safety and well-being of Indian migrants abroad.
+
 Thu, 13 Jun 2024 12:30:09 +0000
 ### [Lok Sabha election’s experiment with AI offers hope for India’s democracy](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-experiment-ai-india-democracy-9390582/)
 

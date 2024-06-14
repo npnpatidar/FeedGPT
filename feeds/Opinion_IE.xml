@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_IE.xml</link>
 		<description>Opinion IE</description>
 		<item>
+			<title>Kuwait fire: It’s time we stop invisibilising migrant workers</title>
+			<link>https://indianexpress.com/article/opinion/columns/kuwait-fire-migrant-workers-deaths-9390932/</link>
+			<description>The article reports a tragic incident on June 13, 2024, where over 40 Indian migrant workers died in a fire in Kuwait. This event highlights ongoing safety concerns and poor living conditions faced by migrants in Gulf countries, echoing previous incidents in Qatar and Saudi Arabia. The lack of permanent residency options for migrants exacerbates their vulnerability to exploitation and unsafe working conditions. Despite efforts like the Kerala Migration Survey, which tracks migration patterns and remittances, there remains a critical need for better policies and data collection to ensure the safety and well-being of Indian migrants abroad.</description>
+			<pubDate>Thu, 13 Jun 2024 14:47:31 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/Kuwait-fire-8.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/Kuwait-fire-8.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Lok Sabha election’s experiment with AI offers hope for India’s democracy</title>
 			<link>https://indianexpress.com/article/opinion/columns/lok-sabha-elections-experiment-ai-india-democracy-9390582/</link>
 			<description>The world's largest election, the 2024 Indian general election, saw the BJP falling short of its predicted majority, but it was not marred by the expected AI-generated dis/misinformation campaigns. Instead, AI was used for familiar political activities, such as trolling the Opposition and targeted communication with constituencies. Political parties used AI-generated content like voice clones, videos, personalized audio messages, and automated calls to voters. This content was designed to appeal to emotions and leveraged relational bonds with the resurrection of superstar politicians. However, the rural information ecosystem was not as sophisticated, featuring low-tech content mostly mocking the BJP's slogans.

@@ -1,3 +1,9 @@
+Thu, 13 Jun 2024 19:21:59 +0530
+### [As India plans to rename 30 Tibetan sites, more needs to be done to keep China in check](https://www.firstpost.com/opinion/as-india-plans-to-rename-30-tibetan-sites-more-needs-to-be-done-to-keep-china-in-check-13782233.html)
+
+Article found but Couldn't summarize 
+The new government in Delhi cannot immediately return to its 1950s position, but whether China is happy or not, it is worth to be studied, debated and widely circulated. Thereafter some steps could be taken into the right direction
+
 Thu, 13 Jun 2024 18:55:17 +0530
 ### [Why G7 move on Russian assets could hurt the global financial system](https://www.firstpost.com/opinion/why-g7-move-on-russian-assets-could-hurt-the-global-financial-system-13782225.html)
 

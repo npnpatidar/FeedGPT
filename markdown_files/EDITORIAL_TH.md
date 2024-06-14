@@ -1,3 +1,13 @@
+Fri, 14 Jun 2024 00:20:00 +0530
+### [Carry it forward: On the BJP government in Odisha](https://www.thehindu.com/opinion/editorial/carry-it-forward-on-the-bjp-government-in-odisha/article68285515.ece)
+
+Mohan Charan Majhi, Odisha's first BJP Chief Minister, succeeds Naveen Patnaik after his 24-year tenure. A member of the Santali tribe, Majhi's appointment underscores BJP's outreach to tribal communities in central and east India. His political background as a former village sarpanch and legislator positions him to continue and build upon initiatives started by the previous administration. Despite Odisha's progress in poverty reduction and economic diversification, challenges remain, including high poverty rates. The BJP's focus should be on sustaining development efforts without returning to divisive politics.
+
+Fri, 14 Jun 2024 00:10:00 +0530
+### [Singular focus: on the new Union Ministers and portfolios](https://www.thehindu.com/opinion/editorial/singular-focus-on-the-new-union-ministers-and-portfolios/article68285542.ece)
+
+The article discusses the composition of portfolios among newly appointed Ministers in India's 18th Lok Sabha, noting continuity in key roles held by the Bharatiya Janata Party (BJP). Significant ministries such as Home and Telecommunications remain with the BJP, while smaller portfolios are distributed among coalition partners. It highlights Minister Jitendra Singh's broad responsibilities covering Space, Atomic Energy, Earth Sciences, Science & Technology, and Personnel. The article also critiques current challenges in research sectors, including funding delays, regulatory instability, and inadequate infrastructure, calling for enhanced ministerial focus to address these issues amid a coalition government's complexities.
+
 Thu, 13 Jun 2024 00:20:00 +0530
 ### [High expectations: On Chandrababu Naidu as Andhra Pradesh Chief Minister](https://www.thehindu.com/opinion/editorial/high-expectations-on-n-chandrababu-naidu-as-andhra-pradeshs-chief-minister/article68281617.ece)
 
