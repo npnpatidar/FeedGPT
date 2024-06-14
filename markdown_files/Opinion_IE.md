@@ -1,3 +1,43 @@
+Fri, 14 Jun 2024 10:53:13 +0000
+### [Agnipath 2.0: A solution for armed forces and applicants](https://indianexpress.com/article/opinion/columns/agnipath-solution-for-armed-forces-applicants-9392628/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 05:38:40 +0000
+### [With new criminal laws, rights won in Supreme Court can be overturned by government](https://indianexpress.com/article/opinion/columns/with-new-criminal-laws-rights-won-hard-in-the-sc-are-at-risk-of-being-overruled-by-the-government-9392038/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:11:53 +0000
+### [Why Centre should not junk arbitration to settle disputes](https://indianexpress.com/article/opinion/columns/why-centre-should-not-junk-arbitration-to-settle-disputes-9391420/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:11:46 +0000
+### [In his latest book, D Subbarao looks back at landmark decisions in his years in civil service](https://indianexpress.com/article/opinion/columns/in-his-latest-book-d-subbarao-looks-back-at-landmark-decisions-in-his-years-in-civil-service-9391419/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:04:14 +0000
+### [US Fed decision: Staying hawkish](https://indianexpress.com/article/opinion/editorials/us-fed-decision-staying-hawkish-9391410/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:46:42 +0000
+### [Rishi Sunak’s poor little rich boy moment](https://indianexpress.com/article/opinion/editorials/rishi-sunaks-poor-little-rich-boy-moment-9391397/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:46:37 +0000
+### [Death of workers in Kuwait underlines vulnerability of Indian migrants](https://indianexpress.com/article/opinion/editorials/death-of-workers-in-kuwait-underlines-vulnerability-of-indian-migrants-9391396/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:35:46 +0000
+### [June 14, 1984, Forty Years Ago: Army action in Punjab prevented creation of Khalistan](https://indianexpress.com/article/opinion/40-years-ago/june-14-1984-forty-years-ago-army-action-in-punjab-prevented-creation-of-khalistan-9391398/)
+
+Article found but Couldn't summarize
+
 Thu, 13 Jun 2024 14:47:31 +0000
 ### [Kuwait fire: It’s time we stop invisibilising migrant workers](https://indianexpress.com/article/opinion/columns/kuwait-fire-migrant-workers-deaths-9390932/)
 

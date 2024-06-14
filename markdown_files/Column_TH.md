@@ -1,3 +1,15 @@
+Fri, 14 Jun 2024 11:06:47 +0530
+### [Column | Tracing Parsis and their monotheism](https://www.thehindu.com/opinion/columns/parsi-fire-temple-devdutt-pattanaik-parsi-community-monotheism/article68276833.ece)
+
+Article found but Couldn't summarize 
+The Parsi community is the transition zone between the monotheistic and polytheistic mythologies of West and South Asia
+
+Fri, 14 Jun 2024 10:34:36 +0530
+### [Column | Let me swear them in](https://www.thehindu.com/opinion/columns/column-g-sampath-oath-of-office-swearing-in-rashtrapati-bhavan/article68277235.ece)
+
+Article found but Couldn't summarize 
+I am excellent at saying ‘I’. Happily, it is also the most important word for the swearing-inner
+
 Wed, 12 Jun 2024 00:30:00 +0530
 ### [T20 World Cup: Taking cricket to America involves a difficult culture transfer](https://www.thehindu.com/opinion/columns/t20-world-cup-cricket-america-difficult-culture-transfer-suresh-menon/article68277510.ece)
 

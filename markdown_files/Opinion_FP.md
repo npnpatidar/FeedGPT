@@ -1,3 +1,33 @@
+Fri, 14 Jun 2024 18:25:00 +0530
+### [The big message in Russia sending its warships to Cuba](https://www.firstpost.com/opinion/the-big-message-in-russia-sending-its-warships-to-cuba-13782572.html)
+
+Article found but Couldn't summarize 
+Putin’s actions in Cuba are unmistakably a warning to the United States, signalling that Russia's patience is wearing thin
+
+Fri, 14 Jun 2024 16:05:08 +0530
+### [From self-reliance to emerging markets: Priorities of Indian defence sector under Modi 3.0](https://www.firstpost.com/opinion/from-self-reliance-to-emerging-markets-priorities-of-indian-defence-sector-under-modi-3-0-13782497.html)
+
+Article found but Couldn't summarize 
+India’s strategy of awarding larger contracts to domestic private sector entities is both pragmatic and visionary
+
+Fri, 14 Jun 2024 12:33:06 +0530
+### [US Sutra | Presidential polls: Hunter conviction will hurt Biden’s prospects](https://www.firstpost.com/opinion/us-sutra-presidential-polls-hunter-conviction-will-hurt-bidens-prospects-13782397.html)
+
+Article found but Couldn't summarize 
+Whether or not Hunter Biden faces jail or finds relief when he appeals against this verdict, the political damage to the Joe Biden re-election campaign, even if not consequential or substantial, will be done
+
+Fri, 14 Jun 2024 10:30:30 +0530
+### [Head-on | G7 is a relic of a discredited world order](https://www.firstpost.com/opinion/head-on-g7-is-a-relic-of-a-discredited-world-order-13782372.html)
+
+Article found but Couldn't summarize 
+As wars rage in Ukraine and Gaza, the G7 appears impotent. Britain, France, Germany and Italy no longer carry their weight in world affairs
+
+Fri, 14 Jun 2024 10:06:32 +0530
+### [Modi 3.0: Why BJP must embrace Mohan Bhagwat’s message for unity and inclusive governance](https://www.firstpost.com/opinion/modi-3-0-why-bjp-must-embrace-mohan-bhagwats-message-for-unity-and-inclusive-governance-13782364.html)
+
+Article found but Couldn't summarize 
+Mohan Bhagwat emphasised that we must ‘respect diversity, live together, and respect others too’. He advised Indians to ‘embrace goodwill to all’, and work towards consensus
+
 Thu, 13 Jun 2024 19:21:59 +0530
 ### [As India plans to rename 30 Tibetan sites, more needs to be done to keep China in check](https://www.firstpost.com/opinion/as-india-plans-to-rename-30-tibetan-sites-more-needs-to-be-done-to-keep-china-in-check-13782233.html)
 

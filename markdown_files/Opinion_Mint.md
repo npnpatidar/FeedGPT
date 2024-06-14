@@ -1,3 +1,45 @@
+Fri, 14 Jun 2024 18:00:09 +0530
+### [Asia’s commercial heft helps keep Russia’s war economy going](https://www.livemint.com/opinion/online-views/asias-commercial-heft-helps-keep-russia-s-war-economy-going-11718363004727.html)
+
+Article found but Couldn't summarize 
+That holds future lessons for America
+
+Fri, 14 Jun 2024 15:00:03 +0530
+### [Water scarcity: Policy intervention alone won’t help](https://www.livemint.com/opinion/online-views/water-scarcity-policy-intervention-alone-won-t-help-11718350442310.html)
+
+Article found but Couldn't summarize 
+India is falling short of this vital resource. The state has a role in augmenting supplies but we need a citizen-centric approach to the efficient use of water. Let’s leverage behavioural nudges and reset social norms for a sustainable solution to this crisis.
+
+Fri, 14 Jun 2024 14:00:00 +0530
+### [India’s new government should take a problem-solving approach](https://www.livemint.com/opinion/online-views/indias-new-government-should-take-a-problem-solving-approach-11718348438459.html)
+
+Article found but Couldn't summarize 
+To meet the election mandate, focus on inclusive growth. Devolve funds to local bodies, reduce inflation, enhance social security, create jobs, support agriculture, fix statistics, revise industrial policies and solve problems in education and health.
+
+Fri, 14 Jun 2024 08:30:08 +0530
+### [Apple: It’s late to the AI race but sure and steady](https://www.livemint.com/opinion/online-views/apple-it-s-late-to-the-ai-race-but-sure-and-steady-11718297917412.html)
+
+Article found but Couldn't summarize 
+Even as a late entrant to the action in artificial intelligence, the iPhone maker may succeed by using its core strengths in consumer-oriented technology to offer ‘AI for the rest of us'. It’s not about being a pioneer, but about the user experience.
+
+Fri, 14 Jun 2024 07:00:03 +0530
+### [Can desi soft power export cricket to the US?](https://www.livemint.com/opinion/online-views/t20-world-cup-us-cricket-sundar-pichai-satya-nadella-elon-musk-h1b-visa-football-11718275980395.html)
+
+Article found but Couldn't summarize 
+The game's popularity in the US is evident, and with a large base of potential players, developing homegrown talent from the immigrant population should not be a problem
+
+Fri, 14 Jun 2024 07:00:03 +0530
+### [Has private credit’s golden age already ended?](https://www.livemint.com/opinion/online-views/has-private-credit-s-golden-age-already-ended-11718295261552.html)
+
+Article found but Couldn't summarize 
+A more competitive market is a less profitable one
+
+Fri, 14 Jun 2024 07:00:03 +0530
+### [Mint Quick Edit | Expect a longer wait for a Fed pivot](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-expect-a-longer-wait-for-a-fed-pivot-11718297784720.html)
+
+Article found but Couldn't summarize 
+The US Federal Reserve’s latest policy decision has again dampened hopes of a rate cut, with its March forecast of three rate cuts in 2024 scaled down to one. To relieve inflation worries that stem from a tight labour market, America should open up wider to immigrants.
+
 Thu, 13 Jun 2024 16:00:15 +0530
 ### [Election wins and losses: Margin analysis reveals a luckier Congress than BJP](https://www.livemint.com/opinion/online-views/election-wins-and-losses-margin-analysis-reveals-a-luckier-congress-than-bjp-11718218980412.html)
 

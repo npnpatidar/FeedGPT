@@ -1,3 +1,93 @@
+Fri, 14 Jun 2024 17:52:49 +0530
+### [Rishi Sunak’s Conservatives now in third position in UK poll race. Who’s taken over in second place?](https://www.firstpost.com/explainers/rishi-sunak-conservative-party-third-position-uk-election-opinion-poll-reform-uk-party-nigel-farage-13782553.html)
+
+Article found but Couldn't summarize 
+With snap elections approaching fast, the latest YouGov poll indicates that the Reform UK party, led by Nigel Farage of Brexit fame, has overtaken Prime Minister Rishi Sunak's Conservative party. We explain the rise of the Reform UK, their policies, and explore the implications for the upcoming elections
+
+Fri, 14 Jun 2024 17:15:31 +0530
+### [Actor Darshan case: How driver’s surrender could be a big breakthrough in the probe](https://www.firstpost.com/explainers/kannada-actor-darshan-driver-surrenders-in-renukaswamy-murder-case-13782495.html)
+
+Article found but Couldn't summarize 
+Ravi, a resident of Kurubarachetti and the eighth accused in the Renukaswamy murder case, has surrendered to the police at the Chitradurga Deputy Superintendent of Police’s office. He was allegedly the driver of the vehicle that transported the body of the victim 200 kilometres from Chitradurga to Bengaluru
+
+Fri, 14 Jun 2024 16:24:42 +0530
+### [Ukraine Peace Summit: Who will attend from India if not PM Modi?](https://www.firstpost.com/explainers/ukraine-peace-summit-who-will-attend-from-india-if-not-pm-modi-13782461.html)
+
+Article found but Couldn't summarize 
+The Ukraine Peace Summit is set to be held this weekend at the luxury Bürgenstock resort near the city of Lucerne in Switzerland. With Prime Minister Narendra Modi unlikely to attend, New Delhi might send the secretary (West) in the Ministry of External Affairs or the Indian ambassador to Switzerland instead
+
+Fri, 14 Jun 2024 16:05:02 +0530
+### [Why China has installed toilet timers at a UNESCO World Heritage site](https://www.firstpost.com/explainers/china-has-installed-toilet-timers-at-a-unesco-world-heritage-site-youngang-buddhist-grottoes-13782143.html)
+
+Article found but Couldn't summarize 
+In a move that has left many visitors 'embarrassed', China has introduced toilet timers at the Yungang Buddhist Grottoes. The 'digital' restroom displays the word 'empty' on the pixelated LED screen when it is unoccupied and when in use, it shows the number of minutes and seconds the person has been 'engaged' in the washroom
+
+Fri, 14 Jun 2024 15:28:47 +0530
+### [Swift-Quake: How the pop star's fans made earth move at Edinburgh concert](https://www.firstpost.com/explainers/swift-quake-how-the-pop-stars-fans-made-earth-move-at-edinburgh-concert-13782429.html)
+
+Article found but Couldn't summarize 
+Taylor Swift's Edinburgh concert didn't just break records — it caused an actual 'Swift-Quake'. Around 73,000 fans dancing and singing at the megastar's weekend concerts shook the ground, with seismic activity being detected almost six km away
+
+Fri, 14 Jun 2024 15:07:38 +0530
+### [How Joe Biden is proving to be the commander-in-chief of embarrassing moments at G7 Summit](https://www.firstpost.com/explainers/how-joe-biden-is-proving-to-be-the-commander-in-chief-of-embarrassing-moments-at-g7-summit-13782458.html)
+
+Article found but Couldn't summarize 
+Since his arrival in Italy for the G7 Summit, US president Joe Biden has been facing scrutiny regarding his mental and physical fitness following a series of awkward interactions and videos taken of him which have now gone viral. His awkward greeting to Italian PM Giorgia Meloni is only one such instance
+
+Fri, 14 Jun 2024 14:38:38 +0530
+### [Why is Pope Francis attending the G7 summit? What's his plan for the meet?](https://www.firstpost.com/explainers/why-pope-francis-is-attending-g7-summit-13782409.html)
+
+Article found but Couldn't summarize 
+At the G7 summit in Italy, Pope Francis will make a historic appearance on Friday to discuss artificial intelligence (AI). He intends to use the occasion to push for stronger guardrails following the boom in generative artificial intelligence. The 87-year-old will also draw attention to the ethical implications of this technology
+
+Fri, 14 Jun 2024 13:15:03 +0530
+### [Is Britain's PM Rishi Sunak being snubbed by other G7 leaders?](https://www.firstpost.com/explainers/is-uk-pm-rishi-sunak-being-snubbed-by-other-g7-leaders-italy-meloni-13782403.html)
+
+Article found but Couldn't summarize 
+British PM Rishi Sunak has maintained that he was not being overlooked by other leaders, despite his first day at the G7 summit in Brindisi concluding without any one-on-one meetings with his peers and an uncomfortable interaction with Italian premier Giorgia Meloni
+
+Fri, 14 Jun 2024 13:14:46 +0530
+### [Kuwait fire: Why Kerala health minister was not allowed to visit Kuwait to help in aid operations](https://www.firstpost.com/explainers/kuwait-fire-kerala-health-minister-veena-george-visit-rules-clearance-denied-13782435.html)
+
+Article found but Couldn't summarize 
+Following the deadly blaze in Kuwait, which claimed the lives of 45 Indians, Kerala’s health minister Veena George rushed to the airport to fly to the Gulf nation to provide assistance to the injured and bring home the mortal remains. However, she had to return as she was denied clearance by the Centre. How does this work?
+
+Fri, 14 Jun 2024 13:11:01 +0530
+### [G7 approves $50 billion loan to Ukraine: How Russian assets will fund Kyiv's fight](https://www.firstpost.com/explainers/g7-ukraine-war-50-billion-loan-frozen-russian-assets-13782427.html)
+
+Article found but Couldn't summarize 
+G7 leaders have approved a $50 billion loan for Ukraine. The profits from the Russian assets parked in the West are going to be the cornerstone of this financial aid to Kyiv. We explain how
+
+Fri, 14 Jun 2024 12:16:42 +0530
+### [PK Mishra to remain as PM Modi’s principal secretary: Who is he?](https://www.firstpost.com/explainers/pk-mishra-to-remain-as-pm-modis-principal-secretary-who-is-he-13782353.html)
+
+Article found but Couldn't summarize 
+Known for his meticulous approach and calm demeanour, PK Mishra, a 1972-batch IAS officer has had a long association with PM Modi. With a career spanning decades, Mishra has managed programmes across a swathe of sectors including agriculture, disaster management, public policy and infrastructure and power
+
+Fri, 14 Jun 2024 11:50:34 +0530
+### [Gas cylinders, locked doors and more… How Kuwait building blaze was a tragedy waiting to happen](https://www.firstpost.com/explainers/kuwait-building-lapses-fire-tragedy-13782351.html)
+
+Article found but Couldn't summarize 
+At least 45 Indians were among the 49 people killed in a devastating fire that swept through a labour housing facility in Kuwait’s Mangaf area early Wednesday. From two dozen gas cylinders to inflammable materials used as partitions and locked doors, the six-storey building’s glaring lapses have been brought to light by preliminary investigations
+
+Fri, 14 Jun 2024 10:17:44 +0530
+### [Is Giorgia Meloni’s ‘Namaste’ greeting to G7 leaders a nod to her friendship with PM Modi?](https://www.firstpost.com/explainers/italy-giorgia-meloni-namaste-greeting-g7-summit-friendship-pm-modi-13782362.html)
+
+Article found but Couldn't summarize 
+On the first day of the G7 Summit in Italy’s Apulia, Giorgia Meloni welcomed dignitaries with a namaste. Many note that this is a nod to her friendship with Prime Minister Narendra Modi, who will attend the outreach session at the meet and also hold a bilateral with the Italian leader later
+
+Fri, 14 Jun 2024 09:31:13 +0530
+### [Countdown to Coalition: What we know so far as South Africa races to elect a president](https://www.firstpost.com/explainers/countdown-to-coalition-what-we-know-so-far-as-south-africa-races-to-elect-a-president-13782251.html)
+
+Article found but Couldn't summarize 
+On Friday, South Africa's parliament is set to elect a president, while major political parties continue to finalise the details of a coalition agreement. This agreement could determine whether Cyril Ramaphosa secures a second term as leader of the continent's industrialised economy
+
+Fri, 14 Jun 2024 08:32:20 +0530
+### [What is Hajj? What is its significance to Muslims?](https://www.firstpost.com/explainers/hajj-pilgrimage-significance-muslims-explained-13782154.html)
+
+Article found but Couldn't summarize 
+Scores of Muslims have been heading to Mecca, ahead of the annual pilgrimage, Hajj. Hajj remains one of the five pillars that form the foundations of Islam. This year, more pilgrims are expected to visit the holy site in comparison to 2023, Saudi officials informed
+
 Fri, 14 Jun 2024 06:00:49 +0530
 ### [FirstUp: Modi at G7 in Italy, Hajj pilgrimage begins... The big news today](https://www.firstpost.com/explainers/firstup-modi-g7-italy-hajj-pilgrimage-big-news-today-13782184.html)
 

@@ -1,3 +1,15 @@
+Fri, 14 Jun 2024 09:48:53 +0530
+### [Is Pakistan using a firewall to censor social media platforms? | Explained](https://www.thehindu.com/sci-tech/technology/is-pakistan-using-firewall-censor-social-media-platforms-explained/article68287882.ece)
+
+Article found but Couldn't summarize 
+Pakistani media outlets reported that the country is deploying a Chinese-style firewall to block access to social media platforms
+
+Fri, 14 Jun 2024 08:30:00 +0530
+### [China’s ‘grey-zone’ warfare tactics against Taiwan | Explained](https://www.thehindu.com/news/international/chinas-grey-zone-warfare-tactics-against-taiwan-explained/article68286636.ece)
+
+Article found but Couldn't summarize 
+What are the coercive measures China has imposed on Taiwan?
+
 Thu, 13 Jun 2024 22:48:07 +0530
 ### [The allegations over NEET-UG 2024 | Explained](https://www.thehindu.com/education/neet-ug-results-2024-allegations-controversy/article68286624.ece)
 

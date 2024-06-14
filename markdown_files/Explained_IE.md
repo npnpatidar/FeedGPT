@@ -1,3 +1,33 @@
+Fri, 14 Jun 2024 11:34:06 +0000
+### [Explained: The case against US journalist Evan Gershkovich, set to stand trial in Russia](https://indianexpress.com/article/explained/explained-global/evan-gershkovich-russia-trial-case-9392701/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 07:07:55 +0000
+### [Explained: The ironic legacy of Che Guevara’s image](https://indianexpress.com/article/explained/everyday-explainers/che-guevara-image-ironic-legacy-9392191/)
+
+Ernesto "Che" Guevara, a Marxist revolutionary, was born on June 14, 1928. Despite his death 50 years ago, he remains a cult figure, an icon of revolutionary struggles worldwide. The iconic image "Guerrillero Heroico" taken by Alberto Korda in 1960 has become a symbol of resistance and rebellion, appearing on various merchandise. Che's image has been commercialized, losing much of its original meaning as a symbol of anti-capitalism. Today, it is often used to sell products, with many wearers not understanding or agreeing with Che's Marxist politics.
+
+Fri, 14 Jun 2024 05:00:26 +0000
+### [Why NTA withdrew ‘grace marks’ awarded to 1,563 NEET candidates](https://indianexpress.com/article/explained/nta-grace-marks-neet-2024-retest-9391960/)
+
+The National Testing Agency (NTA) will re-conduct the National Eligibility cum Entrance Test for undergraduate medical studies (NEET UG) for 1,563 candidates on June 23. This decision was made after a Grievance Redressal Committee (GRC) set up by the NTA to look into allegations that the exam started late in some centers, resulting in candidates not having enough time to complete the exam. The GRC awarded "grace marks" to the affected candidates, but the Ministry of Education (MoE) and the NTA set up a high-powered committee (HPC) to review the results. The HPC suggested that the normalised scores of all 1,563 candidates be cancelled and withdrawn, and the impacted students be given the opportunity to appear for a re-examination. Those who do not wish to appear for the retest will be awarded their actual marks in the test conducted on May 5.
+
+Fri, 14 Jun 2024 02:45:44 +0000
+### [Red Fort case: What are the standards for awarding death sentence, the President’s ‘mercy’ power](https://indianexpress.com/article/explained/explained-law/red-fort-case-standards-for-awarding-death-presidents-mercy-power-9391493/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:30:03 +0000
+### [What vegetarianism means in India](https://indianexpress.com/article/explained/explained-economics/what-vegetarianism-means-in-india-9391436/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 00:55:47 +0000
+### [Explained: All about Kavli Prize, mirroring Nobel in fields of astrophysics, neuroscience, and nanoscience](https://indianexpress.com/article/explained/explained-sci-tech/explained-kavli-prize-9391030/)
+
+Article found but Couldn't summarize
+
 Thu, 13 Jun 2024 14:29:29 +0000
 ### [How will the EU elections impact Southeast Asia?](https://indianexpress.com/article/explained/explained-global/eu-elections-southeast-asia-9390755/)
 
