@@ -1,3 +1,9 @@
+Sat, 15 Jun 2024 09:00:19 +0530
+### [Charanjit Singh: Campa Cola's forgotten founder who battled Coca-Cola, Pepsi, and India Today](https://www.livemint.com/opinion/online-views/charanjit-singh-campa-colas-forgotten-founder-who-battled-coca-cola-pepsi-and-india-today-11718352224053.html)
+
+Article found but Couldn't summarize 
+After Coca Cola was evicted from India in 1977, Singh’s Pure Drinks family group, which had been the sole manufacturer and distributor of the global cola giant, launched Campa Cola. Singh knew it wasn’t the product that would sell but the spirit it could summon
+
 Fri, 14 Jun 2024 18:00:09 +0530
 ### [Asia’s commercial heft helps keep Russia’s war economy going](https://www.livemint.com/opinion/online-views/asias-commercial-heft-helps-keep-russia-s-war-economy-going-11718363004727.html)
 

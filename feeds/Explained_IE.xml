@@ -5,6 +5,92 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Why has New Zealand removed the ‘burp tax’ on livestock?</title>
+			<link>https://indianexpress.com/article/explained/explained-global/new-zealand-burp-tax-9394619/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 15 Jun 2024 11:52:01 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/New-Zealand-cows.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/New-Zealand-cows.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>‘Imported’ cricketers: Behind United States’ success in T20 World Cup</title>
+			<link>https://indianexpress.com/article/explained/explained-sports/imported-cricketers-behind-united-states-success-in-t20-world-cup-9394553/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 15 Jun 2024 11:38:05 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/Netravalkar-Anderson-Harmeet.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/Netravalkar-Anderson-Harmeet.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Regulation on tourism, push for ‘all inclusive’ government: What happened at this year’s Antarctic Parliament</title>
+			<link>https://indianexpress.com/article/explained/explained-global/antarctic-parliament-meet-9394309/</link>
+			<description>The 46th Antarctic Treaty Consultative Meeting was held in Kochi, India, where India voiced concerns about unregulated tourism in Antarctica and introduced a dedicated working group for Antarctic tourism. The meeting highlighted the need for an "all-inclusive" governance framework, and a tourism framework was initiated. The Indian government announced the establishment of a new research station, Maitri-II, and Saudi Arabia became the latest country to join the Antarctic Treaty Parties. The meeting also discussed sea ice change, protecting the emperor penguin, and environmental impact assessments. India emphasized the need for more nations to join the treaty and share responsibilities for governance, research, and policy-making.</description>
+			<pubDate>Sat, 15 Jun 2024 09:31:40 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/AP.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/AP.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>What is INCOIS’s new product to forecast El Niño and La Niña conditions?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/incois-new-product-forecast-enso-9394168/</link>
+			<description>The Indian National Centre for Ocean Information Services (INCOIS) has developed a new product called Bayesian Convolutional Neural Network (BCNN) that can predict the emergence of El Niño and La Niña conditions up to 15 months in advance. El Niño and La Niña are different phases of El Niño Southern Oscillation (ENSO), which is a climate phenomenon that involves changes in the temperature of waters in the central and eastern tropical Pacific Ocean. The BCNN model uses artificial intelligence, deep learning, and machine learning to improve forecasts related to ENSO phases. The model calculates the Niño3.4 index value, which is used to determine the different phases of ENSO, and makes the forecast. The BCNN model is a combination of the dynamic model with AI, which helps it forecast the emergence of El Niño and La Niña conditions with a 15-month lead time. The model was developed by incorporating data from historical runs (1850-2014 period) from the Coupled Model Intercomparison Project phases 5 and 6 (CMIP5 and CMIP6), which augmented the training dataset. The model took eight months to develop and was put through several testing phases. According to the June 5 bulletin, La Niña conditions are predicted to emerge during July-September (probability 70-90%) and continue till February 2025.</description>
+			<pubDate>Sat, 15 Jun 2024 07:30:18 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/ENSO.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/ENSO.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why chilis burn. And why humans still love them</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/why-chilis-burn-why-humans-still-love-them-9394150/</link>
+			<description>Denmark's food safety authorities have recalled three types of South Korean instant noodles due to the high capsaicin content, which can pose a health risk, especially to children. Capsaicin is the chemical responsible for the spiciness of chili peppers and can cause acute poisoning if consumed in large quantities. While capsaicin serves an evolutionary purpose for chili plants, it can also have negative effects on the human body, including heartburn, gastrointestinal pain, and diarrhea. The recall is in response to a social media trend where children and teenagers are daring each other to eat spicy noodles, which can be dangerous.</description>
+			<pubDate>Sat, 15 Jun 2024 07:28:15 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/Chili.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/Chili.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>No outcome in Bonn: why money is key to climate action</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/no-outcome-in-bonn-why-money-is-key-to-climate-action-9393599/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Sat, 15 Jun 2024 01:51:26 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/climate-explained.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/climate-explained.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Indian’s foreign policy in Modi 3.0: A look at challenges and opportunities</title>
+			<link>https://indianexpress.com/article/explained/g7-summit-india-world-in-modi-3-0-9393600/</link>
+			<description>The article discusses the potential foreign policy of the Narendra Modi government in its third term. With no change at the top at the Ministry of External Affairs, a broad continuity is indicated. However, there will be some calibration and re-setting of the agenda for specific regions, depending on the changing global situation and Indian strategic imperatives.
+
+In terms of neighborhood policy, India will have to be nimble in its diplomacy and be unilaterally generous without insisting on reciprocity. The article highlights the challenges and opportunities in relations with Pakistan, Afghanistan, Myanmar, Bangladesh, Bhutan, Nepal, Sri Lanka, Maldives, Mauritius, and Seychelles.
+
+Regarding Pakistan, the article notes that Imran Khan's government has changed, and the economy is in crisis. Modi has responded that "security" is India's priority, and that "terror and talks can't go together". The series of terror attacks in J&amp;K have put paid to any potential build-up of public opinion in favor of a possible engagement.
+
+In terms of Afghanistan, there is no diplomatic relationship with Kabul since the Taliban captured power in August 2021. However, a working relationship is likely to continue.
+
+Regarding Myanmar, the challenge has been to engage with the junta government that has been preoccupied with armed resistance internally. It has been suggested that New Delhi should start engaging with opposition groups.
+
+The article also highlights the importance of ties with the West, including the US, Europe, Japan, and Australia. However, there have been tensions over criticism of the government in Western media, and the Indian government has been sensitive to commentary in the West.
+
+The article also mentions the border standoff with China, which is entering its fifth year. India wants complete disengagement and then de-escalation, and it will take a lot of time to move 50,000-60,000 troops and weapons away from both sides of the border. High-level engagements, especially Modi's meeting with President Xi Jinping in Kazakhstan, may hold potential for an unlock.
+
+In terms of Russia, India is likely to skip the June 15-16 peace conference in Switzerland at the highest level, given that Russia will not be in the room. However, India is expected to be represented at an official level and to emphasize on dialogue and diplomacy.</description>
+			<pubDate>Sat, 15 Jun 2024 01:36:44 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/Modi-Biden.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/Modi-Biden.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Bypassing statute of limitation, stay on sedition law: Why UAPA has been invoked against Arundhati Roy</title>
+			<link>https://indianexpress.com/article/explained/explained-law/bypassing-statute-limitation-uapa-arundhati-roy-9393462/</link>
+			<description>The article discusses the recent invocation of stringent UAPA charges against author-activist Arundhati Roy and Dr. Sheikh Showkat Hussain, who were first charged in 2010 for allegedly delivering provocative speeches in public. The charges were initially dropped due to the statute of limitation, but the state has now invoked UAPA charges to bypass the limitation period. The UAPA charges carry a maximum sentence of up to seven years, and the law grants the state more powers than ordinary criminal law. The article highlights that the definition of "unlawful activity" in the UAPA includes phrases used in the sedition provision, and that the Supreme Court has stayed the operation of the sedition law due to its overbroad definition and rampant misuse.</description>
+			<pubDate>Sat, 15 Jun 2024 01:03:49 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/Arundhati-Showkat.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/Arundhati-Showkat.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Why the Centre has extended the Digital Health Incentive Scheme</title>
 			<link>https://indianexpress.com/article/explained/digital-health-incentive-scheme-extended-9393028/</link>
 			<description>Article found but Couldn't summarize</description>

@@ -1,3 +1,54 @@
+Sat, 15 Jun 2024 17:09:21 +0530
+### [4 reasons why the US Supreme Court’s decision on gun ‘bump stocks’ is so controversial](https://www.firstpost.com/explainers/us-supreme-court-gun-bump-stocks-ban-mass-shooting-gun-control-13782845.html)
+
+Article found but Couldn't summarize 
+The US Supreme Court ruled 6-3 to invalidate the federal ban on bump stocks, devices that enable semiautomatic weapons to fire at a rate similar to machine guns. The decision is controversial for many reasons: boosting the threat of gun violence, the Court choosing technicality instead of practicality in a matter of public safety, the impact it has had on thousands of victims of the tragic 2017 Las Vegas mass shooting, and the heavy politicisation
+
+Sat, 15 Jun 2024 16:58:24 +0530
+### [How Mars recent solar storm could put astronauts at risk](https://www.firstpost.com/explainers/mars-solar-storm-astronauts-13782817.html)
+
+Article found but Couldn't summarize 
+In May, Mars was struck by a powerful solar storm that engulfed the planet in radiation, charged particles, and auroras. It’s not fatal, but if an astronaut had been standing next to the rover, they would have been exposed to radiation equivalent to 30 chest X-rays. This is the highest radiation surge the rover's equipment has recorded since it landed almost 12 years ago
+
+Sat, 15 Jun 2024 14:35:51 +0530
+### [From Hong Kong to San Jose: The 'impossibly unaffordable' cities in the world](https://www.firstpost.com/explainers/impossibly-unaffordable-cities-in-the-world-13782777.html)
+
+Article found but Couldn't summarize 
+According to a housing report, Hong Kong, Asia's financial hub, is the least affordable city in the English-speaking world. Five cities in the US, three Australian cities and two Canadian cities are also named in the list of top ‘impossibly unaffordable’ cities in the world
+
+Sat, 15 Jun 2024 12:59:32 +0530
+### [Did Tsav-9, group sanctioned by US, have quiet backing from Israel for its illegal blocking of aid to Gaza?](https://www.firstpost.com/explainers/tsav-9-right-wing-group-sanctioned-by-us-israel-illegal-blocking-aid-gaza-13782772.html)
+
+Article found but Couldn't summarize 
+Tsav-9, whose name translates to 'Order 9' in Hebrew, traces its origins to a Facebook group. It holds a hardline stance against providing humanitarian aid to Gaza, arguing that such aid supports Hamas. The US has sanctioned the group primarily for its violent efforts to block support to the enclave
+
+Sat, 15 Jun 2024 12:27:57 +0530
+### [Modi at G7: From Biden to the Pope, the leaders Modi met and why](https://www.firstpost.com/explainers/pm-modi-g7-outreach-session-bilateral-meetings-13782706.html)
+
+Indian Prime Minister Narendra Modi returned to India after attending the outreach session of the G7 summit in southern Italy. During the summit, Modi held bilateral meetings with several world leaders, including Italian Prime Minister Giorgia Meloni, French President Emmanuel Macron, US President Joe Biden, UK Prime Minister Rishi Sunak, Ukrainian President Volodymyr Zelenskyy, and others. Modi reiterated the concerns and priorities of the Global South countries, which are bearing the brunt of global uncertainties and tensions. He also emphasized the importance of cooperation and dialogue in resolving global issues. Modi's meetings with world leaders covered a range of topics, including commerce, energy, defense, and security cooperation.
+
+Sat, 15 Jun 2024 11:25:04 +0530
+### [Ukraine peace summit in Switzerland's Burgenstock resort: Where Charlie Chaplin met Nehru](https://www.firstpost.com/explainers/ukraine-peace-summit-in-switzerland-burgenstock-resort-history-13781459.html)
+
+Burgenstock resort in Switzerland has a rich history of hosting celebrities and politicians. Over the past 150 years, it has welcomed famous guests such as Charlie Chaplin, Audrey Hepburn, Sean Connery, Jawaharlal Nehru, David Ben-Gurion, Golda Meir, and Jimmy Carter. The resort has also played host to the secretive Bilderberg meeting of global power brokers in 1960, 1981, and 1995. This weekend, the resort will host the Ukraine peace summit, with leaders from over 90 nations and organizations in attendance. The resort has a picturesque location, with a mountain dominating the center of Lake Lucerne and surrounded by water on three sides. It offers luxurious accommodations, including a royal suite that costs over 16,000 Swiss francs per night.
+
+Sat, 15 Jun 2024 09:39:20 +0530
+### [This Week in Explainers: Why Modi’s ‘Big 4’ mantris are staring at a tough road ahead](https://www.firstpost.com/explainers/this-week-in-explainers-why-modis-big-4-mantris-are-staring-at-a-tough-road-ahead-13782520.html)
+
+Article found but Couldn't summarize 
+Modi sarkar 3.0 is here. The PM has retained Amit Shah for home, Rajnath Singh for defence, S Jaishankar for foreign affairs and Nirmala Sitharaman for finance. However, they have their job cut out for them. All about the new government and more in our weekly roundup of the big news from India
+
+Sat, 15 Jun 2024 09:14:32 +0530
+### [Switzerland to host Ukraine peace summit: What is it? Who’s attending?](https://www.firstpost.com/explainers/switzerland-ukraine-peace-summit-russia-war-13781873.html)
+
+The article reports on the upcoming Ukraine peace summit in Switzerland, which is expected to be attended by around 90 countries. The summit aims to discuss Ukraine's 10-point peace plan, which includes the full withdrawal of Russian troops, prosecuting war crimes, and restoring Ukraine's territorial integrity. The summit is seen as a "first step" towards "lasting peace" in Ukraine.
+
+The summit will be hosted by Switzerland and is expected to focus on three key aspects of Ukraine's peace plan: freedom of navigation, energy and nuclear security, and the exchange of captives and the return of children illegally abducted to Russia. Experts do not expect much progress from the summit towards ending the war.
+
+The summit will be attended by several high-level officials, including US Vice President Kamala Harris and US national security advisor Jake Sullivan, French President Emmanuel Macron, German Chancellor Olaf Scholz, Indian Prime Minister Narendra Modi, and others. However, Russia will not be represented at the summit, and some countries, including China and Saudi Arabia, have declined to attend.
+
+The Swiss government has described the summit as a "first step" towards "lasting peace" in Ukraine, and experts believe that the summit may lead to a common understanding among participating countries, which can then be presented to Russia in future peace talks.
+
 Fri, 14 Jun 2024 21:11:39 +0530
 ### [Is Dan the man? The AI boyfriend on ChatGPT popular among Chinese women](https://www.firstpost.com/explainers/is-dan-the-man-the-ai-boyfriend-on-chatgpt-popular-among-chinese-women-13782508.html)
 

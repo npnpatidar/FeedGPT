@@ -1,3 +1,54 @@
+Sat, 15 Jun 2024 18:28:04 +0530
+### [A clear and present danger: Pope Francis’ AI speech reaffirms India’s stand on harnessing technology for greater good](https://www.firstpost.com/opinion/a-clear-and-present-danger-pope-francis-ai-speech-reaffirms-indias-stand-on-harnessing-technology-for-greater-good-13782898.html)
+
+Pope Francis recently called for a ban on "lethal autonomous weapons" at a G7 summit in Italy, emphasizing the importance of human control in decision-making processes related to armed conflict. He highlighted the urgent need to reconsider the development and deployment of such weapons, citing the tragic consequences of armed conflict and the paramount importance of human oversight. The Pope's message resonates deeply in India, a country that has historically advocated for peace and non-violence. India has witnessed advancements in AI technology, raising questions about its implications for national security and ethical use. The Pope's call for a ban aligns with India's commitment to promoting global peace and disarmament, and India recognizes the need for robust international frameworks to regulate the use of AI in warfare.
+
+Sat, 15 Jun 2024 17:21:21 +0530
+### [Terror attacks in J&K: India must deliver tough message to terrorists and their Pakistani masters](https://www.firstpost.com/opinion/terror-attacks-in-jk-india-must-deliver-tough-message-to-terrorists-and-their-pakistani-masters-13782857.html)
+
+The article discusses the recent surge in terrorist attacks in the Jammu division of Jammu and Kashmir, which is a shift from the usual terror hotspots in the Kashmir valley. The author argues that this shift is a strategic move by Pakistan to test the Indian government's response and to create instability in the region. The author suggests that the Pakistani government is trying to signal to India that they are still a relevant player in the region and are not ready to give up on their "Kashmir cause".
+
+The article also mentions that the Indian government, led by Prime Minister Narendra Modi, will likely respond to these attacks and may even launch a military operation against Pakistan. The author notes that the Pakistani government is trying to carefully calibrate the violence to avoid crossing the threshold of tolerance in India and to avoid a full-scale war.
+
+The article concludes that the situation in Jammu is likely to escalate and tensions will rise in the region, potentially leading to a increase in violence along the Line of Control (LoC) and the possibility of a military response from India.
+
+Sat, 15 Jun 2024 15:27:01 +0530
+### [If CIA can hack iPhones, is user data safe after Apple-ChatGPT integration?](https://www.firstpost.com/opinion/if-cia-can-hack-iphones-is-user-data-safe-after-apple-chatgpt-integration-13782818.html)
+
+Apple's cooperation with US intel agencies and OpenAI's privacy policy have raised serious questions about user data. In 2019, a Silicon Valley firm called Rhombus Power used its generative AI platform to collect and analyze non-classified data on illegal Chinese fentanyl trafficking for the US Defence Intelligence Agency. Similarly, OpenAI, co-owned by Microsoft, uses AI to predict violence worldwide.
+
+The US Intelligence Community increasingly relies on machine intelligence, especially in national security matters. AI can analyze a large amount of data and produce results and analyses in seconds. AI can also be used to predict terrorist attacks by analyzing historical data and social media activity of suspects.
+
+Section 702 of the Foreign Intelligence Surveillance Act allows the NSA to collect phone calls, emails, SMS, and other communications of non-Americans located outside the US without a warrant. However, this also means that an American communicating with a non-American outside the US is also monitored without a warrant.
+
+Apple's partnership with OpenAI, which integrates ChatGPT into iOS 18, iPadOS 18, and macOS Sequoia, has raised concerns about data safety. Apple claims that user data will not be sent over the Internet while ChatGPT generates images and predicts text. However, Apple's most advanced chips will not be able to complete the massive range of AI tasks and Siri might pass them to the company's servers.
+
+OpenAI's privacy policy states that it collects personal information, including IP addresses, browser type, and settings, time zone, country, and other information. OpenAI may provide the user's personal information to third parties in certain circumstances and may share it with law enforcement agencies.
+
+US and British intelligence agencies have focused on big companies, including Apple, manufacturing popular cell phones, besides targeting terrorists or criminals. In 2010, the NSA and Britain's GCHQ formed the Mobile Handset Exploitation Team to implant malware on iPhones to secretly access private communications on cell phones.
+
+The CIA has also developed software exploits and implants for high-priority target cell phones for intelligence collection. The FBI hacking division, the Remote Operations Unit, is also tasked with discovering iPhone vulnerabilities.
+
+Sat, 15 Jun 2024 14:23:12 +0530
+### [Uttarakhand’s Baijnath temple and its lost miracle stone](https://www.firstpost.com/opinion/uttarakhands-baijnath-temple-and-its-lost-miracle-stone-13782802.html)
+
+The article is about the Baijnath temple complex in Uttarakhand, India, which is a revered and historic temple site. The author recounts his own experience of lifting a mysterious stone, known as the "Bhim Gend" or "miracle stone", with a group of nine people in 1994. The stone was said to weigh around 90 kilograms and could only be lifted by chanting "nau, nau, nau" and using their index fingers. The author recalls the tranquility of the place in the 1990s, but notes that it has changed significantly with the arrival of modern infrastructure and tourism. The temple complex still stands, but the miracle stone is now broken into two parts and is no longer present. The article also mentions the rich history and mythology of the temple site, which dates back to the Katyuri dynasty.
+
+Sat, 15 Jun 2024 13:22:45 +0530
+### [Fourth anniversary of Galwan incident: Indelible stain on India-China ties](https://www.firstpost.com/opinion/fourth-anniversary-of-galwan-incident-indelible-stain-on-india-china-ties-13782786.html)
+
+The Galwan Valley face-off between Indian and Chinese troops on June 15, 2020, marked a significant deterioration in bilateral relations between India and China. The incident occurred when Indian troops went to check if the Chinese had withdrawn from the Galwan Valley, as agreed upon by military commanders. However, the Chinese troops attacked the Indian soldiers, resulting in the deaths of 20 Indian soldiers, including Colonel B Santosh Babu. The clash was a result of China's attempts to unilaterally alter the status quo along the Line of Actual Control (LAC). The incident has had a lasting impact on India-China relations, leading to a significant deterioration in ties and affecting the strategic calculus of both countries.
+
+The border dispute between India and China is a longstanding issue, with China not accepting the alignment of the boundary between the two countries. China's annexation of Tibet in 1959 led to India's border with China, and the two countries have had a complex history of negotiations and agreements. Despite several agreements and protocols, the LAC remains undemarcated, and the two sides have had a series of skirmishes over the years, including the Galwan Valley incident.
+
+The incident led to a significant buildup of troops and armaments by both sides, and the situation remains tense, with troops deployed in a standoff. Despite diplomatic and military talks, the standoffs in critical areas remain unresolved. The Chinese side has refused to discuss the Depsang Plains and Demchok in Eastern Ladakh, claiming they are "legacy issues" that predate April 2020. The situation has led to a huge trust deficit regarding China, and India has responded by counter-deploying forces.
+
+Sat, 15 Jun 2024 11:13:28 +0530
+### [G7+1: How India bridges between West and Global South amid fractured world order](https://www.firstpost.com/opinion/g71-how-india-bridges-between-west-and-global-south-amid-fractured-world-order-13782734.html)
+
+Article found but Couldn't summarize 
+India's upward trajectory and quest to be a ‘rule-maker and shaper’ make it well placed to craft and promote its principled foreign policy while reiterating that 'this is not an era of war' and dialogue and diplomacy can only lead to peace
+
 Fri, 14 Jun 2024 19:49:59 +0530
 ### [Terrorist attacks in the Jammu belt: Time to make Pakistan accountable](https://www.firstpost.com/opinion/terrorist-attacks-in-the-jammu-belt-time-to-make-pakistan-accountable-13782623.html)
 

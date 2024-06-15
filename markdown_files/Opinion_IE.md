@@ -1,3 +1,65 @@
+Sat, 15 Jun 2024 12:11:18 +0000
+### [Is PM Modi’s response to Nawaz Sharif ‘sarcasm intended at asking Pakistan to do more’?](https://indianexpress.com/article/opinion/columns/pm-modi-nawaz-sharif-pakistan-9394640/)
+
+Article found but Couldn't summarize
+
+Sat, 15 Jun 2024 10:32:05 +0000
+### [Behind the NEET 2024 fiasco: Move from ‘select few’ to ‘appease all’](https://indianexpress.com/article/opinion/columns/neet-2024-fiasco-admission-appeasement-controversies-9394308/)
+
+The National Eligibility-cum-Entrance Test (NEET) UG is a competitive examination for medical seats in India. The 2024 exam has faced several controversies, including inflated scores and ranks, a lack of correlation between NEET and Class 12 scores, and issues with the tie-breaking rule. Sixty-one candidates achieved the top rank with 100% marks, while 22,000 candidates scored above 90% and 80,000 students above 83%. Historically, the Central Board of Secondary Education (CBSE) conducted the exam, but from 2019, the National Testing Agency (NTA) took over. NTA's objective is to rank candidates based on their scores, whereas CBSE focuses on assigning distinct grades. The controversy surrounding NEET 2024 raises questions about the exam's scoring and ranking system. Despite issues, NTA has been praised for disclosing information and making quick corrections. The controversy has shaken the faith of lakhs of aspirants and the coaching and counselling industry, leading to several litigations and media coverage. To avoid such situations, a robust and resilient system is needed to counter apparent irregularities and ensure the integrity of the examination and admission merit.
+
+Sat, 15 Jun 2024 08:52:07 +0000
+### [South Africa – like India – has rejected One Party, One Leader model](https://indianexpress.com/article/opinion/columns/south-africa-like-india-has-rejected-one-party-one-leader-model-9394322/)
+
+The article discusses the decline of the African National Congress (ANC) in South Africa, which was once a dominant party in the country. The ANC has been plagued by corruption, poor governance, and a lack of modernizing vision, leading to a decline in its popularity. The party has lost its majority in parliament and has had to form a coalition government with other parties. The article also highlights the struggles of the Indian community in South Africa, who have historically been a key support base for the ANC, but have become disillusioned with the party's performance. The article concludes that the key to South Africa's future lies in reconciliation and integration, and that all stakeholders must work together to build a more harmonious and equitable society.
+
+Sat, 15 Jun 2024 06:16:09 +0000
+### [I was lucky to escape bigotry growing up in Gujarat. Children today might not be](https://indianexpress.com/article/opinion/columns/gujarat-vadodara-housing-colony-muslim-woman-bigotry-9394051/)
+
+The author recalls two childhood memories: one where she didn't like a TV show character because he looked like a Muslim, and another where she overheard classmates making derogatory comments about a Muslim classmate who had shared sweets with them. The author's parents taught her that it's wrong to discriminate against someone based on their religion or appearance. The author reflects on how some adults in Gujarat, where she grew up, openly express bigotry and discriminate against Muslims. She cites the example of a woman in Vadodara who is facing eviction from her housing complex because of her faith. The author warns that giving in to hateful demands could lead to an apartheid state in Gujarat. She concludes by lamenting the impact of hate and bigotry on children, including her own nephew who is old enough to understand the discrimination he faces.
+
+Sat, 15 Jun 2024 02:31:36 +0000
+### [Why NEP implementation has been a failure](https://indianexpress.com/article/opinion/columns/why-nep-implementation-has-been-a-failure-9393403/)
+
+The article discusses the National Education Policy (NEP) 2020 and its potential drawbacks. The author argues that the credit-based eight-semester format prioritizes standardization and mobility over academic content. This has led to a stunted syllabus, with reduced course loads and truncated chapters. The NEP's emphasis on multidisciplinary subjects and value-added courses has also diluted the core content of honors subjects. Furthermore, the policy's emphasis on practicals and continuous assessments has created a bureaucratic burden for students and teachers. The author concludes that the NEP has failed to address the true purpose of higher education, which is to develop critical thinking and domain-centric knowledge. Instead, it has created a system that prioritizes employability and practical skills over academic rigor. The author suggests that universities need to rethink their approach to higher education and focus on producing knowledge producers, rather than mere consumers of knowledge.
+
+Sat, 15 Jun 2024 02:10:32 +0000
+### [Ram Madhav writes: If G7 wants to remain relevant, it must listen to India](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-if-g7-wants-to-remain-relevant-it-must-listen-to-india-9393402/)
+
+The G7 summit meeting began in Puglia, Italy, with the seven leaders announcing a "deal" to use frozen Russian Central Bank assets to provide $46 billion in support for Ukraine. The G7 also launched the "Extraordinary Revenue Acceleration (ERA) Loans for Ukraine" to provide an additional $50 billion in funding by the end of the year. Ursula von der Leyen, President of the European Commission, stated that this move was a "very strong message" to Putin that he cannot outlast the G7. However, the legality of this action is uncertain, and many G7 leaders may not last long in their current positions.
+
+Sat, 15 Jun 2024 02:00:38 +0000
+### [Why the exit polls couldn’t get the nation’s pulse in 2024](https://indianexpress.com/article/opinion/columns/why-the-exit-polls-couldnt-get-the-nations-pulse-in-2024-9393392/)
+
+The Indian general elections to the Lok Sabha saw several surprises, including the significant difference between the actual results and the forecasts made by national exit polls. The polls predicted the National Democratic Alliance (NDA) would win more than 360 seats, while the Bharatiya Janata Party (BJP) would significantly improve upon its 2019 tally. However, the actual results showed the NDA won 293 seats, and the BJP won 240 seats, losing its individual majority.
+
+The article suggests that the national pollsters may have been influenced by the commercial pressure to produce similar forecasts, rather than making accurate predictions. This phenomenon, known as the Keynesian curse, occurs when forecasters base their forecasts on the forecasts of other forecasters, rather than on actual data. This can lead to a narrowing of the range of forecasts, making it difficult to predict the actual outcome. The article concludes that the national pollsters may have been more focused on producing similar forecasts to their competitors rather than making accurate predictions.
+
+Sat, 15 Jun 2024 01:35:11 +0000
+### [NEET controversy: An untidy exam](https://indianexpress.com/article/opinion/editorials/neet-controversy-an-untidy-exam-9393387/)
+
+The National Eligibility-Cum-Entrance Test (NEET) has been marred by controversy due to a technical glitch that affected over 1,500 candidates. The National Testing Agency (NTA) initially gave them the wrong question paper, and later provided compensatory marks to make up for the lost time. The Supreme Court intervened after receiving multiple petitions. The error has raised concerns about the sanctity of the examination. Additionally, the unusually high number of students who secured perfect marks has led to allegations of arbitrary marking. The NTA's response has been unconvincing, and the agency's conduct of the NEET has been criticized. The high demand for medical education in India has led to hyper-competition, making the NEET more of an elimination test than a genuine assessment of aptitude.
+
+Sat, 15 Jun 2024 01:34:48 +0000
+### [Modi-led NDA government has stood by the marginalised. One election can’t take that away](https://indianexpress.com/article/opinion/columns/modi-led-nda-government-has-stood-by-the-marginalised-one-election-cant-take-that-away-9393382/)
+
+On April 5, 2016, Indian Prime Minister Narendra Modi launched the Stand Up India initiative to empower SC, ST, and women entrepreneurs in Uttar Pradesh. He paid tribute to Babu Jagjivan Ram, a senior Congress leader, for his service to the nation. This initiative is part of the government's commitment to social justice, which is an enabler for all empowerment. The government has demonstrated a renewed focus on commemoration and representation of the marginalized, including the appointment of Mohan Manjhi, a tribal leader, as the Chief Minister of Odisha. The government has also celebrated Constitution Day to honor the country's founding document and its principles of justice, equality, and liberty. The BJP-led NDA government has made significant progress in empowering marginalized communities, including Dalits, tribals, and backward classes, through policies and affirmative action.
+
+Sat, 15 Jun 2024 01:25:55 +0000
+### [The Vadodara test: When prejudice threatens a Muslim homeowner’s rights](https://indianexpress.com/article/opinion/editorials/the-vadodara-test-when-prejudice-threatens-a-muslim-homeowners-rights-9393383/)
+
+A 44-year-old Muslim woman was allotted an apartment in a low-income housing complex in Vadodara, Gujarat, under the Mukhyamantri Awas Yojana in 2017. However, 33 residents of the complex have complained and demanded that she be revoked from the apartment, citing her religion and concerns about "threat and nuisance". The residents' demands are based on prejudice and violate the Indian Constitution's guarantees of equality and non-discrimination. The Vadodara Municipal Corporation must uphold the law and the Constitution, and protect the woman's constitutional rights.
+
+Sat, 15 Jun 2024 01:20:01 +0000
+### [Denmark bans Korean spicy noodles: A fiery tale](https://indianexpress.com/article/opinion/editorials/denmark-bans-korean-spicy-noodles-a-fiery-tale-9393385/)
+
+Article found but Couldn't summarize
+
+Sat, 15 Jun 2024 01:05:07 +0000
+### [June 15, 1984, Forty Years Ago: Army Casualties](https://indianexpress.com/article/opinion/40-years-ago/june-15-1984-forty-years-ago-army-casualties-9393386/)
+
+The article reports on several events. The Indian Army suffered heavy casualties to avoid damaging the Golden Temple complex during an operation. Assam agitators called for a 24-hour bandh in support of a solution to foreign national problems, leading to over 70 preventive arrests. Pakistan increased its defense expenditure by 20% to Rs 30,375 million, accounting for 46% of non-development current expenditure. The Sri Lankan President will visit India to discuss the unresolved problem of Sri Lankan Tamils with Prime Minister Indira Gandhi. Additionally, a USA vs Ireland cricket match was cancelled due to rain, resulting in the USA advancing to the Super 8s and Pakistan's elimination from the T20 World Cup.
+
 Fri, 14 Jun 2024 15:07:54 +0000
 ### [Three reasons why Naveen Patnaik lost Odisha](https://indianexpress.com/article/opinion/columns/naveen-patnaik-odisha-loss-9393164/)
 
