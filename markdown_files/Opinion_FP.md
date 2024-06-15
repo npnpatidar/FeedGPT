@@ -1,3 +1,12 @@
+Fri, 14 Jun 2024 19:49:59 +0530
+### [Terrorist attacks in the Jammu belt: Time to make Pakistan accountable](https://www.firstpost.com/opinion/terrorist-attacks-in-the-jammu-belt-time-to-make-pakistan-accountable-13782623.html)
+
+The article discusses the recent terrorist incidents in the Jammu belt, including the attack on pilgrims moving by bus from the Shiv Khori temple to Katra in the Reasi sector, which resulted in nine deaths and around 40 injuries. The incident is attributed to Pakistan-backed terrorist groups, despite denials by Islamabad. The article argues that while the presence of terrorists in the region is a concern, it is not a sign of the re-emergence of terrorism in the region.
+
+The article suggests that the Indian government should send a message of intent to Pakistan by reactivating the LoC and targeting Pakistan-backed terrorist groups. It also emphasizes the need for security forces to remain proactive and cautious in their operations, while also dismantling the overground network of terrorist organizations.
+
+The article also touches on the need for India to comprehend Pakistan's thought process and the potential for Pakistan to try to project itself as a victim of terrorism in order to gain international sympathy. It concludes that while terrorist groups operating south of Pir Panjal will be eliminated with time, sending a message of intent to Pakistan is essential.
+
 Fri, 14 Jun 2024 18:25:00 +0530
 ### [The big message in Russia sending its warships to Cuba](https://www.firstpost.com/opinion/the-big-message-in-russia-sending-its-warships-to-cuba-13782572.html)
 

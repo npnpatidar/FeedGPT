@@ -1,3 +1,8 @@
+Fri, 14 Jun 2024 14:44:23 +0000
+### [Why the Centre has extended the Digital Health Incentive Scheme](https://indianexpress.com/article/explained/digital-health-incentive-scheme-extended-9393028/)
+
+Article found but Couldn't summarize
+
 Fri, 14 Jun 2024 11:34:06 +0000
 ### [Explained: The case against US journalist Evan Gershkovich, set to stand trial in Russia](https://indianexpress.com/article/explained/explained-global/evan-gershkovich-russia-trial-case-9392701/)
 

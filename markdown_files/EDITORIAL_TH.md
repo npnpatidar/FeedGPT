@@ -1,3 +1,14 @@
+Sat, 15 Jun 2024 00:20:00 +0530
+### [Food factor: On food inflation](https://www.thehindu.com/opinion/editorial/food-factor-on-food-inflation/article68289807.ece)
+
+India's provisional retail inflation rate may have eased to a 12-month low of 4.75%, but food price gains remained high. Food inflation remained unchanged at 8.69%, with vegetables and pulses being major contributors. Vegetable inflation continued to hover above 27% for a sixth consecutive month, with tomato, onion, and potato prices leading the charge. The outlook for vegetable inflation is not reassuring, with June's retail price trends and wholesale costs pointing to further pain for consumers. Food inflation also accelerated, with cereal prices and pulses prices increasing. The Indian Meteorological Department reported a 12% rainfall deficit since June 1, causing mild concern. Policymakers must address the issue of food inflation, particularly affecting poorer sections of society.
+
+Sat, 15 Jun 2024 00:10:00 +0530
+### [One more chance: On Israel and the Biden three-phase ceasefire plan](https://www.thehindu.com/opinion/editorial/one-more-chance-on-israel-and-the-biden-three-phase-ceasefire-plan/article68289388.ece)
+
+Article found but Couldn't summarize 
+Israel will have to accept the ceasefire proposal or face isolation
+
 Fri, 14 Jun 2024 00:20:00 +0530
 ### [Carry it forward: On the BJP government in Odisha](https://www.thehindu.com/opinion/editorial/carry-it-forward-on-the-bjp-government-in-odisha/article68285515.ece)
 

@@ -1,3 +1,43 @@
+Fri, 14 Jun 2024 21:11:39 +0530
+### [Is Dan the man? The AI boyfriend on ChatGPT popular among Chinese women](https://www.firstpost.com/explainers/is-dan-the-man-the-ai-boyfriend-on-chatgpt-popular-among-chinese-women-13782508.html)
+
+The article discusses the growing popularity of AI boyfriends among Chinese women who are dissatisfied with their real-life dating experiences. A modified version of the AI chatbot ChatGPT, known as Dan or "Do Anything Now," has gained significant popularity among Chinese women. This version of ChatGPT can interact more freely with users through specific prompts, allowing it to bypass restrictions and engage in more liberal conversations. The AI boyfriends, including Dan, offer emotional support and understanding, which is particularly appealing to Chinese women who feel disappointed with real-world dating experiences. The article highlights the adaptability and accessibility of AI companionship, which can provide a customized interaction experience tailored to the user's personality. The phenomenon has sparked ethical concerns, including potential privacy issues and the unpredictable interactions between humans and AI. Despite these concerns, the popularity of AI boyfriends continues to grow, with many women forming deep connections with their AI companions.
+
+Fri, 14 Jun 2024 20:49:22 +0530
+### [What is Nagastra-1, Indian Army’s first ‘Make in India’ suicide drones?](https://www.firstpost.com/explainers/what-is-nagastra-1-indian-armys-first-make-in-india-suicide-drones-13782576.html)
+
+Article found but Couldn't summarize 
+Manufactured by Solar Industries Nagpur, the Nagastra-1 can carry a 1 kilo warhead and carry out a precision strike via GPS with an accuracy of within two metres. It is called a loitering munition weapon due to its ability to hover over the target. It has been designed to hit enemy training camps, launch pads, and infiltrators and thus reduce risk to soldiers
+
+Fri, 14 Jun 2024 20:06:55 +0530
+### [How Ramaphosa is set to be South Africa's next president despite losing the polls](https://www.firstpost.com/explainers/how-ramaphosa-is-likely-to-be-south-africas-next-president-despite-losing-the-polls-13782570.html)
+
+Article found but Couldn't summarize 
+The head of South Africa's second-largest party has announced support for Cyril Ramaphosa's re-election as president, virtually ensuring his second term in Parliament. John Steenhuisen, leader of the Democratic Alliance, confirmed that his party has officially entered into a coalition agreement with the African National Congress, which stipulates Ramaphosa's continuation as president
+
+Fri, 14 Jun 2024 19:36:37 +0530
+### [Over worked: Why 86% of Indians are unhappy at their workplace](https://www.firstpost.com/explainers/worked-to-the-bone-why-86-of-indians-are-unhappy-at-their-workplace-13782522.html)
+
+Article found but Couldn't summarize 
+According to a 2024 Gallup State of the Global Workplace report, a staggering 86 per cent of Indians feel they are ‘suffering’ or ‘struggling’ at their workplace, while only a mere 14 per cent of Indians feel that they are ‘thriving’. This is significantly lower than what their global counterparts report
+
+Fri, 14 Jun 2024 18:56:30 +0530
+### [In Graphics | Wave bye bye to El Niño this year, say scientists. Here's why it matters](https://www.firstpost.com/explainers/in-graphics-wave-bye-bye-to-el-nino-this-year-say-scientists-heres-why-it-matters-13782595.html)
+
+Article found but Couldn't summarize 
+The El Niño weather phenomenon, a natural warming of the central Pacific that changes weather worldwide, has ended for this year, according to the US' National Oceanic and Atmospheric Administration. The El Niño is set to be replaced by the La Niña — which is characterised by cold ocean temperatures in the equatorial Pacific region. But why does the El Niño matter? And what happens when the La Niña begins?
+
+Fri, 14 Jun 2024 18:31:51 +0530
+### [India targets Rs 50,000-crore military exports in 5 years. What weapons does it export now?](https://www.firstpost.com/explainers/india-targets-rs-50000-crore-military-exports-in-5-years-what-weapons-does-it-export-now-13782488.html)
+
+India's defense exports have reached a record high of Rs 21,083 crore in the 2023-24 financial year, with a target to reach Rs 50,000 crore by 2028-2029. The defense minister, Rajnath Singh, has announced that India aims to increase its defense exports to Rs 50,000 crore by 2028-2029. India exports arms to over 85 countries, including Italy, the Maldives, Russia, Sri Lanka, the United Arab Emirates, the Philippines, Saudi Arabia, Poland, Egypt, Israel, and Chile. The country's defense production has already crossed Rs 1 lakh crore in 2023-24. The private sector contributes 60% of the exports, while Defense Public Sector Undertakings (DPSUs) make up the remaining 40%. India's major export markets include Myanmar, Sri Lanka, and the Philippines.
+
+Fri, 14 Jun 2024 18:05:35 +0530
+### [How an anti-malaria drug could help in treating PCOS](https://www.firstpost.com/health/antimalaria-drug-to-treat-pcos-13782531.html)
+
+Article found but Couldn't summarize 
+In a breakthrough study, scientists have found an antimalarial drug used in ancient Chinese medicine could effectively treat women with PCOS. The study found that women who took the herbal extract artemisinin for 12 weeks experienced more regular periods, suggesting that the extract may be able to control the production of too much testosterone
+
 Fri, 14 Jun 2024 17:52:49 +0530
 ### [Rishi Sunak’s Conservatives now in third position in UK poll race. Who’s taken over in second place?](https://www.firstpost.com/explainers/rishi-sunak-conservative-party-third-position-uk-election-opinion-poll-reform-uk-party-nigel-farage-13782553.html)
 

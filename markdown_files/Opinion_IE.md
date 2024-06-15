@@ -1,3 +1,13 @@
+Fri, 14 Jun 2024 15:07:54 +0000
+### [Three reasons why Naveen Patnaik lost Odisha](https://indianexpress.com/article/opinion/columns/naveen-patnaik-odisha-loss-9393164/)
+
+The Biju Janata Dal (BJD) party, led by Chief Minister Naveen Patnaik, lost its majority in the 2024 Odisha assembly election. The party secured 40.22% of the votes and won 51 seats, while the Bharatiya Janata Party (BJP) won 78 seats with 40.07% of the votes. The BJD's welfare-centric electoral strategy, which included schemes such as universal health coverage and pension for the elderly, failed to resonate with voters. Three reasons are attributed to the BJD's defeat: firstly, the perception of "baburaj" (officer rule), where bureaucrats controlled service provisions, leading to a breakdown in the relationship between voters and politicians; secondly, the BJP's successful use of religious polarisation and the invocation of Lord Jagannath for political ends; and thirdly, the BJP's effective use of linguistic identity politics, highlighting the threat of an "outsider" ruling the state.
+
+Fri, 14 Jun 2024 13:51:22 +0000
+### [Pratap Bhanu Mehta writes: Why the rejection of BJP is not a rejection of Hindutva](https://indianexpress.com/article/opinion/columns/bjp-rejection-hindutva-pratap-bhanu-mehta-9392994/)
+
+The article discusses the outcome of the recent Indian general election, where the ruling Bharatiya Janata Party (BJP) suffered a setback. The author argues that the BJP's reliance on schemes and mission-mode interventions to deliver welfare and development has become a limitation, as voters are now seeking more substantial and sustainable solutions. The author suggests that the BJP's failure to address structural issues such as poverty, unemployment, and inequality has led to its decline. Additionally, the author notes that the BJP's reliance on identity politics and Hindutva has also become a limitation, as voters are now seeking more concrete and sustainable governance and economic transformation. The article concludes that the BJP's failure to deliver on its promises and its inability to address the structural issues facing India has led to its decline, and that the party will need to rethink its strategy to remain relevant.
+
 Fri, 14 Jun 2024 10:53:13 +0000
 ### [Agnipath 2.0: A solution for armed forces and applicants](https://indianexpress.com/article/opinion/columns/agnipath-solution-for-armed-forces-applicants-9392628/)
 

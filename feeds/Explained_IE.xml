@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Why the Centre has extended the Digital Health Incentive Scheme</title>
+			<link>https://indianexpress.com/article/explained/digital-health-incentive-scheme-extended-9393028/</link>
+			<description>Article found but Couldn't summarize</description>
+			<pubDate>Fri, 14 Jun 2024 14:44:23 +0000</pubDate>
+			<ai_summary>False</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/06/digital.jpeg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/06/digital.jpeg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Explained: The case against US journalist Evan Gershkovich, set to stand trial in Russia</title>
 			<link>https://indianexpress.com/article/explained/explained-global/evan-gershkovich-russia-trial-case-9392701/</link>
 			<description>Article found but Couldn't summarize</description>
