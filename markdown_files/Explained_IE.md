@@ -1,3 +1,18 @@
+Sun, 16 Jun 2024 11:16:35 +0000
+### [Why is Father’s Day celebrated on the third Sunday of June?](https://indianexpress.com/article/explained/everyday-explainers/fathers-day-third-sunday-june-history-9395894/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 07:14:48 +0000
+### [Why direct seeding of rice (DSR) is yet to pick up in Punjab](https://indianexpress.com/article/explained/direct-seeding-rice-punjab-9395604/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 01:20:33 +0000
+### [How the Gandhi Sagar Wildlife Sanctuary is being developed as India’s second home for cheetahs](https://indianexpress.com/article/explained/gandhi-sagar-wildlife-sanctuary-being-as-second-home-for-cheetahs-9394736/)
+
+Article found but Couldn't summarize
+
 Sat, 15 Jun 2024 14:17:46 +0000
 ### [How Beethoven’s ‘Ode to Joy’ became the ‘Anthem of Europe’](https://indianexpress.com/article/explained/explained-culture/beethoven-ode-to-joy-anthem-of-europe-9394808/)
 

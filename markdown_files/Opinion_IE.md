@@ -1,3 +1,43 @@
+Sun, 16 Jun 2024 09:50:23 +0000
+### [From Amazon’s Haryana warehouse to the delivery boy at your doorstep — tales of oaths and indignity](https://indianexpress.com/article/opinion/columns/amazon-haryana-warehouse-oath-pervasive-indignity-9395799/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 08:31:59 +0000
+### [NDA government 2024 is a surplus coalition without a majority party. What will it mean for the BJP?](https://indianexpress.com/article/opinion/columns/nda-government-2024-is-a-surplus-coalition-without-a-majority-party-what-will-it-mean-for-the-bjp-9395666/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 06:32:48 +0000
+### [Can Naveen Patnaik reinvent the BJD as an effective opposition in Odisha?](https://indianexpress.com/article/opinion/columns/can-naveen-patnaik-reinvent-the-bjd-as-an-effective-opposition-in-odisha-9395559/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:32:04 +0000
+### [History Headline: When Ayodhya stirred, now and then](https://indianexpress.com/article/opinion/columns/when-ayodhya-stirred-now-and-then-9395036/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:31:15 +0000
+### [P Chidambaram writes: Not Modi 3.0 but Modi 2.1](https://indianexpress.com/article/opinion/columns/not-modi-3-0-but-modi-2-1-9395033/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:10:11 +0000
+### [Tavleen Singh writes: Modi has a third chance, hope he uses it to rule with more consensus](https://indianexpress.com/article/opinion/columns/narendra-modi-rss-mohan-bhagwat-lok-sabha-elections-2024-results-9395032/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 01:45:02 +0000
+### [Inside Track: Modified Modi 3.0?](https://indianexpress.com/article/opinion/columns/inside-track-modified-modi-3-0-9395030/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 01:35:19 +0000
+### [When partying becomes hard work](https://indianexpress.com/article/opinion/columns/when-partying-becomes-hard-work-9395034/)
+
+Article found but Couldn't summarize
+
 Sat, 15 Jun 2024 12:11:18 +0000
 ### [Is PM Modi’s response to Nawaz Sharif ‘sarcasm intended at asking Pakistan to do more’?](https://indianexpress.com/article/opinion/columns/pm-modi-nawaz-sharif-pakistan-9394640/)
 

@@ -1,3 +1,21 @@
+Sun, 16 Jun 2024 17:17:54 +0530
+### [Do you tie ribbons to your travel bags? Here’s why it could delay their arrival at airport](https://www.firstpost.com/explainers/tying-ribbons-travel-bags-delayed-airport-arrival-13781351.html)
+
+Article found but Couldn't summarize 
+Tying ribbons to suitcases while travelling may have been an age-old practice among travellers. However, baggage handlers have warned against the trick. They say these attachments may cause delays in the arrival of passengers' suitcases if there are issues with scanning
+
+Sun, 16 Jun 2024 12:47:08 +0530
+### [Why are people excited over the birth of a white bison in a US national park?](https://www.firstpost.com/explainers/why-are-people-excited-over-the-birth-of-a-white-bison-in-a-us-national-park-13782525.html)
+
+Article found but Couldn't summarize 
+Some experts have said that the birth of the white bison in the Yellowstone National Park in the US will mark a change of times in the world
+
+Sun, 16 Jun 2024 10:23:01 +0530
+### [This Week in Explainers: Why Italy’s Giorgia Meloni is the Person of the Week](https://www.firstpost.com/explainers/this-week-in-explainers-why-italy-pm-giorgia-meloni-is-the-person-of-the-week-13782646.html)
+
+Article found but Couldn't summarize 
+It has been a great week for Italian prime minister Giorgia Meloni. Her arch-conservative party won the most votes in the European parliamentary election, boosting her standing both at home and abroad. She also took centre stage as Italy hosted the G7 summit. All this and more in our weekly roundup of world news
+
 Sat, 15 Jun 2024 18:25:56 +0530
 ### [Can Nigel Farage's Reform beat Rishi Sunak's Conservatives in UK elections? Trends and numbers say...](https://www.firstpost.com/explainers/can-nigel-farages-reform-beat-rishi-sunaks-conservatives-in-uk-elections-trends-and-numbers-say-13782859.html)
 

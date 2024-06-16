@@ -1,3 +1,27 @@
+Sun, 16 Jun 2024 17:18:47 +0530
+### [Mercenaries or ‘tech coolies’: Time Indians should know which overseas jobs are not for them](https://www.firstpost.com/opinion/mercenaries-or-tech-coolies-time-indians-should-know-which-overseas-jobs-are-not-for-them-13783064.html)
+
+Article found but Couldn't summarize 
+Whether as mercenaries in the Russia-Ukraine war or forced into phishing jobs in Myanmar and Cambodia, Indians have suffered the severe consequences of risky migration
+
+Sun, 16 Jun 2024 15:17:42 +0530
+### [Morarji Desai’s amazing jackstay tryst with Indian Navy](https://www.firstpost.com/opinion/morarji-desais-amazing-jackstay-tryst-with-indian-navy-13783040.html)
+
+Article found but Couldn't summarize 
+While Morarji Desai’s tenure as PM was brief — from March 1977 to July 1979 — he achieved a remarkable feat of crossing across two warships, at sea, by jackstay. Even more significantly, he did this on two different occasions with the Indian Navy
+
+Sun, 16 Jun 2024 13:59:57 +0530
+### [How ‘Melodi’ is the flavour of G7, but apart from that there’s anxiety and uncertainty](https://www.firstpost.com/opinion/how-melodi-is-the-flavour-of-g7-but-apart-from-that-theres-anxiety-and-uncertainty-13783022.html)
+
+Article found but Couldn't summarize 
+Barring Narendra Modi and Giorgia Meloni, other political leaders are battling not just sheer unpopularity, but also economic shakiness amid the costs of war
+
+Sun, 16 Jun 2024 11:07:03 +0530
+### [A ‘diminished’, ‘weak’, ‘humbled’ Modi takes centrestage at G7; PM’s epitaph-writers should take a long, deep breath](https://www.firstpost.com/opinion/a-diminished-weak-humbled-modi-takes-centrestage-at-g7-pms-epitaph-writers-should-take-a-long-deep-breath-13782987.html)
+
+Article found but Couldn't summarize 
+Since taking oath, Modi has shown that he remains his own man and is in firm control of the levers of the coalition government
+
 Sat, 15 Jun 2024 18:28:04 +0530
 ### [A clear and present danger: Pope Francis’ AI speech reaffirms India’s stand on harnessing technology for greater good](https://www.firstpost.com/opinion/a-clear-and-present-danger-pope-francis-ai-speech-reaffirms-indias-stand-on-harnessing-technology-for-greater-good-13782898.html)
 

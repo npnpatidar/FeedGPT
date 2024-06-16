@@ -1,3 +1,39 @@
+Sun, 16 Jun 2024 16:00:18 +0530
+### [The new NDA government is flexing centralizing muscles](https://www.livemint.com/opinion/online-views/the-new-nda-government-is-flexing-centralizing-muscles-11718530943598.html)
+
+Article found but Couldn't summarize 
+The Centre’s dalliance with unilateralism could hurt federalism and worsen tensions with states. It must maintain equitable and non-partisan relationships with all states, not just with BJP-run or allied governments.
+
+Sun, 16 Jun 2024 15:30:16 +0530
+### [Hunter Biden’s conviction brought out the best in his dad](https://www.livemint.com/opinion/online-views/hunter-biden-s-conviction-brought-out-the-best-in-his-dad-11718363277175.html)
+
+Article found but Couldn't summarize 
+US President Joe Biden's response to his son's gun possession trial verdict affirmed faith in his leadership. The last two weeks have crystallized who Joe Biden and Donald Trump are as individuals and who they’d be as US president.
+
+Sun, 16 Jun 2024 15:09:50 +0530
+### [Can the IMF solve the poor world’s debt crisis?](https://www.livemint.com/opinion/online-views/can-the-imf-solve-the-poor-world-s-debt-crisis-11718529178021.html)
+
+Article found but Couldn't summarize 
+The fund will freeze out China if that is what it takes to offer relief
+
+Sun, 16 Jun 2024 15:00:17 +0530
+### [America’s debt is sustainable but sustaining it will be a challenge](https://www.livemint.com/opinion/online-views/americas-debt-is-sustainable-but-sustaining-it-will-be-a-challenge-11718367373736.html)
+
+Article found but Couldn't summarize 
+The IMF estimates that US government debt isn’t excessive but also offers budget-deficit reduction advice that’s unrealistic.
+
+Sun, 16 Jun 2024 14:00:14 +0530
+### [The quiet influencers: How the poor have shaped India](https://www.livemint.com/opinion/online-views/the-quiet-influencers-how-the-poor-have-shaped-india-11718522613830.html)
+
+Article found but Couldn't summarize 
+Almost every concrete and abstract thing in India, from public discourse to social norms, is influenced by the country’s poverty.
+
+Sun, 16 Jun 2024 13:00:13 +0530
+### [India's employment challenge: 20 million jobs need to be created each year](https://www.livemint.com/opinion/online-views/indias-employment-challenge-20-million-jobs-need-to-be-created-each-year-11718522535844.html)
+
+Article found but Couldn't summarize 
+This asking rate for job creation may sound daunting, but it’s both necessary and possible to achieve with reforms.
+
 Sat, 15 Jun 2024 09:00:19 +0530
 ### [Charanjit Singh: Campa Cola's forgotten founder who battled Coca-Cola, Pepsi, and India Today](https://www.livemint.com/opinion/online-views/charanjit-singh-campa-colas-forgotten-founder-who-battled-coca-cola-pepsi-and-india-today-11718352224053.html)
 
