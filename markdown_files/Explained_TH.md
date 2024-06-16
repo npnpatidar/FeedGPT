@@ -1,3 +1,45 @@
+Sun, 16 Jun 2024 04:05:00 +0530
+### [What is next for the Indian economy? | Explained](https://www.thehindu.com/business/Economy/what-is-next-for-the-indian-economy/article68294337.ece)
+
+Article found but Couldn't summarize 
+Will the reforms push be affected with a coalition government in place? Which are the sectors that will get priority? Will there be challenges in tackling issues such as inflation, fiscal consolidation, consumption, and taxation? What are the expectations from the Budget?
+
+Sun, 16 Jun 2024 03:45:00 +0530
+### [Should the recent stock market volatility be probed? | Explained](https://www.thehindu.com/business/markets/should-the-recent-stock-market-volatility-be-probed/article68294340.ece)
+
+Article found but Couldn't summarize 
+What happened in the stock market after the exit poll results? What are the allegations made by Opposition parties? What are the rules on insider trading? What is SEBI’s role? Is a joint parliamentary committee inquiry warranted?
+
+Sun, 16 Jun 2024 03:05:00 +0530
+### [Why is Manipur’s Jiribam district on edge? | Explained](https://www.thehindu.com/news/national/why-is-manipurs-jiribam-district-on-edge/article68294351.ece)
+
+Article found but Couldn't summarize 
+After remaining unaffected by the ethnic violence that began in May 2023, why is there a flare-up now at Jiribam?
+
+Sun, 16 Jun 2024 02:57:00 +0530
+### [Prem Singh Tamang: Rebel’s second turn](https://www.thehindu.com/news/national/prem-singh-tamang-rebels-second-turn/article68294158.ece)
+
+Article found but Couldn't summarize 
+By winning 31 seats in the 32-member Assembly, the Sikkim Chief Minister’s SKM has emerged as the new dominant political force of the State
+
+Sun, 16 Jun 2024 02:33:00 +0530
+### [Mohan Charan Majhi: A new beginning](https://www.thehindu.com/news/national/mohan-charan-majhi-a-new-beginning/article68294141.ece)
+
+Article found but Couldn't summarize 
+The BJP’s tribal face, who rose through party ranks to become Odisha’s Chief Minister, has great challenges to tackle and big shoes to fill
+
+Sun, 16 Jun 2024 02:03:00 +0530
+### [Rassemblement National: France’s rally towards the right](https://www.thehindu.com/news/international/rassemblement-national-frances-rally-towards-the-right/article68294113.ece)
+
+Article found but Couldn't summarize 
+The far-right party, whose neo-fascist predecessor was once on the margins of French politics, is aiming to win the coming parliamentary polls under the leadership of Marine Le Pen and Jordan Bardella, after trouncing President Macron’s centrists in the EU elections
+
+Sat, 15 Jun 2024 22:58:04 +0530
+### [Red Fort attack case: Presidential power to pardon death sentences and its challenges | Explained](https://www.thehindu.com/news/national/red-fort-attack-case-presidential-power-to-pardon-death-sentences-and-its-challenges/article68284129.ece)
+
+Article found but Couldn't summarize 
+President Droupadi Murmu has turned down the mercy plea of Lashkar-e-Taiba terrorist Mohammed Arif, who was sentenced to death for his role in conspiring to carry out the 2000 Red Fort attack. What are the President’s clemency powers and can it be subjected to judicial review?
+
 Fri, 14 Jun 2024 09:48:53 +0530
 ### [Is Pakistan using a firewall to censor social media platforms? | Explained](https://www.thehindu.com/sci-tech/technology/is-pakistan-using-firewall-censor-social-media-platforms-explained/article68287882.ece)
 

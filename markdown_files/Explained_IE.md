@@ -1,3 +1,8 @@
+Sat, 15 Jun 2024 14:17:46 +0000
+### [How Beethoven’s ‘Ode to Joy’ became the ‘Anthem of Europe’](https://indianexpress.com/article/explained/explained-culture/beethoven-ode-to-joy-anthem-of-europe-9394808/)
+
+Article found but Couldn't summarize
+
 Sat, 15 Jun 2024 11:52:01 +0000
 ### [Why has New Zealand removed the ‘burp tax’ on livestock?](https://indianexpress.com/article/explained/explained-global/new-zealand-burp-tax-9394619/)
 

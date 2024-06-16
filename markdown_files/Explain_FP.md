@@ -1,3 +1,9 @@
+Sat, 15 Jun 2024 18:25:56 +0530
+### [Can Nigel Farage's Reform beat Rishi Sunak's Conservatives in UK elections? Trends and numbers say...](https://www.firstpost.com/explainers/can-nigel-farages-reform-beat-rishi-sunaks-conservatives-in-uk-elections-trends-and-numbers-say-13782859.html)
+
+Article found but Couldn't summarize 
+A YouGov poll has placed Reform UK ahead of the Conservatives for the first time, with Reform at 19 per cent and the Tories at 18 per cent. But can the polls be taken at face value? If yes, is it true that Nigel Farage's comeback as Reform's leader will trump Rishi Sunak's Conservatives and benefit the Labour party? We explain
+
 Sat, 15 Jun 2024 17:09:21 +0530
 ### [4 reasons why the US Supreme Court’s decision on gun ‘bump stocks’ is so controversial](https://www.firstpost.com/explainers/us-supreme-court-gun-bump-stocks-ban-mass-shooting-gun-control-13782845.html)
 
