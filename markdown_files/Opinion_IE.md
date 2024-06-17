@@ -1,3 +1,33 @@
+Mon, 17 Jun 2024 09:18:49 +0000
+### [Why India needs a national security doctrine – now](https://indianexpress.com/article/opinion/columns/why-india-needs-a-national-security-doctrine-now-9397384/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 07:19:37 +0000
+### [Election 2024: The lack of discussion on LGBTQIA+ rights in campaigns and party manifestos](https://indianexpress.com/article/opinion/columns/election-2024-the-lack-of-discussion-on-lgbtqia-rights-in-campaigns-and-party-manifestos-9397175/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:30:41 +0000
+### [Verdict 2024: Mandate will be assessed by democratic spaces it opens up in between polls](https://indianexpress.com/article/opinion/columns/verdict-2024-mandate-will-be-assessed-by-democratic-spaces-it-opens-up-in-between-polls-9396451/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:13:56 +0000
+### [June 17, 1984, Forty Years Ago: Congress Leader Shot](https://indianexpress.com/article/opinion/40-years-ago/june-17-1984-forty-years-ago-congress-leader-shot-9396454/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:11:52 +0000
+### [Why Chandrababu Naidu’s call for a skill census is important](https://indianexpress.com/article/opinion/editorials/why-chandrababu-naidus-call-for-a-skill-census-is-important-9396453/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:03:46 +0000
+### [G7, West’s shifting political landscape and India’s growing salience](https://indianexpress.com/article/opinion/editorials/g7-wests-shifting-political-landscape-and-indias-growing-salience-9396452/)
+
+Article found but Couldn't summarize
+
 Sun, 16 Jun 2024 13:54:13 +0000
 ### [Vandita Mishra writes: The election verdict’s meaning is in the making](https://indianexpress.com/article/opinion/columns/lok-sabha-election-results-meaning-9396068/)
 

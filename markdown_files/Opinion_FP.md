@@ -1,3 +1,27 @@
+Mon, 17 Jun 2024 15:50:48 +0530
+### [2024 Lok Sabha elections: A historic reflection of democratic resilience and evolution](https://www.firstpost.com/opinion/2024-lok-sabha-elections-a-historic-reflection-of-democratic-resilience-and-evolution-13783277.html)
+
+Article found but Couldn't summarize 
+Despite existing challenges, such as the underrepresentation of women, India's democratic elections consistently reinforce the nation’s commitment to empowering its citizens and fostering fair participation in politics
+
+Mon, 17 Jun 2024 14:56:19 +0530
+### [European Parliament at the crossroads: A swing to the Right](https://www.firstpost.com/opinion/european-parliament-at-the-crossroads-a-swing-to-the-right-13783241.html)
+
+Article found but Couldn't summarize 
+The biggest takeaway of the European parliamentary election has been the steep rise in support for the Right-wing parties in several countries
+
+Mon, 17 Jun 2024 12:35:57 +0530
+### [We get the economy we deserve: Decoding India’s freebie mindset](https://www.firstpost.com/opinion/we-get-the-economy-we-deserve-decoding-indias-freebie-mindset-13783202.html)
+
+Article found but Couldn't summarize 
+Better roads, railways and airports may help enhance the productive potential of the economy. Everyone appreciates the need for that, but let someone else pay for it. This is the essence of freebies and populism in the country
+
+Mon, 17 Jun 2024 11:18:44 +0530
+### [How India’s presence in G7 summit in Italy was significant](https://www.firstpost.com/opinion/how-indias-presence-in-g7-summit-in-italy-was-significant-13783196.html)
+
+Article found but Couldn't summarize 
+At G7, India brings in both economic relevance and robust democratic credentials. Both of these are promoted by G7. India is a living appreciation of these ideals
+
 Sun, 16 Jun 2024 19:01:15 +0530
 ### [The timing of terror attacks in Kashmir: What does it mean?](https://www.firstpost.com/opinion/the-timing-of-terror-attacks-in-kashmir-what-does-it-mean-13783081.html)
 

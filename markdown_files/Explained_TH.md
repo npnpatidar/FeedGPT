@@ -1,3 +1,9 @@
+Mon, 17 Jun 2024 14:38:20 +0530
+### [IRDAI’s revised norms for those looking to surrender a life insurance policy: Explained](https://www.thehindu.com/business/Industry/irdais-revised-norms-for-those-looking-to-surrender-a-life-insurance-policy-explained/article68299457.ece)
+
+Article found but Couldn't summarize 
+The Insurance Regulatory and Development Authority of India (IRDAI) introduced provisions that could facilitate a better exit payout for customers looking to surrender their life insurance policies.
+
 Sun, 16 Jun 2024 04:05:00 +0530
 ### [What is next for the Indian economy? | Explained](https://www.thehindu.com/business/Economy/what-is-next-for-the-indian-economy/article68294337.ece)
 

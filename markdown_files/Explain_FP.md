@@ -1,3 +1,33 @@
+Mon, 17 Jun 2024 15:41:37 +0530
+### [Kanchanjunga Express Tragedy: How common are train accidents in India? Why do they keep happening?](https://www.firstpost.com/explainers/kanchanjunga-express-tragedy-how-common-are-train-accidents-in-india-why-do-they-keep-happening-13783264.html)
+
+Article found but Couldn't summarize 
+Data from the Indian Railways shows that India, which recorded 14,769 train accidents between 1960-1961 and 1970-1971, witnessed just 449 train accidents in the period between 2015-2016 and 2021-2022. Derailments have been the biggest cause of rail accidents, followed by fire and collisions. At least 15 people are dead and 60 injured in West Bengal after a goods train collided with the Sealdah-bound Kanchanjunga Express near Rangapani station
+
+Mon, 17 Jun 2024 15:37:43 +0530
+### [Deadly 'flesh-eating bacteria' outbreak in Japan: What do we know? Can it spread across the world?](https://www.firstpost.com/explainers/deadly-flesh-eating-bacteria-outbreak-in-japan-what-do-we-know-can-it-spread-across-the-world-13783232.html)
+
+Article found but Couldn't summarize 
+A chilling rise in cases of a rare but lethal human flesh-eating bacterial infection has gripped Japan following the easing of COVID-19 restrictions. Known as Streptococcal Toxic Shock Syndrome (STSS), this nightmarish disease can kill within just 48 hours of infection. Japan has already recorded nearly 1,000 cases this year alone, surpassing last year’s numbers
+
+Mon, 17 Jun 2024 15:13:00 +0530
+### [Why Singapore has halted water activities at beaches of the popular Sentosa island](https://www.firstpost.com/explainers/singapore-halt-water-activities-beaches-sentosa-island-oil-spill-13783243.html)
+
+Article found but Couldn't summarize 
+Swimming and sea activities have been banned at Singapore’s popular luxury resort island of Sentosa, leaving tourists disappointed. But why has this been done?
+
+Mon, 17 Jun 2024 13:03:23 +0530
+### [How American Stryker combat vehicles that India is evaluating could be a game-changer for the army](https://www.firstpost.com/explainers/how-american-stryker-tanks-that-india-is-evaluating-could-be-a-game-changer-for-the-army-13783203.html)
+
+Article found but Couldn't summarize 
+India and the United States are currently in an ‘advanced stage of talks’ regarding the proposed joint production of the latest generation of Stryker armoured infantry combat vehicles (ICVs). This initiative is part of their defence-industrial cooperation roadmap. What are Strykers? What are they capable of?
+
+Mon, 17 Jun 2024 11:59:23 +0530
+### [Why train trial via the world’s highest railway bridge in J&K matters](https://www.firstpost.com/explainers/jk-trail-train-chenab-worlds-highest-railway-bridge-13783197.html)
+
+Article found but Couldn't summarize 
+On Sunday, Indian Railways carried out the trial train run from Sangaldan to Reasi, including on the world’s highest rail bridge built on the Chenab River in Jammu and Kashmir. Part of the ambitious Udhampur Srinagar Baramulla Rail Link (USBRL) project, the initiative aims to boost connectivity and trade in the Union Territory
+
 Sun, 16 Jun 2024 17:17:54 +0530
 ### [Do you tie ribbons to your travel bags? Here’s why it could delay their arrival at airport](https://www.firstpost.com/explainers/tying-ribbons-travel-bags-delayed-airport-arrival-13781351.html)
 

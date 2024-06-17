@@ -1,3 +1,45 @@
+Mon, 17 Jun 2024 16:00:19 +0530
+### [Coalitions: A grand churn of political oceans is underway](https://www.livemint.com/opinion/online-views/coalitions-a-grand-churn-of-political-oceans-is-underway-11718559160525.html)
+
+Article found but Couldn't summarize 
+The process is throwing up new coalitions across the world but its ultimate winners are hard to identify. What’s clear is that divisions run deep between the Left and Right in most democracies.
+
+Mon, 17 Jun 2024 15:00:17 +0530
+### [Population decline is not a problem but hungry kids are](https://www.livemint.com/opinion/online-views/population-decline-is-not-a-problem-but-hungry-kids-are-11718369021547.html)
+
+Article found but Couldn't summarize 
+A new study expects the human headcount to peak at 9.5 billion. While economists and environmentalists debate population growth, policymakers should focus on the fact that many children worldwide aren't getting adequate nutrition, education or medical care.
+
+Mon, 17 Jun 2024 14:00:15 +0530
+### [India requires a new technology-driven playbook to fulfil its Viksit Bharat goal](https://www.livemint.com/opinion/online-views/india-requires-a-new-technology-driven-playbook-to-fulfil-its-viksit-bharat-goal-11718558801469.html)
+
+Article found but Couldn't summarize 
+R&amp;amp;D investment, talent development and technology deployment at scale could pave India’s way to developed-country status.
+
+Mon, 17 Jun 2024 12:30:31 +0530
+### [Ajit Ranade: India should reinforce its strengths on the external economic front](https://www.livemint.com/opinion/online-views/ajit-ranade-india-should-reinforce-its-strengths-on-the-external-economic-front-11718558682385.html)
+
+Article found but Couldn't summarize 
+Trade openness has served us well, but globalization with the WTO in bad shape is complex. Our free trade agreements (FTAs) must focus on job generation, negotiation skills should improve and we need to grab service export opportunities.
+
+Mon, 17 Jun 2024 10:30:14 +0530
+### [Our national principles need the support of prudent narratives](https://www.livemint.com/opinion/online-views/our-national-principles-need-the-support-of-prudent-narratives-11718558516952.html)
+
+Article found but Couldn't summarize 
+Contradictory messages on the ideals we are committed to uphold as a nation can prove dangerous. Some lessons.
+
+Mon, 17 Jun 2024 08:30:11 +0530
+### [Reset GST to make it a 'good and simple tax'](https://www.livemint.com/opinion/online-views/reset-gst-to-make-it-a-good-and-simple-tax-11718558293309.html)
+
+Article found but Couldn't summarize 
+India’s goods and services tax needs a reboot on which the Centre and states must arrive at a consensus. The upcoming GST Council meeting should aim to simplify and broaden GST for this reform to serve the economy better.
+
+Mon, 17 Jun 2024 07:00:07 +0530
+### [Mint Quick Edit | The G7’s China alarm suits India](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-the-g7-s-china-alarm-suits-india-11718558198417.html)
+
+Article found but Couldn't summarize 
+The G7 summit ended with a stiff warning aimed at China over its alleged role in “enabling” Russia’s war in Ukraine and its economic approach. We may be bemused, but India must make the most of this geopolitical split.
+
 Sun, 16 Jun 2024 20:34:52 +0530
 ### [Why most people regret Brexit](https://www.livemint.com/opinion/online-views/why-most-people-regret-brexit-11718549745559.html)
 
