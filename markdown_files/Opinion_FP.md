@@ -1,3 +1,8 @@
+Sun, 16 Jun 2024 19:01:15 +0530
+### [The timing of terror attacks in Kashmir: What does it mean?](https://www.firstpost.com/opinion/the-timing-of-terror-attacks-in-kashmir-what-does-it-mean-13783081.html)
+
+The article discusses the recent terrorist attack on Hindu pilgrims in Jammu and Kashmir, which resulted in the deaths of nine people and injured 30 others. The author attributes the attack to Pakistan, which has been engaging in a proxy war in the region for over 35 years. The article explains that Pakistan's strategy is to engage in hybrid warfare, which involves sponsoring terrorist groups to carry out attacks that create disruption and chaos in the region. The author argues that Pakistan's goal is to make India look weak and divided, and to create a sense of fear and uncertainty among the population. The article also mentions that Pakistan's economy is in shambles, its polity is in chaos, and its internal security situation is abysmal. Despite these challenges, Pakistan continues to invest in its proxy war in Jammu and Kashmir. The author concludes that India needs to be prepared to respond to such attacks and to take a strong stance against Pakistan's proxy war.
+
 Sun, 16 Jun 2024 17:18:47 +0530
 ### [Mercenaries or ‘tech coolies’: Time Indians should know which overseas jobs are not for them](https://www.firstpost.com/opinion/mercenaries-or-tech-coolies-time-indians-should-know-which-overseas-jobs-are-not-for-them-13783064.html)
 

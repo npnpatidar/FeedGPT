@@ -1,3 +1,14 @@
+Mon, 17 Jun 2024 00:20:00 +0530
+### [Criminalising words: on allegedly divisive speeches](https://www.thehindu.com/opinion/editorial/criminalising-words-on-allegedly-divisive-speeches/article68297003.ece)
+
+Delhi's Lieutenant Governor V.K. Saxena has given permission to prosecute writer Arundhati Roy and academic Sheikh Showkat Hussain for alleged "unlawful activity" in a case dating back to 2010. The case relates to speeches made at a conference in Delhi in 2010, which were deemed not seditious by the Delhi police at the time. The police did not prosecute the speakers, but a complaint was filed and a First Information Report was registered. The case was revived recently, with Saxena giving permission to prosecute under Section 13 of the Unlawful Activities (Prevention) Act (UAPA). Critics argue that the revival of the case is an example of the regime's crackdown on dissenters and outspoken critics, and that it is an attempt to criminalize free speech.
+
+Mon, 17 Jun 2024 00:10:00 +0530
+### [Two steps back: on India and the Global Gender Gap report 2024](https://www.thehindu.com/opinion/editorial/two-steps-back-on-india-and-the-global-gender-gap-report-2024/article68289197.ece)
+
+Article found but Couldn't summarize 
+India needs to close the gender gap in education and politics
+
 Sat, 15 Jun 2024 00:20:00 +0530
 ### [Food factor: On food inflation](https://www.thehindu.com/opinion/editorial/food-factor-on-food-inflation/article68289807.ece)
 

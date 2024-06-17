@@ -1,3 +1,8 @@
+Sun, 16 Jun 2024 20:34:52 +0530
+### [Why most people regret Brexit](https://www.livemint.com/opinion/online-views/why-most-people-regret-brexit-11718549745559.html)
+
+According to the article, since the 2016 Brexit referendum, the majority view among Britons has shifted, and especially so in the past two years, towards the conclusion that the decision to leave the European Union was wrong. Polls show that 16-20% of those who voted to leave have switched sides, compared with only 6% of those who voted to remain, resulting in a shift against Brexit. The disillusionment with Brexit is attributed to various factors, including the economy, immigration, and the perceived dishonesty of the Leave campaign. The Conservative Party's association with Brexit has also hurt their popularity. While there is no burning desire to re-run the referendum, there is a growing recognition that Brexit has not brought the expected benefits.
+
 Sun, 16 Jun 2024 16:00:18 +0530
 ### [The new NDA government is flexing centralizing muscles](https://www.livemint.com/opinion/online-views/the-new-nda-government-is-flexing-centralizing-muscles-11718530943598.html)
 

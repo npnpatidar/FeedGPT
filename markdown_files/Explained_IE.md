@@ -1,3 +1,13 @@
+Sun, 16 Jun 2024 15:54:15 +0000
+### [How Valentina Tereshkova became the first woman in space, on this day in 1963](https://indianexpress.com/article/explained/explained-global/valentina-tereshkova-first-woman-space-9396294/)
+
+On June 16, 1963, Valentina Tereshkova became the first woman to venture into space, marking a significant moment in the "Space Race" between the USSR and the USA during the Cold War. At 26, Tereshkova's feat brought her into the spotlight worldwide. The USSR and the USA were competing to seek absolute dominance, and every accomplishment was regarded as a vital boost to their national security. Tereshkova was born in 1937 and trained as a parachutist and skydiver. She was selected as one of the five women for pilot training in 1962 and became the only woman astronaut to make a solo space journey. Tereshkova orbited the Earth 48 times in 71 hours as part of the Vostok 6 spaceflight. She went on to represent the USSR worldwide, becoming an important member of the Communist Party and advocating for a larger female representation in the Soviet space program.
+
+Sun, 16 Jun 2024 14:47:45 +0000
+### [How climate change is helping the spread of dengue in Europe](https://indianexpress.com/article/explained/explained-sci-tech/dengue-europe-local-mosquitos-9396083/)
+
+The article discusses the recent surge in locally transmitted dengue cases in Europe, with 130 cases reported in 2023, compared to only 9 cases between 2015 and 2019. Experts attribute the increase to various factors, including rising temperatures, expansion of established mosquito populations, increased travel-related transmission of the virus, and inadequate vector control and awareness. The Aedes albopictus mosquito, which is the primary vector of dengue, has been established in many European countries, particularly in the Mediterranean region. The article also mentions that the World Health Organization (WHO) estimates that the actual number of dengue cases globally is likely to be around 400 million per year, far higher than the reported cases. The experts interviewed in the article emphasize the need for increased awareness of the symptoms of dengue and improved vector control measures to prevent the spread of the virus.
+
 Sun, 16 Jun 2024 11:16:35 +0000
 ### [Why is Father’s Day celebrated on the third Sunday of June?](https://indianexpress.com/article/explained/everyday-explainers/fathers-day-third-sunday-june-history-9395894/)
 
