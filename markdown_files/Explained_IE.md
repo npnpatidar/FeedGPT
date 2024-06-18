@@ -1,3 +1,23 @@
+Mon, 17 Jun 2024 13:44:59 +0000
+### [Decline in migration to Gulf, rise in student migration: What the Kerala Migration Survey 2023 says](https://indianexpress.com/article/explained/kerala-mirgation-survey-findings-gulf-9398005/)
+
+The Kerala Migration Survey (KMS) 2023 report was released, revealing the findings of the sixth KMS conducted since 1998. The survey analyzed data from 20,000 households across 14 districts in Kerala. Key findings include:
+
+* The number of emigrants from Kerala has increased to 2.2 million, with 1.8 million returning to the state.
+* There has been a decline in emigration to Gulf Cooperation Council (GCC) countries, with a preference for destinations beyond the GCC.
+* Student emigration has risen, with 250,000 students emigrating, an increase from 129,763 in 2018.
+* Women make up 19.1% of emigrants, with a higher proportion of graduates and working in the nursing sector.
+* North Kerala sends the most emigrants, with Muslims comprising 41.9% of the state's emigrants.
+* Total remittances have increased by 154.9% since 2018, with an average remittance per emigrant household of Rs 2.24 lakh.
+* The number of returnees has increased, with 495,962 individuals returning home, driven by job loss, low wages, and poor working conditions.
+
+The report highlights the need for enhanced educational infrastructure, safe migration pathways, and regulation of language training centers and recruitment agencies. It also emphasizes the importance of improving the skills of labor emigrants and providing rehabilitation and reintegration measures for return migrants.
+
+Mon, 17 Jun 2024 13:06:15 +0000
+### [Before Kanchanjunga Express: Major train accidents of the last decade](https://indianexpress.com/article/explained/everyday-explainers/kanchanjunga-express-major-train-accidents-decade-9397948/)
+
+At least nine people were killed and 25 others injured in a train collision in West Bengal's New Jalpaiguri. The Kanchanjunga Express collided with a container freight train, causing three rear compartments to derail. The cause of the crash is not yet known. This accident is one of many that have occurred in India over the years, resulting from various factors such as mechanical failures, human negligence, and more. Some notable examples include the 2014 Gorakhdham Express accident, the 2015 Varanasi-Dehradun Janata Express crash, the 2016 Indore-Patna Express derailment, and others.
+
 Mon, 17 Jun 2024 11:52:01 +0000
 ### [US Supreme Court preserves access to abortion pill: What was the case, and what the court said](https://indianexpress.com/article/explained/explained-law/us-supreme-court-abortion-pill-9397754/)
 

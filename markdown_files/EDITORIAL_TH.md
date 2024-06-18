@@ -1,3 +1,13 @@
+Tue, 18 Jun 2024 00:30:00 +0530
+### [Trade trapeze: On India’s exports](https://www.thehindu.com/opinion/editorial/trade-trapeze-the-hindu-editorial-on-indias-exports/article68300569.ece)
+
+India's merchandise exports experienced a decline of 3.1% in 2023-24, but recent trends indicate a reversal. The last two months have seen a rise in outbound shipments, with a 1.1% increase in April and a 9.1% uptick in May. Export growth has been observed in four of the last five months. The European Central Bank's decision to slash interest rates has boosted hopes of improving demand for Indian exports. However, rising prices of industrial commodities and food items temper these hopes. India's top 20 export items have outperformed last May's exports, with sectors like apparel, man-made yarn, and engineering goods recovering. Despite this, spice and shrimp exports declined due to quality and workplace concerns. India's trade deficit widened to $23.8 billion in May, primarily due to a record $13.2 billion deficit in petroleum products. Officials expect rising services exports and forex inflows to offset the deficit. However, the government needs to revitalize its schemes and efforts to boost goods exports with enhanced budgetary outlays.
+
+Tue, 18 Jun 2024 00:15:00 +0530
+### [Negotiating for peace: On the ‘Summit on Peace’, in Burgenstock](https://www.thehindu.com/opinion/editorial/negotiating-for-peace-the-hindu-editorial-on-the-summit-on-peace-in-burgenstock/article68301093.ece)
+
+The two-day "Summit on Peace" in Burgenstock, Switzerland, has concluded with mixed outcomes. The summit brought together over 90 countries, with 56 represented by leaders, and a joint communiqué signed by around 82 countries and organizations. The document calls for an end to the Russian-Ukrainian conflict and emphasizes sovereignty, territorial integrity, and international law. However, the event was marred by Switzerland's decision not to invite Russia and the failure to convince China to send a delegation. Additionally, no BRICS member signed the statement, and India, despite being a key player, did not endorse the outcome. India attended the conference but did not sign the communiqué due to its neutral stance on the conflict. The summit's outcome was seen as one-sided, and its impact was limited.
+
 Mon, 17 Jun 2024 00:20:00 +0530
 ### [Criminalising words: on allegedly divisive speeches](https://www.thehindu.com/opinion/editorial/criminalising-words-on-allegedly-divisive-speeches/article68297003.ece)
 

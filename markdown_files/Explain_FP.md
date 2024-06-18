@@ -1,3 +1,33 @@
+Mon, 17 Jun 2024 19:50:25 +0530
+### [Elections, price cuts... India’s fuel consumption should have been up, so why is it falling?](https://www.firstpost.com/explainers/elections-price-cuts-indias-fuel-consumption-should-have-been-up-so-why-is-it-falling-13783311.html)
+
+According to preliminary data from state-owned fuel firms, diesel demand in India saw a slump in June, with sales dropping 3.9% compared to the same period last year. This is despite the assumption that fuel sales would surge during the Lok Sabha elections. Additionally, petrol sales have also been consistently dropping month-on-month this year, with a 4.6% drop in the first half of June compared to the same period last year. Diesel is India's most consumed fuel, accounting for 40% of all petroleum product consumption, with the transport sector accounting for 70% of all diesel sales.
+
+Mon, 17 Jun 2024 18:47:32 +0530
+### [What do the various manifestos of the UK parties say? How do they compare ahead of the UK general election?](https://www.firstpost.com/explainers/what-do-the-various-manifestos-of-the-uk-parties-say-how-do-they-compare-ahead-of-the-uk-general-election-13783316.html)
+
+The article discusses the manifestos of the major parties contesting the UK general election on 4 July. The parties' fiscal strategies can be broadly categorized into two camps: one that is reluctant to raise taxes, such as Labour and the Conservatives, and another that is more flexible, like the Liberal Democrats and the Greens. The Labour Party proposes £7.4 billion in tax hikes, including levies on private school fees and expanding the windfall tax on oil and gas companies. The Conservative Party aims to cut £17 billion in taxes, primarily through reducing national insurance rates.
+
+The parties' policies on health, environment, education, immigration, housing, and crime and policing are also outlined. The Conservative Party promises to continue issuing licenses for North Sea oil and gas extraction, while the Labour Party aims to decarbonize the electricity grid by 2030. The Green Party proposes canceling recently awarded oilfield licenses and expanding state renewable energy. The Liberal Democrats focus on an emergency program of home insulation and heat pump installation.
+
+The parties' education policies include recruiting new teachers, improving school funding, and changing the curriculum. The Conservative Party plans to ban mobile phones during school hours and mandate math study until age 18. The Labour Party aims to recruit 6,500 new teachers and provide free breakfast clubs in every primary school.
+
+The article concludes that the parties' manifestos present a diverse array of policies and promises, each aiming to address the nation's pressing issues in different ways.
+
+Mon, 17 Jun 2024 18:45:36 +0530
+### [US military ran secret campaign against China's COVID-19 vaccine. Here’s what we know](https://www.firstpost.com/explainers/us-military-ran-secret-campaign-against-chinas-covid-19-vaccine-heres-what-we-know-13783313.html)
+
+The US military launched a covert anti-vaccination campaign against Chinese vaccines during the COVID-19 pandemic. The campaign, which began in the last year of Donald Trump's presidency and continued for several months after Joe Biden took office, targeted face masks, test kits, and China's vaccine Sinovac in the Philippines and other West and Central Asian nations on social media platform X. The Pentagon created fake accounts that impersonated Filipinos to spread false information and create confusion about the safety and effectiveness of Chinese vaccines. The campaign was part of a broader effort to limit China's growing influence in the Philippines and to discredit Chinese vaccines.
+
+Mon, 17 Jun 2024 18:33:34 +0530
+### [Kanchanjunga Express train accident: Could ‘Kavach’ have prevented the tragedy?](https://www.firstpost.com/explainers/kanchanjunga-express-train-accident-kavach-collision-indian-railways-13783309.html)
+
+Kavach is an automatic train protection (ATP) system designed by Research Design and Standards Organisation (RDSO) in collaboration with three Indian firms. It is a state-of-the-art electronic system that activates the train's braking system automatically if the driver fails to do so. The system has been certified with a Safety Integrity Level-4 (SIL-4) and has an error probability of 1 in 10,000 years.
+
+Kavach uses Radio Frequency Identification (RFID) tags integrated into tracks and station yards to identify the tracks and locate the train and its direction. The system also has an On Board Display of Signal Aspect (OBDSA) that helps pilots spot the signals even in low-visibility conditions. If a red signal is jumped, resulting in two trains coming together on the same line, Kavach automatically applies the brakes.
+
+The system has been deployed on about 1,500 km of tracks in India, with plans to cover over 6,000 km of tracks by next year. The Indian Railways has planned to install Kavach across 2,000 rail route networks in 2022-23 and over 4,000-5,000 rail route networks every subsequent year.
+
 Mon, 17 Jun 2024 15:41:37 +0530
 ### [Kanchanjunga Express Tragedy: How common are train accidents in India? Why do they keep happening?](https://www.firstpost.com/explainers/kanchanjunga-express-tragedy-how-common-are-train-accidents-in-india-why-do-they-keep-happening-13783264.html)
 

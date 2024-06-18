@@ -1,3 +1,10 @@
+Mon, 17 Jun 2024 18:35:22 +0530
+### [If Turkey arms Pakistan, should India help the Kurds?](https://www.firstpost.com/opinion/if-turkey-arms-pakistan-should-india-help-the-kurds-13783306.html)
+
+The article discusses the growing influence of Turkey under the leadership of Recep Tayyip Erdogan, who has consolidated his power and promoted political Islam at home and abroad. Turkey has developed a significant arms industry, exporting weapons and drones to various countries, including Somalia, Ethiopia, Libya, and Hamas. The author argues that Turkey is becoming a major exporter of militant Islamism, similar to Saudi Arabia's role in the 20th century.
+
+The article also highlights the potential threat Turkey poses to India, particularly in the context of Kashmir. Turkey's support for Pakistan-based terrorist groups and its potential to augment its military support to Pakistan-based groups is a concern for India. The author suggests that India should consolidate its relations with the Kurds, who are natural allies of Armenia, and arm the Kurds to deter Turkey from increasing its support to Pakistan-based terrorist groups.
+
 Mon, 17 Jun 2024 15:50:48 +0530
 ### [2024 Lok Sabha elections: A historic reflection of democratic resilience and evolution](https://www.firstpost.com/opinion/2024-lok-sabha-elections-a-historic-reflection-of-democratic-resilience-and-evolution-13783277.html)
 

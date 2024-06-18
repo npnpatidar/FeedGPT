@@ -1,3 +1,8 @@
+Mon, 17 Jun 2024 12:57:19 +0000
+### [Why an ancient Greek tragedy has resonance in politics today — in India and beyond](https://indianexpress.com/article/opinion/columns/ancient-greek-tragedy-relevance-india-politics-9397705/)
+
+The article discusses the relevance of the ancient Greek tragedy "Persians" by Aeschylus to the recent elections in India. Despite the seemingly unrelated topic, the play's themes of democracy, freedom, and the struggle between opposing forces resonate with the contemporary electoral process. The play portrays the battle of Salamis as a fight for democracy and freedom, highlighting the distinction between the Athenian people and their leaders. The article notes that the play's themes of freedom, democracy, and the struggle against tyranny are relevant to the Indian political ideology.
+
 Mon, 17 Jun 2024 09:18:49 +0000
 ### [Why India needs a national security doctrine – now](https://indianexpress.com/article/opinion/columns/why-india-needs-a-national-security-doctrine-now-9397384/)
 

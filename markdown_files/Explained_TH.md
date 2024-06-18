@@ -1,3 +1,13 @@
+Tue, 18 Jun 2024 05:25:00 +0530
+### [How diapers use quantum physics to attend to nature’s call | Explained](https://www.thehindu.com/sci-tech/science/how-diapers-use-quantum-physics-to-attend-to-natures-call-explained/article68300042.ece)
+
+The article discusses the unique properties of diapers that allow them to absorb large amounts of liquid. It explains that the absorbency of diapers is due to a type of polymer called super-absorbent polymer (SAP), which is made up of a network of molecules that can absorb large amounts of water. The article also explains the physics behind why some materials absorb water and others do not, citing the example of cotton and rubber. It also discusses the role of sodium ions in SAP and how they interact with water molecules to form a gel-like substance. Finally, the article touches on the quantum physics behind the attraction between sodium ions and water molecules.
+
+Mon, 17 Jun 2024 22:18:38 +0530
+### [Death of Indians in Russia-Ukraine war: Status and accountability of mercenaries in international law | Explained](https://www.thehindu.com/news/international/death-of-indians-in-russia-ukraine-war-status-and-accountability-of-mercenaries-in-international-law/article68296238.ece)
+
+The Indian Ministry of External Affairs (MEA) has acknowledged the tragic loss of two Indian nationals who were recruited by the Russian Army amidst the ongoing conflict between Russia and Ukraine. It is reported that nearly 100 Indians have been recruited by the Russian Army over the past year, with many being duped by agents into joining the army in exchange for a salary of ₹1.5 lakh to ₹2 lakh per month. The MEA has urged the Russian authorities to release and return all Indian nationals currently serving with the Russian Army. The Indian Embassy in Moscow has also raised this issue with the Russian Ambassador in New Delhi.
+
 Mon, 17 Jun 2024 14:38:20 +0530
 ### [IRDAI’s revised norms for those looking to surrender a life insurance policy: Explained](https://www.thehindu.com/business/Industry/irdais-revised-norms-for-those-looking-to-surrender-a-life-insurance-policy-explained/article68299457.ece)
 
