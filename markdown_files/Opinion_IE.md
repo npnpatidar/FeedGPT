@@ -1,3 +1,69 @@
+Tue, 18 Jun 2024 10:52:25 +0000
+### [C Raja Mohan writes: Rising power, rising responsibilities — five geopolitical challenges before Modi 3.0](https://indianexpress.com/article/opinion/columns/narendra-modi-3-0-geopolitical-challenges-9399576/)
+
+The article discusses the five imperatives that the NDA government must consider as it settles into its third term under Prime Minister Narendra Modi. The imperatives are:
+
+1. The return of great-power rivalry, which demands an approach driven by interest rather than ideology, and India must make choices based on material interests rather than slogans.
+
+2. The changing structure of the global economy, which demands more reform at home, and India must seize new opportunities to enhance its geoeconomic position.
+
+3. The unfolding technological revolution, which promises to redistribute global power and is now an integral part of great-power competition, and India must accelerate its advanced technological development.
+
+4. The rise of new regions that break down old regional categories, and India must invest more resources in engaging with Africa, Southern Europe, and the Middle East.
+
+5. India must tone down its expansive rhetoric on its rise, recognizing that while India's aggregate GDP is growing, its per capita GDP is still relatively low, and the country's developmental challenges are huge.
+
+The article emphasizes that India must adapt to a changing international context and make choices based on its material interests rather than ideology.
+
+Tue, 18 Jun 2024 08:26:38 +0000
+### [Dealing with the heat wave: A blueprint for scalding cities](https://indianexpress.com/article/opinion/columns/dealing-with-the-heat-wave-a-blueprint-for-scalding-cities-9399283/)
+
+The article discusses the importance of implementing heat action plans to mitigate the effects of heat waves, which are expected to increase in frequency and severity due to climate change. The city of Ahmedabad, India, is highlighted as a model for effective heat action planning. The city implemented its Heat Action Plan in 2013, which includes measures such as an early warning system, coordination between agencies, public awareness campaigns, and preparedness of medical services. The plan has been evaluated to have saved a large number of lives during subsequent heat waves. The article highlights five key lessons from Ahmedabad's experience: reviewing all-cause mortality daily, taking simple measures that don't require many resources, appointing a nodal officer for heat action planning, involving facilitating agencies, and reviewing and improving the plan over time. The article concludes that every city and district will need to adapt the framework provided by Ahmedabad's heat action plan to suit their individual needs, environment, and resources.
+
+Tue, 18 Jun 2024 02:50:57 +0000
+### [Against arrogance](https://indianexpress.com/article/opinion/columns/modi-bjp-lok-sabha-polls-9398429/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:35:06 +0000
+### [What’s the point of an AI candidate in Britain’s general election?](https://indianexpress.com/article/opinion/editorials/whats-the-point-of-an-ai-candidate-in-britains-general-election-9398436/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:34:05 +0000
+### [Why caste should inform debates on inequality in the country](https://indianexpress.com/article/opinion/columns/why-caste-should-inform-debates-on-inequality-in-the-country-9398419/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:30:30 +0000
+### [What Modi 3.0 should do to make Bharat vishwa bandhu and vishwa guru](https://indianexpress.com/article/opinion/columns/what-modi-3-0-should-do-to-make-bharat-vishwa-bandhu-and-vishwa-guru-g7-summit-9398407/)
+
+After Prime Minister Narendra Modi's meetings at the G7 outreach summit, it is clear that a fractured and fragile world needs India and its leadership. The West is looking East with expectation, hoping for India's leadership. India's leadership role is not new, but this time it's not just a romantic interest, but a fresh faith in India's promise. India needs to build capacity to take on a new leadership role, combining alacrity, audacity, and flexibility to deal with an uncertain world.
+
+India's National Security Advisor Ajit Doval made a proposal to Israeli Prime Minister Benjamin Netanyahu for a unilateral ceasefire during Ramadan, which almost worked. India has also made attempts to intervene in complicated international situations through diplomacy, intelligence, and the use or threat of force.
+
+Modi 3.0 needs to tap into traditional Indian knowledge and fresh ideas from homegrown talent and scholars to support its global leadership role. India's neighbourhood is a critical component of its rise to prominence, and the country cannot afford to overlook its significance. The China challenge is a major strategic challenge for India, and it needs to build its domestic capabilities and establish itself as a "mobiliser" to address China's challenge.
+
+Tue, 18 Jun 2024 02:29:48 +0000
+### [Why new government should embrace global markets](https://indianexpress.com/article/opinion/columns/why-new-government-should-embrace-global-markets-9398425/)
+
+The article discusses India's trade policy and its implications on the country's economic growth. The author argues that India needs to strike a balance between promoting domestic goods and integrating with global value chains (GVCs) to achieve its export ambitions. The country has made significant progress in recent years, signing several free trade agreements (FTAs) and adopting a more open trade policy. However, India's reluctance to join regional trade agreements (RTAs) and its ambivalence towards multilateralism are concerns. The author suggests that India needs to recognize the importance of deepening penetration in global markets and shed its inhibitions to fully engage with the global economy. The article concludes that India's economic isolationism is a thing of the past, and it is time for the country to fully embrace global markets and trade.
+
+Tue, 18 Jun 2024 02:24:00 +0000
+### [Erasures in NCERT textbooks go against NEP’s mandate to enhance critical thinking](https://indianexpress.com/article/opinion/editorials/erasures-in-ncert-textbooks-go-against-neps-mandate-to-enhance-critical-thinking-9398434/)
+
+The article discusses the National Council of Educational Research and Training's (NCERT) decision to omit certain historical events from its textbooks. The director of NCERT, DP Saklani, has justified the omission of events such as the Gujarat riots and the Babri Masjid demolitions, stating that mentioning these events could create "violent and depressed individuals". The article argues that this approach is problematic, as it ignores the importance of understanding uncomfortable facts and fraught moments in history. The article highlights that the NCERT's revision of the textbook has also deleted sections on poverty, powerlessness of Scheduled Castes and Tribes, and the Emergency and protest movements. The author argues that textbooks are crucial in shaping young minds' understanding of the country's history and democratic processes, and that the NCERT's approach is infantilizing, failing to engage young learners in argumentative engagement with seminal events.
+
+Tue, 18 Jun 2024 02:10:11 +0000
+### [June 18, 1984, Forty Years Ago: Jarnail Singh Bhindranwale’s village mourns his death](https://indianexpress.com/article/opinion/40-years-ago/june-18-1984-forty-years-ago-jarnail-singh-bhindranwales-village-mourns-his-death-9398420/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:04:17 +0000
+### [Will a tax cut boost consumption and investment?](https://indianexpress.com/article/opinion/editorials/will-a-tax-cut-boost-consumption-and-investment-9398421/)
+
+Article found but Couldn't summarize
+
 Mon, 17 Jun 2024 12:57:19 +0000
 ### [Why an ancient Greek tragedy has resonance in politics today — in India and beyond](https://indianexpress.com/article/opinion/columns/ancient-greek-tragedy-relevance-india-politics-9397705/)
 

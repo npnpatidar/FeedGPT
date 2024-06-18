@@ -1,3 +1,8 @@
+Tue, 18 Jun 2024 05:30:00 +0530
+### [Birds of different feathers fly to the same beat | Explained](https://www.thehindu.com/sci-tech/science/wings-of-birds-insects-bats-beat-according-to-a-common-equation/article68295958.ece)
+
+A group of scientists at Roskilde University in Denmark have discovered a simple formula that explains the flapping frequency of animals that fly or swim through the air or water. The formula, f ∝ √m/A, relates the flapping frequency to the mass of the animal and the area of its wings or fins. The researchers found that this formula holds true for a wide range of animals, including insects, birds, bats, penguins, whales, and even a robotic bird. The formula was derived from Newton's second law and takes into account the momentum of the air or water, the velocity of the flow, and the density of the atmosphere or water. The researchers believe that this formula could be used to predict the wing-beating frequency of flying animals and the fin-beating frequency of swimming animals, and could even be used to design more efficient flying machines.
+
 Tue, 18 Jun 2024 05:25:00 +0530
 ### [How diapers use quantum physics to attend to nature’s call | Explained](https://www.thehindu.com/sci-tech/science/how-diapers-use-quantum-physics-to-attend-to-natures-call-explained/article68300042.ece)
 

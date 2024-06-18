@@ -1,3 +1,51 @@
+Tue, 18 Jun 2024 16:00:09 +0530
+### [AI chatbots with personalities: A giant leap but also cause for caution](https://www.livemint.com/opinion/online-views/ai-chatbots-with-personalities-a-giant-leap-but-also-cause-for-caution-11718647401400.html)
+
+The article discusses the controversy surrounding OpenAI's new voice interface, which has sparked a debate around artists' legal right to control the use of their likeness in the age of AI. The article also explores the psychological impacts of life-like conversational bots, which are becoming increasingly popular. These bots are designed to simulate human conversations, using natural language processing and machine learning algorithms to understand and respond to human input. The article suggests that these bots could potentially ease loneliness and depression in those who suffer from these conditions, but also raises concerns about the potential for these bots to alter the way people socialize and form relationships. The article also mentions the growing trend of AI companion applications, which allow users to create their own AI characters and engage in conversations that feel almost indistinguishable from human conversation.
+
+Tue, 18 Jun 2024 15:00:06 +0530
+### [Singapore-washing: This laundromat’s may get shut down](https://www.livemint.com/opinion/online-views/singaporewashing-this-laundromat-s-may-get-shut-down-11718647307841.html)
+
+Private wealth management hubs, including those in Singapore, are facing challenges in maintaining their neutrality and discretion in an increasingly polarized world. Singapore, a popular destination for the world's super wealthy, is grappling with a recent $2.2 billion money-laundering scandal that has put the country's financial system under scrutiny. The scandal has raised concerns about the influx of new money from China, which has grown by more than one-third between 2019 and 2022. The Singapore government is now ramping up scrutiny of family offices and urging banks to step up due diligence to avoid exposure to illicit flows. The country's reputation is at stake, and it remains to be seen how it will balance its desire to develop its wealth management sector with its commitment to maintaining a strong anti-money laundering regime.
+
+Tue, 18 Jun 2024 14:00:04 +0530
+### [We need tax reforms to support India’s expenditure path](https://www.livemint.com/opinion/online-views/we-need-tax-reforms-to-support-india-s-expenditure-path-11718647234410.html)
+
+The article discusses the future of Indian fiscal policy over the next five years. The Union finance ministry, led by Nirmala Sitharaman, is preparing the full budget for the current financial year. The article highlights the importance of fiscal policy in stabilizing the ratio of public debt to GDP, achieving rapid economic expansion with macroeconomic stability.
+
+The article notes that the pandemic led to a massive increase in public debt in all major economies, including India. The ratio of public debt to GDP in India increased by 13 percentage points in one year. However, the ratio has come down gradually since then, and the International Monetary Fund expects it to fall to 77.5% in 2029.
+
+The article emphasizes the need for tax reforms to increase the amount of tax collected for every unit of economic output. The ratio of total government revenue to GDP has stayed within a tight range in India over the past three decades, despite profound changes in the underlying economy. The article suggests that tax reforms should be one of the key policy concerns of the third Narendra Modi administration.
+
+The article also highlights the challenges India will face in the next five years, including increasing military spending, investing in a green transition, and increasing spending on public goods and essential services. The article concludes that tax reforms are crucial to increase the amount of tax collected for every unit of economic output, otherwise, India will have to compromise on either its spending requirements or its fiscal fitness.
+
+Tue, 18 Jun 2024 12:30:00 +0530
+### [EU elections: Far-right parties have gained influence](https://www.livemint.com/opinion/online-views/eu-elections-far-right-parties-have-gained-influence-11718647030173.html)
+
+The article discusses the recent European Union (EU) elections, where far-right parties made significant gains. The elections saw the rise of Marine Le Pen's National Rally in France, Giorgia Meloni's Fratelli d'Italia in Italy, and Alternative für Deutschland (AfD) in Germany. These parties' victories have implications for Europe and other regions. 
+
+The rise of the far right in the EU may lead to a harder stance on immigration, opposition to green policies, and a reduction in support for Ukraine. This could also affect relations between Europe and China, with some EU countries restricting the deployment of Chinese technology in their 5G networks. 
+
+For India, the EU is the country's third-largest trading partner, and a potential change in leadership in the UK could impact trade relations. The article also mentions the possibility of a Donald Trump comeback in the US presidential election, which could have implications for India's commercial ties with the EU. 
+
+The article concludes by highlighting the significance of shifts in European politics for a far-off country like India.
+
+Tue, 18 Jun 2024 10:30:17 +0530
+### [Tax freebie or tax reform? It varies depending on who you ask.](https://www.livemint.com/opinion/online-views/tax-revdi-or-tax-reform-it-varies-depending-on-who-you-ask-11718646919271.html)
+
+The article discusses the concept of "economic reforms" and how it is often used as a euphemism for policies that benefit the wealthy and corporate interests. The author argues that the term "reform" is often used to describe policies that actually amount to handouts or revdi for the rich. The article highlights two examples of tax dodges that were used by the wealthy to avoid paying taxes, including the use of fixed maturity plans (FMPs) and the deduction of interest payments on home loans. The author notes that these tax dodges were never discussed by OPM (other people's money) wallahs or corporate representatives, who instead focused on welcoming the government's reduction in corporate income tax rates. The article concludes that the upcoming budget provides an opportunity for the finance ministry to eliminate pointless distinctions in the taxation of different kinds of income.
+
+Tue, 18 Jun 2024 08:30:13 +0530
+### [Auto sector investment vroom: Sign of a private capex revival?](https://www.livemint.com/opinion/online-views/auto-sector-investment-vroom-sign-of-a-private-capex-revival-11718646685028.html)
+
+Hyundai Motor India's upcoming initial public offering (IPO) is expected to be the largest in India, with a target of raising ₹25,000 crore. This IPO is significant as it reflects the upbeat sentiment in the corporate sector, which may lead to a revival in private investment in India. The company plans to spend ₹32,000 crore over the next 10 years, with a focus on electric vehicles (EVs) and development of networks for EV charging and component supplies. Other manufacturers, such as Tata Motors, Mahindra and Mahindra, and Maruti Suzuki, also have large investment plans for EVs and other areas. These investments are expected to boost the economy and lift corporate spending overall. The government's focus on factor-market reforms could also help accelerate private capital formation.
+
+Tue, 18 Jun 2024 07:00:11 +0530
+### [Mint Quick Edit | Painful deja vu: Tackle railway safety](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-painful-deja-vu-tackle-railway-safety-11718646511857.html)
+
+Article found but Couldn't summarize 
+At least nine people have been killed and several dozens injured after a Kolkata-bound goods train rammed into Sealdah-bound passenger train Kanchanjunga Express. Don’t wait for the Kavach technology upgrade to plug safety gaps.
+
 Mon, 17 Jun 2024 16:00:19 +0530
 ### [Coalitions: A grand churn of political oceans is underway](https://www.livemint.com/opinion/online-views/coalitions-a-grand-churn-of-political-oceans-is-underway-11718559160525.html)
 

@@ -1,3 +1,85 @@
+Tue, 18 Jun 2024 17:26:59 +0530
+### [Taps run dry in Shimla: How water crises have become regular on hill stations](https://www.firstpost.com/explainers/taps-run-dry-in-shimla-how-water-crises-have-become-regular-on-hill-stations-13783547.html)
+
+Shimla, the capital of Himachal Pradesh, is facing an acute water shortage due to a prolonged dry spell and heatwave. The city's water sources, including six water projects, are either dried up or recording low levels. The city's water demand has surged due to an influx of tourists, with hotels buying water from private tankers at a cost of Rs 2,000 to Rs 5,000 per tanker. Residents are struggling to access water, with some areas not receiving a drop of water for seven days. The Shimla Jal Prabandhan Nigam Limited has attributed the shortage to the dry spell and heatwave, and is working to distribute water equitably. The situation is expected to worsen if it does not rain soon.
+
+Tue, 18 Jun 2024 16:51:12 +0530
+### [Thailand set to approve same-sex marriages. Which other Asian countries allow it?](https://www.firstpost.com/explainers/thailand-same-sex-marriage-asia-gay-marriage-13783628.html)
+
+Thailand is set to become the first Southeast Asian country to legalize same-sex marriage, as lawmakers approved a marriage equality bill. The bill was approved by the Senate with 130 votes to 4, with some abstentions, and is expected to become law after review by a Senate committee and the Constitutional Court. Thailand has long been known for its relatively open and accepting attitude towards the LGBTQ+ community.
+
+Taiwan made history in 2019 by becoming the first place in Asia to legalize same-sex marriage, while Nepal has taken significant steps towards recognizing same-sex marriages. India, however, declined to grant legal recognition to same-sex marriages, stating it was within the domain of the parliament to introduce such legislation.
+
+Public opinion on same-sex marriage varies significantly across Asia, with Japan having the highest level of support at 68%, while Indonesia has one of the highest levels of opposition at 92%. A generational divide is also apparent, with younger adults more likely to support same-sex marriage than their older counterparts. Despite growing support in some areas, same-sex marriage remains a contentious issue across much of Asia, with several countries criminalizing homosexuality.
+
+Tue, 18 Jun 2024 16:00:42 +0530
+### [Why are protesters calling for fresh elections in Israel? Are Netanyahu's days numbered?](https://www.firstpost.com/explainers/why-are-protesters-calling-for-re-election-in-israel-are-netanyahus-days-numbered-13783586.html)
+
+Israel has seen a surge in anti-government protests, with demonstrators calling for immediate elections and an end to Prime Minister Benjamin Netanyahu's leadership. The protests were sparked by Netanyahu's handling of the war in Gaza and his reliance on ultra-Orthodox and far-right partners. Protesters are demanding new elections, citing dissatisfaction with Netanyahu's handling of the conflict, the hostage crisis, and his government's policies. The protests have led to clashes with police and the blocking of major highways. Critics accuse Netanyahu of prioritizing his own political survival over national interests and security. The opposition has capitalized on the dissatisfaction, advocating for early elections and a more stable government.
+
+Tue, 18 Jun 2024 15:20:29 +0530
+### [What is a heat dome, leading to record-high temperatures in the US?](https://www.firstpost.com/explainers/heat-dome-us-high-temperatures-13783552.html)
+
+Article found but Couldn't summarize 
+A prolonged heatwave fuelled by an intense heat dome has gripped the United States, with temperatures between 35 to 45 degrees Celsius in many states. A heat dome forms when high atmospheric pressure traps warm ocean air over a specific region. The current heat dome is reportedly partly related to a similar phenomenon occurring in Mexico
+
+Tue, 18 Jun 2024 14:21:21 +0530
+### [Can your daily mouthwash gargles give you cancer?](https://www.firstpost.com/health/can-your-daily-mouthwash-gargles-give-you-cancer-13783432.html)
+
+A recent study published in the Journal of Medical Microbiology found that using Listerine mouthwash regularly may increase the risk of certain cancers, including oesophageal and colorectal cancer. The study found that the daily use of Listerine leads to an abundance of two species of bacteria, Fusobacterium nucleatum and Streptococcus anginosus, which have been linked to causing cancer. Fusobacterium nucleatum has been associated with colorectal cancer, while Streptococcus anginosus can cause abscesses and invasive infections. The study suggests that the alcohol in Listerine may increase the level of bacteria in the mouth, and that regular use should be carefully considered. The authors recommend using alcohol-free alternatives to maintain a good balance of bacteria in the mouth.
+
+Tue, 18 Jun 2024 13:58:17 +0530
+### [What is Nikhil Gupta’s role in Pannun ‘murder plot’? What happens now that he is extradited to US?](https://www.firstpost.com/explainers/what-is-nikhil-guptas-role-in-pannun-murder-plot-what-happens-now-that-he-is-extradited-to-us-13783571.html)
+
+Nikhil Gupta, a 53-year-old Indian national, was extradited to the United States from the Czech Republic on June 14. He is accused of working with an Indian government official to plan an assassination plot against Sikh separatist Gurpatwant Singh Pannun, a US citizen of Indian origin. Pannun is the legal advisor and spokesperson for the Sikh separatist group, SFJ, which seeks to create a separate state of Khalistan. According to court documents, Gupta allegedly made a payment of $15,000 to a hitman to kill Pannun. He has pleaded not guilty to the charges. The case will continue on June 28.
+
+Tue, 18 Jun 2024 13:39:25 +0530
+### [Why are all eyes on the next Lok Sabha speaker? Can the INDIA bloc get the deputy speaker post?](https://www.firstpost.com/explainers/lok-sabha-speaker-nda-bjp-candidates-india-bloc-deputy-speaker-post-13783546.html)
+
+The article discusses the speculated candidates for the post of Lok Sabha Speaker in the 18th Lok Sabha. The Bharatiya Janata Party (BJP) does not have an absolute majority in the lower house, and the National Democratic Alliance (NDA) is expected to announce its candidate on June 26. The article mentions that Prime Minister Narendra Modi will propose the name of the candidate. The BJP is considering retaining Om Birla, the current Speaker, for the post. Other candidates mentioned include Andhra Pradesh BJP president Daggubatti Purandareshwari, Bhratruhari Mahtab, and GM Harish Balayogi. The NDA partners, including the Telugu Desam Party (TDP) and Janata Dal (United), had initially demanded the post, but have since softened their stance. The article also mentions that the Opposition is eyeing the post of deputy speaker, which has been vacant for five years.
+
+Tue, 18 Jun 2024 12:56:55 +0530
+### [Explained: The four court cases that could spark political turmoil in Thailand](https://www.firstpost.com/explainers/four-court-cases-thailand-political-turmoil-13783501.html)
+
+Article found but Couldn't summarize 
+A political crisis in Thailand may be brewing. This is because several prominent leaders like Prime Minister Srettha Thavisin and former PM Thaksin Shinawatra are involved in four cases scheduled to be heard by the courts today
+
+Tue, 18 Jun 2024 12:42:27 +0530
+### [Explained: Why Paris lost its crown as Europe’s biggest stock market to London](https://www.firstpost.com/explainers/explained-why-paris-lost-its-crown-as-europe-biggest-stock-market-to-london-macron-elections-13783515.html)
+
+Article found but Couldn't summarize 
+Paris has relinquished its title as Europe's largest equity market to London following a week of political upheaval in France, triggered by Emmanuel Macron's announcement of snap elections. The collective value of stocks on Euronext Paris has dropped by approximately $258 billion, reducing the market capitalisation of French companies to around $3.13 trillion
+
+Tue, 18 Jun 2024 12:20:04 +0530
+### [India's nuclear weapon arsenal has grown, but how does it compare to Pakistan, China?](https://www.firstpost.com/explainers/india-nuclear-weapon-arsenal-compare-to-pakistan-china-13783509.html)
+
+The SIPRI 2024 Yearbook highlights the current state of nuclear arsenals globally. India's nuclear warheads have increased to 172, focusing on deterring China as well as Pakistan. Pakistan's arsenal remains at 170, primarily to counter India. China's total has risen to 500, indicating a focus on maintaining a second-strike capability. Russia and the USA hold nearly 90% of the world's nuclear weapons, with Russia having the largest arsenal at 5,580 warheads, followed by the USA with 5,044. Globally, nine countries possess nuclear weapons, contributing to a total of 12,121 warheads, with modernization efforts ongoing.
+
+Tue, 18 Jun 2024 12:03:18 +0530
+### [Why did Netanyahu dissolve Israel war Cabinet? What does this mean for Gaza war?](https://www.firstpost.com/explainers/why-did-benjamin-netanyahu-dissolve-israel-war-cabinet-gaza-13783504.html)
+
+Israeli Prime Minister Benjamin Netanyahu dissolved the war Cabinet, a smaller body established to make quick decisions about the war with Hamas. The Cabinet was disbanded after Opposition leader Benny Gantz quit the group, citing Netanyahu's failure to develop a strategy for the Gaza conflict and his refusal to endorse a plan to rescue Israeli hostages held by Hamas. Netanyahu's decision to dissolve the Cabinet was expected, as it followed Gantz's resignation. The war Cabinet was established five days after Hamas attacked Israel on October 7, and it consisted of six members, including Netanyahu, Israeli Defense Minister Yoav Gallant, and Benny Gantz. The Cabinet's meetings had become "a shameful arena for settling scores, fighting and discussions that lead nowhere," according to Israeli media reports.
+
+Tue, 18 Jun 2024 10:56:52 +0530
+### [Kanchanjunga accident: Did an error in the signal system lead to the crash?](https://www.firstpost.com/explainers/kanchanjunga-accident-signal-system-error-13783410.html)
+
+At least 15 passengers were killed and 60 others were injured when a goods train collided with the Kanchanjunga Express in West Bengal, derailing three of its rear coaches. The accident occurred due to a defective automatic signalling system, which allowed the goods train to pass red signals. The train driver was authorized to cross the signals because of the malfunction, which is being investigated. The Railway Board initially blamed the driver for disregarding the signal, but the Indian Railway Loco Runningmen Organisation disagreed, stating that the failure was due to the defective system, not the driver.
+
+Tue, 18 Jun 2024 10:29:26 +0530
+### [What’s behind Rahul Gandhi’s move to give up Wayanad? What does Priyanka’s electoral debut mean?](https://www.firstpost.com/explainers/congress-rahul-gandhi-wayanad-lok-sabha-seat-rae-bareli-priyanka-gandhi-electoral-debut-13783467.html)
+
+Rahul Gandhi will relinquish his Wayanad Lok Sabha constituency to retain Rae Bareli seat in Uttar Pradesh, paving the way for his sister Priyanka Gandhi Vadra to contest her maiden elections. The Congress party has taken this decision as Rahul Gandhi has won both seats in the 18th Lok Sabha elections by a margin of over three lakh votes. The party wants to utilize Priyanka's abilities as a campaigner and orator, and it is expected that it will be smooth sailing for her in the Wayanad bypoll.
+
+Tue, 18 Jun 2024 07:32:39 +0530
+### [Vladimir Putin is making a rare visit to North Korea. Here’s what we can expect](https://www.firstpost.com/explainers/vladimir-putin-is-making-a-rare-visit-to-north-korea-heres-what-we-can-expect-13783357.html)
+
+Russian President Vladimir Putin is set to visit North Korea from June 18 to 19 at the invitation of North Korean leader Kim Jong-un. This will be Putin's second visit to North Korea, with his first visit being in 2000. The two countries are likely to discuss munitions, with the US and others accusing North Korea of transferring weapons to Russia for use against Ukraine. The countries have a long history of ties, with North Korea being heavily reliant on Soviet aid in the past. Russia has since joined China in opposing new sanctions on North Korea and has blocked a US-led push for sanctions. The two countries have also strengthened their ties in recent years, with Putin welcoming Kim to Russia in 2019 and the two leaders agreeing to deepen military relations. North Korea wants nuclear weapons designs, re-entry vehicles for intercontinental ballistic missiles, and tech related to satellites, submarines, and hypersonic weapons. Russia has denied accusations of weapons-for-food trading and has vowed to deepen military relations with North Korea. Experts say that the growing ties between North Korea and Russia are significant and could have far-reaching implications for regional stability and global geopolitics.
+
+Tue, 18 Jun 2024 06:30:41 +0530
+### [FirstUp: Putin in North Korea after 24 years, Modi to address farmers in Varanasi...Top headlines today](https://www.firstpost.com/explainers/firstup-putin-in-north-korea-after-24-years-modi-to-address-farmers-in-varanasi-top-headlines-today-13783329.html)
+
+Russian President Vladimir Putin is set to visit North Korea from June 18 to 19, marking his first visit in 24 years. The visit highlights Moscow's growing partnership with North Korea. Meanwhile, Indian Prime Minister Narendra Modi will visit his parliamentary constituency Varanasi on June 18, where he will outline a comprehensive plan to improve farmers' conditions. The plan includes appointing 30,000 trained women farm guides and distributing the 17th installment of PM Kisan, a cash-transfer initiative for farmers. The Supreme Court will also hear a plea by Punjab AAP MLA Jaswant Singh Gajjan Majra challenging his ED arrest.
+
 Mon, 17 Jun 2024 19:50:25 +0530
 ### [Elections, price cuts... India’s fuel consumption should have been up, so why is it falling?](https://www.firstpost.com/explainers/elections-price-cuts-indias-fuel-consumption-should-have-been-up-so-why-is-it-falling-13783311.html)
 

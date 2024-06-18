@@ -1,3 +1,20 @@
+Tue, 18 Jun 2024 12:10:23 +0000
+### [Who is the pro-tem Speaker of Lok Sabha and how is an MP chosen for the role?](https://indianexpress.com/article/explained/everyday-explainers/pro-tem-speaker-lok-sabha-9399861/)
+
+The 18th Lok Sabha will hold its first session from June 24 to July 3, during which a new Speaker of the House will be elected. Until then, a pro-tem Speaker will be chosen to swear in the new Members of Parliament. According to a PTI report, Prime Minister Narendra Modi will move the motion for election of the Speaker in the Lok Sabha on June 26. Meanwhile, Congress leader Kodikunnil Suresh, as the seniormost member of the Lok Sabha, is expected to be appointed as pro-tem Speaker.
+
+The pro-tem Speaker's primary duty is to administer oaths to the new MPs. The Constitution does not mention the post, but the official 'Handbook on the Working of Ministry of Parliamentary Affairs' speaks about the 'Appointment and Swearing in of Speaker pro tem'. The pro-tem Speaker is chosen to perform the duties of the Speaker until the selection of the new Speaker.
+
+Tue, 18 Jun 2024 07:12:35 +0000
+### [Why Punjab & Haryana HC recommended a limit of one SIM card per person, what the law says](https://indianexpress.com/article/explained/explained-law/hc-one-sim-card-per-person-limit-aadhar-9399052/)
+
+The Punjab and Haryana High Court has urged the Centre to intensify efforts in monitoring and regulating the issuance of multiple prepaid SIM cards to individuals, amid rising cases of online fraud. The court's order came in the case of a man who allegedly obtained 35 SIM cards to help carry out an online scam. The court suggested that no more than one SIM card per person should be issued and that the government should conduct further investigation regarding such SIM cards and their usage. The court also questioned the Ministry of Telecommunication about why it allowed individuals, firms, or companies to acquire multiple prepaid SIM cards under their names. The court's ruling is aimed at mitigating cybercrimes and restricting the sale of SIM cards without identity verification.
+
+Tue, 18 Jun 2024 02:30:54 +0000
+### [Elephants have names for each other: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/elephants-names-9398213/)
+
+Article found but Couldn't summarize
+
 Mon, 17 Jun 2024 13:44:59 +0000
 ### [Decline in migration to Gulf, rise in student migration: What the Kerala Migration Survey 2023 says](https://indianexpress.com/article/explained/kerala-mirgation-survey-findings-gulf-9398005/)
 
