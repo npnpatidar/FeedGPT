@@ -1,3 +1,12 @@
+Wed, 19 Jun 2024 08:30:00 +0530
+### [How can Himachal Pradesh fight against forest fires? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-himachal-pradesh-fight-against-forest-fires-explained/article68305390.ece)
+
+Himachal Pradesh has experienced 1,684 forest fires since April, causing significant damage to 17,471 hectares of forest land. These fires are a major source of pollutants and contribute to glacier melt in the Himalayas. The primary causes of the fires are outdated forestry practices and the exclusion of local communities in forest management.
+
+Historical forestry practices, such as the construction of railways and the exploitation of timber and resin, have significantly altered the Himalayan forests. The expansion of Chir pine plantations, which are highly flammable, has further increased the risk of forest fires.
+
+To address this issue, it is crucial to involve local communities in forest management and restore their traditional rights. Mixed forestry, water conservation measures, and environmental services at the village level are essential steps towards sustainable forest management in Himachal Pradesh.
+
 Tue, 18 Jun 2024 22:51:40 +0530
 ### [Does H5N1 pose a threat for humans? | Explained](https://www.thehindu.com/sci-tech/health/does-h5n1-pose-a-threat-for-humans-explained/article68305360.ece)
 

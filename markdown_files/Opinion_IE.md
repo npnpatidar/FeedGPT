@@ -1,3 +1,80 @@
+Wed, 19 Jun 2024 11:53:02 +0000
+### [Why Mizoram’s capital faces constant landslide risk and how the challenge can be met](https://indianexpress.com/article/opinion/columns/mizoram-capital-constant-landslide-risk-challenges-9402079/)
+
+Aizawl, Mizoram's capital, faces challenges due to its steep slopes and unstable rock formations. Recent heavy rainfall triggered landslides, highlighting the vulnerability of the hillside city.
+
+Concerns extend to other cities in the Northeast, including Guwahati, Kohima, and Shillong, due to high-risk seismic zones and dense construction on slopes.
+
+The pressure of migration and population growth in Aizawl leads to overcrowding and traffic congestion. The government plans to establish a new capital to reduce pressure on Aizawl, addressing issues of sustainability and safety.
+
+Unscientific earth cutting and inadequate drainage contribute to landslides. The Municipal Council has implemented mandatory structural safety checks and slope modification regulations.
+
+Despite these measures, safety concerns remain, as many buildings are located on steep slopes. A scenario developed by GeoHazards International indicates that an earthquake could damage or collapse up to 40% of the town's buildings and trigger landslides.
+
+Architects and geologists emphasize the importance of proper soil testing, drainage, and adherence to safety norms to ensure the stability and resilience of buildings in hilly terrains.
+
+Wed, 19 Jun 2024 09:51:31 +0000
+### [Kanchenjunga Express accident: How Indian Railways can put a stop to fatal collisions](https://indianexpress.com/article/opinion/columns/kanchenjunga-express-accident-how-indian-railways-stop-fatal-collisions-9401836/)
+
+Recent train accidents in India, including the collision involving the Kanchenjunga Express, highlight the need to prioritize safety in rail operations. Despite improvements in overall accident rates, collisions remain a significant concern.
+
+Collisions often result in high casualties and can be largely avoided through measures such as the KAVACH anti-collision device and strengthening preventive maintenance of signaling systems.
+
+Indian Railways must increase focus on reducing collisions by providing low-cost locomotive equipment, enhancing crew training, and treating signal violations as major incidents.
+
+While Indian Railways has made progress in safety, it can still benefit from international best practices in accident reporting and prevention, especially in the areas of staff injuries and trespassing.
+
+Wed, 19 Jun 2024 07:54:13 +0000
+### [Takeaways from European Parliament elections — far right’s gains and Meloni’s rise](https://indianexpress.com/article/opinion/columns/european-parliament-elections-meloni-9401561/)
+
+The European Parliament elections witnessed the resilience of centrist parties, with the European People's Party and Socialists and Democrats retaining significant influence. However, far-right and nationalist groups made gains in France, Germany, Italy, Austria, and Belgium, bringing embarrassment to national governments. Despite this surge, the far right's impact at the European level was limited, as centrist parties maintain control over 45% of the parliament.
+
+The vote share of Brothers of Italy, led by Prime Minister Giorgia Meloni, surged, solidifying her position as a potential candidate for the presidency of the European Commission. Negotiations for leadership roles within the EU will involve complex discussions and power-sharing arrangements among member states.
+
+While the European Parliament lacks legislative initiation powers, it plays a crucial role in approving EU actions and agreements. On issues such as Russia and China, the EU and its member states largely align with NATO and the US. For India, the rise of the far right presents challenges regarding immigration matters, but India's skilled workforce and excellent relations with European leaders can facilitate economic cooperation.
+
+Wed, 19 Jun 2024 02:52:24 +0000
+### [Without Russia, Ukraine peace meet has limited significance](https://indianexpress.com/article/opinion/editorials/without-russia-ukraine-peace-meet-has-limited-significance-9400613/)
+
+The Ukraine peace summit in Switzerland received support from 82 of the 90 attending countries, calling for the safety of nuclear installations, return of prisoners, and free flow of agricultural products.
+
+However, notable abstentions included India, Mexico, and Saudi Arabia, citing the absence of Russia and the need for dialogue with all stakeholders. India's balancing act between Moscow and the West may become challenging if the conflict escalates.
+
+The summit's impact may be limited by Russia's position, the West's lack of unity, and Russia's economic resilience. As the conflict continues, countries like India may reconsider their positions in light of potential geopolitical shifts.
+
+Wed, 19 Jun 2024 02:45:48 +0000
+### [West Bengal train collision: Learning by accident](https://indianexpress.com/article/opinion/editorials/west-bengal-train-collision-learning-by-accident-9400596/)
+
+The train accident in West Bengal, involving the Sealdah-bound Kanchanjunga Express and a goods train, has resulted in at least nine deaths, making it the deadliest railway accident since last year's Balasore incident. While initial reports suggest human error, the exact cause will be determined by the Commissioner of Railways Safety. The tragedy raises concerns about safety within the Indian Railways system, despite improvements over the years. Questions include the effectiveness of safety measures, the pace of Kavach roll-out, and the prioritization of modernization over other critical aspects. The accident highlights the need for a comprehensive approach to safety, embedded in every function and operation of the Railways.
+
+Wed, 19 Jun 2024 02:44:31 +0000
+### [Dealing with the heat wave — checklist](https://indianexpress.com/article/opinion/columns/dealing-with-the-heat-wave-checklist-9400591/)
+
+Northern India is facing an unprecedented heatwave with temperatures soaring up to 8C above normal. The heat has caused significant health concerns, particularly for outdoor workers, women, and residents in tin-roofed homes. The monsoon's delay due to Cyclone Remal has intensified the heatwave's effects.
+
+Cities are especially vulnerable due to the urban heat island effect, which traps heat in densely populated areas. Heat waves pose risks to public health, including increased cardiovascular disease and heat stroke. Large gatherings, such as elections and pilgrimages, can exacerbate the impact of heat waves.
+
+The National Disaster Management Authority has initiated heat action plans to mitigate the effects of heat waves. These plans include improving temperature monitoring, regulating work hours, ensuring water availability, and implementing measures to enhance thermal comfort in buildings.
+
+Wed, 19 Jun 2024 02:44:26 +0000
+### [At the T20 Super Eight Stage, this is a tournament of underdog thunder](https://indianexpress.com/article/opinion/editorials/surprise-surprise-t20-world-cup-2024-super-eight-9400590/)
+
+The T20 World Cup has produced several surprises, including the elimination of former champions Sri Lanka, Pakistan, and New Zealand. Underdog teams like the United States, Afghanistan, and Bangladesh have performed exceptionally well. The tournament has been unpredictable, with unexpected results and competitive matches. The Super Eight Stage is expected to be equally exciting, with larger teams facing challenges from smaller nations. The tournament has emphasized the potential for underdogs to succeed due to its shorter format and less consistent playing conditions.
+
+Wed, 19 Jun 2024 02:42:50 +0000
+### [June 19, 1984, Forty Years Ago: At least 12 people were buried alive, 20 others are missing in Tripura landslides](https://indianexpress.com/article/opinion/40-years-ago/june-19-1984-forty-years-ago-army-withdrawal-9400561/)
+
+Article found but Couldn't summarize
+
+Wed, 19 Jun 2024 02:30:43 +0000
+### [Guess who’s back? The real Slim Shady](https://indianexpress.com/article/opinion/columns/the-real-slim-shady-eminem-houdini-release-9400560/)
+
+During a tense 2003 Ashes Test match, Australian captain Steve Waugh was two runs short of his 29th Test century and the crowd erupted as commentator Kerry O'Keeffe played Eminem's "Lose Yourself." Waugh hit a four off the last ball, equaling Don Bradman's record.
+
+Despite recent lukewarm reviews, Eminem's new single "Houdini" has gained popularity, propelling "Lose Yourself" back into the Billboard charts. The resurgence of the song is attributed to nostalgia, the Y2K trend, Eminem's return to his classic style, and Gen Z discovering his music.
+
+Eminem is known for his raw and personal lyrics, but "Houdini" marks a lighter and more accessible sound. Despite expectations for him to mature with age, Eminem remains true to his provocative and controversial nature.
+
 Tue, 18 Jun 2024 14:36:21 +0000
 ### [West Bengal train accident highlights need for a thorough review of misplaced priorities of past two decades in Indian Railways](https://indianexpress.com/article/opinion/columns/west-bengal-train-accident-indian-railways-review-9400261/)
 

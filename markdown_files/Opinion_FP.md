@@ -1,3 +1,27 @@
+Wed, 19 Jun 2024 18:08:19 +0530
+### [The power of imagery: How global media distorts Palestinian reality to project Israel as villain](https://www.firstpost.com/opinion/the-power-of-imagery-how-global-media-distorts-palestinian-reality-to-project-israel-as-villain-13784026.html)
+
+International media coverage of the Israeli-Palestinian conflict is influenced by bias, evident in language use, context omission, and coverage quantity. Studies reveal that reports tend to portray Israeli actions as aggressive while using sympathetic terms for Palestinian casualties. Critics argue this imbalance shapes public perception and policy. However, proponents contend that it reflects the asymmetry of power between the sides.
+
+Analysis of media content indicates a disparity in coverage, with more attention given to one side's grievances. Media bias can perpetuate a one-sided view by neglecting to provide context and historical background.
+
+The author concludes that while instances of bias exist, the issue is complex. Media has a significant role in shaping public opinion and policy, but the pursuit of objectivity in reporting on this conflict remains challenging.
+
+Wed, 19 Jun 2024 15:24:01 +0530
+### [How China’s ‘grey zone warfare’ keeps East and Southeast Asia on alert](https://www.firstpost.com/opinion/how-chinas-grey-zone-warfare-keeps-east-and-southeast-asia-on-alert-13783911.html)
+
+China's recent maritime aggression in the South China Sea is primarily driven by domestic political compulsions, including economic instability and a desire to divert attention from internal issues. Its "unrestricted grey zone warfare" strategy employs a range of tactics to assert dominance, including lawfare and military intimidation. However, this aggression has prompted regional resistance from ASEAN countries, Japan, Taiwan, and India through enhanced maritime security efforts, military preparedness, and diplomatic alignments. Despite the challenges posed by China's growing desperation, regional cooperation remains crucial to maintaining peace and stability in East and Southeast Asia.
+
+Wed, 19 Jun 2024 12:52:55 +0530
+### [Kashmir beyond tourism: How budding small-medium enterprises tap opportunities in paradise](https://www.firstpost.com/opinion/kashmir-beyond-tourism-how-budding-small-medium-enterprises-tap-opportunities-in-paradise-13783882.html)
+
+Kashmir's economy thrives beyond tourism, with a vibrant SME sector encompassing handicrafts, textiles, culinary delights, agriculture, and wood carving. These industries contribute significantly to the region's economic growth and employment, showcasing its diverse production capabilities. Despite challenges, the government supports SME development through policies and programs. The region's rich heritage, skilled artisans, and resilient entrepreneurs drive economic empowerment and social inclusion. Enhancing market linkages, innovation, and export promotion will further strengthen Kashmir's SME sector, transforming its economic landscape and establishing it as a hub of industrial development.
+
+Wed, 19 Jun 2024 10:56:54 +0530
+### [Jake Sullivan’s India visit: Suspicions, uncertain future test Indo-American ties](https://www.firstpost.com/opinion/jake-sullivans-india-visit-suspicions-uncertain-future-test-indo-american-ties-13783818.html)
+
+US National Security Advisor Sullivan's visit to India highlighted progress in technological collaboration through the iCET initiative. Joint research and scientist exchanges will focus on quantum computing, telecommunications, and defense. However, concerns regarding American interference in India's politics and the extradition of an Indian national during the visit have led to skepticism and strained high-level intelligence collaboration. India also laments the limited and poor quality of intelligence sharing by the US. Despite these challenges, the iCET partnership aims to enhance India's technological capabilities, with notable agreements on the Light Combat Aircraft and quantum computing. However, skepticism remains over the pace of technology transfer and suitability of certain US defense offers for India's operational needs. The upcoming American elections add uncertainty to the partnership, as India may hesitate to invest heavily due to potential changes in the Biden administration.
+
 Tue, 18 Jun 2024 18:49:46 +0530
 ### [True face of terror: Pakistan’s unilateral aggression in Jammu and Kashmir](https://www.firstpost.com/opinion/true-face-of-terror-pakistans-unilateral-aggression-in-jammu-and-kashmir-13783673.html)
 

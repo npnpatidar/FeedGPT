@@ -1,3 +1,8 @@
+Wed, 19 Jun 2024 01:35:46 +0000
+### [Where is the monsoon?](https://indianexpress.com/article/explained/explained-climate/india-monsoon-rainfall-forecast-weather-rains-9400641/)
+
+North and Northwest India have been experiencing severe heatwave conditions in June. The southwest monsoon has advanced until Maharashtra, but maximum temperatures in the plains of North India have sustained around 45-47 degrees Celsius. The India Meteorological Department has forecasted above-normal rainfall this season, attributed to the soon-to-emerge La Niña conditions and a positive phase of the Indian Ocean Dipole. However, the monsoon has remained stagnant since June 11, and dry and hot conditions have returned to the Southern peninsula. The overall deficit in rainfall is mainly due to states where the onset of the monsoon has been delayed, and the monsoon is currently active over some regions of India.
+
 Tue, 18 Jun 2024 15:54:19 +0000
 ### [Strategic imperative and environment concern in Great Nicobar project](https://indianexpress.com/article/explained/great-nicobar-project-concern-9400418/)
 

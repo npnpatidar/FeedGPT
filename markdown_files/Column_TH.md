@@ -1,3 +1,8 @@
+Wed, 19 Jun 2024 00:30:00 +0530
+### [Frank Worell: Centenary of the man who changed cricket and society](https://www.thehindu.com/sport/cricket/centenary-of-the-man-who-changed-cricket-and-society/article68304032.ece)
+
+Sir Frank Worrell, a cricketer and diplomat, is considered one of the most influential figures in the sport. As the first black captain to lead a team to Australia, he played a crucial role in unifying West Indian island-countries and promoting social equality. Worrell's leadership style emphasized teamwork and off-field unity, inspiring players like Bishan Bedi. Beyond cricket, he contributed to education as a university dean and senator in Jamaica. Despite his impressive cricketing record, Worrell's true legacy lies in his transformative impact on the values of the game and the wider societal landscape.
+
 Fri, 14 Jun 2024 11:06:47 +0530
 ### [Column | Tracing Parsis and their monotheism](https://www.thehindu.com/opinion/columns/parsi-fire-temple-devdutt-pattanaik-parsi-community-monotheism/article68276833.ece)
 
