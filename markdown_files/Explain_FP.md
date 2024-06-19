@@ -1,3 +1,38 @@
+Tue, 18 Jun 2024 21:04:32 +0530
+### [A water war between US and Mexico is looming. Here's why](https://www.firstpost.com/explainers/a-water-war-between-us-and-mexico-is-looming-heres-why-13783713.html)
+
+The US and Mexico have a 80-year-old treaty that regulates the sharing of water from the Colorado River and the Rio Grande. The treaty requires Mexico to deliver 1.75 million acre-feet of water to the US every five years, while the US is obligated to deliver 1.5 million acre-feet of water to Mexico annually. However, due to a severe drought and heatwave in Mexico, the country is struggling to meet its obligations under the treaty, delivering only 30% of its expected deliveries. The US is demanding that Mexico meet its obligations, but Mexico claims it is powerless to do so due to the drought. The situation has led to tensions between the two countries, with US farmers complaining of a lack of water and Mexican politicians saying they cannot meet their commitments.
+
+Tue, 18 Jun 2024 21:04:21 +0530
+### [How Ukraine’s conscription squads are forcing men to fight in the war](https://www.firstpost.com/explainers/how-ukraine-conscription-squads-are-forcing-men-to-fight-in-the-war-russia-zelenskyy-putin-13783619.html)
+
+Ukraine is struggling to find new recruits to join its military due to a shortage of infantry and ammunition, leading to the implementation of stricter measures to conscript men. Mobilization squads are reportedly removing individuals from buses and bars, forcing them to go to enlistment centers. The government has lowered the draft eligible age from 27 to 25 and created an online registry for recruits, adding around 50,000 troops to the military. However, this has led to concerns that the war-ravaged economy may be further harmed by taking more young adults out of the workforce. The government has also introduced a law allowing the recruitment of prisoners into the military, and has restricted passport renewals for men between 18 and 60 years old who are deemed fit for military service.
+
+Tue, 18 Jun 2024 19:59:59 +0530
+### [In Graphics | How deep is the global water crisis?](https://www.firstpost.com/explainers/in-graphics-how-deep-is-the-global-water-crisis-13783686.html)
+
+Article found but Couldn't summarize 
+A report by the World Resources Institute has found that India is among the 25 countries facing extremely high water stress each year. Over half the world’s population – four billion people – is exposed to this at least one month every year. But how bad is it? And which countries are suffering most?
+
+Tue, 18 Jun 2024 19:37:31 +0530
+### [Karsandas Mulji: Who was the journalist, praised by Modi, at the centre of Netflix's 'Maharaj' row?](https://www.firstpost.com/explainers/karsandas-mulji-journalist-praised-by-narendra-modi-netflix-maharaj-row-13783631.html)
+
+The Netflix film "Maharaj" has sparked controversy over its depiction of a 1862 libel case involving journalist and author Karsandas Mulji. The film, based on Mulji's life, is accused of being scandalous and defamatory towards the Pustimargi sect. The Gujarat High Court has temporarily suspended the release of the film and issued notices to Yash Raj Films, Netflix, and others. The case, known as the Maharaja Libel Case, saw Mulji face a defamation suit for exposing the alleged immoral conduct of religious leaders. The court ultimately dismissed the case, setting a precedent that everyone, including priests, is equal under the law.
+
+Tue, 18 Jun 2024 19:04:39 +0530
+### [Americans are into hypergamy: What is this dating trend?](https://www.firstpost.com/explainers/americans-are-into-hypergamy-what-is-this-dating-trend-13783655.html)
+
+A recent survey of 2,000 Americans found that 47% of respondents expressed a positive view of hypergamy, which is the practice of dating or marrying someone of higher socioeconomic status. The survey revealed that many Americans believe that dating someone more successful than themselves can provide financial security, boost reputation, and enhance personal growth and self-discovery. The survey also found that people find certain traits attractive in their dates, including self-confidence, pride in accomplishments, and financial stability. Additionally, 42% of respondents found having a nice home, being able to cook well, and having a cultured taste in music to be attractive traits.
+
+Tue, 18 Jun 2024 18:31:11 +0530
+### [Congress' K Suresh to be Speaker pro-tem: Why is post important?](https://www.firstpost.com/explainers/congress-k-suresh-to-be-speaker-pro-tem-why-is-post-important-13780237.html)
+
+K Suresh, a 68-year-old Congress MP from Kerala's Mavelikara, is set to be the pro-tem Speaker of the 18th Lok Sabha. The pro-tem Speaker is a temporary position that is appointed by the President of India, typically assigned to the most senior member of the House. The Speaker pro-tem has several duties, including presiding over the first sitting of the Lok Sabha, administering the oath of office to newly elected MPs, and conducting the floor test to prove the government's majority.
+
+The Speaker pro-tem's post is important because it sets the stage for the election of the Speaker of the House, which is a crucial position in the Indian Parliament. The Speaker is responsible for running the House, keeping order, and making key decisions, including those related to disqualification of MPs and no-confidence motions. The Speaker's role is particularly important in situations where there is a no-confidence motion against the government.
+
+The Indian government is currently deciding on the next Speaker of the House, with the JD(U) and TDP eyeing the post to "insulate" themselves from possible fallout in the future. The TDP has been advised by the Shiv Sena (UBT) leader Aaditya Thackeray to insist on getting the Lok Sabha Speaker's post, warning that the BJP will try to break the parties of its allies once it forms the government.
+
 Tue, 18 Jun 2024 17:26:59 +0530
 ### [Taps run dry in Shimla: How water crises have become regular on hill stations](https://www.firstpost.com/explainers/taps-run-dry-in-shimla-how-water-crises-have-become-regular-on-hill-stations-13783547.html)
 

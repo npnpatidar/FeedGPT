@@ -1,3 +1,8 @@
+Tue, 18 Jun 2024 22:51:40 +0530
+### [Does H5N1 pose a threat for humans? | Explained](https://www.thehindu.com/sci-tech/health/does-h5n1-pose-a-threat-for-humans-explained/article68305360.ece)
+
+The highly pathogenic avian influenza (HPAI) H5N1 strain has been affecting cattle across several States in the US and has resulted in the mass killing of billions of wild birds and fowls. In Kerala, India, 19 outbreaks have been reported in 19 places since April, with the death of crows in large numbers raising concerns about the virus spreading widely. The virus has been detected in raw milk and milking machines, and scientists believe it lacks changes that would make it better adapted to transmit between people. However, the potential for influenza viruses to rapidly evolve and the wide geographic spread of H5N1 signals that more human infections should be expected. The World Health Organization has reported close to 900 human infections of H5N1 between 2003 and April 2024, with more than half being fatal. The common symptoms of H5N1 are similar to those of influenza-A illnesses, including respiratory difficulties, fever, cough, sore throat, and pneumonia. To prevent the spread of the virus, people are advised to wear masks, and antiviral Tamiflu is being prescribed as prophylaxis to people wherever H5N1 positive cases are found.
+
 Tue, 18 Jun 2024 05:30:00 +0530
 ### [Birds of different feathers fly to the same beat | Explained](https://www.thehindu.com/sci-tech/science/wings-of-birds-insects-bats-beat-according-to-a-common-equation/article68295958.ece)
 

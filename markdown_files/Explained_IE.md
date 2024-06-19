@@ -1,3 +1,13 @@
+Tue, 18 Jun 2024 15:54:19 +0000
+### [Strategic imperative and environment concern in Great Nicobar project](https://indianexpress.com/article/explained/great-nicobar-project-concern-9400418/)
+
+The Indian government has proposed a massive infrastructure project on the Great Nicobar Island, which has been strongly opposed by conservationists and local tribal councils. The project, worth Rs 72,000 crore, includes the construction of an international container transshipment terminal, an international airport, a township, and a gas and solar-based power plant. The project has been criticized for its potential impact on the island's fragile ecosystem and the rights of the indigenous Shompen tribe. The Congress party has demanded the immediate suspension of all clearances and a thorough review of the project. The project has also been criticized for its potential impact on the island's coral reefs and the local marine ecosystem.
+
+Tue, 18 Jun 2024 14:03:32 +0000
+### [Why is North Korean President Kim Jong Un eager to welcome Vladimir Putin?](https://indianexpress.com/article/explained/explained-global/north-korea-kim-jong-un-putin-russia-9400236/)
+
+Article found but Couldn't summarize
+
 Tue, 18 Jun 2024 12:10:23 +0000
 ### [Who is the pro-tem Speaker of Lok Sabha and how is an MP chosen for the role?](https://indianexpress.com/article/explained/everyday-explainers/pro-tem-speaker-lok-sabha-9399861/)
 

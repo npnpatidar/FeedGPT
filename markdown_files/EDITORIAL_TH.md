@@ -1,3 +1,13 @@
+Wed, 19 Jun 2024 00:20:00 +0530
+### [New dynamics: On the G-7, its identity, its purpose](https://www.thehindu.com/opinion/editorial/new-dynamics-on-the-g-7-its-identity-its-purpose/article68304780.ece)
+
+Italy's Prime Minister Giorgia Meloni hosted the "G-7 Outreach" Summit, welcoming leaders from 10 countries, including Prime Minister Narendra Modi, to discuss global issues. The summit aimed to move beyond the "West vs the Rest" narrative, focusing on the Global South and energy issues. The G-7 has been criticized for being ineffective in addressing global problems, with its meetings yielding little progress. The summit's joint communiqué highlighted the group's support for Ukraine, but lacked a clear plan to end the war. India, attending the summit for the eleventh time, focused on its elections and the importance of harnessing technology to bridge global inequalities. The G-7's purpose and identity have been questioned in light of the rapidly changing global power dynamic, with some suggesting it may be more effective to address global issues through a larger and more representative format like the G-20.
+
+Wed, 19 Jun 2024 00:10:00 +0530
+### [Drastic decline: On the BSP](https://www.thehindu.com/opinion/editorial/drastic-decline-on-the-bsp/article68300601.ece)
+
+The article discusses the contrasting fortunes of the Samajwadi Party-Congress alliance and the Bahujan Samaj Party (BSP) in the general election in Uttar Pradesh. The SP-Congress alliance won 43 seats and gained support from OBCs and Dalits by targeting the Union government on issues related to constitutional rights and economic problems. In contrast, the BSP's vote share fell to 9.4%, with even its loyal Jatav backers splitting their support between major political forces. The article suggests that the BSP can learn from the experiences of other parties that have taken to ideological and agitational struggle to represent the interests of Dalits.
+
 Tue, 18 Jun 2024 00:30:00 +0530
 ### [Trade trapeze: On India’s exports](https://www.thehindu.com/opinion/editorial/trade-trapeze-the-hindu-editorial-on-indias-exports/article68300569.ece)
 

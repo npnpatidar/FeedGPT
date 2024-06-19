@@ -1,3 +1,13 @@
+Tue, 18 Jun 2024 14:36:21 +0000
+### [West Bengal train accident highlights need for a thorough review of misplaced priorities of past two decades in Indian Railways](https://indianexpress.com/article/opinion/columns/west-bengal-train-accident-indian-railways-review-9400261/)
+
+The article discusses the crisis faced by the Indian Railways, which has been experiencing a decline in passenger and freight traffic, stagnation in traffic volume, and a failure to improve speed, safety, and punctuality. Despite repeated announcements of plans to double train speeds and increase line capacity, the results have been disappointing. The Indian Railways has lost market share to road and air transport, and if the trend continues, it may be relegated to a secondary role. The article also highlights the poor safety record of the Indian Railways, citing reports by the Comptroller and Auditor General of India, which have raised concerns about asset failures, signal failures, and rail fractures, which have led to accidents. The article concludes that a thorough review of the misplaced priorities of the past two decades is necessary to reverse the decline of the Indian Railways.
+
+Tue, 18 Jun 2024 13:48:50 +0000
+### [The NEP debate: Why criticism of the policy is premature and off the mark](https://indianexpress.com/article/opinion/columns/nep-debate-policy-criticism-premature-9400237/)
+
+Article found but Couldn't summarize
+
 Tue, 18 Jun 2024 10:52:25 +0000
 ### [C Raja Mohan writes: Rising power, rising responsibilities — five geopolitical challenges before Modi 3.0](https://indianexpress.com/article/opinion/columns/narendra-modi-3-0-geopolitical-challenges-9399576/)
 
