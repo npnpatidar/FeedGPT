@@ -1,3 +1,28 @@
+Wed, 19 Jun 2024 15:14:07 +0000
+### [What is the controversy around EVMs in the US?](https://indianexpress.com/article/explained/explained-global/evm-controversy-us-9402566/)
+
+Elon Musk called for the elimination of electronic voting machines (EVMs) in a post on X, which sparked a debate. The US transitioned to EVMs after the controversial 2000 presidential election, and the 2016 election raised concerns about hacking. The introduction of Voter-Verified Paper Audit Trail (VVPAT) and open-source software (OSS) for EVMs are potential solutions. The federal government has invested in election infrastructure, and there are concerns about the influence of private companies on the electoral process. The issue of "love jihad" in India was also highlighted.
+
+Wed, 19 Jun 2024 14:58:14 +0000
+### [AI: Is Microsoft and Nvidia’s dominance damaging?](https://indianexpress.com/article/explained/explained-sci-tech/ai-microsoft-nvidias-9402651/)
+
+Microsoft and Nvidia are two of the largest companies in the world due to their success in the artificial intelligence space. The US Department of Justice and the Federal Trade Commission are investigating the two companies for their dominant position in the AI market. Small startups are being forced into exclusive deals with these tech giants, which is seen as giving them an unfair advantage. Recent mergers by Microsoft and Nvidia are also going to be probed. US regulators are working together to address the power of Big Tech. The additional scrutiny is already affecting the tech sector, with large companies becoming afraid to do acquisitions.
+
+Wed, 19 Jun 2024 14:29:29 +0000
+### [What is Juneteenth and what is its significance?](https://indianexpress.com/article/explained/explained-culture/juneteenth-significance-9402555/)
+
+Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States, observed on June 19 every year. It marks the day in 1865 when the last enslaved African Americans in the Confederate states were freed. The movement for greater recognition of Juneteenth led to it becoming a federal holiday in 2021. The day is celebrated with community events and educational activities, but there is still a lack of awareness about it in some parts of the country. Despite opposition, proponents of Juneteenth as a paid holiday emphasize its importance in acknowledging and educating about America’s history of slavery and the ongoing struggle for racial equality.
+
+Wed, 19 Jun 2024 13:43:41 +0000
+### [Thailand to become third Asian country to legalise same-sex marriage: All you need to know](https://indianexpress.com/article/explained/explained-global/thailand-legalise-same-sex-marriage-9402430/)
+
+The Thai Senate has passed the Marriage Equality Bill, putting Thailand on the verge of becoming the first country in Southeast Asia and third in Asia to legalize same-sex marriage. The legislation changes references to gender-specific terms in marriage laws to gender-neutral terms, granting same-sex couples the same rights as heterosexual couples. The Bill has widespread support in Thai society, and the Prime Minister has expressed his support for the LGBTQ+ community. The article also mentions the status of marriage equality and LGBTQ+ rights in other Asian countries and globally.
+
+Wed, 19 Jun 2024 13:03:00 +0000
+### [Can middle-aged people receive Canadian student visas?](https://indianexpress.com/article/explained/middle-aged-people-canadian-student-visas-9402374/)
+
+A video of a 50-year-old man displaying his Canadian study permit went viral, sparking questions about the age of student visa recipients in Canada and why someone already in the country would apply for a student visa. There is no age limit for student visas in Canada, but older applicants must justify the gap in their education. Middle-aged applicants for student visas are typically already in Canada and want to extend their stay. The student visa can lead to a post-graduate work permit and eventually permanent residency. Similar practices have been observed in Australia and European countries.
+
 Wed, 19 Jun 2024 01:35:46 +0000
 ### [Where is the monsoon?](https://indianexpress.com/article/explained/explained-climate/india-monsoon-rainfall-forecast-weather-rains-9400641/)
 

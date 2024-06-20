@@ -1,3 +1,17 @@
+Thu, 20 Jun 2024 00:20:00 +0530
+### [A torrid crisis: On heatwaves in northern India](https://www.thehindu.com/opinion/editorial/a-torrid-crisis-on-heatwaves-in-northern-india/article68307796.ece)
+
+Northern India is experiencing record-breaking heatwaves, with minimum temperatures exceeding 45°C in some states. Night temperatures are also abnormally high due to a lack of moisture and rain. The monsoon, which usually provides relief, has been delayed and is forecast to be below normal.
+
+This extreme heat has led to a significant increase in power demand, with northern India importing power from neighboring regions to meet its needs. The prolonged heatwaves and high air conditioning use are straining the power grid, leading to blackouts.
+
+Additionally, Delhi is facing a water crisis, with Haryana, a major source of water, refusing to increase supply due to its own challenges.
+
+Thu, 20 Jun 2024 00:10:00 +0530
+### [Caste away: On Justice K. Chandru Committee report](https://www.thehindu.com/opinion/editorial/caste-away-on-justice-k-chandru-committee-report/article68307811.ece)
+
+The Justice K. Chandru Committee recommends prohibiting students from wearing or displaying any caste identifiers to prevent caste-related violence in Tamil Nadu schools. These include wristbands, forehead marks, and caste-painted bicycles. The committee also suggests revising curricula to promote inclusivity and establishing a Social Justice Monitoring Committee to oversee these measures. However, the recommendation to eliminate noon meal kitchens in schools is rejected as it may exacerbate discrimination and deprive students of fresh, hot meals. Additionally, the suggestion to form a uniformed Social Justice Students Force is viewed with caution as it may replicate existing programs. The committee emphasizes the need to address caste discrimination at the grassroots level and to curtail the influence of caste vote banks in politics to achieve meaningful harmony among school students.
+
 Wed, 19 Jun 2024 00:20:00 +0530
 ### [New dynamics: On the G-7, its identity, its purpose](https://www.thehindu.com/opinion/editorial/new-dynamics-on-the-g-7-its-identity-its-purpose/article68304780.ece)
 

@@ -1,3 +1,16 @@
+Wed, 19 Jun 2024 20:00:49 +0530
+### [Terror attacks in Kashmir: Critical revamping needed in war against terrorism](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-critical-revamping-needed-in-war-against-terrorism-13784077.html)
+
+The article discusses the current state of terrorism in Jammu & Kashmir, particularly in the Pir Panjal valley, which was previously declared terrorism-free. The author highlights that despite official claims of terrorism declining, there has been a spike in brutal attacks in the Pir Panjal valley, indicating that Pakistan's investments in terrorism and radicalization over three decades have not been entirely successful.
+
+The author also points out that while the Kashmir valley has seen a boost in tourism and economic growth, separatist and extremist organizations like Jamaat-i-Islami continue to work on the ground to radicalize and strengthen their networks. The Jamaat has changed tactics and is now working among students and youngsters, spreading their core message of Islamic Kashmir.
+
+In the Jammu region, the Gujjar-Bakarwal community, which has traditionally supported Indian security forces, is going through alienation and resentment against the state authorities. This has led to some disgruntled elements providing support systems to infiltrating terrorists.
+
+The article also notes that Pakistan-based handlers have changed their strategy and tactics, using young boys and girls as couriers, and using new kinds of communication devices that are immune to interception and de-encryption. Terrorists are also using advanced drones with precision drop systems, making it challenging for agencies to jam them.
+
+The author concludes by stating that New Delhi must not be complacent with the current phase of peace and must come out with a long-term plan based on an insightful strategic vision to dismantle Islamist and separatist structures in Kashmir. The final solution to Kashmir's terrorism problem lies beyond the LoC and IB, and Islamabad must be made to pay a high cost for terroir activities.
+
 Wed, 19 Jun 2024 18:08:19 +0530
 ### [The power of imagery: How global media distorts Palestinian reality to project Israel as villain](https://www.firstpost.com/opinion/the-power-of-imagery-how-global-media-distorts-palestinian-reality-to-project-israel-as-villain-13784026.html)
 

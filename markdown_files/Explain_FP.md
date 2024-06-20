@@ -1,3 +1,15 @@
+Wed, 19 Jun 2024 20:54:19 +0530
+### [In Graphics l How is the Speaker to the Lok Sabha elected?](https://www.firstpost.com/explainers/in-graphics-l-how-is-the-speaker-to-the-lok-sabha-elected-13784037.html)
+
+Article found but Couldn't summarize 
+With Prime Minister Narendra Modi set to propose the name of the Lok Sabha Speaker on 25 June, speculation is rife about who will get the coveted post. BJP's Andhra Pradesh president Daggubati Purandeswari, TDP MP GM Harish Balayogi and seven-term BJP MP Bhratruhari Mahtab are thought to be in the running, while current Lok Sabha Speaker Om Birla is eyeing another term. But how is the Speaker elected? Why is the post important?
+
+Wed, 19 Jun 2024 20:19:02 +0530
+### [What’s behind Delhi heatwave which has left five dead? Is relief in sight?](https://www.firstpost.com/explainers/whats-behind-delhi-heatwave-which-has-left-five-dead-is-relief-in-sight-13784085.html)
+
+Article found but Couldn't summarize 
+Five people have died in the past 48 hours in the National Capital and dozens have been admitted to hospital with complaints of heat stroke and exhaustion. Experts say dry and warm westerly winds from Rajasthan and southern Haryana are to blame for the brutal heatwave in the city. Though Delhi could receive pre-monsoon showers over the next few days, real relief will only come with the Monsoon, which will arrive around 30 June
+
 Wed, 19 Jun 2024 17:42:36 +0530
 ### [Tourists in Greece keep disappearing and turning up dead. Is extreme heat the reason?](https://www.firstpost.com/explainers/tourists-in-greece-keep-disappearing-and-turning-up-dead-is-extreme-heat-the-reason-13784019.html)
 

@@ -1,3 +1,14 @@
+Wed, 19 Jun 2024 13:53:30 +0000
+### [From Baahubali set to idli-maker, the bizarre journey of Amravati’s capital design](https://indianexpress.com/article/opinion/columns/baahubali-set-idli-maker-bizarre-journey-amravati-capital-design-9402490/)
+
+Ten years ago, renowned architect Fumihiko Maki was commissioned to design Amaravati, the new capital of Andhra Pradesh. However, his design was rejected in favor of one allegedly inspired by the mythical city of Mahishmati from the film Baahubali.
+
+After the Naidu government lost the elections, the new government canceled the Amaravati project, leaving over 26,000 farmers displaced and 30,000 acres of land acquired for the capital unused.
+
+This incident highlights a pattern of civic projects being subject to political whims, often resulting in financial losses and disruption for displaced individuals. Similar examples include the halted Central Vista redevelopment in New Delhi and the relocation of the legislative assembly in Chennai.
+
+The author emphasizes the need for greater sensitivity to public interest and a sense of accountability from the ruling elite.
+
 Wed, 19 Jun 2024 11:53:02 +0000
 ### [Why Mizoram’s capital faces constant landslide risk and how the challenge can be met](https://indianexpress.com/article/opinion/columns/mizoram-capital-constant-landslide-risk-challenges-9402079/)
 
