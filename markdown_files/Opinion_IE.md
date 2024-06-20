@@ -1,3 +1,72 @@
+Thu, 20 Jun 2024 12:03:02 +0000
+### [P Thankappan Nair: The man who chronicled Kolkata — for little in return](https://indianexpress.com/article/opinion/columns/p-thankappan-nair-death-chronicled-kolkata-9404438/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 10:25:36 +0000
+### [Why Shivraj Singh Chouhan needs to be empowered – like Sharad Pawar and Jagjivan Ram](https://indianexpress.com/article/opinion/columns/shivraj-singh-chouhan-empowered-sharad-pawar-jagjivan-ram-9404241/)
+
+India's agriculture sector has experienced fragmentation due to the creation of multiple ministries and departments. This began in the 1970s and has continued under the Modi government. The result is a diminished agriculture ministry that lacks oversight of key inputs such as fertilizers and water, as well as value addition and export promotion. The fragmentation hinders integrated policymaking and contrasts with the comprehensive US Department of Agriculture. India's current agriculture minister has the potential to address challenges, but needs political and administrative empowerment to do so, as demonstrated by previous effective agriculture ministers like Subramaniam and Jagjivan Ram.
+
+Thu, 20 Jun 2024 07:49:01 +0000
+### [The Wayanad stronghold: Should Priyanka Gandhi Vadra have stayed in UP?](https://indianexpress.com/article/opinion/columns/wayanad-priyanka-gandhi-vadra-rahul-gandhi-rae-bareli-9403904/)
+
+The Congress's decision to nominate Priyanka Gandhi Vadra for the Wayanad Lok Sabha seat is appropriate due to her popularity and the constituency's demographics, which favor the United Democratic Front. Despite some criticism, she is considered a strong candidate due to her familial recognition, political acumen, and appeal to religious minorities and other voter groups in Wayanad. The argument that she could have swapped seats with her brother is dismissed, as Rahul Gandhi needs to establish himself in Uttar Pradesh politics. Kerala lacks the same number of exceptional representatives as Tharoor, making it reasonable to deploy a talent like Priyanka in this safe constituency.
+
+Thu, 20 Jun 2024 02:47:26 +0000
+### [June 20, 1984, Forty Years Ago | Operation Blue Star fallout: Norway ambassador resigns](https://indianexpress.com/article/opinion/40-years-ago/june-20-1984-forty-years-ago-operation-blue-star-fallout-norway-ambassador-resigns-9403002/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:47:22 +0000
+### [What Calcutta owes its barefoot historian](https://indianexpress.com/article/opinion/columns/what-calcutta-owes-its-barefoot-historian-9403001/)
+
+In 1955, P Thankappan Nair moved to Calcutta and developed a keen interest in the city's history. Despite his limited formal education, he dedicated his life to studying and writing about various aspects of Calcutta, including its communities, architecture, and social life. Nair's work, based on extensive research and oral testimonies, challenged prevailing historical narratives and contributed significantly to the understanding of the city's evolution. His scholarship earned him the respect of historians, and his collection of over 3,000 books was donated to the Kolkata Municipal Corporation.
+
+Thu, 20 Jun 2024 02:35:18 +0000
+### [A banker’s memoir shows even nice guys can finish first](https://indianexpress.com/article/opinion/columns/a-bankers-memoir-shows-even-nice-guys-can-finish-first-9403049/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:35:14 +0000
+### [Why, for BJP, looking into rearview mirror is not enough](https://indianexpress.com/article/opinion/editorials/why-for-bjp-looking-into-rearview-mirror-is-not-enough-9402999/)
+
+The BJP is reviewing its electoral setbacks in Uttar Pradesh, where its seats decreased from 62 to 33. This evaluation should help the party understand its mistakes and improve its strategy in politically crucial states.
+
+However, the larger implication of the election results is that the BJP must acknowledge its increased dependence on allies. This requires the government to respect the mandate and move away from its previous habits of centralized decision-making. Allies should be consulted for their perspectives, and the government should re-examine its governance paradigms, particularly focusing on improving public goods such as education and health.
+
+The election results demonstrate that the public demands more than just continuity and stability. The BJP must demonstrate its commitment to change and improvement to maintain public support.
+
+Thu, 20 Jun 2024 02:30:29 +0000
+### [From Kalidasa’s ‘Meghaduta’ to the monsoon ragas: Waiting for rain](https://indianexpress.com/article/opinion/columns/from-kalidasas-meghaduta-to-the-monsoon-ragas-waiting-for-rain-9402965/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:30:18 +0000
+### [In Punjab, AAP’s crackdown on alleged police-drug cartel nexus was long overdue](https://indianexpress.com/article/opinion/editorials/in-punjab-aaps-crackdown-on-alleged-police-drug-cartel-nexus-was-long-overdue-9403000/)
+
+The Aam Aadmi Party (AAP) government in Punjab is addressing the ongoing drug problem in the state. After poor performance in recent elections, Chief Minister Bhagwant Mann has transferred 10,000 police officers to break the alleged drug cartel nexus. The state has long grappled with drugs, with high overdose deaths and drug possession cases. Previous governments have promised to eradicate the issue, but progress has been slow. The government is now focusing on targeting big drug suppliers and implementing zero tolerance towards dealers. However, it remains to be seen if these measures will be successful in addressing the systemic issue.
+
+Thu, 20 Jun 2024 02:25:21 +0000
+### [Developing countries can spur global growth but they need support](https://indianexpress.com/article/opinion/columns/developing-countries-can-spur-global-growth-but-they-need-support-9403024/)
+
+A decade ago, emerging countries faced challenges in growth, finance, and governance. However, they have emerged as drivers of global growth, with Asia leading the way. To sustain this growth, deep financial markets and sustainable financing are crucial, which is currently lacking in the Global South.
+
+The international financial architecture is outdated, hindering the growth potential of these countries. Three key areas need addressing:
+
+1. Climate financing: Encourage market-based solutions by requiring disclosure of greenhouse gas emissions and creating new rating agencies to assess sustainability.
+
+2. Liquidity provisions: Strengthen the IMF to provide liquidity support beyond current levels.
+
+3. Digital public architecture: Establish a central hub for best practices and technical advances to ensure data and cyber security in digital transformation.
+
+Despite challenges such as climate change and the cost of living crisis, addressing these areas can drive growth and inclusion in the Global South and benefit the global economy as a whole.
+
+Thu, 20 Jun 2024 02:15:43 +0000
+### [Cost of inequality: What India’s 129 rank in Global Gender Gap Index means](https://indianexpress.com/article/opinion/columns/cost-of-inequality-what-indias-129-rank-in-global-gender-gap-index-means-9402976/)
+
+Article found but Couldn't summarize
+
 Wed, 19 Jun 2024 13:53:30 +0000
 ### [From Baahubali set to idli-maker, the bizarre journey of Amravati’s capital design](https://indianexpress.com/article/opinion/columns/baahubali-set-idli-maker-bizarre-journey-amravati-capital-design-9402490/)
 

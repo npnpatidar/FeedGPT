@@ -1,3 +1,94 @@
+Thu, 20 Jun 2024 17:57:47 +0530
+### [What is Rahul Gandhi’s new ‘White T-shirt campaign’ all about?](https://www.firstpost.com/explainers/rahul-gandhi-white-t-shirt-campaign-13784328.html)
+
+Article found but Couldn't summarize 
+Congress MP Rahul Gandhi launched a ‘White T-shirt’ campaign on his 54th birthday on Wednesday, 19 June, revealing that the colour ‘symbolises transparency, solidity, simplicity for me’. It is grabbing eyeballs as he calls on supporters to wear the simple tee in the backdrop of protests over the NEET, NET row
+
+Thu, 20 Jun 2024 16:40:01 +0530
+### [NEET questions leaked: Will arrested aspirants be punished under new anti-paper leak law?](https://www.firstpost.com/explainers/neet-questions-leaked-will-arrested-aspirants-be-punished-under-new-anti-paper-leak-law-13784347.html)
+
+Following the UGC-NET exam cancellation, Amit Anand, the alleged mastermind behind the NEET paper leak, admitted his involvement. The Public Examinations (Prevention of Unfair Means) Act, 2024, which penalizes paper leaks with up to 10 years in prison and a fine of Rs 1 crore, has come under scrutiny.
+
+The Act defines "public examinations" conducted by various bodies, including the NTA. It criminalizes the leakage of question papers, assisting candidates unofficially, and tampering with computer systems.
+
+Offenses under the Act are non-bailable and non-compoundable, with prison terms of 3-5 years for individuals and fines of up to Rs 10 lakh. Organized gangs involved in paper leaks face imprisonment of 5-10 years and fines of Rs 1 crore.
+
+The Act also requires the establishment of a national technical committee to enhance the security of computerized examinations.
+
+In the NEET paper leak case, Anand admitted to distributing the question paper and receiving payments from aspirants. The Patna Police has arrested 13 individuals, including Anand and the candidate he assisted.
+
+As for the cancelled UGC-NET exam, education ministry officials stated that a fresh exam date will be announced soon.
+
+Thu, 20 Jun 2024 16:12:57 +0530
+### [After testicles, microplastics found in penises: Can it cause erectile dysfunction?](https://www.firstpost.com/health/after-testicles-microplastics-found-in-penises-can-it-cause-erectile-dysfunction-13784252.html)
+
+Article found but Couldn't summarize 
+In a first-of-its-kind study, scientists have discovered microplastics in the human penis. The study found microplastics in five out of six penile tissue samples, raising concerns about the impact on male sexual health
+
+Thu, 20 Jun 2024 15:17:22 +0530
+### [Originals Only: Why travelling to the US with fake brands could land you in trouble](https://www.firstpost.com/explainers/us-customs-rules-fake-brands-13784286.html)
+
+US Customs and Border Protection (CBP) is stepping up efforts to prevent the entry of counterfeit goods by confiscating items from travelers. Individuals are only permitted to possess one counterfeit item for personal use. Several Indian tourists and students have had their fake luxury goods seized at US airports. CBP officials emphasize the risks involved in importing counterfeit goods, which can violate intellectual property rights, threaten public safety, and support illegal activities. Similar regulations exist in other countries such as Italy, France, Germany, Spain, Switzerland, and Australia, with penalties including fines and potential criminal charges. Travelers should be aware of these rules to avoid losing their belongings and facing legal consequences.
+
+Thu, 20 Jun 2024 15:00:12 +0530
+### [Why high nighttime temperatures are bad news for Delhi](https://www.firstpost.com/explainers/delhi-high-nighttime-temperatures-concerning-heatwave-13784288.html)
+
+Delhi experienced its warmest night in over 12 years on June 18, with a record minimum temperature of 35.2 degrees Celsius, the highest since 1969. The city has been facing a severe heatwave, with daytime temperatures soaring above 40 degrees Celsius for 37 consecutive days. The high night temperatures, termed 'warm nights' by the IMD, occur when the minimum temperature is significantly above normal. These conditions have led to increased heat-related illnesses and deaths, with at least nine fatalities reported in the past three weeks. Experts attribute the intense heat to climate change, urbanization, and the loss of green spaces, which exacerbate the 'urban heat island effect'. The situation has put a strain on Delhi's power demand, reaching record highs, and has raised concerns about the need for proactive measures to address the health impacts of such extreme temperatures.
+
+Thu, 20 Jun 2024 14:09:23 +0530
+### [Why Vadhavan Port in Maharashtra can be a game-changer for India](https://www.firstpost.com/explainers/why-vadhavan-port-in-maharashtra-can-be-a-game-changer-for-india-13784300.html)
+
+The Union Cabinet has approved a Rs 76,200-crore project to develop a major port at Vadhavan in Maharashtra. The port, expected to be one of the world's top 10, will double India's container handling capacity and serve as a feeder port for the India Middle East Europe Economic Corridor. With a 20-meter depth, it will have a cumulative capacity of 298 million metric tonnes annually, including 23.2 million TEUs of container handling capacity. The port will also aid the Jawaharlal Nehru Port and provide employment opportunities for approximately 12 lakh people.
+
+Thu, 20 Jun 2024 13:17:00 +0530
+### [Heatstroke unit and more beds: How Delhi hospitals are handling heat-related emergencies](https://www.firstpost.com/explainers/delhi-hospitals-heat-related-emergencies-13784226.html)
+
+Hospitals in Delhi-NCR are experiencing a surge in patients with heatstroke and heat exhaustion amid the intense heatwave. Over 52 deaths have been reported in the past two days. To address this, the Delhi government has ordered hospitals to prioritize patient care and increase bed availability.
+
+According to medical experts, critical patients often arrive in hypovolemic shock due to excessive fluid loss. While young and healthy individuals have not experienced severe complications, some with pre-existing conditions have required ICU care.
+
+The Health Department has issued directives to hospitals to ensure 24/7 emergency services, maintain adequate medicine supplies, and admit and treat heatstroke patients immediately. Additionally, Delhi Police has been requested to assist in transporting homeless individuals to shelter homes.
+
+Thu, 20 Jun 2024 12:48:48 +0530
+### [UGC-NET vs NEET-UG: Why two entrance exams are embroiled in controversy](https://www.firstpost.com/explainers/ugc-net-neet-ug-entrance-exams-controvesy-nta-education-ministry-paper-leak-13784248.html)
+
+The University Grants Commission-National Eligibility Test (UGC-NET), held on June 18, has been cancelled due to suspected compromise in the integrity of the exam. The decision was made after inputs from the Union Ministry of Home Affairs. Over nine lakh candidates appeared for the exam. A re-examination will be conducted at a later date, and a CBI investigation into the matter has been initiated. The cancellation follows controversy surrounding the NEET-UG exam, where allegations of question paper leaks and the awarding of grace marks have been made. The controversy has sparked concern about the integrity of centrally conducted public exams and led to calls for accountability.
+
+Thu, 20 Jun 2024 12:00:23 +0530
+### [What is Putin looking to gain from Vietnam visit? Why is Hanoi risking earning the US ire?](https://www.firstpost.com/explainers/vladimir-putin-vietnam-visit-united-states-ire-13784241.html)
+
+Russian President Vladimir Putin's visit to Vietnam aims to signal that Russia is not isolated despite Western sanctions. Putin will discuss Ukraine and defense cooperation with Vietnamese leaders, as Vietnam has been a major arms customer for Russia. The visit also reinforces the historical connection between the two nations, based on shared communist roots.
+
+Vietnam, which practices "bamboo diplomacy," seeks to maintain balance in its international relations. While it receives heavy military hardware from Russia, it also values its partnerships with the US and the EU. Vietnam's engagement with Russia serves as a counterbalance to both China and the US.
+
+The US expresses concern over Putin's visit to Vietnam, as it could normalize his actions in Ukraine. Western countries view Vietnam's balanced stance and willingness to host Putin as a sign that Russia is not as isolated as they would like. This undermines their efforts to isolate Russia and suggests a potential threat to US strategic goals in the region.
+
+Thu, 20 Jun 2024 11:47:45 +0530
+### [Quicksplained: Why Indian banks are grappling with a major ATM crunch](https://www.firstpost.com/explainers/quicksplained-why-indian-banks-are-grappling-with-a-major-atm-crunch-13784199.html)
+
+**ATM Shortage in India**
+
+Indian banks have expressed concerns about a shortage of ATMs. This is attributed to bottlenecks in the 'Make in India' initiative and challenges with the government e-marketplace (GeM) portal. Banks are requesting a more flexible procurement process through independent RFPs and clarity on GeM guidelines. The shortage is impacting banks' efforts to implement lockable cassette mechanisms in ATMs as directed by RBI. Additionally, poor infrastructure and vaulting arrangements have contributed to the delay in implementation. Some banks are exploring cash recycling machines as an alternative to enhance efficiency.
+
+Thu, 20 Jun 2024 10:51:38 +0530
+### [PM Narendra Modi’s J&K visit: What’s the agenda? Why is it significant?](https://www.firstpost.com/explainers/pm-narendra-modi-jammu-and-kashmir-visit-agenda-significance-13784227.html)
+
+Prime Minister Narendra Modi will visit Jammu and Kashmir on June 20-21 for the first time since his re-election. During his visit, Modi will inaugurate 84 development projects worth Rs 1500 crore, including road upgrades, industrial estates, and higher education institutions. He will also lead the International Day of Yoga (IDY) celebrations in Srinagar, where over 7,000 participants are expected.
+
+Modi's visit comes amid heightened security following recent terrorist attacks in Jammu and Kashmir. Security has been tightened in Srinagar, where Modi will attend events at the Sher-i-Kashmir International Conference Centre and SKICC. The visit is significant as it aims to showcase the government's development initiatives and commitment to peace and prosperity in Jammu and Kashmir. The upcoming assembly elections later this year also add to the importance of Modi's trip.
+
+Thu, 20 Jun 2024 10:22:31 +0530
+### [Kim and Putin sign defence pact: Here’s what we know and what we don’t](https://www.firstpost.com/explainers/north-korean-russia-defence-pact-13784205.html)
+
+Article found but Couldn't summarize 
+Russian president Vladimir Putin signed a deal with North Korean leader Kim Jong Un that included a mutual defence pact. Neither side has released the text of the agreement but the West worried already
+
+Thu, 20 Jun 2024 06:30:24 +0530
+### [FirstUp: PM Modi to flag off Vande Bharat trains, EAM Jaishankar to visit Sri Lanka... today's big events](https://www.firstpost.com/explainers/firstup-pm-modi-to-flag-off-vande-bharat-trains-eam-jaishankar-to-visit-sri-lanka-todays-big-events-13784007.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi will flag off two Vande Bharat trains in Tamil Nadu and Karnataka. External Affairs Minister S Jaishankar is visiting Sri Lanka. Finance Minister Nirmala Sitharaman is set to hold a pre-Budget meeting with industry and farmers' groups
+
 Wed, 19 Jun 2024 20:54:19 +0530
 ### [In Graphics l How is the Speaker to the Lok Sabha elected?](https://www.firstpost.com/explainers/in-graphics-l-how-is-the-speaker-to-the-lok-sabha-elected-13784037.html)
 

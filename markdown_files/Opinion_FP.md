@@ -1,3 +1,33 @@
+Thu, 20 Jun 2024 17:57:32 +0530
+### [Time for India to raise 'space force’ as new zone of warfare emerges](https://www.firstpost.com/opinion/time-for-india-to-raise-space-force-as-new-zone-of-warfare-emerges-13784386.html)
+
+Article found but Couldn't summarize 
+Even though the Outer Space Treaty debars nations from weaponising space, the writing on the wall makes it clear that a threat from the new frontier is lurking
+
+Thu, 20 Jun 2024 15:26:49 +0530
+### [Climate hypocrisy: West’s moral high ground and its failure to deliver](https://www.firstpost.com/opinion/climate-hypocrisy-wests-moral-high-ground-and-its-failure-to-deliver-13784295.html)
+
+Western nations often express concern about climate change but fail to prioritize environmental protection over economic goals. This is evident in the approval of fossil fuel projects and the delay of climate finance commitments.
+
+Developed countries have not met their pledge to provide $100 billion annually in climate finance to developing countries. This inadequacy is highlighted by the high costs of adaptation and mitigation measures required to address climate change.
+
+Current climate finance falls far short of estimates for the funding needed to meet the Paris Agreement targets. Emerging markets and developing countries face a significant financial gap, requiring a massive increase in climate finance.
+
+Reforms are needed in multilateral development banks to triple their lending by 2030. Innovative financial instruments must be leveraged to transition from billions to trillions in climate finance.
+
+Developed nations have a moral obligation to provide resources for climate mitigation and adaptation in developing countries, rather than expecting them to reduce pollution without adequate support.
+
+Thu, 20 Jun 2024 13:34:45 +0530
+### [Women in Indian Politics: A story that has changed little over the years](https://www.firstpost.com/opinion/women-in-indian-politics-a-story-that-has-changed-little-over-the-years-13784273.html)
+
+The 18th Lok Sabha of India has only 74 women members out of 543, representing a decline from 14.4% in 2019 to 13.63% this year. This is despite efforts to promote women's inclusion in politics, such as the Women's Reservation Bill, which reserves 33% of seats for women in parliament. The disparity begins with the number of women candidates fielded by parties, which has increased only marginally from 9% in 2019 to 9.5% in 2024. Women candidates face challenges ranging from discriminatory practices to misogynistic remarks, highlighting the persistence of patriarchal norms in Indian politics. To improve women's representation, India needs a sociological transformation to break free from traditional gender roles and empower women to participate fully in politics.
+
+Thu, 20 Jun 2024 10:11:37 +0530
+### [When terrorism is democracy: India sharpens its diplomatic knife to further expose Canada’s Khalistani doublespeak](https://www.firstpost.com/opinion/when-terrorism-is-democracy-india-sharpens-its-diplomatic-knife-to-further-expose-canadas-khalistani-doublespeak-13784203.html)
+
+Article found but Couldn't summarize 
+India has so far done well in exposing Canada’s propensity to run with the modern, liberal, democratic world while hunting with the terrorist hounds of the Khalistani kind
+
 Wed, 19 Jun 2024 20:00:49 +0530
 ### [Terror attacks in Kashmir: Critical revamping needed in war against terrorism](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-critical-revamping-needed-in-war-against-terrorism-13784077.html)
 

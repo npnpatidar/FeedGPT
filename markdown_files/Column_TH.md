@@ -1,3 +1,9 @@
+Thu, 20 Jun 2024 16:19:04 +0530
+### [Column | When the rupee ruled](https://www.thehindu.com/opinion/columns/when-the-rupee-ruled-mughal-currency-trade-coin-east-india-company/article68303999.ece)
+
+Article found but Couldn't summarize 
+From Akbar’s rupiya to the Rupay app that’s going international, tracing the adventurous run of India’s currency
+
 Wed, 19 Jun 2024 00:30:00 +0530
 ### [Frank Worell: Centenary of the man who changed cricket and society](https://www.thehindu.com/sport/cricket/centenary-of-the-man-who-changed-cricket-and-society/article68304032.ece)
 

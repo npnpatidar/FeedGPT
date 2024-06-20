@@ -1,3 +1,33 @@
+Thu, 20 Jun 2024 11:04:31 +0000
+### [Outrage over paper leaks: what does India’s law against use of unfair means in exams say?](https://indianexpress.com/article/explained/net-paper-leaks-exam-cancelled-9404294/)
+
+The UGC-NET 2024 was cancelled due to an integrity compromise, which is the first time a centrally-conducted public examination has been scrapped after a new law was passed to prevent paper leaks. The Public Examinations (Prevention of Unfair Means) Bill, 2024, aims to prevent unfair means in public examinations and lists specific offences and punishments. The Bill covers various public examination authorities and provides for harsher punishment in cases of organised paper leaks. The objective is to bring greater transparency, fairness, and credibility to the public examination systems and to reassure the youth that their sincere and genuine efforts will be fairly rewarded and their future is safe.
+
+Thu, 20 Jun 2024 10:02:58 +0000
+### [Can GM crops promise food security?](https://indianexpress.com/article/explained/explained-climate/gm-crops-food-security-9404105/)
+
+A new "gene revolution" is being heralded as a cure-all for global hunger and a solution to decimated food systems caused by extreme weather. The technology involves bioengineering to transfer genes from one organism to another to produce "transgenic" crops. This has been met with resistance due to concerns about safety and environmental impact. While some see the potential to create crops that can withstand extreme weather, others argue that the focus on genetically modified crops perpetuates an unsustainable agro-industrial system and that other ecological alternatives should be pursued. There is also controversy over the safety and necessity of genetically modified crops, with some arguing that they are essential for addressing food insecurity in certain regions, while others advocate for ecological, non-GM seed, food, and nutrition systems.
+
+Thu, 20 Jun 2024 09:30:26 +0000
+### [Tamil Nadu hooch tragedy: Why spurious liquor can be deadly](https://indianexpress.com/article/explained/explained-sci-tech/tamil-nadu-hooch-tragedy-spurious-liqour-9403981/)
+
+At least 34 people have died and around 100 others have been hospitalized after consuming hooch in Tamil Nadu's Kallakurichi. Hooch is poor quality alcohol that can be deadly if prepared incorrectly. It is produced using distillation of a fermented mixture and often contains toxic methanol. The crude methods of production and the risk of adulteration make hooch dangerous to consume. Methanol can cause impaired vision, high toxicity, and metabolic acidosis, and the treatment for this is expensive and often unavailable in many parts of India.
+
+Thu, 20 Jun 2024 04:02:12 +0000
+### [Everything you need to know about security in Parliament](https://indianexpress.com/article/explained/security-in-parliament-tamil-nadu-mp-abdulla-complaint-cisf-9403097/)
+
+MP M Mohamed Abdulla has complained about being questioned by CISF personnel at the Parliament complex, expressing that it has affected him deeply. The Parliament Security Service was replaced by CISF in May, leading to disquiet among MPs. The list of duties handed over to CISF includes access regulation, maintenance of order, and coordination with other security agencies. The PSS was specially trained to identify MPs and VIPs, and the change has raised concerns about the security of Parliament. Former Lok Sabha Secretary General PDT Achary and Speaker Om Birla have both emphasized the need for Parliament security to remain under the control of the Speaker.
+
+Thu, 20 Jun 2024 01:15:37 +0000
+### [As a new campus rises at an ancient site, the story of Nalanda](https://indianexpress.com/article/explained/as-a-new-campus-rises-at-an-ancient-site-the-story-of-nalanda-9403090/)
+
+The campus of Nalanda University was formally inaugurated by Prime Minister Narendra Modi. The university was proposed to be re-established by then President APJ Abdul Kalam in 2006. The university has been supported by 17 countries and the Bihar Assembly passed the University of Nalanda Bill in 2007. The university admitted its first batch of students in 2014 and Nobel Prize-winning economist Amartya Sen became the University's first Chancellor. The campus has both modern and traditional features and is designed to match the architectural and geographical setting of the ancient Nalanda University. The university currently offers two-year Master’s courses, PhD programmes, and a few diploma and certificate courses. The campus is a mix of the modern and the traditional and can accommodate as many as 7,500 students and teachers.
+
+Thu, 20 Jun 2024 01:10:11 +0000
+### [Highest minimum temperature: Why Delhi’s warm nights are cause of worry](https://indianexpress.com/article/explained/explained-climate/highest-minimum-temperature-why-delhis-warm-nights-are-cause-of-worry-9403105/)
+
+Article found but Couldn't summarize
+
 Wed, 19 Jun 2024 15:14:07 +0000
 ### [What is the controversy around EVMs in the US?](https://indianexpress.com/article/explained/explained-global/evm-controversy-us-9402566/)
 
