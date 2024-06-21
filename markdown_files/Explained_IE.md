@@ -1,3 +1,23 @@
+Thu, 20 Jun 2024 15:30:59 +0000
+### [Who or what is responsible for Hajj deaths in Saudi Arabia?](https://indianexpress.com/article/explained/explained-global/why-hajj-deaths-saudi-9405014/)
+
+The article reports a tragic situation where hundreds of pilgrims died during the Hajj pilgrimage in Saudi Arabia, primarily due to extreme heat with temperatures reaching 51.8°C (125°F). The annual event, which is a central pillar of Islam, saw around 1.8 million Muslims from across the globe gather in Mecca. Despite measures by Saudi authorities to provide cooling facilities, the heat proved fatal, especially for the elderly. The death toll, according to various sources, has surpassed 1,000, with victims from multiple countries. The situation has sparked debates on responsibility, with some blaming the organization and lack of facilities for unregistered pilgrims, who cannot access the same resources as registered ones. The article highlights the need for better education and awareness among pilgrims regarding the rituals and the dangers of the heat. It also points out the growing challenge of climate change, making the pilgrimage increasingly hazardous. The article concludes with the certainty that future Hajj events will only get hotter, posing greater risks.
+
+Thu, 20 Jun 2024 14:59:40 +0000
+### [Why the Russia-North Korea pact is a big deal](https://indianexpress.com/article/explained/explained-global/russia-north-korea-pact-9404962/)
+
+Russia and North Korea have signed a pact for immediate military assistance if either country faces armed aggression. This agreement is significant because it solidifies the alliance between the two countries and involves mutual military support and technological assistance. This pact is likely to be perceived as a direct security threat by South Korea and Japan, leading them to strengthen their defences and alliances with the United States. The United States and NATO have expressed concern about the pact and its potential to increase nuclear proliferation. This agreement could also encourage similar partnerships with other countries, posing a major threat to the West. China, a traditional ally of North Korea, is likely to be conflicted about the development.
+
+Thu, 20 Jun 2024 13:52:14 +0000
+### [Post Office Act, 2023 comes into force: Here is what it says](https://indianexpress.com/article/explained/explained-law/post-office-act-2023-9404840/)
+
+The new Post Office Act, which repeals the Indian Post Office Act of 1898, came into effect on June 18. It aims to modernize the legal framework for postal services in India, reflecting the broader range of services beyond mail delivery that the Post Office now provides. Key provisions include the Centre's power to intercept, open, or detain postal items for reasons of state security, public order, or law enforcement, and to hand over items to customs if necessary. This is in line with similar powers under the old Act. The new Act also exempts the Post Office from liability for loss, mis-delivery, delay, or damage, except as prescribed, and removes penalties for offences committed by postal officials. Additionally, it no longer grants the Centre exclusive rights to convey letters, acknowledging the rise of private courier services. The Act now regulates these services, expanding legal oversight to all postal articles. The legislation has faced criticism for retaining what some see as draconian provisions from the colonial-era law without adding new ideas to modernize postal services.
+
+Thu, 20 Jun 2024 13:14:37 +0000
+### [Nimisha Priya case: What is ‘blood money’ in Islamic law?](https://indianexpress.com/article/explained/nimisha-priya-what-blood-money-islamic-law-9404752/)
+
+The Indian government has approved the transfer of funds for preliminary discussions regarding the release of Nimisha Priya from a Yemeni prison. Priya was found guilty of murdering a Yemeni citizen in 2017 and was sentenced to death. Her family is trying to waive her death penalty by paying "blood money" to the murdered man's family. The payment being made now is to get negotiations started, and Priya's family will likely have to pay close to $300,000-$400,000 to waive the death penalty. The 'Save Nimisha Priya International Action Council' is in the process of raising the required funds.
+
 Thu, 20 Jun 2024 11:04:31 +0000
 ### [Outrage over paper leaks: what does India’s law against use of unfair means in exams say?](https://indianexpress.com/article/explained/net-paper-leaks-exam-cancelled-9404294/)
 

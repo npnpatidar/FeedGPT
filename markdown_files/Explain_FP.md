@@ -1,3 +1,19 @@
+Thu, 20 Jun 2024 21:32:24 +0530
+### [Mark Rutte will be next NATO chief: Who is outgoing Dutch PM?](https://www.firstpost.com/explainers/mark-rutte-will-be-next-nato-chief-who-is-outgoing-dutch-pm-13784466.html)
+
+Article found but Couldn't summarize 
+Mark Rutte, who has been in office since 2010, is the Netherlands’ longest-serving prime minister. Known as a consensus builder who has helmed multiple coalition governments, Rutte is a fierce advocate of Ukraine and a strong critic of Vladimir Putin
+
+Thu, 20 Jun 2024 20:31:48 +0530
+### [A class question: Why some groups are more at risk from heatwaves than others](https://www.firstpost.com/explainers/a-class-question-why-some-groups-are-more-at-risk-from-heatwaves-than-others-13784319.html)
+
+Climate change is leading to more frequent and intense heatwaves, disproportionately affecting vulnerable groups such as rural agricultural laborers and the urban poor in India. The impact of heatwaves exacerbates existing inequalities and creates new disparities, with lower-income populations facing a 40% higher exposure to heatwaves globally compared to higher-income populations. The study suggests that India is likely to be the most threatened country in the world by 2030, with over 770 million people expected to live in highly dangerous conditions for at least two weeks a year.
+
+Thu, 20 Jun 2024 18:26:14 +0530
+### [Why Africa is losing hundreds of millionaires, tonnes of gold to UAE](https://www.firstpost.com/explainers/why-africa-is-losing-hundreds-of-millionaires-tonnes-of-gold-to-uae-13784385.html)
+
+Africa is experiencing an exodus of high-net-worth individuals (HNWIs) and gold, with many heading to the United Arab Emirates (UAE). South Africa and Nigeria are expected to see a significant loss of millionaires in 2024, due to factors such as new wealth taxes and political instability. The UAE offers tax benefits, business opportunities, and a high quality of life, attracting wealthy individuals. Additionally, billions of dollars worth of gold is being smuggled out of Africa annually, with much of it ending up in the UAE. This trade undermines economic stability and is driven by factors such as tax evasion, regulatory loopholes, and funding for conflicts. Dubai's strategic location and relaxed import laws make it a prime destination for gold smuggling.
+
 Thu, 20 Jun 2024 17:57:47 +0530
 ### [What is Rahul Gandhi’s new ‘White T-shirt campaign’ all about?](https://www.firstpost.com/explainers/rahul-gandhi-white-t-shirt-campaign-13784328.html)
 

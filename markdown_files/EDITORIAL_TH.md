@@ -1,3 +1,15 @@
+Fri, 21 Jun 2024 00:20:00 +0530
+### [Killer moonshine: On the hooch tragedy in Kallakurichi](https://www.thehindu.com/opinion/editorial/killer-moonshine-on-the-hooch-tragedy-in-kallakurichi/article68312990.ece)
+
+A hooch tragedy in Kallakurichi, Tamil Nadu has claimed 39 lives. Methanol, a toxic substance, was found to be present in the hooch. Despite previous tragedies related to methanol poisoning, the government failed to address the issue. The easy availability and low cost of illicit hooch compared to state-regulated alcohol have contributed to the problem. The government has initiated investigations and announced compensation for the victims, but experts argue that post-incident measures are inadequate. They emphasize the need to crack down on illicit brewing, increase public awareness about the dangers of hooch, and implement stricter controls on methanol supply.
+
+Fri, 21 Jun 2024 00:10:00 +0530
+### [Move ahead: On GST and reform](https://www.thehindu.com/opinion/editorial/move-ahead-on-gst-and-reform/article68312343.ece)
+
+GST revenues hit a record high of ₹2.1 lakh crore in April 2024. May receipts were the fifth highest ever at ₹1.72 lakh crore, a rise of 10% from the previous year. However, gross revenues from domestic transactions grew 15.3%, while revenues from goods imports dipped. Growth has been uneven across states, with five showing a decline in May.
+
+The GST Council is expected to meet this weekend to discuss pending reforms, including rationalising GST's multiple-rate structure and bringing excluded items like electricity and petroleum products within the GST net. It is also expected to address the need for simplifying compliance procedures for both small and large businesses.
+
 Thu, 20 Jun 2024 00:20:00 +0530
 ### [A torrid crisis: On heatwaves in northern India](https://www.thehindu.com/opinion/editorial/a-torrid-crisis-on-heatwaves-in-northern-india/article68307796.ece)
 

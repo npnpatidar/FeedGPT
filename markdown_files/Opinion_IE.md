@@ -1,3 +1,8 @@
+Thu, 20 Jun 2024 15:10:08 +0000
+### [NEET-NET crisis: The reason behind India’s failing exam system](https://indianexpress.com/article/opinion/columns/neet-net-crisis-reason-india-failing-exam-system-9404952/)
+
+The NEET controversy stems from a flawed policy implemented in 2016, aimed at standardizing medical college admissions. However, the policy has led to irregularities, bias towards CBSE students, and a booming coaching industry, due to inadequate school education. The National Testing Agency (NTA), responsible for conducting NEET, has also faced criticism for its handling of the exam. Tamil Nadu, which opposes NEET due to its impact on rural and poorer students, has provided evidence of the exam's disparities. A comprehensive review of the policy is necessary, considering the need for quality schooling, decentralized examinations, and improved governance. The current crisis highlights the failure of the state in ensuring high-quality school education and underscores the need for a long-term solution to address these issues.
+
 Thu, 20 Jun 2024 12:03:02 +0000
 ### [P Thankappan Nair: The man who chronicled Kolkata — for little in return](https://indianexpress.com/article/opinion/columns/p-thankappan-nair-death-chronicled-kolkata-9404438/)
 

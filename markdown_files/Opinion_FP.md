@@ -1,3 +1,9 @@
+Thu, 20 Jun 2024 19:27:28 +0530
+### [Putin’s North Korea visit, rising anti-West sentiments, and concerns for India](https://www.firstpost.com/opinion/putins-north-korea-visit-rising-anti-west-sentiments-and-concerns-for-india-13784422.html)
+
+Article found but Couldn't summarize 
+Apart from mobilising anti-West interests, Moscow needs to source weapons from Pyongyang to sustain its ongoing war in Ukraine
+
 Thu, 20 Jun 2024 17:57:32 +0530
 ### [Time for India to raise 'space force’ as new zone of warfare emerges](https://www.firstpost.com/opinion/time-for-india-to-raise-space-force-as-new-zone-of-warfare-emerges-13784386.html)
 

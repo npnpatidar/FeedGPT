@@ -6430,3 +6430,14 @@ Started at 2024-06-20 12:15:14
 Finished at 2024-06-20 14:39:08
 Total time taken: 8634.104843378067 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-21 00:37:49
+4 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-21 01:05:07
+Total time taken: 1638.6784856319427 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
