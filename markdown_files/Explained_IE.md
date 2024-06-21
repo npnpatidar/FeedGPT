@@ -1,3 +1,71 @@
+Fri, 21 Jun 2024 12:06:05 +0000
+### [‘Scooter’ Braun quits music management: Revisiting his feud with Taylor Swift](https://indianexpress.com/article/explained/explained-culture/scooter-braun-taylor-swift-9406743/)
+
+Scott Samuel “Scooter” Braun, a successful American music executive, has decided to leave music management and focus on his family. He rose to fame for managing stars such as Justin Bieber and Ariana Grande but faced a public feud with Taylor Swift in 2019 when he acquired the master recordings of her first six albums. The situation escalated when Swift accused Braun and Big Machine Records of not allowing her to perform her old songs at the American Music Awards. Swift eventually reached a licensing agreement to perform her old music and announced her plans to re-record her first six albums. Braun later sold the masters to a private equity company and expressed regret over the situation.
+
+Fri, 21 Jun 2024 11:20:25 +0000
+### [11 candidates apply to verify EVM burnt memory: what is this process?](https://indianexpress.com/article/explained/evm-burnt-memory-9406679/)
+
+Candidates in the 2024 Lok Sabha and State Assembly elections have applied for verification of the burnt memory of EVMs and VVPATs. The Supreme Court has allowed second- and third-placed candidates to seek verification of up to 5% of machines in an Assembly constituency. The ECI is yet to finalize the technical standard operating procedure. The administrative SOP for checking and verification has been released. Candidates have to make the request in writing and pay for the verification process. The checking will commence after the 45-day period following the declaration of results. 11 candidates have applied for checking, covering 118 polling stations or sets of EVMs and VVPATs.
+
+Fri, 21 Jun 2024 09:25:27 +0000
+### [How NTA chooses exam centres for NEET](https://indianexpress.com/article/explained/nta-chooses-exam-centres-neet-ug-9406415/)
+
+A review of the exam centres where NEET-UG was conducted on May 5 found several issues, including the lack of mandated CCTVs in exam rooms and unguarded strong rooms. The National Testing Agency's process of selecting centres for the examination has been called into question. The NTA has increased the number of exam centres to ensure more coverage of rural areas, with the agency identifying test centres from a base list of centres it already has. The NTA also employs a third party to review a sample of exam centres and has set out several criteria that centres must fulfill in order to be selected. These criteria include infrastructure, no conflict of interest, and accessibility. This year, a third-party agency was appointed by the NTA for pre-exam, during exam, and post-exam audit.
+
+Fri, 21 Jun 2024 08:03:47 +0000
+### [The land of Yoga: Kashmir’s deep and ancient connection with the philosophy and practice of yoga](https://indianexpress.com/article/explained/yoga-kashmir-9406296/)
+
+Prime Minister Narendra Modi described Kashmir as the "land of yoga and meditation" during his speech in Srinagar on International Yoga Day. The historical and spiritual connection between yoga and the Kashmir valley can be traced back to the emergence of the unique Shaivite tradition of Trika Shaivism in the region around 850 CE. The philosophy and practices of yoga are integral to Trika Shaivism, with important intersections with other yoga traditions such as the Nath school of Gorakshanath and the Dashanami Sampradaya of sannyasis. The central figure of Kashmir's yogic tradition was Abhinavagupta, whose teachings went far beyond physical postures and incorporated mental and spiritual discipline. Lalitaditya Muktapida, a legendary king of Kashmir, is believed to have promoted the traditions and philosophy of tantric yoga, drawing it out from the exclusive world of sages and meditators and popularizing it among his subjects.
+
+Fri, 21 Jun 2024 04:04:10 +0000
+### [How June 21 came to be recognised as International Yoga Day](https://indianexpress.com/article/explained/everyday-explainers/june-21-international-yoga-day-un-modi-9405887/)
+
+Prime Minister Narendra Modi is leading the tenth annual International Yoga Day celebrations in Srinagar on June 21. The day is observed internationally as a way to promote the practice of yoga, and the United Nations recognized the day after a push by Modi in 2014. The celebrations include a theme for each year, with this year's theme being "Yoga for Self and Society". Yoga is an ancient practice with religious roots, but today it is a popular philosophy of physical and mental well-being that is practiced by millions around the world.
+
+Fri, 21 Jun 2024 03:12:00 +0000
+### [Bihar quota struck down: what is the 50% ceiling that court relied upon?](https://indianexpress.com/article/explained/explained-law/bihar-quota-struck-down-what-is-the-50-ceiling-that-court-relied-upon-9405433/)
+
+The Patna High Court overturned the Bihar government's decision to increase reservation in government jobs and educational institutions from 50% to 65%. The court cited the principle that reservations should not exceed 50% to balance efficiency and equity.
+
+The 50% ceiling was established by the Supreme Court in the 1992 Indra Sawhney ruling to ensure administrative efficiency. However, it has been challenged repeatedly, including by Bihar's recent move. The Supreme Court is currently considering whether to reconsider the Indra Sawhney decision.
+
+Critics argue that the 50% ceiling is arbitrary, while others maintain that exceeding it undermines the principle of equality. The court's approach to reservations as an aspect of substantive equality rather than formal equality may influence its future decisions on the matter.
+
+Fri, 21 Jun 2024 03:01:56 +0000
+### [What is UGC-NET, exam to qualify for a univ teacher’s job?](https://indianexpress.com/article/explained/what-is-ugc-net-exam-to-qualify-for-a-univ-teachers-job-9405432/)
+
+The University Grants Commission-National Eligibility Test (UGC-NET), held on June 18, 2023, was cancelled due to alleged compromise in the exam's integrity. Over 9 lakh candidates were affected by the cancellation.
+
+The UGC-NET is a test conducted twice a year to determine eligibility for assistant professor posts, Junior Research Fellowships (JRF), and PhD admissions. The exam comprises two papers with multiple choice questions, each with 100 or 200 marks. Candidates can choose their subject specialization from 83 options.
+
+Eligibility criteria for assistant professor posts and PhD admissions require at least 55% marks in Master's degree for General category and 50% for reserved categories. There is no age limit for these roles. However, for JRF, the age limit is 30 years.
+
+Nearly 9,08,580 candidates took the exam this year, a significant increase from previous sessions. A small portion of candidates typically qualify for the post of assistant professor or JRF based on their performance and cut-off marks set by the National Testing Agency (NTA).
+
+Fri, 21 Jun 2024 02:45:46 +0000
+### [Why bail for Arvind Kejriwal is of significant legal importance](https://indianexpress.com/article/explained/why-bail-for-arvind-kejriwal-is-of-significant-legal-importance-9405290/)
+
+Arvind Kejriwal's bail under the Prevention of Money Laundering Act (PMLA) has significant legal implications due to the act's high bar for bail. The PMLA requires the court to believe that the accused is likely not guilty and will not commit future offenses. Despite spending over a year in jail, Kejriwal's deputies have been unable to secure bail, highlighting the difficulty of obtaining bail under the PMLA. Critics view the bail provision as draconian, leading to lengthy pretrial incarcerations. Following Kejriwal's bail, the Enforcement Directorate (ED) has decided to challenge the order, arguing that the accused could tamper with evidence and that the bail was granted by a vacation court. The ED may appeal to the Supreme Court if its plea is rejected.
+
+Fri, 21 Jun 2024 02:38:50 +0000
+### [What is the Resolve Tibet Act?](https://indianexpress.com/article/explained/explained-global/resolve-tibet-act-9405328/)
+
+The Resolve Tibet Act is a bipartisan legislation that awaits assent from President Biden before becoming law. It authorizes funds to counter Chinese disinformation about Tibet and emphasizes the right of Tibetans to self-determination and human rights. The act also urges China to engage in direct dialogue with the Dalai Lama or his representatives without preconditions.
+
+Compared to previous US legislation on Tibet, the Resolve Tibet Act is more assertive in challenging China's claims and advocating for Tibetan autonomy. It also recognizes the distinct socio-cultural identity of Tibetans and amends the Tibetan Autonomous Region's geographical boundaries.
+
+Fri, 21 Jun 2024 01:10:52 +0000
+### [How India plans to engage with China in Modi 3.0](https://indianexpress.com/article/explained/how-india-plans-to-engage-with-china-in-modi-3-0-9405430/)
+
+Despite the Galwan clashes four years ago, the India-China border standoff remains unresolved. Prime Minister Modi and Chinese President Xi Jinping may meet at the SCO summit in Astana, offering a potential breakthrough.
+
+Modi has expressed India's desire to address the situation, and China has responded positively. Foreign Minister Jaishankar has indicated that the focus is now on resolving patrolling disputes.
+
+However, recent developments have raised concerns. India's interaction with Taiwan and a US delegation's meeting with the Dalai Lama have angered China. Meanwhile, bilateral ties remain strained due to the border issue, with economic ties continuing but political movement hindered.
+
+The Australian model of managing differences with China, including high-level engagement, offers insights for India. However, a positive outcome at the Astana summit depends on factors such as Xi's political will.
+
 Thu, 20 Jun 2024 15:30:59 +0000
 ### [Who or what is responsible for Hajj deaths in Saudi Arabia?](https://indianexpress.com/article/explained/explained-global/why-hajj-deaths-saudi-9405014/)
 

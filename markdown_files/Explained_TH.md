@@ -1,3 +1,14 @@
+Fri, 21 Jun 2024 14:41:10 +0530
+### [Why the European Commission imposed provisional anti-dumping duties on Indian optical fiber cable makers: Explained](https://www.thehindu.com/business/Industry/why-the-european-commission-imposed-provisional-anti-dumping-duties-on-indian-optical-fiber-cable-makers-explained/article68315717.ece)
+
+The European Commission has imposed provisional anti-dumping duties on Indian optical fiber cable manufacturers, alleging that imports from India are causing injury to the European industry. The duties range from 8.7% to 11.4%, depending on the manufacturer. The investigation found significant dumping margins and adverse effects on European producers. HFCL is the only Indian manufacturer exempted from the duties. The Commission had previously imposed anti-dumping duties on Chinese manufacturers in 2021, which were subsequently increased due to price undercutting. India's optical fiber cable exports declined in 2023-24, and the domestic industry has also initiated an anti-dumping investigation against imports from China, Indonesia, and South Korea.
+
+Fri, 21 Jun 2024 13:51:48 +0530
+### [What’s behind the Russia-North Korea security pact? | Explained](https://www.thehindu.com/news/international/russia-north-korea-putin-kim-jong-un-security-deal-explained/article68315509.ece)
+
+Article found but Couldn't summarize 
+Russian President Vladimir Putin was on a two-day visit to North Korea – his first in 24 years.
+
 Wed, 19 Jun 2024 08:30:00 +0530
 ### [How can Himachal Pradesh fight against forest fires? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-himachal-pradesh-fight-against-forest-fires-explained/article68305390.ece)
 

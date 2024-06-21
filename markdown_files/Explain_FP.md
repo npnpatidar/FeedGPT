@@ -1,3 +1,134 @@
+Fri, 21 Jun 2024 17:56:50 +0530
+### [What are the questions you should ask about new virus in the news?](https://www.firstpost.com/health/questions-to-ask-about-new-virus-in-the-news-13784771.html)
+
+When assessing novel virus threats, it's important to consider:
+
+1. **Extent of Transmission:** Has the virus adapted to spread among humans or remain limited to isolated cases?
+
+2. **Surveillance:** What is known about the virus through testing and genome sequencing?
+
+3. **Characteristics:** Understand the virus's host preference, transmission routes, and severity of infection.
+
+4. **Potential for Adaptation:** Can the virus mutate to overcome immune defenses or spread more efficiently?
+
+5. **Sustained Outbreaks and Contact with Humans:** Ongoing outbreaks and close contact with infected animals increase the risk of adaptation.
+
+6. **Worst-Case Scenario:** Evaluate the potential impact of the virus if it becomes more transmissible and harmful to humans.
+
+While assessing these factors, it's important to note that viruses are unpredictable and constant surveillance and expert analysis are crucial for early detection and mitigation of potential threats.
+
+Fri, 21 Jun 2024 17:54:18 +0530
+### [From US to India, how excessive heat is plaguing the world](https://www.firstpost.com/explainers/from-us-to-india-how-excessive-heat-is-plaguing-the-world-13784796.html)
+
+Extreme heatwaves are affecting the globe, from the United States to India and Europe.
+
+In the US, millions are suffering in a heatwave affecting the upper Midwest and northeast. Parts of India continue to face extreme heat, with over 40,000 suspected heatstroke cases and over 100 deaths reported this summer.
+
+Europe is experiencing record-breaking temperatures, with multiple countries issuing heat warnings. Tourists have gone missing in high-temperature areas in Greece, and temperatures in Serbia, Romania, and Montenegro have climbed to uncomfortable highs.
+
+In Saudi Arabia, over 1,000 people have died during the Hajj pilgrimage due to scorching temperatures.
+
+Experts attribute the increased frequency and intensity of heatwaves to climate change, which is causing global temperatures to rise and making extreme weather events more common.
+
+Fri, 21 Jun 2024 16:43:48 +0530
+### [Why are Kuno's cheetah trackers on strike?](https://www.firstpost.com/explainers/kuno-cheetah-trackers-strike-13784707.html)
+
+Article found but Couldn't summarize 
+About 30 villagers, who were employed to track and monitor cheetahs 24x7 at Madhya Pradesh’s Kuno National Park, have gone on strike. They refuse to kill domestic animals like goats to feed the cats and say they are paid very little for their exhausting work
+
+Fri, 21 Jun 2024 16:26:34 +0530
+### [Explained: How heat affects your smartphone and how to keep it safe](https://www.firstpost.com/explainers/how-heat-affects-your-smartphone-and-how-to-keep-it-safe-13784430.html)
+
+During the current heatwave, smartphones are at risk of overheating and damage. Exposure to high temperatures can slow down or hang up devices, and frequent heat exposure reduces lifespan and battery life.
+
+Overheating can occur due to heavy gaming, high charging speeds, and trapped heat from phone covers.
+
+Avoid using phones in sunlight and lower screen brightness. Remove phone covers or use breathable cases. Charge phones in cool environments and avoid using them while charging.
+
+The best way to cool down a phone is to let it do so naturally. Do not put it in the refrigerator, as temperature fluctuations can harm it.
+
+Fri, 21 Jun 2024 15:13:15 +0530
+### [Who is Margot Friedlander, 102-yr-old Holocaust survivor featured on Vogue Germany’s cover?](https://www.firstpost.com/explainers/who-is-margot-friedlander-102-yr-old-holocaust-survivor-featured-on-vogue-germany-cover-13784607.html)
+
+Margot Friedlander, a Holocaust survivor born in 1921, began writing about her experiences in 1997, speaking out for remembrance, peace, and togetherness. Her journey of survival and resilience includes going into hiding after her family's arrest, enduring the Theresienstadt concentration camp, and losing her mother and brother in Auschwitz. She later moved to New York, but returned to Germany in 2010, becoming a prominent voice against anti-Semitism and the far-right. Friedlander's autobiography, "Try to Make Your Life," shares her story and emphasizes the importance of humanity and dialogue.
+
+Fri, 21 Jun 2024 14:29:49 +0530
+### [How Indian farm worker's death in Italy exposes ruthless exploitation of migrants](https://www.firstpost.com/explainers/how-indian-farm-workers-death-in-italy-exposes-ruthless-exploitation-of-migrants-13784705.html)
+
+Article found but Couldn't summarize 
+Satnam Singh died two days after his arm was severed by heavy machinery. He was reportedly left for dead by his boss on the side of the road near his home in Italy’s Latina. Experts say thousands of Indian migrants work on farms in that region alone and that 400,000 agricultural workers in Italy are at risk of exploitation – most of them Indians
+
+Fri, 21 Jun 2024 14:06:58 +0530
+### [In Graphics: Gurus who spread yoga to the world](https://www.firstpost.com/explainers/in-graphics-gurus-who-spread-yoga-to-the-world-13784685.html)
+
+Article found but Couldn't summarize 
+The international community is celebrating the 10th Yoga Day on 21 June, with enthusiasts displaying their skills and performing various asanas. As the world marks the event, let’s remember the gurus who helped popularise modern yoga beyond India
+
+Fri, 21 Jun 2024 14:00:04 +0530
+### [Thousands die during Hajj this year: Who is to blame?](https://www.firstpost.com/explainers/hajj-deaths-this-year-who-is-to-blame-13784684.html)
+
+Article found but Couldn't summarize 
+More than 1,000 pilgrims have died during the Hajj this week. About half of the pilgrims who started the journey last Friday, are unregistered. Overcrowding and extreme heat are the major reasons behind the swelling number of fatalities
+
+Fri, 21 Jun 2024 13:32:43 +0530
+### [Explained: How every dispute in the South China Sea fits into Beijing's hegemonic ambitions](https://www.firstpost.com/explainers/explained-how-every-dispute-in-the-south-china-sea-fits-into-beijings-hegemonic-ambitions-13784637.html)
+
+China's territorial disputes in the South China Sea, encapsulated in the nine-dash line, underscore its hegemonic ambitions in the region.
+
+China's claims overlap with the exclusive economic zones of several Southeast Asian countries, including:
+
+* **Philippines:** Disputes over the Scarborough Shoal and Spratly Islands have led to confrontations, including the recent interception of a Philippine airdrop.
+* **Vietnam:** China and Vietnam contest the Paracel and Spratly Islands, which are believed to hold natural resources and strategic importance for maritime control.
+* **Malaysia:** China's claims extend to the Luconia Shoals, an area rich in oil and gas.
+* **Brunei:** China's claims in Brunei's EEZ aim to secure energy resources and influence over its maritime activities.
+* **Indonesia:** China's claims overlap with Indonesia's EEZ around the hydrocarbon-rich Natuna Islands.
+
+Southeast Asian countries, supported by external powers like the US and Japan, have been increasingly challenging China's actions through diplomatic, legal, and military means.
+
+Fri, 21 Jun 2024 13:28:05 +0530
+### [Why Trump's proposal on automatic green cards for foreign graduates comes as a surprise](https://www.firstpost.com/explainers/why-donald-trump-proposal-on-green-cards-for-foreign-graduates-is-a-surprise-us-elections-immigration-policy-13784638.html)
+
+Former US President and Republican candidate Donald Trump proposed offering green cards to foreign students graduating from US colleges, despite his previous hardline stance on immigration. This shift is attributed to his desire to retain skilled graduates and attract talent. The Trump campaign clarified that only the most highly skilled graduates would be eligible after a rigorous vetting process. The proposal has garnered mixed reactions, with some seeing it as progressive, while others remain skeptical due to Trump's past restrictive policies. The potential impact on green card issuance and immigration policy remains uncertain.
+
+Fri, 21 Jun 2024 13:04:56 +0530
+### [What is the gambling scandal that Rishi Sunak’s party is embroiled in ahead of the UK polls?](https://www.firstpost.com/explainers/what-is-gambling-scandal-rishi-sunak-conservative-tories-party-ahead-of-uk-general-election-july-4-polls-13784608.html)
+
+British Prime Minister Rishi Sunak expressed outrage after three Conservative Party members were investigated for allegedly betting on the UK general election date. Laura Saunders, a Conservative candidate, and her husband, a party campaign director, are under investigation by the Gambling Commission. Additionally, Sunak's parliamentary private secretary admitted to betting on the election date, while a police bodyguard was arrested for suspected misconduct. The scandal has damaged the Conservative Party's campaign, which is already trailing in polls behind Labour. Investigations by the Gambling Commission and other authorities are ongoing, and legal and ethical implications are being considered.
+
+Fri, 21 Jun 2024 12:16:36 +0530
+### [Testing Times: What is the NTA at the centre of NEET, NET paper leaks row? What has its past record been?](https://www.firstpost.com/explainers/national-testing-agency-neet-ug-ugc-neet-paper-leak-controversies-13784613.html)
+
+The National Testing Agency (NTA), responsible for conducting entrance exams in India, has come under scrutiny after the leak of NEET-UG and UGC-NET exam papers. The NTA has been accused of discrepancies in the NEET-UG exam, including a paper leak and alleged grace marks given to students. The UGC-NET exam was cancelled due to a paper leak on the darknet.
+
+The NTA has faced previous controversies involving irregularities in JEE Main and NEET-UG exams. Allegations include errors in percentile calculation, uneven distribution of candidates, cheating, impersonation, and poor exam management. In 2021, the JEE Main exam was compromised by a hacking incident, benefiting over 800 candidates.
+
+A high-level committee has been formed to investigate the NTA's functioning and the alleged exam leaks. The NTA's reputation has been tarnished by these controversies, and it faces a challenging task in restoring its credibility.
+
+Fri, 21 Jun 2024 11:20:03 +0530
+### [Who are the men behind the NEET-UG paper leak?](https://www.firstpost.com/explainers/men-behind-neet-ug-paper-leak-13784564.html)
+
+Four individuals, Anurag Yadav, Sikandar Yadavendu, Nitish Kumar, and Amit Anand, have admitted to leaking the NEET-UG question paper. They obtained the questions a day before the exam and memorized them. Yadavendu's alleged involvement with RJD leader Tejashwi Yadav is being investigated. Other arrested individuals include an aide of Anand, a driver, and several candidates suspected of purchasing the leaked material. Despite allegations of rigging, Education Minister Dharmendra Pradhan denies any evidence. The National Testing Agency has revoked grace marks given to certain candidates due to time loss at some exam centers.
+
+Fri, 21 Jun 2024 10:49:57 +0530
+### [No relief for Arvind Kejriwal yet: Why the bail matters for Delhi CM and his AAP](https://www.firstpost.com/explainers/delhi-cm-arvind-kejriwal-bail-mean-for-aap-ed-excise-policy-case-13784555.html)
+
+The Delhi High Court has paused Arvind Kejriwal's release order in a money-laundering probe related to the city's excise policy case, following a challenge by the Enforcement Directorate. Kejriwal, who was in judicial custody since April, secured bail from a trial court but now awaits further proceedings. The AAP views this as a victory, emphasizing the case's political undertones. Kejriwal's release could impact the upcoming Delhi Assembly elections, where the AAP seeks to regain ground after a poor Lok Sabha performance. However, the BJP may exploit his 'out on bail' status, adding to the political dynamics.
+
+Fri, 21 Jun 2024 07:32:56 +0530
+### [International Yoga Day: Why PM Modi picked J&K this year](https://www.firstpost.com/explainers/international-yoga-day-2024-pm-narendra-modi-jammu-and-kashmir-srinagar-event-13784356.html)
+
+Today, Prime Minister Narendra Modi marked the 10th International Day of Yoga in Srinagar, Jammu and Kashmir. This was the first time he celebrated the event in Indian territory since its inception in 2015.
+
+Modi's choice of venues for International Yoga Day celebrations has been significant. In 2015, he led the inaugural event in New York, introducing yoga to a global audience. Last year, he held the event at the Mysore Palace grounds in Karnataka.
+
+The venue of Srinagar for the 10th International Day of Yoga carries political significance. Modi's visit comes shortly after the Lok Sabha elections in Jammu and Kashmir and ahead of the upcoming Assembly elections. It is seen as a demonstration of the government's commitment to peace and prosperity in the region.
+
+Fri, 21 Jun 2024 06:30:28 +0530
+### [FirstUp: PM Modi to lead International Yoga Day celebrations, Sheikh Hasina in India... today's big headlines](https://www.firstpost.com/explainers/firstup-pm-modi-to-lead-international-yoga-day-celebrations-sheikh-hasina-in-india-todays-big-headlines-13784364.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi will lead International Yoga Day celebrations in Srinagar. Bangladesh's Sheikh is on a two-day state visit to India. Congress will hold nationwide protests over controversies surrounding the NEET-UG exams
+
 Thu, 20 Jun 2024 21:32:24 +0530
 ### [Mark Rutte will be next NATO chief: Who is outgoing Dutch PM?](https://www.firstpost.com/explainers/mark-rutte-will-be-next-nato-chief-who-is-outgoing-dutch-pm-13784466.html)
 

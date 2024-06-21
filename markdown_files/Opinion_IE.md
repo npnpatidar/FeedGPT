@@ -1,3 +1,58 @@
+Fri, 21 Jun 2024 12:37:21 +0000
+### [Yoga: Priceless wealth bestowed on humanity by ancient sages of Bharat](https://indianexpress.com/article/opinion/columns/yoga-priceless-wealth-bharat-ancient-sages-9406569/)
+
+Yoga is a practice that integrates body, breath, mind, and awareness. It can improve physical and mental abilities, promote overall health, and reduce depression. Unlike exercise, which focuses on physical movement, yoga combines slow movements with breath control, calming the mind and channeling energy. Yoga can be practiced by both children and the elderly, but it's recommended to learn from an experienced teacher. To become a true yogi, one must not only master postures but also embody compassion and unity, recognizing the divine in all beings.
+
+Fri, 21 Jun 2024 09:33:42 +0000
+### [Who dies in a heat wave? High temperatures don’t affect everyone equally](https://indianexpress.com/article/opinion/columns/who-dies-in-a-heat-wave-high-temperatures-dont-affect-everyone-equally-9406406/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 07:35:59 +0000
+### [Sri Sri Ravi Shankar writes: A lesson from an untold story about the first yoga guru](https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-yoga-lesson-9406216/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:49:42 +0000
+### [New Parliament should get rid of bad laws](https://indianexpress.com/article/opinion/columns/new-parliament-should-get-rid-of-bad-laws-9405287/)
+
+The newly formed Parliament should reconsider and repeal certain laws to ensure justice and equality for all Indian citizens. These laws include:
+
+* **Citizenship Amendment Act:** Concerns about disenfranchising Indian citizens and the potential for a nationwide NRC warrant reconsideration.
+* **Criminal Law Bills:** Provisions on marital rape and sedition need scrutiny to prevent authoritarianism and safeguard fundamental freedoms.
+* **Marital Rape Exception:** The archaic exception should be abolished to uphold the principle of bodily integrity and equality.
+* **Sedition Law:** The vague definition of "endangering India's integrity" threatens dissent and protest.
+* **Election Commission Act:** Government control over the appointment of Election Commissioners undermines the Supreme Court's directive and compromises electoral independence.
+* **Mining Act:** Environmental concerns arise from the expansion of sub-surface operations and the removal of forest clearance requirements.
+* **Transgender Persons Act:** Insufficient punishment for sexual abuse and a lack of rape protection for transgender women are discriminatory.
+* **Aircraft Act:** The outdated definition of "aircraft" should be revised to reflect technological advancements.
+
+Fri, 21 Jun 2024 02:45:34 +0000
+### [Sleep advisors for India’s Olympic contingent show: You snooze, you win](https://indianexpress.com/article/opinion/editorials/sleep-advisors-for-indias-olympic-contingent-show-you-snooze-you-win-9405285/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:30:44 +0000
+### [Proposal for warning labels on social media is timely, but only the first step](https://indianexpress.com/article/opinion/editorials/proposal-for-warning-labels-on-social-media-is-timely-but-only-the-first-step-9405327/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:30:38 +0000
+### [June 21, 1984, Forty Years Ago: IT department initiates action against Andhra Pradesh CM N T Rama Rao](https://indianexpress.com/article/opinion/40-years-ago/june-21-1984-forty-years-ago-it-department-initiates-action-against-andhra-pradesh-cm-n-t-rama-rao-9405286/)
+
+Security operations in Punjab have resulted in the seizure of weapons, including rifles, pistols, and bullets. A box of precious stones was also recovered from the Golden Temple complex. 92 security personnel were killed, while 4,220 suspects were arrested. Prime Minister Indira Gandhi defended the actions, citing threats to national security and unity.
+
+The Aid-India Consortium pledged $4,000 million for India's next fiscal year, a slight increase from the previous year despite inflation.
+
+Income tax authorities have initiated action against Andhra Pradesh Chief Minister N. T. Rama Rao for undisclosed income.
+
+Concerns have been raised by BJP and RSS affiliates over the cancellation of UGC-NET and the investigation into the NEET-UG question paper leak.
+
+Fri, 21 Jun 2024 02:30:22 +0000
+### [NEET-NET controversy: Examine the exam](https://indianexpress.com/article/opinion/editorials/neet-net-controversy-examine-the-exam-9405277/)
+
+The National Teaching Agency (NTA) has faced controversy over two recent examinations. The National Eligibility Cum Entrance Test (NEET) for medical colleges has been subject to allegations of irregularities, leading to protests and Supreme Court petitions. The University Grants Commission-National Eligibility Test (UGC-NET) has been cancelled due to concerns over compromised integrity. The Education Ministry will form a committee to improve NTA's structure and processes. The issue of exam irregularities and leaks is a pressing concern, highlighting the inadequacy of the educational and employment systems. Investigations into these recent controversies and efforts to prevent future incidents are crucial.
+
 Thu, 20 Jun 2024 15:10:08 +0000
 ### [NEET-NET crisis: The reason behind India’s failing exam system](https://indianexpress.com/article/opinion/columns/neet-net-crisis-reason-india-failing-exam-system-9404952/)
 

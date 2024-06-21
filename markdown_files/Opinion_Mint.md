@@ -1,3 +1,58 @@
+Fri, 21 Jun 2024 18:33:46 +0530
+### [Is Nvidia’s near-monopoly status dangerous for the AI industry?](https://www.livemint.com/opinion/nvidia-near-monopoly-artificial-intelligence-ai-chips-industry-intel-amd-11718970951612.html)
+
+Nvidia, a dominant force in AI, has become the world's most valuable company by providing the essential computer chips that power AI operations. Its rise has been fueled by the AI gold rush, as companies rush to develop AI models. Nvidia's revenue has doubled since 2022, and it projects further growth.
+
+Nvidia's success is driven by its monopoly on high-end AI-related systems and research and development. Its graphics processing units (GPUs) handle the intensive number-crunching required for AI algorithms and crypto-mining. Nvidia also has numerous partnerships with institutions working in AI, including several in India.
+
+While Nvidia's dominance provides indispensable support for AI development, it raises concerns about supply bottlenecks and potential competition from other chip designers. However, until viable alternatives emerge, Nvidia remains a crucial link in the AI supply chain.
+
+Fri, 21 Jun 2024 15:00:02 +0530
+### [Keynes: In the long run, we’re all impressed by his relevance](https://www.livemint.com/opinion/online-views/keynes-in-the-long-run-we-re-all-impressed-by-his-relevance-11718952575413.html)
+
+**Key Economic Thinkers and the Great Depression**
+
+John Maynard Keynes, an economist, revolutionized economic thought with his "General Theory of Employment" (1936). He argued that capitalism lacked an automatic safety mechanism, and during a depression, the economy could remain stagnant indefinitely. Businesses may not invest due to low returns, and individuals may reduce savings, exacerbating the economic downturn.
+
+To address this, Keynes proposed government spending to stimulate the economy and fill the gap left by private investment. His ideas were implemented during Franklin D. Roosevelt's New Deal, leading to economic recovery in the US from the Great Depression.
+
+Keynesian economics dominated economics for decades, but its influence waned in the 1980s due to factors such as inflation, monetarism, and a shift in focus towards individual markets. However, the pandemic in 2019-2021 revived interest in Keynesian fiscal stimulus to combat economic slumps.
+
+Despite his contributions, Keynes did not address issues of wealth inequality or expanding opportunities for the underprivileged. Current economic discussions focus on economists like Thomas Piketty, who advocate for wealth redistribution to address rising inequality.
+
+Fri, 21 Jun 2024 13:10:21 +0530
+### [India can achieve tech goals without raising bogey of data, AI colonisation](https://www.livemint.com/opinion/online-views/india-tech-goals-openai-data-llm-ai-colonisation-isro-space-mission-tech-mahindra-11718943046111.html)
+
+Ola founder, Bhavish Aggarwal, has raised concerns about data and AI "colonisation" by big tech companies such as OpenAI, which use data from India to pre-train their large language models (LLMs). He argues that India generates 20% of the world's data but only a fraction is stored in the country.
+
+Aggarwal's concerns have been shared by others, including industry leaders and government officials. There is a debate on whether India should adopt a more self-reliant approach to data and AI development, or collaborate with global tech companies.
+
+Some argue that painting big tech companies as antagonists may be counterproductive, as they contribute to employment and research in India. Additionally, India's data localisation stance has grey areas and there is a shortage of high-quality datasets and infrastructure in the country.
+
+Despite challenges, India is making strides in AI and semiconductor development, with government initiatives and private sector investments. However, there is a need for a balanced approach that considers both self-reliance and global cooperation to advance India's AI goals.
+
+Fri, 21 Jun 2024 13:00:18 +0530
+### [Put policy into practice: LGBT+ diversity isn’t a seasonal slogan](https://www.livemint.com/opinion/online-views/put-policy-into-practice-lgbt-diversity-isn-t-a-seasonal-slogan-11718952440051.html)
+
+In the past, the workplace excluded women and the LGBT+ community. However, research now shows that inclusive workplaces foster innovation, boost employee morale, and enhance business performance. To foster equality, organizations can:
+
+* **Increase awareness:** Embed values of inclusion throughout the organization, including in hiring, leadership, and employee training.
+* **Take action:** Engage with employee-led networks to identify and address concerns, regularly review policies, and provide benefits for partners.
+* **Advocate for change:** Support community initiatives, offer training to eliminate biases, and sponsor the advancement of LGBT+ employees.
+* **Utilize partnerships:** Collaborate with external organizations to create a diverse, equitable, and inclusive workplace that promotes personal and societal well-being.
+
+Fri, 21 Jun 2024 08:30:10 +0530
+### [Euro Cup 2024: Corporate boardrooms should tune into football](https://www.livemint.com/opinion/online-views/euro-cup-2024-corporate-boardrooms-should-tune-into-football-11718905329305.html)
+
+Article found but Couldn't summarize 
+The Euro 2024 football competition holds lessons for companies on team creation and goal orientation. Hint: Look at the age profile of key players and diversity of Europe’s top teams.
+
+Fri, 21 Jun 2024 07:00:06 +0530
+### [Mint Quick Edit | Beware, RBI is sniffing around for excessive risks](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-beware-rbi-is-sniffing-around-for-excessive-risks-11718905160639.html)
+
+Article found but Couldn't summarize 
+Reserve Bank of India (RBI) Governor Shaktikanta Das has raised a cautionary flag over banks engaging in a “mindless pursuit of bottom lines.” Banks have been in fine fettle but regulators need to stay especially alert in times of exuberance if past follies are not to be repeated.
+
 Thu, 20 Jun 2024 16:00:15 +0530
 ### [LGBTQIA+ inclusion: Is it mere lip service in India Inc?](https://www.livemint.com/opinion/online-views/lgbtqia-inclusion-is-it-mere-lip-service-in-india-inc-11718822058133.html)
 

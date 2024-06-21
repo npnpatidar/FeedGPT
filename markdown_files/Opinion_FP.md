@@ -1,3 +1,29 @@
+Fri, 21 Jun 2024 18:16:19 +0530
+### [Nancy Pelosi meets Dalai Lama as America shows eagerness to engage India on Tibet](https://www.firstpost.com/opinion/nancy-pelosi-meets-dalai-lama-as-america-shows-eagerness-to-engage-india-on-tibet-13784816.html)
+
+The passing of the 'Resolve Tibet Act' by the US Congress asserts that Tibet was not historically part of China. It raises concerns about China's suppression of Tibetan culture and calls for US efforts to combat disinformation on Tibet.
+
+The visit of a US delegation to India, including Dharamsala, highlights the involvement of both the US and India in the Tibet issue. China has responded with a visit by President Xi Jinping to a Tibetan monastery, emphasizing its control over Tibetan Buddhism.
+
+The EU has also raised concerns about human rights violations in Tibet, including interference in the Dalai Lama's succession. The investigation of Wu Jingjie, the former Communist Party Secretary of Tibet, remains a mystery.
+
+The Act is significant for India as it legitimizes Tibet's former independence. However, negotiations between China and Tibet are unlikely due to China's reluctance to grant autonomy or the Dalai Lama's authority in the succession process.
+
+Fri, 21 Jun 2024 17:48:25 +0530
+### [Mecca’s heat claims pilgrims’ lives as Hajj coincides with scorching summers of Arabia](https://www.firstpost.com/opinion/meccas-heat-claims-pilgrims-lives-as-hajj-coincides-with-scorching-summers-of-arabia-13784758.html)
+
+Over 900 pilgrims, including 68 Indians, tragically lost their lives during this year's Hajj pilgrimage in Saudi Arabia due to extreme heat conditions. The pilgrimage, which takes place during the final month of the Islamic calendar (Dhu-al-Hijja), falls at different times throughout the year due to the Islamic calendar's lunar nature. This year, the pilgrimage coincided with the extreme summer heat, leading to a surge in casualties. The Islamic calendar's departure from seasonal cycles makes it difficult to schedule events during favorable weather conditions. Despite the risks, the Hajj remains an important obligation for Muslims, and many countries have annual quotas for pilgrims.
+
+Fri, 21 Jun 2024 14:19:16 +0530
+### [India emerges as Voice of Global South in China-fearing World](https://www.firstpost.com/opinion/india-emerges-as-voice-of-global-south-in-china-fearing-world-13784539.html)
+
+At the G7 summit, India gained prominence with PM Modi's diplomacy, signaling a pivotal moment in its global engagement. Modi emphasized the concerns of the Global South and advocated for a more equitable international system, calling for an end to monopolies in technology. He met with Ukrainian President Zelensky but maintained a nuanced stance on the conflict, aligning with the Global South's cautious approach. India's presence and Modi's diplomacy at the summit demonstrate its growing role as a leader for developing nations in a world concerned about China's influence.
+
+Fri, 21 Jun 2024 11:33:27 +0530
+### [Putin’s visit to North Korea and Kim’s dream to dominate space](https://www.firstpost.com/opinion/putins-visit-to-north-korea-and-kims-dream-to-dominate-space-13784582.html)
+
+Russia's visit to North Korea aims to strengthen cooperation against US sanctions. North Korea relies on Russia for space assistance, such as its successful spy satellite launch in November 2023. In exchange, Russia potentially seeks military equipment from North Korea. North Korea's interest in space surveillance stems from its nuclear deterrent structure and intelligence gathering needs. Despite limitations in its ISR capabilities, it plans to expand its space program with Russian support. However, US monitoring systems, such as Cobra Ball, pose challenges for North Korea's efforts to advance its technology development.
+
 Thu, 20 Jun 2024 19:27:28 +0530
 ### [Putin’s North Korea visit, rising anti-West sentiments, and concerns for India](https://www.firstpost.com/opinion/putins-north-korea-visit-rising-anti-west-sentiments-and-concerns-for-india-13784422.html)
 
