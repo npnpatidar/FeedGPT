@@ -1,3 +1,19 @@
+Sat, 22 Jun 2024 00:20:00 +0530
+### [Testing times: On the need to mend the National Testing Agency](https://www.thehindu.com/opinion/editorial/testing-times-on-the-need-to-mend-the-national-testing-agency/article68316647.ece)
+
+The National Testing Agency (NTA) has faced criticism due to irregularities in recent examinations, including the UGC-NET.
+
+Despite initial claims of successful conduct, the NTA canceled the UGC-NET exam following cybercrime inputs. Unlike with the ongoing NEET fiasco, the Education Ministry acted swiftly, ordering a CBI probe.
+
+However, candidates remain concerned about the sudden switch to offline exams, which are susceptible to paper leaks. Calls have been made for accountability and a rehaul of NTA systems to prevent future incidents.
+
+Opposition leaders have demanded that the NTA be dissolved and examination responsibilities be decentralized. However, some all-India exams will continue to exist, requiring States and the Centre to collaborate in restoring the integrity of the examination system.
+
+Sat, 22 Jun 2024 00:10:00 +0530
+### [New Cold War: on the Russia-North Korea security pact, its likely fallout](https://www.thehindu.com/opinion/editorial/new-cold-war-on-the-russia-north-korea-security-pact-its-likely-fallout/article68316673.ece)
+
+Russia and North Korea have formed a security pact, echoing the Cold War era alliances. Both countries are facing sanctions, and the pact signals their intent to challenge the Western-led global order. Russia has supported efforts to curb North Korea's nuclear program and voted for sanctions against it, but the Ukraine war has shifted Moscow's position. Russia is reportedly buying weapons from North Korea and providing it with food and fuel. The pact elevates their relationship to an alliance, likely leading to reduced incentive for denuclearization in North Korea and strained relations between Russia and South Korea. It also strengthens the emerging partnership between Japan, South Korea, and the U.S.
+
 Fri, 21 Jun 2024 00:20:00 +0530
 ### [Killer moonshine: On the hooch tragedy in Kallakurichi](https://www.thehindu.com/opinion/editorial/killer-moonshine-on-the-hooch-tragedy-in-kallakurichi/article68312990.ece)
 

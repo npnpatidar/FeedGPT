@@ -1,3 +1,9 @@
+Fri, 21 Jun 2024 20:54:23 +0530
+### [Is EU’s Chat Control law undermining online privacy? | Explained](https://www.thehindu.com/sci-tech/technology/is-eus-chat-control-law-undermining-online-privacy-explained/article68317447.ece)
+
+Article found but Couldn't summarize 
+EU’s proposal to thwart child sexual abuse online could potentially create a backdoor for authoritarian governments to snoop on citizens
+
 Fri, 21 Jun 2024 14:41:10 +0530
 ### [Why the European Commission imposed provisional anti-dumping duties on Indian optical fiber cable makers: Explained](https://www.thehindu.com/business/Industry/why-the-european-commission-imposed-provisional-anti-dumping-duties-on-indian-optical-fiber-cable-makers-explained/article68315717.ece)
 

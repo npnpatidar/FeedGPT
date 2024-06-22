@@ -1,3 +1,18 @@
+Fri, 21 Jun 2024 19:48:54 +0530
+### [Why going to private schools in the UK will cost more if Keir Starmer's Labour wins](https://www.firstpost.com/explainers/why-going-to-private-schools-in-the-uk-will-cost-more-if-keir-starmers-labour-wins-13784824.html)
+
+The Labour Party in the UK plans to impose a tax on private school fees if they win the general election. The revenue generated from this tax would be allocated towards recruiting additional teachers for state schools and expanding childcare services. The removal of VAT exemptions for private schools is expected to lead to an increase in private school fees, potentially resulting in a decline in attendance. The Labour Party's plan has garnered mixed reactions, with the Conservative and Liberal Democrat leaders opposing the policy. The long-term impact of this move on private school attendance and the state education system remains uncertain.
+
+Fri, 21 Jun 2024 18:55:51 +0530
+### [How has the UK’s E. coli outbreak been linked to lettuce? Here’s what we know](https://www.firstpost.com/health/how-uk-e-coli-outbreak-linked-to-lettuce-here-is-what-we-know-13784728.html)
+
+An E. coli outbreak in the UK has been linked to contaminated lettuce used in sandwiches, wraps, and burgers. More than 250 people have been sickened, and at least 86 have been hospitalized. Three suppliers have recalled 60 types of pre-packed sandwiches, wraps, and salads. The outbreak is caused by Shiga toxin-producing E. coli (STEC), and the source is believed to be lettuce leaves. Symptoms include abdominal cramps, nausea, vomiting, and diarrhea, and there is no targeted treatment for a STEC infection. It is recommended to wash hands, use disinfectants, and avoid preparing food for others while unwell.
+
+Fri, 21 Jun 2024 18:33:03 +0530
+### [Can Hezbollah’s missiles, drones overwhelm Israel’s famous Iron Dome in case of full-blown war?](https://www.firstpost.com/explainers/hezbollah-missiles-drones-israel-iron-dome-israel-hezbollah-war-13784811.html)
+
+Israel has been trading fire with Iran-backed Hezbollah, and there are concerns about whether Israel's Iron Dome defense system can withstand the volume and sophistication of Hezbollah's missile arsenal. The Iron Dome has limitations in capacity, interception ability, and vulnerability to high-precision munitions. There are concerns that Hezbollah could overwhelm the Iron Dome in a full-scale conflict due to its numbers advantage, proximity to Israel, past breaches, and use of cheap drones. The potential for significant breaches in Israel's defense grid in a large-scale conflict is a real and concerning possibility.
+
 Fri, 21 Jun 2024 17:56:50 +0530
 ### [What are the questions you should ask about new virus in the news?](https://www.firstpost.com/health/questions-to-ask-about-new-virus-in-the-news-13784771.html)
 

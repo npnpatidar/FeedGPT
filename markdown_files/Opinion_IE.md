@@ -1,3 +1,8 @@
+Fri, 21 Jun 2024 15:04:12 +0000
+### [Faizan Mustafa writes on Patna High Court reservation ruling: An overemphasis on merit](https://indianexpress.com/article/opinion/columns/faizan-mustafa-patna-high-court-ruling-judiciary-anti-reservation-bias-9407216/)
+
+The Indian judiciary, through the "strict scrutiny" doctrine, has consistently nullified reservation policies for groups like Jats, Gujjars, Marathas, and Muslims, prioritizing "merit" and "administrative efficiency." The Patna High Court recently struck down 65% reservation in Bihar based on a 2023 Caste Survey, rejecting the concept of "proportionate representation" for Backward Classes. The court emphasized the 50% upper ceiling for reservation set by the Supreme Court, which has been upheld despite arguments that remote or marginalized areas may require exceptions. However, the court acknowledged that the State Backward Classes Commission's recommendation is not legally necessary and that governments have the right to act on Caste Survey reports. The 50% rule is often justified in the name of efficiency, but research has not proven that reserved category employees are less efficient. Justice Reddy criticized the "vicious assumption" that upper castes naturally perform better, while Justice Chandrachud called for redefining merit to be more inclusive.
+
 Fri, 21 Jun 2024 12:37:21 +0000
 ### [Yoga: Priceless wealth bestowed on humanity by ancient sages of Bharat](https://indianexpress.com/article/opinion/columns/yoga-priceless-wealth-bharat-ancient-sages-9406569/)
 
