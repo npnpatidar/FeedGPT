@@ -1,3 +1,100 @@
+Sat, 22 Jun 2024 10:30:11 +0000
+### [The moral conundrum after killing a mosquito – and questions about our society and government](https://indianexpress.com/article/opinion/columns/mosquito-killing-moral-conundrum-society-government-questions-9408456/)
+
+The article is a reflection on the ethics of killing a mosquito and the broader implications of such an action. The author uses this simple act to explore questions of power, morality, and consequences. They compare the individual moral compass to societal rules of conduct, or ethics, and bring up the concept of utilitarianism, which prioritizes the greatest good for the greatest number of people. The author also discusses the role of power in determining what is considered ethical and how it can lead to violence and injustice. They connect this to larger societal issues, such as the treatment of marginalized communities and the environment. The article concludes with a call to question underlying values and work towards a social revolution. The content about the Netflix film Maharaj is not related to the main topic and has been omitted from the summary.
+
+Sat, 22 Jun 2024 07:58:23 +0000
+### [Why people need to sleep – and how there is profit in that](https://indianexpress.com/article/opinion/columns/why-people-need-to-sleep-and-how-there-is-profit-in-that-9408316/)
+
+The Indian Olympic Association has appointed sleep expert Dr. Monika Sharma to optimize sleep for the Indian contingent at the Paris Olympics. Sleep deprivation is a common issue among athletes and can hinder recovery and performance. Dr. Sharma's appointment highlights the importance of sleep in achieving athletic success.
+
+However, a lack of awareness about sleep is prevalent among non-cricket-playing Indian athletes, who often prioritize effort and sacrifice over rest and recovery. This is also reflected in society at large, where popular culture glorifies sacrificing sleep for achievement.
+
+Sleep deprivation has detrimental health effects and is linked to various health issues. Despite this, businesses have emerged that sell sleep-related products and services, indicating the growing recognition of sleep as a valuable commodity.
+
+As a nation, it is crucial to ensure an adequate supply of sleep, especially for athletes representing India at the Olympics. Dr. Sharma's expertise can help Indian athletes improve their sleep quality and gain a competitive advantage.
+
+Sat, 22 Jun 2024 06:32:13 +0000
+### [The real scam behind NEET we need to talk about](https://indianexpress.com/article/opinion/columns/neet-real-scam-inadequate-systems-education-youth-9407869/)
+
+Despite the recent focus on alleged corruption in the NEET exam, India faces a larger "scam" of inadequate opportunities for its youth. With over 24 lakh students competing for only 1 lakh seats, the scarcity of opportunities exacerbates the pressure and competition. This issue extends beyond medical education, as it affects various sectors. The government has neglected to address this problem, fostering unrealistic aspirations while simultaneously labeling those who fail as lacking merit. The combination of limited opportunities and a narrow definition of success has fostered discontent and alienation among the youth. India needs a multi-pronged approach involving political action, increased funding for education, and solidarity from the elite to address this systemic issue. Simply canceling exams and prosecuting individuals will not suffice and may further disillusion the youth.
+
+Sat, 22 Jun 2024 02:10:16 +0000
+### [The Dil in Diljit Dosanjh: What we saw on Jimmy Fallon’s show](https://indianexpress.com/article/opinion/columns/the-dil-in-diljit-dosanjh-what-we-saw-on-jimmy-fallons-show-9407500/)
+
+Punjabiyat, a contested concept of Punjabi identity, has evolved into a global phenomenon celebrated by artists like Diljit Dosanjh. Despite facing initial linguistic barriers, Dosanjh's music transcends borders by merging Punjabi lyrics with modern genres like hip-hop. While contemporaries delve into darker themes, Dosanjh's music remains true to traditional Punjabi folklore, evoking themes of love and desire.
+
+Beyond music, Punjabiyat is also celebrated in Dosanjh's film "Amar Singh Chamkila," which explores Sikh identity and controversial aspects of Chamkila's lyrics. Similarly, Sidhu Moose Wala's song "295" resonates with Punjabiyat, addressing social ills and rural struggles.
+
+However, Diljit Dosanjh's identity stands out for its emphasis on Punjabiyat's "softer" aspects, such as language, literature, and tradition. He presents a more playful and palatable representation of Punjab, focusing on its future potential rather than its troubled past.
+
+Sat, 22 Jun 2024 02:00:31 +0000
+### [NCERT textbooks need to keep pace with changing times](https://indianexpress.com/article/opinion/columns/ncert-textbooks-need-to-keep-pace-with-changing-times-9407505/)
+
+School textbooks in India have historically presented biased historical perspectives, often focusing on conflict and division. This approach risks instilling anxiety and prejudices in young children who lack the comprehension skills to navigate complex emotional dilemmas.
+
+Balanced textbook revisions are essential to provide a credible and reliable historical narrative that fosters unity and mutual respect. Such revisions can promote constructive attitudes towards society and encourage students to become responsible and empathetic citizens. Revising textbooks also aligns with the changing educational needs of students, addressing contemporary issues like climate change and digital literacy.
+
+At the university level, students possess the cognitive maturity to engage with complex historical conflicts. Universities should remain centers of academic freedom where students can critically analyze multiple perspectives.
+
+The ultimate goal of textbook revisions is to foster a culture of empathy, curiosity, critical thinking, and ambition among students. By providing access to balanced narratives, textbooks can support students' future development and contribute to building a strong India.
+
+Sat, 22 Jun 2024 01:43:42 +0000
+### [The Opposition cries ‘no mandate’: Modi’s real challenge this term](https://indianexpress.com/article/opinion/columns/the-opposition-cries-no-mandate-modis-real-challenge-this-term-9407508/)
+
+Despite a disappointing election result, the Congress party believes they have a mandate to oppose the BJP-led NDA government. However, statistical data shows that the BJP maintains a significant vote share advantage.
+
+The BJP faces the challenge of a formidable Opposition which believes the NDA has no right to rule, although the BJP has experience managing coalitions.
+
+The new government must prioritize addressing unemployment, especially among youth, by promoting private investment in manufacturing. India needs to enhance education and research infrastructure to keep up with technological advancements.
+
+Despite increased research output, India lags in patent quality and international recognition. China's growing influence and the changing geostrategic landscape pose challenges for India's foreign policy.
+
+These domestic and international challenges, along with an uncompromising Opposition, will test Prime Minister Modi's third term in office.
+
+Sat, 22 Jun 2024 01:35:40 +0000
+### [NCERT textbook changes are framed around limiting knowledge](https://indianexpress.com/article/opinion/columns/ncert-textbook-changes-are-framed-around-limiting-knowledge-9407522/)
+
+School textbooks, particularly those designated by the government, often reflect dominant perspectives and political biases. NCERT, India's textbook framing agency, has been modifying content in the past decade, removing sections on sensitive topics such as the Babri Masjid demolition and the Gujarat riots.
+
+These changes have been justified by NCERT as reducing student burden and promoting well-being. However, critics argue that they limit knowledge and prevent students from understanding important historical events and social issues.
+
+In contrast, textbooks can empower students by providing critical information and encouraging them to question their surroundings. In the US, for example, African-American educators have worked to incorporate the perspectives of marginalized groups into textbooks.
+
+The National Education Policy 2020 aimed to foster critical thinking, but NCERT's edits have instead disconnected the present from the past. By omitting references to key events and societal problems, NCERT is silencing important conversations and potentially contributing to societal divisions.
+
+While revisions are essential in social science education, they should not aim to limit knowledge or erase uncomfortable truths. Textbooks play a crucial role in shaping students' understanding of the world, and it is important to ensure that they provide a comprehensive and accurate account of history and society.
+
+Sat, 22 Jun 2024 01:30:19 +0000
+### [Patna High Court’s quota order should lead to debate on other ways to end inequality](https://indianexpress.com/article/opinion/editorials/patna-high-courts-quota-order-should-lead-to-debate-on-other-ways-to-end-inequality-9407502/)
+
+The Patna High Court has ruled against the Bihar government's plan to increase the reservation cap from 50% to 65%. The court argued that the government relied solely on population data rather than considering their representation in government and education.
+
+The verdict aligns with the judiciary's stance on maintaining the 50% ceiling. However, political parties are pushing for an increase. The Bihar government intends to seek its inclusion in the Ninth Schedule to avoid legal challenges.
+
+Bihar has made progress in economic and socio-economic indicators, but remains among the poorest states with high poverty and fertility rates. The state needs to address agriculture dependency and skill deficits. The High Court's verdict should prompt discussions on broader strategies to tackle inequality.
+
+Sat, 22 Jun 2024 01:20:27 +0000
+### [With discovery of a ‘lost’ record, Nusrat Fateh Ali Khan is back](https://indianexpress.com/article/opinion/editorials/with-discovery-of-a-lost-record-nusrat-fateh-ali-khan-is-back-9407504/)
+
+Article found but Couldn't summarize
+
+Sat, 22 Jun 2024 01:18:33 +0000
+### [Why the health of children should be at the core of any pollution policy](https://indianexpress.com/article/opinion/editorials/why-the-health-of-children-should-be-at-the-core-of-any-pollution-policy-9407503/)
+
+The State of Global Air 2024 Report reveals that air pollution has become the second leading cause of death globally and the second leading risk factor for children under five, with over 700,000 deaths in this demographic in 2021. India experienced the highest number of deaths, particularly among children under five, due to air pollution. Despite decades of concern, India's response has been fragmented and inadequate, leading to significant harm for vulnerable populations. However, there has been a decline in global air pollution-related deaths among children under five since 2000, highlighting the potential of clean energy initiatives, healthcare access, and awareness. India faces a significant challenge, with 42 of the world's 50 most polluted cities and low awareness among public health workers about the health impacts of air pollution. To address the issue, the government must prioritize the health of its citizens, especially children.
+
+Sat, 22 Jun 2024 01:00:35 +0000
+### [Forty years ago: PM Indira Gandhi considers possibility of arms talk with Pakistan](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-pm-indira-gandhi-considers-possibility-of-arms-talk-with-pakistan-9407506/)
+
+Prime Minister Indira Gandhi indicated the possibility of discussions with Pakistan regarding arms smuggling, acknowledging the arms' potential origination across the Pakistani border.
+
+The Punjab government lifted vehicle movement restrictions following the restoration of normalcy, except in two districts; all gurudwaras, excluding the Golden Temple, were reopened to devotees.
+
+Enhanced pensions and arrears were granted to retired Supreme Court and high court judges, as well as legal heirs and widows.
+
+A dispute over a river bridge construction in Orissa has sparked a conflict between Chief Minister Patnaik and his wife, resulting in a clash with a public works minister.
+
 Fri, 21 Jun 2024 15:04:12 +0000
 ### [Faizan Mustafa writes on Patna High Court reservation ruling: An overemphasis on merit](https://indianexpress.com/article/opinion/columns/faizan-mustafa-patna-high-court-ruling-judiciary-anti-reservation-bias-9407216/)
 

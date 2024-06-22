@@ -1,3 +1,8 @@
+Sat, 22 Jun 2024 13:32:18 +0530
+### [What does the European Union’s new Nature Restoration Plan include? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/european-union-new-nature-restoration-plan-explained/article68319898.ece)
+
+The European Union has approved a Nature Restoration Plan to restore degraded ecosystems across the continent by 2030. The plan aims to restore 20% of EU land and sea areas by 2030 and all ecosystems by 2050. It includes specific targets for urban, forest, marine, and agricultural ecosystems, as well as measures to protect pollinating insects and improve river connectivity. EU countries must submit National Restoration Plans within two years and report on their progress. Funding remains a potential roadblock, and the recent setback for the European Greens party could further complicate implementation.
+
 Fri, 21 Jun 2024 20:54:23 +0530
 ### [Is EU’s Chat Control law undermining online privacy? | Explained](https://www.thehindu.com/sci-tech/technology/is-eus-chat-control-law-undermining-online-privacy-explained/article68317447.ece)
 
@@ -14,6 +19,11 @@ Fri, 21 Jun 2024 13:51:48 +0530
 
 Article found but Couldn't summarize 
 Russian President Vladimir Putin was on a two-day visit to North Korea – his first in 24 years.
+
+Wed, 19 Jun 2024 23:06:07 +0530
+### [What are the findings of the 2024 Hindu Kush Himalayas snow update? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/hindu-kush-himalayas-snow-update-2024-findings/article68307604.ece)
+
+The Hindu Kush Himalaya (HKH) snow update of 2024 reported record-low snow persistence in the Ganga river basin, along with significant declines in the Brahmaputra and Indus basins. This trend threatens water supply for millions of people. The decreased persistence is attributed to weak western disturbances, which are influenced by climate change and global warming. Experts emphasize the need for emission reductions to mitigate sea-surface and ground temperatures that lower snow persistence. Additionally, reforestation, improved weather forecasting, and community involvement are crucial for adapting to water stress.
 
 Wed, 19 Jun 2024 08:30:00 +0530
 ### [How can Himachal Pradesh fight against forest fires? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-himachal-pradesh-fight-against-forest-fires-explained/article68305390.ece)

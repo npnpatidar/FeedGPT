@@ -1,3 +1,40 @@
+Sat, 22 Jun 2024 18:33:48 +0530
+### [Balochistan on boil: Why situation is turning bleak for Pakistan and its army](https://www.firstpost.com/opinion/balochistan-on-boil-why-situation-is-turning-bleak-for-pakistan-and-its-army-13785083.html)
+
+Despite heavy-handed rule and censorship, Pakistan maintains control over Balochistan through brute force. President Zardari's attempts for political dialogue are met with incongruous calls for enhancing law enforcement agencies that contribute to unrest in the region.
+
+The fifth Balochistan insurgency since 1947 continues to simmer, with both militant and peaceful resistance movements. Despite media suppression, the unrest is intensifying, and there are signs of alliances between Baloch militants and the Pakistani Taliban.
+
+Pakistan's military response has been to crush dissent with brute force, further fueling anger and creating a situation approaching a breaking point. The inability of the Baloch to unify hinders their ability to counter Pakistan's divide-and-rule tactics.
+
+Sat, 22 Jun 2024 16:41:35 +0530
+### [How Russia-North Korea pact shows convergence of anti-West interests](https://www.firstpost.com/opinion/how-russia-north-korea-pact-shows-convergence-of-anti-west-interests-13785044.html)
+
+Russian President Vladimir Putin's visit to North Korea highlights the consequences of pushing a nation to its limits.
+
+Amidst global isolation due to the Ukraine conflict, Russia seeks allies, particularly in the Pacific. North Korea, with its nuclear aspirations and history of Western sanctions, aligns with Russia's interests.
+
+The visit resulted in a landmark agreement elevating bilateral ties to a strategic level. The agreement covers cooperation in political, military, economic, and cultural spheres. Notably, it includes a provision for immediate military assistance in case of aggression or war.
+
+North Korea and Russia recognize their shared interests in countering Western sanctions and potential technological cooperation. The visit serves as a reminder that isolating a power can potentially drive them into alliances with its rivals.
+
+Sat, 22 Jun 2024 15:56:33 +0530
+### [The forgotten ‘crow hill’ of Bihar’s Jehanabad](https://www.firstpost.com/opinion/the-forgotten-crow-hill-of-bihars-jehanabad-13785035.html)
+
+Kauwa Dol, a heritage site near Bodh Gaya, boasts a hill adorned with intricate carvings depicting Hindu and Buddhist deities. The site, once named after a vanishing stone block that rocked when birds perched on it, features a Shiva linga, depictions of goddesses, Vishnu, Ganesha, and Durga. Kauwa Dol is believed to have been a sacred site or monastery and may have once housed a Buddhist monastery visited by Hiuen Tsang. Alongside Kauwa Dol, the nearby Barabar Caves (3rd century BCE) and Nagarjuni Caves provide historical and cultural attractions, suggesting the area's significance as a pilgrim center.
+
+Sat, 22 Jun 2024 13:32:22 +0530
+### [China’s name change spree in Xinjiang and Tibet continues unabated](https://www.firstpost.com/opinion/chinas-name-change-spree-in-xinjiang-and-tibet-continues-unabated-13784996.html)
+
+Article found but Couldn't summarize 
+The sinister design by the Chinese authorities to change the names of places, cities, and townships is not limited to its provinces or territory alone; rather, it goes beyond the borders
+
+Sat, 22 Jun 2024 11:29:40 +0530
+### [Great game of leverage: Of Khalistan smokescreen, Deep State, and foreign interference in India’s domestic politics](https://www.firstpost.com/opinion/great-game-of-leverage-of-khalistan-smokescreen-deep-state-and-foreign-interference-in-indias-domestic-politics-13784947.html)
+
+Article found but Couldn't summarize 
+The West needs India, but it cannot let New Delhi become too powerful; hence the need for leverage
+
 Fri, 21 Jun 2024 18:16:19 +0530
 ### [Nancy Pelosi meets Dalai Lama as America shows eagerness to engage India on Tibet](https://www.firstpost.com/opinion/nancy-pelosi-meets-dalai-lama-as-america-shows-eagerness-to-engage-india-on-tibet-13784816.html)
 

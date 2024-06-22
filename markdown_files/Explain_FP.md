@@ -1,3 +1,39 @@
+Sat, 22 Jun 2024 17:50:23 +0530
+### [Quicksplained: Who is Suborno Bari, the ‘world’s youngest professor’ graduating high school?](https://www.firstpost.com/explainers/quicksplained-suborno-bari-worlds-youngest-professor-graduating-high-school-13785067.html)
+
+Suborno Bari, a 12-year-old prodigy from Lynbrook, New York, is set to graduate from Malverne High School on June 26, becoming the youngest American graduate from the Indian subcontinent. He will then attend New York University in the fall, having been admitted to their gifted and talented program at Harvard at the age of 9. Bari has already authored two books and, at the age of 11, scored a perfect 1500 on the SAT. He has been called the "youngest professor in the world" and has given lectures at Indian universities. Bari aims to become a professor and complete his Bachelor's degree by 14 and earn a Doctorate by age 18.
+
+Sat, 22 Jun 2024 17:23:20 +0530
+### [All that glitters is not gold: How the rich and famous Hinduja family ended up in Swiss court](https://www.firstpost.com/explainers/how-the-rich-and-famous-hinduja-family-ended-up-in-swiss-court-13785010.html)
+
+Article found but Couldn't summarize 
+What makes Hindujas different from other billionaire families is its century-old legacy. While the family is known for sticking together and building a strong empire, it is not free from controversies
+
+Sat, 22 Jun 2024 14:46:58 +0530
+### [Why Centre and Opposition are sparring over pro-tem Speaker choice](https://www.firstpost.com/explainers/centre-opposition-pro-tem-speaker-controversy-13784982.html)
+
+A controversy has arisen over the appointment of BJP's Bhartruhari Mahtab as pro-tem Speaker of the Lok Sabha. The Opposition, led by Congress, claims it deviates from the tradition of selecting the seniormost member for the role, with Kodikunnil Suresh (Congress) being the most senior. They allege anti-Dalit sentiment as Suresh belongs to that community.
+
+The BJP responded by stating that Mahtab is the longest-serving consecutive Lok Sabha member without ministerial experience, fulfilling the Westminster system's criteria for "Father of the House." The pro-tem Speakership is temporary and does not conduct business, making the controversy unnecessary, according to the BJP.
+
+The 18th Lok Sabha's first session begins on June 24 with oath-taking, followed by the Speaker's election on June 26. The Rajya Sabha session commences on June 27, with President Murmu addressing a joint session and PM Modi introducing his council of ministers.
+
+Sat, 22 Jun 2024 12:01:05 +0530
+### [Now CSIR-NET under scanner: What is the exam and why has it been postponed?](https://www.firstpost.com/explainers/csir-net-exam-postponed-13784911.html)
+
+The CSIR UGC-NET exam has been postponed due to concerns about a potential paper leak on the darkweb. The decision came after Education Minister Dharmendra Pradhan received information about rumors circulating on a messaging app. The NTA, which is also facing allegations of irregularities in the NEET exam, has been asked to set up a new question paper and reschedule the CSIR UGC-NET exam. The postponement comes two days after the cancellation of the UGC-NET exam due to a similar paper leak concern.
+
+Sat, 22 Jun 2024 11:05:23 +0530
+### [This Week in Explainers: Why NTA is facing heat over NEET, NET paper leaks](https://www.firstpost.com/explainers/this-week-in-explainers-why-nta-is-facing-heat-over-neet-net-paper-leaks-13784755.html)
+
+Article found but Couldn't summarize 
+The National Testing Agency (NTA) has come under scanner over the paper leak cases involving two entrance-level examinations – NEET-UG and UGC-NET. While the NET test has been cancelled, similar calls are being raised for the medical entrance exam. Here’s all about this row and more in our weekly round-up of explainers from India
+
+Sat, 22 Jun 2024 09:09:22 +0530
+### [Sheikh Hasina is the first guest on State visit in PM’s third term: What can we expect?](https://www.firstpost.com/explainers/sheikh-hasina-second-trip-to-india-in-two-weeks-heres-why-it-matters-13784417.html)
+
+Bangladeshi Prime Minister Sheikh Hasina is on a two-day state visit to India. During her talks with PM Narendra Modi, they are expected to discuss the Ganges Water Sharing Treaty, the management of Mongla Port, and a potential trade deal. They will also examine increased road, rail, and energy connectivity. Other topics may include Myanmar's situation, defense cooperation, and Bangladesh's desire to develop the Teesta River. This visit is Hasina's first overseas state visit since her fifth term began in January, indicating the importance she places on India-Bangladesh relations. India's involvement in Mongla Port would strengthen its regional security presence, and Bangladesh's interest in visiting India before China shows its desire for balanced relations between the two countries.
+
 Fri, 21 Jun 2024 19:48:54 +0530
 ### [Why going to private schools in the UK will cost more if Keir Starmer's Labour wins](https://www.firstpost.com/explainers/why-going-to-private-schools-in-the-uk-will-cost-more-if-keir-starmers-labour-wins-13784824.html)
 

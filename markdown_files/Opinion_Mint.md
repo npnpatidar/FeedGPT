@@ -1,3 +1,10 @@
+Sat, 22 Jun 2024 09:00:18 +0530
+### [When Yusuf Hamied defied Big Pharma in the battle against HIV/AIDS](https://www.livemint.com/opinion/online-views/yusuf-hamied-big-pharma-hiv-aids-cipla-ranbaxy-lupin-merk-glaxo-pharma-companies-11718965347272.html)
+
+In the 1990s, Indian pharmaceutical company Cipla made a breakthrough in global healthcare by offering an anti-AIDS cocktail drug for $800, significantly cheaper than the $10,000-$15,000 price in the West. Despite initial resistance from Big Pharma, Cipla's offer galvanized a worldwide movement against exorbitant drug prices, forcing major companies to reduce their prices.
+
+Cipla's CEO, Yusuf Hamied, was hailed as the "Robin Hood of pharma" for his actions, which led to millions of lives being saved, particularly in poorer countries where HIV was rampant. The company's success highlighted the growing capabilities of Indian pharma companies and played a pivotal role in making life-saving treatments more accessible to those in need.
+
 Fri, 21 Jun 2024 18:33:46 +0530
 ### [Is Nvidia’s near-monopoly status dangerous for the AI industry?](https://www.livemint.com/opinion/nvidia-near-monopoly-artificial-intelligence-ai-chips-industry-intel-amd-11718970951612.html)
 

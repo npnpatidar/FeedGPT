@@ -5,6 +5,17 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>When Yusuf Hamied defied Big Pharma in the battle against HIV/AIDS</title>
+			<link>https://www.livemint.com/opinion/online-views/yusuf-hamied-big-pharma-hiv-aids-cipla-ranbaxy-lupin-merk-glaxo-pharma-companies-11718965347272.html</link>
+			<description>In the 1990s, Indian pharmaceutical company Cipla made a breakthrough in global healthcare by offering an anti-AIDS cocktail drug for $800, significantly cheaper than the $10,000-$15,000 price in the West. Despite initial resistance from Big Pharma, Cipla's offer galvanized a worldwide movement against exorbitant drug prices, forcing major companies to reduce their prices.
+
+Cipla's CEO, Yusuf Hamied, was hailed as the "Robin Hood of pharma" for his actions, which led to millions of lives being saved, particularly in poorer countries where HIV was rampant. The company's success highlighted the growing capabilities of Indian pharma companies and played a pivotal role in making life-saving treatments more accessible to those in need.</description>
+			<pubDate>Sat, 22 Jun 2024 09:00:18 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/06/21/1600x900/3-0-31040416-GettyImages-140191685-0_1679819787330_1718965414427.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/06/21/1600x900/3-0-31040416-GettyImages-140191685-0_1679819787330_1718965414427.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Is Nvidia’s near-monopoly status dangerous for the AI industry?</title>
 			<link>https://www.livemint.com/opinion/nvidia-near-monopoly-artificial-intelligence-ai-chips-industry-intel-amd-11718970951612.html</link>
 			<description>Nvidia, a dominant force in AI, has become the world's most valuable company by providing the essential computer chips that power AI operations. Its rise has been fueled by the AI gold rush, as companies rush to develop AI models. Nvidia's revenue has doubled since 2022, and it projects further growth.

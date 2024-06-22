@@ -1,3 +1,44 @@
+Sat, 22 Jun 2024 11:52:11 +0000
+### [5 things to watch for in the first Biden-Trump presidential debate](https://indianexpress.com/article/explained/explained-global/5-things-biden-trump-presidential-debate-9408577/)
+
+The first televised debate ahead of the US presidential elections will take place on June 27 between Joe Biden and Donald Trump. The age and mental competence of both candidates are a concern for voters, and their tempers and impatience will be on display. Both candidates are known for propagating falsehoods in their speeches. The debate will be held without a studio audience and the microphones of the candidates will be turned off to prevent interruptions. The movie Maharaj, a new Netflix film, tells the story of Karsandas Mulji, a journalist and feminist in 1860s Bombay, but has been criticised for its problematic characters and tropes.
+
+Sat, 22 Jun 2024 10:39:11 +0000
+### [What is summer solstice and how do people celebrate it across the world?](https://indianexpress.com/article/explained/everyday-explainers/summer-solstice-9408487/)
+
+The article explains the significance of the summer solstice, which is the longest day of the year occurring on June 21 for those living north of the Equator. It details how the Earth's tilt causes the Northern Hemisphere to receive more direct sunlight during this time, leading to the summer season. The article also discusses the cultural and astronomical aspects of the solstice, including how different countries experience it at different times. Additionally, it highlights the varying amounts of sunlight received in different latitudinal locations and mentions how people around the world mark the occasion.
+
+Sat, 22 Jun 2024 09:00:59 +0000
+### [How new sports get included in the Olympics](https://indianexpress.com/article/explained/explained-sports/new-sports-olympics-9408390/)
+
+Article found but Couldn't summarize
+
+Sat, 22 Jun 2024 07:25:56 +0000
+### [Can we stop invasive species by eating them?](https://indianexpress.com/article/explained/explained-sci-tech/can-we-stop-invasive-species-by-eating-them-9408264/)
+
+Article found but Couldn't summarize
+
+Sat, 22 Jun 2024 02:30:52 +0000
+### [What is Claude 3.5 Sonnet and how is it better than GPT-4o, Gemini-1.5   Pro?](https://indianexpress.com/article/explained/explained-sci-tech/claude-3-5-sonnet-9407302/)
+
+Anthropic, a major AI company, has released its new AI model, Claude 3.5 Sonnet, which outperforms competitors and is twice as fast as its predecessor. The model is part of a series of upcoming AI models and is claimed to set new industry benchmarks. It excels in tasks requiring visual reasoning and has been praised for its ability to accurately transcribe text from images. The company has postponed the CSIR UGC NET 2024 exam, originally scheduled for June 25-27, due to logistical issues.
+
+Sat, 22 Jun 2024 01:37:41 +0000
+### [How demand for cereals in India is changing](https://indianexpress.com/article/explained/explained-economics/how-demand-for-cereals-in-india-is-changing-9407572/)
+
+India's cereal production has significantly increased over the last two decades. However, a growing portion of this production is being used for processed foods, animal feed, and industrial purposes rather than direct human consumption.
+
+Household cereal consumption has declined, while production has increased. The gap between production and household consumption has widened due to exports, processed food consumption, feed use, and industrial starch production.
+
+Exports account for a portion of the difference, but much of the gap is filled by indirect consumption through animal products and fermentation for alcohol and fuel.
+
+The excess grain is being acquired by government agencies and accumulated, leading to downward pressure on market prices. However, recent high cereal inflation and depleting government stocks raise questions about the accuracy of official production estimates.
+
+Sat, 22 Jun 2024 01:10:24 +0000
+### [Explained: Bail in money laundering cases, and the ‘twin test’ under PMLA](https://indianexpress.com/article/explained/explained-law/explained-bail-in-money-laundering-cases-and-the-twin-test-under-pmla-9407571/)
+
+The Delhi High Court has stayed the lower court's order granting bail to Delhi Chief Minister Arvind Kejriwal in a money laundering case. The Enforcement Directorate had challenged the bail, arguing that the trial court failed to apply the "twin test" required for bail under the Prevention of Money Laundering Act (PMLA). The twin test requires courts to consider if there are reasonable grounds to believe the accused is not guilty and not likely to commit offenses while on bail. The Supreme Court in 2022 upheld the twin test but agreed to review its ruling. Until then, the test remains in effect. An accused in a money laundering case may still be granted bail after serving half of the maximum sentence as an undertrial.
+
 Fri, 21 Jun 2024 12:30:31 +0000
 ### [Poonam Pandey’s death hoax, Kendall Jenner’s struggle with acne: What does ‘sadfishing’ mean?](https://indianexpress.com/article/explained/explained-culture/sadfishing-9406876/)
 
