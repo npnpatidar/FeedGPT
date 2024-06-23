@@ -1,3 +1,20 @@
+Sun, 23 Jun 2024 14:33:16 +0530
+### [Love lost: Can romantic breakups spark severe trauma?](https://www.firstpost.com/explainers/romantic-breakups-severe-trauma-13783624.html)
+
+Emerging adults (aged 18-25) often experience significant distress after romantic breakups, including intrusive thoughts, grief, and suicidal ideation. Despite this, breakups are often dismissed as a trivial part of growing up. Research using DSM-5 criteria found that breakup participants reported more post-traumatic stress symptoms than trauma or control groups. Brain scans showed similar activation levels in the amygdala and hippocampus for breakup participants viewing ex-partner images as for trauma participants viewing physical or sexual assault images. Breakup distress was influenced by demographic factors (e.g., sexual orientation) and breakup characteristics. Mental health professionals should acknowledge the potential intensity of breakups and consider screening for post-traumatic stress symptoms, offering trauma-focused treatment if necessary.
+
+Sun, 23 Jun 2024 10:29:17 +0530
+### [39 years since Air India Kanishka bombing: What happened and why are India-Canada divided over it?](https://www.firstpost.com/explainers/air-india-kanishka-bombing-what-happened-india-canada-divided-13784756.html)
+
+Article found but Couldn't summarize 
+India and Canada are observing the anniversary of the Kanishka bombing, one of the most heinous terror-related air disasters in civil aviation history. The Montreal-New Delhi Air India 'Kanishka' Flight 182 exploded 45 minutes before its scheduled landing at London's Heathrow Airport on 23 June 1985, resulting in the deaths of all 329 people on board, the majority of whom were Canadians of Indian descent
+
+Sun, 23 Jun 2024 10:04:59 +0530
+### [This Week in Explainers: Kim Jong Un, Vladimir Putin and the deal that made headlines around the world](https://www.firstpost.com/explainers/this-week-in-explainers-kim-jong-un-vladimir-putin-and-the-deal-that-made-headlines-around-the-world-13784859.html)
+
+Article found but Couldn't summarize 
+North Korea’s Kim Jong Un and Russia’s Vladimir Putin shared an embrace and signed a deal that made many sit up and take notice. The relationship between India and Canada continues to remain strained after its Parliament held a moment of silence to mark the one-year death anniversary of Khalistani terrorist Hardeep Singh Nijjar. All this and more in our weekly roundup of world news
+
 Sat, 22 Jun 2024 18:50:56 +0530
 ### [Anthropic's AI model, Claude 3.5 Sonnet launched. How does it compare to ChatGPT-4o, Gemini?](https://www.firstpost.com/explainers/anthropics-ai-claude-3-5-sonnet-vs-chatgpt-4o-vs-gemini-13785087.html)
 

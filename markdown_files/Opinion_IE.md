@@ -1,3 +1,81 @@
+Sun, 23 Jun 2024 10:36:00 +0000
+### [Why India needs an internal security plan for the next five years](https://indianexpress.com/article/opinion/columns/india-internal-security-plan-next-five-years-9409874/)
+
+To improve internal security, the government should:
+
+* Create a national security doctrine to guide internal and external security measures.
+* Establish a separate Ministry of Internal Security to streamline internal security operations.
+* Restore statehood and hold elections in Jammu and Kashmir to address ongoing tensions.
+* Enhance security in the Northeast, focusing on implementing agreements and addressing ethnic conflicts.
+* Offer an olive branch to Naxal rebels, declare a ceasefire, and work towards mainstreaming them.
+* Restructure the Intelligence Bureau and CBI, providing statutory basis and strengthening legal mandates.
+* Transform the police into a "People's Police" by focusing on public service and accountability.
+* Address internal problems within Central Armed Police Forces by appointing a high-powered commission.
+* Leverage technology to enhance police efficiency by setting up a high-powered technology mission.
+
+Sun, 23 Jun 2024 08:30:37 +0000
+### [First, understand that this is no ordinary heatwave](https://indianexpress.com/article/opinion/columns/first-understand-that-this-is-no-ordinary-heatwave-9409762/)
+
+Extreme heatwaves are occurring globally, and the number of hot days and nights is projected to rise. However, accurate data on heat exposure is lacking, especially in developing countries like India, where millions of workers experience vastly different temperatures.
+
+Current weather data cannot account for the diverse experiences of people in different environments, from construction sites to indoor workspaces. This lack of data hinders the development of effective interventions and policies for vulnerable populations.
+
+To address this issue, it is crucial to:
+
+* Identify the most at-risk trades and individuals in both the formal and informal economy.
+* Localize climatic data to understand the specific heat exposure experienced by different communities.
+* Test and validate adaptation interventions before scaling them, ensuring they are evidence-based and effective.
+
+By empowering local communities with accurate data and knowledge, we can empower them to prepare for and adapt to the challenges of climate change.
+
+Sun, 23 Jun 2024 07:10:05 +0000
+### [To escape annual cycle of leaks and stress, India needs a new exam design](https://indianexpress.com/article/opinion/columns/escape-annual-cycle-leaks-stress-india-exam-design-9409735/)
+
+The article by Suresh Prabhu and Shobhit Mathur discusses the need to reform India's competitive examination system. It suggests a two-phase, on-demand, computer-based admission test to replace the current high-pressure, single-day exams. Drawing from the GRE model, the authors propose a system where a large pool of questions is created by subject matter experts, allowing for tests to be administered without repetition and reducing the possibility of paper leaks. The first phase would be an initial screening available year-round, with tests randomly generated from the question pool. This would alleviate logistical issues and reduce the influence of coaching centers. The top scorers would then proceed to a more secure second phase, conducted annually with AI-based proctoring to prevent fraud. This new model aims to decrease student stress, reduce the stigma of failure, and save time and money, thereby optimizing India's talent pipeline and enhancing trust in the examination system. The authors argue that such a reform is imperative for India, given its large youth demographic and aspirations to become a global power.
+
+Sun, 23 Jun 2024 01:56:07 +0000
+### [Finding Jane Fonda, under water](https://indianexpress.com/article/opinion/columns/finding-jane-fonda-under-water-9409016/)
+
+Article found but Couldn't summarize
+
+Sun, 23 Jun 2024 01:54:22 +0000
+### [History Headline: The story of Nalanda, in the words of Chinese pilgrims](https://indianexpress.com/article/opinion/columns/nalanda-chinese-buddhist-monastery-mahavira-history-9409381/)
+
+Once a modest vihara, Nalanda became a renowned mahavihara by the 5th century CE, housing thousands of students and teachers in various fields.
+
+Chinese pilgrim Xuanzang described Nalanda in the 7th century, but scholars recognize his writings include exaggerations. Nonetheless, archaeological excavations have corroborated many of his descriptions, revealing a grand complex with advanced architecture and beautiful gardens.
+
+Yijing's detailed account of монашескую жизнь in Nalanda provides insights into daily rituals and living quarters. Wealthy patrons, including kings, supported the mahavihara, which reached its peak under the patronage of Harshavardhana.
+
+Nalanda's decline resulted from socio-political changes, the rise of competing monasteries, and a shift towards tantric Buddhism. While invasions contributed to its decay, the ultimate原因 was the waning of Buddhism in the region.
+
+Sun, 23 Jun 2024 01:44:58 +0000
+### [Tavleen Singh writes: Let higher education go](https://indianexpress.com/article/opinion/columns/higher-education-reforms-government-pm-modi-ugc-9409014/)
+
+The author expresses regret for not addressing the recent revelations of corruption in higher education in India. They highlight the need for reforms, particularly in the liberation of colleges and universities from political and official interference. They point to the positive example of the United States, where government non-interference has led to world-class universities.
+
+The author also discusses the political meddling and nepotism that plague Indian higher education, lamenting the lack of autonomy granted to institutions. They criticize Rahul Gandhi's accusations of RSS interference while acknowledging the previous influence of the Leftist lobby.
+
+Despite the Prime Minister's stated mission to restore India's status as a center of learning, the author doubts this can be achieved without giving scholars and researchers complete freedom. They suggest that the recent corruption scandals in the National Testing Agency could be a catalyst for granting autonomy to institutions of higher learning.
+
+The author concludes by highlighting the poor state of rural government schools and questions the government's commitment to improving education for all.
+
+Sun, 23 Jun 2024 01:37:02 +0000
+### [Savarna parties have once again isolated Dalit voices](https://indianexpress.com/article/opinion/columns/savarna-parties-isolated-dalit-voices-ambedkarite-government-9409015/)
+
+The article discusses the role of Dalit-led political parties in the 2024 general elections in India. While some parties like the Viduthalai Chiruthaigal Katchi, Lok Janshakti Party, and Hindustani Awam Morcha (Secular) made gains, others such as the Bahujan Samaj Party (BSP) and Vanchit Bahujan Aghadi (VBA) suffered setbacks. The article suggests that the failure of these parties to convince Muslim and backward class voters, along with their communication styles and working methods, contributed to their defeat. The article also criticizes the Congress and BJP for their fear tactics and agenda to establish a feudal-Brahminical model that leverages the resources of marginalized communities. The author calls for a non-hegemonic force in Dalit politics that can act as a power broker and protect the interests of the community. The article ends with a mention of the deferral of the NEET PG 2024 exam due to concerns about its integrity, which has sparked criticism from candidates and the medical community.
+
+Sun, 23 Jun 2024 01:30:33 +0000
+### [P Chidambaram writes: Opposition and opportunity](https://indianexpress.com/article/opinion/columns/opposition-opportunity-lok-sabha-elections-2024-parliament-democracy-chidambaram-9409026/)
+
+After the 2024 Lok Sabha elections, the Opposition emerged with 236 seats, a formidable presence absent in the previous two terms. The Opposition should prioritize reviving parliamentary traditions by implementing promises outlined in the Congress' Manifesto 2024:
+
+* 100-day sessions for both Houses of Parliament
+* One day per week dedicated to discussing the Opposition's agenda
+* Neutral presiding officers
+
+The Opposition should also focus on economic issues, advocating for job creation and containing inflation, and opposing monopolies and crony capitalism. By presenting alternative policies and setting the narrative, the Opposition parties can strengthen their position and hold the government accountable.
+
 Sat, 22 Jun 2024 13:53:50 +0000
 ### [Arundhati Roy, Kashmir and animal cruelty: View from Pakistan](https://indianexpress.com/article/opinion/columns/pakistan-arundhati-roy-kashmir-animal-cruelty-9408750/)
 

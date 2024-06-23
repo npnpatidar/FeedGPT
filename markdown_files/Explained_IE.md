@@ -1,3 +1,28 @@
+Sun, 23 Jun 2024 11:56:29 +0000
+### [Recalling 2015, when SC cancelled the medical entrance exam to ‘maintain sanctity and credibility of the process’](https://indianexpress.com/article/explained/medical-entrance-exam-cancel-neet-aipmt-9410028/)
+
+Article found but Couldn't summarize
+
+Sun, 23 Jun 2024 10:34:03 +0000
+### [Explained: What is the GST Council, and what does it do?](https://indianexpress.com/article/explained/everyday-explainers/gst-council-functions-federalism-9409944/)
+
+The 53rd Goods and Services Tax (GST) Council met and recommended taxes on items such as milk cans and solar cookers. It also announced some student relief and reduced the GST on cartons to provide relief to apple farmers in Himachal Pradesh and Jammu and Kashmir. The council was established in 2016 to simplify India's tax structure and make it uniform, and it has been an important body in the country's federal system. There have been changes to the council over the years, with the Supreme Court ruling that its recommendations are not binding.
+
+Sun, 23 Jun 2024 07:35:25 +0000
+### [Heatwaves blanket parts of the United States: How heat affects the brain and makes us aggressive](https://indianexpress.com/article/explained/explained-sci-tech/heat-effect-brain-9409751/)
+
+A Harvard University researcher conducted an experiment to test the effects of heat on young adults' cognitive performance by having students perform tests in varying temperatures. The results showed that high temperatures impaired the students' performance. Other studies have shown similar results, and heat has been linked to increased aggression and impaired self-control. The exact reasons for these effects are not yet known, but they could be due to the body's focus on thermoregulation and sleep disruption. The best way to counteract these effects is to cool off and stay hydrated.
+
+Sun, 23 Jun 2024 07:07:14 +0000
+### [Almost 100 Indians dead during Hajj: All you need to know](https://indianexpress.com/article/explained/explained-global/hajj-deaths-9409631/)
+
+Hundreds of Hajj pilgrims have died in the extreme heat of Saudi Arabia this year. The pilgrimage, which is one of the five pillars of Islam, is a series of rituals that take place in Mecca over a period of five or six days. The Saudi government is in charge of facilitating the pilgrimage and has allotted country-wise quotas to determine the total number of pilgrims. This year, 1.75 lakh Indians were allowed to undertake the pilgrimage. The majority of the deceased are from Egypt, which sees a large number of pilgrims come for Hajj on tourist visas, a practice considered illegal by the Saudi government. The Indian government has confirmed that 98 Indians have died during the pilgrimage this year. The Union Health Ministry has said that nearly 40,000 people over the age of 60 years undertook the Hajj this year. If someone dies during Hajj, the representative of the country is informed and the country's consulate confirms the person's identity and gets a No Objection Certificate from their family for their burial in Saudi Arabia.
+
+Sun, 23 Jun 2024 02:30:14 +0000
+### [Hawaii settles climate case with young litigants: what was the lawsuit — and the settlement?](https://indianexpress.com/article/explained/explained-climate/hawaii-climate-case-settlement-9409087/)
+
+The government of Hawaii settled a lawsuit with 13 children and teens who had sued the state’s Department of Transport over its use of fossil fuel that contributes to climate change. The settlement includes an ambitious requirement to decarbonise Hawaii’s transportation system over the next 21 years. The lawsuit argued that Hawaii’s Department of Transport had violated the plaintiff’s constitutional right to a clean and healthful environment by implementing transportation policies and prioritising infrastructure projects that use fossil fuels. The settlement requires Hawaii to achieve zero GHG emissions across all transportation modes by 2045.
+
 Sat, 22 Jun 2024 11:52:11 +0000
 ### [5 things to watch for in the first Biden-Trump presidential debate](https://indianexpress.com/article/explained/explained-global/5-things-biden-trump-presidential-debate-9408577/)
 

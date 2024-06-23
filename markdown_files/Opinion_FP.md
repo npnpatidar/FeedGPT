@@ -1,3 +1,47 @@
+Sun, 23 Jun 2024 18:21:47 +0530
+### [The wonder that was India: Retracing ancient Nalanda’s high-quality education parameters](https://www.firstpost.com/opinion/the-wonder-that-was-india-retracing-ancient-nalandas-high-quality-education-parameters-13785332.html)
+
+Article found but Couldn't summarize 
+The university housed 10,000 students and 2,000 professors, an impressive teacher-student ratio even by present-day standards
+
+Sun, 23 Jun 2024 17:09:39 +0530
+### [Heartbeat of Andalusia: Seven gems of southern Spain](https://www.firstpost.com/opinion/heartbeat-of-andalusia-seven-gems-of-southern-spain-13785297.html)
+
+Southern Spain boasts a diverse tapestry of history, culture, and natural wonders.
+
+Malaga, the birthplace of Picasso, showcases its artistic heritage through museums and architectural landmarks such as the Picasso Trail and the Alcazaba.
+
+Ronda, perched on a gorge, offers stunning views, historic churches, and a renowned gastronomy.
+
+Marbella combines luxury with natural beauty, featuring pristine beaches and exclusive shopping areas.
+
+Zahara de la Sierra, nestled in the mountains, boasts a picturesque town and an olive oil haven.
+
+Jerez de la Frontera is known for its sherry production and equestrian tradition, exemplified by the Cartujana horses.
+
+Seville, the heart of Andalusia, is renowned for flamenco, with its vibrant dance performances and rich cultural heritage.
+
+Cordoba displays architectural wonders in the Mezquita, a testament to its Moorish and Christian past, and the charming Judería, the old Jewish quarter.
+
+Sun, 23 Jun 2024 15:15:15 +0530
+### [Pannun plot accusation exposes US hypocrisy on targeted killings](https://www.firstpost.com/opinion/pannun-plot-accusation-exposes-us-hypocrisy-on-targeted-killings-13785269.html)
+
+Article found but Couldn't summarize 
+America has repeatedly violated the UN Charter by eliminating high-value targets in drone strikes on foreign soil
+
+Sun, 23 Jun 2024 12:38:28 +0530
+### [Hunting with hounds, running with hare: China can’t have India ties, both ways](https://www.firstpost.com/opinion/hunting-with-hounds-running-with-hare-china-cant-have-india-ties-both-ways-13785238.html)
+
+India has declined China's request to resume passenger flights, indicating that it will not compromise on its border security with China.
+
+Regarding Pakistan's recent visit to China, India has rejected China's acknowledgment of Pakistan's position on Jammu and Kashmir, reiterating that it remains an integral part of India.
+
+India's stance on the border issue with China is that peace and tranquillity must be restored before normalcy can be resumed. The joint statement between China and Pakistan misinterprets UNSC resolutions, fails to acknowledge India's administrative control over the entire region, and ignores Pakistan's obligation to vacate PoK.
+
+India has maintained a bilateral approach to the Kashmir issue with Pakistan since the Shimla Agreement and has resisted Western involvement. China's involvement in the joint statement raises concerns about its intentions for bilateral ties with India.
+
+Pakistan's recent statements on Kashmir are seen as an attempt to divert attention from its economic crisis. However, it is possible that a plebiscite in PoK could result in the region's integration with India.
+
 Sat, 22 Jun 2024 18:33:48 +0530
 ### [Balochistan on boil: Why situation is turning bleak for Pakistan and its army](https://www.firstpost.com/opinion/balochistan-on-boil-why-situation-is-turning-bleak-for-pakistan-and-its-army-13785083.html)
 

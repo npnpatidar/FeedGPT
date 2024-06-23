@@ -1,3 +1,28 @@
+Sun, 23 Jun 2024 16:00:12 +0530
+### [Ethanol: An eco-friendly fuel or another green mirage?](https://www.livemint.com/opinion/online-views/ethanol-an-eco-friendly-fuel-or-another-green-mirage-11719135697555.html)
+
+Ethanol, initially hailed as a green alternative to fossil fuels, poses potential risks. Its production requires significant energy and water, potentially compromising efforts to diversify crops, conserve water, and secure food supplies. The competition for land use between biofuel and food crops could lead to higher food prices, particularly affecting low-income households. Ethanol's environmental footprint, despite being lower than fossil fuels, may be misleading due to emissions during production, transportation, and processing. Caution is advised before promoting ethanol as a green fuel, as history teaches us that seemingly promising innovations can have unforeseen consequences.
+
+Sun, 23 Jun 2024 15:30:11 +0530
+### [Shorts as office-wear is no longer as unthinkable as it once was](https://www.livemint.com/opinion/online-views/shorts-as-office-wear-is-no-longer-as-unthinkable-as-it-once-was-11719133671823.html)
+
+In the US, the appropriateness of men wearing shorts to work has sparked heated debate, particularly between the West Coast's tech sector, where it's common, and the Northeast, where it's often considered unacceptable. Although norms and perceptions of professionalism vary, showing leg is becoming more acceptable as casual dress becomes more prevalent and queer culture influences mainstream men's fashion. While older workers may resist changes in office attire, younger workers embrace them, recognizing the transition to a new generation. However, the evolution of clothing meaning is evident in the shift from the formal three-piece suit to the casual Patagonia vest, now a symbol of aspiration or preppy culture.
+
+Sun, 23 Jun 2024 15:00:11 +0530
+### [Cooperative federalism may help India bridge its climate adaptation deficit](https://www.livemint.com/opinion/online-views/cooperative-federalism-may-help-india-bridge-its-climate-adaptation-deficit-11719132630069.html)
+
+India has made progress with innovations such as the Digital Public Infrastructure, Public Distribution System, and financial inclusion. However, climate change presents a significant challenge, particularly in the area of climate adaptation. Despite initiatives like the National Action Plan on Climate Change, implementation has been slow and underfunded. The country lacks formal climate legislation and capacity at the state level to address adaptation challenges. Climate-resistant crops, water conservation measures, and adaptation plans are required. The private sector must also contribute to climate action, and development agendas should align with climate realities. Cooperative federalism is essential for decarbonization and adaptation efforts, and climate action should be prioritized as a national security issue.
+
+Sun, 23 Jun 2024 14:00:10 +0530
+### [Manu Joseph: Why the super-rich and we pay the same for house help](https://www.livemint.com/opinion/online-views/manu-joseph-why-the-super-rich-and-we-pay-the-same-for-house-help-11719129425313.html)
+
+The article discusses the conviction of four members of the Hinduja family by a Swiss court for mistreating their house staff, who were from India. The staff was reportedly paid around $8 a day for workdays up to 18 hours long, and had their passports confiscated. The family has appealed the ruling. The article highlights the disparity between working conditions in Europe and India and the common practice among some Indian families to have house-help from India working for low wages. The author criticizes the lack of transparency regarding how much the rich spend on their staff and suggests that a measure of an individual's wealth should include how much they pay their servants. The article concludes by mentioning that the consequences of the Hinduja family case might include a decrease in the number of Indian domestic workers in the West and an increase in the hiring of local help.
+
+Sun, 23 Jun 2024 13:00:08 +0530
+### [CEOs need to challenge hardset mental models to drive growth](https://www.livemint.com/opinion/online-views/ceos-need-to-challenge-hardset-mental-models-to-drive-growth-11719127105905.html)
+
+CEOs can achieve sustainable business growth by embracing a growth mindset that fosters innovation, adaptability, and customer-centricity. By identifying opportunities within crises, they can reimagine their organizations for the digital age, enhance operational efficiencies, and leverage data analysis to predict customer needs. Expanding into adjacent businesses through innovation and collaboration can further drive growth. CEOs must lead by example, challenging assumptions and seeking ways to make their businesses indispensable to customers. By fostering a growth mindset and implementing smart strategies, CEOs can position their organizations for resilient growth even in challenging economic conditions.
+
 Sat, 22 Jun 2024 09:00:18 +0530
 ### [When Yusuf Hamied defied Big Pharma in the battle against HIV/AIDS](https://www.livemint.com/opinion/online-views/yusuf-hamied-big-pharma-hiv-aids-cipla-ranbaxy-lupin-merk-glaxo-pharma-companies-11718965347272.html)
 
