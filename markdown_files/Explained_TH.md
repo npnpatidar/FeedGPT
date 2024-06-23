@@ -1,3 +1,19 @@
+Sun, 23 Jun 2024 03:57:00 +0530
+### [What can the Railways do to stop accidents? | Explained](https://www.thehindu.com/news/national/what-can-the-railways-do-to-stop-accidents-explained/article68321591.ece)
+
+A train accident near New Jalpaiguri in West Bengal resulted in 10 deaths and over 40 injuries. The accident was caused by a goods train hitting the Kanchanjunga Express due to malfunctioning automatic signaling. The Railway Board initially blamed the loco pilot of the goods train, but the blame was later rescinded. The article discusses various factors that contribute to railway accidents, including human error and lack of modern safety technology. It also highlights the need for the Union government to prioritize debates in Parliament to improve the Indian Railways.
+
+Sun, 23 Jun 2024 03:37:00 +0530
+### [Are heatwaves natural disasters? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/are-heatwaves-natural-disasters/article68321611.ece)
+
+Article found but Couldn't summarize 
+Who decides which disasters qualify for relief and aid? Are all heatwave deaths reported and counted?
+
+Sun, 23 Jun 2024 03:13:00 +0530
+### [Where does India stand with respect to the G-7? | Explained](https://www.thehindu.com/news/national/where-does-india-stand-with-respect-to-the-g-7/article68321654.ece)
+
+Leaders of the Group of Seven met in Italy to discuss a range of issues, including funding for the Ukraine war, investment in Africa, migration, climate change, and artificial intelligence. India was invited to the outreach session for the 11th time, and Prime Minister Narendra Modi attended for the fifth time. The G-7 is facing criticism for being an elitist, non-inclusive group, and its relevance is being questioned. The G-7 will convene for the annual summit in Canada in 2025, and it remains to be seen if India will continue to accept a spot on its margins.
+
 Sat, 22 Jun 2024 13:32:18 +0530
 ### [What does the European Union’s new Nature Restoration Plan include? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/european-union-new-nature-restoration-plan-explained/article68319898.ece)
 

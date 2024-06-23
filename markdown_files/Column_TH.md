@@ -1,3 +1,9 @@
+Sat, 22 Jun 2024 21:25:17 +0530
+### [From the desirable to the derogatory](https://www.thehindu.com/opinion/columns/from-the-desirable-to-the-derogatory/article68319809.ece)
+
+Article found but Couldn't summarize 
+Wokeness, like political correctness, can tear when it is stretched too tight
+
 Thu, 20 Jun 2024 16:19:04 +0530
 ### [Column | When the rupee ruled](https://www.thehindu.com/opinion/columns/when-the-rupee-ruled-mughal-currency-trade-coin-east-india-company/article68303999.ece)
 

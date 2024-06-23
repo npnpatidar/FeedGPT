@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explain_FP.xml</link>
 		<description>Explain FP</description>
 		<item>
+			<title>Anthropic's AI model, Claude 3.5 Sonnet launched. How does it compare to ChatGPT-4o, Gemini?</title>
+			<link>https://www.firstpost.com/explainers/anthropics-ai-claude-3-5-sonnet-vs-chatgpt-4o-vs-gemini-13785087.html</link>
+			<description>Anthropic, a leading contender in the AI space, has launched its latest innovation: Claude 3.5 Sonnet, which they claim surpasses competitors like OpenAIâs GPT-4o and Googleâs Gemini-1.5 Pro. The article explains how well the new AI model has performed on benchmark tests and whether the results should be taken as an accurate indicator of practical usefulness. The tests measure the model's proficiency in areas such as reasoning, coding, math problem-solving, and more. While Claude 3.5 Sonnet generally outperforms its competitors in most benchmarks, the practical effectiveness of these models will ultimately depend on their performance in real-world scenarios.</description>
+			<pubDate>Sat, 22 Jun 2024 18:50:56 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/Claude-3.5-sonnet-vs-ChatGPT-4o-vs-Gemini-1.5-Pro-2024-06-53d14ebad1032d01935ab8a773e225ae.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/Claude-3.5-sonnet-vs-ChatGPT-4o-vs-Gemini-1.5-Pro-2024-06-53d14ebad1032d01935ab8a773e225ae.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Quicksplained: Who is Suborno Bari, the ‘world’s youngest professor’ graduating high school?</title>
 			<link>https://www.firstpost.com/explainers/quicksplained-suborno-bari-worlds-youngest-professor-graduating-high-school-13785067.html</link>
 			<description>Suborno Bari, a 12-year-old prodigy from Lynbrook, New York, is set to graduate from Malverne High School on June 26, becoming the youngest American graduate from the Indian subcontinent. He will then attend New York University in the fall, having been admitted to their gifted and talented program at Harvard at the age of 9. Bari has already authored two books and, at the age of 11, scored a perfect 1500 on the SAT. He has been called the "youngest professor in the world" and has given lectures at Indian universities. Bari aims to become a professor and complete his Bachelor's degree by 14 and earn a Doctorate by age 18.</description>

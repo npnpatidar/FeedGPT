@@ -1,3 +1,8 @@
+Sat, 22 Jun 2024 13:53:50 +0000
+### [Arundhati Roy, Kashmir and animal cruelty: View from Pakistan](https://indianexpress.com/article/opinion/columns/pakistan-arundhati-roy-kashmir-animal-cruelty-9408750/)
+
+Article found but Couldn't summarize
+
 Sat, 22 Jun 2024 10:30:11 +0000
 ### [The moral conundrum after killing a mosquito – and questions about our society and government](https://indianexpress.com/article/opinion/columns/mosquito-killing-moral-conundrum-society-government-questions-9408456/)
 

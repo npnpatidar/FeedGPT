@@ -1,3 +1,8 @@
+Sat, 22 Jun 2024 18:50:56 +0530
+### [Anthropic's AI model, Claude 3.5 Sonnet launched. How does it compare to ChatGPT-4o, Gemini?](https://www.firstpost.com/explainers/anthropics-ai-claude-3-5-sonnet-vs-chatgpt-4o-vs-gemini-13785087.html)
+
+Anthropic, a leading contender in the AI space, has launched its latest innovation: Claude 3.5 Sonnet, which they claim surpasses competitors like OpenAIâs GPT-4o and Googleâs Gemini-1.5 Pro. The article explains how well the new AI model has performed on benchmark tests and whether the results should be taken as an accurate indicator of practical usefulness. The tests measure the model's proficiency in areas such as reasoning, coding, math problem-solving, and more. While Claude 3.5 Sonnet generally outperforms its competitors in most benchmarks, the practical effectiveness of these models will ultimately depend on their performance in real-world scenarios.
+
 Sat, 22 Jun 2024 17:50:23 +0530
 ### [Quicksplained: Who is Suborno Bari, the ‘world’s youngest professor’ graduating high school?](https://www.firstpost.com/explainers/quicksplained-suborno-bari-worlds-youngest-professor-graduating-high-school-13785067.html)
 
