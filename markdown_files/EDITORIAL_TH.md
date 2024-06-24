@@ -1,3 +1,18 @@
+Mon, 24 Jun 2024 00:20:00 +0530
+### [Limit and excess: On the Patna High Court judgment and enhanced reservation](https://www.thehindu.com/opinion/editorial/limit-and-excess-on-the-patna-high-court-judgment-and-enhanced-reservation/article68324378.ece)
+
+Article found but Couldn't summarize 
+Creamy layer should be kept out, but the ceiling on quota is artificial
+
+Mon, 24 Jun 2024 00:10:00 +0530
+### [​Money and muscle: On Assembly bye-elections and Tamil Nadu](https://www.thehindu.com/opinion/editorial/%E2%80%8Bmoney-and-muscle-on-assembly-by-elections-and-tamil-nadu/article68324405.ece)
+
+In the Vikravandi constituency's upcoming bye-election, the AIADMK has announced a poll boycott, alleging concerns over electoral malpractices. Despite a three-out-of-four win rate for ruling parties in Tamil Nadu bye-elections since 1977, the AIADMK's boycott is seen as a fear of repeating its recent electoral failures.
+
+Previous bye-elections have been marred by accusations of bribery and other electoral offenses. The Election Commission of India (ECI) is tasked with ensuring a free and transparent election. Despite its authority to freeze party symbols for electoral misconduct, this power has never been used in Tamil Nadu.
+
+To curb electoral malpractice, the ECI must take a strong stance and demonstrate zero tolerance for bribery. Additionally, civil society organizations play a crucial role in educating voters against succumbing to such practices.
+
 Sat, 22 Jun 2024 00:20:00 +0530
 ### [Testing times: On the need to mend the National Testing Agency](https://www.thehindu.com/opinion/editorial/testing-times-on-the-need-to-mend-the-national-testing-agency/article68316647.ece)
 

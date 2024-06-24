@@ -1,3 +1,19 @@
+Sun, 23 Jun 2024 14:52:09 +0000
+### [How the third innings of Modi-Hasina partnership can benefit India and Bangladesh](https://indianexpress.com/article/opinion/columns/india-bangladesh-relations-modi-hasina-9410281/)
+
+Indian Prime Minister Modi and Bangladesh Prime Minister Sheikh Hasina have formed a strong partnership, with the two countries signing 10 MoUs to enhance cooperation in areas such as digital partnership, energy, infrastructure, and security. The economic relationship has grown, with trade reaching $15.9 billion in 2023. However, challenges remain, such as the Teesta water sharing dispute and border killings. The article emphasizes the potential positive impact of the Indo-Bangla relationship on the broader South Asian region and highlights the need for regional cooperation and collaboration.
+
+Sun, 23 Jun 2024 14:24:38 +0000
+### [From the Opinions Editor: Examination irregularities are symptoms of gap between aspirations and opportunities](https://indianexpress.com/article/opinion/columns/examination-irregularities-aspirations-opportunities-gap-9410291/)
+
+The recent cancellation and postponement of exams, along with the removal of the head of the entrance test agency, has heightened student anxiety due to the already flawed entrance examination system. This system has long been plagued by controversies, leading to the government appointing a committee to address the issues.
+
+The hypercompetitiveness of exams is exacerbated by the scarcity of opportunities for an expanding aspirational class, with millions vying for limited seats. The societal bias towards medical and engineering degrees, as well as government jobs, further contributes to the problem.
+
+The preference for these fields reflects an inadequate range of opportunities, as the number of government jobs has remained stagnant and affordable education has not kept pace with demand. This gap benefits the job and examination mafia, while disadvantaging marginalized groups.
+
+India's demographic dividend can only be realized by creating more jobs and education opportunities, enhancing skills, and addressing historical inequalities. Incremental measures are insufficient, and the government must listen to diverse voices, including the Opposition.
+
 Sun, 23 Jun 2024 10:36:00 +0000
 ### [Why India needs an internal security plan for the next five years](https://indianexpress.com/article/opinion/columns/india-internal-security-plan-next-five-years-9409874/)
 

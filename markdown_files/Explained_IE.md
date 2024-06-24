@@ -1,3 +1,18 @@
+Sun, 23 Jun 2024 17:09:23 +0000
+### [Tajikistan hijab ban: With 90% Muslim population, why this decision was made](https://indianexpress.com/article/explained/explained-global/tajikistan-muslim-hijab-ban-9410457/)
+
+The Tajikistan government has formally banned the wearing of the hijab in the country, with violations attracting fines. President Emomali Rahmon seeks to promote "Tajiki" culture and minimize the visibility of public religiosity, as part of his politics and grip on power. He has served as the President of the Central Asian nation since 1994 and has instituted changes to the country's constitution to cement his authority. The ban on the hijab is the latest in a series of steps from President Rahmon, who heads a secular government, to promote what he has deemed "Tajiki" culture and minimise the visibility of public religiosity.
+
+Sun, 23 Jun 2024 14:45:52 +0000
+### [Can Greece’s new six-day workweek be a model for others?](https://indianexpress.com/article/explained/explained-global/greece-six-day-workweek-model-9410305/)
+
+Article found but Couldn't summarize
+
+Sun, 23 Jun 2024 13:47:25 +0000
+### [What is Dodol, the Goan sweet vying for a GI tag?](https://indianexpress.com/article/explained/explained-culture/dodol-goa-gi-tag-history-9410228/)
+
+Article found but Couldn't summarize
+
 Sun, 23 Jun 2024 11:56:29 +0000
 ### [Recalling 2015, when SC cancelled the medical entrance exam to ‘maintain sanctity and credibility of the process’](https://indianexpress.com/article/explained/medical-entrance-exam-cancel-neet-aipmt-9410028/)
 

@@ -1,3 +1,9 @@
+Sun, 23 Jun 2024 23:01:44 +0530
+### [What are the duties of a Speaker? | Explained](https://www.thehindu.com/news/national/what-are-the-duties-of-a-speaker/article68325041.ece)
+
+Article found but Couldn't summarize 
+What does the office of the ‘Speaker pro tem’ mean? What does the Constitution state? Who elects the Deputy Speaker of the Lok Sabha? How can the impartiality of the Speaker’s office be preserved? What are the main roles of the Speaker?
+
 Sun, 23 Jun 2024 03:57:00 +0530
 ### [What can the Railways do to stop accidents? | Explained](https://www.thehindu.com/news/national/what-can-the-railways-do-to-stop-accidents-explained/article68321591.ece)
 

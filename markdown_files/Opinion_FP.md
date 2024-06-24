@@ -1,3 +1,8 @@
+Sun, 23 Jun 2024 18:45:25 +0530
+### [Why Rajnath Singh and Jaishankar need to collaborate even more in Modi 3.0](https://www.firstpost.com/opinion/why-rajnath-singh-and-jaishankar-need-to-collaborate-even-more-in-modi-3-0-13785342.html)
+
+Amidst global geopolitical, geoeconomic, and technological turmoil, India's defense and foreign policies face numerous challenges requiring an integrated approach between the Raksha Mantri and Foreign Minister. These challenges include maintaining strategic neutrality between the US and Russia, navigating the emerging relationship between Russia and China, handling Iran-Israel-Palestine tensions, managing relations with the US amidst shifting trust, addressing the China challenge at the LAC, resolving issues with Nepal, addressing radicalization in Bangladesh and Chinese influence in the region, countering Chinese diplomacy with Bhutan, and engaging with the Maldives despite its anti-India stance.
+
 Sun, 23 Jun 2024 18:21:47 +0530
 ### [The wonder that was India: Retracing ancient Nalanda’s high-quality education parameters](https://www.firstpost.com/opinion/the-wonder-that-was-india-retracing-ancient-nalandas-high-quality-education-parameters-13785332.html)
 
