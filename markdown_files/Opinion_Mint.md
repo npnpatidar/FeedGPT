@@ -1,3 +1,74 @@
+Mon, 24 Jun 2024 16:00:02 +0530
+### [All Generative AI output is essentially a hallucination](https://www.livemint.com/opinion/online-views/all-generative-ai-output-is-essentially-a-hallucination-11719165402515.html)
+
+Large Language Models (LLMs), such as ChatGPT, are prone to "hallucination," where they create content based on probabilistic analysis rather than accurate information. This is because LLMs are not based on a data store of words or images but instead use mathematical sequences to predict the most likely next word or action. As a result, they may produce logical but untrue responses, especially if the user is not familiar with the topic. Researchers are working on reducing these errors, but there is still a chance that LLMs may make mistakes or create biased or offensive content.
+
+Mon, 24 Jun 2024 15:56:58 +0530
+### [India needs a heatwave allowance. But the govt will have to set the ball rolling](https://www.livemint.com/opinion/india-needs-a-heatwave-allowance-but-the-govt-will-have-to-set-the-ball-rolling-11719224373723.html)
+
+To address extreme heat conditions faced by Indian government employees and private-sector workers, the government should consider instituting a heatwave allowance. This allowance could signal to private employers to implement similar policies for workers exposed to heat or pollution. Variations of the allowance could account for seasonal variations in temperature and air quality. Globally, hardship allowances exist for work performed under unfavourable conditions like extreme weather. In India, the government grants risk and hardship allowances to personnel in tough operational areas. Extreme heatwave conditions have resulted in significant cases of heatstroke and deaths in India, impacting labor productivity and GDP. Adjusting working hours and extreme heat insurance are other ways to manage this risk.
+
+Mon, 24 Jun 2024 15:00:00 +0530
+### [Marlboro maker’s Zyn nicotine pouch can’t save Big Tobacco](https://www.livemint.com/opinion/online-views/marlboro-maker-s-zyn-nicotine-pouch-can-t-save-big-tobacco-11719165223616.html)
+
+Philip Morris has suspended online sales of Zyn nicotine pouches in response to a subpoena about flavored product sales in Washington, D.C. amid growing concerns over its sales and marketing practices, especially among youth. Amid scrutiny similar to that faced by vaping, Zyn's popularity has raised concerns about its potential health risks and addiction trends. The incident highlights the challenges in tobacco companies' shift towards reduced-risk products, with scrutiny potentially leading to stricter regulations on flavors or even an outright ban.
+
+Mon, 24 Jun 2024 14:00:17 +0530
+### [Finance Commission and Indian cities: A blueprint for municipal finance](https://www.livemint.com/opinion/online-views/finance-commission-and-indian-cities-a-blueprint-for-municipal-finance-11719165063197.html)
+
+India's cities suffer from inadequate funding, limited absorptive capacity, and poor accountability. To address these challenges, several reforms are needed:
+
+* **Fiscal Decentralization:** Ensure predictable and timely fiscal transfers from the central and state governments, devolve revenue streams related to city functions, and grant local governments adequate expenditure authority.
+
+* **Revenue Optimization:** Cities should enhance the efficiency of their revenue collection processes by reforming the stages of own revenue life-cycle and ensuring valuation powers rest with them.
+
+* **Fiscal Responsibility and Budget Management:** Improve the legal framework for accounting, budgeting, and financial reporting in cities to ensure transparency and accountability.
+
+* **Transparency and Accountability:** Implement radical transparency by publicly disclosing municipal budgets and project details in machine-readable formats, and promote citizen participation in budgeting and governance.
+
+* **State Capacity:** Enhance the capacity of state and local governments by addressing staff shortages, improving skills, and implementing process reforms alongside digitalization.
+
+The 16th Finance Commission should prioritize these reforms and provide guidance and incentives to state governments, leveraging its influence to drive public finance reforms for India's cities.
+
+Mon, 24 Jun 2024 12:30:14 +0530
+### [Data users need clarity on numbers from the statistics ministry](https://www.livemint.com/opinion/online-views/data-users-need-clarity-on-numbers-from-the-statistics-ministry-11719164906407.html)
+
+In the US, an email containing methodological details about inflation calculations was shared with select "super users" before the official announcement, raising concerns about preferential treatment. The agency clarified that the data was not shared in advance but rather provided context. However, the episode highlighted the need for standardized communication protocols in statistical agencies.
+
+Emergent markets like India face additional challenges due to data gaps and inconsistencies, often addressed using "heroic assumptions." India's statistical agency, Mospi, has been criticized for its secrecy and reluctance to engage with data users.
+
+To address these concerns, the article recommends that statistical agencies:
+
+* Present clear and detailed data releases, but also provide mechanisms for follow-up queries from data users.
+* Respond to queries both internally and externally, ensuring equal access to information.
+* Improve communication protocols and establish codes of practice for officials, fostering transparency and trust in official statistics.
+* Enhance data responsiveness by making ongoing surveys, data releases, and query response systems publicly available.
+
+Mon, 24 Jun 2024 10:30:10 +0530
+### [Getting insured is one thing, adequate life-insurance cover is another](https://www.livemint.com/opinion/online-views/getting-insured-is-one-thing-adequate-life-insurance-cover-is-another-11719164803455.html)
+
+Life is unpredictable, requiring financial preparedness like a strong football defense. A solid financial plan, especially a life insurance policy, provides protection for your loved ones. India's insurance penetration is growing, but there is a gap in coverage adequacy. It's crucial to assess your income, expenses, and liabilities to determine the optimal level of life insurance coverage, generally 10 times your annual income. Regular policy reviews ensure you have adequate protection and avoid overpaying premiums. Just as a solid defense game plan wins football matches, proper financial planning with life insurance can protect your family's future goals.
+
+Mon, 24 Jun 2024 08:30:06 +0530
+### [Ideological contradictions rule but can also spur new ideas](https://www.livemint.com/opinion/online-views/ideological-contradictions-rule-but-can-also-spur-new-ideas-11719164598398.html)
+
+The knowledge universe is constantly evolving, with new ideas emerging from the contradictions and conflicts of old ones. This process requires humility and courage to overcome initial challenges and find solutions that build upon the past.
+
+Economic policies are also undergoing a shift, with ideologies becoming less rigid. Governments are increasingly intervening in the economy to address social and economic challenges, forcing a re-examination of traditional beliefs.
+
+Incongruities and contradictions are prevalent in India, including in the government's economic policies. This creates a need for innovative solutions, particularly in the upcoming Union budget, which should focus on employment creation and income generation.
+
+Mon, 24 Jun 2024 08:00:07 +0530
+### [Ganga needs joint efforts to regain its old strength](https://www.livemint.com/opinion/ganga-needs-joint-efforts-to-regain-its-old-strength-11719131891252.html)
+
+The Ganga River, revered for its cultural and religious significance, is facing severe pollution issues. Studies indicate extremely unhealthy Biochemical Oxygen Demand (BOD) and high solid waste content, significantly reducing transparency and causing a decline in aquatic life. Despite efforts to clean the river, sewage continues to be discharged into it, and dredging has been neglected. The situation is particularly alarming in Varanasi, where untreated sewage, industrial waste, and chemicals contaminate the water and soil, affecting the health of humans and ecosystems.
+
+Mon, 24 Jun 2024 07:00:04 +0530
+### [Mint Quick Edit | GST needs a remake, not just small tweaks](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-gst-needs-a-remake-not-just-small-tweaks-11719164474312.html)
+
+Article found but Couldn't summarize 
+The GST Council has announced various changes to make compliance easier. Good. For impact, though, it needs to move beyond minutiae and take up ambitious reforms.
+
 Sun, 23 Jun 2024 16:00:12 +0530
 ### [Ethanol: An eco-friendly fuel or another green mirage?](https://www.livemint.com/opinion/online-views/ethanol-an-eco-friendly-fuel-or-another-green-mirage-11719135697555.html)
 

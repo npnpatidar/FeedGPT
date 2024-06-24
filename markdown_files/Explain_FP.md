@@ -1,3 +1,86 @@
+Mon, 24 Jun 2024 16:01:08 +0530
+### [Trash war: What's inside the balloons that North Korea is sending across the border?](https://www.firstpost.com/explainers/trash-war-whats-inside-the-balloons-that-north-korea-is-sending-across-the-border-13785601.html)
+
+Article found but Couldn't summarize 
+North Korea has been flying balloons since late May into the South. An analysis reveals that many of them had articles printed with Hello Kitty characters, badly worn clothing, and soil containing traces of human faeces and parasites
+
+Mon, 24 Jun 2024 14:54:02 +0530
+### [NEET, NET rows: How Bihar has gained notoriety for exam cheating](https://www.firstpost.com/explainers/neet-net-rows-bihar-board-exam-cheating-education-13785555.html)
+
+Article found but Couldn't summarize 
+The NEET, NET exam paper leaks have brought Bihar to the centre stage. The Hindi belt state has gained notoriety over the years for mass cheating in Bihar board examinations. The decline in learning levels in schools is another cause of alarm
+
+Mon, 24 Jun 2024 14:24:40 +0530
+### [Heatwave scorches east as floods devastate Midwest: How extreme weather is wreaking havoc in the US](https://www.firstpost.com/explainers/heatwave-scorches-east-as-floods-devastate-midwest-how-extreme-weather-is-wreaking-havoc-in-the-us-13785539.html)
+
+Millions of Americans are facing extreme weather conditions, with a severe heatwave affecting large parts of the country and devastating floods striking the Midwest. In Iowa, 13 rivers flooded, forcing evacuations and causing significant damage. South Dakota is also grappling with severe flooding, and the rest of the country is enduring a relentless heatwave, with temperatures breaking records in several areas. The heatwave has caused significant disruptions to infrastructure and health, and rare tornado threats and flash flooding concerns have been reported in the Northeast. The US is facing an unprecedented challenge and is bracing itself for ongoing disruptions while attempting to prioritize safety and preparedness in the face of these natural disasters.
+
+Mon, 24 Jun 2024 13:30:45 +0530
+### [To cover or not to cover: Why Tajikistan, with over 10 million Muslims, is banning the hijab](https://www.firstpost.com/explainers/tajikistan-10-million-muslims-banning-hijab-president-emomali-rahmon-13785517.html)
+
+Tajikistan has officially banned the wearing of hijabs for women, with violators facing fines of up to $3,724. The ban is part of the government's efforts to promote a secular national identity and protect what it considers to be the country's traditional culture. The ban has been criticized by Muslim advocacy groups and human rights organizations as a violation of religious freedom. Tajikistan has long had an unofficial ban on religious wear in public institutions. The government has also promoted Tajik traditional clothing and has implemented other restrictions on dress and appearance in recent years. Tajikistan is not the only Muslim country to ban the hijab, as similar bans have been implemented in Kazakhstan, Kosovo, Azerbaijan, and Kyrgyzstan. However, such bans have been criticized as being incompatible with international human rights standards.
+
+Mon, 24 Jun 2024 12:42:08 +0530
+### [Love triumphs all as Sonakshi-Zaheer tie the knot under Special Marriage Act: What is it?](https://www.firstpost.com/explainers/love-triumphs-all-as-sonakshi-sinha-zaheer-iqbal-wedding-under-special-marriage-act-what-is-it-13785504.html)
+
+Under the Special Marriage Act, Sonakshi Sinha and Zaheer Iqbal tied the knot. The Act allows interfaith couples to wed without adhering to religious customs.
+
+Key Features of the Act:
+
+* Secular marriage independent of religious rituals.
+* Open to all Indian citizens, regardless of religion.
+* Official marriage registration.
+* Age of consent: 21 for men, 18 for women.
+* 30-day notice period for objections.
+* Solemnization with witnesses and certificate issuance.
+
+The Act provides benefits like:
+
+* Interreligious marriage facilitation.
+* Legal safeguards and gender equality.
+* Simplified marriage procedure.
+
+Challenges include:
+
+* 30-day notice period scrutiny.
+* Bureaucratic hurdles and lack of awareness.
+
+Notable couples married under the Act include Kareena Kapoor Khan and Saif Ali Khan. Court judgments have addressed issues such as bigamy and interfaith marriage rights.
+
+The Special Marriage Act promotes secularism and inclusivity, upholding principles of equality and personal freedom in diverse Indian society.
+
+Mon, 24 Jun 2024 12:04:10 +0530
+### [Who was Dasari Gopikrishna, the 32-year-old from Andhra Pradesh killed in US supermarket shooting?](https://www.firstpost.com/explainers/indian-killed-in-us-super-market-shooting-incident-who-was-dasari-gopikrishna-from-andhra-pradesh-13785454.html)
+
+Dasari Gopikrishna, a 32-year-old Indian student from Andhra Pradesh, tragically lost his life in a mass shooting at a supermarket in Fordyce, Arkansas. The incident, which occurred on June 21, claimed four lives and left many injured when a gunman opened fire during a robbery attempt. Gopikrishna, who had recently moved to the US in search of employment, was fatally shot while working at the store. The shooting has sparked condolences from Indian officials and highlighted concerns over rising gun violence in the country.
+
+Mon, 24 Jun 2024 09:58:41 +0530
+### [PDF of question paper, solver gang, and more… What probe in NEET-UG exam leak reveals so far](https://www.firstpost.com/explainers/pdf-question-paper-solver-gang-probe-neet-ug-exam-leak-cbi-bihar-police-13785465.html)
+
+Article found but Couldn't summarize 
+The probe into the alleged irregularities in the NEET-UG exam continues with the CBI now taking over. Earlier, Bihar Police’s officials arrested five people, of which one is believed to be the mastermind behind the exam leak. Authorities say he received a PDF of the solved question paper a day before the exam
+
+Mon, 24 Jun 2024 09:41:05 +0530
+### [Why world's biggest bond investors are set to bet big on India](https://www.firstpost.com/explainers/india-bond-market-jpmorgan-investment-global-investors-13785437.html)
+
+JPMorgan's inclusion of India in its largest emerging-market bond index on June 28 is expected to attract $40 billion in global investment in Indian debt. This move signals investor confidence in India's financial stability and economic prospects.
+
+India's 10-year government bonds currently yield around 7%, offering a premium over similar bonds in developed markets. Its sovereign credit rating implies higher risk, but investors are seeking higher yields as compensation.
+
+The Indian bond market is considered a diversification tool, as Indian bonds have shown a low correlation with global bonds. India's tax policies and market reforms have made it attractive for foreign investment.
+
+Mon, 24 Jun 2024 08:57:45 +0530
+### [How corporate America is battling the rise of ‘keyboard frauds’](https://www.firstpost.com/explainers/corporate-america-battling-keyboard-frauds-13784080.html)
+
+Article found but Couldn't summarize 
+Employees turn to several methods including ‘keyboard fraud’ as they fight productivity-obsessed corporate American work culture. They outsmart management into thinking that they are doing the job. But some have been caught and even fired
+
+Mon, 24 Jun 2024 06:00:13 +0530
+### [FirstUp: First session of 18th Lok Sabha, Andhra Cabinet meeting… News today](https://www.firstpost.com/explainers/firstup-18th-lok-sabha-first-session-andhra-pradesh-cabinet-meeting-news-today-13785024.html)
+
+Article found but Couldn't summarize 
+The first session of the 18th Lok Sabha will begin today, and the newly elected members will also take the oath. The first Cabinet meeting of the new NDA government in Andhra Pradesh is also scheduled. The Indigenous Tribal Leaders' Forum members will stage non-violent demonstrations to press for its demand for a Union Territory for the Kuki-Zo people of Manipur
+
 Sun, 23 Jun 2024 14:33:16 +0530
 ### [Love lost: Can romantic breakups spark severe trauma?](https://www.firstpost.com/explainers/romantic-breakups-severe-trauma-13783624.html)
 

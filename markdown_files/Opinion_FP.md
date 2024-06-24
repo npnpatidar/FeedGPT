@@ -1,3 +1,42 @@
+Mon, 24 Jun 2024 16:44:24 +0530
+### [From Ukraine to Taiwan: How 'zones of denial' strategies dominate 21st-century modern warfare](https://www.firstpost.com/opinion/from-ukraine-to-taiwan-how-zones-of-denial-strategies-dominate-21st-century-modern-warfare-13785635.html)
+
+Article found but Couldn't summarize 
+Anti-access/area denial tactics, designed to prevent adversaries from entering a theatre of operations and limit their freedom of action within it, are reshaping the geopolitical landscape
+
+Mon, 24 Jun 2024 15:57:03 +0530
+### [PM Modi’s big message at G7: India Story remains unchanged post poll results](https://www.firstpost.com/opinion/pm-modis-big-message-at-g7-india-story-remains-unchanged-post-poll-results-13785620.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi’s participation in the G7 summit sent the message that his plans and ambitions for India had not been affected by the election results and that he remained firmly in charge
+
+Mon, 24 Jun 2024 15:37:02 +0530
+### [Russia and North Korea: A tale of a nuclear bromance](https://www.firstpost.com/opinion/russia-and-north-korea-a-tale-of-a-nuclear-bromance-13785588.html)
+
+Article found but Couldn't summarize 
+The Russia-North Korea pact seems to be in direct retaliation to the West’s policy of isolating Pyongyang because of its nuclear programme and the rumoured supply of high-precision and advanced weapons to Ukraine with permission to use them to target areas inside Russia
+
+Mon, 24 Jun 2024 14:24:53 +0530
+### [Head-on | The end of the Washington Consensus](https://www.firstpost.com/opinion/head-on-the-end-of-the-washington-consensus-13785557.html)
+
+The "Washington Consensus" is a set of economic policies that were once considered essential for developing countries. However, critics argue that these policies have not worked, particularly in Latin America, and that they have allowed China to surpass the United States in several technological areas.
+
+The consensus is also seen as a way for the West to maintain control over the global economy and security. Any rising power that challenges the consensus faces confrontation, such as economic sanctions against Russia and a ban on high-tech chips for China.
+
+While India is currently seen as a counterweight to China in the Indian Ocean Region, the country's growing economy and military could make it a future target of Western pressure. India's unique geography and demography give it strategic importance, and its software and space capabilities are rapidly developing.
+
+As the balance of world power shifts towards the Global South, there is a need for a new development paradigm based on cultural contexts and human cognition. The Washington Consensus has not addressed these issues and has hindered the emergence of a new approach.
+
+Mon, 24 Jun 2024 12:35:27 +0530
+### [The fall of Hong Kong: India must change its approach to lure fleeing investments](https://www.firstpost.com/opinion/the-fall-of-hong-kong-india-must-change-its-approach-to-lure-fleeing-investments-13785497.html)
+
+As global companies seek alternatives to China following Beijing's crackdown in Hong Kong, India, despite its economic growth and skilled workforce, has failed to capture a significant share of relocating businesses. This suggests that India is not adequately removing barriers to foreign investment. To fully leverage the opportunities presented by companies de-risking from China, Indian leaders need to address this issue. Attracting and retaining foreign firms not only contributes to economic growth but also enhances India's global influence and national security by leveraging their connections in home capitals.
+
+Mon, 24 Jun 2024 09:45:15 +0530
+### [Russia’s pivot to South China Sea: Decoding Putin’s North Korea, Vietnam visits](https://www.firstpost.com/opinion/russias-pivot-to-south-china-sea-decoding-putins-north-korea-vietnam-visits-13785421.html)
+
+President Vladimir Putin seeks to shift the focus of conflict from Ukraine to the South China Sea, where China claims sovereignty over disputed islands. By aligning with China, Vietnam, and North Korea, Russia aims to counter US influence in the region. This move escalates tensions between Russia and the US, potentially leading to a proxy war in the Indo-Pacific. The situation poses a risk of nuclear escalation and regional instability, especially for smaller nations who may become battlegrounds for major power conflicts. Taiwan, with its close ties to the US, faces concerns over potential Chinese aggression.
+
 Sun, 23 Jun 2024 18:45:25 +0530
 ### [Why Rajnath Singh and Jaishankar need to collaborate even more in Modi 3.0](https://www.firstpost.com/opinion/why-rajnath-singh-and-jaishankar-need-to-collaborate-even-more-in-modi-3-0-13785342.html)
 

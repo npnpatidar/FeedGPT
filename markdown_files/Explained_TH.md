@@ -1,3 +1,12 @@
+Mon, 24 Jun 2024 08:30:00 +0530
+### [How is methanol procured and used as liquor? | Explained](https://www.thehindu.com/news/national/how-is-methanol-procured-and-used-as-liquor-explained/article68325031.ece)
+
+The Kallakurichi illicit liquor tragedy, which claimed over 50 lives, is attributed to methanol consumption. Methanol, a poisonous substance produced from fuels, is illegally procured and mixed into illicit alcohol.
+
+Despite laws regulating methanol in Tamil Nadu, a methanol pilferage racket operates. Bootleggers may have used methanol in the crude distillation process or added it separately, leading to widespread contamination.
+
+Methanol poisoning is a recurring issue in India, highlighting the need for strong central legislation to regulate methanol supply and prevent its diversion into illegal channels. As India plans to ramp up methanol production for use as an alternative fuel, keeping methanol separate from ethanol is crucial to prevent tragedies like Kallakurichi.
+
 Sun, 23 Jun 2024 23:01:44 +0530
 ### [What are the duties of a Speaker? | Explained](https://www.thehindu.com/news/national/what-are-the-duties-of-a-speaker/article68325041.ece)
 

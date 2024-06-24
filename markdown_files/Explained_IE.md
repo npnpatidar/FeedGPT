@@ -1,3 +1,13 @@
+Mon, 24 Jun 2024 11:09:30 +0000
+### [Explained: Behind Kerala Assembly’s demand to rename state as Keralam](https://indianexpress.com/article/explained/explained-politics/kerala-assemblys-demand-keralam-rename-9411895/)
+
+Article found but Couldn't summarize
+
+Mon, 24 Jun 2024 02:20:57 +0000
+### [18th Lok Sabha session begins today: How do MPs take oath? What happens if an MP is in jail?](https://indianexpress.com/article/explained/oath-taking-in-lok-sabha-9410598/)
+
+The first session of the 18th Lok Sabha will start on Monday. Before the House can begin its legislative functioning, the newly elected members will have to take the oath of Members of Parliament (MP), which is provided in the Constitution. The day will begin in Rashtrapati Bhavan, where Bhartruhari Mahtab — who has been elected for the seventh consecutive time from Cuttack, Odisha — will be the first one to take the oath of a Lok Sabha MP in front of President Droupadi Murmu. The President has entrusted him with the duties of the Speaker (pro tem) under Article 95(1) of the Constitution till the election of the new Speaker. The term of an MP begins when the Election Commission of India (ECI) declares the results according to Section 73 of the Representation of the People Act, 1951. From that day onward, MPs are eligible for certain rights as elected representatives. For example, they start receiving their salary and allowances from the date of ECI notification. The parliamentary oath is significant because it allows an MP to participate in House proceedings. The Constitution’s third schedule contains the text of the parliamentary oath. The oath has evolved over the years and MPs must take the oath before being called upon to take the oath or affirmation. Oaths and affirmations are a matter of personal choice for MPs. The Constitution specifies that if an MP does not attend Parliament for 60 days, their seat can be declared vacant. Courts have used this ground to allow MPs in jail to take an oath in Parliament.
+
 Sun, 23 Jun 2024 17:09:23 +0000
 ### [Tajikistan hijab ban: With 90% Muslim population, why this decision was made](https://indianexpress.com/article/explained/explained-global/tajikistan-muslim-hijab-ban-9410457/)
 
