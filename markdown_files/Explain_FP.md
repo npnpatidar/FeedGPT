@@ -1,3 +1,24 @@
+Mon, 24 Jun 2024 20:08:40 +0530
+### [In Graphics | The countries you can travel to visa-free on an Indian passport](https://www.firstpost.com/explainers/in-graphics-the-countries-you-can-travel-to-visa-free-on-an-indian-passport-13785673.html)
+
+Article found but Couldn't summarize 
+Visa-free service makes the travel process simpler. On Passport Service Day (24 June), we bring to you a list of nations that are visa-free for Indians
+
+Mon, 24 Jun 2024 19:54:48 +0530
+### [Who is Sanjeev Mukhiya, the ‘kingpin’ of NEET paper leak case?](https://www.firstpost.com/explainers/neet-paper-leak-case-sanjeev-mukhiya-kingpin-bihar-13785675.html)
+
+Sanjeev Mukhiya, a resident of Bihar's Nalanda district, is implicated as the mastermind behind the 2024 NEET-UG paper leak, a controversy that has shocked India. Mukhiya, also known as Sanjeev Singh, has a history of involvement in exam fraud spanning two decades. He holds significant influence locally, with ties to political circles through his wife, who has contested elections. Mukhiya and his associates allegedly orchestrated the distribution of leaked NEET-UG papers, prompting calls for accountability and cancellation of the exam from political quarters. Despite being on the run, Mukhiya has sought anticipatory bail, denying any wrongdoing.
+
+Mon, 24 Jun 2024 19:33:52 +0530
+### [‘Baahubali’s’ Anushka Shetty suffers from rare laughing disease. What is it?](https://www.firstpost.com/health/baahubalis-anushka-shetty-suffers-from-rare-laughing-disease-what-is-it-13785509.html)
+
+Anushka Shetty, an actress known for her role in the "Baahubali" series, has revealed that she has a neurological disorder called Pseudobulbar Affect (PBA), also known as the "laughing disease." This condition causes uncontrollable laughing or crying that is not related to the person's emotional state. PBA is part of a larger syndrome called Pseudobulbar Palsy and can be caused by various diseases or injuries that affect the brain. It is commonly diagnosed in older individuals and can be managed through deep, slow breathing, diverting the mind, and relaxing the muscles. Medications can also help in controlling the condition. Shetty's revelation has shed light on this little-known disorder and its impact on people's daily lives.
+
+Mon, 24 Jun 2024 18:13:10 +0530
+### [Jackpot! Why sales of lottery tickets are surging among the youth in China](https://www.firstpost.com/explainers/sales-of-lottery-tickets-scratch-cards-are-surging-among-youth-in-china-economy-why-13785583.html)
+
+Lottery shops in China are increasingly popular among young people, who are drawn by promises of quick money amidst economic challenges. Sales have surged, with lottery revenues reaching 149.5 billion yuan in the first quarter alone, up nearly 20% from the previous year. The appeal lies in instant gratification and affordable entertainment during uncertain times, reflecting a broader trend of seeking small joys. However, shortages of popular scratch cards have posed challenges for suppliers, highlighting the mismatch between demand and supply in this booming market.
+
 Mon, 24 Jun 2024 16:01:08 +0530
 ### [Trash war: What's inside the balloons that North Korea is sending across the border?](https://www.firstpost.com/explainers/trash-war-whats-inside-the-balloons-that-north-korea-is-sending-across-the-border-13785601.html)
 

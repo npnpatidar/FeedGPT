@@ -1,3 +1,14 @@
+Tue, 25 Jun 2024 00:20:00 +0530
+### [​Alter the status quo: on the conflict in Manipur](https://www.thehindu.com/opinion/editorial/%E2%80%8Balter-the-status-quo-on-the-conflict-in-manipur/article68327957.ece)
+
+The article discusses ongoing ethnic conflict in Manipur, exacerbated by armed militias and political inertia. Over 221 deaths and 50,000 displacements have resulted from the violence, spreading even to previously peaceful areas. The Union government has unofficially imposed constitutional provisions to maintain peace, while Prime Minister Modi's involvement has been minimal. Despite electoral wins by the Congress party signaling public discontent, meaningful change requires disarming militias and empowering civil society to foster reconciliation. The article calls for decisive action to resolve Manipur's deepening crisis beyond mere political reshuffling.
+
+Tue, 25 Jun 2024 00:10:00 +0530
+### [​Nicobar triangle: on the ₹72,000-crore project on Great Nicobar Island](https://www.thehindu.com/opinion/editorial/%E2%80%8Bnicobar-triangle-on-the-72000-crore-project-on-great-nicobar-island/article68327922.ece)
+
+Article found but Couldn't summarize 
+Without wide consultations, Centre should not embark on the infrastructure project
+
 Mon, 24 Jun 2024 00:20:00 +0530
 ### [Limit and excess: On the Patna High Court judgment and enhanced reservation](https://www.thehindu.com/opinion/editorial/limit-and-excess-on-the-patna-high-court-judgment-and-enhanced-reservation/article68324378.ece)
 

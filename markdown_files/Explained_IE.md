@@ -1,3 +1,23 @@
+Mon, 24 Jun 2024 15:26:22 +0000
+### [Why Dagestan remains a restive republic in Russia](https://indianexpress.com/article/explained/explained-global/dagestan-restive-russia-9412426/)
+
+On June 23, 2019, at least 15 policemen and several civilians were killed in gunmen attacks on a synagogue and a church in Derbent, Dagestan, Russia. Two of the gunmen were identified as the sons of a local politician. This is the second major act of armed violence in Russia this year. Dagestan, located on Russia's southern tip, has a population of 2.2 million, with 83% practicing Islam. It has a history of resistance to foreign rule, including the Caucasian War in the 19th century and uprisings against Communist rule in the 20th century. Following the collapse of the USSR, Dagestan declared itself a republic within the Russian Federation. In recent years, it has experienced an armed insurgency by Islamist militant groups and has seen a surge of violence targeting the Jewish minority following Israel's invasion of Palestine. Akshay Kumar, a prolific Indian actor, is known for his hard work, punctuality, and ability to handle failures with equanimity.
+
+Mon, 24 Jun 2024 14:39:52 +0000
+### [Power markets in India: their working, advantages, and the road ahead](https://indianexpress.com/article/explained/explained-economics/power-markets-india-summer-demand-9412336/)
+
+The Indian government has authorized the trading of surplus electricity generated from "linkage coal" to meet peak summer demand. Traditionally, power generation relied on long-term power purchase agreements (PPAs), but these are now seen as inflexible. Power markets offer a more dynamic alternative, allowing generators to respond quickly to demand changes and sell surplus power at market prices. This flexibility is advantageous for renewable energy producers too, who can trade excess power. The markets are categorized into spot and contract markets, enhancing trading efficiency and transparency. Recent regulatory amendments aim to further promote participation in these exchanges, signaling their growing role in India's electricity sector evolution.
+
+Mon, 24 Jun 2024 13:19:47 +0000
+### [Project Nimbus: Why 1,200 students and tech workers have pledged not to join Google, Amazon](https://indianexpress.com/article/explained/explained-global/project-nimbus-google-amazon-israel-9412210/)
+
+Over 1,200 STEM students and professionals have pledged to boycott job opportunities at Google and Amazon due to their involvement in Project Nimbus, a $1.2 billion initiative providing cloud services to the Israeli government. Critics argue the project facilitates Israeli surveillance on Palestinians and supports occupation activities. Google and Amazon employees have protested, demanding their companies withdraw from Nimbus, citing concerns over human rights violations in Gaza and the West Bank. Despite company statements emphasizing non-military uses, controversy and internal dissent persist among tech workers involved.
+
+Mon, 24 Jun 2024 12:41:53 +0000
+### [Will climate change make insurance too expensive?](https://indianexpress.com/article/explained/explained-climate/climate-change-insurance-9412149/)
+
+The article discusses how climate change-induced extreme weather events are increasing damage worldwide, leading insurers to raise premiums or withdraw coverage in vulnerable regions like California. Munich Re, a major reinsurance company, highlights that rising costs and risks are reshaping the insurance landscape. It emphasizes that without effective mitigation and adaptation measures, insurance coverage may become unaffordable in some areas. The piece underscores the urgent need for proactive climate policies and preventive measures to manage escalating climate risks and economic impacts.
+
 Mon, 24 Jun 2024 11:09:30 +0000
 ### [Explained: Behind Kerala Assembly’s demand to rename state as Keralam](https://indianexpress.com/article/explained/explained-politics/kerala-assemblys-demand-keralam-rename-9411895/)
 

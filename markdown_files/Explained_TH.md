@@ -1,3 +1,8 @@
+Mon, 24 Jun 2024 23:09:52 +0530
+### [What is in Great Nicobar, site of NITI Aayog’s mega project? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-in-great-nicobar-site-of-niti-aayogs-mega-project-explained/article68327325.ece)
+
+The article discusses controversy surrounding a mega development project by NITI Aayog on Great Nicobar Island, part of India's Andaman and Nicobar archipelago. The project, aimed at creating infrastructure like a transshipment terminal and airport, has faced criticism from political parties, environmentalists, tribal councils, and local communities due to concerns over ecological impact, potential violations of tribal rights, and inadequate social and environmental assessments. The island, rich in rainforests and biodiversity including endangered species, is home to indigenous tribes like the Shompen and Nicobarese, adding complexities to the project's implementation amidst protests and legal challenges.
+
 Mon, 24 Jun 2024 08:30:00 +0530
 ### [How is methanol procured and used as liquor? | Explained](https://www.thehindu.com/news/national/how-is-methanol-procured-and-used-as-liquor-explained/article68325031.ece)
 

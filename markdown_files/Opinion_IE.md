@@ -1,3 +1,8 @@
+Mon, 24 Jun 2024 12:44:46 +0000
+### [Queer rights beyond marriage equality: What the new Parliament needs to do](https://indianexpress.com/article/opinion/columns/queer-rights-beyond-marriage-equality-new-parliament-9412134/)
+
+The article discusses the overshadowing of significant events by sensationalism in media, highlighting a recent Supreme Court ruling in India regarding queer relationships. It emphasizes the court's recognition of chosen families as integral for LGBTQ+ individuals, advocating for legal frameworks that respect their rights beyond traditional definitions of family. The piece calls for socio-economic rights for the queer community and legislative reforms to recognize diverse relationships, urging India to lead inclusively rather than mimic Western norms. It concludes with expectations from a new government committee tasked with addressing queer issues.
+
 Mon, 24 Jun 2024 10:30:03 +0000
 ### [Can women drive SUVs well? Why some jokes aren’t funny](https://indianexpress.com/article/opinion/columns/can-women-drive-suvs-well-why-some-jokes-arent-funny-9411653/)
 
