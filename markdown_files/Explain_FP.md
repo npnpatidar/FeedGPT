@@ -1,3 +1,118 @@
+Tue, 25 Jun 2024 17:21:39 +0530
+### [Kenya on edge over new finance bill: What's it all about?](https://www.firstpost.com/explainers/kenya-on-edge-over-new-finance-bill-whats-it-all-about-13785999.html)
+
+Kenyan citizens are protesting a new finance bill presented to Parliament, fearing it will overburden them. Despite one fatality and 200 injuries, protestors continue to demand its withdrawal. The proposed bill includes taxes on basic goods, motor vehicles, and manufactured items. The government claims the measures are necessary to reduce budget deficits and public debt. Protests have disrupted Nairobi, with businesses closed and transportation disrupted. The government has warned protestors against violence and offered concessions by scrapping certain levies. However, protestors and opposition parties remain unconvinced. Parliament will vote on the bill on Tuesday, and its future and the continuation of protests remain uncertain. President Ruto has acknowledged the protests and promised dialogue, but no timeline has been established.
+
+Tue, 25 Jun 2024 16:21:53 +0530
+### [Who is K Suresh, the opposition's candidate for the Lok Sabha Speaker post?](https://www.firstpost.com/explainers/who-is-k-suresh-the-oppositions-candidate-for-the-lok-sabha-speaker-post-13785931.html)
+
+Kondikunnil Suresh, a veteran politician with 29 years of experience, is contesting for the post of Lok Sabha Speaker. The eight-time MP previously served as Minister of State for Labour and Employment and president of the Congress's Kerala unit.
+
+Despite controversies surrounding his caste status and legal run-ins, Suresh holds significant influence within the Congress Working Committee and is widely respected for his parliamentary experience. He will face off against NDA's Om Birla in the Lok Sabha Speaker election on June 26.
+
+Tue, 25 Jun 2024 15:51:28 +0530
+### [What is Azm-e-Istehkam, Pakistan military op to curb terror?](https://www.firstpost.com/explainers/what-is-azm-e-istehkam-pakistan-military-operation-to-curb-terror-how-is-afghanistan-and-china-involved-13785948.html)
+
+Pakistan has started a new military operation, "Azm-e-Istehkam" (Resolution for Stability), to combat terrorism and ensure security, particularly in response to the increase in violence by the Pakistan Taliban (TTP). The operation includes military, legislative, and diplomatic efforts, as well as socioeconomic measures to address extremism. This initiative comes amidst tension between Pakistan and Afghanistan, with Pakistan accusing Afghanistan of harboring TTP members. China, a key ally and investor in Pakistan, has also expressed concerns about the security of its nationals and projects in the region. The operation's success depends on various factors, including public support and the ability to address armed groups' tactics.
+
+Tue, 25 Jun 2024 15:49:52 +0530
+### [Om Birla will battle against K Suresh for Lok Sabha Speaker. Why this is unusual in India’s history](https://www.firstpost.com/explainers/om-birla-k-suresh-lok-sabha-speaker-election-process-13785957.html)
+
+For the first time in decades, the 18th Lok Sabha will hold an election for Speaker on June 26 due to a lack of unanimous agreement. BJP's Om Birla, the incumbent Speaker, will face off against Congress's K Suresh. The opposition, led by the INDI Alliance, is demanding the position of Deputy Speaker as compensation for recognizing their status. However, the BJP insists that the Speaker should not belong to any party and that the election should be based on seniority, experience, and impartiality. The last contested Speaker election occurred in 1976.
+
+Tue, 25 Jun 2024 14:14:25 +0530
+### [Why is Mamata sparring with the Centre over Teesta water talks with Bangladesh?](https://www.firstpost.com/explainers/west-bengal-cm-mamata-banerjee-pm-narendra-modi-teesta-water-talks-bangladesh-13785928.html)
+
+West Bengal Chief Minister Mamata Banerjee expressed dissatisfaction in a letter to Prime Minister Narendra Modi regarding the recent India-Bangladesh talks on the River Teesta and the Ganga Water Treaty without West Bengal's participation.
+
+However, the Centre denied her claims, asserting that the West Bengal government was notified and participated in discussions regarding the Ganga water treaty review. The Centre cited the state's nomination of a representative to the review panel and its active role in providing data for treaty renewal.
+
+Historical context suggests that the Teesta water-sharing agreement between India and Bangladesh has been delayed since 2011 due to concerns raised by West Bengal. Renewed talks on Teesta amidst China's interest in the river highlight the geopolitical significance of water-sharing between the two neighboring nations.
+
+Tue, 25 Jun 2024 13:58:32 +0530
+### [Who are the contenders in Iran's presidential race? What are their takes on foreign policy?](https://www.firstpost.com/explainers/iran-president-election-candidates-foreign-policy-13785932.html)
+
+Iran's upcoming presidential elections (June 28) feature six candidates with diverse foreign policy stances.
+
+**Masoud Pezeshkian:**
+- Reformist
+- Advocates improved relations with the US
+- Supports reviving the nuclear deal (JCPOA)
+- Willingness to engage with the West
+- Hints at diversifying Iran's international alliances beyond Russia and China
+
+**Saeed Jalili:**
+- Hardliner
+- Strict stance against the West
+- Proposes self-reliance and resistance to Western pressure
+- Emphasizes economic ties with Latin America and Africa to counteract sanctions
+- Opposes negotiations over Iran's nuclear program
+
+**Alireza Zakani:**
+- Hardliner
+- Supports diplomatic solutions to neutralize sanctions
+- Minimal room for negotiations with the West
+- Focus on strengthening relations with Eastern powers like China and Russia
+- Believes in reducing reliance on the dollar
+
+**Mohammad Bagher Qalibaf:**
+- Pragmatic hardliner
+- Supports reviving the nuclear deal with the US
+- Balances hardline principles with international negotiations
+- Aims to alleviate economic sanctions through diplomatic channels
+
+**Amirhossein Ghazizadeh Hashemi:**
+- Continuity candidate
+- Loyal to former President Raisi's policies
+- Supports implementing the JCPOA
+- Emphasizes regional partnerships over Western alliances
+
+**Mostafa Pourmohammadi:**
+- Cleric with a history of human rights violations
+- Insists on engagement with the world
+- Criticizes Iran's support for Russia in the Ukraine war
+- Advocates pragmatic dealings with global powers while pushing for better returns
+
+Tue, 25 Jun 2024 12:57:04 +0530
+### [The final chapter in a 14-year legal odyssey: Why is Julian Assange flying to remote island of Saipan in the Pacific?](https://www.firstpost.com/explainers/final-chapter-in-14-year-legal-odyssey-why-is-wikileaks-founder-julian-assange-flying-to-remote-pacific-island-of-saipan-13785869.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange is currently headed to a courtroom on the Pacific island of Saipan, where he is anticipated to enter a guilty plea on Wednesday for a single criminal charge. This plea deal is expected to result in his release, allowing him to return to Australia, his home country, after a lengthy legal journey spanning 14 years
+
+Tue, 25 Jun 2024 12:43:41 +0530
+### [AAP’s Atishi admitted to hospital: What happens to the body when blood sugar levels drop?](https://www.firstpost.com/health/aap-atishi-hospital-body-blood-sugar-levels-hypoglycaemia-13785886.html)
+
+Atishi, Delhi's water minister, was hospitalized due to dangerously low blood sugar levels caused by a hunger strike. Hypoglycemia, or low blood sugar, can lead to dizziness, hunger, anxiety, and in severe cases, seizures, coma, or death. It can affect the brain, heart, and digestive system. Treatment depends on symptom severity and may involve the 15-15 rule (eating/drinking 15 grams of glucose and waiting 15 minutes), or medical interventions such as Glucagon injections. Hypoglycemia can also lead to eye and kidney disease, and can worsen heart disease in those with type 2 diabetes.
+
+Tue, 25 Jun 2024 12:31:41 +0530
+### [Why Karnataka is banning artificial food colours in kebabs](https://www.firstpost.com/health/why-karnataka-is-banning-artificial-food-colours-in-kebabs-13785821.html)
+
+Article found but Couldn't summarize 
+A food test found unsafe levels of artificial colours, sunset yellow and carmoisine, being used in the preparation of kebabs across the state following which the Karnataka health officials issued a notification, warning of 'serious health risks to consumers.' Earlier, the government banned gobi manchurian and cotton candy after carcinogenic chemicals were found in them
+
+Tue, 25 Jun 2024 10:05:44 +0530
+### [WikiLeaks’ Julian Assange to be freed: How did he avoid US prison time?](https://www.firstpost.com/explainers/wikileaks-julian-assange-freed-us-prison-plea-deal-13785822.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange has agreed to plead guilty in a US court, which ends his long-running legal drama and allows him to finally return home to Australia as a free man. As part of the plea deal he struck with US authorities, he will be sentenced to 62 months, which is the time he has already served in UK prison
+
+Tue, 25 Jun 2024 10:04:12 +0530
+### [Rohit Sharma is a class player, Indian bowlers were too good: Mitchell Marsh after Australia's defeat](https://www.firstpost.com/firstcricket/sports-news/india-vs-australia-t20-world-cup-mitchell-marsh-rohit-sharma-indian-bowlers-13785820.html)
+
+Article found but Couldn't summarize 
+Mitchell Marsh credited Rohit Sharma's explosive batting and Indian bowlers for Men in Blue reaching the T20 World Cup 2024 semi-finals after beating Australia.
+
+Tue, 25 Jun 2024 08:57:03 +0530
+### [49 years of Emergency: India’s darkest hour, in graphics](https://www.firstpost.com/explainers/emergency-anniversary-india-darkest-hour-in-graphics-indira-gandhi-13785665.html)
+
+Article found but Couldn't summarize 
+On 25 June 1975, India witnessed a historic moment when then Prime Minister Indira Gandhi declared Emergency in the country. In this 21-month period, widespread arrests took place, the press was heavily censored and civil liberties were severely curtailed. Here’s a timeline of events as we commemorate its 49th anniversary
+
+Tue, 25 Jun 2024 06:00:53 +0530
+### [FirstUp: PM to propose LS speaker name, Kejriwal bail plea in Delhi High Court… Big news today](https://www.firstpost.com/explainers/firstup-pm-to-propose-ls-speaker-name-kejriwal-bail-plea-hearing-emergency-anniversary-big-news-today-13785722.html)
+
+Prime Minister Modi will propose the name for the Speaker of the 18th Lok Sabha during the ongoing Parliament session. The Delhi High Court will announce its decision on Chief Minister Arvind Kejriwal's bail plea in a money laundering case. The Congress has called for a 'Bandh' in Rajkot to mark the one-month anniversary of the TRP Game Zone fire tragedy. The Department of Telecommunications will begin the auction of 5G spectrum valued at Rs 96,317.65 crore, though it is expected to be subdued due to sufficient holdings by major players. The United Nations Security Council will discuss the situation in West Asia, particularly the war in Gaza. Hong Kong's largest security trial involving pro-democracy figures, including Benny Tai, will continue with mitigation hearings.
+
 Mon, 24 Jun 2024 20:08:40 +0530
 ### [In Graphics | The countries you can travel to visa-free on an Indian passport](https://www.firstpost.com/explainers/in-graphics-the-countries-you-can-travel-to-visa-free-on-an-indian-passport-13785673.html)
 

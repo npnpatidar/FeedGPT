@@ -1,3 +1,63 @@
+Tue, 25 Jun 2024 16:00:12 +0530
+### [YouTube and Facebook let India down during the Lok Sabha election](https://www.livemint.com/opinion/online-views/youtube-and-facebook-let-india-down-during-the-lok-sabha-election-11719255274843.html)
+
+Social media platforms Google's YouTube and Meta's Facebook have failed to curb disinformation and hate speech during the 2024 Indian general election, casting doubt on their self-regulation efforts.
+
+Google's YouTube approved and profited from election disinformation ads that violated its own policies, showing disparity in enforcement compared to elections in other regions. Meta also failed its self-regulation test by approving ads with inflammatory content within 24 hours.
+
+The election underscored the need for inclusive governance of social media platforms, balancing free expression, privacy, and public accountability. India has an opportunity to lead in developing workable solutions for the repercussions of Big Tech dominance that involve technical experts, civil society, and end users.
+
+The country should demand heightened accountability from platforms for all regions, ensuring that technology strengthens democracy rather than undermining it.
+
+Tue, 25 Jun 2024 14:00:06 +0530
+### [Developing nations need jobs, not factories. Here’s how the state can help.](https://www.livemint.com/opinion/online-views/four-key-employment-focused-strategies-for-services-led-economic-development-11719254891874.html)
+
+Manufacturing in developing countries is now capital-intensive, limiting job creation. Thus, enhancing productivity in labor-absorbing services is crucial for economic growth and equity.
+
+Four strategies to expand productive employment in services include:
+
+1. Incentivizing large firms to expand employment.
+
+2. Enhancing productive capabilities of small enterprises with public inputs and a selective approach.
+
+3. Providing digital tools and technologies to augment low-skill labor.
+
+4. Combining vocational training with "wrap-around" services for less-educated workers.
+
+Despite success in individual programs, the challenge remains significant. Success requires continuous experimentation and implementing a wide range of programs to address the scale of the challenge.
+
+Tue, 25 Jun 2024 12:30:02 +0530
+### [Treat dispute types as the 'unit of change' to reform our justice system](https://www.livemint.com/opinion/online-views/treat-dispute-types-as-the-unit-of-change-to-reform-our-justice-system-11719254542829.html)
+
+To transform India's dispute resolution system, it's crucial to adopt a "dispute type" approach. This involves focusing on specific categories of disputes, such as cheque-bouncing cases. By analyzing the entire dispute journey and using technology, the system can be adapted to citizen needs. This approach allows for targeted changes, improves outcomes, and ensures the relevance of formal dispute resolution systems in the digital age. Successful examples of dispute type transformation exist in the UK and India, where specialized courts and online dispute resolution platforms have shown promising results.
+
+Tue, 25 Jun 2024 10:30:17 +0530
+### [Why does India have a housing glut and shortage at the same time?](https://www.livemint.com/opinion/online-views/why-does-india-have-a-housing-glut-and-shortage-at-the-same-time-11719254409911.html)
+
+Despite robust growth in home sales and prices, there is a surplus of 1.14 crore vacant flats in India, largely due to investment-driven purchases and a low rental yield. These unoccupied homes drive up prices, hindering accessibility and affordability for those seeking homes to live in. The issue also contributes to urban over-expansion, environmental concerns, and a misallocation of capital. Potential solutions include taxing capital gains at the marginal rate, higher property taxes for locked flats, and promoting rental of vacant homes.
+
+Tue, 25 Jun 2024 09:30:16 +0530
+### [Global capability centres in India: GE is showing the way](https://www.livemint.com/opinion/online-views/global-capability-centres-in-india-ge-is-showing-the-way-11719255091332.html)
+
+Article found but Couldn't summarize 
+While software exports may face an existential challenge from GenAI, India’s engineering skills can turn it into a powerhouse for other sophisticated services. GE’s Jack Welch technology centre in Bengaluru has clues of the potential waiting to be exploited.
+
+Tue, 25 Jun 2024 08:30:13 +0530
+### [Hydropower: Let pump dams fill gaps in India’s clean energy supply](https://www.livemint.com/opinion/online-views/hydropower-let-pump-dams-fill-gaps-in-india-s-clean-energy-supply-11719251978549.html)
+
+As India transitions to clean energy, storage is a challenge for intermittent sources like wind and solar power. Pumped-storage hydropower (PSH) dams offer a solution by storing water in reservoirs and using it to generate electricity when needed.
+
+The Adani Group plans to invest significantly in PSH dams, aiming for an initial capacity of 5 gigawatts and an eventual capacity of 25GW. Other players like Tata Power and NTPC also plan PSH projects.
+
+PSH units offer a "control knob" to regulate power output, unlike traditional dams which rely on natural water inflows. They also face fewer geographic limitations than classic river dams, expanding hydropower's potential.
+
+Technical advances have improved the energy efficiency of PSH units, making them a more viable option for gap-filling clean energy generation. As India aims for 500GW of non-fossil-fuel capacity by 2030, PSH dams are crucial for ensuring reliable power supply.
+
+Tue, 25 Jun 2024 07:00:10 +0530
+### [Mint Quick Edit | 18th Lok Sabha: Debate, don’t disrupt](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-18th-lok-sabha-debate-don-t-disrupt-11719251765762.html)
+
+The first session of Parliament since the new Modi government took office saw controversy as Congress leader Rahul Gandhi accused Prime Minister Narendra Modi and Home Minister Amit Shah of attacking the Constitution. Gandhi protested by waving a copy of the Constitution as Modi took his oath as a Lok Sabha member. The opposition plans to raise issues such as examination paper leaks and the appointment of the pro-tem speaker. The ruling Bharatiya Janata Party has a reduced majority and will need allies to pass legislation. Despite tensions, work in Parliament is expected to continue.
+
 Mon, 24 Jun 2024 16:00:02 +0530
 ### [All Generative AI output is essentially a hallucination](https://www.livemint.com/opinion/online-views/all-generative-ai-output-is-essentially-a-hallucination-11719165402515.html)
 

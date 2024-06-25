@@ -1,3 +1,33 @@
+Tue, 25 Jun 2024 18:14:51 +0530
+### [Emergency, Sanjay Gandhi and the Maruti saga](https://www.firstpost.com/opinion/emergency-sanjay-gandhi-and-the-maruti-saga-13786037.html)
+
+In 1970, Sanjay Gandhi, then 23, was granted a license to manufacture a small car in India. This project, known as Maruti, was opposed by P.N. Haksar, who was subsequently removed from his post as principal secretary to Prime Minister Indira Gandhi.
+
+The Maruti project faced criticism and allegations of nepotism against Indira Gandhi. During this time, Jai Prakash Narayan emerged as a prominent figure, leading a movement against the government.
+
+In June 1975, the Emergency was imposed, granting Indira Gandhi sweeping powers. The Emergency was justified by the government citing threats to law and order, though many scholars questioned its necessity.
+
+The 42nd Amendment to the Constitution was introduced during the Emergency, reducing the power of the judiciary and introducing a socialist framework. The amendment was supported by Congress members, who praised Indira Gandhi's leadership.
+
+Bansi Lal, as Defence Minister, played a significant role in promoting Sanjay Gandhi's agenda. Sanjay's efforts included family planning, slum clearance, and promoting education and women's rights. However, his implementation of these programs was often forceful and ineffective.
+
+Despite his successes in electrifying Haryana and promoting tourism, Bansi Lal's political career was marked by controversy and allegations of misconduct. Indira Gandhi, while acknowledging Sanjay's "doer" mentality, distanced herself from his excesses during the Emergency.
+
+Tue, 25 Jun 2024 15:23:03 +0530
+### [PM Modi’s popularity and India’s growing stature make Western media more envious](https://www.firstpost.com/opinion/pm-modis-popularity-and-indias-growing-stature-make-western-media-more-envious-13785944.html)
+
+Western media scrutiny of India has intensified due to its rising prominence and the global shift towards right-wing politics. One recent criticism alleges "transnational repression" by India, though evidence for alleged extrajudicial killings abroad remains unclear. Canada's allegations stem from an incident involving Hardeep Nijjar, designated as a terrorist by Indian agencies. Despite concerns about fake counterterrorism, experts emphasize the importance of addressing national security threats.
+
+The Canadian Security and Intelligence Committee has accused politicians of foreign interference in elections, but the report's credibility is questionable given systemic shortcomings in Canadian security agencies. Australian Broadcasting Corporation journalist Avani Dias published a report claiming Indian infiltration, which has been refuted by Indian officials. The report paints Khalistanis as peaceful and ignores their history of violence.
+
+Western journals such as Foreign Policy and Foreign Affairs have expressed concerns about India's "illiberal democracy" and criticized the RSS. As geopolitical interests intensify, India expects continued scrutiny from the Western media, which may be driven by jealousy or political ends.
+
+Tue, 25 Jun 2024 12:12:24 +0530
+### [Dangerous stalemate in Ukraine: Is a Russia-NATO nuclear war becoming inevitable?](https://www.firstpost.com/opinion/dangerous-stalemate-in-ukraine-is-a-russia-nato-nuclear-war-becoming-inevitable-13785855.html)
+
+Article found but Couldn't summarize 
+As Russia and NATO escalate military posturing over Ukraine, the unthinkable looms — nuclear conflict. With both sides conducting drills and bolstering arsenals, the question isn't if, but when a miscalculation could trigger catastrophe
+
 Mon, 24 Jun 2024 16:44:24 +0530
 ### [From Ukraine to Taiwan: How 'zones of denial' strategies dominate 21st-century modern warfare](https://www.firstpost.com/opinion/from-ukraine-to-taiwan-how-zones-of-denial-strategies-dominate-21st-century-modern-warfare-13785635.html)
 

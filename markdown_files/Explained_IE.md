@@ -1,3 +1,55 @@
+Tue, 25 Jun 2024 11:11:30 +0000
+### [June 23, 1985: When Air India’s Kanishka jumbo jet was blown up in one of the worst terror attacks in history](https://indianexpress.com/article/explained/explained-history/air-india-kanishka-jet-bombing-canada-9414105/)
+
+Article found but Couldn't summarize
+
+Tue, 25 Jun 2024 10:20:23 +0000
+### [WikiLeaks’ Julian Assange set to walk free: What is the deal he made with the US govt?](https://indianexpress.com/article/explained/explained-global/wikileaks-julian-assange-free-deal-9413998/)
+
+WikiLeaks founder Julian Assange was released from a UK prison following a bail order. After being charged with treason by the US government, Assange is expected to plead guilty to one charge in exchange for the long-running case against him to be brought to an end. He is set to appear before a US court on Saipan. Assange founded WikiLeaks in 2006 and published confidential government and corporate documents. The US government indicted Assange on 18 charges for violating the Espionage Act and the Computer Fraud and Abuse Act, and they have attempted to extradite him for trial in the US.
+
+Tue, 25 Jun 2024 08:57:02 +0000
+### [Why is Julian Assange flying to the remote Pacific island of Saipan?](https://indianexpress.com/article/explained/explained-global/julian-assange-saipan-us-deal-plead-guilty-explained-9413605/)
+
+Julian Assange is expected to plead guilty to a single criminal charge in a plea deal that will see him walk free and return home to Australia. He will appear in court in Saipan, the capital of the Northern Mariana Islands. Saipan has the advantage of being relatively close to Assange’s home of Australia. The island is a US commonwealth and has a unique status as a US territory. If the judge approves his plea, Assange is expected to return to Australia after the hearing.
+
+Tue, 25 Jun 2024 08:36:01 +0000
+### [China’s Chang’e-6 brings back samples from far side of Moon: What was the mission?](https://indianexpress.com/article/explained/explained-sci-tech/china-change-6-moon-9413734/)
+
+China's Chang'e-6 has become the first spacecraft to bring back samples from the far side of the Moon. Scientists are interested in exploring the far side because it is different from the near side, with a thicker crust and fewer plains. Exploring the far side can help answer questions about the Moon's origin and evolution. The mission involved a 53-day-long mission to collect samples from the South Pole-Aitken basin on the lunar surface. China is the only country to achieve a soft-landing on the far side of the Moon.
+
+Tue, 25 Jun 2024 03:00:00 +0000
+### [What is Enemy Agents Ordinance, tough law applicable in Jammu and Kashmir?](https://indianexpress.com/article/explained/explained-law/what-is-enemy-agents-ordinance-tough-law-applicable-in-jk-9412703/)
+
+The Director General of Police in Jammu and Kashmir has stated that those found assisting militants in the region should be tried under the Enemy Agents Ordinance, 2005. This law is more stringent than the Unlawful Activities (Prevention) Act and carries the punishment of either a life term or a death sentence. The ordinance was first issued in 1917 by the Dogra Maharaja of J&K and has been used to try and sentence several individuals. The trial is conducted by a special judge and there is no provision for appeal against the verdict.
+
+Tue, 25 Jun 2024 02:30:43 +0000
+### [Meet the new Sino-French satellite, which will detect the most powerful explosions in the universe](https://indianexpress.com/article/explained/explained-sci-tech/sino-french-satellite-explosions-9412579/)
+
+A joint China-France satellite, Space Variable Objects Monitor (SVOM), has been launched to study gamma-ray bursts (GRBs). GRBs are bursts of highly energetic gamma rays that result from extreme cosmic events like black hole births and neutron star collisions. SVOM is designed to detect and study GRBs, providing insights into the birth of black holes, gravitational waves, and the evolution of the universe. The satellite also aims to detect kilonovas, bursts of electromagnetic radiation produced by the decay of elements, which can help scientists understand the origins of heavy elements like gold. SVOM is equipped with four payloads, two developed by France and two by China, to capture and analyze GRBs and their electromagnetic properties. The satellite has been placed in a low Earth orbit to optimize its detection capabilities.
+
+Tue, 25 Jun 2024 01:37:32 +0000
+### [How the new Public Examinations Act can deal with cheating](https://indianexpress.com/article/explained/how-public-examinations-act-can-deal-with-with-cheating-9412717/)
+
+The Public Examinations (Prevention of Unfair Means) Act, 2024, aims to prevent cheating in public examinations.
+
+The Rules specify procedures for Computer Based Tests (CBTs), including registration, allocation of centers, question paper distribution, and evaluation.
+
+The Act defines 15 actions as unfair means, including paper leaks, unauthorized access to question papers, and tampering with answer sheets.
+
+The Rules establish the roles of Centre Coordinators, venue in-charges, and Regional Officers in reporting incidents of unfair means.
+
+The law covers exams conducted by designated authorities such as UPSC, SSC, and NTA, as well as exams conducted by Central Government ministries and departments.
+
+The rationale for the law includes a surge in paper leaks in recruitment exams, adversely affecting millions of applicants.
+
+The law provides for fines of up to Rs 1 crore and prison terms of up to 10 years for using unfair means.
+
+Tue, 25 Jun 2024 01:37:04 +0000
+### [How Sanjay Gandhi led Emergency-era ‘nasbandi’ campaign](https://indianexpress.com/article/explained/explained-history/sanjay-gandhi-emergency-nasbandi-sterilisation-9412848/)
+
+Article found but Couldn't summarize
+
 Mon, 24 Jun 2024 15:26:22 +0000
 ### [Why Dagestan remains a restive republic in Russia](https://indianexpress.com/article/explained/explained-global/dagestan-restive-russia-9412426/)
 

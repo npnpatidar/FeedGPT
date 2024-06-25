@@ -1,3 +1,65 @@
+Tue, 25 Jun 2024 12:32:09 +0000
+### [Julian Assange symbolises an idea — the freedom of information](https://indianexpress.com/article/opinion/columns/julian-assange-information-freedom-9414235/)
+
+Julian Assange's release highlights fundamental issues regarding freedom of information and liberty. Assange, founder of WikiLeaks, exposed US military secrets, setting off a legal battle. His case represents the tension between national sovereignty and the extraterritorial nature of the internet, where information flows across borders.
+
+Assange embodies the debate over access to knowledge and government transparency. WikiLeaks' whistleblowing exposed human rights violations and challenged the power of militarized states. His arrest and imprisonment served as a warning against dissent, particularly among young activists.
+
+Despite personal opinions, Assange represents the global struggle against information authoritarianism. His activism has inspired generations of internet activists who continue to fight for transparency. By advocating for fundamental freedom of information, he has highlighted the crucial role of whistleblowers and journalists in creating open and equitable societies.
+
+Tue, 25 Jun 2024 10:20:55 +0000
+### [C Raja Mohan writes: In great power rivalry across Eurasia, an opening for India](https://indianexpress.com/article/opinion/columns/power-rivalry-across-eurasia-opening-for-india-9413970/)
+
+Asia's influence in European geopolitics has surged due to its ability to contribute to and shape European affairs, including the Ukraine conflict. Russia and North Korea have strengthened ties, while Vietnam has balanced strategic relations with China, the US, and Russia. This has created challenges for the US, which is balancing support for Ukraine with its focus on China as the primary threat. Western nations recognize the need for European responsibility in its own defense, while Asian powers like India are eager to participate in Eurasian security. The increasing interconnections between Europe and Asia present opportunities for middle powers to enhance their influence and modernize their defense capabilities.
+
+Tue, 25 Jun 2024 08:45:02 +0000
+### [A response to the biased views on Modi and Indian democracy](https://indianexpress.com/article/opinion/a-response-to-the-biased-views-on-modi-and-indian-democracy-9413792/)
+
+The author believes that democracy triumphed in the 2024 elections. They assert that India's economy has strengthened under Prime Minister Modi's leadership, citing projections of 6.9% growth in 2024. The author highlights infrastructure improvements, financial inclusion initiatives, and poverty reduction programs as evidence of progress. They dismiss reports of rising income disparity as politically biased and inaccurate. They criticize Rahul Gandhi's policies as divisive and question his credentials as a leader. The author concludes by emphasizing India's potential for growth and development.
+
+Tue, 25 Jun 2024 04:43:53 +0000
+### [Caste, inequality and domestic help: We are not so different from the Hindujas](https://indianexpress.com/article/opinion/columns/caste-inequality-domestic-help-hindujas-uk-case-9413275/)
+
+Article found but Couldn't summarize
+
+Tue, 25 Jun 2024 02:33:42 +0000
+### [The new government’s foreign policy challenge: Economic with the political](https://indianexpress.com/article/opinion/columns/india-the-new-governments-foreign-policy-challenge-economic-with-the-political-9412593/)
+
+Under India's new government, Foreign Minister S Jaishankar aims to make India a "leading power" by fostering economic growth, entering global trade regimes, and utilizing its digital advancements. Continuity in foreign policy will include strengthening ties in South Asia, focusing on the Global South, and maintaining relationships with great powers. However, India will shift its global conversation to focus on economic initiatives, particularly through the "Make in India" program, positioning itself as an alternative to China and expanding investment opportunities. India's position as a middle power, along with its engagement with emerging peers and participation in international groupings, reflects the shifting multipolar world order, with India playing a central role in promoting economic progress and global stability.
+
+Tue, 25 Jun 2024 02:31:38 +0000
+### [S Y Quraishi writes: Why India needs one election, one phase](https://indianexpress.com/article/opinion/columns/one-election-one-phase-9412592/)
+
+The article by former Chief Election Commissioner of India, SY Quraishi, discusses the increasing criticism of multi-phase elections in India. While multi-phase elections were initially introduced to prevent violence and ensure the safety of voters and polling staff, the current situation has changed with the rise of acrimonious electoral competition and the explosion of social media. The prolonged election periods have led to the spread of fake news, disinformation, and hate speech, often resulting in harmful consequences. Quraishi argues that the benefits of multi-phase elections no longer outweigh the drawbacks and suggests that a single-phase election would be more effective in ensuring peaceful elections. He also highlights the existing laws and provisions that can be implemented to control hate speech, cyber crimes, and online abuse during elections. The article was published in The Print and can be found at this link: <https://theprint.in/opinion/why-multi-phase-elections-are-no-longer-needed-in-india/1389935/>.
+
+The second part of the text provides a summary of a cricket match between India and Australia, in which India won the game by 24 runs, pushing Australia to the brink of elimination. Jasprit Bumrah's dismissal of Travis Head was key to India's victory, while Rohit Sharma's incredible 92 off 41 balls set up a target of 206. Despite Head's impressive performance, India's bowlers, including Axar Patel and Kuldeep Yadav, were able to keep Australia at bay. The match report is from the Indian Express and can be found at this link: <https://indianexpress.com/article/sports/cricket/india-vs-australia-2nd-t20i-bangalore-jasprit-bumrah-rohit-sharma-8400238/>.
+
+Tue, 25 Jun 2024 02:30:25 +0000
+### [Tamil Nadu hooch deaths: Compassion as cure](https://indianexpress.com/article/opinion/editorials/blame-and-stigma-tamil-nadu-hooch-deaths-9412555/)
+
+The tragic deaths from illicit liquor consumption in Tamil Nadu highlight the need for stricter regulation and enforcement. Methanol poisoning, the cause of both the Kallakurichi and last year's Villupuram incidents, points to a serious oversight by the state government. The incident has raised questions about how methanol, a controlled substance, is being used in illicit liquor production. While total prohibition is not the solution, greater outreach to raise awareness about the dangers of consuming spurious liquor and de-addiction programs are crucial. Additionally, the government should actively participate in these efforts and avoid stigmatizing victims.
+
+Tue, 25 Jun 2024 02:18:37 +0000
+### [June 25, 1984, Forty Years Ago: Army in Bombay](https://indianexpress.com/article/opinion/40-years-ago/june-25-1984-forty-years-ago-army-in-bombay-9412589/)
+
+- Shiv Sena leader Madhukar Sarpotdar was arrested under the NSA for an inflammatory speech, prompting protests and the deployment of the army in Bombay.
+
+- Akali Dal and SPGC leaders are holding discussions at Shaheedon ka Gurudwara to plan their future roadmap.
+
+- Iraq attacked four naval bases of Iran in the Gulf, escalating tensions between the warring nations.
+
+- A temple priest was murdered and a suspected extremist was killed during clashes in Hoshiarpur and Tarn Taran districts of Punjab.
+
+Tue, 25 Jun 2024 02:15:26 +0000
+### [How squatters brought cinema back to life in Paris](https://indianexpress.com/article/opinion/editorials/the-key-is-in-paris-9412577/)
+
+Le Clef, a former art house cinema in Paris, has been revived by a group of young filmmakers who occupied it in 2019. Now owned by the squatters, Le Clef serves as an open mic night for filmmakers, offering a place to experiment and showcase their work without commercial pressures. With the support of filmmakers like Quentin Tarantino and Martin Scorsese, the theater is being refurbished and will operate on a "pay what you can" basis. Le Clef represents a rare collective victory in an era of profit-driven filmmaking.
+
+Tue, 25 Jun 2024 02:02:21 +0000
+### [GST’s council meet and a tax less taxing](https://indianexpress.com/article/opinion/editorials/a-tax-less-taxing-gst-council-meet-9412554/)
+
+Article found but Couldn't summarize
+
 Mon, 24 Jun 2024 12:44:46 +0000
 ### [Queer rights beyond marriage equality: What the new Parliament needs to do](https://indianexpress.com/article/opinion/columns/queer-rights-beyond-marriage-equality-new-parliament-9412134/)
 
