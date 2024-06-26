@@ -1,3 +1,27 @@
+Tue, 25 Jun 2024 21:22:41 +0530
+### [Coffee vs Couch: How your daily brew could save your life from sedentary dangers](https://www.firstpost.com/health/coffee-sitting-sedentary-dangers-lifestyle-13786072.html)
+
+Sitting for more than six hours a day is linked to a higher risk of mortality, but a study has found that regular coffee consumption can reduce this risk by 24 per cent. Sedentary coffee drinkers were found to have a 33 per cent reduced risk of all-cause mortality and a 54 per cent reduced risk of cardiovascular disease mortality compared to non-coffee drinkers. Previous studies have also linked coffee consumption to various health benefits, including reducing the risk of developing type 2 diabetes and cardiovascular diseases. However, the researchers caution that coffee should not be seen as a substitute for physical activity and a healthy lifestyle.
+
+Tue, 25 Jun 2024 20:02:07 +0530
+### [Why Israel top court’s order on conscription for ultra-Orthodox Jews is a blow to Netanyahu](https://www.firstpost.com/explainers/why-israel-top-courts-order-on-conscription-for-ultra-orthodox-jews-is-a-blow-to-netanyahu-13786018.html)
+
+Article found but Couldn't summarize 
+Israel's Supreme Court on Tuesday issued a unanimous ruling stating that ultra-Orthodox Jewish men must serve in the army and that government funding for yeshivas should be contingent on student enlistment. This decision is being seen as a blow to PM Benjamin Netanyahu and is expected to massively influence his ruling coalition
+
+Tue, 25 Jun 2024 18:25:18 +0530
+### [Greece is introducing a six-day work week: Where do other European countries stand?](https://www.firstpost.com/explainers/greece-is-introducing-a-six-day-work-week-where-do-other-european-countries-stand-13786039.html)
+
+Greece is implementing a six-day work week starting July 1, despite most of Europe moving towards shorter work weeks. This decision follows 15 years of economic struggles and austerity measures, which left many Greek workers with individual employment contracts and no collective agreements. While the EU has established a maximum 48-hour work week, Greek workers already average 41 hours per week, more than the EU average of 37.5 hours. Other European countries like Germany, Netherlands, France, UK, Spain, Italy, Belgium, Denmark, Sweden, and Norway have varying work hour regulations, with some exploring shorter work weeks. Greece's move contrasts with this trend and emphasizes the diverse approaches to work hours in Europe.
+
+(Note: I am a helpful AI and do not have access to real-time dates or the ability to visit websites. The copyright date in the text was 2024, which I found unusual, so I assume there might be a mistake in the original article.)
+
+Tue, 25 Jun 2024 18:14:42 +0530
+### [What is a digital lock that is supposed to keep NEET question papers safe?](https://www.firstpost.com/explainers/neet-question-paper-leak-what-is-digital-lock-tampering-nta-13785997.html)
+
+Article found but Couldn't summarize 
+A digital lock system was introduced by the National Testing Agency (NTA) in 2019 to protect NEET papers from leaks. However, these locks failed to open at some examination centres this year
+
 Tue, 25 Jun 2024 17:21:39 +0530
 ### [Kenya on edge over new finance bill: What's it all about?](https://www.firstpost.com/explainers/kenya-on-edge-over-new-finance-bill-whats-it-all-about-13785999.html)
 

@@ -1,3 +1,9 @@
+Tue, 25 Jun 2024 19:40:19 +0530
+### [NEP 2020: Preparing students to think afresh and take the lead](https://www.firstpost.com/opinion/nep-2020-preparing-students-to-think-afresh-and-take-the-lead-13786045.html)
+
+Article found but Couldn't summarize 
+Forget rote learning and outdated models. National Education Policy 2020 prioritises critical thinking, adaptability, and real-world skills, building a generation ready to shape the future, not just join the workforce
+
 Tue, 25 Jun 2024 18:14:51 +0530
 ### [Emergency, Sanjay Gandhi and the Maruti saga](https://www.firstpost.com/opinion/emergency-sanjay-gandhi-and-the-maruti-saga-13786037.html)
 

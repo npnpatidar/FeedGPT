@@ -1,3 +1,13 @@
+Wed, 26 Jun 2024 00:20:00 +0530
+### [Call for consensus: On the Prime Minister’s pledge and the 18th Lok Sabha](https://www.thehindu.com/opinion/editorial/call-for-consensus-on-the-prime-ministers-pledge-and-the-18th-lok-sabha/article68332159.ece)
+
+Prime Minister Narendra Modi emphasized consensus-based governance as the 18th Lok Sabha commenced amid tensions between the ruling NDA and the opposition INDIA bloc. Both sides reiterated commitment to upholding the Constitution, a key election theme. However, initial sessions were marked by hostility, particularly over the selection of the pro tem Speaker and impending Speaker's election. The Opposition signaled readiness to support the NDA's candidate for Deputy Speaker, highlighting past precedents and the need for coalition-building in India's parliamentary democracy. PM Modi's call for parliamentary debates and consensus-building reflects aspirations for a robust democratic process, contingent on tangible actions and collaborative efforts across political divides.
+
+Wed, 26 Jun 2024 00:10:00 +0530
+### [​Free man: On the release of Julian Assange](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfree-man-on-the-release-of-julian-assange/article68331994.ece)
+
+The article discusses the prolonged legal and political saga of Julian Assange, founder of WikiLeaks. Assange faced over 14 years of legal troubles, including extradition attempts by the U.S. for publishing classified documents leaked by Chelsea Manning. After years of confinement in the UK, Assange agreed to a plea deal that will likely see him sentenced for time served and allowed to return to Australia. His case has raised significant concerns about press freedom and the treatment of whistleblowers in Western democracies, highlighting ongoing debates over transparency and government accountability.
+
 Tue, 25 Jun 2024 00:20:00 +0530
 ### [​Alter the status quo: on the conflict in Manipur](https://www.thehindu.com/opinion/editorial/%E2%80%8Balter-the-status-quo-on-the-conflict-in-manipur/article68327957.ece)
 

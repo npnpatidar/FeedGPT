@@ -1,3 +1,10 @@
+Wed, 26 Jun 2024 05:00:00 +0530
+### [Why do parts of Maharashtra experience different water stress levels? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/why-do-parts-of-maharashtra-experience-different-water-stress-levels-explained/article68331094.ece)
+
+The article discusses the water crisis in Marathwada, a region in Maharashtra, India, which is facing severe drought due to various factors. The area is in the rain-shadow region of the Western Ghats, receiving less rainfall compared to the western side. A major contributor to the region's water crisis is the cultivation of water-intensive crops like sugarcane, which requires 1,500-2,500 mm of water during its growing season. Traditional crops like cotton, pulses, and millets need less water, but the expansion of sugarcane cultivation has led to the deprivation of water for other crops.
+
+Climate change has exacerbated the situation, causing an increasing trend in drought severity and frequency. The region's clayey black soil has low infiltration and hydraulic conductivity, making groundwater recharge difficult. The government's promotion of sugarcane production and the presence of sugar mills owned by leading politicians have further intensified the crisis. To ensure the sustainability of drinking water sources, the article suggests supply-side solutions like watershed management and demand-side solutions like water-efficient irrigation, cultivating drought-resistant crops, and diversifying livelihoods. Ultimately, controlling sugarcane production and shifting to high-value, low-water-using horticultural crops are crucial for mitigating the water crisis in Marathwada.
+
 Mon, 24 Jun 2024 23:09:52 +0530
 ### [What is in Great Nicobar, site of NITI Aayog’s mega project? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-in-great-nicobar-site-of-niti-aayogs-mega-project-explained/article68327325.ece)
 

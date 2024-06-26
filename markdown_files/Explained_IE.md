@@ -1,3 +1,18 @@
+Tue, 25 Jun 2024 15:27:01 +0000
+### [Amit Shah says Rajiv Gandhi took pride in the Emergency. What exactly did the former PM say in Lok Sabha on July 23, 1985?](https://indianexpress.com/article/explained/explained-history/amit-shah-rajiv-gandhi-emergency-9414828/)
+
+Article found but Couldn't summarize
+
+Tue, 25 Jun 2024 15:23:38 +0000
+### [ICC issues arrest warrants for Russian defence leaders: What does it effectively mean?](https://indianexpress.com/article/explained/explained-global/icc-warrant-russia-shoigu-gerasimov-9414806/)
+
+The International Criminal Court has issued arrest warrants for Russia's former Defence Minister, Sergei Shoigu, and the current Chief of Staff of the Armed Forces, Valery Gerasimov, for their roles in the Ukraine war. The charges include directing attacks at civilian objects and causing excessive harm to civilians. The ICC, established to prosecute the gravest crimes, has issued arrest warrants for Russian officials previously, including President Vladimir Putin. Russia is not a member of the ICC, and the Kremlin has dismissed the warrants as null and void. The latest move is likely to further deepen Russia's isolation from the West.
+
+Tue, 25 Jun 2024 12:38:18 +0000
+### [Who was Sucheta Kripalani, India’s first woman Chief Minister?](https://indianexpress.com/article/explained/everyday-explainers/sucheta-kripalani-first-woman-cm-9414418/)
+
+Sucheta Kripalani, India's first woman Chief Minister, was born in 1908 and served as Chief Minister of Uttar Pradesh from October 2, 1963 to March 13, 1967. She was elected as the CLP leader after winning by a margin of 99 votes. Kripalani was known for her contributions to relief activities and her strictness, straightforwardness, and simplicity as Chief Minister. She waived school fees for girls up to Class 10, established universities and medical colleges, and increased reservation of posts in government jobs for SCs and STs. She was a staunch supporter of Hindi and a critic of corruption in public services.
+
 Tue, 25 Jun 2024 11:11:30 +0000
 ### [June 23, 1985: When Air India’s Kanishka jumbo jet was blown up in one of the worst terror attacks in history](https://indianexpress.com/article/explained/explained-history/air-india-kanishka-jet-bombing-canada-9414105/)
 
