@@ -1,3 +1,18 @@
+Wed, 26 Jun 2024 09:51:28 +0000
+### [Why has CBI arrested Kejriwal, and how is its case different from the ED’s?](https://indianexpress.com/article/explained/explained-law/cbi-arrest-kejriwal-ed-9416250/)
+
+Delhi Chief Minister Arvind Kejriwal has been taken into custody by the CBI ahead of a Supreme Court hearing on granting bail to him on money laundering charges. The CBI is investigating the alleged excise policy scam and will have to prove corruption and bribe-taking by public servants, unlike the Enforcement Directorate (ED) which is investigating the alleged money trail. Kejriwal has not been named as an accused in the corruption case, and the bar for granting bail under the PMLA is high. The article also mentions that the Opposition is demanding the post of Deputy Speaker in Lok Sabha.
+
+Wed, 26 Jun 2024 02:30:11 +0000
+### [Why India needs to build disaster resilience in its critical infrastructure](https://indianexpress.com/article/explained/explained-climate/india-disaster-management-electricity-demand-surge-climate-change-infrastructure-9415070/)
+
+High temperatures and electricity demand in Delhi have led to frequent power cuts and disrupted services in the area. This reflects the vulnerability of critical infrastructure to extreme weather events and disasters. The economic and other losses from extreme weather events and disasters have been rising, and the damage caused to critical infrastructure is often not counted in government figures. To address this, the Coalition for Disaster Resilient Infrastructure (CDRI) was created in 2019 with the goal of making critical infrastructure resilient to natural disasters. However, only a few states in India have sought the expertise and collaboration of CDRI. It is suggested that India needs to build the right templates for the most resilient infrastructure to withstand multi-hazard disasters.
+
+Wed, 26 Jun 2024 01:35:38 +0000
+### [Why the success of China’s sample return lunar mission matters](https://indianexpress.com/article/explained/explained-sci-tech/why-the-success-of-chinas-sample-return-lunar-mission-matters-9415088/)
+
+Article found but Couldn't summarize
+
 Tue, 25 Jun 2024 15:27:01 +0000
 ### [Amit Shah says Rajiv Gandhi took pride in the Emergency. What exactly did the former PM say in Lok Sabha on July 23, 1985?](https://indianexpress.com/article/explained/explained-history/amit-shah-rajiv-gandhi-emergency-9414828/)
 

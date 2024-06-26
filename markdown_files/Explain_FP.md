@@ -1,3 +1,68 @@
+Wed, 26 Jun 2024 17:27:39 +0530
+### [India’s rainfall deficit rises amid monsoon’s slow advance: Why this is a cause of concern](https://www.firstpost.com/explainers/india-rainfall-deficit-rises-monsoon-slow-advance-cause-of-concern-13786392.html)
+
+The slow progress of the southwest monsoon in India has led to a 19 per cent shortage of rain until June 25. The precipitation deficit has raised alarm bells about the country reeling from high food prices if the situation does not improve. The Indian Meteorological Department (IMD) has reported that 11 states continue to report rainfall deficit of more than 50 per cent, with concerns about food inflation and agricultural output. The IMD is hopeful that the monsoon will advance in July, bringing relief to farmers.
+
+Wed, 26 Jun 2024 16:10:29 +0530
+### [Why is the Congress demanding the Deputy Speaker’s post in Lok Sabha? What does history reveal?](https://www.firstpost.com/explainers/congress-deputy-speaker-lok-sabha-history-13786372.html)
+
+Article found but Couldn't summarize 
+After the election of the Speaker of Lok Sabha, all eyes are now on the polls for the Deputy Speaker’s post. The Congress is demanding that an opposition MP be given the position based on convention — from 1990 to 2014, this tradition has been followed continuously
+
+Wed, 26 Jun 2024 16:00:29 +0530
+### [Why Finland will get world’s first bird flu vaccination for humans even though it has no cases](https://www.firstpost.com/health/why-finland-will-get-worlds-first-vaccination-for-bird-flu-for-humans-even-though-it-has-no-cases-13786249.html)
+
+Finland is set to begin bird flu vaccinations for 10,000 individuals who are at a higher risk of contracting avian influenza due to their occupations or circumstances. This move is a part of a larger EU effort that includes up to 40 million doses across 15 countries. Finland had culled approximately 485,000 animals last year to control the virus outbreak on mink and fox fur farms. Bird flu, or avian influenza, is a virus primarily affecting birds but can also infect non-avian species, including humans. There have been cases of humans catching H5N1, a significant bird flu strain, in several countries. A notable case this year involved a 59-year-old man in Mexico who died from H5N2, a bird flu strain never before recorded in humans. Finnish authorities have identified high-risk groups for vaccination, including fur and poultry farm workers, lab technicians handling bird flu samples, veterinarians, and people working in sanctuaries or processing plants for animal by-products. Vaccinations are expected to start next week.
+
+Wed, 26 Jun 2024 15:18:43 +0530
+### [GenZ has arrived: How TikTok spurred Kenya’s tax protests](https://www.firstpost.com/explainers/genz-has-arrived-how-tiktok-spurred-kenyas-tax-protests-13786219.html)
+
+In Kenya, protests against proposed tax hikes have erupted following the government's Finance Bill, aiming to raise $2.7 billion through increased levies on essentials like fuel and food. These protests were catalyzed by TikTok videos from Gen Z creators, who used the platform to mobilize support and organize demonstrations. Social media campaigns, including hashtags like “#OccupyParliament,” facilitated widespread participation, highlighting economic hardships and prompting global solidarity. The movement underscores the transformative role of digital platforms in modern activism, amplifying youth voices and shaping political discourse beyond Kenya's borders.
+
+Wed, 26 Jun 2024 13:45:16 +0530
+### [Om Birla returns as Lok Sabha Speaker: The rise and rise of BJP’s Kota MP](https://www.firstpost.com/explainers/om-birla-lok-sabha-speaker-rise-of-bjp-kota-mp-13786269.html)
+
+Om Birla, a BJP MP from Rajasthan, has been re-elected as the Speaker of the 18th Lok Sabha after defeating Congress' K Suresh in a voice vote. This marks his second consecutive term as Speaker, making him the first to achieve this in two decades. Birla, born in 1962 and with a background in RSS, has steadily risen through the political ranks, serving as an MLA and later becoming known for his social initiatives. His re-election underscores BJP's message of continuity amid a coalition government.
+
+Wed, 26 Jun 2024 13:36:40 +0530
+### [Zero Chill: Why no air conditioning at Paris Olympics has become a hot topic](https://www.firstpost.com/explainers/no-air-conditioning-paris-olympics-hot-topic-us-australia-13786268.html)
+
+Article found but Couldn't summarize 
+To make the Paris Olympics 2024 more eco-friendly, organisers have steered clear of air conditioning in the apartments at the Village. Now some countries, including the US and Australia, have decided to carry their own AC units to the tournament amid concern that a heatwave will strike the City of Love in July
+
+Wed, 26 Jun 2024 13:28:35 +0530
+### [On the brink: Is Israel preparing for a major clash with Hezbollah in Lebanon?](https://www.firstpost.com/explainers/on-the-brink-is-israel-preparing-for-a-major-clash-with-hezbollah-in-lebanon-13786245.html)
+
+Article found but Couldn't summarize 
+The US has cautioned that a full-scale war between Israel and Hezbollah in Lebanon would be highly destructive and had the potential to ignite a broader regional conflict. With casualties being registered on both sides of the border, international bodies are pushing for a diplomatic solution between the two parties, fearing a Gaza-like situation will arise
+
+Wed, 26 Jun 2024 12:22:07 +0530
+### [From data to diapers: What pushed angry Kenyans to burn part of parliament](https://www.firstpost.com/explainers/data-to-diapers-what-pushed-angry-kenyans-to-burn-part-of-parliament-13786210.html)
+
+President William Ruto, once popular among Kenya's 'hustlers' for promising economic relief, is now facing widespread protests and calls for resignation over a new finance bill. The bill, passed despite public outcry, aims to increase taxes on items like internet data, fuel, and diapers to raise $2.7 billion in revenue. The unrest, marked by violent protests in Nairobi and other cities, reflects growing dissatisfaction with Ruto's policies, seen by many as exacerbating economic hardships. Critics accuse Ruto of authoritarian tendencies, comparing him to past leaders, while his lavish spending habits have further alienated supporters.
+
+Wed, 26 Jun 2024 10:57:04 +0530
+### [Owaisi's 'Jai Palestine' slogan during oath sparks storm: Can the Hyderabad MP be disqualified from Lok Sabha?](https://www.firstpost.com/explainers/asaduddin-owaisi-jai-palestine-slogan-during-oath-sparks-parliamentary-storm-can-aimim-hyderabad-mp-be-disqualified-lok-sabha-13786168.html)
+
+Article found but Couldn't summarize 
+The 'Jai Palestine' slogan by AIMIM leader Asaduddin Owaisi as he concluded his oath as an MP in the Lok Sabha on Tuesday has sparked strong criticism, especially from the BJP. With several of its leaders suggesting that the Hyderabad MP could face disqualification from Parliament, we take a look at what the rule book says
+
+Wed, 26 Jun 2024 10:23:14 +0530
+### [What will Rahul Gandhi’s role be as Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/congress-rahul-gandhi-leader-of-opposition-lok-sabha-role-india-bloc-13786166.html)
+
+Rahul Gandhi has been appointed as the Leader of the Opposition (LoP) in the Lok Sabha by the INDIA bloc, marking the first time in a decade that the position will be filled. As LoP, Gandhi, a Congress MP, will lead the opposition in parliamentary proceedings and enjoy privileges equivalent to a Cabinet minister. His role includes sitting on key committees and participating in appointments of significant officials alongside Prime Minister Narendra Modi. The appointment underscores Congress's stance against the ruling BJP-led government, emphasizing Gandhi's proactive role in parliamentary affairs.
+
+Wed, 26 Jun 2024 09:00:55 +0530
+### [Om Birla elected as Lok Sabha Speaker for second time. Why the position holds importance](https://www.firstpost.com/explainers/om-birla-vs-k-suresh-lok-sabha-speaker-election-significance-powers-13786075.html)
+
+Article found but Couldn't summarize 
+In a rare contest, NDA’s Om Birla has been selected as Lok Sabha Speaker. This will be his second stint. Here’s what his role encompasses
+
+Wed, 26 Jun 2024 06:00:11 +0530
+### [FirstUp: Lok Sabha Speaker election, SC to hear CM Kejriwal's bail plea... The headlines today](https://www.firstpost.com/explainers/firstup-lok-sabha-speaker-election-sc-to-hear-cm-kejriwals-bail-plea-the-headlines-today-13786061.html)
+
+Today is a busy day with several important events, including the election for the position of Lok Sabha Speaker between Om Birla and K Suresh. The Supreme Court will hear Delhi CM Arvind Kejriwal’s plea against the interim stay on his bail in a money laundering case. The Telecommunication Act 2023 will come into effect, allowing the government to take control of telecommunications services in emergencies. Biennial elections for legislative council seats in Maharashtra and the Urban Local Bodies elections in Nagaland will also take place. A Sri Lankan parliamentary delegation will visit Russia to discuss the repatriation of mercenaries hired from the island nation to serve in the Russia-Ukraine war. In sports, South Africa will face Afghanistan in the first semi-final of the T20 World Cup 2024. Additionally, it is International Day in Support of Victims of Torture, the birth anniversary of Indian activist Aruna Roy, and the birth anniversary of actor Arjun Kapoor.
+
 Tue, 25 Jun 2024 21:22:41 +0530
 ### [Coffee vs Couch: How your daily brew could save your life from sedentary dangers](https://www.firstpost.com/health/coffee-sitting-sedentary-dangers-lifestyle-13786072.html)
 

@@ -1,3 +1,50 @@
+Wed, 26 Jun 2024 16:00:15 +0530
+### [Social media addiction is about pleasures of the hunt](https://www.livemint.com/opinion/online-views/social-media-addiction-is-about-pleasures-of-the-hunt-11719339316086.html)
+
+Vivek Murthy, the Surgeon General of the United States, has suggested that social media platforms should display a warning about their potential harm to the mental health of teenagers, similar to the warning on cigarette packages about the dangers of smoking. This proposal is in response to the increasing social media addiction among teenagers and its negative impact on their mental health.
+
+Research by British anthropologist Robin Dunbar found that social media has increased the number of weak ties and acquaintances but has not increased the number of deep personal connections. A significant issue is that a large percentage of today's younger generation lack intimate friends, leading to loneliness, which is as harmful to health as smoking 15 cigarettes a day.
+
+While efforts are being made to tackle social media addiction, technology giants are expected to push back. Similar to the denial of smoking's health risks in the past, studies suggesting that social media addiction is not a significant problem may appear soon. The irony is that social media, the very platform used to deliver messages about its addictive nature, is also the most powerful vehicle to reach the younger generation.
+
+The article also highlights the role of neuroscience in social media addiction. Social media platforms have perfected the art of making their product's usage a continuous activity without a break, taking advantage of the human brain's reward pathways. The intermittent rewards offered by social media platforms promote continuous reward-seeking behavior, making it difficult for users to resist the urge to keep scrolling.
+
+In conclusion, the Surgeon General's warning about social media addiction is a step towards addressing the negative impact of social media on mental health, particularly among teenagers. However, it is crucial to understand the neuroscience behind addiction and the role of technology companies in promoting continuous usage to tackle this problem effectively.
+
+Wed, 26 Jun 2024 15:00:14 +0530
+### [Digital education: It can grant even prisoners tech sector jobs](https://www.livemint.com/opinion/online-views/digital-education-it-can-grant-even-prisoners-tech-sector-jobs-11719339188941.html)
+
+James Tweed, a former maritime derivatives trader, founded Coracle Online Ltd to provide education to isolated learners, starting with those on ships and later expanding to prisoners lacking internet access. His initiative has distributed 2,600 laptops loaded with educational software across British prisons, aiming to enhance learning environments by eliminating online distractions. Despite limitations like lack of hyperlinks, prisoners using Coracle's Chromebooks have shown high engagement and completion rates in educational courses, leading to improved prospects upon release. Such initiatives highlight the potential of digital education in reducing recidivism rates and empowering inmates for successful reintegration into society.
+
+Wed, 26 Jun 2024 14:00:11 +0530
+### [India should treat e-commerce exports as a national imperative](https://www.livemint.com/opinion/online-views/india-should-treat-e-commerce-exports-as-a-national-imperative-11719338881121.html)
+
+Article found but Couldn't summarize 
+The country can emerge as a global e-commerce export hub for labour-intensive sectors. We must adopt a policy-backed action plan that helps businesses exploit a global opportunity and rival China while world trade is in flux.
+
+Wed, 26 Jun 2024 12:30:06 +0530
+### [India should rethink its stance on trade policy barriers](https://www.livemint.com/opinion/online-views/india-should-rethink-its-stance-on-trade-policy-barriers-11719338676514.html)
+
+Article found but Couldn't summarize 
+A Confederation of Indian Industry report points out that our high tariffs mean that “tariff-induced cost” often neutralizes the productivity-linked incentive scheme. This, along with our attitude to regional free trade agreements, puts us at a disadvantage.
+
+Wed, 26 Jun 2024 10:30:03 +0530
+### [AI regulation: People should be players, not pawns](https://www.livemint.com/opinion/online-views/ai-regulation-people-should-be-players-not-pawns-11719338540165.html)
+
+Article found but Couldn't summarize 
+Giving citizens tools to manage their data offers a pragmatic way to mitigate risks and ensure that AI development respects individual autonomy. Empowering users of artificial intelligence may be our best defence against its misuse.
+
+Wed, 26 Jun 2024 08:30:19 +0530
+### [India’s 25% free-float equity rule has been weakened. Tighten it.](https://www.livemint.com/opinion/online-views/indias-25-free-float-equity-rule-has-been-weakened-tighten-it-11719338235812.html)
+
+The article discusses the enforcement and implications of India's 25% free-float rule in the stock market. This rule mandates that at least a quarter of every listed company’s equity must be publicly tradable, not held by promoters. Some state-run banks are struggling to meet this requirement by August 1 and have requested an extension. There's debate over whether such rules should be tightened or relaxed to ensure better market liquidity, price discovery, and governance, amid evolving market conditions and regulatory exceptions.
+
+Wed, 26 Jun 2024 07:00:15 +0530
+### [Mint Quick Edit | Assange is free: Information, not so much](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-assange-is-free-information-not-so-much-11719338107426.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange walked out of jail after reaching a plea deal with America. The US response to disclosures by Wikileaks did no justice to its democratic credentials, but it may now have a chance to recover its image globally.
+
 Tue, 25 Jun 2024 16:00:12 +0530
 ### [YouTube and Facebook let India down during the Lok Sabha election](https://www.livemint.com/opinion/online-views/youtube-and-facebook-let-india-down-during-the-lok-sabha-election-11719255274843.html)
 

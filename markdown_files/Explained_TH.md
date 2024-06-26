@@ -1,3 +1,8 @@
+Wed, 26 Jun 2024 08:30:00 +0530
+### [Will the Agnipath scheme be revamped? | Explained](https://www.thehindu.com/news/national/will-the-agnipath-scheme-be-revamped-explained/article68333308.ece)
+
+The Agnipath scheme, introduced in 2022, aims to recruit soldiers, sailors, and airmen under a new framework where recruits serve for four years before a potential transition to permanent roles. This initiative, designed to address shortages in the armed forces exacerbated by a halt in recruitment during the COVID-19 pandemic, has sparked political debate and public protests. While hailed as a transformative step by some, concerns remain about the scheme's effectiveness in meeting long-term staffing needs and its impact on military readiness. Ongoing discussions include proposals to adjust age limits and increase the percentage of recruits transitioning to permanent roles.
+
 Wed, 26 Jun 2024 05:00:00 +0530
 ### [Why do parts of Maharashtra experience different water stress levels? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/why-do-parts-of-maharashtra-experience-different-water-stress-levels-explained/article68331094.ece)
 

@@ -1,3 +1,34 @@
+Wed, 26 Jun 2024 18:02:25 +0530
+### [How Philippines’ maritime sovereignty gains centre stage in South China Sea dispute amid aggressive Beijing and assertive Washington](https://www.firstpost.com/opinion/how-philippines-maritime-sovereignty-gains-centre-stage-in-south-china-sea-dispute-amid-aggressive-beijing-and-assertive-washington-13786448.html)
+
+The article discusses escalating tensions between the Philippines and China over the Second Thomas Shoal in the South China Sea. Chinese coast guard actions, including use of force against Filipino personnel stationed on a grounded vessel, Sierra Madre, are intensifying. The dispute is part of China's broader strategy to assert control over the South China Sea, impacting regional stability and drawing involvement from the US and its allies. The Philippines, supported by the Quad countries (US, Japan, Australia, and India), is resisting Chinese dominance, with implications for regional security and potential conflict escalation.
+
+Wed, 26 Jun 2024 17:42:29 +0530
+### [A clear and present danger: Climate crisis needs immediate action and not just hollow promises](https://www.firstpost.com/opinion/a-clear-and-present-danger-climate-crisis-needs-immediate-action-and-not-just-hollow-promises-13786368.html)
+
+The article discusses the urgent need to limit global warming to 1.5 degrees Celsius to prevent irreversible damage, a milestone breached in February 2024. It highlights recent climate-related tragedies, such as heat-related deaths in India and extreme weather impacts across Africa. Small Island Developing States (SIDS) are disproportionately affected, facing severe economic and environmental setbacks despite minimal contributions to global emissions. The Commonwealth is advocating for increased climate finance and resilience-building efforts to support vulnerable nations, emphasizing the importance of global commitments and actions to mitigate climate change effects.
+
+Wed, 26 Jun 2024 15:06:10 +0530
+### [Modi-Hasina summit: The highway of strategic partnership](https://www.firstpost.com/opinion/modi-hasina-summit-the-highway-of-strategic-partnership-13786326.html)
+
+Article found but Couldn't summarize 
+As India and Bangladesh navigate the complexities of the 21st century, the Modi-Hasina summit serves as a testament to the resilience and dynamism of their bilateral relationship, promising a future of sustained growth and mutual benefit
+
+Wed, 26 Jun 2024 12:54:01 +0530
+### [Chang’e-6 spacecraft brings lunar dust to Earth, revealing China’s 'Moon agenda'](https://www.firstpost.com/opinion/change-6-spacecraft-brings-lunar-dust-to-earth-revealing-chinas-moon-agenda-13786256.html)
+
+China's Chang'e-6 mission successfully delivered lunar samples from the Moon's far side to Earth via the Returner capsule on June 25, 2024. This marks the first opportunity in history for scientists to analyze such samples. China's Lunar Exploration Programme, which began in 2007, has progressed through orbiter missions to soft landings on the lunar surface, culminating in missions like Chang'e-5 and now Chang'e-6. The program aims to advance towards a human lunar landing by 2030, amidst a competitive global space race involving the US.
+
+Wed, 26 Jun 2024 10:36:01 +0530
+### [From sending cricket kits in 2002 to BCCI now ensuring coaching: India’s role in nurturing Afghan cricket](https://www.firstpost.com/opinion/from-sending-cricket-kits-in-2002-to-bcci-now-ensuring-coaching-indias-role-in-nurturing-afghan-cricket-13786169.html)
+
+The article highlights India's pivotal role in supporting Afghan cricket over the past two decades, despite Afghanistan lacking a home ground due to ongoing instability. It traces how India initially provided cricket kits and later facilitated training, coaching, and infrastructure development through collaborations with the BCCI. This support culminated in Afghanistan's remarkable cricket achievements, including recent wins in the T20 World Cup, underscoring cricket's role in inspiring Afghan youth amidst adversity. The author, a former Indian diplomat, reflects on the transformative impact of sports diplomacy and hopes for continued success for Afghan cricket.
+
+Wed, 26 Jun 2024 10:03:14 +0530
+### [Sonakshi Sinha & Zaheer Iqbal criticised for inter-faith marriage: How toxic can trolls get?](https://www.firstpost.com/entertainment/sonakshi-sinha-zaheer-iqbal-criticised-for-inter-faith-marriage-how-toxic-can-trolls-get-13786171.html)
+
+Actors Sonakshi Sinha and Zaheer Iqbal recently married in Mumbai, but their joyous occasion was marred by severe online trolling due to their inter-faith marriage. Despite facing criticism for their personal choice, the couple, who had been together for seven years, opted for a civil ceremony emphasizing their union of hearts over religious rituals. Both Sonakshi and Zaheer's families expressed support, with Zaheer's father asserting that Sonakshi will not convert to Islam. The couple received backing from public figures like Sonakshi's father, Shatrughan Sinha, and actress Richa Chadha, who condemned the negativity and offered their congratulations.
+
 Tue, 25 Jun 2024 19:40:19 +0530
 ### [NEP 2020: Preparing students to think afresh and take the lead](https://www.firstpost.com/opinion/nep-2020-preparing-students-to-think-afresh-and-take-the-lead-13786045.html)
 

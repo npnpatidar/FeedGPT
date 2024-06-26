@@ -1,3 +1,53 @@
+Wed, 26 Jun 2024 09:02:59 +0000
+### [Tamil Nadu hooch tragedy points to the need for a public health-centred approach to alcohol](https://indianexpress.com/article/opinion/columns/tamil-nadu-hooch-tragedy-points-to-the-need-for-a-public-health-centred-approach-to-alcohol-9416164/)
+
+The article discusses India's persistent issues with tragedies like road accidents and hooch-related deaths, attributing them to ineffective law enforcement and conflicting attitudes towards alcohol consumption. It traces India's historical relationship with alcohol from Vedic times to British colonial influence, leading to a complex modern policy landscape ranging from prohibition in some states to liberalization in others. The piece advocates for a balanced national consensus on alcohol policy, citing public health considerations and the need to learn from global experiences. It calls for revisiting policies to include evidence-based interventions and stricter enforcement to address related social harms.
+
+Wed, 26 Jun 2024 07:25:54 +0000
+### [Overworked, understaffed system will struggle to implement new criminal laws](https://indianexpress.com/article/opinion/columns/new-criminal-law-nda-9415938/)
+
+The article discusses the impending enforcement of new criminal laws in India, effective July 1. Known as the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagrik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), these laws introduce significant changes including new crimes, enhanced punishments, and modernized procedural frameworks. However, concerns are raised about the readiness of the criminal justice system to implement these reforms, citing challenges such as inadequate training facilities for police and judicial personnel, understaffing in prisons, and judicial backlog. The article emphasizes the need for extensive training and modernization to effectively implement and adapt to these new laws.
+
+Wed, 26 Jun 2024 02:30:37 +0000
+### [June 26, 1984, Forty Years Ago: Extremist killed, more arms seized from Golden Temple](https://indianexpress.com/article/opinion/40-years-ago/june-26-1984-forty-years-ago-extremist-killed-more-arms-seized-from-golden-temple-9415025/)
+
+Five individuals, including a four-month-old child, were tragically killed in a terrorist attack in Punjab on June 25. The incident, which occurred in the Jhabal area of Amritsar, involved an encounter where one extremist was also killed by security forces. Additional arms were discovered during operations at the Golden Temple complex. In response to escalating tensions, night curfew has been enforced in parts of Hubli, Karnataka, with police deploying to maintain order. Meanwhile, Assam witnessed disruptions due to a state-wide bandh over issues related to foreign nationals.
+
+Wed, 26 Jun 2024 02:23:13 +0000
+### [Why Julian Assange’s release is not a straightforward happy ending](https://indianexpress.com/article/opinion/editorials/why-julian-assanges-release-is-not-a-straightforward-happy-ending-9415019/)
+
+The article discusses Julian Assange, highlighting his role as a prominent whistleblower through WikiLeaks, which exposed sensitive information about government activities. Assange faced legal challenges, including charges of espionage in the US and accusations of sexual assault in Sweden, ultimately seeking asylum in the Ecuadorian embassy in London. Recently, Assange has reportedly agreed to plead guilty to one count of espionage in the US, potentially leading to his release and return to Australia. The article reflects on the broader implications of Assange's actions for free speech and government transparency, noting concerns about government crackdowns on whistleblowers like him.
+
+Wed, 26 Jun 2024 02:10:45 +0000
+### [Hamare Baarah and the myth of India’s Muslim population ‘explosion’](https://indianexpress.com/article/opinion/columns/hamare-baarah-and-the-myth-of-indias-muslim-population-explosion-9414996/)
+
+The article discusses the recent legal and societal developments surrounding the film "Hamare Baarah" in India, which explores themes linked to population and community dynamics, particularly targeting Muslims. It highlights how demographic data, such as from the National Family Health Survey and other sources, contradicts myths of Muslim population growth being a threat. The piece emphasizes socio-economic factors, education, and healthcare access as critical influencers of fertility rates across all religious communities. It critiques the use of demographic rhetoric to marginalize and misinform, advocating instead for a focus on reproductive rights and individual choices.
+
+Wed, 26 Jun 2024 02:03:08 +0000
+### [Does India really need stocking limits on wheat?](https://indianexpress.com/article/opinion/editorials/does-india-really-need-stocking-limits-on-wheat-9415018/)
+
+The Union Agriculture Ministry reports a record-high wheat harvest in India at 112.93 million tonnes, surpassing last year's yield. Despite this, the Modi government has imposed stock limits on wheat effective from June 24, 2024, until March 31, 2025, citing food security and preventing hoarding. These limits restrict wholesalers, retailers, and processors from exceeding specified stock quantities. The decision follows concerns over high retail cereal inflation, low government wheat stocks, and uncertainties due to the current monsoon season. Critics question these measures against the backdrop of bumper crops and advocate for reconsidering wheat import duties to stabilize supply.
+
+Wed, 26 Jun 2024 02:00:41 +0000
+### [What government must understand: In Andamans, it can protect national security and ecology](https://indianexpress.com/article/opinion/columns/what-government-must-understand-in-andamans-it-can-protect-national-security-and-ecology-9414995/)
+
+The article discusses India's historical neglect and recent strategic focus on the Andaman & Nicobar Islands (A&N). Initially overlooked due to attention on the western Indian Ocean, the islands gained importance with the Look East and Act East policies, emphasizing their crucial role in regional security and economic growth. The establishment of the A&N Command in 2001 marked a significant step towards fortifying these islands, crucial for India's maritime defense and control of the Bay of Bengal. Recently, plans for the "Holistic Development of Great Nicobar Island" have sparked controversy over environmental and indigenous rights concerns, despite economic potential and strategic benefits cited for the project.
+
+Wed, 26 Jun 2024 01:53:53 +0000
+### [GI tag for Dodol: Moving beyond the authenticity debate](https://indianexpress.com/article/opinion/editorials/gi-tag-for-dodol-moving-beyond-the-authenticity-debate-9415024/)
+
+The article discusses Dodol, a lesser-known sweet from Goa, which is seeking a Geographical Indication (GI) tag to protect its cultural identity and standardize its recipe. The All Goa Bakers and Confectioners Association has applied for the GI tag, aiming to preserve Dodol's authenticity. However, the article also raises questions about the concept of authenticity in food, given Dodol's widespread presence across South and Southeast Asia, illustrating how food evolves across cultures. It argues that while GI tags are beneficial for identifying food origins, they may overlook the cultural richness derived from cultural interactions.
+
+Wed, 26 Jun 2024 01:50:40 +0000
+### [Forget metros and highways, India needs to revive manufacturing](https://indianexpress.com/article/opinion/columns/forget-metros-and-highways-india-needs-to-revive-manufacturing-9415061/)
+
+The article examines India's stagnant manufacturing sector, noting its declining contribution to GDP despite policy efforts like Make in India and Ease of Doing Business reforms. These initiatives aimed to attract investment and boost industrial growth but failed to deliver significant results. Challenges such as regulatory complexities, ineffective incentives, and reliance on imports, particularly from China, have exacerbated the sector's woes. The lack of substantial industrial investment and low domestic value addition underscore the urgent need for a revamped industrial policy focused on enhancing productive investments and export competitiveness.
+
+Wed, 26 Jun 2024 01:47:52 +0000
+### [The digital revolution that India’s exam system needs](https://indianexpress.com/article/opinion/columns/the-digital-revolution-that-indias-exam-system-needs-9415059/)
+
+The Indian government has swiftly responded to concerns over the integrity of competitive examinations, prompted by incidents like the NEET-PG postponement and allegations of paper leaks. Actions include leadership changes at the National Testing Agency (NTA) and the establishment of expert committees to restore trust. Measures such as a High-Level Experts Committee and involvement of the CBI aim to reform exam processes, enhance security, and enforce stringent penalties for breaches. Future steps advocate advanced security measures like encryption and AI-powered proctoring to safeguard exams. These efforts underscore a commitment to long-term integrity and reliability in India's examination system, crucial for the aspirations of millions of students.
+
 Tue, 25 Jun 2024 12:32:09 +0000
 ### [Julian Assange symbolises an idea — the freedom of information](https://indianexpress.com/article/opinion/columns/julian-assange-information-freedom-9414235/)
 
