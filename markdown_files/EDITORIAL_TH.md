@@ -1,3 +1,13 @@
+Thu, 27 Jun 2024 00:20:00 +0530
+### [​Lip service: On the Emergency and government’s actions](https://www.thehindu.com/opinion/editorial/%E2%80%8Blip-service-on-the-emergency-and-governments-actions/article68336750.ece)
+
+The article discusses the historical significance of the Emergency imposed by Prime Minister Indira Gandhi in 1975, highlighting its suspension of civil liberties and free speech. It criticizes the recent actions of Lok Sabha Speaker Om Birla and the ruling BJP for allegedly mirroring Emergency-like measures, such as stifling dissent and targeting opposition figures. Despite condemning the Emergency retrospectively, the article argues that recent political maneuvers seem more aimed at political advantage than genuine commitment to upholding democratic freedoms. It calls for a robust opposition, a vigilant judiciary, and civil society engagement to prevent a recurrence of authoritarian practices and to move forward from this dark period in India's democratic history.
+
+Thu, 27 Jun 2024 00:10:00 +0530
+### [Ending defections: on politics in Telangana](https://www.thehindu.com/opinion/editorial/ending-defections-on-politics-in-telangana/article68336345.ece)
+
+The article discusses the impact of MLA M. Sanjay Kumar's defection from the Bharat Rashtra Samithi (BRS) to the ruling Congress in Telangana's Jagtial constituency. This defection has reduced the BRS's strength in the State Assembly from 39 to 33 seats. It highlights ongoing issues with political defections in India, particularly in Telangana, since the state's formation in 2014. The piece criticizes the ineffectiveness of India's Anti-Defection Law, citing loopholes that allow party mergers to bypass disqualification rules. It emphasizes the importance of a strong opposition in maintaining democratic balance and suggests potential reforms to empower an independent Election Commission in handling such matters.
+
 Wed, 26 Jun 2024 00:20:00 +0530
 ### [Call for consensus: On the Prime Minister’s pledge and the 18th Lok Sabha](https://www.thehindu.com/opinion/editorial/call-for-consensus-on-the-prime-ministers-pledge-and-the-18th-lok-sabha/article68332159.ece)
 

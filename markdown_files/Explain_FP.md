@@ -1,3 +1,18 @@
+Wed, 26 Jun 2024 20:26:47 +0530
+### [Outgoing Dutch PM Mark Rutte is new NATO chief: From Putin to Trump, a look at challenges waiting for him](https://www.firstpost.com/explainers/outgoing-dutch-pm-mark-rutte-is-new-nato-chief-from-putin-to-trump-a-look-at-challenges-waiting-for-him-13786407.html)
+
+Mark Rutte, the departing PM of the Netherlands and recently appointed as the next NATO chief, will face immediate challenges when he assumes office in October. These challenges include the potential return of Donald Trump to the White House, maintaining support for Ukraine, dealing with the threat from Russia, ensuring NATO countries meet their defense spending targets, and addressing the increasing focus on China as a potential rival. Rutte will need to use his diplomatic skills and experience to navigate these complex issues.
+
+Wed, 26 Jun 2024 19:21:39 +0530
+### [The secrets of the Manta Ray: All about confidential US submarine drone spotted, then vanished on Google Maps](https://www.firstpost.com/explainers/manta-ray-confidential-us-submarine-drone-google-maps-13786369.html)
+
+The "Manta Ray," a highly classified autonomous underwater submarine developed by the US Navy for extended operations, was discovered on Google Maps at the Port Hueneme naval base in California. The unmanned vessel, developed by Northrop Grumman, can hibernate on the sea floor for extended periods and is designed for long-range underwater weapons operations. Its modular design allows it to be transported in shipping containers, enabling rapid deployment worldwide. The Manta Ray is part of a broader US Navy strategy to counter adversaries' submarine operations, such as Russia and China, and is expected to reduce logistical demands, improve surveillance, and increase firepower for sailors and Marines.
+
+Wed, 26 Jun 2024 18:43:38 +0530
+### [Why has the CBI arrested Arvind Kejriwal now? Is this different from the ED’s case?](https://www.firstpost.com/explainers/cbi-arrest-aap-arvind-kejriwal-ed-investigation-delhi-liquor-policy-case-13786458.html)
+
+Chief Minister Arvind Kejriwal was unexpectedly arrested by the CBI at Delhi's Rouse Avenue Court over alleged irregularities in the Delhi Excise Policy of 2021. This arrest follows earlier actions by the Enforcement Directorate related to money laundering linked to the same policy. Kejriwal's wife criticized the arrests as undemocratic. The CBI's case focuses on policy formulation irregularities, while the ED's investigation centers on financial improprieties and alleged kickbacks. The timing and circumstances of Kejriwal's arrest have sparked controversy and political backlash.
+
 Wed, 26 Jun 2024 17:27:39 +0530
 ### [India’s rainfall deficit rises amid monsoon’s slow advance: Why this is a cause of concern](https://www.firstpost.com/explainers/india-rainfall-deficit-rises-monsoon-slow-advance-cause-of-concern-13786392.html)
 

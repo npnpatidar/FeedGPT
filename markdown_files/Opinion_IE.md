@@ -1,3 +1,8 @@
+Wed, 26 Jun 2024 14:45:12 +0000
+### [What the 2024 elections showed about the limits of Hindutva](https://indianexpress.com/article/opinion/columns/2024-elections-showed-limits-hindutva-9417028/)
+
+The article discusses the BJP's recent electoral performance and the role of Hindutva ideology in Indian politics. Despite losing some key constituencies, including symbolic seats like Faizabad (Ayodhya) and seeing a decline in vote share in others, the BJP's use of radical Hindutva as a political strategy is questioned. The article distinguishes between two meanings of Hindutva: as a political narrative emphasizing cultural nationalism, and as a cultural assertion of Hindu identity. It highlights how the BJP's reliance on a divisive form of Hindutva may have contributed to its electoral setbacks, as opposition parties successfully shifted the discourse to issues of social justice and economic inequality. While the BJP's electoral success under PM Modi indicates some continuing appeal, the article concludes that the party's failure to adapt its Hindutva strategy to broader societal changes suggests its diminishing influence on political discourse.
+
 Wed, 26 Jun 2024 09:02:59 +0000
 ### [Tamil Nadu hooch tragedy points to the need for a public health-centred approach to alcohol](https://indianexpress.com/article/opinion/columns/tamil-nadu-hooch-tragedy-points-to-the-need-for-a-public-health-centred-approach-to-alcohol-9416164/)
 

@@ -1,3 +1,23 @@
+Wed, 26 Jun 2024 14:49:18 +0000
+### [France elections: What is cohabitation?](https://indianexpress.com/article/explained/explained-global/france-elections-cohabitation-9417009/)
+
+Article found but Couldn't summarize
+
+Wed, 26 Jun 2024 13:15:22 +0000
+### [Frank Duckworth dies: How his DLS method works](https://indianexpress.com/article/explained/explained-sports/frank-duckworth-dls-method-cricket-9416774/)
+
+Frank Duckworth, who passed away in June, was one of the co-inventors of the Duckworth-Lewis method, used to fairly determine results and set targets in rain-truncated cricket matches. The method was developed in response to a 1992 semi-final match between South Africa and England that ended in a farcical manner due to rain. Duckworth and Lewis introduced the concept of 'resources' in making score estimations for truncated games, considering the number of overs left to be bowled and the number of wickets in hand. The method has faced criticism for weighing wickets more heavily than balls available and being less accurate for T20 matches.
+
+Wed, 26 Jun 2024 13:07:04 +0000
+### [Parts of new Telecom Act to come into force today: What to expect](https://indianexpress.com/article/explained/new-telecom-act-9416787/)
+
+The Telecommunications Act, 2023 is set to come into effect, marking the first piece of the larger technology legislative puzzle. The law brings in a number of structural changes to current regulatory mechanisms in the sector, including simplification of the licensing regime, clarity on spectrum assignment, and a stringent requirement of user verification. Some provisions are set to come into force, while others, such as the introduction of an authorisation regime, mandatory biometric verification of users, and amendments to the Telecom Regulatory Authority of India Act, 1997, are yet to be implemented. The Act also opens the door for administrative allocation of spectrum for satellite broadband services.
+
+Wed, 26 Jun 2024 12:16:00 +0000
+### [ICC convicts Mali insurgency chief of war crimes](https://indianexpress.com/article/explained/explained-global/icc-convicts-mali-war-crimes-9416629/)
+
+The International Criminal Court has issued a guilty verdict in the case of an al-Qaeda-linked jihadist accused of war crimes and crimes against humanity in Mali. Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud will be sentenced at a later date, but could face life imprisonment for charges including torture, rape, sexual slavery, and destruction of religious and historic buildings. The crimes took place during an al-Qaeda-linked group's occupation of Timbuktu in 2012. Prosecutors accused Al Hassan of overseeing amputations, floggings, and targeting women. The occupation also resulted in the destruction of Timbuktu's iconic shrines. This case echoes a previous ICC sentencing of another Ansar Dine member for destroying religious sanctuaries.
+
 Wed, 26 Jun 2024 09:51:28 +0000
 ### [Why has CBI arrested Kejriwal, and how is its case different from the ED’s?](https://indianexpress.com/article/explained/explained-law/cbi-arrest-kejriwal-ed-9416250/)
 
