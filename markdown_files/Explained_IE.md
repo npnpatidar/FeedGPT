@@ -1,3 +1,53 @@
+Thu, 27 Jun 2024 12:23:28 +0000
+### [What is the Justice Reddy Commission, against which KCR has moved Telangana High Court?](https://indianexpress.com/article/explained/explained-law/justice-reddy-commission-kcr-telangana-hc-9418790/)
+
+The Telangana High Court has adjourned the hearing in a petition filed by former Chief Minister K Chandrashekar Rao seeking a stay on further proceedings of the Justice L Narasimha Reddy Commission. The Commission is investigating power purchase agreements and construction projects, with allegations of irregularities during KCR's tenure. The former Chief Minister has accused the Commission of bias and filed a petition in the High Court to halt its proceedings. Meanwhile, Prabhas' latest movie has had a successful opening at the box office.
+
+Thu, 27 Jun 2024 12:16:10 +0000
+### [Why govt must create a buffer stock of all main food items](https://indianexpress.com/article/explained/explained-economics/buffer-stock-main-food-items-9418717/)
+
+Inflation rates are high for cereals and pulses, but the sales from buffer stocks have helped keep them lower than they would have been. The National Agricultural Cooperative Marketing Federation of India has bought large quantities of chana crops, which has helped keep prices from rising even more. The article suggests that building a buffer stock of essential food items in surplus production years could help moderate market prices. This could be an effective way to curb excessive volatility in food prices.
+
+Thu, 27 Jun 2024 11:34:28 +0000
+### [What are Private Papers of public figures like PM Nehru, and what rules govern their declassification?](https://indianexpress.com/article/explained/private-papers-nehru-sonia-9418653/)
+
+The Prime Ministers’ Museum & Library (PMML) has decided not to allow future donors of Private Papers to impose indefinite conditions on the declassification of such material. The museum has the largest collection of Private Papers in the country, including the papers of many prominent Indian figures. The PMML has decided to permit only a five-year embargo from the date of receipt of any new papers, and in rare cases, this window can remain shut for up to 10 years at most. The National Archives of India also acquires Private Collections, and the declassification of records in India is covered by the Public Records Rules, 1997. In the United States, the Library of Congress Manuscript Division holds Personal Papers and organizational records that are significant in American history.
+
+Thu, 27 Jun 2024 10:57:31 +0000
+### [Why Bombay HC held Chembur college hijab ban was in ‘larger academic interest’](https://indianexpress.com/article/explained/explained-law/bombay-hc-chembur-college-hijab-ban-9418555/)
+
+The Bombay High Court has dismissed a petition by nine female students of a college in Chembur challenging the institution's dress code that bans hijabs. The court held that the decision was in the larger academic interest and did not violate the students' fundamental rights to freedom of expression and religion. The college had issued a new dress code in May, which prohibited burqas, niqabs, hijabs, and other religious identifiers. The students had argued that the niqab and hijab were essential religious practices and that the college's restrictions were impeding their access to education and violating their constitutional rights. However, the college administration argued that the dress code was applicable to all students and that its objective was to not reveal students' religion. The court agreed with the college's argument and held that since the instructions were applicable to all students, they did not violate UGC guidelines. The court also expressed agreement with the Karnataka High Court's view that the prescription of a dress code is intended to achieve uniformity amongst students and maintain discipline. The verdict is likely to be contested before the Supreme Court. (Note: The article contains an unrelated celebrity news item that has been omitted from the summary.)
+
+Thu, 27 Jun 2024 09:55:19 +0000
+### [Sengol: Civilisational symbol or ‘raja ka danda’?](https://indianexpress.com/article/explained/explained-history/sengol-civilisational-symbol-raja-ka-danda-9418363/)
+
+The article discusses the installation of the Sengol, an ancient South Indian symbol of kingship and righteousness, in India's new Parliament building. It explores its historical and cultural significance, noting its association with dharmic kingship and rituals in Tamil Nadu. There is debate over its presence in Parliament, with MP R K Chaudhary questioning its compatibility with constitutional principles. Historian Manu S Pillai provides insights into its origins and the disputed narrative surrounding its presentation to Nehru. The placement of the Sengol symbolizes a shift towards emphasizing Hindu cultural legitimacy in national symbols, reflecting broader changes in India's political narrative.
+
+Thu, 27 Jun 2024 08:35:10 +0000
+### [Why the recent spectrum auctions saw a muted response from telecom companies](https://indianexpress.com/article/explained/explained-economics/spectrum-auctions-telecom-5g-9418210/)
+
+The article discusses India's recent spectrum auction, which saw telecom companies acquiring airwaves for over Rs 11,340 crore, far below the government's reserve price of Rs 96,238 crore. The auction, focusing on bands like 900 MHz, 1800 MHz, 2100 MHz, and 2500 MHz, reflects cautious spending by companies like Bharti Airtel and Vodafone Idea, with Reliance Jio making limited purchases. This contrasts with the record-setting 2022 auction where Jio led spending for 5G spectrum. The current auction highlights telecoms' strategic balance between service continuity and cautious 5G investment amidst uncertain monetization prospects.
+
+Thu, 27 Jun 2024 06:17:31 +0000
+### [Indian Government Bonds in JP Morgan index from June 28: how much funds could flow into India?](https://indianexpress.com/article/explained/explained-economics/indian-govt-bonds-jp-morgan-index-9417977/)
+
+India's inclusion of Indian Government Bonds (IGBs) in JP Morgan’s emerging markets bond indices begins on June 28, 2024, gradually extending over 10 months. This move is expected to attract $20-25 billion into the country's economy, enhancing foreign exchange reserves and strengthening the rupee. However, it may also lead to inflationary pressures, necessitating the Reserve Bank of India (RBI) to use measures to manage these impacts. The inclusion follows JP Morgan's decision in September last year, affecting 23 eligible IGBs, with significant implications for India's debt market and external financing capabilities.
+
+Thu, 27 Jun 2024 02:41:35 +0000
+### [What is the role of the Lok Sabha Leader of Opposition?](https://indianexpress.com/article/explained/explained-law/what-is-the-role-of-a-lok-sabhas-leader-of-opposition-9417412/)
+
+Rahul Gandhi, Member of Parliament from Rae Bareli and the President of the Indian National Congress, has been recognized as the Leader of Opposition in the Lok Sabha, the lower house of India's bicameral parliament. This position was vacant for 10 years due to the lack of any party having a tenth of the strength of the House, which has been the conventional requirement to claim the post. However, the Salary and Allowances of Leaders of Opposition in Parliament Act, 1977, describes the Leader of Opposition as the member of the Council of States or the House of the People who is, for the time being, the Leader in that House of the party in opposition to the Government having the greatest numerical strength and recognized as such by the Chairman of the Council of States or the Speaker of the House of the People. The Leader of Opposition is entitled to certain privileges and is the opposition's representative in high-powered committees headed by the Prime Minister for appointment to key posts. Rahul Gandhi's recognition as the Leader of Opposition comes after the Congress has almost doubled its 2019 tally to 99 seats in this election. Previously, the Congress had denied the Telugu Desam Party (TDP) the post of Leader of Opposition in 2014, despite the TDP having 30 MPs.
+
+Thu, 27 Jun 2024 02:00:19 +0000
+### [How Kenya’s finance bill sparked nationwide unrest](https://indianexpress.com/article/explained/explained-global/how-kenyas-finance-bill-sparked-nationwide-unrest-9417486/)
+
+Kenyan President William Ruto yielded to public pressure on Wednesday by announcing his refusal to sign a contentious finance bill, following widespread protests across the country. The bill, recently passed by parliament, aimed to generate $2.7 billion through increased taxes to alleviate Kenya's heavy debt burden, which currently exceeds 68% of GDP. Among its provisions were a 16% VAT on bread, higher taxes on mobile money transfers, and new levies on items like cars, plastics, and electronics. The protests, organized under the banner "7 Days of Rage," turned violent in Nairobi, resulting in casualties and prompting a military response. Despite Ruto's backtrack, discontent persists among Kenyans, underscoring broader grievances against his administration's handling of economic policies and civil unrest.
+
+Thu, 27 Jun 2024 01:32:53 +0000
+### [Are we loving our pets to death?](https://indianexpress.com/article/explained/loving-pets-to-death-9417191/)
+
+The article explores the increasing popularity of pets globally, noting rising ownership rates in the US, Europe, and India. It discusses how pets are being treated more like family members, with a growing trend towards pampering and humanization. However, some ethicists and scientists argue that this trend may be harming pets by restricting their natural behaviors and increasing health issues. Concerns include breeding problems, confinement, and behavioral changes due to intensive pet ownership practices. The debate centers on balancing pets' welfare with human desires for companionship and control over their behavior.
+
 Wed, 26 Jun 2024 14:49:18 +0000
 ### [France elections: What is cohabitation?](https://indianexpress.com/article/explained/explained-global/france-elections-cohabitation-9417009/)
 

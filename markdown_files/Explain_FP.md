@@ -1,3 +1,91 @@
+Thu, 27 Jun 2024 20:52:42 +0530
+### [Gaffes, wit and zingers: Recalling historic moments from US presidential debates](https://www.firstpost.com/explainers/gaffes-wit-and-zingers-historic-moments-us-presidential-debates-13786694.html)
+
+The article highlights memorable moments from past US presidential debates, emphasizing their impact on elections. It starts with Ronald Reagan's wit in turning around a tough question in 1984, showcasing how debate performances can sway public opinion. Other instances include Reagan's "There you go again" rebuttal to Jimmy Carter in 1980 and George H.W. Bush's disengaged gesture in 1992. It also mentions Barack Obama's dismissive comment to Hillary Clinton in 2008 and Donald Trump's confrontational style against Joe Biden in 2020. The upcoming Biden-Trump debate is anticipated to echo these historic dynamics.
+
+Thu, 27 Jun 2024 20:23:37 +0530
+### [NEET-UG paper leak case: What’s the role of 2 accused arrested by CBI in Bihar?](https://www.firstpost.com/explainers/neet-ug-paper-leak-case-cbi-bihar-arrests-accused-13786861.html)
+
+Article found but Couldn't summarize 
+The CBI has made its first arrests in the alleged NEET-UG paper leak case, apprehending two men from Bihar. Aspirants who paid large sums were allegedly given the question paper and answer sheets a day before the medical entrance exam on May 5
+
+Thu, 27 Jun 2024 20:01:58 +0530
+### [UK general election: From immigration to cost of living, the key issues for voters](https://www.firstpost.com/explainers/uk-general-election-from-immigration-to-cost-of-living-the-key-issues-for-voters-13786847.html)
+
+The upcoming UK general election on July 4 features over 4,000 candidates, with recent polls indicating a potential shift towards Labour, potentially ending over a decade of Conservative leadership. Key issues include economic stagnation, a housing crisis, rising living costs, immigration policies, and foreign policy concerns. Prime Minister Rishi Sunak's Conservatives emphasize economic stability and tax cuts, contrasting Labour's focus on NHS reform, housing, and renewable energy investments. Immigration policies, the NHS crisis, and climate action are pivotal issues dividing the parties, influencing voter sentiment ahead of the election.
+
+Thu, 27 Jun 2024 18:43:09 +0530
+### [What is Denmark's pioneering carbon tax on gassy cows and pigs?](https://www.firstpost.com/explainers/what-is-denmark-pioneering-carbon-tax-that-will-levy-fines-on-gassy-cows-and-pigs-13786789.html)
+
+Denmark plans to implement a pioneering carbon tax on livestock emissions starting in 2030, aiming to cut methane from cows, sheep, and pigs. The tax will start at 300 kroner ($43) per ton of CO2 equivalent, rising to 750 kroner ($108) by 2035, with substantial deductions initially. This move forms part of Denmark's broader strategy to slash greenhouse gas emissions by 70% from 1990 levels by 2030, with investments in reforestation and wetlands. The initiative has garnered mixed reactions but is seen as pivotal in the global fight against climate change.
+
+Thu, 27 Jun 2024 18:10:52 +0530
+### [Power cuts, heatstrokes and deaths: How Pakistan is reeling from a heatwave](https://www.firstpost.com/explainers/power-cuts-heatstrokes-and-deaths-how-pakistan-is-reeling-through-a-heatwave-13786755.html)
+
+Pakistan is currently grappling with a severe heatwave, particularly affecting Karachi, where temperatures have exceeded 40 degrees Celsius for several consecutive days. Reports indicate that around 450 people have died in Karachi alone over the past four days due to heat-related illnesses, with thousands more hospitalized. Hospitals are overwhelmed, struggling to cope with the influx of patients exhibiting symptoms like vomiting and high fever. The Edhi Foundation, responsible for ambulance services, has reported a sharp increase in the number of bodies collected, highlighting the strain on local mortuaries. The extreme heat has also exacerbated power cuts across the country, further impacting residents' ability to stay cool amid soaring demand for electricity.
+
+Thu, 27 Jun 2024 17:29:02 +0530
+### [Why Emergency is being raised now in Parliament](https://www.firstpost.com/explainers/emergency-parliament-indira-gandhi-bjp-congress-constitution-13786791.html)
+
+Article found but Couldn't summarize 
+President Droupadi Murmu termed the Emergency as ‘the biggest and darkest chapter of direct attack on the Constitution’ in her address to a joint sitting of the Lok Sabha and Rajya Sabha on Thursday. June 25 marked the 49th anniversary of the Emergency imposed by then-PM Indira Gandhi. But why is it being talked about now in Parliament?
+
+Thu, 27 Jun 2024 16:46:38 +0530
+### [Swiftnomics at play? Can Taylor Swift's tour change Europe's fortunes?](https://www.firstpost.com/explainers/swiftnomics-at-play-can-taylor-swifts-tour-change-europes-fortunes-13786753.html)
+
+Taylor Swift's Eras Tour across Europe has generated significant buzz, with economic experts speculating it could provide a much-needed boost to struggling economies. However, the actual economic impact appears to be limited. While Swift's concerts have led to substantial revenues in cities like Stockholm, benefiting sectors such as tourism and hospitality, economists argue that these gains are short-term and do not significantly impact overall economic growth. They liken the phenomenon to other large events like the Olympics, noting that much of the spending is a substitution from other consumer expenditures rather than new economic activity. Despite media hype about potential windfalls, the long-term economic benefits remain elusive, with much of the revenue ultimately flowing back to the United States rather than staying within local economies.
+
+Thu, 27 Jun 2024 15:47:36 +0530
+### [Can a deadly new mpox strain in Africa ignite another global outbreak?](https://www.firstpost.com/health/can-the-deadly-new-mpox-monkeypox-strain-in-africa-congo-ignite-another-global-outbreak-13786729.html)
+
+The World Health Organisation has issued a warning about a new, highly dangerous strain of mpox in the Democratic Republic of Congo (DRC), which poses a significant threat, particularly to children. This mutated strain, clade 1b, is more lethal than previous versions, with higher mortality rates observed among adults and children. The outbreak has already resulted in nearly 8,000 cases and over 380 deaths in the DRC. Experts are concerned about its potential for global spread, emphasizing the urgent need for research into vaccine efficacy and international preparedness to contain further transmission.
+
+Thu, 27 Jun 2024 14:43:33 +0530
+### [How sengol in Parliament has become latest flashpoint between Centre and opposition](https://www.firstpost.com/explainers/sengol-in-parliament-controversy-13786659.html)
+
+Article found but Couldn't summarize 
+Samajwadi Party MP RK Chaudhary wrote a letter to Speaker Om Birla saying that the sengol, which is placed next to the Speaker’s chair in Lok Sabha, should be replaced with a copy of the Constitution. The BJP has hit back, saying the sceptre's removal will be ‘an insult to Tamil Nadu’ and its culture
+
+Thu, 27 Jun 2024 14:20:55 +0530
+### [Mahayuti rift: Will the BJP-led alliance collapse before the Maharashtra Assembly polls?](https://www.firstpost.com/explainers/mahayuti-rift-bjp-ncp-shinde-sena-alliance-maharashtra-assembly-polls-13786697.html)
+
+Tensions are escalating within Maharashtra's ruling Mahayuti alliance, composed of the BJP, Shiv Sena led by Eknath Shinde, and Ajit Pawar's NCP. Following their poor performance in the Lok Sabha elections, public disagreements have surfaced, exacerbated by issues such as a recent controversial video in Pune. Speculations abound regarding potential separate contests in the upcoming Assembly polls as alliance members negotiate over seat allocations. Despite internal rifts, the BJP has indicated a commitment to maintaining the alliance for the 2024 elections.
+
+Thu, 27 Jun 2024 13:56:19 +0530
+### [Trump vs Biden: What are the new rules for the first US presidential debate?](https://www.firstpost.com/explainers/donald-trump-vs-joe-biden-first-us-presidential-debate-four-years-re-match-what-are-the-new-rules-us-elections-13786656.html)
+
+US President Joe Biden and former President Donald Trump are set to debate for the first time in four years under new rules aimed at fostering a more orderly discussion. Hosted by CNN in Atlanta, Georgia, the debate will feature muted microphones to prevent interruptions, no live audience, and strict time limits for responses. The format includes questions from moderators Jake Tapper and Dana Bash, with each candidate receiving two minutes to respond and potential penalties for exceeding time limits. This debate, crucial ahead of the 2024 election, may focus on issues like the economy and immigration, while addressing personal and legal challenges faced by both candidates.
+
+Thu, 27 Jun 2024 12:47:39 +0530
+### [Why popular ice cream brands are recalling products in the US](https://www.firstpost.com/health/why-popular-ice-cream-brands-are-recalling-products-in-the-us-13786605.html)
+
+The article discusses a nationwide recall of ice cream products by major brands due to fears of listeria contamination. Listeria, a bacterium with a high mortality rate, has affected several commonly consumed dairy products, prompting recalls from brands like Friendly’s, Jeni’s, Hershey’s, and others. The bacterium, known for its resilience and ability to survive in refrigerated conditions, poses serious health risks, especially to elderly individuals, pregnant women, and those with weakened immune systems. The FDA has advised consumers to return affected products, highlighting precautions to prevent listeriosis, a potentially severe illness associated with the bacteria.
+
+Thu, 27 Jun 2024 12:35:21 +0530
+### [Emmanuel Macron says France at risk of civil war. Is it true?](https://www.firstpost.com/explainers/emmanuel-macron-france-civil-war-far-rigt-far-left-is-it-true-13786651.html)
+
+President Emmanuel Macron recently warned that a victory for either Marine Le Pen’s far-right National Rally or Jean-Luc Mélenchon’s far-left France Unbowed in France’s upcoming snap elections could lead to civil war. Macron criticized the divisive policies of both parties, citing National Rally’s anti-immigration stance and France Unbowed’s emphasis on economic redistribution and minority rights as potential triggers for social conflict. However, some view Macron’s remarks skeptically, attributing them to his electoral strategy to bolster his centrist coalition by framing himself as a stabilizing force amidst perceived extremes.
+
+Thu, 27 Jun 2024 11:51:54 +0530
+### [Sam Pitroda returns: How ‘controversy’s child’ made a return to the Congress within month of quitting](https://www.firstpost.com/explainers/sam-pitroda-returns-congress-13786584.html)
+
+Sam Pitroda has been reinstated as the Chairperson of the Indian Overseas Congress following his resignation a month ago due to controversial remarks that sparked backlash ahead of the Lok Sabha elections. His reappointment, announced by Congress officials, came with assurances to avoid future controversies. Pitroda, a close aide to the Nehru-Gandhi family, had previously stirred controversy with comments on diversity in India and proposals for inheritance tax, drawing criticism from Prime Minister Narendra Modi and the BJP. His return has reignited political debate amidst ongoing tensions between the Congress and ruling BJP.
+
+Thu, 27 Jun 2024 09:48:22 +0530
+### [Who is Juan Jose Zuniga, the Bolivian general arrested after military coup attempt?](https://www.firstpost.com/explainers/bolivia-juan-jose-zuniga-general-arrested-military-coup-attempt-13786597.html)
+
+General Juan Jose Zuniga was arrested for leading a failed coup against Bolivian President Luis Arce. Zuniga, formerly commander of the Bolivian Army, attempted to seize control of government buildings in La Paz but withdrew after a confrontation with President Arce. He claimed his actions aimed to "re-establish democracy," but now faces criminal charges. President Arce, who denounced the coup attempt, has initiated legal proceedings against Zuniga and others involved. This incident marks a turbulent episode in Bolivia's history, a country familiar with political upheavals since gaining independence in 1825.
+
+Thu, 27 Jun 2024 08:34:18 +0530
+### [Joe Biden vs Donald Trump: What to expect from the first presidential debate](https://www.firstpost.com/explainers/joe-biden-vs-donald-trump-first-presidential-debate-13786491.html)
+
+The first presidential debate in the US is set to occur on June 27th, with candidates Joe Biden and Donald Trump discussing topics such as abortion rights, inflation, employment, immigration, and legal issues. This debate is happening earlier than usual and without a live audience. Key topics include legal troubles for both candidates, their ages and fitness for office, abortion rights, foreign policy, inflation and employment concerns, and immigration. The debate will be moderated by Dana Bash and Jake Tapper from CNN.
+
+Thu, 27 Jun 2024 06:00:19 +0530
+### [FirstUp: Biden vs Trump at first US presidential debate, Rajya Sabha to commence... The big news](https://www.firstpost.com/explainers/firstup-biden-vs-trump-at-first-us-presidential-debate-rajya-sabha-to-commence-the-big-news-13786435.html)
+
+Joe Biden and Donald Trump are set to engage in the first presidential debate as the 2024 US Elections approach. Meanwhile, India's Rajya Sabha will commence its 264th session, with new leadership and significant legislative discussions expected. Additionally, President Droupadi Murmu will address a joint session of Parliament, outlining the government's agenda for the upcoming term. These events coincide with other notable activities including a family planning initiative in Uttar Pradesh and India's cricket team facing England in the T20 World Cup semi-finals.
+
 Wed, 26 Jun 2024 20:26:47 +0530
 ### [Outgoing Dutch PM Mark Rutte is new NATO chief: From Putin to Trump, a look at challenges waiting for him](https://www.firstpost.com/explainers/outgoing-dutch-pm-mark-rutte-is-new-nato-chief-from-putin-to-trump-a-look-at-challenges-waiting-for-him-13786407.html)
 

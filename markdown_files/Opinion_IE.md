@@ -1,3 +1,73 @@
+Thu, 27 Jun 2024 14:22:25 +0000
+### [Apple, Foxconn and married, working women — where’s the imaginary support system?](https://indianexpress.com/article/opinion/columns/apple-foxconn-married-working-women-9419054/)
+
+The article discusses challenges faced by women in the workforce, particularly at Foxconn's Sriperumbudur plant in India. It highlights discrimination against married women, who are reportedly rejected due to concerns like pregnancy or family commitments. Despite claims of gender equality, such practices reflect broader issues in India's labor force where women's participation remains low. The article calls for systemic changes to support working women, criticizing patriarchal norms that hinder progress towards equality in employment opportunities. It emphasizes the need for imaginative solutions like workplace childcare to alleviate burdens on female employees.
+
+Thu, 27 Jun 2024 12:13:50 +0000
+### [Lalu Prasad and Nalin Verma write: What the Sangh doesn’t say about Emergency](https://indianexpress.com/article/opinion/columns/what-the-sangh-does-not-say-about-emergency-9418731/)
+
+The article discusses Om Birla's re-election as Speaker of the Lok Sabha and his statement, endorsed by Prime Minister Narendra Modi, declaring June 25 as a "black day" commemorating the Emergency imposed in India. The author, Lalu Prasad Yadav, criticizes Modi and BJP leaders for using this issue to divert attention from governance failures and constitutional breaches. He contrasts the actions of Indira Gandhi during Emergency with current BJP policies, accusing them of historical revisionism. The article also highlights opposition efforts to challenge BJP's narrative and emphasizes the need to protect democratic institutions and freedoms.
+
+Thu, 27 Jun 2024 12:00:34 +0000
+### [New criminal codes from July 1: A threat to citizen liberty, justice under the guise of a decolonisation project](https://indianexpress.com/article/opinion/columns/criminal-codes-threat-citizen-liberty-justice-guise-decolonisation-project-9418768/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 10:30:10 +0000
+### [How MSMEs can benefit by adopting sustainable practices](https://indianexpress.com/article/opinion/columns/msmes-benefit-adopting-sustainable-practices-9418420/)
+
+The article discusses the significance of Micro-, Small and Medium-Sized Enterprises (MSMEs), particularly in India, emphasizing their economic contributions and challenges. MSMEs constitute a significant portion of India's GDP and employment, with notable roles in manufacturing output and exports. Despite growth, the sector faces obstacles like financial constraints, regulatory complexities, and environmental impacts such as carbon emissions. The article advocates for MSMEs to adopt sustainable practices outlined in the ESG framework and NGRBC guidelines to enhance competitiveness, reduce costs, and improve environmental and social impacts. Strategies proposed include awareness-building, incentives for sustainability adoption, collaboration within supply chains, and leveraging sustainability for competitive advantage.
+
+Thu, 27 Jun 2024 08:38:05 +0000
+### [Muchkund Dubey: Nehruvian diplomat, champion of right to education](https://indianexpress.com/article/opinion/columns/muchkund-dubey-nehruvian-diplomat-9418205/)
+
+Muchkund Dubey, former foreign secretary and president of the Council for Social Development, passed away in New Delhi at the age of 90. Known for his distinguished diplomatic career and commitment to social development, education, and justice, Dubey served as India's foreign secretary during a politically tumultuous period and continued his contributions through academia and public service after retirement. He advocated passionately for quality education as a fundamental right and remained dedicated to his principles until his last days. Dubey's legacy as a principled intellectual and advocate for equity and integrity will be deeply remembered and missed.
+
+Thu, 27 Jun 2024 05:51:28 +0000
+### [The importance of Om Birla: Why the office of the Speaker matters](https://indianexpress.com/article/opinion/columns/importance-om-birla-speaker-parliament-9417894/)
+
+The article discusses the recent election of Om Birla as Speaker of the 18th Lok Sabha through a voice vote, highlighting the constitutional and historical significance of the Speaker's role. It explains how the Speaker, traditionally chosen by consensus to ensure impartiality and fairness, wields significant powers such as certifying money bills and adjudicating on parliamentary matters. The role originated from 13th-century England as a protector of parliamentary rights, exemplified by instances of defiance against royal interference. The article emphasizes the crucial need for the Speaker to maintain impartiality and fairness in managing the diverse dynamics of the Lok Sabha, amid challenges posed by a large opposition presence.
+
+Thu, 27 Jun 2024 02:26:23 +0000
+### [India as third-largest economy: It’s quality of jobs that will determine quality of life](https://indianexpress.com/article/opinion/columns/india-as-third-largest-economy-its-quality-of-jobs-that-will-determine-quality-of-life-9417384/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 02:16:58 +0000
+### [Underdogs at T20 World Cup, European Football Championships: Small and competitive](https://indianexpress.com/article/opinion/editorials/underdogs-at-t20-world-cup-european-football-championships-small-and-competitive-9417372/)
+
+In its 30 years since independence, Georgia struggled with 14 failed attempts to qualify for major football tournaments until finally making it to this summer's Euros. Slovenia also qualified for the first time in 24 years, while Austria, despite a historic third-place finish in 1954, had little recent success. Despite low expectations, these underdog teams provided unexpected entertainment during the group stage, showcasing that the expanded 24-team format of the Euros can still deliver quality football moments. Teams like Georgia, Albania, and Austria have defied expectations, highlighting that in sports, quantity of teams can enhance rather than diminish the tournament's appeal.
+
+Thu, 27 Jun 2024 02:16:55 +0000
+### [Moody’s warning and why India must pay heed](https://indianexpress.com/article/opinion/editorials/moodys-warning-and-why-india-must-pay-heed-9417371/)
+
+The article highlights India's growing water crises and its potential impact on the country's economic stability. It emphasizes that water scarcity exacerbated by climate change could weaken India's sovereign credit strength, despite its ambitions to become the world's third-largest economy. The article points out issues such as dwindling water supply affecting agriculture and industry, potentially leading to higher food prices and reduced incomes. It criticizes India's historical approach of focusing on supply-side solutions, leading to overuse of groundwater and insufficient water pricing mechanisms. The piece calls for urgent policy innovations to ensure sustainable water management, especially with urbanization and industrial growth intensifying water demand in the coming decades.
+
+Thu, 27 Jun 2024 02:16:20 +0000
+### [June 27, 1984, Forty Years Ago: Vajpayee attacks Congress](https://indianexpress.com/article/opinion/40-years-ago/june-27-1984-forty-years-ago-vajpayee-attacks-congress-9417330/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 02:15:51 +0000
+### [Express View on Emergency and Parliament: Never Again](https://indianexpress.com/article/opinion/editorials/express-view-on-emergency-and-parliament-never-again-9417370/)
+
+The article discusses the significance of the Emergency period in India's history, highlighting its impact on democracy. It critiques the authoritarian measures under Indira Gandhi's rule from 1975 to 1977, such as the suspension of rights, opposition repression, press censorship, and constitutional amendments. Speaker Om Birla recently referenced this period and emphasized the importance of upholding democratic principles, cautioning against concentration of power and the erosion of constitutional integrity. The article calls for both the ruling BJP and revitalized Congress to acknowledge these historical lessons to safeguard democratic values, stressing the need for accountability and opposition rights in Parliament.
+
+Thu, 27 Jun 2024 02:15:16 +0000
+### [The 18th Lok Sabha is not just 543 MPs. It’s also we, the people](https://indianexpress.com/article/opinion/columns/the-18th-lok-sabha-is-not-just-543-mps-its-also-we-the-people-9417329/)
+
+The article emphasizes the responsibilities of newly elected MPs in India's 18th Lok Sabha. It urges MPs to move beyond election rivalry, listen to all constituents regardless of their vote, uphold promises with honesty and care, respect the Constitution as a unifying document, and foster empathy and respectful communication in parliamentary debates. It stresses that MPs represent all citizens, not just those who voted for them, and highlights the importance of genuine listening in democracy. Overall, it calls for MPs to embody goodness and recognize the human dimensions of their roles in serving the nation.
+
+Thu, 27 Jun 2024 02:15:12 +0000
+### [50 years after the 1975 emergency, lessons Indians have not forgotten](https://indianexpress.com/article/opinion/columns/50-years-after-the-1975-emergency-lessons-indians-have-not-forgotten-9417381/)
+
+The article reflects on the imposition of Emergency in India in 1975, highlighting it as a dark episode in democratic history. It discusses how political insecurity led to its proclamation, despite minimal genuine internal disturbance. Lessons emphasize the dangers of unchecked power, disrespect for democratic norms, and the importance of upholding constitutional rights. The period saw widespread curtailment of freedoms, including media suppression and mass detentions. Ultimately lifted in 1977, the Emergency spurred a democratic resurgence and underscored the vital role of citizen vigilance in safeguarding liberties.
+
+Thu, 27 Jun 2024 02:14:40 +0000
+### [Remembering C V Chandrasekhar: A dancer’s dancer](https://indianexpress.com/article/opinion/columns/remembering-c-v-chandrasekhar-a-dancers-dancer-9417386/)
+
+Professor C V Chandrasekhar, known affectionately as Chandru Anna, was a stalwart in the world of Bharatanatyam. Trained in the Pandanallur style at Kalakshetra under Rukmini Devi, he later became a distinguished faculty member at Banaras Hindu University and dean at M S University, Baroda. Chandrasekhar's artistry, marked by a robust musical foundation and impeccable technique, earned him accolades including the Sangeet Natak Akademi Award and the Padma Bhushan. Known for his expressive abhinaya and sustained araimandi posture even into his later years, he exemplified a restrained aesthetic amid contemporary flamboyance in dance. His legacy is celebrated for its profound impact on classical Indian dance, embodying the essence of divine creation through movement.
+
 Wed, 26 Jun 2024 14:45:12 +0000
 ### [What the 2024 elections showed about the limits of Hindutva](https://indianexpress.com/article/opinion/columns/2024-elections-showed-limits-hindutva-9417028/)
 

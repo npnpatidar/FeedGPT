@@ -1,3 +1,56 @@
+Fri, 28 Jun 2024 08:30:07 +0530
+### [Duckworth levelled the playing field for cricket, didn’t he?](https://www.livemint.com/opinion/online-views/duckworth-levelled-the-playing-field-for-cricket-didn-t-he-11719508041832.html)
+
+Frank Duckworth, a prominent statistician known for his role in cricket, passed away at 84. He became involved in cricket due to an unfair rain rule that affected a crucial match in the 1992 World Cup. This incident spurred Duckworth and Tony Lewis to create the Duckworth-Lewis (DL) method, which calculates revised targets in interrupted matches based on remaining resources like overs and wickets. Although adopted by the ICC in 1999 for 50-over matches, its suitability for T20 games remains debated due to differing gameplay dynamics. Despite its limitations, Duckworth's legacy emphasizes fairness in sports, challenging biases through statistical rigor.
+
+Fri, 28 Jun 2024 07:00:22 +0530
+### [Mint Quick Edit | RBI’s financial stability report is reassuring](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-rbi-s-financial-stability-report-is-reassuring-11719507793071.html)
+
+The Reserve Bank of India's latest Financial Stability Report indicates that India's banking sector is currently stable and well-capitalized. As of March 2024, non-performing loans are at a multi-year low of 2.8%, expected to decrease further to 2.5% by March next year. Banks have adequate capital buffers above regulatory requirements and have demonstrated resilience in stress tests. Despite robust earnings, loan growth has been uneven, primarily driven by the services sector and household consumption rather than industrial credit. Concerns exist regarding increased personal lending and potential delinquency risks, although overall asset quality has improved. The report also highlights reduced global systemic risks and lower macroeconomic uncertainties, presenting an optimistic financial outlook for India.
+
+Thu, 27 Jun 2024 19:08:15 +0530
+### [A seminal moment for India’s bond market](https://www.livemint.com/opinion/online-views/seminal-moment-for-india-s-bond-market-indian-government-securities-included-in-jpmorgan-emerging-market-bond-index-11719489815993.html)
+
+The article discusses the increasing role of foreign investment in Indian equities and the potential impact on the Indian bond market. It highlights the historical growth of foreign portfolio ownership in Indian stocks and predicts a similar trend in Indian government bonds following inclusion in the JPMorgan GBI-Emerging Market bond index. The article emphasizes the importance of macro stability and sound monetary policy for attracting long-term foreign investments in Indian bonds. It also discusses the potential challenges and opportunities for the Indian bond market to become a global asset class.
+
+Thu, 27 Jun 2024 16:00:07 +0530
+### [Bad laws are bad for business: They must be reformed, not ignored](https://www.livemint.com/opinion/online-views/bad-laws-are-bad-for-business-they-must-be-reformed-not-ignored-11719429157802.html)
+
+Article found but Couldn't summarize 
+The time that managers at small manufacturing units spend on rule compliance leaves little of it for business imperatives. This regulatory glass ceiling keeps investment and growth down. The government should play facilitator and quit treating private enterprise with suspicion.
+
+Thu, 27 Jun 2024 15:00:05 +0530
+### [Deepfakes: There's a thin line between satire and defamation](https://www.livemint.com/opinion/online-views/deepfakes-theres-a-thin-line-between-satire-and-defamation-11719429839573.html)
+
+The article explores the legal and ethical implications of deepfake technology, particularly in relation to satire and defamation. It discusses how deepfakes, realistic AI-generated media, blur the line between parody and harm, potentially damaging individuals' reputations by creating false but convincing content. The Delhi High Court's stance, as highlighted in the case involving actor Anil Kapoor, emphasizes the need for protecting individuals' images and personas from unauthorized use in deepfakes. It also suggests the use of disclaimers to differentiate satirical content from genuine depictions, aiming to mitigate legal risks associated with misleading representations.
+
+Thu, 27 Jun 2024 14:00:03 +0530
+### [Failure spelling future success is an exception, not the rule](https://www.livemint.com/opinion/online-views/failure-spelling-future-success-is-an-exception-not-the-rule-11719429668102.html)
+
+The article explores the nuanced relationship between failure and success, challenging popular narratives of persistence leading inevitably to triumph. It discusses how failure impacts various aspects of life, from careers to personal goals, often overshadowing stories of success. However, it also highlights that not all failures are equal; certain types can spur resilience and eventual success, especially when individuals learn from feedback and persist despite setbacks. The study emphasizes the importance of realistic expectations and proper support systems in navigating failures effectively.
+
+Thu, 27 Jun 2024 12:30:01 +0530
+### [Tourism can create the employment needed to go with economic growth](https://www.livemint.com/opinion/online-views/tourism-can-create-the-employment-needed-to-go-with-economic-growth-11719429539646.html)
+
+The article discusses India's challenge in converting high GDP growth into corresponding employment growth. Despite economic policies historically focusing on GDP, there's a growing realization that employment should be prioritized alongside GDP. The tourism sector, despite its potential to generate substantial employment and GDP contributions, has been underutilized. Comparisons with countries like Croatia and China underscore the significant economic impact of tourism, suggesting that India could benefit greatly by enhancing its tourism infrastructure and policies to boost both GDP and employment. The article calls for a shift in mindset among policymakers to recognize and leverage tourism's potential effectively.
+
+Thu, 27 Jun 2024 10:30:17 +0530
+### [Repo debate: Cheaper credit doesn’t always spell faster GDP growth](https://www.livemint.com/opinion/online-views/repo-debate-cheaper-credit-doesn-t-always-spell-faster-gdp-growth-11719429346370.html)
+
+Article found but Couldn't summarize 
+If there’s vibrant market demand, high interest rates don’t get in the way of investment. For non-financial companies, interest cost as a proportion of turnover is just 3-4%. It is not a big worry. Inflation, however, is a problem for everyone.
+
+Thu, 27 Jun 2024 08:30:12 +0530
+### [It’s time to overhaul India’s capital gains tax regime](https://www.livemint.com/opinion/online-views/its-time-to-overhaul-india-s-capital-gains-tax-regime-11719428687184.html)
+
+The article discusses the complexities and disparities within India's current capital gains tax system. It highlights varying tax rates across different asset classes like equities, debt mutual funds, real estate, and gold, depending on the holding period. The author argues that these variations make investment planning difficult and calls for a simplified, uniform tax regime with consistent short-term and long-term definitions and rates across all asset types. The goal is to create a more transparent and investor-friendly tax structure that encourages investment without distorting market flows.
+
+Thu, 27 Jun 2024 07:00:10 +0530
+### [Mint Quick Edit | The 5G spectrum auction call dropped for a reason](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-the-5g-spectrum-auction-call-dropped-for-a-reason-11719428015215.html)
+
+Article found but Couldn't summarize 
+The sale of 5G telecom airwaves ended with a disappointing mop-up of around  ₹11,300 crore, far less than anticipated. But then, 5G services haven’t been impressive either.
+
 Wed, 26 Jun 2024 16:00:15 +0530
 ### [Social media addiction is about pleasures of the hunt](https://www.livemint.com/opinion/online-views/social-media-addiction-is-about-pleasures-of-the-hunt-11719339316086.html)
 

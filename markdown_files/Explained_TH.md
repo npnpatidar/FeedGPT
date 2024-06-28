@@ -1,3 +1,8 @@
+Thu, 27 Jun 2024 21:38:40 +0530
+### [Why has CBI arrested Arvind Kejriwal and what happens next? | Explained](https://www.thehindu.com/news/national/why-has-cbi-arrested-arvind-kejriwal-and-what-happens-next/article68335758.ece)
+
+Delhi Chief Minister Arvind Kejriwal has been remanded to three days of CBI custody following his arrest in connection with an alleged corruption case related to the Delhi Excise policy. The arrest comes amidst ongoing investigations by both the CBI and ED into accusations of bribery and money laundering involving Kejriwal and others. Kejriwal's legal challenges include withdrawing a petition from the Supreme Court and facing allegations tied to a liquor policy aimed at reforming Delhi's alcohol retail sector, which was later scrapped due to procedural controversies.
+
 Wed, 26 Jun 2024 22:46:42 +0530
 ### [What is the row over Delhi’s water crisis? | Explained](https://www.thehindu.com/news/national/what-is-the-row-over-delhis-water-crisis-explained/article68299997.ece)
 

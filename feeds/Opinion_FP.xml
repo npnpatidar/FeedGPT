@@ -5,6 +5,51 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_FP.xml</link>
 		<description>Opinion FP</description>
 		<item>
+			<title>A fractious, confrontational and divided House: Modi government’s new challenge</title>
+			<link>https://www.firstpost.com/opinion/a-fractious-confrontational-and-divided-house-modi-governments-new-challenge-13786964.html</link>
+			<description>The article discusses the current political landscape in India's Parliament where the BJP is no longer in absolute majority, necessitating coalition governance. Amidst heightened confrontations, all parties emphasize adherence to the Indian Constitution. However, the article critiques how constitutional principles like democracy, freedom of expression, and checks on power have been undermined over the years by various political factions, including the BJP and Congress. It questions whether past wrongs justify present actions and laments the ongoing neglect of good governance amidst partisan disputes.</description>
+			<pubDate>Fri, 28 Jun 2024 07:58:28 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/LokSabha1200PTI-2024-06-3f8df8fef2263869571264c95dad8e35.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/LokSabha1200PTI-2024-06-3f8df8fef2263869571264c95dad8e35.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>The carbon quandary: AI, big data, and impending environmental crisis</title>
+			<link>https://www.firstpost.com/opinion/the-carbon-quandary-ai-big-data-and-impending-environmental-crisis-13786759.html</link>
+			<description>The article discusses the potential of AI in combating climate change, specifically in reducing carbon emissions. AI systems like GPT-3 and BLOOM can perform tasks with much lower emissions compared to human writers and artists. However, training these AI models requires high initial emissions. The article also mentions the need for innovation in AI hardware and software to reduce energy consumption and carbon footprint. It highlights the potential of neuromorphic computing, which emulates the human brain's structure and operations, making AI applications more energy-efficient. The article also points out that while AI can theoretically cut global carbon emissions, it relies on responsible usage since data centers powering AI are significant energy consumers. The rapid growth of hyperscale data centers has disrupted efforts to reduce fossil fuel reliance. The article concludes by emphasizing the need for a multidisciplinary approach to navigate the complex relationship between AI, energy consumption, and climate change.</description>
+			<pubDate>Thu, 27 Jun 2024 16:00:05 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/AI_Artificial_Intelligence_concept_52917075159-1-2024-06-6a3cb714a41b8689518e8be6f970e368.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/AI_Artificial_Intelligence_concept_52917075159-1-2024-06-6a3cb714a41b8689518e8be6f970e368.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Cold War 2.0: Putin-Kim’s ‘elevated friendship’ threatens American order in East Asia</title>
+			<link>https://www.firstpost.com/opinion/cold-war-2-0-putin-kims-elevated-friendship-threatens-american-order-in-east-asia-13786705.html</link>
+			<description>Russian President Vladimir Putin's recent visit to North Korea marks the first such official visit by a Russian Head of State in 24 years. The visit solidified an enhanced partnership between Putin and North Korean leader Kim Jong Un, raising concerns about its impact on regional security dynamics. The newly formed "Strategic Partnership" includes provisions for military assistance to North Korea in case of attack, reminiscent of past Soviet-North Korean defense treaties. This development has heightened tensions in Northeast Asia, drawing strong reactions from South Korea, Japan, and the US, who view it as a challenge to existing security frameworks. Russia's motivations include countering Western sanctions and bolstering its military capabilities amid the Ukraine conflict. The agreement also signals expanded economic ties and potential cooperation in sensitive technological fields, which could aid North Korea's prohibited nuclear program. China, though cautious, views this alliance as a potential shift in regional power dynamics, complicating its own geopolitical strategy. The evolving relationship between Russia and North Korea poses significant implications for regional stability and efforts towards denuclearization.</description>
+			<pubDate>Thu, 27 Jun 2024 14:07:58 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/PT-1-2024-06-ba1a1d8ded6a5bd88ff41009643bb6ec.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/PT-1-2024-06-ba1a1d8ded6a5bd88ff41009643bb6ec.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Unreserved, yet inaccessible: How labour laws protect the interest of a few but exclude many others</title>
+			<link>https://www.firstpost.com/opinion/unreserved-yet-inaccessible-how-labour-laws-protect-the-interest-of-a-few-but-exclude-many-others-13786654.html</link>
+			<description>The article discusses India's central trade unions and their focus on protecting their members' interests rather than the broader labor force. It highlights shifts in employment practices, such as outsourcing, and the legal complexities surrounding it. The consolidation of labor laws into four codes is examined, noting challenges in implementation across states. The closure of Britannia Industries' factory in Kolkata underscores issues with local labor laws impacting investment. It also questions the effectiveness of central trade unions in representing the diverse needs of India's labor force, which is largely informal.</description>
+			<pubDate>Thu, 27 Jun 2024 12:09:13 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/Labour_India1200PTI-2024-06-f6b6bb5389ce05b6251e933e1b062da5.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/Labour_India1200PTI-2024-06-f6b6bb5389ce05b6251e933e1b062da5.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Will Sunak become a victim of desi-style vote-bank politics?</title>
+			<link>https://www.firstpost.com/opinion/will-sunak-become-a-victim-of-desi-style-vote-bank-politics-13786616.html</link>
+			<description>The article discusses Rishi Sunak's tenure as the UK's first ethnic-Indian Prime Minister and suggests he may not continue beyond July 4 due to expected electoral losses for the Conservative Party. Despite economic improvements under his leadership, Sunak has faced criticism, possibly due to racial biases. The piece explores shifting voter demographics, including the influence of ethnic minority and Muslim voters, and predicts future political scenarios in a diversifying Britain. It also mentions emerging electoral strategies like "The Muslim Vote" and a "Hindu Manifesto," indicating potential trends in UK politics.</description>
+			<pubDate>Thu, 27 Jun 2024 10:27:35 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.firstpost.com/uploads/2024/06/Rishi-Sunak-1-2024-06-868e51fbcd66b80d2913a270fa1510fe.jpg"></media:thumbnail>
+			<media:content url="https://images.firstpost.com/uploads/2024/06/Rishi-Sunak-1-2024-06-868e51fbcd66b80d2913a270fa1510fe.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>How Philippines’ maritime sovereignty gains centre stage in South China Sea dispute amid aggressive Beijing and assertive Washington</title>
 			<link>https://www.firstpost.com/opinion/how-philippines-maritime-sovereignty-gains-centre-stage-in-south-china-sea-dispute-amid-aggressive-beijing-and-assertive-washington-13786448.html</link>
 			<description>The article discusses escalating tensions between the Philippines and China over the Second Thomas Shoal in the South China Sea. Chinese coast guard actions, including use of force against Filipino personnel stationed on a grounded vessel, Sierra Madre, are intensifying. The dispute is part of China's broader strategy to assert control over the South China Sea, impacting regional stability and drawing involvement from the US and its allies. The Philippines, supported by the Quad countries (US, Japan, Australia, and India), is resisting Chinese dominance, with implications for regional security and potential conflict escalation.</description>
