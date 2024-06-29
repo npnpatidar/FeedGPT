@@ -1,3 +1,23 @@
+Fri, 28 Jun 2024 14:37:26 +0000
+### [Significance of the new international airport announced in Tamil Nadu’s Hosur](https://indianexpress.com/article/explained/new-hosur-airport-bengaluru-tamil-nadu-9421249/)
+
+The Tamil Nadu government has announced plans to build a new airport in Hosur, a town located near the state's border with Karnataka. The airport will be built on 2,000 acres and is part of a larger plan to transform Hosur into a major center of economic development. The town is already home to a significant industrial base, and the airport is expected to support the growth of various industries, including electronics, automotive, and aerospace. The government also has plans to improve infrastructure and urban planning in Hosur to support the town's development.
+
+Fri, 28 Jun 2024 13:57:20 +0000
+### [Why Denmark has taxed cattle burps and farts](https://indianexpress.com/article/explained/explained-climate/denmark-tax-cattle-burps-farts-9421227/)
+
+Denmark plans to impose a tax on livestock farmers for the greenhouse gases emitted by their cows, sheep, and pigs from 2030 in an effort to reduce emissions. The tax would be based on the amount of methane produced by the livestock. Methane is a significant contributor to climate change and is responsible for 30% of warming since preindustrial times. The tax aims to help Denmark meet its target of slashing greenhouse gas emissions by 70% from 1990 levels by 2030.
+
+Fri, 28 Jun 2024 13:17:33 +0000
+### [Why China plans to run trains from Kunming all the way to Singapore](https://indianexpress.com/article/explained/explained-global/china-pan-asian-trains-network-bri-9421068/)
+
+Chinese Premier Li Qiang has expressed interest in connecting railway projects in Malaysia, Laos, and Thailand to enhance regional connectivity. The East Coast Rail Link (ECRL) project in Malaysia, which is part of China's Belt and Road Initiative, is expected to bring significant economic benefits through improved connectivity. The project has faced funding constraints and domestic political issues in Malaysia, but the project has now resumed. The article also discusses the challenges and doubts surrounding the pan-Asian rail network, and China's influence in Southeast Asia.
+
+Fri, 28 Jun 2024 12:39:26 +0000
+### [Philippine ambassador warns of Asia-wide conflict due to South China tensions: The issues, explained](https://indianexpress.com/article/explained/explained-global/philippines-south-china-sea-conflict-9420957/)
+
+The Philippine ambassador to the United States has warned of escalating conflict between the Philippines and China in the South China Sea. The conflict revolves around the control of a submerged reef called the Second Thomas Shoal. The Philippines has deliberately placed a World War II-era ship on the shoal to further its territorial claims, and China has repeatedly demanded its removal. The US has voiced its support for the Philippines, and new guidelines for a defense treaty from 1951 have been agreed upon.
+
 Fri, 28 Jun 2024 11:21:10 +0000
 ### [Climate change forces Panama islanders to relocate: What happened — and how sea level rise is affecting the world](https://indianexpress.com/article/explained/explained-climate/panama-island-relocate-sea-level-rise-9420734/)
 
