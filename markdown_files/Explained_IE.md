@@ -1,3 +1,28 @@
+Sat, 29 Jun 2024 10:40:51 +0000
+### [Will France’s snap elections spark the next euro crisis?](https://indianexpress.com/article/explained/explained-global/france-snap-elections-euro-crisis-9422648/)
+
+France's upcoming elections have both far-right and far-left candidates promising expensive campaign promises, all of which could add up to €20 billion annually. These promises could have a significant impact on France's already struggling economy, and the European Union's response to the country's potential failure to meet financial criteria is unclear. The situation in Italy is also concerning, and the EU's ability to enforce debt rules is in question. The potential for cash transfers from Northern Europe to Southern Europe is a significant concern for the future of the EU.
+
+Sat, 29 Jun 2024 08:10:26 +0000
+### [What kind of car insurance can protect against flood damages?](https://indianexpress.com/article/explained/explained-economics/car-insurance-against-flood-damages-9422385/)
+
+Article found but Couldn't summarize
+
+Sat, 29 Jun 2024 02:30:28 +0000
+### [Trump vs Who? Here’re some who could replace Joe Biden on the Democratic ticket](https://indianexpress.com/article/explained/explained-global/democratic-contenders-replace-biden-9421563/)
+
+Article found but Couldn't summarize
+
+Sat, 29 Jun 2024 01:00:16 +0000
+### [Explained: The story of the Emergency](https://indianexpress.com/article/explained/explained-history/explained-the-story-of-the-emergency-9421688/)
+
+India recently marked the 50th year of the imposition of the Emergency, a period from 1975 to 1977 marked by the suspension of civil liberties, press freedom, mass arrests, and rule by decree. The Emergency was declared under Article 352 of the Constitution, allowing the government to impose sweeping executive and legislative consequences. The Emergency also led to the suppression of opposition leaders, curtailment of fundamental rights, and changes to the federal structure of the country. The article also discusses the impact of the Emergency on Indian politics, including the rise of young leaders and the changes made to the Constitution after the Emergency was lifted.
+
+Fri, 28 Jun 2024 22:23:13 +0000
+### [‘The to-do list is to boost demand via an export mindset, making labour more attractive’: Sajjid Chinoy](https://indianexpress.com/article/explained/the-to-do-list-is-to-boost-demand-via-an-export-mindset-making-labour-more-attractive-sajjid-chinoy-at-explained-live-9421810/)
+
+The article discusses the importance of boosting private investment in India to encourage economic growth. It highlights that public investment cannot be relied upon indefinitely, and that private consumption and exports are needed to drive demand and stimulate corporate investment. The article also emphasizes the need to make labor a more attractive factor of production and increase India's global competitiveness. Finally, it mentions the importance of maintaining macroeconomic stability and low inflation, and acknowledges the progress India has made in this area over the past decade.
+
 Fri, 28 Jun 2024 14:37:26 +0000
 ### [Significance of the new international airport announced in Tamil Nadu’s Hosur](https://indianexpress.com/article/explained/new-hosur-airport-bengaluru-tamil-nadu-9421249/)
 
