@@ -12,13 +12,10 @@ import xmltodict
 import lxml
 import random
 from g4f.client import Client
-<<<<<<< HEAD
 from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
 from openai import OpenAI
-=======
-from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
+from dotenv import load_dotenv
 
->>>>>>> 120cc9c5d8663fb8948146769a6dbd92a4eb50d0
 
 start_time_of_the_program = time.time()
 max_run_time_assigned =  5 * 60 * 60 + 50 * 60
@@ -40,6 +37,13 @@ def fetch_article_text(url):
         return None
     
 def summarise(article_text):
+
+
+    load_dotenv()
+
+    GROQ_API_KEY = os.environ['GROQ_API_KEY']
+    OLLAMA_BASE_URL= os.environ['OLLAMA_BASE_URL']
+
     conversation = [
         {
             "role": "system",
@@ -50,10 +54,11 @@ def summarise(article_text):
             "content": article_text
         },
     ]
-    # client = OpenAI( api_key="API-KEY", base_url="http://localhost:11434/v1")       
-    client = OpenAI( api_key="API-KEY", base_url="https://naresh:Naresh^111@ollama.naresh.world/v1")
+    client = OpenAI( api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")       
+    # client = OpenAI( api_key="API-KEY", base_url=OLLAMA_BASE_URL)
     response = client.chat.completions.create(
-                model="qwen2:0.5b",
+                # model="qwen2:0.5b",
+                model="gemma2-9b-it",
                 messages=conversation,
         )
 
