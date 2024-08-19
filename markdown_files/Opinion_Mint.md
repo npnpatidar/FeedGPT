@@ -1,3 +1,315 @@
+Mon, 19 Aug 2024 16:00:15 +0530
+### [Quantum cryptography: Digital security will get a shot in the arm](https://www.livemint.com/opinion/online-views/quantum-cryptography-digital-encryption-data-security-technology-quantum-physics-national-quantum-mission-ibm-google-11724012580947.html)
+
+Quantum cryptography leverages the principles of quantum mechanics to secure communications. It aims to protect data from being intercepted and deciphered, even by powerful quantum computers. 
+
+Two main approaches exist: Quantum Key Distribution (QKD) and Post Quantum Cryptography (PQC). QKD uses photons to transmit secret keys, where any eavesdropping attempt disrupts the particles, alerting the communicating parties. PQC relies on complex mathematical algorithms resistant to attacks by both classical and quantum computers. 
+
+Major players like the US, China, and the EU are heavily investing in quantum cryptography research and development. While challenges remain, such as the need for scalable and cost-effective hardware,  quantum cryptography holds promise for a future of highly secure digital communications.
+
+Mon, 19 Aug 2024 15:00:14 +0530
+### [Break the chain: Starbucks’ new CEO could maybe escape Schultz’s long shadow](https://www.livemint.com/opinion/online-views/brian-niccol-new-starbucks-ceo-howard-schultz-micromanagement-decision-making-chipotle-laxman-narasimhan-11724012414765.html)
+
+Starbucks has appointed Brian Niccol, Chipotle's former CEO, as its new leader. This comes amidst concerns about the continued influence of  former CEO Howard Schultz, despite stepping down from official leadership positions.  Schultz, the company's largest individual shareholder, maintains strong ties to Starbucks through various arrangements, seemingly influencing decision-making. His past actions of criticizing successors and advocating for his preferred leadership contributed to the perception of him as a liability.  Niccol's appointment as both CEO and chairman, a move infrequent in modern corporate governance, indicates the lengths Starbucks went to secure his expertise and knowledge gleaned from navigating similar challenges at Chipotle, particularly dealing with founder influence.  
+
+The situation highlights the importance of clear successions for companies led by iconic figures to avoid future governance issues and maintain stability.
+
+Mon, 19 Aug 2024 14:00:13 +0530
+### [Improving students' reading and numeracy: It takes a village and more](https://www.livemint.com/opinion/online-views/teaching-learning-outcomes-education-parent-engagement-numeracy-literacy-parent-teacher-association-technology-11724012245856.html)
+
+India lags significantly behind China in education, measured by metrics like mathematics and reading proficiency. This disparity, partially attributed to foundational literacy issues and low higher education enrolment rates, has resulted in India's labour productivity being 44% lower than China's. 
+
+A lack of community involvement and parental engagement exacerbate the situation. Vietnam, despite lower per-capita education spending, saw improved PISA scores due to parental expectations and teacher discipline. While India has School Management Committees, their effectiveness is limited by low awareness and participation.
+
+
+To address this, the article suggests improving teacher effectiveness by streamlining training, increasing autonomy, and providing technology-aided support.  Involving parents through clear communication about their child's performance and their role in education is also crucial. Recognising and celebrating good teachers can further motivate them. Only by engaging all stakeholders can India's education system realize its full potential and achieve the goals of the Nipun Bharat Mission.
+
+Mon, 19 Aug 2024 12:30:12 +0530
+### [Small businesses still outside the formal structure? There exist challenges.](https://www.livemint.com/opinion/online-views/msme-formalization-gst-taxation-input-tax-credit-value-addition-profit-margin-organised-sector-employment-tax-policies-11724012024861.html)
+
+Despite the promise of the Goods and Services Tax (GST) to aid the growth of small businesses, challenges remain around formalization.  
+
+A recent survey revealed that while the number of unincorporated enterprises has increased, a vast majority of them have low turnovers and few are registered for GST. This highlights a gap between theoretical benefits and practical realities for these businesses.  
+
+The survey also noted the difficulties these micro-businesses face with GST compliance and the lack of input tax credit as disincentives to join the formal system.  While efforts are underway to address these challenges - such as increased registrations on the UDYAM portal and the  provision of more GST helpdesks - further measures, like user-friendly technology and financial literacy programs, are needed to truly empower small businesses to navigate the formal economy.
+
+Mon, 19 Aug 2024 10:30:10 +0530
+### [We must focus on semiconductor chip manufacturing to get ahead in the GenAI race](https://www.livemint.com/opinion/online-views/semiconductors-chip-manufacturing-genai-tsmc-nvidia-samsung-silicon-valley-tech-innovation-11724011827217.html)
+
+The global tech landscape is shifting towards hardware, particularly semiconductors, as evidenced by the rapid growth of companies like TSMC, MediaTek, Samsung, and SK Hynix. 
+
+While some believe this is a temporary trend, the article argues that it signifies a structural change.
+
+This shift necessitates a reevaluation of investment strategies, with a focus on strategic hardware investments, particularly in semiconductor manufacturing. The dominance of companies like TSMC and ASML underlines the importance of controlling hardware infrastructure.
+
+Indian businesses and educational institutions must adapt by upskilling their workforce in chip design, robotics, and semiconductor technology to capitalize on this opportunity. 
+
+
+Collaborations and acquisitions, such as the one between Nvidia and MediaTek, are essential for India to establish its presence in the evolving hardware ecosystem.
+
+Mon, 19 Aug 2024 08:30:07 +0530
+### [From El Niño to La Niña: Is respite finally in sight?](https://www.livemint.com/opinion/online-views/el-ni-o-la-ni-a-enso-pacific-ocean-climate-change-indian-ocean-dipole-imd-rain-forecast-rabi-crop-food-inflation-rbi-11724011498447.html)
+
+This year India experienced a severe heatwave, prompting renewed attention to climate change's impact on weather patterns. The shift in the Pacific Ocean's El Niño-La Niña cycle is a significant factor. After an El Niño phase brought drier conditions earlier in the year, the Indian Meteorological Department (IMD) predicts La Niña will develop by late August-early September.  
+
+This shift comes as India has already seen a rebound in monsoon rainfall.  While the IMD expects La Niña to benefit the rabi crop, the increasing frequency of these atmospheric shifts creates uncertainty in predicting agricultural output and related economic factors like food prices and inflation.
+
+Mon, 19 Aug 2024 07:00:05 +0530
+### [Mint Quick Edit | Jammu and Kashmir elections: A return of people’s rule](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-jamu-and-kashmir-assembly-elections-election-commission-election-schedule-democracy-article-370-11724011397442.html)
+
+Elections are set to return to Jammu and Kashmir after a six-year hiatus, with the Election Commission announcing a three-phase poll schedule from September 18 to October 1.  This comes after the region was downgraded to a Union territory in 2019 following the abrogation of Article 370. 
+
+While central rule has facilitated development and controlled violence, it has also sparked unease regarding the erosion of democratic rights. 
+
+The forthcoming elections, following a largely peaceful environment and high voter turnout in recent Lok Sabha polls, are seen as a crucial step in restoring democratic processes and addressing public sentiment.
+
+Sun, 18 Aug 2024 16:00:18 +0530
+### [Examination coaching crisis: It’s a monster of our own creation](https://www.livemint.com/opinion/online-views/examinations-coaching-centres-exams-education-indian-colleges-tutions-anxiety-stress-11723975679834.html)
+
+The article criticizes India's booming coaching industry, arguing that it's a consequence of societal pressure to prioritize high-stakes exams and socially prestigious fields like engineering and medicine.  
+
+The author blames parents and society for pushing children towards this system, which often comes at a significant financial cost and detrimental impact on mental well-being. They argue that government regulation won't solve the problem, pointing to the existing flaws in the regulatory framework that prioritize control over quality.
+
+The article highlights how the coaching culture stifles genuine learning, burdens families, and perpetuates a system that prioritizes exam success over intellectual growth. It calls for a fundamental shift in perspective, encouraging a focus on meaningful learning and supporting children's diverse interests rather than pressuring them into a narrow path dictated by societal expectations.
+
+Sun, 18 Aug 2024 15:30:17 +0530
+### [China should consider setting a formal inflation target](https://www.livemint.com/opinion/online-views/chinese-central-bank-inflation-targetting-deflation-price-stability-consumer-price-increase-bond-market-rally-us-fed-11723973087978.html)
+
+As sluggish economic growth threatens China, there are calls to implement a 2%-3% inflation target, similar to those adopted by countries like New Zealand, the UK, and Australia. This target would aim to provide more predictable economic conditions and prevent a potential deflationary spiral. 
+
+While a full-fledged central bank independence akin to Western models may be unlikely given China's political structure, the core idea of a target - proactive management of inflation—holds merit. Low inflation periods are detrimental to China's economy and the global market.
+
+Sun, 18 Aug 2024 15:00:16 +0530
+### [The US elections will have a big impact on the climate change fight](https://www.livemint.com/opinion/online-views/the-us-elections-will-have-a-big-impact-on-the-climate-change-fight-11723971721687.html)
+
+The 2024 US presidential election presents a stark choice on climate policy.  
+
+Donald Trump, if re-elected, intends to withdraw the US from both the Paris Climate Agreement and the UN Framework Convention on Climate Change, jeopardizing global efforts to combat climate change. This would also threaten bilateral agreements, like the prospective US-EU climate deal and the Sunnylands Statement with China, which both commit to emissions reductions.
+
+Kamala Harris, on the other hand, supports more ambitious climate action,  aligning with the Green New Deal. 
+
+A Harris presidency would likely revive these negotiations and potentially remove tariffs on Chinese clean energy products, which could accelerate the transition to cleaner energy in the US.  
+
+However, she would still face a dilemma: balancing domestic manufacturing jobs and economic independence from China with the urgency of addressing climate change.
+
+Sun, 18 Aug 2024 14:00:15 +0530
+### [Manu Joseph | India’s Supreme Court is right: Exclude the creamy layer](https://www.livemint.com/opinion/online-views/manu-joseph-supreme-court-creamy-layer-reservations-dalits-quotas-poverty-general-category-11723968724070.html)
+
+The article discusses the Indian government's decision to not include Dalit communities' "creamy layer" in affirmative action quotas. 
+
+The author argues that this decision is morally questionable despite possible practical reasons. While acknowledging that quotas have helped many Dalits escape poverty, the article points out that they haven't diminished the social stigma and discrimination they face. It suggests that quotas have unintentionally fostered a hierarchy within Dalit communities, mirroring the caste system they aim to overcome.
+
+The author concludes by highlighting the need for a new Dalit elite that is committed to dismantling deep-rooted social inequalities rather than seeking to maintain its own privileged position through reservations.
+
+Sun, 18 Aug 2024 13:40:54 +0530
+### [EU's carbon border tax poses a big challenge for Indian businesses](https://www.livemint.com/opinion/online-views/eu-carbon-border-adjustment-mechanism-cbam-carbon-emission-wto-unfccc-competitiveness-indian-exports-11723967816094.html)
+
+The EU's Carbon Border Adjustment Mechanism (CBAM) imposes carbon costs on imported goods, aiming to incentivize decarbonization. For India, the immediate impact is on aluminium and steel exports to the EU.  
+
+The CBAM, currently in its reporting phase,  requires firms to disclose emissions data. Full levies begin in 2026 and, when considering indirect emissions (from electricity generation), could make Indian aluminium exports uncompetitive due to reliance on coal-fired power. 
+
+The CBAM poses challenges for Indian businesses, including determining an effective carbon price and addressing data privacy concerns related to the sensitive emissions data being shared with the EU. 
+
+India is developing its own carbon credit trading system, which could potentially align with the CBAM and mitigate some of the burden. However, the CBAM's unilateral nature raises concerns about its implications for climate justice and global trade agreements.
+
+Fri, 16 Aug 2024 16:45:51 +0530
+### [How worrying is the rapid rise of Chinese science?](https://www.livemint.com/opinion/online-views/how-worrying-is-the-rapid-rise-of-chinese-science-11723806538403.html)
+
+China's scientific progress is rapidly advancing, challenging the traditional notion of Western technological superiority. Chinese scientists are producing high-quality research, particularly in chemistry, physics, and materials science, and contributing significantly to prestigious journals. 
+
+China also demonstrates commercial innovation in fields like batteries, electric vehicles, and telecommunications, evidenced by the resurgent success of Huawei. While China faces challenges such as state-directed research and reliance on foreign technology, its commitment to scientific advancement poses a dilemma for the US. 
+
+The US should focus on strengthening its own innovative capabilities, embracing openness to global talent and ideas, fostering a dynamic economy, and leveraging the market mechanism. Rather than emulating China's restrictive approach, America must leverage its own strengths to maintain its technological edge and global influence.
+
+Fri, 16 Aug 2024 14:00:06 +0530
+### [Safety first: Creepy cities are energy drains for half of us](https://www.livemint.com/opinion/online-views/women-safety-sexual-violence-rape-kolkata-protests-women-labour-force-participation-women-employees-11723787739914.html)
+
+The article highlights the pervasive safety concerns women face in India, even in seemingly secure environments like workplaces or public transport.  
+
+A personal experience on a train journey where the author felt vulnerable after men locked the compartment door emphasizes the constant anxiety women live with. This vigilance, described as  "a safety vigil," takes a toll on their energy and focus, impacting their performance at work. The author argues that despite advancements in diversity and inclusion initiatives, basic safety protocols are often overlooked.  
+
+The article calls for concrete actions, including comprehensive training for all staff—including third-party contractors—on safety guidelines and zero tolerance towards harassment. It stresses that organizations must prioritize women's safety to create truly inclusive and secure workspaces.
+
+Fri, 16 Aug 2024 12:15:04 +0530
+### [India’s demographic journey: Three dividends we mustn’t let go of](https://www.livemint.com/opinion/online-views/population-control-demographic-dividend-total-fertility-rate-family-planning-women-empowerment-labour-market-11723788609095.html)
+
+This article examines India's journey with population control and growth since its independence.
+
+While population growth posed a challenge in early years due to high fertility rates, India has made notable progress  in stabilizing population through voluntary family planning programs and empowering women through education and access to healthcare.
+
+Today, India faces a demographic dividend with a young, growing population, but also sees an increasing elderly population. 
+
+The article highlights the importance of leveraging data and evidence-based policymaking to address the needs of both young and elderly populations, while ensuring that the country benefits from its demographic shifts towards sustainable development and progress.
+
+Fri, 16 Aug 2024 08:30:18 +0530
+### [India’s economic emergence will depend on how safe women feel](https://www.livemint.com/opinion/online-views/women-safety-kolkata-doctor-murder-case-sexual-violence-women-labour-force-participation-security-sustainable-growth-11723748121008.html)
+
+The murder of a trainee doctor in Kolkata has reignited discussions about women's safety in India. 
+
+Studies show that fear of sexual violence significantly deters women from joining the workforce, contributing to India's low female labor force participation rate. This not only perpetuates gender inequality but also hinders economic growth.  
+
+While some measures like dedicated public transport and stricter anti-violence laws exist,  a deeper societal shift is needed.  Reframing the language used to discuss women in public roles, challenging traditional views on women's place in society, and ensuring women's financial independence are crucial steps towards creating a safer and more equitable workplace for all.
+
+Fri, 16 Aug 2024 07:00:17 +0530
+### [Mint Quick Edit | Why did Ukraine invade Russia?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-russia-ukraine-war-putin-kyiv-nato-kursk-invasion-moscow-us-support-democrats-republicans-11723748066896.html)
+
+Ukraine has launched a significant counteroffensive into Russian territory, marking the first time since the war began that Kyiv has dared such a bold move. The incursion, which has seen Ukrainian forces enter Kursk, has taken Moscow by surprise. This development, supported by US approval, potentially gives Ukraine leverage in negotiations for a Russian withdrawal. The incursion could revive Washington's "democracy versus autocracy" narrative and potentially influence countries like India to align more closely with the West.  
+
+
+The success of the operation remains uncertain, but it signifies a turning point in the war.
+
+Thu, 15 Aug 2024 16:00:14 +0530
+### [Car ownership reveals much about the shape and state of our economy](https://www.livemint.com/opinion/online-views/car-ownership-service-sector-agriculture-income-inequality-labour-market-indian-economy-road-traffic-education-11723668575442.html)
+
+Car ownership in India is a significant indicator of economic status and prosperity. Estimates suggest that 6.7% of Indian households own a car, with urban car ownership significantly higher than rural. Service sector households possess cars at a higher rate than households in the agricultural and industrial sectors, suggesting potentially higher income levels in services. 
+
+There are variations in car ownership across states, notably Punjab, where agricultural households own cars at a higher rate than service households.  This could be due to a combination of prosperous farming, higher remittance inflows, and farm income exemptions from taxes. India's rising car ownership, driven by factors like income growth and the aspirational value of car ownership, may have implications for traffic congestion and road infrastructure development.  
+
+Furthermore, the article highlights a trend where young Indians, after acquiring higher education, gravitate towards service sector jobs. This is partly attributed to better pay, advancement opportunities, and less physically demanding work.
+
+Thu, 15 Aug 2024 15:00:13 +0530
+### [Artificial intelligence: Not hype but an economic catalyst](https://www.livemint.com/opinion/online-views/ai-artificial-intelligence-indian-economy-gdp-growth-national-ai-mission-ai-regulatio-national-semiconductor-mission-11723667639800.html)
+
+India's vast AI talent pool and proactive government policies are driving the growth of its AI sector. Generative AI is expected to significantly contribute to the country's economy, adding $1.2-1.5 trillion over the next seven years.  
+
+Government initiatives like the National AI Mission, Centres of Excellence, and the National Supercomputing Mission aim to foster R&D, build indigenous computing infrastructure, and strengthen the AI ecosystem.
+
+The focus on urban infrastructure, as seen through GenAI patent filings concentrating on networks and smart cities, highlights India's strategic approach to leveraging AI for societal benefit. To ensure the successful development of the AI ecosystem, collaboration between the government, institutions, and private firms is crucial.  
+
+While India faces challenges like regional diversity and sector-specific needs, its strong growth potential and commitment to AI innovation position it as a key player in the global AI landscape.
+
+Thu, 15 Aug 2024 14:00:11 +0530
+### [Get tough: A lenient capital gains tax regime has been distorting incentives](https://www.livemint.com/opinion/online-views/capital-gains-tax-indexation-benefits-ltcg-inflation-consumer-price-index-cpi-tax-reform-long-term-capital-gains-11723668008710.html)
+
+This article critiques the recent changes to capital gains taxation in India, particularly the removal of indexation benefits.  
+
+It argues that the original intention of indexation, to account for inflation, has been largely ignored as the cost inflation index has consistently overstated average inflation. This, coupled with the fact that most capital gains are likely from equity transactions, creates a situation where a relatively small group of high-income taxpayers benefit disproportionately.
+
+The article further points out that the current inflation index overstates inflation experienced by high-income earners due to the  significant weight given to food expenditure in the CPI, which constitutes a smaller portion of their budgets.  
+
+The author calls for a more equitable treatment of different income sources and advocates for revisiting the principles of the Chelliah Committee report on tax reforms.
+
+Thu, 15 Aug 2024 12:30:09 +0530
+### [Who’s making money from GenAI? Big Tech, consultants or data centres?](https://www.livemint.com/opinion/online-views/genai-big-tech-google-gemini-openai-perplexity-llms-nvidia-microsoft-meta-data-centres-semiconductor-ships-11723667828077.html)
+
+This article explores the concept of a "Generative AI stack" to understand where money is being made in the burgeoning field of artificial intelligence. 
+
+The article breaks down the stack into layers, starting with the "infrastructure" layer which includes companies like Nvidia providing the powerful GPUs needed for AI models. This layer, responsible for "shoveling out" the money, drives the earnings of companies like TSMC and ASML. 
+
+Higher levels include model development (OpenAI, Meta etc.), development platforms (Azure, AWS), and application development (startups building AI-powered apps). While money is being made in these layers, it's argued that the layer driving real profits is the one underlying the infrastructure: the "Layer 0" comprising electricity generators, water providers, and data centre constructors.  Finally,  consulting firms are leveraging GenAI to boost their own revenue streams. 
+
+Ultimately, the article concludes that the answer to who is profiting from AI is not binary but depends on your position within this complex, multi-layered ecosystem.
+
+Thu, 15 Aug 2024 10:30:07 +0530
+### [Grey to green: Emission-free hydrogen remains elusive](https://www.livemint.com/opinion/online-views/green-hydrogen-fossil-fuels-clean-energy-carbon-emission-decarbonization-carbon-capture-solar-energy-hydrogen-production-11723668416790.html)
+
+Green hydrogen, touted as a key solution for decarbonizing industries, faces significant cost and deployment challenges. 
+
+Despite optimism for declining costs, prices have risen and remain uncompetitive with fossil fuel-based alternatives. Government policies have largely focused on subsidies for producers rather than mandating consumer usage, hindering market growth.
+
+Meanwhile, "blue hydrogen," which captures some carbon emissions from fossil fuel production, is gaining traction due to its lower cost and existing infrastructure. This raises concerns that green hydrogen may not reach its full decarbonization potential.
+
+Overcoming these hurdles requires a concerted effort from governments, investors, and industry to support green hydrogen development.  Without increased political will and targeted support, blue hydrogen and fossil fuels may continue to dominate the market.
+
+Thu, 15 Aug 2024 08:30:04 +0530
+### [Unity in diversity: It’s India’s only realistic path to success](https://www.livemint.com/opinion/online-views/unity-in-diversity-independence-day-multiculturalism-freedom-struggle-per-capita-income-voting-rights-indian-economy-11723667458019.html)
+
+This article reflects on India's 78th Independence Day, highlighting its journey from a newly formed nation to the world's fifth largest economy. Despite challenges and the need for continued progress in areas like equity and quality of life, India has made significant strides. 
+
+The author emphasizes the importance of unity in diversity, drawing parallels to Europe's emergence from the Dark Ages.  Peaceful democratic transitions and the upholding of constitutional rights are lauded as key strengths. The article concludes by urging citizens to safeguard their hard-won freedom and work towards a more equitable and prosperous India.
+
+Thu, 15 Aug 2024 07:00:00 +0530
+### [Mint Quick Edit | Why do institutions matter?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-institutions-justice-governance-independence-day-india-democracy-accountability-11723666993786.html)
+
+Institutions, as defined by scholars, are the rules and norms that govern human interactions, encompassing both formal structures (like laws) and informal customs.  Robust institutions, particularly those related to justice and governance, are crucial for a nation's long-term prosperity. 
+
+While institutions must be accountable to citizens, their independence is also vital for effective functioning. As India strives for development, strengthening these institutions and ensuring they serve the common good remains paramount.
+
+Thu, 15 Aug 2024 07:00:00 +0530
+### [Sunil Mittal’s JLR moment at BT isn’t likely any time soon – if at all](https://www.livemint.com/opinion/online-views/bharti-enterprises-bt-acquisition-sunil-mittal-patrick-drahi-bharti-airtel-british-telecom-india-uk-fta-11723624751331.html)
+
+Bharti Enterprises’ acquisition of a 24.5% stake in BT signifies a significant move by Sunil Mittal, akin to the Tata Group's purchase of Jaguar Land Rover in 2008. Mittal, who understands both the telecom sector and BT through previous collaborations, aims to become the largest investor in BT without taking a board seat or intending a full takeover.  
+
+The deal allows Bharti to capitalize on BT's potential recovery under CEO Allison Kirby, who is implementing cost-cutting and fiber network investments. While Mittal's long-term objectives for BT remain unclear, his growing influence in British politics and business positions him prominently in the UK market.
+
+Wed, 14 Aug 2024 16:00:01 +0530
+### [Don’t push NGOs to scale up the way businesses do](https://www.livemint.com/opinion/online-views/ngos-social-work-upscaling-ngo-funding-credibility-upskilling-programs-fundraising-training-programs-11723571892061.html)
+
+This article criticizes the pressure funders put on NGOs to prioritize scale over quality and depth of work.  
+
+This focus on "scale" often leads to superficial interventions, like establishing creches in many villages without ensuring adequate capacity to serve all children. Similarly, claiming to work in vast territories, such as "five states on skilling", might only involve designing programs without ensuring their effective implementation.
+
+The author argues that this practice, be it expanding geographically without sufficient resources or offering superficial programs for seemingly large numbers, weakens the integrity of the NGO sector. While acknowledging the existence of genuine, impactful NGOs, they claim their efforts are often overshadowed by the inflated claims of others. 
+
+The article concludes by calling on funders to shift their focus from sheer scale to the effectiveness and sustainability of interventions, urging them to prioritize quality over quantity to truly benefit the communities they aim to serve.
+
+Wed, 14 Aug 2024 15:00:00 +0530
+### [Candidate Tim Walz’s lack of asset ownership makes him an outlier in the US](https://www.livemint.com/opinion/online-views/democrat-candidate-tim-walz-asset-ownership-stock-market-risk-taking-jd-vance-public-pension-system-investment-bitcoin-11723571374547.html)
+
+The article discusses the surprisingly low investment holdings of Tim Walz, the Democratic vice-presidential nominee. Despite being in a position of considerable power and responsibility, Walz appears to hold no stocks or other investment assets, raising questions about his financial understanding and perspective on the economy.  
+
+The author contrasts Walz's approach with his Republican rival, J.D. Vance, who while wealthy, has a significant portion of his portfolio in Bitcoin, a choice interpreted as a potentially volatile and risky bet against the U.S. dollar. The article concludes by pondering whether a lack of engagement with the stock market is a suitable trait for a U.S. leader, suggesting that a thoughtful understanding of and participation in financial markets is a desirable quality.
+
+Wed, 14 Aug 2024 14:00:18 +0530
+### [The long arc of India’s journey: We still have miles to go before we sleep](https://www.livemint.com/opinion/online-views/indian-independence-day-constitution-democracy-economic-growth-innovation-job-creation-mahatma-gandhi-nehru-11723570996752.html)
+
+This article reflects on India's progress since its independence in 1947.  It highlights the country's impressive journey from a nation facing poverty, low life expectancy, and limited literacy to a functioning democracy with a growing economy.
+
+The author acknowledges the foresight and vision of India's founding fathers who, despite facing numerous challenges, laid the foundation for a robust democratic system and a focus on science and technology. The establishment of institutions like IITs and IIMs, coupled with strategic policies like protectionism in early years, are cited as key milestones in this transformation.
+
+The article also expresses concern about India's recent decline in innovation and the urgency to create jobs for its burgeoning youth population.  It urges citizens to remember the sacrifices of those who fought for independence and strive to build upon the nation's achievements, ensuring a prosperous and inclusive future for all.
+
+Wed, 14 Aug 2024 12:30:15 +0530
+### [Riots in the UK make a case for social media supervision](https://www.livemint.com/opinion/online-views/x-violence-in-the-uk-social-media-regulation-multiculturalism-fake-news-hate-speech-cultural-diversity-immigration-11723570757397.html)
+
+The recent far-right violence in the UK, fueled by misinformation on social media,  is raising concerns about the role of platforms like X (formerly Twitter) in spreading hate and inciting violence.  Musk's ownership of X, and his controversial actions such as hosting Donald Trump and amplifying far-right voices, have come under scrutiny, particularly from the EU. 
+
+Despite these incidents, the article argues that the UK's commitment to multiculturalism remains strong, citing examples of successful integration and the widespread condemnation of the violence. The author believes that while social media platforms must be held accountable for hate speech, the UK will ultimately overcome this challenge and maintain its diversity.
+
+Wed, 14 Aug 2024 11:52:52 +0530
+### [Google antitrust ruling: The big deal about Big Tech's monopoly power](https://www.livemint.com/opinion/online-views/google-monopoly-big-tech-antitrust-ruling-google-antitrust-us-antitrust-google-search-11723615107548.html)
+
+A US court ruled that Google illegally maintains its online search monopoly by paying billions of dollars to companies like Apple and Samsung to make its search engine the default on their devices. 
+
+The court found that Google's actions deny competitors opportunities and inflate ad prices.  
+
+This landmark ruling is seen as a significant step in the US government's efforts to curb Big Tech's power and may have repercussions for other tech giants facing antitrust scrutiny.
+
+Wed, 14 Aug 2024 10:30:13 +0530
+### [Freedom and linguistic identity: Is Bangladesh losing its anchor?](https://www.livemint.com/opinion/online-views/bangladesh-1971-war-indo-pak-war-east-pakistan-bengali-language-democracy-freedom-struggle-politics-11723570561249.html)
+
+The author reflects on the 1971 Bangladesh Liberation War, drawing parallels between then and now.  
+
+They recall their experiences as a student in Kolkata supporting the Mukti Bahini and the emotional resonance of the struggle for Bengali language and culture.  While acknowledging Bangladesh's economic progress and India's grudging admiration, the author notes growing concerns regarding its shift toward an Islamic republic and the recent unrest. This raises questions about the future trajectory of the relationship between the two nations, particularly in light of the refugee crisis. The author concludes with a reflection on India's democratic strength amidst attempts at destabilization, expressing optimism for the country's future.
+
+Wed, 14 Aug 2024 08:30:10 +0530
+### [Drone buzz: India must buckle up for today’s AI-equipped arms race](https://www.livemint.com/opinion/online-views/drones-india-defence-technology-missiles-hypersonic-glide-vehicles-cold-war-2-ai-us-china-rivalry-houthis-ukraine-war-11723570343453.html)
+
+China recently test-flew a large cargo drone, highlighting its progress in unmanned aerial vehicle technology. This development, coupled with the advancement of hypersonic glide vehicles and AI-powered weaponry, has raised concerns about a new arms race. China's advancements in these areas surpass those of the US-led West, posing a challenge to global security.  
+
+India, maintaining its strategic neutrality, faces a dilemma. While it has demonstrated its own missile capabilities, catching up with the rapid pace of China's technological development is crucial. Balancing a robust defense posture with sound economic policies remains a key challenge for India, as it navigates the evolving geopolitical landscape.
+
+Wed, 14 Aug 2024 07:00:05 +0530
+### [Mint Quick Edit | Will Starbucks’ new CEO get a free hand?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-starbucks-new-ceo-brian-niccol-chipotle-ceo-laxman-coffee-chain-narsimhan-howard-schultz-11723569887410.html)
+
+Brian Niccol, former CEO of Chipotle, is Starbucks' new chief executive. This follows a period of softening financial performance and internal divisions under previous CEO Laxman Narasimhan, who served for only over a year.  Elliott Management, an activist investor, acquired a significant stake in Starbucks, further signaling a push for change. Market reaction has been positive, with Starbucks' share price experiencing a notable jump.  Narsimhan's short tenure was reportedly overshadowed by the previous CEO, Howard Schultz, who remained an advisor and publicly criticized changes made by his successor.
+
+Tue, 13 Aug 2024 16:00:13 +0530
+### [Other developing countries needn’t reinvent the wheel of digital governance](https://www.livemint.com/opinion/online-views/developing-countries-digital-governance-dpi-communication-technology-digital-payments-regulation-telecom-sector-11723482199795.html)
+
+This article explores the evolution of communication technology, drawing parallels between the early days of telephones and the current landscape of digital governance. It highlights the shift from individual, self-contained systems to a more collaborative and efficient approach of sharing core infrastructure.
+
+The author argues that the digital transformation of governance can learn from the telecom industry's experience of infrastructure sharing.  Using the example of India's digital public infrastructure, they advocate for a modular, reusable building-block approach to digital governance solutions, especially for developing countries with limited resources.
+
+The article concludes by urging funding organizations to prioritize projects that embrace reusability, ensuring that  digital transformation efforts are cost-effective and widely accessible.
+
+Tue, 13 Aug 2024 15:00:06 +0530
+### [How greying athletes at the Olympics may have defied ageing](https://www.livemint.com/opinion/online-views/olympic-athletes-ageing-mitochondria-cognitive-decline-senior-players-sports-performance-muscle-memory-11723482057113.html)
+
+Scientists are studying athletes who maintain high levels of physical performance well into their later years to understand the mechanisms behind their longevity. These "super-agers" exhibit an abundance of proteins, some associated with athleticism, that may hold clues to slowing down the aging process.
+
+Research suggests that maintaining a high level of physical activity helps preserve mitochondrial function, the body's energy production system. Mitochondria decline with age, but regular exercise can stimulate their renewal. Furthermore, exercise may help regulate inflammation and other age-related health issues. The ultimate goal is to translate these findings into drugs or interventions that can promote healthy aging in the general population.
+
 Sat, 29 Jun 2024 16:24:26 +0530
 ### [NSS: Not just nerdy stats but a data arsenal for business and policy](https://www.livemint.com/opinion/online-views/nss-p-c-mahalanobis-mospi-statistics-business-and-policy-11719655882553.html)
 

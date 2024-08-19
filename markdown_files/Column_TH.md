@@ -1,3 +1,93 @@
+Sun, 18 Aug 2024 18:59:08 +0530
+### [Judges and the people](https://www.thehindu.com/opinion/columns/political-line-newsletter-judges-and-the-people/article68539776.ece)
+
+The article examines the increasing politicization of judiciaries globally.  In Bangladesh, recent protests led to the resignation of the Chief Justice and other judges, highlighting the judiciary's vulnerability to political pressure. This trend is not unique to Bangladesh, as seen in the U.S. where judicial appointments often align with political affiliations, influencing rulings on politically charged issues like abortion rights.
+
+The author explores the tension between judicial autonomy and public opinion, questioning whether a purely apolitical judiciary is truly feasible.  The article also touches upon debates in India regarding the Supreme Court's power to amend the Constitution and the perceived lack of transparency in judicial appointments. 
+
+Finally, it uses examples from India and Bangladesh to illustrate how the concept of "traitor"  is often weaponized in political conflicts, further blurring the lines between law and politics.
+
+Fri, 16 Aug 2024 16:36:47 +0530
+### [Column | Record of a princely wedding](https://www.thehindu.com/opinion/columns/record-of-a-princely-wedding-photo-album-mysore-palace/article68515408.ece)
+
+This article examines a 100-year-old wedding album documenting the marriage of Yuvaraja Kanteerava Narasimharaja Wadiyar, the prince of Mysore. Taken in 1910, the album provides a fascinating glimpse into the opulent ceremony and the newly built Amba Vilas Palace, which was under construction at the time. 
+
+The photographer skillfully used details and composition to tell the story of the wedding, showcasing not only the lavish festivities but also the cultural traditions of the era and the enduring power of the Wadiyar dynasty. The author draws a comparison between the richness of this printed album and the fleeting nature of digital memories, highlighting the enduring value of tangible historical documentation.
+
+Fri, 16 Aug 2024 16:17:24 +0530
+### [Column | Feet of fortune](https://www.thehindu.com/opinion/columns/feet-of-fortune-devdutt-pattanaik-hindu-bhakti-traditions/article68515425.ece)
+
+The practice of placing crowns with the deity's footprints on devotees' heads in South Indian Vishnu temples symbolizes a deeper connection to Hindu bhakti traditions.  Originally, bhakti didn't signify submission but participation in the divine's life. Temples, unlike places of meditation, were vibrant centers celebrating life,  where deities were treated as residents and involved in daily rituals and festivals. This devotion was supported by village grants known as deva bhoga. 
+
+However, this movement coexisted with societal stratification based on purity, leading to instances of exclusion and segregation.  Depictions of Vishnu and Lakshmi highlight the importance of contentment over the pursuit of fortune. The Vishnu narrative suggests that a humble mindset and acceptance of all, symbolized by the veneration of the feet, leads to true fortune.
+
+Sun, 11 Aug 2024 15:51:11 +0530
+### [Neighbourhood tests India-U.S. ties](https://www.thehindu.com/opinion/columns/political-line-neighbourhood-tests-india-us-ties/article68512576.ece)
+
+The recent turmoil in Bangladesh, with the U.S. seemingly supportive of a potential Islamist government, tests India-U.S. strategic alignment.  
+
+ India and the U.S. have historically shared goals in countering China's influence, but the U.S. stance on Bangladesh raises concerns for India, as it tolerates actors against India's interests in the region. Both nations face challenges regarding trade restrictions on China, with evidence suggesting they may harm domestic innovation.  Internal dynamics in India, such as debates over caste-based quotas and immigration from Bangladesh, also highlight complexities in navigating both domestic and international issues.
+
+Sun, 04 Aug 2024 16:50:08 +0530
+### [Unequal, and the more unequal](https://www.thehindu.com/opinion/columns/political-line-newsletter-unequal-and-the-more-unequal/article68484692.ece)
+
+The Supreme Court has ruled that states can create sub-categories within Scheduled Castes (SCs) for affirmative action. This decision recognizes the unequal treatment faced by different SC groups,  despite existing quotas and schemes. 
+
+The court cited the need for "substantive equality" and  drew parallels to the  'more backward' categories allowed for backward classes. Proponents argue that sub-categorization prioritizes those who need it most, while opponents fear it could further fragment already marginalized communities. The implementation of sub-categories will likely lead to new political dynamics and challenges.
+
+Fri, 02 Aug 2024 10:45:31 +0530
+### [Column | Workplace friction and Disney+Hotstar’s ‘Hardly Working’](https://www.thehindu.com/entertainment/hardly-working-by-naukri-workplace-friction-disney-hotstar/article68466162.ece)
+
+The recent comedy special "Hardly Working" on Disney+Hotstar, featuring comedians who have worked in various corporate sectors,  highlights the growing dissatisfaction of young Indians with their work lives. 
+
+The comedians' jokes center around common workplace grievances such as unnecessary meetings, stagnant salaries, abusive bosses, and lack of career progression. This shift in comedic focus, from the traditional "demanding spouse" to the "irate corporate boss," signals a cultural change. 
+
+Numerous Indian TV shows and films also reflect this sentiment, showcasing the dark side of corporate culture. This widespread frustration underscores the bleak job market and  lack of fulfilling professional opportunities for young Indians.
+
+Sun, 28 Jul 2024 16:14:08 +0530
+### [Partition of Bengal: New Demands and Old Memories](https://www.thehindu.com/opinion/columns/political-line-newsletter-partition-of-bengal-new-demands-and-old-memories/article68456674.ece)
+
+Recent calls from BJP politicians to create new administrative entities from West Bengal have reignited  partition debates. Nishikant Dubey, a BJP MP, suggested  Murshidabad and Malda districts in West Bengal and Kishanganj and Katihar in Bihar be turned into a Union Territory to address the influx of immigrants from Bangladesh. West Bengal BJP President Sukanta Majumdar proposed including North Bengal in the developmental plans of the Northeast, sparking renewed demand for a Gorkhaland.  
+
+This follows historical partitions of Bengal in 1905 and 1947, leaving a legacy of division.  Currently, various regions within West Bengal, including Cooch Behar and Jangalmahal, also seek statehood. The BJP, stronger in northern West Bengal, may be motivated to carve out these regions, potentially exploiting demographic shifts for political gain.  
+ .
+
+Fri, 26 Jul 2024 12:51:08 +0530
+### [Column | Lesson in a quince apple](https://www.thehindu.com/opinion/columns/lesson-in-a-quince-apple-phuphee-wisdom-saba-mahjoor-column/article68436661.ece)
+
+Phuphee, a wise woman known for her delicious cooking, hears a family distraught over their daughter's desire to study fashion. The father believes it's an "evil spell" and wants to force her into a science career. Phuphee calmly listens to the daughter's mother, who eloquently argues her daughter's talent and the injustice of suppressing her because she's a girl.  Phuphee then reminds the father of a time he defied his own father to marry the woman he loved. This prompts the father to reconsider his stance and eventually agree to support his daughter's dreams. Phuphee demonstrates that understanding hearts, rather than resorting to spells, is the true key to resolving conflict.
+
+Mon, 22 Jul 2024 20:08:41 +0530
+### [From a wedding pandal and into the dictionary](https://www.thehindu.com/opinion/columns/from-a-wedding-pandal-and-into-the-dictionary/article68433116.ece)
+
+The article humorously reflects on the post-wedding lull following the grand celebration of Anant Ambani and Radhika Merchant.  The author compares the feeling of emptiness to the aftermath of a major sporting event, lamenting the absence of engaging updates and photo reviews.   
+
+While acknowledging criticisms of extravagant spending, the author defends the spectacle as a source of entertainment and a shared national experience.  The article concludes by suggesting a new word to describe such lavish weddings, playing on the ostentatious lifestyle of Imelda Marcos.
+
+Fri, 19 Jul 2024 11:37:55 +0530
+### [Column | The other Ayodhya](https://www.thehindu.com/opinion/columns/devdutt-pattanaik-the-other-ayodhya-ayutthaya-thailand/article68405755.ece)
+
+In Ayutthaya, the former capital of Thailand, the influence of the Ramayana epic is deeply ingrained in society. Thai kings, seen as semi-divine figures, modeled themselves after Ram, and incorporated the Ramakien, the Thai version of the epic, into their court performances and grand temple complexes.  Much like the Mandala model of governance described in ancient Indian texts, Thai kings expanded their influence through a network of trading routes and alliances.  
+
+Influenced by both Buddhism and Hinduism, the Thai polity emerged as a unique blend of these traditions. However, the sacking of Ayutthaya in 1765 forced the Thai kings to move their capital to Bangkok, continuing the lineage of kings who are still referred to as Rama.
+
+Wed, 17 Jul 2024 00:30:00 +0530
+### [Laxman’s 281 and other cricket feats that speak for special players](https://www.thehindu.com/opinion/columns/281-and-other-feats-that-evoke-special-players-including-10-for-74/article68410634.ece)
+
+This article explores defining performances in cricket, highlighting innings that reveal a player's unique style and impact. Using examples like V.V.S. Laxman's 281 in Kolkata and Sunil Gavaskar's 221 at The Oval, the author emphasizes how these performances transcend mere scores and capture the essence of a player.  
+
+The article delves into other notable innings, including Sachin Tendulkar's heroics, Gundappa Vishwanath's controlled elegance, and Harbhajan Singh's match-winning bowling feat. It also  analyzes  Kapil Dev's memorable World Cup century and Rahul Dravid's composed approach, showcasing how diverse styles can lead to greatness. 
+
+
+Ultimately, the article celebrates the individual brilliance and variety that make cricket so captivating.
+
+Sat, 06 Jul 2024 20:24:43 +0530
+### [When the character is made for the actor](https://www.thehindu.com/opinion/columns/when-the-character-is-made-for-the-actor/article68373975.ece)
+
+The article explores the enduring popularity of detective fiction, particularly highlighting the strengths of British television adaptations. It praises actors like David Suchet and Brenda Blethyn for their nuanced portrayals of classic detectives like Poirot and Vera Stanhope.  
+
+The author contrasts British detective shows with their American counterparts, suggesting a greater depth and complexity in the former.  British shows often feature strong female lead detectives, as exemplified by *Prime Suspect*, and explore the psychological impact of crime beyond simply revealing the perpetrator. *Vera* is lauded as a prime example, with Blethyn's performance capturing both the world-weary detective and the vulnerabilities hidden beneath. Ultimately, the article celebrates the ability of well-crafted detective stories to restore order and provide a sense of justice in a troubled world.
+
 Thu, 27 Jun 2024 11:06:36 +0530
 ### [Column | Spells and a reluctant bride](https://www.thehindu.com/opinion/columns/spells-reluctant-bride-phuphee-marriage-column-saba-mahjoor/article68332057.ece)
 
