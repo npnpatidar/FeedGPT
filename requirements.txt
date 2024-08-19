@@ -7,3 +7,4 @@ beautifulsoup4==4.12.3
 xmltodict==0.13.0
 lxml
 requests
+python-dotenv 
