@@ -6,3 +6,4 @@ beautifulsoup4==4.12.3
 # g4f
 xmltodict==0.13.0
 lxml
+requests
