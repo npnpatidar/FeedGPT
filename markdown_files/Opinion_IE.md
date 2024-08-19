@@ -1,3 +1,3452 @@
+Sat, 29 Jun 2024 11:30:27 +0000
+### [Tamil Nadu hooch tragedy: Media, cinema, law enforcement agencies – everyone must help combat illicit liquor menace](https://indianexpress.com/article/opinion/columns/tamil-nadu-hooch-tragedy-illicit-liquor-menace-9422558/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 09:44:14 +0000
+### [NET, NEET and Kota suicides: We aren’t talking about the root cause](https://indianexpress.com/article/opinion/columns/net-neet-kota-suicides-not-talking-root-cause-9422548/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 08:30:45 +0000
+### [For the new government, the diplomatic task in West Asia](https://indianexpress.com/article/opinion/columns/for-the-new-modi-government-the-diplomatic-task-in-west-asia-9422438/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 06:47:35 +0000
+### [Speaking for myself: In defence of ‘spoiling the mood’ — and making family members uncomfortable](https://indianexpress.com/article/opinion/columns/defence-family-members-views-feminist-mother-mahaul-mood-9422220/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 01:38:43 +0000
+### [Ram Madhav writes: A growing China and the India-US coming together](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-a-growing-china-and-the-india-us-coming-together-9421613/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 01:20:25 +0000
+### [What the sorrows and injuries of Egyptian scribes reveals about writers today](https://indianexpress.com/article/opinion/editorials/what-the-sorrows-and-injuries-of-egyptian-scribes-reveals-about-writers-today-9421624/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 01:15:21 +0000
+### [Why Punjab needs the Akali Dal](https://indianexpress.com/article/opinion/editorials/why-punjab-needs-the-akali-dal-9421623/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 01:05:29 +0000
+### [June 29, 1984, Forty Years Ago: NSA On Akali Chief](https://indianexpress.com/article/opinion/40-years-ago/june-29-1984-forty-years-ago-nsa-on-akali-chief-9421625/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 13:30:13 +0000
+### [Delhi Airport roof collapse: A reality check for the state of India’s infrastructure](https://indianexpress.com/article/opinion/columns/delhi-airport-roof-collapse-a-reality-check-for-the-state-of-indias-infrastructure-9421002/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 12:43:42 +0000
+### [K R Meera writes: Why sanction to prosecute Arundhati Roy under UAPA or her PEN Pinter Prize win does not surprise me](https://indianexpress.com/article/opinion/columns/sanction-prosecute-arundhati-roy-uapa-pen-pinter-prize-win-9421043/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 10:28:01 +0000
+### [US Presidential Debate: Democrats in disarray as Trump wins the debate](https://indianexpress.com/article/opinion/columns/us-presidential-debate-democrats-disarray-trump-wins-debate-9420687/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 09:49:01 +0000
+### [US Presidential debate: Boorish Trump, struggling Biden, and some boring TV](https://indianexpress.com/article/opinion/columns/us-presidential-debate-donald-trump-joe-biden-9420562/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 07:49:08 +0000
+### [Biden-Trump debate: Trump scores as two aging White men hardly enthuse](https://indianexpress.com/article/opinion/editorials/joe-biden-donald-trump-debate-trump-scores-republican-democratic-party-9420348/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 06:46:53 +0000
+### [Foxconn and married women: Dear men, what did your wives give up so that you could shine at work?](https://indianexpress.com/article/opinion/columns/sexism-at-foxconn-dear-men-what-did-your-wives-give-up-so-that-you-could-shine-at-work-9420252/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 03:22:01 +0000
+### [June 28, 1984, Forty Years Ago: Nihang sect chief Nihal Singh Harianbelanwale arrested](https://indianexpress.com/article/opinion/40-years-ago/june-28-1984-forty-years-ago-nihang-sect-chief-nihal-singh-harianbelanwale-arrested-9419420/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 03:06:13 +0000
+### [What Emmanuel Macron’s snap polls could mean for France — and Europe](https://indianexpress.com/article/opinion/columns/what-emmanuel-macrons-snap-polls-could-mean-for-france-and-europe-9419443/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 02:50:04 +0000
+### [With new budget, chance for new vision for India](https://indianexpress.com/article/opinion/columns/with-new-budget-chance-for-new-vision-for-india-9419441/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 02:49:08 +0000
+### [NEET/NET fiasco: It’s time for technology to step in where the exam system has failed](https://indianexpress.com/article/opinion/columns/neet-net-fiasco-its-time-for-technology-to-step-in-where-the-exam-system-has-failed-9419442/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 02:25:37 +0000
+### [Abraham Lincoln’s melting statue: Another way to interact with art](https://indianexpress.com/article/opinion/editorials/abraham-lincolns-melting-statue-another-way-to-interact-with-art-9419425/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 02:25:32 +0000
+### [Broken pavements, lack of safety: A big reason why Indians struggle to stay fit](https://indianexpress.com/article/opinion/editorials/broken-pavements-lack-for-safety-a-big-reason-why-indians-struggle-to-stay-fit-9419424/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 02:21:56 +0000
+### [Continuity on economic reforms in President’s speech is heartening](https://indianexpress.com/article/opinion/editorials/continuity-on-economic-reforms-in-presidents-speech-is-heartening-9419419/)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Thu, 27 Jun 2024 14:22:25 +0000
+### [Apple, Foxconn and married, working women — where’s the imaginary support system?](https://indianexpress.com/article/opinion/columns/apple-foxconn-married-working-women-9419054/)
+
+The article discusses challenges faced by women in the workforce, particularly at Foxconn's Sriperumbudur plant in India. It highlights discrimination against married women, who are reportedly rejected due to concerns like pregnancy or family commitments. Despite claims of gender equality, such practices reflect broader issues in India's labor force where women's participation remains low. The article calls for systemic changes to support working women, criticizing patriarchal norms that hinder progress towards equality in employment opportunities. It emphasizes the need for imaginative solutions like workplace childcare to alleviate burdens on female employees.
+
+Thu, 27 Jun 2024 12:13:50 +0000
+### [Lalu Prasad and Nalin Verma write: What the Sangh doesn’t say about Emergency](https://indianexpress.com/article/opinion/columns/what-the-sangh-does-not-say-about-emergency-9418731/)
+
+The article discusses Om Birla's re-election as Speaker of the Lok Sabha and his statement, endorsed by Prime Minister Narendra Modi, declaring June 25 as a "black day" commemorating the Emergency imposed in India. The author, Lalu Prasad Yadav, criticizes Modi and BJP leaders for using this issue to divert attention from governance failures and constitutional breaches. He contrasts the actions of Indira Gandhi during Emergency with current BJP policies, accusing them of historical revisionism. The article also highlights opposition efforts to challenge BJP's narrative and emphasizes the need to protect democratic institutions and freedoms.
+
+Thu, 27 Jun 2024 12:00:34 +0000
+### [New criminal codes from July 1: A threat to citizen liberty, justice under the guise of a decolonisation project](https://indianexpress.com/article/opinion/columns/criminal-codes-threat-citizen-liberty-justice-guise-decolonisation-project-9418768/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 10:30:10 +0000
+### [How MSMEs can benefit by adopting sustainable practices](https://indianexpress.com/article/opinion/columns/msmes-benefit-adopting-sustainable-practices-9418420/)
+
+The article discusses the significance of Micro-, Small and Medium-Sized Enterprises (MSMEs), particularly in India, emphasizing their economic contributions and challenges. MSMEs constitute a significant portion of India's GDP and employment, with notable roles in manufacturing output and exports. Despite growth, the sector faces obstacles like financial constraints, regulatory complexities, and environmental impacts such as carbon emissions. The article advocates for MSMEs to adopt sustainable practices outlined in the ESG framework and NGRBC guidelines to enhance competitiveness, reduce costs, and improve environmental and social impacts. Strategies proposed include awareness-building, incentives for sustainability adoption, collaboration within supply chains, and leveraging sustainability for competitive advantage.
+
+Thu, 27 Jun 2024 08:38:05 +0000
+### [Muchkund Dubey: Nehruvian diplomat, champion of right to education](https://indianexpress.com/article/opinion/columns/muchkund-dubey-nehruvian-diplomat-9418205/)
+
+Muchkund Dubey, former foreign secretary and president of the Council for Social Development, passed away in New Delhi at the age of 90. Known for his distinguished diplomatic career and commitment to social development, education, and justice, Dubey served as India's foreign secretary during a politically tumultuous period and continued his contributions through academia and public service after retirement. He advocated passionately for quality education as a fundamental right and remained dedicated to his principles until his last days. Dubey's legacy as a principled intellectual and advocate for equity and integrity will be deeply remembered and missed.
+
+Thu, 27 Jun 2024 05:51:28 +0000
+### [The importance of Om Birla: Why the office of the Speaker matters](https://indianexpress.com/article/opinion/columns/importance-om-birla-speaker-parliament-9417894/)
+
+The article discusses the recent election of Om Birla as Speaker of the 18th Lok Sabha through a voice vote, highlighting the constitutional and historical significance of the Speaker's role. It explains how the Speaker, traditionally chosen by consensus to ensure impartiality and fairness, wields significant powers such as certifying money bills and adjudicating on parliamentary matters. The role originated from 13th-century England as a protector of parliamentary rights, exemplified by instances of defiance against royal interference. The article emphasizes the crucial need for the Speaker to maintain impartiality and fairness in managing the diverse dynamics of the Lok Sabha, amid challenges posed by a large opposition presence.
+
+Thu, 27 Jun 2024 02:26:23 +0000
+### [India as third-largest economy: It’s quality of jobs that will determine quality of life](https://indianexpress.com/article/opinion/columns/india-as-third-largest-economy-its-quality-of-jobs-that-will-determine-quality-of-life-9417384/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 02:16:58 +0000
+### [Underdogs at T20 World Cup, European Football Championships: Small and competitive](https://indianexpress.com/article/opinion/editorials/underdogs-at-t20-world-cup-european-football-championships-small-and-competitive-9417372/)
+
+In its 30 years since independence, Georgia struggled with 14 failed attempts to qualify for major football tournaments until finally making it to this summer's Euros. Slovenia also qualified for the first time in 24 years, while Austria, despite a historic third-place finish in 1954, had little recent success. Despite low expectations, these underdog teams provided unexpected entertainment during the group stage, showcasing that the expanded 24-team format of the Euros can still deliver quality football moments. Teams like Georgia, Albania, and Austria have defied expectations, highlighting that in sports, quantity of teams can enhance rather than diminish the tournament's appeal.
+
+Thu, 27 Jun 2024 02:16:55 +0000
+### [Moody’s warning and why India must pay heed](https://indianexpress.com/article/opinion/editorials/moodys-warning-and-why-india-must-pay-heed-9417371/)
+
+The article highlights India's growing water crises and its potential impact on the country's economic stability. It emphasizes that water scarcity exacerbated by climate change could weaken India's sovereign credit strength, despite its ambitions to become the world's third-largest economy. The article points out issues such as dwindling water supply affecting agriculture and industry, potentially leading to higher food prices and reduced incomes. It criticizes India's historical approach of focusing on supply-side solutions, leading to overuse of groundwater and insufficient water pricing mechanisms. The piece calls for urgent policy innovations to ensure sustainable water management, especially with urbanization and industrial growth intensifying water demand in the coming decades.
+
+Thu, 27 Jun 2024 02:16:20 +0000
+### [June 27, 1984, Forty Years Ago: Vajpayee attacks Congress](https://indianexpress.com/article/opinion/40-years-ago/june-27-1984-forty-years-ago-vajpayee-attacks-congress-9417330/)
+
+Article found but Couldn't summarize
+
+Thu, 27 Jun 2024 02:15:51 +0000
+### [Express View on Emergency and Parliament: Never Again](https://indianexpress.com/article/opinion/editorials/express-view-on-emergency-and-parliament-never-again-9417370/)
+
+The article discusses the significance of the Emergency period in India's history, highlighting its impact on democracy. It critiques the authoritarian measures under Indira Gandhi's rule from 1975 to 1977, such as the suspension of rights, opposition repression, press censorship, and constitutional amendments. Speaker Om Birla recently referenced this period and emphasized the importance of upholding democratic principles, cautioning against concentration of power and the erosion of constitutional integrity. The article calls for both the ruling BJP and revitalized Congress to acknowledge these historical lessons to safeguard democratic values, stressing the need for accountability and opposition rights in Parliament.
+
+Thu, 27 Jun 2024 02:15:16 +0000
+### [The 18th Lok Sabha is not just 543 MPs. It’s also we, the people](https://indianexpress.com/article/opinion/columns/the-18th-lok-sabha-is-not-just-543-mps-its-also-we-the-people-9417329/)
+
+The article emphasizes the responsibilities of newly elected MPs in India's 18th Lok Sabha. It urges MPs to move beyond election rivalry, listen to all constituents regardless of their vote, uphold promises with honesty and care, respect the Constitution as a unifying document, and foster empathy and respectful communication in parliamentary debates. It stresses that MPs represent all citizens, not just those who voted for them, and highlights the importance of genuine listening in democracy. Overall, it calls for MPs to embody goodness and recognize the human dimensions of their roles in serving the nation.
+
+Thu, 27 Jun 2024 02:15:12 +0000
+### [50 years after the 1975 emergency, lessons Indians have not forgotten](https://indianexpress.com/article/opinion/columns/50-years-after-the-1975-emergency-lessons-indians-have-not-forgotten-9417381/)
+
+The article reflects on the imposition of Emergency in India in 1975, highlighting it as a dark episode in democratic history. It discusses how political insecurity led to its proclamation, despite minimal genuine internal disturbance. Lessons emphasize the dangers of unchecked power, disrespect for democratic norms, and the importance of upholding constitutional rights. The period saw widespread curtailment of freedoms, including media suppression and mass detentions. Ultimately lifted in 1977, the Emergency spurred a democratic resurgence and underscored the vital role of citizen vigilance in safeguarding liberties.
+
+Thu, 27 Jun 2024 02:14:40 +0000
+### [Remembering C V Chandrasekhar: A dancer’s dancer](https://indianexpress.com/article/opinion/columns/remembering-c-v-chandrasekhar-a-dancers-dancer-9417386/)
+
+Professor C V Chandrasekhar, known affectionately as Chandru Anna, was a stalwart in the world of Bharatanatyam. Trained in the Pandanallur style at Kalakshetra under Rukmini Devi, he later became a distinguished faculty member at Banaras Hindu University and dean at M S University, Baroda. Chandrasekhar's artistry, marked by a robust musical foundation and impeccable technique, earned him accolades including the Sangeet Natak Akademi Award and the Padma Bhushan. Known for his expressive abhinaya and sustained araimandi posture even into his later years, he exemplified a restrained aesthetic amid contemporary flamboyance in dance. His legacy is celebrated for its profound impact on classical Indian dance, embodying the essence of divine creation through movement.
+
+Wed, 26 Jun 2024 14:45:12 +0000
+### [What the 2024 elections showed about the limits of Hindutva](https://indianexpress.com/article/opinion/columns/2024-elections-showed-limits-hindutva-9417028/)
+
+The article discusses the BJP's recent electoral performance and the role of Hindutva ideology in Indian politics. Despite losing some key constituencies, including symbolic seats like Faizabad (Ayodhya) and seeing a decline in vote share in others, the BJP's use of radical Hindutva as a political strategy is questioned. The article distinguishes between two meanings of Hindutva: as a political narrative emphasizing cultural nationalism, and as a cultural assertion of Hindu identity. It highlights how the BJP's reliance on a divisive form of Hindutva may have contributed to its electoral setbacks, as opposition parties successfully shifted the discourse to issues of social justice and economic inequality. While the BJP's electoral success under PM Modi indicates some continuing appeal, the article concludes that the party's failure to adapt its Hindutva strategy to broader societal changes suggests its diminishing influence on political discourse.
+
+Wed, 26 Jun 2024 09:02:59 +0000
+### [Tamil Nadu hooch tragedy points to the need for a public health-centred approach to alcohol](https://indianexpress.com/article/opinion/columns/tamil-nadu-hooch-tragedy-points-to-the-need-for-a-public-health-centred-approach-to-alcohol-9416164/)
+
+The article discusses India's persistent issues with tragedies like road accidents and hooch-related deaths, attributing them to ineffective law enforcement and conflicting attitudes towards alcohol consumption. It traces India's historical relationship with alcohol from Vedic times to British colonial influence, leading to a complex modern policy landscape ranging from prohibition in some states to liberalization in others. The piece advocates for a balanced national consensus on alcohol policy, citing public health considerations and the need to learn from global experiences. It calls for revisiting policies to include evidence-based interventions and stricter enforcement to address related social harms.
+
+Wed, 26 Jun 2024 07:25:54 +0000
+### [Overworked, understaffed system will struggle to implement new criminal laws](https://indianexpress.com/article/opinion/columns/new-criminal-law-nda-9415938/)
+
+The article discusses the impending enforcement of new criminal laws in India, effective July 1. Known as the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagrik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA), these laws introduce significant changes including new crimes, enhanced punishments, and modernized procedural frameworks. However, concerns are raised about the readiness of the criminal justice system to implement these reforms, citing challenges such as inadequate training facilities for police and judicial personnel, understaffing in prisons, and judicial backlog. The article emphasizes the need for extensive training and modernization to effectively implement and adapt to these new laws.
+
+Wed, 26 Jun 2024 02:30:37 +0000
+### [June 26, 1984, Forty Years Ago: Extremist killed, more arms seized from Golden Temple](https://indianexpress.com/article/opinion/40-years-ago/june-26-1984-forty-years-ago-extremist-killed-more-arms-seized-from-golden-temple-9415025/)
+
+Five individuals, including a four-month-old child, were tragically killed in a terrorist attack in Punjab on June 25. The incident, which occurred in the Jhabal area of Amritsar, involved an encounter where one extremist was also killed by security forces. Additional arms were discovered during operations at the Golden Temple complex. In response to escalating tensions, night curfew has been enforced in parts of Hubli, Karnataka, with police deploying to maintain order. Meanwhile, Assam witnessed disruptions due to a state-wide bandh over issues related to foreign nationals.
+
+Wed, 26 Jun 2024 02:23:13 +0000
+### [Why Julian Assange’s release is not a straightforward happy ending](https://indianexpress.com/article/opinion/editorials/why-julian-assanges-release-is-not-a-straightforward-happy-ending-9415019/)
+
+The article discusses Julian Assange, highlighting his role as a prominent whistleblower through WikiLeaks, which exposed sensitive information about government activities. Assange faced legal challenges, including charges of espionage in the US and accusations of sexual assault in Sweden, ultimately seeking asylum in the Ecuadorian embassy in London. Recently, Assange has reportedly agreed to plead guilty to one count of espionage in the US, potentially leading to his release and return to Australia. The article reflects on the broader implications of Assange's actions for free speech and government transparency, noting concerns about government crackdowns on whistleblowers like him.
+
+Wed, 26 Jun 2024 02:10:45 +0000
+### [Hamare Baarah and the myth of India’s Muslim population ‘explosion’](https://indianexpress.com/article/opinion/columns/hamare-baarah-and-the-myth-of-indias-muslim-population-explosion-9414996/)
+
+The article discusses the recent legal and societal developments surrounding the film "Hamare Baarah" in India, which explores themes linked to population and community dynamics, particularly targeting Muslims. It highlights how demographic data, such as from the National Family Health Survey and other sources, contradicts myths of Muslim population growth being a threat. The piece emphasizes socio-economic factors, education, and healthcare access as critical influencers of fertility rates across all religious communities. It critiques the use of demographic rhetoric to marginalize and misinform, advocating instead for a focus on reproductive rights and individual choices.
+
+Wed, 26 Jun 2024 02:03:08 +0000
+### [Does India really need stocking limits on wheat?](https://indianexpress.com/article/opinion/editorials/does-india-really-need-stocking-limits-on-wheat-9415018/)
+
+The Union Agriculture Ministry reports a record-high wheat harvest in India at 112.93 million tonnes, surpassing last year's yield. Despite this, the Modi government has imposed stock limits on wheat effective from June 24, 2024, until March 31, 2025, citing food security and preventing hoarding. These limits restrict wholesalers, retailers, and processors from exceeding specified stock quantities. The decision follows concerns over high retail cereal inflation, low government wheat stocks, and uncertainties due to the current monsoon season. Critics question these measures against the backdrop of bumper crops and advocate for reconsidering wheat import duties to stabilize supply.
+
+Wed, 26 Jun 2024 02:00:41 +0000
+### [What government must understand: In Andamans, it can protect national security and ecology](https://indianexpress.com/article/opinion/columns/what-government-must-understand-in-andamans-it-can-protect-national-security-and-ecology-9414995/)
+
+The article discusses India's historical neglect and recent strategic focus on the Andaman & Nicobar Islands (A&N). Initially overlooked due to attention on the western Indian Ocean, the islands gained importance with the Look East and Act East policies, emphasizing their crucial role in regional security and economic growth. The establishment of the A&N Command in 2001 marked a significant step towards fortifying these islands, crucial for India's maritime defense and control of the Bay of Bengal. Recently, plans for the "Holistic Development of Great Nicobar Island" have sparked controversy over environmental and indigenous rights concerns, despite economic potential and strategic benefits cited for the project.
+
+Wed, 26 Jun 2024 01:53:53 +0000
+### [GI tag for Dodol: Moving beyond the authenticity debate](https://indianexpress.com/article/opinion/editorials/gi-tag-for-dodol-moving-beyond-the-authenticity-debate-9415024/)
+
+The article discusses Dodol, a lesser-known sweet from Goa, which is seeking a Geographical Indication (GI) tag to protect its cultural identity and standardize its recipe. The All Goa Bakers and Confectioners Association has applied for the GI tag, aiming to preserve Dodol's authenticity. However, the article also raises questions about the concept of authenticity in food, given Dodol's widespread presence across South and Southeast Asia, illustrating how food evolves across cultures. It argues that while GI tags are beneficial for identifying food origins, they may overlook the cultural richness derived from cultural interactions.
+
+Wed, 26 Jun 2024 01:50:40 +0000
+### [Forget metros and highways, India needs to revive manufacturing](https://indianexpress.com/article/opinion/columns/forget-metros-and-highways-india-needs-to-revive-manufacturing-9415061/)
+
+The article examines India's stagnant manufacturing sector, noting its declining contribution to GDP despite policy efforts like Make in India and Ease of Doing Business reforms. These initiatives aimed to attract investment and boost industrial growth but failed to deliver significant results. Challenges such as regulatory complexities, ineffective incentives, and reliance on imports, particularly from China, have exacerbated the sector's woes. The lack of substantial industrial investment and low domestic value addition underscore the urgent need for a revamped industrial policy focused on enhancing productive investments and export competitiveness.
+
+Wed, 26 Jun 2024 01:47:52 +0000
+### [The digital revolution that India’s exam system needs](https://indianexpress.com/article/opinion/columns/the-digital-revolution-that-indias-exam-system-needs-9415059/)
+
+The Indian government has swiftly responded to concerns over the integrity of competitive examinations, prompted by incidents like the NEET-PG postponement and allegations of paper leaks. Actions include leadership changes at the National Testing Agency (NTA) and the establishment of expert committees to restore trust. Measures such as a High-Level Experts Committee and involvement of the CBI aim to reform exam processes, enhance security, and enforce stringent penalties for breaches. Future steps advocate advanced security measures like encryption and AI-powered proctoring to safeguard exams. These efforts underscore a commitment to long-term integrity and reliability in India's examination system, crucial for the aspirations of millions of students.
+
+Tue, 25 Jun 2024 12:32:09 +0000
+### [Julian Assange symbolises an idea — the freedom of information](https://indianexpress.com/article/opinion/columns/julian-assange-information-freedom-9414235/)
+
+Julian Assange's release highlights fundamental issues regarding freedom of information and liberty. Assange, founder of WikiLeaks, exposed US military secrets, setting off a legal battle. His case represents the tension between national sovereignty and the extraterritorial nature of the internet, where information flows across borders.
+
+Assange embodies the debate over access to knowledge and government transparency. WikiLeaks' whistleblowing exposed human rights violations and challenged the power of militarized states. His arrest and imprisonment served as a warning against dissent, particularly among young activists.
+
+Despite personal opinions, Assange represents the global struggle against information authoritarianism. His activism has inspired generations of internet activists who continue to fight for transparency. By advocating for fundamental freedom of information, he has highlighted the crucial role of whistleblowers and journalists in creating open and equitable societies.
+
+Tue, 25 Jun 2024 10:20:55 +0000
+### [C Raja Mohan writes: In great power rivalry across Eurasia, an opening for India](https://indianexpress.com/article/opinion/columns/power-rivalry-across-eurasia-opening-for-india-9413970/)
+
+Asia's influence in European geopolitics has surged due to its ability to contribute to and shape European affairs, including the Ukraine conflict. Russia and North Korea have strengthened ties, while Vietnam has balanced strategic relations with China, the US, and Russia. This has created challenges for the US, which is balancing support for Ukraine with its focus on China as the primary threat. Western nations recognize the need for European responsibility in its own defense, while Asian powers like India are eager to participate in Eurasian security. The increasing interconnections between Europe and Asia present opportunities for middle powers to enhance their influence and modernize their defense capabilities.
+
+Tue, 25 Jun 2024 08:45:02 +0000
+### [A response to the biased views on Modi and Indian democracy](https://indianexpress.com/article/opinion/a-response-to-the-biased-views-on-modi-and-indian-democracy-9413792/)
+
+The author believes that democracy triumphed in the 2024 elections. They assert that India's economy has strengthened under Prime Minister Modi's leadership, citing projections of 6.9% growth in 2024. The author highlights infrastructure improvements, financial inclusion initiatives, and poverty reduction programs as evidence of progress. They dismiss reports of rising income disparity as politically biased and inaccurate. They criticize Rahul Gandhi's policies as divisive and question his credentials as a leader. The author concludes by emphasizing India's potential for growth and development.
+
+Tue, 25 Jun 2024 04:43:53 +0000
+### [Caste, inequality and domestic help: We are not so different from the Hindujas](https://indianexpress.com/article/opinion/columns/caste-inequality-domestic-help-hindujas-uk-case-9413275/)
+
+Article found but Couldn't summarize
+
+Tue, 25 Jun 2024 02:33:42 +0000
+### [The new government’s foreign policy challenge: Economic with the political](https://indianexpress.com/article/opinion/columns/india-the-new-governments-foreign-policy-challenge-economic-with-the-political-9412593/)
+
+Under India's new government, Foreign Minister S Jaishankar aims to make India a "leading power" by fostering economic growth, entering global trade regimes, and utilizing its digital advancements. Continuity in foreign policy will include strengthening ties in South Asia, focusing on the Global South, and maintaining relationships with great powers. However, India will shift its global conversation to focus on economic initiatives, particularly through the "Make in India" program, positioning itself as an alternative to China and expanding investment opportunities. India's position as a middle power, along with its engagement with emerging peers and participation in international groupings, reflects the shifting multipolar world order, with India playing a central role in promoting economic progress and global stability.
+
+Tue, 25 Jun 2024 02:31:38 +0000
+### [S Y Quraishi writes: Why India needs one election, one phase](https://indianexpress.com/article/opinion/columns/one-election-one-phase-9412592/)
+
+The article by former Chief Election Commissioner of India, SY Quraishi, discusses the increasing criticism of multi-phase elections in India. While multi-phase elections were initially introduced to prevent violence and ensure the safety of voters and polling staff, the current situation has changed with the rise of acrimonious electoral competition and the explosion of social media. The prolonged election periods have led to the spread of fake news, disinformation, and hate speech, often resulting in harmful consequences. Quraishi argues that the benefits of multi-phase elections no longer outweigh the drawbacks and suggests that a single-phase election would be more effective in ensuring peaceful elections. He also highlights the existing laws and provisions that can be implemented to control hate speech, cyber crimes, and online abuse during elections. The article was published in The Print and can be found at this link: <https://theprint.in/opinion/why-multi-phase-elections-are-no-longer-needed-in-india/1389935/>.
+
+The second part of the text provides a summary of a cricket match between India and Australia, in which India won the game by 24 runs, pushing Australia to the brink of elimination. Jasprit Bumrah's dismissal of Travis Head was key to India's victory, while Rohit Sharma's incredible 92 off 41 balls set up a target of 206. Despite Head's impressive performance, India's bowlers, including Axar Patel and Kuldeep Yadav, were able to keep Australia at bay. The match report is from the Indian Express and can be found at this link: <https://indianexpress.com/article/sports/cricket/india-vs-australia-2nd-t20i-bangalore-jasprit-bumrah-rohit-sharma-8400238/>.
+
+Tue, 25 Jun 2024 02:30:25 +0000
+### [Tamil Nadu hooch deaths: Compassion as cure](https://indianexpress.com/article/opinion/editorials/blame-and-stigma-tamil-nadu-hooch-deaths-9412555/)
+
+The tragic deaths from illicit liquor consumption in Tamil Nadu highlight the need for stricter regulation and enforcement. Methanol poisoning, the cause of both the Kallakurichi and last year's Villupuram incidents, points to a serious oversight by the state government. The incident has raised questions about how methanol, a controlled substance, is being used in illicit liquor production. While total prohibition is not the solution, greater outreach to raise awareness about the dangers of consuming spurious liquor and de-addiction programs are crucial. Additionally, the government should actively participate in these efforts and avoid stigmatizing victims.
+
+Tue, 25 Jun 2024 02:18:37 +0000
+### [June 25, 1984, Forty Years Ago: Army in Bombay](https://indianexpress.com/article/opinion/40-years-ago/june-25-1984-forty-years-ago-army-in-bombay-9412589/)
+
+- Shiv Sena leader Madhukar Sarpotdar was arrested under the NSA for an inflammatory speech, prompting protests and the deployment of the army in Bombay.
+
+- Akali Dal and SPGC leaders are holding discussions at Shaheedon ka Gurudwara to plan their future roadmap.
+
+- Iraq attacked four naval bases of Iran in the Gulf, escalating tensions between the warring nations.
+
+- A temple priest was murdered and a suspected extremist was killed during clashes in Hoshiarpur and Tarn Taran districts of Punjab.
+
+Tue, 25 Jun 2024 02:15:26 +0000
+### [How squatters brought cinema back to life in Paris](https://indianexpress.com/article/opinion/editorials/the-key-is-in-paris-9412577/)
+
+Le Clef, a former art house cinema in Paris, has been revived by a group of young filmmakers who occupied it in 2019. Now owned by the squatters, Le Clef serves as an open mic night for filmmakers, offering a place to experiment and showcase their work without commercial pressures. With the support of filmmakers like Quentin Tarantino and Martin Scorsese, the theater is being refurbished and will operate on a "pay what you can" basis. Le Clef represents a rare collective victory in an era of profit-driven filmmaking.
+
+Tue, 25 Jun 2024 02:02:21 +0000
+### [GST’s council meet and a tax less taxing](https://indianexpress.com/article/opinion/editorials/a-tax-less-taxing-gst-council-meet-9412554/)
+
+Article found but Couldn't summarize
+
+Mon, 24 Jun 2024 12:44:46 +0000
+### [Queer rights beyond marriage equality: What the new Parliament needs to do](https://indianexpress.com/article/opinion/columns/queer-rights-beyond-marriage-equality-new-parliament-9412134/)
+
+The article discusses the overshadowing of significant events by sensationalism in media, highlighting a recent Supreme Court ruling in India regarding queer relationships. It emphasizes the court's recognition of chosen families as integral for LGBTQ+ individuals, advocating for legal frameworks that respect their rights beyond traditional definitions of family. The piece calls for socio-economic rights for the queer community and legislative reforms to recognize diverse relationships, urging India to lead inclusively rather than mimic Western norms. It concludes with expectations from a new government committee tasked with addressing queer issues.
+
+Mon, 24 Jun 2024 10:30:03 +0000
+### [Can women drive SUVs well? Why some jokes aren’t funny](https://indianexpress.com/article/opinion/columns/can-women-drive-suvs-well-why-some-jokes-arent-funny-9411653/)
+
+Article found but Couldn't summarize
+
+Mon, 24 Jun 2024 07:59:17 +0000
+### [‘Return of the Jungle’: An animation film that connects to childhood and has universal appeal](https://indianexpress.com/article/opinion/columns/return-of-the-jungle-animation-film-connects-childhood-has-universal-appeal-9411481/)
+
+"Return of the Jungle," an animated feature film, has been hailed as a significant achievement in Indian animation. Directed by Vaibhav Kumaresh, the film chronicles the adventures of a group of children who navigate friendships, challenges, and cultural references.
+
+Despite limited funding and support, the film's dedicated animators worked over 16 years to bring it to life. Its vibrant characters, relatable storylines, and exceptional voice acting resonated with audiences at a recent screening.
+
+The film features three distinct worlds: the city, the forest, and the grandfather's garden home, which serves as a bridge between the two. Its narrative incorporates Panchatantra stories and seamlessly transforms anthropomorphic characters into intricate human portrayals.
+
+The music, composed by three different artists, complements the film's diverse elements and adds energy. Cricket and Hindi cinema serve as cultural touchstones, enhancing the film's appeal. The climax echoes Bollywood sequences, promoting unity and resolution.
+
+"Return of the Jungle" is a groundbreaking children's film that showcases the potential of Indian animation. Its success highlights the need for increased funding and opportunities to develop indigenous content that reflects the country's rich culture and storytelling traditions.
+
+Mon, 24 Jun 2024 07:11:29 +0000
+### [Pratap Bhanu Mehta writes: Collapse of trust in examination system amounts to a collapse in trust in system as a whole](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-collapse-of-trust-in-exam-system-amounts-to-a-collapse-in-the-system-as-a-whole-9411386/)
+
+The NEET exam scandal exposed a systemic failure, with paper leaks occurring across multiple states. The scale of the breach suggests widespread corruption and raises concerns about the fairness of exams and the legitimacy of the Indian state.
+
+This incident highlights the importance of exams as a means of procedural legitimation in India, where they provide opportunities for social mobility and fulfill filial obligations. However, excessive centralization of exams has led to a lack of trust in state boards and universities.
+
+The scandal raises questions about the necessity of national exams and the role of vested interests in the education system. It also exposes the abdication of control by academic communities and the government's reliance on a centralized bureaucratic agency for exams. The trust in this agency has now been shattered, leaving behind a devastated system and countless affected students.
+
+Mon, 24 Jun 2024 02:45:58 +0000
+### [India-Bangladesh ties: A shared vision](https://indianexpress.com/article/opinion/editorials/india-bangladesh-ties-a-shared-vision-9410544/)
+
+Prime Ministers Sheikh Hasina and Narendra Modi have fostered a strong partnership between India and Bangladesh. Their recent summit focused on advancing connectivity, including visa and trade facilitation, energy cooperation, and digital infrastructure. Bangladesh has become India's significant trade partner, and negotiations on a comprehensive economic partnership agreement are underway. The leaders also outlined a modernized defense partnership, which will include defense industrial collaboration and support for Bangladesh's armed forces modernization. This collaboration aims to enhance regional stability and promote the interests of the Global South. The summit highlighted the progress made in overcoming historical challenges and outlined a vision for a transformative relationship between India and Bangladesh.
+
+Mon, 24 Jun 2024 02:45:50 +0000
+### [Ashok Gulati writes: How Shivraj Singh Chouhan can transform Indian agriculture](https://indianexpress.com/article/opinion/columns/ashok-gulati-writes-how-shivraj-singh-chouhan-can-transform-indian-agriculture-9410569/)
+
+Shivraj Singh Chouhan's appointment as Minister of Agriculture and Farmers Welfare and Rural Development is seen as a positive step, given his experience as Chief Minister of Madhya Pradesh, where he oversaw high economic growth in the agricultural sector.
+
+To boost nationwide agricultural growth, Chouhan is urged to focus on:
+
+* Recognizing agriculture as a comprehensive food system, investing in climate-smart practices, and increasing agri-R&D expenditure.
+* Ensuring farmers' access to technology and markets, while advocating for fair prices for their produce.
+* Establishing value chains for high-value agricultural products with private and cooperative players.
+* Transferring fertilizer subsidy to the Ministry of Agriculture and Farmers Welfare to address imbalances in nutrient use and environmental damage.
+* Implementing a special package for Punjab and Haryana to mitigate ecological concerns.
+
+Mon, 24 Jun 2024 02:45:27 +0000
+### [Suhas Palshikar writes: Confrontation, not cooperation, will continue to define politics](https://indianexpress.com/article/opinion/columns/suhas-palshikar-writes-confrontation-not-cooperation-will-continue-to-define-politics-9410511/)
+
+Despite a new Lok Sabha composition, key political dynamics remain unchanged, with the BJP seeking hegemonic power and the Opposition lacking a cohesive strategy.
+
+Formal cooperation and bonhomie will coexist with substantive policy confrontations, as the BJP seeks to delegitimize the Opposition and maintain its majoritarian politics.
+
+Major confrontations are anticipated between the government and various segments of the population, including over unemployment, regionalism, caste, and Muslim marginalization.
+
+The BJP's over-reading of its electoral victories and its mission to change India will likely lead to further confrontations and hamper productivity in politics.
+
+Mon, 24 Jun 2024 02:01:36 +0000
+### [Despite a rocky start, with the monsoon comes a season of chances](https://indianexpress.com/article/opinion/editorials/despite-a-rocky-start-with-the-monsoon-comes-a-season-of-chances-9410480/)
+
+The southwest monsoon has made a slow start, with only 3% surplus rainfall overall as of June 10. Southern India has received a surplus, but central and northwest India have significant deficits. The Met department has downgraded its rainfall forecast for June to "below normal."
+
+This is concerning for kharif crop plantings, which are yet to fully commence. The lack of rainfall has also contributed to elevated retail food inflation.
+
+Despite the slow start, global weather models indicate that La Niña conditions may develop during the peak kharif crop sowing months of July and August, which could bring copious rains.
+
+The government has taken steps such as import duty reductions on pulses and edible oils and MSP hikes for kharif pulses and oilseeds. However, analysts suggest that a long-term plan for the agriculture sector is also necessary.
+
+Mon, 24 Jun 2024 01:43:09 +0000
+### [June 24, 1984, Forty Years Ago: PM In Golden Temple](https://indianexpress.com/article/opinion/40-years-ago/june-24-1984-forty-years-ago-pm-in-golden-temple-9410545/)
+
+Article found but Couldn't summarize
+
+Sun, 23 Jun 2024 14:52:09 +0000
+### [How the third innings of Modi-Hasina partnership can benefit India and Bangladesh](https://indianexpress.com/article/opinion/columns/india-bangladesh-relations-modi-hasina-9410281/)
+
+Indian Prime Minister Modi and Bangladesh Prime Minister Sheikh Hasina have formed a strong partnership, with the two countries signing 10 MoUs to enhance cooperation in areas such as digital partnership, energy, infrastructure, and security. The economic relationship has grown, with trade reaching $15.9 billion in 2023. However, challenges remain, such as the Teesta water sharing dispute and border killings. The article emphasizes the potential positive impact of the Indo-Bangla relationship on the broader South Asian region and highlights the need for regional cooperation and collaboration.
+
+Sun, 23 Jun 2024 14:24:38 +0000
+### [From the Opinions Editor: Examination irregularities are symptoms of gap between aspirations and opportunities](https://indianexpress.com/article/opinion/columns/examination-irregularities-aspirations-opportunities-gap-9410291/)
+
+The recent cancellation and postponement of exams, along with the removal of the head of the entrance test agency, has heightened student anxiety due to the already flawed entrance examination system. This system has long been plagued by controversies, leading to the government appointing a committee to address the issues.
+
+The hypercompetitiveness of exams is exacerbated by the scarcity of opportunities for an expanding aspirational class, with millions vying for limited seats. The societal bias towards medical and engineering degrees, as well as government jobs, further contributes to the problem.
+
+The preference for these fields reflects an inadequate range of opportunities, as the number of government jobs has remained stagnant and affordable education has not kept pace with demand. This gap benefits the job and examination mafia, while disadvantaging marginalized groups.
+
+India's demographic dividend can only be realized by creating more jobs and education opportunities, enhancing skills, and addressing historical inequalities. Incremental measures are insufficient, and the government must listen to diverse voices, including the Opposition.
+
+Sun, 23 Jun 2024 10:36:00 +0000
+### [Why India needs an internal security plan for the next five years](https://indianexpress.com/article/opinion/columns/india-internal-security-plan-next-five-years-9409874/)
+
+To improve internal security, the government should:
+
+* Create a national security doctrine to guide internal and external security measures.
+* Establish a separate Ministry of Internal Security to streamline internal security operations.
+* Restore statehood and hold elections in Jammu and Kashmir to address ongoing tensions.
+* Enhance security in the Northeast, focusing on implementing agreements and addressing ethnic conflicts.
+* Offer an olive branch to Naxal rebels, declare a ceasefire, and work towards mainstreaming them.
+* Restructure the Intelligence Bureau and CBI, providing statutory basis and strengthening legal mandates.
+* Transform the police into a "People's Police" by focusing on public service and accountability.
+* Address internal problems within Central Armed Police Forces by appointing a high-powered commission.
+* Leverage technology to enhance police efficiency by setting up a high-powered technology mission.
+
+Sun, 23 Jun 2024 08:30:37 +0000
+### [First, understand that this is no ordinary heatwave](https://indianexpress.com/article/opinion/columns/first-understand-that-this-is-no-ordinary-heatwave-9409762/)
+
+Extreme heatwaves are occurring globally, and the number of hot days and nights is projected to rise. However, accurate data on heat exposure is lacking, especially in developing countries like India, where millions of workers experience vastly different temperatures.
+
+Current weather data cannot account for the diverse experiences of people in different environments, from construction sites to indoor workspaces. This lack of data hinders the development of effective interventions and policies for vulnerable populations.
+
+To address this issue, it is crucial to:
+
+* Identify the most at-risk trades and individuals in both the formal and informal economy.
+* Localize climatic data to understand the specific heat exposure experienced by different communities.
+* Test and validate adaptation interventions before scaling them, ensuring they are evidence-based and effective.
+
+By empowering local communities with accurate data and knowledge, we can empower them to prepare for and adapt to the challenges of climate change.
+
+Sun, 23 Jun 2024 07:10:05 +0000
+### [To escape annual cycle of leaks and stress, India needs a new exam design](https://indianexpress.com/article/opinion/columns/escape-annual-cycle-leaks-stress-india-exam-design-9409735/)
+
+The article by Suresh Prabhu and Shobhit Mathur discusses the need to reform India's competitive examination system. It suggests a two-phase, on-demand, computer-based admission test to replace the current high-pressure, single-day exams. Drawing from the GRE model, the authors propose a system where a large pool of questions is created by subject matter experts, allowing for tests to be administered without repetition and reducing the possibility of paper leaks. The first phase would be an initial screening available year-round, with tests randomly generated from the question pool. This would alleviate logistical issues and reduce the influence of coaching centers. The top scorers would then proceed to a more secure second phase, conducted annually with AI-based proctoring to prevent fraud. This new model aims to decrease student stress, reduce the stigma of failure, and save time and money, thereby optimizing India's talent pipeline and enhancing trust in the examination system. The authors argue that such a reform is imperative for India, given its large youth demographic and aspirations to become a global power.
+
+Sun, 23 Jun 2024 01:56:07 +0000
+### [Finding Jane Fonda, under water](https://indianexpress.com/article/opinion/columns/finding-jane-fonda-under-water-9409016/)
+
+Article found but Couldn't summarize
+
+Sun, 23 Jun 2024 01:54:22 +0000
+### [History Headline: The story of Nalanda, in the words of Chinese pilgrims](https://indianexpress.com/article/opinion/columns/nalanda-chinese-buddhist-monastery-mahavira-history-9409381/)
+
+Once a modest vihara, Nalanda became a renowned mahavihara by the 5th century CE, housing thousands of students and teachers in various fields.
+
+Chinese pilgrim Xuanzang described Nalanda in the 7th century, but scholars recognize his writings include exaggerations. Nonetheless, archaeological excavations have corroborated many of his descriptions, revealing a grand complex with advanced architecture and beautiful gardens.
+
+Yijing's detailed account of монашескую жизнь in Nalanda provides insights into daily rituals and living quarters. Wealthy patrons, including kings, supported the mahavihara, which reached its peak under the patronage of Harshavardhana.
+
+Nalanda's decline resulted from socio-political changes, the rise of competing monasteries, and a shift towards tantric Buddhism. While invasions contributed to its decay, the ultimate原因 was the waning of Buddhism in the region.
+
+Sun, 23 Jun 2024 01:44:58 +0000
+### [Tavleen Singh writes: Let higher education go](https://indianexpress.com/article/opinion/columns/higher-education-reforms-government-pm-modi-ugc-9409014/)
+
+The author expresses regret for not addressing the recent revelations of corruption in higher education in India. They highlight the need for reforms, particularly in the liberation of colleges and universities from political and official interference. They point to the positive example of the United States, where government non-interference has led to world-class universities.
+
+The author also discusses the political meddling and nepotism that plague Indian higher education, lamenting the lack of autonomy granted to institutions. They criticize Rahul Gandhi's accusations of RSS interference while acknowledging the previous influence of the Leftist lobby.
+
+Despite the Prime Minister's stated mission to restore India's status as a center of learning, the author doubts this can be achieved without giving scholars and researchers complete freedom. They suggest that the recent corruption scandals in the National Testing Agency could be a catalyst for granting autonomy to institutions of higher learning.
+
+The author concludes by highlighting the poor state of rural government schools and questions the government's commitment to improving education for all.
+
+Sun, 23 Jun 2024 01:37:02 +0000
+### [Savarna parties have once again isolated Dalit voices](https://indianexpress.com/article/opinion/columns/savarna-parties-isolated-dalit-voices-ambedkarite-government-9409015/)
+
+The article discusses the role of Dalit-led political parties in the 2024 general elections in India. While some parties like the Viduthalai Chiruthaigal Katchi, Lok Janshakti Party, and Hindustani Awam Morcha (Secular) made gains, others such as the Bahujan Samaj Party (BSP) and Vanchit Bahujan Aghadi (VBA) suffered setbacks. The article suggests that the failure of these parties to convince Muslim and backward class voters, along with their communication styles and working methods, contributed to their defeat. The article also criticizes the Congress and BJP for their fear tactics and agenda to establish a feudal-Brahminical model that leverages the resources of marginalized communities. The author calls for a non-hegemonic force in Dalit politics that can act as a power broker and protect the interests of the community. The article ends with a mention of the deferral of the NEET PG 2024 exam due to concerns about its integrity, which has sparked criticism from candidates and the medical community.
+
+Sun, 23 Jun 2024 01:30:33 +0000
+### [P Chidambaram writes: Opposition and opportunity](https://indianexpress.com/article/opinion/columns/opposition-opportunity-lok-sabha-elections-2024-parliament-democracy-chidambaram-9409026/)
+
+After the 2024 Lok Sabha elections, the Opposition emerged with 236 seats, a formidable presence absent in the previous two terms. The Opposition should prioritize reviving parliamentary traditions by implementing promises outlined in the Congress' Manifesto 2024:
+
+* 100-day sessions for both Houses of Parliament
+* One day per week dedicated to discussing the Opposition's agenda
+* Neutral presiding officers
+
+The Opposition should also focus on economic issues, advocating for job creation and containing inflation, and opposing monopolies and crony capitalism. By presenting alternative policies and setting the narrative, the Opposition parties can strengthen their position and hold the government accountable.
+
+Sat, 22 Jun 2024 13:53:50 +0000
+### [Arundhati Roy, Kashmir and animal cruelty: View from Pakistan](https://indianexpress.com/article/opinion/columns/pakistan-arundhati-roy-kashmir-animal-cruelty-9408750/)
+
+Article found but Couldn't summarize
+
+Sat, 22 Jun 2024 10:30:11 +0000
+### [The moral conundrum after killing a mosquito – and questions about our society and government](https://indianexpress.com/article/opinion/columns/mosquito-killing-moral-conundrum-society-government-questions-9408456/)
+
+The article is a reflection on the ethics of killing a mosquito and the broader implications of such an action. The author uses this simple act to explore questions of power, morality, and consequences. They compare the individual moral compass to societal rules of conduct, or ethics, and bring up the concept of utilitarianism, which prioritizes the greatest good for the greatest number of people. The author also discusses the role of power in determining what is considered ethical and how it can lead to violence and injustice. They connect this to larger societal issues, such as the treatment of marginalized communities and the environment. The article concludes with a call to question underlying values and work towards a social revolution. The content about the Netflix film Maharaj is not related to the main topic and has been omitted from the summary.
+
+Sat, 22 Jun 2024 07:58:23 +0000
+### [Why people need to sleep – and how there is profit in that](https://indianexpress.com/article/opinion/columns/why-people-need-to-sleep-and-how-there-is-profit-in-that-9408316/)
+
+The Indian Olympic Association has appointed sleep expert Dr. Monika Sharma to optimize sleep for the Indian contingent at the Paris Olympics. Sleep deprivation is a common issue among athletes and can hinder recovery and performance. Dr. Sharma's appointment highlights the importance of sleep in achieving athletic success.
+
+However, a lack of awareness about sleep is prevalent among non-cricket-playing Indian athletes, who often prioritize effort and sacrifice over rest and recovery. This is also reflected in society at large, where popular culture glorifies sacrificing sleep for achievement.
+
+Sleep deprivation has detrimental health effects and is linked to various health issues. Despite this, businesses have emerged that sell sleep-related products and services, indicating the growing recognition of sleep as a valuable commodity.
+
+As a nation, it is crucial to ensure an adequate supply of sleep, especially for athletes representing India at the Olympics. Dr. Sharma's expertise can help Indian athletes improve their sleep quality and gain a competitive advantage.
+
+Sat, 22 Jun 2024 06:32:13 +0000
+### [The real scam behind NEET we need to talk about](https://indianexpress.com/article/opinion/columns/neet-real-scam-inadequate-systems-education-youth-9407869/)
+
+Despite the recent focus on alleged corruption in the NEET exam, India faces a larger "scam" of inadequate opportunities for its youth. With over 24 lakh students competing for only 1 lakh seats, the scarcity of opportunities exacerbates the pressure and competition. This issue extends beyond medical education, as it affects various sectors. The government has neglected to address this problem, fostering unrealistic aspirations while simultaneously labeling those who fail as lacking merit. The combination of limited opportunities and a narrow definition of success has fostered discontent and alienation among the youth. India needs a multi-pronged approach involving political action, increased funding for education, and solidarity from the elite to address this systemic issue. Simply canceling exams and prosecuting individuals will not suffice and may further disillusion the youth.
+
+Sat, 22 Jun 2024 02:10:16 +0000
+### [The Dil in Diljit Dosanjh: What we saw on Jimmy Fallon’s show](https://indianexpress.com/article/opinion/columns/the-dil-in-diljit-dosanjh-what-we-saw-on-jimmy-fallons-show-9407500/)
+
+Punjabiyat, a contested concept of Punjabi identity, has evolved into a global phenomenon celebrated by artists like Diljit Dosanjh. Despite facing initial linguistic barriers, Dosanjh's music transcends borders by merging Punjabi lyrics with modern genres like hip-hop. While contemporaries delve into darker themes, Dosanjh's music remains true to traditional Punjabi folklore, evoking themes of love and desire.
+
+Beyond music, Punjabiyat is also celebrated in Dosanjh's film "Amar Singh Chamkila," which explores Sikh identity and controversial aspects of Chamkila's lyrics. Similarly, Sidhu Moose Wala's song "295" resonates with Punjabiyat, addressing social ills and rural struggles.
+
+However, Diljit Dosanjh's identity stands out for its emphasis on Punjabiyat's "softer" aspects, such as language, literature, and tradition. He presents a more playful and palatable representation of Punjab, focusing on its future potential rather than its troubled past.
+
+Sat, 22 Jun 2024 02:00:31 +0000
+### [NCERT textbooks need to keep pace with changing times](https://indianexpress.com/article/opinion/columns/ncert-textbooks-need-to-keep-pace-with-changing-times-9407505/)
+
+School textbooks in India have historically presented biased historical perspectives, often focusing on conflict and division. This approach risks instilling anxiety and prejudices in young children who lack the comprehension skills to navigate complex emotional dilemmas.
+
+Balanced textbook revisions are essential to provide a credible and reliable historical narrative that fosters unity and mutual respect. Such revisions can promote constructive attitudes towards society and encourage students to become responsible and empathetic citizens. Revising textbooks also aligns with the changing educational needs of students, addressing contemporary issues like climate change and digital literacy.
+
+At the university level, students possess the cognitive maturity to engage with complex historical conflicts. Universities should remain centers of academic freedom where students can critically analyze multiple perspectives.
+
+The ultimate goal of textbook revisions is to foster a culture of empathy, curiosity, critical thinking, and ambition among students. By providing access to balanced narratives, textbooks can support students' future development and contribute to building a strong India.
+
+Sat, 22 Jun 2024 01:43:42 +0000
+### [The Opposition cries ‘no mandate’: Modi’s real challenge this term](https://indianexpress.com/article/opinion/columns/the-opposition-cries-no-mandate-modis-real-challenge-this-term-9407508/)
+
+Despite a disappointing election result, the Congress party believes they have a mandate to oppose the BJP-led NDA government. However, statistical data shows that the BJP maintains a significant vote share advantage.
+
+The BJP faces the challenge of a formidable Opposition which believes the NDA has no right to rule, although the BJP has experience managing coalitions.
+
+The new government must prioritize addressing unemployment, especially among youth, by promoting private investment in manufacturing. India needs to enhance education and research infrastructure to keep up with technological advancements.
+
+Despite increased research output, India lags in patent quality and international recognition. China's growing influence and the changing geostrategic landscape pose challenges for India's foreign policy.
+
+These domestic and international challenges, along with an uncompromising Opposition, will test Prime Minister Modi's third term in office.
+
+Sat, 22 Jun 2024 01:35:40 +0000
+### [NCERT textbook changes are framed around limiting knowledge](https://indianexpress.com/article/opinion/columns/ncert-textbook-changes-are-framed-around-limiting-knowledge-9407522/)
+
+School textbooks, particularly those designated by the government, often reflect dominant perspectives and political biases. NCERT, India's textbook framing agency, has been modifying content in the past decade, removing sections on sensitive topics such as the Babri Masjid demolition and the Gujarat riots.
+
+These changes have been justified by NCERT as reducing student burden and promoting well-being. However, critics argue that they limit knowledge and prevent students from understanding important historical events and social issues.
+
+In contrast, textbooks can empower students by providing critical information and encouraging them to question their surroundings. In the US, for example, African-American educators have worked to incorporate the perspectives of marginalized groups into textbooks.
+
+The National Education Policy 2020 aimed to foster critical thinking, but NCERT's edits have instead disconnected the present from the past. By omitting references to key events and societal problems, NCERT is silencing important conversations and potentially contributing to societal divisions.
+
+While revisions are essential in social science education, they should not aim to limit knowledge or erase uncomfortable truths. Textbooks play a crucial role in shaping students' understanding of the world, and it is important to ensure that they provide a comprehensive and accurate account of history and society.
+
+Sat, 22 Jun 2024 01:30:19 +0000
+### [Patna High Court’s quota order should lead to debate on other ways to end inequality](https://indianexpress.com/article/opinion/editorials/patna-high-courts-quota-order-should-lead-to-debate-on-other-ways-to-end-inequality-9407502/)
+
+The Patna High Court has ruled against the Bihar government's plan to increase the reservation cap from 50% to 65%. The court argued that the government relied solely on population data rather than considering their representation in government and education.
+
+The verdict aligns with the judiciary's stance on maintaining the 50% ceiling. However, political parties are pushing for an increase. The Bihar government intends to seek its inclusion in the Ninth Schedule to avoid legal challenges.
+
+Bihar has made progress in economic and socio-economic indicators, but remains among the poorest states with high poverty and fertility rates. The state needs to address agriculture dependency and skill deficits. The High Court's verdict should prompt discussions on broader strategies to tackle inequality.
+
+Sat, 22 Jun 2024 01:20:27 +0000
+### [With discovery of a ‘lost’ record, Nusrat Fateh Ali Khan is back](https://indianexpress.com/article/opinion/editorials/with-discovery-of-a-lost-record-nusrat-fateh-ali-khan-is-back-9407504/)
+
+Article found but Couldn't summarize
+
+Sat, 22 Jun 2024 01:18:33 +0000
+### [Why the health of children should be at the core of any pollution policy](https://indianexpress.com/article/opinion/editorials/why-the-health-of-children-should-be-at-the-core-of-any-pollution-policy-9407503/)
+
+The State of Global Air 2024 Report reveals that air pollution has become the second leading cause of death globally and the second leading risk factor for children under five, with over 700,000 deaths in this demographic in 2021. India experienced the highest number of deaths, particularly among children under five, due to air pollution. Despite decades of concern, India's response has been fragmented and inadequate, leading to significant harm for vulnerable populations. However, there has been a decline in global air pollution-related deaths among children under five since 2000, highlighting the potential of clean energy initiatives, healthcare access, and awareness. India faces a significant challenge, with 42 of the world's 50 most polluted cities and low awareness among public health workers about the health impacts of air pollution. To address the issue, the government must prioritize the health of its citizens, especially children.
+
+Sat, 22 Jun 2024 01:00:35 +0000
+### [Forty years ago: PM Indira Gandhi considers possibility of arms talk with Pakistan](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-pm-indira-gandhi-considers-possibility-of-arms-talk-with-pakistan-9407506/)
+
+Prime Minister Indira Gandhi indicated the possibility of discussions with Pakistan regarding arms smuggling, acknowledging the arms' potential origination across the Pakistani border.
+
+The Punjab government lifted vehicle movement restrictions following the restoration of normalcy, except in two districts; all gurudwaras, excluding the Golden Temple, were reopened to devotees.
+
+Enhanced pensions and arrears were granted to retired Supreme Court and high court judges, as well as legal heirs and widows.
+
+A dispute over a river bridge construction in Orissa has sparked a conflict between Chief Minister Patnaik and his wife, resulting in a clash with a public works minister.
+
+Fri, 21 Jun 2024 15:04:12 +0000
+### [Faizan Mustafa writes on Patna High Court reservation ruling: An overemphasis on merit](https://indianexpress.com/article/opinion/columns/faizan-mustafa-patna-high-court-ruling-judiciary-anti-reservation-bias-9407216/)
+
+The Indian judiciary, through the "strict scrutiny" doctrine, has consistently nullified reservation policies for groups like Jats, Gujjars, Marathas, and Muslims, prioritizing "merit" and "administrative efficiency." The Patna High Court recently struck down 65% reservation in Bihar based on a 2023 Caste Survey, rejecting the concept of "proportionate representation" for Backward Classes. The court emphasized the 50% upper ceiling for reservation set by the Supreme Court, which has been upheld despite arguments that remote or marginalized areas may require exceptions. However, the court acknowledged that the State Backward Classes Commission's recommendation is not legally necessary and that governments have the right to act on Caste Survey reports. The 50% rule is often justified in the name of efficiency, but research has not proven that reserved category employees are less efficient. Justice Reddy criticized the "vicious assumption" that upper castes naturally perform better, while Justice Chandrachud called for redefining merit to be more inclusive.
+
+Fri, 21 Jun 2024 12:37:21 +0000
+### [Yoga: Priceless wealth bestowed on humanity by ancient sages of Bharat](https://indianexpress.com/article/opinion/columns/yoga-priceless-wealth-bharat-ancient-sages-9406569/)
+
+Yoga is a practice that integrates body, breath, mind, and awareness. It can improve physical and mental abilities, promote overall health, and reduce depression. Unlike exercise, which focuses on physical movement, yoga combines slow movements with breath control, calming the mind and channeling energy. Yoga can be practiced by both children and the elderly, but it's recommended to learn from an experienced teacher. To become a true yogi, one must not only master postures but also embody compassion and unity, recognizing the divine in all beings.
+
+Fri, 21 Jun 2024 09:33:42 +0000
+### [Who dies in a heat wave? High temperatures don’t affect everyone equally](https://indianexpress.com/article/opinion/columns/who-dies-in-a-heat-wave-high-temperatures-dont-affect-everyone-equally-9406406/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 07:35:59 +0000
+### [Sri Sri Ravi Shankar writes: A lesson from an untold story about the first yoga guru](https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-yoga-lesson-9406216/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:49:42 +0000
+### [New Parliament should get rid of bad laws](https://indianexpress.com/article/opinion/columns/new-parliament-should-get-rid-of-bad-laws-9405287/)
+
+The newly formed Parliament should reconsider and repeal certain laws to ensure justice and equality for all Indian citizens. These laws include:
+
+* **Citizenship Amendment Act:** Concerns about disenfranchising Indian citizens and the potential for a nationwide NRC warrant reconsideration.
+* **Criminal Law Bills:** Provisions on marital rape and sedition need scrutiny to prevent authoritarianism and safeguard fundamental freedoms.
+* **Marital Rape Exception:** The archaic exception should be abolished to uphold the principle of bodily integrity and equality.
+* **Sedition Law:** The vague definition of "endangering India's integrity" threatens dissent and protest.
+* **Election Commission Act:** Government control over the appointment of Election Commissioners undermines the Supreme Court's directive and compromises electoral independence.
+* **Mining Act:** Environmental concerns arise from the expansion of sub-surface operations and the removal of forest clearance requirements.
+* **Transgender Persons Act:** Insufficient punishment for sexual abuse and a lack of rape protection for transgender women are discriminatory.
+* **Aircraft Act:** The outdated definition of "aircraft" should be revised to reflect technological advancements.
+
+Fri, 21 Jun 2024 02:45:34 +0000
+### [Sleep advisors for India’s Olympic contingent show: You snooze, you win](https://indianexpress.com/article/opinion/editorials/sleep-advisors-for-indias-olympic-contingent-show-you-snooze-you-win-9405285/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:30:44 +0000
+### [Proposal for warning labels on social media is timely, but only the first step](https://indianexpress.com/article/opinion/editorials/proposal-for-warning-labels-on-social-media-is-timely-but-only-the-first-step-9405327/)
+
+Article found but Couldn't summarize
+
+Fri, 21 Jun 2024 02:30:38 +0000
+### [June 21, 1984, Forty Years Ago: IT department initiates action against Andhra Pradesh CM N T Rama Rao](https://indianexpress.com/article/opinion/40-years-ago/june-21-1984-forty-years-ago-it-department-initiates-action-against-andhra-pradesh-cm-n-t-rama-rao-9405286/)
+
+Security operations in Punjab have resulted in the seizure of weapons, including rifles, pistols, and bullets. A box of precious stones was also recovered from the Golden Temple complex. 92 security personnel were killed, while 4,220 suspects were arrested. Prime Minister Indira Gandhi defended the actions, citing threats to national security and unity.
+
+The Aid-India Consortium pledged $4,000 million for India's next fiscal year, a slight increase from the previous year despite inflation.
+
+Income tax authorities have initiated action against Andhra Pradesh Chief Minister N. T. Rama Rao for undisclosed income.
+
+Concerns have been raised by BJP and RSS affiliates over the cancellation of UGC-NET and the investigation into the NEET-UG question paper leak.
+
+Fri, 21 Jun 2024 02:30:22 +0000
+### [NEET-NET controversy: Examine the exam](https://indianexpress.com/article/opinion/editorials/neet-net-controversy-examine-the-exam-9405277/)
+
+The National Teaching Agency (NTA) has faced controversy over two recent examinations. The National Eligibility Cum Entrance Test (NEET) for medical colleges has been subject to allegations of irregularities, leading to protests and Supreme Court petitions. The University Grants Commission-National Eligibility Test (UGC-NET) has been cancelled due to concerns over compromised integrity. The Education Ministry will form a committee to improve NTA's structure and processes. The issue of exam irregularities and leaks is a pressing concern, highlighting the inadequacy of the educational and employment systems. Investigations into these recent controversies and efforts to prevent future incidents are crucial.
+
+Thu, 20 Jun 2024 15:10:08 +0000
+### [NEET-NET crisis: The reason behind India’s failing exam system](https://indianexpress.com/article/opinion/columns/neet-net-crisis-reason-india-failing-exam-system-9404952/)
+
+The NEET controversy stems from a flawed policy implemented in 2016, aimed at standardizing medical college admissions. However, the policy has led to irregularities, bias towards CBSE students, and a booming coaching industry, due to inadequate school education. The National Testing Agency (NTA), responsible for conducting NEET, has also faced criticism for its handling of the exam. Tamil Nadu, which opposes NEET due to its impact on rural and poorer students, has provided evidence of the exam's disparities. A comprehensive review of the policy is necessary, considering the need for quality schooling, decentralized examinations, and improved governance. The current crisis highlights the failure of the state in ensuring high-quality school education and underscores the need for a long-term solution to address these issues.
+
+Thu, 20 Jun 2024 12:03:02 +0000
+### [P Thankappan Nair: The man who chronicled Kolkata — for little in return](https://indianexpress.com/article/opinion/columns/p-thankappan-nair-death-chronicled-kolkata-9404438/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 10:25:36 +0000
+### [Why Shivraj Singh Chouhan needs to be empowered – like Sharad Pawar and Jagjivan Ram](https://indianexpress.com/article/opinion/columns/shivraj-singh-chouhan-empowered-sharad-pawar-jagjivan-ram-9404241/)
+
+India's agriculture sector has experienced fragmentation due to the creation of multiple ministries and departments. This began in the 1970s and has continued under the Modi government. The result is a diminished agriculture ministry that lacks oversight of key inputs such as fertilizers and water, as well as value addition and export promotion. The fragmentation hinders integrated policymaking and contrasts with the comprehensive US Department of Agriculture. India's current agriculture minister has the potential to address challenges, but needs political and administrative empowerment to do so, as demonstrated by previous effective agriculture ministers like Subramaniam and Jagjivan Ram.
+
+Thu, 20 Jun 2024 07:49:01 +0000
+### [The Wayanad stronghold: Should Priyanka Gandhi Vadra have stayed in UP?](https://indianexpress.com/article/opinion/columns/wayanad-priyanka-gandhi-vadra-rahul-gandhi-rae-bareli-9403904/)
+
+The Congress's decision to nominate Priyanka Gandhi Vadra for the Wayanad Lok Sabha seat is appropriate due to her popularity and the constituency's demographics, which favor the United Democratic Front. Despite some criticism, she is considered a strong candidate due to her familial recognition, political acumen, and appeal to religious minorities and other voter groups in Wayanad. The argument that she could have swapped seats with her brother is dismissed, as Rahul Gandhi needs to establish himself in Uttar Pradesh politics. Kerala lacks the same number of exceptional representatives as Tharoor, making it reasonable to deploy a talent like Priyanka in this safe constituency.
+
+Thu, 20 Jun 2024 02:47:26 +0000
+### [June 20, 1984, Forty Years Ago | Operation Blue Star fallout: Norway ambassador resigns](https://indianexpress.com/article/opinion/40-years-ago/june-20-1984-forty-years-ago-operation-blue-star-fallout-norway-ambassador-resigns-9403002/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:47:22 +0000
+### [What Calcutta owes its barefoot historian](https://indianexpress.com/article/opinion/columns/what-calcutta-owes-its-barefoot-historian-9403001/)
+
+In 1955, P Thankappan Nair moved to Calcutta and developed a keen interest in the city's history. Despite his limited formal education, he dedicated his life to studying and writing about various aspects of Calcutta, including its communities, architecture, and social life. Nair's work, based on extensive research and oral testimonies, challenged prevailing historical narratives and contributed significantly to the understanding of the city's evolution. His scholarship earned him the respect of historians, and his collection of over 3,000 books was donated to the Kolkata Municipal Corporation.
+
+Thu, 20 Jun 2024 02:35:18 +0000
+### [A banker’s memoir shows even nice guys can finish first](https://indianexpress.com/article/opinion/columns/a-bankers-memoir-shows-even-nice-guys-can-finish-first-9403049/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:35:14 +0000
+### [Why, for BJP, looking into rearview mirror is not enough](https://indianexpress.com/article/opinion/editorials/why-for-bjp-looking-into-rearview-mirror-is-not-enough-9402999/)
+
+The BJP is reviewing its electoral setbacks in Uttar Pradesh, where its seats decreased from 62 to 33. This evaluation should help the party understand its mistakes and improve its strategy in politically crucial states.
+
+However, the larger implication of the election results is that the BJP must acknowledge its increased dependence on allies. This requires the government to respect the mandate and move away from its previous habits of centralized decision-making. Allies should be consulted for their perspectives, and the government should re-examine its governance paradigms, particularly focusing on improving public goods such as education and health.
+
+The election results demonstrate that the public demands more than just continuity and stability. The BJP must demonstrate its commitment to change and improvement to maintain public support.
+
+Thu, 20 Jun 2024 02:30:29 +0000
+### [From Kalidasa’s ‘Meghaduta’ to the monsoon ragas: Waiting for rain](https://indianexpress.com/article/opinion/columns/from-kalidasas-meghaduta-to-the-monsoon-ragas-waiting-for-rain-9402965/)
+
+Article found but Couldn't summarize
+
+Thu, 20 Jun 2024 02:30:18 +0000
+### [In Punjab, AAP’s crackdown on alleged police-drug cartel nexus was long overdue](https://indianexpress.com/article/opinion/editorials/in-punjab-aaps-crackdown-on-alleged-police-drug-cartel-nexus-was-long-overdue-9403000/)
+
+The Aam Aadmi Party (AAP) government in Punjab is addressing the ongoing drug problem in the state. After poor performance in recent elections, Chief Minister Bhagwant Mann has transferred 10,000 police officers to break the alleged drug cartel nexus. The state has long grappled with drugs, with high overdose deaths and drug possession cases. Previous governments have promised to eradicate the issue, but progress has been slow. The government is now focusing on targeting big drug suppliers and implementing zero tolerance towards dealers. However, it remains to be seen if these measures will be successful in addressing the systemic issue.
+
+Thu, 20 Jun 2024 02:25:21 +0000
+### [Developing countries can spur global growth but they need support](https://indianexpress.com/article/opinion/columns/developing-countries-can-spur-global-growth-but-they-need-support-9403024/)
+
+A decade ago, emerging countries faced challenges in growth, finance, and governance. However, they have emerged as drivers of global growth, with Asia leading the way. To sustain this growth, deep financial markets and sustainable financing are crucial, which is currently lacking in the Global South.
+
+The international financial architecture is outdated, hindering the growth potential of these countries. Three key areas need addressing:
+
+1. Climate financing: Encourage market-based solutions by requiring disclosure of greenhouse gas emissions and creating new rating agencies to assess sustainability.
+
+2. Liquidity provisions: Strengthen the IMF to provide liquidity support beyond current levels.
+
+3. Digital public architecture: Establish a central hub for best practices and technical advances to ensure data and cyber security in digital transformation.
+
+Despite challenges such as climate change and the cost of living crisis, addressing these areas can drive growth and inclusion in the Global South and benefit the global economy as a whole.
+
+Thu, 20 Jun 2024 02:15:43 +0000
+### [Cost of inequality: What India’s 129 rank in Global Gender Gap Index means](https://indianexpress.com/article/opinion/columns/cost-of-inequality-what-indias-129-rank-in-global-gender-gap-index-means-9402976/)
+
+Article found but Couldn't summarize
+
+Wed, 19 Jun 2024 13:53:30 +0000
+### [From Baahubali set to idli-maker, the bizarre journey of Amravati’s capital design](https://indianexpress.com/article/opinion/columns/baahubali-set-idli-maker-bizarre-journey-amravati-capital-design-9402490/)
+
+Ten years ago, renowned architect Fumihiko Maki was commissioned to design Amaravati, the new capital of Andhra Pradesh. However, his design was rejected in favor of one allegedly inspired by the mythical city of Mahishmati from the film Baahubali.
+
+After the Naidu government lost the elections, the new government canceled the Amaravati project, leaving over 26,000 farmers displaced and 30,000 acres of land acquired for the capital unused.
+
+This incident highlights a pattern of civic projects being subject to political whims, often resulting in financial losses and disruption for displaced individuals. Similar examples include the halted Central Vista redevelopment in New Delhi and the relocation of the legislative assembly in Chennai.
+
+The author emphasizes the need for greater sensitivity to public interest and a sense of accountability from the ruling elite.
+
+Wed, 19 Jun 2024 11:53:02 +0000
+### [Why Mizoram’s capital faces constant landslide risk and how the challenge can be met](https://indianexpress.com/article/opinion/columns/mizoram-capital-constant-landslide-risk-challenges-9402079/)
+
+Aizawl, Mizoram's capital, faces challenges due to its steep slopes and unstable rock formations. Recent heavy rainfall triggered landslides, highlighting the vulnerability of the hillside city.
+
+Concerns extend to other cities in the Northeast, including Guwahati, Kohima, and Shillong, due to high-risk seismic zones and dense construction on slopes.
+
+The pressure of migration and population growth in Aizawl leads to overcrowding and traffic congestion. The government plans to establish a new capital to reduce pressure on Aizawl, addressing issues of sustainability and safety.
+
+Unscientific earth cutting and inadequate drainage contribute to landslides. The Municipal Council has implemented mandatory structural safety checks and slope modification regulations.
+
+Despite these measures, safety concerns remain, as many buildings are located on steep slopes. A scenario developed by GeoHazards International indicates that an earthquake could damage or collapse up to 40% of the town's buildings and trigger landslides.
+
+Architects and geologists emphasize the importance of proper soil testing, drainage, and adherence to safety norms to ensure the stability and resilience of buildings in hilly terrains.
+
+Wed, 19 Jun 2024 09:51:31 +0000
+### [Kanchenjunga Express accident: How Indian Railways can put a stop to fatal collisions](https://indianexpress.com/article/opinion/columns/kanchenjunga-express-accident-how-indian-railways-stop-fatal-collisions-9401836/)
+
+Recent train accidents in India, including the collision involving the Kanchenjunga Express, highlight the need to prioritize safety in rail operations. Despite improvements in overall accident rates, collisions remain a significant concern.
+
+Collisions often result in high casualties and can be largely avoided through measures such as the KAVACH anti-collision device and strengthening preventive maintenance of signaling systems.
+
+Indian Railways must increase focus on reducing collisions by providing low-cost locomotive equipment, enhancing crew training, and treating signal violations as major incidents.
+
+While Indian Railways has made progress in safety, it can still benefit from international best practices in accident reporting and prevention, especially in the areas of staff injuries and trespassing.
+
+Wed, 19 Jun 2024 07:54:13 +0000
+### [Takeaways from European Parliament elections — far right’s gains and Meloni’s rise](https://indianexpress.com/article/opinion/columns/european-parliament-elections-meloni-9401561/)
+
+The European Parliament elections witnessed the resilience of centrist parties, with the European People's Party and Socialists and Democrats retaining significant influence. However, far-right and nationalist groups made gains in France, Germany, Italy, Austria, and Belgium, bringing embarrassment to national governments. Despite this surge, the far right's impact at the European level was limited, as centrist parties maintain control over 45% of the parliament.
+
+The vote share of Brothers of Italy, led by Prime Minister Giorgia Meloni, surged, solidifying her position as a potential candidate for the presidency of the European Commission. Negotiations for leadership roles within the EU will involve complex discussions and power-sharing arrangements among member states.
+
+While the European Parliament lacks legislative initiation powers, it plays a crucial role in approving EU actions and agreements. On issues such as Russia and China, the EU and its member states largely align with NATO and the US. For India, the rise of the far right presents challenges regarding immigration matters, but India's skilled workforce and excellent relations with European leaders can facilitate economic cooperation.
+
+Wed, 19 Jun 2024 02:52:24 +0000
+### [Without Russia, Ukraine peace meet has limited significance](https://indianexpress.com/article/opinion/editorials/without-russia-ukraine-peace-meet-has-limited-significance-9400613/)
+
+The Ukraine peace summit in Switzerland received support from 82 of the 90 attending countries, calling for the safety of nuclear installations, return of prisoners, and free flow of agricultural products.
+
+However, notable abstentions included India, Mexico, and Saudi Arabia, citing the absence of Russia and the need for dialogue with all stakeholders. India's balancing act between Moscow and the West may become challenging if the conflict escalates.
+
+The summit's impact may be limited by Russia's position, the West's lack of unity, and Russia's economic resilience. As the conflict continues, countries like India may reconsider their positions in light of potential geopolitical shifts.
+
+Wed, 19 Jun 2024 02:45:48 +0000
+### [West Bengal train collision: Learning by accident](https://indianexpress.com/article/opinion/editorials/west-bengal-train-collision-learning-by-accident-9400596/)
+
+The train accident in West Bengal, involving the Sealdah-bound Kanchanjunga Express and a goods train, has resulted in at least nine deaths, making it the deadliest railway accident since last year's Balasore incident. While initial reports suggest human error, the exact cause will be determined by the Commissioner of Railways Safety. The tragedy raises concerns about safety within the Indian Railways system, despite improvements over the years. Questions include the effectiveness of safety measures, the pace of Kavach roll-out, and the prioritization of modernization over other critical aspects. The accident highlights the need for a comprehensive approach to safety, embedded in every function and operation of the Railways.
+
+Wed, 19 Jun 2024 02:44:31 +0000
+### [Dealing with the heat wave — checklist](https://indianexpress.com/article/opinion/columns/dealing-with-the-heat-wave-checklist-9400591/)
+
+Northern India is facing an unprecedented heatwave with temperatures soaring up to 8C above normal. The heat has caused significant health concerns, particularly for outdoor workers, women, and residents in tin-roofed homes. The monsoon's delay due to Cyclone Remal has intensified the heatwave's effects.
+
+Cities are especially vulnerable due to the urban heat island effect, which traps heat in densely populated areas. Heat waves pose risks to public health, including increased cardiovascular disease and heat stroke. Large gatherings, such as elections and pilgrimages, can exacerbate the impact of heat waves.
+
+The National Disaster Management Authority has initiated heat action plans to mitigate the effects of heat waves. These plans include improving temperature monitoring, regulating work hours, ensuring water availability, and implementing measures to enhance thermal comfort in buildings.
+
+Wed, 19 Jun 2024 02:44:26 +0000
+### [At the T20 Super Eight Stage, this is a tournament of underdog thunder](https://indianexpress.com/article/opinion/editorials/surprise-surprise-t20-world-cup-2024-super-eight-9400590/)
+
+The T20 World Cup has produced several surprises, including the elimination of former champions Sri Lanka, Pakistan, and New Zealand. Underdog teams like the United States, Afghanistan, and Bangladesh have performed exceptionally well. The tournament has been unpredictable, with unexpected results and competitive matches. The Super Eight Stage is expected to be equally exciting, with larger teams facing challenges from smaller nations. The tournament has emphasized the potential for underdogs to succeed due to its shorter format and less consistent playing conditions.
+
+Wed, 19 Jun 2024 02:42:50 +0000
+### [June 19, 1984, Forty Years Ago: At least 12 people were buried alive, 20 others are missing in Tripura landslides](https://indianexpress.com/article/opinion/40-years-ago/june-19-1984-forty-years-ago-army-withdrawal-9400561/)
+
+Article found but Couldn't summarize
+
+Wed, 19 Jun 2024 02:30:43 +0000
+### [Guess who’s back? The real Slim Shady](https://indianexpress.com/article/opinion/columns/the-real-slim-shady-eminem-houdini-release-9400560/)
+
+During a tense 2003 Ashes Test match, Australian captain Steve Waugh was two runs short of his 29th Test century and the crowd erupted as commentator Kerry O'Keeffe played Eminem's "Lose Yourself." Waugh hit a four off the last ball, equaling Don Bradman's record.
+
+Despite recent lukewarm reviews, Eminem's new single "Houdini" has gained popularity, propelling "Lose Yourself" back into the Billboard charts. The resurgence of the song is attributed to nostalgia, the Y2K trend, Eminem's return to his classic style, and Gen Z discovering his music.
+
+Eminem is known for his raw and personal lyrics, but "Houdini" marks a lighter and more accessible sound. Despite expectations for him to mature with age, Eminem remains true to his provocative and controversial nature.
+
+Tue, 18 Jun 2024 14:36:21 +0000
+### [West Bengal train accident highlights need for a thorough review of misplaced priorities of past two decades in Indian Railways](https://indianexpress.com/article/opinion/columns/west-bengal-train-accident-indian-railways-review-9400261/)
+
+The article discusses the crisis faced by the Indian Railways, which has been experiencing a decline in passenger and freight traffic, stagnation in traffic volume, and a failure to improve speed, safety, and punctuality. Despite repeated announcements of plans to double train speeds and increase line capacity, the results have been disappointing. The Indian Railways has lost market share to road and air transport, and if the trend continues, it may be relegated to a secondary role. The article also highlights the poor safety record of the Indian Railways, citing reports by the Comptroller and Auditor General of India, which have raised concerns about asset failures, signal failures, and rail fractures, which have led to accidents. The article concludes that a thorough review of the misplaced priorities of the past two decades is necessary to reverse the decline of the Indian Railways.
+
+Tue, 18 Jun 2024 13:48:50 +0000
+### [The NEP debate: Why criticism of the policy is premature and off the mark](https://indianexpress.com/article/opinion/columns/nep-debate-policy-criticism-premature-9400237/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 10:52:25 +0000
+### [C Raja Mohan writes: Rising power, rising responsibilities — five geopolitical challenges before Modi 3.0](https://indianexpress.com/article/opinion/columns/narendra-modi-3-0-geopolitical-challenges-9399576/)
+
+The article discusses the five imperatives that the NDA government must consider as it settles into its third term under Prime Minister Narendra Modi. The imperatives are:
+
+1. The return of great-power rivalry, which demands an approach driven by interest rather than ideology, and India must make choices based on material interests rather than slogans.
+
+2. The changing structure of the global economy, which demands more reform at home, and India must seize new opportunities to enhance its geoeconomic position.
+
+3. The unfolding technological revolution, which promises to redistribute global power and is now an integral part of great-power competition, and India must accelerate its advanced technological development.
+
+4. The rise of new regions that break down old regional categories, and India must invest more resources in engaging with Africa, Southern Europe, and the Middle East.
+
+5. India must tone down its expansive rhetoric on its rise, recognizing that while India's aggregate GDP is growing, its per capita GDP is still relatively low, and the country's developmental challenges are huge.
+
+The article emphasizes that India must adapt to a changing international context and make choices based on its material interests rather than ideology.
+
+Tue, 18 Jun 2024 08:26:38 +0000
+### [Dealing with the heat wave: A blueprint for scalding cities](https://indianexpress.com/article/opinion/columns/dealing-with-the-heat-wave-a-blueprint-for-scalding-cities-9399283/)
+
+The article discusses the importance of implementing heat action plans to mitigate the effects of heat waves, which are expected to increase in frequency and severity due to climate change. The city of Ahmedabad, India, is highlighted as a model for effective heat action planning. The city implemented its Heat Action Plan in 2013, which includes measures such as an early warning system, coordination between agencies, public awareness campaigns, and preparedness of medical services. The plan has been evaluated to have saved a large number of lives during subsequent heat waves. The article highlights five key lessons from Ahmedabad's experience: reviewing all-cause mortality daily, taking simple measures that don't require many resources, appointing a nodal officer for heat action planning, involving facilitating agencies, and reviewing and improving the plan over time. The article concludes that every city and district will need to adapt the framework provided by Ahmedabad's heat action plan to suit their individual needs, environment, and resources.
+
+Tue, 18 Jun 2024 02:50:57 +0000
+### [Against arrogance](https://indianexpress.com/article/opinion/columns/modi-bjp-lok-sabha-polls-9398429/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:35:06 +0000
+### [What’s the point of an AI candidate in Britain’s general election?](https://indianexpress.com/article/opinion/editorials/whats-the-point-of-an-ai-candidate-in-britains-general-election-9398436/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:34:05 +0000
+### [Why caste should inform debates on inequality in the country](https://indianexpress.com/article/opinion/columns/why-caste-should-inform-debates-on-inequality-in-the-country-9398419/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:30:30 +0000
+### [What Modi 3.0 should do to make Bharat vishwa bandhu and vishwa guru](https://indianexpress.com/article/opinion/columns/what-modi-3-0-should-do-to-make-bharat-vishwa-bandhu-and-vishwa-guru-g7-summit-9398407/)
+
+After Prime Minister Narendra Modi's meetings at the G7 outreach summit, it is clear that a fractured and fragile world needs India and its leadership. The West is looking East with expectation, hoping for India's leadership. India's leadership role is not new, but this time it's not just a romantic interest, but a fresh faith in India's promise. India needs to build capacity to take on a new leadership role, combining alacrity, audacity, and flexibility to deal with an uncertain world.
+
+India's National Security Advisor Ajit Doval made a proposal to Israeli Prime Minister Benjamin Netanyahu for a unilateral ceasefire during Ramadan, which almost worked. India has also made attempts to intervene in complicated international situations through diplomacy, intelligence, and the use or threat of force.
+
+Modi 3.0 needs to tap into traditional Indian knowledge and fresh ideas from homegrown talent and scholars to support its global leadership role. India's neighbourhood is a critical component of its rise to prominence, and the country cannot afford to overlook its significance. The China challenge is a major strategic challenge for India, and it needs to build its domestic capabilities and establish itself as a "mobiliser" to address China's challenge.
+
+Tue, 18 Jun 2024 02:29:48 +0000
+### [Why new government should embrace global markets](https://indianexpress.com/article/opinion/columns/why-new-government-should-embrace-global-markets-9398425/)
+
+The article discusses India's trade policy and its implications on the country's economic growth. The author argues that India needs to strike a balance between promoting domestic goods and integrating with global value chains (GVCs) to achieve its export ambitions. The country has made significant progress in recent years, signing several free trade agreements (FTAs) and adopting a more open trade policy. However, India's reluctance to join regional trade agreements (RTAs) and its ambivalence towards multilateralism are concerns. The author suggests that India needs to recognize the importance of deepening penetration in global markets and shed its inhibitions to fully engage with the global economy. The article concludes that India's economic isolationism is a thing of the past, and it is time for the country to fully embrace global markets and trade.
+
+Tue, 18 Jun 2024 02:24:00 +0000
+### [Erasures in NCERT textbooks go against NEP’s mandate to enhance critical thinking](https://indianexpress.com/article/opinion/editorials/erasures-in-ncert-textbooks-go-against-neps-mandate-to-enhance-critical-thinking-9398434/)
+
+The article discusses the National Council of Educational Research and Training's (NCERT) decision to omit certain historical events from its textbooks. The director of NCERT, DP Saklani, has justified the omission of events such as the Gujarat riots and the Babri Masjid demolitions, stating that mentioning these events could create "violent and depressed individuals". The article argues that this approach is problematic, as it ignores the importance of understanding uncomfortable facts and fraught moments in history. The article highlights that the NCERT's revision of the textbook has also deleted sections on poverty, powerlessness of Scheduled Castes and Tribes, and the Emergency and protest movements. The author argues that textbooks are crucial in shaping young minds' understanding of the country's history and democratic processes, and that the NCERT's approach is infantilizing, failing to engage young learners in argumentative engagement with seminal events.
+
+Tue, 18 Jun 2024 02:10:11 +0000
+### [June 18, 1984, Forty Years Ago: Jarnail Singh Bhindranwale’s village mourns his death](https://indianexpress.com/article/opinion/40-years-ago/june-18-1984-forty-years-ago-jarnail-singh-bhindranwales-village-mourns-his-death-9398420/)
+
+Article found but Couldn't summarize
+
+Tue, 18 Jun 2024 02:04:17 +0000
+### [Will a tax cut boost consumption and investment?](https://indianexpress.com/article/opinion/editorials/will-a-tax-cut-boost-consumption-and-investment-9398421/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 12:57:19 +0000
+### [Why an ancient Greek tragedy has resonance in politics today — in India and beyond](https://indianexpress.com/article/opinion/columns/ancient-greek-tragedy-relevance-india-politics-9397705/)
+
+The article discusses the relevance of the ancient Greek tragedy "Persians" by Aeschylus to the recent elections in India. Despite the seemingly unrelated topic, the play's themes of democracy, freedom, and the struggle between opposing forces resonate with the contemporary electoral process. The play portrays the battle of Salamis as a fight for democracy and freedom, highlighting the distinction between the Athenian people and their leaders. The article notes that the play's themes of freedom, democracy, and the struggle against tyranny are relevant to the Indian political ideology.
+
+Mon, 17 Jun 2024 09:18:49 +0000
+### [Why India needs a national security doctrine – now](https://indianexpress.com/article/opinion/columns/why-india-needs-a-national-security-doctrine-now-9397384/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 07:19:37 +0000
+### [Election 2024: The lack of discussion on LGBTQIA+ rights in campaigns and party manifestos](https://indianexpress.com/article/opinion/columns/election-2024-the-lack-of-discussion-on-lgbtqia-rights-in-campaigns-and-party-manifestos-9397175/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:30:41 +0000
+### [Verdict 2024: Mandate will be assessed by democratic spaces it opens up in between polls](https://indianexpress.com/article/opinion/columns/verdict-2024-mandate-will-be-assessed-by-democratic-spaces-it-opens-up-in-between-polls-9396451/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:13:56 +0000
+### [June 17, 1984, Forty Years Ago: Congress Leader Shot](https://indianexpress.com/article/opinion/40-years-ago/june-17-1984-forty-years-ago-congress-leader-shot-9396454/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:11:52 +0000
+### [Why Chandrababu Naidu’s call for a skill census is important](https://indianexpress.com/article/opinion/editorials/why-chandrababu-naidus-call-for-a-skill-census-is-important-9396453/)
+
+Article found but Couldn't summarize
+
+Mon, 17 Jun 2024 02:03:46 +0000
+### [G7, West’s shifting political landscape and India’s growing salience](https://indianexpress.com/article/opinion/editorials/g7-wests-shifting-political-landscape-and-indias-growing-salience-9396452/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 13:54:13 +0000
+### [Vandita Mishra writes: The election verdict’s meaning is in the making](https://indianexpress.com/article/opinion/columns/lok-sabha-election-results-meaning-9396068/)
+
+The article discusses the implications of the recent election results in India, particularly the performance of the Bharatiya Janata Party (BJP) and its leader Narendra Modi. Despite the BJP's efforts, the party fell short of its target and needs the help of its allies to reach the halfway mark. The Congress-led Opposition, led by Rahul Gandhi, put up a strong fight and reversed a nearly decade-long decline.
+
+The article highlights the complexity of interpreting the election results, as the outcome does not fit neatly into traditional narratives. The BJP's loss is attributed to various factors, including the party's arrogance, targeting of political opponents, and failure to address long-term issues such as unemployment and social inequality.
+
+The article also touches on the post-election developments, including Prime Minister Modi's address to newly elected NDA MPs, in which he emphasized the importance of consensus over majority. However, the subsequent cabinet appointments and portfolio distribution did not reflect any significant changes in the government's approach.
+
+Additionally, the article mentions the controversy surrounding the sanctioning of prosecution under the UAPA against writer Arundhati Roy and the rewriting of the Ayodhya dispute in a new NCERT textbook.
+
+Sun, 16 Jun 2024 12:30:22 +0000
+### [In Modi 3.0, why PM’s tete-a-tete with foreign leaders after his oath-taking ceremony marked a crucial departure](https://indianexpress.com/article/opinion/columns/modi-third-term-foreign-leaders-oath-taking-ceremony-9395873/)
+
+On May 30, Indian Prime Minister Narendra Modi took the oath of office for his second consecutive term. In a departure from his previous oath-taking ceremonies in 2014 and 2019, Modi did not meet with visiting foreign leaders individually on the day of his swearing-in. Instead, he met with them on May 9 in a tete-e-tete format. The Ministry of External Affairs issued a single collective statement on the meetings, rather than separate statements on each individual meeting. The visiting leaders included the Presidents of Maldives and Sri Lanka, the Vice-President of Seychelles, and the Prime Ministers of Bangladesh, Bhutan, Mauritius, and Nepal. Modi's failure to meet with the leaders individually may have resulted in a lost opportunity for the visiting leaders to hear directly from him on how India wishes to address issues in each bilateral relationship.
+
+Sun, 16 Jun 2024 09:50:23 +0000
+### [From Amazon’s Haryana warehouse to the delivery boy at your doorstep — tales of oaths and indignity](https://indianexpress.com/article/opinion/columns/amazon-haryana-warehouse-oath-pervasive-indignity-9395799/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 08:31:59 +0000
+### [NDA government 2024 is a surplus coalition without a majority party. What will it mean for the BJP?](https://indianexpress.com/article/opinion/columns/nda-government-2024-is-a-surplus-coalition-without-a-majority-party-what-will-it-mean-for-the-bjp-9395666/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 06:32:48 +0000
+### [Can Naveen Patnaik reinvent the BJD as an effective opposition in Odisha?](https://indianexpress.com/article/opinion/columns/can-naveen-patnaik-reinvent-the-bjd-as-an-effective-opposition-in-odisha-9395559/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:32:04 +0000
+### [History Headline: When Ayodhya stirred, now and then](https://indianexpress.com/article/opinion/columns/when-ayodhya-stirred-now-and-then-9395036/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:31:15 +0000
+### [P Chidambaram writes: Not Modi 3.0 but Modi 2.1](https://indianexpress.com/article/opinion/columns/not-modi-3-0-but-modi-2-1-9395033/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 02:10:11 +0000
+### [Tavleen Singh writes: Modi has a third chance, hope he uses it to rule with more consensus](https://indianexpress.com/article/opinion/columns/narendra-modi-rss-mohan-bhagwat-lok-sabha-elections-2024-results-9395032/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 01:45:02 +0000
+### [Inside Track: Modified Modi 3.0?](https://indianexpress.com/article/opinion/columns/inside-track-modified-modi-3-0-9395030/)
+
+Article found but Couldn't summarize
+
+Sun, 16 Jun 2024 01:35:19 +0000
+### [When partying becomes hard work](https://indianexpress.com/article/opinion/columns/when-partying-becomes-hard-work-9395034/)
+
+Article found but Couldn't summarize
+
+Sat, 15 Jun 2024 12:11:18 +0000
+### [Is PM Modi’s response to Nawaz Sharif ‘sarcasm intended at asking Pakistan to do more’?](https://indianexpress.com/article/opinion/columns/pm-modi-nawaz-sharif-pakistan-9394640/)
+
+Article found but Couldn't summarize
+
+Sat, 15 Jun 2024 10:32:05 +0000
+### [Behind the NEET 2024 fiasco: Move from ‘select few’ to ‘appease all’](https://indianexpress.com/article/opinion/columns/neet-2024-fiasco-admission-appeasement-controversies-9394308/)
+
+The National Eligibility-cum-Entrance Test (NEET) UG is a competitive examination for medical seats in India. The 2024 exam has faced several controversies, including inflated scores and ranks, a lack of correlation between NEET and Class 12 scores, and issues with the tie-breaking rule. Sixty-one candidates achieved the top rank with 100% marks, while 22,000 candidates scored above 90% and 80,000 students above 83%. Historically, the Central Board of Secondary Education (CBSE) conducted the exam, but from 2019, the National Testing Agency (NTA) took over. NTA's objective is to rank candidates based on their scores, whereas CBSE focuses on assigning distinct grades. The controversy surrounding NEET 2024 raises questions about the exam's scoring and ranking system. Despite issues, NTA has been praised for disclosing information and making quick corrections. The controversy has shaken the faith of lakhs of aspirants and the coaching and counselling industry, leading to several litigations and media coverage. To avoid such situations, a robust and resilient system is needed to counter apparent irregularities and ensure the integrity of the examination and admission merit.
+
+Sat, 15 Jun 2024 08:52:07 +0000
+### [South Africa – like India – has rejected One Party, One Leader model](https://indianexpress.com/article/opinion/columns/south-africa-like-india-has-rejected-one-party-one-leader-model-9394322/)
+
+The article discusses the decline of the African National Congress (ANC) in South Africa, which was once a dominant party in the country. The ANC has been plagued by corruption, poor governance, and a lack of modernizing vision, leading to a decline in its popularity. The party has lost its majority in parliament and has had to form a coalition government with other parties. The article also highlights the struggles of the Indian community in South Africa, who have historically been a key support base for the ANC, but have become disillusioned with the party's performance. The article concludes that the key to South Africa's future lies in reconciliation and integration, and that all stakeholders must work together to build a more harmonious and equitable society.
+
+Sat, 15 Jun 2024 06:16:09 +0000
+### [I was lucky to escape bigotry growing up in Gujarat. Children today might not be](https://indianexpress.com/article/opinion/columns/gujarat-vadodara-housing-colony-muslim-woman-bigotry-9394051/)
+
+The author recalls two childhood memories: one where she didn't like a TV show character because he looked like a Muslim, and another where she overheard classmates making derogatory comments about a Muslim classmate who had shared sweets with them. The author's parents taught her that it's wrong to discriminate against someone based on their religion or appearance. The author reflects on how some adults in Gujarat, where she grew up, openly express bigotry and discriminate against Muslims. She cites the example of a woman in Vadodara who is facing eviction from her housing complex because of her faith. The author warns that giving in to hateful demands could lead to an apartheid state in Gujarat. She concludes by lamenting the impact of hate and bigotry on children, including her own nephew who is old enough to understand the discrimination he faces.
+
+Sat, 15 Jun 2024 02:31:36 +0000
+### [Why NEP implementation has been a failure](https://indianexpress.com/article/opinion/columns/why-nep-implementation-has-been-a-failure-9393403/)
+
+The article discusses the National Education Policy (NEP) 2020 and its potential drawbacks. The author argues that the credit-based eight-semester format prioritizes standardization and mobility over academic content. This has led to a stunted syllabus, with reduced course loads and truncated chapters. The NEP's emphasis on multidisciplinary subjects and value-added courses has also diluted the core content of honors subjects. Furthermore, the policy's emphasis on practicals and continuous assessments has created a bureaucratic burden for students and teachers. The author concludes that the NEP has failed to address the true purpose of higher education, which is to develop critical thinking and domain-centric knowledge. Instead, it has created a system that prioritizes employability and practical skills over academic rigor. The author suggests that universities need to rethink their approach to higher education and focus on producing knowledge producers, rather than mere consumers of knowledge.
+
+Sat, 15 Jun 2024 02:10:32 +0000
+### [Ram Madhav writes: If G7 wants to remain relevant, it must listen to India](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-if-g7-wants-to-remain-relevant-it-must-listen-to-india-9393402/)
+
+The G7 summit meeting began in Puglia, Italy, with the seven leaders announcing a "deal" to use frozen Russian Central Bank assets to provide $46 billion in support for Ukraine. The G7 also launched the "Extraordinary Revenue Acceleration (ERA) Loans for Ukraine" to provide an additional $50 billion in funding by the end of the year. Ursula von der Leyen, President of the European Commission, stated that this move was a "very strong message" to Putin that he cannot outlast the G7. However, the legality of this action is uncertain, and many G7 leaders may not last long in their current positions.
+
+Sat, 15 Jun 2024 02:00:38 +0000
+### [Why the exit polls couldn’t get the nation’s pulse in 2024](https://indianexpress.com/article/opinion/columns/why-the-exit-polls-couldnt-get-the-nations-pulse-in-2024-9393392/)
+
+The Indian general elections to the Lok Sabha saw several surprises, including the significant difference between the actual results and the forecasts made by national exit polls. The polls predicted the National Democratic Alliance (NDA) would win more than 360 seats, while the Bharatiya Janata Party (BJP) would significantly improve upon its 2019 tally. However, the actual results showed the NDA won 293 seats, and the BJP won 240 seats, losing its individual majority.
+
+The article suggests that the national pollsters may have been influenced by the commercial pressure to produce similar forecasts, rather than making accurate predictions. This phenomenon, known as the Keynesian curse, occurs when forecasters base their forecasts on the forecasts of other forecasters, rather than on actual data. This can lead to a narrowing of the range of forecasts, making it difficult to predict the actual outcome. The article concludes that the national pollsters may have been more focused on producing similar forecasts to their competitors rather than making accurate predictions.
+
+Sat, 15 Jun 2024 01:35:11 +0000
+### [NEET controversy: An untidy exam](https://indianexpress.com/article/opinion/editorials/neet-controversy-an-untidy-exam-9393387/)
+
+The National Eligibility-Cum-Entrance Test (NEET) has been marred by controversy due to a technical glitch that affected over 1,500 candidates. The National Testing Agency (NTA) initially gave them the wrong question paper, and later provided compensatory marks to make up for the lost time. The Supreme Court intervened after receiving multiple petitions. The error has raised concerns about the sanctity of the examination. Additionally, the unusually high number of students who secured perfect marks has led to allegations of arbitrary marking. The NTA's response has been unconvincing, and the agency's conduct of the NEET has been criticized. The high demand for medical education in India has led to hyper-competition, making the NEET more of an elimination test than a genuine assessment of aptitude.
+
+Sat, 15 Jun 2024 01:34:48 +0000
+### [Modi-led NDA government has stood by the marginalised. One election can’t take that away](https://indianexpress.com/article/opinion/columns/modi-led-nda-government-has-stood-by-the-marginalised-one-election-cant-take-that-away-9393382/)
+
+On April 5, 2016, Indian Prime Minister Narendra Modi launched the Stand Up India initiative to empower SC, ST, and women entrepreneurs in Uttar Pradesh. He paid tribute to Babu Jagjivan Ram, a senior Congress leader, for his service to the nation. This initiative is part of the government's commitment to social justice, which is an enabler for all empowerment. The government has demonstrated a renewed focus on commemoration and representation of the marginalized, including the appointment of Mohan Manjhi, a tribal leader, as the Chief Minister of Odisha. The government has also celebrated Constitution Day to honor the country's founding document and its principles of justice, equality, and liberty. The BJP-led NDA government has made significant progress in empowering marginalized communities, including Dalits, tribals, and backward classes, through policies and affirmative action.
+
+Sat, 15 Jun 2024 01:25:55 +0000
+### [The Vadodara test: When prejudice threatens a Muslim homeowner’s rights](https://indianexpress.com/article/opinion/editorials/the-vadodara-test-when-prejudice-threatens-a-muslim-homeowners-rights-9393383/)
+
+A 44-year-old Muslim woman was allotted an apartment in a low-income housing complex in Vadodara, Gujarat, under the Mukhyamantri Awas Yojana in 2017. However, 33 residents of the complex have complained and demanded that she be revoked from the apartment, citing her religion and concerns about "threat and nuisance". The residents' demands are based on prejudice and violate the Indian Constitution's guarantees of equality and non-discrimination. The Vadodara Municipal Corporation must uphold the law and the Constitution, and protect the woman's constitutional rights.
+
+Sat, 15 Jun 2024 01:20:01 +0000
+### [Denmark bans Korean spicy noodles: A fiery tale](https://indianexpress.com/article/opinion/editorials/denmark-bans-korean-spicy-noodles-a-fiery-tale-9393385/)
+
+Article found but Couldn't summarize
+
+Sat, 15 Jun 2024 01:05:07 +0000
+### [June 15, 1984, Forty Years Ago: Army Casualties](https://indianexpress.com/article/opinion/40-years-ago/june-15-1984-forty-years-ago-army-casualties-9393386/)
+
+The article reports on several events. The Indian Army suffered heavy casualties to avoid damaging the Golden Temple complex during an operation. Assam agitators called for a 24-hour bandh in support of a solution to foreign national problems, leading to over 70 preventive arrests. Pakistan increased its defense expenditure by 20% to Rs 30,375 million, accounting for 46% of non-development current expenditure. The Sri Lankan President will visit India to discuss the unresolved problem of Sri Lankan Tamils with Prime Minister Indira Gandhi. Additionally, a USA vs Ireland cricket match was cancelled due to rain, resulting in the USA advancing to the Super 8s and Pakistan's elimination from the T20 World Cup.
+
+Fri, 14 Jun 2024 15:07:54 +0000
+### [Three reasons why Naveen Patnaik lost Odisha](https://indianexpress.com/article/opinion/columns/naveen-patnaik-odisha-loss-9393164/)
+
+The Biju Janata Dal (BJD) party, led by Chief Minister Naveen Patnaik, lost its majority in the 2024 Odisha assembly election. The party secured 40.22% of the votes and won 51 seats, while the Bharatiya Janata Party (BJP) won 78 seats with 40.07% of the votes. The BJD's welfare-centric electoral strategy, which included schemes such as universal health coverage and pension for the elderly, failed to resonate with voters. Three reasons are attributed to the BJD's defeat: firstly, the perception of "baburaj" (officer rule), where bureaucrats controlled service provisions, leading to a breakdown in the relationship between voters and politicians; secondly, the BJP's successful use of religious polarisation and the invocation of Lord Jagannath for political ends; and thirdly, the BJP's effective use of linguistic identity politics, highlighting the threat of an "outsider" ruling the state.
+
+Fri, 14 Jun 2024 13:51:22 +0000
+### [Pratap Bhanu Mehta writes: Why the rejection of BJP is not a rejection of Hindutva](https://indianexpress.com/article/opinion/columns/bjp-rejection-hindutva-pratap-bhanu-mehta-9392994/)
+
+The article discusses the outcome of the recent Indian general election, where the ruling Bharatiya Janata Party (BJP) suffered a setback. The author argues that the BJP's reliance on schemes and mission-mode interventions to deliver welfare and development has become a limitation, as voters are now seeking more substantial and sustainable solutions. The author suggests that the BJP's failure to address structural issues such as poverty, unemployment, and inequality has led to its decline. Additionally, the author notes that the BJP's reliance on identity politics and Hindutva has also become a limitation, as voters are now seeking more concrete and sustainable governance and economic transformation. The article concludes that the BJP's failure to deliver on its promises and its inability to address the structural issues facing India has led to its decline, and that the party will need to rethink its strategy to remain relevant.
+
+Fri, 14 Jun 2024 10:53:13 +0000
+### [Agnipath 2.0: A solution for armed forces and applicants](https://indianexpress.com/article/opinion/columns/agnipath-solution-for-armed-forces-applicants-9392628/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 05:38:40 +0000
+### [With new criminal laws, rights won in Supreme Court can be overturned by government](https://indianexpress.com/article/opinion/columns/with-new-criminal-laws-rights-won-hard-in-the-sc-are-at-risk-of-being-overruled-by-the-government-9392038/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:11:53 +0000
+### [Why Centre should not junk arbitration to settle disputes](https://indianexpress.com/article/opinion/columns/why-centre-should-not-junk-arbitration-to-settle-disputes-9391420/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:11:46 +0000
+### [In his latest book, D Subbarao looks back at landmark decisions in his years in civil service](https://indianexpress.com/article/opinion/columns/in-his-latest-book-d-subbarao-looks-back-at-landmark-decisions-in-his-years-in-civil-service-9391419/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 03:04:14 +0000
+### [US Fed decision: Staying hawkish](https://indianexpress.com/article/opinion/editorials/us-fed-decision-staying-hawkish-9391410/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:46:42 +0000
+### [Rishi Sunak’s poor little rich boy moment](https://indianexpress.com/article/opinion/editorials/rishi-sunaks-poor-little-rich-boy-moment-9391397/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:46:37 +0000
+### [Death of workers in Kuwait underlines vulnerability of Indian migrants](https://indianexpress.com/article/opinion/editorials/death-of-workers-in-kuwait-underlines-vulnerability-of-indian-migrants-9391396/)
+
+Article found but Couldn't summarize
+
+Fri, 14 Jun 2024 02:35:46 +0000
+### [June 14, 1984, Forty Years Ago: Army action in Punjab prevented creation of Khalistan](https://indianexpress.com/article/opinion/40-years-ago/june-14-1984-forty-years-ago-army-action-in-punjab-prevented-creation-of-khalistan-9391398/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 14:47:31 +0000
+### [Kuwait fire: It’s time we stop invisibilising migrant workers](https://indianexpress.com/article/opinion/columns/kuwait-fire-migrant-workers-deaths-9390932/)
+
+The article reports a tragic incident on June 13, 2024, where over 40 Indian migrant workers died in a fire in Kuwait. This event highlights ongoing safety concerns and poor living conditions faced by migrants in Gulf countries, echoing previous incidents in Qatar and Saudi Arabia. The lack of permanent residency options for migrants exacerbates their vulnerability to exploitation and unsafe working conditions. Despite efforts like the Kerala Migration Survey, which tracks migration patterns and remittances, there remains a critical need for better policies and data collection to ensure the safety and well-being of Indian migrants abroad.
+
+Thu, 13 Jun 2024 12:30:09 +0000
+### [Lok Sabha election’s experiment with AI offers hope for India’s democracy](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-experiment-ai-india-democracy-9390582/)
+
+The world's largest election, the 2024 Indian general election, saw the BJP falling short of its predicted majority, but it was not marred by the expected AI-generated dis/misinformation campaigns. Instead, AI was used for familiar political activities, such as trolling the Opposition and targeted communication with constituencies. Political parties used AI-generated content like voice clones, videos, personalized audio messages, and automated calls to voters. This content was designed to appeal to emotions and leveraged relational bonds with the resurrection of superstar politicians. However, the rural information ecosystem was not as sophisticated, featuring low-tech content mostly mocking the BJP's slogans.
+
+Two trends emerged from this election: the increasing role of small enterprises in the ethical creation and distribution of AI content and the potential of AI to open a new chapter in participatory democracy. AI can be used to make democracy and governance more accessible, deliberative, and representative by facilitating individualized communication across diverse constituencies. The Indian voters have shown that they care about local issues, and AI can help create a dialogue for voters to share their demands and experiences directly with their representatives. However, stronger digital literacy in rural areas is necessary for the universal adoption of new technologies. Overall, safe and ethical AI can be beneficial for democracy and help the Parliament and elected officials respond to grassroots needs and livelihoods.
+
+Thu, 13 Jun 2024 11:03:58 +0000
+### [Eminem’s ‘Houdini’: Why it’s not empty without him anymore](https://indianexpress.com/article/opinion/columns/eminem-houdini-why-its-not-empty-without-him-anymore-9389919/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 10:58:38 +0000
+### [The voters have given institutions some breathing space. They must use it](https://indianexpress.com/article/opinion/columns/voters-institutions-breathing-space-lok-sabha-elections-9390197/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 08:02:40 +0000
+### [Andhra Pradesh’s new cabinet does not reflect the diverse groups that voted TDP-JSP-BJP to power](https://indianexpress.com/article/opinion/columns/andhra-pradesh-new-cabinet-tdp-jsp-bjp-9389825/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 03:09:40 +0000
+### [Kshitish Chandra Neogy, the administrator India forgot](https://indianexpress.com/article/opinion/columns/kshitish-chandra-neogy-administrator-india-9388880/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 03:01:51 +0000
+### [June 13, 1984, Forty Years Ago: Money, Guns Recovery](https://indianexpress.com/article/opinion/40-years-ago/june-13-1984-forty-years-ago-money-guns-recovery-9388869/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 02:49:56 +0000
+### [What’s in a name: Elephants are people too](https://indianexpress.com/article/opinion/editorials/whats-in-a-name-elephants-are-people-too-9388852/)
+
+The article discusses the significance of names in defining identity across species, focusing on elephants as a notable example. It explores how names contribute to concepts of self, identity, and consciousness, traditionally seen as uniquely human traits. Researchers, using advanced techniques, have found that elephants not only recognize specific calls as names but use them distinctly, similar to proper nouns. This challenges conventional views on animal communication and suggests elephants possess complex social and emotional lives comparable to humans, raising questions about ethical treatment and recognition of their personhood.
+
+Thu, 13 Jun 2024 02:46:14 +0000
+### [In Europe, the far right fringe is in Parliament far right moves in](https://indianexpress.com/article/opinion/editorials/in-europe-the-far-right-fringe-is-in-parliament-far-right-moves-in-9388860/)
+
+Article found but Couldn't summarize
+
+Thu, 13 Jun 2024 02:03:53 +0000
+### [Remember Manipur](https://indianexpress.com/article/opinion/editorials/remember-manipur-9388851/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 12:30:19 +0000
+### [How Naveen Patnaik was bested by BJP in Odisha](https://indianexpress.com/article/opinion/columns/how-naveen-patnaik-was-bested-by-bjp-in-odisha-9387813/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 12:10:01 +0000
+### [Sanjaya Baru writes: The importance of Mohan Bhagwat](https://indianexpress.com/article/opinion/columns/sanjaya-baru-mohan-bhagwat-9388139/)
+
+The article discusses a conversation between NT Rama Rao, a political leader from Andhra Pradesh, and Chaudhury Devi Lal, a leader from Haryana. Devi Lal asked about Rama Rao's caste, to which Rama Rao replied that they are Andhra Jats. The article then goes on to talk about the concept of pan-Indian communities, with the author suggesting that Brahmins and Muslims were the two groups that could unite the sub-continent. The author argues that the RSS, an ideological organization, sought to unite post-colonial India and that its first Prime Minister, Atal Bihari Vajpayee, was a Brahmin. The article also discusses Narendra Modi's attempts to widen his support base by exploiting caste and communal divisions. The RSS, on the other hand, emphasizes Hindu unity and seeks to win over minority communities based on its concepts of Hinduva and Bharatiyata. The article ends with a discussion about the RSS Sarsanghchalak Mohan Bhagwat's remarks criticizing Modi's divisive and self-serving politics, and the author's observation that Bhagwat has risen above Modi, placing himself on the higher pedestal of national unity. The article also mentions the newly formed Andhra Pradesh Cabinet and the decision to make Amaravati the capital.
+
+Wed, 12 Jun 2024 10:55:41 +0000
+### [With BSP down this election, what’s the way forward for Dalit politics?](https://indianexpress.com/article/opinion/columns/bsp-election-way-forward-dalit-politics-9387914/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 10:51:43 +0000
+### [In Telugu heartland, a chance to boost India’s cultural revival](https://indianexpress.com/article/opinion/columns/telugu-heartland-chance-to-boost-india-cultural-revival-9387973/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:45:40 +0000
+### [June 12, 1984, Forty Years Ago: Amitabh Bachchan is recovering, will be able to act again](https://indianexpress.com/article/opinion/40-years-ago/june-12-1984-forty-years-ago-amitabh-bachchan-is-recovering-will-be-able-to-act-again-9386644/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:41:37 +0000
+### [From Italy to Japan, tourists are the new pests of summer](https://indianexpress.com/article/opinion/editorials/from-italy-to-japan-tourists-are-the-new-pests-of-summer-9386643/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:40:33 +0000
+### [In Shivraj Singh Chouhan’s new position, hope for Indian farming](https://indianexpress.com/article/opinion/editorials/in-shivraj-singh-chouhans-new-position-hope-for-indian-farming-9386642/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:39:25 +0000
+### [Terror attack in Reasi underscores fragility of a hard-won peace in J&K](https://indianexpress.com/article/opinion/editorials/after-reasi-attack-time-to-redraw-the-red-lines-9386625/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:25:21 +0000
+### [Even with coalition government, the direction of India’s economic policy is unlikely to change](https://indianexpress.com/article/opinion/columns/even-with-coalition-government-the-direction-of-indias-economic-policy-is-unlikely-to-change-9386624/)
+
+Article found but Couldn't summarize
+
+Wed, 12 Jun 2024 02:23:23 +0000
+### [In this Lok Sabha election, democracy was the real winner](https://indianexpress.com/article/opinion/columns/in-this-lok-sabha-election-democracy-was-the-real-winner-9386657/)
+
+本文摘要：2024年印度选举结果给了印度民主一个新的生机，阻止了一个分裂的 Prime Minister 的权力扩张。虽然纳赫达 Modi 和 BJP 在预测中预期获得超过400个 Lok Sabha 席，但这些结果对 Modi 是一个重大挫折，BJP 在 2019 年的 303 个席中失去了 63 个，只获得了 240 个，远远低于形成多数政府所需的 272 个席。然而，BJP 在这次选举中所获得的共产党选举中所获得的投票比例仅微小地下降，从 2019 年的 37.3% 降至 2024 年的 36.6%。因此，Modi 和 BJP 仍然是印度的一个强大的政治力量。BJP 在 парламент中的席位下降主要是因为反对党成功地合作了。Modi 失败了因为他在治政十年中表现不佳，并且因为埃缔尔 (Hindutva) 的受欢迎程度已经达到了上限。Modi 的政府经常扭曲事实，并因为企业支持和屈从的媒体而放大了其经济成就。根据世界银行数据，Modi 期间的平均年经济增长为 6%，即使排除了 Covid 年，比 1991 年至 2013 年的共产党期间的 6% 略微低。BJP 没有实现“制造在印度”承诺，印度的工业增长在 Modi 期间保持了缓慢的增长，具有生活可以支持的工资的工作几乎没有出现。这同时伴随着经济不平等的显著增加。根据世界不平等报告 (2021)，从 2012 年到 2020 年，印度顶级 1% 所拥有的财富的份额从 30.7% 上升到 42.5%，而底层 50% 所拥有的份额从 6.4% 下降到 2.8%。Rahul Gandhi 和其他反对派人士在反对 Modi 的主要战略中抓住了这些变化。Modi 和他的支持者经常声称他提高了印度的福利供应。大多数这些声称都是虚假的。根据数据，中央公共支出在教育和健康方面几乎没有增加。Modi 的政府在社会服务支出中的比重也一直保持在 22% 左右，这与其前驱共产党年代相同。Modi 政府的优点是在为印度的穷人提供个人“礼物”的方式来品牌所有的这些支出。因此，Modi 和 BJP 难以证明自己是优秀的经济管理者。反对派将 Modi 推向了防守的角色，不断地将他描述为 billionaires 的朋友，尤其是他自己的同胞 Mukesh Ambani 和 Gautam Adani。失败于创造工作也似乎对选民有所影响。因为经济信息没有再获得更多的政治支持，Modi 和 BJP 转向了更为慌乱的措施。例如，拘押 Delhi 市长 Arvind Kejriwal 是一个例子。当最高法院做出了它的职责并允许 Kejriwal 运营时，Modi 似乎更加分裂了他的选举主义口号。这些措施扩大了对 Hindu 的支持似乎没有效果。BJP 在包含 Ayodhya 寺庙的 Faizabad 选区中失去了席位。此外，Modi 本身的选民基础在 Varanasi 地区显著缩小，这意味着 Hindu 的诱惑力已经达到了上限，并且 Modi 不是媒体所描述的无敌吸引力的领袖。Modi 在压制反对派方面过度发挥了手段。如果马雅维特、尼什·库马尔和穆逊·奈德鲁也加入了共产党领导的联盟，2024 年选举结果会有多么不同。这些建议得到了支持，因为共产党的人口投票比例仅微小地上升，从 2019 年的 19.5% 上升至 2024 年的 21.2%。Rahul Gandhi 在这次选举中诞生为一个可靠的反对派领导人。然而，是否他的左倾言论更多地与印第拉 Gandhi 的空虚的贫穷消除承诺相似，还是真正代表共产党政党的政治立场的变化，尚未证明。这么做会给印度带来好处。由于尼什 作为同盟，Modi 可能会有许多无法睡的夜晚。他也不是一个协商能力强的人格。无论何时，环境的压力会使 Modi 成为一个国家家长，这对印度来说是一个好消息。
+
+文章作者是普林斯顿大学的 David Bruce 国际事务教授。
+
+注：本文中有广告或无关内容，我们在摘要中不会包含它们，也不需要提及它们的存在。
+
+Wed, 12 Jun 2024 02:21:27 +0000
+### [Chinese armed forces have been upgrading. India must keep up](https://indianexpress.com/article/opinion/columns/chinese-armed-forces-have-been-upgrading-india-must-keep-up-9386658/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 13:00:38 +0000
+### [From Bangladesh to Pakistan, how Modi 3.0 is being received by India’s neighbours](https://indianexpress.com/article/opinion/columns/narendra-modi-pakistan-bangladesh-india-neighbours-relations-9385931/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 10:30:52 +0000
+### [C Raja Mohan on PM’s first trip abroad in Modi 3.0: A chance to reboot relations with the West](https://indianexpress.com/article/opinion/columns/pm-modi-first-trip-abroad-west-relations-reboot-c-raja-mohan-9385420/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 08:28:38 +0000
+### [Reasi attack: On J-K, India must redraw its red lines](https://indianexpress.com/article/opinion/columns/reasi-attack-on-j-k-india-must-redraw-its-red-lines-9385167/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 06:08:49 +0000
+### [My friend Jiten: This pride month, the tale of a queer friendship — and living with trauma](https://indianexpress.com/article/opinion/columns/my-friend-jiten-pride-month-queer-friendship-trauma-9384949/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:50:10 +0000
+### [75 years of 1984: Does the world owe George Orwell an apology?](https://indianexpress.com/article/opinion/columns/75-years-of-1984-does-the-world-owe-george-orwell-an-apology-9384150/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:30:15 +0000
+### [June 11, 1984, Forty Years Ago: Killings In Punjab](https://indianexpress.com/article/opinion/40-years-ago/june-11-1984-forty-years-ago-killings-in-punjab-9384199/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:15:05 +0000
+### [Drying up: What Urban India needs to fix its water problem](https://indianexpress.com/article/opinion/editorials/drying-up-what-urban-india-needs-to-fix-its-water-problem-9384149/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 02:14:01 +0000
+### [This is the moment for a new federal compact](https://indianexpress.com/article/opinion/columns/this-is-the-moment-for-a-new-federal-compact-9384148/)
+
+Article found but Couldn't summarize
+
+Tue, 11 Jun 2024 01:56:43 +0000
+### [New government, new portfolios: Resume and Refresh](https://indianexpress.com/article/opinion/editorials/new-government-new-portfolios-resume-refresh-9384192/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 15:53:17 +0000
+### [With Modi Cabinet’s EBC tilt, all eyes are on 2025 Bihar election](https://indianexpress.com/article/opinion/modi-cabinet-ebc-2025-bihar-election-9383914/)
+
+The 2024 Lok Sabha elections have led to new political alignments in Bihar, as seen from the representation of Bihar in the Modi 3.0 Cabinet. Seven parliamentarians have been accommodated from the state, with the BJP accommodating its NDA allies with an eye on political mobilisation for the Assembly election in the state. The EBC votes have gained statistical significance, and Tejashwi Yadav is consciously avoiding "Yadavisation" of the Backward Castes, fielding non-Yadav OBCs. The BJP is making inroads in mobilising several EBC communities, but the politics of agda vs picchra has been successful in tilting the EBC vote back into the fold of the Mahagathbandhan led by the RJD in Bihar. The inclusion of EBC and Dalit leaders in the Modi government for 2024 is an important step towards setting the agenda for the Bihar Assembly elections in 2025.
+
+Mon, 10 Jun 2024 11:24:39 +0000
+### [NEET controversy: MCQ-based examination isn’t the right way to spot doctors](https://indianexpress.com/article/opinion/columns/neet-controversy-mcq-based-exam-isnt-the-right-way-to-spot-doctors-9383515/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 10:39:34 +0000
+### [If we let ourselves be led by children in play, could we rediscover simple joys?](https://indianexpress.com/article/opinion/columns/children-in-play-rediscover-simple-joys-9383361/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 07:04:09 +0000
+### [With a coalition government for Modi 3.0, ‘abki baar, pyaar hi pyaar’](https://indianexpress.com/article/opinion/columns/with-a-coalition-government-for-modi-3-0-abki-baar-pyaar-hi-pyaar-9382976/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 02:00:57 +0000
+### [On agriculture front, an agenda for the new government](https://indianexpress.com/article/opinion/columns/the-message-from-rural-india-9382139/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 02:00:01 +0000
+### [What we lose when we focus on identity politics](https://indianexpress.com/article/opinion/columns/what-we-lose-when-we-focus-on-identity-politics-9382170/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:48:50 +0000
+### [Modi government 3.0: Rajdharma and coalition](https://indianexpress.com/article/opinion/editorials/rajdharma-coalition-narendra-modi-government-3-0-9382137/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:46:54 +0000
+### [India’s neighbours at swearing-in: Shared stakes in stable ties](https://indianexpress.com/article/opinion/editorials/being-neighbourly-world-leaders-will-attend-swearing-in-narendra-modi-9382138/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:45:20 +0000
+### [The people have spoken: New government must prioritise diversity, constitutionalism and federalism](https://indianexpress.com/article/opinion/columns/new-government-diversity-constitutionalism-federalism-india-9382218/)
+
+Article found but Couldn't summarize
+
+Mon, 10 Jun 2024 01:38:48 +0000
+### [June 10, 1984, Forty Years Ago: Indefinite curfew in Poonch](https://indianexpress.com/article/opinion/40-years-ago/june-10-1984-forty-years-ago-two-jawans-killed-9382168/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 16:45:06 +0000
+### [What Modi 3.0 means for New India](https://indianexpress.com/article/opinion/columns/what-modi-3-0-means-for-new-india-9382153/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 15:08:34 +0000
+### [A coalition government has been sworn in. It may not change how PM Modi wields power](https://indianexpress.com/article/opinion/columns/narendra-modi-swearing-in-coalition-government-power-9381845/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 14:34:24 +0000
+### [From the Opinions Editor | Dependence on coalition partners shouldn’t make Narendra Modi 3.0 reform averse](https://indianexpress.com/article/opinion/columns/coalition-partners-narendra-modi-reform-averse-9381701/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 10:00:31 +0000
+### [Lok Sabha elections 2024: On women’s representation, a step backwards](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-2024-womens-representation-9381396/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 08:02:06 +0000
+### [PM Modi’s swearing-in ceremony: Signals to India’s neighbourhood and Indian Ocean region](https://indianexpress.com/article/opinion/columns/pm-modis-swearing-in-ceremony-signals-to-indias-neighbourhood-and-indian-ocean-region-9381202/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 02:42:20 +0000
+### [AI is sexist. Here’s how](https://indianexpress.com/article/opinion/columns/ai-is-sexist-workforce-gender-wage-gap-data-feminism-9380584/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 02:22:35 +0000
+### [INDIA must now safeguard the Constitution for Bahujans](https://indianexpress.com/article/opinion/columns/india-must-now-safeguard-the-constitution-for-bahujans-9380561/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 02:22:32 +0000
+### [History Headline: When Jawaharlal Nehru headed a national coalition government](https://indianexpress.com/article/opinion/columns/when-jawahar-lal-nehru-headed-a-national-coalition-govt-lok-sabha-election-2024-results-9380568/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 02:14:35 +0000
+### [Tavleen Singh writes: We deserve better leaders](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-we-deserve-better-leaders-9380583/)
+
+Article found but Couldn't summarize
+
+Sun, 09 Jun 2024 02:00:50 +0000
+### [P Chidambaram writes: ‘All the world’s a stage …’](https://indianexpress.com/article/opinion/columns/pm-modi-oath-taking-world-stage-coalition-govt-9380560/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 14:35:06 +0000
+### [This is the first time I’ll see a coalition government at the Centre — and the possibilities are exciting](https://indianexpress.com/article/opinion/columns/centre-coalition-government-possibilities-9380341/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 08:45:10 +0000
+### [View from Pakistan: India’s election verdict — ‘a sigh of relief’](https://indianexpress.com/article/opinion/columns/view-from-pakistan-indias-election-verdict-a-sigh-of-relief-9379761/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 08:30:04 +0000
+### [Verdict 2024: Real winner is India’s democracy](https://indianexpress.com/article/opinion/columns/verdict-2024-real-winner-is-indias-democracy-9379549/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 06:58:51 +0000
+### [Why so many flock to UPSC — and Delhi](https://indianexpress.com/article/opinion/upsc-delhi-civil-service-exam-9379579/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 02:24:55 +0000
+### [Why INDIA won Maharashtra: Sharad Pawar’s ‘politics of inclusion’ beat BJP’s remote control](https://indianexpress.com/article/opinion/columns/why-india-won-maharashtra-sharad-pawars-politics-of-inclusion-beat-bjps-remote-control-9374250/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 02:11:13 +0000
+### [MPC’s cautious approach is driven by inflation](https://indianexpress.com/article/opinion/columns/mpcs-cautious-approach-is-driven-by-inflation-9378863/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 02:02:25 +0000
+### [Verdict 2024 economy puzzle: If growth has been dynamic, why have voters punished government?](https://indianexpress.com/article/opinion/columns/verdict-2024-economy-puzzle-if-growth-has-been-dynamic-why-have-voters-punished-government-9378852/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 01:35:09 +0000
+### [Why exam paper leaks became one of big issues of the election](https://indianexpress.com/article/opinion/columns/why-exam-paper-leaks-became-one-of-big-issues-of-the-election-9378858/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 01:30:16 +0000
+### [On interest rates, why RBI decided to err on the side of caution](https://indianexpress.com/article/opinion/editorials/on-interest-rates-why-rbi-decided-to-err-on-the-side-of-caution-9378864/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 01:20:20 +0000
+### [Making room for women in politics demands a new political imagination](https://indianexpress.com/article/opinion/editorials/making-room-for-women-in-politics-demands-a-new-political-imagination-9378866/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 01:11:24 +0000
+### [America’s win over Pakistan may boost cricket in the country](https://indianexpress.com/article/opinion/editorials/americas-win-over-pakistan-may-boost-cricket-in-the-country-9378867/)
+
+Article found but Couldn't summarize
+
+Sat, 08 Jun 2024 01:11:04 +0000
+### [June 8, 1984, Forty Years Ago: Jarnail Singh Bhindranwale found dead](https://indianexpress.com/article/opinion/40-years-ago/june-8-1984-forty-years-ago-jarnail-singh-bhindranwale-found-dead-9378861/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 12:25:42 +0000
+### [Ram Madhav writes: India is relapsing into uncertainty of coalition politics. But there is a message in it](https://indianexpress.com/article/opinion/columns/india-relapsing-into-uncertainty-of-coalition-politics-lok-sabha-polls-9378270/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 10:30:48 +0000
+### [Prajwal Revanna case: Karnataka’s women need more than courtroom justice](https://indianexpress.com/article/opinion/columns/prajwal-revanna-case-karnatakas-women-need-more-than-courtroom-justice-9377886/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 07:51:04 +0000
+### [In Chandrashekhar Azad’s win in Nagina, Mayawati and the BSP’s tale of decline](https://indianexpress.com/article/opinion/columns/chandrashekhar-azad-nagina-lok-sabha-election-results-9377649/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 06:20:14 +0000
+### [With Verdict 2024 opening up space for dissent, the Opposition’s many tasks](https://indianexpress.com/article/opinion/columns/lok-sabha-poll-results-opposition-tasks-dissent-9377529/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:49:34 +0000
+### [June 7, 1984, Forty Years Ago: Blue Star Over](https://indianexpress.com/article/opinion/40-years-ago/june-7-1984-forty-years-ago-blue-star-over-9376840/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:46:55 +0000
+### [The curious case of the existential goat](https://indianexpress.com/article/opinion/editorials/the-curious-case-of-the-existential-goat-9376743/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:45:53 +0000
+### [Two alarm bells](https://indianexpress.com/article/opinion/editorials/two-alarm-bells-9376810/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:30:51 +0000
+### [Roti dal sabzi and the general election](https://indianexpress.com/article/opinion/editorials/roti-dal-sabzi-and-the-general-election-9376742/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 02:00:04 +0000
+### [How digital platforms overtook traditional media to reach the voters this election](https://indianexpress.com/article/opinion/columns/how-digital-platforms-overtook-traditional-media-to-reach-the-voters-this-election-9376854/)
+
+Article found but Couldn't summarize
+
+Fri, 07 Jun 2024 01:45:42 +0000
+### [Yogendra Yadav on BJP’s 2024 poll performance: Getting the numbers, not mandate](https://indianexpress.com/article/opinion/columns/yogendra-yadav-on-bjps-2024-poll-performance-getting-the-numbers-not-mandate-9376872/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 13:28:51 +0000
+### [When defeat feels like victory: Revelations from 2024 Lok Sabha elections](https://indianexpress.com/article/opinion/columns/defeat-feels-victory-revelations-2024-lok-sabha-elections-9376386/)
+
+Article found but Couldn't summarize
+
+Thu, 06 Jun 2024 11:39:28 +0000
+### [Mandal over Mandir: How INDIA won Uttar Pradesh](https://indianexpress.com/article/opinion/columns/how-india-won-uttar-pradesh-9375903/)
+
+The article discusses the significant impact of the INDIA bloc's performance in the Uttar Pradesh (UP) elections of 2024, which contributed to the BJP not achieving a majority on its own and the NDA falling short of the 300-seat mark. The INDIA bloc, led by a revitalized SP under Akhilesh Yadav, managed to secure 43 seats, while the BJP won 33. The election results were unexpected, especially in UP, a region traditionally seen as a stronghold of the BJP and Hindutva ideology.
+
+The BJP's confidence prior to the elections was challenged by a low voter turnout and the absence of a strong pro-Modi sentiment. The SP's resurgence, Rahul Gandhi's improved image, dissatisfaction with the Yogi Adityanath government, and economic distress in UP were key factors influencing the election outcome. Akhilesh Yadav's strategic alliances and focus on social justice over Hindutva, as well as the Congress's promising manifesto, played a role in shifting the narrative from communal issues to economic and social concerns.
+
+The article also highlights the decline of the BSP and the rise of the Bhim Army/Azad Samaj Party, indicating a shift in voter preferences among the Dalit community. Economic challenges, such as inflation and unemployment, were central to the election discourse, with the UP economy showing poor performance under the current government.
+
+In conclusion, the 2024 UP elections marked a turning point where the BJP's usual communal rhetoric was overshadowed by the electorate's focus on social justice and economic issues, leading to a significant shift in the political landscape. The INDIA bloc's campaign successfully redirected the conversation towards the people's livelihood problems and the preservation of democracy. The article ends with a brief unrelated mention of comedian Sunil Pal's experiences with actor Shah Rukh Khan.
+
+Thu, 06 Jun 2024 10:22:09 +0000
+### [The first third term PM since Jawaharlal Nehru — why does Narendra Modi keep winning?](https://indianexpress.com/article/opinion/columns/narendra-modi-jawaharlal-nehru-winning-third-term-9375702/)
+
+Narendra Modi has been re-elected as the Prime Minister of India for a third consecutive term, equalling the electoral record of the country's first prime minister, Jawaharlal Nehru. The article suggests that Modi's success is less about his policies and more about the emotional connection he establishes with the people. He is credited with making citizens feel recognized, counted, and proud by addressing various cultural, social, and heritage issues. This includes acknowledging the domestic challenges faced by women, offering solutions to political dissension in villages, and celebrating India's diverse religious and linguistic heritage. Modi's actions, such as inaugurating the Ram Temple and changing the naval ensign, are highlighted as examples of how he has tapped into the nation's pride in its martial and cultural history. The author concludes by emphasizing the lasting impact of how leaders make their citizens feel, which is a sentiment Modi seems to understand well. The writer is identified as a professor at McGill University.
+
+Thu, 06 Jun 2024 07:03:38 +0000
+### [Why Mamata wins — despite allegations of corruption, violence and political coercion](https://indianexpress.com/article/opinion/columns/mamata-banerjee-tmc-lok-sabha-election-results-9375447/)
+
+Mamata Banerjee, the Trinamool Congress leader and Chief Minister of Bengal, has once again defied expectations by winning 29 out of 42 Lok Sabha seats. Her victory is attributed to her strong grassroots connection and her image as an anti-establishment crusader. Banerjee's political narrative has been shaped by her resistance to the Left and her fluctuating alliances with the BJP-led NDA, which have solidified her reputation as an activist. Recently, she has played a significant role as an opposition leader, particularly emphasizing Bengali identity to counter the BJP's influence.
+
+Banerjee's political strategy includes leveraging local sentiments against perceived external threats, effectively engaging non-Bengali settlers, and utilizing central fund denials for schemes like MNREGA to rally rural support. She has also created a base of beneficiaries through empowerment initiatives like Kanyashree and Lakshmi Bhandar, and has been proactive in issuing caste certificates to SCs, STs, and OBCs.
+
+Despite criticisms of administrative issues and coercive politics, Banerjee's voters seem to overlook these in light of larger scandals elsewhere, viewing them as common political problems. Her personal image remains relatively untarnished, and she is seen as a victim rather than a perpetrator. Her hands-on approach to governance and her efforts to secularize Durga Puja have further endeared her to the public.
+
+The article also touches on the broader political climate in Bengal, where muscle power has become institutionalized, leading to non-ideological party crossovers. Banerjee's unique position as a female leader in a male-dominated arena and her perceived matriarchal role contribute to her continued trust among voters. The article concludes by highlighting the entrenched issues of electoral management and the use of force in Bengal politics, suggesting that voters tend to side with the perceived strongest force. Mamata Banerjee's blend of personal charisma and political acumen continues to secure her position as a key figure in the state's governance.
+
+Thu, 06 Jun 2024 03:14:45 +0000
+### [June 6, 1984, Forty Years Ago: Punjab censorship forces people to turn to Radio Pakistan for updates](https://indianexpress.com/article/opinion/40-years-ago/june-6-1984-forty-years-ago-punjab-censorship-forces-people-to-turn-to-radio-pakistan-for-updates-9374623/)
+
+The article covers several significant events:
+
+1. **Golden Temple Incident**: Terrorists used medium machine guns and mortars against security forces within the Golden Temple complex, resulting in the death of a security personnel and a laborer. The extent of casualties inside the temple remains unknown.
+
+2. **Radio Pakistan's Influence**: Due to government censorship in Punjab, villagers have turned to Radio Pakistan for news, leading to the spread of unverified stories.
+
+3. **Gulf War Escalation**: Iraqi warplanes attacked the Iranian town of Baneh, causing over 600 casualties. Iran threatened retaliation against 11 Iraqi cities, while Iraq warned of bombing 5 Iranian cities if attacked.
+
+4. **Attack on Indian High Commission in London**: Militant Sikhs wounded three security guards after forcing entry into the Indian High Commission. The incident occurred with minimal police presence, and reinforcements arrived only after the intrusion.
+
+5. **Indian Politics**: N. Chandrababu Naidu's victory in the Lok Sabha elections has strengthened his political influence, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+The summary excludes unrelated content such as advertisements and subscription prompts.
+
+Thu, 06 Jun 2024 02:55:33 +0000
+### [Don’t fear the critic: How proxy advisors improve shareholder decisions in India](https://indianexpress.com/article/opinion/columns/dont-fear-the-critic-how-proxy-advisors-improve-shareholder-decisions-in-india-9374712/)
+
+The article discusses the role and influence of proxy advisors (PAs) in corporate governance, particularly in India. It highlights that while PAs often face criticism for their recommendations, their actual impact on corporate resolutions is limited, as seen in the low number of rejections of their advised 'against' votes. The article argues that PAs serve as a support system for investors to make informed decisions rather than dictating actions. It also addresses the controversies surrounding PAs, especially regarding their interpretation of laws and valuation judgments. The cases of ICICI Securities' delisting and Tata Motors' DVR proposal are cited as examples where PAs faced opposition despite majority institutional investor support. The article concludes by emphasizing the importance of PAs maintaining their independence and not being swayed by outcomes, as they are not beneficiaries of the proposals they evaluate. The writer is the managing director of Stakeholders Empowerment Services, which has reported on companies like Nestle, ITC, Tata Motors, and ICICI Securities. The unrelated content regarding the Lok Sabha Election Results 2024 and comedian Sunil Pal's comments about SRK have been omitted from this summary.
+
+Thu, 06 Jun 2024 02:50:25 +0000
+### [Why AI chatbot of your older self won’t stop you from making stupid decisions](https://indianexpress.com/article/opinion/editorials/why-ai-chatbot-of-your-older-self-wont-stop-you-from-making-stupid-decisions-9374622/)
+
+The article discusses a common human desire to impart wisdom to our younger selves, often to avoid past mistakes. It highlights an AI chatbot developed by MIT researchers that simulates conversations with an older version of the user, providing advice based on the user's own behavior and inputs. While the chatbot aims to offer guidance on various life aspects, including career and family, the article suggests that such technology is unlikely to significantly change one's life path. It reflects on the nature of youth to disregard the advice of elders, implying that wisdom often comes from experiencing life's regrets and lessons firsthand. The article also touches on the notion that people change over time, and the 'you' of the past is not the 'you' of the present. The unrelated content regarding election updates and the anecdote about SRK has been omitted from this summary.
+
+Thu, 06 Jun 2024 02:50:21 +0000
+### [After a bitter election, India’s electoral process stands tall](https://indianexpress.com/article/opinion/editorials/after-a-bitter-election-indias-electoral-process-stands-tall-9374621/)
+
+The article discusses the integrity and challenges of the election process in India, highlighting the Election Commission's (EC) role in ensuring fair play during the recent General Elections. Despite concerns about the fairness of the elections, due to actions like the arrests of political figures by the Enforcement Directorate, the EC maintained high standards throughout the process. The article notes that no candidates disputed the results, even in extremely close races, underscoring the trust in the electoral system. Additionally, it mentions N. Chandrababu Naidu's significant victory in the Lok Sabha election, which reinforces his influence in national politics and his expected push for Special Category State status for Andhra Pradesh.
+
 Thu, 06 Jun 2024 02:40:56 +0000
 ### [PM Modi’s appeal is not dented by one election result](https://indianexpress.com/article/opinion/columns/pm-modis-appeal-is-not-dented-by-one-election-result-9374652/)
 
@@ -369,6 +3818,623 @@ Fri, 31 May 2024 01:51:04 +0000
 ### [In Hapur, a marriage ceremony, a moral outrage and a heartening change in script](https://indianexpress.com/article/opinion/editorials/in-hapur-a-marriage-ceremony-a-moral-outrage-and-a-heartening-change-in-script-9362622/)
 
 Article found but Couldn't summarize
+
+Fri, 31 May 2024 01:45:42 +0000
+### [After June 4, two questions: Who and what won?](https://indianexpress.com/article/opinion/columns/after-june-4-two-questions-who-and-what-won-9362762/)
+
+The article discusses the complexities of the electoral process in India, focusing on the aftermath of the elections and the broader implications of the results. It highlights that while the question of "Who won?" is easily answered through the counting process and the loser's concession, the question of "What won?" is more intricate. The article suggests that election mandates are not just about episodic victories but also about long-term success and policy choices that resonate with the electorate.
+
+The piece delves into the challenges of nation-building in India, termed "nationising," which involves unifying a diverse population with shared values and collective memories, often linked to religion. It reflects on the historical context of nation-building efforts by leaders like Gandhi and the current dilemmas faced by Indian leaders in balancing cultural identification with inclusivity.
+
+The article also addresses the media's speculation on the role of secularism in India and the Bharatiya Janata Party's (BJP) stance on representing the entire nation rather than specific vote banks. It concludes by discussing the potential for nationising India to succeed, given the country's culture of contestation, general constituencies, the role of the judiciary, and the signals from the RSS for inclusion and moderation. The flexibility of India's federalism and the inherent uncertainty in Indic religions are seen as assets in building an inclusive nation. The writer is identified as an emeritus professor at Heidelberg University.
+
+Thu, 30 May 2024 16:06:06 +0000
+### [Aadhaar, PAN, Paytm, KYC — how fintech regulation is hurting the consumer](https://indianexpress.com/article/opinion/columns/aadhaar-pan-paytm-kyc-how-fintech-regulation-is-hurting-the-consumer-9362258/)
+
+The article by Arindam Goswami critiques the current state of financial technology (fintech) regulation in India. It begins by discussing the Reserve Bank of India's (RBI) conservative approach, which has led to halting new digital customer onboarding and suspending credit card issuances for Kotak Bank, drawing parallels to past regulatory actions against HDFC and Paytm. The author argues that such measures often lack a solid basis and result in reactive overreach rather than proactive risk management.
+
+The piece then examines the RBI's recent permissions for payment aggregators like PayU and Razorpay to onboard new merchants, which is seen as a positive step. However, this optimism is short-lived due to the RBI's stringent mandates on data localization and card storage, which have caused significant disruption, particularly for merchants and international payments. The author suggests that these guidelines were not well-thought-out and have introduced unnecessary friction into the system.
+
+Further, the article addresses the impact of regulations on stock broking and mutual fund businesses, highlighting the added complexity and friction caused by OTP requirements and discrepancies in data among ecosystem participants. It also criticizes the prohibition on using wallets for mutual fund purchases, which has complicated settlement processes and negatively affected consumers and market liquidity.
+
+The author points out the broader consequences of stringent KYC norms and arbitrary lending caps, which have hindered financial inclusion and innovation. The lack of stakeholder consultation and cost-benefit analysis in the regulatory decision-making process is also criticized, with the author advocating for a more thoughtful approach that considers the least disruptive options.
+
+The article concludes by calling for a fundamental rethink of fintech regulation, emphasizing the need for innovation, expertise, and modernization of processes. It proposes the concept of the 'Finternet'—multiple financial ecosystems interconnected like the internet—as a vision for the future financial system. The author remains hopeful that by embracing transparency, collaboration, and innovation, India can navigate the regulatory challenges and move towards a brighter future in fintech. The unrelated content regarding the Lok Sabha Election Results 2024 and N Chandrababu Naidu's victory has been omitted from the summary.
+
+Thu, 30 May 2024 08:30:37 +0000
+### [Why RBI must rethink its draft guidelines for project financing](https://indianexpress.com/article/opinion/columns/rbi-rethink-draft-guidelines-project-financing-9360970/)
+
+The Reserve Bank of India (RBI) has proposed new draft guidelines for bank lending to infrastructure projects, affecting a wide range of financial institutions. These guidelines have sparked significant concern in the banking and renewable energy sectors due to stringent provisioning requirements, which are seen as potentially detrimental to profitability and investment in infrastructure. The RBI's cautious approach stems from the complex nature of infrastructure projects and their associated risks, as well as past experiences with non-performing assets in the banking system. The proposed rules require higher provisions during the construction phase of projects, which banks argue should be lower. The guidelines also face criticism for potentially exacerbating the challenges posed by existing Basel III banking regulations on project finance. Market participants agree on the need for collaboration with the RBI to find a balanced solution that supports infrastructure financing while managing risk effectively. The article emphasizes the importance of regulated funding and the role of private sector involvement in achieving large-scale infrastructure investment and economic growth. The writer is affiliated with the National Institute of Public Finance and Policy.
+
+Thu, 30 May 2024 06:30:34 +0000
+### [Juvenile ‘injustice’: Are children facing the brunt of systemic inadequacies?](https://indianexpress.com/article/opinion/columns/juvenile-injustice-children-systemic-inadequacies-9360174/)
+
+The article discusses the systemic issues in India's juvenile justice system, highlighted by the Pune car crash case. It emphasizes the problem of minors being detained in adult prisons and the failure to implement juvenile justice laws effectively. A study by iProbono found that thousands of minors were wrongly imprisoned between 2016 and 2021. Despite legal provisions and a new juvenile justice act in 2015, the issue persists, with numerous cases of minors detained in adult prisons due to police misrepresentation and lack of legal representation. The author, a lawyer with expertise in prison reforms, argues that the system's reliance on correcting mistakes after they occur is flawed. The article calls for better implementation of the right to legal representation, especially for minors, to prevent their wrongful incarceration in adult prisons. The author's views are personal and based on her experience with the Prison Reforms Programme at the Commonwealth Human Rights Initiative since 2008.
+
+Thu, 30 May 2024 02:49:42 +0000
+### [May 30, 1984, Forty Years Ago: One person killed in J-K riots](https://indianexpress.com/article/opinion/40-years-ago/forty-years-one-person-killed-in-jk-riots-9360255/)
+
+The article covers several significant incidents and developments:
+
+1. In Punjab, terrorists attacked a BSF picket in Tarn Taran, resulting in the deaths of two BSF jawans and a civilian, with seven others injured. Prime Minister Indira Gandhi expressed dissatisfaction with the handling of the situation to the Punjab Governor.
+
+2. India expressed "profound regret" to Bangladesh for an incident at the Bangladesh High Commission in New Delhi, where the building was damaged by "Hindu Manch" volunteers. Foreign Secretary M Rasgotra assured the Bangladesh High Commissioner of full protection for the diplomatic mission.
+
+3. In Jammu & Kashmir, police firing in Srinagar to control violent mobs led to one death and several injuries after other methods failed to disperse the crowd that had set fire to a police office.
+
+4. Shiv Sena chief Bal Thackeray warned that his arrest on criminal charges could lead to "further chaos," criticizing the government's delayed response to his controversial speech as succumbing to communal pressure.
+
+5. The article also mentions the upcoming swearing-in of PM Narendra Modi for a third term on June 8, following the NDA's victory in the Lok Sabha elections. The Union Cabinet has recommended the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha and is discussing the formation of the next government.
+
+Thu, 30 May 2024 02:45:28 +0000
+### [Punjab, unlike other states, has been known to resist a national electoral wave](https://indianexpress.com/article/opinion/columns/punjab-unlike-other-states-has-been-known-to-resist-a-national-electoral-wave-9360259/)
+
+The article discusses the unique political landscape of Punjab, where traditional vote banks based on religion or caste do not exist, and alliances among parties are uncommon. It highlights the state's history of political mergers and coalitions dating back to colonial times, with a focus on the post-election and pre-election alliances between the BJP and Akali Dal. The narrative shifts to the decline of the Bahujan Samaj Party's influence among Scheduled Castes and the lack of a Hindu vote bank for the BJP, even during the 2014 Hindutva wave. The article emphasizes Punjab's blurring of religious and caste lines in electoral politics, making exclusive categorization ineffective for garnering votes.
+
+The current political scenario is described as a four-cornered contest without alliances, with the Congress and AAP running independently, and the Akalis and BJP unable to form an alliance due to disagreements on key issues. The AAP's strategy of branding traditional parties as corrupt is contrasted with its current challenge of maintaining its image as a party for change. The BJP's lack of a Punjab-specific agenda and the Akalis' focus on regional issues are also discussed.
+
+The article concludes by noting the potential impact of fringe radicals in the election, the division of votes among the major parties, and the Congress's position as the likely beneficiary. It also mentions N Chandrababu Naidu's victory in the Lok Sabha election and his importance to the BJP, with a final note on his push for Special Category State status for Andhra Pradesh. The writer is identified as the chairperson of the Institute for Development and Communication, Chandigarh.
+
+Thu, 30 May 2024 02:40:32 +0000
+### [Cyclone Remal aftermath shows why it’s necessary to build disaster-resilient infrastructure](https://indianexpress.com/article/opinion/editorials/cyclone-remal-aftermath-shows-why-its-necessary-to-build-disaster-resilient-infrastructure-9360252/)
+
+The article discusses the evolution of India's disaster management in response to changing natural disaster patterns over the past two decades. It highlights the establishment of the National Disaster Management Authority (NDMA) in 2005 and its achievements in disaster mitigation and response, including adapting to new threats like heatwaves. The recent landslides in the Northeast, triggered by Cyclone Remal, underscore the need for further improvements in the disaster management system.
+
+The article emphasizes that disasters have become more frequent and severe due to climate change, leading to multi-hazard events where one disaster triggers another, causing greater destruction. It calls for disaster management agencies to be more proactive, with increased resources and capacity-building. It also points out the necessity of incorporating disaster resilience into new infrastructure projects and retrofitting old ones. The article mentions India's role in forming the Coalition for Disaster Resilient Infrastructure (CDRI) to promote such infrastructure globally, suggesting that India should set an example domestically.
+
+Thu, 30 May 2024 02:35:23 +0000
+### [Is France prepared for a vegetarian makeover?](https://indianexpress.com/article/opinion/editorials/is-france-prepared-for-a-vegetarian-makeover-9360254/)
+
+As the Paris Olympics approach, France is gearing up for a significant shift towards vegetarian cuisine in an effort to reduce carbon emissions by 50%. The Olympic planning committee has decided to limit beef and veal, which have a high carbon footprint, to 40% of the athletes' menu. Charles Guilloy, the head chef, is challenging the meat-centric image of French gastronomy by promoting plant-based dishes. Despite France's traditional preference for meat and the meat industry's resistance to plant-based alternatives, Guilloy and Tony Estangoet, the head of the Olympic organising committee, are advocating for a change in eating habits to benefit the planet. However, they acknowledge that changing national dietary preferences may require more than just an international sports event.
+
+Thu, 30 May 2024 02:02:51 +0000
+### [Netanyahu’s actions flout principles of justice and humanity](https://indianexpress.com/article/opinion/editorials/netanyahus-actions-flout-principles-of-justice-and-humanity-9360253/)
+
+The article discusses the international and domestic consequences for Israel following its recent military actions in Gaza. The UN Security Council's call for a humanitarian ceasefire, which was not vetoed by the US, suggested a limit to Washington's support for the Netanyahu government. This was further implied when President Biden warned that a ground offensive in Rafah would lead to a halt in US arms supply to Israel, a threat that seemed to diminish when Israel bombed a refugee shelter without consequence from the US.
+
+The article highlights the global isolation Israel is facing due to civilian casualties and displacement caused by its conflict with Hamas. Netanyahu's denial of a two-state solution and continuation of attacks are contributing to this isolation. Domestically, Netanyahu is unpopular due to his inability to resolve the hostage situation or capture Hamas leadership, and he faces corruption charges. His government's judicial reforms have also sparked protests.
+
+Internationally, Israel's actions have led to recognition of the Palestinian state by several countries and legal challenges, including accusations of genocide and war crimes against Netanyahu. The article suggests that the conflict may be a political strategy for Netanyahu, but it is damaging Israel's international relations and goes against principles of justice and humanity. The article concludes with unrelated information about Indian politics, specifically the re-election of PM Narendra Modi.
+
+Thu, 30 May 2024 02:00:28 +0000
+### [D Raja writes: In this poll season, BJP has attacked integrity of electoral processes](https://indianexpress.com/article/opinion/columns/d-raja-writes-in-this-poll-season-bjp-has-attacked-integrity-of-electoral-processes-9360251/)
+
+The article is a critical commentary on the Bharatiya Janata Party's (BJP) governance over the past decade, highlighting the perceived strain on India's constitutional framework. It accuses the BJP of undermining the integrity of institutions and the electoral process through measures like the electoral bonds scheme and the "One nation, one election" policy. The piece also criticizes the Election Commission of India (ECI) for its alleged inaction against violations of the Model Code of Conduct by the BJP and Prime Minister Narendra Modi, particularly concerning the Ram Temple issue and polarizing statements. The author, identified as the General Secretary of the CPI, calls for the protection of democratic ideals and the independence of institutions, emphasizing the ECI's role in ensuring free and fair elections. The article concludes with a mention of PM Narendra Modi's upcoming third term and the formation of the next government.
+
+Wed, 29 May 2024 14:49:24 +0000
+### [Pune Porsche case: Is the outrage over bail to minor justified?](https://indianexpress.com/article/opinion/pune-porsche-case-is-the-outrage-over-bail-to-minor-justified-9359837/)
+
+The article discusses the controversial Pune Porsche case where a 17-year-old, son of a wealthy builder, was granted bail hours after causing a fatal accident. The minor, driving an unregistered Porsche without a license and under the influence of alcohol, killed two IT professionals. Initially granted bail with conditions like studying traffic rules and writing an essay on road accidents, public outrage led to the cancellation of his bail and his detention until June 5. The state seeks to try him as an adult due to the nature of the offense.
+
+The case raises significant issues about juvenile justice and road safety. It questions the criminal justice process, which often imposes burdens that act as punishment, and the expectation of bail denial for serious offenses by minors. The criticism of the bail grant reflects a view of juvenile justice focused on deterrence and individual culpability, overlooking the role of enablers in such incidents.
+
+Furthermore, the case highlights the inadequacy of the criminal justice system in addressing road accidents, suggesting a need for stronger enforcement and prevention measures. The article argues that formal deterrents alone cannot address the underlying behavioral and social factors of road accidents, advocating for informal methods to influence young people's behavior.
+
+The author, a senior IPS officer, emphasizes personal views and the need for a multifaceted approach to road safety and juvenile justice. The article concludes with unrelated content about political updates, which is not included in the summary.
+
+Wed, 29 May 2024 13:50:17 +0000
+### [Why more strict compliance is not enough to avoid tragedies like Rajkot and Delhi fires](https://indianexpress.com/article/opinion/compliance-tragedies-rajkot-and-delhi-fires-9359747/)
+
+The article by Sushmita Pati discusses the frequent occurrence of fires in urban areas and the recent tragic incidents in Rajkot and Delhi, emphasizing the loss of lives, including children and infants. It critiques the immediate response of blaming negligence, greed, and poor compliance, while pointing out the deeper issues of ineffective governance and the difficulty in regulating urban sprawl. The Gujarat High Court's actions in the Rajkot case are mentioned, but the article argues that more comprehensive solutions are needed.
+
+The piece highlights the ineffectiveness of outrage-driven legal actions, using the example of the M C Mehta case, where the sealing of unauthorized buildings in Delhi failed to bring lasting change. It notes the commonplace nature of fires in various settings, including informal factories and upscale establishments, and the alarming number of factory fires in Delhi. The article stresses that fire safety is often overlooked, even by those at risk, due to the struggle to make ends meet.
+
+The author calls for a broader understanding of fire safety, beyond mere enforcement of laws, and points out the structural issues within our cities that contribute to fire hazards, such as inequality and poor infrastructure. The article concludes that fire safety should be integrated into the larger context of urban planning and that stronger laws alone are not sufficient to address the issue.
+
+The writer, a faculty member at NLSIU Bangalore, also briefly mentions the political implications of N Chandrababu Naidu's victory in the Lok Sabha election, which has reinforced his influence in national politics and his expected push for Special Category State status for Andhra Pradesh. The article suggests that financial difficulties have been an obstacle to fulfilling this promise made during the state's bifurcation in 2014.
+
+Wed, 29 May 2024 12:59:27 +0000
+### [Blaming court vacation for pendency misses the real problem](https://indianexpress.com/article/opinion/columns/court-vacation-case-pendency-real-problem-9359577/)
+
+The article discusses the challenges facing India's judiciary system, focusing on the misconception that judges' vacations are the primary cause of case backlogs. It highlights several key issues contributing to the problem:
+
+1. **Judge Shortage**: There's a significant shortage of judges across high and lower courts, with vacancies averaging 30% in high courts and 22% in subordinate courts. This shortage is a major factor in case pendency, which averages three years in subordinate courts and five years in high courts.
+
+2. **Sanctioned Strength vs. Actual Need**: The current number of judges per population is far below the recommended ratio, with India having only 15 judges per 10 lakh people compared to the suggested 50.
+
+3. **Complexity of Cases and Courtroom Shortages**: The variety and complexity of cases, along with strategies used by lawyers to delay trials, exacerbate the backlog. Additionally, there's a lack of courtrooms and support staff, leading to inevitable delays.
+
+4. **Structural and Quality Deficits**: Inadequacies in language proficiency, legal knowledge, and procedural efficiency at both the bar and bench lead to further delays and appeals.
+
+5. **Legal Culture**: The culture within the legal fraternity often allows for unnecessary delays and appeals, adding to the case backlog.
+
+6. **Technology Adoption**: Slow and uneven adoption of technology in the judiciary hinders efficiency.
+
+The article suggests several solutions, including better court management, higher entry standards for judges and lawyers, and increased government spending on the judiciary. It also addresses the need for state and central governments to collaborate on these issues and the potential benefits of cleaning outdated laws and procedures.
+
+Lastly, it acknowledges the inevitability of increased litigation in a growing economy but emphasizes that with proper planning, the judiciary's challenges can be managed. The writer is the editor-in-chief of the India Justice Report. The article concludes with unrelated content about the Lok Sabha Election Results 2024 and political developments following the elections.
+
+Wed, 29 May 2024 08:28:20 +0000
+### [Rising temperatures and cities as ‘heat islands’: Another reason for Bengaluru to make its parks more open, accessible](https://indianexpress.com/article/opinion/columns/rising-temperature-bengaluru-heat-park-9358802/)
+
+The article discusses the role of parks in Bengaluru, not just as recreational spaces but also from ecological and equity perspectives. It highlights the importance of parks like Cubbon Park and Lal Bagh in maintaining the city's 'Garden City' image, while also pointing out the existence of smaller neighborhood parks. These parks, with their mix of native and exotic trees, provide shade and space for residents to engage in various activities. However, the article raises concerns about the limited open hours of these parks and the strict rules that govern their use, which can be restrictive and sometimes unreasonable.
+
+The article also touches on the rising temperatures in Bengaluru, exacerbated by the urban heat island effect due to increased urbanization. It notes that while parks could offer respite from the heat, their closure during peak hours prevents access to those in need, such as outdoor workers and gig workers.
+
+The author argues for a rethinking of park use and access, suggesting that parks should be multiuse green spaces available to different groups throughout the day. The article calls for parks to be more accessible, inclusive, and ecologically rich, serving not only as places for recreation but also as educational resources and refuges from the heat for the city's vulnerable populations.
+
+Finally, the article emphasizes the need for collective action to make parks safer and more welcoming, advocating for a sense of ownership among residents that would lead to better maintenance and inclusivity. The writer is identified as faculty at Azim Premji University. The article concludes with unrelated content about N Chandrababu Naidu's victory in the Lok Sabha election and its political implications, which is not included in the summary as per your request.
+
+Wed, 29 May 2024 02:45:59 +0000
+### [Food or the Fed – what will drive the RBI’s monetary policy?](https://indianexpress.com/article/opinion/columns/food-or-the-fed-what-will-drive-the-rbis-monetary-policy-9357894/)
+
+The article discusses the Reserve Bank of India's (RBI) monetary policy decisions in the context of inflation and interest rates. In May 2022, the RBI's Monetary Policy Committee (MPC) unexpectedly raised interest rates by 40 basis points, initiating a rate hike cycle amidst rising inflation, which was influenced by the Russia-Ukraine conflict and other factors. The article questions the timing and rationale behind the unscheduled rate hike, especially since the MPC did not adjust rates in its April or June meetings, nor did it provide an updated inflation forecast.
+
+Fast forward to two years later, India's inflation has been low, with the consumer price index at 4.83% and core inflation at a multiyear low of 3.2%, indicating weak demand. However, food inflation remains high at 8.7%, posing a challenge for monetary policy. The RBI forecasts inflation to average 4.5% in Q4 of 2024-25, leading to speculation on whether the MPC will cut rates if monsoon conditions improve and food prices stabilize.
+
+Internationally, the US Federal Reserve's policy decisions are contrasted with those of the European Central Bank and the Bank of England, which are expected to cut rates. The article concludes by pondering whether the RBI's future monetary policy will be influenced more by domestic growth-inflation dynamics or international policy cycles, questioning if it will be "Fed or food-dependent." The article also briefly mentions political developments, including PM Narendra Modi's anticipated third term after the Lok Sabha elections.
+
+Wed, 29 May 2024 02:35:30 +0000
+### [A spacing out competition: For a busy world, why leisure is healing](https://indianexpress.com/article/opinion/editorials/a-spacing-out-competition-for-a-busy-world-why-leisure-is-healing-9357871/)
+
+The article discusses a unique "space-out competition" created by South Korean artist Woopsyang, where participants aim to do nothing and maintain a stable heart rate amidst the hustle of city life. It reflects on the scarcity of leisure and stillness in today's fast-paced world, noting that humans historically lived more leisurely lives. The piece cites a view expressed by Bill Gates in 2023, suggesting that automation could reduce manual labor and increase leisure time. However, the rise of gig economies, wars, and complex technologies seems to contradict this hope. The article suggests that embracing leisure and stepping away from the relentless pursuit of productivity could be revolutionary for mental health and well-being. It concludes by encouraging people to take a break from their busy lives to appreciate simple pleasures, like watching birds. The unrelated content regarding political updates has been omitted from this summary.
+
+Wed, 29 May 2024 02:34:14 +0000
+### [Where are Hindi cinema’s political songs?](https://indianexpress.com/article/opinion/columns/where-are-hindi-cinemas-political-songs-9357898/)
+
+The article reflects on the role of Hindi cinema in political discourse, particularly through songs that address social and political issues. It highlights the work of lyricist Sahir Ludhianvi, whose songs in films like "Aaj Aur Kal" and "Pyaasa" became anthems for democracy and social justice. The piece traces the evolution of politically charged film music from the post-Independence era, through the turbulent '70s, and up to the present day, noting a decline in such songs as dissent is increasingly viewed as disloyalty. It also mentions the recent Lok Sabha elections and the re-election of PM Narendra Modi. The article suggests that while the space for politically conscious songs in films has diminished, their legacy remains significant.
+
+Wed, 29 May 2024 02:30:46 +0000
+### [Election season and a volatile stock market](https://indianexpress.com/article/opinion/editorials/election-season-and-a-volatile-stock-market-9357870/)
+
+The Indian stock market has been experiencing significant volatility, with the Nifty VIX, an indicator of market fear, increasing notably since late April, reaching 24.2 on a recent Tuesday. This volatility is partly attributed to the ongoing elections. Prime Minister Narendra Modi has optimistically stated that the stock market will reach new heights on June 4, echoing sentiments from other government officials who have tried to reassure investors.
+
+Amidst this volatility, the stock market has seen a rally, pushing the Sensex and Nifty to record levels and the market capitalization of NSE-listed companies to $5 trillion. The market cap to GDP ratio has risen, and retail investor optimism is evident in the growing number of demat accounts and mutual fund folios. However, concerns about overvaluation, particularly in the small and mid-cap sectors, persist, with some stocks trading at high price-to-earnings ratios. While domestic investors remain bullish, foreign investors have shown caution, with net investments by foreign portfolio investors turning negative in April and May after a strong March.
+
+Several upcoming events could influence market direction: the release of fourth-quarter GDP data, the national election results indicating the new government's policy direction, the RBI's monetary policy committee meeting on interest rates, and the presentation of the Union budget.
+
+Additionally, N Chandrababu Naidu's significant victory in the Lok Sabha election has reinforced his importance in national politics, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Wed, 29 May 2024 02:30:40 +0000
+### [More concrete, more heat: Why our cities are hotter than ever](https://indianexpress.com/article/opinion/editorials/more-concrete-more-heat-why-our-cities-are-hotter-than-ever-9357868/)
+
+The article discusses the severe heat stress in urban India, not just due to rising temperatures but also because of increased humidity, land surface temperature, and urbanization. The Centre for Science and Environment report highlights the 'urban heat island effect' where dense urban areas trap more heat, leading to higher temperatures than surrounding areas, and nights that do not cool down sufficiently. This has led to prolonged heat waves, posing risks to vulnerable populations. Despite over 20 states creating heat action plans with the National Disaster Management Authority, most are ineffective due to lack of funding and sustainable vision. Experts suggest city-specific management plans, like Ahmedabad's Cool Roofs programme, which prioritize green spaces and target heat generators, could be more effective in combating heat waves and saving lives.
+
+Wed, 29 May 2024 02:30:02 +0000
+### [May 29, 1984, Forty Years Ago: Tax Sharing Rules](https://indianexpress.com/article/opinion/40-years-ago/may-29-1984-forty-years-ago-tax-sharing-rules-9357891/)
+
+The article covers several topics:
+
+1. **Tax Agreement**: State chief ministers have agreed on the rate and distribution of a new consignment tax for interstate trade, matching it with the central sales tax rate. Half of the tax proceeds will stay with the collecting state, and the rest will be shared among all states based on the excise duty distribution formula.
+
+2. **Irrigation and Broadcasting**: The Telugu Desam Party has called for the Union government to either take charge of major irrigation projects or support states in executing them, citing their importance for agricultural development. They also seek to end the central government's monopoly over All India Radio and Doordarshan.
+
+3. **Nehru Award**: Dr. Leopold Sedar Senghor of Senegal and Dr. Bruno Kreisky of Austria have been awarded the Jawaharlal Nehru Award for International Understanding for 1982 and 1983, respectively. Each award includes Rs 2.5 lakh and a citation, to be presented in November.
+
+4. **Punjab Tensions**: In Punjab, two fatalities occurred, an attempt to bomb the Kalka Mail was foiled, and a post office was set ablaze. To combat rising terrorist activities, the state government has created new police positions, with BSF and CRPF officers to be appointed.
+
+The rest of the content seems to be related to subscriber-only articles and unrelated to the main topics of the article. The comedian Sunil Pal's comments about SRK's humility during a tour in Singapore are also mentioned.
+
+Wed, 29 May 2024 02:00:43 +0000
+### [How women party workers are reshaping Indian politics](https://indianexpress.com/article/opinion/columns/how-women-party-workers-are-reshaping-indian-politics-9357869/)
+
+The article discusses the evolving role of women in Indian politics, particularly focusing on the impact of women party workers on elections and party organizations. It highlights the trend of women's electoral turnout surpassing that of men and the strategic importance of women in grassroots political mobilization. The author, an Assistant Professor at Princeton University, emphasizes the rise of women within party ranks, especially in the BJP, and the shift in political strategies to engage women voters through targeted electoral promises and welfare schemes. The article also critiques the traditional underestimation of Indian women's political agency and notes the increasing involvement of women in protests and political events. The growing participation of women is seen as a crucial factor in shaping India’s democratic future, with the BJP benefiting significantly from this trend due to its active women's wing and the opportunities it provides for women to advance within the party. The article concludes by questioning whether the increased political participation of women strengthens or undermines India's democracy, asserting that women's political agency is essential for the country's democratic trajectory.
+
+Tue, 28 May 2024 12:54:34 +0000
+### [A Hindi remake of ‘Manjummel Boys’ is unlikely to work. Here’s why](https://indianexpress.com/article/opinion/columns/manjummel-boys-hindi-remake-9357197/)
+
+The article discusses the impact of new-wave Malayalam cinema, highlighting its success in portraying relatable and diverse faces that resonate with audiences across linguistic and geographical boundaries. This fresh approach is contrasted with the typecasting prevalent in mainstream Hindi cinema, where actors often get pigeonholed into specific roles. The piece praises Malayalam cinema for its egalitarian casting, exemplified by actor Fahadh Faasil's versatile performances that defy conventional star images. It argues for a cinema that is driven by characters and actors rather than stars, suggesting that Malayalam films offer a model for creating more authentic and adaptable storytelling. The writer, a teacher of literature and film, implies that this approach could revolutionize Indian cinema, moving away from the star system towards a more inclusive and realistic representation of society.
+
+Tue, 28 May 2024 10:20:44 +0000
+### [C Raja Mohan writes: Election rhetoric, nuclear weapons and Pakistan — the need to expand debate](https://indianexpress.com/article/opinion/columns/c-raja-mohan-election-rhetoric-nuclear-weapons-pakistan-expand-debate-9356795/)
+
+The article discusses the evolving nuclear landscape in the context of Indian politics and global dynamics. It highlights the renewed focus on nuclear issues among major powers and regions, driven by geopolitical tensions and technological advancements. The debate over nuclear weapons in the Indian elections is contrasted with the broader challenges India faces, including the need to deter Pakistan's nuclear capabilities and the growing nuclear arsenal of China.
+
+The piece underscores the importance of modernizing India's nuclear strategy and capabilities in response to these challenges. It suggests that India should prioritize building a deterrent against China's expanding nuclear arsenal and calls for a comprehensive review of global nuclear dynamics and regional atomic challenges. The article also emphasizes the need to accelerate India's civilian nuclear energy program to keep pace with developments in China and South Korea.
+
+The writer, a contributing editor on international affairs for The Indian Express and visiting professor at the Institute of South Asian Studies, National University of Singapore, advocates for an overhaul of India's legal and institutional frameworks governing atomic energy development to meet these emerging challenges. The article concludes by reflecting on the implications of the Lok Sabha Election Results 2024 for national politics and India's strategic priorities.
+
+Tue, 28 May 2024 08:28:15 +0000
+### [Akhilesh Yadav and Rahul Gandhi’s strategy — promise of caste census and more reservation](https://indianexpress.com/article/opinion/columns/akhilesh-yadav-and-rahul-gandhis-strategy-promise-of-caste-census-and-more-reservation-9356524/)
+
+The article discusses the resurgence of social justice politics in India, particularly in the context of the Mandal Commission era of the 1990s. It highlights the decline of parties like the BSP, RJD, and SP as the BJP gained strength, but notes a recent increase in SP's vote share. The focus is on the "INDIA bloc," an alliance led by the SP and Congress, which is steering the current election narrative towards social justice and development, termed "subaltern justice."
+
+The article outlines the strategies of Akhilesh Yadav and Rahul Gandhi, who are addressing issues of social and economic injustice, historical discrimination, and exclusion from welfare policies. It mentions the mobilization of the Constitution as a symbol of subaltern justice politics and the demand for a caste census to address resource distribution.
+
+Akhilesh Yadav's PDA strategy aims to expand the SP's voter base beyond its traditional supporters by addressing the welfare of backward classes, Dalits, minorities, and women, and by fielding a diverse range of candidates. The article also touches on the pre-election issues dominating media, such as youth employment, pension schemes, and farmers' demands, which the SP is leveraging to mobilize votes against the BJP.
+
+The piece concludes by discussing the Congress's manifesto proposals, including a socio-economic and caste census and increasing reservation caps. It suggests that the current political climate is a blend of economic and social concerns, leading to a broader concept of subaltern justice.
+
+The writer, a historian at the University of Nottingham, UK, provides insights into the evolving political landscape in India, with a focus on the ongoing general election and the strategies of key players like the SP and Congress. The article does not include unrelated content or advertisements.
+
+Tue, 28 May 2024 02:42:06 +0000
+### [May 28, 1984, Forty Years Ago: Fifteen people killed by Lala Ram-Shri Ram dacoit gang in UP](https://indianexpress.com/article/opinion/40-years-ago/may-28-1984-forty-years-ago-dacoit-gang-kills-15-9355474/)
+
+The article reports on several incidents of violence and political developments in India:
+
+1. A gang named Lala Ram-Shri Ram killed fifteen people in Asta village, Etawah district. The Chief Minister and senior police officials visited the site.
+2. A CRPF sentry at Akhara Balanand near the Golden Temple complex exchanged fire with terrorists, resulting in injuries and arrests.
+3. There's a potential reshuffle in the Uttar Pradesh Congress (I) ministry and party following an election defeat, with internal tensions among ministers.
+4. Reduced violence was reported in Greater Bombay, with continued patrolling by security forces. Incidents of stabbing occurred in Bharatnagar and Kherwadi.
+5. Political commentary on the Lok Sabha Election Results 2024, with PM Narendra Modi set to be sworn in for a third term after the NDA's victory, and discussions on the formation of the next government and dissolution of the current Lok Sabha.
+
+The summary excludes unrelated content and focuses on the main events and political news.
+
+Tue, 28 May 2024 02:39:25 +0000
+### [KKR’s win is a lesson for other franchises that rely too much on big names](https://indianexpress.com/article/opinion/editorials/kkrs-trump-cards-9355425/)
+
+Kolkata Knight Riders (KKR) secured their first Indian Premier League (IPL) title in a decade, highlighting the importance of clearly defined roles for players. Without relying on Indian superstars, KKR's success was driven by Sunil Narine's unexpected performance as a top-order batsman and the team's overall high strike rates. Although they didn't have the highest wicket-taker, three of KKR's bowlers were among the top five, contributing significantly to their victory in a season marked by aggressive batting.
+
+KKR's strategy emphasized continuity and maintaining a core group, avoiding a complete team overhaul despite previous years' failures. Their investment in Mitchell Starc paid off, as he performed well in crucial moments after a shaky start. The emergence of uncapped Indian players like Vaibhav Arora, Harshit Rana, and Ramandeep Singh demonstrated the potential of lesser-known talents. Long-standing team members Narine, Varun Chakravarthy, Venkatesh Iyer, and Andre Russell proved valuable with strategic adjustments to their gameplay. KKR's approach serves as a lesson for other teams that overemphasize star power.
+
+Tue, 28 May 2024 02:32:20 +0000
+### [Rishi Sunak’s call for early polls: The last card](https://indianexpress.com/article/opinion/editorials/delhi-to-london-9355424/)
+
+British Prime Minister Rishi Sunak has called for an early election on July 4, a move seen as risky given the Conservative Party's declining popularity after 14 years in power. With 76 MPs leaving, Sunak's attempt to revitalize the party's image hasn't been very successful. Meanwhile, the Labour Party, led by Keir Starmer, is gaining ground. Starmer has moderated the party's stance, moving away from the far-left policies of his predecessor, Jeremy Corbyn. The article also discusses the positive developments in UK-India relations under the Conservative government, highlighting efforts to strengthen ties in various sectors. It notes that the Tories have avoided interfering in India's internal affairs, unlike Labour, which has faced criticism for its positions on issues like Kashmir. The piece ends by mentioning N Chandrababu Naidu's significant victory in the Lok Sabha election, which reinforces his influence in Indian politics and his expected push for Special Category State status for Andhra Pradesh.
+
+Tue, 28 May 2024 01:57:50 +0000
+### [Payal Kapadia’s Cannes win shows India’s filmmakers are willing to risk it all](https://indianexpress.com/article/opinion/editorials/not-playing-safe-9355443/)
+
+The article discusses the success of Indian artists at the Cannes International Film Festival, highlighting Payal Kapadia's Grand Prix win for her debut feature "All We Imagine As Light." It reflects on the elements that contribute to good art, emphasizing originality and the ability to tell unique stories. The article celebrates various Indian achievements at Cannes, including Anasuya Sengupta's Best Actress award, Santosh Sivan's cinematography honor, and Chidananda S Naik's La Cinef win, among others.
+
+Kapadia's win is particularly significant as it comes 30 years after Shaji N Karun's selection for Cannes, and despite her history of protest against the establishment at FTII. Her film explores themes of female friendship and the struggles of migrants. The article also notes the commercial aspect of filmmaking, mentioning Kapadia's international co-production and the market for innovative storytelling outside the mainstream profit-driven cinema.
+
+The success of Indian cinema at Cannes is seen as an opportunity to revive an ecosystem that values craft over commerce, drawing a parallel with Satyajit Ray's experience during the making of "Pather Panchali." The article concludes with unrelated content about the Lok Sabha Election Results and PM Narendra Modi's upcoming term.
+
+Mon, 27 May 2024 13:58:00 +0000
+### [Fires in Rajkot and Delhi: To get safer cities, we must demand them](https://indianexpress.com/article/opinion/columns/rajkot-delhi-fires-safer-cities-9355131/)
+
+The article discusses the recent series of man-made disasters in India, highlighting the institutional failures in urban planning and development. It critiques the current urban development practices controlled by by-laws under the National Building Code, which are meant to ensure livability, safety, and sustainability but often fall short in practice. The author points out the complexities of imposing planning orders on semi-developed areas, leading to a strained negotiation of laws to accommodate growth, often at the expense of essential spaces and public access.
+
+The article further examines how construction laws become mere checklists, failing to ensure well-being, and how public spaces are being privatized, leading to a loss of open spaces for city dwellers. It emphasizes the need for stakeholders to demand a healthy environment beyond the prescriptive adherence to laws and codes, and for institutions to periodically assess the quality of built spaces to maintain urban space quality.
+
+The writer, an Assistant Professor at the School of Environment and Architecture in Mumbai, calls for collective responsibility in creating a safe urban space, urging law makers to implement spatial codes meaningfully and city users to prioritize long-term qualitative gains over short-term quantitative advances. The article concludes by stressing the importance of fostering social and ecological sustainability in urban environments.
+
+Mon, 27 May 2024 11:24:31 +0000
+### [Lesson from IPL 2024: It’s time for T20 teams to follow KKR, SRH – and dare to go after every ball](https://indianexpress.com/article/opinion/columns/ipl-2024-lesson-t20-kkr-srh-9354886/)
+
+The article discusses the IPL final, emphasizing the pure cricketing spirit showcased by the absence of distractions like star player hero worship and nationalistic vibes. Kolkata Knight Riders (KKR) won the final against Sunrisers Hyderabad (SRH), with no Indian World Cup squad players participating. The focus was on team play and the game itself, with KKR's mentor Gautam Gambhir and SRH's captain Pat Cummins leading by example.
+
+The piece reflects on how T20 cricket has evolved to embrace a more aggressive batting approach, breaking away from conservative strategies. The introduction of the impact substitute rule has encouraged teams to adopt a 'hit-and-giggle' mentality, resulting in a more exciting and high-scoring game. Both KKR and SRH exemplified this approach, with their openers demonstrating aggressive batting even on flat pitches.
+
+Bowlers initially struggled but adapted, with bowlers like Mitch Starc making significant impacts. The article suggests that while batting-friendly pitches will continue to dominate T20, teams that dare to be aggressive and avoid getting caught up in their own myths or egos will succeed. The main takeaway is the shift towards a more fearless batting style and the importance of teams maintaining focus on the game to progress.
+
+Mon, 27 May 2024 08:48:18 +0000
+### [Payal Kapadia has won the Grand Prix at Cannes. What happens next?](https://indianexpress.com/article/opinion/columns/payal-kapadia-has-won-the-grand-prix-at-cannes-what-happens-next-9354605/)
+
+Payal Kapadia's film "All We Imagine As Light" has won the Grand Prix at the Cannes Film Festival, marking a significant achievement for Indian cinema. This win is seen as a potential game-changer, raising global awareness of India's art-house cinema. The article discusses the impact of this victory on the perception of Indian films and the challenges of gaining theatrical release in India for films that prioritize substance over star power. It highlights the struggle of independent filmmakers and the importance of such international recognition in changing the narrative around Indian cinema. The hope is that Kapadia's film and other Indian entries at Cannes will be seen by audiences in India and not just remain limited to festival circuits or streaming platforms. The article concludes with a call for these films to be given a chance to shine in their home country, reflecting a broader desire for a more diverse and rich cinematic landscape in India.
+
+Mon, 27 May 2024 07:10:14 +0000
+### [West Bengal governor writes: What global examples show — we can never be too prepared for calamities](https://indianexpress.com/article/opinion/columns/west-bengal-governor-writes-global-examples-show-can-never-be-too-prepared-for-calamities-9354416/)
+
+The article reflects on the impact of natural disasters and the human inability to fully predict or prevent them. It discusses how modern lifestyles contribute to climate change, leading to rising sea levels and potential submersion of cities. The piece recounts historical floods in the US, particularly in New Orleans, and the drastic measures taken to mitigate them. It highlights Japan's struggle with earthquakes, despite its technological advancements, and notes the country's efforts to build quake-resistant infrastructure. The article also mentions the unpredictability of earthquakes, citing the US's Parkfield Prediction Experiment as an example of the challenges in forecasting such events. It concludes with a reminder that the earth's tremors are a constant, though often subtle, presence. The writer is identified as the Governor of West Bengal, and the article ends with a brief mention of election results in Mumbai North West constituency.
+
+Mon, 27 May 2024 02:35:22 +0000
+### [ICC warrants against Israel, Hamas leaders: Powerful can be held accountable too](https://indianexpress.com/article/opinion/columns/icc-warrants-against-israel-hamas-leaders-benjamin-netanyahu-powerful-can-be-held-accountable-too-9353611/)
+
+The article discusses the International Criminal Court's (ICC) unprecedented move to request arrest warrants for Israeli and Hamas leaders on charges of war crimes and crimes against humanity. This stems from the October 7 attack on Israel and the subsequent conflict in Gaza. The ICC's jurisdiction is based on Palestine being a state party, allowing it to exercise territorial jurisdiction over crimes committed on its territory, regardless of the perpetrators' state membership. The article highlights the ICC's past challenges with prosecuting heads of state, citing cases like Omar al-Bashir and Vladimir Putin, where arrest warrants did not lead to surrender. Despite this, the request for Israeli leaders' arrest warrants is significant as it could legally and diplomatically impact Israel, restrict Prime Minister Netanyahu's international travel, and test the ICC's credibility. The authors, affiliated with Jindal Global Law School and Australian National University, express their personal views.
+
+Mon, 27 May 2024 02:30:46 +0000
+### [Import policy must be well-integrated with minimum support policy](https://indianexpress.com/article/opinion/columns/import-policy-must-be-well-integrated-with-minimum-support-policy-9353662/)
+
+The article discusses the Reserve Bank of India's (RBI) role in managing inflation and supporting India's economic growth. It highlights RBI's success in keeping inflation within the target range and contributing to financial stability by transferring a surplus to the government. The article also examines India's agricultural trade policies, noting a decline in agri-imports and questioning whether this indicates increased self-reliance. It details the significant drop in edible oil imports due to lower global prices and the doubling of pulse imports due to domestic production issues. The authors suggest that trade policy should be integrated with the Minimum Support Price (MSP) policy to protect farmers' interests and promote self-sufficiency in pulses and oilseeds. They argue for a rational trade policy that aligns with MSP and large-scale procurement by NAFED if prices fall below MSP. The article concludes that trade policy must balance farmers' and environmental interests, emphasizing the need for sustainable practices in agriculture. The authors are affiliated with ICRIER, and their views are personal.
+
+Mon, 27 May 2024 02:30:35 +0000
+### [New PhD guidelines do injustice to diversity of student body through a uniform admission process](https://indianexpress.com/article/opinion/columns/new-phd-guidelines-do-injustice-to-diversity-of-student-body-through-a-uniform-admission-process-9353661/)
+
+The article discusses the recent changes in India's education system, particularly in higher education. It highlights the diversity of educational institutions and the challenges they face, such as underfunding and the need to meet global standards. The authors critique the shift towards techno-managerial solutions, like the direct admission to PhD programs after a four-year undergraduate degree, arguing that it overlooks the importance of critical citizenship and fails to address issues of access and diversity.
+
+The article points out the inadequacies of the current model, including the rapid introduction of changes without sufficient infrastructure, faculty, or funds. The four-year undergraduate program (FYUP) is scrutinized for its focus on skills over domain specialization and the unrealistic expectations it sets for research training.
+
+The authors argue that the new guidelines for PhD admissions by the University Grants Commission ignore the diverse needs of students and institutions, and that the reliance on computer-based multiple-choice tests undermines the essence of research. They warn against the homogenization of education and the rise of cram schools due to these entrance exams.
+
+In conclusion, the article calls for a more cautious approach to educational reforms, emphasizing the need to maintain diversity and cater to the specific social needs of India. The authors, Menon and Kothiyal, are professors at Ambedkar University, Delhi. The article also briefly mentions the re-election of PM Narendra Modi and the formation of the next government.
+
+Mon, 27 May 2024 02:30:18 +0000
+### [Will Hindi belt continue to be enchanted by Hindutva despite ‘Modi fatigue’?](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-2024-will-hindi-belt-continue-to-be-enchanted-by-hindutva-despite-modi-fatigue-9353610/)
+
+The article discusses the political significance of the Hindi belt in India, highlighting its historical role in signaling major political shifts. It outlines how the region's disenchantment with Congress in 1967, 1977, and 1989 led to significant changes in the political landscape, often reflecting social realignments and protests against upper caste dominance. The BJP's rise in the 1990s and its stronghold in the Hindi belt by 2019 is attributed to the entrenchment of Hindutva politics, which resonated with the region's socio-cultural sensibilities.
+
+The article raises questions about the BJP's future electoral prospects in the Hindi belt, considering its near-complete consolidation of the Hindu vote and the challenges of increasing its support base. It also points to potential voter fatigue with Hindutva politics, despite its popularity, due to economic issues like price rise and unemployment. The author suggests that the Hindi belt's uniform political behavior could lead to a reevaluation of the BJP's performance and a search for alternatives, potentially opening up electoral competition.
+
+In summary, the Hindi belt's historical and ongoing influence on Indian politics is examined, with a focus on the BJP's dominance and the emerging challenges it faces in maintaining its electoral hold in the region. The article concludes by questioning whether the Hindi belt will continue to support Hindutva politics or begin to consider other options.
+
+Mon, 27 May 2024 02:30:14 +0000
+### [May 27, 1984, Forty Years Ago: Four persons killed in Punjab in 24 hours](https://indianexpress.com/article/opinion/40-years-ago/may-27-1984-forty-years-ago-four-persons-killed-in-punjab-in-the-last-24-hours-9353649/)
+
+The article covers several significant events:
+
+1. In Punjab, four individuals were killed in separate incidents within 24 hours. Three were victims of terrorist shootings, including a BSF constable, a Hindu Suraksha Samiti leader, and a headmaster. Additionally, a Punjab Armed Police jawan died after being attacked by a mob in Amritsar. A BSF vehicle was bombed in Gurdaspur, fatally injuring jawan Kuldip Raj.
+
+2. Political tensions are highlighted with the central government's dismissal of the Bhandari government in Sikkim, the dissolution of the state assembly, and the imposition of President's rule, actions criticized by opposition parties as part of a pattern of arbitrary dismissals of elected governments.
+
+3. The Planning Commission is considering three strategies to reduce poverty by 15 to 23 percent by the end of the Seventh Five-Year Plan in 1989-90, with a focus on poverty reduction as the major strategy for the next plan.
+
+4. In Bangladesh, the death toll from floods in Magura has risen to 175, with 22 people recently killed by lightning during a storm, which also injured 40 others.
+
+5. In Indian politics, N Chandrababu Naidu's victory in the Lok Sabha election has reinforced his importance in national politics, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Mon, 27 May 2024 02:30:12 +0000
+### [Why government should allow duty-free imports of all pulses till March 31, 2025](https://indianexpress.com/article/opinion/editorials/why-government-should-allow-duty-free-imports-of-all-pulses-till-march-31-2025-9353630/)
+
+The RBI's unprecedented surplus transfer to the Indian government has led to a decrease in 10-year government bond yields, reducing interest rates without altering the repo rate. This financial maneuver is set against a backdrop of high food inflation, which remains a concern for the RBI, especially with the uncertainty surrounding the upcoming monsoon season.
+
+The agricultural sector faced challenges in 2023-24, notably due to El Niño, which caused price hikes in essential commodities like pulses, potatoes, onions, and tomatoes. The adverse weather conditions also impacted wheat production, with procurement heavily reliant on Punjab and Haryana.
+
+Looking ahead, climate models suggest a shift from El Niño to La Niña, potentially bringing favorable rainfall. However, to mitigate food inflation and ensure sufficient supply, the government is advised to permit duty-free pulse imports until 2025 and remove the import duty on wheat. This is crucial as current grain stocks are low, and imports are necessary to supplement the domestic market.
+
+In political news, PM Narendra Modi is set to begin his third term after the NDA's victory in the Lok Sabha elections, with the Union Cabinet recommending the dissolution of the current Lok Sabha to make way for the 18th Lok Sabha and discussing the formation of the next government.
+
+Mon, 27 May 2024 01:39:26 +0000
+### [Fire outbreaks in Delhi and Rajkot: A criminal abdication](https://indianexpress.com/article/opinion/editorials/fire-outbreaks-in-delhi-and-rajkot-a-criminal-abdication-9353613/)
+
+The article discusses two recent fire incidents in India that resulted in fatalities, including children and newborns. It criticizes the inadequate fire safety measures in Indian cities and the failure to incorporate fire preparedness into the design of public spaces and buildings. The article mentions a specific incident at a Rajkot gaming center, which lacked proper fire safety certification and had only one entry and exit route. The Gujarat High Court has responded by demanding reports on the operation of gaming centers.
+
+The article also highlights the broader issue of fire safety negligence, referencing past tragedies and the lack of adherence to the National Building Code's fire safety guidelines. It points out the deficiencies in municipal fire safety operations, including infrequent inspections and a general lack of fire safety clearances in hospitals, as revealed by a Maharashtra public health department audit.
+
+Furthermore, the article notes that urban India has less than 40% of the fire stations it needs, according to a FICCI-Pinkerton study, and emphasizes the 15th Finance Commission's recommendation for modernizing firefighting infrastructure. The article concludes by stressing the urgent need for improved fire safety in a rapidly urbanizing country.
+
+The unrelated content regarding the Lok Sabha Election Results and N Chandrababu Naidu's victory has been omitted from this summary.
+
+Sun, 26 May 2024 14:49:45 +0000
+### [Vandita Mishra writes: As election enters final phase, an Opposition question](https://indianexpress.com/article/opinion/columns/lok-sabha-elections-final-phase-opposition-question-9353375/)
+
+The article discusses the final phase of the Indian elections, highlighting the challenges faced by the Opposition in presenting a united front against the ruling BJP. With the Congress dismissing speculation about their prime ministerial candidate, the focus is on the INDIA bloc's strategy and whether their individual campaigns can collectively challenge the BJP's dominance. The article suggests that the Opposition's lack of joint rallies and visible unity could alienate undecided voters, despite the potential of leaders like Tejashwi Yadav. It also touches on national issues such as price rise, unemployment, and farmers' discontent, which the Opposition hopes will sway voters against the BJP. The piece ends by noting new concerns in this election, including fears of constitutional changes and voter distrust in the electoral process, which could have implications regardless of the election outcome. Finally, it mentions PM Narendra Modi's expected third term after the NDA's victory.
+
+Sun, 26 May 2024 12:32:52 +0000
+### [With Prabir Purkayastha’s case, the need for police accountability underlined](https://indianexpress.com/article/opinion/columns/prabir-purkayastha-case-supreme-court-police-accountability-9353158/)
+
+The article discusses a Supreme Court judgment regarding the arrest of Prabir Purkayastha, which was declared invalid due to constitutional protections being ignored. The Court emphasized that arrest grounds must be provided at the time of arrest and communicated effectively in a language the detainee understands. The case highlights issues with police haste and procedural irregularities that often deprive individuals of personal liberty without reaching the highest court or being corrected in time.
+
+The Court applied legal provisions without being swayed by subsequent developments, such as the filing of chargesheets. The article underscores the importance of individual liberty and the need for the police and judiciary to balance this with societal order, as well as the mandatory nature of FIR registration for cognizable offenses. It critiques the culture of police behavior and the ineffectiveness of new laws in changing this, advocating for a conversation and implementation of an accountability mechanism. The writer is an advocate-on-record at the Supreme Court of India. The article also briefly mentions the re-election of PM Narendra Modi and the formation of the next government.
+
+Sun, 26 May 2024 07:25:14 +0000
+### [Faizan Mustafa writes: Why the Calcutta High Court decision on OBC reservation for Muslims raises questions](https://indianexpress.com/article/opinion/columns/faizan-mustafa-calcutta-high-court-hindu-obc-reservations-scrutiny-muslims-9352679/)
+
+The article discusses the complexities and judicial responses to reservation policies in India. It highlights the constitutional provision for social justice and the state's power to make special provisions for the underprivileged. The narrative points out that while various governments have implemented reservation policies, often due to electoral pressures, the term "appeasement" has been selectively used, particularly in cases involving Muslim backward castes.
+
+The judiciary's stance on reservation has been somewhat resistant, with significant rulings like the Indira Sawhney and M R Balaji cases setting limits and conditions for reservations. The article critically examines a recent judgment by the Calcutta High Court that struck down the inclusion of certain Muslim backward castes in the reservation list, questioning the court's reasoning and consistency with past decisions.
+
+The author argues that the court's decision overlooks precedents and the practicalities of data collection for reservation policies. It also suggests that the court failed to apply the same scrutiny to non-Muslim castes and did not fully consider the historical context of caste conversions. The article concludes by advocating for the equal treatment of Muslim backward castes in reservation policies, emphasizing that the basis for reservation should be backwardness, not religion. The writer's views are presented as personal, and the article is authored by the vice-chancellor of Chanakya National Law University, Patna.
+
+Sun, 26 May 2024 05:50:34 +0000
+### [Payal Kapadia’s Grand Prix at Cannes: ‘Weird’, wonderful and historic](https://indianexpress.com/article/opinion/columns/payal-kapadias-grand-prix-at-cannes-weird-wonderful-and-historic-9352557/)
+
+Payal Kapadia's debut feature, "All We Imagine As Light," won the Grand Prix at the 77th Cannes Film Festival, marking a significant moment for Indian cinema. The film, described as a gentle meditation on female friendship, showcases Kapadia's inventive storytelling and poetic style. Kapadia, an alumna of the Film and Television Institute of India, has been recognized for her ability to create profound narratives without relying on star power or commercial considerations.
+
+The film's selection and win at Cannes represent a break from the festival's 30-year trend of overlooking Indian filmmakers. It also reflects a shift in Indian cinema, moving away from traditional narratives driven by masculinity and violence. Kapadia's win, along with other Indian films and filmmakers gaining recognition at the festival, highlights the strength of India's art-house and indie filmmaking culture.
+
+The article also contrasts Kapadia's achievement with the Oscar-winning song 'Naatu Naatu' from the film RRR, noting the difference in scale and star power. It concludes by encouraging Indian filmmakers to pursue inventive and unique ideas, as exemplified by Kapadia's success at Cannes.
+
+Sun, 26 May 2024 03:00:13 +0000
+### [How Kurien’s idea led to the making of Manthan](https://indianexpress.com/article/opinion/columns/how-kuriens-idea-led-to-the-making-of-manthan-cammes-film-festival-9352080/)
+
+The article discusses the Indian film "Manthan," directed by Shyam Benegal, which was showcased at the 77th Cannes Film Festival. The film, shot in a Gujarat village, was India's first crowd-funded movie, with contributions from local farmers. It is a fictionalized account of the successful cooperative milk movement in India, led by Verghese Kurien, which resulted in the 'White Revolution.' The film won National Awards and was India's Oscar submission in 1977.
+
+"Manthan" has been restored and screened at Cannes, receiving a standing ovation. The restoration process was challenging due to the condition of the original print, but the result is a clear and vibrant depiction of Gujarat. The film continues to be celebrated for its role in nation-building and promoting the cooperative movement.
+
+The article also mentions the Film Heritage Foundation's efforts to preserve classic films and the upcoming release of "Manthan" in cinemas across India. Additionally, it touches on the presence of Smita Patil's family and Verghese Kurien's daughter at the Cannes screening, reflecting on the film's legacy and impact. The article concludes with a brief mention of the Lok Sabha Election Results 2024, highlighting N. Chandrababu Naidu's victory and its significance in national politics.
+
+Sun, 26 May 2024 02:40:50 +0000
+### [Government has not added jobs but graduate degrees and skills don’t mean job stability](https://indianexpress.com/article/opinion/columns/government-has-not-added-jobs-but-graduate-degrees-and-skills-dont-mean-job-stability-9352046/)
+
+The article discusses the struggles of Ravi Paikrao and Sreerag, both from Maharashtra, India. Ravi, once a top student, pursued engineering and prepared for civil services before returning to his drought-prone district. He worked in marketing and later as a network engineer in Pune, but despite a decent salary, he takes home only a small portion due to provident fund deductions and a recruitment company's commission. Disillusioned by unfulfilled government promises and the contract labor system, he struggles to support his family and parents.
+
+Sreerag, a student leader, studied in London on a scholarship but faces job uncertainty and financial instability upon returning to India. Despite having a job, he can't afford a house and considers moving abroad for better opportunities. Both men, in their mid-30s, are affected by the contract labor system and underdevelopment in their region, leading to a lack of job security and fulfillment.
+
+The article also mentions the re-election of PM Narendra Modi and the formation of the next government, without casting judgment on the political situation. It highlights the broader issue of employment and stability for educated individuals in India. Suraj Yengde, author and curator, is briefly mentioned as having returned to Harvard University. The article concludes without providing updates on the Lok Sabha Election Results 2024 or further details on Modi's upcoming term.
+
+Sun, 26 May 2024 02:40:15 +0000
+### [Tavleen Singh writes: PM Modi’s dog whistles have hurt his campaign](https://indianexpress.com/article/opinion/columns/modis-dog-whistles-have-hurt-his-campaign-9352065/)
+
+The article discusses the political dynamics between Narendra Modi and Rahul Gandhi in the context of an election campaign. It suggests that Modi's targeting of Muslims and his use of divisive language may have inadvertently helped Gandhi, who has positioned himself as a more inclusive alternative. The author criticizes Modi for focusing on religious and caste-based reservations, which they believe alienates not only Muslims but also many Hindus. The piece also critiques Gandhi's economic ideas, comparing them to failed policies that could lead India to a crisis similar to Venezuela's. It recalls past leaders who implemented caste-based policies and questions the effectiveness of such measures. The author argues for the need for skill-based education to address the issue of unemployability among Indian graduates. The article concludes by questioning Modi's understanding of secularism and suggests he could learn from the more inclusive approach that has benefited India historically. It ends with the information that Modi is set to be sworn in for a third term after the NDA's victory in the Lok Sabha elections.
+
+Sun, 26 May 2024 02:30:57 +0000
+### [Let’s talk body hair — and my health](https://indianexpress.com/article/opinion/columns/lets-talk-body-hair-and-my-health-pcos-9352033/)
+
+The article discusses the personal and societal implications of polycystic ovarian syndrome (PCOS), a condition affecting many women and individuals assigned female at birth. The author reflects on their own diagnosis at 15 and the associated fear of becoming "ugly" due to symptoms like excessive hair growth. The narrative connects this personal experience with the public trolling of Prachi Nigam, a young topper in Uttar Pradesh, who was mocked for her facial hair, leading to a wider discussion about PCOS and hirsutism.
+
+The article criticizes the societal obsession with beauty, particularly the pressures on women to conform to certain standards, often overshadowing more serious health concerns associated with PCOS. It highlights the lack of understanding and empathy in the medical community towards women and gender non-conforming individuals, emphasizing that PCOS is not just a cosmetic issue but a chronic health condition with potential comorbidities like anxiety, depression, and increased risk of several diseases.
+
+The author questions why societal discussions about women's health often start and stop at beauty, ignoring the significant impact conditions like PCOS have on individuals' quality of life. The article concludes by pondering whether society would pay as much attention to PCOS if the symptoms did not affect appearance, suggesting that the health of individuals like Nigam might not be a concern if they conformed to beauty standards.
+
+Sun, 26 May 2024 02:30:47 +0000
+### [P Chidambaram writes | Two markers: caste and inequality](https://indianexpress.com/article/opinion/columns/congress-manifesto-caste-and-inequality-lok-sabha-elections-youth-women-poor-income-inequality-9352062/)
+
+The article reflects on the stark contrasts within Indian society, highlighting the visible yet often ignored signs of poverty and inequality. It points out the commonplace sights of homelessness in Kolkata, child labor in Delhi, and the struggle for livelihood in parched lands, questioning why these issues don't provoke more inquiry and action.
+
+The Congress manifesto for the LS 2024 elections acknowledges India's economic growth over the past three decades, which has led to a burgeoning middle class, consumer goods abundance, and improved infrastructure. However, it also emphasizes that this 'shining India' fails to mask the underlying issues of poverty and inequality.
+
+The article cites UNDP's poverty line and the World Inequality Lab's findings to illustrate the economic disparity, where the bottom 50% of the population owns only 3% of the national wealth. It also discusses the caste-based social hierarchy that aligns with economic status, where the SC and ST communities are among the poorest.
+
+The piece contrasts this with the wealth of the top 10% of the population, who earn a majority of the national income, and the sale of luxury cars and political donations by the wealthy, questioning the narrative of self-reliance and progress touted by the current government.
+
+The article argues that unless political parties recognize caste and inequality as the two main issues in Indian politics and economy, efforts to address poverty, discrimination, and oppression will fall short. The Congress manifesto aims to pivot towards the poor and marginalized, challenging the BJP's development narrative and promising reforms for SC, ST, OBC, youth, and women.
+
+The article concludes by suggesting that the upcoming elections will be a battle between maintaining the status quo and seeking change, urging readers to await the results with anticipation. It omits unrelated content, such as the anecdote about comedian Sunil Pal and actor SRK, focusing solely on the socio-political commentary.
+
+Sat, 25 May 2024 12:10:11 +0000
+### [India stares at a steep cyber crime challenge. Is it prepared?](https://indianexpress.com/article/opinion/columns/india-cyber-crime-challenge-9351602/)
+
+The article discusses India's significant strides in digital technology adoption over the last decade, which has led to challenges in cybersecurity. It highlights the dangers of deep fake videos, particularly in the context of elections, citing an incident involving a manipulated video of Amit Shah. The piece also references the Cambridge Analytica scandal and financial cyber frauds in India, which amounted to substantial losses in 2023.
+
+To combat these issues, India has developed a comprehensive institutional framework, with the Ministry for Electronics and Information Technology (MeitY) and the Ministry of Home Affairs at the forefront. The latter has introduced three new criminal laws in 2023 to modernize India's legal system and address cybercrime threats. These laws allow for electronic FIRs and treat electronic records as primary evidence, facilitating better evidence collection and presentation in cybercrime cases. However, the article notes the importance of safeguarding this digital evidence and protecting individuals' privacy rights. The writer of the article is the CEO of Indiatech.org.
+
+Sat, 25 May 2024 10:49:28 +0000
+### [View from Pakistan: What a third term for Modi would mean for India](https://indianexpress.com/article/opinion/columns/modi-third-term-pakistan-view-9351460/)
+
+The article discusses the potential outcomes and implications of the recent elections in India, with a focus on the possibility of Narendra Modi securing a third term as Prime Minister. It highlights a perceived lack of enthusiasm among BJP voters and concerns over Modi's handling of pressing issues, suggesting that economic growth has been slower than expected under his leadership. The narrative also touches on allegations of voter suppression and manipulation, and the passage of the controversial Defamation Bill 2024 in Punjab, which has been criticized for potentially stifling free speech.
+
+Internationally, the article covers the issuance of arrest warrants by the ICC against Hamas leaders and Israeli officials, including President Netanyahu, for crimes against humanity and war crimes, leading to varied reactions and discussions on accountability and adherence to international law.
+
+In Pakistan, there is public outrage over NEPRA's proposal to charge customers extra to recover unpaid dues from defaulters, with calls for the government to hold defaulters accountable instead of passing the burden onto the public.
+
+Lastly, it mentions N Chandrababu Naidu's significant victory in the Lok Sabha election, which has strengthened his political influence and his expected push for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation in 2014.
+
+Sat, 25 May 2024 09:12:08 +0000
+### [In Bridgerton, a plus-size body is finally the object of desire](https://indianexpress.com/article/opinion/columns/bridgerton-plus-size-body-object-desire-9351365/)
+
+The article by Niharika Nanda is a personal reflection on the representation of plus-size women in media, particularly in the Netflix series Bridgerton. Nanda shares her experiences growing up as a plus-size woman in an Indian household and the challenges of not fitting into societal standards of beauty. She discusses how Bridgerton's third season gave her hope and confidence by portraying Penelope Featherington, a plus-size character, as desirable and sexy. The show's depiction of Penelope's journey to self-acceptance and the breaking of stereotypes around plus-size women's desirability resonated with Nanda. She highlights actress Nicola Coughlan's role in empowering plus-size women by choosing to show her body on camera. Nanda concludes that Bridgerton's representation is a significant moment for plus-size women, promoting self-realization and healing by showing them as beautiful, sexy, and the object of their own desires.
+
+Sat, 25 May 2024 07:41:05 +0000
+### [Pune Porsche crash: It’s not enough to crack down on underage drinking](https://indianexpress.com/article/opinion/columns/pune-porsche-crash-underage-drinking-9351252/)
+
+The article discusses the serious issue of underage drinking and driving, highlighted by a tragic incident in Pune where two young engineers lost their lives due to a 17-year-old driving under the influence. It critiques the culture of drinking in India, especially among the youth, and the lax enforcement of legal drinking age limits. The author compares this with other countries where there are more open conversations about alcohol consumption and informal measures to ensure safety, such as the 'Ask for Angela' campaign in the UK and the 'Angel Shot' initiative in the US. The piece argues for the need to have open dialogues about drinking, accountability, and safety measures in India, rather than treating alcohol as a taboo subject. It suggests that acknowledging the reality of underage drinking and educating young people on its effects and safety could be more effective than strict legal penalties. The article concludes by emphasizing the role of the community in fostering these discussions and providing support.
+
+Sat, 25 May 2024 03:00:19 +0000
+### [May 25, Forty Years Ago: Sikkim MLAs Quit](https://indianexpress.com/article/opinion/editorials/may-25-forty-years-ago-sikkim-mlas-quit-9350549/)
+
+The article covers several significant developments:
+- In Sikkim, 15 MLAs, including former Chief Minister Nar Bahadur Bhandari, resigned from the Congress (I) to form a new regional party, the Sikkim Sangram Parishad, leaving the current government in a minority.
+- Pakistan President Gen Ziaul Haq expressed optimism about achieving peace with India, stating that it would be easy if there's political will, and mentioned efforts to promote peace through media and exchanges.
+- In Punjab, terrorists killed eight people in a car near Tehri village, with seven dying on the spot and one later in the hospital; another person was seriously injured.
+- Prime Minister Indira Gandhi addressed the Akali threat of a grain blockade in Punjab, warning it would worsen the situation, and emphasized the high morale of the police in capturing terrorists.
+- It was announced that Prime Minister Narendra Modi will be sworn in for a third term on June 8, following the NDA's majority win in the Lok Sabha elections, with the Union Cabinet recommending the dissolution of the current Lok Sabha for the formation of the 18th Lok Sabha and the next government.
+
+Sat, 25 May 2024 02:43:34 +0000
+### [When Kafka played truant](https://indianexpress.com/article/opinion/editorials/when-franz-kafka-played-truant-novels-books-9350548/)
+
+The article discusses a new exhibition titled "Kafka: Making of an Icon" at Oxford's Bodleian Library, which aims to challenge the somber image of Franz Kafka. The exhibition, marking Kafka's death centenary in 2024, showcases documents that reveal Kafka's sense of humor and capacity for laughter, contrasting with the existential dread often associated with his works. It includes a humorous sick leave application to his employer and anecdotes from his friend Max Brod, who, despite Kafka's wishes, preserved his papers after his death. The article suggests that Kafka's portrayal of alienation might be an overinterpretation, highlighting the absurdity in his novella "The Metamorphosis," where the protagonist imagines himself as a monstrous insect.
+
+Sat, 25 May 2024 02:42:30 +0000
+### [China’s military exercises around Taiwan: Power play at sea](https://indianexpress.com/article/opinion/editorials/taiwan-china-relations-chinas-military-exercises-around-taiwan-power-play-at-sea-9350531/)
+
+The article discusses China's military exercises around Taiwan, which are seen as a demonstration of power and a potential prelude to annexation. These drills, involving various military branches, have included mock missile strikes and are a response to the election of Lai Ching Te from Taiwan's Democratic Progressive Party, which Beijing views as separatist. While such exercises have occurred in the past, the article suggests that China's actions may go beyond mere intimidation, as President Xi Jinping has not dismissed the use of force for Taiwan's "re-unification" with China. Additionally, the article highlights China's broader territorial ambitions in the South China Sea and the Indo-Pacific, which have alarmed neighboring states. The situation calls for vigilance from regional and global powers. The article also briefly mentions N Chandrababu Naidu's electoral victory in India, which has implications for national politics and the Special Category State status for Andhra Pradesh.
+
+Sat, 25 May 2024 02:30:05 +0000
+### [Explosion in chemical unit in Thane: After the blaze](https://indianexpress.com/article/opinion/editorials/explosion-in-chemical-unit-in-thane-after-the-blaze-9350536/)
+
+The article discusses a chemical factory fire in Thane, Maharashtra, which resulted in 11 deaths and over 60 injuries. The factory, which produced food coloring, used highly reactive chemicals and operated a boiler that was not registered under the Indian Boiler Act, 1950. This incident has prompted an investigation and a promise of strict action from Chief Minister Eknath Shinde.
+
+The article highlights that this is not the first safety incident in the Thane industrial complex, citing previous accidents in 2016, 2018, 2020, and 2023. It criticizes the government's response to shut down or relocate hazardous units as a knee-jerk reaction that could cause economic and livelihood disruptions. Instead, it suggests enforcing industrial safety and environmental regulations.
+
+India's chemical sector is significant, contributing to various industries and employing over two million people. Despite this, the article points out that the country lacks specific legislation for the chemical industry, leading to ineffective regulation and corruption. The National Disaster Management Authority (NDMA) identifies regulatory gaps and reports 130 chemical accidents in the past decade, with over 250 fatalities.
+
+The article calls for a comprehensive database of chemicals and associated risks, noting that past tragedies like the Bhopal Gas Tragedy have not led to substantial improvements in industrial safety. It concludes by emphasizing the need for better regulation and safety investment in a rapidly industrializing country like India. The unrelated content regarding the Lok Sabha Election Results 2024 and N Chandrababu Naidu's victory has been omitted from this summary.
+
+Sat, 25 May 2024 01:43:41 +0000
+### [What do PM Modi, Mamata Banerjee, Rahul Gandhi, and Taylor Swift have in common?](https://indianexpress.com/article/opinion/columns/what-do-pm-modi-mamata-banerjee-rahul-gandhi-and-taylor-swift-have-in-common-9350552/)
+
+The article discusses the impact of "deep fake" videos, particularly in the context of elections and legal consequences. It highlights the use of AI to create convincing forgeries that misrepresent individuals, a concern that has grown with the approach of election season in India. The Election Commission of India has advised political parties to ethically manage social media content, and legal provisions under the Indian Penal Code and Information Technology Act are mentioned as means to address the misuse of deep fakes. However, these laws are not fully equipped to combat AI-generated misinformation or foreign interference in elections. The article also references warnings from the Microsoft Threat Analysis Centre about potential AI-generated content influencing elections in India, South Korea, and the US. It concludes with the need for India to develop new legal frameworks to address the challenges posed by AI and deep fakes in electoral processes. Additionally, it mentions N Chandrababu Naidu's significant victory in the Lok Sabha election, which positions him as an influential figure in national politics, expected to advocate for Special Category State status for Andhra Pradesh.
+
+Sat, 25 May 2024 01:37:46 +0000
+### [Ram Madhav writes: RSS is committed to nation building – not politics](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-rss-is-committed-to-nation-building-not-politics-9350553/)
+
+The article discusses the Rashtriya Swayamsevak Sangh's (RSS) stance on politics and its historical interactions with political entities in India. It highlights the RSS's commitment to social unity and its constitutional declaration of staying apolitical, allowing members to join political parties that do not resort to violence or secrecy. The article recounts attempts to involve the RSS in politics, such as Sardar Patel's invitation to join Congress after Gandhi's assassination and the RSS's support for the Janata Party during the Emergency to protect democracy. Despite occasional disagreements and speculation, the RSS has largely remained detached from active politics, except for a strategic intervention in 2014 elections. The RSS views politics as vital for societal health and encourages good governance but maintains its primary focus on nation-building activities, reflecting its founder M.S. Golwalkar's sentiment of keeping a distance from politics. The writer, associated with the RSS, emphasizes the organization's influence on Indian social life without directly engaging in politics.
+
+Fri, 24 May 2024 11:45:57 +0000
+### [The harmful truth behind ‘elaichi’ ads during the IPL](https://indianexpress.com/article/opinion/columns/ipl-elaichi-ads-harmful-truth-9349805/)
+
+The article discusses the prevalence of surrogate advertising in the Indian Premier League (IPL), particularly for products like elaichi and masala, which are often associated with oral tobacco. It highlights the ethical concerns of such advertisements and the impact of tobacco consumption in India. The author notes that while smoking has been the focus of public health discussions, smokeless tobacco is the primary form of consumption in India, leading to high rates of mouth cancer. Despite bans on certain tobacco products, addiction to nicotine remains a significant challenge. The article emphasizes the importance of education and prevention, especially among the youth, to reduce tobacco use and its devastating health consequences. The author, a professor of Head-Neck Oncology at AIIMS New Delhi, calls for role models to promote anti-tobacco messages to protect the health of future generations. The article concludes with unrelated information about the Lok Sabha Election Results 2024 and the re-election of PM Narendra Modi.
+
+Fri, 24 May 2024 11:18:13 +0000
+### [Naseeruddin Shah writes: High point of Cannes was seeing ‘Manthan’ again in a theatre](https://indianexpress.com/article/opinion/columns/naseeruddin-shah-manthan-cannes-screening-9349687/)
+
+The article is a personal account from an actor and author reflecting on their experiences during and after the making of Shyam Benegal's film "Nishant". Despite the film's success, the author felt overlooked until they were cast in a new film sponsored by the Gujarat Cooperative Milk Marketing Federation. The narrative details the author's journey from feeling undervalued to finding hope in their career, including anecdotes about the filming process, learning to tie a turban, and the importance of eyes in acting. The author also shares a moment of validation when watching the film among an audience that received it well. The piece concludes with the author's experience at Cannes, feeling out of place amidst the festival's frenzy but also nostalgic when watching "Manthan" again. The article ends with a brief mention of N Chandrababu Naidu's victory in the Lok Sabha election, emphasizing his political significance.
+
+Fri, 24 May 2024 08:28:47 +0000
+### [President Ebrahim Raisi’s death will jeopardise Iran’s attempts to build alliances against Israel](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-will-jeopardise-irans-attempts-to-build-alliances-against-israel-9349363/)
+
+The article discusses the geopolitical implications of the death of Iranian President Ebrahim Raisi in a helicopter crash. It highlights Iran's recent efforts to strengthen alliances with non-Arab neighbors like Pakistan and Azerbaijan to counterbalance Israel's influence in the Middle East. These efforts were part of a broader strategy to rally regional support against Israel and to alleviate economic sanctions from the West. The article notes that Raisi's death jeopardizes these strategic efforts, creating a leadership vacuum and potentially causing instability in Iran's foreign policy. It also mentions the strategic importance of Iran's relationships with Pakistan and Azerbaijan, both of which have been complicated but are essential for Iran's regional strategy. The author, a senior IPS officer with expertise in security studies, emphasizes that these alliances are crucial for Iran's attempt to create a robust network of allies against Israel's geopolitical moves. The unexpected loss of President Raisi could weaken Iran's position and disrupt plans for a regional anti-Israel alliance. The views expressed in the article are the author's personal opinions.
+
+Fri, 24 May 2024 01:45:35 +0000
+### [Derek O’Brien writes: A fictional BJP manifesto for the year 2034](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-a-fictional-bjp-manifesto-for-the-year-2034-9348303/)
+
+The article is a satirical piece set in the year 2034, touching upon various fictional events and achievements. It mentions Virat Kohli managing the Indian cricket team, Shah Rukh Khan receiving a lifetime achievement award, and the T-10 cricket league's popularity. Elon Musk sends a manned spacecraft to Mars, Diljit Dosanjh wins a Grammy, and Jhumpa Lahiri receives the Nobel Prize for Literature. The main focus is on the BJP Election Manifesto 2034, which humorously claims to fulfill promises like depositing Rs 15 lakh in every citizen's account, launching new bullet trains, doubling farmers' income, and setting up a National Wax Museum called NaMom. It also pokes fun at the concept of women's reservation and the historic demonetisation event of 2016. The article concludes by reminding readers not to take the election rhetoric too seriously and to enjoy a laugh, noting that it's a work of fiction by the writer, an MP and leader of the All India Trinamool Congress Parliamentary Party. The unrelated content about Shah Rukh Khan and comedian Sunil Pal is omitted from the summary.
+
+Fri, 24 May 2024 01:40:27 +0000
+### [What Sanjay Leela Bhansali’s films have that other Bollywood films don’t](https://indianexpress.com/article/opinion/columns/on-centring-women-sanjay-leela-bhansali-is-ahead-of-mainstream-bollywood-9348301/)
+
+The article discusses the portrayal of women in Sanjay Leela Bhansali's works, highlighting how he presents them as beautiful and strong, using their beauty as armor against a harsh world. In his new series "Heeramandi: The Diamond Bazaar," Bhansali continues this theme, showing women who are not only visually stunning but also complex characters with ambitions and emotions. The piece argues that Bhansali's films offer a narrative space for women that is rare in mainstream Hindi cinema, contrasting with male-dominated films. It praises Bhansali for consistently empowering women through representation in his films, such as "Gangubai Kathiawadi," which was successful without a male star of equal stature. The article suggests that Bhansali's approach to female-centric storytelling challenges the notion that only male-led films are financially viable, contributing to the discourse on gender representation in Bollywood.
+
+Fri, 24 May 2024 01:30:31 +0000
+### [Sanjay Leela Bhansali focuses on women — he just doesn’t understand them](https://indianexpress.com/article/opinion/columns/sanjay-leela-bhansali-focuses-on-women-he-just-doesnt-understand-them-9348302/)
+
+The article critiques the portrayal of women in the films of director Sanjay Leela Bhansali, particularly in his latest OTT series "Heeramandi: The Diamond Bazaar." It argues that Bhansali's heroines are often depicted as trapped in "gilded cages," dreaming of freedom while being confined by male-dominated narratives. The author suggests that Bhansali's films, despite their adaptations from literature, fail to offer a nuanced or liberating portrayal of women, instead presenting them as one-dimensional objects of beauty and desire. The article questions Bhansali's interpretation of female emancipation and agency, pointing out that his films tend to internalize misogynistic tropes where women are pitted against each other. It calls for a reimagining of agency in cinema that allows for flawed characters and shows women creating spaces for each other, moving beyond superficial beauty to reveal deeper qualities. The author concludes that Bhansali's films center women in their narratives but fall short of being feminist flag-bearers.
+
+Fri, 24 May 2024 01:20:36 +0000
+### [From Rakesh Sharma to Gopi Thotakura’s paid space flight: Bookends of change](https://indianexpress.com/article/opinion/editorials/from-rakesh-sharma-to-gopi-thotakuras-paid-space-flight-bookends-of-change-9348338/)
+
+The article reflects on the evolution of space travel from a symbol of national pride and Cold War competition to a commercial experience available to those with financial means. It contrasts the journeys of Rakesh Sharma, the first Indian in space, who flew on a Soviet spacecraft in 1984, with that of Gopi Thotakura, an Indian-origin entrepreneur who recently participated in a private space flight with Blue Origin. Sharma's voyage is portrayed as a courageous act of exploration, while Thotakura's trip, though significant, is likened to an amusement park ride, suggesting a shift from state-sponsored to privately-funded space travel. The article suggests that while space travel has become more accessible, it may have lost some of its earlier grandeur and sense of ambition.
+
+Fri, 24 May 2024 01:15:28 +0000
+### [May 24, 1984, Forty Years Ago: Bachendri On Everest](https://indianexpress.com/article/opinion/40-years-ago/may-24-1984-forty-years-ago-bachendri-on-everest-9348336/)
+
+Bachendri Pal, a 28-year-old economics lecturer, became the first Indian woman to summit Mount Everest, accompanied by two colleagues and followed shortly by another team member. They spent 43 minutes at the peak. In Bombay, the army was deployed due to violence, with a mob attack leading to casualties and arrests. Media associations in Punjab pledged to uphold press freedom despite threats and violence, emphasizing the importance of unbiased reporting and communal harmony. In political news, N Chandrababu Naidu's electoral victory has strengthened his influence, with expectations that he will advocate for Special Category State status for Andhra Pradesh, a commitment made during the state's bifurcation but delayed due to financial issues.
+
+Fri, 24 May 2024 01:15:23 +0000
+### [Pune Porsche crash: No to mob justice](https://indianexpress.com/article/opinion/editorials/pune-porsche-crash-no-to-mob-justice-9348335/)
+
+The article discusses a tragic accident in Kalyani Nagar, Pune, where two individuals were killed by a car driven by an allegedly intoxicated 17-year-old. The minor was released on bail with conditions to assist traffic police and write an essay about the incident, leading to public outrage. The case has raised concerns about potential miscarriage of justice due to the accused's privileged background, with his father being a prominent realtor. The police have taken action against the father and establishments that served alcohol to the minor. The article calls for a broader conversation on underage drinking and driving, emphasizing the need for more preventive measures in a country where over half the population is under 25. It also briefly mentions N Chandrababu Naidu's victory in the Lok Sabha election, which has strengthened his political influence and his push for Special Category State status for Andhra Pradesh.
+
+Fri, 24 May 2024 01:05:39 +0000
+### [Fund transfer from RBI to Centre: The next government’s task](https://indianexpress.com/article/opinion/editorials/fund-transfer-from-rbi-to-centre-the-next-governments-task-9348304/)
+
+The Reserve Bank of India's central board has approved a significant surplus transfer of Rs 2.1 lakh crore to the central government, which is more than double the earlier budget estimate. Additionally, the RBI's contingency risk buffer has been increased to 6.5% of its balance sheet. The surplus, higher than anticipated, could result from increased interest income from the RBI's assets and forex transactions, providing fiscal room for the next government. This additional space, about 0.4% of GDP, could be used to reduce the fiscal deficit more than planned or to boost capital expenditure. The government has been on a path of fiscal consolidation, aiming to reduce the deficit to below 4.5% by 2025-26, and has increased capital expenditure over the years. The article also mentions N. Chandrababu Naidu's electoral win, which strengthens his political influence and his expected push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 16:43:37 +0000
+### [Ex-Election Commissioner Ashok Lavasa writes: A message on the Model Code of Conduct for leaders – from Mahabharata and beyond](https://indianexpress.com/article/opinion/columns/model-code-and-morality-9348233/)
+
+The article discusses the philosophical and practical aspects of truth in the context of the Election Commission of India (ECI) and its Model Code of Conduct (MCC). It reflects on the national motto "Satyameva Jayate" and the role of the ECI in ensuring fair elections. The MCC is designed to prevent undue influence on voters and promote ethical behavior among political parties and candidates. The article critiques the effectiveness of the MCC, citing legal loopholes that allow for manipulation of the law and questioning the moral versus model nature of the code. It also touches on the deeper implications of morality in law and ethics, as highlighted by philosophers like Immanuel Kant. The writer, a former Election Commissioner, calls for a reevaluation of the MCC and a collective moral introspection to preserve the integrity of the democratic process. The article concludes with a mythological reference to the Mahabharata, drawing parallels between the story's moral dilemma and contemporary electoral ethics.
+
+Thu, 23 May 2024 12:58:06 +0000
+### [Sagarika Ghose writes: ‘What is your rate’ — how BJP taps nari shakti in Didi’s Bengal](https://indianexpress.com/article/opinion/columns/sagarika-ghose-bjp-insult-women-politicians-9347779/)
+
+The article discusses the challenges faced by women in Indian politics, focusing on the experiences of Mamata Banerjee, the leader of the All-India Trinamool Congress. Despite her achievements as a three-time chief minister and her resilience against abuse, Banerjee and other women politicians face misogyny and disrespect. The article criticizes the BJP for its hypocrisy regarding women's empowerment, highlighting instances of derogatory remarks made by BJP leaders against women, including Banerjee. It also points out the disparity in the number of tickets given to women by the BJP compared to the Trinamool Congress in the Lok Sabha polls and the tokenistic roles assigned to high-profile women ministers in the Modi government.
+
+The author argues that Banerjee's self-made success and her commitment to serving people make her a more compelling leader than Narendra Modi, who had the support of the RSS and Sangh Parivar. The article concludes by emphasizing the growing importance of the woman voter in elections, despite the ongoing misogyny faced by women politicians. The writer identifies as a Member of Parliament from the All India Trinamool Congress. Additionally, there's a mention of N. Chandrababu Naidu's victory in the Lok Sabha election, which has strengthened his political influence and his expected push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 10:00:22 +0000
+### [Memories of earlier elections – and how this one is marked by new lows](https://indianexpress.com/article/opinion/columns/elections-memories-this-polls-new-lows-9347175/)
+
+The article reflects on the evolution of election coverage and political strategies in India, contrasting the simpler times of past elections with the complex landscape of the 18th Lok Sabha elections. It highlights the normalization of party defections, the aggressive political rhetoric, and the adoption of novel campaign tools like roadshows and "guarantee cards." The piece also discusses the increasing role of religiosity in politics, the critique of dynasty politics, and the contentious use of law enforcement agencies for political ends. It points out the deep divisions within the political sphere and society, evidenced by public statements from various groups and the involvement of the judiciary. The author, Raman, concludes by noting the significant victory of N Chandrababu Naidu in the Lok Sabha election, which has reinforced his influence in national politics and his push for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 07:57:42 +0000
+### [From Shah Rukh Khan and Gautam Gambhir a lesson for all IPL owners](https://indianexpress.com/article/opinion/columns/ipl-2024-shah-rukh-khan-guatam-gambhir-9346861/)
+
+The article describes Shah Rukh Khan's heartfelt involvement with his IPL team, Kolkata Knight Riders (KKR), highlighting his emotional connection with the team's ups and downs. After KKR's recent win that led them to the IPL finals, Khan's respectful interruption of a post-match TV show and his subsequent apologies went viral, showcasing his humility. The piece reflects on Khan's philosophy of respecting professional boundaries and not micromanaging, a sentiment echoed by KKR's mentor Gautam Gambhir in a conversation with cricketer R Ashwin. Gambhir, who has led KKR to past victories and faced his own professional challenges, is praised for his role in nurturing players like Sunil Narine and Andre Russell, contributing significantly to KKR's success this season. The article concludes by emphasizing the importance of mutual respect and pride in performance within sports teams, drawing a parallel to good organizational culture.
+
+Thu, 23 May 2024 01:40:54 +0000
+### [From Kautilya to Immanuel Kant: Lessons for a world at war](https://indianexpress.com/article/opinion/columns/from-kautilya-to-immanuel-kant-lessons-for-a-world-at-war-9345788/)
+
+The article reflects on the 300th birth anniversary of Immanuel Kant, emphasizing his enduring influence and the relevance of his ideas in contemporary times. Kant, who never left his hometown of Königsberg, is celebrated as a "world citizen" with both Russia and Germany claiming his legacy. His works, such as "Critique of Pure Reason" and "Perpetual Peace," are revisited in the context of today's dysfunctional multilateral order, where he stands against imperialism, colonialism, and slavery, advocating for open trade, immigration, and the concept of a world citizen.
+
+The piece highlights the ongoing relevance of Kant's rationality and ethics, especially against the backdrop of the UN's list of Non-Self-Governing Territories, which represents a decolonization agenda yet to be completed. It discusses how Kant's vision of "perpetual peace" contrasts with the current global landscape, including the UN's structure, the influence of global entities and individuals, and the threat of modern warfare and technology.
+
+The author argues that Kant's ideas resonate in a world where narratives often distort reality, and the standards for assessing democratic integrity are inconsistent. The article critiques the self-serving rationale of major powers and the skepticism towards the "Rule of Law" by less privileged nations.
+
+It concludes by highlighting India's rediscovery of its strategic culture rooted in ethics, as seen in its ancient epics and texts like the Arthashastra and Tirukkural. India's G20 Presidency motto, "One Earth, One Family, One Future," inspired by the concept of Vasudhaiva Kutumbakam, is presented as a step towards integrating Kant's philosophy with ancient teachings to guide international relations towards a moral future. The writer's views are personal and not reflective of the institute's official stance. The article also briefly mentions N. Chandrababu Naidu's victory in the Lok Sabha election, which has implications for national politics and the Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 01:37:36 +0000
+### [Droupadi Murmu on ecology: To preserve forests, it’s important to listen to tribal communities](https://indianexpress.com/article/opinion/columns/droupadi-murmu-on-ecology-to-preserve-forests-its-important-to-listen-to-tribal-communities-9345783/)
+
+The article is a summary of President Droupadi Murmu's speech at the convocation of the 2022 batch of Indian Forest Service (IFS) officers. She congratulates the officers, especially the women, and emphasizes the importance of forests and the environment, as highlighted by a recent Supreme Court ruling. The President urges the officers to be nature-centric and to learn from the tribal communities, who have lived in harmony with nature for centuries. She also calls for the integration of traditional knowledge and modern science to address climate change and forest conservation. The speech reflects on the historical exploitation of India's forests and the need for IFS officers to protect forest wealth and tribal rights. The President encourages the officers to become role models and to uphold the values of the Constitution in their service.
+
+Thu, 23 May 2024 01:20:44 +0000
+### [The growing cost of climate change](https://indianexpress.com/article/opinion/editorials/the-growing-cost-of-climate-change-9345786/)
+
+The article discusses the economic impact of global warming, citing a working paper by the National Bureau of Economic Research (NBER) which suggests that global GDP could have been 37% higher without the warming observed from 1960 to 2019. The paper emphasizes that the economic costs of climate change are significantly higher than previous estimates. It also references another study predicting a substantial decrease in average incomes due to climate change within the next 26 years. Both studies argue that the costs of transitioning from fossil fuels are much lower than those resulting from global warming.
+
+The article also highlights the vulnerability of certain ecosystems, such as drylands and rangelands, to climate change. It notes that over 50% of these ecosystems are degraded and underscores the importance of pastoral communities in India, who rely on these ecosystems for their livelihoods.
+
+Furthermore, the article points out the need for global climate policy to focus not only on mitigating climate change but also on building resilience against its effects, such as heat waves, floods, and droughts. It mentions that adaptation efforts are underfunded and stresses the importance of addressing this issue in future climate funding discussions, particularly at the upcoming Conference of the Parties (CoP) in Baku, Azerbaijan.
+
+Thu, 23 May 2024 01:18:50 +0000
+### [Booker Prize winner Jenny Erpenbeck chronicles the conflicting nature of truth](https://indianexpress.com/article/opinion/editorials/booker-prize-winner-jenny-erpenbeck-chronicles-the-conflicting-nature-of-truth-9345787/)
+
+The article discusses the impact of the fall of the Berlin Wall on German writer Jenny Erpenbeck and how it shaped her literary work. Erpenbeck, who experienced the event at age 22, incorporates themes of political and personal transition in her novels. Her fourth novel, "Kairos," won the International Booker Prize, making her the first German to do so and solidifying her as a significant contemporary European writer. Her works, including "Visitation" and "Go, Went, Gone," explore the effects of political events on individual lives, weaving in historical details and the complexities of truth. Erpenbeck's writing confronts the past's guilt, shame, and violence, addressing current issues like migration and authoritarianism. The article also briefly mentions N Chandrababu Naidu's victory in the Lok Sabha election, which is unrelated to the main content about Erpenbeck.
+
+Thu, 23 May 2024 01:15:40 +0000
+### [Economic growth is better than expected, but pain points remain](https://indianexpress.com/article/opinion/editorials/economic-growth-is-better-than-expected-but-pain-points-remain-9345784/)
+
+The article discusses the economic growth of India, highlighting a positive outlook with the National Statistical Office revising its growth estimate for 2023-24 from 7.3% to 7.6%. Analysts anticipate even higher growth, with the RBI report suggesting a 7.5% growth in the first quarter of the financial year, exceeding the central bank's previous 7.1% prediction. The full-year growth projection is 7%, which is about twice the global average. Indicators such as GST e-way bills, toll collections, steel consumption, and cement production show strong performance, and rural spending is recovering, with rural FMCG demand surpassing urban in the first quarter. Challenges remain, including sluggish merchandise export growth, lack of broad-based private investment, and job and wage concerns. Inflation shows a split, with food inflation at 7.9% and core inflation at 3.2% in April. The report suggests inflation alignment with the central bank's target may resume in the second half of the year. The upcoming national election results, the formation of a new government, the RBI's monetary policy committee meeting, and the Union budget presentation will influence India's future growth trajectory. Additionally, N Chandrababu Naidu's electoral victory strengthens his role in national politics, with expectations for him to advocate for Special Category State status for Andhra Pradesh.
+
+Thu, 23 May 2024 01:06:08 +0000
+### [May 23, 1984, forty years ago: Riots in Bombay, a heatwave in Delhi and a coup in Pakistan](https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-riots-in-bombay-a-heatwave-in-delhi-and-a-coup-in-pakistan-9345836/)
+
+The article reports on a series of violent incidents and developments in South Asia:
+
+1. In Punjab, India, there has been a surge in terrorist activities resulting in 17 deaths, numerous injuries, and a robbery of Rs 87,000. A curfew was imposed in Mansa, Bhatinda district, following the violence, which included the targeted killing of four bus passengers near Moga.
+
+2. In Pakistan, General Zia-ul-Haq, the military ruler, reportedly survived a coup attempt. Top leaders of the Pakistan People’s Party (PPP) in exile claim that a high-ranking general involved in the plot has been arrested, along with the Governor of Sind, Gen Abbasi.
+
+3. In the Indian localities of Bombay and Thane, new outbreaks of violence have occurred, with criminal elements exploiting the situation. This resulted in several deaths in Mulund and Bhayandar, and police had to intervene with gunfire in Kherwadi and Jogeshwari.
+
+4. A severe heatwave across northern, central, and southern India has led to additional fatalities in Bihar, with the death toll reaching 33. Champa town in Madhya Pradesh recorded a high temperature of 47 degrees Celsius for the third consecutive day.
+
+The article also includes a personal anecdote from comedian Sunil Pal about Bollywood star Shah Rukh Khan (SRK), highlighting his humility and respectful behavior towards fellow artists during a tour in Singapore. 
+
+Please note that any unrelated content or advertisements present in the original article have been omitted from this summary.
 
 Wed, 22 May 2024 12:02:01 +0000
 ### [Shyam Saran writes: Amid President Ebrahim Raisi’s death, Israel war, India’s reconnect with Iran](https://indianexpress.com/article/opinion/columns/president-ebrahim-raisis-death-israel-war-india-iran-9345099/)

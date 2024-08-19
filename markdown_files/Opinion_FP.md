@@ -1,3 +1,2209 @@
+Sat, 29 Jun 2024 18:08:33 +0530
+### [Why India needs a professional approach to disaster management](https://www.firstpost.com/opinion/why-india-needs-a-professional-approach-to-disaster-management-13787525.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 17:10:54 +0530
+### [Julian Assange isn’t a crusader, journalist or whistle-blower](https://www.firstpost.com/opinion/julian-assange-isnt-a-crusader-journalist-or-whistle-blower-13787490.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 14:32:02 +0530
+### [Who was the real loser in the Biden-Trump debate?](https://www.firstpost.com/opinion/who-was-the-real-loser-in-the-biden-trump-debate-13787455.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 12:56:48 +0530
+### [Sheikh Hasina visit gives a ‘Panchamrit’ push to India, Bangladesh ties](https://www.firstpost.com/opinion/sheikh-hasina-visit-gives-a-panchamrit-push-to-india-bangladesh-ties-13787433.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 11:51:52 +0530
+### [How will Modi 3.0 tackle the China threat? Early signs indicate a tense battle of nerves ahead](https://www.firstpost.com/opinion/how-will-modi-3-0-tackle-the-china-threat-early-signs-indicate-a-tense-battle-of-nerves-ahead-13787408.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 19:31:46 +0530
+### [Russia pushed into an unequal relationship with China: Implications for India](https://www.firstpost.com/opinion/russia-pushed-into-an-unequal-relationship-with-china-implications-for-india-13787281.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 17:37:58 +0530
+### [America’s Religious Freedom Report more fiction than reality, aimed at political goals](https://www.firstpost.com/opinion/americas-religious-freedom-report-more-fiction-than-reality-aimed-at-political-goals-13787201.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 14:31:52 +0530
+### [70 years of Panchsheel: Why this 1954 agreement between India and China must never be forgotten](https://www.firstpost.com/opinion/70-years-of-panchsheel-why-this-1954-agreement-between-india-and-china-must-never-be-forgotten-13787099.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 12:10:55 +0530
+### [Ramification | Conflict, compromise or chaos: The bleak future of Myanmar](https://www.firstpost.com/opinion/ramification-conflict-compromise-or-chaos-the-bleak-future-of-myanmar-13787068.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 07:58:28 +0530
+### [A fractious, confrontational and divided House: Modi government’s new challenge](https://www.firstpost.com/opinion/a-fractious-confrontational-and-divided-house-modi-governments-new-challenge-13786964.html)
+
+The article discusses the current political landscape in India's Parliament where the BJP is no longer in absolute majority, necessitating coalition governance. Amidst heightened confrontations, all parties emphasize adherence to the Indian Constitution. However, the article critiques how constitutional principles like democracy, freedom of expression, and checks on power have been undermined over the years by various political factions, including the BJP and Congress. It questions whether past wrongs justify present actions and laments the ongoing neglect of good governance amidst partisan disputes.
+
+Thu, 27 Jun 2024 16:00:05 +0530
+### [The carbon quandary: AI, big data, and impending environmental crisis](https://www.firstpost.com/opinion/the-carbon-quandary-ai-big-data-and-impending-environmental-crisis-13786759.html)
+
+The article discusses the potential of AI in combating climate change, specifically in reducing carbon emissions. AI systems like GPT-3 and BLOOM can perform tasks with much lower emissions compared to human writers and artists. However, training these AI models requires high initial emissions. The article also mentions the need for innovation in AI hardware and software to reduce energy consumption and carbon footprint. It highlights the potential of neuromorphic computing, which emulates the human brain's structure and operations, making AI applications more energy-efficient. The article also points out that while AI can theoretically cut global carbon emissions, it relies on responsible usage since data centers powering AI are significant energy consumers. The rapid growth of hyperscale data centers has disrupted efforts to reduce fossil fuel reliance. The article concludes by emphasizing the need for a multidisciplinary approach to navigate the complex relationship between AI, energy consumption, and climate change.
+
+Thu, 27 Jun 2024 14:07:58 +0530
+### [Cold War 2.0: Putin-Kim’s ‘elevated friendship’ threatens American order in East Asia](https://www.firstpost.com/opinion/cold-war-2-0-putin-kims-elevated-friendship-threatens-american-order-in-east-asia-13786705.html)
+
+Russian President Vladimir Putin's recent visit to North Korea marks the first such official visit by a Russian Head of State in 24 years. The visit solidified an enhanced partnership between Putin and North Korean leader Kim Jong Un, raising concerns about its impact on regional security dynamics. The newly formed "Strategic Partnership" includes provisions for military assistance to North Korea in case of attack, reminiscent of past Soviet-North Korean defense treaties. This development has heightened tensions in Northeast Asia, drawing strong reactions from South Korea, Japan, and the US, who view it as a challenge to existing security frameworks. Russia's motivations include countering Western sanctions and bolstering its military capabilities amid the Ukraine conflict. The agreement also signals expanded economic ties and potential cooperation in sensitive technological fields, which could aid North Korea's prohibited nuclear program. China, though cautious, views this alliance as a potential shift in regional power dynamics, complicating its own geopolitical strategy. The evolving relationship between Russia and North Korea poses significant implications for regional stability and efforts towards denuclearization.
+
+Thu, 27 Jun 2024 12:09:13 +0530
+### [Unreserved, yet inaccessible: How labour laws protect the interest of a few but exclude many others](https://www.firstpost.com/opinion/unreserved-yet-inaccessible-how-labour-laws-protect-the-interest-of-a-few-but-exclude-many-others-13786654.html)
+
+The article discusses India's central trade unions and their focus on protecting their members' interests rather than the broader labor force. It highlights shifts in employment practices, such as outsourcing, and the legal complexities surrounding it. The consolidation of labor laws into four codes is examined, noting challenges in implementation across states. The closure of Britannia Industries' factory in Kolkata underscores issues with local labor laws impacting investment. It also questions the effectiveness of central trade unions in representing the diverse needs of India's labor force, which is largely informal.
+
+Thu, 27 Jun 2024 10:27:35 +0530
+### [Will Sunak become a victim of desi-style vote-bank politics?](https://www.firstpost.com/opinion/will-sunak-become-a-victim-of-desi-style-vote-bank-politics-13786616.html)
+
+The article discusses Rishi Sunak's tenure as the UK's first ethnic-Indian Prime Minister and suggests he may not continue beyond July 4 due to expected electoral losses for the Conservative Party. Despite economic improvements under his leadership, Sunak has faced criticism, possibly due to racial biases. The piece explores shifting voter demographics, including the influence of ethnic minority and Muslim voters, and predicts future political scenarios in a diversifying Britain. It also mentions emerging electoral strategies like "The Muslim Vote" and a "Hindu Manifesto," indicating potential trends in UK politics.
+
+Wed, 26 Jun 2024 18:02:25 +0530
+### [How Philippines’ maritime sovereignty gains centre stage in South China Sea dispute amid aggressive Beijing and assertive Washington](https://www.firstpost.com/opinion/how-philippines-maritime-sovereignty-gains-centre-stage-in-south-china-sea-dispute-amid-aggressive-beijing-and-assertive-washington-13786448.html)
+
+The article discusses escalating tensions between the Philippines and China over the Second Thomas Shoal in the South China Sea. Chinese coast guard actions, including use of force against Filipino personnel stationed on a grounded vessel, Sierra Madre, are intensifying. The dispute is part of China's broader strategy to assert control over the South China Sea, impacting regional stability and drawing involvement from the US and its allies. The Philippines, supported by the Quad countries (US, Japan, Australia, and India), is resisting Chinese dominance, with implications for regional security and potential conflict escalation.
+
+Wed, 26 Jun 2024 17:42:29 +0530
+### [A clear and present danger: Climate crisis needs immediate action and not just hollow promises](https://www.firstpost.com/opinion/a-clear-and-present-danger-climate-crisis-needs-immediate-action-and-not-just-hollow-promises-13786368.html)
+
+The article discusses the urgent need to limit global warming to 1.5 degrees Celsius to prevent irreversible damage, a milestone breached in February 2024. It highlights recent climate-related tragedies, such as heat-related deaths in India and extreme weather impacts across Africa. Small Island Developing States (SIDS) are disproportionately affected, facing severe economic and environmental setbacks despite minimal contributions to global emissions. The Commonwealth is advocating for increased climate finance and resilience-building efforts to support vulnerable nations, emphasizing the importance of global commitments and actions to mitigate climate change effects.
+
+Wed, 26 Jun 2024 15:06:10 +0530
+### [Modi-Hasina summit: The highway of strategic partnership](https://www.firstpost.com/opinion/modi-hasina-summit-the-highway-of-strategic-partnership-13786326.html)
+
+Article found but Couldn't summarize 
+As India and Bangladesh navigate the complexities of the 21st century, the Modi-Hasina summit serves as a testament to the resilience and dynamism of their bilateral relationship, promising a future of sustained growth and mutual benefit
+
+Wed, 26 Jun 2024 12:54:01 +0530
+### [Chang’e-6 spacecraft brings lunar dust to Earth, revealing China’s 'Moon agenda'](https://www.firstpost.com/opinion/change-6-spacecraft-brings-lunar-dust-to-earth-revealing-chinas-moon-agenda-13786256.html)
+
+China's Chang'e-6 mission successfully delivered lunar samples from the Moon's far side to Earth via the Returner capsule on June 25, 2024. This marks the first opportunity in history for scientists to analyze such samples. China's Lunar Exploration Programme, which began in 2007, has progressed through orbiter missions to soft landings on the lunar surface, culminating in missions like Chang'e-5 and now Chang'e-6. The program aims to advance towards a human lunar landing by 2030, amidst a competitive global space race involving the US.
+
+Wed, 26 Jun 2024 10:36:01 +0530
+### [From sending cricket kits in 2002 to BCCI now ensuring coaching: India’s role in nurturing Afghan cricket](https://www.firstpost.com/opinion/from-sending-cricket-kits-in-2002-to-bcci-now-ensuring-coaching-indias-role-in-nurturing-afghan-cricket-13786169.html)
+
+The article highlights India's pivotal role in supporting Afghan cricket over the past two decades, despite Afghanistan lacking a home ground due to ongoing instability. It traces how India initially provided cricket kits and later facilitated training, coaching, and infrastructure development through collaborations with the BCCI. This support culminated in Afghanistan's remarkable cricket achievements, including recent wins in the T20 World Cup, underscoring cricket's role in inspiring Afghan youth amidst adversity. The author, a former Indian diplomat, reflects on the transformative impact of sports diplomacy and hopes for continued success for Afghan cricket.
+
+Wed, 26 Jun 2024 10:03:14 +0530
+### [Sonakshi Sinha & Zaheer Iqbal criticised for inter-faith marriage: How toxic can trolls get?](https://www.firstpost.com/entertainment/sonakshi-sinha-zaheer-iqbal-criticised-for-inter-faith-marriage-how-toxic-can-trolls-get-13786171.html)
+
+Actors Sonakshi Sinha and Zaheer Iqbal recently married in Mumbai, but their joyous occasion was marred by severe online trolling due to their inter-faith marriage. Despite facing criticism for their personal choice, the couple, who had been together for seven years, opted for a civil ceremony emphasizing their union of hearts over religious rituals. Both Sonakshi and Zaheer's families expressed support, with Zaheer's father asserting that Sonakshi will not convert to Islam. The couple received backing from public figures like Sonakshi's father, Shatrughan Sinha, and actress Richa Chadha, who condemned the negativity and offered their congratulations.
+
+Tue, 25 Jun 2024 19:40:19 +0530
+### [NEP 2020: Preparing students to think afresh and take the lead](https://www.firstpost.com/opinion/nep-2020-preparing-students-to-think-afresh-and-take-the-lead-13786045.html)
+
+Article found but Couldn't summarize 
+Forget rote learning and outdated models. National Education Policy 2020 prioritises critical thinking, adaptability, and real-world skills, building a generation ready to shape the future, not just join the workforce
+
+Tue, 25 Jun 2024 18:14:51 +0530
+### [Emergency, Sanjay Gandhi and the Maruti saga](https://www.firstpost.com/opinion/emergency-sanjay-gandhi-and-the-maruti-saga-13786037.html)
+
+In 1970, Sanjay Gandhi, then 23, was granted a license to manufacture a small car in India. This project, known as Maruti, was opposed by P.N. Haksar, who was subsequently removed from his post as principal secretary to Prime Minister Indira Gandhi.
+
+The Maruti project faced criticism and allegations of nepotism against Indira Gandhi. During this time, Jai Prakash Narayan emerged as a prominent figure, leading a movement against the government.
+
+In June 1975, the Emergency was imposed, granting Indira Gandhi sweeping powers. The Emergency was justified by the government citing threats to law and order, though many scholars questioned its necessity.
+
+The 42nd Amendment to the Constitution was introduced during the Emergency, reducing the power of the judiciary and introducing a socialist framework. The amendment was supported by Congress members, who praised Indira Gandhi's leadership.
+
+Bansi Lal, as Defence Minister, played a significant role in promoting Sanjay Gandhi's agenda. Sanjay's efforts included family planning, slum clearance, and promoting education and women's rights. However, his implementation of these programs was often forceful and ineffective.
+
+Despite his successes in electrifying Haryana and promoting tourism, Bansi Lal's political career was marked by controversy and allegations of misconduct. Indira Gandhi, while acknowledging Sanjay's "doer" mentality, distanced herself from his excesses during the Emergency.
+
+Tue, 25 Jun 2024 15:23:03 +0530
+### [PM Modi’s popularity and India’s growing stature make Western media more envious](https://www.firstpost.com/opinion/pm-modis-popularity-and-indias-growing-stature-make-western-media-more-envious-13785944.html)
+
+Western media scrutiny of India has intensified due to its rising prominence and the global shift towards right-wing politics. One recent criticism alleges "transnational repression" by India, though evidence for alleged extrajudicial killings abroad remains unclear. Canada's allegations stem from an incident involving Hardeep Nijjar, designated as a terrorist by Indian agencies. Despite concerns about fake counterterrorism, experts emphasize the importance of addressing national security threats.
+
+The Canadian Security and Intelligence Committee has accused politicians of foreign interference in elections, but the report's credibility is questionable given systemic shortcomings in Canadian security agencies. Australian Broadcasting Corporation journalist Avani Dias published a report claiming Indian infiltration, which has been refuted by Indian officials. The report paints Khalistanis as peaceful and ignores their history of violence.
+
+Western journals such as Foreign Policy and Foreign Affairs have expressed concerns about India's "illiberal democracy" and criticized the RSS. As geopolitical interests intensify, India expects continued scrutiny from the Western media, which may be driven by jealousy or political ends.
+
+Tue, 25 Jun 2024 12:12:24 +0530
+### [Dangerous stalemate in Ukraine: Is a Russia-NATO nuclear war becoming inevitable?](https://www.firstpost.com/opinion/dangerous-stalemate-in-ukraine-is-a-russia-nato-nuclear-war-becoming-inevitable-13785855.html)
+
+Article found but Couldn't summarize 
+As Russia and NATO escalate military posturing over Ukraine, the unthinkable looms — nuclear conflict. With both sides conducting drills and bolstering arsenals, the question isn't if, but when a miscalculation could trigger catastrophe
+
+Mon, 24 Jun 2024 16:44:24 +0530
+### [From Ukraine to Taiwan: How 'zones of denial' strategies dominate 21st-century modern warfare](https://www.firstpost.com/opinion/from-ukraine-to-taiwan-how-zones-of-denial-strategies-dominate-21st-century-modern-warfare-13785635.html)
+
+Article found but Couldn't summarize 
+Anti-access/area denial tactics, designed to prevent adversaries from entering a theatre of operations and limit their freedom of action within it, are reshaping the geopolitical landscape
+
+Mon, 24 Jun 2024 15:57:03 +0530
+### [PM Modi’s big message at G7: India Story remains unchanged post poll results](https://www.firstpost.com/opinion/pm-modis-big-message-at-g7-india-story-remains-unchanged-post-poll-results-13785620.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi’s participation in the G7 summit sent the message that his plans and ambitions for India had not been affected by the election results and that he remained firmly in charge
+
+Mon, 24 Jun 2024 15:37:02 +0530
+### [Russia and North Korea: A tale of a nuclear bromance](https://www.firstpost.com/opinion/russia-and-north-korea-a-tale-of-a-nuclear-bromance-13785588.html)
+
+Article found but Couldn't summarize 
+The Russia-North Korea pact seems to be in direct retaliation to the West’s policy of isolating Pyongyang because of its nuclear programme and the rumoured supply of high-precision and advanced weapons to Ukraine with permission to use them to target areas inside Russia
+
+Mon, 24 Jun 2024 14:24:53 +0530
+### [Head-on | The end of the Washington Consensus](https://www.firstpost.com/opinion/head-on-the-end-of-the-washington-consensus-13785557.html)
+
+The "Washington Consensus" is a set of economic policies that were once considered essential for developing countries. However, critics argue that these policies have not worked, particularly in Latin America, and that they have allowed China to surpass the United States in several technological areas.
+
+The consensus is also seen as a way for the West to maintain control over the global economy and security. Any rising power that challenges the consensus faces confrontation, such as economic sanctions against Russia and a ban on high-tech chips for China.
+
+While India is currently seen as a counterweight to China in the Indian Ocean Region, the country's growing economy and military could make it a future target of Western pressure. India's unique geography and demography give it strategic importance, and its software and space capabilities are rapidly developing.
+
+As the balance of world power shifts towards the Global South, there is a need for a new development paradigm based on cultural contexts and human cognition. The Washington Consensus has not addressed these issues and has hindered the emergence of a new approach.
+
+Mon, 24 Jun 2024 12:35:27 +0530
+### [The fall of Hong Kong: India must change its approach to lure fleeing investments](https://www.firstpost.com/opinion/the-fall-of-hong-kong-india-must-change-its-approach-to-lure-fleeing-investments-13785497.html)
+
+As global companies seek alternatives to China following Beijing's crackdown in Hong Kong, India, despite its economic growth and skilled workforce, has failed to capture a significant share of relocating businesses. This suggests that India is not adequately removing barriers to foreign investment. To fully leverage the opportunities presented by companies de-risking from China, Indian leaders need to address this issue. Attracting and retaining foreign firms not only contributes to economic growth but also enhances India's global influence and national security by leveraging their connections in home capitals.
+
+Mon, 24 Jun 2024 09:45:15 +0530
+### [Russia’s pivot to South China Sea: Decoding Putin’s North Korea, Vietnam visits](https://www.firstpost.com/opinion/russias-pivot-to-south-china-sea-decoding-putins-north-korea-vietnam-visits-13785421.html)
+
+President Vladimir Putin seeks to shift the focus of conflict from Ukraine to the South China Sea, where China claims sovereignty over disputed islands. By aligning with China, Vietnam, and North Korea, Russia aims to counter US influence in the region. This move escalates tensions between Russia and the US, potentially leading to a proxy war in the Indo-Pacific. The situation poses a risk of nuclear escalation and regional instability, especially for smaller nations who may become battlegrounds for major power conflicts. Taiwan, with its close ties to the US, faces concerns over potential Chinese aggression.
+
+Sun, 23 Jun 2024 18:45:25 +0530
+### [Why Rajnath Singh and Jaishankar need to collaborate even more in Modi 3.0](https://www.firstpost.com/opinion/why-rajnath-singh-and-jaishankar-need-to-collaborate-even-more-in-modi-3-0-13785342.html)
+
+Amidst global geopolitical, geoeconomic, and technological turmoil, India's defense and foreign policies face numerous challenges requiring an integrated approach between the Raksha Mantri and Foreign Minister. These challenges include maintaining strategic neutrality between the US and Russia, navigating the emerging relationship between Russia and China, handling Iran-Israel-Palestine tensions, managing relations with the US amidst shifting trust, addressing the China challenge at the LAC, resolving issues with Nepal, addressing radicalization in Bangladesh and Chinese influence in the region, countering Chinese diplomacy with Bhutan, and engaging with the Maldives despite its anti-India stance.
+
+Sun, 23 Jun 2024 18:21:47 +0530
+### [The wonder that was India: Retracing ancient Nalanda’s high-quality education parameters](https://www.firstpost.com/opinion/the-wonder-that-was-india-retracing-ancient-nalandas-high-quality-education-parameters-13785332.html)
+
+Article found but Couldn't summarize 
+The university housed 10,000 students and 2,000 professors, an impressive teacher-student ratio even by present-day standards
+
+Sun, 23 Jun 2024 17:09:39 +0530
+### [Heartbeat of Andalusia: Seven gems of southern Spain](https://www.firstpost.com/opinion/heartbeat-of-andalusia-seven-gems-of-southern-spain-13785297.html)
+
+Southern Spain boasts a diverse tapestry of history, culture, and natural wonders.
+
+Malaga, the birthplace of Picasso, showcases its artistic heritage through museums and architectural landmarks such as the Picasso Trail and the Alcazaba.
+
+Ronda, perched on a gorge, offers stunning views, historic churches, and a renowned gastronomy.
+
+Marbella combines luxury with natural beauty, featuring pristine beaches and exclusive shopping areas.
+
+Zahara de la Sierra, nestled in the mountains, boasts a picturesque town and an olive oil haven.
+
+Jerez de la Frontera is known for its sherry production and equestrian tradition, exemplified by the Cartujana horses.
+
+Seville, the heart of Andalusia, is renowned for flamenco, with its vibrant dance performances and rich cultural heritage.
+
+Cordoba displays architectural wonders in the Mezquita, a testament to its Moorish and Christian past, and the charming Judería, the old Jewish quarter.
+
+Sun, 23 Jun 2024 15:15:15 +0530
+### [Pannun plot accusation exposes US hypocrisy on targeted killings](https://www.firstpost.com/opinion/pannun-plot-accusation-exposes-us-hypocrisy-on-targeted-killings-13785269.html)
+
+Article found but Couldn't summarize 
+America has repeatedly violated the UN Charter by eliminating high-value targets in drone strikes on foreign soil
+
+Sun, 23 Jun 2024 12:38:28 +0530
+### [Hunting with hounds, running with hare: China can’t have India ties, both ways](https://www.firstpost.com/opinion/hunting-with-hounds-running-with-hare-china-cant-have-india-ties-both-ways-13785238.html)
+
+India has declined China's request to resume passenger flights, indicating that it will not compromise on its border security with China.
+
+Regarding Pakistan's recent visit to China, India has rejected China's acknowledgment of Pakistan's position on Jammu and Kashmir, reiterating that it remains an integral part of India.
+
+India's stance on the border issue with China is that peace and tranquillity must be restored before normalcy can be resumed. The joint statement between China and Pakistan misinterprets UNSC resolutions, fails to acknowledge India's administrative control over the entire region, and ignores Pakistan's obligation to vacate PoK.
+
+India has maintained a bilateral approach to the Kashmir issue with Pakistan since the Shimla Agreement and has resisted Western involvement. China's involvement in the joint statement raises concerns about its intentions for bilateral ties with India.
+
+Pakistan's recent statements on Kashmir are seen as an attempt to divert attention from its economic crisis. However, it is possible that a plebiscite in PoK could result in the region's integration with India.
+
+Sat, 22 Jun 2024 18:33:48 +0530
+### [Balochistan on boil: Why situation is turning bleak for Pakistan and its army](https://www.firstpost.com/opinion/balochistan-on-boil-why-situation-is-turning-bleak-for-pakistan-and-its-army-13785083.html)
+
+Despite heavy-handed rule and censorship, Pakistan maintains control over Balochistan through brute force. President Zardari's attempts for political dialogue are met with incongruous calls for enhancing law enforcement agencies that contribute to unrest in the region.
+
+The fifth Balochistan insurgency since 1947 continues to simmer, with both militant and peaceful resistance movements. Despite media suppression, the unrest is intensifying, and there are signs of alliances between Baloch militants and the Pakistani Taliban.
+
+Pakistan's military response has been to crush dissent with brute force, further fueling anger and creating a situation approaching a breaking point. The inability of the Baloch to unify hinders their ability to counter Pakistan's divide-and-rule tactics.
+
+Sat, 22 Jun 2024 16:41:35 +0530
+### [How Russia-North Korea pact shows convergence of anti-West interests](https://www.firstpost.com/opinion/how-russia-north-korea-pact-shows-convergence-of-anti-west-interests-13785044.html)
+
+Russian President Vladimir Putin's visit to North Korea highlights the consequences of pushing a nation to its limits.
+
+Amidst global isolation due to the Ukraine conflict, Russia seeks allies, particularly in the Pacific. North Korea, with its nuclear aspirations and history of Western sanctions, aligns with Russia's interests.
+
+The visit resulted in a landmark agreement elevating bilateral ties to a strategic level. The agreement covers cooperation in political, military, economic, and cultural spheres. Notably, it includes a provision for immediate military assistance in case of aggression or war.
+
+North Korea and Russia recognize their shared interests in countering Western sanctions and potential technological cooperation. The visit serves as a reminder that isolating a power can potentially drive them into alliances with its rivals.
+
+Sat, 22 Jun 2024 15:56:33 +0530
+### [The forgotten ‘crow hill’ of Bihar’s Jehanabad](https://www.firstpost.com/opinion/the-forgotten-crow-hill-of-bihars-jehanabad-13785035.html)
+
+Kauwa Dol, a heritage site near Bodh Gaya, boasts a hill adorned with intricate carvings depicting Hindu and Buddhist deities. The site, once named after a vanishing stone block that rocked when birds perched on it, features a Shiva linga, depictions of goddesses, Vishnu, Ganesha, and Durga. Kauwa Dol is believed to have been a sacred site or monastery and may have once housed a Buddhist monastery visited by Hiuen Tsang. Alongside Kauwa Dol, the nearby Barabar Caves (3rd century BCE) and Nagarjuni Caves provide historical and cultural attractions, suggesting the area's significance as a pilgrim center.
+
+Sat, 22 Jun 2024 13:32:22 +0530
+### [China’s name change spree in Xinjiang and Tibet continues unabated](https://www.firstpost.com/opinion/chinas-name-change-spree-in-xinjiang-and-tibet-continues-unabated-13784996.html)
+
+Article found but Couldn't summarize 
+The sinister design by the Chinese authorities to change the names of places, cities, and townships is not limited to its provinces or territory alone; rather, it goes beyond the borders
+
+Sat, 22 Jun 2024 11:29:40 +0530
+### [Great game of leverage: Of Khalistan smokescreen, Deep State, and foreign interference in India’s domestic politics](https://www.firstpost.com/opinion/great-game-of-leverage-of-khalistan-smokescreen-deep-state-and-foreign-interference-in-indias-domestic-politics-13784947.html)
+
+Article found but Couldn't summarize 
+The West needs India, but it cannot let New Delhi become too powerful; hence the need for leverage
+
+Fri, 21 Jun 2024 18:16:19 +0530
+### [Nancy Pelosi meets Dalai Lama as America shows eagerness to engage India on Tibet](https://www.firstpost.com/opinion/nancy-pelosi-meets-dalai-lama-as-america-shows-eagerness-to-engage-india-on-tibet-13784816.html)
+
+The passing of the 'Resolve Tibet Act' by the US Congress asserts that Tibet was not historically part of China. It raises concerns about China's suppression of Tibetan culture and calls for US efforts to combat disinformation on Tibet.
+
+The visit of a US delegation to India, including Dharamsala, highlights the involvement of both the US and India in the Tibet issue. China has responded with a visit by President Xi Jinping to a Tibetan monastery, emphasizing its control over Tibetan Buddhism.
+
+The EU has also raised concerns about human rights violations in Tibet, including interference in the Dalai Lama's succession. The investigation of Wu Jingjie, the former Communist Party Secretary of Tibet, remains a mystery.
+
+The Act is significant for India as it legitimizes Tibet's former independence. However, negotiations between China and Tibet are unlikely due to China's reluctance to grant autonomy or the Dalai Lama's authority in the succession process.
+
+Fri, 21 Jun 2024 17:48:25 +0530
+### [Mecca’s heat claims pilgrims’ lives as Hajj coincides with scorching summers of Arabia](https://www.firstpost.com/opinion/meccas-heat-claims-pilgrims-lives-as-hajj-coincides-with-scorching-summers-of-arabia-13784758.html)
+
+Over 900 pilgrims, including 68 Indians, tragically lost their lives during this year's Hajj pilgrimage in Saudi Arabia due to extreme heat conditions. The pilgrimage, which takes place during the final month of the Islamic calendar (Dhu-al-Hijja), falls at different times throughout the year due to the Islamic calendar's lunar nature. This year, the pilgrimage coincided with the extreme summer heat, leading to a surge in casualties. The Islamic calendar's departure from seasonal cycles makes it difficult to schedule events during favorable weather conditions. Despite the risks, the Hajj remains an important obligation for Muslims, and many countries have annual quotas for pilgrims.
+
+Fri, 21 Jun 2024 14:19:16 +0530
+### [India emerges as Voice of Global South in China-fearing World](https://www.firstpost.com/opinion/india-emerges-as-voice-of-global-south-in-china-fearing-world-13784539.html)
+
+At the G7 summit, India gained prominence with PM Modi's diplomacy, signaling a pivotal moment in its global engagement. Modi emphasized the concerns of the Global South and advocated for a more equitable international system, calling for an end to monopolies in technology. He met with Ukrainian President Zelensky but maintained a nuanced stance on the conflict, aligning with the Global South's cautious approach. India's presence and Modi's diplomacy at the summit demonstrate its growing role as a leader for developing nations in a world concerned about China's influence.
+
+Fri, 21 Jun 2024 11:33:27 +0530
+### [Putin’s visit to North Korea and Kim’s dream to dominate space](https://www.firstpost.com/opinion/putins-visit-to-north-korea-and-kims-dream-to-dominate-space-13784582.html)
+
+Russia's visit to North Korea aims to strengthen cooperation against US sanctions. North Korea relies on Russia for space assistance, such as its successful spy satellite launch in November 2023. In exchange, Russia potentially seeks military equipment from North Korea. North Korea's interest in space surveillance stems from its nuclear deterrent structure and intelligence gathering needs. Despite limitations in its ISR capabilities, it plans to expand its space program with Russian support. However, US monitoring systems, such as Cobra Ball, pose challenges for North Korea's efforts to advance its technology development.
+
+Thu, 20 Jun 2024 19:27:28 +0530
+### [Putin’s North Korea visit, rising anti-West sentiments, and concerns for India](https://www.firstpost.com/opinion/putins-north-korea-visit-rising-anti-west-sentiments-and-concerns-for-india-13784422.html)
+
+Article found but Couldn't summarize 
+Apart from mobilising anti-West interests, Moscow needs to source weapons from Pyongyang to sustain its ongoing war in Ukraine
+
+Thu, 20 Jun 2024 17:57:32 +0530
+### [Time for India to raise 'space force’ as new zone of warfare emerges](https://www.firstpost.com/opinion/time-for-india-to-raise-space-force-as-new-zone-of-warfare-emerges-13784386.html)
+
+Article found but Couldn't summarize 
+Even though the Outer Space Treaty debars nations from weaponising space, the writing on the wall makes it clear that a threat from the new frontier is lurking
+
+Thu, 20 Jun 2024 15:26:49 +0530
+### [Climate hypocrisy: West’s moral high ground and its failure to deliver](https://www.firstpost.com/opinion/climate-hypocrisy-wests-moral-high-ground-and-its-failure-to-deliver-13784295.html)
+
+Western nations often express concern about climate change but fail to prioritize environmental protection over economic goals. This is evident in the approval of fossil fuel projects and the delay of climate finance commitments.
+
+Developed countries have not met their pledge to provide $100 billion annually in climate finance to developing countries. This inadequacy is highlighted by the high costs of adaptation and mitigation measures required to address climate change.
+
+Current climate finance falls far short of estimates for the funding needed to meet the Paris Agreement targets. Emerging markets and developing countries face a significant financial gap, requiring a massive increase in climate finance.
+
+Reforms are needed in multilateral development banks to triple their lending by 2030. Innovative financial instruments must be leveraged to transition from billions to trillions in climate finance.
+
+Developed nations have a moral obligation to provide resources for climate mitigation and adaptation in developing countries, rather than expecting them to reduce pollution without adequate support.
+
+Thu, 20 Jun 2024 13:34:45 +0530
+### [Women in Indian Politics: A story that has changed little over the years](https://www.firstpost.com/opinion/women-in-indian-politics-a-story-that-has-changed-little-over-the-years-13784273.html)
+
+The 18th Lok Sabha of India has only 74 women members out of 543, representing a decline from 14.4% in 2019 to 13.63% this year. This is despite efforts to promote women's inclusion in politics, such as the Women's Reservation Bill, which reserves 33% of seats for women in parliament. The disparity begins with the number of women candidates fielded by parties, which has increased only marginally from 9% in 2019 to 9.5% in 2024. Women candidates face challenges ranging from discriminatory practices to misogynistic remarks, highlighting the persistence of patriarchal norms in Indian politics. To improve women's representation, India needs a sociological transformation to break free from traditional gender roles and empower women to participate fully in politics.
+
+Thu, 20 Jun 2024 10:11:37 +0530
+### [When terrorism is democracy: India sharpens its diplomatic knife to further expose Canada’s Khalistani doublespeak](https://www.firstpost.com/opinion/when-terrorism-is-democracy-india-sharpens-its-diplomatic-knife-to-further-expose-canadas-khalistani-doublespeak-13784203.html)
+
+Article found but Couldn't summarize 
+India has so far done well in exposing Canada’s propensity to run with the modern, liberal, democratic world while hunting with the terrorist hounds of the Khalistani kind
+
+Wed, 19 Jun 2024 20:00:49 +0530
+### [Terror attacks in Kashmir: Critical revamping needed in war against terrorism](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-critical-revamping-needed-in-war-against-terrorism-13784077.html)
+
+The article discusses the current state of terrorism in Jammu & Kashmir, particularly in the Pir Panjal valley, which was previously declared terrorism-free. The author highlights that despite official claims of terrorism declining, there has been a spike in brutal attacks in the Pir Panjal valley, indicating that Pakistan's investments in terrorism and radicalization over three decades have not been entirely successful.
+
+The author also points out that while the Kashmir valley has seen a boost in tourism and economic growth, separatist and extremist organizations like Jamaat-i-Islami continue to work on the ground to radicalize and strengthen their networks. The Jamaat has changed tactics and is now working among students and youngsters, spreading their core message of Islamic Kashmir.
+
+In the Jammu region, the Gujjar-Bakarwal community, which has traditionally supported Indian security forces, is going through alienation and resentment against the state authorities. This has led to some disgruntled elements providing support systems to infiltrating terrorists.
+
+The article also notes that Pakistan-based handlers have changed their strategy and tactics, using young boys and girls as couriers, and using new kinds of communication devices that are immune to interception and de-encryption. Terrorists are also using advanced drones with precision drop systems, making it challenging for agencies to jam them.
+
+The author concludes by stating that New Delhi must not be complacent with the current phase of peace and must come out with a long-term plan based on an insightful strategic vision to dismantle Islamist and separatist structures in Kashmir. The final solution to Kashmir's terrorism problem lies beyond the LoC and IB, and Islamabad must be made to pay a high cost for terroir activities.
+
+Wed, 19 Jun 2024 18:08:19 +0530
+### [The power of imagery: How global media distorts Palestinian reality to project Israel as villain](https://www.firstpost.com/opinion/the-power-of-imagery-how-global-media-distorts-palestinian-reality-to-project-israel-as-villain-13784026.html)
+
+International media coverage of the Israeli-Palestinian conflict is influenced by bias, evident in language use, context omission, and coverage quantity. Studies reveal that reports tend to portray Israeli actions as aggressive while using sympathetic terms for Palestinian casualties. Critics argue this imbalance shapes public perception and policy. However, proponents contend that it reflects the asymmetry of power between the sides.
+
+Analysis of media content indicates a disparity in coverage, with more attention given to one side's grievances. Media bias can perpetuate a one-sided view by neglecting to provide context and historical background.
+
+The author concludes that while instances of bias exist, the issue is complex. Media has a significant role in shaping public opinion and policy, but the pursuit of objectivity in reporting on this conflict remains challenging.
+
+Wed, 19 Jun 2024 15:24:01 +0530
+### [How China’s ‘grey zone warfare’ keeps East and Southeast Asia on alert](https://www.firstpost.com/opinion/how-chinas-grey-zone-warfare-keeps-east-and-southeast-asia-on-alert-13783911.html)
+
+China's recent maritime aggression in the South China Sea is primarily driven by domestic political compulsions, including economic instability and a desire to divert attention from internal issues. Its "unrestricted grey zone warfare" strategy employs a range of tactics to assert dominance, including lawfare and military intimidation. However, this aggression has prompted regional resistance from ASEAN countries, Japan, Taiwan, and India through enhanced maritime security efforts, military preparedness, and diplomatic alignments. Despite the challenges posed by China's growing desperation, regional cooperation remains crucial to maintaining peace and stability in East and Southeast Asia.
+
+Wed, 19 Jun 2024 12:52:55 +0530
+### [Kashmir beyond tourism: How budding small-medium enterprises tap opportunities in paradise](https://www.firstpost.com/opinion/kashmir-beyond-tourism-how-budding-small-medium-enterprises-tap-opportunities-in-paradise-13783882.html)
+
+Kashmir's economy thrives beyond tourism, with a vibrant SME sector encompassing handicrafts, textiles, culinary delights, agriculture, and wood carving. These industries contribute significantly to the region's economic growth and employment, showcasing its diverse production capabilities. Despite challenges, the government supports SME development through policies and programs. The region's rich heritage, skilled artisans, and resilient entrepreneurs drive economic empowerment and social inclusion. Enhancing market linkages, innovation, and export promotion will further strengthen Kashmir's SME sector, transforming its economic landscape and establishing it as a hub of industrial development.
+
+Wed, 19 Jun 2024 10:56:54 +0530
+### [Jake Sullivan’s India visit: Suspicions, uncertain future test Indo-American ties](https://www.firstpost.com/opinion/jake-sullivans-india-visit-suspicions-uncertain-future-test-indo-american-ties-13783818.html)
+
+US National Security Advisor Sullivan's visit to India highlighted progress in technological collaboration through the iCET initiative. Joint research and scientist exchanges will focus on quantum computing, telecommunications, and defense. However, concerns regarding American interference in India's politics and the extradition of an Indian national during the visit have led to skepticism and strained high-level intelligence collaboration. India also laments the limited and poor quality of intelligence sharing by the US. Despite these challenges, the iCET partnership aims to enhance India's technological capabilities, with notable agreements on the Light Combat Aircraft and quantum computing. However, skepticism remains over the pace of technology transfer and suitability of certain US defense offers for India's operational needs. The upcoming American elections add uncertainty to the partnership, as India may hesitate to invest heavily due to potential changes in the Biden administration.
+
+Tue, 18 Jun 2024 18:49:46 +0530
+### [True face of terror: Pakistan’s unilateral aggression in Jammu and Kashmir](https://www.firstpost.com/opinion/true-face-of-terror-pakistans-unilateral-aggression-in-jammu-and-kashmir-13783673.html)
+
+The article discusses the recent surge in terrorist attacks in Jammu and Kashmir, which have resulted in the deaths of several people. The attacks are attributed to Pakistan-backed groups, including the The Resistance Front (TRF), which has been designated as a terrorist organization by India. The article argues that Pakistan's involvement in terrorism in the region is not new, and that the country has a long history of using terrorist groups to destabilize the region.
+
+The article highlights the recent attacks, including a bus attack that killed nine people, and a series of attacks on security personnel. It also notes that the attacks are not limited to a specific region, but are instead a part of a broader campaign of violence and intimidation.
+
+The article argues that Pakistan's role in perpetuating terrorism in the region is well-documented, and that the country's actions are not limited to providing support to terrorist groups, but also include the use of sophisticated tunneling operations to facilitate the movement of terrorists across the border.
+
+The article also criticizes certain media figures and academics who, in its view, downplay Pakistan's role in the region's turmoil and instead portray India as equally responsible for the violence. The article argues that this portrayal is misleading and dangerous, and that it is essential to acknowledge Pakistan's responsibility for the violence in order to galvanize a unified response to the problem.
+
+Tue, 18 Jun 2024 16:36:01 +0530
+### [A fresh start for agriculture? What Modi 3.0 must do differently](https://www.firstpost.com/opinion/a-fresh-start-for-agriculture-what-modi-3-0-must-do-differently-13783622.html)
+
+The article discusses the challenges faced by Indian agriculture under the Modi government and the need for fresh thinking and policy changes. Despite the government's commitment to farmers, the country is still reeling under an agrarian crisis. The article suggests that the government needs to address the climate issue, enhance the crop insurance scheme, reduce input costs, and promote natural farming. The government should also take its program to double farmers' incomes seriously and initiate discussions with stakeholders to chart a roadmap for the next five years. The appointment of a new agriculture minister, Shivraj Singh Chouhan, is seen as a positive step towards addressing the country's agrarian challenges.
+
+Tue, 18 Jun 2024 15:42:49 +0530
+### [Crisis of identity: Of passports and compatriotism](https://www.firstpost.com/opinion/crisis-of-identity-of-passports-and-compatriotism-13783605.html)
+
+The article discusses the relevance of traditional passports in today's digital, economy-driven, and pan-national world. The author argues that the concept of nationality has become outdated and that the traditional passport has become obsolete. He suggests that the idea of nationality has been artificially constructed and is no longer relevant in today's globalized world.
+
+The author notes that the concept of nationality was created in the early 20th century and was based on the idea of a shared history, language, culture, and ethnicity. However, with the rise of globalization, migration, and dual citizenship, the concept of nationality has become increasingly complex and fuzzy.
+
+The author argues that the traditional passport has become a relic of the past and that it is no longer suitable for today's globalized world. He suggests that a new form of identification and documentation is needed that is more suitable for a world where people live and work across borders, and where nationality is no longer a fixed concept.
+
+The author also notes that the concept of nationality is not fixed and that people's identities are complex and multifaceted. He argues that nationality is not necessarily tied to a specific country or culture, and that people can have multiple identities and loyalties.
+
+The article concludes that the traditional passport has become obsolete and that it is time to create a new form of identification that is more suitable for today's globalized world.
+
+Tue, 18 Jun 2024 13:26:11 +0530
+### [Is the ‘River of Blood’ finally flowing through ‘Londonistan’?](https://www.firstpost.com/opinion/is-the-river-of-blood-finally-flowing-through-londonistan-13783541.html)
+
+Thousands of people, led by anti-immigration campaigners Tommy Robinson and Laurence Fox, protested in London, chanting "This is London, not Londonistan" and waving the Saint George's flag. The protest was in response to concerns about the growing Muslim population in London and the perceived threat to British values and identity. The protesters also highlighted the alleged two-tier policing system, which they claim favors left-wing protesters over those who oppose immigration. The event sparked counter-protests from anti-racism groups, who accused the protesters of being far-right and fascist. The protest was reminiscent of Enoch Powell's infamous "River of Blood" speech, in which he predicted a clash of civilizations between the UK and its immigrant population. Today, the UK's Muslim population has risen significantly, with some calling for Sharia law to be incorporated into British law. The protest has reignited debates about immigration, multiculturalism, and the future of British identity.
+
+Tue, 18 Jun 2024 10:04:34 +0530
+### [Why Ukraine peace summit in Switzerland was more of a photo op](https://www.firstpost.com/opinion/why-ukraine-peace-summit-in-switzerland-was-more-of-a-photo-op-13783443.html)
+
+The Ukraine Peace Summit was held in Switzerland, but it lacked a crucial voice: Russia's. The summit was attended by over 90 countries, but Russia was not invited, which made the outcome a foregone conclusion. The summit's outcome was a joint communique that focused on nuclear safety, freedom of navigation, and humanitarian aspects. However, the communique was not signed by all attendees, with some countries abstaining or withdrawing their signatures. The summit's outcome was seen as unbalanced and lacking serious intent, as it did not include Russia's perspective. The conflict in Ukraine has been ongoing for some time, and it is unclear when it will end.
+
+Mon, 17 Jun 2024 18:35:22 +0530
+### [If Turkey arms Pakistan, should India help the Kurds?](https://www.firstpost.com/opinion/if-turkey-arms-pakistan-should-india-help-the-kurds-13783306.html)
+
+The article discusses the growing influence of Turkey under the leadership of Recep Tayyip Erdogan, who has consolidated his power and promoted political Islam at home and abroad. Turkey has developed a significant arms industry, exporting weapons and drones to various countries, including Somalia, Ethiopia, Libya, and Hamas. The author argues that Turkey is becoming a major exporter of militant Islamism, similar to Saudi Arabia's role in the 20th century.
+
+The article also highlights the potential threat Turkey poses to India, particularly in the context of Kashmir. Turkey's support for Pakistan-based terrorist groups and its potential to augment its military support to Pakistan-based groups is a concern for India. The author suggests that India should consolidate its relations with the Kurds, who are natural allies of Armenia, and arm the Kurds to deter Turkey from increasing its support to Pakistan-based terrorist groups.
+
+Mon, 17 Jun 2024 15:50:48 +0530
+### [2024 Lok Sabha elections: A historic reflection of democratic resilience and evolution](https://www.firstpost.com/opinion/2024-lok-sabha-elections-a-historic-reflection-of-democratic-resilience-and-evolution-13783277.html)
+
+Article found but Couldn't summarize 
+Despite existing challenges, such as the underrepresentation of women, India's democratic elections consistently reinforce the nation’s commitment to empowering its citizens and fostering fair participation in politics
+
+Mon, 17 Jun 2024 14:56:19 +0530
+### [European Parliament at the crossroads: A swing to the Right](https://www.firstpost.com/opinion/european-parliament-at-the-crossroads-a-swing-to-the-right-13783241.html)
+
+Article found but Couldn't summarize 
+The biggest takeaway of the European parliamentary election has been the steep rise in support for the Right-wing parties in several countries
+
+Mon, 17 Jun 2024 12:35:57 +0530
+### [We get the economy we deserve: Decoding India’s freebie mindset](https://www.firstpost.com/opinion/we-get-the-economy-we-deserve-decoding-indias-freebie-mindset-13783202.html)
+
+Article found but Couldn't summarize 
+Better roads, railways and airports may help enhance the productive potential of the economy. Everyone appreciates the need for that, but let someone else pay for it. This is the essence of freebies and populism in the country
+
+Mon, 17 Jun 2024 11:18:44 +0530
+### [How India’s presence in G7 summit in Italy was significant](https://www.firstpost.com/opinion/how-indias-presence-in-g7-summit-in-italy-was-significant-13783196.html)
+
+Article found but Couldn't summarize 
+At G7, India brings in both economic relevance and robust democratic credentials. Both of these are promoted by G7. India is a living appreciation of these ideals
+
+Sun, 16 Jun 2024 19:01:15 +0530
+### [The timing of terror attacks in Kashmir: What does it mean?](https://www.firstpost.com/opinion/the-timing-of-terror-attacks-in-kashmir-what-does-it-mean-13783081.html)
+
+The article discusses the recent terrorist attack on Hindu pilgrims in Jammu and Kashmir, which resulted in the deaths of nine people and injured 30 others. The author attributes the attack to Pakistan, which has been engaging in a proxy war in the region for over 35 years. The article explains that Pakistan's strategy is to engage in hybrid warfare, which involves sponsoring terrorist groups to carry out attacks that create disruption and chaos in the region. The author argues that Pakistan's goal is to make India look weak and divided, and to create a sense of fear and uncertainty among the population. The article also mentions that Pakistan's economy is in shambles, its polity is in chaos, and its internal security situation is abysmal. Despite these challenges, Pakistan continues to invest in its proxy war in Jammu and Kashmir. The author concludes that India needs to be prepared to respond to such attacks and to take a strong stance against Pakistan's proxy war.
+
+Sun, 16 Jun 2024 17:18:47 +0530
+### [Mercenaries or ‘tech coolies’: Time Indians should know which overseas jobs are not for them](https://www.firstpost.com/opinion/mercenaries-or-tech-coolies-time-indians-should-know-which-overseas-jobs-are-not-for-them-13783064.html)
+
+Article found but Couldn't summarize 
+Whether as mercenaries in the Russia-Ukraine war or forced into phishing jobs in Myanmar and Cambodia, Indians have suffered the severe consequences of risky migration
+
+Sun, 16 Jun 2024 15:17:42 +0530
+### [Morarji Desai’s amazing jackstay tryst with Indian Navy](https://www.firstpost.com/opinion/morarji-desais-amazing-jackstay-tryst-with-indian-navy-13783040.html)
+
+Article found but Couldn't summarize 
+While Morarji Desai’s tenure as PM was brief — from March 1977 to July 1979 — he achieved a remarkable feat of crossing across two warships, at sea, by jackstay. Even more significantly, he did this on two different occasions with the Indian Navy
+
+Sun, 16 Jun 2024 13:59:57 +0530
+### [How ‘Melodi’ is the flavour of G7, but apart from that there’s anxiety and uncertainty](https://www.firstpost.com/opinion/how-melodi-is-the-flavour-of-g7-but-apart-from-that-theres-anxiety-and-uncertainty-13783022.html)
+
+Article found but Couldn't summarize 
+Barring Narendra Modi and Giorgia Meloni, other political leaders are battling not just sheer unpopularity, but also economic shakiness amid the costs of war
+
+Sun, 16 Jun 2024 11:07:03 +0530
+### [A ‘diminished’, ‘weak’, ‘humbled’ Modi takes centrestage at G7; PM’s epitaph-writers should take a long, deep breath](https://www.firstpost.com/opinion/a-diminished-weak-humbled-modi-takes-centrestage-at-g7-pms-epitaph-writers-should-take-a-long-deep-breath-13782987.html)
+
+Article found but Couldn't summarize 
+Since taking oath, Modi has shown that he remains his own man and is in firm control of the levers of the coalition government
+
+Sat, 15 Jun 2024 18:28:04 +0530
+### [A clear and present danger: Pope Francis’ AI speech reaffirms India’s stand on harnessing technology for greater good](https://www.firstpost.com/opinion/a-clear-and-present-danger-pope-francis-ai-speech-reaffirms-indias-stand-on-harnessing-technology-for-greater-good-13782898.html)
+
+Pope Francis recently called for a ban on "lethal autonomous weapons" at a G7 summit in Italy, emphasizing the importance of human control in decision-making processes related to armed conflict. He highlighted the urgent need to reconsider the development and deployment of such weapons, citing the tragic consequences of armed conflict and the paramount importance of human oversight. The Pope's message resonates deeply in India, a country that has historically advocated for peace and non-violence. India has witnessed advancements in AI technology, raising questions about its implications for national security and ethical use. The Pope's call for a ban aligns with India's commitment to promoting global peace and disarmament, and India recognizes the need for robust international frameworks to regulate the use of AI in warfare.
+
+Sat, 15 Jun 2024 17:21:21 +0530
+### [Terror attacks in J&K: India must deliver tough message to terrorists and their Pakistani masters](https://www.firstpost.com/opinion/terror-attacks-in-jk-india-must-deliver-tough-message-to-terrorists-and-their-pakistani-masters-13782857.html)
+
+The article discusses the recent surge in terrorist attacks in the Jammu division of Jammu and Kashmir, which is a shift from the usual terror hotspots in the Kashmir valley. The author argues that this shift is a strategic move by Pakistan to test the Indian government's response and to create instability in the region. The author suggests that the Pakistani government is trying to signal to India that they are still a relevant player in the region and are not ready to give up on their "Kashmir cause".
+
+The article also mentions that the Indian government, led by Prime Minister Narendra Modi, will likely respond to these attacks and may even launch a military operation against Pakistan. The author notes that the Pakistani government is trying to carefully calibrate the violence to avoid crossing the threshold of tolerance in India and to avoid a full-scale war.
+
+The article concludes that the situation in Jammu is likely to escalate and tensions will rise in the region, potentially leading to a increase in violence along the Line of Control (LoC) and the possibility of a military response from India.
+
+Sat, 15 Jun 2024 15:27:01 +0530
+### [If CIA can hack iPhones, is user data safe after Apple-ChatGPT integration?](https://www.firstpost.com/opinion/if-cia-can-hack-iphones-is-user-data-safe-after-apple-chatgpt-integration-13782818.html)
+
+Apple's cooperation with US intel agencies and OpenAI's privacy policy have raised serious questions about user data. In 2019, a Silicon Valley firm called Rhombus Power used its generative AI platform to collect and analyze non-classified data on illegal Chinese fentanyl trafficking for the US Defence Intelligence Agency. Similarly, OpenAI, co-owned by Microsoft, uses AI to predict violence worldwide.
+
+The US Intelligence Community increasingly relies on machine intelligence, especially in national security matters. AI can analyze a large amount of data and produce results and analyses in seconds. AI can also be used to predict terrorist attacks by analyzing historical data and social media activity of suspects.
+
+Section 702 of the Foreign Intelligence Surveillance Act allows the NSA to collect phone calls, emails, SMS, and other communications of non-Americans located outside the US without a warrant. However, this also means that an American communicating with a non-American outside the US is also monitored without a warrant.
+
+Apple's partnership with OpenAI, which integrates ChatGPT into iOS 18, iPadOS 18, and macOS Sequoia, has raised concerns about data safety. Apple claims that user data will not be sent over the Internet while ChatGPT generates images and predicts text. However, Apple's most advanced chips will not be able to complete the massive range of AI tasks and Siri might pass them to the company's servers.
+
+OpenAI's privacy policy states that it collects personal information, including IP addresses, browser type, and settings, time zone, country, and other information. OpenAI may provide the user's personal information to third parties in certain circumstances and may share it with law enforcement agencies.
+
+US and British intelligence agencies have focused on big companies, including Apple, manufacturing popular cell phones, besides targeting terrorists or criminals. In 2010, the NSA and Britain's GCHQ formed the Mobile Handset Exploitation Team to implant malware on iPhones to secretly access private communications on cell phones.
+
+The CIA has also developed software exploits and implants for high-priority target cell phones for intelligence collection. The FBI hacking division, the Remote Operations Unit, is also tasked with discovering iPhone vulnerabilities.
+
+Sat, 15 Jun 2024 14:23:12 +0530
+### [Uttarakhand’s Baijnath temple and its lost miracle stone](https://www.firstpost.com/opinion/uttarakhands-baijnath-temple-and-its-lost-miracle-stone-13782802.html)
+
+The article is about the Baijnath temple complex in Uttarakhand, India, which is a revered and historic temple site. The author recounts his own experience of lifting a mysterious stone, known as the "Bhim Gend" or "miracle stone", with a group of nine people in 1994. The stone was said to weigh around 90 kilograms and could only be lifted by chanting "nau, nau, nau" and using their index fingers. The author recalls the tranquility of the place in the 1990s, but notes that it has changed significantly with the arrival of modern infrastructure and tourism. The temple complex still stands, but the miracle stone is now broken into two parts and is no longer present. The article also mentions the rich history and mythology of the temple site, which dates back to the Katyuri dynasty.
+
+Sat, 15 Jun 2024 13:22:45 +0530
+### [Fourth anniversary of Galwan incident: Indelible stain on India-China ties](https://www.firstpost.com/opinion/fourth-anniversary-of-galwan-incident-indelible-stain-on-india-china-ties-13782786.html)
+
+The Galwan Valley face-off between Indian and Chinese troops on June 15, 2020, marked a significant deterioration in bilateral relations between India and China. The incident occurred when Indian troops went to check if the Chinese had withdrawn from the Galwan Valley, as agreed upon by military commanders. However, the Chinese troops attacked the Indian soldiers, resulting in the deaths of 20 Indian soldiers, including Colonel B Santosh Babu. The clash was a result of China's attempts to unilaterally alter the status quo along the Line of Actual Control (LAC). The incident has had a lasting impact on India-China relations, leading to a significant deterioration in ties and affecting the strategic calculus of both countries.
+
+The border dispute between India and China is a longstanding issue, with China not accepting the alignment of the boundary between the two countries. China's annexation of Tibet in 1959 led to India's border with China, and the two countries have had a complex history of negotiations and agreements. Despite several agreements and protocols, the LAC remains undemarcated, and the two sides have had a series of skirmishes over the years, including the Galwan Valley incident.
+
+The incident led to a significant buildup of troops and armaments by both sides, and the situation remains tense, with troops deployed in a standoff. Despite diplomatic and military talks, the standoffs in critical areas remain unresolved. The Chinese side has refused to discuss the Depsang Plains and Demchok in Eastern Ladakh, claiming they are "legacy issues" that predate April 2020. The situation has led to a huge trust deficit regarding China, and India has responded by counter-deploying forces.
+
+Sat, 15 Jun 2024 11:13:28 +0530
+### [G7+1: How India bridges between West and Global South amid fractured world order](https://www.firstpost.com/opinion/g71-how-india-bridges-between-west-and-global-south-amid-fractured-world-order-13782734.html)
+
+Article found but Couldn't summarize 
+India's upward trajectory and quest to be a ‘rule-maker and shaper’ make it well placed to craft and promote its principled foreign policy while reiterating that 'this is not an era of war' and dialogue and diplomacy can only lead to peace
+
+Fri, 14 Jun 2024 19:49:59 +0530
+### [Terrorist attacks in the Jammu belt: Time to make Pakistan accountable](https://www.firstpost.com/opinion/terrorist-attacks-in-the-jammu-belt-time-to-make-pakistan-accountable-13782623.html)
+
+The article discusses the recent terrorist incidents in the Jammu belt, including the attack on pilgrims moving by bus from the Shiv Khori temple to Katra in the Reasi sector, which resulted in nine deaths and around 40 injuries. The incident is attributed to Pakistan-backed terrorist groups, despite denials by Islamabad. The article argues that while the presence of terrorists in the region is a concern, it is not a sign of the re-emergence of terrorism in the region.
+
+The article suggests that the Indian government should send a message of intent to Pakistan by reactivating the LoC and targeting Pakistan-backed terrorist groups. It also emphasizes the need for security forces to remain proactive and cautious in their operations, while also dismantling the overground network of terrorist organizations.
+
+The article also touches on the need for India to comprehend Pakistan's thought process and the potential for Pakistan to try to project itself as a victim of terrorism in order to gain international sympathy. It concludes that while terrorist groups operating south of Pir Panjal will be eliminated with time, sending a message of intent to Pakistan is essential.
+
+Fri, 14 Jun 2024 18:25:00 +0530
+### [The big message in Russia sending its warships to Cuba](https://www.firstpost.com/opinion/the-big-message-in-russia-sending-its-warships-to-cuba-13782572.html)
+
+Article found but Couldn't summarize 
+Putin’s actions in Cuba are unmistakably a warning to the United States, signalling that Russia's patience is wearing thin
+
+Fri, 14 Jun 2024 16:05:08 +0530
+### [From self-reliance to emerging markets: Priorities of Indian defence sector under Modi 3.0](https://www.firstpost.com/opinion/from-self-reliance-to-emerging-markets-priorities-of-indian-defence-sector-under-modi-3-0-13782497.html)
+
+Article found but Couldn't summarize 
+India’s strategy of awarding larger contracts to domestic private sector entities is both pragmatic and visionary
+
+Fri, 14 Jun 2024 12:33:06 +0530
+### [US Sutra | Presidential polls: Hunter conviction will hurt Biden’s prospects](https://www.firstpost.com/opinion/us-sutra-presidential-polls-hunter-conviction-will-hurt-bidens-prospects-13782397.html)
+
+Article found but Couldn't summarize 
+Whether or not Hunter Biden faces jail or finds relief when he appeals against this verdict, the political damage to the Joe Biden re-election campaign, even if not consequential or substantial, will be done
+
+Fri, 14 Jun 2024 10:30:30 +0530
+### [Head-on | G7 is a relic of a discredited world order](https://www.firstpost.com/opinion/head-on-g7-is-a-relic-of-a-discredited-world-order-13782372.html)
+
+Article found but Couldn't summarize 
+As wars rage in Ukraine and Gaza, the G7 appears impotent. Britain, France, Germany and Italy no longer carry their weight in world affairs
+
+Fri, 14 Jun 2024 10:06:32 +0530
+### [Modi 3.0: Why BJP must embrace Mohan Bhagwat’s message for unity and inclusive governance](https://www.firstpost.com/opinion/modi-3-0-why-bjp-must-embrace-mohan-bhagwats-message-for-unity-and-inclusive-governance-13782364.html)
+
+Article found but Couldn't summarize 
+Mohan Bhagwat emphasised that we must ‘respect diversity, live together, and respect others too’. He advised Indians to ‘embrace goodwill to all’, and work towards consensus
+
+Thu, 13 Jun 2024 19:21:59 +0530
+### [As India plans to rename 30 Tibetan sites, more needs to be done to keep China in check](https://www.firstpost.com/opinion/as-india-plans-to-rename-30-tibetan-sites-more-needs-to-be-done-to-keep-china-in-check-13782233.html)
+
+Article found but Couldn't summarize 
+The new government in Delhi cannot immediately return to its 1950s position, but whether China is happy or not, it is worth to be studied, debated and widely circulated. Thereafter some steps could be taken into the right direction
+
+Thu, 13 Jun 2024 18:55:17 +0530
+### [Why G7 move on Russian assets could hurt the global financial system](https://www.firstpost.com/opinion/why-g7-move-on-russian-assets-could-hurt-the-global-financial-system-13782225.html)
+
+Article found but Couldn't summarize 
+Geopolitical tensions are influencing the decisions of central banks around the world as they lose trust in the international banking system
+
+Thu, 13 Jun 2024 16:55:28 +0530
+### [‘All eyes on her’: How EU elections and G7 presidency boost Giorgia Meloni’s stature](https://www.firstpost.com/opinion/all-eyes-on-her-how-eu-elections-and-g7-presidency-boost-giorgia-melonis-stature-13782169.html)
+
+Article found but Couldn't summarize 
+Despite the challenges in front of her in the coming months in Brussels and on the international stage, the Italian prime minister will stand tall in a room full of the world's most powerful men at Borgo Egnazia
+
+Thu, 13 Jun 2024 15:28:18 +0530
+### [Why Giorgia Meloni stands tall among all G7 leaders](https://www.firstpost.com/opinion/why-giorgia-meloni-stands-tall-among-all-g7-leaders-13782121.html)
+
+The article discusses the domestic challenges faced by six out of the seven leaders of the G7 countries, including US President Joe Biden, UK Prime Minister Rishi Sunak, French President Emmanuel Macron, German Chancellor Olaf Scholz, Canadian Prime Minister Justin Trudeau, and Japanese Prime Minister Fumio Kishida. The challenges include tough elections, dwindling support, and the possibility of being ousted. The only exception is Italian Prime Minister Giorgia Meloni, who has seen an increase in public support and is in a strong position. Meloni is expected to play a significant role in the upcoming G7 summit and could potentially negotiate a deal to put Italy at the center of European politics. The author suggests that given her peers' struggles, Meloni is well-suited to take on a bigger role on the global stage. The views expressed in the article are personal and do not necessarily reflect Firstpost's views.
+
+Thu, 13 Jun 2024 13:22:14 +0530
+### [With a coalition government and revitalised Opposition, third term will test PM Modi’s leadership](https://www.firstpost.com/opinion/with-a-coalition-government-and-revitalised-opposition-third-term-will-test-pm-modis-leadership-13782061.html)
+
+Article found but Couldn't summarize 
+The Opposition’s aim would be to keep Modi mired in the aftermath of the Lok Sabha polls until the next round of state assembly elections in Maharashtra, Haryana, and Jharkhand
+
+Thu, 13 Jun 2024 11:31:06 +0530
+### [Tale of two Sharifs: Why Nawaz and Shehbaz's congratulations to PM Modi were different in tone and tenor](https://www.firstpost.com/opinion/tale-of-two-sharifs-why-nawaz-and-shehbazs-congratulations-to-pm-modi-were-different-in-tone-and-tenor-13782017.html)
+
+Article found but Couldn't summarize 
+The official thinking of Pakistan towards India follows the path chosen by the military generals and not by the civilian politicians
+
+Wed, 12 Jun 2024 19:24:55 +0530
+### [Terror attacks in Kashmir and Pakistan’s sinister agenda for global jihad](https://www.firstpost.com/opinion/terror-attacks-in-kashmir-and-pakistans-sinister-agenda-for-global-jihad-13781847.html)
+
+Article found but Couldn't summarize 
+The recent attacks in Kashmir are a reminder that India cannot go easy on terrorism, which continues to remain global scourge
+
+Wed, 12 Jun 2024 17:31:31 +0530
+### [How India’s bet on Chabahar can counter China’s Gwadar gambit](https://www.firstpost.com/opinion/how-indias-bet-on-chabahar-can-counter-chinas-gwadar-gambit-13781785.html)
+
+The article discusses India's strategic plans to establish new trade and transport connectivity routes, particularly focusing on the Chabahar port in Iran and the India-Middle East-Europe Economic Corridor (IMEC). The Chabahar port, with its rich history dating back to ancient times, has the potential to become the gateway for India to access Central Asian countries. The development of this port, which is a critical node in the International North-South Transport Corridor (INSTC), aims to enhance regional connectivity, reduce Afghan dependency on Pakistan, and provide India with an alternative trade pathway.
+
+The IMEC, a new 4,800-kilometer trade route, was recently announced and aims to stimulate economic development and integration. It comprises two separate routes: an east corridor linking India to the Arabian Gulf and a northern corridor connecting Gulf states to Europe. This corridor is intended to deepen India's economic integration with Saudi Arabia and the UAE, rebuild historic links between India, the Middle East, and Eurasia, and reimagine connectivity towards an Asian resurgence.
+
+The article contrasts India's approach with China's Belt and Road Initiative, particularly the Gwadar port in Pakistan, which has faced numerous issues, including corruption, inefficiencies, debt, and security concerns. The author suggests that India's transparency and delivery on its promises, such as trading with Afghanistan through the port of Chabahar, set it apart from China's approach.
+
+Wed, 12 Jun 2024 16:28:40 +0530
+### [Why Pakistan leaders' outreach to India is a non-starter](https://www.firstpost.com/opinion/why-pakistan-leaders-outreach-to-india-is-a-non-starter-13781710.html)
+
+Article found but Couldn't summarize 
+India’s stand remains clear—there can be no dialogue until Pakistan stops cross-border terrorism
+
+Wed, 12 Jun 2024 15:04:11 +0530
+### [Why timing of Meloni's Italy hosting G7 summit couldn't have been better](https://www.firstpost.com/opinion/why-timing-of-melonis-italy-hosting-g7-summit-couldnt-have-been-better-13781708.html)
+
+Article found but Couldn't summarize 
+The projections of European parliamentary elections reflect the growing clout of Italian Prime Minister Giorgia Meloni, who is all set to host leaders from the most developed democratic nations
+
+Wed, 12 Jun 2024 14:37:01 +0530
+### [New Delhi’s Tibet-Taiwan move: How India-China relations will fare under Modi 3.0](https://www.firstpost.com/opinion/new-delhis-tibet-taiwan-move-how-india-china-relations-will-fare-under-modi-3-0-13781679.html)
+
+The article discusses the state of India-China relations under Prime Minister Narendra Modi's third term. It highlights several events that have strained the relationship, including China's objections to India's ties with Taiwan, its release of a video of the Galwan Valley clash during the Indian elections, and its support for Pakistan-sponsored terrorism. The article also mentions India's plans to rename places in occupied Tibet and hold military simulations with Taiwan, which China is likely to view unfavorably. The author concludes that the relationship between India and China under Modi 3.0 will continue to be rocky, if not rockier, and that New Delhi needs to be prepared for fresh surprises from Beijing. The article was written by an Associate Professor of Chinese Studies and International Relations at the Jindal School of International Affairs, O P Jindal Global University, Haryana.
+
+Wed, 12 Jun 2024 12:36:22 +0530
+### [Pakistan’s deteriorating security situation sours ties with Arab and Chinese ‘friends’](https://www.firstpost.com/opinion/pakistans-deteriorating-security-situation-sours-ties-with-arab-and-chinese-friends-13781634.html)
+
+The article discusses the increased concerns of China regarding the safety of its nationals working on the China-Pakistan Economic Corridor (CPEC) projects in Pakistan. The article mentions that China is demanding a large-scale counterterrorism operation against militant groups, such as the Tehreek-i-Taliban Pakistan (TTP), due to escalating threats to Chinese nationals. The article also highlights that Pakistan's economy is in a crisis, and a massive military operation would entail its own costs. Additionally, the article discusses the tension between Pakistan and Afghanistan, with the Taliban's unwillingness to act against the TTP posing a threat to Pakistan's security. The article concludes by stating that extremism and intolerance in Pakistan have thrived with state support and have become a huge hurdle in the way of economic progress, including foreign investment.
+
+Wed, 12 Jun 2024 10:33:38 +0530
+### [Difference between convicted felons Hunter Biden and hunted Trump](https://www.firstpost.com/opinion/difference-between-convicted-felons-hunter-biden-and-hunted-trump-13781568.html)
+
+Article found but Couldn't summarize 
+During the Trump trial last month, most ‘liberal’ media in the US conducted a parallel trial concurrently. But the same media are trying to portray Biden Jr not as the pampered son of a powerful family who lives beyond his means but as an American aam aadmi
+
+Tue, 11 Jun 2024 17:34:57 +0530
+### [Mumbai airport runway incident: Time for greater caution](https://www.firstpost.com/opinion/mumbai-airport-runway-incident-time-for-greater-caution-13781348.html)
+
+Article found but Couldn't summarize 
+A video of two planes at relatively close distances on the runway of Mumbai airport got shared on social media, creating a level of concern among the public
+
+Tue, 11 Jun 2024 15:42:19 +0530
+### [Shehbaz Sharif’s China visit: All talk, no cash](https://www.firstpost.com/opinion/shehbaz-sharifs-china-visit-all-talk-no-cash-13781300.html)
+
+Article found but Couldn't summarize 
+Based on public statements, the visit seemingly yielded none of Pakistan's desired financial commitments
+
+Tue, 11 Jun 2024 15:05:14 +0530
+### [Why one-month extension to current Army Chief is hotly debated](https://www.firstpost.com/opinion/why-one-month-extension-to-current-army-chief-is-hotly-debated-13781282.html)
+
+Article found but Couldn't summarize 
+Extensions in the armed forces are rare, as the last extension was given to COAS Gen Gopal Bewoor, who had succeeded Field Marshal Sam Manekshaw
+
+Tue, 11 Jun 2024 14:28:52 +0530
+### [Why Europe is set to take a 'Right' turn](https://www.firstpost.com/opinion/why-europe-is-set-to-take-a-right-turn-13781004.html)
+
+Article found but Couldn't summarize 
+Projection says the hard-liners amongst the Right-wingers alone will win about 25 per cent of the seats in the EU assembly in Brussels in elections conducted on June 9
+
+Tue, 11 Jun 2024 13:07:15 +0530
+### [Why Europe's far-right is getting more votes, taking the continent 'rightward'](https://www.firstpost.com/opinion/why-europes-far-right-is-getting-more-votes-taking-the-continent-rightward-13781113.html)
+
+Article found but Couldn't summarize 
+The projections show the Eurosceptic are now a powerful group in the EU parliament
+
+Tue, 11 Jun 2024 10:02:01 +0530
+### [Decoding Modi 3.0 Cabinet: BJP’s message is loud and clear](https://www.firstpost.com/opinion/decoding-modi-3-0-cabinet-bjps-message-is-loud-and-clear-13781098.html)
+
+Article found but Couldn't summarize 
+The message is unequivocal: The BJP is here to lead with a steady hand, and there will be no dilution of its agenda or priorities in the face of coalition politics
+
+Mon, 10 Jun 2024 18:58:35 +0530
+### [Off-centre |The People’s PMO: Narendra Modi 3.0 back with a bang](https://www.firstpost.com/opinion/off-centre-the-peoples-pmo-narendra-modi-3-0-back-with-a-bang-13780963.html)
+
+Article found but Couldn't summarize 
+As India’s three-term prime minister, Narendra Modi’s tenure as the head of government of the world’s most populous country and largest democracy in the world has indeed been momentous
+
+Mon, 10 Jun 2024 14:58:41 +0530
+### [Why BJP fails to breach the Bengal citadel: Addressing the fundamental flaws](https://www.firstpost.com/opinion/why-bjp-fails-to-breach-the-bengal-citadel-addressing-the-fundamental-flaws-13780889.html)
+
+Article found but Couldn't summarize 
+The BJP’s prospects for the 2026 state polls hinge on its ability to address these fundamental challenges and regain lost ground
+
+Mon, 10 Jun 2024 13:44:53 +0530
+### [Islamabad's mounting challenges: China-Pakistan Economic Corridor, PoK and Balochistan](https://www.firstpost.com/opinion/islamabads-mounting-challenges-china-pakistan-economic-corridor-pok-and-balochistan-13780862.html)
+
+Article found but Couldn't summarize 
+Before asking China to invest and claiming to be a champion of Muslim rights globally, Pakistan must put its own house in order and address the rampant issues of internal unrest and militancy
+
+Mon, 10 Jun 2024 11:53:40 +0530
+### [Deals without outcome: How Israel-Palestine conflict stands unresolved](https://www.firstpost.com/opinion/deals-without-outcome-how-israel-palestine-conflict-stands-unresolved-13780788.html)
+
+Article found but Couldn't summarize 
+Both Hamas and the current Israeli government led by Benjamin Netanyahu are hoping that the other side will reject the deal
+
+Sun, 9 Jun 2024 17:30:13 +0530
+### [Ukraine war: West in dilemma as Russia prepares for summer offensive](https://www.firstpost.com/opinion/ukraine-war-west-in-dilemma-as-russia-prepares-for-summer-offensive-13780498.html)
+
+Article found but Couldn't summarize 
+While the West is ready to supply more weapons and sanction aid, now voices across the globe are pointing out a grim reality: Ukraine is unlikely to be in a position to reclaim lost territory
+
+Sun, 9 Jun 2024 16:08:29 +0530
+### [How hush money conviction has helped galvanise Trump supporters](https://www.firstpost.com/opinion/how-hush-money-conviction-has-helped-galvanise-trump-supporters-13780459.html)
+
+Article found but Couldn't summarize 
+The hush money conviction hasn’t much impacted how Americans, especially Republicans, view Donald Trump
+
+Sun, 9 Jun 2024 14:27:16 +0530
+### [How Western media belittled Modi's victory to further their dubious agenda](https://www.firstpost.com/opinion/how-western-media-belittled-modis-victory-to-further-their-dubious-agenda-13780427.html)
+
+Article found but Couldn't summarize 
+The current wave of criticism from the Western media highlights a significant bias, reflecting their tendency to focus on narratives that undermine PM Modi’s achievements while ignoring the broader democratic endorsement he received
+
+Sun, 9 Jun 2024 12:28:42 +0530
+### [How re-energised focus on ‘Neighbourhood First’ under Modi 3.0 can work wonders](https://www.firstpost.com/opinion/how-re-energised-focus-on-neighbourhood-first-under-modi-3-0-can-work-wonders-13780407.html)
+
+Article found but Couldn't summarize 
+From the Covid-19 pandemic to the Sri Lankan economic crisis, nowhere else has India demonstrated the spirit of adage better than in its immediate vicinity
+
+Sun, 9 Jun 2024 10:31:37 +0530
+### [Only a reckless and ignorant punter would bet against Narendra Modi running a coalition government](https://www.firstpost.com/opinion/only-a-reckless-and-ignorant-punter-would-bet-against-narendra-modi-running-a-coalition-government-13780377.html)
+
+Article found but Couldn't summarize 
+It is a baseless assumption that Modi can’t remodel himself according to circumstances
+
+Sat, 8 Jun 2024 19:20:24 +0530
+### [Why soil is the future of human civilisation](https://www.firstpost.com/opinion/why-soil-is-the-future-of-human-civilisation-13780283.html)
+
+Article found but Couldn't summarize 
+The people who control good lands could very well control the future of humanity by manipulating seed and food supply
+
+Sat, 8 Jun 2024 18:51:12 +0530
+### [Why China should introspect and stop seeing India through Western lens](https://www.firstpost.com/opinion/why-china-should-introspect-and-stop-seeing-india-through-western-lens-13780275.html)
+
+Article found but Couldn't summarize 
+The Chinese strategic worldview is most receptive to how the US thinks and acts. Thus, it has also seen India in the same light in the last three decades
+
+Sat, 8 Jun 2024 14:09:35 +0530
+### [Rafale in Alaska: How ‘Red Flag 24’ is good international exposure to Indian Air Force](https://www.firstpost.com/opinion/rafale-in-alaska-how-red-flag-24-is-good-international-exposure-to-indian-air-force-13780203.html)
+
+Article found but Couldn't summarize 
+The Red Flag 24 exercise showcases the IAF’s capability to be deployed thousands of kilometres away on the other side of the globe
+
+Sat, 8 Jun 2024 12:01:53 +0530
+### [India’s foreign policy will continue to pay rich dividends in Modi’s ‘historic’ third term](https://www.firstpost.com/opinion/indias-foreign-policy-will-continue-to-pay-rich-dividends-in-modis-historic-third-term-13780148.html)
+
+Article found but Couldn't summarize 
+Besides the continuity in India’s engagement with great powers, a similar thrust on the neighbourhood will also persist
+
+Sat, 8 Jun 2024 09:42:13 +0530
+### [Why it’s déjà vu for the soap opera Biden trial](https://www.firstpost.com/opinion/why-its-deja-vu-for-the-soap-opera-biden-trial-13780118.html)
+
+Article found but Couldn't summarize 
+As in the Trump trial and verdict (and possibly even sentencing), the unexpected should be expected even in the Biden case
+
+Fri, 7 Jun 2024 19:00:04 +0530
+### [Why India accepts multipolar world with dignity](https://www.firstpost.com/opinion/why-india-accepts-multipolar-world-with-dignity-13780003.html)
+
+Article found but Couldn't summarize 
+In the Indian worldview, multipolarity can be seen as a naturally occurring situation in the international order. It is a system, a global order, in which multiple civilisational states exist as fundamental poles
+
+Fri, 7 Jun 2024 17:24:50 +0530
+### [Dragon, Bear and Tiger: How India’s response to growing China-Russia ties will determine geopolitics of Indo-Pacific](https://www.firstpost.com/opinion/dragon-bear-and-tiger-how-indias-response-to-growing-china-russia-ties-will-determine-geopolitics-of-indo-pacific-13779969.html)
+
+Article found but Couldn't summarize 
+New Delhi’s new government has a tough battle ahead in not only countering China and standing up to it in a hostile neighbourhood but also in making tough decisions on its strong ally and old friend Russia
+
+Fri, 7 Jun 2024 13:33:53 +0530
+### [Agnikul’s first test flight: Time for private sector to be wings of Indian space industry](https://www.firstpost.com/opinion/agnikuls-first-test-flight-time-for-private-sector-to-be-wings-of-indian-space-industry-13779865.html)
+
+Article found but Couldn't summarize 
+Chennai-based space startup Agnikul has successfully carried out its maiden suborbital flight test
+
+Fri, 7 Jun 2024 12:32:15 +0530
+### [Biden’s Gaza ceasefire deal hangs in balance as Israel grapples with conflicting choices](https://www.firstpost.com/opinion/bidens-gaza-ceasefire-deal-hangs-in-balance-as-israel-grapples-with-conflicting-choices-13779825.html)
+
+Article found but Couldn't summarize 
+The current ceasefire proposal announced by US President Joe Biden may be consigned to the files like many previous ones until there is a clear decision by Israel on ending the war and getting the hostages back
+
+Fri, 7 Jun 2024 10:05:39 +0530
+### [Downturn drift: The shifting sands of Saudi-Pakistan relations](https://www.firstpost.com/opinion/downturn-drift-the-shifting-sands-of-saudi-pakistan-relations-13779750.html)
+
+Article found but Couldn't summarize 
+The flow of Saudi aid to Pakistan has declined in recent years as it is now perceived as a high-risk investment destination due to its economic instability
+
+Thu, 6 Jun 2024 16:50:58 +0530
+### [GhoseSpot | A wake-up call, not a Waterloo: BJP’s fight back starts now](https://www.firstpost.com/opinion/ghosespot-a-wake-up-call-not-a-waterloo-bjps-fight-back-starts-now-13779533.html)
+
+The article from Firstpost discusses the recent election results in India, which have prompted introspection within the BJP. Despite the party not being defeated, the results are seen as a call to action. The BJP's performance is not interpreted as a uniform message against them or in favor of the INDI alliance and Congress. The BJP's own hype, particularly the "400 paar" campaign, has led to a perception of defeat despite winning 240 seats, while Congress celebrates with less than 100 seats.
+
+The Congress, led by Mallikarjun Kharge, is determined to regain power, and there is speculation about potential shifts in alliances within the NDA. The article suggests that it's too early to consider the NDA's 292-seat tally final, as political dynamics could change. The BJP's election strategy centered around Narendra Modi's personal brand, which was less effective this time due to various local factors.
+
+The BJP's varied performance across states is attributed to different local issues rather than a singular national trend. In Uttar Pradesh, the BJP's loss is particularly notable, with the SP and Congress gaining support from minorities, OBCs, and the youth. The article also critiques the BJP's strategies in Maharashtra, Rajasthan, West Bengal, and the southern states, suggesting that strategic and organizational mistakes led to lost seats.
+
+The author argues that the election results should not be seen as a referendum on Modi's leadership but rather as a need for strategic correction within the BJP. The article concludes that while the BJP and its supporters should acknowledge mistakes, they should avoid internal blame that could weaken Modi's position and set the party back. The views expressed are the author's own and do not represent the publication's stance.
+
+Thu, 6 Jun 2024 13:13:35 +0530
+### [Beyond the Lines | The glorious irrelevance of exit polls in India: Should we take them seriously?](https://www.firstpost.com/india/beyond-the-lines-the-glorious-irrelevance-of-exit-polls-in-india-should-we-take-them-seriously-13779444.html)
+
+Article found but Couldn't summarize 
+While bucking the expectations of exit polls and yet voting for stable governance, the Indian citizens have shown that the country’s democratic traditions comprise one of the most mature systems of political choice in the world
+
+Thu, 6 Jun 2024 12:41:01 +0530
+### [40 years of Operation Blue Star: A tragic episode that Indira Gandhi could have avoided](https://www.firstpost.com/opinion/40-years-of-operation-blue-star-a-tragic-episode-that-indira-gandhi-could-have-avoided-13779431.html)
+
+The article reflects on the tragic events of Operation Blue Star, which began on June 5, 1984. It was a significant and controversial military operation where the Indian army was ordered to enter the Golden Temple in Amritsar to remove militant separatists. The operation coincided with the martyrdom day of Guru Arjun Dev, making the timing particularly sensitive. Despite assurances of a swift action, the operation led to a prolonged battle, resulting in the death of 712 extremists and the near destruction of the temple's sacred parts.
+
+The article also discusses the political backdrop of the time, including Indira Gandhi's opposition to the creation of a Punjabi-speaking state and the subsequent reorganization of Punjab in 1966. It highlights the increasing tensions and violence between Sikhs and Hindus leading up to the operation, with Indira Gandhi being criticized for her passive response to the escalating situation.
+
+The summary omits the personal views of the author and focuses on the historical and political context of Operation Blue Star, its execution, and its aftermath. The article suggests that the operation had long-lasting impacts on the community and the nation's history.
+
+Wed, 5 Jun 2024 18:46:37 +0530
+### [How ANC’s loss of parliamentary majority can herald uncertainty for South Africa](https://www.firstpost.com/opinion/how-ancs-loss-of-parliamentary-majority-can-herald-uncertainty-for-south-africa-13779168.html)
+
+Article found but Couldn't summarize 
+The country seems ill-prepared for a coalition era. The African National Congress did not expect such a massive dip in its fortunes, especially at the hands of former President Zuma
+
+Wed, 5 Jun 2024 18:00:09 +0530
+### [Why Delhi rejected AAP’s combative campaign to vote for BJP](https://www.firstpost.com/opinion/why-delhi-rejected-aaps-combative-campaign-to-vote-for-bjp-13779160.html)
+
+The article discusses the outcome of the 2024 Lok Sabha elections in Delhi, where the BJP maintained its dominance by winning all seven seats, despite losing ground in neighboring states. The results are seen as a rejection of the AAP's governance, with the party failing to secure a seat in the House of People. The article suggests that Delhi's voting pattern is indicative of the national mood, historically aligning with the party that performs well nationally.
+
+The piece also critiques the Congress party's strategy, particularly its alliance with the AAP and the promotion of Kanhaiya Kumar, which led to internal dissent and defections to the BJP. The author, identified as the president of the Centre for Reforms, Development & Justice, reflects on the Congress's missed opportunity to revive itself in Delhi and warns against repeating past mistakes that weakened the party in other states. The views expressed are personal and do not reflect those of the publication.
+
+Wed, 5 Jun 2024 16:17:34 +0530
+### [How BJP ended Naveen Patnaik's 24-year rule in Odisha](https://www.firstpost.com/opinion/how-bjp-ended-naveen-patnaiks-24-year-rule-in-odisha-13779099.html)
+
+The article discusses the Bharatiya Janata Party's (BJP) significant electoral victory in Odisha, which marked the end of the Biju Janata Dal's (BJD) 24-year rule. The BJP's strategic campaign, which focused on grassroots engagement and a development agenda, resonated with voters seeking change from the status quo. The party's success in the Lok Sabha and Assembly elections is attributed to its ability to connect with diverse demographics and address core issues, promising a new era of progress for Odisha.
+
+The BJP's victory is seen as a reflection of the electorate's desire for change and development, with the party harnessing anti-incumbency sentiments. However, it now faces the challenge of fulfilling its campaign promises and translating electoral success into concrete governance outcomes. The article also highlights the role of key leaders in the BJP's campaign and the strategic importance of the 'Pandian factor'—the influence of Chief Minister Naveen Patnaik's aide, V Karthikeyan Pandian, on the election.
+
+The author, a columnist and research scholar, emphasizes that the BJP's future in Odisha will depend on its ability to deliver inclusive governance and address socio-political challenges. The party's trajectory will be closely watched as it seeks to implement its vision for Odisha's development. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
+Wed, 5 Jun 2024 13:31:32 +0530
+### [India's elections have a strong message for the West and it is ....](https://www.firstpost.com/opinion/how-indian-general-elections-have-a-strong-message-to-world-13779011.html)
+
+Article found but Couldn't summarize 
+The Lok Sabha elections of 2024 have sent a message to everyone, especially to the West, that India's democracy is healthy, and to the Global South that democracy still works
+
+Wed, 5 Jun 2024 12:09:49 +0530
+### [When Modi equals Nehru’s stupendous record and yet BJP is seen as losing](https://www.firstpost.com/opinion/when-modi-equals-nehrus-stupendous-record-and-yet-bjp-is-seen-as-losing-13778915.html)
+
+The article discusses the outcome of the 2024 Indian general elections, where the Bharatiya Janata Party (BJP) won 240 seats, a decrease from their 2019 victory of 303 seats. Despite this, the article argues that maintaining power for a third consecutive term and remaining the largest party in the country is a significant achievement, a feat only once replicated post-Independence by Jawaharlal Nehru. The piece suggests that the BJP's ambitious campaign slogan and the expectations set by exit polls may have contributed to perceptions of their performance as a setback, despite it being a credible result for a party in power for two consecutive terms.
+
+The article also highlights the BJP's need to analyze its performance in key states like Uttar Pradesh, Maharashtra, and Rajasthan, where it lost a considerable number of seats. It discusses the potential factors that may have influenced the election results, such as voter fatigue, opposition campaign strategies, and internal party dynamics. The author concludes that while the BJP should celebrate its victory, it must also learn from this election, address any complacency, and prepare for future challenges. The views expressed are personal to the author and do not reflect those of Firstpost.
+
+Wed, 5 Jun 2024 11:58:56 +0530
+### [7 key takeaways from Indian general elections](https://www.firstpost.com/opinion/7-key-takeaways-from-indian-general-elections-13778954.html)
+
+The article discusses the unexpected outcomes of the recent Indian elections. Contrary to exit polls predicting a landslide victory for the BJP, the final results showed a close contest. The BJP won 240 seats, falling short of the 272 needed for a majority, but the NDA, its alliance, secured 292 seats. The opposition, the I.N.D.I.A. bloc, won 233 seats, with Congress making significant gains from previous elections. The BJP's loss of ground in the Hindi heartland was a key factor, as regional parties like the TMC and SP emerged stronger. Prime Minister Modi secured a third term, but this time in a coalition, highlighting internal divisions within the BJP and a resurgence for Congress. The article also notes the BJP's failure to capitalize on the Ram Mandir issue and its lackluster performance in the South. Overall, the election results indicate a shift in voter sentiment and a challenge to the BJP's dominance. The author's views are personal and do not reflect those of the publication.
+
+Wed, 5 Jun 2024 09:45:27 +0530
+### [BJP’s ‘severe setback’ is actually an incredible achievement](https://www.firstpost.com/opinion/bjps-severe-setback-is-actually-an-incredible-achievement-13778904.html)
+
+The article discusses the outcome of the recent Indian general elections, where the Bharatiya Janata Party (BJP), led by Narendra Modi, won 292 seats, enabling Modi to become the only leader after Jawaharlal Nehru to potentially serve three consecutive terms as Prime Minister. Despite this victory, the BJP's failure to achieve its own target of 400 seats and to secure a majority of 272 seats on its own has been perceived as a setback, leading to a feeling of defeat within the party. The BJP's performance is contrasted with the Congress party's, which, despite low expectations, managed to win 99 seats, a significant increase from its previous tally of 52 seats in 2019.
+
+The election results indicate a shift back to coalition politics in India, with regional leaders gaining importance and the BJP needing to collaborate with allies to form a government. This situation presents a new challenge for Modi and his administration, as they have not previously governed without a clear majority. The article suggests that Modi's ability to lead in a coalition environment will be tested, and the future of Indian politics may see significant changes depending on the alliances formed. The author's views are personal and do not necessarily reflect those of Firstpost.
+
+Tue, 4 Jun 2024 18:53:16 +0530
+### [Donald Trump’s trial, handling of campus protests show double standards of American rhetoric on democracy](https://www.firstpost.com/opinion/donald-trumps-hush-money-trial-handling-of-campus-protests-show-double-standards-of-american-rhetoric-on-democracy-13778730.html)
+
+Article found but Couldn't summarize 
+The US claims that it fights against enemies of democracies, but democracy in America seems to be groping in darkness
+
+Tue, 4 Jun 2024 09:43:45 +0530
+### [With major shifts in political metrics, poll battle in Haryana will be worth watching](https://www.firstpost.com/opinion/with-major-shifts-in-political-metrics-poll-battle-in-haryana-will-be-worth-watching-13778413.html)
+
+The article discusses the political strategies and developments during the Haryana election campaign. The BJP, under Modi and Khattar's leadership, adopted a new approach, while the Congress party intensified the competition. Key events included the unexpected resignation of Chief Minister Manohar Lal Khattar, who then ran for Lok Sabha, and the BJP's surprising ticket distribution, emphasizing PM Modi's leadership. The Congress party revitalized its campaign by focusing on ground sentiment and candidate strengths. Despite various challenges and the dynamics of different constituencies, the BJP maintained strongholds in several areas. The article concludes by highlighting the unpredictability of election outcomes and the importance of actual votes over social media metrics. The views expressed are personal to the author, an academic and policy professional.
+
+Tue, 4 Jun 2024 05:50:08 +0530
+### [How deep was western interference in 2024 elections? Enough smoke that warrants a thorough probe](https://www.firstpost.com/opinion/how-deep-was-western-interference-in-2024-elections-enough-smoke-that-warrants-a-thorough-probe-13778354.html)
+
+The article discusses India's recent general elections, highlighting the record-breaking number of voters and the extensive logistical efforts to ensure a smooth electoral process. It emphasizes India's commitment to democracy and contrasts this with the lack of acknowledgment from Western nations, which the author suggests are instead involved in undermining India's democratic achievements. The article accuses these nations and various global entities of promoting a negative narrative about India's democracy, often targeting Prime Minister Narendra Modi. It also details alleged foreign interference in Indian politics, particularly through funding and influence operations aimed at affecting election outcomes and public discourse, with specific mention of French academic Christophe Jaffrelot's role in anti-India narratives. The author calls for a strong response to these operations to protect India's sovereignty and democratic integrity.
+
+Mon, 3 Jun 2024 18:26:25 +0530
+### [Ramification | Why Sheikh Hasina’s ‘Christian country’ statement should ring alarm bells in India](https://www.firstpost.com/opinion/ramification-why-sheikh-hasinas-christian-country-statement-should-ring-alarm-bells-in-india-13778169.html)
+
+The article discusses the complex geopolitical situation involving Bangladesh, Myanmar, and India, with a focus on the statements made by Bangladesh's Prime Minister Sheikh Hasina. She warns of international interests aiming to create a Christian country from parts of Bangladesh and Myanmar, comparing it to East Timor. The U.S. and other Western countries are accused of attempting to influence Bangladesh's 2024 elections, demanding fair and free elections and imposing sanctions on Bangladesh's Rapid Action Battalion for alleged human rights violations.
+
+The article also delves into the regional conflicts in India's northeastern states, where ethnic violence and anti-India sentiment have given rise to the concept of Zalengam, an ideologically driven territory for the Christian Kuki-Chin-Zo clans. Historical demands for a Kuki state and the current ambitions for Zalengam are discussed, including the involvement of militant groups like the Kuki-Chin National Front in Bangladesh and the Chin National Army in Myanmar.
+
+The author, Rami Niranjan Desai, emphasizes the need for India to strategically counter separatist movements and foreign manipulations, advocating for the identification and support of Kuki-Chin community leaders who oppose such separatism. The article concludes with a personal disclaimer from Desai, noting that the views expressed are her own and not necessarily those of the publication.
+
+Mon, 3 Jun 2024 16:00:16 +0530
+### [How Donald Trump’s conviction seems more of political bonanza than liability](https://www.firstpost.com/opinion/how-donald-trumps-conviction-seems-more-of-political-bonanza-than-liability-13778031.html)
+
+Article found but Couldn't summarize 
+This trial has galvanised and united the Republican Party. Trump's incensed supporters are rallying behind their leader, who styles himself as a saviour of the country and constitution
+
+Mon, 3 Jun 2024 14:54:30 +0530
+### [How space-based assets are gaining relevance in modern warfare](https://www.firstpost.com/opinion/how-space-based-assets-are-gaining-relevance-in-modern-warfare-13778122.html)
+
+The article discusses the concept of 'Launch on Demand' (LoD) capabilities in military operations, emphasizing the importance of having immediate space support during wars and national emergencies. It highlights that while the idea of LoD—deploying satellites into orbit at short notice—is attractive to military planners, it remains a largely unachieved goal due to the complexities and costs involved in maintaining a ready-to-launch satellite inventory.
+
+The piece also details how Elon Musk's Starlink has provided critical support to Ukraine by supplying ground terminals that allow access to Starlink satellite services. This support has been instrumental in maintaining communication for the Ukrainian Armed Forces, especially as Russia targeted Ukraine's communication infrastructure. On May 22, Starlink's deployment enabled a new artillery fire coordination system in Ukraine, proving vital for operational command centers and providing voice connections for special operations.
+
+The author, Lt Gen (Dr) PJS Pannu, shares his expertise on the subject, drawing from his experience in defense strategy and management. The views expressed are his own and do not necessarily reflect those of the publication.
+
+Mon, 3 Jun 2024 10:31:13 +0530
+### [Climate emergency in India: Impact of heatwave on agriculture and inflation](https://www.firstpost.com/opinion/climate-emergency-in-india-impact-of-heatwave-on-agriculture-and-inflation-13778017.html)
+
+The article discusses the severe heatwave conditions in India, with temperatures soaring above 50°C, leading to human fatalities and a strain on biodiversity and agriculture. It highlights the lack of climate-resilient seeds, the risk to vulnerable ecosystems like the Himalayas, and the impact on water resources and power grids. The author calls for the Indian government to declare a climate emergency, curtail non-essential activities in extreme heat, and invest in nature-based solutions to enhance climate resilience. The piece is written by an independent agri-policy expert, emphasizing that these views are personal and not necessarily reflective of the publication's stance.
+
+Mon, 3 Jun 2024 08:33:06 +0530
+### [Exit polls show economics of empowerment works](https://www.firstpost.com/opinion/exit-polls-show-economics-of-empowerment-works-13777966.html)
+
+Article found but Couldn't summarize 
+The 2024 Lok Sabha elections could redefine the contours of Indian politics, setting a precedent for future administrations to focus on sustainable, inclusive growth as the cornerstone of their mandate
+
+Sun, 2 Jun 2024 18:10:00 +0530
+### [With China willing to discuss 'Dalai Lama’s future', Tibetan fate hangs in balance](https://www.firstpost.com/opinion/with-china-willing-to-discuss-dalai-lamas-future-tibetan-fate-hangs-in-balance-13777869.html)
+
+The article discusses the evolving political dynamics concerning Tibet, the Dalai Lama, and China's stance. It highlights that Beijing has not labeled the Dalai Lama as a 'separatist' but is willing to discuss his 'personal future,' a position held for four decades. The piece reflects on the Dalai Lama's Middle Path approach and the Five-Point Peace Plan, which aimed at making Tibet a zone of peace and respecting human rights. However, the imposition of martial law in Lhasa in 1989 and the failure of negotiations between 2002 and 2010 have shown the limitations of these aspirations.
+
+The article also touches on the broader context of China's growing economic power and the diminishing individual liberties since 2012. It mentions the deteriorating situations in Hong Kong and Taiwan, with China's increasing military threats and political strategies to undermine Taiwan's independence and Hong Kong's pro-democracy movements.
+
+In Tibet, the situation is reported to be worsening, with compulsory relocations of villagers and herders under the guise of voluntary moves for ecological protection and livelihood improvement. The report by Human Rights Watch indicates that these relocations are, in fact, forced.
+
+Furthermore, the article discusses the role of the Buddhist Association of China in the 'sinification' of Tibetan Buddhism, aligning with President Xi Jinping's intent to sinify all religions in China. This includes the search for and recognition of reincarnate lamas, which is particularly significant concerning the succession of the Dalai Lama.
+
+The writer, a Distinguished Fellow at the Centre of Excellence for Himalayan Studies, concludes by expressing hope that the Indian Prime Minister will recognize the intertwined fates of Tibet and India, especially concerning their shared boundary. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Sun, 2 Jun 2024 16:49:47 +0530
+### [Why enhancing voter participation is necessary in the world's largest democracy](https://www.firstpost.com/opinion/why-enhancing-voter-participation-is-necessary-in-the-worlds-largest-democracy-13777849.html)
+
+The article discusses the challenges and potential solutions to increase voter turnout in India's elections. It highlights the low participation rate in the initial phases of the 2024 Lok Sabha elections and suggests that instead of compulsory voting, which contradicts democratic principles, practical solutions should be sought. Factors affecting voter turnout include domestic and international migration for jobs and education, leading to logistical difficulties in voting. The article proposes on-duty voting provisions for migrants, similar to those for military personnel.
+
+It also addresses the disillusionment among voters who feel their vote doesn't matter or view all political parties as corrupt. The decline in political discourse and the influence of money and criminality in politics are contributing to voter apathy. The article suggests enhancing the NOTA option, scheduling elections around Diwali when migrants return home, and incentivizing voting with discounts and leave from work.
+
+The government's efforts in electoral reform, such as linking voter IDs with Aadhaar cards and consolidating voter lists, are also mentioned. These measures aim to eliminate fraudulent voters and streamline the voting process. The article concludes by emphasizing the importance of voting as the foundation of democracy and the need for widespread participation to reflect the true spirit of democratic governance. The views expressed are personal and do not reflect those of Firstpost.
+
+Sun, 2 Jun 2024 16:08:01 +0530
+### [Indian summer and luck of Mughals: How May heat sealed the fate of Sher Shah Suri](https://www.firstpost.com/opinion/indian-summer-and-luck-of-mughals-how-may-heat-sealed-the-fate-of-sher-shah-suri-13777814.html)
+
+The article draws a parallel between two recent tragic fire incidents in India and the historic fire-related death of Sher Shah Suri in 1545, which significantly altered Indian history. On May 26, a fire in Rajkot, Gujarat, claimed over thirty lives, including children, and another in Delhi resulted in the death of ten people, including seven newborns. The author reflects on the lack of change in fire safety measures despite such incidents.
+
+Sher Shah Suri, a formidable ruler and administrator, died from burns sustained during the siege of Kalinjar Fort. His death led to the decline of the Suri dynasty and the resurgence of the Mughal Empire under Humayun. Sher Shah's contributions to administration and infrastructure are highlighted, suggesting that had he lived longer, the Mughals might have been a minor part of history. The article concludes by questioning whether public outcry over the recent fires can lead to lasting changes in fire safety regulations, drawing on the need for effective leadership like Sher Shah's to enforce compliance. The author's personal views do not necessarily reflect those of Firstpost.
+
+Sun, 2 Jun 2024 12:42:31 +0530
+### [The perils of toeing West’s narrative on Russia](https://www.firstpost.com/opinion/the-perils-of-toeing-wests-narrative-on-russia-13777792.html)
+
+The article discusses the Indian media's coverage of Russian President Vladimir Putin's visit to China and criticizes the tendency of Indian commentators to adopt a Western perspective on Russia. It argues that India should not view its relationship with Russia through a Western lens, as Western issues with Russia are not India's concerns. The author suggests that Russia, being a neighbor of China, is a natural ally for India and that criticizing Russia could alienate it and push it closer to China, which would not be in India's best interest. The article emphasizes that India should maintain a multi-aligned foreign policy that includes Russia as a key partner, especially given Russia's support for India's rise and strategic interests in Central Asia. The author concludes that India's current foreign policy is on the right track, focusing on bringing technology, tourism, and trade to the country, and that India should continue to build its strength independently. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Sun, 2 Jun 2024 10:33:05 +0530
+### [US Sutra | Donald Trump’s conviction: Campaign booster or political Waterloo](https://www.firstpost.com/opinion/us-sutra-donald-trumps-conviction-campaign-booster-or-political-waterloo-13777761.html)
+
+Article found but Couldn't summarize 
+In a political saga filled with twists and turns, Donald Trump’s conviction stands out as a pivotal moment. Whether it marks the beginning of the end of his political career or serves as a catalyst for a resurgence remains to be seen
+
+Sat, 1 Jun 2024 19:12:26 +0530
+### [How Ukraine war was geopolitically inevitable](https://www.firstpost.com/opinion/how-ukraine-war-was-geopolitically-inevitable-13777616.html)
+
+The article discusses the geopolitical significance of Ukraine, rooted in theories by historical thinkers like Mackinder, Mahan, and Spykman. It highlights Ukraine's strategic location as a pivotal point for global dominance, especially control over Eastern Europe and Eurasia, referred to as the 'Heartland.' The West's interest in Ukraine is seen as a move to surround Russia and prevent it from becoming a global power, while Russia views NATO's expansion as a direct threat. The conflict in Ukraine is tied to these geopolitical strategies, with the West supporting Ukraine's NATO membership to secure political and economic advantages, and Russia aiming to maintain its influence and access to warm water ports. The article also touches on the historical context of sea power and land power, suggesting that control over these areas is crucial for establishing a World Empire. The current conflict is seen as a struggle for control over the 'Heartland' and 'Rimland,' which will determine the balance of power in the world. The author's perspective emphasizes the enduring importance of geography in shaping international politics and decision-making. Views expressed are personal and do not reflect those of Firstpost.
+
+Sat, 1 Jun 2024 18:00:26 +0530
+### [India must take note of White supremacist thinking in the West](https://www.firstpost.com/opinion/india-must-take-note-of-white-supremacist-thinking-in-the-west-13777587.html)
+
+The article discusses the Western media's portrayal of India's democracy and governance, particularly in the context of the national elections and Prime Minister Modi's leadership. It highlights a perceived anti-Modi narrative in Western publications, accusing them of biased reporting and of labeling India as an "electoral autocracy." The piece criticizes the West for not acknowledging India's democratic processes and for unfairly targeting India with accusations of democratic backsliding and human rights violations. It also mentions allegations of India's involvement in objectionable activities abroad and suggests that Western establishments are concerned about a rising India that does not align with their interests. The author, Kanwal Sibal, argues for India's need to maintain an independent foreign policy and questions the West's moral authority to criticize India given its own issues. The views expressed are personal to the author and do not reflect the views of the publication.
+
+Sat, 1 Jun 2024 15:14:55 +0530
+### [Dragon in Elephant's backyard: The Chinese South Asian debt trap](https://www.firstpost.com/opinion/dragon-in-elephants-backyard-the-chinese-south-asian-debt-trap-13777512.html)
+
+The article discusses the impact of China's Belt and Road Initiatives (BRI) on the debt situation in South Asia. It highlights that the region's external debt to China has increased sevenfold from $6.4 billion in 2012 to $42.9 billion in 2022. The World Bank's International Debt Report 2023 signals a debt crisis risk for Low-and Middle-Income Countries (LMIC), exacerbated by China's lending practices. The BRI is seen as a tool for China to expand its influence and control, often leading to debt traps for borrowing countries, resulting in political instability and economic fragility.
+
+The article outlines how China's strategy began with the Going Global Strategy in 1999 and evolved into the BRI, which has led to a total of $180 billion in debt obligations for LMICs to China by the end of 2022. South Asian countries like Pakistan, Sri Lanka, Maldives, Bangladesh, Afghanistan, and Nepal are under severe stress due to these debt traps. Specific cases such as the China-Pakistan Economic Corridor (CPEC) and investments in Sri Lanka, the Maldives, and Bangladesh are discussed, highlighting the geopolitical and economic implications of China's investments and the potential for these countries to fall into sovereign default.
+
+The article also touches on the situation in Afghanistan post-Taliban takeover and China's interest in the country's natural resources. It concludes by questioning China's narrative of shared partnership and community destiny, suggesting that the BRI may infringe on the autonomy and sovereignty of participating nations.
+
+The authors of the article, Jajati K Pattnaik and Chandan K Panda, express their personal views, which do not necessarily reflect those of Firstpost.
+
+Sat, 1 Jun 2024 12:21:34 +0530
+### [Can Muizzu arrest the ‘fleeing’ dollar to get Maldivian economy back on its feet?](https://www.firstpost.com/opinion/can-muizzu-arrest-the-fleeing-dollar-to-get-maldivian-economy-back-on-its-feet-13777441.html)
+
+The article discusses the economic challenges and political developments in the Maldives under President Mohamed Muizzu. It highlights the need for economic reforms, particularly in the tourism sector, to prevent the outflow of tourism dollars and strengthen the local currency, the rufiyaa. The government's efforts to maintain inflation at three percent and avoid printing more currency are noted, alongside the challenges of a budget deficit and the need for fiscal discipline.
+
+The article also touches on the implications of foreign currency transactions and the use of payment platforms like India's RuPay and China's WeChat for tourists. It suggests that the Maldives' economic strength and currency stability are crucial for long-term prosperity.
+
+Political dynamics are examined, including the composition of the new Parliament, the election of the Speaker and Deputy Speaker, and the influence of the tourism industry on politics. The article mentions bilateral relations with India and China, including grant aid, credit facilities, and the potential revival of a Free Trade Agreement (FTA) with China, while an FTA with India remains uncertain.
+
+The author, a policy analyst and political commentator, expresses personal views that do not necessarily reflect those of the publication. The article concludes with a reflection on the Maldives' historical ties and the importance of self-reliance and good relations with neighboring countries.
+
+Fri, 31 May 2024 17:26:32 +0530
+### [Pune Porsche crash and VIP culture in India](https://www.firstpost.com/opinion/pune-porsche-crash-and-vip-culture-in-india-13777218.html)
+
+The article discusses the disparity in the response of Indian officials and legislators to incidents involving the powerful versus the common people. It highlights a case in Pune where a teenager, driving under the influence, caused an accident that resulted in two IT professionals' deaths. The quick involvement of an MLA with connections to the accused's father raises questions about the motives behind such prompt action. The article contrasts this with the lack of urgency shown towards widespread issues like malaria, dengue, and malnutrition, which affect millions. It also compares the incident with former British PM Tony Blair's handling of his son's legal trouble, emphasizing the difference in accountability and response to power in India. The author, a former diplomat and politician, expresses personal views on the subject.
+
+Fri, 31 May 2024 17:15:21 +0530
+### [It’s always Her: ‘Sky’ is the limit for AI’s inherent sexism](https://www.firstpost.com/opinion/its-always-her-sky-is-the-limit-for-ais-inherent-sexism-13777155.html)
+
+The article discusses the controversy surrounding Scarlett Johansson's objection to the use of a voice similar to hers by OpenAI's virtual assistant, which raises broader issues of AI's objectification of women and voice cloning without consent. The debate is linked to the movie "Her," where Johansson's character, an AI, forms a relationship with a human. The article suggests that the choice of a female voice for AI assistants perpetuates stereotypes and sexism, as historically, AI has often been designed with a female voice to reflect societal roles of women as caregivers and comforters. It also touches on the potential for AI to reinforce biases and the need for transparency and legislation to protect individual rights. The controversy highlights the ethical considerations in AI development, particularly concerning gender bias and the replication of societal prejudices. OpenAI's response to the situation was to pause the use of the voice and clarify that it was not intended to mimic Johansson's voice. The article concludes with a call for responsible AI development that avoids perpetuating stereotypes and biases. The views expressed are personal to the writer and do not reflect those of Firstpost.
+
+Fri, 31 May 2024 15:21:44 +0530
+### [From ‘butcher of Tehran’ to ‘able statesman’: President Raisi’s conflicting legacy](https://www.firstpost.com/opinion/from-butcher-of-tehran-to-able-statesman-president-raisis-conflicting-legacy-13777160.html)
+
+The article discusses the mixed legacy of Iran's President Ebrahim Raisi following his death in a helicopter crash. It highlights his foreign policy achievements, including improved relations with Saudi Arabia and Iran's full membership in the Shanghai Cooperation Organisation (SCO) and invitation to join BRICS. Raisi's tenure also saw a strategic partnership with India, particularly in the development of the Chabahar Port, despite challenges from US sanctions.
+
+On the domestic front, Raisi's legacy is marred by human rights violations and suppression of dissent, notably following the death of Mahsa Amini in morality police custody, which sparked widespread protests. His administration's response to these protests has been criticized for its heavy-handedness, including a significant increase in executions.
+
+The article concludes that Raisi's death has elicited varied reactions in Iran, reflecting the country's sociopolitical divisions and the complex nature of West Asian politics. The authors of the article, Vijay Maidergi and Anmol Kumar, clarify that the views expressed are their own and not necessarily those of Firstpost.
+
+Fri, 31 May 2024 13:22:40 +0530
+### [Mumbai: ‘Home’ of Indian Navy](https://www.firstpost.com/opinion/mumbai-home-of-indian-navy-13777073.html)
+
+The article explores the deep historical and contemporary connections between Mumbai and the Indian Navy. It highlights the city's maritime heritage, starting with the establishment of the Bombay Marine in 1686, the same year the East India Company moved its headquarters to Mumbai. The Mumbai Dockyard, built in 1735, is one of the oldest structures in the city and has been a significant site for shipbuilding, including the HMS Trincomalee and several ships named after the city.
+
+The piece recounts the gallantry of the Indian Navy during World War II, particularly the HMIS Bengal, and the role of Mumbai as a strategic base for naval operations. It also delves into the city's military and maritime traditions, tracing back to Chhatrapati Shivaji's recognition of the importance of a strong navy.
+
+The article discusses the Naval Uprising of 1946 in Mumbai, which was a pivotal moment in India's struggle for independence, leading to the British exit. It emphasizes the need for greater public awareness and commemoration of the city's naval history and the contributions of naval personnel.
+
+In the post-independence era, Mumbai has continued to be the home of the Indian Navy's formidable assets and the headquarters of the Western Naval Command. The city has witnessed the Navy's involvement in various operations, from the liberation of Goa to disaster relief efforts.
+
+The author argues that the Indian Navy is an integral part of Mumbai's identity, contributing to the city's security, economy, and social fabric. The Navy's civilian workforce, outreach activities, and participation in cultural events reflect its deep ties with the city. The article concludes by urging Mumbaikars to recognize and celebrate the Navy's role in the city's history and contemporary life.
+
+The views expressed are those of Cmde Srikant Kesnur, a Navy veteran and writer on maritime issues, and do not represent those of Firstpost. Photographs are courtesy of the Indian Navy. The article is available on YouTube and is copyrighted by Firstpost, 2024.
+
+Fri, 31 May 2024 11:46:08 +0530
+### [Tale of two elections: Pakistan’s flawed political journey versus India’s credible electoral process](https://www.firstpost.com/opinion/tale-of-two-elections-pakistans-flawed-political-journey-versus-indias-credible-electoral-process-13777025.html)
+
+The article contrasts the democratic processes of India and Pakistan, focusing on the influence of the military in Pakistan's politics. It outlines the political events in Pakistan over the past decade, highlighting the army's manipulation of elections and policymaking. The army's discontent with Nawaz Sharif's PML(N) led to the promotion of Imran Khan's PTI, which eventually won the 2018 elections with the army's support. However, Khan's government was described as a hybrid regime due to the army's involvement.
+
+The relationship between Khan and the army soured, leading to his ouster in April 2022 by a coalition led by Nawaz Sharif's brother, Shehbaz Sharif. Despite this, Khan remained popular, particularly in Punjab and Khyber Pakhtunkhwa. The article details the subsequent political maneuvers, including the appointment of Asim Munir as the new army chief and the delay of elections by the Pakistan Election Commission under army influence.
+
+In contrast, the Indian election campaign is depicted as a reflection of the country's democratic integrity, where the electorate's choice is paramount. The article concludes by emphasizing the stark differences between the two countries' political landscapes, with India progressing economically and Pakistan's politics being heavily influenced by military power. The author, a former Indian diplomat, clarifies that the views expressed are personal and not reflective of Firstpost's stance.
+
+Thu, 30 May 2024 18:18:15 +0530
+### [Dragon's shadow over Gulf: UAE's China outreach and growing Sino-Arab relations](https://www.firstpost.com/opinion/dragon-shadow-over-gulf-uaes-china-outreach-and-growing-sino-arab-relations-13776882.html)
+
+The article discusses the strengthening ties between China and Arab nations, particularly the UAE, against the backdrop of the 10th China-Arab Summit in Beijing. It highlights the strategic partnership that has developed since the UAE raised its relationship with China to a strategic level in 2018, leading to increased trade and cooperation. The article notes the historical significance of the relationship, with diplomatic ties dating back to 1984 and a recent surge in non-oil trade and UAE investments in China.
+
+The summit coincides with the 40th year of diplomatic relations between China and the UAE, with several heads of state from Arab countries attending. The UAE President's visit is seen as a move to balance relations with the US and China and to address regional issues like the Palestine question. The article also touches on China's economic influence, despite its aggressive trade practices and military capabilities, and the Gulf Cooperation Council's (GCC) reliance on China as a major oil buyer.
+
+The piece concludes by reflecting on the geopolitical implications of the Belt and Road Initiative and the need for Arab nations to navigate an increasingly multipolar world, considering both China's current position and India's emerging role. The author's views are presented as personal commentary and do not reflect the views of the publication.
+
+Thu, 30 May 2024 17:33:57 +0530
+### [High temperature, climate change induce air turbulence: Why aviators should be watchful](https://www.firstpost.com/opinion/high-temperature-climate-change-induce-air-turbulence-why-aviators-should-be-watchful-13776842.html)
+
+The article discusses the increasing instances of in-flight turbulence due to changing weather patterns and global warming. It highlights two recent severe turbulence events: one on a Singapore Airlines flight that resulted in a fatality and multiple injuries, and another on a Qatar Airways flight that injured several passengers. The concept of Clear-air turbulence (CAT) is explained as a phenomenon occurring when air masses moving at different speeds meet, often near jet streams, and is hard to detect with conventional radar.
+
+The article notes that while large transport aircraft are built to withstand turbulence, turbulence-related accidents are the most common type of airline incident, with the majority resulting in injuries rather than aircraft damage. Historical CAT incidents are recounted, including a fatal Boeing 707 breakup in 1966 and a United Airlines flight in 1997 that encountered severe CAT, causing injuries and a fatality.
+
+The role of global warming in increasing turbulence is emphasized, with predictions that severe turbulence will become more common due to climate change. The article suggests that technological advancements are needed for better detection of CAT in flight. It also outlines the actions pilots and cabin crew can take to mitigate the risks of CAT, such as detailed aviation forecasts and in-situ turbulence reports, and advises passengers to always pay attention to safety briefings and keep seat belts fastened.
+
+The writer, a former Director General of the Centre for Air Power Studies, expresses personal views and emphasizes the need for improved passenger experience through smoother and safer flights, particularly in light of India's growing civil aviation market and the anticipated strong monsoon season. The article concludes with a call for vigilance against air turbulence.
+
+Thu, 30 May 2024 15:02:05 +0530
+### [How Israel is struck between international agencies and US](https://www.firstpost.com/opinion/how-israel-is-struck-between-international-agencies-and-us-13776796.html)
+
+The article discusses the ongoing conflict between Israel and Hamas, highlighting the international pressure on Israel due to its military operations in Rafah and the broader implications for international law and diplomacy. The ICC and ICJ are scrutinizing Israel's actions, with the ICC considering arrest warrants for Israeli leaders, which has led to tensions with the US. The article also touches on the internal Israeli debate over the strategy in Gaza, the international community's stance on recognizing the State of Palestine, and the broader geopolitical dynamics at play, including the US's role and the global response to the conflict. The author, a former Indian ambassador, offers a personal perspective on the situation, suggesting that the resolution depends on the international community's commitment. The views expressed do not necessarily reflect those of the publication.
+
+Thu, 30 May 2024 12:41:40 +0530
+### [Beauty pageants: Evolving or outworn?](https://www.firstpost.com/opinion/beauty-pageants-evolving-or-outworn-13776725.html)
+
+The article discusses the evolution of beauty pageants, highlighting the recent win of 60-year-old Alejandra Maria Rodriguez in a Miss Universe franchise event, which signifies a shift in the pageant world towards inclusivity and diversity. It questions the relevance of beauty pageants in modern society, considering the criticisms they face for being regressive and not in tune with societal changes. The Miss Universe Organisation has made progressive changes, such as removing the upper age limit and allowing married women with children to participate, reflecting a broader acceptance of women's personal choices.
+
+The article argues that beauty pageants have become multidimensional, providing a platform for women to showcase their personalities, public speaking skills, and advocacy for causes. It suggests that pageants can empower women and challenge internalized misogyny, citing examples of breaking traditional beauty standards, like the crowning of the first Black Miss Universe Philippines, Chelsea Manalo. The author concludes that celebrating beauty and femininity can be empowering and should not be seen as detrimental to feminism or gender equality. The views expressed are personal to the author, a freelance journalist focusing on various topics, including politics and social issues. The article emphasizes that these views do not necessarily reflect those of Firstpost.
+
+Thu, 30 May 2024 11:36:13 +0530
+### [There’s more to Anar’s murder than gory details](https://www.firstpost.com/opinion/theres-more-to-anars-murder-than-gory-details-13776698.html)
+
+The article discusses the investigation into the murder of Bangladeshi MP Anwarul Azim Anar, which has revealed deep-seated criminal links across the Bangladesh-West Bengal border. Anar, who had a history of underworld connections, was allegedly killed by hired assassins from Bangladesh in Kolkata. The suspected mastermind is Bangladeshi-American Akhtaruzzaman 'Shahin', a gold smuggler with significant influence and connections. The hitmen are believed to be part of an outlawed Maoist group with anti-India sentiments and ties to Indian Naxal outfits.
+
+Evidence suggests that Shahin orchestrated the murder due to a fallout with Anar over control of a lucrative gold smuggling operation. The murder was carried out in an apartment rented by Shahin, and the disposal of the body involved dismembering and flushing parts down the toilet. Despite the meticulous planning, the hitmen were captured on CCTV, leading to their arrest and the revelation of the murder plot.
+
+The article also touches on the rise in gold smuggling activities and seizures in the region, hinting at possible political complicity and the involvement of powerful backers. The unresolved payment to the hitmen and Shahin's escape to the US point to a larger network of crime that requires further investigation. The views expressed are personal to the author and do not reflect those of the publication.
+
+Thu, 30 May 2024 09:55:22 +0530
+### [Britain’s July 4 surprise: Will Rishi Sunak’s bold gamble pay dividends?](https://www.firstpost.com/opinion/us-sutra-britains-july-4-surprise-will-rishi-sunaks-bold-gamble-pay-dividends-13776663.html)
+
+In a significant political move, UK Prime Minister Rishi Sunak has called for early elections on July 4, a date ironically associated with American independence from British rule. This decision is seen as a strategic effort to prevent the Conservative Party, which has been in power for 14 years, from losing its position. The Conservatives are currently lagging behind the Labour Party in polls. Sunak's administration has had some successes, such as the economy's performance and controversial legislation regarding the deportation of refugees to Rwanda. However, the party faces criticism for failing to address issues like law and order, unemployment, and the cost of living.
+
+Labour, led by Sir Keir Starmer, is poised to capitalize on the Conservatives' shortcomings, despite its own history of indecision and internal conflicts. Starmer, a moderate and respected figure, could potentially become the next Prime Minister if the public seeks change. The article also touches on the broader implications of the election, including concerns about immigration, healthcare, and public services, suggesting that this election could lead to new political dynamics in the UK. The author concludes by contrasting the UK's political situation with the less-noticed American presidential race, highlighting the age and legal entanglements of the candidates involved. The views expressed are personal and do not reflect those of the publication.
+
+Wed, 29 May 2024 18:48:30 +0530
+### [Will activists apply the Palestine strategy to Kashmir or Khalistan?](https://www.firstpost.com/opinion/will-activists-apply-the-palestine-strategy-to-kashmir-or-khalistan-13776577.html)
+
+The article discusses the implications of the United Nations General Assembly's endorsement of Palestine for full membership, with a focus on India's support for the resolution and potential repercussions. It outlines the historical context of the Israeli-Palestinian conflict, highlighting the complex history of the region and the evolution of Palestinian nationalism alongside Zionism. The piece also examines the political strategies and international dynamics that have shaped the current situation, including the role of the PLO, the Oslo Accords, and the rejection of peace offers by Palestinian leaders.
+
+The author argues that the Palestinian strategy of leveraging terror and international support has been increasingly effective, influencing public opinion and political stances in various countries. The article suggests that this strategy, along with the demonization of democratic states like Israel and India, could be used against India in the future, particularly concerning the Kashmir issue. It warns that the same forces opposing Israel may target India, exploiting international humanitarian law and diplomacy to undermine democracies and religious minorities.
+
+The piece concludes by urging India to be vigilant and prepared for challenges in international forums and on university campuses, as the strategies used against Israel could set precedents for similar tactics against India. The author's views are presented as personal opinions and do not necessarily reflect those of the publication.
+
+Wed, 29 May 2024 17:17:28 +0530
+### [Why secularism is dying around the world](https://www.firstpost.com/opinion/why-secularism-is-dying-around-the-world-13776553.html)
+
+The article discusses the global decline of secularism and the resurgence of religiosity. It highlights that secular or non-religious individuals are decreasing as a percentage of the global population, with projections showing a drop from 16% in 2010 to 13% by 2050. This trend is attributed to various factors, including economic uncertainties that lead people to seek solace in faith, particularly in Western societies where secularism was once prevalent.
+
+The article notes that in times of crisis, such as the 2007-08 financial crash and the Covid pandemic, religiosity tends to increase. It also mentions the impact of immigration on religious diversity and the growth of religious institutions in traditionally secular regions. In contrast, India is experiencing a rise in religious fervor among the affluent middle classes, which is seen as an outlier compared to the West.
+
+Overall, the article suggests that the world may be more religious than previously thought, challenging the notion that secularism's advance was an inevitable historical trend. It implies that understanding this shift is crucial for secularists to remain relevant and prepared for the future.
+
+Wed, 29 May 2024 11:36:17 +0530
+### [How India is moving fast to becoming semiconductor ‘aatmanirbhar’](https://www.firstpost.com/opinion/how-india-is-moving-fast-to-becoming-semiconductor-aatmanirbhar-13776367.html)
+
+The article discusses India's advancements in semiconductor manufacturing, highlighting the approval of three semiconductor units, including Tata Electronics' first fabrication plant in partnership with Taiwan's Powerchip Semiconductor in Dholera, Gujarat. Despite India's significant presence in global semiconductor design, challenges remain in establishing a robust domestic chip design and product ecosystem. Initiatives like the Design-Linked Incentive and Chips 2 Startup schemes aim to provide affordable access to design tools, but startups and academia face hurdles due to the lack of standardized access to Process Development Toolkits (PDKs), which are essential for chip design.
+
+PDKs are closely guarded due to their sensitive and proprietary information, leading to high costs and entry barriers for smaller firms. The cost of designing a chip from scratch is substantial, and proprietary PDKs limit collaboration and innovation within the design ecosystem. Open-source PDK initiatives, such as SkyWater Open Source PDK and Germany's IHP Open PDK, are addressing these issues by providing low-cost access to chip design.
+
+The article suggests that India's existing semiconductor research facilities could offer open access to their PDKs to foster collaboration and innovation. It proposes a hub-and-spoke network model, similar to Australia's National Fabrication Facility and Canada's CMC Microsystems, which could provide shared access to research facilities and R&D fabs. The Union government's investment in the Semiconductor Research Laboratory could support this model, potentially accelerating semiconductor product development in India and promoting a culture of collaboration. The views expressed are personal opinions of the authors and do not necessarily reflect those of Firstpost.
+
+Wed, 29 May 2024 08:51:14 +0530
+### [‘Rishi Rich’ has been a victim of success shaming](https://www.firstpost.com/opinion/rishi-rich-has-been-a-victim-of-success-shaming-13776273.html)
+
+The article discusses the challenges faced by Rishi Sunak, the first Indian-origin British Prime Minister, highlighting the prejudice he has encountered from media and public perception. Despite his self-made success, Sunak's wealth and background have been subjects of scrutiny and comparison to the inherited wealth of British royalty. The article contrasts this with the Indian perspective, where self-made success is celebrated, and inherited wealth is often viewed with skepticism.
+
+It outlines Sunak's journey from a middle-class upbringing to becoming a Fulbright Scholar with an MBA from Stanford and a successful investment banker. His achievements, however, have been overshadowed by insinuations and criticisms in the British media, which have also targeted his wife Akshata Murty's legal tax status.
+
+The piece reflects on the changing attitudes towards wealth and success in India and the UK, noting the rise of Indian billionaires and the ownership of key British brands by Indians. It argues that Sunak's choice of public service over personal enrichment is commendable, yet he faces bias in a society that still judges individuals based on their background rather than their abilities.
+
+The author's views are personal and do not necessarily reflect those of the publication. The article concludes with a call for Britain to embrace Sunak's vision and judge leaders by their character, offering the country a chance to "level up."
+
+Tue, 28 May 2024 19:15:43 +0530
+### [Shadow Warrior |  As Chinese-led world order challenges American hegemony, India should be concerned about future](https://www.firstpost.com/opinion/shadow-warrior-as-chinese-led-world-order-challenges-american-hegemony-india-should-be-concerned-about-future-13776139.html)
+
+The article discusses the concept of the 'Thucydides Trap' and its implications for the current geopolitical tensions between the US and China. It suggests that historically, when a rising power challenges an established one, conflict is likely. The US, in decline, is seen as vulnerable due to its deindustrialization and reliance on the dollar's reserve currency status. The article also touches on China's recent actions, such as liquidating a portion of its US Treasury holdings, which is interpreted as a strategic message.
+
+The piece further explores allegations that Graham Allison, who coined the 'Thucydides Trap', may be unwittingly aiding China's geopolitical ambitions. It compares this situation to historical precedents where strategic actions just below the threshold of war led to significant shifts in power without open conflict.
+
+Additionally, the article references a new book by Victor Davis Hanson, which questions whether some wars aim to annihilate the enemy rather than just defeat them. It draws parallels between historical case studies of total annihilation and the current strategies of China, suggesting that China may seek to dominate Asia at the expense of India.
+
+The author argues that India must recognize the potential threat from China and strategize accordingly, as past conflicts have shown that foreign invaders often sought civilizational destruction. The article concludes with a speculative outlook on China's intentions towards the West and India, suggesting that the West might become a service provider to China, while India faces a more existential threat. The views expressed are personal and do not necessarily reflect those of the publication. Rajeev Srinivasan, the author, is a conservative columnist with an interest in innovation.
+
+Tue, 28 May 2024 15:30:01 +0530
+### [Embracing AI: A strategic shift towards software-centric innovation in India](https://www.firstpost.com/opinion/embracing-ai-a-strategic-shift-towards-software-centric-innovation-in-india-13776018.html)
+
+The article discusses the shift in the AI landscape with the development of chip-agnostic software, led by an OpenAI initiative. This move is seen as a way to break Nvidia's dominance in AI hardware, which is currently challenged by supply shortages and high costs. The software, Triton, initially supported Nvidia GPUs but now also supports AMD and plans to include Intel's chips. It allows AI applications to run on various chips, promoting a more open AI ecosystem.
+
+India, with its strong software industry, is well-positioned to contribute to this shift, which could also benefit the country geopolitically. The Indian government has recognized the strategic importance of AI and semiconductor technology, launching the IndiaAI Mission with a significant budget. This mission includes developing a large-scale AI computing ecosystem and encouraging the growth of AI startups.
+
+Investing in AI chip-agnostic software development aligns with India's software engineering strengths and could give the country a competitive edge in the global AI market. It would also enhance India's strategic autonomy and reduce dependencies on foreign hardware, contributing to economic growth and national security. The article concludes that India should focus on software innovation in AI to achieve long-term gains and geopolitical strength. The views are personal to the author, a research scholar at Takshashila Institution, Bangalore.
+
+Tue, 28 May 2024 14:39:43 +0530
+### [Celebrating Africa Day 2024: Why it matters](https://www.firstpost.com/opinion/celebrating-africa-day-2024-why-it-matters-13775977.html)
+
+The article discusses Africa's journey and challenges in education, emphasizing its significance for the continent's growth and transformation. It marks Africa Day, celebrating the foundation of the Organization of African Unity, now the African Union (AU), which focuses annually on a theme to address continental issues. The theme for 2024 is "Education Fit for the 21st Century," highlighting the need for resilient education systems.
+
+Significant progress has been made in education, with increased school completion rates and enrollment in postsecondary education. However, challenges persist, including the world's largest number of out-of-school children, gender disparities, and inadequate funding for education. The article stresses the importance of domestic funding and the need for innovative, inclusive, and relevant education systems to empower African youth.
+
+It also touches on the broader geopolitical context, noting the impact of global events like the war in Ukraine on Africa's economy and education. The article concludes by calling for strong efforts to establish Africa as a global power through quality education, aligning with the aspirations of African Agenda 2063. The views are personal to the author, Samir Bhattacharya, an Associate Fellow at the Observer Research Foundation.
+
+Tue, 28 May 2024 12:34:09 +0530
+### [A tale of two Kashmirs: As PoK resents Pakistan’s exploitation, India should showcase developments in J&K](https://www.firstpost.com/opinion/a-tale-of-two-kashmirs-as-pok-resents-pakistans-exploitation-india-should-showcase-developments-in-jk-13775901.html)
+
+The article discusses the contrasting conditions between Indian-administered Kashmir and Pakistan-occupied Kashmir (PoK). It highlights the economic and infrastructural disparities, with India investing heavily in its controlled region, leading to significant development and prosperity. In contrast, PoK suffers from economic stagnation, lack of industrialization, and inadequate infrastructure, exacerbated by corruption and external influences like Chinese involvement in power projects. The article suggests that the growing discontent and resentment in PoK could lead to serious challenges for Pakistan, while India has an opportunity to further showcase its successful governance model in Kashmir. The author's views are personal and not necessarily reflective of the publication's stance.
+
+Tue, 28 May 2024 10:18:53 +0530
+### [Ebrahim Raisi’s death a setback for India in terms of navigating US sanctions and Sino-Indian competition in West Asia](https://www.firstpost.com/opinion/ebrahim-raisis-death-a-setback-for-india-in-terms-of-navigating-us-sanctions-and-sino-indian-competition-in-west-asia-13775816.html)
+
+The article discusses the impact of the death of Iranian President Ebrahim Raisi on India's strategic ties with Iran and the broader geopolitical implications. Raisi's death in a helicopter crash near the Iran-Azerbaijan border adds uncertainty to an already volatile region. His tenure as president was marked by economic decline in Iran, with significant inflation and public discontent. Despite this, India has pursued a pragmatic foreign policy, maintaining ties with Iran due to its strategic importance as a gateway to Central Asia.
+
+The article highlights the Chabahar port deal between India and Iran, which faces potential U.S. sanctions. The port is crucial for India's access to Afghanistan and Central Asia, bypassing Pakistan. It also serves as a hub for Eurasian trade routes. The deal reflects India's persistent efforts to engage with Iran despite U.S. sanctions and the competition with China for influence in the region.
+
+The Chabahar Agreement, signed in 2003, and subsequent developments, including the construction of the Zaranj-Delaram Highway, illustrate India's commitment to the project. The article suggests that Raisi's death may complicate India's navigation of U.S. sanctions and its strategic objectives in the region, especially with the U.S. election season approaching.
+
+The views expressed are personal opinions of the author and do not necessarily reflect those of Firstpost. The article concludes with a note on the author's position as Deputy Executive Editor at Firstpost.
+
+Mon, 27 May 2024 18:07:08 +0530
+### [Predictions, predilections, and Indian general elections](https://www.firstpost.com/opinion/predictions-predilections-and-indian-general-elections-13775669.html)
+
+The article discusses the challenges of making accurate election predictions, highlighting the often speculative nature of such forecasts. It criticizes the tendency to declare arbitrary numbers for election outcomes on social media and news channels, likening it to gambling. The author argues that predictions should be based on historical precedents and scientific methods, using the Indian monsoon prediction as an example of a complex but scientifically approachable forecast.
+
+The piece introduces a formula for the value of a prediction: \( V = (N/n) - 1 \), where \( N \) is the number of outcomes predicted and \( n \) is the number of parameters used. The author applies this to the Lok Sabha elections, suggesting that pollsters often use too many unquantifiable parameters, reducing the value of their predictions. The article also calls for a focus on 'swing' constituencies for more accurate predictions and reflects on past elections to illustrate the unpredictability of political outcomes.
+
+The author, an Emeritus Professor at the Indian Institute of Science, concludes by urging readers to await the actual election results rather than relying on speculative predictions. The views expressed are personal and do not reflect those of the publication.
+
+Mon, 27 May 2024 17:26:45 +0530
+### [The Chinese strategy of 'resettlement villages' aims at colonising LAC](https://www.firstpost.com/opinion/the-chinese-strategy-of-resettlement-villages-aims-at-colonising-lac-13775631.html)
+
+The article discusses China's strategy to settle Uyghurs, Tibetans, and Gorkhas along the Line of Actual Control (LAC) with India through 'resettlement villages.' This move is seen as a way to leverage these ethnic groups, who are acclimatized to high altitudes and harsh weather, for potential mountainous warfare against India. The concern is that China aims to provoke conflict using these groups as the first line of defense, sparing Han Chinese soldiers and instead risking the lives of these minorities.
+
+The article also highlights the potential use of the Gorkhas, historically part of the Indian military, as a tool against India due to recent policy changes that have caused dissatisfaction among them. China's broader plan appears to be creating instability within India by exploiting the Gorkhas' grievances and fostering resentment towards India.
+
+The author suggests that India must develop counter-strategies to address these challenges, including the Vibrant Villages Programme (VVP) initiated in response to China's Xiaokang initiative. The VVP aims to develop sensitive border villages and maintain the allegiance of the Tibetans and Gorkhas. The article concludes with a call for Indian military intelligence to understand and prepare for Chinese strategies, emphasizing the importance of not losing the support of these key communities. The views expressed are personal and do not reflect those of the publication.
+
+Mon, 27 May 2024 16:05:25 +0530
+### [As India ascends geopolitical ladder, balancing of foreign policy becomes imminent](https://www.firstpost.com/opinion/as-india-ascends-geopolitical-ladder-balancing-of-foreign-policy-becomes-imminent-13775588.html)
+
+The article discusses India's multifaceted role in global geopolitics, highlighting its unique position in the 21st century. India has hosted both the G20 and BRICS summits, emphasizing its commitment to the Global South. The country has maintained its stance on national interests, notably during the Russian oil import issue, despite Western pressure.
+
+India's foreign policy is marked by a refusal to militarize the Quad alliance and a nuanced approach to the Indo-Pacific strategy. The country is expanding its influence through security cooperation with ASEAN nations and entering the African arms market, challenging the dominance of Russia, America, and China.
+
+The article also touches on India's relationships with Germany and France, suggesting a shift in global power dynamics. India's strategy in its immediate neighborhood, particularly with Sri Lanka and the Maldives, reflects a need for tailored diplomatic tactics rather than a one-size-fits-all approach.
+
+India faces the challenge of balancing its roles in various international groups while addressing internal socio-economic disparities. The country's economic growth raises questions about its position in the Global South and its leadership role in various international coalitions. The article concludes that India must navigate these complexities to achieve geopolitical success. The views expressed are personal opinions of the author and do not reflect the publication's stance.
+
+Mon, 27 May 2024 13:03:55 +0530
+### [General Pande gets one-month extension, but challenges and opportunities for new Army chief remain](https://www.firstpost.com/opinion/general-pande-gets-one-month-extension-but-challenges-and-opportunities-for-new-army-chief-remain-13775527.html)
+
+The article discusses the significant period of transition for the Indian Army as it moves towards integration and theaterisation. May 2024 is highlighted as a historic month, with the parliamentary election results due on June 4 and the extension of the current Chief of Army Staff (COAS), Gen Manoj Pande's service by one month. The new COAS will inherit challenges such as the ongoing border tensions with China, the threat of conflict due to Chinese infrastructure developments in Saksgam Valley, and the support China provides to Pakistan. Additionally, the COAS must address the dissatisfaction in Pakistan-occupied Kashmir (POK), the potential conflict from Chinese infrastructure projects, and the collusive threat from China and Pakistan.
+
+Pakistan continues to be a concern with its capability to carry out large attacks despite the revocation of Article 370. The situation in Myanmar and the opposition to fencing the India-Myanmar border also pose challenges that the new COAS must navigate. The article emphasizes the need for the Indian Army to adapt to new warfighting norms, technology absorption, and the concept of manned-unmanned teaming. The COAS is tasked with restructuring the Army, optimizing resources, and addressing the needs of personnel and veterans. The author, a Kargil war veteran and Director General of CENJOWS, concludes by stating that the new COAS has the opportunity to lead the Army as India emerges on the regional and international stage, with the potential to support national interests and assist friendly nations. The views expressed are personal and do not reflect those of Firstpost.
+
+Mon, 27 May 2024 12:01:39 +0530
+### [China’s aggressive military exercises around Taiwan are threatening, but Taipei isn’t a walkover](https://www.firstpost.com/opinion/chinas-aggressive-military-exercises-around-taiwan-are-threatening-but-taipei-isnt-a-walkover-13775497.html)
+
+The article discusses the heightened tensions between China and Taiwan following the election of Taiwan's President Lai Ching-te. China conducted military drills as a show of force and a warning against perceived separatist movements in Taiwan. The drills, larger than previous ones, involved a range of military assets and were seen as part of China's long-term strategy to assert its claim over Taiwan.
+
+Taiwan's response has been firm, with President Lai committing to defend the island and its democracy. Taiwan's military preparedness includes air, ground, and sea forces, and the country has strong early warning and air defense systems.
+
+The article also touches on the broader geopolitical implications, noting the involvement of the US, Japan, and India in the Indo-Pacific region's security dynamics. The US has legislative commitments to support Taiwan's defense, and there is increasing support for Taiwan's military preparedness. Japan and India also have vested interests in Taiwan's security, with Japan pledging defense support and India strengthening ties with Taiwan.
+
+The complexity of a potential invasion of Taiwan by China is discussed, highlighting the logistical, operational, and strategic challenges such an endeavor would face. The article concludes that while China's military might is formidable, Taiwan is not defenseless, and international support is crucial to deter any aggressive moves by China. The author's views are presented as personal and not reflective of the publishing platform's stance.
+
+Sun, 26 May 2024 15:01:40 +0530
+### [Rash Behari Bose's seven mysterious years in Dehradun](https://www.firstpost.com/opinion/rash-behari-boses-seven-mysterious-years-in-dehradun-13775240.html)
+
+Rash Behari Bose, a prominent figure in India's struggle for independence, is closely connected to Dehradun, where he spent about seven years. Despite his significant role in planning the assassination attempt on the Viceroy of India in 1912 and his contributions to the freedom movement from Japan, his presence in Dehradun has largely been forgotten, with few events commemorating him. Bose's life in Dehradun involved maintaining secrecy about his revolutionary activities, changing residences frequently, and engaging with other radical leaders, which energized the independence movement. His long service at the Forest Research Institute (FRI) and his strategic planning of the Delhi bomb conspiracy are notable aspects of his life. However, after his disappearance in 1913 and subsequent termination from FRI, his legacy in Dehradun remains underrecognized, with calls for greater acknowledgment of his heroism in Indian history. Rash Behari's life, spanning four decades dedicated to the freedom struggle, reflects his enduring spirit as a fighter for India's independence, though he remains an unsung hero. The article suggests that honoring Rash Behari Bose's memory is a fight worth pursuing to pay tribute to a true son of India.
+
+Sun, 26 May 2024 14:16:00 +0530
+### [How Kharkiv attack shatters Zelensky’s facade, US’ delusion](https://www.firstpost.com/opinion/how-kharkiv-attack-shatters-zelenskys-facade-us-delusion-13775222.html)
+
+The article discusses the ongoing conflict between Ukraine and Russia, with a focus on the recent Russian offensive in Kharkiv. The author argues that Ukraine's President Volodymyr Zelensky has realized that his country cannot defeat Russia militarily and is now looking to China for assistance in ending the war. However, Zelensky's reluctance to accept reality and his tendency to blame the West for Ukraine's problems are hindering a resolution to the conflict.
+
+The article also highlights the corruption and negligence within Ukraine's military, which has contributed to the country's inability to defend itself against Russian attacks. The author notes that the US has been indecisive in its support for Ukraine, with delayed deliveries of weapons and a ban on Ukraine striking targets inside Russia.
+
+The Russian offensive in Kharkiv has exposed Ukraine's weaknesses, and the author argues that the US policy of not allowing Ukraine to strike targets inside Russia has severely compromised Ukraine's ability to defend itself. The article concludes that the situation in Ukraine is dire, and that a change in US policy is needed to give Ukraine a chance to defend itself effectively.
+
+Sun, 26 May 2024 12:53:50 +0530
+### [Project Udbhav: Promoting indigenous discourse in the Indian army](https://www.firstpost.com/opinion/project-udbhav-promoting-indigenous-discourse-in-the-indian-army-13775215.html)
+
+Project Udbhav, a collaboration between the Indian Army and the United Service Institution of India (USI), aims to study the evolution of Indian strategic thought and military systems. Launched at USI's Military Heritage Festival, it seeks to integrate India's ancient military wisdom with modern practices. The project involves workshops, seminars, and research, focusing on themes like the commonalities in Hellenic and Indo-Aryan narratives, the evolution of Indian military systems, and the relevance of ancient texts like the Arthashastra in contemporary strategy. It has sparked discussions on military ethics and culture, highlighting the importance of India's rich military heritage in shaping its strategic culture. The project underscores the need for the Armed Forces to adapt to changing geopolitical landscapes by leveraging cultural heritage. It promotes an indigenous discourse in the Army, aiming to make the force future-ready by integrating ancient strategic acumen into the contemporary military domain. The project has fostered civil-military collaboration and is seen as a continuous effort to enrich the nation's strategic outlook. The author, a retired Major General, emphasizes the project's role in linking India's past ideals with its future visions, drawing upon the correlation between ancient and modern strategic cultures. The views expressed are personal and do not necessarily reflect those of Firstpost.
+
+Sun, 26 May 2024 11:22:25 +0530
+### [Contrasting realities: How democracy is flourishing in Kashmir, while PoK burns](https://www.firstpost.com/opinion/contrasting-realities-how-democracy-is-flourishing-in-kashmir-while-pok-burns-13775191.html)
+
+The article contrasts the political and social climates of Pakistan-occupied Kashmir (PoK) and Jammu and Kashmir. It highlights the protests in PoK due to high prices and shortages of basic necessities, met with a violent response from Pakistani paramilitary forces. In contrast, Jammu and Kashmir are experiencing a democratic revival post the abrogation of Article 370, with high voter turnouts and peaceful elections. The article discusses the electoral dynamics in various constituencies, the political campaigns of different parties, and the shift in voter participation patterns. It emphasizes the stark differences in governance and human rights between PoK and Jammu and Kashmir, attributing the positive changes in the latter to India's policies under Prime Minister Narendra Modi's leadership. The upcoming assembly polls are seen as a critical test for the region's democratic progress. The author, an advocate, expresses personal views that do not necessarily reflect those of the publication.
+
+Sun, 26 May 2024 10:33:11 +0530
+### [AI in warfare: Unleashing Pandora's box](https://www.firstpost.com/opinion/ai-in-warfare-unleashing-pandoras-box-13775175.html)
+
+The article discusses the ethical and technological challenges posed by the use of artificial intelligence (AI) in warfare, drawing parallels with Greek mythology's tale of Prometheus. It highlights the dual nature of technology, which can be used for both creation and destruction. The article provides insights into AI's role in recent conflicts in Gaza and Ukraine, where AI has been used to generate targets and make decisions with minimal human oversight. Israeli AI programs like The Gospel and Lavender have been used to identify and attack targets, leading to a significant number of civilian casualties due to automation and lack of verification. Similarly, Ukraine has been developing unmanned systems and prioritizing the use of robots in combat. The article raises concerns about the lack of international consensus on the ethical use of AI in populated areas and the potential for AI to cause destruction on the scale of weapons of mass destruction. It calls for global cooperation to address the moral and ethical dilemmas of AI in warfare. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Sat, 25 May 2024 18:06:46 +0530
+### [California Civil Rights Report reveals Hinduphobia is bigger problem than Islamophobia: But that’s not the end of it](https://www.firstpost.com/opinion/california-civil-rights-report-reveals-hinduphobia-is-bigger-problem-than-islamophobia-but-thats-not-the-end-of-it-13775009.html)
+
+The article discusses the issue of Hinduphobia and the challenges faced by Hindu Americans in gaining recognition for it. It highlights data from California's Civil Rights Department showing a significant percentage of religious hate incidents being anti-Hindu. Despite this, there is skepticism and denial about Hinduphobia within influential South Asian groups and academia. The article criticizes the California Civil Rights Department's handling of anti-Hindu incidents and questions whether their actions truly support Hindu victims or merely manage the problem.
+
+The authors argue that Hindu American community groups have struggled to change mainstream cultural narratives about Hinduphobia due to their focus on building leaders rather than addressing narratives. They suggest that Hindu organizations are trapped in a cycle of repeating ineffective strategies without understanding the social history behind their situation. The article also points out the tendency of Hindu Americans to conform to mainstream American culture, which has led to a lack of a clear story about their identity and the world they live in.
+
+The piece concludes by emphasizing the importance of recognizing and fighting against Hinduphobia, not just for the label 'Hindu' but for the continuity of Sanatana Dharma. The views expressed are personal to the authors, Vamsee Juluri, a professor of media studies, and C Raghothama Rao, a writer and podcaster. They do not necessarily reflect the views of Firstpost.
+
+Sat, 25 May 2024 15:37:35 +0530
+### [GhoseSpot | With sixth phase of Lok Sabha elections ongoing, Modi’s vision appears clear](https://www.firstpost.com/opinion/ghosespot-with-sixth-phase-of-lok-sabha-elections-ongoing-modis-vision-appears-clear-13774952.html)
+
+The article discusses the anticipation of Narendra Modi's potential third term as Prime Minister of India. It highlights Modi's confidence and readiness to take on his duties immediately if re-elected. The piece touches on concerns about election legitimacy and the peaceful transfer of power, suggesting that Modi's detractors are preparing for a battle but are likely to be disappointed. It also mentions foreign governments and media outlets that have shifted from criticism to acceptance of Modi's leadership, seeing it as beneficial for their national interests.
+
+The article predicts that Modi's third term would begin with significant announcements of national and global importance. It suggests that Modi, with a decade of leadership experience, aims to be recognized as an equal among the world's most senior leaders and to secure India's admission to the UN Security Council. The piece speculates on potential changes in Modi's cabinet and his focus on economic growth, state elections, and maintaining BJP's influence across India.
+
+Furthermore, it discusses Modi's understanding of the importance of social harmony and his approach to welfare schemes without compromising internal security. The article concludes by stating that Modi has a 100-day plan ready to be implemented after his potential inauguration and emphasizes that the views expressed are personal opinions of the author and not necessarily those of Firstpost.  The assistant has omitted any unrelated content or advertisements from the summary.
+
+Sat, 25 May 2024 13:21:00 +0530
+### [Africa Day: India’s time-tested partnership with the continent](https://www.firstpost.com/opinion/africa-day-indias-time-tested-partnership-with-the-continent-13774900.html)
+
+The article discusses the evolution and current state of India-Africa relations, highlighting India's consistent and significant role in Africa's development. It reflects on the historical context of India's support for African countries since their independence movements, emphasizing India's role in the Non-Aligned Movement and its early contributions to capacity building in Africa, such as the establishment of the Harar Military Academy in Ethiopia.
+
+India's engagement with Africa is further illustrated through the India Technical and Economic Cooperation (ITEC) program, which has facilitated technology transfer and capacity building since 1964. The article also notes India's economic contributions through grant programs and the Indian Development and Economic Assistance Scheme (IDEAS), which provided low-cost loans for African development projects.
+
+The India-Africa Forum Summits are mentioned as a platform that has expanded cooperation, focusing on human resource development, institution building, and development through soft loans. India's investment in Africa, particularly through small and medium-sized enterprises (SMEs), is recognized for its positive impact on local economies and intra-regional trade.
+
+A significant recent development is India's role in elevating Africa's presence in global forums, exemplified by the inclusion of the African Union (AU) as a member of the G20 during India's chairmanship. This move is seen as giving Africa a collective voice on the global stage, a first since its ambitions to join the UN Security Council.
+
+The article concludes by noting India's position as one of Africa's top trading and investment partners and a leading scholarship provider, underscoring the growth and direction of the India-Africa partnership. The views expressed are personal to the author, a former ambassador with extensive experience in African affairs.
+
+Sat, 25 May 2024 11:54:18 +0530
+### [Violence in New Caledonia: Trouble in France’s ‘treasure island’ exposes colonial fault-line](https://www.firstpost.com/opinion/violence-in-new-caledonia-trouble-in-frances-treasure-island-exposes-colonial-fault-line-13774888.html)
+
+The article discusses the recent unrest in New Caledonia, a French overseas territory, where riots and violence have erupted following controversial electoral reforms. These reforms could potentially marginalize the indigenous Kanak population by enfranchising new migrants from mainland France. The French President Emmanuel Macron visited the territory, which is under a state of emergency, and has pledged to keep additional police personnel there as needed.
+
+The piece also delves into the history of New Caledonia and its strategic importance to France, highlighting its role as a remnant of French colonial power in the Pacific. It touches on the historical context of French colonialism, the decolonization process, and the political developments in New Caledonia, including the Noumea Accord, which has been a significant step in the territory's political evolution.
+
+The author reflects on the complexities of New Caledonia's political status and the challenges of balancing the rights of various demographic groups within the territory. The article concludes with the author's personal views, emphasizing that they do not necessarily reflect those of the publication.
+
+Fri, 24 May 2024 18:23:24 +0530
+### [Bharat and its elections: The wonder that is India](https://www.firstpost.com/opinion/bharat-and-its-elections-the-wonder-that-is-india-13774740.html)
+
+The article discusses the political landscape of India in the context of the 2024 Lok Sabha elections, marking a significant point in the nation's history as it surpasses its colonial ruler, the UK, in economic size and becomes the world's most populous country. It reflects on Prime Minister Narendra Modi's leadership, which is often criticized by Western perspectives and the opposition for endangering India's secular fabric and potentially leading to a Hindu nationalist state.
+
+The author, having lived abroad for 24 years, shares personal experiences and observations of India's journey from a collection of states to a unified nation with a strong Hindu identity. The article argues that Modi's rise is not an anomaly but a result of India's evolution, and criticizes the opposition for undermining the Indian voter's intelligence and dignity.
+
+It also touches on historical events and figures that have shaped India's national identity, including the abolition of the privy purse, promotion of Hindi, and the construction of significant temples. The piece suggests that Hindutva has transformed into Sanatana Dharma, influencing Modi's ascent to power.
+
+The author emphasizes Modi's respect for the Indian voter's freedom and intelligence, despite challenges like poverty and natural calamities. The article critiques the opposition's failure to present a united plan for India's future and suggests that the Indian voter has matured beyond needing protection from rulers.
+
+In conclusion, the article posits that Modi represents a young, evolving nation comfortable with its unity and identity, and that the upcoming election results will reflect this sentiment. The views expressed are personal and do not necessarily align with those of the publication.
+
+Fri, 24 May 2024 17:21:55 +0530
+### [How India has emerged as ‘voice of Global South’ in Modi’s era](https://www.firstpost.com/opinion/how-india-has-emerged-as-voice-of-global-south-in-modis-era-13774667.html)
+
+The article discusses India's evolving role in global geopolitics, emphasizing its growing economic power and rich cultural heritage. It highlights India's strategic contributions during crises like COVID-19 and the Russia-Ukraine war, where it provided vaccines and food grains to the global community. The article also notes India's geo-cultural diplomacy under Prime Minister Modi, including efforts to strengthen ties with neighboring countries through cultural and spiritual initiatives.
+
+India's foreign policy is described as being rooted in traditional values, promoting peace and cooperation. The country's leadership in establishing International Yoga Day and its advocacy for a multipolar world order are cited as examples of its influence. The article further outlines India's geo-economic power, with its economy projected to become the third-largest by 2027 and its significant role in multilateral organizations like the G20 and BRICS.
+
+The author, a faculty member at JNU, concludes that India's normative contributions and economic growth will continue to enhance its role in global geopolitics, positioning it as a voice for the Global South and a leader in addressing ecological, democratic, and multilateral issues. The views expressed are personal and not necessarily reflective of Firstpost.
+
+Fri, 24 May 2024 14:28:56 +0530
+### [Ramification |  Is the European Parliament turning right this June?](https://www.firstpost.com/opinion/ramification-is-the-european-parliament-turning-right-this-june-13774569.html)
+
+The article discusses the shifting political landscape in Europe, where economic decline, the Ukraine war, and societal divisions have led to a rise in right-wing populism. Geert Wilders' Partij Voor De Vrijheid (PVV) has formed a coalition government in the Netherlands, signaling the end of Mark Rutte's liberal era. Wilders' policies focus on a nationalist agenda, including strict anti-immigration measures and Dutch cultural preservation, which challenge EU rules.
+
+Populist parties across Europe are gaining traction, with increased vote shares in Spain, Poland, France, Belgium, Hungary, Italy, Sweden, and Austria. This trend is particularly pronounced among the youth, as evidenced by surveys and studies indicating a significant portion of young voters supporting right-wing parties due to concerns over immigration and dissatisfaction with traditional parties' handling of employment, housing, and security.
+
+The upcoming European Union Parliament elections will see young voters participating in record numbers, with new laws allowing 16- and 17-year-olds to vote for the first time. Economic and political issues are expected to dominate the agenda, with right-wing parties poised to capitalize on these concerns.
+
+The article argues that the rise of the right does not equate to extremist views but reflects a desire for alternatives that address the needs of young Europeans. The European Commission's Rule of Law Mechanism, while promoting a 'European way of life', also acknowledges the need for strong borders and reformed migration policies, balancing right-wing demands with European values.
+
+In conclusion, the article suggests that Europe's 'right turn' is a response to pressing societal issues and may lead to a redefined European Union that aligns with the changing expectations of its citizens. The author, Rami Niranjan Desai, emphasizes that these views are personal and not necessarily reflective of Firstpost's stance.
+
+Fri, 24 May 2024 12:04:14 +0530
+### [Why India, Iran, and Russia must cut through South Caucasus to connect Middle East with Europe](https://www.firstpost.com/opinion/why-india-iran-and-russia-must-cut-through-south-caucasus-to-connect-middle-east-with-europe-13774506.html)
+
+The article discusses the geopolitical dynamics in the South Caucasus region, focusing on the relationships between Armenia, Azerbaijan, and their international partners. It highlights the recent loss of former Iranian President Ebrahim Raisi in a helicopter crash, which occurred soon after a joint dam project inauguration with Azerbaijan's president. This event underscores the cooperation between Iran and Azerbaijan, despite their historical preference for Armenia.
+
+The capture of Nagorno-Karabakh by Azerbaijan in 2023 has shifted the regional power balance, affecting the stances of various countries. India, a significant arms supplier to Armenia, has remained silent on Armenia's defeat, while focusing on the North-South Corridor project and managing the Chabahar Port in Iran. France and the US have shown diplomatic support for Armenia, but Azerbaijan's victory and allegations of ethnic cleansing have complicated the situation.
+
+Russia's inability to fulfill its defense commitments to Armenia due to its involvement in Ukraine has led to India's weaponry being used by Armenia. Meanwhile, Azerbaijan's trade with India has grown, and its military capabilities, bolstered by Turkey and Pakistan, have been effective.
+
+The article also touches on the International North-South Transport Corridor (INSTC), which India, Iran, and Armenia support to enhance connectivity. Azerbaijan's participation in INSTC and its modernized infrastructure present an alternative route for trade. The recent agreement between Armenia and Azerbaijan on their disputed border suggests a potential for lasting peace.
+
+The historical context of the Caucasus region's turmoil is provided, tracing back to the Ottoman Empire's decline and the Armenian community's impact in India. The author, a Delhi-based political commentator, clarifies that the views expressed are personal and not reflective of the publication's stance.
+
+Fri, 24 May 2024 10:20:25 +0530
+### [L&T’s Hyderabad Metro predicament exposes the long-term economic costs of populism](https://www.firstpost.com/opinion/lts-hyderabad-metro-predicament-exposes-the-long-term-economic-costs-of-populism-13774448.html)
+
+The article discusses the negative economic impacts of populist policies in India. It criticizes leaders for offering unsustainable giveaways, such as free public services and financial benefits, which are seen as short-term electoral strategies rather than long-term solutions. The article cites the example of L&T considering exiting the Hyderabad Metro project due to financial strains caused by the Telangana government's free bus rides affecting Metro ridership.
+
+Populism is defined as a political approach that seeks mass support by promising or distributing freebies and subsidies, often at the expense of public finances and fostering a dependency culture. The article references political science definitions of populism and research papers by Daren Acemoglu and others, which argue that populist policies can harm the majority of the population and lead to economic crises.
+
+A study by Funke et al. in the American Economic Review (2023) is mentioned, showing that countries under populist rule experience a significant drop in GDP per capita over 15 years compared to non-populist countries. Populist leaders are said to fail in reducing inequality and increasing public debt, leading to economic instability and higher inflation rates.
+
+The article concludes by warning against the dangers of populist policies, drawing an analogy with the chaos depicted in "The Dark Knight" movie. It calls for true leadership that prioritizes long-term prosperity over short-term electoral gains, emphasizing the importance of responsible governance for the future of the nation. The views expressed are personal to the author, Aditya Sinha, and do not reflect those of Firstpost.
+
+Thu, 23 May 2024 17:53:59 +0530
+### [How International Criminal Court equated terrorism with a sovereign state’s right to defend itself](https://www.firstpost.com/opinion/how-international-criminal-court-equated-terrorism-with-a-sovereign-states-right-to-defend-itself-13774316.html)
+
+The article discusses the International Criminal Court's (ICC) controversial decision to seek arrest warrants for Israeli Prime Minister Benjamin Netanyahu and other leaders for war crimes and crimes against humanity related to the October 7 terror attack in Israel and subsequent actions in Gaza. The ICC's move has sparked a range of reactions, from criticism to support, highlighting the complexities of global politics and the differing responses to similar situations, such as the prosecution of Russian President Vladimir Putin. The article argues that the ICC's actions against Netanyahu could set a dangerous precedent, potentially affecting other nations like India, and questions the ICC's authority to oversee state actions. It emphasizes the right of states to defend themselves and suggests that the responsibility for civilian casualties in Gaza lies with Hamas, which the author claims uses civilians as human shields. The author, a New Delhi-based commentator on geopolitics, asserts that the ICC's attempt to prosecute Netanyahu undermines the power of the state and its legitimate right to self-defense. The views expressed are personal and do not necessarily reflect those of the publication.
+
+Thu, 23 May 2024 15:34:19 +0530
+### [How President Raisi's death will impact India's Middle East plans for wider regional connectivity](https://www.firstpost.com/opinion/how-president-raisis-death-will-impact-indias-middle-east-plans-for-wider-regional-connectivity-13774213.html)
+
+The article discusses the implications of the accidental death of Iranian President Ebrahim Raisi in a helicopter crash. It occurred amidst heightened tensions in West Asia, including the Israel-Hamas war and regional conflicts. The crash initially raised suspicions of foul play, but these were dismissed by Iranian media reports attributing the incident to bad weather, and denials of involvement by the US and Israel.
+
+The death of President Raisi is significant for Iran's domestic politics and its regional influence, especially given Iran's support for groups like Hamas, Hezbollah, and the Houthi rebels. The search for Raisi's successor is complicated by the suddenness of his death, with Iran's ultimate authority, Ayatollah Ali Khamenei, likely to influence the outcome of the upcoming presidential election. The article suggests that Khamenei may not support a reformist candidate, indicating a continuation of Iran's current policies.
+
+The incident also raises concerns about the implementation of a ten-year agreement between India and Iran on Chabahar Port, crucial for India's international connectivity. Despite challenges, India has maintained diplomatic relations with Iran, balancing its partnerships with the US, Israel, and navigating regional tensions with Saudi Arabia and Pakistan. India's response to Raisi's death included national mourning and a visit by the Vice President to Tehran, reflecting its desire to continue constructive ties with Iran.
+
+The author, associated with Kalinga Institute Indo-Pacific Studies, clarifies that the views expressed are personal and not reflective of Firstpost's stance.
+
+Thu, 23 May 2024 13:45:25 +0530
+### [Heavily indebted Pakistan has all its eggs in China basket: Implications for India](https://www.firstpost.com/opinion/heavily-indebted-pakistan-has-all-its-eggs-in-china-basket-implications-for-india-13774145.html)
+
+The article discusses Pakistan's financial challenges and its strategic relationship with China. Pakistan, heavily indebted and facing a significant external financing gap, is seeking debt rollovers and fresh financing from allies, particularly China, which has provided over $1.1 trillion in loans to developing countries through its Belt and Road Initiative (BRI). Despite financial pressures, Pakistan continues to invest in defense, including discussions with China for additional fighter jets and cooperation with Turkey on military aircraft.
+
+Pakistan's debt is growing, with its foreign debt at $124.5 billion, or 42% of GDP. The country's trade deficit and reliance on remittances and new borrowing highlight the need for debt rescheduling. The China-Pakistan Economic Corridor (CPEC) involves substantial spending but also adds to the debt burden, with some financial details remaining unclear.
+
+Strategically, Pakistan and China maintain a stable partnership, with deepening military cooperation. Pakistan's geographical position is vital for China's access to resources and influence in the region. Historical ties since the Sino-Indian War of 1962 have led to significant Chinese investment in Pakistan's infrastructure and defense, including the CPEC and military aviation production.
+
+The article also touches on the complexities of Pakistan's relationships with the US and China, its military industrial complex heavily supported by China, and the implications for India. China's growing military power and infrastructure developments in contested regions pose strategic challenges for India. The article suggests that India needs to re-evaluate its defense structure, invest in modern technologies, and diversify its military assets to counterbalance China's influence and maintain regional preeminence.
+
+The views expressed are personal and do not necessarily reflect those of the publication. The article concludes with a call for India to act promptly to address its strategic and defense needs.
+
+Thu, 23 May 2024 12:34:39 +0530
+### [How India can improve its military mobility: The foremost winning factor](https://www.firstpost.com/opinion/how-india-can-improve-its-military-mobility-the-foremost-winning-factor-13774126.html)
+
+The article discusses the complexities and necessities of military logistics, emphasizing the importance of mobility for operational success. It highlights the Indian Army's Cold Start strategy against Pakistan, which ensures rapid deployment of forces. The article stresses the need for military hardware to meet standards for easy mobilization and stealthy, swift movement to avoid detection by enemy satellites.
+
+It further outlines the requirements for combat vehicles, including adaptability for modifications, repair in field conditions, and a low weight-to-power ratio for cross-country mobility. The vehicles must also be capable of withstanding various attacks and operating in CBRN environments.
+
+The piece touches on the future of military vehicles, predicting the integration of electric vehicles, dual-engine systems, and the necessity for vehicles to have combat worthiness for networked, transparent, and volatile future battles. It envisions vehicles with drone companions, secure positioning systems, and the ability to generate extra power for jamming incoming guided ammunition.
+
+Lastly, the article mentions Indian manufacturers like Tata, Ashok Leyland, and Mahindra, which are adapting their heavy-duty vehicle designs for military use. It concludes with insights from Lt Gen (Dr) PJS Pannu, who advocates for R&D and collaboration to prepare for future networked and contested battlefields. The views expressed are personal to the author and do not reflect those of Firstpost.
+
+Thu, 23 May 2024 10:00:20 +0530
+### [Why there’s growing bipartisan consensus in United States to act decisively against China](https://www.firstpost.com/opinion/why-theres-growing-bipartisan-consensus-in-united-states-to-act-decisively-against-china-13774048.html)
+
+Article found but Couldn't summarize 
+Republicans and Democrats alike are driven by grave concerns over economic security, human rights abuses, and China’s aggressive geopolitical manoeuvres
+
 Wed, 22 May 2024 18:51:39 +0530
 ### [Indo-Pacific port war gains momentum as Russia grabs Dawei](https://www.firstpost.com/opinion/indo-pacific-port-war-gains-momentum-as-russia-grabs-dawei-13773873.html)
 

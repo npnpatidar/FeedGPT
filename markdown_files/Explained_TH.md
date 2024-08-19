@@ -1,3 +1,499 @@
+Sat, 29 Jun 2024 12:54:26 +0530
+### [Who gains if TikTok is banned in the US? | Explained](https://www.thehindu.com/sci-tech/technology/who-gains-if-tiktok-is-banned-in-the-us-explained/article68347415.ece)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 20:38:29 +0530
+### [Watch: What is the role of the Leader of Opposition in Lok Sabha?](https://www.thehindu.com/videos/what-is-the-role-of-the-leader-of-opposition-in-lok-sabha/article68345056.ece)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Thu, 27 Jun 2024 21:38:40 +0530
+### [Why has CBI arrested Arvind Kejriwal and what happens next? | Explained](https://www.thehindu.com/news/national/why-has-cbi-arrested-arvind-kejriwal-and-what-happens-next/article68335758.ece)
+
+Delhi Chief Minister Arvind Kejriwal has been remanded to three days of CBI custody following his arrest in connection with an alleged corruption case related to the Delhi Excise policy. The arrest comes amidst ongoing investigations by both the CBI and ED into accusations of bribery and money laundering involving Kejriwal and others. Kejriwal's legal challenges include withdrawing a petition from the Supreme Court and facing allegations tied to a liquor policy aimed at reforming Delhi's alcohol retail sector, which was later scrapped due to procedural controversies.
+
+Wed, 26 Jun 2024 22:46:42 +0530
+### [What is the row over Delhi’s water crisis? | Explained](https://www.thehindu.com/news/national/what-is-the-row-over-delhis-water-crisis-explained/article68299997.ece)
+
+Delhi, a city dependent on neighboring states for its water supply, is experiencing an acute water shortage due to a heatwave and alleged blocking of water by Haryana. The Munak Canal, one of Delhi's primary water sources, has a leakage, and the L-G office claims inadequate pipeline cleaning and private tankers selling illegal water are worsening the situation. The AAP government has moved the Supreme Court, but the court has directed the Upper Yamuna River Board to address the issue. Water conservationist Rajendra Singh suggests that Delhi prioritize drinking water, re-examine water resources, and focus on water harvesting methods like reusing water and creating water storage structures.
+
+Wed, 26 Jun 2024 21:20:01 +0530
+### [How Julian Assange walked out of U.S. court a ‘free man’](https://www.thehindu.com/news/international/julian-assange-wikileaks-release-deal-us-explainer-australia-freedom/article68335711.ece)
+
+Article found but Couldn't summarize 
+What was the deal with the U.S. government that secured Julian Assange’s release? What’s next for the WikiLeaks founder?
+
+Wed, 26 Jun 2024 21:19:51 +0530
+### [Why the GST Council recommended biometric-based Aadhaar authentication for new registrations: Explained](https://www.thehindu.com/business/why-the-gst-council-recommended-biometric-based-aadhaar-authentication-for-new-registrations-explained/article68335461.ece)
+
+The article discusses the recent decisions of the GST Council, chaired by Union Finance Minister Nirmala Sitharaman, to implement biometric-based Aadhaar authentication for GST registrations. This measure aims to combat fraudulent practices like fake invoice-based input tax credit (ITC) claims, which have been prevalent since the introduction of GST. These frauds involve generating invoices without actual transactions to evade taxes, inflate turnovers, and facilitate money laundering. The article emphasizes the potential benefits of Aadhaar authentication in enhancing the credibility and integrity of GST registrations, though challenges such as data discrepancies are acknowledged.
+
+Wed, 26 Jun 2024 20:21:45 +0530
+### [Gun control, the Second Amendment and the judges of the U.S. Supreme Court | Explained](https://www.thehindu.com/news/international/gun-control-second-amendment-and-the-judges-of-the-us-supreme-court-explained/article67497309.ece)
+
+The U.S. Supreme Court recently upheld a federal gun control law in an 8-1 ruling, after hearing a case on whether a statute prohibiting a person subject to domestic violence-restraining orders violats the Second Amendment. The decision did little to clarify Second Amendment jurisprudence, which is a contentious issue in the U.S. due to the increasing number of injuries and deaths caused by firearms. The Court's ruling in Rahimi was contrary to the previous decision in Garland vs. Cargill and also had implications for background check systems based on domestic violence protective orders. The decision was controversial and exposed the confusion over how to approach gun laws and protect victims of domestic violence. Additionally, it highlighted a conservative shift in the judicial system.
+
+Wed, 26 Jun 2024 08:30:00 +0530
+### [Will the Agnipath scheme be revamped? | Explained](https://www.thehindu.com/news/national/will-the-agnipath-scheme-be-revamped-explained/article68333308.ece)
+
+The Agnipath scheme, introduced in 2022, aims to recruit soldiers, sailors, and airmen under a new framework where recruits serve for four years before a potential transition to permanent roles. This initiative, designed to address shortages in the armed forces exacerbated by a halt in recruitment during the COVID-19 pandemic, has sparked political debate and public protests. While hailed as a transformative step by some, concerns remain about the scheme's effectiveness in meeting long-term staffing needs and its impact on military readiness. Ongoing discussions include proposals to adjust age limits and increase the percentage of recruits transitioning to permanent roles.
+
+Wed, 26 Jun 2024 05:00:00 +0530
+### [Why do parts of Maharashtra experience different water stress levels? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/why-do-parts-of-maharashtra-experience-different-water-stress-levels-explained/article68331094.ece)
+
+The article discusses the water crisis in Marathwada, a region in Maharashtra, India, which is facing severe drought due to various factors. The area is in the rain-shadow region of the Western Ghats, receiving less rainfall compared to the western side. A major contributor to the region's water crisis is the cultivation of water-intensive crops like sugarcane, which requires 1,500-2,500 mm of water during its growing season. Traditional crops like cotton, pulses, and millets need less water, but the expansion of sugarcane cultivation has led to the deprivation of water for other crops.
+
+Climate change has exacerbated the situation, causing an increasing trend in drought severity and frequency. The region's clayey black soil has low infiltration and hydraulic conductivity, making groundwater recharge difficult. The government's promotion of sugarcane production and the presence of sugar mills owned by leading politicians have further intensified the crisis. To ensure the sustainability of drinking water sources, the article suggests supply-side solutions like watershed management and demand-side solutions like water-efficient irrigation, cultivating drought-resistant crops, and diversifying livelihoods. Ultimately, controlling sugarcane production and shifting to high-value, low-water-using horticultural crops are crucial for mitigating the water crisis in Marathwada.
+
+Mon, 24 Jun 2024 23:09:52 +0530
+### [What is in Great Nicobar, site of NITI Aayog’s mega project? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-in-great-nicobar-site-of-niti-aayogs-mega-project-explained/article68327325.ece)
+
+The article discusses controversy surrounding a mega development project by NITI Aayog on Great Nicobar Island, part of India's Andaman and Nicobar archipelago. The project, aimed at creating infrastructure like a transshipment terminal and airport, has faced criticism from political parties, environmentalists, tribal councils, and local communities due to concerns over ecological impact, potential violations of tribal rights, and inadequate social and environmental assessments. The island, rich in rainforests and biodiversity including endangered species, is home to indigenous tribes like the Shompen and Nicobarese, adding complexities to the project's implementation amidst protests and legal challenges.
+
+Mon, 24 Jun 2024 08:30:00 +0530
+### [How is methanol procured and used as liquor? | Explained](https://www.thehindu.com/news/national/how-is-methanol-procured-and-used-as-liquor-explained/article68325031.ece)
+
+The Kallakurichi illicit liquor tragedy, which claimed over 50 lives, is attributed to methanol consumption. Methanol, a poisonous substance produced from fuels, is illegally procured and mixed into illicit alcohol.
+
+Despite laws regulating methanol in Tamil Nadu, a methanol pilferage racket operates. Bootleggers may have used methanol in the crude distillation process or added it separately, leading to widespread contamination.
+
+Methanol poisoning is a recurring issue in India, highlighting the need for strong central legislation to regulate methanol supply and prevent its diversion into illegal channels. As India plans to ramp up methanol production for use as an alternative fuel, keeping methanol separate from ethanol is crucial to prevent tragedies like Kallakurichi.
+
+Sun, 23 Jun 2024 23:01:44 +0530
+### [What are the duties of a Speaker? | Explained](https://www.thehindu.com/news/national/what-are-the-duties-of-a-speaker/article68325041.ece)
+
+Article found but Couldn't summarize 
+What does the office of the ‘Speaker pro tem’ mean? What does the Constitution state? Who elects the Deputy Speaker of the Lok Sabha? How can the impartiality of the Speaker’s office be preserved? What are the main roles of the Speaker?
+
+Sun, 23 Jun 2024 03:57:00 +0530
+### [What can the Railways do to stop accidents? | Explained](https://www.thehindu.com/news/national/what-can-the-railways-do-to-stop-accidents-explained/article68321591.ece)
+
+A train accident near New Jalpaiguri in West Bengal resulted in 10 deaths and over 40 injuries. The accident was caused by a goods train hitting the Kanchanjunga Express due to malfunctioning automatic signaling. The Railway Board initially blamed the loco pilot of the goods train, but the blame was later rescinded. The article discusses various factors that contribute to railway accidents, including human error and lack of modern safety technology. It also highlights the need for the Union government to prioritize debates in Parliament to improve the Indian Railways.
+
+Sun, 23 Jun 2024 03:37:00 +0530
+### [Are heatwaves natural disasters? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/are-heatwaves-natural-disasters/article68321611.ece)
+
+Article found but Couldn't summarize 
+Who decides which disasters qualify for relief and aid? Are all heatwave deaths reported and counted?
+
+Sun, 23 Jun 2024 03:13:00 +0530
+### [Where does India stand with respect to the G-7? | Explained](https://www.thehindu.com/news/national/where-does-india-stand-with-respect-to-the-g-7/article68321654.ece)
+
+Leaders of the Group of Seven met in Italy to discuss a range of issues, including funding for the Ukraine war, investment in Africa, migration, climate change, and artificial intelligence. India was invited to the outreach session for the 11th time, and Prime Minister Narendra Modi attended for the fifth time. The G-7 is facing criticism for being an elitist, non-inclusive group, and its relevance is being questioned. The G-7 will convene for the annual summit in Canada in 2025, and it remains to be seen if India will continue to accept a spot on its margins.
+
+Sat, 22 Jun 2024 13:32:18 +0530
+### [What does the European Union’s new Nature Restoration Plan include? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/european-union-new-nature-restoration-plan-explained/article68319898.ece)
+
+The European Union has approved a Nature Restoration Plan to restore degraded ecosystems across the continent by 2030. The plan aims to restore 20% of EU land and sea areas by 2030 and all ecosystems by 2050. It includes specific targets for urban, forest, marine, and agricultural ecosystems, as well as measures to protect pollinating insects and improve river connectivity. EU countries must submit National Restoration Plans within two years and report on their progress. Funding remains a potential roadblock, and the recent setback for the European Greens party could further complicate implementation.
+
+Fri, 21 Jun 2024 20:54:23 +0530
+### [Is EU’s Chat Control law undermining online privacy? | Explained](https://www.thehindu.com/sci-tech/technology/is-eus-chat-control-law-undermining-online-privacy-explained/article68317447.ece)
+
+Article found but Couldn't summarize 
+EU’s proposal to thwart child sexual abuse online could potentially create a backdoor for authoritarian governments to snoop on citizens
+
+Fri, 21 Jun 2024 14:41:10 +0530
+### [Why the European Commission imposed provisional anti-dumping duties on Indian optical fiber cable makers: Explained](https://www.thehindu.com/business/Industry/why-the-european-commission-imposed-provisional-anti-dumping-duties-on-indian-optical-fiber-cable-makers-explained/article68315717.ece)
+
+The European Commission has imposed provisional anti-dumping duties on Indian optical fiber cable manufacturers, alleging that imports from India are causing injury to the European industry. The duties range from 8.7% to 11.4%, depending on the manufacturer. The investigation found significant dumping margins and adverse effects on European producers. HFCL is the only Indian manufacturer exempted from the duties. The Commission had previously imposed anti-dumping duties on Chinese manufacturers in 2021, which were subsequently increased due to price undercutting. India's optical fiber cable exports declined in 2023-24, and the domestic industry has also initiated an anti-dumping investigation against imports from China, Indonesia, and South Korea.
+
+Fri, 21 Jun 2024 13:51:48 +0530
+### [What’s behind the Russia-North Korea security pact? | Explained](https://www.thehindu.com/news/international/russia-north-korea-putin-kim-jong-un-security-deal-explained/article68315509.ece)
+
+Article found but Couldn't summarize 
+Russian President Vladimir Putin was on a two-day visit to North Korea – his first in 24 years.
+
+Wed, 19 Jun 2024 23:06:07 +0530
+### [What are the findings of the 2024 Hindu Kush Himalayas snow update? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/hindu-kush-himalayas-snow-update-2024-findings/article68307604.ece)
+
+The Hindu Kush Himalaya (HKH) snow update of 2024 reported record-low snow persistence in the Ganga river basin, along with significant declines in the Brahmaputra and Indus basins. This trend threatens water supply for millions of people. The decreased persistence is attributed to weak western disturbances, which are influenced by climate change and global warming. Experts emphasize the need for emission reductions to mitigate sea-surface and ground temperatures that lower snow persistence. Additionally, reforestation, improved weather forecasting, and community involvement are crucial for adapting to water stress.
+
+Wed, 19 Jun 2024 08:30:00 +0530
+### [How can Himachal Pradesh fight against forest fires? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/how-can-himachal-pradesh-fight-against-forest-fires-explained/article68305390.ece)
+
+Himachal Pradesh has experienced 1,684 forest fires since April, causing significant damage to 17,471 hectares of forest land. These fires are a major source of pollutants and contribute to glacier melt in the Himalayas. The primary causes of the fires are outdated forestry practices and the exclusion of local communities in forest management.
+
+Historical forestry practices, such as the construction of railways and the exploitation of timber and resin, have significantly altered the Himalayan forests. The expansion of Chir pine plantations, which are highly flammable, has further increased the risk of forest fires.
+
+To address this issue, it is crucial to involve local communities in forest management and restore their traditional rights. Mixed forestry, water conservation measures, and environmental services at the village level are essential steps towards sustainable forest management in Himachal Pradesh.
+
+Tue, 18 Jun 2024 22:51:40 +0530
+### [Does H5N1 pose a threat for humans? | Explained](https://www.thehindu.com/sci-tech/health/does-h5n1-pose-a-threat-for-humans-explained/article68305360.ece)
+
+The highly pathogenic avian influenza (HPAI) H5N1 strain has been affecting cattle across several States in the US and has resulted in the mass killing of billions of wild birds and fowls. In Kerala, India, 19 outbreaks have been reported in 19 places since April, with the death of crows in large numbers raising concerns about the virus spreading widely. The virus has been detected in raw milk and milking machines, and scientists believe it lacks changes that would make it better adapted to transmit between people. However, the potential for influenza viruses to rapidly evolve and the wide geographic spread of H5N1 signals that more human infections should be expected. The World Health Organization has reported close to 900 human infections of H5N1 between 2003 and April 2024, with more than half being fatal. The common symptoms of H5N1 are similar to those of influenza-A illnesses, including respiratory difficulties, fever, cough, sore throat, and pneumonia. To prevent the spread of the virus, people are advised to wear masks, and antiviral Tamiflu is being prescribed as prophylaxis to people wherever H5N1 positive cases are found.
+
+Tue, 18 Jun 2024 05:30:00 +0530
+### [Birds of different feathers fly to the same beat | Explained](https://www.thehindu.com/sci-tech/science/wings-of-birds-insects-bats-beat-according-to-a-common-equation/article68295958.ece)
+
+A group of scientists at Roskilde University in Denmark have discovered a simple formula that explains the flapping frequency of animals that fly or swim through the air or water. The formula, f ∝ √m/A, relates the flapping frequency to the mass of the animal and the area of its wings or fins. The researchers found that this formula holds true for a wide range of animals, including insects, birds, bats, penguins, whales, and even a robotic bird. The formula was derived from Newton's second law and takes into account the momentum of the air or water, the velocity of the flow, and the density of the atmosphere or water. The researchers believe that this formula could be used to predict the wing-beating frequency of flying animals and the fin-beating frequency of swimming animals, and could even be used to design more efficient flying machines.
+
+Tue, 18 Jun 2024 05:25:00 +0530
+### [How diapers use quantum physics to attend to nature’s call | Explained](https://www.thehindu.com/sci-tech/science/how-diapers-use-quantum-physics-to-attend-to-natures-call-explained/article68300042.ece)
+
+The article discusses the unique properties of diapers that allow them to absorb large amounts of liquid. It explains that the absorbency of diapers is due to a type of polymer called super-absorbent polymer (SAP), which is made up of a network of molecules that can absorb large amounts of water. The article also explains the physics behind why some materials absorb water and others do not, citing the example of cotton and rubber. It also discusses the role of sodium ions in SAP and how they interact with water molecules to form a gel-like substance. Finally, the article touches on the quantum physics behind the attraction between sodium ions and water molecules.
+
+Mon, 17 Jun 2024 22:18:38 +0530
+### [Death of Indians in Russia-Ukraine war: Status and accountability of mercenaries in international law | Explained](https://www.thehindu.com/news/international/death-of-indians-in-russia-ukraine-war-status-and-accountability-of-mercenaries-in-international-law/article68296238.ece)
+
+The Indian Ministry of External Affairs (MEA) has acknowledged the tragic loss of two Indian nationals who were recruited by the Russian Army amidst the ongoing conflict between Russia and Ukraine. It is reported that nearly 100 Indians have been recruited by the Russian Army over the past year, with many being duped by agents into joining the army in exchange for a salary of ₹1.5 lakh to ₹2 lakh per month. The MEA has urged the Russian authorities to release and return all Indian nationals currently serving with the Russian Army. The Indian Embassy in Moscow has also raised this issue with the Russian Ambassador in New Delhi.
+
+Mon, 17 Jun 2024 14:38:20 +0530
+### [IRDAI’s revised norms for those looking to surrender a life insurance policy: Explained](https://www.thehindu.com/business/Industry/irdais-revised-norms-for-those-looking-to-surrender-a-life-insurance-policy-explained/article68299457.ece)
+
+Article found but Couldn't summarize 
+The Insurance Regulatory and Development Authority of India (IRDAI) introduced provisions that could facilitate a better exit payout for customers looking to surrender their life insurance policies.
+
+Sun, 16 Jun 2024 04:05:00 +0530
+### [What is next for the Indian economy? | Explained](https://www.thehindu.com/business/Economy/what-is-next-for-the-indian-economy/article68294337.ece)
+
+Article found but Couldn't summarize 
+Will the reforms push be affected with a coalition government in place? Which are the sectors that will get priority? Will there be challenges in tackling issues such as inflation, fiscal consolidation, consumption, and taxation? What are the expectations from the Budget?
+
+Sun, 16 Jun 2024 03:45:00 +0530
+### [Should the recent stock market volatility be probed? | Explained](https://www.thehindu.com/business/markets/should-the-recent-stock-market-volatility-be-probed/article68294340.ece)
+
+Article found but Couldn't summarize 
+What happened in the stock market after the exit poll results? What are the allegations made by Opposition parties? What are the rules on insider trading? What is SEBI’s role? Is a joint parliamentary committee inquiry warranted?
+
+Sun, 16 Jun 2024 03:05:00 +0530
+### [Why is Manipur’s Jiribam district on edge? | Explained](https://www.thehindu.com/news/national/why-is-manipurs-jiribam-district-on-edge/article68294351.ece)
+
+Article found but Couldn't summarize 
+After remaining unaffected by the ethnic violence that began in May 2023, why is there a flare-up now at Jiribam?
+
+Sun, 16 Jun 2024 02:57:00 +0530
+### [Prem Singh Tamang: Rebel’s second turn](https://www.thehindu.com/news/national/prem-singh-tamang-rebels-second-turn/article68294158.ece)
+
+Article found but Couldn't summarize 
+By winning 31 seats in the 32-member Assembly, the Sikkim Chief Minister’s SKM has emerged as the new dominant political force of the State
+
+Sun, 16 Jun 2024 02:33:00 +0530
+### [Mohan Charan Majhi: A new beginning](https://www.thehindu.com/news/national/mohan-charan-majhi-a-new-beginning/article68294141.ece)
+
+Article found but Couldn't summarize 
+The BJP’s tribal face, who rose through party ranks to become Odisha’s Chief Minister, has great challenges to tackle and big shoes to fill
+
+Sun, 16 Jun 2024 02:03:00 +0530
+### [Rassemblement National: France’s rally towards the right](https://www.thehindu.com/news/international/rassemblement-national-frances-rally-towards-the-right/article68294113.ece)
+
+Article found but Couldn't summarize 
+The far-right party, whose neo-fascist predecessor was once on the margins of French politics, is aiming to win the coming parliamentary polls under the leadership of Marine Le Pen and Jordan Bardella, after trouncing President Macron’s centrists in the EU elections
+
+Sat, 15 Jun 2024 22:58:04 +0530
+### [Red Fort attack case: Presidential power to pardon death sentences and its challenges | Explained](https://www.thehindu.com/news/national/red-fort-attack-case-presidential-power-to-pardon-death-sentences-and-its-challenges/article68284129.ece)
+
+Article found but Couldn't summarize 
+President Droupadi Murmu has turned down the mercy plea of Lashkar-e-Taiba terrorist Mohammed Arif, who was sentenced to death for his role in conspiring to carry out the 2000 Red Fort attack. What are the President’s clemency powers and can it be subjected to judicial review?
+
+Fri, 14 Jun 2024 09:48:53 +0530
+### [Is Pakistan using a firewall to censor social media platforms? | Explained](https://www.thehindu.com/sci-tech/technology/is-pakistan-using-firewall-censor-social-media-platforms-explained/article68287882.ece)
+
+Article found but Couldn't summarize 
+Pakistani media outlets reported that the country is deploying a Chinese-style firewall to block access to social media platforms
+
+Fri, 14 Jun 2024 08:30:00 +0530
+### [China’s ‘grey-zone’ warfare tactics against Taiwan | Explained](https://www.thehindu.com/news/international/chinas-grey-zone-warfare-tactics-against-taiwan-explained/article68286636.ece)
+
+Article found but Couldn't summarize 
+What are the coercive measures China has imposed on Taiwan?
+
+Thu, 13 Jun 2024 22:48:07 +0530
+### [The allegations over NEET-UG 2024 | Explained](https://www.thehindu.com/education/neet-ug-results-2024-allegations-controversy/article68286624.ece)
+
+The Union government has decided to cancel the score cards of 1,563 NEET-UG 2024 candidates who received compensatory marks due to exam technicalities. Following Supreme Court orders amid allegations of unfairness, these candidates will have a chance to retake the exam on June 23, with results expected by June 30. This move comes amidst widespread protests and legal challenges over issues ranging from exam irregularities to the integrity of the NEET system itself, highlighting broader concerns about the examination's management and fairness.
+
+Thu, 13 Jun 2024 20:44:24 +0530
+### [Indians in Kuwait and Gulf countries: A look at numbers](https://www.thehindu.com/news/national/indians-in-kuwait-and-gulf-countries-a-look-at-numbers/article68284574.ece)
+
+The article reports a tragic incident in Kuwait where a fire in Al-Mangaf claimed the lives of around 49 migrant workers, predominantly Indians, with at least 50 others injured. The Kerala government announced compensation for victims and their families. It highlights the significant Indian expatriate community in Kuwait, comprising nearly a million people, and discusses historical ties and current bilateral agreements between India and Kuwait. The article also underscores the economic importance of the Gulf Cooperation Council (GCC) countries to India, emphasizing trade, remittances, and potential future collaborations in energy and economic sectors.
+
+Wed, 12 Jun 2024 23:23:56 +0530
+### [The far-right swing in European Parliament elections | Explained](https://www.thehindu.com/news/international/the-far-right-swing-in-european-parliament-elections-explained/article68281718.ece)
+
+Article found but Couldn't summarize 
+Where did the far-right gain the most ground? What can the gains be attributed to? Has the balance of power in the European Parliament shifted? How will the results affect EU policy?
+
+Tue, 11 Jun 2024 22:24:22 +0530
+### [Bihar’s call for special category status | Explained](https://www.thehindu.com/news/national/bihars-call-for-special-category-status/article68277523.ece)
+
+Article found but Couldn't summarize 
+How does special category status benefit States like Bihar? What specific criteria qualify a State for special category status? Why has Bihar’s demand been a long-standing issue? What are the political implications of granting special status to Bihar?
+
+Tue, 11 Jun 2024 20:38:01 +0530
+### [What are the Lok Sabha Speaker’s powers and why are BJP allies vying for the post? | Explained](https://www.thehindu.com/elections/lok-sabha/lok-sabha-speaker-powers-and-why-are-bjp-allies-vying-for-the-post/article68273178.ece)
+
+Article found but Couldn't summarize 
+The key allies of the ruling NDA, TDP and JD(U), have their eyes set on the coveted Lok Sabha Speaker’s chair. What is the significance of the post and what are the powers reposed in the authority to address political defections?
+
+Tue, 11 Jun 2024 08:30:00 +0530
+### [What is happening in the French territory of New Caledonia? | Explained](https://www.thehindu.com/news/international/what-is-happening-in-french-territory-of-new-caledonia/article68274931.ece)
+
+Article found but Couldn't summarize 
+What does the new amendment bill on voters’ list stipulate? Why are Kanaks against it?
+
+Mon, 10 Jun 2024 22:50:44 +0530
+### [On Special Category Status for Andhra Pradesh | Explained](https://www.thehindu.com/news/national/special-category-status-for-andhra-pradesh/article68274917.ece)
+
+Article found but Couldn't summarize 
+Why is the demand for special status for Andhra Pradesh back in the political limelight? Why did Chandrababu Naidu, back in 2018, settle for a special package? Is the State qualified to be granted special status? What did the 14th Finance Commission state?
+
+Sun, 09 Jun 2024 23:33:39 +0530
+### [Is it time for proportional representation? | Explained](https://www.thehindu.com/news/national/is-it-time-for-proportional-representation-explained/article68269434.ece)
+
+Article found but Couldn't summarize 
+Which are the countries which follow proportional representation in their electoral democracies? Will it work in a large and diverse country like India? What is mixed member proportional representation?
+
+Sun, 09 Jun 2024 05:05:00 +0530
+### [Why did exit polls go off the mark? | Explained](https://www.thehindu.com/elections/why-did-exit-polls-go-off-the-mark-explained/article68267410.ece)
+
+Article found but Couldn't summarize 
+What methodology should be followed for accuracy? How do we know that a survey has done its homework? What are the red flags? When are exit polls conducted? Do respondents open up on their choice? In a close election, is it more difficult to get seats and voter shares right?
+
+Sun, 09 Jun 2024 04:39:00 +0530
+### [What is the National Health Claim Exchange? | Explained](https://www.thehindu.com/sci-tech/health/what-is-the-national-health-claim-exchange-explained/article68267419.ece)
+
+Article found but Couldn't summarize 
+Will the platform help patients access healthcare easily? Will it bring about transparency in the healthcare claims ecosystem? What are the hurdles to the Insurance Regulatory and Development Authority of India’s objective of achieving ‘Insurance for All by 2047’?
+
+Sun, 09 Jun 2024 03:12:00 +0530
+### [Suresh Gopi: The Saffron star](https://www.thehindu.com/news/national/suresh-gopi-the-saffron-star/article68267492.ece)
+
+Article found but Couldn't summarize 
+The actor-turned politician made history in Kerala by getting elected as the first BJP Lok Sabha member from the State
+
+Sun, 09 Jun 2024 02:49:00 +0530
+### [Geniben Thakor: The giant killer](https://www.thehindu.com/news/national/geniben-thakor-the-giant-killer/article68267477.ece)
+
+Article found but Couldn't summarize 
+The Congress leader denied the BJP a hat-trick clean sweep of Gujarat by winning the Banaskantha constituency
+
+Sun, 09 Jun 2024 02:31:00 +0530
+### [Chandrashekhar Azad: The Dalit commander](https://www.thehindu.com/news/national/chandrashekhar-azad-the-dalit-commander/article68267463.ece)
+
+Article found but Couldn't summarize 
+The leader of the Azad Samaj Party, who won from U.P.’s Nagina, says his work will be for Dalits, tribals, Muslims, youth and women, and it will always be against injustice
+
+Sun, 09 Jun 2024 02:09:00 +0530
+### [N. Chandrababu Naidu: Return of the kingmaker](https://www.thehindu.com/news/national/n-chandrababu-naidu-return-of-the-kingmaker/article68267454.ece)
+
+Article found but Couldn't summarize 
+The ‘CEO of Andhra Pradesh’ is back in power in the State with a resounding mandate and has emerged as a key player at the Centre as his Telugu Desam Party is the second largest constituent in the BJP-led National Democratic Alliance
+
+Fri, 07 Jun 2024 17:17:42 +0530
+### [Can jailed leaders Amritpal Singh and Engineer Rashid function as MPs after Lok Sabha victories? | Explained](https://www.thehindu.com/news/national/can-jailed-leaders-amritpal-singh-and-engineer-rashid-function-as-mps-after-lok-sabha-victories-explained/article68258062.ece)
+
+Article found but Couldn't summarize 
+Will the duo be able to take oath and attend Parliament proceedings despite being undertrials? What happens if they are convicted?
+
+Thu, 06 Jun 2024 18:08:39 +0530
+### [Bihar, Andhra Pradesh’s demand for special category status | Explained](https://www.thehindu.com/news/national/lok-sabha-election-results-2024-bihar-andhra-pradesh-demand-for-special-category-status-explained/article68258730.ece)
+
+Article found but Couldn't summarize 
+Currently, 11 States in India have Special Category Status.
+
+Thu, 06 Jun 2024 16:42:50 +0530
+### [What is Chang’e 6 and what is its role in China’s moon missions? | Explained](https://www.thehindu.com/sci-tech/science/what-is-changee-6-and-what-is-its-role-in-chinas-moon-missions-explained/article68258652.ece)
+
+中国国家航天局（CNSA）_recently launched the Chang'e 6 mission, which aims to collect lunar samples from the moon's far side and return them to Earth. This mission is part of China's ambitious lunar exploration program, which began in 2003. The Chang'e 6 spacecraft landed on the moon's far side on June 1 and collected about 2 kg of lunar material. The samples will be transferred to a capsule in the returner, which is expected to return to Earth on June 25. This will be the first time a country has successfully executed a robotic lunar sample-return mission from the moon's far side. The samples are expected to provide insights into the moon's formation and evolution, as well as the differences between the near and far sides of the moon.
+
+Thu, 06 Jun 2024 14:21:53 +0530
+### [SEBI’s framework to shield stock prices against market rumours: Explained](https://www.thehindu.com/business/markets/sebi-framework-to-shield-stock-prices-against-market-rumours/article68254547.ece)
+
+The Securities and Exchange Board of India (SEBI) introduced a new framework on May 21 to address the impact of market rumours on stock prices. This framework centers on the concept of 'unaffected price,' which is the price of a stock before it is influenced by a rumour. The goal is to maintain a fair stock price, free from the effects of unverified information, which benefits both companies and investors for transactions like mergers and buybacks. The implementation will be phased, starting with the top 100 listed entities from June 1 and expanding to the top 250 by December 1.
+
+The 'unaffected price' is activated only if a rumour is confirmed within 24 hours of significant price movement, serving as a protective mechanism that relies on company transparency. This approach addresses the issue of inflated stock prices due to rumours, which disrupts fair price discovery. The new mechanism is designed to ensure a level playing field for various market transactions and to reduce speculative activity.
+
+The framework also affects the volume weighted average price (VWAP), which is used to determine a fair average price for stocks. It stipulates that any variation in the VWAP from the day of the rumour to the end of the next trading day after confirmation will be attributed to the rumour. This helps to establish an 'unaffected price' that reflects the stock's value before the rumour's influence.
+
+The 'unaffected price' will be applicable for either 60 or 180 days, depending on the transaction stage, providing a buffer period for companies to secure necessary approvals and finalize transactions without the pressure of fluctuating stock prices due to rumours. This mechanism aims to protect the integrity of the market and ensure fair pricing for all participants.
+
 Sun, 02 Jun 2024 23:08:52 +0530
 ### [Does inequality lead to growth? | Explained](https://www.thehindu.com/news/national/does-inequality-lead-to-growth-explained/article68244378.ece)
 

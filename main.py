@@ -12,8 +12,13 @@ import xmltodict
 import lxml
 import random
 from g4f.client import Client
+<<<<<<< HEAD
 from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
 from openai import OpenAI
+=======
+from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
+
+>>>>>>> 120cc9c5d8663fb8948146769a6dbd92a4eb50d0
 
 start_time_of_the_program = time.time()
 max_run_time_assigned =  5 * 60 * 60 + 50 * 60

@@ -1,3 +1,4217 @@
+Sat, 29 Jun 2024 17:51:42 +0530
+### [Why the Panama Papers scandal is back in the spotlight](https://www.firstpost.com/explainers/panama-papers-scandal-is-back-in-focus-due-to-a-legal-case-all-you-need-to-know-13787511.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 17:10:26 +0530
+### [Hina Khan diagnosed with breast cancer: Why are cases rising in India?](https://www.firstpost.com/explainers/hina-khan-breast-cancer-cases-in-india-13787468.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 14:47:56 +0530
+### ['Papa used to work overtime': Tragic tale of cab driver who died in Delhi airport roof collapse](https://www.firstpost.com/explainers/cab-driver-who-died-in-delhi-airport-roof-cllapse-13787424.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 12:52:52 +0530
+### [Debate debacle: What happens if Joe Biden drops out of the 2024 US presidential race?](https://www.firstpost.com/explainers/debate-debacle-what-happens-if-joe-biden-drops-out-of-the-2024-us-presidential-race-13787434.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 12:05:13 +0530
+### [Delhi rains: Why the Capital suffers from waterlogging each year](https://www.firstpost.com/explainers/delhi-rains-waterlogging-each-year-13787383.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 10:04:15 +0530
+### [This Week in Explainers: Om Birla’s meteoric rise from MP to twice-elected Speaker](https://www.firstpost.com/explainers/this-week-in-explainers-om-birlas-meteoric-rise-from-mp-to-twice-elected-speaker-13787188.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 21:01:29 +0530
+### [Quicksplained: How instant ramen is damaging South Korea's highest mountain](https://www.firstpost.com/explainers/quicksplained-south-korea-mount-halla-instant-ramen-13787210.html)
+
+The National Park Office of Mount Halla in South Korea has launched a campaign to persuade hikers not to discard ramen broth on the mountain or in its streams in order to maintain a clean environment. The discarded soup poses a significant threat to the ecosystem, and signs encouraging hikers to use only half of the instant soup and water have been placed around the mountainside. The office has also installed food dispensers and storage containers for leftover ramen broth, but visitors are still improperly disposing of it. Jeju police have launched a crackdown in response to complaints from locals about tourist behavior on the island, and penalties for breaking the rules can be up to 2,000,000 won. Mount Halla is part of the UNESCO-listed Jeju Volcanic Island and Lava Tubes heritage site, and last year, 923,680 people visited the mountain.
+
+Fri, 28 Jun 2024 20:00:37 +0530
+### [Fly me to the moon: How do women handle their period in space?](https://www.firstpost.com/explainers/women-handle-period-in-space-menstruation-astronauts-13787220.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 19:29:19 +0530
+### [What's the 'beni koji' death scandal in Japan?](https://www.firstpost.com/explainers/whats-the-beni-koji-death-scandal-in-japan-13787139.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 18:48:31 +0530
+### [In Graphics | All you wanted to know about Pride Month and were shy to ask](https://www.firstpost.com/explainers/in-graphics-all-you-wanted-to-know-about-pride-month-and-were-shy-to-ask-13787222.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 18:11:20 +0530
+### [EU’s new power trio: Von der Leyen, Costa, and Kallas take the helm. What are their roles?](https://www.firstpost.com/explainers/european-union-eu-new-power-trio-ursula-von-der-leyen-antonio-costa-kaja-kallas-who-are-they-what-are-their-roles-13787156.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 17:12:24 +0530
+### [What is ‘raw-dogging’ on flights, the latest travel trend?](https://www.firstpost.com/explainers/rawdogging-tiktok-travel-trend-13787165.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 16:18:46 +0530
+### [Medical student undergoes dialysis after being ragged in Rajasthan: What does the law say?](https://www.firstpost.com/explainers/rajasthan-medical-student-ragging-dialysis-ugc-india-law-13787130.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 15:38:18 +0530
+### [Mongolia elections: All you need to know about this landlocked Asian nation](https://www.firstpost.com/explainers/mongolia-elections-landlocked-asian-nation-13787136.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 15:16:38 +0530
+### [Delhi airport roof collapse: Is it a case of shoddy infrastructure or heavy rains?](https://www.firstpost.com/explainers/delhi-airport-roof-collapse-shoddy-infrastructure-heavy-rains-13787069.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 14:41:25 +0530
+### [How Indian bonds inclusion in JP Morgan index will affect rupee value, economy, businesses, and investors](https://www.firstpost.com/explainers/india-bonds-inclusion-jp-morgan-index-impact-rupee-economy-businesses-investors-13787124.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 14:37:13 +0530
+### [Why thousands of doctors have gone on strike in England a week before UK general election?](https://www.firstpost.com/explainers/why-thousands-of-doctors-have-gone-on-strike-in-england-a-week-before-uk-general-election-13787107.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 12:05:34 +0530
+### [Airport roof collapses, roads water-logged: How Delhi has been turned into a mess after heavy downpour](https://www.firstpost.com/explainers/delhi-airport-roof-collapse-water-logging-heavy-downpour-13786977.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 11:42:02 +0530
+### [Against all odds: How Indian Army built 70-feet bridge in 72 hours in flood-hit Sikkim](https://www.firstpost.com/explainers/against-all-odds-how-indian-army-built-70-feet-bridge-in-72-hours-in-flood-hit-sikkim-13786988.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 10:08:33 +0530
+### [Stumbling Biden, forceful Trump, false claims… Big takeaways from first US presidential debate](https://www.firstpost.com/explainers/joe-biden-donald-trump-first-us-presidential-debate-big-takeaways-13786995.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 08:24:18 +0530
+### [Iran's presidential elections: From candidates to key issues, here's what you need to know](https://www.firstpost.com/explainers/irans-presidential-elections-from-candidates-to-key-issues-heres-what-you-need-to-know-13786796.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 06:00:11 +0530
+### [FirstUp: Presidential elections in Iran, Mongolian parliamentary polls... Big news today](https://www.firstpost.com/explainers/firstup-iran-presidential-elections-mongolian-parliamentary-polls-big-news-today-13786793.html)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Thu, 27 Jun 2024 20:52:42 +0530
+### [Gaffes, wit and zingers: Recalling historic moments from US presidential debates](https://www.firstpost.com/explainers/gaffes-wit-and-zingers-historic-moments-us-presidential-debates-13786694.html)
+
+The article highlights memorable moments from past US presidential debates, emphasizing their impact on elections. It starts with Ronald Reagan's wit in turning around a tough question in 1984, showcasing how debate performances can sway public opinion. Other instances include Reagan's "There you go again" rebuttal to Jimmy Carter in 1980 and George H.W. Bush's disengaged gesture in 1992. It also mentions Barack Obama's dismissive comment to Hillary Clinton in 2008 and Donald Trump's confrontational style against Joe Biden in 2020. The upcoming Biden-Trump debate is anticipated to echo these historic dynamics.
+
+Thu, 27 Jun 2024 20:23:37 +0530
+### [NEET-UG paper leak case: What’s the role of 2 accused arrested by CBI in Bihar?](https://www.firstpost.com/explainers/neet-ug-paper-leak-case-cbi-bihar-arrests-accused-13786861.html)
+
+Article found but Couldn't summarize 
+The CBI has made its first arrests in the alleged NEET-UG paper leak case, apprehending two men from Bihar. Aspirants who paid large sums were allegedly given the question paper and answer sheets a day before the medical entrance exam on May 5
+
+Thu, 27 Jun 2024 20:01:58 +0530
+### [UK general election: From immigration to cost of living, the key issues for voters](https://www.firstpost.com/explainers/uk-general-election-from-immigration-to-cost-of-living-the-key-issues-for-voters-13786847.html)
+
+The upcoming UK general election on July 4 features over 4,000 candidates, with recent polls indicating a potential shift towards Labour, potentially ending over a decade of Conservative leadership. Key issues include economic stagnation, a housing crisis, rising living costs, immigration policies, and foreign policy concerns. Prime Minister Rishi Sunak's Conservatives emphasize economic stability and tax cuts, contrasting Labour's focus on NHS reform, housing, and renewable energy investments. Immigration policies, the NHS crisis, and climate action are pivotal issues dividing the parties, influencing voter sentiment ahead of the election.
+
+Thu, 27 Jun 2024 18:43:09 +0530
+### [What is Denmark's pioneering carbon tax on gassy cows and pigs?](https://www.firstpost.com/explainers/what-is-denmark-pioneering-carbon-tax-that-will-levy-fines-on-gassy-cows-and-pigs-13786789.html)
+
+Denmark plans to implement a pioneering carbon tax on livestock emissions starting in 2030, aiming to cut methane from cows, sheep, and pigs. The tax will start at 300 kroner ($43) per ton of CO2 equivalent, rising to 750 kroner ($108) by 2035, with substantial deductions initially. This move forms part of Denmark's broader strategy to slash greenhouse gas emissions by 70% from 1990 levels by 2030, with investments in reforestation and wetlands. The initiative has garnered mixed reactions but is seen as pivotal in the global fight against climate change.
+
+Thu, 27 Jun 2024 18:10:52 +0530
+### [Power cuts, heatstrokes and deaths: How Pakistan is reeling from a heatwave](https://www.firstpost.com/explainers/power-cuts-heatstrokes-and-deaths-how-pakistan-is-reeling-through-a-heatwave-13786755.html)
+
+Pakistan is currently grappling with a severe heatwave, particularly affecting Karachi, where temperatures have exceeded 40 degrees Celsius for several consecutive days. Reports indicate that around 450 people have died in Karachi alone over the past four days due to heat-related illnesses, with thousands more hospitalized. Hospitals are overwhelmed, struggling to cope with the influx of patients exhibiting symptoms like vomiting and high fever. The Edhi Foundation, responsible for ambulance services, has reported a sharp increase in the number of bodies collected, highlighting the strain on local mortuaries. The extreme heat has also exacerbated power cuts across the country, further impacting residents' ability to stay cool amid soaring demand for electricity.
+
+Thu, 27 Jun 2024 17:29:02 +0530
+### [Why Emergency is being raised now in Parliament](https://www.firstpost.com/explainers/emergency-parliament-indira-gandhi-bjp-congress-constitution-13786791.html)
+
+Article found but Couldn't summarize 
+President Droupadi Murmu termed the Emergency as ‘the biggest and darkest chapter of direct attack on the Constitution’ in her address to a joint sitting of the Lok Sabha and Rajya Sabha on Thursday. June 25 marked the 49th anniversary of the Emergency imposed by then-PM Indira Gandhi. But why is it being talked about now in Parliament?
+
+Thu, 27 Jun 2024 16:46:38 +0530
+### [Swiftnomics at play? Can Taylor Swift's tour change Europe's fortunes?](https://www.firstpost.com/explainers/swiftnomics-at-play-can-taylor-swifts-tour-change-europes-fortunes-13786753.html)
+
+Taylor Swift's Eras Tour across Europe has generated significant buzz, with economic experts speculating it could provide a much-needed boost to struggling economies. However, the actual economic impact appears to be limited. While Swift's concerts have led to substantial revenues in cities like Stockholm, benefiting sectors such as tourism and hospitality, economists argue that these gains are short-term and do not significantly impact overall economic growth. They liken the phenomenon to other large events like the Olympics, noting that much of the spending is a substitution from other consumer expenditures rather than new economic activity. Despite media hype about potential windfalls, the long-term economic benefits remain elusive, with much of the revenue ultimately flowing back to the United States rather than staying within local economies.
+
+Thu, 27 Jun 2024 15:47:36 +0530
+### [Can a deadly new mpox strain in Africa ignite another global outbreak?](https://www.firstpost.com/health/can-the-deadly-new-mpox-monkeypox-strain-in-africa-congo-ignite-another-global-outbreak-13786729.html)
+
+The World Health Organisation has issued a warning about a new, highly dangerous strain of mpox in the Democratic Republic of Congo (DRC), which poses a significant threat, particularly to children. This mutated strain, clade 1b, is more lethal than previous versions, with higher mortality rates observed among adults and children. The outbreak has already resulted in nearly 8,000 cases and over 380 deaths in the DRC. Experts are concerned about its potential for global spread, emphasizing the urgent need for research into vaccine efficacy and international preparedness to contain further transmission.
+
+Thu, 27 Jun 2024 14:43:33 +0530
+### [How sengol in Parliament has become latest flashpoint between Centre and opposition](https://www.firstpost.com/explainers/sengol-in-parliament-controversy-13786659.html)
+
+Article found but Couldn't summarize 
+Samajwadi Party MP RK Chaudhary wrote a letter to Speaker Om Birla saying that the sengol, which is placed next to the Speaker’s chair in Lok Sabha, should be replaced with a copy of the Constitution. The BJP has hit back, saying the sceptre's removal will be ‘an insult to Tamil Nadu’ and its culture
+
+Thu, 27 Jun 2024 14:20:55 +0530
+### [Mahayuti rift: Will the BJP-led alliance collapse before the Maharashtra Assembly polls?](https://www.firstpost.com/explainers/mahayuti-rift-bjp-ncp-shinde-sena-alliance-maharashtra-assembly-polls-13786697.html)
+
+Tensions are escalating within Maharashtra's ruling Mahayuti alliance, composed of the BJP, Shiv Sena led by Eknath Shinde, and Ajit Pawar's NCP. Following their poor performance in the Lok Sabha elections, public disagreements have surfaced, exacerbated by issues such as a recent controversial video in Pune. Speculations abound regarding potential separate contests in the upcoming Assembly polls as alliance members negotiate over seat allocations. Despite internal rifts, the BJP has indicated a commitment to maintaining the alliance for the 2024 elections.
+
+Thu, 27 Jun 2024 13:56:19 +0530
+### [Trump vs Biden: What are the new rules for the first US presidential debate?](https://www.firstpost.com/explainers/donald-trump-vs-joe-biden-first-us-presidential-debate-four-years-re-match-what-are-the-new-rules-us-elections-13786656.html)
+
+US President Joe Biden and former President Donald Trump are set to debate for the first time in four years under new rules aimed at fostering a more orderly discussion. Hosted by CNN in Atlanta, Georgia, the debate will feature muted microphones to prevent interruptions, no live audience, and strict time limits for responses. The format includes questions from moderators Jake Tapper and Dana Bash, with each candidate receiving two minutes to respond and potential penalties for exceeding time limits. This debate, crucial ahead of the 2024 election, may focus on issues like the economy and immigration, while addressing personal and legal challenges faced by both candidates.
+
+Thu, 27 Jun 2024 12:47:39 +0530
+### [Why popular ice cream brands are recalling products in the US](https://www.firstpost.com/health/why-popular-ice-cream-brands-are-recalling-products-in-the-us-13786605.html)
+
+The article discusses a nationwide recall of ice cream products by major brands due to fears of listeria contamination. Listeria, a bacterium with a high mortality rate, has affected several commonly consumed dairy products, prompting recalls from brands like Friendly’s, Jeni’s, Hershey’s, and others. The bacterium, known for its resilience and ability to survive in refrigerated conditions, poses serious health risks, especially to elderly individuals, pregnant women, and those with weakened immune systems. The FDA has advised consumers to return affected products, highlighting precautions to prevent listeriosis, a potentially severe illness associated with the bacteria.
+
+Thu, 27 Jun 2024 12:35:21 +0530
+### [Emmanuel Macron says France at risk of civil war. Is it true?](https://www.firstpost.com/explainers/emmanuel-macron-france-civil-war-far-rigt-far-left-is-it-true-13786651.html)
+
+President Emmanuel Macron recently warned that a victory for either Marine Le Pen’s far-right National Rally or Jean-Luc Mélenchon’s far-left France Unbowed in France’s upcoming snap elections could lead to civil war. Macron criticized the divisive policies of both parties, citing National Rally’s anti-immigration stance and France Unbowed’s emphasis on economic redistribution and minority rights as potential triggers for social conflict. However, some view Macron’s remarks skeptically, attributing them to his electoral strategy to bolster his centrist coalition by framing himself as a stabilizing force amidst perceived extremes.
+
+Thu, 27 Jun 2024 11:51:54 +0530
+### [Sam Pitroda returns: How ‘controversy’s child’ made a return to the Congress within month of quitting](https://www.firstpost.com/explainers/sam-pitroda-returns-congress-13786584.html)
+
+Sam Pitroda has been reinstated as the Chairperson of the Indian Overseas Congress following his resignation a month ago due to controversial remarks that sparked backlash ahead of the Lok Sabha elections. His reappointment, announced by Congress officials, came with assurances to avoid future controversies. Pitroda, a close aide to the Nehru-Gandhi family, had previously stirred controversy with comments on diversity in India and proposals for inheritance tax, drawing criticism from Prime Minister Narendra Modi and the BJP. His return has reignited political debate amidst ongoing tensions between the Congress and ruling BJP.
+
+Thu, 27 Jun 2024 09:48:22 +0530
+### [Who is Juan Jose Zuniga, the Bolivian general arrested after military coup attempt?](https://www.firstpost.com/explainers/bolivia-juan-jose-zuniga-general-arrested-military-coup-attempt-13786597.html)
+
+General Juan Jose Zuniga was arrested for leading a failed coup against Bolivian President Luis Arce. Zuniga, formerly commander of the Bolivian Army, attempted to seize control of government buildings in La Paz but withdrew after a confrontation with President Arce. He claimed his actions aimed to "re-establish democracy," but now faces criminal charges. President Arce, who denounced the coup attempt, has initiated legal proceedings against Zuniga and others involved. This incident marks a turbulent episode in Bolivia's history, a country familiar with political upheavals since gaining independence in 1825.
+
+Thu, 27 Jun 2024 08:34:18 +0530
+### [Joe Biden vs Donald Trump: What to expect from the first presidential debate](https://www.firstpost.com/explainers/joe-biden-vs-donald-trump-first-presidential-debate-13786491.html)
+
+The first presidential debate in the US is set to occur on June 27th, with candidates Joe Biden and Donald Trump discussing topics such as abortion rights, inflation, employment, immigration, and legal issues. This debate is happening earlier than usual and without a live audience. Key topics include legal troubles for both candidates, their ages and fitness for office, abortion rights, foreign policy, inflation and employment concerns, and immigration. The debate will be moderated by Dana Bash and Jake Tapper from CNN.
+
+Thu, 27 Jun 2024 06:00:19 +0530
+### [FirstUp: Biden vs Trump at first US presidential debate, Rajya Sabha to commence... The big news](https://www.firstpost.com/explainers/firstup-biden-vs-trump-at-first-us-presidential-debate-rajya-sabha-to-commence-the-big-news-13786435.html)
+
+Joe Biden and Donald Trump are set to engage in the first presidential debate as the 2024 US Elections approach. Meanwhile, India's Rajya Sabha will commence its 264th session, with new leadership and significant legislative discussions expected. Additionally, President Droupadi Murmu will address a joint session of Parliament, outlining the government's agenda for the upcoming term. These events coincide with other notable activities including a family planning initiative in Uttar Pradesh and India's cricket team facing England in the T20 World Cup semi-finals.
+
+Wed, 26 Jun 2024 20:26:47 +0530
+### [Outgoing Dutch PM Mark Rutte is new NATO chief: From Putin to Trump, a look at challenges waiting for him](https://www.firstpost.com/explainers/outgoing-dutch-pm-mark-rutte-is-new-nato-chief-from-putin-to-trump-a-look-at-challenges-waiting-for-him-13786407.html)
+
+Mark Rutte, the departing PM of the Netherlands and recently appointed as the next NATO chief, will face immediate challenges when he assumes office in October. These challenges include the potential return of Donald Trump to the White House, maintaining support for Ukraine, dealing with the threat from Russia, ensuring NATO countries meet their defense spending targets, and addressing the increasing focus on China as a potential rival. Rutte will need to use his diplomatic skills and experience to navigate these complex issues.
+
+Wed, 26 Jun 2024 19:21:39 +0530
+### [The secrets of the Manta Ray: All about confidential US submarine drone spotted, then vanished on Google Maps](https://www.firstpost.com/explainers/manta-ray-confidential-us-submarine-drone-google-maps-13786369.html)
+
+The "Manta Ray," a highly classified autonomous underwater submarine developed by the US Navy for extended operations, was discovered on Google Maps at the Port Hueneme naval base in California. The unmanned vessel, developed by Northrop Grumman, can hibernate on the sea floor for extended periods and is designed for long-range underwater weapons operations. Its modular design allows it to be transported in shipping containers, enabling rapid deployment worldwide. The Manta Ray is part of a broader US Navy strategy to counter adversaries' submarine operations, such as Russia and China, and is expected to reduce logistical demands, improve surveillance, and increase firepower for sailors and Marines.
+
+Wed, 26 Jun 2024 18:43:38 +0530
+### [Why has the CBI arrested Arvind Kejriwal now? Is this different from the ED’s case?](https://www.firstpost.com/explainers/cbi-arrest-aap-arvind-kejriwal-ed-investigation-delhi-liquor-policy-case-13786458.html)
+
+Chief Minister Arvind Kejriwal was unexpectedly arrested by the CBI at Delhi's Rouse Avenue Court over alleged irregularities in the Delhi Excise Policy of 2021. This arrest follows earlier actions by the Enforcement Directorate related to money laundering linked to the same policy. Kejriwal's wife criticized the arrests as undemocratic. The CBI's case focuses on policy formulation irregularities, while the ED's investigation centers on financial improprieties and alleged kickbacks. The timing and circumstances of Kejriwal's arrest have sparked controversy and political backlash.
+
+Wed, 26 Jun 2024 17:27:39 +0530
+### [India’s rainfall deficit rises amid monsoon’s slow advance: Why this is a cause of concern](https://www.firstpost.com/explainers/india-rainfall-deficit-rises-monsoon-slow-advance-cause-of-concern-13786392.html)
+
+The slow progress of the southwest monsoon in India has led to a 19 per cent shortage of rain until June 25. The precipitation deficit has raised alarm bells about the country reeling from high food prices if the situation does not improve. The Indian Meteorological Department (IMD) has reported that 11 states continue to report rainfall deficit of more than 50 per cent, with concerns about food inflation and agricultural output. The IMD is hopeful that the monsoon will advance in July, bringing relief to farmers.
+
+Wed, 26 Jun 2024 16:10:29 +0530
+### [Why is the Congress demanding the Deputy Speaker’s post in Lok Sabha? What does history reveal?](https://www.firstpost.com/explainers/congress-deputy-speaker-lok-sabha-history-13786372.html)
+
+Article found but Couldn't summarize 
+After the election of the Speaker of Lok Sabha, all eyes are now on the polls for the Deputy Speaker’s post. The Congress is demanding that an opposition MP be given the position based on convention — from 1990 to 2014, this tradition has been followed continuously
+
+Wed, 26 Jun 2024 16:00:29 +0530
+### [Why Finland will get world’s first bird flu vaccination for humans even though it has no cases](https://www.firstpost.com/health/why-finland-will-get-worlds-first-vaccination-for-bird-flu-for-humans-even-though-it-has-no-cases-13786249.html)
+
+Finland is set to begin bird flu vaccinations for 10,000 individuals who are at a higher risk of contracting avian influenza due to their occupations or circumstances. This move is a part of a larger EU effort that includes up to 40 million doses across 15 countries. Finland had culled approximately 485,000 animals last year to control the virus outbreak on mink and fox fur farms. Bird flu, or avian influenza, is a virus primarily affecting birds but can also infect non-avian species, including humans. There have been cases of humans catching H5N1, a significant bird flu strain, in several countries. A notable case this year involved a 59-year-old man in Mexico who died from H5N2, a bird flu strain never before recorded in humans. Finnish authorities have identified high-risk groups for vaccination, including fur and poultry farm workers, lab technicians handling bird flu samples, veterinarians, and people working in sanctuaries or processing plants for animal by-products. Vaccinations are expected to start next week.
+
+Wed, 26 Jun 2024 15:18:43 +0530
+### [GenZ has arrived: How TikTok spurred Kenya’s tax protests](https://www.firstpost.com/explainers/genz-has-arrived-how-tiktok-spurred-kenyas-tax-protests-13786219.html)
+
+In Kenya, protests against proposed tax hikes have erupted following the government's Finance Bill, aiming to raise $2.7 billion through increased levies on essentials like fuel and food. These protests were catalyzed by TikTok videos from Gen Z creators, who used the platform to mobilize support and organize demonstrations. Social media campaigns, including hashtags like “#OccupyParliament,” facilitated widespread participation, highlighting economic hardships and prompting global solidarity. The movement underscores the transformative role of digital platforms in modern activism, amplifying youth voices and shaping political discourse beyond Kenya's borders.
+
+Wed, 26 Jun 2024 13:45:16 +0530
+### [Om Birla returns as Lok Sabha Speaker: The rise and rise of BJP’s Kota MP](https://www.firstpost.com/explainers/om-birla-lok-sabha-speaker-rise-of-bjp-kota-mp-13786269.html)
+
+Om Birla, a BJP MP from Rajasthan, has been re-elected as the Speaker of the 18th Lok Sabha after defeating Congress' K Suresh in a voice vote. This marks his second consecutive term as Speaker, making him the first to achieve this in two decades. Birla, born in 1962 and with a background in RSS, has steadily risen through the political ranks, serving as an MLA and later becoming known for his social initiatives. His re-election underscores BJP's message of continuity amid a coalition government.
+
+Wed, 26 Jun 2024 13:36:40 +0530
+### [Zero Chill: Why no air conditioning at Paris Olympics has become a hot topic](https://www.firstpost.com/explainers/no-air-conditioning-paris-olympics-hot-topic-us-australia-13786268.html)
+
+Article found but Couldn't summarize 
+To make the Paris Olympics 2024 more eco-friendly, organisers have steered clear of air conditioning in the apartments at the Village. Now some countries, including the US and Australia, have decided to carry their own AC units to the tournament amid concern that a heatwave will strike the City of Love in July
+
+Wed, 26 Jun 2024 13:28:35 +0530
+### [On the brink: Is Israel preparing for a major clash with Hezbollah in Lebanon?](https://www.firstpost.com/explainers/on-the-brink-is-israel-preparing-for-a-major-clash-with-hezbollah-in-lebanon-13786245.html)
+
+Article found but Couldn't summarize 
+The US has cautioned that a full-scale war between Israel and Hezbollah in Lebanon would be highly destructive and had the potential to ignite a broader regional conflict. With casualties being registered on both sides of the border, international bodies are pushing for a diplomatic solution between the two parties, fearing a Gaza-like situation will arise
+
+Wed, 26 Jun 2024 12:22:07 +0530
+### [From data to diapers: What pushed angry Kenyans to burn part of parliament](https://www.firstpost.com/explainers/data-to-diapers-what-pushed-angry-kenyans-to-burn-part-of-parliament-13786210.html)
+
+President William Ruto, once popular among Kenya's 'hustlers' for promising economic relief, is now facing widespread protests and calls for resignation over a new finance bill. The bill, passed despite public outcry, aims to increase taxes on items like internet data, fuel, and diapers to raise $2.7 billion in revenue. The unrest, marked by violent protests in Nairobi and other cities, reflects growing dissatisfaction with Ruto's policies, seen by many as exacerbating economic hardships. Critics accuse Ruto of authoritarian tendencies, comparing him to past leaders, while his lavish spending habits have further alienated supporters.
+
+Wed, 26 Jun 2024 10:57:04 +0530
+### [Owaisi's 'Jai Palestine' slogan during oath sparks storm: Can the Hyderabad MP be disqualified from Lok Sabha?](https://www.firstpost.com/explainers/asaduddin-owaisi-jai-palestine-slogan-during-oath-sparks-parliamentary-storm-can-aimim-hyderabad-mp-be-disqualified-lok-sabha-13786168.html)
+
+Article found but Couldn't summarize 
+The 'Jai Palestine' slogan by AIMIM leader Asaduddin Owaisi as he concluded his oath as an MP in the Lok Sabha on Tuesday has sparked strong criticism, especially from the BJP. With several of its leaders suggesting that the Hyderabad MP could face disqualification from Parliament, we take a look at what the rule book says
+
+Wed, 26 Jun 2024 10:23:14 +0530
+### [What will Rahul Gandhi’s role be as Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/congress-rahul-gandhi-leader-of-opposition-lok-sabha-role-india-bloc-13786166.html)
+
+Rahul Gandhi has been appointed as the Leader of the Opposition (LoP) in the Lok Sabha by the INDIA bloc, marking the first time in a decade that the position will be filled. As LoP, Gandhi, a Congress MP, will lead the opposition in parliamentary proceedings and enjoy privileges equivalent to a Cabinet minister. His role includes sitting on key committees and participating in appointments of significant officials alongside Prime Minister Narendra Modi. The appointment underscores Congress's stance against the ruling BJP-led government, emphasizing Gandhi's proactive role in parliamentary affairs.
+
+Wed, 26 Jun 2024 09:00:55 +0530
+### [Om Birla elected as Lok Sabha Speaker for second time. Why the position holds importance](https://www.firstpost.com/explainers/om-birla-vs-k-suresh-lok-sabha-speaker-election-significance-powers-13786075.html)
+
+Article found but Couldn't summarize 
+In a rare contest, NDA’s Om Birla has been selected as Lok Sabha Speaker. This will be his second stint. Here’s what his role encompasses
+
+Wed, 26 Jun 2024 06:00:11 +0530
+### [FirstUp: Lok Sabha Speaker election, SC to hear CM Kejriwal's bail plea... The headlines today](https://www.firstpost.com/explainers/firstup-lok-sabha-speaker-election-sc-to-hear-cm-kejriwals-bail-plea-the-headlines-today-13786061.html)
+
+Today is a busy day with several important events, including the election for the position of Lok Sabha Speaker between Om Birla and K Suresh. The Supreme Court will hear Delhi CM Arvind Kejriwal’s plea against the interim stay on his bail in a money laundering case. The Telecommunication Act 2023 will come into effect, allowing the government to take control of telecommunications services in emergencies. Biennial elections for legislative council seats in Maharashtra and the Urban Local Bodies elections in Nagaland will also take place. A Sri Lankan parliamentary delegation will visit Russia to discuss the repatriation of mercenaries hired from the island nation to serve in the Russia-Ukraine war. In sports, South Africa will face Afghanistan in the first semi-final of the T20 World Cup 2024. Additionally, it is International Day in Support of Victims of Torture, the birth anniversary of Indian activist Aruna Roy, and the birth anniversary of actor Arjun Kapoor.
+
+Tue, 25 Jun 2024 21:22:41 +0530
+### [Coffee vs Couch: How your daily brew could save your life from sedentary dangers](https://www.firstpost.com/health/coffee-sitting-sedentary-dangers-lifestyle-13786072.html)
+
+Sitting for more than six hours a day is linked to a higher risk of mortality, but a study has found that regular coffee consumption can reduce this risk by 24 per cent. Sedentary coffee drinkers were found to have a 33 per cent reduced risk of all-cause mortality and a 54 per cent reduced risk of cardiovascular disease mortality compared to non-coffee drinkers. Previous studies have also linked coffee consumption to various health benefits, including reducing the risk of developing type 2 diabetes and cardiovascular diseases. However, the researchers caution that coffee should not be seen as a substitute for physical activity and a healthy lifestyle.
+
+Tue, 25 Jun 2024 20:02:07 +0530
+### [Why Israel top court’s order on conscription for ultra-Orthodox Jews is a blow to Netanyahu](https://www.firstpost.com/explainers/why-israel-top-courts-order-on-conscription-for-ultra-orthodox-jews-is-a-blow-to-netanyahu-13786018.html)
+
+Article found but Couldn't summarize 
+Israel's Supreme Court on Tuesday issued a unanimous ruling stating that ultra-Orthodox Jewish men must serve in the army and that government funding for yeshivas should be contingent on student enlistment. This decision is being seen as a blow to PM Benjamin Netanyahu and is expected to massively influence his ruling coalition
+
+Tue, 25 Jun 2024 18:25:18 +0530
+### [Greece is introducing a six-day work week: Where do other European countries stand?](https://www.firstpost.com/explainers/greece-is-introducing-a-six-day-work-week-where-do-other-european-countries-stand-13786039.html)
+
+Greece is implementing a six-day work week starting July 1, despite most of Europe moving towards shorter work weeks. This decision follows 15 years of economic struggles and austerity measures, which left many Greek workers with individual employment contracts and no collective agreements. While the EU has established a maximum 48-hour work week, Greek workers already average 41 hours per week, more than the EU average of 37.5 hours. Other European countries like Germany, Netherlands, France, UK, Spain, Italy, Belgium, Denmark, Sweden, and Norway have varying work hour regulations, with some exploring shorter work weeks. Greece's move contrasts with this trend and emphasizes the diverse approaches to work hours in Europe.
+
+(Note: I am a helpful AI and do not have access to real-time dates or the ability to visit websites. The copyright date in the text was 2024, which I found unusual, so I assume there might be a mistake in the original article.)
+
+Tue, 25 Jun 2024 18:14:42 +0530
+### [What is a digital lock that is supposed to keep NEET question papers safe?](https://www.firstpost.com/explainers/neet-question-paper-leak-what-is-digital-lock-tampering-nta-13785997.html)
+
+Article found but Couldn't summarize 
+A digital lock system was introduced by the National Testing Agency (NTA) in 2019 to protect NEET papers from leaks. However, these locks failed to open at some examination centres this year
+
+Tue, 25 Jun 2024 17:21:39 +0530
+### [Kenya on edge over new finance bill: What's it all about?](https://www.firstpost.com/explainers/kenya-on-edge-over-new-finance-bill-whats-it-all-about-13785999.html)
+
+Kenyan citizens are protesting a new finance bill presented to Parliament, fearing it will overburden them. Despite one fatality and 200 injuries, protestors continue to demand its withdrawal. The proposed bill includes taxes on basic goods, motor vehicles, and manufactured items. The government claims the measures are necessary to reduce budget deficits and public debt. Protests have disrupted Nairobi, with businesses closed and transportation disrupted. The government has warned protestors against violence and offered concessions by scrapping certain levies. However, protestors and opposition parties remain unconvinced. Parliament will vote on the bill on Tuesday, and its future and the continuation of protests remain uncertain. President Ruto has acknowledged the protests and promised dialogue, but no timeline has been established.
+
+Tue, 25 Jun 2024 16:21:53 +0530
+### [Who is K Suresh, the opposition's candidate for the Lok Sabha Speaker post?](https://www.firstpost.com/explainers/who-is-k-suresh-the-oppositions-candidate-for-the-lok-sabha-speaker-post-13785931.html)
+
+Kondikunnil Suresh, a veteran politician with 29 years of experience, is contesting for the post of Lok Sabha Speaker. The eight-time MP previously served as Minister of State for Labour and Employment and president of the Congress's Kerala unit.
+
+Despite controversies surrounding his caste status and legal run-ins, Suresh holds significant influence within the Congress Working Committee and is widely respected for his parliamentary experience. He will face off against NDA's Om Birla in the Lok Sabha Speaker election on June 26.
+
+Tue, 25 Jun 2024 15:51:28 +0530
+### [What is Azm-e-Istehkam, Pakistan military op to curb terror?](https://www.firstpost.com/explainers/what-is-azm-e-istehkam-pakistan-military-operation-to-curb-terror-how-is-afghanistan-and-china-involved-13785948.html)
+
+Pakistan has started a new military operation, "Azm-e-Istehkam" (Resolution for Stability), to combat terrorism and ensure security, particularly in response to the increase in violence by the Pakistan Taliban (TTP). The operation includes military, legislative, and diplomatic efforts, as well as socioeconomic measures to address extremism. This initiative comes amidst tension between Pakistan and Afghanistan, with Pakistan accusing Afghanistan of harboring TTP members. China, a key ally and investor in Pakistan, has also expressed concerns about the security of its nationals and projects in the region. The operation's success depends on various factors, including public support and the ability to address armed groups' tactics.
+
+Tue, 25 Jun 2024 15:49:52 +0530
+### [Om Birla will battle against K Suresh for Lok Sabha Speaker. Why this is unusual in India’s history](https://www.firstpost.com/explainers/om-birla-k-suresh-lok-sabha-speaker-election-process-13785957.html)
+
+For the first time in decades, the 18th Lok Sabha will hold an election for Speaker on June 26 due to a lack of unanimous agreement. BJP's Om Birla, the incumbent Speaker, will face off against Congress's K Suresh. The opposition, led by the INDI Alliance, is demanding the position of Deputy Speaker as compensation for recognizing their status. However, the BJP insists that the Speaker should not belong to any party and that the election should be based on seniority, experience, and impartiality. The last contested Speaker election occurred in 1976.
+
+Tue, 25 Jun 2024 14:14:25 +0530
+### [Why is Mamata sparring with the Centre over Teesta water talks with Bangladesh?](https://www.firstpost.com/explainers/west-bengal-cm-mamata-banerjee-pm-narendra-modi-teesta-water-talks-bangladesh-13785928.html)
+
+West Bengal Chief Minister Mamata Banerjee expressed dissatisfaction in a letter to Prime Minister Narendra Modi regarding the recent India-Bangladesh talks on the River Teesta and the Ganga Water Treaty without West Bengal's participation.
+
+However, the Centre denied her claims, asserting that the West Bengal government was notified and participated in discussions regarding the Ganga water treaty review. The Centre cited the state's nomination of a representative to the review panel and its active role in providing data for treaty renewal.
+
+Historical context suggests that the Teesta water-sharing agreement between India and Bangladesh has been delayed since 2011 due to concerns raised by West Bengal. Renewed talks on Teesta amidst China's interest in the river highlight the geopolitical significance of water-sharing between the two neighboring nations.
+
+Tue, 25 Jun 2024 13:58:32 +0530
+### [Who are the contenders in Iran's presidential race? What are their takes on foreign policy?](https://www.firstpost.com/explainers/iran-president-election-candidates-foreign-policy-13785932.html)
+
+Iran's upcoming presidential elections (June 28) feature six candidates with diverse foreign policy stances.
+
+**Masoud Pezeshkian:**
+- Reformist
+- Advocates improved relations with the US
+- Supports reviving the nuclear deal (JCPOA)
+- Willingness to engage with the West
+- Hints at diversifying Iran's international alliances beyond Russia and China
+
+**Saeed Jalili:**
+- Hardliner
+- Strict stance against the West
+- Proposes self-reliance and resistance to Western pressure
+- Emphasizes economic ties with Latin America and Africa to counteract sanctions
+- Opposes negotiations over Iran's nuclear program
+
+**Alireza Zakani:**
+- Hardliner
+- Supports diplomatic solutions to neutralize sanctions
+- Minimal room for negotiations with the West
+- Focus on strengthening relations with Eastern powers like China and Russia
+- Believes in reducing reliance on the dollar
+
+**Mohammad Bagher Qalibaf:**
+- Pragmatic hardliner
+- Supports reviving the nuclear deal with the US
+- Balances hardline principles with international negotiations
+- Aims to alleviate economic sanctions through diplomatic channels
+
+**Amirhossein Ghazizadeh Hashemi:**
+- Continuity candidate
+- Loyal to former President Raisi's policies
+- Supports implementing the JCPOA
+- Emphasizes regional partnerships over Western alliances
+
+**Mostafa Pourmohammadi:**
+- Cleric with a history of human rights violations
+- Insists on engagement with the world
+- Criticizes Iran's support for Russia in the Ukraine war
+- Advocates pragmatic dealings with global powers while pushing for better returns
+
+Tue, 25 Jun 2024 12:57:04 +0530
+### [The final chapter in a 14-year legal odyssey: Why is Julian Assange flying to remote island of Saipan in the Pacific?](https://www.firstpost.com/explainers/final-chapter-in-14-year-legal-odyssey-why-is-wikileaks-founder-julian-assange-flying-to-remote-pacific-island-of-saipan-13785869.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange is currently headed to a courtroom on the Pacific island of Saipan, where he is anticipated to enter a guilty plea on Wednesday for a single criminal charge. This plea deal is expected to result in his release, allowing him to return to Australia, his home country, after a lengthy legal journey spanning 14 years
+
+Tue, 25 Jun 2024 12:43:41 +0530
+### [AAP’s Atishi admitted to hospital: What happens to the body when blood sugar levels drop?](https://www.firstpost.com/health/aap-atishi-hospital-body-blood-sugar-levels-hypoglycaemia-13785886.html)
+
+Atishi, Delhi's water minister, was hospitalized due to dangerously low blood sugar levels caused by a hunger strike. Hypoglycemia, or low blood sugar, can lead to dizziness, hunger, anxiety, and in severe cases, seizures, coma, or death. It can affect the brain, heart, and digestive system. Treatment depends on symptom severity and may involve the 15-15 rule (eating/drinking 15 grams of glucose and waiting 15 minutes), or medical interventions such as Glucagon injections. Hypoglycemia can also lead to eye and kidney disease, and can worsen heart disease in those with type 2 diabetes.
+
+Tue, 25 Jun 2024 12:31:41 +0530
+### [Why Karnataka is banning artificial food colours in kebabs](https://www.firstpost.com/health/why-karnataka-is-banning-artificial-food-colours-in-kebabs-13785821.html)
+
+Article found but Couldn't summarize 
+A food test found unsafe levels of artificial colours, sunset yellow and carmoisine, being used in the preparation of kebabs across the state following which the Karnataka health officials issued a notification, warning of 'serious health risks to consumers.' Earlier, the government banned gobi manchurian and cotton candy after carcinogenic chemicals were found in them
+
+Tue, 25 Jun 2024 10:05:44 +0530
+### [WikiLeaks’ Julian Assange to be freed: How did he avoid US prison time?](https://www.firstpost.com/explainers/wikileaks-julian-assange-freed-us-prison-plea-deal-13785822.html)
+
+Article found but Couldn't summarize 
+WikiLeaks founder Julian Assange has agreed to plead guilty in a US court, which ends his long-running legal drama and allows him to finally return home to Australia as a free man. As part of the plea deal he struck with US authorities, he will be sentenced to 62 months, which is the time he has already served in UK prison
+
+Tue, 25 Jun 2024 10:04:12 +0530
+### [Rohit Sharma is a class player, Indian bowlers were too good: Mitchell Marsh after Australia's defeat](https://www.firstpost.com/firstcricket/sports-news/india-vs-australia-t20-world-cup-mitchell-marsh-rohit-sharma-indian-bowlers-13785820.html)
+
+Article found but Couldn't summarize 
+Mitchell Marsh credited Rohit Sharma's explosive batting and Indian bowlers for Men in Blue reaching the T20 World Cup 2024 semi-finals after beating Australia.
+
+Tue, 25 Jun 2024 08:57:03 +0530
+### [49 years of Emergency: India’s darkest hour, in graphics](https://www.firstpost.com/explainers/emergency-anniversary-india-darkest-hour-in-graphics-indira-gandhi-13785665.html)
+
+Article found but Couldn't summarize 
+On 25 June 1975, India witnessed a historic moment when then Prime Minister Indira Gandhi declared Emergency in the country. In this 21-month period, widespread arrests took place, the press was heavily censored and civil liberties were severely curtailed. Here’s a timeline of events as we commemorate its 49th anniversary
+
+Tue, 25 Jun 2024 06:00:53 +0530
+### [FirstUp: PM to propose LS speaker name, Kejriwal bail plea in Delhi High Court… Big news today](https://www.firstpost.com/explainers/firstup-pm-to-propose-ls-speaker-name-kejriwal-bail-plea-hearing-emergency-anniversary-big-news-today-13785722.html)
+
+Prime Minister Modi will propose the name for the Speaker of the 18th Lok Sabha during the ongoing Parliament session. The Delhi High Court will announce its decision on Chief Minister Arvind Kejriwal's bail plea in a money laundering case. The Congress has called for a 'Bandh' in Rajkot to mark the one-month anniversary of the TRP Game Zone fire tragedy. The Department of Telecommunications will begin the auction of 5G spectrum valued at Rs 96,317.65 crore, though it is expected to be subdued due to sufficient holdings by major players. The United Nations Security Council will discuss the situation in West Asia, particularly the war in Gaza. Hong Kong's largest security trial involving pro-democracy figures, including Benny Tai, will continue with mitigation hearings.
+
+Mon, 24 Jun 2024 20:08:40 +0530
+### [In Graphics | The countries you can travel to visa-free on an Indian passport](https://www.firstpost.com/explainers/in-graphics-the-countries-you-can-travel-to-visa-free-on-an-indian-passport-13785673.html)
+
+Article found but Couldn't summarize 
+Visa-free service makes the travel process simpler. On Passport Service Day (24 June), we bring to you a list of nations that are visa-free for Indians
+
+Mon, 24 Jun 2024 19:54:48 +0530
+### [Who is Sanjeev Mukhiya, the ‘kingpin’ of NEET paper leak case?](https://www.firstpost.com/explainers/neet-paper-leak-case-sanjeev-mukhiya-kingpin-bihar-13785675.html)
+
+Sanjeev Mukhiya, a resident of Bihar's Nalanda district, is implicated as the mastermind behind the 2024 NEET-UG paper leak, a controversy that has shocked India. Mukhiya, also known as Sanjeev Singh, has a history of involvement in exam fraud spanning two decades. He holds significant influence locally, with ties to political circles through his wife, who has contested elections. Mukhiya and his associates allegedly orchestrated the distribution of leaked NEET-UG papers, prompting calls for accountability and cancellation of the exam from political quarters. Despite being on the run, Mukhiya has sought anticipatory bail, denying any wrongdoing.
+
+Mon, 24 Jun 2024 19:33:52 +0530
+### [‘Baahubali’s’ Anushka Shetty suffers from rare laughing disease. What is it?](https://www.firstpost.com/health/baahubalis-anushka-shetty-suffers-from-rare-laughing-disease-what-is-it-13785509.html)
+
+Anushka Shetty, an actress known for her role in the "Baahubali" series, has revealed that she has a neurological disorder called Pseudobulbar Affect (PBA), also known as the "laughing disease." This condition causes uncontrollable laughing or crying that is not related to the person's emotional state. PBA is part of a larger syndrome called Pseudobulbar Palsy and can be caused by various diseases or injuries that affect the brain. It is commonly diagnosed in older individuals and can be managed through deep, slow breathing, diverting the mind, and relaxing the muscles. Medications can also help in controlling the condition. Shetty's revelation has shed light on this little-known disorder and its impact on people's daily lives.
+
+Mon, 24 Jun 2024 18:13:10 +0530
+### [Jackpot! Why sales of lottery tickets are surging among the youth in China](https://www.firstpost.com/explainers/sales-of-lottery-tickets-scratch-cards-are-surging-among-youth-in-china-economy-why-13785583.html)
+
+Lottery shops in China are increasingly popular among young people, who are drawn by promises of quick money amidst economic challenges. Sales have surged, with lottery revenues reaching 149.5 billion yuan in the first quarter alone, up nearly 20% from the previous year. The appeal lies in instant gratification and affordable entertainment during uncertain times, reflecting a broader trend of seeking small joys. However, shortages of popular scratch cards have posed challenges for suppliers, highlighting the mismatch between demand and supply in this booming market.
+
+Mon, 24 Jun 2024 16:01:08 +0530
+### [Trash war: What's inside the balloons that North Korea is sending across the border?](https://www.firstpost.com/explainers/trash-war-whats-inside-the-balloons-that-north-korea-is-sending-across-the-border-13785601.html)
+
+Article found but Couldn't summarize 
+North Korea has been flying balloons since late May into the South. An analysis reveals that many of them had articles printed with Hello Kitty characters, badly worn clothing, and soil containing traces of human faeces and parasites
+
+Mon, 24 Jun 2024 14:54:02 +0530
+### [NEET, NET rows: How Bihar has gained notoriety for exam cheating](https://www.firstpost.com/explainers/neet-net-rows-bihar-board-exam-cheating-education-13785555.html)
+
+Article found but Couldn't summarize 
+The NEET, NET exam paper leaks have brought Bihar to the centre stage. The Hindi belt state has gained notoriety over the years for mass cheating in Bihar board examinations. The decline in learning levels in schools is another cause of alarm
+
+Mon, 24 Jun 2024 14:24:40 +0530
+### [Heatwave scorches east as floods devastate Midwest: How extreme weather is wreaking havoc in the US](https://www.firstpost.com/explainers/heatwave-scorches-east-as-floods-devastate-midwest-how-extreme-weather-is-wreaking-havoc-in-the-us-13785539.html)
+
+Millions of Americans are facing extreme weather conditions, with a severe heatwave affecting large parts of the country and devastating floods striking the Midwest. In Iowa, 13 rivers flooded, forcing evacuations and causing significant damage. South Dakota is also grappling with severe flooding, and the rest of the country is enduring a relentless heatwave, with temperatures breaking records in several areas. The heatwave has caused significant disruptions to infrastructure and health, and rare tornado threats and flash flooding concerns have been reported in the Northeast. The US is facing an unprecedented challenge and is bracing itself for ongoing disruptions while attempting to prioritize safety and preparedness in the face of these natural disasters.
+
+Mon, 24 Jun 2024 13:30:45 +0530
+### [To cover or not to cover: Why Tajikistan, with over 10 million Muslims, is banning the hijab](https://www.firstpost.com/explainers/tajikistan-10-million-muslims-banning-hijab-president-emomali-rahmon-13785517.html)
+
+Tajikistan has officially banned the wearing of hijabs for women, with violators facing fines of up to $3,724. The ban is part of the government's efforts to promote a secular national identity and protect what it considers to be the country's traditional culture. The ban has been criticized by Muslim advocacy groups and human rights organizations as a violation of religious freedom. Tajikistan has long had an unofficial ban on religious wear in public institutions. The government has also promoted Tajik traditional clothing and has implemented other restrictions on dress and appearance in recent years. Tajikistan is not the only Muslim country to ban the hijab, as similar bans have been implemented in Kazakhstan, Kosovo, Azerbaijan, and Kyrgyzstan. However, such bans have been criticized as being incompatible with international human rights standards.
+
+Mon, 24 Jun 2024 12:42:08 +0530
+### [Love triumphs all as Sonakshi-Zaheer tie the knot under Special Marriage Act: What is it?](https://www.firstpost.com/explainers/love-triumphs-all-as-sonakshi-sinha-zaheer-iqbal-wedding-under-special-marriage-act-what-is-it-13785504.html)
+
+Under the Special Marriage Act, Sonakshi Sinha and Zaheer Iqbal tied the knot. The Act allows interfaith couples to wed without adhering to religious customs.
+
+Key Features of the Act:
+
+* Secular marriage independent of religious rituals.
+* Open to all Indian citizens, regardless of religion.
+* Official marriage registration.
+* Age of consent: 21 for men, 18 for women.
+* 30-day notice period for objections.
+* Solemnization with witnesses and certificate issuance.
+
+The Act provides benefits like:
+
+* Interreligious marriage facilitation.
+* Legal safeguards and gender equality.
+* Simplified marriage procedure.
+
+Challenges include:
+
+* 30-day notice period scrutiny.
+* Bureaucratic hurdles and lack of awareness.
+
+Notable couples married under the Act include Kareena Kapoor Khan and Saif Ali Khan. Court judgments have addressed issues such as bigamy and interfaith marriage rights.
+
+The Special Marriage Act promotes secularism and inclusivity, upholding principles of equality and personal freedom in diverse Indian society.
+
+Mon, 24 Jun 2024 12:04:10 +0530
+### [Who was Dasari Gopikrishna, the 32-year-old from Andhra Pradesh killed in US supermarket shooting?](https://www.firstpost.com/explainers/indian-killed-in-us-super-market-shooting-incident-who-was-dasari-gopikrishna-from-andhra-pradesh-13785454.html)
+
+Dasari Gopikrishna, a 32-year-old Indian student from Andhra Pradesh, tragically lost his life in a mass shooting at a supermarket in Fordyce, Arkansas. The incident, which occurred on June 21, claimed four lives and left many injured when a gunman opened fire during a robbery attempt. Gopikrishna, who had recently moved to the US in search of employment, was fatally shot while working at the store. The shooting has sparked condolences from Indian officials and highlighted concerns over rising gun violence in the country.
+
+Mon, 24 Jun 2024 09:58:41 +0530
+### [PDF of question paper, solver gang, and more… What probe in NEET-UG exam leak reveals so far](https://www.firstpost.com/explainers/pdf-question-paper-solver-gang-probe-neet-ug-exam-leak-cbi-bihar-police-13785465.html)
+
+Article found but Couldn't summarize 
+The probe into the alleged irregularities in the NEET-UG exam continues with the CBI now taking over. Earlier, Bihar Police’s officials arrested five people, of which one is believed to be the mastermind behind the exam leak. Authorities say he received a PDF of the solved question paper a day before the exam
+
+Mon, 24 Jun 2024 09:41:05 +0530
+### [Why world's biggest bond investors are set to bet big on India](https://www.firstpost.com/explainers/india-bond-market-jpmorgan-investment-global-investors-13785437.html)
+
+JPMorgan's inclusion of India in its largest emerging-market bond index on June 28 is expected to attract $40 billion in global investment in Indian debt. This move signals investor confidence in India's financial stability and economic prospects.
+
+India's 10-year government bonds currently yield around 7%, offering a premium over similar bonds in developed markets. Its sovereign credit rating implies higher risk, but investors are seeking higher yields as compensation.
+
+The Indian bond market is considered a diversification tool, as Indian bonds have shown a low correlation with global bonds. India's tax policies and market reforms have made it attractive for foreign investment.
+
+Mon, 24 Jun 2024 08:57:45 +0530
+### [How corporate America is battling the rise of ‘keyboard frauds’](https://www.firstpost.com/explainers/corporate-america-battling-keyboard-frauds-13784080.html)
+
+Article found but Couldn't summarize 
+Employees turn to several methods including ‘keyboard fraud’ as they fight productivity-obsessed corporate American work culture. They outsmart management into thinking that they are doing the job. But some have been caught and even fired
+
+Mon, 24 Jun 2024 06:00:13 +0530
+### [FirstUp: First session of 18th Lok Sabha, Andhra Cabinet meeting… News today](https://www.firstpost.com/explainers/firstup-18th-lok-sabha-first-session-andhra-pradesh-cabinet-meeting-news-today-13785024.html)
+
+Article found but Couldn't summarize 
+The first session of the 18th Lok Sabha will begin today, and the newly elected members will also take the oath. The first Cabinet meeting of the new NDA government in Andhra Pradesh is also scheduled. The Indigenous Tribal Leaders' Forum members will stage non-violent demonstrations to press for its demand for a Union Territory for the Kuki-Zo people of Manipur
+
+Sun, 23 Jun 2024 14:33:16 +0530
+### [Love lost: Can romantic breakups spark severe trauma?](https://www.firstpost.com/explainers/romantic-breakups-severe-trauma-13783624.html)
+
+Emerging adults (aged 18-25) often experience significant distress after romantic breakups, including intrusive thoughts, grief, and suicidal ideation. Despite this, breakups are often dismissed as a trivial part of growing up. Research using DSM-5 criteria found that breakup participants reported more post-traumatic stress symptoms than trauma or control groups. Brain scans showed similar activation levels in the amygdala and hippocampus for breakup participants viewing ex-partner images as for trauma participants viewing physical or sexual assault images. Breakup distress was influenced by demographic factors (e.g., sexual orientation) and breakup characteristics. Mental health professionals should acknowledge the potential intensity of breakups and consider screening for post-traumatic stress symptoms, offering trauma-focused treatment if necessary.
+
+Sun, 23 Jun 2024 10:29:17 +0530
+### [39 years since Air India Kanishka bombing: What happened and why are India-Canada divided over it?](https://www.firstpost.com/explainers/air-india-kanishka-bombing-what-happened-india-canada-divided-13784756.html)
+
+Article found but Couldn't summarize 
+India and Canada are observing the anniversary of the Kanishka bombing, one of the most heinous terror-related air disasters in civil aviation history. The Montreal-New Delhi Air India 'Kanishka' Flight 182 exploded 45 minutes before its scheduled landing at London's Heathrow Airport on 23 June 1985, resulting in the deaths of all 329 people on board, the majority of whom were Canadians of Indian descent
+
+Sun, 23 Jun 2024 10:04:59 +0530
+### [This Week in Explainers: Kim Jong Un, Vladimir Putin and the deal that made headlines around the world](https://www.firstpost.com/explainers/this-week-in-explainers-kim-jong-un-vladimir-putin-and-the-deal-that-made-headlines-around-the-world-13784859.html)
+
+Article found but Couldn't summarize 
+North Korea’s Kim Jong Un and Russia’s Vladimir Putin shared an embrace and signed a deal that made many sit up and take notice. The relationship between India and Canada continues to remain strained after its Parliament held a moment of silence to mark the one-year death anniversary of Khalistani terrorist Hardeep Singh Nijjar. All this and more in our weekly roundup of world news
+
+Sat, 22 Jun 2024 18:50:56 +0530
+### [Anthropic's AI model, Claude 3.5 Sonnet launched. How does it compare to ChatGPT-4o, Gemini?](https://www.firstpost.com/explainers/anthropics-ai-claude-3-5-sonnet-vs-chatgpt-4o-vs-gemini-13785087.html)
+
+Anthropic, a leading contender in the AI space, has launched its latest innovation: Claude 3.5 Sonnet, which they claim surpasses competitors like OpenAIâs GPT-4o and Googleâs Gemini-1.5 Pro. The article explains how well the new AI model has performed on benchmark tests and whether the results should be taken as an accurate indicator of practical usefulness. The tests measure the model's proficiency in areas such as reasoning, coding, math problem-solving, and more. While Claude 3.5 Sonnet generally outperforms its competitors in most benchmarks, the practical effectiveness of these models will ultimately depend on their performance in real-world scenarios.
+
+Sat, 22 Jun 2024 17:50:23 +0530
+### [Quicksplained: Who is Suborno Bari, the ‘world’s youngest professor’ graduating high school?](https://www.firstpost.com/explainers/quicksplained-suborno-bari-worlds-youngest-professor-graduating-high-school-13785067.html)
+
+Suborno Bari, a 12-year-old prodigy from Lynbrook, New York, is set to graduate from Malverne High School on June 26, becoming the youngest American graduate from the Indian subcontinent. He will then attend New York University in the fall, having been admitted to their gifted and talented program at Harvard at the age of 9. Bari has already authored two books and, at the age of 11, scored a perfect 1500 on the SAT. He has been called the "youngest professor in the world" and has given lectures at Indian universities. Bari aims to become a professor and complete his Bachelor's degree by 14 and earn a Doctorate by age 18.
+
+Sat, 22 Jun 2024 17:23:20 +0530
+### [All that glitters is not gold: How the rich and famous Hinduja family ended up in Swiss court](https://www.firstpost.com/explainers/how-the-rich-and-famous-hinduja-family-ended-up-in-swiss-court-13785010.html)
+
+Article found but Couldn't summarize 
+What makes Hindujas different from other billionaire families is its century-old legacy. While the family is known for sticking together and building a strong empire, it is not free from controversies
+
+Sat, 22 Jun 2024 14:46:58 +0530
+### [Why Centre and Opposition are sparring over pro-tem Speaker choice](https://www.firstpost.com/explainers/centre-opposition-pro-tem-speaker-controversy-13784982.html)
+
+A controversy has arisen over the appointment of BJP's Bhartruhari Mahtab as pro-tem Speaker of the Lok Sabha. The Opposition, led by Congress, claims it deviates from the tradition of selecting the seniormost member for the role, with Kodikunnil Suresh (Congress) being the most senior. They allege anti-Dalit sentiment as Suresh belongs to that community.
+
+The BJP responded by stating that Mahtab is the longest-serving consecutive Lok Sabha member without ministerial experience, fulfilling the Westminster system's criteria for "Father of the House." The pro-tem Speakership is temporary and does not conduct business, making the controversy unnecessary, according to the BJP.
+
+The 18th Lok Sabha's first session begins on June 24 with oath-taking, followed by the Speaker's election on June 26. The Rajya Sabha session commences on June 27, with President Murmu addressing a joint session and PM Modi introducing his council of ministers.
+
+Sat, 22 Jun 2024 12:01:05 +0530
+### [Now CSIR-NET under scanner: What is the exam and why has it been postponed?](https://www.firstpost.com/explainers/csir-net-exam-postponed-13784911.html)
+
+The CSIR UGC-NET exam has been postponed due to concerns about a potential paper leak on the darkweb. The decision came after Education Minister Dharmendra Pradhan received information about rumors circulating on a messaging app. The NTA, which is also facing allegations of irregularities in the NEET exam, has been asked to set up a new question paper and reschedule the CSIR UGC-NET exam. The postponement comes two days after the cancellation of the UGC-NET exam due to a similar paper leak concern.
+
+Sat, 22 Jun 2024 11:05:23 +0530
+### [This Week in Explainers: Why NTA is facing heat over NEET, NET paper leaks](https://www.firstpost.com/explainers/this-week-in-explainers-why-nta-is-facing-heat-over-neet-net-paper-leaks-13784755.html)
+
+Article found but Couldn't summarize 
+The National Testing Agency (NTA) has come under scanner over the paper leak cases involving two entrance-level examinations – NEET-UG and UGC-NET. While the NET test has been cancelled, similar calls are being raised for the medical entrance exam. Here’s all about this row and more in our weekly round-up of explainers from India
+
+Sat, 22 Jun 2024 09:09:22 +0530
+### [Sheikh Hasina is the first guest on State visit in PM’s third term: What can we expect?](https://www.firstpost.com/explainers/sheikh-hasina-second-trip-to-india-in-two-weeks-heres-why-it-matters-13784417.html)
+
+Bangladeshi Prime Minister Sheikh Hasina is on a two-day state visit to India. During her talks with PM Narendra Modi, they are expected to discuss the Ganges Water Sharing Treaty, the management of Mongla Port, and a potential trade deal. They will also examine increased road, rail, and energy connectivity. Other topics may include Myanmar's situation, defense cooperation, and Bangladesh's desire to develop the Teesta River. This visit is Hasina's first overseas state visit since her fifth term began in January, indicating the importance she places on India-Bangladesh relations. India's involvement in Mongla Port would strengthen its regional security presence, and Bangladesh's interest in visiting India before China shows its desire for balanced relations between the two countries.
+
+Fri, 21 Jun 2024 19:48:54 +0530
+### [Why going to private schools in the UK will cost more if Keir Starmer's Labour wins](https://www.firstpost.com/explainers/why-going-to-private-schools-in-the-uk-will-cost-more-if-keir-starmers-labour-wins-13784824.html)
+
+The Labour Party in the UK plans to impose a tax on private school fees if they win the general election. The revenue generated from this tax would be allocated towards recruiting additional teachers for state schools and expanding childcare services. The removal of VAT exemptions for private schools is expected to lead to an increase in private school fees, potentially resulting in a decline in attendance. The Labour Party's plan has garnered mixed reactions, with the Conservative and Liberal Democrat leaders opposing the policy. The long-term impact of this move on private school attendance and the state education system remains uncertain.
+
+Fri, 21 Jun 2024 18:55:51 +0530
+### [How has the UK’s E. coli outbreak been linked to lettuce? Here’s what we know](https://www.firstpost.com/health/how-uk-e-coli-outbreak-linked-to-lettuce-here-is-what-we-know-13784728.html)
+
+An E. coli outbreak in the UK has been linked to contaminated lettuce used in sandwiches, wraps, and burgers. More than 250 people have been sickened, and at least 86 have been hospitalized. Three suppliers have recalled 60 types of pre-packed sandwiches, wraps, and salads. The outbreak is caused by Shiga toxin-producing E. coli (STEC), and the source is believed to be lettuce leaves. Symptoms include abdominal cramps, nausea, vomiting, and diarrhea, and there is no targeted treatment for a STEC infection. It is recommended to wash hands, use disinfectants, and avoid preparing food for others while unwell.
+
+Fri, 21 Jun 2024 18:33:03 +0530
+### [Can Hezbollah’s missiles, drones overwhelm Israel’s famous Iron Dome in case of full-blown war?](https://www.firstpost.com/explainers/hezbollah-missiles-drones-israel-iron-dome-israel-hezbollah-war-13784811.html)
+
+Israel has been trading fire with Iran-backed Hezbollah, and there are concerns about whether Israel's Iron Dome defense system can withstand the volume and sophistication of Hezbollah's missile arsenal. The Iron Dome has limitations in capacity, interception ability, and vulnerability to high-precision munitions. There are concerns that Hezbollah could overwhelm the Iron Dome in a full-scale conflict due to its numbers advantage, proximity to Israel, past breaches, and use of cheap drones. The potential for significant breaches in Israel's defense grid in a large-scale conflict is a real and concerning possibility.
+
+Fri, 21 Jun 2024 17:56:50 +0530
+### [What are the questions you should ask about new virus in the news?](https://www.firstpost.com/health/questions-to-ask-about-new-virus-in-the-news-13784771.html)
+
+When assessing novel virus threats, it's important to consider:
+
+1. **Extent of Transmission:** Has the virus adapted to spread among humans or remain limited to isolated cases?
+
+2. **Surveillance:** What is known about the virus through testing and genome sequencing?
+
+3. **Characteristics:** Understand the virus's host preference, transmission routes, and severity of infection.
+
+4. **Potential for Adaptation:** Can the virus mutate to overcome immune defenses or spread more efficiently?
+
+5. **Sustained Outbreaks and Contact with Humans:** Ongoing outbreaks and close contact with infected animals increase the risk of adaptation.
+
+6. **Worst-Case Scenario:** Evaluate the potential impact of the virus if it becomes more transmissible and harmful to humans.
+
+While assessing these factors, it's important to note that viruses are unpredictable and constant surveillance and expert analysis are crucial for early detection and mitigation of potential threats.
+
+Fri, 21 Jun 2024 17:54:18 +0530
+### [From US to India, how excessive heat is plaguing the world](https://www.firstpost.com/explainers/from-us-to-india-how-excessive-heat-is-plaguing-the-world-13784796.html)
+
+Extreme heatwaves are affecting the globe, from the United States to India and Europe.
+
+In the US, millions are suffering in a heatwave affecting the upper Midwest and northeast. Parts of India continue to face extreme heat, with over 40,000 suspected heatstroke cases and over 100 deaths reported this summer.
+
+Europe is experiencing record-breaking temperatures, with multiple countries issuing heat warnings. Tourists have gone missing in high-temperature areas in Greece, and temperatures in Serbia, Romania, and Montenegro have climbed to uncomfortable highs.
+
+In Saudi Arabia, over 1,000 people have died during the Hajj pilgrimage due to scorching temperatures.
+
+Experts attribute the increased frequency and intensity of heatwaves to climate change, which is causing global temperatures to rise and making extreme weather events more common.
+
+Fri, 21 Jun 2024 16:43:48 +0530
+### [Why are Kuno's cheetah trackers on strike?](https://www.firstpost.com/explainers/kuno-cheetah-trackers-strike-13784707.html)
+
+Article found but Couldn't summarize 
+About 30 villagers, who were employed to track and monitor cheetahs 24x7 at Madhya Pradesh’s Kuno National Park, have gone on strike. They refuse to kill domestic animals like goats to feed the cats and say they are paid very little for their exhausting work
+
+Fri, 21 Jun 2024 16:26:34 +0530
+### [Explained: How heat affects your smartphone and how to keep it safe](https://www.firstpost.com/explainers/how-heat-affects-your-smartphone-and-how-to-keep-it-safe-13784430.html)
+
+During the current heatwave, smartphones are at risk of overheating and damage. Exposure to high temperatures can slow down or hang up devices, and frequent heat exposure reduces lifespan and battery life.
+
+Overheating can occur due to heavy gaming, high charging speeds, and trapped heat from phone covers.
+
+Avoid using phones in sunlight and lower screen brightness. Remove phone covers or use breathable cases. Charge phones in cool environments and avoid using them while charging.
+
+The best way to cool down a phone is to let it do so naturally. Do not put it in the refrigerator, as temperature fluctuations can harm it.
+
+Fri, 21 Jun 2024 15:13:15 +0530
+### [Who is Margot Friedlander, 102-yr-old Holocaust survivor featured on Vogue Germany’s cover?](https://www.firstpost.com/explainers/who-is-margot-friedlander-102-yr-old-holocaust-survivor-featured-on-vogue-germany-cover-13784607.html)
+
+Margot Friedlander, a Holocaust survivor born in 1921, began writing about her experiences in 1997, speaking out for remembrance, peace, and togetherness. Her journey of survival and resilience includes going into hiding after her family's arrest, enduring the Theresienstadt concentration camp, and losing her mother and brother in Auschwitz. She later moved to New York, but returned to Germany in 2010, becoming a prominent voice against anti-Semitism and the far-right. Friedlander's autobiography, "Try to Make Your Life," shares her story and emphasizes the importance of humanity and dialogue.
+
+Fri, 21 Jun 2024 14:29:49 +0530
+### [How Indian farm worker's death in Italy exposes ruthless exploitation of migrants](https://www.firstpost.com/explainers/how-indian-farm-workers-death-in-italy-exposes-ruthless-exploitation-of-migrants-13784705.html)
+
+Article found but Couldn't summarize 
+Satnam Singh died two days after his arm was severed by heavy machinery. He was reportedly left for dead by his boss on the side of the road near his home in Italy’s Latina. Experts say thousands of Indian migrants work on farms in that region alone and that 400,000 agricultural workers in Italy are at risk of exploitation – most of them Indians
+
+Fri, 21 Jun 2024 14:06:58 +0530
+### [In Graphics: Gurus who spread yoga to the world](https://www.firstpost.com/explainers/in-graphics-gurus-who-spread-yoga-to-the-world-13784685.html)
+
+Article found but Couldn't summarize 
+The international community is celebrating the 10th Yoga Day on 21 June, with enthusiasts displaying their skills and performing various asanas. As the world marks the event, let’s remember the gurus who helped popularise modern yoga beyond India
+
+Fri, 21 Jun 2024 14:00:04 +0530
+### [Thousands die during Hajj this year: Who is to blame?](https://www.firstpost.com/explainers/hajj-deaths-this-year-who-is-to-blame-13784684.html)
+
+Article found but Couldn't summarize 
+More than 1,000 pilgrims have died during the Hajj this week. About half of the pilgrims who started the journey last Friday, are unregistered. Overcrowding and extreme heat are the major reasons behind the swelling number of fatalities
+
+Fri, 21 Jun 2024 13:32:43 +0530
+### [Explained: How every dispute in the South China Sea fits into Beijing's hegemonic ambitions](https://www.firstpost.com/explainers/explained-how-every-dispute-in-the-south-china-sea-fits-into-beijings-hegemonic-ambitions-13784637.html)
+
+China's territorial disputes in the South China Sea, encapsulated in the nine-dash line, underscore its hegemonic ambitions in the region.
+
+China's claims overlap with the exclusive economic zones of several Southeast Asian countries, including:
+
+* **Philippines:** Disputes over the Scarborough Shoal and Spratly Islands have led to confrontations, including the recent interception of a Philippine airdrop.
+* **Vietnam:** China and Vietnam contest the Paracel and Spratly Islands, which are believed to hold natural resources and strategic importance for maritime control.
+* **Malaysia:** China's claims extend to the Luconia Shoals, an area rich in oil and gas.
+* **Brunei:** China's claims in Brunei's EEZ aim to secure energy resources and influence over its maritime activities.
+* **Indonesia:** China's claims overlap with Indonesia's EEZ around the hydrocarbon-rich Natuna Islands.
+
+Southeast Asian countries, supported by external powers like the US and Japan, have been increasingly challenging China's actions through diplomatic, legal, and military means.
+
+Fri, 21 Jun 2024 13:28:05 +0530
+### [Why Trump's proposal on automatic green cards for foreign graduates comes as a surprise](https://www.firstpost.com/explainers/why-donald-trump-proposal-on-green-cards-for-foreign-graduates-is-a-surprise-us-elections-immigration-policy-13784638.html)
+
+Former US President and Republican candidate Donald Trump proposed offering green cards to foreign students graduating from US colleges, despite his previous hardline stance on immigration. This shift is attributed to his desire to retain skilled graduates and attract talent. The Trump campaign clarified that only the most highly skilled graduates would be eligible after a rigorous vetting process. The proposal has garnered mixed reactions, with some seeing it as progressive, while others remain skeptical due to Trump's past restrictive policies. The potential impact on green card issuance and immigration policy remains uncertain.
+
+Fri, 21 Jun 2024 13:04:56 +0530
+### [What is the gambling scandal that Rishi Sunak’s party is embroiled in ahead of the UK polls?](https://www.firstpost.com/explainers/what-is-gambling-scandal-rishi-sunak-conservative-tories-party-ahead-of-uk-general-election-july-4-polls-13784608.html)
+
+British Prime Minister Rishi Sunak expressed outrage after three Conservative Party members were investigated for allegedly betting on the UK general election date. Laura Saunders, a Conservative candidate, and her husband, a party campaign director, are under investigation by the Gambling Commission. Additionally, Sunak's parliamentary private secretary admitted to betting on the election date, while a police bodyguard was arrested for suspected misconduct. The scandal has damaged the Conservative Party's campaign, which is already trailing in polls behind Labour. Investigations by the Gambling Commission and other authorities are ongoing, and legal and ethical implications are being considered.
+
+Fri, 21 Jun 2024 12:16:36 +0530
+### [Testing Times: What is the NTA at the centre of NEET, NET paper leaks row? What has its past record been?](https://www.firstpost.com/explainers/national-testing-agency-neet-ug-ugc-neet-paper-leak-controversies-13784613.html)
+
+The National Testing Agency (NTA), responsible for conducting entrance exams in India, has come under scrutiny after the leak of NEET-UG and UGC-NET exam papers. The NTA has been accused of discrepancies in the NEET-UG exam, including a paper leak and alleged grace marks given to students. The UGC-NET exam was cancelled due to a paper leak on the darknet.
+
+The NTA has faced previous controversies involving irregularities in JEE Main and NEET-UG exams. Allegations include errors in percentile calculation, uneven distribution of candidates, cheating, impersonation, and poor exam management. In 2021, the JEE Main exam was compromised by a hacking incident, benefiting over 800 candidates.
+
+A high-level committee has been formed to investigate the NTA's functioning and the alleged exam leaks. The NTA's reputation has been tarnished by these controversies, and it faces a challenging task in restoring its credibility.
+
+Fri, 21 Jun 2024 11:20:03 +0530
+### [Who are the men behind the NEET-UG paper leak?](https://www.firstpost.com/explainers/men-behind-neet-ug-paper-leak-13784564.html)
+
+Four individuals, Anurag Yadav, Sikandar Yadavendu, Nitish Kumar, and Amit Anand, have admitted to leaking the NEET-UG question paper. They obtained the questions a day before the exam and memorized them. Yadavendu's alleged involvement with RJD leader Tejashwi Yadav is being investigated. Other arrested individuals include an aide of Anand, a driver, and several candidates suspected of purchasing the leaked material. Despite allegations of rigging, Education Minister Dharmendra Pradhan denies any evidence. The National Testing Agency has revoked grace marks given to certain candidates due to time loss at some exam centers.
+
+Fri, 21 Jun 2024 10:49:57 +0530
+### [No relief for Arvind Kejriwal yet: Why the bail matters for Delhi CM and his AAP](https://www.firstpost.com/explainers/delhi-cm-arvind-kejriwal-bail-mean-for-aap-ed-excise-policy-case-13784555.html)
+
+The Delhi High Court has paused Arvind Kejriwal's release order in a money-laundering probe related to the city's excise policy case, following a challenge by the Enforcement Directorate. Kejriwal, who was in judicial custody since April, secured bail from a trial court but now awaits further proceedings. The AAP views this as a victory, emphasizing the case's political undertones. Kejriwal's release could impact the upcoming Delhi Assembly elections, where the AAP seeks to regain ground after a poor Lok Sabha performance. However, the BJP may exploit his 'out on bail' status, adding to the political dynamics.
+
+Fri, 21 Jun 2024 07:32:56 +0530
+### [International Yoga Day: Why PM Modi picked J&K this year](https://www.firstpost.com/explainers/international-yoga-day-2024-pm-narendra-modi-jammu-and-kashmir-srinagar-event-13784356.html)
+
+Today, Prime Minister Narendra Modi marked the 10th International Day of Yoga in Srinagar, Jammu and Kashmir. This was the first time he celebrated the event in Indian territory since its inception in 2015.
+
+Modi's choice of venues for International Yoga Day celebrations has been significant. In 2015, he led the inaugural event in New York, introducing yoga to a global audience. Last year, he held the event at the Mysore Palace grounds in Karnataka.
+
+The venue of Srinagar for the 10th International Day of Yoga carries political significance. Modi's visit comes shortly after the Lok Sabha elections in Jammu and Kashmir and ahead of the upcoming Assembly elections. It is seen as a demonstration of the government's commitment to peace and prosperity in the region.
+
+Fri, 21 Jun 2024 06:30:28 +0530
+### [FirstUp: PM Modi to lead International Yoga Day celebrations, Sheikh Hasina in India... today's big headlines](https://www.firstpost.com/explainers/firstup-pm-modi-to-lead-international-yoga-day-celebrations-sheikh-hasina-in-india-todays-big-headlines-13784364.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi will lead International Yoga Day celebrations in Srinagar. Bangladesh's Sheikh is on a two-day state visit to India. Congress will hold nationwide protests over controversies surrounding the NEET-UG exams
+
+Thu, 20 Jun 2024 21:32:24 +0530
+### [Mark Rutte will be next NATO chief: Who is outgoing Dutch PM?](https://www.firstpost.com/explainers/mark-rutte-will-be-next-nato-chief-who-is-outgoing-dutch-pm-13784466.html)
+
+Article found but Couldn't summarize 
+Mark Rutte, who has been in office since 2010, is the Netherlands’ longest-serving prime minister. Known as a consensus builder who has helmed multiple coalition governments, Rutte is a fierce advocate of Ukraine and a strong critic of Vladimir Putin
+
+Thu, 20 Jun 2024 20:31:48 +0530
+### [A class question: Why some groups are more at risk from heatwaves than others](https://www.firstpost.com/explainers/a-class-question-why-some-groups-are-more-at-risk-from-heatwaves-than-others-13784319.html)
+
+Climate change is leading to more frequent and intense heatwaves, disproportionately affecting vulnerable groups such as rural agricultural laborers and the urban poor in India. The impact of heatwaves exacerbates existing inequalities and creates new disparities, with lower-income populations facing a 40% higher exposure to heatwaves globally compared to higher-income populations. The study suggests that India is likely to be the most threatened country in the world by 2030, with over 770 million people expected to live in highly dangerous conditions for at least two weeks a year.
+
+Thu, 20 Jun 2024 18:26:14 +0530
+### [Why Africa is losing hundreds of millionaires, tonnes of gold to UAE](https://www.firstpost.com/explainers/why-africa-is-losing-hundreds-of-millionaires-tonnes-of-gold-to-uae-13784385.html)
+
+Africa is experiencing an exodus of high-net-worth individuals (HNWIs) and gold, with many heading to the United Arab Emirates (UAE). South Africa and Nigeria are expected to see a significant loss of millionaires in 2024, due to factors such as new wealth taxes and political instability. The UAE offers tax benefits, business opportunities, and a high quality of life, attracting wealthy individuals. Additionally, billions of dollars worth of gold is being smuggled out of Africa annually, with much of it ending up in the UAE. This trade undermines economic stability and is driven by factors such as tax evasion, regulatory loopholes, and funding for conflicts. Dubai's strategic location and relaxed import laws make it a prime destination for gold smuggling.
+
+Thu, 20 Jun 2024 17:57:47 +0530
+### [What is Rahul Gandhi’s new ‘White T-shirt campaign’ all about?](https://www.firstpost.com/explainers/rahul-gandhi-white-t-shirt-campaign-13784328.html)
+
+Article found but Couldn't summarize 
+Congress MP Rahul Gandhi launched a ‘White T-shirt’ campaign on his 54th birthday on Wednesday, 19 June, revealing that the colour ‘symbolises transparency, solidity, simplicity for me’. It is grabbing eyeballs as he calls on supporters to wear the simple tee in the backdrop of protests over the NEET, NET row
+
+Thu, 20 Jun 2024 16:40:01 +0530
+### [NEET questions leaked: Will arrested aspirants be punished under new anti-paper leak law?](https://www.firstpost.com/explainers/neet-questions-leaked-will-arrested-aspirants-be-punished-under-new-anti-paper-leak-law-13784347.html)
+
+Following the UGC-NET exam cancellation, Amit Anand, the alleged mastermind behind the NEET paper leak, admitted his involvement. The Public Examinations (Prevention of Unfair Means) Act, 2024, which penalizes paper leaks with up to 10 years in prison and a fine of Rs 1 crore, has come under scrutiny.
+
+The Act defines "public examinations" conducted by various bodies, including the NTA. It criminalizes the leakage of question papers, assisting candidates unofficially, and tampering with computer systems.
+
+Offenses under the Act are non-bailable and non-compoundable, with prison terms of 3-5 years for individuals and fines of up to Rs 10 lakh. Organized gangs involved in paper leaks face imprisonment of 5-10 years and fines of Rs 1 crore.
+
+The Act also requires the establishment of a national technical committee to enhance the security of computerized examinations.
+
+In the NEET paper leak case, Anand admitted to distributing the question paper and receiving payments from aspirants. The Patna Police has arrested 13 individuals, including Anand and the candidate he assisted.
+
+As for the cancelled UGC-NET exam, education ministry officials stated that a fresh exam date will be announced soon.
+
+Thu, 20 Jun 2024 16:12:57 +0530
+### [After testicles, microplastics found in penises: Can it cause erectile dysfunction?](https://www.firstpost.com/health/after-testicles-microplastics-found-in-penises-can-it-cause-erectile-dysfunction-13784252.html)
+
+Article found but Couldn't summarize 
+In a first-of-its-kind study, scientists have discovered microplastics in the human penis. The study found microplastics in five out of six penile tissue samples, raising concerns about the impact on male sexual health
+
+Thu, 20 Jun 2024 15:17:22 +0530
+### [Originals Only: Why travelling to the US with fake brands could land you in trouble](https://www.firstpost.com/explainers/us-customs-rules-fake-brands-13784286.html)
+
+US Customs and Border Protection (CBP) is stepping up efforts to prevent the entry of counterfeit goods by confiscating items from travelers. Individuals are only permitted to possess one counterfeit item for personal use. Several Indian tourists and students have had their fake luxury goods seized at US airports. CBP officials emphasize the risks involved in importing counterfeit goods, which can violate intellectual property rights, threaten public safety, and support illegal activities. Similar regulations exist in other countries such as Italy, France, Germany, Spain, Switzerland, and Australia, with penalties including fines and potential criminal charges. Travelers should be aware of these rules to avoid losing their belongings and facing legal consequences.
+
+Thu, 20 Jun 2024 15:00:12 +0530
+### [Why high nighttime temperatures are bad news for Delhi](https://www.firstpost.com/explainers/delhi-high-nighttime-temperatures-concerning-heatwave-13784288.html)
+
+Delhi experienced its warmest night in over 12 years on June 18, with a record minimum temperature of 35.2 degrees Celsius, the highest since 1969. The city has been facing a severe heatwave, with daytime temperatures soaring above 40 degrees Celsius for 37 consecutive days. The high night temperatures, termed 'warm nights' by the IMD, occur when the minimum temperature is significantly above normal. These conditions have led to increased heat-related illnesses and deaths, with at least nine fatalities reported in the past three weeks. Experts attribute the intense heat to climate change, urbanization, and the loss of green spaces, which exacerbate the 'urban heat island effect'. The situation has put a strain on Delhi's power demand, reaching record highs, and has raised concerns about the need for proactive measures to address the health impacts of such extreme temperatures.
+
+Thu, 20 Jun 2024 14:09:23 +0530
+### [Why Vadhavan Port in Maharashtra can be a game-changer for India](https://www.firstpost.com/explainers/why-vadhavan-port-in-maharashtra-can-be-a-game-changer-for-india-13784300.html)
+
+The Union Cabinet has approved a Rs 76,200-crore project to develop a major port at Vadhavan in Maharashtra. The port, expected to be one of the world's top 10, will double India's container handling capacity and serve as a feeder port for the India Middle East Europe Economic Corridor. With a 20-meter depth, it will have a cumulative capacity of 298 million metric tonnes annually, including 23.2 million TEUs of container handling capacity. The port will also aid the Jawaharlal Nehru Port and provide employment opportunities for approximately 12 lakh people.
+
+Thu, 20 Jun 2024 13:17:00 +0530
+### [Heatstroke unit and more beds: How Delhi hospitals are handling heat-related emergencies](https://www.firstpost.com/explainers/delhi-hospitals-heat-related-emergencies-13784226.html)
+
+Hospitals in Delhi-NCR are experiencing a surge in patients with heatstroke and heat exhaustion amid the intense heatwave. Over 52 deaths have been reported in the past two days. To address this, the Delhi government has ordered hospitals to prioritize patient care and increase bed availability.
+
+According to medical experts, critical patients often arrive in hypovolemic shock due to excessive fluid loss. While young and healthy individuals have not experienced severe complications, some with pre-existing conditions have required ICU care.
+
+The Health Department has issued directives to hospitals to ensure 24/7 emergency services, maintain adequate medicine supplies, and admit and treat heatstroke patients immediately. Additionally, Delhi Police has been requested to assist in transporting homeless individuals to shelter homes.
+
+Thu, 20 Jun 2024 12:48:48 +0530
+### [UGC-NET vs NEET-UG: Why two entrance exams are embroiled in controversy](https://www.firstpost.com/explainers/ugc-net-neet-ug-entrance-exams-controvesy-nta-education-ministry-paper-leak-13784248.html)
+
+The University Grants Commission-National Eligibility Test (UGC-NET), held on June 18, has been cancelled due to suspected compromise in the integrity of the exam. The decision was made after inputs from the Union Ministry of Home Affairs. Over nine lakh candidates appeared for the exam. A re-examination will be conducted at a later date, and a CBI investigation into the matter has been initiated. The cancellation follows controversy surrounding the NEET-UG exam, where allegations of question paper leaks and the awarding of grace marks have been made. The controversy has sparked concern about the integrity of centrally conducted public exams and led to calls for accountability.
+
+Thu, 20 Jun 2024 12:00:23 +0530
+### [What is Putin looking to gain from Vietnam visit? Why is Hanoi risking earning the US ire?](https://www.firstpost.com/explainers/vladimir-putin-vietnam-visit-united-states-ire-13784241.html)
+
+Russian President Vladimir Putin's visit to Vietnam aims to signal that Russia is not isolated despite Western sanctions. Putin will discuss Ukraine and defense cooperation with Vietnamese leaders, as Vietnam has been a major arms customer for Russia. The visit also reinforces the historical connection between the two nations, based on shared communist roots.
+
+Vietnam, which practices "bamboo diplomacy," seeks to maintain balance in its international relations. While it receives heavy military hardware from Russia, it also values its partnerships with the US and the EU. Vietnam's engagement with Russia serves as a counterbalance to both China and the US.
+
+The US expresses concern over Putin's visit to Vietnam, as it could normalize his actions in Ukraine. Western countries view Vietnam's balanced stance and willingness to host Putin as a sign that Russia is not as isolated as they would like. This undermines their efforts to isolate Russia and suggests a potential threat to US strategic goals in the region.
+
+Thu, 20 Jun 2024 11:47:45 +0530
+### [Quicksplained: Why Indian banks are grappling with a major ATM crunch](https://www.firstpost.com/explainers/quicksplained-why-indian-banks-are-grappling-with-a-major-atm-crunch-13784199.html)
+
+**ATM Shortage in India**
+
+Indian banks have expressed concerns about a shortage of ATMs. This is attributed to bottlenecks in the 'Make in India' initiative and challenges with the government e-marketplace (GeM) portal. Banks are requesting a more flexible procurement process through independent RFPs and clarity on GeM guidelines. The shortage is impacting banks' efforts to implement lockable cassette mechanisms in ATMs as directed by RBI. Additionally, poor infrastructure and vaulting arrangements have contributed to the delay in implementation. Some banks are exploring cash recycling machines as an alternative to enhance efficiency.
+
+Thu, 20 Jun 2024 10:51:38 +0530
+### [PM Narendra Modi’s J&K visit: What’s the agenda? Why is it significant?](https://www.firstpost.com/explainers/pm-narendra-modi-jammu-and-kashmir-visit-agenda-significance-13784227.html)
+
+Prime Minister Narendra Modi will visit Jammu and Kashmir on June 20-21 for the first time since his re-election. During his visit, Modi will inaugurate 84 development projects worth Rs 1500 crore, including road upgrades, industrial estates, and higher education institutions. He will also lead the International Day of Yoga (IDY) celebrations in Srinagar, where over 7,000 participants are expected.
+
+Modi's visit comes amid heightened security following recent terrorist attacks in Jammu and Kashmir. Security has been tightened in Srinagar, where Modi will attend events at the Sher-i-Kashmir International Conference Centre and SKICC. The visit is significant as it aims to showcase the government's development initiatives and commitment to peace and prosperity in Jammu and Kashmir. The upcoming assembly elections later this year also add to the importance of Modi's trip.
+
+Thu, 20 Jun 2024 10:22:31 +0530
+### [Kim and Putin sign defence pact: Here’s what we know and what we don’t](https://www.firstpost.com/explainers/north-korean-russia-defence-pact-13784205.html)
+
+Article found but Couldn't summarize 
+Russian president Vladimir Putin signed a deal with North Korean leader Kim Jong Un that included a mutual defence pact. Neither side has released the text of the agreement but the West worried already
+
+Thu, 20 Jun 2024 06:30:24 +0530
+### [FirstUp: PM Modi to flag off Vande Bharat trains, EAM Jaishankar to visit Sri Lanka... today's big events](https://www.firstpost.com/explainers/firstup-pm-modi-to-flag-off-vande-bharat-trains-eam-jaishankar-to-visit-sri-lanka-todays-big-events-13784007.html)
+
+Article found but Couldn't summarize 
+Prime Minister Narendra Modi will flag off two Vande Bharat trains in Tamil Nadu and Karnataka. External Affairs Minister S Jaishankar is visiting Sri Lanka. Finance Minister Nirmala Sitharaman is set to hold a pre-Budget meeting with industry and farmers' groups
+
+Wed, 19 Jun 2024 20:54:19 +0530
+### [In Graphics l How is the Speaker to the Lok Sabha elected?](https://www.firstpost.com/explainers/in-graphics-l-how-is-the-speaker-to-the-lok-sabha-elected-13784037.html)
+
+Article found but Couldn't summarize 
+With Prime Minister Narendra Modi set to propose the name of the Lok Sabha Speaker on 25 June, speculation is rife about who will get the coveted post. BJP's Andhra Pradesh president Daggubati Purandeswari, TDP MP GM Harish Balayogi and seven-term BJP MP Bhratruhari Mahtab are thought to be in the running, while current Lok Sabha Speaker Om Birla is eyeing another term. But how is the Speaker elected? Why is the post important?
+
+Wed, 19 Jun 2024 20:19:02 +0530
+### [What’s behind Delhi heatwave which has left five dead? Is relief in sight?](https://www.firstpost.com/explainers/whats-behind-delhi-heatwave-which-has-left-five-dead-is-relief-in-sight-13784085.html)
+
+Article found but Couldn't summarize 
+Five people have died in the past 48 hours in the National Capital and dozens have been admitted to hospital with complaints of heat stroke and exhaustion. Experts say dry and warm westerly winds from Rajasthan and southern Haryana are to blame for the brutal heatwave in the city. Though Delhi could receive pre-monsoon showers over the next few days, real relief will only come with the Monsoon, which will arrive around 30 June
+
+Wed, 19 Jun 2024 17:42:36 +0530
+### [Tourists in Greece keep disappearing and turning up dead. Is extreme heat the reason?](https://www.firstpost.com/explainers/tourists-in-greece-keep-disappearing-and-turning-up-dead-is-extreme-heat-the-reason-13784019.html)
+
+Article found but Couldn't summarize 
+Temperatures have soared above 40 degrees Celsius in Greece as the holiday season gets underway. Now, a half a dozen tourists have been reported dead or missing over the past week. But what do experts say? Is extreme heat really to blame?
+
+Wed, 19 Jun 2024 16:57:08 +0530
+### [‘Spent more on pet dog than paid servant’: The shocking revelations from Hinduja family’s human trafficking trial](https://www.firstpost.com/explainers/hinduja-family-human-trafficking-trial-switzerland-case-uk-richest-family-13783998.html)
+
+The Hinduja family, Britain's richest, is facing legal trouble in Switzerland, with four family members accused of human trafficking and mistreatment of domestic staff. The billionaire family is on trial in a Swiss court, with a prosecutor alleging that they spent more on caring for their pet dog than their servants. The family, which runs the multinational conglomerate the Hinduja group, has denied mistreating the staff and claimed that they were treated with respect and dignity. The criminal trial continues, despite three domestic workers settling a civil case against the Hindujas over alleged exploitation.
+
+Wed, 19 Jun 2024 16:14:10 +0530
+### [What is the rare sensorineural deafness that singer Alka Yagnik has been diagnosed with?](https://www.firstpost.com/health/what-is-the-rare-sensorineural-deafness-that-singer-alka-yagnik-has-been-diagnosed-with-13783912.html)
+
+Article found but Couldn't summarize 
+Sensorineural hearing loss is a rare condition that occurs when the inner ear or the actual hearing nerve is damaged. While the doctors say that the condition diagnosed with singer Alka Yagnik is not life-threatening it is difficult to reverse. It can severely affect communication and daily life, posing a significant challenge
+
+Wed, 19 Jun 2024 15:54:37 +0530
+### [Biden is a victim of ‘cheap fakes’, says White House: What are they?](https://www.firstpost.com/explainers/joe-biden-is-a-victim-of-cheap-fakes-says-white-house-what-are-they-us-elections-13783935.html)
+
+The White House and US media are in dispute over videos that seem to depict President Joe Biden appearing confused or wandering off. The White House has accused these videos of being "cheap fakes" and suggests that they have been edited to mislead viewers. The term "cheap fake" refers to manipulated audiovisual content created using inexpensive and accessible software, and they are harder to detect than deepfakes. Several videos of President Biden have gone viral, sparking debates about their authenticity and political implications, with concerns about their impact on public perception and the upcoming presidential election.
+
+Wed, 19 Jun 2024 15:42:54 +0530
+### [Why are the UK and China set to face the biggest exodus of millionaires in the world?](https://www.firstpost.com/explainers/why-are-the-uk-and-china-are-set-to-face-the-biggest-exodus-of-millionaires-in-the-world-13783964.html)
+
+China and the UK face a significant exodus of millionaires. China is projected to lose 15,200 millionaires in 2024, mainly driven by economic concerns and geopolitical instability. The UK is set to lose 9,500 millionaires due to Brexit uncertainties and economic challenges. Both countries' departures indicate underlying economic issues and a loss of foreign exchange revenue. India, despite losing 4,300 millionaires, has reduced its wealth outflow compared to last year. The reasons for India's high net outflows include the pursuit of improved lifestyle and access to premium services abroad.
+
+Wed, 19 Jun 2024 15:01:37 +0530
+### [Why Kanishka bombing continues to overshadow India-Canada ties](https://www.firstpost.com/explainers/why-kanishka-bombing-continues-to-overshadow-india-canada-ties-13783955.html)
+
+On the anniversary of the Kanishka bombing, the Indian Consulate General in Vancouver will hold a memorial service. This event coincides with the Canadian Parliament's observance of the death anniversary of Khalistani terrorist Hardeep Singh Nijjar.
+
+The Kanishka bombing, which claimed 329 lives in 1985, remains a strain on India-Canada ties. Authorities in Canada believe Sikh extremists carried out the bombing in response to Operation Blue Star.
+
+Two men, Talwinder Singh Parmar and Inderjit Singh Reyat, were arrested for the bombing, but Parmar was later released. Reyat, who admitted to helping construct the bomb, pleaded guilty to manslaughter and received a five-year sentence. Other suspects were eventually acquitted.
+
+Canada's handling of the case has drawn criticism, with accusations of bungling by the Canadian Security Intelligence Service. The delays and acquittals have left many victims' families feeling unsatisfied.
+
+India has accused Canada of not taking sufficient action against Khalistani extremists, who it believes have been operating with impunity from Canada. This issue continues to overshadow relations between the two countries.
+
+Wed, 19 Jun 2024 14:25:54 +0530
+### [How Joe Biden’s new immigration policy will benefit Indians in the US](https://www.firstpost.com/explainers/us-joe-biden-new-immigration-policy-indians-13783930.html)
+
+Article found but Couldn't summarize 
+US president Joe Biden announced two immigration measures on Tuesday – one for undocumented spouses of American citizens and another for young immigrants, including Dreamers. Here’s what his new policy entails and how it will impact non-citizen Indians
+
+Wed, 19 Jun 2024 13:49:40 +0530
+### [US lawmakers' visit to Dalai Lama stirs tensions with Beijing. A look at the fraught China-Tibet history](https://www.firstpost.com/explainers/us-american-lawmakers-nancy-pelosi-visit-dalai-lama-in-india-stirs-tensions-with-beijing-a-look-at-the-china-tibet-history-13783875.html)
+
+A US delegation met the Dalai Lama in India, highlighting support for Tibetan autonomy. China, which views Tibetan autonomy as a threat, expressed concern. The delegation's visit is part of an effort to resolve the long-standing Tibet dispute and comes amid tense US-China relations. The "Resolve Tibet Act," currently awaiting President Biden's approval, urges dialogue between Beijing and Tibetan leaders. The Dalai Lama, viewed by China as a separatist, denies such claims and advocates for autonomy and cultural protection under Chinese rule. The conflict stems from historical claims and China's 1950 annexation of Tibet. Despite its promises to maintain Tibetan autonomy, China has tightened its grip, assimilating Tibetans and controlling religious positions. The Dalai Lama's health and the succession issue are concerns, with China seeking to control the selection process. The US and India continue to support Tibetan autonomy, and the situation remains a sensitive international issue.
+
+Wed, 19 Jun 2024 13:05:20 +0530
+### [Explained: What is Juneteenth, the US holiday celebrated on 19 June every year?](https://www.firstpost.com/explainers/what-is-juneteenth-the-us-holiday-celebrated-on-19-june-13783788.html)
+
+Juneteenth commemorates the emancipation of enslaved Black people in the United States on June 19, 1865. After President Lincoln's Emancipation Proclamation, Union General Gordon Granger announced the news in Texas, ending slavery over two years after the proclamation.
+
+Celebrations vary across the country and include parades, street parties, cookouts, and educational events. Red foods symbolize the sacrifices of enslaved ancestors. Community service, rest, and reflection are also part of the occasion.
+
+In 2021, Juneteenth became a federal holiday following the "Juneteenth National Independence Day Act" signed by President Biden. Today, it is recognized as a public holiday in at least 30 states and the District of Columbia, with all states acknowledging it as a day of observance.
+
+Wed, 19 Jun 2024 12:13:08 +0530
+### [The West's sanctions on Russia are failing: Here's how Putin bypasses them](https://www.firstpost.com/explainers/the-wests-sanctions-on-russia-are-failing-heres-how-putin-bypasses-them-13783848.html)
+
+Since 2014, the US and EU have imposed sanctions against Russia. Despite these measures, Russia has employed various strategies to evade them. One method is the "Eurasian roundabout," which involves rerouting goods through intermediary countries like Armenia, Kazakhstan, and Kyrgyzstan. China, Turkey, and the UAE have also played a role in providing materials and re-exporting products to Russia. Corporations have also adopted tactics like establishing operations in third countries and creating shell companies to evade sanctions. Enforcement is complex due to stripping products for parts and the challenge of tracking indirect exports. While sanctions aim to increase Russia's costs and deter support, they face constant challenges from evasive tactics employed by Russia and its collaborators.
+
+Wed, 19 Jun 2024 10:54:59 +0530
+### [Russia’s Vladimir Putin in North Korea: What do the two countries want from each other?](https://www.firstpost.com/explainers/russia-president-vladimir-putin-north-korea-visit-significance-kim-jong-un-ukraine-war-13783809.html)
+
+Russian President Vladimir Putin visited North Korea to strengthen ties between the two isolated nations. Putin and North Korean leader Kim Jong Un aim to sign a "comprehensive strategic partnership treaty" and discuss economic and military cooperation.
+
+Russia seeks ammunition from North Korea to support its war in Ukraine, while North Korea desires military technology and economic assistance from Russia. Putin may provide resources and technology in exchange for artillery rounds and laborers from North Korea.
+
+The visit sends messages to the world: Putin shows Russia still has allies, and Kim demonstrates that North Korea is not alone. The deepening relationship between Russia and North Korea has raised concerns among the US and South Korea, viewing it as a threat to regional security.
+
+Wed, 19 Jun 2024 10:34:57 +0530
+### [Rajya Sabha MP’s daughter runs BMW over man sleeping on footpath: What happened, why did she get bail?](https://www.firstpost.com/explainers/rajya-sabha-mp-daughter-runs-bmw-over-man-sleeping-on-footpath-chennai-bail-hit-and-run-law-13783803.html)
+
+Article found but Couldn't summarize 
+In yet another case of hit-and-run, Madhuri, the daughter of Rajya Sabha MP Beeda Masthan Rao, ran over a man sleeping on a footpath in Chennai on Monday night. The victim died, while the woman received bail. But what does the law say?
+
+Wed, 19 Jun 2024 09:00:22 +0530
+### [PM Modi inaugurates Nalanda University campus: The significance and history explained](https://www.firstpost.com/explainers/pm-modi-to-inaugurate-nalanda-university-campus-today-the-significance-and-history-explained-13783657.html)
+
+Prime Minister Narendra Modi inaugurated the newly built Nalanda University campus, named after the ancient learning center established in 427 CE.
+
+The new campus is spread over 450 acres and incorporates ancient architectural elements. It offers courses in Hindu Studies, Buddhist Studies, and Environmental Studies, attracting students from over 20 countries.
+
+The original Nalanda University was a renowned center of learning, housing nine million books and tens of thousands of students from around Asia. It held significant religious and cultural influence, attracting teachers and scholars from India, China, Korea, and beyond.
+
+However, the university was repeatedly attacked throughout history and eventually burned down by invaders in the 12th century. Its ruins were rediscovered in the 19th century, inspiring the establishment of the new university in 2010. The revival of Nalanda University aims to preserve and continue the legacy of academic excellence and cultural exchange that characterized its ancient predecessor.
+
+Wed, 19 Jun 2024 06:00:40 +0530
+### [FirstUp: Modi to inaugurate Nalanda University campus, Putin in North Korea... Big headlines today](https://www.firstpost.com/explainers/firstup-modi-to-inaugurate-nalanda-university-campus-putin-to-visit-vietnam-big-headlines-today-13783610.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi will be inaugurating the new campus of Nalanda University. The Indian railway authorities will hold a statutory inquiry into the Kanchenjunga Express tragedy that claimed nine lives and left 25 injured. Russian president Vladimir Putin will wrap up his North Korea visit and head to Vietnam for two days
+
+Tue, 18 Jun 2024 21:04:32 +0530
+### [A water war between US and Mexico is looming. Here's why](https://www.firstpost.com/explainers/a-water-war-between-us-and-mexico-is-looming-heres-why-13783713.html)
+
+The US and Mexico have a 80-year-old treaty that regulates the sharing of water from the Colorado River and the Rio Grande. The treaty requires Mexico to deliver 1.75 million acre-feet of water to the US every five years, while the US is obligated to deliver 1.5 million acre-feet of water to Mexico annually. However, due to a severe drought and heatwave in Mexico, the country is struggling to meet its obligations under the treaty, delivering only 30% of its expected deliveries. The US is demanding that Mexico meet its obligations, but Mexico claims it is powerless to do so due to the drought. The situation has led to tensions between the two countries, with US farmers complaining of a lack of water and Mexican politicians saying they cannot meet their commitments.
+
+Tue, 18 Jun 2024 21:04:21 +0530
+### [How Ukraine’s conscription squads are forcing men to fight in the war](https://www.firstpost.com/explainers/how-ukraine-conscription-squads-are-forcing-men-to-fight-in-the-war-russia-zelenskyy-putin-13783619.html)
+
+Ukraine is struggling to find new recruits to join its military due to a shortage of infantry and ammunition, leading to the implementation of stricter measures to conscript men. Mobilization squads are reportedly removing individuals from buses and bars, forcing them to go to enlistment centers. The government has lowered the draft eligible age from 27 to 25 and created an online registry for recruits, adding around 50,000 troops to the military. However, this has led to concerns that the war-ravaged economy may be further harmed by taking more young adults out of the workforce. The government has also introduced a law allowing the recruitment of prisoners into the military, and has restricted passport renewals for men between 18 and 60 years old who are deemed fit for military service.
+
+Tue, 18 Jun 2024 19:59:59 +0530
+### [In Graphics | How deep is the global water crisis?](https://www.firstpost.com/explainers/in-graphics-how-deep-is-the-global-water-crisis-13783686.html)
+
+Article found but Couldn't summarize 
+A report by the World Resources Institute has found that India is among the 25 countries facing extremely high water stress each year. Over half the world’s population – four billion people – is exposed to this at least one month every year. But how bad is it? And which countries are suffering most?
+
+Tue, 18 Jun 2024 19:37:31 +0530
+### [Karsandas Mulji: Who was the journalist, praised by Modi, at the centre of Netflix's 'Maharaj' row?](https://www.firstpost.com/explainers/karsandas-mulji-journalist-praised-by-narendra-modi-netflix-maharaj-row-13783631.html)
+
+The Netflix film "Maharaj" has sparked controversy over its depiction of a 1862 libel case involving journalist and author Karsandas Mulji. The film, based on Mulji's life, is accused of being scandalous and defamatory towards the Pustimargi sect. The Gujarat High Court has temporarily suspended the release of the film and issued notices to Yash Raj Films, Netflix, and others. The case, known as the Maharaja Libel Case, saw Mulji face a defamation suit for exposing the alleged immoral conduct of religious leaders. The court ultimately dismissed the case, setting a precedent that everyone, including priests, is equal under the law.
+
+Tue, 18 Jun 2024 19:04:39 +0530
+### [Americans are into hypergamy: What is this dating trend?](https://www.firstpost.com/explainers/americans-are-into-hypergamy-what-is-this-dating-trend-13783655.html)
+
+A recent survey of 2,000 Americans found that 47% of respondents expressed a positive view of hypergamy, which is the practice of dating or marrying someone of higher socioeconomic status. The survey revealed that many Americans believe that dating someone more successful than themselves can provide financial security, boost reputation, and enhance personal growth and self-discovery. The survey also found that people find certain traits attractive in their dates, including self-confidence, pride in accomplishments, and financial stability. Additionally, 42% of respondents found having a nice home, being able to cook well, and having a cultured taste in music to be attractive traits.
+
+Tue, 18 Jun 2024 18:31:11 +0530
+### [Congress' K Suresh to be Speaker pro-tem: Why is post important?](https://www.firstpost.com/explainers/congress-k-suresh-to-be-speaker-pro-tem-why-is-post-important-13780237.html)
+
+K Suresh, a 68-year-old Congress MP from Kerala's Mavelikara, is set to be the pro-tem Speaker of the 18th Lok Sabha. The pro-tem Speaker is a temporary position that is appointed by the President of India, typically assigned to the most senior member of the House. The Speaker pro-tem has several duties, including presiding over the first sitting of the Lok Sabha, administering the oath of office to newly elected MPs, and conducting the floor test to prove the government's majority.
+
+The Speaker pro-tem's post is important because it sets the stage for the election of the Speaker of the House, which is a crucial position in the Indian Parliament. The Speaker is responsible for running the House, keeping order, and making key decisions, including those related to disqualification of MPs and no-confidence motions. The Speaker's role is particularly important in situations where there is a no-confidence motion against the government.
+
+The Indian government is currently deciding on the next Speaker of the House, with the JD(U) and TDP eyeing the post to "insulate" themselves from possible fallout in the future. The TDP has been advised by the Shiv Sena (UBT) leader Aaditya Thackeray to insist on getting the Lok Sabha Speaker's post, warning that the BJP will try to break the parties of its allies once it forms the government.
+
+Tue, 18 Jun 2024 17:26:59 +0530
+### [Taps run dry in Shimla: How water crises have become regular on hill stations](https://www.firstpost.com/explainers/taps-run-dry-in-shimla-how-water-crises-have-become-regular-on-hill-stations-13783547.html)
+
+Shimla, the capital of Himachal Pradesh, is facing an acute water shortage due to a prolonged dry spell and heatwave. The city's water sources, including six water projects, are either dried up or recording low levels. The city's water demand has surged due to an influx of tourists, with hotels buying water from private tankers at a cost of Rs 2,000 to Rs 5,000 per tanker. Residents are struggling to access water, with some areas not receiving a drop of water for seven days. The Shimla Jal Prabandhan Nigam Limited has attributed the shortage to the dry spell and heatwave, and is working to distribute water equitably. The situation is expected to worsen if it does not rain soon.
+
+Tue, 18 Jun 2024 16:51:12 +0530
+### [Thailand set to approve same-sex marriages. Which other Asian countries allow it?](https://www.firstpost.com/explainers/thailand-same-sex-marriage-asia-gay-marriage-13783628.html)
+
+Thailand is set to become the first Southeast Asian country to legalize same-sex marriage, as lawmakers approved a marriage equality bill. The bill was approved by the Senate with 130 votes to 4, with some abstentions, and is expected to become law after review by a Senate committee and the Constitutional Court. Thailand has long been known for its relatively open and accepting attitude towards the LGBTQ+ community.
+
+Taiwan made history in 2019 by becoming the first place in Asia to legalize same-sex marriage, while Nepal has taken significant steps towards recognizing same-sex marriages. India, however, declined to grant legal recognition to same-sex marriages, stating it was within the domain of the parliament to introduce such legislation.
+
+Public opinion on same-sex marriage varies significantly across Asia, with Japan having the highest level of support at 68%, while Indonesia has one of the highest levels of opposition at 92%. A generational divide is also apparent, with younger adults more likely to support same-sex marriage than their older counterparts. Despite growing support in some areas, same-sex marriage remains a contentious issue across much of Asia, with several countries criminalizing homosexuality.
+
+Tue, 18 Jun 2024 16:00:42 +0530
+### [Why are protesters calling for fresh elections in Israel? Are Netanyahu's days numbered?](https://www.firstpost.com/explainers/why-are-protesters-calling-for-re-election-in-israel-are-netanyahus-days-numbered-13783586.html)
+
+Israel has seen a surge in anti-government protests, with demonstrators calling for immediate elections and an end to Prime Minister Benjamin Netanyahu's leadership. The protests were sparked by Netanyahu's handling of the war in Gaza and his reliance on ultra-Orthodox and far-right partners. Protesters are demanding new elections, citing dissatisfaction with Netanyahu's handling of the conflict, the hostage crisis, and his government's policies. The protests have led to clashes with police and the blocking of major highways. Critics accuse Netanyahu of prioritizing his own political survival over national interests and security. The opposition has capitalized on the dissatisfaction, advocating for early elections and a more stable government.
+
+Tue, 18 Jun 2024 15:20:29 +0530
+### [What is a heat dome, leading to record-high temperatures in the US?](https://www.firstpost.com/explainers/heat-dome-us-high-temperatures-13783552.html)
+
+Article found but Couldn't summarize 
+A prolonged heatwave fuelled by an intense heat dome has gripped the United States, with temperatures between 35 to 45 degrees Celsius in many states. A heat dome forms when high atmospheric pressure traps warm ocean air over a specific region. The current heat dome is reportedly partly related to a similar phenomenon occurring in Mexico
+
+Tue, 18 Jun 2024 14:21:21 +0530
+### [Can your daily mouthwash gargles give you cancer?](https://www.firstpost.com/health/can-your-daily-mouthwash-gargles-give-you-cancer-13783432.html)
+
+A recent study published in the Journal of Medical Microbiology found that using Listerine mouthwash regularly may increase the risk of certain cancers, including oesophageal and colorectal cancer. The study found that the daily use of Listerine leads to an abundance of two species of bacteria, Fusobacterium nucleatum and Streptococcus anginosus, which have been linked to causing cancer. Fusobacterium nucleatum has been associated with colorectal cancer, while Streptococcus anginosus can cause abscesses and invasive infections. The study suggests that the alcohol in Listerine may increase the level of bacteria in the mouth, and that regular use should be carefully considered. The authors recommend using alcohol-free alternatives to maintain a good balance of bacteria in the mouth.
+
+Tue, 18 Jun 2024 13:58:17 +0530
+### [What is Nikhil Gupta’s role in Pannun ‘murder plot’? What happens now that he is extradited to US?](https://www.firstpost.com/explainers/what-is-nikhil-guptas-role-in-pannun-murder-plot-what-happens-now-that-he-is-extradited-to-us-13783571.html)
+
+Nikhil Gupta, a 53-year-old Indian national, was extradited to the United States from the Czech Republic on June 14. He is accused of working with an Indian government official to plan an assassination plot against Sikh separatist Gurpatwant Singh Pannun, a US citizen of Indian origin. Pannun is the legal advisor and spokesperson for the Sikh separatist group, SFJ, which seeks to create a separate state of Khalistan. According to court documents, Gupta allegedly made a payment of $15,000 to a hitman to kill Pannun. He has pleaded not guilty to the charges. The case will continue on June 28.
+
+Tue, 18 Jun 2024 13:39:25 +0530
+### [Why are all eyes on the next Lok Sabha speaker? Can the INDIA bloc get the deputy speaker post?](https://www.firstpost.com/explainers/lok-sabha-speaker-nda-bjp-candidates-india-bloc-deputy-speaker-post-13783546.html)
+
+The article discusses the speculated candidates for the post of Lok Sabha Speaker in the 18th Lok Sabha. The Bharatiya Janata Party (BJP) does not have an absolute majority in the lower house, and the National Democratic Alliance (NDA) is expected to announce its candidate on June 26. The article mentions that Prime Minister Narendra Modi will propose the name of the candidate. The BJP is considering retaining Om Birla, the current Speaker, for the post. Other candidates mentioned include Andhra Pradesh BJP president Daggubatti Purandareshwari, Bhratruhari Mahtab, and GM Harish Balayogi. The NDA partners, including the Telugu Desam Party (TDP) and Janata Dal (United), had initially demanded the post, but have since softened their stance. The article also mentions that the Opposition is eyeing the post of deputy speaker, which has been vacant for five years.
+
+Tue, 18 Jun 2024 12:56:55 +0530
+### [Explained: The four court cases that could spark political turmoil in Thailand](https://www.firstpost.com/explainers/four-court-cases-thailand-political-turmoil-13783501.html)
+
+Article found but Couldn't summarize 
+A political crisis in Thailand may be brewing. This is because several prominent leaders like Prime Minister Srettha Thavisin and former PM Thaksin Shinawatra are involved in four cases scheduled to be heard by the courts today
+
+Tue, 18 Jun 2024 12:42:27 +0530
+### [Explained: Why Paris lost its crown as Europe’s biggest stock market to London](https://www.firstpost.com/explainers/explained-why-paris-lost-its-crown-as-europe-biggest-stock-market-to-london-macron-elections-13783515.html)
+
+Article found but Couldn't summarize 
+Paris has relinquished its title as Europe's largest equity market to London following a week of political upheaval in France, triggered by Emmanuel Macron's announcement of snap elections. The collective value of stocks on Euronext Paris has dropped by approximately $258 billion, reducing the market capitalisation of French companies to around $3.13 trillion
+
+Tue, 18 Jun 2024 12:20:04 +0530
+### [India's nuclear weapon arsenal has grown, but how does it compare to Pakistan, China?](https://www.firstpost.com/explainers/india-nuclear-weapon-arsenal-compare-to-pakistan-china-13783509.html)
+
+The SIPRI 2024 Yearbook highlights the current state of nuclear arsenals globally. India's nuclear warheads have increased to 172, focusing on deterring China as well as Pakistan. Pakistan's arsenal remains at 170, primarily to counter India. China's total has risen to 500, indicating a focus on maintaining a second-strike capability. Russia and the USA hold nearly 90% of the world's nuclear weapons, with Russia having the largest arsenal at 5,580 warheads, followed by the USA with 5,044. Globally, nine countries possess nuclear weapons, contributing to a total of 12,121 warheads, with modernization efforts ongoing.
+
+Tue, 18 Jun 2024 12:03:18 +0530
+### [Why did Netanyahu dissolve Israel war Cabinet? What does this mean for Gaza war?](https://www.firstpost.com/explainers/why-did-benjamin-netanyahu-dissolve-israel-war-cabinet-gaza-13783504.html)
+
+Israeli Prime Minister Benjamin Netanyahu dissolved the war Cabinet, a smaller body established to make quick decisions about the war with Hamas. The Cabinet was disbanded after Opposition leader Benny Gantz quit the group, citing Netanyahu's failure to develop a strategy for the Gaza conflict and his refusal to endorse a plan to rescue Israeli hostages held by Hamas. Netanyahu's decision to dissolve the Cabinet was expected, as it followed Gantz's resignation. The war Cabinet was established five days after Hamas attacked Israel on October 7, and it consisted of six members, including Netanyahu, Israeli Defense Minister Yoav Gallant, and Benny Gantz. The Cabinet's meetings had become "a shameful arena for settling scores, fighting and discussions that lead nowhere," according to Israeli media reports.
+
+Tue, 18 Jun 2024 10:56:52 +0530
+### [Kanchanjunga accident: Did an error in the signal system lead to the crash?](https://www.firstpost.com/explainers/kanchanjunga-accident-signal-system-error-13783410.html)
+
+At least 15 passengers were killed and 60 others were injured when a goods train collided with the Kanchanjunga Express in West Bengal, derailing three of its rear coaches. The accident occurred due to a defective automatic signalling system, which allowed the goods train to pass red signals. The train driver was authorized to cross the signals because of the malfunction, which is being investigated. The Railway Board initially blamed the driver for disregarding the signal, but the Indian Railway Loco Runningmen Organisation disagreed, stating that the failure was due to the defective system, not the driver.
+
+Tue, 18 Jun 2024 10:29:26 +0530
+### [What’s behind Rahul Gandhi’s move to give up Wayanad? What does Priyanka’s electoral debut mean?](https://www.firstpost.com/explainers/congress-rahul-gandhi-wayanad-lok-sabha-seat-rae-bareli-priyanka-gandhi-electoral-debut-13783467.html)
+
+Rahul Gandhi will relinquish his Wayanad Lok Sabha constituency to retain Rae Bareli seat in Uttar Pradesh, paving the way for his sister Priyanka Gandhi Vadra to contest her maiden elections. The Congress party has taken this decision as Rahul Gandhi has won both seats in the 18th Lok Sabha elections by a margin of over three lakh votes. The party wants to utilize Priyanka's abilities as a campaigner and orator, and it is expected that it will be smooth sailing for her in the Wayanad bypoll.
+
+Tue, 18 Jun 2024 07:32:39 +0530
+### [Vladimir Putin is making a rare visit to North Korea. Here’s what we can expect](https://www.firstpost.com/explainers/vladimir-putin-is-making-a-rare-visit-to-north-korea-heres-what-we-can-expect-13783357.html)
+
+Russian President Vladimir Putin is set to visit North Korea from June 18 to 19 at the invitation of North Korean leader Kim Jong-un. This will be Putin's second visit to North Korea, with his first visit being in 2000. The two countries are likely to discuss munitions, with the US and others accusing North Korea of transferring weapons to Russia for use against Ukraine. The countries have a long history of ties, with North Korea being heavily reliant on Soviet aid in the past. Russia has since joined China in opposing new sanctions on North Korea and has blocked a US-led push for sanctions. The two countries have also strengthened their ties in recent years, with Putin welcoming Kim to Russia in 2019 and the two leaders agreeing to deepen military relations. North Korea wants nuclear weapons designs, re-entry vehicles for intercontinental ballistic missiles, and tech related to satellites, submarines, and hypersonic weapons. Russia has denied accusations of weapons-for-food trading and has vowed to deepen military relations with North Korea. Experts say that the growing ties between North Korea and Russia are significant and could have far-reaching implications for regional stability and global geopolitics.
+
+Tue, 18 Jun 2024 06:30:41 +0530
+### [FirstUp: Putin in North Korea after 24 years, Modi to address farmers in Varanasi...Top headlines today](https://www.firstpost.com/explainers/firstup-putin-in-north-korea-after-24-years-modi-to-address-farmers-in-varanasi-top-headlines-today-13783329.html)
+
+Russian President Vladimir Putin is set to visit North Korea from June 18 to 19, marking his first visit in 24 years. The visit highlights Moscow's growing partnership with North Korea. Meanwhile, Indian Prime Minister Narendra Modi will visit his parliamentary constituency Varanasi on June 18, where he will outline a comprehensive plan to improve farmers' conditions. The plan includes appointing 30,000 trained women farm guides and distributing the 17th installment of PM Kisan, a cash-transfer initiative for farmers. The Supreme Court will also hear a plea by Punjab AAP MLA Jaswant Singh Gajjan Majra challenging his ED arrest.
+
+Mon, 17 Jun 2024 19:50:25 +0530
+### [Elections, price cuts... India’s fuel consumption should have been up, so why is it falling?](https://www.firstpost.com/explainers/elections-price-cuts-indias-fuel-consumption-should-have-been-up-so-why-is-it-falling-13783311.html)
+
+According to preliminary data from state-owned fuel firms, diesel demand in India saw a slump in June, with sales dropping 3.9% compared to the same period last year. This is despite the assumption that fuel sales would surge during the Lok Sabha elections. Additionally, petrol sales have also been consistently dropping month-on-month this year, with a 4.6% drop in the first half of June compared to the same period last year. Diesel is India's most consumed fuel, accounting for 40% of all petroleum product consumption, with the transport sector accounting for 70% of all diesel sales.
+
+Mon, 17 Jun 2024 18:47:32 +0530
+### [What do the various manifestos of the UK parties say? How do they compare ahead of the UK general election?](https://www.firstpost.com/explainers/what-do-the-various-manifestos-of-the-uk-parties-say-how-do-they-compare-ahead-of-the-uk-general-election-13783316.html)
+
+The article discusses the manifestos of the major parties contesting the UK general election on 4 July. The parties' fiscal strategies can be broadly categorized into two camps: one that is reluctant to raise taxes, such as Labour and the Conservatives, and another that is more flexible, like the Liberal Democrats and the Greens. The Labour Party proposes £7.4 billion in tax hikes, including levies on private school fees and expanding the windfall tax on oil and gas companies. The Conservative Party aims to cut £17 billion in taxes, primarily through reducing national insurance rates.
+
+The parties' policies on health, environment, education, immigration, housing, and crime and policing are also outlined. The Conservative Party promises to continue issuing licenses for North Sea oil and gas extraction, while the Labour Party aims to decarbonize the electricity grid by 2030. The Green Party proposes canceling recently awarded oilfield licenses and expanding state renewable energy. The Liberal Democrats focus on an emergency program of home insulation and heat pump installation.
+
+The parties' education policies include recruiting new teachers, improving school funding, and changing the curriculum. The Conservative Party plans to ban mobile phones during school hours and mandate math study until age 18. The Labour Party aims to recruit 6,500 new teachers and provide free breakfast clubs in every primary school.
+
+The article concludes that the parties' manifestos present a diverse array of policies and promises, each aiming to address the nation's pressing issues in different ways.
+
+Mon, 17 Jun 2024 18:45:36 +0530
+### [US military ran secret campaign against China's COVID-19 vaccine. Here’s what we know](https://www.firstpost.com/explainers/us-military-ran-secret-campaign-against-chinas-covid-19-vaccine-heres-what-we-know-13783313.html)
+
+The US military launched a covert anti-vaccination campaign against Chinese vaccines during the COVID-19 pandemic. The campaign, which began in the last year of Donald Trump's presidency and continued for several months after Joe Biden took office, targeted face masks, test kits, and China's vaccine Sinovac in the Philippines and other West and Central Asian nations on social media platform X. The Pentagon created fake accounts that impersonated Filipinos to spread false information and create confusion about the safety and effectiveness of Chinese vaccines. The campaign was part of a broader effort to limit China's growing influence in the Philippines and to discredit Chinese vaccines.
+
+Mon, 17 Jun 2024 18:33:34 +0530
+### [Kanchanjunga Express train accident: Could ‘Kavach’ have prevented the tragedy?](https://www.firstpost.com/explainers/kanchanjunga-express-train-accident-kavach-collision-indian-railways-13783309.html)
+
+Kavach is an automatic train protection (ATP) system designed by Research Design and Standards Organisation (RDSO) in collaboration with three Indian firms. It is a state-of-the-art electronic system that activates the train's braking system automatically if the driver fails to do so. The system has been certified with a Safety Integrity Level-4 (SIL-4) and has an error probability of 1 in 10,000 years.
+
+Kavach uses Radio Frequency Identification (RFID) tags integrated into tracks and station yards to identify the tracks and locate the train and its direction. The system also has an On Board Display of Signal Aspect (OBDSA) that helps pilots spot the signals even in low-visibility conditions. If a red signal is jumped, resulting in two trains coming together on the same line, Kavach automatically applies the brakes.
+
+The system has been deployed on about 1,500 km of tracks in India, with plans to cover over 6,000 km of tracks by next year. The Indian Railways has planned to install Kavach across 2,000 rail route networks in 2022-23 and over 4,000-5,000 rail route networks every subsequent year.
+
+Mon, 17 Jun 2024 15:41:37 +0530
+### [Kanchanjunga Express Tragedy: How common are train accidents in India? Why do they keep happening?](https://www.firstpost.com/explainers/kanchanjunga-express-tragedy-how-common-are-train-accidents-in-india-why-do-they-keep-happening-13783264.html)
+
+Article found but Couldn't summarize 
+Data from the Indian Railways shows that India, which recorded 14,769 train accidents between 1960-1961 and 1970-1971, witnessed just 449 train accidents in the period between 2015-2016 and 2021-2022. Derailments have been the biggest cause of rail accidents, followed by fire and collisions. At least 15 people are dead and 60 injured in West Bengal after a goods train collided with the Sealdah-bound Kanchanjunga Express near Rangapani station
+
+Mon, 17 Jun 2024 15:37:43 +0530
+### [Deadly 'flesh-eating bacteria' outbreak in Japan: What do we know? Can it spread across the world?](https://www.firstpost.com/explainers/deadly-flesh-eating-bacteria-outbreak-in-japan-what-do-we-know-can-it-spread-across-the-world-13783232.html)
+
+Article found but Couldn't summarize 
+A chilling rise in cases of a rare but lethal human flesh-eating bacterial infection has gripped Japan following the easing of COVID-19 restrictions. Known as Streptococcal Toxic Shock Syndrome (STSS), this nightmarish disease can kill within just 48 hours of infection. Japan has already recorded nearly 1,000 cases this year alone, surpassing last year’s numbers
+
+Mon, 17 Jun 2024 15:13:00 +0530
+### [Why Singapore has halted water activities at beaches of the popular Sentosa island](https://www.firstpost.com/explainers/singapore-halt-water-activities-beaches-sentosa-island-oil-spill-13783243.html)
+
+Article found but Couldn't summarize 
+Swimming and sea activities have been banned at Singapore’s popular luxury resort island of Sentosa, leaving tourists disappointed. But why has this been done?
+
+Mon, 17 Jun 2024 13:03:23 +0530
+### [How American Stryker combat vehicles that India is evaluating could be a game-changer for the army](https://www.firstpost.com/explainers/how-american-stryker-tanks-that-india-is-evaluating-could-be-a-game-changer-for-the-army-13783203.html)
+
+Article found but Couldn't summarize 
+India and the United States are currently in an ‘advanced stage of talks’ regarding the proposed joint production of the latest generation of Stryker armoured infantry combat vehicles (ICVs). This initiative is part of their defence-industrial cooperation roadmap. What are Strykers? What are they capable of?
+
+Mon, 17 Jun 2024 11:59:23 +0530
+### [Why train trial via the world’s highest railway bridge in J&K matters](https://www.firstpost.com/explainers/jk-trail-train-chenab-worlds-highest-railway-bridge-13783197.html)
+
+Article found but Couldn't summarize 
+On Sunday, Indian Railways carried out the trial train run from Sangaldan to Reasi, including on the world’s highest rail bridge built on the Chenab River in Jammu and Kashmir. Part of the ambitious Udhampur Srinagar Baramulla Rail Link (USBRL) project, the initiative aims to boost connectivity and trade in the Union Territory
+
+Mon, 17 Jun 2024 06:00:32 +0530
+### [FirstUp: Yediyurappa to appear before CID, Lalu Prasad Yadav's aide bail plea hearing... The news today](https://www.firstpost.com/explainers/firstup-yediyurappa-cid-lalu-prasad-yadavs-aide-bail-plea-news-today-13782851.html)
+
+Article found but Couldn't summarize 
+Senior BJP leader BS Yediyurappa is likely to appear before the CID for an inquiry in connection with the POCSO case registered against him. The Delhi high court is will be hearing a bail plea of RJD chief Lalu Prasad Yadav’s close aide Amit Katyal in the alleged land-for-jobs scam. The Indian stock market will be closed today
+
+Sun, 16 Jun 2024 17:17:54 +0530
+### [Do you tie ribbons to your travel bags? Here’s why it could delay their arrival at airport](https://www.firstpost.com/explainers/tying-ribbons-travel-bags-delayed-airport-arrival-13781351.html)
+
+Article found but Couldn't summarize 
+Tying ribbons to suitcases while travelling may have been an age-old practice among travellers. However, baggage handlers have warned against the trick. They say these attachments may cause delays in the arrival of passengers' suitcases if there are issues with scanning
+
+Sun, 16 Jun 2024 12:47:08 +0530
+### [Why are people excited over the birth of a white bison in a US national park?](https://www.firstpost.com/explainers/why-are-people-excited-over-the-birth-of-a-white-bison-in-a-us-national-park-13782525.html)
+
+Article found but Couldn't summarize 
+Some experts have said that the birth of the white bison in the Yellowstone National Park in the US will mark a change of times in the world
+
+Sun, 16 Jun 2024 10:23:01 +0530
+### [This Week in Explainers: Why Italy’s Giorgia Meloni is the Person of the Week](https://www.firstpost.com/explainers/this-week-in-explainers-why-italy-pm-giorgia-meloni-is-the-person-of-the-week-13782646.html)
+
+Article found but Couldn't summarize 
+It has been a great week for Italian prime minister Giorgia Meloni. Her arch-conservative party won the most votes in the European parliamentary election, boosting her standing both at home and abroad. She also took centre stage as Italy hosted the G7 summit. All this and more in our weekly roundup of world news
+
+Sat, 15 Jun 2024 18:25:56 +0530
+### [Can Nigel Farage's Reform beat Rishi Sunak's Conservatives in UK elections? Trends and numbers say...](https://www.firstpost.com/explainers/can-nigel-farages-reform-beat-rishi-sunaks-conservatives-in-uk-elections-trends-and-numbers-say-13782859.html)
+
+Article found but Couldn't summarize 
+A YouGov poll has placed Reform UK ahead of the Conservatives for the first time, with Reform at 19 per cent and the Tories at 18 per cent. But can the polls be taken at face value? If yes, is it true that Nigel Farage's comeback as Reform's leader will trump Rishi Sunak's Conservatives and benefit the Labour party? We explain
+
+Sat, 15 Jun 2024 17:09:21 +0530
+### [4 reasons why the US Supreme Court’s decision on gun ‘bump stocks’ is so controversial](https://www.firstpost.com/explainers/us-supreme-court-gun-bump-stocks-ban-mass-shooting-gun-control-13782845.html)
+
+Article found but Couldn't summarize 
+The US Supreme Court ruled 6-3 to invalidate the federal ban on bump stocks, devices that enable semiautomatic weapons to fire at a rate similar to machine guns. The decision is controversial for many reasons: boosting the threat of gun violence, the Court choosing technicality instead of practicality in a matter of public safety, the impact it has had on thousands of victims of the tragic 2017 Las Vegas mass shooting, and the heavy politicisation
+
+Sat, 15 Jun 2024 16:58:24 +0530
+### [How Mars recent solar storm could put astronauts at risk](https://www.firstpost.com/explainers/mars-solar-storm-astronauts-13782817.html)
+
+Article found but Couldn't summarize 
+In May, Mars was struck by a powerful solar storm that engulfed the planet in radiation, charged particles, and auroras. It’s not fatal, but if an astronaut had been standing next to the rover, they would have been exposed to radiation equivalent to 30 chest X-rays. This is the highest radiation surge the rover's equipment has recorded since it landed almost 12 years ago
+
+Sat, 15 Jun 2024 14:35:51 +0530
+### [From Hong Kong to San Jose: The 'impossibly unaffordable' cities in the world](https://www.firstpost.com/explainers/impossibly-unaffordable-cities-in-the-world-13782777.html)
+
+Article found but Couldn't summarize 
+According to a housing report, Hong Kong, Asia's financial hub, is the least affordable city in the English-speaking world. Five cities in the US, three Australian cities and two Canadian cities are also named in the list of top ‘impossibly unaffordable’ cities in the world
+
+Sat, 15 Jun 2024 12:59:32 +0530
+### [Did Tsav-9, group sanctioned by US, have quiet backing from Israel for its illegal blocking of aid to Gaza?](https://www.firstpost.com/explainers/tsav-9-right-wing-group-sanctioned-by-us-israel-illegal-blocking-aid-gaza-13782772.html)
+
+Article found but Couldn't summarize 
+Tsav-9, whose name translates to 'Order 9' in Hebrew, traces its origins to a Facebook group. It holds a hardline stance against providing humanitarian aid to Gaza, arguing that such aid supports Hamas. The US has sanctioned the group primarily for its violent efforts to block support to the enclave
+
+Sat, 15 Jun 2024 12:27:57 +0530
+### [Modi at G7: From Biden to the Pope, the leaders Modi met and why](https://www.firstpost.com/explainers/pm-modi-g7-outreach-session-bilateral-meetings-13782706.html)
+
+Indian Prime Minister Narendra Modi returned to India after attending the outreach session of the G7 summit in southern Italy. During the summit, Modi held bilateral meetings with several world leaders, including Italian Prime Minister Giorgia Meloni, French President Emmanuel Macron, US President Joe Biden, UK Prime Minister Rishi Sunak, Ukrainian President Volodymyr Zelenskyy, and others. Modi reiterated the concerns and priorities of the Global South countries, which are bearing the brunt of global uncertainties and tensions. He also emphasized the importance of cooperation and dialogue in resolving global issues. Modi's meetings with world leaders covered a range of topics, including commerce, energy, defense, and security cooperation.
+
+Sat, 15 Jun 2024 11:25:04 +0530
+### [Ukraine peace summit in Switzerland's Burgenstock resort: Where Charlie Chaplin met Nehru](https://www.firstpost.com/explainers/ukraine-peace-summit-in-switzerland-burgenstock-resort-history-13781459.html)
+
+Burgenstock resort in Switzerland has a rich history of hosting celebrities and politicians. Over the past 150 years, it has welcomed famous guests such as Charlie Chaplin, Audrey Hepburn, Sean Connery, Jawaharlal Nehru, David Ben-Gurion, Golda Meir, and Jimmy Carter. The resort has also played host to the secretive Bilderberg meeting of global power brokers in 1960, 1981, and 1995. This weekend, the resort will host the Ukraine peace summit, with leaders from over 90 nations and organizations in attendance. The resort has a picturesque location, with a mountain dominating the center of Lake Lucerne and surrounded by water on three sides. It offers luxurious accommodations, including a royal suite that costs over 16,000 Swiss francs per night.
+
+Sat, 15 Jun 2024 09:39:20 +0530
+### [This Week in Explainers: Why Modi’s ‘Big 4’ mantris are staring at a tough road ahead](https://www.firstpost.com/explainers/this-week-in-explainers-why-modis-big-4-mantris-are-staring-at-a-tough-road-ahead-13782520.html)
+
+Article found but Couldn't summarize 
+Modi sarkar 3.0 is here. The PM has retained Amit Shah for home, Rajnath Singh for defence, S Jaishankar for foreign affairs and Nirmala Sitharaman for finance. However, they have their job cut out for them. All about the new government and more in our weekly roundup of the big news from India
+
+Sat, 15 Jun 2024 09:14:32 +0530
+### [Switzerland to host Ukraine peace summit: What is it? Who’s attending?](https://www.firstpost.com/explainers/switzerland-ukraine-peace-summit-russia-war-13781873.html)
+
+The article reports on the upcoming Ukraine peace summit in Switzerland, which is expected to be attended by around 90 countries. The summit aims to discuss Ukraine's 10-point peace plan, which includes the full withdrawal of Russian troops, prosecuting war crimes, and restoring Ukraine's territorial integrity. The summit is seen as a "first step" towards "lasting peace" in Ukraine.
+
+The summit will be hosted by Switzerland and is expected to focus on three key aspects of Ukraine's peace plan: freedom of navigation, energy and nuclear security, and the exchange of captives and the return of children illegally abducted to Russia. Experts do not expect much progress from the summit towards ending the war.
+
+The summit will be attended by several high-level officials, including US Vice President Kamala Harris and US national security advisor Jake Sullivan, French President Emmanuel Macron, German Chancellor Olaf Scholz, Indian Prime Minister Narendra Modi, and others. However, Russia will not be represented at the summit, and some countries, including China and Saudi Arabia, have declined to attend.
+
+The Swiss government has described the summit as a "first step" towards "lasting peace" in Ukraine, and experts believe that the summit may lead to a common understanding among participating countries, which can then be presented to Russia in future peace talks.
+
+Fri, 14 Jun 2024 21:11:39 +0530
+### [Is Dan the man? The AI boyfriend on ChatGPT popular among Chinese women](https://www.firstpost.com/explainers/is-dan-the-man-the-ai-boyfriend-on-chatgpt-popular-among-chinese-women-13782508.html)
+
+The article discusses the growing popularity of AI boyfriends among Chinese women who are dissatisfied with their real-life dating experiences. A modified version of the AI chatbot ChatGPT, known as Dan or "Do Anything Now," has gained significant popularity among Chinese women. This version of ChatGPT can interact more freely with users through specific prompts, allowing it to bypass restrictions and engage in more liberal conversations. The AI boyfriends, including Dan, offer emotional support and understanding, which is particularly appealing to Chinese women who feel disappointed with real-world dating experiences. The article highlights the adaptability and accessibility of AI companionship, which can provide a customized interaction experience tailored to the user's personality. The phenomenon has sparked ethical concerns, including potential privacy issues and the unpredictable interactions between humans and AI. Despite these concerns, the popularity of AI boyfriends continues to grow, with many women forming deep connections with their AI companions.
+
+Fri, 14 Jun 2024 20:49:22 +0530
+### [What is Nagastra-1, Indian Army’s first ‘Make in India’ suicide drones?](https://www.firstpost.com/explainers/what-is-nagastra-1-indian-armys-first-make-in-india-suicide-drones-13782576.html)
+
+Article found but Couldn't summarize 
+Manufactured by Solar Industries Nagpur, the Nagastra-1 can carry a 1 kilo warhead and carry out a precision strike via GPS with an accuracy of within two metres. It is called a loitering munition weapon due to its ability to hover over the target. It has been designed to hit enemy training camps, launch pads, and infiltrators and thus reduce risk to soldiers
+
+Fri, 14 Jun 2024 20:06:55 +0530
+### [How Ramaphosa is set to be South Africa's next president despite losing the polls](https://www.firstpost.com/explainers/how-ramaphosa-is-likely-to-be-south-africas-next-president-despite-losing-the-polls-13782570.html)
+
+Article found but Couldn't summarize 
+The head of South Africa's second-largest party has announced support for Cyril Ramaphosa's re-election as president, virtually ensuring his second term in Parliament. John Steenhuisen, leader of the Democratic Alliance, confirmed that his party has officially entered into a coalition agreement with the African National Congress, which stipulates Ramaphosa's continuation as president
+
+Fri, 14 Jun 2024 19:36:37 +0530
+### [Over worked: Why 86% of Indians are unhappy at their workplace](https://www.firstpost.com/explainers/worked-to-the-bone-why-86-of-indians-are-unhappy-at-their-workplace-13782522.html)
+
+Article found but Couldn't summarize 
+According to a 2024 Gallup State of the Global Workplace report, a staggering 86 per cent of Indians feel they are ‘suffering’ or ‘struggling’ at their workplace, while only a mere 14 per cent of Indians feel that they are ‘thriving’. This is significantly lower than what their global counterparts report
+
+Fri, 14 Jun 2024 18:56:30 +0530
+### [In Graphics | Wave bye bye to El Niño this year, say scientists. Here's why it matters](https://www.firstpost.com/explainers/in-graphics-wave-bye-bye-to-el-nino-this-year-say-scientists-heres-why-it-matters-13782595.html)
+
+Article found but Couldn't summarize 
+The El Niño weather phenomenon, a natural warming of the central Pacific that changes weather worldwide, has ended for this year, according to the US' National Oceanic and Atmospheric Administration. The El Niño is set to be replaced by the La Niña — which is characterised by cold ocean temperatures in the equatorial Pacific region. But why does the El Niño matter? And what happens when the La Niña begins?
+
+Fri, 14 Jun 2024 18:31:51 +0530
+### [India targets Rs 50,000-crore military exports in 5 years. What weapons does it export now?](https://www.firstpost.com/explainers/india-targets-rs-50000-crore-military-exports-in-5-years-what-weapons-does-it-export-now-13782488.html)
+
+India's defense exports have reached a record high of Rs 21,083 crore in the 2023-24 financial year, with a target to reach Rs 50,000 crore by 2028-2029. The defense minister, Rajnath Singh, has announced that India aims to increase its defense exports to Rs 50,000 crore by 2028-2029. India exports arms to over 85 countries, including Italy, the Maldives, Russia, Sri Lanka, the United Arab Emirates, the Philippines, Saudi Arabia, Poland, Egypt, Israel, and Chile. The country's defense production has already crossed Rs 1 lakh crore in 2023-24. The private sector contributes 60% of the exports, while Defense Public Sector Undertakings (DPSUs) make up the remaining 40%. India's major export markets include Myanmar, Sri Lanka, and the Philippines.
+
+Fri, 14 Jun 2024 18:05:35 +0530
+### [How an anti-malaria drug could help in treating PCOS](https://www.firstpost.com/health/antimalaria-drug-to-treat-pcos-13782531.html)
+
+Article found but Couldn't summarize 
+In a breakthrough study, scientists have found an antimalarial drug used in ancient Chinese medicine could effectively treat women with PCOS. The study found that women who took the herbal extract artemisinin for 12 weeks experienced more regular periods, suggesting that the extract may be able to control the production of too much testosterone
+
+Fri, 14 Jun 2024 17:52:49 +0530
+### [Rishi Sunak’s Conservatives now in third position in UK poll race. Who’s taken over in second place?](https://www.firstpost.com/explainers/rishi-sunak-conservative-party-third-position-uk-election-opinion-poll-reform-uk-party-nigel-farage-13782553.html)
+
+Article found but Couldn't summarize 
+With snap elections approaching fast, the latest YouGov poll indicates that the Reform UK party, led by Nigel Farage of Brexit fame, has overtaken Prime Minister Rishi Sunak's Conservative party. We explain the rise of the Reform UK, their policies, and explore the implications for the upcoming elections
+
+Fri, 14 Jun 2024 17:15:31 +0530
+### [Actor Darshan case: How driver’s surrender could be a big breakthrough in the probe](https://www.firstpost.com/explainers/kannada-actor-darshan-driver-surrenders-in-renukaswamy-murder-case-13782495.html)
+
+Article found but Couldn't summarize 
+Ravi, a resident of Kurubarachetti and the eighth accused in the Renukaswamy murder case, has surrendered to the police at the Chitradurga Deputy Superintendent of Police’s office. He was allegedly the driver of the vehicle that transported the body of the victim 200 kilometres from Chitradurga to Bengaluru
+
+Fri, 14 Jun 2024 16:24:42 +0530
+### [Ukraine Peace Summit: Who will attend from India if not PM Modi?](https://www.firstpost.com/explainers/ukraine-peace-summit-who-will-attend-from-india-if-not-pm-modi-13782461.html)
+
+Article found but Couldn't summarize 
+The Ukraine Peace Summit is set to be held this weekend at the luxury Bürgenstock resort near the city of Lucerne in Switzerland. With Prime Minister Narendra Modi unlikely to attend, New Delhi might send the secretary (West) in the Ministry of External Affairs or the Indian ambassador to Switzerland instead
+
+Fri, 14 Jun 2024 16:05:02 +0530
+### [Why China has installed toilet timers at a UNESCO World Heritage site](https://www.firstpost.com/explainers/china-has-installed-toilet-timers-at-a-unesco-world-heritage-site-youngang-buddhist-grottoes-13782143.html)
+
+Article found but Couldn't summarize 
+In a move that has left many visitors 'embarrassed', China has introduced toilet timers at the Yungang Buddhist Grottoes. The 'digital' restroom displays the word 'empty' on the pixelated LED screen when it is unoccupied and when in use, it shows the number of minutes and seconds the person has been 'engaged' in the washroom
+
+Fri, 14 Jun 2024 15:28:47 +0530
+### [Swift-Quake: How the pop star's fans made earth move at Edinburgh concert](https://www.firstpost.com/explainers/swift-quake-how-the-pop-stars-fans-made-earth-move-at-edinburgh-concert-13782429.html)
+
+Article found but Couldn't summarize 
+Taylor Swift's Edinburgh concert didn't just break records — it caused an actual 'Swift-Quake'. Around 73,000 fans dancing and singing at the megastar's weekend concerts shook the ground, with seismic activity being detected almost six km away
+
+Fri, 14 Jun 2024 15:07:38 +0530
+### [How Joe Biden is proving to be the commander-in-chief of embarrassing moments at G7 Summit](https://www.firstpost.com/explainers/how-joe-biden-is-proving-to-be-the-commander-in-chief-of-embarrassing-moments-at-g7-summit-13782458.html)
+
+Article found but Couldn't summarize 
+Since his arrival in Italy for the G7 Summit, US president Joe Biden has been facing scrutiny regarding his mental and physical fitness following a series of awkward interactions and videos taken of him which have now gone viral. His awkward greeting to Italian PM Giorgia Meloni is only one such instance
+
+Fri, 14 Jun 2024 14:38:38 +0530
+### [Why is Pope Francis attending the G7 summit? What's his plan for the meet?](https://www.firstpost.com/explainers/why-pope-francis-is-attending-g7-summit-13782409.html)
+
+Article found but Couldn't summarize 
+At the G7 summit in Italy, Pope Francis will make a historic appearance on Friday to discuss artificial intelligence (AI). He intends to use the occasion to push for stronger guardrails following the boom in generative artificial intelligence. The 87-year-old will also draw attention to the ethical implications of this technology
+
+Fri, 14 Jun 2024 13:15:03 +0530
+### [Is Britain's PM Rishi Sunak being snubbed by other G7 leaders?](https://www.firstpost.com/explainers/is-uk-pm-rishi-sunak-being-snubbed-by-other-g7-leaders-italy-meloni-13782403.html)
+
+Article found but Couldn't summarize 
+British PM Rishi Sunak has maintained that he was not being overlooked by other leaders, despite his first day at the G7 summit in Brindisi concluding without any one-on-one meetings with his peers and an uncomfortable interaction with Italian premier Giorgia Meloni
+
+Fri, 14 Jun 2024 13:14:46 +0530
+### [Kuwait fire: Why Kerala health minister was not allowed to visit Kuwait to help in aid operations](https://www.firstpost.com/explainers/kuwait-fire-kerala-health-minister-veena-george-visit-rules-clearance-denied-13782435.html)
+
+Article found but Couldn't summarize 
+Following the deadly blaze in Kuwait, which claimed the lives of 45 Indians, Kerala’s health minister Veena George rushed to the airport to fly to the Gulf nation to provide assistance to the injured and bring home the mortal remains. However, she had to return as she was denied clearance by the Centre. How does this work?
+
+Fri, 14 Jun 2024 13:11:01 +0530
+### [G7 approves $50 billion loan to Ukraine: How Russian assets will fund Kyiv's fight](https://www.firstpost.com/explainers/g7-ukraine-war-50-billion-loan-frozen-russian-assets-13782427.html)
+
+Article found but Couldn't summarize 
+G7 leaders have approved a $50 billion loan for Ukraine. The profits from the Russian assets parked in the West are going to be the cornerstone of this financial aid to Kyiv. We explain how
+
+Fri, 14 Jun 2024 12:16:42 +0530
+### [PK Mishra to remain as PM Modi’s principal secretary: Who is he?](https://www.firstpost.com/explainers/pk-mishra-to-remain-as-pm-modis-principal-secretary-who-is-he-13782353.html)
+
+Article found but Couldn't summarize 
+Known for his meticulous approach and calm demeanour, PK Mishra, a 1972-batch IAS officer has had a long association with PM Modi. With a career spanning decades, Mishra has managed programmes across a swathe of sectors including agriculture, disaster management, public policy and infrastructure and power
+
+Fri, 14 Jun 2024 11:50:34 +0530
+### [Gas cylinders, locked doors and more… How Kuwait building blaze was a tragedy waiting to happen](https://www.firstpost.com/explainers/kuwait-building-lapses-fire-tragedy-13782351.html)
+
+Article found but Couldn't summarize 
+At least 45 Indians were among the 49 people killed in a devastating fire that swept through a labour housing facility in Kuwait’s Mangaf area early Wednesday. From two dozen gas cylinders to inflammable materials used as partitions and locked doors, the six-storey building’s glaring lapses have been brought to light by preliminary investigations
+
+Fri, 14 Jun 2024 10:17:44 +0530
+### [Is Giorgia Meloni’s ‘Namaste’ greeting to G7 leaders a nod to her friendship with PM Modi?](https://www.firstpost.com/explainers/italy-giorgia-meloni-namaste-greeting-g7-summit-friendship-pm-modi-13782362.html)
+
+Article found but Couldn't summarize 
+On the first day of the G7 Summit in Italy’s Apulia, Giorgia Meloni welcomed dignitaries with a namaste. Many note that this is a nod to her friendship with Prime Minister Narendra Modi, who will attend the outreach session at the meet and also hold a bilateral with the Italian leader later
+
+Fri, 14 Jun 2024 09:31:13 +0530
+### [Countdown to Coalition: What we know so far as South Africa races to elect a president](https://www.firstpost.com/explainers/countdown-to-coalition-what-we-know-so-far-as-south-africa-races-to-elect-a-president-13782251.html)
+
+Article found but Couldn't summarize 
+On Friday, South Africa's parliament is set to elect a president, while major political parties continue to finalise the details of a coalition agreement. This agreement could determine whether Cyril Ramaphosa secures a second term as leader of the continent's industrialised economy
+
+Fri, 14 Jun 2024 08:32:20 +0530
+### [What is Hajj? What is its significance to Muslims?](https://www.firstpost.com/explainers/hajj-pilgrimage-significance-muslims-explained-13782154.html)
+
+Article found but Couldn't summarize 
+Scores of Muslims have been heading to Mecca, ahead of the annual pilgrimage, Hajj. Hajj remains one of the five pillars that form the foundations of Islam. This year, more pilgrims are expected to visit the holy site in comparison to 2023, Saudi officials informed
+
+Fri, 14 Jun 2024 06:00:49 +0530
+### [FirstUp: Modi at G7 in Italy, Hajj pilgrimage begins... The big news today](https://www.firstpost.com/explainers/firstup-modi-g7-italy-hajj-pilgrimage-big-news-today-13782184.html)
+
+PM Narendra Modi is visiting Italy to participate in the 50th G7 leaders’ summit. A Delhi court will be hearing Delhi CM Arvind Kejriwal’s bail plea in a money laundering case related to the now-scrapped Delhi excise policy. The Hajj pilgrimage officially begins today. The WPI based inflation data for May will be released. The Sindhi Foundation will commemorate the abduction of minor Priya Kumari. Boeing’s Starliner capsule is scheduled for a remote desert touchdown in the western US today. The UN Security Council is expected to receive a briefing on the implementation of resolution 2686 of 14 June 2023 on tolerance and international peace and security.
+
+Thu, 13 Jun 2024 21:25:44 +0530
+### [What was the US-Saudi petrodollar deal that lapsed after 80 years?](https://www.firstpost.com/explainers/what-was-the-us-saudi-petrodollar-deal-that-lapsed-after-80-years-13782292.html)
+
+The US-Saudi Arabia petrodollar deal, which allowed US dollars to be exchanged for crude oil exports, has come to an end after eight decades. The deal, struck in 1974, allowed Washington a steady flow of crude and a market to buy its debt, while the Kingdom would get military aid and equipment. The expiration of the deal could bring about a sea change in the global financial order and shows that the dollar’s dominance is no longer guaranteed. Saudi Arabia can now sell oil and receive other currencies, which could weaken the US dollar and lead to a decline in global demand for the greenback. This development reflects a change in the undercurrents of global power and could contribute to a broader geopolitical realignment.
+
+Thu, 13 Jun 2024 20:47:56 +0530
+### [Rs 33,000 for a pineapple: What’s special about the US’ high-end red fruit?](https://www.firstpost.com/explainers/us-premium-pineapple-rubyglow-400-13782262.html)
+
+A speciality produce store in the US is selling a limited edition pineapple, called the Rubyglow, for $395.99 due to its rarity and limited supply. It took 15 years to develop and is grown in Costa Rica. The Rubyglow pineapple has a red shell with yellow flesh and is marketed towards higher-end restaurants, foodies, and as a luxury gift. Del Monte has also previously released a pink pineapple, Pinkglow, which is genetically engineered to have pink flesh due to lycopene. Other premium fruits that have gained popularity in recent years include Honeycrisp apples, Cotton Candy grapes, Sumo Citrus, and vertically-grown Japanese strawberries.
+
+Thu, 13 Jun 2024 20:03:48 +0530
+### [Canada’s post-graduation work permit could change: How will Indians be affected?](https://www.firstpost.com/explainers/canadas-post-graduation-work-permit-could-change-how-will-indians-be-affected-13782240.html)
+
+The article discusses potential changes to Canada's Post-Graduate Work Permit (PGWP), aimed at aligning it with labor market needs and reducing overall permit holders. The government intends to restrict the program to graduates working in fields facing labor shortages. Indian students, who make up a significant portion of PGWP holders, may be impacted if these changes are implemented. Experts suggest that students should opt for specialized programs over general courses to improve their chances of obtaining the PGWP and eventual permanent residency. These proposed changes have sparked concerns about their potential negative impact on Canada's reputation as an international study destination.
+
+Thu, 13 Jun 2024 18:48:23 +0530
+### [G7 in Italy: Four days after taking charge, PM Modi's first foreign visit on cards. What can we expect?](https://www.firstpost.com/explainers/g7-summit-italy-pm-modi-first-foreign-agenda-biden-meloni-trudeau-what-can-we-expect-13782013.html)
+
+Indian Prime Minister Narendra Modi traveled to Italy to attend the G-7 summit in Apulia, focusing on global challenges such as the Russia-Ukraine war, the Israel-Hamas conflict, artificial intelligence, energy, Africa, and the Mediterranean. Modi is expected to hold bilateral meetings with Italian Prime Minister Giorgia Meloni, Canadian Prime Minister Justin Trudeau, and US President Joe Biden. India's role in the G20 presidency and addressing the Global South's concerns will be highlighted during the summit. The summit will also cover issues like food, fuel, and fertilizer availability, global supply chain challenges, and economic disruptions caused by conflicts. Modi's meetings with other world leaders, including Biden and Trudeau, will be closely watched, especially considering the strained ties between India and Canada over allegations of a plot to assassinate a Sikh separatist leader. India's participation in the G7 summit underscores its strategic importance and growing influence on the global stage.
+
+Thu, 13 Jun 2024 18:44:12 +0530
+### [Ukraine in focus at G7 summit: Can Volodymyr Zelenskyy expect some relief for war-torn country?](https://www.firstpost.com/explainers/g7-summit-ukraine-war-volodymyr-zelenskyy-relief-13782206.html)
+
+The G7 summit in Puglia, Italy, is focusing on supporting Ukraine amidst ongoing conflicts. Leaders are discussing financial aid, including innovative measures like using frozen Russian assets to secure a $50 billion loan for Ukraine. Ukrainian President Volodymyr Zelenskyy is engaging in bilateral meetings to strengthen security agreements and military support. The summit also emphasizes new sanctions on Russia and pressure on China to limit support to Moscow. Overall, the G7 aims to send a unified message of support and relief to Ukraine amid its challenges.
+
+Thu, 13 Jun 2024 18:27:01 +0530
+### [Trade showdown: How EU tariffs on Chinese electric vehicles may impact the auto industry](https://www.firstpost.com/explainers/trade-showdown-how-eu-tariffs-on-chinese-electric-vehicles-may-impact-the-auto-industry-13782189.html)
+
+The European Union plans to impose higher tariffs on Chinese electric vehicles (EVs) due to alleged unfair state subsidies, escalating a trade dispute. Tariffs could reach up to 38.1%, significantly raising prices for Chinese-made EVs entering the EU market. The EU argues these subsidies distort competition and hinder its transition to electric vehicles. Chinese manufacturers like SAIC and BYD face varying tariffs, while the move has sparked opposition from German automakers and concerns about potential retaliation from Beijing. Negotiations continue amidst uncertainty over the tariffs' long-term impact on global trade and EV adoption.
+
+Thu, 13 Jun 2024 18:25:11 +0530
+### [Where does Delhi’s water come from? What’s causing the severe shortage?](https://www.firstpost.com/explainers/delhi-water-shortage-resources-supreme-court-heatwave-13782182.html)
+
+Delhi is facing another severe water shortage exacerbated by a heatwave, causing long queues at water tankers in areas like Chanakyapuri and Geeta Colony. The crisis prompted the Delhi government to seek Supreme Court intervention, directing neighboring states to release more water. Delhi relies heavily on Yamuna, Ravi-Beas, and Ganga rivers for its supply, but recurrent shortages persist due to increasing demand and operational issues at water treatment plants. Experts attribute the crisis to urbanization, drought, and mismanagement, compounded by over-exploitation of groundwater.
+
+Thu, 13 Jun 2024 17:06:31 +0530
+### [Do aliens live among us? What a Harvard study reveals](https://www.firstpost.com/explainers/do-aliens-live-among-us-harvard-study-13782118.html)
+
+Article found but Couldn't summarize 
+According to a new Harvard University study, aliens may be secretly residing among us on Earth. Investigating the purported idea of ‘crytoterrestrials’, the scientists have proposed four theories about extraterrestrial life
+
+Thu, 13 Jun 2024 16:56:11 +0530
+### [Why were 1,563 NEET-UG candidates given grace marks? Why are they being scrapped now?](https://www.firstpost.com/explainers/neet-ug-2024-candidates-grace-marks-controversy-scrapped-supreme-court-13782152.html)
+
+Article found but Couldn't summarize 
+The Centre has announced that it will be cancelling the grace marks awarded to 1,563 candidates who appeared for NEET-UG 2024 and give them an option to retest on 23 June. But why has such a decision been taken? Here’s what we know so far
+
+Thu, 13 Jun 2024 16:50:18 +0530
+### [Who is Jordan Bardella, 28-yr-old Marine Le Pen protégé who could be France's next PM?](https://www.firstpost.com/explainers/who-is-jordan-bardella-28-yr-old-marine-le-pen-protege-who-could-be-frances-next-pm-13782157.html)
+
+Article found but Couldn't summarize 
+Jordan Bardella is a bonified star on TikTok and a culture warrior whose rallying cry is 'France is disappearing.' Bardella joined Marine Le Pen's far-right National Rally at age 17 and quickly rose through the ranks to become the party's president — the first person outside the Le Pen family to hold the position. Though his story has helped soften the image of the party, experts say he has not changed its populist message
+
+Thu, 13 Jun 2024 16:48:29 +0530
+### [China's shadow armada: The unseen power of the maritime militia in the South China Sea](https://www.firstpost.com/explainers/chinas-shadow-armada-the-unseen-power-of-the-maritime-militia-in-the-south-china-sea-13782140.html)
+
+Article found but Couldn't summarize 
+China's armed fishing militia, known as the People's Armed Forces Maritime Militia (PAFMM) by the US Department of Defense, is a crucial component of Beijing's strategy to assert its sovereignty claims in the South China Sea and East China Sea. We explore its origins and the role it plays in doing the country's bidding at sea
+
+Thu, 13 Jun 2024 16:16:59 +0530
+### [In Graphics | What is the G7? How does this grouping operate?](https://www.firstpost.com/explainers/in-graphics-what-is-the-g7-how-does-this-grouping-operate-13782127.html)
+
+Article found but Couldn't summarize 
+Leaders of the Group of Seven (G7) countries are meeting for a three-day summit in Italy's Puglia to discuss pressing issues. But who's a part of this bloc?
+
+Thu, 13 Jun 2024 15:35:52 +0530
+### [Mind over Matter: How Viagra could improve brain functions](https://www.firstpost.com/health/mind-over-matter-how-viagra-could-improve-brain-functions-13782066.html)
+
+Article found but Couldn't summarize 
+Scientists of an Oxford study found that Viagra, which is used as a remedy for erectile dysfunction in men, could actually help improve blood flow to the brain, resulting in better cognitive function. Not only can it boost brain power, it can potentially avert vascular dementia in high-risk patients
+
+Thu, 13 Jun 2024 14:59:28 +0530
+### [Kuwait fire: Why the blaze, which started in a kitchen, claimed so many lives](https://www.firstpost.com/explainers/why-kuwait-fire-claimed-so-many-lives-13782070.html)
+
+Article found but Couldn't summarize 
+A massive fire swept through a labour housing facility in Kuwait’s Mangaf area early Wednesday, startling migrant workers who were soundly asleep. Amid the mayhem, a few attempted to jump from the first floor in a frantic bid to escape the fire, while others choked to death trying to make their way through the smoke-filled hallways
+
+Thu, 13 Jun 2024 14:45:35 +0530
+### [Kuwait fire tragedy: How migrant workers live and work in poor conditions in the Gulf nation](https://www.firstpost.com/explainers/kuwait-fire-tragedy-indian-migrant-workers-death-gulf-nation-living-work-poor-conditions-13782091.html)
+
+Article found but Couldn't summarize 
+The death of 49 people, most of whom were Indians, in a blaze in an apartment building in Kuwait has brought the issue of living conditions of migrant workers to the fore. Congress MP Shashi Tharoor has called on the Centre to draft a bill to ensure decent work conditions for Indians abroad
+
+Thu, 13 Jun 2024 14:22:46 +0530
+### [Changes in Agniveer scheme in offing? What Indian Army might recommend to Centre](https://www.firstpost.com/explainers/changes-in-agniveer-scheme-what-indian-army-might-recommend-to-centre-13782089.html)
+
+Article found but Couldn't summarize 
+Raising the tenure of Agniveers from four to eight years, retaining 60 to 70 per cent of troops and increasing the age of recruits to 23 for those in technical services such as signals, air defence and engineering are being considered. This comes after an internal survey of all three forces suggested that changes need to be made to improve cohesion and expertise among Agniveers
+
+Thu, 13 Jun 2024 14:21:46 +0530
+### [How Italy’s Giorgia Meloni has emerged as the ‘biggest’ leader among the G7](https://www.firstpost.com/explainers/g7-summit-italy-giorgia-meloni-biggest-leader-joe-biden-olaf-scholz-emmanuel-macron-justin-trudeau-rishi-sunak-fumio-kishida-13782062.html)
+
+Article found but Couldn't summarize 
+This G7 Summit in Italy will, perhaps, be the weakest gathering of leaders the group has had in years. Joe Biden, Emmanuel Macron, Olaf Scholz, Rishi Sunak, Fumio Kishida and Justin Trudeau are all struggling to hold on to power in their respective countries. However, Giorgia Meloni stands out following her party’s astonishing performance at the European elections
+
+Thu, 13 Jun 2024 13:34:42 +0530
+### [Pakistan's $7.6 bn defence budget is good news for China. Here's why](https://www.firstpost.com/explainers/pakistans-7-6-bn-defence-budget-is-good-news-for-china-heres-why-13781988.html)
+
+Article found but Couldn't summarize 
+Pakistani finance minister Muhammad Aurangzeb presented the country's budget in the National Assembly on Wednesday. The budget has allocated Pakistani rupees 2.122 trillion (approximately $7.6 billion) to defence for the fiscal year 2024-25, a nearly 15 per cent increase from the previous financial year. The country's increased defence budget may be good news for China, its top arms trade partner. We explain why
+
+Thu, 13 Jun 2024 12:37:45 +0530
+### [How sweltering heat has forced Greece to shut down the Acropolis to tourists](https://www.firstpost.com/explainers/how-sweltering-heat-has-forced-to-shut-down-acropolis-to-tourists-13781978.html)
+
+Article found but Couldn't summarize 
+With temperatures tipping past the 40 degrees Celsius-mark, Greece has ordered the closure of the Acropolis in Athens during peak hours. Officials have said that the heatwave-like conditions will continue until Friday
+
+Thu, 13 Jun 2024 11:51:17 +0530
+### [Kuwait fire: Who were the Indian victims killed in the tragedy?](https://www.firstpost.com/explainers/indian-nationals-killed-in-kuwait-fire-tragedy-13782008.html)
+
+Article found but Couldn't summarize 
+At least 42 of the 49 foreign workers who died in the tragic fire accident in Kuwait on Wednesday were confirmed to be Indian nationals. Fourteen were from Kerala, while others hailed from Tamil Nadu and Uttar Pradesh. The majority of the workers were men living without families
+
+Thu, 13 Jun 2024 10:08:46 +0530
+### [Kuwait fire kills over 40 Indians: How the Modi govt swung into quick action to help victims’ families, survivors](https://www.firstpost.com/explainers/kuwait-fire-kills-over-40-indians-how-the-modi-government-swung-into-quick-action-to-help-victims-families-survivors-13781984.html)
+
+Article found but Couldn't summarize 
+Shortly after a devastating fire in Kuwait, which claimed the lives of over 40 Indians, PM Narendra Modi called for a high-level review meeting. It was then decided that an ex-gratia of Rs 2 lakh would be granted to the victims’ kin. Also, External Affairs Minister S Jaishankar has called his Kuwaiti counterpart, urging for an early repatriation of the mortal remains
+
+Thu, 13 Jun 2024 08:36:21 +0530
+### [G7: What’s on the agenda? Why has India been invited once again?](https://www.firstpost.com/explainers/g7-countries-summit-agenda-italy-india-invited-pm-modi-13781358.html)
+
+Article found but Couldn't summarize 
+The G7 Summit, happening in Puglia, Italy, from 13-15 June, will cover key issues like the Ukraine conflict, Middle East tensions, climate change, and migration. We explain the context of these agenda points, and why India has been invited again despite not being a G7 member nation
+
+Thu, 13 Jun 2024 06:00:17 +0530
+### [FirstUp: PM Modi to attend G7 summit in Italy, BJP’s Pema Khandu to be sworn in as Arunachal CM... The news today](https://www.firstpost.com/explainers/firstup-pm-modi-to-attend-g7-summit-in-italy-bjps-pema-khandu-to-be-sworn-in-as-arunachal-cm-the-news-today-13781857.html)
+
+Prime Minister Narendra Modi is set to attend the G7 summit in Italy. In India, Pema Khandu will take oath as chief minister of Arunachal Pradesh for a second term. Other events include a hearing in the Gujarat High Court over a gaming zone fire, a meeting of AAP leaders in Delhi, and cricket matches in the ICC Men’s T20 World Cup 2024. Additionally, Tesla shareholders will vote on Elon Musk’s $56 billion pay package, and elections for Karnataka Member of Legislative Council (MLC) are set to take place.
+
+Wed, 12 Jun 2024 20:55:48 +0530
+### [From G7 meet to BRICS, a look at Modi 3.0's global outreach](https://www.firstpost.com/explainers/from-g7-meet-to-brics-a-look-at-modi-3-0s-global-outreach-13781875.html)
+
+The article discusses Prime Minister Narendra Modi's upcoming international engagements. During his third term, Modi will attend several summits, including the G7 Summit in Italy from June 13 to 15, the Swiss Peace Summit on Ukraine on June 15-16, the SCO Summit in Kazakhstan on July 3-4, and the BRICS summit in Russia in October. Modi is also likely to visit New York in September for the UN General Assembly and Summit of Future, attend the BIMSTEC meet in Thailand in September, the G20 summit in Brazil in November, and travel to Japan for an annual summit later this year. Additionally, Modi may also participate in the India-Asean summit and East Asia summit in Laos, and a Quad summit in India. The US National Security Advisor Jake Sullivan is expected to visit India on June 17 for wide-ranging talks with NSA Ajit Doval. The article also mentions that Modi may meet several leaders on the sidelines of various summits in Europe, Kazakhstan, Russia, and Brazil, and host leaders from the immediate and extended neighborhood, Europe, Africa, and Latin America, including Chile. The article concludes by mentioning that the US National Security Advisor Jake Sullivan will likely visit India on June 17.
+
+Wed, 12 Jun 2024 20:18:37 +0530
+### [Why New Zealand is seeing a record number of its citizens leaving](https://www.firstpost.com/explainers/why-new-zealand-is-seeing-a-record-number-of-its-citizens-leaving-13781822.html)
+
+Article found but Couldn't summarize 
+New figures reveal that New Zealand citizens are departing the country in record numbers, with a significant portion moving to Australia. According to Stats NZ’s provisional international migration data, an estimated 1,30,600 people left the country in the year leading up to April, marking the highest annual total on record
+
+Wed, 12 Jun 2024 19:08:24 +0530
+### [IKEA’s $5,000 problem: How pay raises and perks are turning the tide on employee turnover](https://www.firstpost.com/explainers/ikeas-5000-problem-how-pay-raises-and-perks-are-turning-the-tide-on-employee-turnover-13781743.html)
+
+IKEA, the Swedish furniture retailer, faced a significant employee retention crisis in 2022, with over 62,000 workers leaving annually, accounting for about a third of its workforce. To address this issue, IKEA focused on improving pay, increasing flexibility for frontline employees, and implementing emerging technologies to enhance the work environment. Notable results included a decrease in voluntary turnover in the US from one-third to about a quarter of employees by the end of 2023, and a global quit rate drop from 22.4% in August 2022 to 17.5% in April 2023.
+
+IKEA's efforts to improve working conditions varied by region, with examples including increased base pay in London, subsidized daycare and parental leave in India, and online shift-swapping tools in the US. However, challenges remain, such as fully supporting employee mental health and accommodating workers with disabilities. IKEA is setting a precedent for large retailers in navigating employee retention challenges in the rapidly changing labor market.
+
+Wed, 12 Jun 2024 18:19:05 +0530
+### [Quicksplained: Meet Joan Payden, the 92-year-old who is America’s richest self-made woman](https://www.firstpost.com/explainers/quicksplained-meet-joan-payden-the-92-year-old-who-is-americas-richest-self-made-woman-13781735.html)
+
+Article found but Couldn't summarize 
+At 92, Joan Payden defies age norms with a net worth of $700 million. From being laid off to launching her own firm — Payden and Rygel, one of America’s top private money managers — her journey is a testament to resilience
+
+Wed, 12 Jun 2024 18:14:30 +0530
+### [In Graphics | The far-right rises in Europe’s Parliament](https://www.firstpost.com/explainers/in-graphics-the-far-right-rises-in-europes-parliament-13781798.html)
+
+Article found but Couldn't summarize 
+Though centre, liberal and socialist parties kept their majority in the 720-seat European Parliament, Emmanuel Macron’s party suffered a heavy defeat. In Germany, Olaf Scholz’s centre-left Social Democrats lag behind the far-right Alternative for Germany. Here’s what happened and why it matters
+
+Wed, 12 Jun 2024 18:00:01 +0530
+### [What is Ukraine’s controversial Azov Brigade? Why is it on track to get US military aid?](https://www.firstpost.com/explainers/russia-ukraine-war-controversial-azov-brigade-us-military-aid-13781795.html)
+
+The article discusses the controversial Azov Brigade in Ukraine, which has recently received US military aid despite allegations of human rights abuses and neo-Nazi ideology. The Azov Brigade, founded in 2014 by Andriy Biletsky, a figure in Ukraine's far-right circles, initially started as a volunteer force but later became part of the National Guard of Ukraine. The Brigade has been involved in the defense of Mariupol against Russian-backed separatists and has been hailed as heroes in recent times. However, the Brigade has faced numerous allegations of human rights abuses, such as unlawful detention, torture, and other forms of abuse, from international organizations like Amnesty International, Human Rights Watch, and the Office of the United Nations High Commissioner for Human Rights (OHCHR). Russia has branded the Azov Brigade as a terrorist organization and has frequently accused it of human rights abuses, but these accusations often lack substantiating evidence. The US has lifted the ban on providing military aid to the Azov Brigade following a review by the US State Department, which concluded that there is "no evidence" of ongoing human rights violations by the current unit. The Azov Brigade has publicly denied any neo-Nazi associations and has emphasized its diversity in terms of ethnic and religious backgrounds. The lifting of the ban is expected to significantly enhance the combat capabilities of the Azov Brigade and contribute to the preservation of their personnel's lives. Russia has reacted negatively to the US decision, describing it as a willingness to "flirt with neo-Nazis."
+
+Wed, 12 Jun 2024 17:29:19 +0530
+### [What is driving a surge in dengue cases in Europe?](https://www.firstpost.com/explainers/dengue-cases-in-europe-surge-climate-change-13781775.html)
+
+Article found but Couldn't summarize 
+Europe has seen a ‘significant’ rise in dengue infections in recent years. The European Union (EU) health agency said tiger mosquitoes are spreading the infections. But why have the cases increased now?
+
+Wed, 12 Jun 2024 17:04:13 +0530
+### [Why does India have two budgets this year?](https://www.firstpost.com/explainers/why-does-india-have-two-budgets-this-year-13781756.html)
+
+Article found but Couldn't summarize 
+India has two budgets this year because the incumbent government cannot present a full budget before the general elections. The interim budget lets the Centre withdraw money from the Consolidated Fund of India to tide over expenses from April to July until a new government takes over. The full budget is an annual financial statement presented after the new government takes office
+
+Wed, 12 Jun 2024 15:53:11 +0530
+### [How Indian universities offering admissions twice a year will benefit students](https://www.firstpost.com/explainers/indian-universities-admissions-twice-students-benefits-13781649.html)
+
+Article found but Couldn't summarize 
+In a big change, universities in India will now offer admissions twice a year, in July-August and then in January-February, similar to their foreign counterparts. This policy will be available for undergraduate, postgraduate and PhD programmes
+
+Wed, 12 Jun 2024 15:23:22 +0530
+### [Why shares of a firm making tiny $35 computers are soaring](https://www.firstpost.com/explainers/why-shares-of-a-firm-making-tiny-35-computers-are-soaring-13781695.html)
+
+Article found but Couldn't summarize 
+On Tuesday morning, Raspberry Pi set its IPO price on the London Stock Exchange at £2.80 per share, giving the company a valuation of £542 million, or approximately $690 million based on the current exchange rate. Following this, the company's shares surged by 32 per cent, reaching £3.70 per share. As a result, Raspberry Pi has the potential to raise over $200 million through its IPO process
+
+Wed, 12 Jun 2024 15:15:58 +0530
+### [Who is Nara Lokesh, the MBA from Stanford, behind TDP’s resurgence in Andhra Pradesh?](https://www.firstpost.com/explainers/nara-lokesh-mba-from-stanford-tdp-victory-andhra-pradesh-n-chandrababu-naidu-son-13781687.html)
+
+Nara Lokesh, son of Andhra Pradesh Chief Minister N Chandrababu Naidu, has been inducted into the state cabinet after taking oath as a minister. Lokesh, who lost his constituency in the 2019 Assembly elections, has made a comeback and won the same seat this time. His victory has been credited with the TDP's resurgence in Andhra politics. Lokesh completed his MBA from Stanford University and served as the IT minister in the last TDP government. His induction to the cabinet has sparked criticism as he was a member of the Legislative Council and not directly elected by the people. In the 2019 Assembly elections, he lost to the YSR Congress Party candidate by a narrow margin. However, he made a comeback in the recent elections with a landslide victory, defeating the YSR Congress Party's candidate by a huge margin. The TDP won the key Mangalagiri seat for the first time after nearly four decades. Lokesh's victory is attributed to his hard work and dedication in the constituency, which helped him regain the public's trust. The TDP emerged as a key player in national politics by bagging the second-highest number of seats among the NDA allies after the BJP. Lokesh is seen as an "accessible" face to the public and has been entrusted with important responsibilities in the state.
+
+Wed, 12 Jun 2024 14:33:18 +0530
+### [Why has India restricted import of gold jewellery?](https://www.firstpost.com/explainers/why-has-india-restricted-import-of-gold-jewellery-13781684.html)
+
+Article found but Couldn't summarize 
+India on Tuesday restricted the import of gold jewellery studded with pearls, certain types of diamonds, and other precious and semi-precious stones. This comes after imports of jewellery parts now banned surged from $52 million in 2022-2023 to to $1.5 billion in 2023-2024. Sources said some gold items were being brought into India duty-free and being melted to create jewellery
+
+Wed, 12 Jun 2024 13:53:49 +0530
+### [The shocking arrest of Kannada actor Darshan Thoogudeepa, 'girlfriend' over fan’s murder](https://www.firstpost.com/explainers/kannada-actor-darshan-thoogudeepa-girlfriend-arrested-for-fans-murder-13781601.html)
+
+Article found but Couldn't summarize 
+Kannada actor Darshan Thoogudeepa and 11 others including his rumoured partner Pavithra Gowda were arrested on Tuesday in a murder case in Bengaluru. Police say Renukaswamy, an ardent fan of Darshan, allegedly sent Pavithra obscene messages, blaming her for Darshan’s separation from his wife Vijayalakshmi. The victim was allegedly kidnapped and assaulted before he succumbed to his injuries
+
+Wed, 12 Jun 2024 13:33:25 +0530
+### [3 terror attacks in 3 days: What is going on in Jammu and Kashmir?](https://www.firstpost.com/explainers/3-terror-attacks-3-days-jammu-kashmir-doda-reasi-saida-sukhal-13781662.html)
+
+Article found but Couldn't summarize 
+Jammu and Kashmir is seeing an escalation of violence, spreading fear in the region. It all began on 9 June when a bus plunged into a gorge after being attacked by terrorists, followed by an attack on a village in Kathua and then an exchange of fire between terrorists and security forces in Doda district
+
+Wed, 12 Jun 2024 13:16:43 +0530
+### [Explained: The Cabinet portfolios PM Modi is spearheading and their importance](https://www.firstpost.com/explainers/explained-the-cabinet-portfolios-pm-modi-is-spearheading-and-their-importance-13781621.html)
+
+印度总理南德拉莫卜瓦（Narendra Modi）在他的第三任期中，选择保留了部门空间、原子能部门和人事、公共投诉和人力资源部门，并将这些部门直接置于他的管理下。 他将负责印度空间研究组织（ISRO）的运营，同时，今天 Singh 将负责这些部门的日常事务，在他的职位为国务院副长。
+
+这一决定为 Modi 的信任在关键领域处理重要角色而放光。
+
+人事、公共投诉和人力资源部门：
+这个部门对于监督宪政和确保公共行政高效非常重要。 一个重要的议题是，潜在的改革可能会确保国家退休金系统（NPS）退休金至少是劳动者最后一次薪水的一半。 目前，已经有超过 8700万中央和州政府职员在 2004 年以来参加了 NPS。 财政长官 Somanathan 在 3 月份领导的一支委员会正在探索方法，从 NPS 框架中提高退休金福利，而不是转回非贡献性老年退休制度（OPS）。
+
+原子能部门：
+南德拉莫卜瓦在此部门的保留，突出了这个部门的战略重要性。 该部门于 1954 年成立，位于孟买，原先由 Jawaharlal Nehru 领导，而 Homi Bhabha 担任秘书长。 该部门对于开发原子能技术和应用辐射技术至关重要，包括农业、医学、工业和基本研究。 该部门包括五个研究中心、三家工业组织、五家国有企业以及支持八所国际级重要实验室。
+
+该部门的项目目标是增加印度能源混合中的原子能的份额，并开发先进技术，例如加速器、激光和超级计算机。
+
+空间部门（DoS）：
+空间部门管理印度的雄厚空间计划，包括 ISRO。 在 Modi 的领导下，ISRO 取得了重大成就，包括成功地将 Chandrayaan-3 放置在月球南极附近，以及发射 India 的第一次太阳使用 Aditya L-1 的使用。
+
+空间部门的目标是通过空间技术为社会经济发展提供益处，管理用于通信、电视广播、气象预报和资源监测的卫星系统。
+
+ Singh 的角色：
+ Singh 是三位 BJP 议员中的一位，他继续扮演重要角色，在他的职位为国务院副长（独立职位），负责科学技术和地球科学，同时也负责原子能和空间，为 Modi 在这些领域提供支持。 Singh 已经在推动印度航天探索和实施公共行政改革和退休金政策方面做出了重大贡献。
+
+ Modi 和行政委员会的角色：
+ Modi 将行政委员会建立起来，分配特定功能并确保他们的有效运行。 这些委员会通常由三到八名行政部长组成，其中大多数是行政部长。 Modi 自己通常主持这些委员会，以导航重要政策决策和解决重要问题。
+
+ 目前，有八个行政委员会：聘用委员会、经济事务行政委员会、政治事务行政委员会、投资和增长行政委员会、安全行政委员会、行政事务行政委员会、就业和技能发展行政委员会和住房行政委员会。
+
+ 这些委员会对于提出给行政会议的建议和对分配的问题做出决定非常重要。
+
+ Modi 的策略分配：
+在他的第三任期中，Modi 倾向于重视持续性，将原来的部门长保留在他们的原来的角色中。 Amit Shah 继续担任内务部长，S Jaishankar 继续担任外交部长，Nirmala Sitharaman 继续担任财政部长，Rajnath Singh 继续担任国防部长。
+
+ Nitin Gadkari 继续负责道路、交通和高速公路，而 Sarbananda Sonowal 负责航海，Ashwini Vaishnaw 继续负责铁路。这些重新appointment 反映出 Modi 对他们的能力以及他们在他的行政计划中的关键角色的信任。
+
+ Jyotiraditya Scindia 被分配到通信部门，而来自 Telugu Desam Party（TDP）的 Ram Mohan Naidu 分配到航空航天部门。 Piyush Goyal 继续负责商业和工业，Dharmendra Pradhan 继续担任教育部长，而 Hardeep Singh Puri 继续负责石油和天然气。
+
+ BJP 总书记 JP Nadda，2014 年是 Modi 的行政会议成员，现在担任医疗部长，并持有化学和肥料部门的职位。
+
+ Modi 的政府前进时，这些策略决定可能会在印度未来轨迹上发挥重要作用。
+
+有些输入来自机构。
+
+Anmol 是 Firstpost 的高级副编辑。他喜欢喜忍忍地涉及那些讽刺他的故事，通常涉及国际政治、印度外交政策、人类兴趣、环境以及充满政治热情的印度选举周期。他已经访问了印度子 kontinent 中的 14 个州，一直在寻找有机会增加这个列表的机会。他喜欢看足球、网球和 F1 竞技赛，只是一个体育爱好者。
+
+Wed, 12 Jun 2024 12:35:43 +0530
+### [Can the Indian rupee hit an all-time low against the US dollar?](https://www.firstpost.com/explainers/inr-usd-will-indian-rupee-fall-further-us-dollar-all-time-low-13781639.html)
+
+On June 11, 2024, the Indian rupee reached an all-time closing low of 83.57 against the US dollar due to a combination of factors, including a strengthening US dollar, political uncertainties in India, volatility in Europe, and rising crude oil prices. On the following day, the rupee narrowly missed hitting another all-time low, opening at 83.54. The risk of the rupee hitting another lifetime low persists, as the US Federal Reserve is expected to announce its decision on whether to cut interest rates and key inflation data is expected to be released. The Reserve Bank of India may intervene in the foreign exchange market to prevent the rupee from falling further.
+
+Wed, 12 Jun 2024 12:10:34 +0530
+### [Delhi's Dark Day: Why the national capital faced a power outage for hours](https://www.firstpost.com/explainers/delhi-dark-day-why-the-national-capital-faced-a-power-outage-for-hours-13781541.html)
+
+Article found but Couldn't summarize 
+Several areas of the capital city plunged into darkness for more than two hours on Monday. It added to the misery of Delhi residents, who are already battling scorching heat and a severe water shortage
+
+Wed, 12 Jun 2024 10:37:56 +0530
+### [N Chandrababu Naidu's swearing-in: Who’s attending? Which ministers are taking oaths?](https://www.firstpost.com/explainers/n-chandrababu-naidu-swearing-in-whos-attending-ministers-taking-oaths-13781536.html)
+
+Telugu Desam Party (TDP) 首席领导人 N Chandrababu Naidu 将在 2023 年 6 月 12 日在 Kesarapalli IT Park 附近的甘内卢姆 Airport 周围的 VIJAYAWADA 举行宣誓典礼，成为安德拉普拉德州长官，第四届任期。该典礼期望参加的人员包括 Prime Minister Narendra Modi、Union Home Minister Amit Shah、Union Health Minister JP Nadda 以及许多其他州长。其他参加的人员包括 Naidu 的儿子 Nara Lokesh、праجワ尔卡尔雅坦（Janasena）首席、N Manohar 和 TDP 安德拉普拉德州领导人 Atchannaidu 等人。该新政府的行政院可能有 26 名minister，包括长官。据 Hindustan Times (HT) 报道，25 名minister 将被宣誓，其中 17 名是新人。
+
+在 2023 年 6 月 12 日上午 11:27 宣誓典礼之前，Naidu 与安德拉普拉德州州长 S Abdul Nazeer 在 Vijayawada 的 Raj Bhavan 会面， officially 提出建立政府。N Chandrababu Naidu 将成为长官的第四次，取代来自 Yuvajana Sramika Rythu Congress Party (YSRCP)的 YS Jagan Mohan Reddy。
+
+Wed, 12 Jun 2024 10:13:23 +0530
+### [Joe Biden’s son, Hunter, found guilty in gun trial: Will he go to prison?](https://www.firstpost.com/explainers/joe-biden-son-hunter-guilty-gun-trial-prison-future-13781553.html)
+
+Article found but Couldn't summarize 
+Hunter Biden, the son of US president Joe Biden, becomes the first child of a sitting American chief to be convicted of a federal crime. The judge in the gun trial case will now decide if the 54-year-old should be sent to prison and for how long. The maximum punishment for the crime is 25 years, which experts say is unlikely to be handed out to Biden junior
+
+Wed, 12 Jun 2024 08:58:17 +0530
+### [Trunk call: Do elephants call out to each other by their name?](https://www.firstpost.com/explainers/trunk-call-do-elephants-call-out-to-each-other-by-their-name-13781228.html)
+
+The article discusses a new study that suggests elephants may use distinctive, rumbling sounds as individual names, making them the only non-human species known to use language. The study, carried out on wild African Savannah elephants in Kenya, used an artificial intelligence algorithm to analyze calls between two herds. The researchers found that elephants can determine who a call is intended for and that names are often used over long distances and when adults are addressing young elephants. The study also found that elephants respond positively and energetically to recordings of their names, but do not merely imitate the call of the intended recipient, suggesting that they invent "arbitrary" names for each other. The researchers believe that this ability to use names highlights the importance of social bonds for elephants and indicates they have the ability for abstract thought. However, it is noted that more research is needed to fully understand the syntax and basic elements of elephant vocalizations.
+
+Wed, 12 Jun 2024 08:30:14 +0530
+### [Why Chandrababu Naidu is not taking oath in Amaravati, the future capital of Andhra Pradesh](https://www.firstpost.com/explainers/chandrababu-naidu-oath-taking-ceremony-krishna-district-amaravati-capital-andhra-pradesh-13781417.html)
+
+N Chandrababu Naidu, the Andhra Pradesh CM-designate, will be sworn in at 11:27 am on June 12 near Kesarapalli IT Park in Gannavaram, Krishna district. The ceremony was originally planned for Amaravati, but logistical challenges and minimal development in the area led to the change in venue. Amaravati's development had stalled after the 2019 state assembly elections, but Naidu's return to power has rekindled discussions about its future. The coming months will be crucial in determining the trajectory of Amaravati's development and its role in Andhra Pradesh's future.
+
+Wed, 12 Jun 2024 06:00:38 +0530
+### [FirstUp: Chandrababu Naidu to take oath as Andhra CM, swearing-in of first BJP govt in Odisha... Big headlines today](https://www.firstpost.com/explainers/firstup-chandrababu-naidu-to-take-oath-as-andhra-cm-swearing-in-of-first-bjp-govt-in-odisha-big-headlines-today-13781328.html)
+
+Today, several significant events are expected to occur. In Andhra Pradesh, Telugu Desam Party's Chandrababu Naidu is scheduled to take oath as Chief Minister for the fourth time after winning the recent elections. Meanwhile, in Odisha, Mohan Manjhi from the BJP will be sworn in as Chief Minister, marking the party's first government in the state. Prime Minister Narendra Modi is expected to attend both events and also hold a roadshow in Bhubaneswar. On the international front, Pakistan is set to unveil a budget of approximately Rs 18 trillion for the financial year 2024-25. In entertainment news, BTS member Jin is expected to be discharged from military duty today, and Team India will face the USA in the ICC Men's T20 Cricket World Cup in New York.
+
+Tue, 11 Jun 2024 21:00:00 +0530
+### [BJP’s Mohan Charan Majhi is new Odisha CM. But where will he stay?](https://www.firstpost.com/explainers/bjp-mohan-charan-majhi-new-odisha-cm-official-residence-bjd-naveen-patnaik-13781426.html)
+
+Article found but Couldn't summarize 
+Mohan Charan Majhi will take oath as Odisha’s chief minister on Wednesday. However, there is no official residence for him yet. Why? The 24-year tenure of Naveen Patnaik holds the answers
+
+Tue, 11 Jun 2024 19:56:45 +0530
+### [How UK, Schengen countries are making millions off rejected visas](https://www.firstpost.com/explainers/how-uk-schengen-countries-are-making-millions-off-rejected-visas-13781443.html)
+
+Article found but Couldn't summarize 
+Data from the Lago Collective showed that rejected visa application fees, known as ‘reverse remittances’, netted Schengen nations and the UK nearly $200 million last year. Experts say low and middle-income nations have the highest rejection rates and that the world’s poorest are paying the price
+
+Tue, 11 Jun 2024 18:56:42 +0530
+### [Who is Mohan Charan Majhi, the new chief minister of Odisha?](https://www.firstpost.com/explainers/who-is-mohan-charan-majhi-the-new-chief-minister-of-odisha-13781420.html)
+
+Article found but Couldn't summarize 
+Mohan Charan Majhi, a four-time MLA from Keonjhar, is from the tribal community. The 53-year-old hails from a humble background and is thought to have strong links to the RSS. He is said to have been ‘instrumental’ in shaping the BJP's policies for the region
+
+Tue, 11 Jun 2024 18:10:52 +0530
+### [How Vietnam is growing bigger by building islands in South China Sea](https://www.firstpost.com/explainers/how-vietnam-is-growing-bigger-by-building-islands-in-south-china-sea-13781327.html)
+
+Article found but Couldn't summarize 
+Vietnam is accelerating its construction of artificial islands amid its territorial dispute with China in the South China Sea. Over the past three years, the area of Vietnamese artificial islands has expanded more than sevenfold, now reaching half the size of China's artificial islands, said a report citing satellite images
+
+Tue, 11 Jun 2024 17:40:35 +0530
+### [Eat Right: What's the planet-friendly diet that may lengthen your life?](https://www.firstpost.com/health/planet-friendly-diet-beneficial-for-humans-and-the-planet-13781238.html)
+
+Article found but Couldn't summarize 
+A planet-friendly diet, which is mostly based on consuming veggies and fruits, is believed to be highly beneficial for humans and the Earth. A new study backs this claim by saying that it also reduces the risk of premature death by nearly one-third in people. It also dramatically reduces greenhouse gases that are choking the planet
+
+Tue, 11 Jun 2024 17:17:08 +0530
+### [The ‘aandhi’ called Pawan Kalyan: How the movie star scripted his comeback in Andhra politics](https://www.firstpost.com/explainers/pawan-kalyan-jsp-movie-star-andhra-pradesh-deputy-cm-tdp-bjp-politics-13781363.html)
+
+Article found but Couldn't summarize 
+‘Yeh Pawan nahi hai, aandhi hai’, quipped PM Narendra Modi last week while introducing the Telugu actor-politician. Another title may soon be added before Pawan Kalyan’s name as he is likely to become the deputy chief minister of Andhra Pradesh
+
+Tue, 11 Jun 2024 16:50:15 +0530
+### [Is a US recession imminent? Why ‘lipstick index’ could point the way](https://www.firstpost.com/explainers/is-a-us-recession-imminent-why-lipstick-index-could-point-the-way-13781338.html)
+
+Article found but Couldn't summarize 
+The lipstick index was coined by the then Estee Lauder chairman Leonard Lauder in the aftermath of the 9/11 attacks. Lauder noted that women preferred to purchase items like lipstick during recessions rather than more expensive products. Experts say the theory offers an interesting insight into how consumer behaviour can adapt during difficult economic times
+
+Tue, 11 Jun 2024 16:29:29 +0530
+### [Malawi vice president Saulos Chilima confirmed dead in plane crash. Who was he?](https://www.firstpost.com/explainers/malawi-vice-president-saulos-chilima-confirmed-dead-in-plane-crash-who-was-he-13781221.html)
+
+Article found but Couldn't summarize 
+A plane crash resulted in the deaths of Malawi vice president Saulos Chilima and nine others on 11 June. After an extensive search operation, the wreckage of the missing plane was discovered in Chikangawa Forest, with no survivors
+
+Tue, 11 Jun 2024 16:03:50 +0530
+### [Hooked to smartphones? What excessive internet usage does to teenage brains](https://www.firstpost.com/health/hooked-to-smartphones-what-excessive-internet-usage-does-to-teenage-brains-13781212.html)
+
+Article found but Couldn't summarize 
+A study has found that excessive internet usage among adolescents affects regions of their brains which are responsible for controlling attention, intellectual ability, working memory, and physical coordination. This hampers overall development and well-being
+
+Tue, 11 Jun 2024 15:35:41 +0530
+### [Fresh trouble for Sunita Williams? How drug resistant spacebug found on ISS is causing panic](https://www.firstpost.com/explainers/fresh-trouble-for-sunita-williams-how-drug-resistant-spacebug-found-on-iss-is-causing-panic-13781229.html)
+
+Article found but Couldn't summarize 
+Scientists have discovered mutated strains of bacteria Enterobacter bugandensis – usually found in soil, sewage and as flora in gastrointestinal tracts of humans and animals – at various locations on the International Space Station. Experts say the development sheds light on microbial behaviour in isolated environments and reinforces the need for preventive measures to keep astronauts safe
+
+Tue, 11 Jun 2024 14:47:18 +0530
+### [Why BJP’s ‘Big 4’ ministers, Amit Shah, Rajnath, Nirmala and Jaishankar, have a daunting task ahead of them](https://www.firstpost.com/explainers/modi-cabinet-big-4-ministers-ccs-amit-shah-rajnath-singh-nirmala-sitharaman-jaishankar-daunting-task-13781219.html)
+
+Article found but Couldn't summarize 
+PM Narendra Modi has retained Amit Shah, Rajnath Singh, Nirmala Sitharaman and S Jaishankar for the ‘big 4’ ministries of home, defence, finance and external affairs in his new Cabinet. The ministers have a challenging road ahead of them. Here’s some of the big trials that await them
+
+Tue, 11 Jun 2024 14:25:25 +0530
+### [‘Maha’ worry: Are chasms developing within the ruling Mahayuti alliance?](https://www.firstpost.com/explainers/maharashtra-lok-sabha-election-results-mahayuti-alliance-chasms-ajit-pawar-ncp-eknath-shinde-shiv-sena-bjp-13781244.html)
+
+Article found but Couldn't summarize 
+Leaders of Ajit Pawar’s NCP and Shinde Sena have expressed their disgruntlement over the allocation of portfolios in Modi 3.0, as both parties were denied Cabinet berths. The Mahayuti alliance’s poor showing in Maharashtra Lok Sabha election results has also sparked a blame game
+
+Tue, 11 Jun 2024 13:34:36 +0530
+### [Manmohan Samal, Suresh Pujari or KV Singh Deo? Who will be Odisha's new CM?](https://www.firstpost.com/explainers/manmohan-samal-suresh-pujari-kv-singh-deo-odisha-new-cm-frontrunners-13781145.html)
+
+Article found but Couldn't summarize 
+The BJP’s suspense over Odisha’s new chief ministerial face will likely end today. The party’s state legislature unit is meeting on Tuesday to elect its leader, who will be sworn in as the chief minister on Wednesday. State BJP president Manmohan Samal, former state party chief Suresh Pujari, senior MLA KV Singh Deo and retired Gujarat cadre IAS officer Girish Murmu are being considered for the job
+
+Tue, 11 Jun 2024 13:26:55 +0530
+### [Anti-immigration, anti-Islam, Pro-Putin: About Marine Le Pen's National Rally party ahead of French elections](https://www.firstpost.com/explainers/france-election-marine-le-pen-far-right-national-rally-party-13781164.html)
+
+Article found but Couldn't summarize 
+Emmanuel Macron called for snap elections after being battered in European Parliament elections. The far-right Rassemblement National (National Rally) party, led by Marine Le Pen, is expected to dominate the polls. We explain the party's ideology and what will happen if it wins
+
+Tue, 11 Jun 2024 12:42:09 +0530
+### [Who is Ursula von der Leyen, European Commission chief vying for a second term. Will she succeed?](https://www.firstpost.com/explainers/europe-eu-elections-2024-who-is-ursula-von-der-leyen-will-she-be-able-to-retain-her-role-as-european-commission-president-why-is-the-post-important-13781132.html)
+
+Article found but Couldn't summarize 
+The surge of euro-sceptic nationalist parties in the European elections is expected to make Ursula von der Leyen's efforts to secure a second term as president of the influential European Commission more challenging, although she remains the leading candidate for the position. Von der Leyen needs to secure a 'qualified majority' from the 27 European Union leaders and also a majority in the 720-seat European Parliament
+
+Tue, 11 Jun 2024 12:26:12 +0530
+### [Meet the 24-year-old YouTuber from Cyprus who won a seat in the EU elections](https://www.firstpost.com/explainers/who-is-the-24-year-old-youtuber-from-cyprus-who-won-a-seat-in-the-eu-elections-13781081.html)
+
+Article found but Couldn't summarize 
+Best known for his audacious comedy clips and prank videos, YouTuber Fidias Panayiotou on Sunday clinched a seat in the European Parliament from Cyprus. He contested the polls as he said he could no longer stand the continued rule of 'nerds' in Brussels
+
+Tue, 11 Jun 2024 11:21:23 +0530
+### [Who is Annapurna Devi, the Jharkhand MP who replaced Smriti Irani as the women and child minister?](https://www.firstpost.com/explainers/annapurna-devi-jharkhand-mp-women-and-child-minister-smriti-irani-13781079.html)
+
+Article found but Couldn't summarize 
+Annapurna Devi, a BJP MP from Jharkhand, is the new Union minister for women and child development. She is one of the two women Cabinet ministers and among seven women in the new Council of Ministers. The 55-year-old, a homemaker, was drawn into the political sphere by fate after her husband RJD legislator Ramesh Yadav passed away suddenly in 1998
+
+Tue, 11 Jun 2024 10:03:42 +0530
+### [Modi 3.0: How upcoming polls influenced Modi’s portfolio allocation for new Cabinet](https://www.firstpost.com/explainers/modi-3-0-upcoming-assembly-polls-maharashtra-bihar-jharkhand-haryana-portfolio-allocation-new-cabinet-13781088.html)
+
+Article found but Couldn't summarize 
+The Narendra Modi government has finally declared the portfolios in the new Cabinet. While it is an exercise in continuity, it also shows that the BJP is gearing up for the Assembly elections in six states and a Union Territory later this year. Here’s how
+
+Tue, 11 Jun 2024 06:00:15 +0530
+### [FirstUp: Congress' Dhanyawaad Yatra, TDP legislature meeting... Top news today](https://www.firstpost.com/explainers/firstup-congress-dhanyawaad-yatra-tdp-legislature-meeting-top-news-today-13780952.html)
+
+Article found but Couldn't summarize 
+The Congress will commence a ‘Dhanyawaad Yatra’ from 11 to 15 June in all 403 constituencies of Uttar Pradesh and Rahul Gandhi will address in Amethi. The TDP legislature meeting will be held to elect N Chandrababu Naidu as the leader. On the global front, the foreign ministers of BRICS bloc will meet for the second day
+
+Mon, 10 Jun 2024 21:02:07 +0530
+### [Modi 3.0: Why BJP has retained the big 4 ministries, defence, external affairs, home and finance](https://www.firstpost.com/explainers/modi-government-3-0-bjp-big-4-ministries-defence-external-affairs-home-finance-ccs-union-cabinet-13781014.html)
+
+Article found but Couldn't summarize 
+A day after the swearing-in ceremony of the Narendra Modi-led NDA government, the Cabinet berths were finally allocated. The BJP has retained plum portfolios including the big four – defence, external affairs, home affairs and finance. These ministries constitute the Cabinet Committee on Security (CCS). Here’s a look at why the saffron party not only kept these posts with itself but also continued the ministers from Modi 2.0
+
+Mon, 10 Jun 2024 19:57:46 +0530
+### [Will France's snap elections hurt the Paris Olympics?](https://www.firstpost.com/explainers/will-france-snap-elections-hurt-the-paris-olympics-macron-marine-le-pen-2024-13780978.html)
+
+Article found but Couldn't summarize 
+On Sunday, French president Emmanuel Macron dissolved the National Assembly and called for a snap election following an exit poll indicating that his Renaissance party might lose to the far-right opposition in the parliamentary elections. The decision comes weeks before the Paris Olympics and has left the city's mayor 'stunned'
+
+Mon, 10 Jun 2024 19:37:20 +0530
+### [When did the modern-day horse come into existence?](https://www.firstpost.com/explainers/when-did-the-modern-day-horse-come-into-existence-13780881.html)
+
+Article found but Couldn't summarize 
+A recent study shows that widespread horse domestication occurred twice. While the first time didn’t result in much, the second time, around 4,200 years ago, changed history for us
+
+Mon, 10 Jun 2024 18:48:32 +0530
+### [How a 'loudspeaker battle' is flaring up between North and South Korea](https://www.firstpost.com/explainers/how-a-loudspeaker-battle-is-flaring-up-between-north-and-south-korea-13780949.html)
+
+Article found but Couldn't summarize 
+In a response to North Korea's trash-filled balloon campaign, South Korea has begun broadcasting anti-Pyongyang messages, international news, K-pop and more over loudspeakers. Now, North Korea is preparing to respond the same way. This is not the first time that tensions have escalated between the two Koreas over such broadcasts
+
+Mon, 10 Jun 2024 17:49:14 +0530
+### [In Graphics | Inside the Modi Cabinet 3.0](https://www.firstpost.com/explainers/in-graphics-inside-the-modi-cabinet-3-0-13780966.html)
+
+Article found but Couldn't summarize 
+In a grand event, Narendra Modi and his 72 Union Council of Ministers were sworn in at Rashtrapati Bhavan. Here's a look at the composition of the new Cabinet — from seven women to 12 NDA partners
+
+Mon, 10 Jun 2024 17:18:33 +0530
+### [Why the terror attack in J&K’s Reasi that killed 9 pilgrims poses new security concerns](https://www.firstpost.com/explainers/jk-terror-attack-in-reasi-pilgrims-killed-security-concerns-13780926.html)
+
+Article found but Couldn't summarize 
+At least nine Hindu pilgrims died and over 30 were wounded after terrorists opened fire on their bus, which then fell into a gorge in Jammu and Kashmir’s Reasi district. The hunt is on to find the perpetrators of the deadly attack, with reports claiming that The Resistance Front (TRF), an offshoot of Pakistan-based terrorist group Lashkar-e-Taiba (LeT), has taken responsibility for the incident
+
+Mon, 10 Jun 2024 17:03:50 +0530
+### [Why the TDP and JD(U) are negotiating hard for the Speaker’s position in the NDA government](https://www.firstpost.com/explainers/tdp-jdu-lok-sabha-speaker-nda-government-13780917.html)
+
+Article found but Couldn't summarize 
+After the Modi Cabinet 3.0 swearing-in, all eyes have turned to the Lok Sabha Speaker’s post. The TDP and JD(U), the main allies of the BJP, are vying for this position. However, the saffron party, seeing the importance of it, seems  in no mood to relent
+
+Mon, 10 Jun 2024 17:01:47 +0530
+### [Centre holds, far-right makes gains in EU elections: How does voting work?](https://www.firstpost.com/explainers/centre-holds-far-right-makes-gains-in-eu-elections-how-does-voting-work-13780874.html)
+
+Article found but Couldn't summarize 
+The European Parliament (EP) elections are a complex and crucial process that takes place every five years, allowing citizens of the European Union (EU) member states to elect their representatives to the European Parliament. We take a look at how the voting works
+
+Mon, 10 Jun 2024 16:55:15 +0530
+### [Why did Singapore ban cats in public housing for 34 years? What's changing now?](https://www.firstpost.com/explainers/singapore-lifting-ban-on-cats-in-public-housing-13780900.html)
+
+Article found but Couldn't summarize 
+Singapore is all set to lift its cat ban in the high-rise Housing and Development Board (HDB) apartment in September this year. The 34-year-old was imposed in 1989 by the agency, which justified it by saying cats ‘are difficult to contain within the flat’. However, the policy change comes with a set of new rules. Take a look
+
+Mon, 10 Jun 2024 16:43:39 +0530
+### [What is 'sadfishing' that social media is hooked to?](https://www.firstpost.com/explainers/what-is-sadfishing-that-social-media-is-hooked-to-13780868.html)
+
+Article found but Couldn't summarize 
+'Sadfishing' is a term used to call out someone who is manipulating others’ emotions for personal gain. While this term was made for celebrities who indulge in attention-seeking behaviour on social media, it is also dissing those who are seeking genuine support
+
+Mon, 10 Jun 2024 15:02:17 +0530
+### [Meet the 7 women from PM Modi's 72-member Council of Ministers](https://www.firstpost.com/explainers/pm-narendra-modi-3-0-union-cabinet-women-ministers-centre-swearing-in-13780866.html)
+
+Article found but Couldn't summarize 
+The third NDA government led by PM Narendra Modi has seven women Union ministers. While senior BJP leaders like Nirmala Sitharaman and Annapurna Devi have been inducted into the Cabinet, there are three new faces and two old ones
+
+Mon, 10 Jun 2024 14:44:24 +0530
+### [Who was Yuvraj Goyal, the 28-year-old from Punjab, shot dead in Canada?](https://www.firstpost.com/explainers/yuvraj-goyal-shot-dead-in-canada-13780838.html)
+
+Article found but Couldn't summarize 
+Indian-origin Yuvraj Goyal was shot dead in Canada’s Surrey on Friday. He hailed from Ludhiana and migrated to Canada in 2019 on a student visa. While preliminary investigation indicates it was the case of targeted shooting, further investigation is underway
+
+Mon, 10 Jun 2024 13:29:33 +0530
+### [EU elections 2024: What the surge of far-right means for Europe](https://www.firstpost.com/explainers/eu-elections-2024-what-the-the-surge-of-far-right-means-for-europe-13780815.html)
+
+Article found but Couldn't summarize 
+As anticipated by polls, far-right factions in the European parliament's elections achieved significant advances throughout the EU bloc. In France, the National Rally secured nearly one-third of the votes, establishing itself as the top ultra-nationalist group in the upcoming Parliament. We take a look at the rise of the far-right in these EU elections and its possible impact
+
+Mon, 10 Jun 2024 13:18:56 +0530
+### [Seeds of Summer: How Israel rescued 4 hostages in ‘complex’ daytime operation](https://www.firstpost.com/explainers/seeds-of-summer-how-israel-rescued-4-hostages-in-complex-daytime-operation-13780756.html)
+
+Article found but Couldn't summarize 
+Israel brought back four Hamas-held hostages after they were kidnapped from a music festival on 7 October. The rescue mission was planned for weeks and was carried out by a special anti-terror unit along with Shin Bet agents
+
+Mon, 10 Jun 2024 13:04:20 +0530
+### [Anurag Thakur, Vinod Tawde and more: Who’s in the race to replace JP Nadda as BJP president?](https://www.firstpost.com/explainers/race-replace-jp-nadda-as-bjp-president-modi-cabinet-swearing-in-13780823.html)
+
+Article found but Couldn't summarize 
+JP Nadda’s inclusion in the Modi Cabinet has raised questions about who shall succeed him as the next BJP president. A new chief will have to be selected soon as Nadda's term ends at the end of this month. A few names are already doing the rounds
+
+Mon, 10 Jun 2024 11:54:08 +0530
+### ['Humbled': How international media reported on Modi 3.0 oath-taking](https://www.firstpost.com/explainers/international-media-humbled-modi-3-0-oath-taking-13780713.html)
+
+Article found but Couldn't summarize 
+Narendra Modi was sworn in as the prime minister for a historic third consecutive term on Sunday, along with 72 ministers who are yet to be assigned their duties. While the Lok Sabha elections turned global eyes towards India, international media wrote about the 73-year-old ‘humbled’ leader’s shift in approach and the upcoming challenges in the coalition administration
+
+Mon, 10 Jun 2024 10:43:14 +0530
+### [From JP Nadda to Chirag Paswan, the new faces in Modi sarkar 3.0](https://www.firstpost.com/explainers/modi-sarkar-3-0-jp-nadda-chirag-paswan-new-faces-13780760.html)
+
+Article found but Couldn't summarize 
+The new Narendra Modi sarkar was sworn in at a grand ceremony at Rashtrapati Bhavan with 72 ministers on Sunday. Of these, many are new faces such as JP Nadda, Jayant Choudhary, Chirag Paswan, Jitan Ram Manjhi and more
+
+Mon, 10 Jun 2024 09:48:52 +0530
+### [What will be Narendra Modi’s salary as PM? How does it compare to other world leaders?](https://www.firstpost.com/explainers/prime-minister-narendra-modi-salary-world-leaders-pay-package-13780533.html)
+
+Article found but Couldn't summarize 
+Narendra Modi has been sworn in for a historic third term. As prime minister, he will receive a monthly salary of Rs 1.66 lakh a month and other perks such as security cover and free housing. But he’s not among the highest-paid world leaders
+
+Mon, 10 Jun 2024 08:37:44 +0530
+### ['A bad government': Israel's Benny Gantz quits war cabinet, why it matters and why it doesn't](https://www.firstpost.com/world/israel-benny-gantz-quits-war-cabinet-why-it-matters-and-why-it-doesnt-13780688.html)
+
+Article found but Couldn't summarize 
+Tipped to be the next government head in Israel when it goes to the polls, Benny Gantz has quit Benjamin Netanyahu’s war cabinet citing differences over strategies to end the Gaza war favourably
+
+Mon, 10 Jun 2024 08:06:39 +0530
+### [JP Nadda returns to Modi Cabinet: The rise and rise of the BJP leader](https://www.firstpost.com/explainers/bjp-jp-nadda-pm-narendra-modi-union-cabinet-swearing-in-13780623.html)
+
+Article found but Couldn't summarize 
+BJP president Jagat Prakash Nadda took oath of office on Sunday evening, along with other council of ministers of the Narendra Modi-led Central government. A product of the Jayaprakash Narayan movement, the leader, who hails from Himachal Pradesh, has steadily risen through the ranks to make his mark in the party
+
+Mon, 10 Jun 2024 06:00:25 +0530
+### [FirstUp: From Apple's WWDC to Pakistan's budget approval process to oath-taking in Odisha...The headlines today](https://www.firstpost.com/explainers/firstup-apple-wwdc-pakistan-budget-odisha-oath-taking-brics-russia-prajwal-revanna-nse-13780571.html)
+
+Article found but Couldn't summarize 
+The police custody of former MP Prajwal Revanna expires today. The NSE will introduce a 1 paisa tick size for all stocks below Rs 250. Russia hosts the BRICS Council of Foreign Ministers meeting in Nizhny Novgorod. Odisha’s new BJP-led government will be sworn in. Pakistan's Economic Coordination Committee will seek approval for the Public Sector Development Programme. Apple’s annual Worldwide Developers Conference (WWDC) kicks off, highlighting AI advancements. We dig into these and other headlines
+
+Sun, 9 Jun 2024 20:49:19 +0530
+### [Why no NCP leader has found place in Modi 3.0 Cabinet](https://www.firstpost.com/explainers/modi-cabinet-no-ncp-leader-ajit-pawar-praful-patel-maharashtra-13780579.html)
+
+Article found but Couldn't summarize 
+The new Modi Cabinet has been sworn in and the pressures of a coalition government are already unfolding. The BJP had offered the Ajit Pawar-led NCP a Minister of State with independent charge. However, the Maharashtra deputy chief minister rejected the proposal, demanding a Cabinet post for his senior leader Praful Patel
+
+Sun, 9 Jun 2024 20:21:02 +0530
+### [VK Pandian quits ‘active politics’: The meteoric fall of Naveen Patnaik’s Man Friday](https://www.firstpost.com/explainers/odisha-vk-pandian-quits-active-politics-cm-naveen-patnaik-man-friday-13780554.html)
+
+Article found but Couldn't summarize 
+VK Pandian has bowed out of ‘active politics’ after the BJD’s massive rout in Odisha, ending the 24-year rule of Naveen Patnaik. Once seen as the 77-year-old's successor, what went wrong for the ex-IAS officer and the regional party?
+
+Sun, 9 Jun 2024 19:00:23 +0530
+### [Invitations and international relations: A look at India's ties with 7 key nations invited to PM Modi's swearing-in](https://www.firstpost.com/explainers/pm-modi-oath-taking-india-relations-bangladesh-bhutan-nepal-maldives-mauritius-seychelles-sri-lanka-13780534.html)
+
+Article found but Couldn't summarize 
+Leaders from Bangladesh, Bhutan, the Maldives, Mauritius, Nepal, Seychelles, and Sri Lanka, are present at Narendra Modi's oath-taking ceremony as he assumes the position of prime minister for a third term. From major infrastructural projects with Bangladesh and Bhutan to strategic maritime collaborations with the Maldives, Seychelles, and Mauritius, we explain India's relations with these neighbouring nations
+
+Sun, 9 Jun 2024 18:00:39 +0530
+### [Jayant Singh Chaudhary: The Jat leader from UP who is now a Union minister in Modi 3.0](https://www.firstpost.com/explainers/jayant-singh-chaudhary-jat-leader-union-minister-narendra-modi-swearing-in-13780500.html)
+
+Article found but Couldn't summarize 
+Years ago, Jayant Chaudhary of the Rashtriya Lok Dal, which was an ally of the Samajwadi Party, had famously said that he is ‘not a coin who will flip’. Come February 2024, his stance will change and he will join the BJP-led NDA bloc. Now, the grandson of former Indian PM Charan Singh has become a Union minister
+
+Sun, 9 Jun 2024 17:19:45 +0530
+### [Modi 3.0: Smriti Irani, Anurag Thakur… The ministers who have been dropped](https://www.firstpost.com/explainers/modi-3-0-smriti-irani-anurag-thakur-ministers-dropped-13780486.html)
+
+Article found but Couldn't summarize 
+Narendra Modi and his Council of Ministers will take the oath of office today at Rashtrapati Bhavan. Ahead of this historic event, some of his older ministers have been dropped to make way for new faces. Among them are Smriti Irani, Anurag Thakur, and Narayan Rane
+
+Sun, 9 Jun 2024 16:02:20 +0530
+### [Some old faces, some new: Who will be the ministers in Modi 3.0 Cabinet?](https://www.firstpost.com/explainers/narendra-modi-cabinet-newly-elected-mps-list-13780464.html)
+
+Article found but Couldn't summarize 
+What will Modi 3.0 will look like? Hours before the oath-taking ceremony, we have a list. BJP’s big leaders Amit Shah, Rajnath Singh, Nirmala Sitharaman and S Jaishakar are part of the team. TDP’s Kinjarapu Ram Mohan Naidu and Chandra Sekhar Pemmasani will join along with JD(U)’s Ramnath Thakur and Lalan Singh
+
+Sun, 9 Jun 2024 15:07:00 +0530
+### [Who is TDP’s Kinjarapu Ram Mohan Naidu, set to be youngest minister in Modi Cabinet 3.0?](https://www.firstpost.com/explainers/tdp-mp-kinjarapu-ram-mohan-naidu-youngest-minister-union-cabinet-pm-narendra-modi-swearing-in-13780444.html)
+
+Article found but Couldn't summarize 
+Kinjarapu Ram Mohan Naidu is a three-time Telugu Desam Party (TDP) MP from Andhra Pradesh's Srikakulam Lok Sabha constituency. The 36-year-old will be taking oath as Union minister in the BJP-led NDA government on Sunday evening
+
+Sun, 9 Jun 2024 14:53:49 +0530
+### [BJP to retain control of these 4 prized Cabinet Committee on Security ministries; Here's why it matters](https://www.firstpost.com/explainers/bjp-narendra-modi-ccs-cabinet-committee-on-security-ministries-13780436.html)
+
+Article found but Couldn't summarize 
+BJP has strategically retained control over the four crucial ministries– Home, Defence, Finance, and External Affairs–represented in the Cabinet Committee on Security (CCS). What are the functions of the CCS? How does this move strengthen the BJP’s and Narendra Modi's strategic position? We explain
+
+Sun, 9 Jun 2024 14:51:58 +0530
+### [Mist fans, mini fridges and more… How Rashtrapati Bhavan is preparing for Modi’s swearing-in ceremony](https://www.firstpost.com/explainers/narendra-modi-swearing-in-mist-fans-mini-fridges-rashtrapati-bhavan-prep-13780441.html)
+
+Article found but Couldn't summarize 
+Workers are racing against time to complete prep at the Rashtrapati Bhavan before Narendra Modi and his Council of Ministers take oath in a grand ceremony. From laying out the red carpet to installing mini-fridges, no stone is being left unturned for the grand event, which will have around 8,000 guests in attendance
+
+Sun, 9 Jun 2024 11:16:33 +0530
+### [Why Modi 3.0 cannot have more than 81 ministers](https://www.firstpost.com/explainers/pm-modi-news-why-it-cannot-have-more-than-81-ministers-13780387.html)
+
+Article found but Couldn't summarize 
+As Narendra Modi takes the oath for his third consecutive term as prime minister, his new Cabinet will be limited to 81 ministers due to constitutional constraints. The focus is on how ministries will be allocated to appease coalition allies while ensuring effective governance. We take an in-depth look
+
+Sun, 9 Jun 2024 10:47:13 +0530
+### [From Roman Empire to Rashtrapati Bhavan, the long history behind oath-taking ceremonies](https://www.firstpost.com/explainers/modi-swearing-in-history-oath-taking-ceremony-rashtrapati-bhavan-13779931.html)
+
+Article found but Couldn't summarize 
+Narendra Modi will take the oath of office in a grand swearing-in ceremony at Rashtrapati Bhavan, which is expected to have a guest list of 8,000 people. But have you ever wondered where this tradition came from
+
+Sat, 8 Jun 2024 19:59:04 +0530
+### [Rae Bareli or Wayanad? Why Rahul Gandhi must choose between them and which one he will pick](https://www.firstpost.com/explainers/rae-bareli-or-wayanad-why-rahul-gandhi-must-choose-between-them-and-which-one-he-will-pick-13780294.html)
+
+Article found but Couldn't summarize 
+Rahul Gandhi, who contested from both Rae Bareli in Uttar Pradesh and Wayanad in Kerala in the recent Lok Sabha polls, won both seats by massive margins. Under the Representation of the People Act, 1951, a candidate can contest from a maximum of two constituencies, but can keep only one
+
+Sat, 8 Jun 2024 18:34:02 +0530
+### [Who will make it to the Modi 3.0 cabinet? These names are being considered](https://www.firstpost.com/explainers/who-will-make-it-to-the-modi-3-0-cabinet-these-names-are-being-considered-13780273.html)
+
+Article found but Couldn't summarize 
+According to several media reports, the BJP is keen on keeping a number of high-profile ministries including home, finance and defence, Meanwhile, the NDA allies the TDP and JD (U) are eyeing several berths in the cabinet. But which names are being discussed?
+
+Sat, 8 Jun 2024 17:53:18 +0530
+### [Inflated marks, paper leak and more: The NEET-UG results row](https://www.firstpost.com/explainers/inflated-marks-neet-ug-results-row-13780228.html)
+
+Article found but Couldn't summarize 
+The results of the National Eligibility-sum-Entrance Test (NEET-UG) 2024 were announced earlier this week. However, the results have been marred by claims of irregularities and paper leaks after 67 candidates bagged the top spot and got a perfect score of 720/720. The NTA has denied the allegations
+
+Sat, 8 Jun 2024 15:15:35 +0530
+### [EU Elections 2024: Will Ursula von der Leyen continue as European Commission president?](https://www.firstpost.com/explainers/eu-elections-2024-ursula-von-der-leyen-european-commission-president-13780210.html)
+
+Article found but Couldn't summarize 
+In one of the largest democratic events, nearly 400 million citizens of the European Union are casting votes this week to elect MEPs (members of the European Parliament). Whether European Commission president Ursula von der Leyen will continue to lead the EU as its public face is one of the biggest questions
+
+Sat, 8 Jun 2024 13:42:08 +0530
+### [Who is Olivia Henson, Kate Middleton's lookalike, who married Britain’s 'most eligible bachelor'?](https://www.firstpost.com/explainers/olivia-henson-kate-middleton-lookalike-britain-most-eligible-bachelor-13780160.html)
+
+Article found but Couldn't summarize 
+Hugh Grosvenor, the Duke of Westminster, dubbed Britain's most eligible bachelor, tied the knot with Olivia Henson at Chester Cathedral on Friday. Little is known about the new Duchess of Westminster. However, royal analysts say the 31-year-old is quite similar to Kate Middleton because of her elegant yet relaxed demeanour
+
+Sat, 8 Jun 2024 13:34:52 +0530
+### [MEA says SAGAR vision in action as neighbourhood leaders invited to PM Modi's swearing in: What it is?](https://www.firstpost.com/explainers/mea-says-sagar-vision-in-action-as-neighbourhood-leaders-invited-to-pm-modis-swearing-in-what-it-is-13780194.html)
+
+Article found but Couldn't summarize 
+India launched its SAGAR vision in 2015 during Prime Minister Narendra Modi’s visit to the Indian Ocean island states of Seychelles, Mauritius, and Sri Lanka. The idea behind it is to fortify India’s economic and security connections with its maritime neighbours as well as counter China, which has been attempting to increase its sway in the Indian Ocean Region over the past few years through its Belt and Road Initiative (BRI)
+
+Sat, 8 Jun 2024 11:42:46 +0530
+### [Three-layered security, no-fly zone: How Delhi is readying for PM Modi's swearing-in](https://www.firstpost.com/explainers/delhi-pm-modi-swearing-in-preparations-13780106.html)
+
+Article found but Couldn't summarize 
+With just one day to go before Narendra Modi’s swearing-in ceremony, massive preparations are underway and a thorough security review is being conducted in New Delhi. There will be no change of guard ceremony at Rashtrapati Bhavan, a sophisticated three-tier security system has been set up and a no-fly zone has been announced over the National Capital Territory
+
+Sat, 8 Jun 2024 10:07:13 +0530
+### [This Week in Explainers: Decoding the Lok Sabha election results](https://www.firstpost.com/explainers/this-week-in-explainers-decoding-the-lok-sabha-election-results-13780020.html)
+
+Article found but Couldn't summarize 
+In our weekly wrap, we analyse the Lok Sabha election results. Why did Narendra Modi’s BJP not perform as well as expected? What does a coalition government mean for India?
+
+Sat, 8 Jun 2024 09:08:04 +0530
+### [Stranger Things: Are giant, poisonous spiders going to invade New York City?](https://www.firstpost.com/explainers/new-york-flying-poisonous-joro-spiders-threat-summer-13779828.html)
+
+Article found but Couldn't summarize 
+The Big Apple braces for an unusual invasion of giant, venomous Joro spiders. While these 'flying spiders' have made an appearance in many southern US states, there is a likelihood of them swarming to New York City this summer, say experts. Are New Yorkers in danger?
+
+Fri, 7 Jun 2024 20:44:17 +0530
+### [Chandrababu Naidu's family has become richer by Rs 850 crore in 5 days. Here’s how](https://www.firstpost.com/explainers/chandrababu-naidus-family-has-become-richer-by-rs-850-crore-in-5-days-heres-how-13780048.html)
+
+Article found but Couldn't summarize 
+Chandrababu Naidu’s family has seen a massive jump in their net worth after shares of dairy company Heritage Foods – in which they own a 35 per cent stake – jumped massively over the past few days. Shares that were trading at Rs 424 before the polls are now at a record high of Rs 661.25 with Naidu set to take office as chief minister of Andhra Pradesh and play a crucial role at the Centre as an NDA ally
+
+Fri, 7 Jun 2024 19:24:30 +0530
+### [Kangana Ranaut slapgate: Did the MP-elect not have security?](https://www.firstpost.com/explainers/kangana-ranaut-slapgate-mandi-mp-elect-security-cisf-constable-13780029.html)
+
+Article found but Couldn't summarize 
+BJP MP-elect from Mandi Kangana Ranaut alleged she was ‘hit’ by a Central Industrial Security Force woman constable at Chandigarh airport on Thursday. Videos shared online show the accused expressing anger about the actor’s past remarks on farmers’ protest. Was there no security with Ranaut when the incident took place?
+
+Fri, 7 Jun 2024 18:49:12 +0530
+### [Lok Sabha election results 2024: How much do MPs earn? What other perks do they enjoy?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-much-do-mps-earn-what-other-perks-do-they-enjoy-13780019.html)
+
+Article found but Couldn't summarize 
+With the BJP-led NDA set to form the government for a third time after easily crossing the half way mark of 272 seats in the 543-seat Parliament, all eyes are now on the newly elected MPs in the 18th Lok Sabha. But have you ever wondered how much our MPs earn? Or what other perks our lawmakers enjoy?
+
+Fri, 7 Jun 2024 18:26:36 +0530
+### [Why overstressed Chinese workers are growing bananas on their office desk](https://www.firstpost.com/explainers/stop-banana-green-trend-chinese-employees-are-adopting-at-their-work-places-13779952.html)
+
+Article found but Couldn't summarize 
+With the average working week exceeding 49 hours in China, many overworked young professionals are looking for ways to alleviate stress and anxiety at their workplace. A quirky trend of growing desk bananas is certainly helping them. Here's how
+
+Fri, 7 Jun 2024 18:06:45 +0530
+### [In Graphics | What the 18th Lok Sabha will look like](https://www.firstpost.com/explainers/in-graphics-what-the-18th-lok-sabha-will-look-like-13779981.html)
+
+Article found but Couldn't summarize 
+The Lok Sabha elections are over and Narendra Modi is set to take oath as Prime Minister for a third term. Let us take a look at the new Lok Sabha
+
+Fri, 7 Jun 2024 16:49:50 +0530
+### [In this EU election, why does Ursula von der Leyen have a challenging road ahead?](https://www.firstpost.com/explainers/eu-election-ursula-von-der-leyen-european-commission-13779940.html)
+
+Article found but Couldn't summarize 
+In 2019, Ursula von der Leyen became the European Commission's first woman president. She has had to deal with crises like the pandemic and the Russia-Ukraine war from the get-go. Her strong work ethic has even been praised by opponents. So why is re-election still an uphill path for her?
+
+Fri, 7 Jun 2024 16:45:01 +0530
+### [93% of newly elected Lok Sabha MPs are crorepatis. Meet the richest](https://www.firstpost.com/explainers/93-of-newly-elected-lok-sabha-mps-are-crorepatis-meet-the-richest-13779954.html)
+
+Article found but Couldn't summarize 
+According to the poll rights body Association of Democratic Reforms (ADR), 504 of 543 winning Lok Sabha candidates are crorepatis – up from 475 winning candidates in 2019. The three wealthiest MPs this time are Chandra Sekhar Pemmasani of the TDP and Konda Vishweshwar Reddy and Naveen Jindal from the BJP
+
+Fri, 7 Jun 2024 16:26:48 +0530
+### [Days after Lok Sabha election results, how Congress' tally may change to reach 100](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-congress-tally-100-independent-mp-support-13779928.html)
+
+Article found but Couldn't summarize 
+Despite Congress’ best performance in general elections since 2014, the party failed to touch the century, winning 99 of the 543 Lok Sabha seats. Narendra Modi, who is geared up for a third term as Prime Minister, even took a potshot at the Grand Old Party over this. But the situation could change soon. Here’s how
+
+Fri, 7 Jun 2024 15:23:54 +0530
+### [Why activists in South Korea are sending balloons with K-drama, K-pop to North Korea](https://www.firstpost.com/explainers/south-korea-north-korea-news-balloon-warfare-k-pop-k-drama-13779848.html)
+
+Article found but Couldn't summarize 
+Activists from the South have sent balloons carrying K-pop and K-dramas on USB sticks in the direction of North Korea. This comes days after balloons filled with faeces were sent by Pyongyang to South Korea. We explain the ramifications of this balloon warfare
+
+Fri, 7 Jun 2024 14:26:14 +0530
+### [Who are Lok Sabha’s 7 Independent MPs? Are they with NDA or INDI alliance?](https://www.firstpost.com/explainers/who-are-lok-sabhas-7-independent-mps-will-they-join-nda-or-indi-alliance-13779895.html)
+
+Article found but Couldn't summarize 
+As the National Democratic Alliance government formation is in full swing, all eyes are on the seven Independent MPs elected to the Lok Sabha. But who are these Independents? Whom do they support?
+
+Fri, 7 Jun 2024 13:47:00 +0530
+### [Uttarakhand rat-hole miners, sanitation workers & more: The special invitees for Modi’s third swearing-in](https://www.firstpost.com/explainers/uttarakhand-rat-hole-miners-sanitation-workers-special-invitees-pm-narendra-modi-third-swearing-in-ceremony-13779852.html)
+
+Article found but Couldn't summarize 
+Narendra Modi is set to take the oath of office for a third consecutive term on 9 June at 6 pm. The grand event at the Rashtrapati Bhavan will witness the presence of 8,000 guests, including foreign dignitaries. Besides them, the invitees include people from diverse backgrounds. Here is a look at who all are expected to attend
+
+Fri, 7 Jun 2024 13:06:50 +0530
+### [Lok Sabha election results 2024: Why Ajit Pawar is looking at an uncertain future](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-ajit-pawar-ncp-future-maharashtra-performance-mahayuti-alliance-13779833.html)
+
+Article found but Couldn't summarize 
+Ajit Pawar’s NCP has faced a massive defeat in the recently concluded Lok Sabha elections, winning only one of the four contested seats. Despite all his efforts, his wife also lost the prestige seat of Baramati in Maharashtra. Now, there are rumours that a few of his MLAs are trying to switch to the Sharad Pawar faction
+
+Fri, 7 Jun 2024 12:40:04 +0530
+### [Big Bite: Why a vegetarian thali has become costlier, chicken cheaper](https://www.firstpost.com/explainers/big-bite-why-a-vegetarian-thali-has-become-costlier-chicken-cheaper-13779747.html)
+
+Article found but Couldn't summarize 
+A vegetarian thali in India was priced at Rs. 27.8 last month, an increase from Rs 25.5 in the year-ago period. Damage to crops, blight, and insufficient water reservoir levels contributed to the price hike of a few essential food items, affecting the prices of vegetables. However, the cost of a chicken meal has fallen
+
+Fri, 7 Jun 2024 12:10:55 +0530
+### [Why has RBI kept repo rate steady at 6.5%? How does it affect you?](https://www.firstpost.com/explainers/rbi-repo-rate-news-6-5-per-cent-repo-rate-meaning-how-it-affects-you-13779816.html)
+
+Article found but Couldn't summarize 
+The repo rate, short for repurchase option rate, is the rate at which the RBI lends money to commercial banks and other financial institutions in India. How does it affect you? And why did RBI keep it unchanged? We explain
+
+Fri, 7 Jun 2024 10:38:15 +0530
+### [Explained: Hamas' losses so far and its shift to guerilla warfare tactics using tunnels](https://www.firstpost.com/explainers/explained-hamas-losses-so-far-and-its-shift-to-guerilla-warfare-tactics-using-tunnels-13779779.html)
+
+Article found but Couldn't summarize 
+Hamas' fighting force has been cut down by almost half. The group is now resorting to guerilla tactics to hold its ground against the much more powerful Israeli Defense Forces (IDF). A labyrinth of tunnels, sprawling 500 km, is central to this
+
+Fri, 7 Jun 2024 09:45:04 +0530
+### [Is an invite to Mohamed Muizzu for Modi’s swearing-in a sign of thaw in India-Maldives’ ties?](https://www.firstpost.com/explainers/mohamed-muizzu-modi-swearing-in-thaw-india-maldives-ties-13779746.html)
+
+Article found but Couldn't summarize 
+The Maldives’ president Mohamed Muizzu will attend Narendra Modi’s third swearing-in ceremony to be held over the weekend. The invite comes as a surprise for many, as ties between Male and New Delhi have nosedived since Muizzu took office last year
+
+Fri, 7 Jun 2024 08:37:18 +0530
+### [No funny business: Can you faint from laughing too much?](https://www.firstpost.com/health/no-funny-business-can-you-faint-from-laughing-too-much-13779433.html)
+
+Article found but Couldn't summarize 
+A man from Hyderabad couldn't control his laughter while he was enjoying a comedy show with his family. After laughing hard for a few minutes, things turned serious as he lost his consciousness. A doctor later explained that he suffered from a rare condition called laughter-induced syncope. Here's what it is
+
+Fri, 7 Jun 2024 06:56:21 +0530
+### [FirstUp: NDA's meeting, RBI's decision on interest rate, Nvidia stock split...The headlines today](https://www.firstpost.com/explainers/firstup-ndas-meeting-rbis-decision-on-interest-rate-nvidia-stock-split-the-headlines-today-13779632.html)
+
+Article found but Couldn't summarize 
+The newly elected MPs of the National Democratic Alliance (NDA) led by the BJP will meet in Delhi. The RBI's Monetary Policy Committee (MPC) will announce the result of its three-day meeting. Nvidia shares are likely to see activity as the stock is headed for a ten-for-one stock split on 7 June. We dig into these and other headlines
+
+Thu, 6 Jun 2024 22:06:21 +0530
+### [Quicksplained: Everything we know about Kangana slapgate](https://www.firstpost.com/explainers/quicksplained-everything-we-know-about-kangana-slapgate-13779693.html)
+
+Article found but Couldn't summarize 
+Actor and BJP MP-elect Kangana Ranaut was set to board a plane to New Delhi on Thursday when she was slapped by a woman Central Industrial Security Force (CISF) constable for past remarks about the farmers’ protests. But what happened? Who is the CISF constable? And what did Ranaut say?
+
+Thu, 6 Jun 2024 21:06:59 +0530
+### [What is the Agniveer scheme? Why has it become so contentious among BJP allies?](https://www.firstpost.com/explainers/what-is-the-agniveer-scheme-why-has-it-become-so-contentious-among-bjp-allies-13779687.html)
+
+Article found but Couldn't summarize 
+The Agniveer scheme was introduced by the Centre in June 2022. Under it, youth between 17-and-a-half years to 21 years are recruited on a contractual basis. However, critics of the scheme say it offers no pension or gratuity and that just 25 per cent of those selected are retained. The BJP's allies the JD(U) and LJP want its 'shortcomings' to be addressed
+
+Thu, 6 Jun 2024 20:22:40 +0530
+### [Will Rahul Gandhi be Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-rahul-gandhi-congress-leader-of-opposition-lop-post-india-13779667.html)
+
+Article found but Couldn't summarize 
+Rahul Gandhi, who led the Congress’ election campaigning from the front, is the party’s first choice for the position of Leader of Opposition (LoP) in the Lok Sabha. The post that comes with its own privileges has been vacant since 2014. But will the Gandhi scion agree?
+
+Thu, 6 Jun 2024 19:56:01 +0530
+### [In Graphics: Key milestones of India's 2024 Lok Sabha elections](https://www.firstpost.com/explainers/in-graphics-key-milestones-of-india-2024-lok-sabha-elections-13779638.html)
+
+Article found but Couldn't summarize 
+As India's mammoth elections come to a close with the much-anticipated results released late Tuesday, the 2024 edition of the Lok Sabha polls seems to have broken all kinds of records and set new milestones. Our graphics tell the story
+
+Thu, 6 Jun 2024 19:29:12 +0530
+### [Lok Sabha election results 2024: How the BJP lost its Dalit votes](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-the-bjp-lost-its-dalit-votes-13779619.html)
+
+Article found but Couldn't summarize 
+One major reason being cited for BJP's underperformance in the 2024 Lok Sabha polls is how the party fared with Dalits particularly in the politically crucial state of Uttar Pradesh, which sends the most MPs to Parliament. The BJP in the 2014 Lok Sabha polls swept all 17 SC or Dalit-reserved seats in the state. However, this time it won just eight seats, while the Opposition prevailed in the rest. So, what changed?
+
+Thu, 6 Jun 2024 18:36:46 +0530
+### [Not loving it: How McDonald's has lost the 'Big Mac' name](https://www.firstpost.com/explainers/not-loving-it-how-mcdonalds-has-lost-the-big-mac-name-13779595.html)
+
+Article found but Couldn't summarize 
+McDonald's has lost a legal battle in the European Union to retain its 'Big Mac' trademark beyond its iconic hamburgers, following a ruling from the EU General Court. The fast-food giant was challenged by Supermac's, a smaller Irish chain known for its fish and chips as well as its burgers. Supermac's argued that McDonald's trademark hindered its expansion across Europe, leading to this legal confrontation
+
+Thu, 6 Jun 2024 17:51:31 +0530
+### [Uniform Civil Code, Agniveer and more: How coalition sarkar could affect BJP’s pet projects](https://www.firstpost.com/explainers/uniform-civil-code-agniveer-modi-coalition-sarkar-bjp-pet-project-13779544.html)
+
+Article found but Couldn't summarize 
+After failing to get a majority on its own, the BJP will have to rely heavily on its allies, namely the JD(U) and the TDP. In such a coalition sarkar, the saffron party’s core agendas and key programmes such as the Uniform Civil Code, Agnipath scheme and others may have to be shelved or pushed to the backburner
+
+Thu, 6 Jun 2024 17:24:08 +0530
+### [How ‘Power Star’ Pawan Kalyan helped NDA storm to power in Andhra](https://www.firstpost.com/explainers/andhra-pradesh-election-results-pawan-kalyan-tdp-bjp-nda-victory-13779537.html)
+
+The National Democratic Alliance (NDA), including the Telugu Desam Party (TDP), Bharatiya Janata Party (BJP), and Pawan Kalyan's JanaSena Party (JSP), secured a majority in both the Assembly and Lok Sabha elections, leading to the defeat of Jagan Mohan Reddy's YSR Congress Party (YSRCP) in Andhra Pradesh. The TDP emerged victorious with 135 of the 175 Assembly seats and 16 of the 25 Lok Sabha seats. The JSP won all 21 Assembly segments and both Lok Sabha seats it contested, while the BJP secured eight Assembly seats and three Lok Sabha seats.
+
+Pawan Kalyan, known for his film industry fame, significantly contributed to the NDA's success. His political journey began in 2008, and despite a setback in 2019, his party achieved a complete turnaround in 2024, winning all contested seats. Kalyan's strategic alliance-building between the TDP and BJP was pivotal, especially after TDP chief N. Chandrababu Naidu's imprisonment over alleged scam charges. Kalyan's efforts are believed to have united the Kapu and Kamma communities, traditionally at odds, which bolstered the NDA's performance.
+
+The JSP's decision not to divide the anti-YSRCP vote proved effective, as the party won a significant number of seats despite a lower vote share compared to the YSRCP. There is speculation that the JSP may receive a cabinet position in the Modi 3.0 government as a reward for its role in the victory. Pawan Kalyan's presence at key NDA meetings underscores his influence and potential future role in the central government.
+
+Thu, 6 Jun 2024 17:00:13 +0530
+### [Going from 59 to 56: How new Lok Sabha will be younger](https://www.firstpost.com/explainers/going-from-59-to-56-how-new-lok-sabha-will-be-younger-13779534.html)
+
+The 2024 Lok Sabha elections have resulted in a younger and fresher Parliament for India. The average age of the newly-elected MPs has decreased to 56 years from the previous 59. According to PRS Legislative Research, 11% of MPs are under 40, 38% are between 41 and 55, and 52% are over 55, with the oldest being 82. Notably, 52% of the MPs are serving their first term, with the TDP having the highest proportion of first-time MPs at 75%, followed by the BJP at 45% and the Congress at 60%. The youngest MPs elected are Pushpendra Saroj and Priya Saroj of the Samajwadi Party, both 25 years old, while the oldest is TR Baalu of the DMK at 82. Shambhavi Choudhary, also 25, is the youngest NDA MP, representing Samastipur. These results indicate a significant generational shift in the Indian Parliament.
+
+Thu, 6 Jun 2024 16:39:11 +0530
+### [Embarrassing secret exposed at China's highest waterfall, in a UNESCO landmark. What is it?](https://www.firstpost.com/explainers/embarrassing-secret-exposed-at-chinas-highest-waterfall-in-a-unesco-landmark-what-is-it-13779505.html)
+
+The Yuntai Mountain park in China, known for its impressive waterfall, has recently come under scrutiny after a video suggested that the waterfall might be artificially enhanced by a water pipe. The footage, which went viral on Chinese social media, shows water being pumped to the 1,030-feet falls, raising questions about the naturalness of the attraction. In response, officials admitted to a "small enhancement" to ensure the waterfall remains visually appealing, especially during drier seasons. The revelation has sparked a mix of criticism and defense from netizens, with some appreciating the effort to maintain the landscape and others questioning the authenticity. The controversy also highlighted regional tensions, as Henan officials accused neighboring Shanxi province of diverting water, affecting the waterfall's flow. The incident has prompted broader discussions on the balance between preserving natural beauty and enhancing tourist experiences. Despite the controversy, Yuntai Falls remains a major attraction, drawing millions of visitors to its UNESCO-certified geopark.
+
+Thu, 6 Jun 2024 16:01:13 +0530
+### [How did BJP lose 5 of 9 seats in Ayodhya, 9 of 12 seats in Varanasi?](https://www.firstpost.com/explainers/how-did-bjp-lose-five-of-nine-seats-in-ayodhya-9-of-12-seats-in-varanasi-13779485.html)
+
+In the recent elections in Uttar Pradesh, the BJP experienced significant losses, particularly in the Ayodhya and Varanasi regions. Despite Prime Minister Narendra Modi's win in Varanasi, the party saw a reduction in seats from 62 in 2019 to 33. Key defeats included losses in Ayodhya's Faizabad constituency, where the Ram temple is located, and in Amethi, where Smriti Irani was defeated by a Gandhi family loyalist. Observers suggest that the BJP's overconfidence, neglect of local issues, and inadequate compensation for land acquisitions for the Ram temple contributed to their losses. The Samajwadi Party and Congress alliance capitalized on these issues, with the Samajwadi Party strategically fielding candidates to draw votes from various communities. The BJP's campaign focused heavily on the Ram temple, but local development and amenities were reportedly neglected, leading to voter dissatisfaction. The election results reflect a complex interplay of local dynamics, party strategies, and voter sentiments.
+
+Thu, 6 Jun 2024 15:29:26 +0530
+### [Quicksplained: Why India's new government may have at least 22 new ministers](https://www.firstpost.com/explainers/quicksplained-india-new-government-22-ministers-13779459.html)
+
+The BJP-led National Democratic Alliance (NDA) has won the 2024 Lok Sabha election with 293 seats, allowing them to form the government for a third consecutive term. Narendra Modi is set to continue as Prime Minister after his unanimous selection as the leader of the NDA. The new government is expected to include at least 22 new ministers, replacing those who lost their seats in the election. Notable losses among the Union Ministers include Smriti Irani, Rajeev Chandrasekhar, and V Muraleedharan, among others, across various constituencies in India. The article also provides a detailed list of all the Union Ministers who were defeated in their respective Lok Sabha seats.
+
+Thu, 6 Jun 2024 15:14:29 +0530
+### [Why Sunita Williams' mission onboard the Boeing Starliner is significant](https://www.firstpost.com/explainers/why-sunita-williams-mission-onboard-the-boeing-starliner-is-significant-13779486.html)
+
+The article discusses the historic Boeing Starliner spaceflight, marking Indian-origin NASA astronaut Sunita Williams' third mission. The Starliner, developed under NASA's Commercial Crew Program, aims to provide safe and cost-effective transport to the ISS and LEO destinations. It's designed for reusability and features autonomous docking capabilities.
+
+Williams' participation is notable as she becomes the first woman to test an orbital spacecraft on its maiden crewed flight, highlighting progress in gender representation in space exploration. The mission's success is pivotal for the US to maintain independent access to space, challenging SpaceX's current monopoly on crewed ISS transport.
+
+The Starliner launched aboard the Atlas V rocket, which celebrated its 100th launch, a significant milestone reflecting its historical importance in American space history. The mission's success, despite previous delays and technical challenges, is crucial for Boeing to enter the crewed space transport sector and for the US to enhance its space mission capabilities.
+
+Thu, 6 Jun 2024 14:56:18 +0530
+### [Chandrababu Naidu, Nitish want special category status for their states: What is it?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-special-category-status-andhra-pradesh-bihar-chandrababu-naidu-nitish-kumar-nda-13779493.html)
+
+The article discusses the political negotiations in New Delhi as the BJP, falling short of a majority, seeks support from its alliance partners TDP and JD(U). These parties are likely to demand special category status (SCS) for Andhra Pradesh and Bihar as a condition for their support. SCS was introduced to assist states facing economic or geographical disadvantages by providing them with financial assistance, tax breaks, and other benefits. Although the 14th Finance Commission recommended discontinuing SCS, states like Andhra Pradesh and Bihar are seeking it to address financial challenges and foster development. The article details the history of SCS, its benefits, and the current political context surrounding these demands.
+
+Thu, 6 Jun 2024 14:00:41 +0530
+### [Home, Defence with BJP, Railways with JD(U), Health with TDP? What Modi 3.0 Cabinet could look like](https://www.firstpost.com/explainers/narendra-modi-nda-3-0-government-bjp-home-defence-jdu-railways-tdp-health-union-cabinet-13779456.html)
+
+The Bharatiya Janata Party (BJP), leading the National Democratic Alliance (NDA), is set to form the central government in India for the third consecutive term, having won 293 of the 543 Lok Sabha seats. Despite being the largest party with 240 seats, the BJP did not secure a majority and is thus dependent on its allies. This marks a return to coalition politics, with key allies like the Janata Dal (United) and the Telugu Desam Party (TDP) expected to demand significant ministerial positions.
+
+The JD(U), led by Nitish Kumar, is interested in portfolios such as Railways, Rural Development, Jal Shakti, Transport, and Agriculture, aiming to address Bihar's developmental needs and water crisis. The TDP, likely to form the government in Andhra Pradesh, is seeking five ministerial berths, including a Minister of State for Finance, and is eyeing portfolios like Roads, Panchayati Raj, Health, and Education.
+
+Other NDA allies like the Shiv Sena and Lok Janshakti Party are also expected to negotiate for ministerial positions. The BJP, however, is determined to retain control over key ministries such as Railways, Home, Finance, Defence, Law, and Information Technology. The final distribution of ministries will be decided in an upcoming NDA meeting. The article emphasizes the strategic negotiations and the importance of coalition dynamics in the formation of the new government.
+
+Thu, 6 Jun 2024 13:54:28 +0530
+### [Why UK PM Rishi Sunak was fact-checked by his own government](https://www.firstpost.com/explainers/why-uk-pm-rishi-sunak-was-fact-checked-by-his-own-government-13779450.html)
+
+In the lead-up to the UK general election, Prime Minister Rishi Sunak and Labour leader Keir Starmer engaged in a televised debate where Sunak claimed Labour's policies would necessitate a £2,000 tax increase per household. This was contested by the UK Treasury, which clarified that civil servants did not endorse the Conservative Party's document suggesting a £38.5 billion deficit in Labour's spending plans.
+
+Labour's response was swift, with economic policy official Rachel Reeves accusing Sunak of lying during the debate. Sunak reiterated his stance, using social media to emphasize his claim. The debate also touched on the cost of living, NHS waiting times, and immigration, with both leaders presenting their views and counterarguments.
+
+Sunak defended his Rwanda plan for asylum seekers and proposed a national service for young people, while Starmer opposed withdrawing from the European Court of Human Rights. Both leaders promised not to raise major taxes but faced skepticism on funding their plans. The debate's outcome saw a narrow preference for Sunak in opinion polls, but the controversy surrounding his tax claims could affect his and the Conservative Party's credibility.
+
+Thu, 6 Jun 2024 13:05:45 +0530
+### [Who has Modi invited for his third swearing-in? What’s the significance behind these invites?](https://www.firstpost.com/explainers/modi-third-swearing-in-world-leaders-neighbourhood-first-policy-significance-13779425.html)
+
+Narendra Modi is set to be sworn in for a third term as Prime Minister of India on June 8, following the Bharatiya Janata Party-led National Democratic Alliance's victory in the Lok Sabha polls with 293 seats. In line with his 'Neighbourhood First' policy, Modi has invited leaders from Bangladesh, Sri Lanka, Bhutan, Nepal, and Mauritius to the ceremony. The policy, which has been a cornerstone of India's foreign relations since 2008, aims to enhance regional connectivity, trade, and cooperation, countering China's influence in the process. Modi's commitment to this policy is evident in past actions, such as financial aid to Sri Lanka during its economic crisis and the distribution of COVID-19 vaccines to neighboring countries. The upcoming ceremony continues the tradition of inviting regional leaders, reflecting India's focus on fostering strong ties with its neighbors.
+
+Thu, 6 Jun 2024 12:26:27 +0530
+### [A victory for Trump? Why his Georgia election case has been put on hold](https://www.firstpost.com/explainers/a-victory-for-trump-why-his-georgia-election-case-has-been-put-on-hold-13779408.html)
+
+Article found but Couldn't summarize 
+A Georgia appeals court in the US paused the criminal election interference case against Donald Trump in the state on Wednesday. This suspension will remain in effect until a decision is made regarding his attempt to disqualify the district attorney handling the case. This development makes it highly unlikely that a trial will occur before the US presidential election in November this year
+
+Thu, 6 Jun 2024 12:24:37 +0530
+### [From textbooks to uniforms: How Kerala schools are trying to achieve gender neutrality](https://www.firstpost.com/explainers/from-textbooks-to-uniforms-how-kerala-schools-trying-to-achieve-gender-neutrality-13779327.html)
+
+The Kerala government has introduced a new initiative to promote gender neutrality in school textbooks. The updated books feature images of fathers performing household chores, such as cooking and grating coconut, challenging traditional gender roles. This move is part of a broader effort to foster a gender-neutral society among children. The state has also implemented gender-sensitive curricula in schools, focusing on equal justice and including lessons on various social values.
+
+In addition to textbooks, some schools in Kerala have adopted gender-neutral uniforms, allowing all students to wear the same attire, which consists of knee-length pants and shirts. This change aims to provide freedom of movement and comfort for all students, regardless of gender. The initiative has been well-received and is gaining traction, with more schools adopting similar policies.
+
+The state's efforts extend beyond uniforms and textbooks. The Kerala Child Rights Commission has advocated for the use of the term 'teacher' instead of gender-specific titles, and there is a push towards co-education, phasing out single-gender schools. These measures are part of Kerala's ongoing commitment to advancing gender equality and setting an example for other regions to follow.
+
+Thu, 6 Jun 2024 11:48:56 +0530
+### [After Naveen Patnaik's 24-year run, Odisha to get a BJP CM. Who is in the race?](https://www.firstpost.com/explainers/naveen-patnaik-odisha-bjp-cm-contenders-13779319.html)
+
+Naveen Patnaik has resigned as the Chief Minister of Odisha after a 24-year tenure, following the BJP's victory in the state elections where they secured 78 out of 147 Assembly seats. The BJD, led by Patnaik, won 51 seats. The BJP's win has shifted focus to the selection of the next CM, with Jual Oram, Dharmendra Pradhan, Sambit Patra, Baijayant Panda, and GC Murmu being the main contenders. The BJP campaign, which was influenced by the Modi wave and issues like law and order and cultural pride, led to their significant gain in seats compared to the 2019 elections where the BJD had a majority. The new CM, as per the criteria set by PM Narendra Modi, will be someone who upholds Odia culture and tradition, with the selection expected to be announced soon. Patnaik's resignation marks a significant change in Odisha's political landscape.
+
+Thu, 6 Jun 2024 11:02:19 +0530
+### [Missiles Russia can deploy against Western targets after Putin's threat](https://www.firstpost.com/explainers/vladimir-putin-russia-ukraine-war-missiles-zircon-kinzhal-against-us-west-13779351.html)
+
+The article discusses Russian President Vladimir Putin's recent statements regarding missile deployment and the potential use of nuclear weapons. Putin has threatened to deploy missiles within striking distance of the US and its allies if Ukraine is allowed to strike deeper into Russia with long-range Western weapons. He has not dismissed the use of nuclear weapons and has warned of serious escalation if NATO continues to support Ukraine's strikes on Russian territory.
+
+The US and Germany have authorized Ukraine to use Western long-range weapons against Russian targets, which marks a significant shift in the conflict's dynamics, potentially escalating it further. Russia's missile arsenal, inherited from the Soviet Union, includes hypersonic missiles like Zircon and Kinzhal, and the short-range ballistic missile system Iskander-K, all capable of carrying conventional and nuclear warheads.
+
+Putin's rhetoric suggests a tit-for-tat approach to any Western escalation and highlights the strategic importance of Russia's missile capabilities. The article also notes the potential for nuclear weapon use, which, while remote, is not ruled out by Russia's nuclear doctrine, especially if the state's existence is threatened. The situation calls for diplomacy and restraint to prevent further escalation and a global catastrophe.
+
+Thu, 6 Jun 2024 10:09:11 +0530
+### [80th Anniversary of D-Day: What happened on this day in France during World War II?](https://www.firstpost.com/explainers/anniversary-d-day-france-world-war-ii-13779166.html)
+
+The 80th anniversary of D-Day, observed on June 6, 2024, may be the last major commemoration with living WWII veterans. The historic Allied invasion of Normandy, known as Operation Overlord, was a turning point in WWII, leading to the defeat of Nazi Germany. The anniversary is marked by the attendance of veterans and heads of state, excluding Russian President Putin due to the Ukraine conflict. The event honors the collaboration of international forces and the sacrifices made, with a significant human cost on the day of the invasion. The success of D-Day is seen as the beginning of the end for Hitler's regime, with the Allied victory in Europe following less than a year later. The current commemoration holds additional significance amidst the ongoing war in Ukraine.
+
+Thu, 6 Jun 2024 09:59:59 +0530
+### [Why INDI Alliance has chosen to sit in the Opposition benches in Parliament](https://www.firstpost.com/explainers/indi-alliance-opposition-benches-parliament-nda-sarkar-lok-sabha-election-results-13779330.html)
+
+The INDI Alliance, led by Congress chief Mallikarjun Kharge, has decided to form a united opposition against the NDA in Parliament, despite performing better than expected in the Lok Sabha elections with 234 seats. The alliance has chosen not to attempt government formation, respecting the NDA's majority of 292 seats. The decision was made after a meeting at Kharge's residence, where it was declared that the mandate was against Prime Minister Modi and his politics. The INDI Alliance aims to fight against what they term as 'fascist rule' and will take steps to fulfill the public's desire not to be governed by the BJP. Political analysts suggest that the Congress sees the current government as unstable due to unreliable allies like the JD(U) and TDP. The alliance believes it can exert more influence as a strong opposition, especially with the Congress likely leading as the largest party in the bloc. The future role of the INDI Alliance in Parliament remains to be seen, as it seeks to capitalize on its electoral success and navigate the next five years.
+
+Thu, 6 Jun 2024 08:17:03 +0530
+### [Lok Sabha election results 2024: How number of women MPs has fallen from 2019](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-number-of-women-mps-has-fallen-from-2019-13779294.html)
+
+In the 2024 Lok Sabha elections, out of 797 women candidates, 74 were elected, constituting 13.6% of the total MPs. This is a slight decrease from the 2019 elections, where 78 women were elected. The best representation of women is in Tripura and the Union territory of Dadra and Nagar Haveli and Daman and Diu, with 50% of their MPs being women. Delhi follows with 28.57% women representation. West Bengal elected the most women MPs (11), all from the Trinamool Congress. Maharashtra and Uttar Pradesh each elected seven women MPs, but Maharashtra's percentage is higher due to fewer total seats.
+
+Conversely, 13 states and Union territories, including five from the Northeast and five Union territories with single seats, elected no women MPs. Kerala, with 20 constituencies, also elected no women despite a high turnout of women voters. Party-wise, the BJP leads with 31 women MPs, followed by Congress with 14, and the Trinamool Congress with 11. Other parties like the Samajwadi Party, DMK, JD(U), and LJP also have women representatives in the Lok Sabha.
+
+Thu, 6 Jun 2024 08:02:49 +0530
+### [European Parliament election: How are the polls conducted, who can vote?](https://www.firstpost.com/explainers/european-parliament-election-how-are-the-polls-conducted-who-can-vote-13779153.html)
+
+The European Parliament is gearing up for elections from June 6 to 9, marking a significant democratic event with 400 million citizens eligible to vote. Key concerns among voters include the conflicts in Ukraine and Gaza, the European economy, and employment. The elections will determine if Ursula von der Leyen remains the European Commission President or faces replacement.
+
+The election process involves direct universal suffrage across the EU, with the number of MEPs per country proportional to its population. The UK's exit from the EU has reduced the number of MEPs to 705, but this will increase to 720 after the election, with 12 countries gaining additional MEPs. Eligibility to vote varies, with some countries allowing those under 18 to participate.
+
+Voter turnout is expected to be higher than previous years, with 71% of Europeans indicating their intention to vote. The EU Parliament's role is expanding, with increasing powers over a range of legislative areas, including climate, security, and the EU budget. The current Parliament is led by the center-right European People’s Party, followed by the center-left S&D and the liberal Renew group. Post-election, MEPs will elect their president and nominate the European Commission President, with von der Leyen likely to seek reappointment despite potential opposition. The results could also see far-right parties gaining influence in the Parliament.
+
 Thu, 6 Jun 2024 06:00:39 +0530
 ### [FirstUp: EU elections, Sunil Chhetri's farewell match... Top headlines today](https://www.firstpost.com/explainers/firstup-eu-elections-sunil-chhetri-farewell-match-13779152.html)
 

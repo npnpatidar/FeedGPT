@@ -6099,3 +6099,528 @@ Started at 2024-06-06 00:37:22
 Finished at 2024-06-06 06:30:29
 Total time taken: 21186.94565677643 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-06 12:15:19
+1 Feed entries have been written to feeds/Explained_IE.xml
+18 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+85 Feed entries have been written to feeds/Opinion_IE.xml
+70 Feed entries have been written to feeds/Opinion_FP.xml
+35 Feed entries have been written to feeds/Opinion_Mint.xml
+25 Feed entries have been written to feeds/EDITORIAL_TH.xml
+5 Feed entries have been written to feeds/Column_TH.xml
+240 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-06 14:19:21
+Total time taken: 7441.624641180038 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-07 00:38:49
+2 Feed entries have been written to feeds/Explained_IE.xml
+7 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+15 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-07 01:24:29
+Total time taken: 2740.2766330242157 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-07 12:16:40
+5 Feed entries have been written to feeds/Explained_IE.xml
+13 Feed entries have been written to feeds/Explain_FP.xml
+10 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+4 Feed entries have been written to feeds/Opinion_Mint.xml
+38 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-07 14:15:46
+Total time taken: 7146.1588134765625 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-08 00:38:11
+5 Feed entries have been written to feeds/Explained_IE.xml
+5 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+13 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-08 01:18:20
+Total time taken: 2409.1075592041016 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-08 12:13:18
+7 Feed entries have been written to feeds/Explained_IE.xml
+7 Feed entries have been written to feeds/Explain_FP.xml
+11 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+3 Feed entries have been written to feeds/Opinion_Mint.xml
+32 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-08 13:53:24
+Total time taken: 6006.299933671951 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-09 00:42:02
+2 Feed entries have been written to feeds/Explain_FP.xml
+6 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-09 01:15:09
+Total time taken: 1987.2479078769684 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-09 12:14:25
+4 Feed entries have been written to feeds/Explained_IE.xml
+7 Feed entries have been written to feeds/Explain_FP.xml
+7 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+3 Feed entries have been written to feeds/Opinion_Mint.xml
+26 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-09 13:38:18
+Total time taken: 5032.853140115738 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-10 00:39:37
+4 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+3 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+14 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-10 01:22:26
+Total time taken: 2569.6825177669525 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-10 12:15:10
+1 Feed entries have been written to feeds/Explained_IE.xml
+16 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+9 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+10 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+42 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-10 14:29:32
+Total time taken: 8061.873588562012 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-11 00:38:05
+3 Feed entries have been written to feeds/Explained_IE.xml
+5 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+12 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-11 01:17:46
+Total time taken: 2381.540019273758 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-11 12:15:53
+5 Feed entries have been written to feeds/Explained_IE.xml
+15 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+9 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+8 Feed entries have been written to feeds/Opinion_Mint.xml
+44 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-11 14:39:28
+Total time taken: 8614.735387325287 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-12 00:38:20
+3 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-12 01:11:49
+Total time taken: 2008.8296248912811 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-12 12:15:14
+2 Feed entries have been written to feeds/Explained_IE.xml
+16 Feed entries have been written to feeds/Explain_FP.xml
+11 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+9 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+45 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-12 14:46:07
+Total time taken: 9053.010337114334 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-13 00:38:07
+6 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+10 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-13 01:09:46
+Total time taken: 1898.997255563736 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-13 12:15:19
+5 Feed entries have been written to feeds/Explained_IE.xml
+16 Feed entries have been written to feeds/Explain_FP.xml
+9 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+8 Feed entries have been written to feeds/Opinion_Mint.xml
+43 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-13 14:35:49
+Total time taken: 8429.977033376694 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-14 00:37:58
+3 Feed entries have been written to feeds/Explained_IE.xml
+8 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+17 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-14 01:32:44
+Total time taken: 3285.3595159053802 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-14 12:15:18
+6 Feed entries have been written to feeds/Explained_IE.xml
+15 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/Column_TH.xml
+45 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-14 14:33:50
+Total time taken: 8311.46837091446 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-15 00:37:47
+1 Feed entries have been written to feeds/Explained_IE.xml
+7 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+13 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-15 01:17:22
+Total time taken: 2374.742388010025 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-15 12:14:25
+8 Feed entries have been written to feeds/Explained_IE.xml
+8 Feed entries have been written to feeds/Explain_FP.xml
+12 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+1 Feed entries have been written to feeds/Opinion_Mint.xml
+35 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-15 14:02:30
+Total time taken: 6484.8991503715515 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-16 00:41:49
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Explain_FP.xml
+7 Feed entries have been written to feeds/Explained_TH.xml
+9 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-16 01:08:00
+Total time taken: 1570.8288922309875 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-16 12:13:52
+3 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+6 Feed entries have been written to feeds/Opinion_Mint.xml
+24 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-16 13:26:46
+Total time taken: 4374.332007408142 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-17 00:40:02
+2 Feed entries have been written to feeds/Explained_IE.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+1 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+8 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-17 01:03:24
+Total time taken: 1401.8370411396027 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-17 12:15:27
+2 Feed entries have been written to feeds/Explained_IE.xml
+5 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+6 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+25 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-17 13:30:22
+Total time taken: 4495.306005001068 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-18 00:38:54
+2 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+12 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-18 01:15:07
+Total time taken: 2173.320178747177 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-18 12:15:20
+3 Feed entries have been written to feeds/Explained_IE.xml
+15 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+10 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+41 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-18 14:19:58
+Total time taken: 7478.111347198486 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-19 00:38:44
+2 Feed entries have been written to feeds/Explained_IE.xml
+6 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+13 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-19 01:18:09
+Total time taken: 2364.2750763893127 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-19 12:15:09
+1 Feed entries have been written to feeds/Explained_IE.xml
+15 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+9 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+8 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+39 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-19 14:18:19
+Total time taken: 7389.507198810577 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-20 00:37:37
+5 Feed entries have been written to feeds/Explained_IE.xml
+2 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-20 01:11:05
+Total time taken: 2008.7212166786194 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-20 12:15:14
+6 Feed entries have been written to feeds/Explained_IE.xml
+13 Feed entries have been written to feeds/Explain_FP.xml
+11 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+42 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-20 14:39:08
+Total time taken: 8634.104843378067 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-21 00:37:49
+4 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-21 01:05:07
+Total time taken: 1638.6784856319427 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-21 12:14:54
+10 Feed entries have been written to feeds/Explained_IE.xml
+16 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+6 Feed entries have been written to feeds/Opinion_Mint.xml
+46 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-21 14:41:12
+Total time taken: 8777.697586774826 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-22 00:37:39
+1 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+8 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-22 01:02:14
+Total time taken: 1475.1721012592316 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-22 12:13:43
+7 Feed entries have been written to feeds/Explained_IE.xml
+6 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+11 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+1 Feed entries have been written to feeds/Opinion_Mint.xml
+32 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-22 13:54:25
+Total time taken: 6042.031613111496 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-23 00:41:20
+1 Feed entries have been written to feeds/Explain_FP.xml
+3 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+6 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-23 00:58:32
+Total time taken: 1032.2540891170502 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-23 12:14:16
+5 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+4 Feed entries have been written to feeds/Opinion_FP.xml
+5 Feed entries have been written to feeds/Opinion_Mint.xml
+25 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-23 13:30:48
+Total time taken: 4592.288447141647 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-24 00:40:04
+3 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+2 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+9 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-24 01:07:08
+Total time taken: 1624.2788727283478 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-24 12:15:48
+2 Feed entries have been written to feeds/Explained_IE.xml
+10 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+9 Feed entries have been written to feeds/Opinion_Mint.xml
+36 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-24 14:10:14
+Total time taken: 6865.986124753952 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-25 00:38:11
+4 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+12 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-25 01:17:42
+Total time taken: 2370.514702320099 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-25 12:15:09
+8 Feed entries have been written to feeds/Explained_IE.xml
+13 Feed entries have been written to feeds/Explain_FP.xml
+10 Feed entries have been written to feeds/Opinion_IE.xml
+3 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+41 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-25 14:24:40
+Total time taken: 7770.568075418472 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-26 00:38:19
+3 Feed entries have been written to feeds/Explained_IE.xml
+4 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+11 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-26 01:11:58
+Total time taken: 2019.125379562378 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-26 12:16:22
+3 Feed entries have been written to feeds/Explained_IE.xml
+12 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+10 Feed entries have been written to feeds/Opinion_IE.xml
+6 Feed entries have been written to feeds/Opinion_FP.xml
+7 Feed entries have been written to feeds/Opinion_Mint.xml
+39 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-26 14:20:36
+Total time taken: 7454.387393712997 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-27 00:38:32
+4 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+4 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+14 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-27 01:21:39
+Total time taken: 2587.70600605011 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-28 00:38:38
+10 Feed entries have been written to feeds/Explained_IE.xml
+17 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Explained_TH.xml
+14 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+10 Feed entries have been written to feeds/Opinion_Mint.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+1 Feed entries have been written to feeds/Column_TH.xml
+60 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-28 03:53:44
+Total time taken: 11705.989020586014 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-28 12:15:14
+6 Feed entries have been written to feeds/Explained_IE.xml
+11 Feed entries have been written to feeds/Explain_FP.xml
+12 Feed entries have been written to feeds/Opinion_IE.xml
+3 Feed entries have been written to feeds/Opinion_FP.xml
+1 Feed entries have been written to feeds/Opinion_Mint.xml
+33 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-28 13:58:48
+Total time taken: 6213.292587757111 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-29 00:37:42
+4 Feed entries have been written to feeds/Explained_IE.xml
+5 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+13 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-29 01:16:53
+Total time taken: 2350.3165102005005 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-06-29 12:14:48
+5 Feed entries have been written to feeds/Explained_IE.xml
+6 Feed entries have been written to feeds/Explain_FP.xml
+2 Feed entries have been written to feeds/Explained_TH.xml
+8 Feed entries have been written to feeds/Opinion_IE.xml
+5 Feed entries have been written to feeds/Opinion_FP.xml
+3 Feed entries have been written to feeds/Opinion_Mint.xml
+29 new entries have been added
+0 summaries have been updated
+Finished at 2024-06-29 13:42:53
+Total time taken: 5284.983542203903 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

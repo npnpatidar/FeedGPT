@@ -1,3 +1,571 @@
+Sat, 29 Jun 2024 00:20:00 +0530
+### [A fresh start: On the Goods and Services Tax Council meet](https://www.thehindu.com/opinion/editorial/a-fresh-start-on-the-goods-and-services-tax-council-meet/article68340666.ece)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Sat, 29 Jun 2024 00:10:00 +0530
+### [​Debt trap: On crisis in Kenya](https://www.thehindu.com/opinion/editorial/%E2%80%8Bdebt-trap-on-crisis-in-kenya/article68344717.ece)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
+    <title>Chat Got</title>
+    <meta name="description" content="Free Chatbot by Google Gemini API - Chat with Gemini AI Now">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.chatgot.one/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Chat Got: A Chatbot by Google Gemini API, Chat with Gemini AI Freely">
+    <meta property="og:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <meta property="og:url" content="https://www.chatgot.one/">
+    <meta property="og:site_name" content="Chat Got">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Chat Got: A Chatbot by Google Gemini AI, Chat with Gemini AI Freely">
+    <meta name="twitter:description" content="Chat with Google's Gemini AI on ChatGemini.net, which is a free chatbot based on Gemini Pro API, Engage in dynamic conversations, automate tasks, and explore the capabilities of AI, all in one seamless experience.">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <meta name="theme-color" content="#212129">
+    <meta name="generator" content="Astro v2.7.0">
+    
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script id="vite-plugin-pwa:inline-sw">if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}</script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=658d8bd881064a00129d147c&product=inline-share-buttons&source=platform" async="async"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7152359349184850" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/_astro/index.6cdb5436.css" />
+<link rel="stylesheet" href="/_astro/index.5709347a.css" /><script type="module" src="/_astro/hoisted.d9b9b26f.js"></script></head>
+  <body>
+    
+  <main>
+    <header>
+  <div class="fb items-center">
+    <svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>70 Basic icons by Xicons.co</title><path d="M43,4H5A4,4,0,0,0,1,8V33a4,4,0,0,0,4,4H16l6.38,8.78a2,2,0,0,0,3.23,0L32,37H43a4,4,0,0,0,4-4V8A4,4,0,0,0,43,4Z" fill="#f9da97"></path><path d="M24,18H10a2,2,0,0,1,0-4H24A2,2,0,0,1,24,18Z" fill="#f6c253"></path><path d="M39,27H10a2,2,0,0,1,0-4H39A2,2,0,0,1,39,27Z" fill="#f6c253"></path></g></svg>
+    <div id="themeToggle" class="flex items-center justify-center w-10 h-10 rounded-md transition-colors hover:bg-slate/10 astro-KXYEDVG6">
+  <svg class="theme_toggle_svg astro-KXYEDVG6" width="1.2em" height="1.2em" viewBox="0 0 24 24" color="#858585" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor">
+    <mask id="myMask" class="astro-KXYEDVG6">
+      <rect x="0" y="0" width="100%" height="100%" fill="white" class="astro-KXYEDVG6"></rect>
+      <circle class="theme_toggle_circle1 astro-KXYEDVG6" fill="black" cx="100%" cy="0%"></circle>
+    </mask>
+    <circle class="theme_toggle_circle2 astro-KXYEDVG6" cx="12" cy="12" fill="#858585" mask="url(#myMask)"></circle>
+    <g class="theme_toggle_g astro-KXYEDVG6" stroke="currentColor" opacity="1">
+      <line x1="12" y1="1" x2="12" y2="3" class="astro-KXYEDVG6"></line>
+      <line x1="12" y1="21" x2="12" y2="23" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" class="astro-KXYEDVG6"></line>
+      <line x1="1" y1="12" x2="3" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="21" y1="12" x2="23" y2="12" class="astro-KXYEDVG6"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" class="astro-KXYEDVG6"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" class="astro-KXYEDVG6"></line>
+    </g>
+  </svg>
+</div>
+  </div>
+  <div class="fi mt-2">
+    <span class="gpt-title">Chat</span>
+    <span class="gpt-subtitle">Got</span>
+  </div>
+  <p mt-1 op-60>Based on <a href="https://blog.chatgot.one/what-is-gemini-ai/" target="_blank">Google Gemini AI</a> - By Gemini Pro API</p>
+  <p mt-1 op-60>It's Free, Enjoy!</p>
+</header>
+    <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var c;{let d={0:t=>t,1:t=>JSON.parse(t,o),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(JSON.parse(t,o)),5:t=>new Set(JSON.parse(t,o)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(JSON.parse(t)),9:t=>new Uint16Array(JSON.parse(t)),10:t=>new Uint32Array(JSON.parse(t))},o=(t,r)=>{if(t===""||!Array.isArray(r))return r;let[e,n]=r;return e in d?d[e](n):void 0};customElements.get("astro-island")||customElements.define("astro-island",(c=class extends HTMLElement{constructor(){super(...arguments);this.hydrate=()=>{var l;if(!this.hydrator||!this.isConnected||(l=this.parentElement)!=null&&l.closest("astro-island[ssr]"))return;let r=this.querySelectorAll("astro-slot"),e={},n=this.querySelectorAll("template[data-astro-template]");for(let s of n){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("data-astro-template")||"default"]=s.innerHTML,s.remove())}for(let s of r){let i=s.closest(this.tagName);!i||!i.isSameNode(this)||(e[s.getAttribute("name")||"default"]=s.innerHTML)}let a=this.hasAttribute("props")?JSON.parse(this.getAttribute("props"),o):{};this.hydrator(this)(this.Component,a,e,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),window.removeEventListener("astro:hydrate",this.hydrate),window.dispatchEvent(new CustomEvent("astro:hydrate"))}}connectedCallback(){!this.hasAttribute("await-children")||this.firstChild?this.childrenConnectedCallback():new MutationObserver((r,e)=>{e.disconnect(),setTimeout(()=>this.childrenConnectedCallback(),0)}).observe(this,{childList:!0})}async childrenConnectedCallback(){window.addEventListener("astro:hydrate",this.hydrate);let r=this.getAttribute("before-hydration-url");r&&await import(r),this.start()}start(){let r=JSON.parse(this.getAttribute("opts")),e=this.getAttribute("client");if(Astro[e]===void 0){window.addEventListener(`astro:${e}`,()=>this.start(),{once:!0});return}Astro[e](async()=>{let n=this.getAttribute("renderer-url"),[a,{default:l}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),s=this.getAttribute("component-export")||"default";if(!s.includes("."))this.Component=a[s];else{this.Component=a;for(let i of s.split("."))this.Component=this.Component[i]}return this.hydrator=l,this.hydrate},r,this)}attributeChangedCallback(){this.hydrate()}},c.observedAttributes=["props"],c))}})();</script><astro-island uid="2qbeG" data-solid-render-id="s0" component-url="/_astro/Generator.965bb329.js" component-export="default" renderer-url="/_astro/client.0e663382.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Generator&quot;,&quot;value&quot;:true}" await-children=""><div data-hk="s00-0" my-6><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><!--/--><!--#--><div data-hk="s00-3-0" class="gen-text-wrapper relative"><button title="Picture" class="absolute left-1rem top-50% translate-y-[-50%]"><svg data-hk="s00-3-1-0" width="1em" height="1em" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill="#555" d="M19.0909091,2 C19.5929861,2 20,2.39796911 20,2.88888889 L20,17.1111111 C20,17.6020309 19.5929861,18 19.0909091,18 L0.909090909,18 C0.407013864,18 0,17.6020309 0,17.1111111 L0,2.88888889 C0,2.39796911 0.407013864,2 0.909090909,2 L19.0909091,2 Z M5.41498358,8.41650391 L1.35528564,12.4593235 L1.35528564,16.6760254 L18.6397145,16.6760254 L18.6397145,15.243208 L15.4396522,12.1229367 L12.6626905,14.4561124 C12.4973565,14.5726194 12.3372165,14.6241229 12.1822704,14.6106228 C12.0273243,14.5971228 11.8813994,14.5342746 11.7444957,14.4220785 L5.41498358,8.41650391 Z M18.634732,3.33114963 L1.36244722,3.33114963 L1.36244722,10.5609045 L4.96842818,6.9698622 C5.10609945,6.86625615 5.2524821,6.81445312 5.40757613,6.81445312 C5.56267016,6.81445312 5.69937041,6.86096747 5.81767689,6.95399616 L12.2491594,13.0423991 L15.0544045,10.6911214 C15.1877478,10.594062 15.3280547,10.5455322 15.4753252,10.5455322 C15.6225956,10.5455322 15.761728,10.594062 15.8927224,10.6911214 L18.634732,13.3555356 L18.634732,3.33114963 Z M15.2726045,5.22858343 C16.0257201,5.22858343 16.6362408,5.8255371 16.6362408,6.56191676 C16.6362408,7.29829643 16.0257201,7.8952501 15.2726045,7.8952501 C14.5194889,7.8952501 13.9089681,7.29829643 13.9089681,6.56191676 C13.9089681,5.8255371 14.5194889,5.22858343 15.2726045,5.22858343 Z"></path></svg></button><textarea placeholder="Enter something..." autocomplete="off" autofocus rows="1" class="gen-textarea"></textarea><button gen-slate-btn>Send</button><button title="Clear" gen-slate-btn><svg data-hk="s00-3-2-0" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M8 20v-5h2v5h9v-7H5v7h3zm-4-9h16V8h-6V4h-4v4H4v3zM3 21v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"></path></svg></button></div><!--/--></div></astro-island>
+   <p style="text-align: center;">Sharing is caring!</p>
+<div class="sharethis-inline-share-buttons"></div>
+  <p style="text-align: center;">"Ctrl + D" to Bookmark, <a href="https://www.gptsapp.io/store" target="_blank" class="font-bold">Recommended GPT Store</a></p>
+  </main>
+  <footer>
+  <div class="max-w-[80vw] mx-auto flex flex-col items-center justify-center mb-[1em]">
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+          <a b-slate-link href="https://blog.chatgot.one/" target="_blank" class="font-bold">Blog</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://blog.chatgot.one/contact/" target="_blank" class="font-bold">Contact</a>
+          <span class="px-1">|</span>
+          <a b-slate-link href="https://github.com/expertbeacon/gemini-chatbot" target="_blank" class="font-bold">Source code</a>  
+    </div>
+    <p class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      © 2024&nbsp;<a href="https://www.chatgot.one/" target="_blank">Chat Got</a>. All rights reserved.
+    </p>
+
+    <div class="flex flex-wrap justify-center items-center text-xs op-30 my-2">
+      <a href="https://blog.chatgot.one/privacy-policy/" target="_blank">Privacy Policy</a>
+          <span class="px-1">|</span>
+          <a href="https://blog.chatgot.one/terms-of-service/" target="_blank">Terms of Service</a>   
+    </div>
+  </div>
+</footer>
+
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4H7ZBXBCD8"></script>
+
+</body></html>
+
+Fri, 28 Jun 2024 00:20:00 +0530
+### [​Unwarranted arrest: On the case of Arvind Kejriwal](https://www.thehindu.com/opinion/editorial/%E2%80%8Bunwarranted-arrest-on-the-case-of-arvind-kejriwal/article68340904.ece)
+
+The article discusses the controversial arrest of Delhi Chief Minister Arvind Kejriwal by the CBI in connection with corruption allegations related to the Delhi excise policy. The arrest occurred just before a crucial Supreme Court hearing regarding his bail in a separate money-laundering case. Critics argue that the timing suggests an attempt to prevent his potential release. The article questions the fairness of the arrest, highlighting ongoing investigations and concerns about politicization of legal processes. It also suggests Mr. Kejriwal should have resigned to avoid perceptions of influencing witnesses or evidence.
+
+Fri, 28 Jun 2024 00:10:00 +0530
+### [Net damage: On the fisheries dispute, India and Sri Lanka](https://www.thehindu.com/opinion/editorial/net-damage-on-the-fisheries-dispute-india-and-sri-lanka/article68340694.ece)
+
+The article discusses the resumption of fishing activities off India's eastern coast after a 61-day ban, which has resulted in tensions between India and Sri Lanka. A Sri Lankan sailor died during an operation to deter Indian fishing trawlers in Sri Lankan waters, leading to the apprehension of fishermen from Tamil Nadu and Andhra Pradesh. Tamil Nadu Chief Minister M.K. Stalin has urged India's External Affairs Minister to intervene for the release of detained fishermen, highlighting longstanding disputes over maritime boundaries and illegal fishing practices. The article calls for renewed negotiations between the two countries to address these issues and suggests transitioning Tamil Nadu fishermen to sustainable fishing practices to protect marine ecosystems.
+
+Thu, 27 Jun 2024 00:20:00 +0530
+### [​Lip service: On the Emergency and government’s actions](https://www.thehindu.com/opinion/editorial/%E2%80%8Blip-service-on-the-emergency-and-governments-actions/article68336750.ece)
+
+The article discusses the historical significance of the Emergency imposed by Prime Minister Indira Gandhi in 1975, highlighting its suspension of civil liberties and free speech. It criticizes the recent actions of Lok Sabha Speaker Om Birla and the ruling BJP for allegedly mirroring Emergency-like measures, such as stifling dissent and targeting opposition figures. Despite condemning the Emergency retrospectively, the article argues that recent political maneuvers seem more aimed at political advantage than genuine commitment to upholding democratic freedoms. It calls for a robust opposition, a vigilant judiciary, and civil society engagement to prevent a recurrence of authoritarian practices and to move forward from this dark period in India's democratic history.
+
+Thu, 27 Jun 2024 00:10:00 +0530
+### [Ending defections: on politics in Telangana](https://www.thehindu.com/opinion/editorial/ending-defections-on-politics-in-telangana/article68336345.ece)
+
+The article discusses the impact of MLA M. Sanjay Kumar's defection from the Bharat Rashtra Samithi (BRS) to the ruling Congress in Telangana's Jagtial constituency. This defection has reduced the BRS's strength in the State Assembly from 39 to 33 seats. It highlights ongoing issues with political defections in India, particularly in Telangana, since the state's formation in 2014. The piece criticizes the ineffectiveness of India's Anti-Defection Law, citing loopholes that allow party mergers to bypass disqualification rules. It emphasizes the importance of a strong opposition in maintaining democratic balance and suggests potential reforms to empower an independent Election Commission in handling such matters.
+
+Wed, 26 Jun 2024 00:20:00 +0530
+### [Call for consensus: On the Prime Minister’s pledge and the 18th Lok Sabha](https://www.thehindu.com/opinion/editorial/call-for-consensus-on-the-prime-ministers-pledge-and-the-18th-lok-sabha/article68332159.ece)
+
+Prime Minister Narendra Modi emphasized consensus-based governance as the 18th Lok Sabha commenced amid tensions between the ruling NDA and the opposition INDIA bloc. Both sides reiterated commitment to upholding the Constitution, a key election theme. However, initial sessions were marked by hostility, particularly over the selection of the pro tem Speaker and impending Speaker's election. The Opposition signaled readiness to support the NDA's candidate for Deputy Speaker, highlighting past precedents and the need for coalition-building in India's parliamentary democracy. PM Modi's call for parliamentary debates and consensus-building reflects aspirations for a robust democratic process, contingent on tangible actions and collaborative efforts across political divides.
+
+Wed, 26 Jun 2024 00:10:00 +0530
+### [​Free man: On the release of Julian Assange](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfree-man-on-the-release-of-julian-assange/article68331994.ece)
+
+The article discusses the prolonged legal and political saga of Julian Assange, founder of WikiLeaks. Assange faced over 14 years of legal troubles, including extradition attempts by the U.S. for publishing classified documents leaked by Chelsea Manning. After years of confinement in the UK, Assange agreed to a plea deal that will likely see him sentenced for time served and allowed to return to Australia. His case has raised significant concerns about press freedom and the treatment of whistleblowers in Western democracies, highlighting ongoing debates over transparency and government accountability.
+
+Tue, 25 Jun 2024 00:20:00 +0530
+### [​Alter the status quo: on the conflict in Manipur](https://www.thehindu.com/opinion/editorial/%E2%80%8Balter-the-status-quo-on-the-conflict-in-manipur/article68327957.ece)
+
+The article discusses ongoing ethnic conflict in Manipur, exacerbated by armed militias and political inertia. Over 221 deaths and 50,000 displacements have resulted from the violence, spreading even to previously peaceful areas. The Union government has unofficially imposed constitutional provisions to maintain peace, while Prime Minister Modi's involvement has been minimal. Despite electoral wins by the Congress party signaling public discontent, meaningful change requires disarming militias and empowering civil society to foster reconciliation. The article calls for decisive action to resolve Manipur's deepening crisis beyond mere political reshuffling.
+
+Tue, 25 Jun 2024 00:10:00 +0530
+### [​Nicobar triangle: on the ₹72,000-crore project on Great Nicobar Island](https://www.thehindu.com/opinion/editorial/%E2%80%8Bnicobar-triangle-on-the-72000-crore-project-on-great-nicobar-island/article68327922.ece)
+
+Article found but Couldn't summarize 
+Without wide consultations, Centre should not embark on the infrastructure project
+
+Mon, 24 Jun 2024 00:20:00 +0530
+### [Limit and excess: On the Patna High Court judgment and enhanced reservation](https://www.thehindu.com/opinion/editorial/limit-and-excess-on-the-patna-high-court-judgment-and-enhanced-reservation/article68324378.ece)
+
+Article found but Couldn't summarize 
+Creamy layer should be kept out, but the ceiling on quota is artificial
+
+Mon, 24 Jun 2024 00:10:00 +0530
+### [​Money and muscle: On Assembly bye-elections and Tamil Nadu](https://www.thehindu.com/opinion/editorial/%E2%80%8Bmoney-and-muscle-on-assembly-by-elections-and-tamil-nadu/article68324405.ece)
+
+In the Vikravandi constituency's upcoming bye-election, the AIADMK has announced a poll boycott, alleging concerns over electoral malpractices. Despite a three-out-of-four win rate for ruling parties in Tamil Nadu bye-elections since 1977, the AIADMK's boycott is seen as a fear of repeating its recent electoral failures.
+
+Previous bye-elections have been marred by accusations of bribery and other electoral offenses. The Election Commission of India (ECI) is tasked with ensuring a free and transparent election. Despite its authority to freeze party symbols for electoral misconduct, this power has never been used in Tamil Nadu.
+
+To curb electoral malpractice, the ECI must take a strong stance and demonstrate zero tolerance for bribery. Additionally, civil society organizations play a crucial role in educating voters against succumbing to such practices.
+
+Sat, 22 Jun 2024 00:20:00 +0530
+### [Testing times: On the need to mend the National Testing Agency](https://www.thehindu.com/opinion/editorial/testing-times-on-the-need-to-mend-the-national-testing-agency/article68316647.ece)
+
+The National Testing Agency (NTA) has faced criticism due to irregularities in recent examinations, including the UGC-NET.
+
+Despite initial claims of successful conduct, the NTA canceled the UGC-NET exam following cybercrime inputs. Unlike with the ongoing NEET fiasco, the Education Ministry acted swiftly, ordering a CBI probe.
+
+However, candidates remain concerned about the sudden switch to offline exams, which are susceptible to paper leaks. Calls have been made for accountability and a rehaul of NTA systems to prevent future incidents.
+
+Opposition leaders have demanded that the NTA be dissolved and examination responsibilities be decentralized. However, some all-India exams will continue to exist, requiring States and the Centre to collaborate in restoring the integrity of the examination system.
+
+Sat, 22 Jun 2024 00:10:00 +0530
+### [New Cold War: on the Russia-North Korea security pact, its likely fallout](https://www.thehindu.com/opinion/editorial/new-cold-war-on-the-russia-north-korea-security-pact-its-likely-fallout/article68316673.ece)
+
+Russia and North Korea have formed a security pact, echoing the Cold War era alliances. Both countries are facing sanctions, and the pact signals their intent to challenge the Western-led global order. Russia has supported efforts to curb North Korea's nuclear program and voted for sanctions against it, but the Ukraine war has shifted Moscow's position. Russia is reportedly buying weapons from North Korea and providing it with food and fuel. The pact elevates their relationship to an alliance, likely leading to reduced incentive for denuclearization in North Korea and strained relations between Russia and South Korea. It also strengthens the emerging partnership between Japan, South Korea, and the U.S.
+
+Fri, 21 Jun 2024 00:20:00 +0530
+### [Killer moonshine: On the hooch tragedy in Kallakurichi](https://www.thehindu.com/opinion/editorial/killer-moonshine-on-the-hooch-tragedy-in-kallakurichi/article68312990.ece)
+
+A hooch tragedy in Kallakurichi, Tamil Nadu has claimed 39 lives. Methanol, a toxic substance, was found to be present in the hooch. Despite previous tragedies related to methanol poisoning, the government failed to address the issue. The easy availability and low cost of illicit hooch compared to state-regulated alcohol have contributed to the problem. The government has initiated investigations and announced compensation for the victims, but experts argue that post-incident measures are inadequate. They emphasize the need to crack down on illicit brewing, increase public awareness about the dangers of hooch, and implement stricter controls on methanol supply.
+
+Fri, 21 Jun 2024 00:10:00 +0530
+### [Move ahead: On GST and reform](https://www.thehindu.com/opinion/editorial/move-ahead-on-gst-and-reform/article68312343.ece)
+
+GST revenues hit a record high of ₹2.1 lakh crore in April 2024. May receipts were the fifth highest ever at ₹1.72 lakh crore, a rise of 10% from the previous year. However, gross revenues from domestic transactions grew 15.3%, while revenues from goods imports dipped. Growth has been uneven across states, with five showing a decline in May.
+
+The GST Council is expected to meet this weekend to discuss pending reforms, including rationalising GST's multiple-rate structure and bringing excluded items like electricity and petroleum products within the GST net. It is also expected to address the need for simplifying compliance procedures for both small and large businesses.
+
+Thu, 20 Jun 2024 00:20:00 +0530
+### [A torrid crisis: On heatwaves in northern India](https://www.thehindu.com/opinion/editorial/a-torrid-crisis-on-heatwaves-in-northern-india/article68307796.ece)
+
+Northern India is experiencing record-breaking heatwaves, with minimum temperatures exceeding 45°C in some states. Night temperatures are also abnormally high due to a lack of moisture and rain. The monsoon, which usually provides relief, has been delayed and is forecast to be below normal.
+
+This extreme heat has led to a significant increase in power demand, with northern India importing power from neighboring regions to meet its needs. The prolonged heatwaves and high air conditioning use are straining the power grid, leading to blackouts.
+
+Additionally, Delhi is facing a water crisis, with Haryana, a major source of water, refusing to increase supply due to its own challenges.
+
+Thu, 20 Jun 2024 00:10:00 +0530
+### [Caste away: On Justice K. Chandru Committee report](https://www.thehindu.com/opinion/editorial/caste-away-on-justice-k-chandru-committee-report/article68307811.ece)
+
+The Justice K. Chandru Committee recommends prohibiting students from wearing or displaying any caste identifiers to prevent caste-related violence in Tamil Nadu schools. These include wristbands, forehead marks, and caste-painted bicycles. The committee also suggests revising curricula to promote inclusivity and establishing a Social Justice Monitoring Committee to oversee these measures. However, the recommendation to eliminate noon meal kitchens in schools is rejected as it may exacerbate discrimination and deprive students of fresh, hot meals. Additionally, the suggestion to form a uniformed Social Justice Students Force is viewed with caution as it may replicate existing programs. The committee emphasizes the need to address caste discrimination at the grassroots level and to curtail the influence of caste vote banks in politics to achieve meaningful harmony among school students.
+
+Wed, 19 Jun 2024 00:20:00 +0530
+### [New dynamics: On the G-7, its identity, its purpose](https://www.thehindu.com/opinion/editorial/new-dynamics-on-the-g-7-its-identity-its-purpose/article68304780.ece)
+
+Italy's Prime Minister Giorgia Meloni hosted the "G-7 Outreach" Summit, welcoming leaders from 10 countries, including Prime Minister Narendra Modi, to discuss global issues. The summit aimed to move beyond the "West vs the Rest" narrative, focusing on the Global South and energy issues. The G-7 has been criticized for being ineffective in addressing global problems, with its meetings yielding little progress. The summit's joint communiqué highlighted the group's support for Ukraine, but lacked a clear plan to end the war. India, attending the summit for the eleventh time, focused on its elections and the importance of harnessing technology to bridge global inequalities. The G-7's purpose and identity have been questioned in light of the rapidly changing global power dynamic, with some suggesting it may be more effective to address global issues through a larger and more representative format like the G-20.
+
+Wed, 19 Jun 2024 00:10:00 +0530
+### [Drastic decline: On the BSP](https://www.thehindu.com/opinion/editorial/drastic-decline-on-the-bsp/article68300601.ece)
+
+The article discusses the contrasting fortunes of the Samajwadi Party-Congress alliance and the Bahujan Samaj Party (BSP) in the general election in Uttar Pradesh. The SP-Congress alliance won 43 seats and gained support from OBCs and Dalits by targeting the Union government on issues related to constitutional rights and economic problems. In contrast, the BSP's vote share fell to 9.4%, with even its loyal Jatav backers splitting their support between major political forces. The article suggests that the BSP can learn from the experiences of other parties that have taken to ideological and agitational struggle to represent the interests of Dalits.
+
+Tue, 18 Jun 2024 00:30:00 +0530
+### [Trade trapeze: On India’s exports](https://www.thehindu.com/opinion/editorial/trade-trapeze-the-hindu-editorial-on-indias-exports/article68300569.ece)
+
+India's merchandise exports experienced a decline of 3.1% in 2023-24, but recent trends indicate a reversal. The last two months have seen a rise in outbound shipments, with a 1.1% increase in April and a 9.1% uptick in May. Export growth has been observed in four of the last five months. The European Central Bank's decision to slash interest rates has boosted hopes of improving demand for Indian exports. However, rising prices of industrial commodities and food items temper these hopes. India's top 20 export items have outperformed last May's exports, with sectors like apparel, man-made yarn, and engineering goods recovering. Despite this, spice and shrimp exports declined due to quality and workplace concerns. India's trade deficit widened to $23.8 billion in May, primarily due to a record $13.2 billion deficit in petroleum products. Officials expect rising services exports and forex inflows to offset the deficit. However, the government needs to revitalize its schemes and efforts to boost goods exports with enhanced budgetary outlays.
+
+Tue, 18 Jun 2024 00:15:00 +0530
+### [Negotiating for peace: On the ‘Summit on Peace’, in Burgenstock](https://www.thehindu.com/opinion/editorial/negotiating-for-peace-the-hindu-editorial-on-the-summit-on-peace-in-burgenstock/article68301093.ece)
+
+The two-day "Summit on Peace" in Burgenstock, Switzerland, has concluded with mixed outcomes. The summit brought together over 90 countries, with 56 represented by leaders, and a joint communiqué signed by around 82 countries and organizations. The document calls for an end to the Russian-Ukrainian conflict and emphasizes sovereignty, territorial integrity, and international law. However, the event was marred by Switzerland's decision not to invite Russia and the failure to convince China to send a delegation. Additionally, no BRICS member signed the statement, and India, despite being a key player, did not endorse the outcome. India attended the conference but did not sign the communiqué due to its neutral stance on the conflict. The summit's outcome was seen as one-sided, and its impact was limited.
+
+Mon, 17 Jun 2024 00:20:00 +0530
+### [Criminalising words: on allegedly divisive speeches](https://www.thehindu.com/opinion/editorial/criminalising-words-on-allegedly-divisive-speeches/article68297003.ece)
+
+Delhi's Lieutenant Governor V.K. Saxena has given permission to prosecute writer Arundhati Roy and academic Sheikh Showkat Hussain for alleged "unlawful activity" in a case dating back to 2010. The case relates to speeches made at a conference in Delhi in 2010, which were deemed not seditious by the Delhi police at the time. The police did not prosecute the speakers, but a complaint was filed and a First Information Report was registered. The case was revived recently, with Saxena giving permission to prosecute under Section 13 of the Unlawful Activities (Prevention) Act (UAPA). Critics argue that the revival of the case is an example of the regime's crackdown on dissenters and outspoken critics, and that it is an attempt to criminalize free speech.
+
+Mon, 17 Jun 2024 00:10:00 +0530
+### [Two steps back: on India and the Global Gender Gap report 2024](https://www.thehindu.com/opinion/editorial/two-steps-back-on-india-and-the-global-gender-gap-report-2024/article68289197.ece)
+
+Article found but Couldn't summarize 
+India needs to close the gender gap in education and politics
+
+Sat, 15 Jun 2024 00:20:00 +0530
+### [Food factor: On food inflation](https://www.thehindu.com/opinion/editorial/food-factor-on-food-inflation/article68289807.ece)
+
+India's provisional retail inflation rate may have eased to a 12-month low of 4.75%, but food price gains remained high. Food inflation remained unchanged at 8.69%, with vegetables and pulses being major contributors. Vegetable inflation continued to hover above 27% for a sixth consecutive month, with tomato, onion, and potato prices leading the charge. The outlook for vegetable inflation is not reassuring, with June's retail price trends and wholesale costs pointing to further pain for consumers. Food inflation also accelerated, with cereal prices and pulses prices increasing. The Indian Meteorological Department reported a 12% rainfall deficit since June 1, causing mild concern. Policymakers must address the issue of food inflation, particularly affecting poorer sections of society.
+
+Sat, 15 Jun 2024 00:10:00 +0530
+### [One more chance: On Israel and the Biden three-phase ceasefire plan](https://www.thehindu.com/opinion/editorial/one-more-chance-on-israel-and-the-biden-three-phase-ceasefire-plan/article68289388.ece)
+
+Article found but Couldn't summarize 
+Israel will have to accept the ceasefire proposal or face isolation
+
+Fri, 14 Jun 2024 00:20:00 +0530
+### [Carry it forward: On the BJP government in Odisha](https://www.thehindu.com/opinion/editorial/carry-it-forward-on-the-bjp-government-in-odisha/article68285515.ece)
+
+Mohan Charan Majhi, Odisha's first BJP Chief Minister, succeeds Naveen Patnaik after his 24-year tenure. A member of the Santali tribe, Majhi's appointment underscores BJP's outreach to tribal communities in central and east India. His political background as a former village sarpanch and legislator positions him to continue and build upon initiatives started by the previous administration. Despite Odisha's progress in poverty reduction and economic diversification, challenges remain, including high poverty rates. The BJP's focus should be on sustaining development efforts without returning to divisive politics.
+
+Fri, 14 Jun 2024 00:10:00 +0530
+### [Singular focus: on the new Union Ministers and portfolios](https://www.thehindu.com/opinion/editorial/singular-focus-on-the-new-union-ministers-and-portfolios/article68285542.ece)
+
+The article discusses the composition of portfolios among newly appointed Ministers in India's 18th Lok Sabha, noting continuity in key roles held by the Bharatiya Janata Party (BJP). Significant ministries such as Home and Telecommunications remain with the BJP, while smaller portfolios are distributed among coalition partners. It highlights Minister Jitendra Singh's broad responsibilities covering Space, Atomic Energy, Earth Sciences, Science & Technology, and Personnel. The article also critiques current challenges in research sectors, including funding delays, regulatory instability, and inadequate infrastructure, calling for enhanced ministerial focus to address these issues amid a coalition government's complexities.
+
+Thu, 13 Jun 2024 00:20:00 +0530
+### [High expectations: On Chandrababu Naidu as Andhra Pradesh Chief Minister](https://www.thehindu.com/opinion/editorial/high-expectations-on-n-chandrababu-naidu-as-andhra-pradeshs-chief-minister/article68281617.ece)
+
+Article found but Couldn't summarize 
+Mr. Naidu must focus on creating jobs while continuing welfare schemes
+
+Thu, 13 Jun 2024 00:10:00 +0530
+### [Right turn: on the European Parliament elections](https://www.thehindu.com/opinion/editorial/right-turn-on-the-european-parliament-elections/article68280799.ece)
+
+The European Parliament elections in June 2024 resulted in a shocking loss for French President Emmanuel Macron's Renaissance party to the far-right National Rally party, causing Macron to call for fresh elections. The elections have also given a boost to far-right and ultra-nationalist parties in Germany, France, and Austria, while confirming support for Italy's far-right "Brothers of Italy" party. The Green parties have also been dealt a blow. The results have raised concerns about issues such as immigration, inflation, economic slowdowns, and environmental reforms, which could affect the international order, including India's relationship with the European Union. Prime Minister Narendra Modi will meet his European counterparts and the EU leadership during his visit to Italy's Apulia to attend the G-7 outreach, where they will discuss the European Parliament elections and the Indian elections that threw up an unexpected result.
+
+Wed, 12 Jun 2024 00:20:00 +0530
+### [Continuity and stability: On the Modi government’s new cabinet](https://www.thehindu.com/opinion/editorial/continuity-and-stability-on-the-modi-governments-new-cabinet/article68277897.ece)
+
+Article found but Couldn't summarize 
+The BJP has kept the important portfolios for itself despite the new reality
+
+Wed, 12 Jun 2024 00:10:00 +0530
+### [Facts in fiction: on stopping the release of the Hindi film, Hamare Baarah](https://www.thehindu.com/opinion/editorial/facts-in-fiction-on-stopping-the-release-of-the-hindi-film-hamare-baarah/article68277635.ece)
+
+Article found but Couldn't summarize 
+No ban on books or films can be justified in the name of upholding order
+
+Tue, 11 Jun 2024 00:30:00 +0530
+### [For plurality: On CSDS-Lokniti’s post-poll survey](https://www.thehindu.com/opinion/editorial/for-plurality-the-hindu-editorial-on-csds-loknitis-post-poll-survey/article68274385.ece)
+
+Article found but Couldn't summarize 
+The Lokniti post-poll indicated an exhaustion with the politics of Hindutva
+
+Tue, 11 Jun 2024 00:15:00 +0530
+### [Master of three: On the French Open](https://www.thehindu.com/opinion/editorial/master-of-three-the-hindu-editorial-on-the-french-open/article68273899.ece)
+
+Article found but Couldn't summarize 
+Alcaraz has put himself at the head of the new generation in tennis
+
+Mon, 10 Jun 2024 00:20:00 +0530
+### [Recalcitrant jumbo: On inflation](https://www.thehindu.com/opinion/editorial/recalcitrant-jumbo-in-inflation/article68270005.ece)
+
+Article found but Couldn't summarize 
+Anchoring inflation will be the base for long-term growth
+
+Mon, 10 Jun 2024 00:10:00 +0530
+### [A NEET mess: On the conduct of the medical entrance test](https://www.thehindu.com/opinion/editorial/a-neet-mess-on-the-conduct-of-the-eligibility-and-entrance-test-for-medicine/article68269990.ece)
+
+Article found but Couldn't summarize 
+More efforts to prevent egregious violations are needed
+
+Sat, 08 Jun 2024 00:20:00 +0530
+### [Third avatar: On a third term for Narendra Modi](https://www.thehindu.com/opinion/editorial/third-avatar-on-a-third-term-for-narendra-modi/article68263230.ece)
+
+Article found but Couldn't summarize 
+The mandate is for Narendra Modi to change his approach to governance
+
+Sat, 08 Jun 2024 00:10:00 +0530
+### [Change and continuity: on the Mexico mandate](https://www.thehindu.com/opinion/editorial/change-and-continuity-on-the-mexico-mandate/article68263213.ece)
+
+Article found but Couldn't summarize 
+Mexico’s first woman President must crack down on organised crime
+
+Fri, 07 Jun 2024 00:20:00 +0530
+### [United, they thrived: On the Andhra Pradesh result](https://www.thehindu.com/opinion/editorial/united-they-thrived-on-the-andhra-pradesh-result/article68260173.ece)
+
+Article found but Couldn't summarize 
+A formidable alliance helped the TDP-led alliance win in Andhra Pradesh
+
+Fri, 07 Jun 2024 00:10:00 +0530
+### [Bizarre judgment: On the Madhya Pradesh High Court’s order](https://www.thehindu.com/opinion/editorial/bizarre-judgment-on-the-madhya-pradesh-high-courts-order/article68259173.ece)
+
+Article found but Couldn't summarize 
+Personal law norms cannot be used to invalidate inter-faith marriages
+
+Thu, 06 Jun 2024 00:20:00 +0530
+### [A narrow loss: on the BJD’s loss](https://www.thehindu.com/opinion/editorial/a-narrow-loss-on-the-bjds-loss/article68255882.ece)
+
+In Odisha, after over 24 years in office, Chief Minister Naveen Patnaik of the Biju Janata Dal (BJD) is set to be succeeded by a Bharatiya Janata Party (BJP)-led government. Despite the BJD's respectable vote share of 40.22% in the Assembly elections, the BJP secured more seats, winning 78 out of 147, compared to the BJD's 51. In the Lok Sabha elections, the BJD's vote share fell to 37.46%, while the BJP's rose to 45.41%. The BJP's campaign focused on Patnaik's health and his aide V.K. Pandian's background, which, along with defections and strategic political maneuvers, contributed to the BJP's victory. The BJD's previous cooperation with the BJP on various measures and its non-confrontational stance may have backfired, similar to other regional parties' experiences, leading to a loss of support and power. The article suggests that such political strategies can have long-term negative consequences for the parties involved.
+
+Thu, 06 Jun 2024 00:10:00 +0530
+### [​A new era: on the South Africa general election](https://www.thehindu.com/opinion/editorial/%E2%80%8Ba-new-era-on-the-south-africa-general-election/article68254369.ece)
+
+In the May 29 general election, South Africa's African National Congress (ANC) lost its parliamentary majority for the first time since the end of apartheid, with its vote share plummeting to 40.18% from 57% in 2019. The Democratic Alliance remained the main opposition with 21.81% of the votes, while the newly formed left-wing uMkhonto weSizwe (MK), led by former President Jacob Zuma, made a surprising entry with 14.58%. The Economic Freedom Fighters (EFF) followed with 9.52%. This decline reflects the electorate's waning confidence in the ANC, which once enjoyed nearly 70% of the vote under Nelson Mandela's leadership.
+
+President Cyril Ramaphosa, who took office in 2018, has faced criticism for failing to improve the economy, reduce the 32% unemployment rate, or address issues like water quality, power outages, and crime. With the ANC's legacy failing to sway voters, opposition parties are considering coalitions, though with conditions such as Ramaphosa's resignation and economic reforms. The ANC's challenge is to form a coalition that honors its anti-apartheid history while tackling South Africa's economic challenges.
+
+Wed, 05 Jun 2024 00:20:00 +0530
+### [People at the centre: On the Election results 2024](https://www.thehindu.com/opinion/editorial/people-at-the-centre-on-the-2024-verdict/article68251276.ece)
+
+The article discusses the results of India's 18th general election. The Bharatiya Janata Party (BJP) did not achieve an absolute majority but, with its National Democratic Alliance (NDA) partners, secured a majority with over 290 seats. The BJP's tally was 240, a decrease from its previous count of 303. The JD(U) and TDP, NDA partners, won significant seats in Bihar and Andhra Pradesh, respectively, indicating a shift towards coalition politics.
+
+The Congress party nearly doubled its seats from the last election, reaching 99, and solidified its position as a significant political force, though still behind the BJP. The article suggests that the Congress should maintain its pre-poll alliances and not form post-poll coalitions. Rahul Gandhi, the Congress leader, has emerged as a prominent challenger to Prime Minister Narendra Modi.
+
+The BJP's strategy of communal polarisation was less effective this time, and the party is encouraged to be more constructive and respectful of India's diversity. The new government will face critical issues related to federalism and diversity, including the delimitation of Lok Sabha constituencies and the work of the 16th Finance Commission.
+
+The article also addresses the reliability of Electronic Voting Machines (EVMs), urging leaders not to propagate conspiracy theories and for the Election Commission of India to build public trust. The function of exit polls and their potential influence on stock markets is highlighted as a concern.
+
+In conclusion, the election results reflect the democratic vitality of India, and the new government is tasked with meeting the diverse expectations of its people. The article underscores the importance of respecting India's federal structure and the role of regional parties in its democracy. Coalitions are seen not as a deficiency but as a strength in a pluralistic society. The people's verdict is clear in demanding a government that values diversity and federalism.
+
+Tue, 04 Jun 2024 00:30:00 +0530
+### [Trust in continuity: On the Arunachal Pradesh, Sikkim results](https://www.thehindu.com/opinion/editorial/trust-in-continuity-the-hindu-editorial-on-the-arunachal-pradesh-sikkim-results/article68247534.ece)
+
+The article discusses the outcomes of the Assembly elections in Arunachal Pradesh and Sikkim. In Arunachal Pradesh, the BJP secured a decisive victory, winning 46 out of 60 seats, with Chief Minister Pema Khandu being credited for his stable governance and focus on welfare and infrastructure. The National People’s Party and the People’s Party of Arunachal also won seats, while the Congress was reduced to one seat. Concerns were raised about the lack of robust political contestation. In Sikkim, the SKM, led by Chief Minister Prem Singh Tamang, won 31 out of 32 seats, emphasizing regional identity and promises of Scheduled Tribe status for certain communities and job creation. Despite fighting against the BJP, the SKM considers it an ally, reflecting the trend of voters in the northeast favoring the ruling national party or its allies due to reliance on central government funds. The article suggests that the strong mandates in both states could influence the leaders' ability to negotiate benefits from the Union government.
+
+Tue, 04 Jun 2024 00:15:00 +0530
+### [Quick and short: On the T20 World Cup](https://www.thehindu.com/opinion/editorial/quick-and-short-the-hindu-editorial-on-the-t20-world-cup/article68246743.ece)
+
+The article discusses the commencement of the ICC Twenty20 World Cup in the USA, shortly after the IPL final. The tournament features 20 teams, including traditional cricket powerhouses and newcomers like Papua New Guinea and Uganda, aiming to promote cricket in a football-dominated world. The T20 World Cup, held biennially, is seen as a way to energize the T20 format, offering fast-paced cricket and national pride. India, led by Rohit Sharma, seeks to end its ICC trophy drought since 2013, amidst leadership transitions and team dynamics. India's campaign starts against Ireland, with a high-profile match against Pakistan in New York. The article highlights the importance of players like Travis Head and Jasprit Bumrah in a format where pace often overshadows nuance. The final is set for June 29 in Barbados.
+
+Mon, 03 Jun 2024 00:30:00 +0530
+### [For a consensus: On campaigning rhetoric and foreign policy](https://www.thehindu.com/opinion/editorial/for-a-consensus-the-hindu-editorial-on-campaigning-rhetoric-and-foreign-policy/article68242810.ece)
+
+The article discusses the impact of the 2024 general election campaign rhetoric on India's foreign policy. It highlights the trend of political parties revisiting settled bilateral agreements for domestic political gains, such as the Katchatheevu agreement with Sri Lanka and the Land Boundary Agreement with Bangladesh. The ruling party and opposition have made provocative statements about India's international relations, including claims of reclaiming Pakistan Occupied Kashmir and comments on the use of nuclear weapons. The article criticizes the use of foreign policy as a tool for political campaigning, noting that it could damage India's credibility and international relations. It calls for a return to bipartisan consensus on foreign policy, traditionally upheld in Parliament, rather than through divisive campaign propaganda.
+
+Mon, 03 Jun 2024 00:15:00 +0530
+### [Nipped in the bud: On baby trafficking](https://www.thehindu.com/opinion/editorial/nipped-in-the-bud-the-hindu-editorial-on-baby-trafficking/article68242796.ece)
+
+The article discusses a recent baby smuggling racket uncovered by the Telangana police, highlighting the socio-economic factors driving such criminal activities. The racket involved an inter-State gang that trafficked babies from Delhi and Pune to be sold in Telangana and Andhra Pradesh, with up to 50 babies smuggled in the past year. The gang 'purchased' babies and sold them to childless couples for significant sums, with brokers earning substantial commissions. The article suggests that poverty and the long legal adoption process contribute to such crimes. It calls for government action to prevent future occurrences, including poverty alleviation, employment opportunities, awareness of adoption schemes, streamlined adoption processes, and effective policing. The article underscores that children are not commodities and should not be treated as such in the market.
+
+Sat, 01 Jun 2024 00:20:00 +0530
+### [Presidential felony: On the Trump verdict](https://www.thehindu.com/opinion/editorial/presidential-felony-on-the-trump-verdict/article68236514.ece)
+
+Donald Trump has been convicted on all 34 charges related to payments made to Stormy Daniels in 2016, marking him as the first former U.S. President to become a convicted felon. The charges include falsifying business records and election fraud. Sentencing is set for July 11, and while imprisonment is possible, factors such as Trump's age and lack of prior convictions may lead to a lighter sentence like a fine or probation. Despite the conviction, Trump remains eligible to run for president, and his legal issues have seemingly unified the Republican Party behind him. However, polls indicate that a majority of swing state voters would not support him if convicted. The upcoming November election presents a critical juncture for American voters to determine Trump's fitness for office.
+
+Sat, 01 Jun 2024 00:10:00 +0530
+### [Splash back: On test flights of private rockets, the prospects](https://www.thehindu.com/opinion/editorial/splash-back-on-test-flights-of-private-rockets-the-prospects/article68236491.ece)
+
+Agnikul Cosmos, an Indian startup, has successfully completed the maiden test flight of its 'Agnibaan' rocket on May 30, marking a significant milestone in the mission named 'Suborbital Tech Demonstrator' (SOrTeD). This achievement came after four previous attempts were aborted due to unfavorable launch conditions. 'Agnibaan', a 14-tonne, two-stage launch vehicle, is designed to carry small satellites into low-earth orbits and features 3D-printed components, including semi-cryogenic engines. The test utilized a scaled-down version of the rocket with a single engine. Agnikul's progress with 'Agnibaan' positions it to contribute to India's growing commercial launch capabilities, which are currently led by ISRO's PSLV and will soon include the Small Satellite Launch Vehicle.
+
+The article also discusses the broader implications of private ventures like Agnikul and Skyroot Aerospace, whose 'Vikram' rocket launched in 2022. These companies benefit from the technical expertise and resources shared by ISRO, reducing development time and costs. They are also seen as potential catalysts for innovation within the space sector. The government's role in fostering knowledge exchange through supportive policies is emphasized. Additionally, advancements such as ISRO's development of carbon-carbon composite engine nozzles, which enhance payload capacity, illustrate the cross-sectoral benefits of research and education. The hope is that such innovations will have wide-ranging impacts, from aerospace to zoology.
+
+Fri, 31 May 2024 00:20:00 +0530
+### [Reign of fire: On Delhi and the high heat](https://www.thehindu.com/opinion/editorial/reign-of-fire-on-delhi-and-the-high-heat/article68231873.ece)
+
+The article discusses the intense heatwave in New Delhi, where temperatures soared to 52.9°C, possibly due to a faulty weather station thermistor. The government responded by fining those wasting water and deploying teams to monitor usage. The piece argues that blaming climate change solely for extreme heat is an oversimplification, as local factors also contribute. It criticizes New Delhi's inadequate heat response, suggesting that the city's action plan fails to address issues like water availability from Haryana and illegal connections. The article recommends long-term strategies, such as building reservoirs, tamper-resistant distribution systems, and year-round wastage checks. It also suggests architectural solutions for cooling, shaded walkways, and promoting air-conditioned public transport, emphasizing that governments must ensure people can cope with the heat responsibly.
+
+Fri, 31 May 2024 00:10:00 +0530
+### [Demonising protests: On the Umar Khalid case](https://www.thehindu.com/opinion/editorial/demonising-protests-on-the-umar-khalid-case/article68231884.ece)
+
+The article discusses the case of Umar Khalid, a former university scholar who has been imprisoned for over three years due to allegations of his involvement in the north-east Delhi riots of 2020. Despite arguments that the trial proceedings are excessively delayed and a previous judgment that could support his bail petition, the Sessions Court in Delhi has consistently denied bail, relying on earlier rulings and the Delhi High Court's 2022 verdict. This verdict supported the police's claim that the riots were planned, based primarily on WhatsApp chats about organizing road blockades.
+
+The article highlights the broader issue of the Unlawful Activities (Prevention) Act (UAPA) being used to deny bail by accepting the prosecution's claims at face value without detailed scrutiny of evidence. This has led to a pattern where dissenters are routinely denied bail, blurring the line between the right to protest and terrorist activity. The case of Umar Khalid is presented as both a reflection of this trend and an anomaly within the criminal justice system, which is criticized for its approach to personal liberty, protest demonization, and the handling of bail hearings.
+
+Thu, 30 May 2024 00:20:00 +0530
+### [Insidious, incendiary: On the negligence of fire safety in India](https://www.thehindu.com/opinion/editorial/insidious-incendiary-on-the-negligence-of-fire-safety-in-india/article68228778.ece)
+
+The article discusses the critical issue of fire safety negligence in India, highlighted by two tragic fires in Rajkot and Delhi that resulted in over 30 deaths. Despite the National Building Code of India 2016 outlining fire safety protocols, enforcement is inconsistent due to it being a state subject. The National Disaster Management Authority's recommendation for significant funding to improve fire services contrasts sharply with the actual number of fire stations and servicemen, which falls far short of requirements. The article emphasizes the urgent need for India's leaders to address fire safety, especially in light of increasing heatwaves and extreme weather events, suggesting that a comprehensive approach involving the synchronization of the National Building Code and the Energy Conservation Building Code is necessary.
+
+Thu, 30 May 2024 00:10:00 +0530
+### [In the dock: On Donald Trump and his legal challenge](https://www.thehindu.com/opinion/editorial/in-the-dock-on-donald-trump-and-his-legal-challenge/article68228755.ece)
+
+Former U.S. President Donald Trump is potentially facing a historic felony conviction related to 34 charges of hush-money payments to adult film actor Stormy Daniels. The charges, brought by the New York state U.S. District Attorney's office, allege that Trump paid Daniels $130,000 in 2016 to silence her about an affair they supposedly had in 2006. The prosecution claims that Trump falsified business records to conceal the payment, which they argue was an act of election interference. Trump's defense has attempted to discredit the testimony of his former lawyer, Michael Cohen, who claims Trump reimbursed him for the payout to Daniels.
+
+If convicted, Trump could be sentenced to a maximum of four years per charge. However, factors such as his age (77), lack of prior convictions, and the non-violent nature of the crimes may influence sentencing. Despite the outcome of this case, Trump faces additional legal challenges, including allegations of election interference in 2020, involvement in the January 6 Capitol attack, and mishandling classified documents. These cases are currently in the appeals process and are unlikely to go to trial this year. The ongoing legal battles are expected to further polarize the political climate ahead of the November 5 presidential election.
+
+Wed, 29 May 2024 00:20:00 +0530
+### [Turnout conundrum: On stocktaking on voter participation](https://www.thehindu.com/opinion/editorial/turnout-conundrum-on-stocktaking-on-voter-participation/article68225340.ece)
+
+The article discusses the noticeable decrease in voter turnout in India's 2024 general elections compared to previous years. Despite regional variations, with eastern, northeastern, and southern states generally showing higher participation than western, central, and northern states, there has been an overall decline in voter turnout. Notably, Telangana and Karnataka saw slight increases in voter turnout. The article suggests several potential reasons for the reduced turnout, including a lack of competitive contests in certain states, inter-state migration, and extreme heat conditions. It raises concerns about the impact of voter apathy on democracy, emphasizing the importance of voting in shaping the government. The Election Commission of India is urged to investigate these trends further. The decline in voter participation is seen as a worrying sign for the democratic process.
+
+Wed, 29 May 2024 00:10:00 +0530
+### [The last lap: On the French Open](https://www.thehindu.com/opinion/editorial/the-last-lap-on-the-french-open/article68225320.ece)
+
+The article discusses significant changes at the 2024 French Open, particularly focusing on Rafael Nadal's unexpected first-round defeat to Alexander Zverev, marking only his fourth loss at the event in 116 matches. Nadal's future in tennis has been uncertain since a hip injury at the 2023 Australian Open, and despite nearing 38 and playing only 12 times this year, he continues to compete with enthusiasm. While he hasn't ruled out a return in 2025, his immediate focus is on the 2024 Paris Olympics. The article also notes a shift in the competitive landscape, with Novak Djokovic's form declining, Jannik Sinner and Carlos Alcaraz recovering from injuries, and Alexander Zverev facing a domestic abuse trial. Casper Ruud and women's favorite Iga Swiatek are highlighted as key contenders, with Aryna Sabalenka and Coco Gauff also mentioned. For India, Sumit Nagal's early exit is noted, but Rohan Bopanna and Yuki Bhambri continue in doubles. The article concludes with a nod to the changing guard at Roland-Garros and the anticipation of new champions emerging.
+
+Tue, 28 May 2024 00:30:00 +0530
+### [Cannes do: On a big win for indie cinema at the 77th edition of the film festival](https://www.thehindu.com/opinion/editorial/cannes-do-the-hindu-editorial-on-a-big-win-for-indie-cinema-at-the-77th-edition-of-the-film-festival/article68221697.ece)
+
+Payal Kapadia has made history as the first Indian filmmaker to win the Grand Prix at the Cannes Film Festival for her film "All We Imagine as Light." Her trilingual debut feature, an Indo-French collaboration, tells the story of two Malayali nurses in Mumbai and marks a significant achievement for independent cinema. Kapadia's film focuses on the friendship between three diverse women, emphasizing values of solidarity, inclusivity, and empathy. In her acceptance speech, she highlighted the collaborative nature of filmmaking and the vibrant Indian film-making ecosystem, particularly praising the Malayalam film industry. The article also notes other Indian successes at Cannes, including Anasuya Sengupta's Best Actress win, Karan Kandhari's selection for "Sister Midnight," and Chidananda S. Naik's short film award, among others. Kapadia, who previously won the best documentary prize at Cannes in 2021, hopes her Grand Prix win will inspire and support young independent filmmakers.
+
+Tue, 28 May 2024 00:15:00 +0530
+### [Maximum impact: On Indian Premier League and Sunday’s final](https://www.thehindu.com/opinion/editorial/maximum-impact-the-hindu-editorial-on-indian-premier-league-and-sundays-final/article68222265.ece)
+
+The Indian Premier League final was a decisive victory for Kolkata Knight Riders (KKR) over Sunrisers Hyderabad (SRH), with KKR winning by eight wickets to secure their third IPL title. Both teams had a remarkable turnaround from their previous season's lower rankings, thanks to bold and aggressive cricket strategies. The introduction of the Impact Player rule played a significant role in the season's high scores. KKR's success was attributed to Shreyas Iyer's leadership, Sunil Narine's valuable player performance, and contributions from other key players. SRH's performance was bolstered by Pat Cummins' captaincy and innovative batting from their players.
+
+The season also saw exceptional performances from other teams and players, with Virat Kohli achieving his second-best IPL run total. The Delhi Capitals and Royal Challengers Bengaluru made notable efforts to reach the playoffs, supported by standout performances from various players. The article also highlights the enduring skills of Dinesh Karthik and M.S. Dhoni. The absence of Indian stars in the latter part of the tournament due to T20 World Cup commitments was noted, but this rest period might benefit India's chances in the upcoming ICC event. The article concludes with optimism for the Indian team's prospects in ending their ICC trophy drought.
+
+Mon, 27 May 2024 00:30:00 +0530
+### [Absolute numbers: On the ECI and faith in the process](https://www.thehindu.com/opinion/editorial/absolute-numbers-the-hindu-editorial-on-the-eci-and-faith-in-the-process/article68217858.ece)
+
+The article discusses the sixth phase of India's general election 2024, which saw 58 Lok Sabha seats across eight states and union territories go to polls. This marks the completion of voting in 486 constituencies in 28 states and UTs, including 105 Assembly constituencies in Odisha. The final phase is scheduled for June 1, with vote counting on June 4. West Bengal reported high voter turnout despite some violence, while Delhi saw lower participation, possibly affected by a heat wave. The Election Commission of India (ECI) published the total votes cast for the first time after the Supreme Court declined to order the release of Form 17C details. The ECI has been criticized for alleging a conspiracy to disrupt the electoral process and has been urged to address complaints transparently to uphold democracy and public trust in the electoral system.
+
+Mon, 27 May 2024 00:15:00 +0530
+### [Punishing Hamas: On Israel and the ICJ ruling](https://www.thehindu.com/opinion/editorial/punishing-hamas-the-hindu-editorial-on-israel-and-the-icj-ruling/article68218262.ece)
+
+The International Court of Justice (ICJ) has ruled that Israel must halt its military operations in Rafah, Gaza, to prevent the potential destruction of the Palestinian population there. This decision follows a genocide case filed by South Africa, where the ICJ had previously urged Israel to take preventive measures but stopped short of demanding a ceasefire. The court also ordered Israel to keep the Rafah-Egypt crossing open for aid, allow UN war crime investigations, and release all hostages. This ruling aligns with the International Criminal Court's Chief Prosecutor's claims that both Israeli and Hamas leaders have committed war crimes. Despite these international legal pressures and the issuance of arrest warrants for Israeli leaders, including Prime Minister Benjamin Netanyahu, Israel continued its military actions in Rafah.
+
+The ongoing conflict, which began over seven months ago after a Hamas attack, has seen heavy casualties and widespread condemnation of Israel's military tactics, which have been deemed disproportionate. The conflict has not only failed to meet Israel's objectives but has also led to international isolation and growing support for Palestine, evidenced by Norway, Ireland, and Spain's recognition of the State of Palestine. The war's continuation and the ICJ's ruling reflect the increasing challenges Israel faces in maintaining its security and international standing.
+
+Sat, 25 May 2024 00:20:00 +0530
+### [Welcome bounty: On the RBI’s ₹2.11-lakh-crore transfer to the Union government](https://www.thehindu.com/opinion/editorial/welcome-bounty-on-the-rbis-transfer-to-the-union-government/article68212198.ece)
+
+The Reserve Bank of India (RBI) has decided to transfer a record surplus of nearly ₹2.11 lakh crore to the Union government for the fiscal year 2023-24. This amount is significantly higher than the previous year's transfer and exceeds the interim budget expectations. This move is expected to provide the upcoming government, which will be formed after the general elections on June 4, with additional financial flexibility for the budget in July. The increase in surplus is attributed to the RBI's effective asset management, including gains from overseas securities and foreign exchange interventions. Additionally, the RBI has increased its Contingent Risk Buffer provisioning by 50 basis points to 6.5% to safeguard against economic risks. This surplus transfer is seen as a boost for the government to increase capital spending and maintain fiscal stability, reflecting the RBI's confidence in the strength of the Indian economy.
+
+Sat, 25 May 2024 00:10:00 +0530
+### [Southern sojourn: On the 46th Antarctic Treaty Consultative Meeting in India](https://www.thehindu.com/opinion/editorial/southern-sojourn-on-46th-antarctic-treaty-consultative-meeting-in-india/article68211556.ece)
+
+The 46th Antarctic Treaty Consultative Meeting (ATCM) has gathered delegates from over 60 countries in Kochi, Kerala. The meeting, which includes 29 voting members and other observers, is addressing various issues, including a proposal backed by India and other countries to regulate tourism in Antarctica. The proposal is significant due to the continent's lack of an indigenous population and its appeal as a remote, untouched wilderness. Tourism in Antarctica has surged from 8,000 visitors in 1993 to 105,000 in 2022, not counting scientists and research personnel. This increase has raised concerns about pollution and the impact on the region's unique biodiversity. The ATCM discussions also touch on the long-term implications of increased human presence and the potential influence on territorial claims, despite the treaty's current prohibition. India, while supporting the regulatory proposal, must consider the future prospects of tourism and its potential impact.
+
+Fri, 24 May 2024 00:20:00 +0530
+### [Powerful symbolic value: On the recognition of Palestine](https://www.thehindu.com/opinion/editorial/powerful-symbolic-value-on-the-recognition-of-palestine/article68208336.ece)
+
+The article discusses significant international developments regarding the Israel-Palestine conflict. Ireland, Norway, and Spain have announced their intention to formally recognize the state of Palestine, joining eight EU members who have already done so. This move reflects a shift in global opinion, as evidenced by a UN General Assembly resolution supported by 143 countries, including India, calling for Palestinian state recognition.
+
+The International Criminal Court has sought arrest warrants for Israeli Prime Minister Benjamin Netanyahu and Defence Minister Yoav Gallant, as well as Hamas leaders, for alleged war crimes. Additionally, the International Court of Justice is set to deliver a verdict on a petition by South Africa regarding Israel's actions in Gaza.
+
+These developments are seen as symbolic and politically significant, aimed at supporting moderate forces and pushing Israel to reconsider its actions in Rafah to prevent civilian casualties and allow humanitarian aid into Gaza. The article suggests that the international community's stance is a reminder to Netanyahu that despite his disengagement from the two-state solution, it remains the preferred path to peace. Netanyahu's apparent indifference to these messages is portrayed as isolating him further from an international community that initially sympathized with Israel but has since been appalled by its military campaign.
+
+Fri, 24 May 2024 00:10:00 +0530
+### [Snap poll: On the surprise election announcement for the U.K.](https://www.thehindu.com/opinion/editorial/snap-poll-on-the-surprise-election-announcement-for-the-uk/article68208273.ece)
+
+Prime Minister Rishi Sunak has announced an unexpected election for the United Kingdom set for July 4, ahead of the mandatory election date of January 2025. This decision comes amidst consistent polls indicating a potential significant loss for the Conservative Party in the next election. Factors that may have influenced this early election include the U.K.'s inflation rate dropping to 2.3%, the lowest in three years, a positive review of Sunak's handling of the economy post-COVID-19, and a legal victory regarding immigration reforms involving the processing of some asylum seekers' applications in Rwanda.
+
+Despite these developments, there is evident voter discontent after 14 years of Conservative rule. Sunak has highlighted the current global security risks, citing the ongoing Russian-Ukraine conflict, tensions in West Asia, and the economic implications of these issues. However, the government's efforts to manage small boat crossings have seen mixed results, with a significant increase in 2024 despite a previous decrease. Sunak's remarks suggest a challenge to the Labour Party's confidence in the upcoming election, questioning the basis of their optimism.
+
+Thu, 23 May 2024 00:20:00 +0530
+### [Setting the bar: On the Election Commission of India](https://www.thehindu.com/opinion/editorial/setting-the-bar-on-the-election-commission-of-india/article68204217.ece)
+
+The article discusses the Election Commission of India's (ECI) recent actions to maintain impartiality and prevent divisive campaigning in the general elections. The ECI has been criticized for its ineffectiveness and partiality, which is partly due to the partisan method of appointing its members. The ECI has issued warnings to both the BJP and Congress leaders to avoid statements that could divide society or create caste and community tensions. This includes a response to a complaint about Prime Minister Narendra Modi's speech and a censure of a BJP candidate for remarks against Mamata Banerjee. The ECI has also taken action against various political leaders for violating the model code of conduct, with some complaints still pending. The article argues that while these actions may seem to show impartiality, they do not address the deeper issue of distinguishing between legitimate political debate and xenophobic incitement. The ECI's integrity and credibility are crucial for the legitimacy of elections, and its independence should be reinforced by all stakeholders in Indian democracy. Reinforcing the ECI's independence is emphasized as a priority for maintaining the legitimacy of elections.
+
+Thu, 23 May 2024 00:10:00 +0530
+### [Justified balance: On the ICC move against Israel, Hamas](https://www.thehindu.com/opinion/editorial/justified-balance-on-the-icc-move-against-israel-hamas/article68203911.ece)
+
+The International Criminal Court (ICC) has initiated steps towards accountability for war crimes committed since October 7, 2023, by seeking arrest warrants against leaders from both Hamas and Israel. This action follows a series of deadly attacks by Hamas that resulted in over 1,200 Israeli deaths and the taking of hostages, and a subsequent heavy military retaliation by Israel in Gaza, causing over 35,000 deaths, predominantly among women and children. The ICC's move has sparked debate over the moral equivalence of charging a democratic nation's leaders and an armed group with war crimes and crimes against humanity. While Israel defends its actions as legitimate self-defense, the ICC's decision could have significant diplomatic repercussions, potentially isolating Israel and affecting its stance on the Palestinian issue. Despite Israel and the U.S. not being ICC members, the precedent set by cases like that of Russian President Vladimir Putin suggests that this may not prevent the issuance of warrants. Israeli Prime Minister Netanyahu is expected to leverage this development politically within Israel.
+
 Wed, 22 May 2024 00:20:00 +0530
 ### [Vote for a change: On the voter in Kashmir](https://www.thehindu.com/opinion/editorial/vote-for-a-change-on-the-voter-in-kashmir/article68200791.ece)
 
