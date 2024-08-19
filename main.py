@@ -1,6 +1,6 @@
 import feedparser
 import requests
-import g4f
+# import g4f
 from bs4 import BeautifulSoup
 import os
 import json
@@ -11,8 +11,8 @@ import time
 import xmltodict
 import lxml
 import random
-from g4f.client import Client
-from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
+# from g4f.client import Client
+# from g4f.Provider import RetryProvider, Bing , ChatgptAi , Liaobots , OpenaiChat , Raycast , Theb , You , AItianhuSpace , ChatForAi , Chatgpt4Online , ChatgptNext , ChatgptX , FlowGpt , FreeGpt , GptTalkRu , Koala , MyShell , PerplexityAi , Poe , TalkAi , Vercel , AItianhu , Bestim , ChatBase , ChatgptDemo , ChatgptDemoAi , ChatgptFree , ChatgptLogin , Chatxyz , Gpt6 , GptChatly , GptForLove , GptGo , GptGod , OnlineGpt , Aura , Bard , DeepInfra , FreeChatgpt , Gemini , GeminiPro , GeminiProChat , HuggingChat , HuggingFace , PerplexityLabs , Pi , ThebApi , OpenAssistant
 from openai import OpenAI
 from dotenv import load_dotenv
 
