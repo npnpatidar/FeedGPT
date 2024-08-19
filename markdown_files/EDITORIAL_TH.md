@@ -1,3 +1,15 @@
+Tue, 20 Aug 2024 00:30:00 +0530
+### [To abide or not: On the Karnataka case and corruption charges](https://www.thehindu.com/opinion/editorial/to-abide-or-not-the-hindu-editorial-on-the-karnataka-case-and-corruption-charges/article68543330.ece)
+
+The Karnataka Governor's decision to grant permission for prosecution against Chief Minister Siddaramaiah on corruption charges has sparked debate.  The legality of the Governor's action, independent of the Council of Ministers' advice, is questioned. Siddaramaiah contends that the Governor disregarded advice to refuse sanction.  The case revolves around land allotment by the Mysore Urban Development Authority, with allegations of impropriety. 
+
+While the State government supports a judicial inquiry, the Governor deems it insufficient. The Chief Minister denies involvement in the land allocation process, maintaining it occurred during the previous BJP government. The Governor's action highlights the ongoing tension between the executive and the judiciary, and raises concerns about potential selective prosecution.
+
+Tue, 20 Aug 2024 00:15:00 +0530
+### [​Good, not ugly: On the 70th National Film Awards](https://www.thehindu.com/opinion/editorial/%E2%80%8Bgood-not-ugly-the-hindu-editorial-on-the-70th-national-film-awards/article68543139.ece)
+
+The 70th National Film Awards brought fresh hope to the credibility of the prestigious ceremony. Winners like the Malayalam film "Aattam," which explores male behaviour post sexual abuse allegations, and the Kannada film "Kantara," which tackles environmental concerns through folklore, stand out for their unconventional narratives and societal relevance.  The awards also recognized stellar performances by Nithya Menen and Rishab Shetty, further highlighting the rising quality of content from South Indian cinema.  The selections seem to reflect a shift towards meaningful cinema that resonates with contemporary issues, vindicating the National Awards' original purpose.
+
 Mon, 19 Aug 2024 00:30:00 +0530
 ### [​Two States: On elections to Jammu and Kashmir and Haryana](https://www.thehindu.com/opinion/editorial/%E2%80%8Btwo-states-the-hindu-editorial-on-elections-to-jammu-and-kashmir-and-haryana/article68539796.ece)
 

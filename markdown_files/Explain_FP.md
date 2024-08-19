@@ -3664,8 +3664,9 @@ The article highlights memorable moments from past US presidential debates, emph
 Thu, 27 Jun 2024 20:23:37 +0530
 ### [NEET-UG paper leak case: What’s the role of 2 accused arrested by CBI in Bihar?](https://www.firstpost.com/explainers/neet-ug-paper-leak-case-cbi-bihar-arrests-accused-13786861.html)
 
-Article found but Couldn't summarize 
-The CBI has made its first arrests in the alleged NEET-UG paper leak case, apprehending two men from Bihar. Aspirants who paid large sums were allegedly given the question paper and answer sheets a day before the medical entrance exam on May 5
+The CBI has arrested two people from Bihar in connection with the alleged NEET-UG paper leak.  The accused, Manish Prakash and Ashutosh Kumar, are alleged to have provided accommodation and transportation to students who received the leaked question paper and answer sheets a day before the exam on May 5th. The CBI has registered six FIRs in the case and arrested thirteen people, including four examinees, across Bihar, Gujarat, and Maharashtra. The alleged mastermind is believed to be Sanjeev Mukhiya, who is suspected to have fled to Nepal. 
+
+Meanwhile, the alleged paper leak has sparked a political controversy with the opposition demanding the dissolution of the National Testing Agency (NTA) and the resignation of the Education Minister.  The President and the Prime Minister have also addressed the issue, assuring strict action against those involved.
 
 Thu, 27 Jun 2024 20:01:58 +0530
 ### [UK general election: From immigration to cost of living, the key issues for voters](https://www.firstpost.com/explainers/uk-general-election-from-immigration-to-cost-of-living-the-key-issues-for-voters-13786847.html)
@@ -3685,8 +3686,9 @@ Pakistan is currently grappling with a severe heatwave, particularly affecting K
 Thu, 27 Jun 2024 17:29:02 +0530
 ### [Why Emergency is being raised now in Parliament](https://www.firstpost.com/explainers/emergency-parliament-indira-gandhi-bjp-congress-constitution-13786791.html)
 
-Article found but Couldn't summarize 
-President Droupadi Murmu termed the Emergency as ‘the biggest and darkest chapter of direct attack on the Constitution’ in her address to a joint sitting of the Lok Sabha and Rajya Sabha on Thursday. June 25 marked the 49th anniversary of the Emergency imposed by then-PM Indira Gandhi. But why is it being talked about now in Parliament?
+President Murmu, while addressing Parliament, condemned the 1975 Emergency, calling it the "biggest and darkest chapter of direct attack on the Constitution". This statement followed a series of mentions of the period by BJP leaders, including PM Modi, who drew parallels between the Emergency and the current opposition's accusations of the BJP aiming to change the Constitution. The BJP has been using the Emergency as a tool to target the Congress, highlighting its alleged disregard for democratic values. 
+
+ On the other hand, Congress leaders have accused the BJP of playing divisive politics by repeatedly raising the issue and have countered by alleging an "undeclared Emergency" under PM Modi's rule.
 
 Thu, 27 Jun 2024 16:46:38 +0530
 ### [Swiftnomics at play? Can Taylor Swift's tour change Europe's fortunes?](https://www.firstpost.com/explainers/swiftnomics-at-play-can-taylor-swifts-tour-change-europes-fortunes-13786753.html)
@@ -3701,8 +3703,7 @@ The World Health Organisation has issued a warning about a new, highly dangerous
 Thu, 27 Jun 2024 14:43:33 +0530
 ### [How sengol in Parliament has become latest flashpoint between Centre and opposition](https://www.firstpost.com/explainers/sengol-in-parliament-controversy-13786659.html)
 
-Article found but Couldn't summarize 
-Samajwadi Party MP RK Chaudhary wrote a letter to Speaker Om Birla saying that the sengol, which is placed next to the Speaker’s chair in Lok Sabha, should be replaced with a copy of the Constitution. The BJP has hit back, saying the sceptre's removal will be ‘an insult to Tamil Nadu’ and its culture
+The placement of the sengol, a five-foot-long, gold-plated sceptre, next to the Speaker's chair in the Lok Sabha has sparked controversy. Samajwadi Party MP RK Chaudhary, supported by leaders like Akhilesh Yadav and B Manickam Tagore, has called for its removal, advocating for a copy of the Constitution instead.  They argue that the sengol symbolizes a pre-democratic era and  democracy should be reflected by the Constitution, the country's foundational document. The BJP, however,  has defended its installation, asserting that it is a symbol of Indian and Tamil culture and removing it would be an insult.
 
 Thu, 27 Jun 2024 14:20:55 +0530
 ### [Mahayuti rift: Will the BJP-led alliance collapse before the Maharashtra Assembly polls?](https://www.firstpost.com/explainers/mahayuti-rift-bjp-ncp-shinde-sena-alliance-maharashtra-assembly-polls-13786697.html)
@@ -3767,8 +3768,11 @@ The slow progress of the southwest monsoon in India has led to a 19 per cent sho
 Wed, 26 Jun 2024 16:10:29 +0530
 ### [Why is the Congress demanding the Deputy Speaker’s post in Lok Sabha? What does history reveal?](https://www.firstpost.com/explainers/congress-deputy-speaker-lok-sabha-history-13786372.html)
 
-Article found but Couldn't summarize 
-After the election of the Speaker of Lok Sabha, all eyes are now on the polls for the Deputy Speaker’s post. The Congress is demanding that an opposition MP be given the position based on convention — from 1990 to 2014, this tradition has been followed continuously
+Following the election of Om Birla as Speaker of the Lok Sabha, the focus has shifted to the Deputy Speaker's position.  The Congress is demanding that an opposition MP be chosen for the role, citing a longstanding convention from 1990 to 2014.  
+
+They argue that this practice should be upheld as the current Lok Sabha acknowledges them as the opposition. While the Constitution doesn't mandate an opposition Deputy Speaker,  experts point to Article 93's directive to "as soon as may be" hold the election, suggesting a customary practice exists.
+
+Past precedents show the position was often held by opposition parties, or allies of the ruling party,  reinforcing the Congress's claim based on convention.
 
 Wed, 26 Jun 2024 16:00:29 +0530
 ### [Why Finland will get world’s first bird flu vaccination for humans even though it has no cases](https://www.firstpost.com/health/why-finland-will-get-worlds-first-vaccination-for-bird-flu-for-humans-even-though-it-has-no-cases-13786249.html)
@@ -3788,14 +3792,16 @@ Om Birla, a BJP MP from Rajasthan, has been re-elected as the Speaker of the 18t
 Wed, 26 Jun 2024 13:36:40 +0530
 ### [Zero Chill: Why no air conditioning at Paris Olympics has become a hot topic](https://www.firstpost.com/explainers/no-air-conditioning-paris-olympics-hot-topic-us-australia-13786268.html)
 
-Article found but Couldn't summarize 
-To make the Paris Olympics 2024 more eco-friendly, organisers have steered clear of air conditioning in the apartments at the Village. Now some countries, including the US and Australia, have decided to carry their own AC units to the tournament amid concern that a heatwave will strike the City of Love in July
+The Paris 2024 Olympics, aiming for the "greenest" Games ever, have chosen to forgo air conditioning in the Olympic Village. This decision is part of a larger effort to reduce carbon footprints and combat rising temperatures.  
+
+Paris 2024 organizers have implemented alternative cooling strategies, including geothermal systems, cross ventilation, and green roofs. However, concerns about potential heatwaves during the Games, scheduled for July and August, have prompted several countries, including the US, Canada, and Australia, to bring their own portable air conditioning units to ensure athletes' comfort and performance.  While this decision contradicts the organizers' sustainability goals, it reflects the competing priorities of athlete health and environmental responsibility.
 
 Wed, 26 Jun 2024 13:28:35 +0530
 ### [On the brink: Is Israel preparing for a major clash with Hezbollah in Lebanon?](https://www.firstpost.com/explainers/on-the-brink-is-israel-preparing-for-a-major-clash-with-hezbollah-in-lebanon-13786245.html)
 
-Article found but Couldn't summarize 
-The US has cautioned that a full-scale war between Israel and Hezbollah in Lebanon would be highly destructive and had the potential to ignite a broader regional conflict. With casualties being registered on both sides of the border, international bodies are pushing for a diplomatic solution between the two parties, fearing a Gaza-like situation will arise
+Tensions have escalated along the Israel-Lebanon border, raising concerns of a full-scale war between Israel and Hezbollah. While both sides have engaged in exchanges of fire, causing significant casualties and displacement, diplomatic efforts are underway to de-escalate the situation. 
+
+The US has urged Israel to avoid war, warning of its catastrophic consequences for civilians and the wider region. International bodies, including the UN and Canada, have called for de-escalation and urged citizens to leave Lebanon. Despite the diplomatic push, Israel has reportedly approved plans for a potential offensive in Lebanon, while Hezbollah's leader, Hassan Nasrallah, maintains readiness to defend his group.  The potential for a broader regional conflict remains high, with Iran's involvement a key concern.
 
 Wed, 26 Jun 2024 12:22:07 +0530
 ### [From data to diapers: What pushed angry Kenyans to burn part of parliament](https://www.firstpost.com/explainers/data-to-diapers-what-pushed-angry-kenyans-to-burn-part-of-parliament-13786210.html)
@@ -3805,8 +3811,9 @@ President William Ruto, once popular among Kenya's 'hustlers' for promising econ
 Wed, 26 Jun 2024 10:57:04 +0530
 ### [Owaisi's 'Jai Palestine' slogan during oath sparks storm: Can the Hyderabad MP be disqualified from Lok Sabha?](https://www.firstpost.com/explainers/asaduddin-owaisi-jai-palestine-slogan-during-oath-sparks-parliamentary-storm-can-aimim-hyderabad-mp-be-disqualified-lok-sabha-13786168.html)
 
-Article found but Couldn't summarize 
-The 'Jai Palestine' slogan by AIMIM leader Asaduddin Owaisi as he concluded his oath as an MP in the Lok Sabha on Tuesday has sparked strong criticism, especially from the BJP. With several of its leaders suggesting that the Hyderabad MP could face disqualification from Parliament, we take a look at what the rule book says
+Asaduddin Owaisi, while taking his oath as an MP,  included "Jai Palestine" along with other slogans, leading to immediate criticism from BJP leaders.  They argue his statement violates Article 102 of the Constitution, which disqualifies members who display allegiance to a foreign state. Owaisi defended his action, citing his support for the Palestinian people and questioning the basis for the objections.  
+
+The incident has sparked debate about the appropriateness of such slogans during the oath-taking ceremony and its potential implications for Owaisi's parliamentary membership.
 
 Wed, 26 Jun 2024 10:23:14 +0530
 ### [What will Rahul Gandhi’s role be as Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/congress-rahul-gandhi-leader-of-opposition-lok-sabha-role-india-bloc-13786166.html)
@@ -3816,8 +3823,7 @@ Rahul Gandhi has been appointed as the Leader of the Opposition (LoP) in the Lok
 Wed, 26 Jun 2024 09:00:55 +0530
 ### [Om Birla elected as Lok Sabha Speaker for second time. Why the position holds importance](https://www.firstpost.com/explainers/om-birla-vs-k-suresh-lok-sabha-speaker-election-significance-powers-13786075.html)
 
-Article found but Couldn't summarize 
-In a rare contest, NDA’s Om Birla has been selected as Lok Sabha Speaker. This will be his second stint. Here’s what his role encompasses
+Om Birla has been re-elected as the Speaker of the Lok Sabha. The role is significant as the Speaker presides over House sessions, decides the agenda, maintains order and decorum, interprets rules, and oversees committees.  The Speaker also plays a crucial role in handling defection issues and can cast the deciding vote in a tie.  While they are expected to be non-partisan, the Speaker does not have to forgo their party affiliation. Removal from the post is possible through a resolution passed by a majority of Lok Sabha members.
 
 Wed, 26 Jun 2024 06:00:11 +0530
 ### [FirstUp: Lok Sabha Speaker election, SC to hear CM Kejriwal's bail plea... The headlines today](https://www.firstpost.com/explainers/firstup-lok-sabha-speaker-election-sc-to-hear-cm-kejriwals-bail-plea-the-headlines-today-13786061.html)
@@ -3832,8 +3838,7 @@ Sitting for more than six hours a day is linked to a higher risk of mortality, b
 Tue, 25 Jun 2024 20:02:07 +0530
 ### [Why Israel top court’s order on conscription for ultra-Orthodox Jews is a blow to Netanyahu](https://www.firstpost.com/explainers/why-israel-top-courts-order-on-conscription-for-ultra-orthodox-jews-is-a-blow-to-netanyahu-13786018.html)
 
-Article found but Couldn't summarize 
-Israel's Supreme Court on Tuesday issued a unanimous ruling stating that ultra-Orthodox Jewish men must serve in the army and that government funding for yeshivas should be contingent on student enlistment. This decision is being seen as a blow to PM Benjamin Netanyahu and is expected to massively influence his ruling coalition
+Israel's Supreme Court unanimously ruled that ultra-Orthodox Jewish men must serve in the military, effectively ending their long-standing exemptions. This decision overturns a 2017 law and impacts Prime Minister Netanyahu's coalition, which relies on ultra-Orthodox party support.  The ruling was criticized by ultra-Orthodox leaders who argue it undermines their traditions, but welcomed by secular Israelis who see it as a step towards equality.  The court's decision has ignited a debate about national service and its implications for Israeli society amidst ongoing conflict in Gaza.
 
 Tue, 25 Jun 2024 18:25:18 +0530
 ### [Greece is introducing a six-day work week: Where do other European countries stand?](https://www.firstpost.com/explainers/greece-is-introducing-a-six-day-work-week-where-do-other-european-countries-stand-13786039.html)
@@ -3845,8 +3850,11 @@ Greece is implementing a six-day work week starting July 1, despite most of Euro
 Tue, 25 Jun 2024 18:14:42 +0530
 ### [What is a digital lock that is supposed to keep NEET question papers safe?](https://www.firstpost.com/explainers/neet-question-paper-leak-what-is-digital-lock-tampering-nta-13785997.html)
 
-Article found but Couldn't summarize 
-A digital lock system was introduced by the National Testing Agency (NTA) in 2019 to protect NEET papers from leaks. However, these locks failed to open at some examination centres this year
+The investigation into the NEET paper leak case has revealed several security gaps. Digital locks, introduced in 2019 to protect question papers, failed to open at certain examination centres, causing delays in distribution. 
+
+The Bihar Police's Economic Offences Unit has also discovered tampering with the seven-layered packaging of question papers. This includes irregularities in the aluminum boxes and a breach in the innermost envelope. 
+
+The CBI is now leading the investigation, hoping to uncover further details about the alleged leak.
 
 Tue, 25 Jun 2024 17:21:39 +0530
 ### [Kenya on edge over new finance bill: What's it all about?](https://www.firstpost.com/explainers/kenya-on-edge-over-new-finance-bill-whats-it-all-about-13785999.html)
@@ -3926,8 +3934,9 @@ Iran's upcoming presidential elections (June 28) feature six candidates with div
 Tue, 25 Jun 2024 12:57:04 +0530
 ### [The final chapter in a 14-year legal odyssey: Why is Julian Assange flying to remote island of Saipan in the Pacific?](https://www.firstpost.com/explainers/final-chapter-in-14-year-legal-odyssey-why-is-wikileaks-founder-julian-assange-flying-to-remote-pacific-island-of-saipan-13785869.html)
 
-Article found but Couldn't summarize 
-WikiLeaks founder Julian Assange is currently headed to a courtroom on the Pacific island of Saipan, where he is anticipated to enter a guilty plea on Wednesday for a single criminal charge. This plea deal is expected to result in his release, allowing him to return to Australia, his home country, after a lengthy legal journey spanning 14 years
+Julian Assange is set to plead guilty to a single Espionage Act charge in a US courtroom on Saipan. This deal, expected to result in his release, concludes a 14-year legal battle stemming from WikiLeaks' publication of classified documents. Assange has already served the 62-month sentence stipulated in the plea agreement. 
+
+The US Justice Department's decision to choose Saipan as the venue is attributed to its proximity to Australia, Assange's home country, while still being a US territory with jurisdiction over legal proceedings. Following the hearing, Assange is anticipated to return to Australia.  His supporters celebrate this development, highlighting the significant toll the legal battles have taken on his health and well-being.
 
 Tue, 25 Jun 2024 12:43:41 +0530
 ### [AAP’s Atishi admitted to hospital: What happens to the body when blood sugar levels drop?](https://www.firstpost.com/health/aap-atishi-hospital-body-blood-sugar-levels-hypoglycaemia-13785886.html)
@@ -3937,26 +3946,28 @@ Atishi, Delhi's water minister, was hospitalized due to dangerously low blood su
 Tue, 25 Jun 2024 12:31:41 +0530
 ### [Why Karnataka is banning artificial food colours in kebabs](https://www.firstpost.com/health/why-karnataka-is-banning-artificial-food-colours-in-kebabs-13785821.html)
 
-Article found but Couldn't summarize 
-A food test found unsafe levels of artificial colours, sunset yellow and carmoisine, being used in the preparation of kebabs across the state following which the Karnataka health officials issued a notification, warning of 'serious health risks to consumers.' Earlier, the government banned gobi manchurian and cotton candy after carcinogenic chemicals were found in them
+Following tests revealing unsafe levels of artificial colours sunset yellow and carmoisine in kebabs, the Karnataka government has banned their use in various food items, including kebabs, fish, and vegetarian dishes. The ban stems from health concerns associated with these dyes, which have been linked to allergic reactions, hyperactivity, and potentially carcinogenic effects. 
+
+The health department acted on reports of poor kebab quality and public complaints, analyzing 39 samples of kebabs and finding eight contaminated with the banned colours. Penalties for violating this order include imprisonment and substantial fines.
 
 Tue, 25 Jun 2024 10:05:44 +0530
 ### [WikiLeaks’ Julian Assange to be freed: How did he avoid US prison time?](https://www.firstpost.com/explainers/wikileaks-julian-assange-freed-us-prison-plea-deal-13785822.html)
 
-Article found but Couldn't summarize 
-WikiLeaks founder Julian Assange has agreed to plead guilty in a US court, which ends his long-running legal drama and allows him to finally return home to Australia as a free man. As part of the plea deal he struck with US authorities, he will be sentenced to 62 months, which is the time he has already served in UK prison
+WikiLeaks founder Julian Assange has accepted a plea deal in a US court, ending his long legal battle. He will plead guilty to a felony charge under the Espionage Act for conspiring to unlawfully disclose classified information. 
+
+The sentence Assange receives will be 62 months, the time he has already served in UK prisons. He is expected to return to Australia after a court appearance in Saipan. 
+
+The deal comes after years of US extradition efforts and Assange's confinement in various locations, including Belmarsh Prison.  While Assange's supporters celebrate his freedom, some, including former US Vice President Mike Pence, criticize the plea deal as a miscarriage of justice.
 
 Tue, 25 Jun 2024 10:04:12 +0530
 ### [Rohit Sharma is a class player, Indian bowlers were too good: Mitchell Marsh after Australia's defeat](https://www.firstpost.com/firstcricket/sports-news/india-vs-australia-t20-world-cup-mitchell-marsh-rohit-sharma-indian-bowlers-13785820.html)
 
-Article found but Couldn't summarize 
-Mitchell Marsh credited Rohit Sharma's explosive batting and Indian bowlers for Men in Blue reaching the T20 World Cup 2024 semi-finals after beating Australia.
+Australia captain Mitchell Marsh acknowledged India's superior performance in their 24-run victory, which secured India's semi-final berth in the T20 World Cup 2024. Rohit Sharma's explosive innings of 92 runs off 41 balls set the stage for India's impressive 205/5 total. Despite a promising start and a late-inning surge by Travis Head and Glen Maxwell, Australia ultimately fell short, restricted to 181/7.  Marsh praised Sharma's prowess and conceded that India's bowlers proved too strong for Australia's chase.
 
 Tue, 25 Jun 2024 08:57:03 +0530
 ### [49 years of Emergency: India’s darkest hour, in graphics](https://www.firstpost.com/explainers/emergency-anniversary-india-darkest-hour-in-graphics-indira-gandhi-13785665.html)
 
-Article found but Couldn't summarize 
-On 25 June 1975, India witnessed a historic moment when then Prime Minister Indira Gandhi declared Emergency in the country. In this 21-month period, widespread arrests took place, the press was heavily censored and civil liberties were severely curtailed. Here’s a timeline of events as we commemorate its 49th anniversary
+On June 25, 1975, Indira Gandhi declared a state of Emergency in India, marking a dark period in the country's history. Lasting for 21 months, the Emergency saw widespread arrests, heavy press censorship, and severe curtailment of civil liberties.  Gandhi justified the move by citing a "deep and widespread conspiracy" against her government. The period remains a significant event in Indian political history, remembered for its erosion of democratic principles.
 
 Tue, 25 Jun 2024 06:00:53 +0530
 ### [FirstUp: PM to propose LS speaker name, Kejriwal bail plea in Delhi High Court… Big news today](https://www.firstpost.com/explainers/firstup-pm-to-propose-ls-speaker-name-kejriwal-bail-plea-hearing-emergency-anniversary-big-news-today-13785722.html)
@@ -3966,8 +3977,7 @@ Prime Minister Modi will propose the name for the Speaker of the 18th Lok Sabha 
 Mon, 24 Jun 2024 20:08:40 +0530
 ### [In Graphics | The countries you can travel to visa-free on an Indian passport](https://www.firstpost.com/explainers/in-graphics-the-countries-you-can-travel-to-visa-free-on-an-indian-passport-13785673.html)
 
-Article found but Couldn't summarize 
-Visa-free service makes the travel process simpler. On Passport Service Day (24 June), we bring to you a list of nations that are visa-free for Indians
+Indians now enjoy visa-free entry into 62 countries, which is a significant achievement boosting the nation's global mobility. Recently, Thailand and Sri Lanka extended their visa-free access to Indian visitors until November 2024 and May 2024 respectively. This move underscores the crucial role tourism plays in the economies of these countries, accounting for 20% of Thailand's jobs and 12% of its economy.
 
 Mon, 24 Jun 2024 19:54:48 +0530
 ### [Who is Sanjeev Mukhiya, the ‘kingpin’ of NEET paper leak case?](https://www.firstpost.com/explainers/neet-paper-leak-case-sanjeev-mukhiya-kingpin-bihar-13785675.html)
@@ -3987,14 +3997,18 @@ Lottery shops in China are increasingly popular among young people, who are draw
 Mon, 24 Jun 2024 16:01:08 +0530
 ### [Trash war: What's inside the balloons that North Korea is sending across the border?](https://www.firstpost.com/explainers/trash-war-whats-inside-the-balloons-that-north-korea-is-sending-across-the-border-13785601.html)
 
-Article found but Couldn't summarize 
-North Korea has been flying balloons since late May into the South. An analysis reveals that many of them had articles printed with Hello Kitty characters, badly worn clothing, and soil containing traces of human faeces and parasites
+Tensions have escalated between North and South Korea due to North Korea sending trash-filled balloons into South Korea. These balloons contain items like clothes with childish character prints, worn-out clothing, and soil with traces of human faeces and parasites. 
+
+South Korea has responded by deploying military and scientific teams to inspect the objects, condemning the act as "low-class" and suspending a military deal with North Korea.  North Korea claims the balloons are retaliation for anti-Pyongyang propaganda sent from South Korea by defectors and activists.
 
 Mon, 24 Jun 2024 14:54:02 +0530
 ### [NEET, NET rows: How Bihar has gained notoriety for exam cheating](https://www.firstpost.com/explainers/neet-net-rows-bihar-board-exam-cheating-education-13785555.html)
 
-Article found but Couldn't summarize 
-The NEET, NET exam paper leaks have brought Bihar to the centre stage. The Hindi belt state has gained notoriety over the years for mass cheating in Bihar board examinations. The decline in learning levels in schools is another cause of alarm
+Bihar is facing scrutiny due to its alleged involvement in multiple major examination leaks.  The state is at the center of the NEET-UG 2024 paper leak case, with the prime suspect identified as a resident of Bihar. The CBI is investigating the case, and further arrests have been made in neighboring Jharkhand and Maharashtra.  
+
+This incident follows another major controversy involving the UGC NET paper leak, where a CBI team was attacked by villagers while investigating the case. Bihar has a long-standing reputation for cheating in examinations, with numerous high-profile incidents occurring in recent years, including the BSEB Class 12 topper scam in 2016. 
+
+Adding to these concerns, studies have shown a decline in reading levels among Bihar school children. Despite efforts to improve the education system, challenges persist with low student and teacher attendance, contributing to Bihar's ongoing educational crisis.
 
 Mon, 24 Jun 2024 14:24:40 +0530
 ### [Heatwave scorches east as floods devastate Midwest: How extreme weather is wreaking havoc in the US](https://www.firstpost.com/explainers/heatwave-scorches-east-as-floods-devastate-midwest-how-extreme-weather-is-wreaking-havoc-in-the-us-13785539.html)
@@ -4043,8 +4057,11 @@ Dasari Gopikrishna, a 32-year-old Indian student from Andhra Pradesh, tragically
 Mon, 24 Jun 2024 09:58:41 +0530
 ### [PDF of question paper, solver gang, and more… What probe in NEET-UG exam leak reveals so far](https://www.firstpost.com/explainers/pdf-question-paper-solver-gang-probe-neet-ug-exam-leak-cbi-bihar-police-13785465.html)
 
-Article found but Couldn't summarize 
-The probe into the alleged irregularities in the NEET-UG exam continues with the CBI now taking over. Earlier, Bihar Police’s officials arrested five people, of which one is believed to be the mastermind behind the exam leak. Authorities say he received a PDF of the solved question paper a day before the exam
+The NEET-UG exam scandal involving alleged irregularities and a high number of perfect scores is now under investigation by the CBI. Bihar Police initially arrested five individuals, including one believed to be a key orchestrator of the leak. 
+
+Investigations revealed that the mastermind received a solved question paper PDF a day prior to the exam and distributed printed copies to candidates through a hidden location using secure transportation and drop-off points.  Burnt question paper fragments found at the distribution site matched the original exam paper, indicating a distribution-level breach.
+
+Further inquiries focused on the involvement of Blue Dart couriers and SBI branch in Hazaribagh, which handled the question paper transportation and storage, suggesting potential procedural lapses.
 
 Mon, 24 Jun 2024 09:41:05 +0530
 ### [Why world's biggest bond investors are set to bet big on India](https://www.firstpost.com/explainers/india-bond-market-jpmorgan-investment-global-investors-13785437.html)
@@ -4058,14 +4075,14 @@ The Indian bond market is considered a diversification tool, as Indian bonds hav
 Mon, 24 Jun 2024 08:57:45 +0530
 ### [How corporate America is battling the rise of ‘keyboard frauds’](https://www.firstpost.com/explainers/corporate-america-battling-keyboard-frauds-13784080.html)
 
-Article found but Couldn't summarize 
-Employees turn to several methods including ‘keyboard fraud’ as they fight productivity-obsessed corporate American work culture. They outsmart management into thinking that they are doing the job. But some have been caught and even fired
+Some Wells Fargo employees were recently fired for using "mouse jigglers" to simulate keyboard activity and appear productive during work hours. This practice, known as "keyboard fraud," highlights the growing debate surrounding employee monitoring  in corporate America. 
+
+Employees use tools like mouse jigglers and software to circumvent systems that track active screen time and mouse movement, leading to what some call "productivity theater."  Experts warn that such surveillance can backfire, potentially leading to decreased employee morale and trust. They argue that focusing on meaningful productivity and human connection is more effective than relying solely on metrics.
 
 Mon, 24 Jun 2024 06:00:13 +0530
 ### [FirstUp: First session of 18th Lok Sabha, Andhra Cabinet meeting… News today](https://www.firstpost.com/explainers/firstup-18th-lok-sabha-first-session-andhra-pradesh-cabinet-meeting-news-today-13785024.html)
 
-Article found but Couldn't summarize 
-The first session of the 18th Lok Sabha will begin today, and the newly elected members will also take the oath. The first Cabinet meeting of the new NDA government in Andhra Pradesh is also scheduled. The Indigenous Tribal Leaders' Forum members will stage non-violent demonstrations to press for its demand for a Union Territory for the Kuki-Zo people of Manipur
+The first session of the 18th Lok Sabha commences today, with newly elected members taking the oath on June 24-25 and the Speaker's election scheduled for June 26.  Simultaneously, the first Cabinet meeting of the new NDA government in Andhra Pradesh, led by CM N Chandrababu Naidu, takes place.  The Indigenous Tribal Leaders' Forum (ITLF) in Manipur will hold non-violent protests demanding a Union territory for the Kuki-Zo people.
 
 Sun, 23 Jun 2024 14:33:16 +0530
 ### [Love lost: Can romantic breakups spark severe trauma?](https://www.firstpost.com/explainers/romantic-breakups-severe-trauma-13783624.html)
@@ -4075,14 +4092,17 @@ Emerging adults (aged 18-25) often experience significant distress after romanti
 Sun, 23 Jun 2024 10:29:17 +0530
 ### [39 years since Air India Kanishka bombing: What happened and why are India-Canada divided over it?](https://www.firstpost.com/explainers/air-india-kanishka-bombing-what-happened-india-canada-divided-13784756.html)
 
-Article found but Couldn't summarize 
-India and Canada are observing the anniversary of the Kanishka bombing, one of the most heinous terror-related air disasters in civil aviation history. The Montreal-New Delhi Air India 'Kanishka' Flight 182 exploded 45 minutes before its scheduled landing at London's Heathrow Airport on 23 June 1985, resulting in the deaths of all 329 people on board, the majority of whom were Canadians of Indian descent
+The 39th anniversary of the Air India Flight 182 bombing, a devastating act of terrorism that killed all 329 people on board, was observed in June 2024.  The Boeing 747, en route from Montreal to Delhi with a stopover in London, exploded over the Atlantic Ocean.  The bombing, orchestrated by Sikh extremists seeking revenge for the Indian army's 1984 assault on the Golden Temple, was a highly coordinated attack, with a second bomb exploding prematurely at Tokyo's Narita Airport.
+
+The investigation, which spanned nearly two decades, identified key suspects, including Talwinder Singh Parmar, the suspected mastermind, and Inderjit Singh Reyat, who was involved in building the bombs. Several controversial trials and a public inquiry followed, highlighting intelligence failures and security lapses that allowed the attack to occur.  
+
+
+The bombing prompted significant changes in aviation security worldwide, leading to stricter screening procedures and advanced explosive detection technology.  Memorials honor the victims, and the event continues to be a sensitive topic, with ongoing discussions about justice and the legacy of terrorism.
 
 Sun, 23 Jun 2024 10:04:59 +0530
 ### [This Week in Explainers: Kim Jong Un, Vladimir Putin and the deal that made headlines around the world](https://www.firstpost.com/explainers/this-week-in-explainers-kim-jong-un-vladimir-putin-and-the-deal-that-made-headlines-around-the-world-13784859.html)
 
-Article found but Couldn't summarize 
-North Korea’s Kim Jong Un and Russia’s Vladimir Putin shared an embrace and signed a deal that made many sit up and take notice. The relationship between India and Canada continues to remain strained after its Parliament held a moment of silence to mark the one-year death anniversary of Khalistani terrorist Hardeep Singh Nijjar. All this and more in our weekly roundup of world news
+This week saw the solidifying of North Korea and Russia’s alliance, as Kim Jong Un and Vladimir Putin met and signed a defense pact promising mutual assistance in case of aggression. Tensions remain high between India and Canada following Canada's Parliament's moment of silence commemorating Khalistani terrorist Hardeep Singh Nijjar, which prompted India to announce a memorial for victims of the 1984 Kanishka bombing.  A death in Italy sparked concerns about migrant worker exploitation after an Indian farm worker was allegedly left for dead by his boss, highlighting appalling working conditions. Nikhil Gupta, accused of plotting the murder of Sikh separatist leader Gurpatwant Singh Pannun, has pleaded guilty in a US court. Japan faces a surge in fatal Streptococcal Toxic Shock Syndrome (STSS) cases, while Greece experiences a rise in deaths and disappearances of tourists amid extreme heat. US Customs and Border Protection has been confiscating luxury items from Indian travelers, highlighting evolving regulations on what can be brought into the country.
 
 Sat, 22 Jun 2024 18:50:56 +0530
 ### [Anthropic's AI model, Claude 3.5 Sonnet launched. How does it compare to ChatGPT-4o, Gemini?](https://www.firstpost.com/explainers/anthropics-ai-claude-3-5-sonnet-vs-chatgpt-4o-vs-gemini-13785087.html)
@@ -4097,8 +4117,11 @@ Suborno Bari, a 12-year-old prodigy from Lynbrook, New York, is set to graduate 
 Sat, 22 Jun 2024 17:23:20 +0530
 ### [All that glitters is not gold: How the rich and famous Hinduja family ended up in Swiss court](https://www.firstpost.com/explainers/how-the-rich-and-famous-hinduja-family-ended-up-in-swiss-court-13785010.html)
 
-Article found but Couldn't summarize 
-What makes Hindujas different from other billionaire families is its century-old legacy. While the family is known for sticking together and building a strong empire, it is not free from controversies
+The Hinduja family, one of the UK's wealthiest, has been sentenced to prison terms in Switzerland for exploiting Indian servants at their Geneva mansion.  Prakash and Kamal Hinduja received four years and six months each, while their son Ajay and his wife, Namrata, received four-year sentences.  
+
+The family denied the allegations of human trafficking and providing inhumane conditions, claiming the staff were free to leave and received ample benefits. They settled with the three victims who brought the case but prosecutors pursued charges based on the severity of the situation.
+
+The Hindujas plan to appeal the verdict, stating their presumption of innocence and emphasizing the plaintiffs' withdrawal of complaints.
 
 Sat, 22 Jun 2024 14:46:58 +0530
 ### [Why Centre and Opposition are sparring over pro-tem Speaker choice](https://www.firstpost.com/explainers/centre-opposition-pro-tem-speaker-controversy-13784982.html)
@@ -4117,8 +4140,11 @@ The CSIR UGC-NET exam has been postponed due to concerns about a potential paper
 Sat, 22 Jun 2024 11:05:23 +0530
 ### [This Week in Explainers: Why NTA is facing heat over NEET, NET paper leaks](https://www.firstpost.com/explainers/this-week-in-explainers-why-nta-is-facing-heat-over-neet-net-paper-leaks-13784755.html)
 
-Article found but Couldn't summarize 
-The National Testing Agency (NTA) has come under scanner over the paper leak cases involving two entrance-level examinations – NEET-UG and UGC-NET. While the NET test has been cancelled, similar calls are being raised for the medical entrance exam. Here’s all about this row and more in our weekly round-up of explainers from India
+This week saw controversy engulf India over alleged paper leaks in  NEET-UG and UGC-NET entrance exams, with the latter ultimately cancelled. The NEET-UG exam results also sparked controversy due to the  awarding of grace marks and  merit fluctuations.  
+
+A tragic train collision in West Bengal resulted in multiple deaths, renewing concerns about railway safety and the lack of deployment of Kavach, an anti-collision system.  Delhi Chief Minister Arvind Kejriwal's brief release from jail in the Delhi excise policy case was  stayed by the Delhi High Court pending further proceedings. 
+
+On a brighter note,  India received approval for a new major port in Maharashtra,  while experts raised concerns about the impact of Delhi's record-high nighttime temperatures. A high-profile hit-and-run incident in Chennai involving the daughter of a Rajya Sabha MP also made headlines.
 
 Sat, 22 Jun 2024 09:09:22 +0530
 ### [Sheikh Hasina is the first guest on State visit in PM’s third term: What can we expect?](https://www.firstpost.com/explainers/sheikh-hasina-second-trip-to-india-in-two-weeks-heres-why-it-matters-13784417.html)
@@ -4175,8 +4201,9 @@ Experts attribute the increased frequency and intensity of heatwaves to climate 
 Fri, 21 Jun 2024 16:43:48 +0530
 ### [Why are Kuno's cheetah trackers on strike?](https://www.firstpost.com/explainers/kuno-cheetah-trackers-strike-13784707.html)
 
-Article found but Couldn't summarize 
-About 30 villagers, who were employed to track and monitor cheetahs 24x7 at Madhya Pradesh’s Kuno National Park, have gone on strike. They refuse to kill domestic animals like goats to feed the cats and say they are paid very little for their exhausting work
+About 30 cheetah trackers at Madhya Pradesh's Kuno National Park have gone on strike, citing both religious and financial concerns. They refuse to kill goats and buffaloes to feed the cheetahs, as it conflicts with their beliefs. They also demand better pay, highlighting the challenging and sometimes dangerous nature of their work, which includes tracking cheetahs 24/7. 
+
+The strike has temporarily disrupted cheetah monitoring efforts, but officials believe the existing staff can manage for now. Kuno National Park officials are exploring alternatives to address the trackers' concerns, including sourcing pre-cut meat from authorized vendors.
 
 Fri, 21 Jun 2024 16:26:34 +0530
 ### [Explained: How heat affects your smartphone and how to keep it safe](https://www.firstpost.com/explainers/how-heat-affects-your-smartphone-and-how-to-keep-it-safe-13784430.html)
@@ -4197,20 +4224,25 @@ Margot Friedlander, a Holocaust survivor born in 1921, began writing about her e
 Fri, 21 Jun 2024 14:29:49 +0530
 ### [How Indian farm worker's death in Italy exposes ruthless exploitation of migrants](https://www.firstpost.com/explainers/how-indian-farm-workers-death-in-italy-exposes-ruthless-exploitation-of-migrants-13784705.html)
 
-Article found but Couldn't summarize 
-Satnam Singh died two days after his arm was severed by heavy machinery. He was reportedly left for dead by his boss on the side of the road near his home in Italy’s Latina. Experts say thousands of Indian migrants work on farms in that region alone and that 400,000 agricultural workers in Italy are at risk of exploitation – most of them Indians
+The tragic death of Indian migrant worker Satnam Singh in Italy after a workplace accident has highlighted the exploitation faced by many migrant workers in the country. 
+
+Singh, who was reportedly working illegally, sustained severe injuries from a machine while working in a melon greenhouse. His boss allegedly left him and his wife with his severed arm in a fruit box for an hour and a half before seeking medical help. He died in a hospital two days later. 
+
+The incident brought attention to the "caporalato" system, a prevalent illegal gangmaster system where migrant workers are paid extremely low wages, forced to live in squalid conditions, and face physical and psychological abuse. Experts estimate that over 400,000 agricultural workers in Italy are at risk of exploitation, with most being Indians. 
+
+The Italian government has promised to combat exploitation, but activists and labor groups continue to call for stronger action to protect these vulnerable workers.
 
 Fri, 21 Jun 2024 14:06:58 +0530
 ### [In Graphics: Gurus who spread yoga to the world](https://www.firstpost.com/explainers/in-graphics-gurus-who-spread-yoga-to-the-world-13784685.html)
 
-Article found but Couldn't summarize 
-The international community is celebrating the 10th Yoga Day on 21 June, with enthusiasts displaying their skills and performing various asanas. As the world marks the event, let’s remember the gurus who helped popularise modern yoga beyond India
+The world celebrates the 10th International Day of Yoga on June 21st. Yoga enthusiasts are practicing various asanas to mark the occasion, recognizing yoga's benefits for both physical and mental health. 
+
+Prime Minister Narendra Modi played a key role in promoting yoga globally, leading to the UN's resolution in 2014 declaring June 21st as International Yoga Day.  As the world celebrates this milestone, the contributions of famous yoga gurus who helped popularize yoga beyond India are acknowledged.
 
 Fri, 21 Jun 2024 14:00:04 +0530
 ### [Thousands die during Hajj this year: Who is to blame?](https://www.firstpost.com/explainers/hajj-deaths-this-year-who-is-to-blame-13784684.html)
 
-Article found but Couldn't summarize 
-More than 1,000 pilgrims have died during the Hajj this week. About half of the pilgrims who started the journey last Friday, are unregistered. Overcrowding and extreme heat are the major reasons behind the swelling number of fatalities
+Over 1,000 pilgrims died during this year's Hajj pilgrimage to Mecca, Saudi Arabia. Extreme heat with temperatures reaching 49 degrees Celsius (120 degrees Fahrenheit) and overcrowding are cited as major factors contributing to the fatalities.  Many of the deaths were attributed to heatstroke, with vulnerable groups like the elderly and those with pre-existing conditions being particularly affected. Overcrowding, a recurring issue during the Hajj, exacerbated the situation, making it difficult to provide timely medical assistance. This year’s tragedy highlights the increasing risks posed by climate change to large gatherings like the Hajj, emphasizing the need for adaptation measures to ensure pilgrim safety.
 
 Fri, 21 Jun 2024 13:32:43 +0530
 ### [Explained: How every dispute in the South China Sea fits into Beijing's hegemonic ambitions](https://www.firstpost.com/explainers/explained-how-every-dispute-in-the-south-china-sea-fits-into-beijings-hegemonic-ambitions-13784637.html)
@@ -4268,14 +4300,18 @@ The venue of Srinagar for the 10th International Day of Yoga carries political s
 Fri, 21 Jun 2024 06:30:28 +0530
 ### [FirstUp: PM Modi to lead International Yoga Day celebrations, Sheikh Hasina in India... today's big headlines](https://www.firstpost.com/explainers/firstup-pm-modi-to-lead-international-yoga-day-celebrations-sheikh-hasina-in-india-todays-big-headlines-13784364.html)
 
-Article found but Couldn't summarize 
-Prime Minister Narendra Modi will lead International Yoga Day celebrations in Srinagar. Bangladesh's Sheikh is on a two-day state visit to India. Congress will hold nationwide protests over controversies surrounding the NEET-UG exams
+This Friday is set to be a busy day with several significant events taking place. Prime Minister Narendra Modi is in Srinagar where he will lead International Yoga Day celebrations on the banks of Dal Lake. 
+
+Bangladesh's Prime Minister Sheikh Hasina begins a two-day state visit to India, meeting with key officials including Prime Minister Modi, President Murmu, and Vice President Dhankhar. 
+
+Meanwhile, the Congress party will hold nationwide protests over controversies surrounding the NEET-UG exams, including allegations of question paper leaks and irregularities. In Delhi, Minister Atishi will begin an indefinite fast concerning the ongoing water crisis. The UN Security Council will review the situation in Afghanistan, prompted by a report highlighting widespread violence against women under Taliban rule.
 
 Thu, 20 Jun 2024 21:32:24 +0530
 ### [Mark Rutte will be next NATO chief: Who is outgoing Dutch PM?](https://www.firstpost.com/explainers/mark-rutte-will-be-next-nato-chief-who-is-outgoing-dutch-pm-13784466.html)
 
-Article found but Couldn't summarize 
-Mark Rutte, who has been in office since 2010, is the Netherlands’ longest-serving prime minister. Known as a consensus builder who has helmed multiple coalition governments, Rutte is a fierce advocate of Ukraine and a strong critic of Vladimir Putin
+Mark Rutte, the Netherlands' longest-serving prime minister, has been elected as the next NATO chief.  Rutte, known for his consensus-building skills and strong stance on supporting Ukraine, led the Netherlands for over a decade, navigating complex political and economic challenges. He has been a vocal critic of Vladimir Putin and significantly increased defense spending in light of Russia's invasion of Ukraine. 
+
+Rutte's appointment is seen as a show of unity for NATO, particularly as the alliance celebrates its 75th anniversary. His leadership comes at a crucial time, as NATO faces ongoing security threats and navigating the unpredictable geopolitical landscape.
 
 Thu, 20 Jun 2024 20:31:48 +0530
 ### [A class question: Why some groups are more at risk from heatwaves than others](https://www.firstpost.com/explainers/a-class-question-why-some-groups-are-more-at-risk-from-heatwaves-than-others-13784319.html)
@@ -4290,8 +4326,11 @@ Africa is experiencing an exodus of high-net-worth individuals (HNWIs) and gold,
 Thu, 20 Jun 2024 17:57:47 +0530
 ### [What is Rahul Gandhi’s new ‘White T-shirt campaign’ all about?](https://www.firstpost.com/explainers/rahul-gandhi-white-t-shirt-campaign-13784328.html)
 
-Article found but Couldn't summarize 
-Congress MP Rahul Gandhi launched a ‘White T-shirt’ campaign on his 54th birthday on Wednesday, 19 June, revealing that the colour ‘symbolises transparency, solidity, simplicity for me’. It is grabbing eyeballs as he calls on supporters to wear the simple tee in the backdrop of protests over the NEET, NET row
+Rahul Gandhi launched a "White T-shirt" campaign on his 54th birthday, symbolizing transparency, solidity, and simplicity. He encouraged supporters to wear white T-shirts and share videos explaining the significance of these values in their lives. 
+
+The campaign coincides with student protests over alleged irregularities in the NEET and UGC-NET exams. The Congress aims to mobilize young voters through this initiative, associating the white T-shirt with peace and progress, contrasting it with the BJP's "saffron" campaign. Gandhi also criticized Prime Minister Modi for failing to address paper leaks in India's education system.  
+
+Currently, the NTA is investigating allegations of question paper leaks in the NEET-UG and UGC-NET exams, with some arrests already made in the NEET case.
 
 Thu, 20 Jun 2024 16:40:01 +0530
 ### [NEET questions leaked: Will arrested aspirants be punished under new anti-paper leak law?](https://www.firstpost.com/explainers/neet-questions-leaked-will-arrested-aspirants-be-punished-under-new-anti-paper-leak-law-13784347.html)
@@ -4311,8 +4350,9 @@ As for the cancelled UGC-NET exam, education ministry officials stated that a fr
 Thu, 20 Jun 2024 16:12:57 +0530
 ### [After testicles, microplastics found in penises: Can it cause erectile dysfunction?](https://www.firstpost.com/health/after-testicles-microplastics-found-in-penises-can-it-cause-erectile-dysfunction-13784252.html)
 
-Article found but Couldn't summarize 
-In a first-of-its-kind study, scientists have discovered microplastics in the human penis. The study found microplastics in five out of six penile tissue samples, raising concerns about the impact on male sexual health
+A groundbreaking study published in the International Journal of Impotence Research found microplastics in the penile tissue of five out of six men who underwent surgery for erectile dysfunction. The microplastics discovered, including polyethylene terephthalate and polypropylene, were as small as two micrometres. 
+
+Researchers believe the penis's high blood flow, particularly during erections, may make it susceptible to accumulating microplastics. While the study's small sample size requires further research, it raises concerns about the potential impact of microplastic contamination on male reproductive health, particularly erectile dysfunction.
 
 Thu, 20 Jun 2024 15:17:22 +0530
 ### [Originals Only: Why travelling to the US with fake brands could land you in trouble](https://www.firstpost.com/explainers/us-customs-rules-fake-brands-13784286.html)
@@ -4369,26 +4409,30 @@ Modi's visit comes amid heightened security following recent terrorist attacks i
 Thu, 20 Jun 2024 10:22:31 +0530
 ### [Kim and Putin sign defence pact: Here’s what we know and what we don’t](https://www.firstpost.com/explainers/north-korean-russia-defence-pact-13784205.html)
 
-Article found but Couldn't summarize 
-Russian president Vladimir Putin signed a deal with North Korean leader Kim Jong Un that included a mutual defence pact. Neither side has released the text of the agreement but the West worried already
+The joint agreement signed by Russian President Vladimir Putin and North Korean leader Kim Jong Un creates a mutual defence pact, raising concerns globally.  
+
+The pact's details remain unclear, but raises questions about the definition of "aggression" and the types of assistance promised.  Both nations have historically used the term broadly, potentially encompassing military drills or criticism of domestic policies. The agreement also formalizes suspected military and technological cooperation, with Russia potentially receiving North Korean weapons and sharing technology that could advance Pyongyang's nuclear capabilities. 
+
+The pact aims to boost economic ties, offering North Korea a way to circumvent international sanctions. This could see Russia acquire North Korean labor and raw materials, while North Korea remits rubles to dollars or euros, creating a crucial source of hard currency.
 
 Thu, 20 Jun 2024 06:30:24 +0530
 ### [FirstUp: PM Modi to flag off Vande Bharat trains, EAM Jaishankar to visit Sri Lanka... today's big events](https://www.firstpost.com/explainers/firstup-pm-modi-to-flag-off-vande-bharat-trains-eam-jaishankar-to-visit-sri-lanka-todays-big-events-13784007.html)
 
-Article found but Couldn't summarize 
-Prime Minister Narendra Modi will flag off two Vande Bharat trains in Tamil Nadu and Karnataka. External Affairs Minister S Jaishankar is visiting Sri Lanka. Finance Minister Nirmala Sitharaman is set to hold a pre-Budget meeting with industry and farmers' groups
+Today is a busy day for Indian government officials. Prime Minister Narendra Modi will inaugurate two Vande Bharat Express trains, one between Chennai Egmore and Nagercoil, and the other between Madurai and Bengaluru.  He will also dedicate several railway infrastructure projects in Chennai. External Affairs Minister S Jaishankar will travel to Sri Lanka for his first bilateral visit since his second term began. Finance Minister Nirmala Sitharaman will hold a pre-Budget meeting with industry leaders, farmers' associations, and state finance ministers.
 
 Wed, 19 Jun 2024 20:54:19 +0530
 ### [In Graphics l How is the Speaker to the Lok Sabha elected?](https://www.firstpost.com/explainers/in-graphics-l-how-is-the-speaker-to-the-lok-sabha-elected-13784037.html)
 
-Article found but Couldn't summarize 
-With Prime Minister Narendra Modi set to propose the name of the Lok Sabha Speaker on 25 June, speculation is rife about who will get the coveted post. BJP's Andhra Pradesh president Daggubati Purandeswari, TDP MP GM Harish Balayogi and seven-term BJP MP Bhratruhari Mahtab are thought to be in the running, while current Lok Sabha Speaker Om Birla is eyeing another term. But how is the Speaker elected? Why is the post important?
+The election for the Lok Sabha Speaker is scheduled for June 26, with Prime Minister Modi expected to propose a candidate on June 25. Several names are being considered, including BJP's Daggubati Purandeswari, GM Harish Balayogi, and Bhratruhari Mahtab, as well as incumbent Speaker Om Birla.  
+
+The Opposition may also put forth a candidate, particularly if they are again excluded from the deputy Speaker role. The deputy Speaker position has been vacant since the previous Lok Sabha.  K Suresh from the Congress will serve as Speaker pro-tem.  The Speaker plays a crucial role in parliamentary proceedings, maintaining order and ensuring fair debate.
 
 Wed, 19 Jun 2024 20:19:02 +0530
 ### [What’s behind Delhi heatwave which has left five dead? Is relief in sight?](https://www.firstpost.com/explainers/whats-behind-delhi-heatwave-which-has-left-five-dead-is-relief-in-sight-13784085.html)
 
-Article found but Couldn't summarize 
-Five people have died in the past 48 hours in the National Capital and dozens have been admitted to hospital with complaints of heat stroke and exhaustion. Experts say dry and warm westerly winds from Rajasthan and southern Haryana are to blame for the brutal heatwave in the city. Though Delhi could receive pre-monsoon showers over the next few days, real relief will only come with the Monsoon, which will arrive around 30 June
+Delhi is experiencing a severe heatwave with five deaths reported in the last 48 hours due to heatstroke and exhaustion.  Hospitals are seeing a surge in patients suffering from heat-related illnesses.
+
+Experts attribute the extreme temperatures to dry, warm winds from Rajasthan and Haryana, exacerbated by a lack of thundershowers. While Delhi might receive some relief from pre-monsoon showers in the coming days, the real respite is expected only with the arrival of the monsoon around June 30th.
 
 Wed, 19 Jun 2024 17:42:36 +0530
 ### [Tourists in Greece keep disappearing and turning up dead. Is extreme heat the reason?](https://www.firstpost.com/explainers/tourists-in-greece-keep-disappearing-and-turning-up-dead-is-extreme-heat-the-reason-13784019.html)
