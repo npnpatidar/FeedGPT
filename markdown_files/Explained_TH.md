@@ -1,3 +1,10 @@
+Mon, 19 Aug 2024 22:50:09 +0530
+### [A change in India’s power export rules | Explained](https://www.thehindu.com/news/national/a-change-in-indias-power-export-rules-explained/article68544254.ece)
+
+India recently amended its power export rules, allowing exporters to reroute electricity to its domestic grid if there are payment delays from partner countries. This amendment comes amidst concerns over delayed payments from Bangladesh, the primary recipient of power from Adani Power's Godda plant in Jharkhand.  India's first transnational power project, Adani Power supplies 1,496 MW to Bangladesh under a 25-year Power Purchase Agreement (PPA). 
+
+However, Bangladesh faces overcapacity issues and power constraints due to fuel and gas shortages. Despite this, delays in payments from the Bangladesh Power Development Board (BPDB) to Adani Power have been a recurring issue. Experts believe the regulatory change provides flexibility to power exporters and mitigates risks associated with external market instability.
+
 Mon, 19 Aug 2024 14:18:43 +0530
 ### [Promises kept: Have newly sworn-in Prime Ministers fulfilled their Independence Day promises?](https://www.thehindu.com/news/national/promises-kept-have-newly-sworn-in-prime-ministers-fulfilled-their-independence-day-promises/article68534298.ece)
 

@@ -3115,12 +3115,20 @@ France's upcoming elections have both far-right and far-left candidates promisin
 Sat, 29 Jun 2024 08:10:26 +0000
 ### [What kind of car insurance can protect against flood damages?](https://indianexpress.com/article/explained/explained-economics/car-insurance-against-flood-damages-9422385/)
 
-Article found but Couldn't summarize
+Heavy rainfall in Delhi, the highest in 88 years, caused widespread flooding, leading to damage to vehicles.  
+
+Water damage to cars can result in engine failure, electrical system problems, rust, and interior damage. Comprehensive car insurance policies generally cover flood-related damage, subject to depreciation on certain parts.  
+
+However, insurers may refuse reimbursement if the driver intentionally started a waterlogged engine, leading to hydrostatic lock and subsequent engine failure. 
+
+To mitigate risks associated with heavy rainfall, it is advisable to opt for add-on covers such as zero depreciation, engine protection, and consumables cover while purchasing car insurance.
 
 Sat, 29 Jun 2024 02:30:28 +0000
 ### [Trump vs Who? Here’re some who could replace Joe Biden on the Democratic ticket](https://indianexpress.com/article/explained/explained-global/democratic-contenders-replace-biden-9421563/)
 
-Article found but Couldn't summarize
+US President Joe Biden announced his withdrawal from the presidential race following concerns about his age and performance in the debate against Donald Trump.  The Democratic party now faces the challenge of finding a suitable replacement.  
+
+Several potential candidates are being discussed. Vice President Kamala Harris, despite low approval ratings, is a frontrunner. Michigan Governor Gretchen Whitmer, California Governor Gavin Newsom, Illinois Governor J.B. Pritzker, Pennsylvania Governor Josh Shapiro, and former presidential challenger Dean Phillips are also mentioned as possible alternatives.
 
 Sat, 29 Jun 2024 01:00:16 +0000
 ### [Explained: The story of the Emergency](https://indianexpress.com/article/explained/explained-history/explained-the-story-of-the-emergency-9421688/)
@@ -3328,7 +3336,9 @@ The article explores the increasing popularity of pets globally, noting rising o
 Wed, 26 Jun 2024 14:49:18 +0000
 ### [France elections: What is cohabitation?](https://indianexpress.com/article/explained/explained-global/france-elections-cohabitation-9417009/)
 
-Article found but Couldn't summarize
+France is gearing up for parliamentary elections, which, for the first time in 22 years, could lead to cohabitation – a scenario where the President and Prime Minister are from opposing parties.  This semi-presidential system, established in 1958, divides power between the President, who leads on foreign and defense policy, and the Prime Minister, who heads the government and handles domestic affairs. Cohabitation is rare, with only three instances in the Fifth Republic, each marked by tension and political gridlock.  
+
+Upcoming elections are projected to result in a hung parliament, potentially requiring President Emmanuel Macron to appoint a Prime Minister from a rival party. This situation resembles previous instances of cohabitation, raising questions about the potential for cooperation and governance challenges ahead.
 
 Wed, 26 Jun 2024 13:15:22 +0000
 ### [Frank Duckworth dies: How his DLS method works](https://indianexpress.com/article/explained/explained-sports/frank-duckworth-dls-method-cricket-9416774/)
@@ -3358,12 +3368,16 @@ High temperatures and electricity demand in Delhi have led to frequent power cut
 Wed, 26 Jun 2024 01:35:38 +0000
 ### [Why the success of China’s sample return lunar mission matters](https://indianexpress.com/article/explained/explained-sci-tech/why-the-success-of-chinas-sample-return-lunar-mission-matters-9415088/)
 
-Article found but Couldn't summarize
+China's Chang'e-6 mission successfully returned samples from the far side of the Moon, a first in history.  The lander collected rocks and soil from the South Pole-Aitken basin, a huge crater, and transferred them to an orbiter for return to Earth.  This achievement is significant because the far side of the Moon presents challenges for communication and landing. 
+
+The samples will be analyzed by scientists using advanced laboratory instruments, providing valuable insights into the Moon's history, geology, and potential resources. This mission also paves the way for future lunar exploration, including the planned crewed missions.
 
 Tue, 25 Jun 2024 15:27:01 +0000
 ### [Amit Shah says Rajiv Gandhi took pride in the Emergency. What exactly did the former PM say in Lok Sabha on July 23, 1985?](https://indianexpress.com/article/explained/explained-history/amit-shah-rajiv-gandhi-emergency-9414828/)
 
-Article found but Couldn't summarize
+Marking the Emergency's anniversary, Amit Shah criticized the Congress party, alleging it had suppressed the Constitution to maintain power and cited an instance where Rajiv Gandhi defended the emergency. 
+
+He pointed to a 1985 Lok Sabha debate where Rajiv Gandhi stated that Indira Gandhi's decision to impose the Emergency was "correct" and that he himself wouldn't hesitate to do the same if the circumstances demanded.  Shah further highlighted Rajiv Gandhi's argument that if a Prime Minister feels an Emergency is necessary and doesn't implement it, they are unfit to lead.
 
 Tue, 25 Jun 2024 15:23:38 +0000
 ### [ICC issues arrest warrants for Russian defence leaders: What does it effectively mean?](https://indianexpress.com/article/explained/explained-global/icc-warrant-russia-shoigu-gerasimov-9414806/)
@@ -3378,7 +3392,13 @@ Sucheta Kripalani, India's first woman Chief Minister, was born in 1908 and serv
 Tue, 25 Jun 2024 11:11:30 +0000
 ### [June 23, 1985: When Air India’s Kanishka jumbo jet was blown up in one of the worst terror attacks in history](https://indianexpress.com/article/explained/explained-history/air-india-kanishka-jet-bombing-canada-9414105/)
 
-Article found but Couldn't summarize
+On June 23, 1985, Air India Flight 182 exploded mid-air, killing all 329 people on board, primarily Canadian citizens.  The bombing was attributed to Sikh separatist group Babbar Khalsa seeking revenge for Operation Blue Star in 1984. 
+
+Canadian and Indian investigations pointed to three Canadian citizens: Ripudaman Singh Malik, Ajaib Singh Bagri, and Inderjit Singh Reyat. While Reyat was convicted for supplying bomb parts, Malik and Bagri were acquitted in 2005.
+
+The case was marred by controversy, including the destruction of crucial wiretap recordings by Canadian Security Intelligence Service (CSIS), leading to criticism of the investigation's handling. 
+ 
+ Malik was killed in 2022, and Reyat was released from prison in 2016.
 
 Tue, 25 Jun 2024 10:20:23 +0000
 ### [WikiLeaks’ Julian Assange set to walk free: What is the deal he made with the US govt?](https://indianexpress.com/article/explained/explained-global/wikileaks-julian-assange-free-deal-9413998/)
@@ -3425,7 +3445,9 @@ The law provides for fines of up to Rs 1 crore and prison terms of up to 10 year
 Tue, 25 Jun 2024 01:37:04 +0000
 ### [How Sanjay Gandhi led Emergency-era ‘nasbandi’ campaign](https://indianexpress.com/article/explained/explained-history/sanjay-gandhi-emergency-nasbandi-sterilisation-9412848/)
 
-Article found but Couldn't summarize
+The Emergency in India (1975-1977) saw the controversial mass sterilization campaign, championed by Sanjay Gandhi. Driven by concerns about overpopulation and economic challenges, the government, led by Indira Gandhi, aimed to drastically reduce population growth. Despite initial efforts through awareness campaigns and incentives,   Sanjay Gandhi prioritized ambitious sterilization targets, leading to widespread coercion and human rights violations. 
+
+Local officials pressured individuals into undergoing vasectomies, often threatening job security or escalating to direct force. Estimates suggest millions were sterilized during this period, with the campaign becoming a symbol of the emergency's excesses and contributing significantly to the Congress Party's defeat in the 1977 elections.
 
 Mon, 24 Jun 2024 15:26:22 +0000
 ### [Why Dagestan remains a restive republic in Russia](https://indianexpress.com/article/explained/explained-global/dagestan-restive-russia-9412426/)
@@ -3450,7 +3472,9 @@ The article discusses how climate change-induced extreme weather events are incr
 Mon, 24 Jun 2024 11:09:30 +0000
 ### [Explained: Behind Kerala Assembly’s demand to rename state as Keralam](https://indianexpress.com/article/explained/explained-politics/kerala-assemblys-demand-keralam-rename-9411895/)
 
-Article found but Couldn't summarize
+The Kerala Assembly unanimously passed a resolution requesting the Centre to amend the Constitution and rename the state as "Keralam."  This is the second such resolution in a year, with the previous one needing reintroduction due to technical issues.
+
+The resolution highlights that "Keralam" is the state's name in Malayalam while "Kerala" appears in the Constitution's First Schedule. Chief Minister Pinarayi Vijayan explained the need for the change, stating that it reflects the state's official language and identity.
 
 Mon, 24 Jun 2024 02:20:57 +0000
 ### [18th Lok Sabha session begins today: How do MPs take oath? What happens if an MP is in jail?](https://indianexpress.com/article/explained/oath-taking-in-lok-sabha-9410598/)
@@ -3465,17 +3489,27 @@ The Tajikistan government has formally banned the wearing of the hijab in the co
 Sun, 23 Jun 2024 14:45:52 +0000
 ### [Can Greece’s new six-day workweek be a model for others?](https://indianexpress.com/article/explained/explained-global/greece-six-day-workweek-model-9410305/)
 
-Article found but Couldn't summarize
+New regulations in Greece, effective July 1st, allow certain industrial, manufacturing, and 24/7 service businesses to transition to a six-day workweek.  This change means a 48-hour workweek instead of the previous 40, with the possibility for employees to work more and earn more. The government believes this will simplify administration, reduce probation periods, and address labor shortages by combating undeclared work and offering upskilling opportunities.  
+
+While some sectors like tourism and food service are excluded, this shift contrasts with trends in other European countries exploring shorter workweeks. Greece's move is seen by some as a response to economic challenges, including a shrinking population and a shortage of skilled workers.  Critics argue that it merely adapts to an existing reality of long working hours and doesn't address underlying issues like low wages and a lack of career incentives.
 
 Sun, 23 Jun 2024 13:47:25 +0000
 ### [What is Dodol, the Goan sweet vying for a GI tag?](https://indianexpress.com/article/explained/explained-culture/dodol-goa-gi-tag-history-9410228/)
 
-Article found but Couldn't summarize
+The Goa government has applied for a Geographical Indication (GI) tag for Dodol, a traditional Goan sweet.  
+
+Dodol is made with rice flour, coconut milk, and black palm jaggery, cooked slowly and stirred continuously. It's considered a quintessential part of Goa's culture, often given as gifts during special occasions.
+
+A GI tag will protect Dodol's unique identity and authenticity, standardise its production methods, and potentially facilitate exports. The move follows the successful GI tag registration for another Goan delicacy, Bebinca.
 
 Sun, 23 Jun 2024 11:56:29 +0000
 ### [Recalling 2015, when SC cancelled the medical entrance exam to ‘maintain sanctity and credibility of the process’](https://indianexpress.com/article/explained/medical-entrance-exam-cancel-neet-aipmt-9410028/)
 
-Article found but Couldn't summarize
+The NEET-UG 2023 entrance exam for undergraduate medical courses in India has faced allegations of irregularities, including a potential paper leak. Multiple lawsuits are pending, and the NTA chief has been removed amidst investigations by the CBI. 
+
+The exam results were declared despite a high number (67) of candidates scoring full marks. A re-test for 1,563 candidates who received 'grace marks' due to 'lost time' further fueled public outcry. Education Minister Dharmendra Pradhan asserts that students should not suffer due to isolated incidents. 
+
+The controversy echoes the 2015 cancellation of the AIPMT, the predecessor of NEET-UG, due to a similar paper leak scandal. That instance led to a re-test being conducted within four weeks, emphasizing the need to uphold exam credibility and integrity.
 
 Sun, 23 Jun 2024 10:34:03 +0000
 ### [Explained: What is the GST Council, and what does it do?](https://indianexpress.com/article/explained/everyday-explainers/gst-council-functions-federalism-9409944/)
@@ -3510,12 +3544,19 @@ The article explains the significance of the summer solstice, which is the longe
 Sat, 22 Jun 2024 09:00:59 +0000
 ### [How new sports get included in the Olympics](https://indianexpress.com/article/explained/explained-sports/new-sports-olympics-9408390/)
 
-Article found but Couldn't summarize
+The International Olympic Committee (IOC) is responsible for determining the sports included in the Olympics. A key change introduced in 2014 with Olympic Agenda 2020 allowed organizing committees for specific Olympic Games to propose new sports. 
+
+This resulted in the inclusion of five new sports at the 2021 Tokyo Games, and breaking (breakdancing) will debut at the 2024 Paris Games.  The IOC considers criteria like global appeal, participation, cost, and complexity when selecting sports. 
+
+
+Hosting cities can leverage this opportunity to showcase sports popular in their regions. For example, India is proposing sports like yoga, cricket, and kabaddi for potential inclusion in the 2036 Olympics if Ahmedabad is selected as the host city.
 
 Sat, 22 Jun 2024 07:25:56 +0000
 ### [Can we stop invasive species by eating them?](https://indianexpress.com/article/explained/explained-sci-tech/can-we-stop-invasive-species-by-eating-them-9408264/)
 
-Article found but Couldn't summarize
+Feral hogs are a destructive invasive species in the United States, causing significant environmental and economic damage. Their populations have exploded due to a lack of natural predators and ample food sources provided by agriculture.  
+
+Controlling their numbers is crucial, and killing them is often considered the most effective solution.  In Texas, hunting is actively encouraged, and some restaurants, like Dai Due, feature feral hog meat on their menus, promoting it as a sustainable protein source. The idea of consuming an invasive species can make the act of killing them more palatable for some.  Despite the efforts, controlling feral hog populations remains a challenge due to their rapid reproduction rates.
 
 Sat, 22 Jun 2024 02:30:52 +0000
 ### [What is Claude 3.5 Sonnet and how is it better than GPT-4o, Gemini-1.5   Pro?](https://indianexpress.com/article/explained/explained-sci-tech/claude-3-5-sonnet-9407302/)
@@ -3541,7 +3582,15 @@ The Delhi High Court has stayed the lower court's order granting bail to Delhi C
 Fri, 21 Jun 2024 12:30:31 +0000
 ### [Poonam Pandey’s death hoax, Kendall Jenner’s struggle with acne: What does ‘sadfishing’ mean?](https://indianexpress.com/article/explained/explained-culture/sadfishing-9406876/)
 
-Article found but Couldn't summarize
+The term "sadfishing" describes the online practice of using emotional distress to gain sympathy and attention. Coined in 2019, it originated from observations of celebrities, particularly Kris Jenner, leveraging perceived vulnerability for brand promotions. Studies suggest anxiety, depression, and attention-seeking can drive sadfishing, while individuals with strong social support tend to engage less. 
+
+While some sadfishing is harmless, it can be problematic when blurring the lines between genuine vulnerability and manipulative tactics.  Over-reliance on online platforms for emotional support can hinder individuals from seeking necessary help. 
+
+
+
+
+
+Please let me know if you have any other text you'd like me to summarise!
 
 Fri, 21 Jun 2024 12:06:05 +0000
 ### [‘Scooter’ Braun quits music management: Revisiting his feud with Taylor Swift](https://indianexpress.com/article/explained/explained-culture/scooter-braun-taylor-swift-9406743/)
@@ -3659,7 +3708,11 @@ The campus of Nalanda University was formally inaugurated by Prime Minister Nare
 Thu, 20 Jun 2024 01:10:11 +0000
 ### [Highest minimum temperature: Why Delhi’s warm nights are cause of worry](https://indianexpress.com/article/explained/explained-climate/highest-minimum-temperature-why-delhis-warm-nights-are-cause-of-worry-9403105/)
 
-Article found but Couldn't summarize
+Delhi experienced its hottest minimum temperature in decades, reaching 35.2 degrees Celsius, surpassing the previous record of 34.9 degrees Celsius set in 1972. This follows a pattern of six consecutive warm nights, with temperatures exceeding 40 degrees Celsius during the day.  
+
+The Indian Meteorological Department (IMD) defines a warm night as one where the minimum temperature is 4.5 to 6.4 degrees Celsius above normal, with daytime temperatures of 40 degrees Celsius or more. Experts attribute this to a rain deficit and an 'urban heat island' effect, where concrete surfaces trap heat. 
+       
+ The prolonged high temperatures, particularly the lack of cooling at night, are raising concerns about heatstroke cases.
 
 Wed, 19 Jun 2024 15:14:07 +0000
 ### [What is the controversy around EVMs in the US?](https://indianexpress.com/article/explained/explained-global/evm-controversy-us-9402566/)
@@ -3699,7 +3752,11 @@ The Indian government has proposed a massive infrastructure project on the Great
 Tue, 18 Jun 2024 14:03:32 +0000
 ### [Why is North Korean President Kim Jong Un eager to welcome Vladimir Putin?](https://indianexpress.com/article/explained/explained-global/north-korea-kim-jong-un-putin-russia-9400236/)
 
-Article found but Couldn't summarize
+Vladamir Putin's visit to North Korea aims to strengthen ties between the two countries, both of whom face international isolation. The talks are expected to include economic and military agreements, some of which may be kept secret.  
+
+Kim Jong Un wants to elevate North Korea's international standing by hosting Putin, while Putin seeks to demonstrate Russia's continued global influence despite sanctions and an arrest warrant. While Russia and North Korea deny any illegal cooperation, analysts expect discussions on weapons exchange, space technology, and potential North Korean assistance to Russia's war in Ukraine. In exchange, North Korea may receive Russian natural resources and an agreement for labor deployment to Russia.  
+
+Experts warn that this alignment poses a threat to global security and call for strong international sanctions to deter further cooperation between the two nations.
 
 Tue, 18 Jun 2024 12:10:23 +0000
 ### [Who is the pro-tem Speaker of Lok Sabha and how is an MP chosen for the role?](https://indianexpress.com/article/explained/everyday-explainers/pro-tem-speaker-lok-sabha-9399861/)
@@ -3716,7 +3773,9 @@ The Punjab and Haryana High Court has urged the Centre to intensify efforts in m
 Tue, 18 Jun 2024 02:30:54 +0000
 ### [Elephants have names for each other: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/elephants-names-9398213/)
 
-Article found but Couldn't summarize
+A recent study published in Nature suggests that African elephants use individually specific rumbles as names to address each other. Researchers analyzed recordings of elephant rumbles over many years and found that an AI model could successfully identify the intended recipient of a rumble 27.5% of the time, significantly higher than with random audio.  
+
+Playing back the rumbles to individual elephants showed stronger reactions when they heard rumbles addressed to them.  This indicates a form of direct addressing similar to human language, but unlike some other animals like parrots, elephants do not seem to imitate the calls of the recipient.   The study highlights the advanced intellectual capabilities of elephants and their remarkable similarities to humans in social communication.
 
 Mon, 17 Jun 2024 13:44:59 +0000
 ### [Decline in migration to Gulf, rise in student migration: What the Kerala Migration Survey 2023 says](https://indianexpress.com/article/explained/kerala-mirgation-survey-findings-gulf-9398005/)
@@ -3741,12 +3800,20 @@ At least nine people were killed and 25 others injured in a train collision in W
 Mon, 17 Jun 2024 11:52:01 +0000
 ### [US Supreme Court preserves access to abortion pill: What was the case, and what the court said](https://indianexpress.com/article/explained/explained-law/us-supreme-court-abortion-pill-9397754/)
 
-Article found but Couldn't summarize
+The US Supreme Court unanimously ruled against anti-abortion groups seeking to overturn the FDA's approval of mifepristone, a common abortion pill. The court determined the groups lacked standing to sue as they neither prescribe nor use the drug.  While access to mifepristone is preserved for now, the court left the door open for future attempts to limit its availability.  
+
+The case stemmed from a lawsuit challenging the FDA's approval process and modifications to mifepristone's usage conditions, including expanding access through telemedicine. A lower court judge initially sought to suspend the drug's approval, but this was partially overturned by an appeals court, leading to the Supreme Court's intervention. 
+
+Mifepristone is used in combination with another drug, misoprostol, and is considered safe and effective by studies. The Supreme Court emphasized that plaintiffs must demonstrate a personal stake in a case, which the anti-abortion groups failed to do.
 
 Mon, 17 Jun 2024 10:11:50 +0000
 ### [Nik Gupta extradited to US: His alleged involvement in Pannun ‘assasination’ attempt, chronology of events](https://indianexpress.com/article/explained/nik-gupta-case-against-him-timeline-9397432/)
 
-Article found but Couldn't summarize
+Nikhil ‘Nik’ Gupta, accused by the US of involvement in a plot to murder Sikh separatist Gurpatwant Singh Pannun, has been extradited from the Czech Republic. US prosecutors allege Gupta hired a hitman to kill Pannun, offering a $15,000 advance payment.  Gupta denies the charges, claiming he is "unfairly charged." 
+
+The extradition comes amidst ongoing tensions between India and Canada following Canadian Prime Minister Justin Trudeau's allegations that agents of the Indian government were involved in the killing of Khalistani separatist Hardeep Singh Nijjar on Canadian soil.   
+
+Gupta's case is likely to be discussed during the visit of US National Security Advisor Jake Sullivan to India for the annual iCET dialogue.  Gupta is currently in custody in Brooklyn and his trial is expected to begin soon.
 
 Sun, 16 Jun 2024 15:54:15 +0000
 ### [How Valentina Tereshkova became the first woman in space, on this day in 1963](https://indianexpress.com/article/explained/explained-global/valentina-tereshkova-first-woman-space-9396294/)
@@ -3761,32 +3828,42 @@ The article discusses the recent surge in locally transmitted dengue cases in Eu
 Sun, 16 Jun 2024 11:16:35 +0000
 ### [Why is Father’s Day celebrated on the third Sunday of June?](https://indianexpress.com/article/explained/everyday-explainers/fathers-day-third-sunday-june-history-9395894/)
 
-Article found but Couldn't summarize
+Father's Day, celebrated on the third Sunday of June, was initiated by Sonora Smart Dodd in 1910 as a tribute to her widowed father. Inspired by Mother's Day, Dodd sought to recognize paternal contributions. Early Father's Day observances were met with some resistance,  some viewing the holiday as a commercial gimmick, and a movement for "Parent's Day" gained traction. However, economic factors during the Great Depression and World War II contributed to the widespread acceptance of Father's Day.  In 1972, President Richard Nixon officially recognized it as a national celebration.
 
 Sun, 16 Jun 2024 07:14:48 +0000
 ### [Why direct seeding of rice (DSR) is yet to pick up in Punjab](https://indianexpress.com/article/explained/direct-seeding-rice-punjab-9395604/)
 
-Article found but Couldn't summarize
+Punjab's government is encouraging the adoption of direct seeding of rice (DSR), a technique that reduces water usage and labor requirements. Despite its advantages and incentives offered,  DSR adoption remains low.
+
+One primary obstacle is soil suitability. DSR is most effective on heavy or medium-to-heavy textured soils with sufficient iron content. Light-textured soils and those lacking iron can hinder yields and lead to higher water consumption, negating the water-saving benefits. 
+
+Farmer awareness and understanding are also crucial for DSR's success. Negative experiences due to unsuitability have created apprehension, discouraging wider adoption. Comprehensive farmer education, training, and support, along with potential compensation for initial losses, are seen as key to promoting DSR implementation in Punjab.
 
 Sun, 16 Jun 2024 01:20:33 +0000
 ### [How the Gandhi Sagar Wildlife Sanctuary is being developed as India’s second home for cheetahs](https://indianexpress.com/article/explained/gandhi-sagar-wildlife-sanctuary-being-as-second-home-for-cheetahs-9394736/)
 
-Article found but Couldn't summarize
+The Gandhi Sagar Wildlife Sanctuary in Madhya Pradesh is preparing to become a second home for cheetahs. With a suitable savanna ecosystem, the sanctuary spans 368.62 sq km and boasts a diverse range of potential prey.  
+
+Officials aim to introduce cheetahs to a 64 sq km area, equipped with a boma and a specialized hospital.  A key challenge is ensuring a sufficient prey base to support the cheetahs. To address this, wildlife officials are working to increase the population of ungulates such as chital and blackbuck through translocation efforts. The Chambal River currently divides the sanctuary, with development primarily focused on the Neemuch side to minimize human disturbance. Competing predators, including leopards, also pose a threat, requiring careful monitoring and management.
 
 Sat, 15 Jun 2024 14:17:46 +0000
 ### [How Beethoven’s ‘Ode to Joy’ became the ‘Anthem of Europe’](https://indianexpress.com/article/explained/explained-culture/beethoven-ode-to-joy-anthem-of-europe-9394808/)
 
-Article found but Couldn't summarize
+Ludwing van Beethoven's Ninth Symphony, specifically its "Ode to Joy" finale, serves as the anthem of the European Union.  Chosen in 1972, it reflects the union's values of freedom, peace, and solidarity.  
+
+While Beethoven's piece features lyrics by Friedrich Schiller, the anthem is played instrumentally in the European Parliament.  The selection process involved considering other composers like Händel and Charpentier, but Beethoven's universal message resonated most strongly. The "Ode to Joy"  originally underwent arrangements by Herbert von Karajan, but as his Nazi past became more prominent, other composers were commissioned to create versions for official events.
 
 Sat, 15 Jun 2024 11:52:01 +0000
 ### [Why has New Zealand removed the ‘burp tax’ on livestock?](https://indianexpress.com/article/explained/explained-global/new-zealand-burp-tax-9394619/)
 
-Article found but Couldn't summarize
+New Zealand's center-right government recently removed a tax on livestock greenhouse gas emissions, known as the 'burp tax'.  The tax, implemented by the previous Labour government, aimed to curb methane emissions from ruminant animals like cows and sheep, which contribute significantly to New Zealand's greenhouse gas inventory.  Farmers protested the tax, arguing it would harm their livelihoods. The new government maintains its commitment to climate change targets but seeks alternative methods for reducing methane emissions, focusing on tools and technology that don't negatively impact agricultural production or exports.
 
 Sat, 15 Jun 2024 11:38:05 +0000
 ### [‘Imported’ cricketers: Behind United States’ success in T20 World Cup](https://indianexpress.com/article/explained/explained-sports/imported-cricketers-behind-united-states-success-in-t20-world-cup-9394553/)
 
-Article found but Couldn't summarize
+The US cricket team's surprise qualification for the Super 8s of the T20 World Cup is due in part to a number of players who were born outside the country.  Saurabh Netravalkar, who played for India's under-19 team, secured victory in a super over against Pakistan.  Many of the US team, including captain Monak Patel and all-rounder Harmeet Singh, also began their cricketing careers in other countries.
+
+ICC rules allow players born overseas to represent a new nation after meeting residency requirements. These rules, which vary for associate members like the US, aim to encourage growth in cricketing nations.  While the rules have their critics, with concerns about exploitation of smaller nations and overshadowing local talent, they also provide opportunities for experienced players to contribute to the development of the sport globally.
 
 Sat, 15 Jun 2024 09:31:40 +0000
 ### [Regulation on tourism, push for ‘all inclusive’ government: What happened at this year’s Antarctic Parliament](https://indianexpress.com/article/explained/explained-global/antarctic-parliament-meet-9394309/)
@@ -3806,7 +3883,10 @@ Denmark's food safety authorities have recalled three types of South Korean inst
 Sat, 15 Jun 2024 01:51:26 +0000
 ### [No outcome in Bonn: why money is key to climate action](https://indianexpress.com/article/explained/explained-climate/no-outcome-in-bonn-why-money-is-key-to-climate-action-9393599/)
 
-Article found but Couldn't summarize
+Climate talks in Bonn failed to agree on a new climate finance goal, which must be finalized by COP29 in November.  Developing countries need trillions of dollars annually for climate action, a figure vastly exceeding the current $100 billion target. While developed countries acknowledge the need for a higher amount, they have not yet made a public offer. 
+
+Developing nations have proposed figures ranging from $1 trillion to $1.3 trillion annually.  The current $100 billion target, agreed upon in 2009, is contested by developing countries due to alleged double-counting and accounting irregularities.  
+The new goal, known as the New Collective Quantified Goal (NCQG), is crucial for enabling developing countries to implement climate mitigation and adaptation measures.
 
 Sat, 15 Jun 2024 01:36:44 +0000
 ### [Indian’s foreign policy in Modi 3.0: A look at challenges and opportunities](https://indianexpress.com/article/explained/g7-summit-india-world-in-modi-3-0-9393600/)
@@ -3835,12 +3915,18 @@ The article discusses the recent invocation of stringent UAPA charges against au
 Fri, 14 Jun 2024 14:44:23 +0000
 ### [Why the Centre has extended the Digital Health Incentive Scheme](https://indianexpress.com/article/explained/digital-health-incentive-scheme-extended-9393028/)
 
-Article found but Couldn't summarize
+The Digital Health Incentive Scheme (DHIS) has been extended by a year until June 30, 2025.  The scheme, which launched in January 2023, incentivizes hospitals and digital health companies to digitize patient records and link them with ABHA IDs. 
+
+Under DHIS, facilities earn Rs 20 for each record digitized beyond a threshold, potentially earning up to Rs 4 crore. The extension aims to further promote digital health adoption. The scheme aids hospitals by reimbursing digitization costs, leading to patient benefits like reduced wait times, easy access to records, and avoiding repetitive tests.  
+Around 584 healthcare facilities and 12 digital solution companies have availed the scheme so far, with Rs 34.5 crore disbursed.
 
 Fri, 14 Jun 2024 11:34:06 +0000
 ### [Explained: The case against US journalist Evan Gershkovich, set to stand trial in Russia](https://indianexpress.com/article/explained/explained-global/evan-gershkovich-russia-trial-case-9392701/)
 
-Article found but Couldn't summarize
+US journalist Evan Gershkovich, detained in Russia for over a year on espionage charges, will face trial. Gershkovich, who worked for The Wall Street Journal, was arrested in Yekaterinburg while on a reporting assignment. 
+He denies the accusations, which allege he gathered intelligence on a Russian military facility for the CIA. The US government has condemned the charges as baseless and called for his immediate release. Gershkovich faces up to 20 years in prison if convicted. 
+
+Concerns have been raised about the fairness of the trial and the deteriorating US-Russia relations.  Potential prisoner swaps are being discussed, with Russia suggesting the release of  a Russian national imprisoned in Germany could be part of a deal.
 
 Fri, 14 Jun 2024 07:07:55 +0000
 ### [Explained: The ironic legacy of Che Guevara’s image](https://indianexpress.com/article/explained/everyday-explainers/che-guevara-image-ironic-legacy-9392191/)
@@ -3855,27 +3941,45 @@ The National Testing Agency (NTA) will re-conduct the National Eligibility cum E
 Fri, 14 Jun 2024 02:45:44 +0000
 ### [Red Fort case: What are the standards for awarding death sentence, the President’s ‘mercy’ power](https://indianexpress.com/article/explained/explained-law/red-fort-case-standards-for-awarding-death-presidents-mercy-power-9391493/)
 
-Article found but Couldn't summarize
+The President of India has confirmed the death sentence of Pakistani national Mohammed Arif for his role in the 2000 terrorist attack on the Red Fort. Arif had exhausted all legal options, including appeals to the Delhi High Court and Supreme Court.  
+
+The Supreme Court had previously upheld the death sentence, deeming the attack an "undeclared war" and satisfying the "rarest of rare" criteria for capital punishment. Arif's petition for clemency was rejected by the President, but he may still challenge this decision in court.
 
 Fri, 14 Jun 2024 02:30:03 +0000
 ### [What vegetarianism means in India](https://indianexpress.com/article/explained/explained-economics/what-vegetarianism-means-in-india-9391436/)
 
-Article found but Couldn't summarize
+The article explores the reality of vegetarianism in India, highlighting that the true definition leans more towards lacto-vegetarianism.  Data shows that spending on milk and dairy products often surpasses that of vegetables, fruits, and pulses, both in rural and urban areas. This trend is consistent across various states, including traditionally vegetarian regions like Rajasthan and Gujarat.  
+
+The article attributes this to nutritional considerations, as milk provides a complete protein source, unlike plant-based options. Mahatma Gandhi, known for his advocacy of vegetarianism, also acknowledged the nutritional value of milk and wished for a suitable vegetal alternative. The study concludes that "vegetarianism" in India is largely defined by milk consumption rather than strict adherence to a purely plant-based diet.
 
 Fri, 14 Jun 2024 00:55:47 +0000
 ### [Explained: All about Kavli Prize, mirroring Nobel in fields of astrophysics, neuroscience, and nanoscience](https://indianexpress.com/article/explained/explained-sci-tech/explained-kavli-prize-9391030/)
 
-Article found but Couldn't summarize
+The 2024 Kavli Prize was awarded to eight scientists for their contributions in astrophysics, neuroscience, and nanoscience.  
+
+In astrophysics, David Charbonneau and Sara Seager were recognized for their pioneering work in discovering and characterizing exoplanet atmospheres. 
+
+The nanoscience prize went to Robert Langer, Armand Paul Alivisatos, and Chad Mirkin for their groundbreaking advancements in controlled drug delivery, bio-imaging, and spherical nucleic acids, respectively. 
+
+ Nancy Kanwisher, Winrich Freiwald, and Doris Tsao received the neuroscience prize for their  groundbreaking work in mapping the neural circuitry responsible for facial recognition.
 
 Thu, 13 Jun 2024 14:29:29 +0000
 ### [How will the EU elections impact Southeast Asia?](https://indianexpress.com/article/explained/explained-global/eu-elections-southeast-asia-9390755/)
 
-Article found but Couldn't summarize
+The recent European Parliament elections have yielded a mixed outcome with far-right factions making gains at the expense of centrist and liberal parties.  
+
+This shift in political power has significant implications for Southeast Asia, which has increasingly aligned with the EU.  The weaker positions held by the liberal and green parties could complicate negotiations for free trade agreements and potentially lead to less EU involvement in Southeast Asia's environmental initiatives. 
+
+The outcome of the election of a new European Commission president, Ursula von der Leyen's likely second term, will further shape the EU's approach to the region. Her potential alliances with various factions, including the Greens or national-conservative ECR, will influence the future direction of EU-Southeast Asia relations, particularly regarding trade and environmental cooperation.
 
 Thu, 13 Jun 2024 14:22:34 +0000
 ### [Explained: Cultural significance of Uttarakhand’s Joshimath and Kosiyakutoli, now set to be renamed](https://indianexpress.com/article/explained/explained-culture/uttarakhand-joshimath-kosiyakutoli-renamed-9390947/)
 
-Article found but Couldn't summarize
+The Uttarakhand government's proposal to rename Joshimath tehsil to Jyotirmath and Kosiyakutoli tehsil to Pargana Shri Kainchi Dham tehsil has been approved. 
+
+The renaming aims to highlight the religious and cultural significance of the areas. Jyotirmath, one of Adi Shankaracharya’s four cardinal mathas, is believed to be the town's ancient name. 
+
+The change in Kosiyakutoli's name aligns it with the renowned Neem Karoli Baba’s Kainchi Dham Ashram, a major pilgrimage site. While these changes aim to promote tourism, concerns remain regarding environmental impacts.
 
 Thu, 13 Jun 2024 12:45:56 +0000
 ### [Why opening all four gates of Puri Jagannath temple was top priority for new BJP government in Odisha](https://indianexpress.com/article/explained/explained-politics/all-four-gates-puri-jagannath-temple-opened-bjp-odisha-9390637/)
@@ -3885,22 +3989,36 @@ The BJP Chief Minister of Odisha, Mohan Charan Majhi, opened all four gates of t
 Thu, 13 Jun 2024 10:43:51 +0000
 ### [Bananas: Why Chiquita, a fruit company, paid terrorists in Colombia](https://indianexpress.com/article/explained/explained-global/bananas-chiquita-fruit-company-terrorists-colombia-9390228/)
 
-Article found but Couldn't summarize
+A federal jury in Florida found Chiquita Brands International liable for financing the Colombian paramilitary group AUC, awarding $38.3 million to the families of eight victims. This is the first time a major US corporation has faced such consequences for its role in human rights abuses. 
+
+The AUC,  designated a terrorist organization in 2001, committed numerous atrocities, and Chiquita provided financial and logistical support to the group for its own security, even after the AUC's designation.  Court documents reveal Chiquita executives viewed these payments as "the cost of doing business."
+
+The lawsuit, filed in 2007, focused on nine cases of AUC-related murders, finding Chiquita liable for eight. Chiquita maintains its innocence and intends to appeal the decision.
 
 Thu, 13 Jun 2024 10:08:34 +0000
 ### [Italy hosts G7 Summit: Why was the grouping created and what’s on the agenda this year?](https://indianexpress.com/article/explained/explained-global/italy-g7-summit-modi-origins-relevance-9390135/)
 
-Article found but Couldn't summarize
+The Group of Seven (G7) will convene in Italy for their annual summit, focusing on global challenges like Russia's invasion of Ukraine, the Middle East conflict, and strengthening ties with developing nations.
+
+The G7, formed in 1973 to address economic crises, has evolved to tackle a broader range of issues.  While its influence has been questioned due to the decline of its members' share of global GDP, the G7 remains a significant platform for coordinating economic policies, fostering free trade, and shaping global governance. This year's summit will address economic stability, climate change, global health, geopolitical tensions, and the regulation of emerging technologies.
 
 Thu, 13 Jun 2024 07:04:16 +0000
 ### [What is the case against Hunter Biden and could he go to jail?](https://indianexpress.com/article/explained/everyday-explainers/hunter-biden-drug-gun-case-jail-9389718/)
 
-Article found but Couldn't summarize
+Hunter Biden, son of President Joe Biden, was found guilty of lying about drug use on a federal form when purchasing a firearm in 2018.  He faces a maximum sentence of 25 years in prison but it is uncertain if he will be incarcerated. 
+
+The conviction stems from Hunter buying a gun while allegedly addicted to crack cocaine, violating federal law. He also lied about his drug use on the required background check form. The gun was later found by police after his then-partner disposed of it out of concern for his safety. 
+
+Hunter was found guilty on three counts: making a false statement on a federal form, lying to a licensed gun dealer, and possessing a firearm while under the influence. While a sentencing date is yet to be set, his legal team is considering an appeal.
 
 Thu, 13 Jun 2024 06:39:55 +0000
 ### [Canada’s post-study work permit scheme could change. Here’s what Indian students should do](https://indianexpress.com/article/explained/canada-post-study-work-permit-scheme-change-9389637/)
 
-Article found but Couldn't summarize
+The Canadian government is proposing changes to the Post-Graduate Work Permit (PGWP) program, aiming to link eligibility to labor market needs. 
+
+They are seeking input from provinces on occupations facing shortages and whether exemptions should be made for certain groups. The government suggests potential changes could include requiring job offers aligned with the shortage list for PGWP extensions beyond one year and incorporating language or provincial support criteria.  
+
+These changes, if implemented, may impact students pursuing irrelevant courses for PGWP access and could encourage students to choose skill-based programs aligned with Canadian job demand.
 
 Thu, 13 Jun 2024 04:13:23 +0000
 ### [Who are the Satnamis, the Dalit religious community with a history of protests](https://indianexpress.com/article/explained/chhattisgarh-baloda-bazar-protest-who-are-satnamis-9389358/)
@@ -3910,7 +4028,9 @@ Members of the Satnami religious sect in Chhattisgarh set fire to the office of 
 Wed, 12 Jun 2024 08:33:57 +0000
 ### [Scientists back new Alzheimer’s drug: its benefits vs risks](https://indianexpress.com/article/explained/explained-health/scientists-back-new-alzheimers-drug-its-benefits-vs-risks-9387601/)
 
-Article found but Couldn't summarize
+The US FDA advisory committee has unanimously supported donanemab, a new Alzheimer’s therapy developed by Eli Lilly. The drug, intended for early-stage Alzheimer's patients, has shown significant slowing of cognitive decline in clinical trials. 
+
+While the main adverse effect is brain swelling or bleeds, most of which are asymptomatic, the FDA believes the risks can be mitigated through proper labeling and monitoring. This positive recommendation brings donanemab closer to clinical use, potentially offering a much-needed treatment option for a disease with limited alternatives.
 
 Wed, 12 Jun 2024 08:32:22 +0000
 ### [Why UGC has allowed admissions  twice a year, what could happen now](https://indianexpress.com/article/explained/ugc-admissions-twice-year-9387599/)
@@ -3920,32 +4040,70 @@ The University Grants Commission (UGC) has given universities the option to admi
 Tue, 11 Jun 2024 15:35:35 +0000
 ### [Expert Explains: What European Parliament election results signify, with the rise of right-wing parties](https://indianexpress.com/article/explained/explained-global/expert-european-parliament-election-results-france-9386277/)
 
-Article found but Couldn't summarize
+The European Parliament elections saw gains for right-wing and far-right parties. The European People's Party (EPP) emerged as the largest group, followed by the Identity and Democracy (ID) group, which includes Marine Le Pen's National Rally. The European Conservatives and Reformists (ECR) group also saw an increase in seats. 
+
+These results reflect a broader trend of right-wing populism across Europe, fueled by concerns about immigration, national identity, and skepticism towards EU policies. 
+
+The new Parliament will face significant challenges, including tackling climate change, managing migration, and navigating relations with Russia, China, and other global powers. The rise of right-wing and far-right parties complicates these issues, potentially leading to more fragmented politics and difficulty in finding consensus on important policy areas.
 
 Tue, 11 Jun 2024 15:18:50 +0000
 ### [New Council of Ministers sworn-in: What are the functions of Cabinet Ministers and Ministers of State?](https://indianexpress.com/article/explained/everyday-explainers/new-council-cabinet-ministers-modi-9386223/)
 
-Article found but Couldn't summarize
+The Central Council of Ministers, led by Prime Minister Narendra Modi, is the executive arm of the Indian government. It advises the President and is responsible for policymaking. The council consists of cabinet ministers, who oversee key ministries, Ministers of State (Independent Charge), who administer their ministries independently, and  Ministers of State, who assist cabinet ministers. The size of the council is capped at 15% of the Lok Sabha's strength.  
+
+The Prime Minister holds a pivotal position, chairing the Cabinet Secretariat and NITI Aayog.  They are responsible for crucial policy decisions and oversee portfolios not allocated to other ministers.  
+Cabinet ministers, ranking second to the Prime Minister, are responsible for the strategic direction of their respective ministries. 
+
+
+Ministers of State (MoS) are junior members who assist cabinet ministers, with MoS(Independent Charge) having full administrative responsibility for their ministries.
 
 Tue, 11 Jun 2024 13:28:46 +0000
 ### [Why heatwaves have not been included as a notified disaster in the Disaster Management Act](https://indianexpress.com/article/explained/heatwaves-notified-disaster-9386059/)
 
-Article found but Couldn't summarize
+Discussions are ongoing about including heatwaves as a notified disaster under the Disaster Management Act, 2005.  Currently, states rely on their own funds to address heatwave impacts, but notification would allow access to disaster response funds (NDRF and SDRF). 
+
+Heatwaves, though not previously considered unusual, have become more frequent and severe, posing a significant public health risk. States have prepared heat action plans, but lack the financial resources to implement them effectively.
+
+The Finance Commission, while recognizing the need for addressing heatwaves, has not fully supported national notification due to concerns about financial implications.
+
+However, some states have declared heatwaves as local disasters, allowing them to utilize a portion of their SDRF.  
+
+
+There are arguments for and against national notification, including potential financial burdens, difficulties in attributing deaths to heatwaves, and the need for better management and reporting of heat-related health issues.
 
 Tue, 11 Jun 2024 10:07:03 +0000
 ### [Explained: Apple Intelligence, the new AI coming to iPhones, iPads, and Macs](https://indianexpress.com/article/explained/explained-sci-tech/apple-intelligence-9385511/)
 
-Article found but Couldn't summarize
+Apple introduced Apple Intelligence, a personal AI system designed to integrate seamlessly with iPhones, iPads, and Macs.  This system leverages generative AI and personal context to provide personalized intelligence, understanding user preferences and behaviors to enhance everyday tasks. Apple emphasizes privacy through Private Cloud Compute, which balances on-device processing and server-based models.
+
+Key features include:
+
+* Systemwide Writing Tools for improved writing, rewriting, proofreading, and summarizing.
+* Enhanced Mail features like Priority Messages, Smart Reply for quick responses, and email summarization.
+* Image Playground for creating images in various styles.
+* Genmoji for generating emojis from text descriptions.
+* Advanced photo search using natural language.
+* A more contextually aware and natural Siri with 'onscreen awareness'. 
+
+ Apple Intelligence is currently available to developers and will be released to the public later this year.
 
 Tue, 11 Jun 2024 09:12:01 +0000
 ### [How SpaceX’s Starship can revolutionise space travel and exploration](https://indianexpress.com/article/explained/explained-sci-tech/spacex-starship-9385186/)
 
-Article found but Couldn't summarize
+SpaceX’s Starship successfully completed its first integrated flight test, marking a significant step towards its goal of a fully reusable rocket system. The vehicle, standing at over 120 meters tall, is the largest rocket ever built, surpassing even the Saturn V. 
+
+Driven by 33 Raptor engines, Starship is designed for heavy payloads, with the potential to carry up to 150 tonnes to low-Earth orbit. 
+
+A key feature is its reusability, both the booster and spacecraft are designed to land and be used again. This, combined with in-orbit refueling capability, promises to drastically reduce the cost of space travel.
+
+Starship's capabilities have the potential to revolutionize space exploration. It could enable the launch of larger space telescopes, facilitate ambitious robotic missions to the Moon and Mars, and facilitate the return of significant samples for scientific analysis.
 
 Tue, 11 Jun 2024 02:49:49 +0000
 ### [Significance of Maldives’ pro-China President Muizzu’s New Delhi visit](https://indianexpress.com/article/explained/significance-of-maldives-pro-china-president-muizzus-new-delhi-visit-9384307/)
 
-Article found but Couldn't summarize
+Maldivian President Mohamed Muizzu, who campaigned on an "India Out" platform, attended Prime Minister Modi's swearing-in, signaling a potential thaw in strained India-Maldives relations. Muizzu, aligning with China, had previously demanded the withdrawal of Indian military personnel and signed military agreements with Beijing. 
+
+Despite this, India remains crucial for the Maldives due to trade and historical assistance. Recent high-level visits and trade concessions suggest a chance for a fresh start. External Affairs Minister Jaishankar expressed hope for closer cooperation between India and the Maldives.
 
 Tue, 11 Jun 2024 02:45:30 +0000
 ### [Why Tamil Nadu govt opposes the NEET exam, what the Rajan Committee said on its impact](https://indianexpress.com/article/explained/rajan-panel-report-on-neet-and-why-tn-opposes-the-exam-9384221/)
@@ -3957,97 +4115,155 @@ Tamil Nadu Chief Minister M K Stalin has spoken out against the National Eligibi
 Tue, 11 Jun 2024 01:33:21 +0000
 ### [What are the powers of the Speaker and why is the post crucial for BJP and its allies?](https://indianexpress.com/article/explained/explained-law/powers-of-the-speaker-9384272/)
 
-Article found but Couldn't summarize
+The Speaker of the Lok Sabha holds significant power in parliamentary democracy. Elected by a simple majority, they preside over the House, decide on the conduct of business, admit questions, and rule on the admissibility of remarks.  The Speaker also has the power to expunge unparliamentary language and decide on division of votes.  Crucially, they hold the authority to disqualify legislators who defect from their parties under the Tenth Schedule of the Constitution. This power can influence the stability of the government and the balance of power in the House. The impartiality of the Speaker is therefore vital for ensuring fair and transparent parliamentary proceedings.
 
 Mon, 10 Jun 2024 22:45:28 +0000
 ### [In Shivraj Chouhan, agriculture gets wealth of his MP work experience](https://indianexpress.com/article/explained/in-shivraj-chouhan-agriculture-gets-wealth-of-his-mp-work-experience-9384309/)
 
-Article found but Couldn't summarize
+Shivraj Singh Chouhan, credited with transforming Madhya Pradesh's agriculture during his tenure as Chief Minister, has been appointed Union Minister of Agriculture.  During his time in MP, the state witnessed significant growth in agricultural production, becoming a leader in several key crops.  
+
+Chouhan's focus on irrigation development and agricultural infrastructure played a crucial role in this success. Now, as the Union Minister, he is expected to elevate the sector's policy profile and address challenges such as climate change and declining investment.
 
 Mon, 10 Jun 2024 15:29:12 +0000
 ### [Israeli Minister Benny Gantz quits Netanyahu govt: Why this matters](https://indianexpress.com/article/explained/explained-global/israel-benny-gantz-quits-significance-9383959/)
 
-Article found but Couldn't summarize
+Benny Gantz, a former Israeli Defence Minister, resigned from Prime Minister Benjamin Netanyahu's government, citing disagreements over the war in Gaza. Gantz argued that Netanyahu's policies were preventing a decisive victory and called for national elections.  Although Gantz's departure might not significantly impact the government's stability, it potentially shifts the balance away from centrist views and toward right-wing approaches.  The ongoing war in Gaza, initiated by Hamas attacks in October 2023, has resulted in a significant civilian death toll and international criticism of Israel's military actions. Gantz, previously part of the emergency government formed to address the conflict, had called for a plan of action to end the war, which Netanyahu failed to produce.
 
 Mon, 10 Jun 2024 15:17:50 +0000
 ### [Why Kesarapalli IT Park — not Amaravati — will host Chandrababu Naidu’s swearing-in ceremony](https://indianexpress.com/article/explained/explained-politics/why-kesarapalli-it-park-not-amaravati-will-host-chandrababu-naidus-swearing-in-ceremony-9383903/)
 
-Article found but Couldn't summarize
+Chandrababu Naidu's swearing-in ceremony as Chief Minister of Andhra Pradesh has been moved from Amaravati to Gannavaram, near Vijayawada. The change is due to logistical reasons, as Gannavaram's proximity to the airport and larger seating capacity at the Kesarapalli IT Park  accommodate the anticipated large attendance.  
+
+Amaravati, the designated state capital, faces developmental challenges and logistical concerns for dignitaries' travel. Naidu's return to power brings hope for the city, with real estate prices already showing signs of recovery after a dip during the YSRCP regime's three-capital formula.
 
 Mon, 10 Jun 2024 03:26:27 +0000
 ### [Highway to ‘climate hell’: What breaching the 1.5 degree Celsius warming threshold could mean](https://indianexpress.com/article/explained/explained-climate/highway-to-climate-hell-9382226/)
 
-Article found but Couldn't summarize
+Global temperatures continue to rise at an alarming rate, with each of the last 12 months setting new warming records. The average global temperature in May 2024 was 1.5 degrees Celsius above pre-industrial levels, and there's an 80% chance at least one year between 2024 and 2028 will exceed this threshold. Although this refers to a short-term period, it highlights the urgency of addressing climate change.
+
+The Paris Agreement aims to limit global warming to well below 2 degrees Celsius, ideally 1.5 degrees Celsius, above pre-industrial levels. 
+The 1.5-degree Celsius threshold is critical as exceeding it will significantly increase the frequency and intensity of climate change impacts such as sea-level rise, extreme weather events, and coral bleaching. 
+
+To avoid catastrophic consequences, immediate and drastic reductions in greenhouse gas emissions are essential.  Curbing fossil fuel use is crucial, but current efforts are insufficient. Atmospheric CO2 levels reached record highs in 2023, underscoring the urgency for global action.
 
 Sun, 09 Jun 2024 23:30:56 +0000
 ### [How horses galloped into human history: What a new study says](https://indianexpress.com/article/explained/how-horses-galloped-into-human-history-what-a-new-study-says-9382272/)
 
-Article found but Couldn't summarize
+Genomic analysis of ancient and modern horses reveals that domestication originated twice in Central Asia, the first time resulting in the Przewalski's horse lineage. 
+
+However, the widespread use of horses for mobility began around 2200 BC in the western Russian steppes, centuries later than previously thought. This marked a turning point in human history, fueling trade, migration, and warfare across Eurasia. The horse's importance in empire-building and cultural exchange is undeniable.  The study also debunks the theory that early steppe migrations relied on horses, demonstrating that horse-based mobility emerged later.
 
 Sun, 09 Jun 2024 15:58:43 +0000
 ### [Birsa Munda’s 124th death anniversary: Significance of the tribal leader’s contributions](https://indianexpress.com/article/explained/explained-history/birsa-munda-death-anniversary-life-9382021/)
 
-Article found but Couldn't summarize
+In response to adverse policies enacted during British colonial rule, Birsa Munda emerged as a tribal leader who fought for the rights of his community in the Chotanagpur region of present-day Jharkhand.
+
+These policies, including the Permanent Settlement Act and the exploitative "begar" system, led to the displacement of indigenous people and the erosion of their traditional land rights. Munda, inspired by the Sardari agitation, formed the "Birsait" faith and led the "Ulgulan" movement, advocating for self-rule and resistance against both colonial and missionary influence. 
+
+Although his movement was short-lived and met with a brutal suppression by the British, Munda's legacy endures. His fight resulted in the repeal of the "begar" system and legislative recognition of tribal land rights. Birsa Munda is remembered as a symbol of resistance and unity for tribal communities in India.
 
 Sun, 09 Jun 2024 15:04:45 +0000
 ### [What is the car-testing scandal to have hit Japan, and is it the new ‘Dieselgate’?](https://indianexpress.com/article/explained/explained-global/car-scandal-japan-toyota-dieselgate-9381821/)
 
-Article found but Couldn't summarize
+The Japanese automotive industry is facing a major scandal involving falsified safety and emissions tests, prompting halts in domestic shipments by several major carmakers, including Toyota, Honda, Mazda, Suzuki, and Yamaha.  The scandal, reminiscent of Volkswagen's Dieselgate, stems from the discovery of widespread deviations from testing protocols, ranging from inadequately conducted crash tests to manipulated data.
+
+Toyota admitted to irregularities in seven models, leading to temporary production suspensions. Other companies, such as Mazda and Honda, also disclosed similar violations.
+
+While the scandal is expected to have a temporary impact on sales, particularly for smaller players, experts believe Toyota's reputation will likely weather the storm, unlike VW, whose Dieselgate scandal had a more severe and lasting effect.  
+
+
+The Japanese government is conducting extensive investigations and has ordered on-site inspections at the headquarters of implicated companies. The full extent of the financial repercussions remains unclear.
 
 Sun, 09 Jun 2024 13:55:25 +0000
 ### [All about the Rashtrapati Bhavan forecourt, the venue for PM Modi’s swearing-in ceremony](https://indianexpress.com/article/explained/everyday-explainers/rashtrapati-bhavan-modi-oath-venue-9381717/)
 
-Article found but Couldn't summarize
+The swearing-in ceremony for Prime Minister Narendra Modi and other ministers of the new NDA government is being held at the forecourt of Rashtrapati Bhavan. This grand area, featuring red and cream sandstones,  is the main facade of the President's residence.  The forecourt, built in 1929, boasts twelve Tuscan pillars and 31 steps leading to a platform.  
+
+Designed by Herbert Baker and Edwin Lutyens, its architecture draws inspiration from previous Delhi rulers. Notably, the forecourt  is aligned with key landmarks like the Rampurva Bull and the Jaipur Column. Previously, it housed six guns and carriages, remnants of the colonial era,  which were later modified to remove British emblems.  Besides swearing-in ceremonies, the forecourt also hosts receptions for visiting dignitaries and the Change of Guard ceremony.
 
 Sun, 09 Jun 2024 12:09:59 +0000
 ### [What happens at a swearing-in ceremony and what oaths have to be taken?](https://indianexpress.com/article/explained/explained-politics/swearing-in-oath-modi-nda-9381586/)
 
-Article found but Couldn't summarize
+A swearing-in ceremony is a formal event where an individual assumes a government office, swearing allegiance to the Constitution and promising to fulfill their duties.  
+
+The oath, outlined in the Constitution of India, is administered by different authorities depending on the office. For instance, the President administers the oath for the Prime Minister, while the Governor administers the oath for state Chief Ministers.  
+
+The oath involves swearing in the name of God or solemnly affirming, with variations in wording for different offices. It includes a pledge to uphold the Constitution and discharge duties faithfully. There are also oaths of secrecy that prohibit disclosing confidential information.  
+
+The formulations of the oaths were debated during the Constituent Assembly, with considerations regarding religious sentiments and the order of "swear in the name of God" and "solemnly affirm." Today, the order reflects a respect for the practices of the majority community.
 
 Sun, 09 Jun 2024 12:06:10 +0000
 ### [What are Cabinet committees, and why is the CCS the most important of them all?](https://indianexpress.com/article/explained/everyday-explainers/narendra-modi-cabinet-committees-ccs-explained-9381592/)
 
-Article found but Couldn't summarize
+The composition and role of Cabinet Committees, particularly the Cabinet Committee on Security (CCS), are crucial in the Indian government.  
+
+The Prime Minister heads the CCS, comprising Finance, Defence, Home Affairs, and External Affairs ministers.  The CCS handles major national security decisions, including appointments to security bodies, defence expenditure, and foreign policy on security matters. Its importance stems from its role in strategic national decision-making.
+
+Historically, the CCS has typically been dominated by the ruling party. The BJP is anticipated to maintain control of the CCS in the upcoming Modi 3.0 ministry by retaining these key portfolios.
 
 Sun, 09 Jun 2024 10:33:28 +0000
 ### [With swearing-in ceremony, a look at recent members of the all-important Cabinet Committee on Security](https://indianexpress.com/article/explained/swearing-in-ceremony-modi-nds-ccs-9381339/)
 
-Article found but Couldn't summarize
+This article examines the composition of the Cabinet Committee on Security (CCS) in India's recent coalition governments.  
+
+It details the CCS members in four governments: NDA 1 and 2 (1998-2004), UPA 1 and 2 (2004-2014), and NDA 3 and 4 (2014-present).  The article highlights how  the CCS reflects the political dynamics of each government,  particularly in coalition governments where multiple parties and interests need to be considered. It  explains how the BJP's strength in the 2014 and 2019 elections allowed it to form majority governments without relying heavily on coalition partners.
 
 Sun, 09 Jun 2024 01:30:09 +0000
 ### [Explained: 7 countries whose leaders will attend Modi’s swearing today](https://indianexpress.com/article/explained/explained-7-countries-whose-leaders-will-attend-modis-swearing-today-9380515/)
 
-Article found but Couldn't summarize
+India's Prime Minister Narendra Modi will be sworn in for a third term, with dignitaries from seven nations with close ties to India attending. These countries, while sharing robust economic and cultural relationships with India, have also strengthened ties with China, India's geopolitical rival. 
+
+The article examines India's relationships with Bangladesh, Sri Lanka, Nepal, the Maldives, Seychelles, Bhutan, and Mauritius. These ties span diverse areas, including trade, security, culture, and energy cooperation.  
+
+Looking ahead, future discussions between India and these nations will likely address enhancing maritime security, resolving maritime disputes, strengthening economic collaboration, improving strained ties, and tackling issues like climate change and sustainable development.
 
 Sat, 08 Jun 2024 12:08:22 +0000
 ### [Why you should avoid alcohol on flights](https://indianexpress.com/article/explained/explained-health/why-you-should-avoid-alcohol-on-flights-9380087/)
 
-Article found but Couldn't summarize
+A new study suggests that drinking alcohol on airplanes can pose health risks, especially for older passengers or those with medical conditions. 
+
+The study, conducted by researchers at the German Aerospace Center and RWTH Aachen University, found that alcohol consumption during sleep at simulated airplane cabin altitude led to increased heart rates and lower oxygen saturation levels in healthy young participants. While the difference may not seem significant, researchers warn that this impact could be life-threatening for susceptible individuals. 
+
+They advocate for revising regulations and limiting alcohol consumption on flights to mitigate potential health risks.
 
 Sat, 08 Jun 2024 10:46:51 +0000
 ### [Is South Africa headed for a unity government?](https://indianexpress.com/article/explained/explained-global/south-africa-unity-government-9379939/)
 
-Article found but Couldn't summarize
+Following South Africa's May 29 election, which saw the African National Congress (ANC) secure less than 50% of the vote for the first time since 1994, President Cyril Ramaphosa proposed a unity government. 
+
+This comes as the ANC seeks coalition partners to form a government due to its reduced majority.  While talks with the Democratic Alliance (DA) and the Economic Freedom Fighters (EFF) faced hurdles due to policy differences, Ramaphosa hopes a unity government will address the country's economic and political crises, helping to rebuild social cohesion. 
+
+This proposed model draws inspiration from South Africa's first post-apartheid unity government under Nelson Mandela. However, success hinges on navigating complex policy differences between parties and fostering genuine collaboration to tackle the nation's challenges.
 
 Sat, 08 Jun 2024 08:42:26 +0000
 ### [Explained: Agnipath scheme, and the opposition to it](https://indianexpress.com/article/explained/explained-agnipath-scheme-opposition-9379715/)
 
-Article found but Couldn't summarize
+The Agnipath scheme, introduced in 2022, aims to recruit personnel for a four-year period with the option for 25% to join permanently. The scheme saw significant opposition from political parties and veterans, citing concerns about reduced career stability and benefits for Agniveers compared to regular service personnel.  
+
+While the government argues that it will create a younger and more dynamic force and provide economic benefits to Agniveers after their service, the scheme has been criticized for creating a "lesser" cadre.  
+
+Political parties used this opposition as a campaign tool in several states, leading to concerns about the scheme's impact on the BJP's electoral performance.  With the BJP now lacking a majority in the Lok Sabha, its alliance partners are also calling for a review, putting pressure on the government to reconsider the scheme's implementation.
 
 Sat, 08 Jun 2024 02:30:43 +0000
 ### [First human death from H5N2 bird flu: Why are the experts concerned?](https://indianexpress.com/article/explained/explained-sci-tech/human-death-h5n2-bird-mexico-9378612/)
 
-Article found but Couldn't summarize
+The World Health Organization (WHO) has confirmed the first human death from a novel strain of avian influenza, H5N2, in Mexico. The 59-year-old victim had no known contact with poultry, suggesting a potential shift in the virus' ability to transmit to humans without direct animal exposure.  This incident raises alarm as avian influenza, primarily affecting birds, can cause severe respiratory illness in humans.  
+
+While rare, human infections with avian influenza subtypes like H5N1 have occurred, highlighting the virus's potential to adapt and spread. The WHO emphasizes the need for vigilance, preventive measures, such as avoiding contact with sick birds and thoroughly cooking poultry, and robust surveillance systems to mitigate the risk of further outbreaks.
 
 Sat, 08 Jun 2024 01:40:27 +0000
 ### [Sticky inflation: Why is RBI refusing to cut interest rates?](https://indianexpress.com/article/explained/explained-economics/sticky-inflation-why-is-rbi-refusing-to-cut-interest-rates-9378904/)
 
-Article found but Couldn't summarize
+The Reserve Bank of India (RBI) decided to keep its benchmark repo rate unchanged at 6.5% for the eighth consecutive time. Despite retail inflation easing closer to the RBI's 4% target, the RBI is maintaining a cautious stance.  While inflation has shown a decline, its progress is considered slow and subject to volatility.  
+
+The RBI aims to ensure a sustainable fall in inflation before considering a repo rate cut. Additionally, India's strong GDP growth and upcoming Union Budget influence this decision. The RBI is likely waiting to assess the fiscal deficit implications of the budget before making any changes to monetary policy.
 
 Sat, 08 Jun 2024 01:30:42 +0000
 ### [Andhra Pradesh vs Telangana: Unresolved issues between the states that went to court](https://indianexpress.com/article/explained/explained-law/andhra-pradesh-vs-telangana-issues-legal-9378587/)
 
-Article found but Couldn't summarize
+This article examines ongoing legal disputes between Andhra Pradesh and Telangana, which arose after the bifurcation of Andhra Pradesh in 2014. The core issue centers on the division of assets outlined in the Andhra Pradesh Reorganisation Act (APRA).  
+
+Andhra Pradesh argues that Telangana hasn't initiated the process of apportioning assets as specified in the APRA, despite these assets being crucial for various public services.  This has led to legal challenges in the Supreme Court and High Court, concerning entities like the Andhra Pradesh State Council of Higher Education (APSCHE), the Andhra Pradesh State Financial Corporation, and the Andhra Pradesh Mineral Development Corporation (APMDC).  Several judgments have been delivered, including the Supreme Court's ruling on APSCHE assets in 2016 and the Telangana High Court's order on the APMDC assets in 2020. However, some disputes remain unresolved, highlighting the complexities and ongoing tensions surrounding the division of assets between the two states.
 
 Sat, 08 Jun 2024 01:10:41 +0000
 ### [Why is there a controversy around NEET this year](https://indianexpress.com/article/explained/why-is-there-a-controversy-around-neet-this-year-9378906/)

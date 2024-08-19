@@ -1,3 +1,10 @@
+Mon, 19 Aug 2024 21:18:39 +0530
+### [PM Modi to visit Ukraine on August 23: What is India's stance on the Russia war?](https://www.firstpost.com/explainers/pm-modi-to-visit-ukraine-on-august-23-what-is-indias-stance-on-the-russia-war-13806228.html)
+
+Indian Prime Minister Narendra Modi will visit Ukraine on August 23, marking a significant moment as the first Indian PM to visit the country in over three decades.  India has maintained a neutral stance on the ongoing war, calling for dialogue and diplomacy to resolve the conflict while emphasizing its longstanding strategic partnership with Russia. 
+
+Modi has repeatedly stressed that "today's era is not of war" and has advocated for peace talks, urging all stakeholders to engage in sincere and practical efforts towards ending the conflict. India's approach has been to support peace while prioritizing the well-being of its citizens, including keeping fuel prices stable through its procurement of oil from Russia.
+
 Mon, 19 Aug 2024 20:35:53 +0530
 ### [Men, do you claim to be tall on dating apps? How ChatGPT can bust that lie](https://www.firstpost.com/explainers/chatgpt-women-ai-men-lie-height-online-dating-13806195.html)
 
