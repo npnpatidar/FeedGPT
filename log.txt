@@ -6743,3 +6743,19 @@ Started at 2024-08-20 14:11:17
 Finished at 2024-08-20 14:16:24
 Total time taken: 306.8055386543274 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+26 entries have been deleted from feeds/Explained_IE.xml 
+
+41 entries have been deleted from feeds/Explain_FP.xml 
+
+14 entries have been deleted from feeds/Explained_TH.xml 
+
+37 entries have been deleted from feeds/Opinion_IE.xml 
+
+31 entries have been deleted from feeds/Opinion_FP.xml 
+
+20 entries have been deleted from feeds/Opinion_Mint.xml 
+
+6 entries have been deleted from feeds/EDITORIAL_TH.xml 
+
+75 entries have been deleted from feeds/Column_TH.xml 
+
