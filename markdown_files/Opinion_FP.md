@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 10:58:27 +0530
+### [South China Sea: How growing Chinese assertiveness finds strong Philippine response](https://www.firstpost.com/opinion/south-china-sea-how-growing-chinese-assertiveness-finds-strong-philippine-response-13806334.html)
+
+China and the Philippines continue to clash over territorial claims in the South China Sea, despite a recent understanding aimed at reducing tensions.  Chinese coast guard vessels are increasingly engaging in aggressive maneuvers around the disputed Second Thomas Shoal, including ramming and water cannon attacks on Philippine supply ships.  
+
+China asserts historical sovereignty over the region, while the Philippines relies on the 2016 UNCLOS Permanent Court of Arbitration ruling that invalidated China's 9-dash-line claim. 
+
+Recent developments, including a renewed Philippines-US Mutual Defence Treaty and a Philippine commitment to pursue lawful activities in the disputed waters, suggest the Philippines is taking a stronger stance against Chinese pressure. Beijing needs to adapt its strategy, recognizing the Philippines' increased assertiveness and the limitations of its deterrence tactics.
+
 Mon, 19 Aug 2024 17:08:35 +0530
 ### [Alain Delon: A titan who transcended French boundaries to become a symbol of world cinema](https://www.firstpost.com/opinion/alain-delon-a-titan-who-transcended-french-boundaries-to-become-a-symbol-of-world-cinema-13806148.html)
 

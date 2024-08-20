@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 10:30:08 +0530
+### [India might already be on the path to universal basic income](https://www.livemint.com/opinion/online-views/universal-basic-income-direct-cash-transfers-retail-inflation-bjp-government-11724096210313.html)
+
+Facing assembly elections, several Indian states are launching cash transfer schemes for their citizens. 
+
+Maharashtra's "Mukhya Mantri Majhi Ladki Bahin Yojana" provides women aged 21-60 with ₹1,500 monthly, while Jharkhand's "Mukhyamantri Maiya Samman Yojana" grants ₹1,000 monthly to women aged 21-50. Haryana offers a capped price of ₹500 for cooking gas cylinders for families below the poverty line through the "Har Ghar Har Grahani Yojana."
+
+These schemes, driven partly by economic distress faced by citizens, potentially amount to significant expenditures for state governments. Experts raise concerns about the long-term sustainability of such programs and whether they might divert resources away from crucial public services. Politicians, however, benefit from the direct connection with citizens fostered by these cash transfers.
+
 Tue, 20 Aug 2024 08:30:05 +0530
 ### [Abandon prejudices for women's participation in workforce to rise](https://www.livemint.com/opinion/online-views/abandon-prejudices-for-womens-participation-in-workforce-to-rise-11724095931780.html)
 

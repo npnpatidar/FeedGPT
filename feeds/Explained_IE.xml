@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Hayflick limit: Why immortality remains out of humans’ reach</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/hayflick-limit-why-immortality-remains-out-of-humans-reach-9522701/</link>
+			<description>Leonard Hayflick, a biomedical researcher who discovered the finite number of divisions normal cells can undergo (Hayflick limit), passed away at 98. His discovery revolutionized aging research, suggesting an inherent cellular clock determining lifespan, with an estimated maximum for humans around 125 years. 
+
+Hayflick demonstrated this limit across various species, correlating it with telomere shortening, protective DNA sequences at the end of chromosomes that diminish with each cell division. However, the precise relationship between telomere shortening and aging remains unclear.
+
+The discovery of telomerase, an enzyme capable of producing new telomeres, offers potential for influencing the Hayflick limit.  Although lab experiments show telomerase can slow down telomere loss in human cells, practical applications remain distant.</description>
+			<pubDate>Tue, 20 Aug 2024 04:24:43 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/08/Leonard-Hayflick-was-born-in-Philadelphia-in-1928.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/08/Leonard-Hayflick-was-born-in-Philadelphia-in-1928.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Scientists discover liquid water on Mars for the first time: What a new study says</title>
 			<link>https://indianexpress.com/article/explained/explained-sci-tech/liquid-water-mars-9522348/</link>
 			<description>A recent study suggests the presence of vast amounts of liquid water deep within Mars' rocky outer crust. Using seismic data from NASA's InSight lander, researchers identified a layer of fractured igneous rock at depths of 10 to 20 kilometers, likely filled with liquid water. This water may have seeped from the surface billions of years ago when Mars had a warmer, wetter climate.  

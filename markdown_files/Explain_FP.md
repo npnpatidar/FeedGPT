@@ -1,3 +1,15 @@
+Tue, 20 Aug 2024 11:41:15 +0530
+### [Kolkata rape-murder: CBI to conduct polygraph test of accused. How accurate is it?](https://www.firstpost.com/explainers/kolkata-rape-murder-cbi-polygraph-test-accused-accuracy-rate-13806293.html)
+
+The Central Bureau of Investigation (CBI) has been granted permission to conduct a polygraph test on Sanjay Roy, the prime accused in the rape and murder of a trainee doctor at Kolkata's RG Kar Medical College and Hospital. This follows a psychoanalysis test conducted by the CBI on Saturday. Roy, a Kolkata Police volunteer, was arrested after CCTV footage showed him entering the building where the victim's body was found. He allegedly confessed to the crime, claiming he was motivated by an attraction to the victim.  The CBI will use the polygraph test to further investigate Roy's claims and alibis.
+
+Tue, 20 Aug 2024 10:05:57 +0530
+### [Who is Mike Lynch, UK’s ‘Bill Gates’ missing in superyacht sinking?](https://www.firstpost.com/explainers/bayesian-superyacht-sinking-mike-lynch-uk-bill-gates-missing-13806311.html)
+
+Mike Lynch, a British tech entrepreneur nicknamed "UK's Bill Gates," was among those missing after his superyacht, the Bayesian, sank off the coast of Italy.  The yacht, owned by Lynch's family, went down during a severe storm, killing one person and leaving six missing. Lynch's wife and an 18-year-old daughter are among those unaccounted for.
+
+Lynch made headlines in 2011 when he sold his company, Autonomy, to Hewlett-Packard for $11 billion. He was later accused of fraud by HP, leading to a lengthy legal battle. Lynch maintained his innocence and was ultimately acquitted in June.  He was reportedly celebrating his acquittal with friends and family aboard the Bayesian when disaster struck.
+
 Tue, 20 Aug 2024 08:58:48 +0530
 ### [Top Gear: How Ethiopia has seen a rapid transition to electric vehicles](https://www.firstpost.com/explainers/ethiopia-rapid-transition-electric-vehicles-13806101.html)
 
@@ -7679,8 +7691,9 @@ While the EC initially changed this rule, the Chief Election Commissioner recent
 Mon, 3 Jun 2024 15:50:52 +0530
 ### [In a first, a sitting US president's child goes to court. What is Hunter Biden's gun trial?](https://www.firstpost.com/explainers/in-a-first-a-sitting-us-presidents-child-goes-to-court-what-is-hunter-bidens-gun-trial-13778137.html)
 
-Article found but Couldn't summarize 
-Hunter Biden is scheduled to stand trial for felony gun charges in a historic case that could affect US president Joe Biden’s reelection campaign. This marks the first time in American history that a sitting president's child is going on trial. Hunter Biden is accused of illegally purchasing and possessing a gun while using or being addicted to drugs
+Hunter Biden faces three felony charges for allegedly purchasing a firearm while using drugs and lying on a background check form. The trial, taking place in Delaware, focuses on evidence including his memoir, personal texts, and testimony from former romantic partners. David Weiss, a special counsel, is prosecuting the case, while Hunter Biden maintains his innocence.  
+
+A conviction could result in a maximum sentence of 25 years, though a lighter sentence is more likely. The trial’s timing near the 2024 election adds political significance, as it could potentially distract from Joe Biden’s re-election campaign.
 
 Mon, 3 Jun 2024 14:49:31 +0530
 ### [How a ‘bad cold’ led to a 33-year-old Canadian powerlifter being on life support](https://www.firstpost.com/health/jared-maynard-mild-cold-led-to-canadian-powerlifter-being-on-life-support-hemophagocytic-lymphohistiocytosis-13778066.html)
@@ -7787,8 +7800,15 @@ The final phase of voting covered 57 constituencies across various states and Un
 Sun, 2 Jun 2024 09:42:12 +0530
 ### [This Week in Explainers: Can Donald Trump still become president after being convicted?](https://www.firstpost.com/explainers/this-week-in-explainers-can-donald-trump-still-become-president-after-being-convicted-hush-money-trial-13777305.html)
 
-Article found but Couldn't summarize 
-Donald Trump made history this past week by becoming the first former US president to be convicted of a crime. A deadly strike on Rafah that killed 45 including women and children seemed to shake up many across the world and led to social media being flooded with ‘All Eyes on Rafah.’ All this and more in our weekly roundup of explainers
+This past week saw several momentous events unfold worldwide.  
+
+Donald Trump became the first former U.S. president to be convicted of a crime, found guilty on all 34 counts in a hush-money case. The Israel-Hamas war continued, with a deadly airstrike in Rafah drawing international condemnation and calls for a ceasefire.
+
+In Pakistan, former Prime Minister Nawaz Sharif admitted to violating a 1999 agreement with India signed during his tenure. 
+
+Turmoil in aviation was marked by separate incidents of severe turbulence affecting Singapore Airlines and Qatar Airways flights, leaving passengers injured.
+
+Meanwhile, the perilous conditions on Mount Everest continued to claim lives when an Indian climber died after being rescued from the mountain.
 
 Sat, 1 Jun 2024 23:35:12 +0530
 ### [Exit poll takeaways: Modi 3.0 in the making, BJP to make waves in Bengal, enter Tamil Nadu](https://www.firstpost.com/explainers/exit-poll-takeaways-modi-3-0-in-the-making-bjp-to-make-waves-in-bengal-enter-tamil-nadu-13777689.html)
@@ -8004,14 +8024,16 @@ Prajwal Revanna, a Karnataka lawmaker, has been arrested following accusations o
 Fri, 31 May 2024 10:07:54 +0530
 ### [What does Trump's guilty verdict mean for the US elections? Can he still be president?](https://www.firstpost.com/explainers/donald-trump-guilty-verdict-hush-money-trial-us-presidential-elections-13776998.html)
 
-Article found but Couldn't summarize 
-Found guilty of felony on all 34 counts in the hush money trial case, former US president Donald Trump is now awaiting sentencing while also continuing his presidential campaign. His conviction has intensified partisan divisions, galvanised some of his supporters, and alienated some Republican voters. We explain what this means for the US presidential elections 2024, and for his candidacy
+Despite being found guilty on all 34 felony counts in a hush money trial, Donald Trump remains eligible to run for president in 2024. The US Constitution sets no bar on running for office based on criminal convictions.  While Trump's conviction is unlikely to prevent him from campaigning or even serving as president if elected, it may impact voter perception. 
+
+The verdict has galvanized some of his supporters and fueled their narrative of a politically motivated prosecution, potentially boosting fundraising and base support.  However, other Republicans and independent voters may be  turned off by the conviction.  The impact of the conviction on the 2024 election remains to be seen.
 
 Fri, 31 May 2024 09:15:51 +0530
 ### [Is Donald Trump going to prison after being found guilty in hush money trial?](https://www.firstpost.com/explainers/donald-trump-prison-guilty-hush-money-trial-stormy-daniels-sentencing-13776969.html)
 
-Article found but Couldn't summarize 
-Donald Trump has been found guilty on all 34 counts in the hush money trial, making him the first former US president to be convicted of a crime. The 77-year-old will now have to wait until 11 July for his sentencing in the case. The judge in the matter will now have to decide if he should go to prison or if he should face another punishment, which could be home detention
+Donald Trump was found guilty on all 34 counts in the hush money trial, becoming the first former US president to be convicted of a crime. The charges stem from Trump's alleged attempt to conceal a payment made to adult film star Stormy Daniels during the 2016 presidential campaign.  
+
+Trump's lawyer has indicated an intention to appeal the verdict. Sentencing is scheduled for July 11th, and while the maximum penalty is four years in prison, experts believe Trump is unlikely to serve jail time. Possible outcomes include fines, probation, or even home detention.  Trump maintains his innocence and insists the trial was "rigged," but the verdict is expected to have political implications as he continues his campaign for the 2024 presidential election.
 
 Fri, 31 May 2024 06:24:20 +0530
 ### [FirstUp: Prajwal Revanna likely to be arrested, GDP Q4 data release... The headlines today](https://www.firstpost.com/explainers/firstup-prajwal-revanna-likely-to-be-arrested-gdp-q4-data-release-the-headlines-today-13776933.html)
@@ -8111,8 +8133,16 @@ Furthermore, North Korea is increasingly aligning with Russia, as evidenced by a
 Thu, 30 May 2024 14:28:27 +0530
 ### [Trump hush money trial: How does the jury work? When can a verdict be expected?](https://www.firstpost.com/explainers/trump-hush-money-trial-how-does-the-jury-work-when-can-a-verdict-be-expected-13776769.html)
 
-Article found but Couldn't summarize 
-In the Donald Trump-Stormy Daniels hush money trial, the jury must determine if the former is guilty of any of the 34 felony counts of falsifying his company's records. With deliberations underway, we delve into the jury's process and responsibilities, and when the verdict is expected
+The jury in Donald Trump's first criminal trial is deliberating 34 felony counts of falsifying business records. Prosecutors argue that Trump concealed payments to his former lawyer, Michael Cohen, who paid adult film actress Stormy Daniels to silence her about an alleged affair. Trump denies wrongdoing, claiming the payments were legitimate legal expenses. 
+
+The jury must decide if the prosecution proved beyond a reasonable doubt that Trump intentionally falsified records.  To convict, they must unanimously agree that Trump acted with the intent to conceal an illegal act, potentially violating campaign finance laws or other business regulations.  The deliberation process is ongoing with no set timeframe for a verdict.  
+
+
+May want to add
+
+:A mistrial would occur if the jury doesn't come to a unanimous decision.
+
+Let me know if you'd like me to expand on any of these points!
 
 Thu, 30 May 2024 13:51:15 +0530
 ### [Hong Kong’s democracy leaders convicted: Who are they? What does this mean for the region?](https://www.firstpost.com/explainers/hong-kongs-democracy-leaders-convicted-who-are-they-what-does-this-mean-for-the-region-13776720.html)
@@ -8182,56 +8212,74 @@ India is set to negotiate the purchase of 26 Rafale M fighter jets from France, 
 Thu, 30 May 2024 09:01:58 +0530
 ### [Israel takes control of the Philadelphi Corridor; why is Gaza-Egypt border region called 'oxygen for Hamas'?](https://www.firstpost.com/world/israel-takes-control-of-the-philadelphi-corridor-why-is-gaza-egypt-border-region-called-oxygen-for-hamas-13776632.html)
 
-Article found but Couldn't summarize 
-While the IDF troops are now physically located in most of the corridor, there's still a section near the coast where ground forces are not present.
+The IDF announced operational control over the Philadelphi Corridor, a 14km stretch bordering Gaza and Egypt. While troops are present throughout most of the corridor, a coastal section is monitored remotely. The operation uncovered 82 tunnel shafts, some new, which Israel claims Hamas used for smuggling weapons. The IDF demolished some tunnels and notified Egypt. Both Israel and US officials emphasize that the operation aligns with pre-briefed plans for limited ground engagement. Israel considers the corridor vital for halting weapons influx, while Egypt expresses concern about the potential for Palestinian displacement across the border.
 
 Thu, 30 May 2024 06:27:30 +0530
 ### [FirstUp: PM Modi's spiritual retreat to Kanyakumari, India's Rafale negotiations with France... The headlines today](https://www.firstpost.com/explainers/firstup-pm-modis-spiritual-retreat-to-kanyakumari-indias-rafale-negotiations-with-france-the-headlines-today-13776534.html)
 
-Article found but Couldn't summarize 
-PM Modi will begin a three-day spiritual sojourn at Vivekananda Rock Memorial in Tamil Nadu's Kanyakumari. Indian officials will hold talks on official contract with France for the mega acquisition of 26 Rafale-Marine fighters. Here's what else to expect today
+Prime Minister Narendra Modi will begin a three-day spiritual journey to Kanyakumari, meditating at the Vivekananda Rock Memorial. India and France will commence official contract talks for the acquisition of 26 Rafale-Marine fighter jets, valued at over Rs 50,000 crore.  
+
+The Delhi Court will hear clarifications in the 1984 anti-Sikh riots case against Jagadish Tytler. UK King Charles will dissolve Parliament ahead of general elections scheduled for July 4th.  The Hong Kong high court will deliver a landmark verdict against 16 democrats charged under the national security law.
 
 Wed, 29 May 2024 20:52:12 +0530
 ### [India successfully test fires RudraM-II missile. Here’s why it matters](https://www.firstpost.com/explainers/india-test-fires-rudram-ii-missile-why-it-matters-13776604.html)
 
-Article found but Couldn't summarize 
-The RudraM-II is an indigenously developed air-to-surface anti-radiation missile. With a range of 300 kilometres, a speed of up to Mach 5.5 and a 200 kilogramme payload, the missile is expected to play a vital role in strengthening India’s air security and defence preparedness and act as a ‘force multiplier’
+India successfully test-fired its indigenously developed RudraM-II air-to-surface missile, a significant advancement for its air defense capabilities. 
+
+Powered by solid fuel, the missile boasts a range of 300 kilometers, a top speed of Mach 5.5, and can carry a 200-kilogram payload. The successful flight test validated its propulsion system and guidance algorithms. RudraM-II  is designed to neutralize enemy assets, including radars, communication systems, and other radio frequency sources, marking a shift towards self-reliance in crucial defense technologies.
 
 Wed, 29 May 2024 19:49:59 +0530
 ### [Explained: What the probe into turbulence-hit Singapore Airlines plane has revealed](https://www.firstpost.com/explainers/explained-what-the-probe-into-turbulence-hit-singapore-airlines-flight-sq321-has-revealed-investigation-finding-13776570.html)
 
-Article found but Couldn't summarize 
-Dozens of passengers sustained injuries on a Singapore Airlines flight due to 'rapid changes' in gravitational force and a sudden 54-metre altitude drop, according to a preliminary investigation. A 73-year-old British man died of a suspected heart attack, and numerous passengers were injured last week when Singapore Airlines flight SQ321 encountered severe turbulence
+A Singapore Airlines flight encountered severe turbulence over Myanmar, resulting in the death of one passenger and injuries to dozens more. The turbulence caused a 54-meter altitude drop and rapid changes in gravitational force, causing passengers to be flung around the cabin.  
+
+The aircraft, a Boeing 777-300ER, was flying from London to Singapore when it descended unexpectedly due to an apparent updraft. Despite pilot intervention, passengers were injured, prompting an emergency landing in Bangkok. 
+
+
+The Singapore Transport Ministry, conducting the investigation with US officials, attributed the incident to both the unusual updraft and the turbulence. Footage from the incident show widespread damage within the cabin, including overhead panels detached, oxygen masks knocked loose, and luggage scattered.
 
 Wed, 29 May 2024 19:06:14 +0530
 ### [Delhi hits 52.3 degrees Celsius: Why is the city becoming warmer over the years?](https://www.firstpost.com/explainers/delhi-degrees-celsius-why-city-becoming-warmer-13776586.html)
 
-Article found but Couldn't summarize 
-Delhi on Wednesday recorded its highest-ever temperature of 52.3 degrees Celsius. A red alert has been issued in the National Capital with authorities asking people to remain indoors, stay hydrated and avoid unnecessary exposure to the sun. Experts have blamed hot winds from Rajasthan for the current situation. But others say a number of factors, including urban sprawl, its location could be influencing the heat
+Delhi recorded its highest-ever temperature of 52.3 degrees Celsius on Wednesday, prompting a red alert. Hot winds from Rajasthan are being blamed for the extreme heat, particularly affecting the city's outskirts. 
+
+Experts point to urbanization, the urban heat island effect, and Delhi's landlocked location as contributing factors to rising temperatures.  Research indicates that the city is experiencing more intense and prolonged heatwaves, with minimal nighttime cooling. 
+
+Climate projections suggest that if current carbon emission trends continue, Delhi's average annual temperature could increase by five degrees Celsius by the end of the century, leading to even hotter summers.  The extreme heat has resulted in record-high power demand and water shortages.
 
 Wed, 29 May 2024 18:22:29 +0530
 ### [Sleepless in Summer: How India’s rising night-time temperatures are a health concern](https://www.firstpost.com/explainers/sleepless-in-summer-india-rising-night-time-temperatures-health-concern-heatwave-13776536.html)
 
-Article found but Couldn't summarize 
-Parts of India, especially in the North, are struggling to survive amid extremely high temperatures. A new study has revealed that hotter nights are only adding to the woes of the people. But what’s causing the nocturnal mercury levels to remain high?
+A new study by the Centre for Science and Environment (CSE) reveals that Indian cities are experiencing hotter nights compared to past decades. The study, analyzing data from major cities like Delhi, Mumbai, and Bengaluru, found that the difference between daytime and nighttime temperatures has reduced significantly, leading to less cooling relief. 
+
+This phenomenon is attributed to the "urban heat island" effect, where built-up areas, reduced green cover, and heat-absorbing structures trap heat, leading to higher night-time temperatures. 
+
+Experts warn that these hotter nights pose a serious public health risk, increasing the likelihood of heatstroke, sleep disturbances, and even strokes. The study urges governments to increase green spaces, develop city-specific heat management plans, and strengthen healthcare systems to address the growing threat of heat-related illnesses.
 
 Wed, 29 May 2024 17:34:49 +0530
 ### [Running in the Mexico elections has cost 36 candidates their lives: What's behind the deadly political violence?](https://www.firstpost.com/explainers/amid-mexico-presidential-election-2024-fervour-political-violence-claims-lives-of-many-candidates-why-13776507.html)
 
-Article found but Couldn't summarize 
-The Mexico election is the most violent since 2018. At least 36 candidates seeking office have been killed since last June. Amid rampant political unrest, Mexicans, on Sunday, will navigate the future of their country
+Mexico faces its most violent election since 2018, with at least 36 candidate killings recorded since last June. Data indicates a surge in violent incidents against candidates compared to previous elections, pointing to a struggle for power between local criminal groups.  The violence has largely targeted local races, as criminal organizations attempt to influence electoral outcomes. 
+
+President Andres Manuel Lopez Obrador's "hugs not bullets" policy, focused on addressing social root causes of violence, has drawn criticism for failing to curb cartel influence.  
+
+The upcoming June 2nd election will determine over 20,700 federal and local positions, with a record number of voters participating. The presidential race is a key contest, as Claudia Sheinbaum of the Morena party seeks to continue Obrador's legacy, facing off against conservative coalition candidate Xochitl Galvez. Security, social programs, and corruption are central issues in the campaign.
 
 Wed, 29 May 2024 16:50:02 +0530
 ### [In Graphics l Why is Mount Everest so difficult to scale?](https://www.firstpost.com/explainers/international-everest-day-why-mount-everest-so-difficult-to-climb-13776488.html)
 
-Article found but Couldn't summarize 
-From hallucinations to breathing problems, climbers face several challenges on an expedition to the world's highest mountain, Mt Everest. First conquered by Tenzing Norgay and Edmund Hillary in 1953, some 6,500 people have so far reached the mountain's summit. But it is no easy feat. Here's why
+Climbing Mount Everest is incredibly challenging, despite its successful first ascent in 1953. To date, over 6,500 people have reached the summit, but the journey is fraught with peril. 
+
+Challenges include altitude sickness, which can cause hallucinations and breathing difficulties, as well as the inherent dangers of high-altitude climbing.  Overcrowding is also a growing concern, increasing risk and placing strain on resources.
 
 Wed, 29 May 2024 16:07:43 +0530
 ### [Temperatures cross 52 degrees Celsius, water crisis: How Delhi is struggling this summer](https://www.firstpost.com/explainers/delhis-big-water-crisis-amid-rising-temperatures-13776365.html)
 
-Article found but Couldn't summarize 
-In addition to its soaring temperatures that already reached 52.3 degrees Celsius, Delhi now faces a water crisis. Water minister Atishi has urged people living in the city to use water wisely and accused Haryana of not releasing the National Capital’s share since 1 May
+Delhi is facing a severe water crisis amidst a relentless heatwave that has pushed temperatures to record highs.  Water Minister Atishi attributed the crisis to Haryana's alleged failure to release Delhi's share of water since May 1st. 
+
+The city's water supply has dwindled to a season-low, leaving many residents complaining of shortages. As a result, the government has implemented water rationing measures, reducing supply to once a day in certain areas.  The Minister has urged citizens to conserve water, threatening fines for excessive use.  
+
+To combat the situation, the Delhi Jal Board has increased extraction from tubewells and ranney wells, boosting production to nearly 1,000 million gallons per day.  However, the water level at Wazirabad Pond remains low, impacting treatment capacity. Additionally, power outages at the Sonia Vihar water treatment plant have further exacerbated the crisis.
 
 Wed, 29 May 2024 15:31:16 +0530
 ### [Quicksplained: Who is Major Radhika Sen, the Indian Army officer to be honoured with the UN advocacy award?](https://www.firstpost.com/explainers/quicksplained-major-radhika-sen-indian-army-officer-un-advocacy-award-13776450.html)
@@ -8245,32 +8293,37 @@ Major Sen is the second Indian peacekeeper to receive this award, following Majo
 Wed, 29 May 2024 15:19:54 +0530
 ### [More adult movies, sex festivals: How an entrepreneur is trying to ‘normalise’ porn in South Korea](https://www.firstpost.com/explainers/lee-hee-tae-entrepreneur-trying-to-normalise-porn-in-south-korea-13776390.html)
 
-Article found but Couldn't summarize 
-South Korean entrepreneur Lee Hee-tae is trying to push the conservative country to be ‘more open’ about sex. Lee says the demand for adult content has grown in the country and beyond amid the K-pop culture boom
+Lee Hee-tae, a South Korean entrepreneur, is advocating for a more open approach to sex and sexuality in South Korea. He believes the country's conservative culture is hindering its potential in the adult entertainment industry, noting that Japan's market is vastly larger. 
+
+Lee sees the industry as a way to address societal issues like "molka" (spycam) crimes, suggesting that a thriving legal adult content sector could help differentiate between professional and illicit content. He also cites a growing trend of female viewers in South Korea and the increasing global demand for Korean adult content. Despite facing pushback from authorities and women's groups, Lee remains determined to push for change and plans to organize another sex festival in June.
 
 Wed, 29 May 2024 14:33:26 +0530
 ### [How many Indians are dying of heatwave? Why has getting reliable data been a problem?](https://www.firstpost.com/explainers/india-heatwave-13776457.html)
 
-Article found but Couldn't summarize 
-An intensive heatwave has gripped India, with temperatures touching nearly 50 degrees Celsius in some of the northern parts of the country. Data from the National Centre for Disease Control (NCDC) shows that India recorded 60 heat-related deaths since 1 March. But experts say it is difficult to diagnose such deaths and that the real numbers are likely far higher
+India is experiencing a severe heatwave with temperatures exceeding 49 degrees Celsius in some regions. The National Centre for Disease Control (NCDC) has recorded 60 heat-related deaths since March, but experts believe this number is an underestimation.  Difficulties in accurately diagnosing heatstroke deaths contribute to the discrepancy.
+
+Government agencies, including the NCDC and the Ministry of Earth Sciences, are working to establish more comprehensive surveillance systems to monitor heat-related illnesses and deaths. However, inconsistencies in reporting across different agencies highlight the need for standardized data collection and reporting mechanisms. 
+
+The intense heatwave is straining power grids and causing water shortages, impacting various sectors of the Indian economy.
 
 Wed, 29 May 2024 14:19:13 +0530
 ### [Explained: Why North Korea resorted to ‘poo warfare’ against the South](https://www.firstpost.com/explainers/explained-why-north-korea-resorted-to-poo-warfare-against-the-south-13776448.html)
 
-Article found but Couldn't summarize 
-North Korea has sent over 150 balloons filled with trash, excrement, and propaganda leaflets into South Korea. This act, condemned by the South as dangerous and inhumane, is part of a broader pattern of provocations including balloons sent from South Korea, and missile tests and military drills by both sides
+Over 150 balloons carrying trash, human excrement, and propaganda leaflets were sent from North Korea into South Korea.  South Korea condemned the action as dangerous and inhumane. The incident is part of an ongoing cycle of provocations between the two nations, which includes the launch of balloons filled with anti-North Korean leaflets by South Korean activists and North Korea's own missile tests and military drills. North Korea considers these leaflet campaigns provocative and a violation of its sovereignty.  
+
+These balloon launches are seen as a "grey zone" tactic, designed to be disruptive and provocative without escalating to full-blown conflict.
 
 Wed, 29 May 2024 14:05:27 +0530
 ### [Meet Dick Schoof, ex-spy chief likely to become new Dutch PM](https://www.firstpost.com/explainers/meet-dick-schoof-ex-spy-chief-likely-to-become-new-dutch-pm-13776431.html)
 
-Article found but Couldn't summarize 
-On Tuesday, a former head of the Dutch intelligence agency and counterterrorism office was unexpectedly nominated to become the next prime minister of the Netherlands. The nomination of 67-year-old Dick Schoof came after leaders forming a four-party coalition, led by Geert Wilders' far-right Party for Freedom, endorsed him
+Dick Schoof, a former head of the Dutch intelligence agency and counterterrorism office, has been nominated to become the Netherlands' next prime minister.  The selection came after Geert Wilders’ far-right Party for Freedom, along with three other conservative parties, formed a coalition. Despite lacking prior political experience, Schoof is known for his extensive public service background and commitment to the rule of law. 
+
+The coalition, considered the most right-wing in decades, plans to implement a strict asylum policy with tighter border controls and stricter rules for asylum seekers. The new government, expected to be operational by the end of June, aims for streamlined decision-making to enact its ambitious agenda.
 
 Wed, 29 May 2024 12:56:56 +0530
 ### [PM Modi to meditate at Vivekananda Rock Memorial for 3 days: Why this monument is special](https://www.firstpost.com/explainers/pm-modi-to-meditate-at-vivekananda-rock-memorial-in-kanniyakumari-after-lok-sabha-campaign-ends-13776301.html)
 
-Article found but Couldn't summarize 
-After concluding the Lok Sabha campaign, PM Modi will embark on a spiritual retreat to the Vivekananda Rock Memorial in Tamil Nadu’s Kanyakumari on 30 May. The visit holds significance as Kanyakumari is where Swami Vivekananda claimed to have had a vision of ‘Bharat Mata’
+Prime Minister Narendra Modi will undertake a spiritual retreat to the Vivekananda Rock Memorial in Kanyakumari, Tamil Nadu, from May 30 to June 1. The site holds significance as Swami Vivekananda is believed to have received a vision of 'Bharat Mata' there. Modi will be meditating at the Dhyan Mandapam throughout the duration of his stay. The decision to visit Kanyakumari is seen as a symbol of national unity and a commitment to fulfilling Vivekananda's vision for India.  Security has been heightened for the visit, with tourists barred from the memorial and strict protocols in place.
 
 Wed, 29 May 2024 12:52:50 +0530
 ### [‘All Eyes on Rafah’ has taken over social media: Where and how did it all start?](https://www.firstpost.com/explainers/all-eyes-on-rafah-social-media-where-and-how-did-it-all-start-13776391.html)
@@ -8280,26 +8333,32 @@ The article discusses the aftermath of an Israeli airstrike in Rafah, Gaza, whic
 Wed, 29 May 2024 12:50:49 +0530
 ### [Australia firm freezes its first patient. Can cryogenics help bring people back to life?](https://www.firstpost.com/explainers/australia-firm-freezes-its-first-patient-can-cryogenics-help-bring-people-back-to-life-13776385.html)
 
-Article found but Couldn't summarize 
-An Australian cryonics company, Southern Cryonics, sparked a widespread debate after successfully freezing their first client, known as 'Patient One'. The man, in his 80s, passed away in a Sydney hospital before being transported to Southern Cryonics’ facility in Holbrook, New South Wales. There, his body was cryogenically preserved at -196°C, with the hope that future medical advancements might one day revive him
+Southern Cryonics, an Australian company, achieved a landmark by cryogenically preserving its first client, an 80-year-old man.  
+
+The process involved cooling the body to -196°C, using cryoprotectants to prevent ice crystal formation, and storing it in a dewar tank. 
+
+This event ignited debate about the science and ethics of cryonics.  Experts remain skeptical about the possibility of reviving cryogenically preserved humans, citing the complexity of the process and the lack of guaranteed success. 
+
+However, proponents argue that technological advancements may one day make revival a reality.  Cryonics holds potential for medical breakthroughs, such as organ preservation for transplantation.  Southern Cryonics aims to expand its capacity and continue pushing the boundaries of cryogenic preservation.
 
 Wed, 29 May 2024 11:11:07 +0530
 ### [Flesh in septic tank of Kolkata flat, search for body parts in canal: How cops are piecing together Bangladesh MP’s murder](https://www.firstpost.com/explainers/bangladesh-mp-anwarul-azim-anar-murder-kolkata-investigation-body-parts-13776342.html)
 
-Article found but Couldn't summarize 
-As the investigation continues into the murder of Bangladesh MP Anwarul Azim Anar, flesh and hair were recovered from a septic tank of a Kolkata flat. Forensic teams will probe if they are part of the dismembered body of the politician
+Bangladesh MP Anwarul Azim Anar was killed in Kolkata, his body dismembered and parts disposed of across the city. The alleged murder was carried out by a butcher, Jihad Hawaldar, hired by the mastermind, Mohammad Akhtaruzzaman, a childhood friend and business partner of Anar. Flesh and hair have been recovered from a septic tank in a flat where Anar was reportedly murdered. 
+
+Police are searching canals for more body parts and plan to conduct DNA tests if necessary. Akhtaruzzaman, who is believed to have fled to the US, is likely to be brought back through Interpol.
 
 Wed, 29 May 2024 09:51:29 +0530
 ### [Mumbai’s multi-crore undersea Coastal Road tunnel leaks 2 months after inauguration: What’s going on?](https://www.firstpost.com/explainers/mumbai-multi-crore-undersea-coastal-road-tunnel-leaks-whats-going-on-13776304.html)
 
-Article found but Couldn't summarize 
-The Coastal Road tunnel in Mumbai, India’s first undersea tunnel, saw seepage and water leakage just two months after it was inaugurated amid much fanfare. Maharashtra chief minister Eknath Shinde inspected the site and assured commuters that there was no reason to be alarmed and that the leaks would be fixed ahead of the upcoming monsoon season
+The newly inaugurated Mumbai Coastal Road tunnel, India’s first undersea tunnel, has experienced water seepage just two months after its launch. Dripping from the roof and dampness on walls have raised concerns, especially ahead of the monsoon season. Maharashtra Chief Minister Eknath Shinde visited the site and assured the public that the leak, attributed to expansion joints, would be fixed.  Experts are implementing a waterproofing solution and considering polymer grouting on all tunnel joints. Though the cause of the seepage is yet to be determined, authorities aim to ensure a water-free tunnel during the rainy season.
 
 Wed, 29 May 2024 09:47:10 +0530
 ### [What is the 1999 Lahore Declaration that Nawaz Sharif admits Pakistan violated?](https://www.firstpost.com/explainers/lahore-declaration-1999-nawaz-sharif-atal-bihari-vajpayee-13776285.html)
 
-Article found but Couldn't summarize 
-The Lahore Declaration, signed on 21 February 1999, was a significant milestone in Indo-Pakistani relations. The agreement was born out of a historic summit aimed at thawing the frosty relations between the two nuclear-armed neighbours. However, Pakistan breached the agreement when it started the Kargil War
+The Lahore Declaration, signed in 1999, aimed to improve relations between India and Pakistan by addressing issues like Kashmir and nuclear weapons. It emphasized peace, dialogue, and cooperation. Key points included resolving the Kashmir issue peacefully, combating terrorism, and reducing nuclear risks.  
+
+However, Pakistan's violation of the agreement with the Kargil War in 1999 severely damaged the peace process, leading to heightened tensions and mistrust. Former Prime Minister Nawaz Sharif acknowledged Pakistan's breach, citing it as a regrettable mistake.
 
 Wed, 29 May 2024 07:48:13 +0530
 ### [South Africa's election may be a defining moment in the nation's history. Here's why](https://www.firstpost.com/explainers/south-africas-election-may-be-a-defining-moment-in-the-nations-history-heres-why-13776073.html)
@@ -8315,20 +8374,27 @@ Major issues include unemployment, poverty, crime, corruption, and energy crises
 Wed, 29 May 2024 06:00:24 +0530
 ### [FirstUp: South Africa goes to the polls, Modi's mega Kolkata rally...The top news today](https://www.firstpost.com/explainers/firstup-south-africa-polls-pm-modi-mega-kolkata-rally-ambani-pre-wedding-bash-big-headlines-today-13776079.html)
 
-Article found but Couldn't summarize 
-South Africa is set to begin its general elections to elect parliamentarians in the national assembly. In India, PM Narendra Modi will hold mega road show in Kolkata, whereas Congress leaders Rahul Gandhi and Mallikarjun Kharge will hold rallies in Odisha in run up final phase of Lok Sabha polls. Anant Ambani and Radhika Merchant will host their second pre-wedding bash. Several areas in Mumbai are also expected to face water cuts today
+South Africa is holding crucial elections today to fill 400 parliamentary seats. The elections are considered the most closely contested since 1994, with the ruling African National Congress facing a potential challenge from the Democratic Alliance and the Economic Freedom Fighters. 
+
+Meanwhile, in India,  PM Modi is campaigning in Kolkata ahead of the final phase of the Lok Sabha elections on June 1. Congress leaders Rahul Gandhi and Mallikarjun Kharge are also campaigning in Odisha, focusing on constituencies where their candidates are predicted to be successful.
 
 Tue, 28 May 2024 21:48:56 +0530
 ### [What is busy bragging? Why is it considered toxic?](https://www.firstpost.com/explainers/busy-bragging-13776206.html)
 
-Article found but Couldn't summarize 
-Busy bragging is when employees boast about being overwhelmed with work to show off their commitment to the job. A new study has found that those who do so are considered less competent and are less well liked than their colleagues – and can actually make working conditions worse for co-workers
+A new study revealed that "busy bragging" – exaggerating workload to appear dedicated – backfires. Employees who engage in this behavior are perceived as less competent and likeable, ultimately harming their working relationships and creating a stressful environment for colleagues. 
+
+The study, led by Professor Jessica Rodell, found that exposure to busy braggers increased stress levels and burnout among co-workers, as it promotes the unhealthy perception that being overwhelmed is a positive attribute, leading to a contagious cycle of stress. Rodell emphasizes that it's okay to feel stressed, but sharing it should be done with appropriate confidants, rather than seeking validation through overblown claims of busyness.
 
 Tue, 28 May 2024 19:51:31 +0530
 ### [Everest toll climbs to 8 in 2024: Why are so many people dying?](https://www.firstpost.com/explainers/everest-people-dying-13776162.html)
 
-Article found but Couldn't summarize 
-An Indian climber attempting to scale Mount Everest passed away at a hospital on Tuesday — the eight person who died trying to scale the world's tallest mountain in 2024. Last year witnessed a record high 18 deaths on Everest. But what makes Everest so deadly? And is overcrowding to blame?
+Mount Everest, the world's highest peak, has claimed eight lives this year, with a record 18 deaths recorded in 2023.  
+
+The extreme conditions on Everest, including low oxygen levels, brutal winds, freezing temperatures, and life-threatening storms, pose significant challenges even for experienced climbers.  Acute Mountain Sickness (AMS) and other high-altitude illnesses are also major risks. 
+
+Overcrowding, fueled by a surge in permits issued by the Nepalese government, has been cited as a contributing factor to the increased mortality rate.  
+
+Experts argue that inexperienced climbers, enticed by the challenge and lured by companies with lax requirements, are pushing their limits beyond their capabilities, endangering themselves and their Sherpa guides.
 
 Tue, 28 May 2024 19:38:22 +0530
 ### [Explained: Can a diamond be made in just 15 minutes?](https://www.firstpost.com/explainers/can-a-diamond-be-made-in-just-15-minutes-13775993.html)
@@ -8338,8 +8404,9 @@ Scientists have developed a new method for synthesizing diamonds at room pressur
 Tue, 28 May 2024 18:34:17 +0530
 ### [NATO allies to deploy 'drone wall' on Russian border: What is this high-tech defence all about?](https://www.firstpost.com/explainers/nato-drone-wall-russian-border-high-tech-defence-13776051.html)
 
-Article found but Couldn't summarize 
-Six NATO countries, Lithuania, Latvia, Estonia, Poland, Finland, and Norway, plan to construct a 'drone wall' along their borders with Russia. This high-tech initiative aims to enhance border security by using unmanned aerial vehicles (UAVs) for continuous surveillance and anti-drone systems to counter threats
+Six NATO countries – Lithuania, Latvia, Estonia, Poland, Finland, and Norway – are collaborating on a "drone wall" project to fortify their borders with Russia.  This initiative utilizes unmanned aerial vehicles (UAVs) equipped with sensors and cameras for continuous border monitoring and anti-drone systems to counter threats.  The goal is to deter potential Russian aggression, respond to hybrid attacks and drone incursions, and prevent smuggling.  
+
+The project's success relies on technological sophistication, seamless integration of national systems, adequate funding, and overcoming logistical and political challenges. While novel in scale, the concept draws inspiration from similar drone surveillance deployments in the United States and Israel.
 
 Tue, 28 May 2024 18:04:57 +0530
 ### [Why 10-rupee Indian notes are likely to fetch more than Rs 2 lakh at a UK auction](https://www.firstpost.com/explainers/the-rare-indian-banknotes-uk-auction-13776068.html)
@@ -8353,38 +8420,53 @@ The article also references past auctions of Indian historical items in the UK, 
 Tue, 28 May 2024 16:55:20 +0530
 ### [Gurmeet Ram Rahim Singh acquitted in 2002 Ranjit Singh murder case: The many crimes and controversies of the Dera Sacha Sauda chief](https://www.firstpost.com/explainers/gurmeet-ram-rahim-singh-acquitted-2002-ranjit-singh-murder-case-dera-sacha-sauda-chief-crimes-controversies-13776063.html)
 
-Article found but Couldn't summarize 
-The Punjab and Haryana High Court has acquitted Gurmeet Ram Rahim Singh and four others in the murder case of a former-dera manager Ranjit Singh. The Dera Sacha Sauda chief is currently lodged in a Haryana jail for raping two of his female disciples. There are also several other charges against him
+The Punjab and Haryana High Court acquitted Dera Sacha Sauda chief Gurmeet Ram Rahim Singh and four others in the murder case of former Dera manager Ranjit Singh. Singh was convicted by a CBI court in 2021 and sentenced to life imprisonment for the murder.  
+
+Ranjit Singh was killed in 2002 on suspicion of circulating a letter alleging sexual exploitation of women followers by Ram Rahim.   Several other charges, including rape and blasphemy, have been leveled against Ram Rahim. He was convicted for raping two of his female followers and sentenced to 20 years in prison. Additionally, he was convicted for life in the murder of journalist Ram Chander Chhatrapati who published the letter accusing him of sexual exploitation.
 
 Tue, 28 May 2024 16:46:42 +0530
 ### [Too hot to handle: How much heat can a human body sustain?](https://www.firstpost.com/health/too-hot-to-handle-heat-human-body-sustain-13776054.html)
 
-Article found but Couldn't summarize 
-Parts of India are grappling with extreme heat. Across the world too, temperatures are soaring, making people sweat profusely. Amid these rising temperatures, everyone seems to be asking — how hot is too hot? And what happens to the human body then? The answer, surprisingly, isn’t limited only to the thermometer; it has much to do with humidity. Here’s what you need to know
+A recent heatwave affecting India, Pakistan, and parts of the United States has raised concerns about the human limits of heat tolerance. Experts emphasize that the "wet-bulb temperature," which combines air temperature and humidity, is a crucial factor. 
+
+Studies indicate that a wet-bulb temperature of 95 degrees Fahrenheit (35 degrees Celsius) is the maximum a human body can endure for an extended period. At this point, the body struggles to cool itself, leading to increased metabolic rate, rapid breathing, and elevated heart rate.  
+
+Prolonged exposure to such conditions can cause heat stress, with symptoms like confusion, nausea, dizziness, and ultimately, organ damage.
+
+Staying hydrated, reducing exposure to direct sunlight, taking cool baths, and wearing light clothing are essential precautions.
 
 Tue, 28 May 2024 16:39:58 +0530
 ### [How longer and more intense heatwaves are linked to premature births](https://www.firstpost.com/health/longer-and-more-intense-heatwaves-are-linked-to-premature-births-13776049.html)
 
-Article found but Couldn't summarize 
-Examining data from 5.3 million births across the top 50 metropolitan areas in the US over 25 years, a recent study found that for every one-degree Celsius rise in temperature above a certain threshold, there was a corresponding one per cent increase in preterm and early-term births
+A recent study published in JAMA Network Open analyzed 5.3 million births in the US between 1993 and 2017 and found a link between heatwaves and increased preterm and early-term births.  
+
+The research showed that for every one-degree Celsius increase in temperature above a certain threshold, during a four-day period of consistently high temperatures, there was a one percent increase in both preterm and early-term births. The impact was more pronounced among women under 30, those with lower education levels, and from minority backgrounds. This is the first large-scale study to provide clear evidence of this association. The findings highlight the need to address the disproportionate impact of heatwaves on vulnerable populations and the importance of protecting pregnant women during extreme heat events.
 
 Tue, 28 May 2024 16:20:57 +0530
 ### [Why Xi Jinping's meeting with leaders of UAE, Egypt, Bahrain, Tunisia in China matters](https://www.firstpost.com/explainers/why-xi-jinpings-meeting-with-leaders-of-uae-egypt-bahrain-tunisia-in-china-matters-13776010.html)
 
-Article found but Couldn't summarize 
-China is initiating a renewed diplomatic effort in West Asia and North Africa to challenge the influence of the United States in the regions. This week, leaders from Egypt, Bahrain, Tunisia, and the UAE will meet with Chinese leader Xi Jinping in Beijing. Discussions are expected to focus on the ongoing war in Gaza. Beijing may also pursue the long-anticipated free trade agreement with Gulf states
+China is hosting leaders from Egypt, Bahrain, Tunisia, and the UAE for the10th Ministerial Conference of the China-Arab States Cooperation Forum.  The meetings come as China seeks to mediate the ongoing war in Gaza and increase its influence in the region.
+
+China has historically supported the Palestinian cause and is aiming to promote a "two-state solution".  Xi Jinping plans to meet individually with each leader to discuss bilateral relations and regional issues.  In addition to mediating the conflict, China may also pursue a long-anticipated free trade agreement with Gulf states. This is significant given that China is already the largest trading partner of the Gulf nations and a major energy importer from the region.
 
 Tue, 28 May 2024 15:51:47 +0530
 ### [Why China has kicked its 'Kim Kardashian' off social media](https://www.firstpost.com/explainers/china-kim-kardashian-kicked-off-social-media-13775895.html)
 
-Article found but Couldn't summarize 
-Influencer and jewellery dealer Wang Hongquanxing, who earned the moniker ‘China's Kim Kardashian’, is the newest victim of the Xi Jinping-led Communist Party's campaign against extravagant behaviour and public displays of wealth. The 30-year-old’s personal profiles are currently inaccessible due to a ‘violation of self-discipline’ policy
+Wang Hongquanxing, a Chinese influencer known as "China's Kim Kardashian",  has been banned from social media platforms like Douyin for showcasing his extravagant lifestyle. This follows a broader crackdown by the Chinese government on influencers who flaunt wealth,  perceived as a negative influence on society. 
+
+The government has stated its intent to curb the "worship of money" and "vulgar public demands" fueled by these influencers. Various platforms, including Weibo, Tencent and Douyin, have pledged to remove content promoting materialism and excessive displays of wealth, deleting thousands of posts and accounts in recent weeks. 
+
+
+This crackdown comes amidst economic hardship and social anxieties, further highlighting the government's efforts to control online narratives and social behavior.
 
 Tue, 28 May 2024 15:11:23 +0530
 ### [Who are Gupta brothers arrested in India? Why is South Africa following up with New Delhi?](https://www.firstpost.com/explainers/gupta-brothers-arrested-13775985.html)
 
-Article found but Couldn't summarize 
-Originally from Uttar Pradesh’s Saharanpur, Ajay, Atul and Rajesh Gupta moved to South Africa in 1993. The brothers formed the conglomerate Sahara Group and grew extremely close to then-South African president Jacob Zuma. The brothers fled for Dubai after a series of damning reports about how they influenced the government and secured sweetheart deals from state companies came to light and Zuma was ousted
+The Gupta brothers, Ajay, Atul and Rajesh, originally from India, gained prominence in South Africa after establishing the Sahara Group. They cultivated close ties with former President Jacob Zuma, leading to allegations of undue influence on government decisions and the securing of lucrative contracts. 
+
+A series of investigations and leaked emails exposed the extent of their alleged influence, triggering public protests and ultimately contributing to Zuma's resignation. The brothers fled to Dubai in 2018 amidst corruption charges. South Africa has been seeking their extradition ever since.  
+
+In India, two of the Gupta brothers, Ajay and Anil, were recently arrested on charges of abetting the suicide of a builder who had accused them of threats and financial pressure.
 
 Tue, 28 May 2024 15:01:19 +0530
 ### [In Graphics l P for Period. How to explain menstruation to your child](https://www.firstpost.com/explainers/graphics-world-menstruation-day-period-talk-13775923.html)
@@ -8403,8 +8485,11 @@ Both countries are awaiting the outcomes of their respective elections, and Indi
 Tue, 28 May 2024 13:42:02 +0530
 ### [Seeing Red: How sanitary pads, menstrual waste add to India’s environmental burden](https://www.firstpost.com/explainers/world-menstrual-hygiene-day-sanitary-pads-menstrual-waste-india-environmental-burden-plastic-13775947.html)
 
-Article found but Couldn't summarize 
-Most in India continue to use a sanitary pad during their menstrual cycle, unaware of its ecological impact. The country discards over 12 billion sanitary napkins annually, which land up at landfills, clogs our sewerage system, water bodies and fields, therefore posing colossal environmental risks
+India discards 12 billion non-biodegradable sanitary napkins annually, leading to significant environmental pollution. These pads, composed of plastic and other materials, take hundreds of years to decompose,  contaminating landfills, water bodies, and soil with microplastics.  
+
+While incineration is often used to dispose of sanitary waste, it releases harmful carcinogenic gases. A  growing movement promotes sustainable alternatives like biodegradable sanitary napkins, reusable cloth pads, menstrual underwear, and menstrual cups, which significantly reduce waste and have a smaller environmental impact.  
+
+Experts also advocate for finding long-term scientific solutions for safe and eco-friendly sanitary waste management.
 
 Tue, 28 May 2024 13:39:44 +0530
 ### [Why is divorce illegal in the Philippines? Can it change soon?](https://www.firstpost.com/explainers/philippines-divorce-bill-legalise-senate-13775949.html)
@@ -8418,26 +8503,30 @@ The bill's passage has been a beacon of hope for advocates of women's rights and
 Tue, 28 May 2024 13:18:57 +0530
 ### [Miracles happen: How a couple survived Papua New Guinea landslide that buried 2,000](https://www.firstpost.com/explainers/a-couple-miraculously-survived-devastating-papua-new-guinea-landslide-that-buried-2000-13775795.html)
 
-Article found but Couldn't summarize 
-As rescue operations to save those who were trapped under the rubble in a deadly landslide in Papua New Guinea continue, an astonishing tale of survival was unearthed. Villagers rescued a husband and wife after nearly eight hours; their home narrowly escaped the full force of the landslip
+A landslide in Papua New Guinea has tragically claimed many lives, burying an estimated over 2,000 people.  Villagers are working tirelessly alongside rescue teams to locate survivors amidst the challenging weather conditions, deep rubble, and logistical hurdles.  
+
+A glimmer of hope emerged when John and Jacklyn Yandam, a couple trapped for nearly eight hours, were miraculously rescued by villagers. They expressed gratitude for their survival and believe they were saved for a purpose. The event highlights the community's resilience and the ongoing desperate search for others. The remote location and concerns about further mudslides are adding to the challenges of the rescue and recovery operation. International humanitarian organizations are aiding the community with essential supplies, but reaching the affected areas remains a significant obstacle.
 
 Tue, 28 May 2024 11:41:37 +0530
 ### [Death and devastation as tornadoes hit US: What's causing them?](https://www.firstpost.com/explainers/death-and-devastation-as-tornadoes-hit-us-whats-causing-them-13775865.html)
 
-Article found but Couldn't summarize 
-Tornadoes and devastating thunderstorms have killed at least 22 people and left a trail of destroyed homes, businesses and power outages across several US states. More thunderstorms, wind gusts, hail and flash floods are expected. A persistent pattern of warm, moist air is to blame for the string of tornadoes over the past two months
+Severe storms over the Memorial Day weekend resulted in at least 22 fatalities and widespread damage across several US states.  Kentucky was particularly affected, with five deaths and significant devastation in several towns.  Other states impacted include Texas, Arkansas, Oklahoma, and those along the East Coast.  
+
+The storms caused widespread power outages, destroyed homes and businesses, and brought flash floods and damaging winds.  A persistent pattern of warm, moist air is  being cited as a contributing factor to the recent surge in tornado activity. President Biden has expressed condolences and pledged federal support to the affected areas.
 
 Tue, 28 May 2024 10:41:22 +0530
 ### [Pune Porsche crash: How 17-year-old’s family ‘bribed’ doctors, reached out to politicians to cover-up case](https://www.firstpost.com/explainers/pune-porsche-crash-17-year-old-family-bribe-doctors-politicians-cover-up-crime-driver-13775821.html)
 
-Article found but Couldn't summarize 
-Nearly 10 days after a minor speeding in a Porsche car allegedly killed two young techies, numerous attempts are reportedly being made to cover up the juvenile’s involvement in the crime. The Pune Police has arrested two doctors from Sassoon General Hospital for destroying the teen’s blood sample after allegedly being offered Rs 3 lakh as a bribe. Questions are also being raised as to why an NCP MLA showed up at the police station after the crash
+A 17-year-old accused of killing two people in a Porsche crash in Pune is facing allegations of a cover-up.  Police have arrested two doctors from Sassoon General Hospital who allegedly attempted to destroy the teenager's blood sample after being offered a bribe. The family had reportedly tried to claim that an adult driver was behind the wheel. The teen's grandfather was arrested for allegedly pressuring the adult driver to take blame. The case has also drawn scrutiny due to alleged political interference by NCP leaders, including Deputy Chief Minister Ajit Pawar, who denied exerting pressure on the investigation. The incident has raised questions about the influence of wealth and power in the justice system.
 
 Tue, 28 May 2024 10:36:05 +0530
 ### [What's happening on the Kharkiv front in the Russia-Ukraine war?](https://www.firstpost.com/explainers/whats-happening-on-the-kharkiv-front-in-the-russia-ukraine-war-13775814.html)
 
-Article found but Couldn't summarize 
-A Russian attack that demolished a busy supermarket in Kharkiv on Saturday, leading to several casualties, has been the deadliest offensive on Ukrainian soil in recent times. The villages of Ivanivka in the Kharkiv region and Netailove in the Donetsk region were captured by Russian troops. Ukrainian forces recently confirmed advances near Lyptsi in northern Kharkiv Oblast
+The Kharkiv front remains a crucial battleground in the ongoing Russia-Ukraine war. 
+
+Russian forces launched a significant offensive on  May 10th, making territorial gains and causing heavy casualties, including a deadly attack on a supermarket that killed at least 18 people. While Russia has captured villages like Ivanivka and Netailove, Ukrainian forces have made counter-advances near Lyptsi and repelled Russian attacks near Ivanivka.  
+
+Fighting continues intensely in areas like Chasiv Yar and Vovchansk.  Ukraine's President Zelenskyy warned of Russia's intentions to intensify its offensive along the northern border, prompting NATO to consider lifting some restrictions on Ukraine's defensive capabilities. Russia's focus on Kharkiv is strategic, aiming to gain control over a city vital to Ukraine's economy and defense industries, secure a buffer zone, and potentially divert Ukrainian forces from other areas.
 
 Tue, 28 May 2024 10:31:02 +0530
 ### [‘Headless’ child, charred remains: Inside Israel’s deadly strike on Rafah tent camp](https://www.firstpost.com/explainers/israel-rafah-strike-tent-camp-gaza-hamas-war-13775810.html)

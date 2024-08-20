@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 04:24:43 +0000
+### [Hayflick limit: Why immortality remains out of humans’ reach](https://indianexpress.com/article/explained/explained-sci-tech/hayflick-limit-why-immortality-remains-out-of-humans-reach-9522701/)
+
+Leonard Hayflick, a biomedical researcher who discovered the finite number of divisions normal cells can undergo (Hayflick limit), passed away at 98. His discovery revolutionized aging research, suggesting an inherent cellular clock determining lifespan, with an estimated maximum for humans around 125 years. 
+
+Hayflick demonstrated this limit across various species, correlating it with telomere shortening, protective DNA sequences at the end of chromosomes that diminish with each cell division. However, the precise relationship between telomere shortening and aging remains unclear.
+
+The discovery of telomerase, an enzyme capable of producing new telomeres, offers potential for influencing the Hayflick limit.  Although lab experiments show telomerase can slow down telomere loss in human cells, practical applications remain distant.
+
 Mon, 19 Aug 2024 13:56:07 +0000
 ### [Scientists discover liquid water on Mars for the first time: What a new study says](https://indianexpress.com/article/explained/explained-sci-tech/liquid-water-mars-9522348/)
 
