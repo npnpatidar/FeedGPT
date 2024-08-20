@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>What must NASA decide to bring Sunita Williams and Barry Wilmore home?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/nasa-sunita-williams-barry-stuck-return-9523319/</link>
+			<description>NASA astronauts Barry Wilmore and Sunita Williams are facing an extended stay aboard the International Space Station (ISS) due to technical issues with their Boeing Starliner spacecraft. 
+
+The issues, involving helium lines and the propulsion system, have prevented the Starliner from returning to Earth as planned. NASA is currently evaluating options, which include repairing the Starliner or returning it to Earth uncrewed, leaving the astronauts aboard the ISS until February 2025.
+
+While the delay presents health risks associated with prolonged space travel, astronauts are highly trained to manage these challenges. NASA is conducting a thorough review process to determine the safest course of action for the astronauts' return. The final decision is expected by the end of August.</description>
+			<pubDate>Tue, 20 Aug 2024 07:07:29 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/08/NASA-sunita-williams.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/08/NASA-sunita-williams.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Hayflick limit: Why immortality remains out of humans’ reach</title>
 			<link>https://indianexpress.com/article/explained/explained-sci-tech/hayflick-limit-why-immortality-remains-out-of-humans-reach-9522701/</link>
 			<description>Leonard Hayflick, a biomedical researcher who discovered the finite number of divisions normal cells can undergo (Hayflick limit), passed away at 98. His discovery revolutionized aging research, suggesting an inherent cellular clock determining lifespan, with an estimated maximum for humans around 125 years. 

@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 07:07:29 +0000
+### [What must NASA decide to bring Sunita Williams and Barry Wilmore home?](https://indianexpress.com/article/explained/explained-sci-tech/nasa-sunita-williams-barry-stuck-return-9523319/)
+
+NASA astronauts Barry Wilmore and Sunita Williams are facing an extended stay aboard the International Space Station (ISS) due to technical issues with their Boeing Starliner spacecraft. 
+
+The issues, involving helium lines and the propulsion system, have prevented the Starliner from returning to Earth as planned. NASA is currently evaluating options, which include repairing the Starliner or returning it to Earth uncrewed, leaving the astronauts aboard the ISS until February 2025.
+
+While the delay presents health risks associated with prolonged space travel, astronauts are highly trained to manage these challenges. NASA is conducting a thorough review process to determine the safest course of action for the astronauts' return. The final decision is expected by the end of August.
+
 Tue, 20 Aug 2024 04:24:43 +0000
 ### [Hayflick limit: Why immortality remains out of humans’ reach](https://indianexpress.com/article/explained/explained-sci-tech/hayflick-limit-why-immortality-remains-out-of-humans-reach-9522701/)
 

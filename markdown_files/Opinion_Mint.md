@@ -1,3 +1,14 @@
+Tue, 20 Aug 2024 12:30:10 +0530
+### [Open Network courts can enable vast judicial process reforms](https://www.livemint.com/opinion/online-views/virtual-courts-judicial-reforms-litigation-dpi-technology-lawyers-litigants-dispute-resolution-11724096551322.html)
+
+ON Courts, launched in Kerala, is a groundbreaking redesign of the justice delivery system focused on putting the needs of litigants first. 
+
+The system prioritizes user experience by providing access from anywhere, allowing litigants to manage their cases easily. 
+
+It streamlines workflows for lawyers and court staff by eliminating manual processes and leveraging technology for tasks like scheduling and document management. Judges benefit from improved time management and access to relevant case information, allowing for more efficient and informed decision-making.
+
+The ON Courts initiative is modular, meaning its components, like e-summons, can be adapted for other areas of judicial reform.  Initial focus is on Section 138B cases (bounced cheques), aiming to address a significant portion of pending litigation.  The success of ON Courts depends on the personal investment and understanding of judges, who actively presented the system, demonstrating their commitment to its success.
+
 Tue, 20 Aug 2024 10:30:08 +0530
 ### [India might already be on the path to universal basic income](https://www.livemint.com/opinion/online-views/universal-basic-income-direct-cash-transfers-retail-inflation-bjp-government-11724096210313.html)
 
