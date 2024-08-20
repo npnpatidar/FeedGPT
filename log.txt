@@ -6775,6 +6775,7 @@ Total time taken: 306.8055386543274 seconds
 
 49 entries have been deleted from feeds/Column_TH.xml 
 
+<<<<<<< HEAD
 0 entries have been deleted from feeds/Explained_IE.xml 
 
 0 entries have been deleted from feeds/Explain_FP.xml 
@@ -6800,6 +6801,9 @@ Markdown file created: markdown_files/Opinion_FP.md
 Markdown file created: markdown_files/Opinion_Mint.md
 Markdown file created: markdown_files/EDITORIAL_TH.md
 Markdown file created: markdown_files/Column_TH.md
+=======
+Started at 2024-08-20 16:13:27
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 62 Feed entries have been written to feeds/Explained_IE.xml
 2 Feed entries have been written to feeds/Explain_FP.xml
 105 Feed entries have been written to feeds/Opinion_FP.xml
@@ -6807,6 +6811,11 @@ Markdown file created: markdown_files/Column_TH.md
 94 Feed entries have been written to feeds/Column_TH.xml
 329 new entries have been added
 0 summaries have been updated
+<<<<<<< HEAD
 Finished at 2024-08-20 21:03:41
 Total time taken: 1942.8706583976746 seconds
+=======
+Finished at 2024-08-20 16:45:43
+Total time taken: 1936.5903854370117 seconds
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

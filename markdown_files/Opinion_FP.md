@@ -798,68 +798,138 @@ Cultural and civilizational similarities between India and Vietnam, including sh
 Wed, 31 Jul 2024 18:15:39 +0530
 ### [CCP’s Third Plenum: China has no blueprint to escape economic slowdown and is trapped in Xi Jinping’s vision](https://www.firstpost.com/opinion/ccps-third-plenum-china-has-no-blueprint-to-escape-economic-slowdown-and-is-trapped-in-xi-jinpings-vision-13799278.html)
 
+<<<<<<< HEAD
 The Third Plenum of the Chinese Communist Party (CPC) focused on long-term strategic goals amidst economic slowdown. The plenum emphasized a "new development philosophy" prioritizing high-quality growth driven by technology, innovation, and education.  
 
 While maintaining state control, the party aims to create a fairer market environment and achieve technological self-sufficiency in crucial sectors like semiconductors and AI. Green energy development and fiscal reforms were also highlighted. Notably, national security received significant attention, underscoring the CPC's commitment to stability and control.  Despite claims of progress, the plenum's continuation of existing policies may be challenging given China's economic difficulties.
+=======
+The recent Third Plenum of the Communist Party of China (CPC) focused on reinforcing long-term strategies for economic and national security growth.  While acknowledging a slowdown, the plenum emphasized a "new development philosophy" driven by high-quality growth, innovation, and technological self-sufficiency. 
+
+State control over the economy will continue, with a focus on building a high-level socialist market economy and ensuring a fair and dynamic environment. Achieving technological independence in key areas like semiconductors and AI is a priority. The document also highlights the importance of green energy and fiscal reforms. Notably, a strong emphasis on national security underscores the CPC's commitment to stability and control, reinforcing Xi Jinping's vision for a powerful China.  The plenum comes amidst economic concerns and seeks to regain domestic and international confidence.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 31 Jul 2024 18:10:19 +0530
 ### [INS Brahmaputra fire incident: No time for media trial or lynch mob vigilantism](https://www.firstpost.com/opinion/ins-brahmaputra-fire-incident-no-time-for-media-trial-or-lynch-mob-vigilantism-13799258.html)
 
+<<<<<<< HEAD
 The article analyzes the accident on the Indian Naval ship INS Brahmaputra and responds to the negative public sentiment that followed. It argues that while accidents are unfortunate events, the situation should not be made into a media trial. The article points out the complexities of naval operations and the inherent risks involved. It emphasizes the Indian Navy's resilience and that it is a professional force that learns from its mistakes. The article concludes by urging the public to rally behind the navy and allow it to investigate and improve without undue pressure, showcasing their resilience and expertise. It highlights the Indian Navy's critical role in safeguarding Indian interests at sea and emphasizes the need for understanding and support during this challenging time.
+=======
+The article discusses the accident on Indian Naval Ship (INS) Brahmaputra in July 2024, highlighting the importance of perspective and context in public discourse.
+
+The author criticizes the negative  media coverage, arguing that it went overboard  
+
+Here are some key takeaways from the article:
+
+* The disastrous accident on INS Brahmaputra is acknowledged as unfortunate and regrettable.
+
+* Public discourse following the event was overly critical and negative, bordering on disrespectful to the Navy's dedicated personnel.
+
+*   the Navy's long and proven track record of success, particularly in recent operations. 
+* The author emphasizes the unique challenges faced by service members, who work in hazardous conditions and bravely respond to emergencies.
+*  that while mistakes can happen, highlighting the systematic improvement method employed by the Navy, comparing it to the processes in place in other world-class navies.
+*  necessity of unwavering support for the Navy during this, emphasizing that it's time to rally behind the Navy and focus on moving forward constructively.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 31 Jul 2024 18:03:42 +0530
 ### [Why US policies fail to resonate with Arab public opinion](https://www.firstpost.com/opinion/why-us-policies-fail-to-resonate-with-arab-public-opinion-13799262.html)
 
+<<<<<<< HEAD
 The US's approach to West Asia has been marked by skepticism and caution, leading to strained relations with the Arab world. Despite substantial aid and strong defense ties, the US struggles to gain popular support due to its alignment with Israel and perceived failure to address regional grievances. The Iraq War and interventions in the region have further fueled anti-American sentiment. 
 
 US strategic objectives in West Asia have often been unclear and its inability to adapt to changing dynamics, particularly the rise of Iran, presents a significant challenge. The US has also been criticized for double standards regarding human rights, which exacerbates regional hostility. 
 
 Efforts by the US to maintain its influence are complicated by inconsistencies in foreign policy, a lack of understanding of regional sensitivities, and the growing attractiveness of alternative partners like China.
+=======
+The article analyzes the declining American influence in West Asia, citing growing anti-US sentiment fueled by the US's unwavering support for Israel and perceived failure to address regional grievances. Despite significant financial and military aid, the US struggles to gain popular support due to interventions in Iraq and Libya, which fueled mistrust. 
+
+The article argues that the US has been unable to define clear strategic objectives and has been slow to adapt to shifting power dynamics, allowing Iran to gain influence.  Furthermore, US policies are often perceived as hypocritical and inconsistent, particularly regarding Israel and human rights, creating fertile ground for anti-US propaganda.
+
+The author concludes by noting that this creates an opportunity for other powers like China to increase their diplomatic and economic engagement in the region, posing a significant challenge to the US's traditional dominance.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 31 Jul 2024 17:07:35 +0530
 ### [‘Chanda mama no longer door ke’: Artemis dawns new space age as world gets ready with big moon plan](https://www.firstpost.com/opinion/chanda-mama-no-longer-door-ke-artemis-dawns-new-space-age-as-world-gets-ready-with-big-moon-plan-13799234.html)
 
+<<<<<<< HEAD
 The Artemis program aims to return humans to the Moon, establish a permanent presence there, and use the Moon as a base for missions to other planets. The program, led by NASA, involves international collaboration and private partnerships. 
 
 Key goals include landing the first woman and first person of color on the Moon by 2026,  developing a lunar space station called Gateway, and exploring the Moon’s resources for scientific research and economic development. Artemis is seen as a stepping stone to future missions to Mars.  
 
 While there is international support for Artemis, some countries like China and Russia have chosen not to participate, citing concerns about US dominance and potential overrides of existing space treaties.
+=======
+The Artemis program, led by NASA, aims to establish a sustainable human presence on the moon. It involves multiple phases, including crewed missions to the lunar surface, the development of a lunar space station called "Gateway," and the exploration of lunar resources.
+
+The program is driven by scientific discovery, technological advancement, and the potential for future space exploration, including missions to Mars. Artemis also fosters international collaboration, with over 40 countries signing the Artemis Accords, which outline principles for responsible space exploration. 
+
+The program faces challenges, as competing nations like China develop their own lunar ambitions. 
+
+The future holds the possibility of the moon becoming a staging post for further exploration, a source of valuable resources, and a platform for technological innovation.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 31 Jul 2024 09:54:25 +0530
 ### [Quad’s quiet achiever: India’s growing footprint in the Indo-Pacific](https://www.firstpost.com/opinion/quads-quiet-achiever-indias-growing-footprint-in-the-indo-pacific-13799029.html)
 
+<<<<<<< HEAD
 The recent Quad foreign ministers' meeting in Tokyo emphasized the grouping's ongoing commitment to regional cooperation and security. 
 
 While the Quad aims to focus on collaborative projects like disaster relief and infrastructure development, it also acknowledges China's growing influence in the Indo-Pacific.  Discussions centered on upholding international rules and promoting a free and open Indo-Pacific, particularly addressing China's actions in the South China Sea. 
 
 The Quad maintains support for ASEAN centrality and welcomes India's increased engagement with the Philippines regarding the 2016 arbitral ruling.  India's balancing act between its relations with Russia and engagement with the West, particularly on issues like Ukraine and Gaza, was also discussed.  The Quad remains steadfast in its "doing good" approach, reconciling its commitment to supporting the public good with necessary military coordination to address regional concerns.
+=======
+The recent Quad foreign ministers' meeting in Tokyo emphasized several points.  First, while India holds the chair this year, the location of meetings is flexible and prioritized based on convenience. Second, India aims to focus its chairmanship on resilient disaster infrastructure, digital economy, critical emerging technologies, and physical connectivity. 
+
+Third, discussions revolved around challenging China's dominance in the region while supporting ASEAN centrality and a code of conduct in the South China Sea. Additionally, the Quad addressed the Gaza crisis, supporting a two-state solution and acknowledging Israel's right to self-defense. Finally, despite the US, Japan, and Australia acting independently at times, India remains committed to the Quad framework, as evidenced by its participation in various regional exercises.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 18:43:29 +0530
 ### [Why India needs to balance security concerns with neighbours’ sovereign considerations](https://www.firstpost.com/opinion/why-india-needs-to-balance-security-concerns-with-neighbours-sovereign-considerations-13798861.html)
 
+<<<<<<< HEAD
 This article analyzes India's approach to its neighborhood and the expectations it places on its neighbors regarding security concerns, particularly those related to China.  
 
 The author argues that India often expects its neighbors to share its anxieties about China and act accordingly, even when those concerns are not directly relevant to the neighbor's security. This is exemplified by situations involving Sri Lanka, Bangladesh, and Maldives, where India's concern over perceived Chinese influence was not necessarily reciprocated by its neighbors. 
 
 The article criticizes this approach, highlighting the importance of respecting the sovereignty and strategic autonomy of neighboring nations. It suggests that India's focus on security overtures should be balanced with fostering greater mutual trust and confidence through platforms like the Colombo Security Conclave (CSC). The CSC, while currently focused on non-traditional security threats, could evolve into a more comprehensive forum for regional cooperation, lessening reliance on extra-regional powers and promoting collaborative security solutions.
+=======
+This article examines India's approach to its neighborhood, particularly concerning China. It argues that India often expects its neighbors to prioritize its security concerns, even when those concerns don't directly affect the neighbors. 
+
+The article cites examples like the "India Out" campaign in the Maldives and the handling of the Kachchatheevu issue with Sri Lanka, where India's actions seemed to dictate the neighbor's responses. It criticizes India's lack of transparency and consultation with its neighbors regarding security pacts with extra-regional powers like the US and its inconsistent diplomacy with countries like Pakistan and China.
+
+The author suggests that India needs to move towards a more inclusive approach, involving its neighbors in discussions and respecting their strategic autonomy. This approach could involve strengthening the Colombo Security Conclave as a forum for building trust and addressing shared security concerns in the Indian Ocean region.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 18:28:09 +0530
 ### [Unravelling the complexity of ADHD](https://www.firstpost.com/opinion/adhd-numbers-are-rising-alarmingly-unravelling-the-complexity-of-attention-deficit-hyperactivity-disorder-13798850.html)
 
+<<<<<<< HEAD
 Attention-Deficit/Hyperactivity Disorder (ADHD) often co-exists with other mental health conditions. Studies show that between 50% and 90% of children and 85% of adults with ADHD have additional diagnoses, such as anxiety, depression, bipolar disorder, autism spectrum disorder, and obsessive-compulsive disorder. 
 
 These co-occurring conditions can create a complex web of challenges, leading to issues like substance abuse and poor lifestyle choices. They may also overshadow each other, making diagnosis and treatment more difficult. 
 
 Understanding the interconnectedness of these conditions is crucial. Early and accurate diagnosis, combined with comprehensive treatment plans, can help individuals manage their symptoms and improve their overall well-being.
+=======
+Attention-Deficit/Hyperactivity Disorder (ADHD) is often accompanied by other mental health conditions.  A significant percentage of individuals diagnosed with ADHD also experience conditions like anxiety, depression, oppositional defiance, eating disorders, bipolar disorder, autism spectrum disorder, obsessive-compulsive disorder, and conduct disorder. 
+
+These co-existing conditions can significantly impact daily life and long-term wellbeing. 
+
+Researchers suggest that these conditions may exacerbate each other, and one may overshadow the presence of the other. 
+
+Understanding and addressing all co-existing conditions is crucial for effective treatment. This can involve a combination of medication, cognitive behavioral therapy, and lifestyle modifications, tailored to the individual's needs.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 16:18:46 +0530
 ### [Why India can’t afford not to engage with junta in Myanmar](https://www.firstpost.com/opinion/why-india-cant-afford-not-to-engage-with-junta-in-myanmar-13798768.html)
 
+<<<<<<< HEAD
 India's relationship with Myanmar's military junta is a complex one, driven by strategic necessity and ethical dilemmas. Despite the junta's waning authority, its continued power is seen as essential for regional stability, countering China's influence, and combating the narcotics trade.  However, the junta's human rights abuses and the growing presence of Chinese-backed militias pose significant challenges.  India's policy involves a delicate balance: engaging with the junta to maintain stability while pushing for a long-term transition to democracy.   This requires careful navigation of regional dynamics and a commitment to sustained pressure on the junta to improve its conduct.
+=======
+India's relationship with Myanmar's military junta is a complex balancing act driven by strategic necessity. Despite the junta's waning legitimacy and human rights abuses, India maintains support due to the crucial role Myanmar plays in regional stability, counter-terrorism efforts, and countering Chinese influence. The porous border fuels security concerns, including narcotics trafficking and the rise of Chinese-backed militias, necessitating continued engagement with the junta on these issues. While India aims to promote a democratic transition in the long term, the immediate priority is to manage the volatile situation and protect national interests.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 15:59:48 +0530
 ### [The many diplomatic nuances of PM Modi’s expected visit to Ukraine](https://www.firstpost.com/opinion/the-many-diplomatic-nuances-of-pm-modis-expected-visit-to-ukraine-13798785.html)
 
+<<<<<<< HEAD
 Prime Minister Modi's potential visit to Ukraine aims to balance India's relationship with both Russia and Ukraine.  The visit comes amidst growing unease in the West regarding Modi's close ties with Russia, particularly after his recent meeting with Putin. 
 
 While India has maintained a neutral stance on the conflict,  a visit by Modi would signal support for Ukraine and India's commitment to a diplomatic solution. The visit could also be seen as a way to counter China's growing influence in mediating peace efforts.
@@ -868,68 +938,130 @@ While India has maintained a neutral stance on the conflict,  a visit by Modi wo
 #### 
 
 This succinct summary highlights the key motivations behind the potential visit, emphasizing India's strategic balancing act in the complex geopolitical landscape of the Ukraine war.
+=======
+Prime Minister Modi's potential visit to Ukraine aims to  strengthen India's stance on diplomacy and dialogue to resolve the conflict.  
+
+While India has maintained close ties with Russia, it has also expressed concern over civilian casualties and advocated for peace.  Modi's planned visit could counter negative perceptions stemming from his recent Moscow trip and demonstrate India's commitment to a peaceful resolution. 
+
+Russia might welcome the initiative as a way to bring Ukraine down to a negotiating position, while the US could view it as a diplomatic win for its own objectives in the region. India's involvement could also help counter China's growing influence in mediating the conflict.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 12:36:33 +0530
 ### [Biden’s ‘coup for a coup’ to avenge his ouster from White House race](https://www.firstpost.com/opinion/bidens-coup-for-a-coup-to-avenge-his-ouster-from-white-house-race-13798622.html)
 
+<<<<<<< HEAD
 This article discusses President Joe Biden's decision to withdraw from the 2024 presidential race, attributing his exit to mounting pressure from Democrats concerned about his age and mental acuity, evidenced by poor debate performances and declining poll numbers. 
 
 Despite claiming to step down for the "greater good" and to ensure a united Democratic front, Biden's actions are viewed as a calculated move to secure a legacy by endorsing Vice President Kamala Harris as his successor, solidifying his influence over the party. This move, despite opposition from some Democrats who favored a more open nominating process, was facilitated by polling data showing Biden trailing Trump and Harris performing slightly better. 
 
 The article argues that Biden, aware he couldn't secure the nomination in an open contest, used his leverage to dictate the terms of his exit, forcing the party to embrace Harris as his heir apparent. It also highlights dissent within the Democratic ranks, particularly aimed at Harris serving as the nominee without prior contestation.
+=======
+Despite endorsements from top Democrats like Barack Obama and key figures like Nancy Pelosi, Joe Biden's performance in the recent debate and declining public support led him to withdraw from the presidential race. 
+
+Facing pressure from donors, party members, and polls showing him trailing Donald Trump, Biden ultimately chose to step down.  He then shockingly endorsed Kamala Harris, indicating it was a pre-planned move and a form of "revenge" on some Democrats who advocated for his removal.  
+
+Although the Democratic party favoured a different nomination process, Biden's exit left them with minimal options. The article suggests he ensured Harris, his initial VP pick, became the nominee despite her lagging behind potential alternatives in polls.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 30 Jul 2024 12:25:21 +0530
 ### [Paris Olympics 2024 | Tarun Tahiliani on India contingent's outfit: ‘Not a wedding’, but why digital print instead of weaves?](https://www.firstpost.com/entertainment/paris-olympics-2024-tarun-tahiliani-on-criticism-of-paris-olympics-outfits-not-a-wedding-not-a-funeral-either-13798681.html)
 
+<<<<<<< HEAD
 Tarun Tahiliani's designs for the Indian Olympic contingent in Paris drew heavy criticism for their lackluster style.  Many felt the designs did not represent the richness of Indian textiles or the global platform the Olympics provided for fashion. 
 
 Despite this, Tahiliani defended his choices, stating they were not meant to be couture and that the focus should be on medals. He explained the uniforms reflected everyday Indian attire and cited interest from industrialists who wanted similar outfits.
+=======
+Tarun Tahiliani has defended his designs for the Indian athletes at the Paris Olympics, emphasizing that they are not couture garments. While acknowledging the criticism, he maintains that the focus should be on the athletes' performance and medals, not fashion. He believes the designs, which feature digital prints and tricolour patterns, reflect Indian attire and aim for cohesion with the national flag.  
+     
+Tahiliani's collection has drawn comparisons with those designed by other international brands like Giorgio Armani for Italy and Ralph Lauren for the United States, which have been lauded for their elegance and style. Despite the criticism, Tahiliani asserts that the uniforms have garnered positive feedback from industrialists and stands by his creative choices.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 18:04:27 +0530
 ### [Dealing with Pakistan: How India can chart out a security roadmap for Kashmir](https://www.firstpost.com/opinion/dealing-with-pakistan-how-india-can-chart-out-a-security-roadmap-for-kashmir-13798397.html)
 
+<<<<<<< HEAD
 This article argues that Pakistan's support for terrorism against India demands a comprehensive and robust response.  The author contends that Pakistan's jihad against India is deeply rooted in Islamist ideology and has gained traction in various regions, including Kashmir, Kerala, and West Bengal.
 
 The article proposes several solutions, including strengthening border security, revitalizing human intelligence networks, engaging in community outreach, and cracking down on Islamist organizations. It emphasizes the need for a "carrot and stick" approach, incentivizing patriotism and deterring extremism through strict measures. 
 
 The author advocates for a shift from diplomatic and internal security initiatives to military action, including surgical strikes, covert operations, and the potential for a limited-scale war.  He believes that inflicting substantial costs on Pakistan will compel it to reassess its support for terrorism.
+=======
+The article argues that Pakistan's support for terrorism against India is driven by an extremist ideology and poses a major security threat.  
+
+It suggests several solutions, including strengthening anti-infiltration measures, reviving human intelligence networks,  and promoting community outreach. The author emphasizes the need to disrupt local support systems for terrorist organizations and crack down on radical Islamist groups.  
+
+Furthermore, the article advocates for a hard line against Pakistan, including military action to deter future attacks and pressure through diplomatic channels. It suggests leveraging India's economic and strategic advantages to weaken Pakistan's capacity for external aggression.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 17:37:00 +0530
 ### [Jaishankar meets Wang Yi in Laos: Is thaw in Sino-Indian ties possible?](https://www.firstpost.com/opinion/jaishankar-meets-wang-yi-in-laos-is-thaw-in-china-india-ties-possible-13798381.html)
 
+<<<<<<< HEAD
 External Affairs Minister Jaishankar and Chinese Foreign Minister Wang Yi met in Laos to discuss the ongoing border standoff. Both sides agreed on the need for an early resolution to the disputes along the Line of Actual Control (LAC). 
 
 Jaishankar emphasized the importance of mutual respect, mutual interests, and mutual sensitivity for normalization of ties. He reiterated that peace and tranquility on the borders, along with respect for the LAC, are essential for positive bilateral relations.  
 
 The meeting yielded an agreement to hold an early meeting of the Working Mechanism for Consultation and Coordination on India-China Border Affairs (WMCC) involving officials from both countries. This aims to progress the disengagement process and address lingering issues.
+=======
+The Indian and Chinese Foreign Ministers met in Laos to discuss the ongoing border dispute along the Line of Actual Control (LAC). Both sides agreed on the need for urgent resolution to the remaining disputes and highlighted the importance of peace and tranquility on the border.  Indian EAM Jaishankar emphasized the necessity of mutual respect, mutual interests, and mutual sensitivity for restoring normalcy in bilateral relations. The meeting concluded with an agreement to hold an early meeting of the Working Mechanism on Consultation and Coordination on India-China Border Affairs (WMCC) to further discuss the border issues.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 16:01:51 +0530
 ### [No ‘Viksit Bharat’ without unleashing Green Revolution 2.0](https://www.firstpost.com/opinion/no-viksit-bharat-without-unleashing-green-revolution-2-0-13798327.html)
 
+<<<<<<< HEAD
 The author argues that India's economic growth, while impressive,  is not inclusive and fails to benefit the majority of its population.  
 
 They stress the need to prioritize foundational reforms focusing on sectors like agriculture, which employs a significant portion of the workforce but suffers from low productivity and stagnant incomes. 
 
 The author criticizes budget allocations that focus on subsidies and palliatives rather than investing in research and development, infrastructure, food processing, and a guaranteed minimum support price for farmers. They believe empowering rural India through higher agricultural incomes will have a positive multiplier effect on the overall economy, boosting demand and driving inclusivity.
+=======
+The article argues that India's economic growth, while impressive, hasn't adequately benefited its people, particularly those at the bottom of the economic pyramid. 
+
+The author believes that prioritizing agriculture is crucial for inclusive growth.  Agriculture, despite employing a large portion of the workforce, has seen declining growth and productivity. The article recommends substantial investment in technology, infrastructure, and research & development to revitalize the sector.  
+
+It also calls for a revised approach to supporting farmers, moving beyond subsidies to measures like a negotiated Minimum Support Price (MSP) to ensure basic income and incentivize diversification. The author concludes by urging policymakers to focus on foundational reforms in agriculture, healthcare, and education to uplift the majority of the population.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 13:15:16 +0530
 ### [Trump 2.0: What it may mean for India-US relations](https://www.firstpost.com/opinion/trump-2-0-what-it-may-mean-for-india-us-relations-13798240.html)
 
+<<<<<<< HEAD
 The potential return of Donald Trump to the US presidency could significantly impact India-US relations. Trump's "America First" economic policies, characterized by tariffs and protectionism, may negatively affect Indian exports but could also lead to increased investment in India as businesses seek alternatives to China. 
 
 Migration policies, however, pose a concern, potentially becoming stricter and impacting Indian IT professionals and students. Conversely, defense and military cooperation is likely to strengthen, with continued support for India's military modernization and a shared focus on countering Chinese influence in the Indo-Pacific. 
 
 
 Overall, a Trump 2.0 presidency could present both challenges and opportunities for India, depending on the diplomatic strategies employed.
+=======
+A potential second Trump term could significantly impact India-US relations across various sectors. 
+
+Economically, while "America First" policies might pose a threat to Indian exports, they could also lead to increased investment in India as American companies seek alternatives to China. 
+
+Migration, however, is likely to face challenges due to potential tightening of visa programmes, affecting Indian IT professionals, students, and families.
+
+On the military front, an expected continuation of strong defense cooperation could bolster India's capabilities and strategic positioning in the Indo-Pacific. 
+
+Shared concerns regarding China's growing influence may solidify the strategic partnership between India and the US, potentially strengthening alliances like the Quad. 
+ 
+Overall, a Trump 2.0 presidency presents both opportunities and risks for India, requiring careful diplomatic navigation by the Indian government.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 12:02:08 +0530
 ### [Paris Olympics 2024: Shame on Tarun Tahiliani for India contingent's ikat-inspired uniforms!](https://www.firstpost.com/entertainment/paris-olympics-2024-tarun-tahiliani-rightly-slammed-for-his-shabby-outfit-design-for-the-india-contingent-13798133.html)
 
+<<<<<<< HEAD
 Tarun Tahiliani's designs for the Indian contingent at the 2024 Paris Olympics have been met with criticism.  Many, including badminton player Jwala Gutta, feel the sarees, featuring an ikat print, were impractical and unflattering.  They pointed out the lack of thought given to the athletes' comfort and  the missed opportunity to showcase the true beauty of ikat weaving through more intricate embroidery or hand-painted details. The designs were deemed uninspiring and comparable to cheap, mass-produced pieces, a disappointing representation for such a prestigious event.
+=======
+Tarun Tahiliani's designed uniforms for the Indian contingent at the 2024 Paris Olympics have been widely criticized.  Many, including badminton player Jwala Gutta, pointed out the uniforms' poor fit and unsuitability for athletes.  
+
+Gutta argued that pre-draped sarees would have been a better choice, considering the practicality for sportswomen.  She also criticized the colour and print choice, believing it lacked a genuine representation of Indian craftsmanship. The criticism extends to the execution of the ikat weave, with some arguing that the designs did not do justice to this traditional textile.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 29 Jul 2024 10:15:47 +0530
 ### [‘Counter disinformation’ or betraying trust? US embassy’s meddling in India’s domestic politics deserves greater scrutiny](https://www.firstpost.com/opinion/us-embassy-meddling-in-indias-domestic-politics-india-us-relation-13798149.html)
 
+<<<<<<< HEAD
 This article explores the potential for US interference in Indian domestic affairs under the guise of combating disinformation.  
 
 It details a series of events organized by the US embassy in India, partnering with entities like IREX (funded by the Ford Foundation, Soros-backed Open Society, and staffed by ex-US officials), to promote "counter-disinformation" efforts. 
@@ -940,33 +1072,64 @@ Drawing parallels with the Biden administration's reported pressure on Big Tech 
 
 
 The article concludes by expressing concern about the erosion of trust between India and the US, warning that such covert operations could undermine their strategic partnership.
+=======
+This article argues that the US government, through its embassies in India, is engaging in covert operations to influence Indian domestic politics.
+
+The author points to a series of events, including a workshop hosted by the US embassy on combating disinformation, which was associated with groups known for their partisan leanings and perceived connections to American foundations with a history of supporting regime change efforts. 
+
+The author suggests that these actions, while presented as efforts to promote democracy and human rights, are actually attempts to undermine the Indian government's ideological stance and strengthen opposition voices. He cites examples of US pressure on social media companies to censor certain viewpoints and alleged US funding of organizations engaged in biased information dissemination.  The article concludes that such actions erode trust in the US-India strategic partnership.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 28 Jul 2024 17:20:52 +0530
 ### [Hamas-Fatah deal: Truth behind China’s role as ‘global peace mediator’](https://www.firstpost.com/opinion/hamas-fatah-deal-truth-behind-chinas-role-as-global-peace-mediator-13797990.html)
 
+<<<<<<< HEAD
 China recently brokered a peace agreement between Palestinian factions, including Hamas and Fatah, in Beijing. This agreement, hailed by China as a major diplomatic achievement, aims to form a united national government. 
 
 However, the author questions the sincerity of China's peace-making efforts, citing the continued tensions between Saudi Arabia and Iran, despite their rapprochement facilitated by Beijing. The author also points out the limitations of the Palestinian agreement, arguing that Hamas's recent attacks on Israel undermine its legitimacy and that past unity agreements have failed. The author concludes by criticizing China's hypocrisy, noting their continued support for terrorism in other regions, particularly against India.
+=======
+China recently brokered a peace agreement between various Palestinian factions, including Hamas and Fatah, in Beijing. This agreement, hailed as a diplomatic achievement by Chinese media,  calls for a unified Palestinian government once the war in Gaza ends.
+
+China is touting this agreement, along with other recent diplomatic efforts, as proof of its emerging role as a global peacemaker. However, critics argue that this claim is premature and hypocritical. They point to the lack of real progress in the Saudi-Iran rapprochement,  and question China's support for terrorist groups, such as Hamas. 
+
+
+Furthermore, past Palestinian unity agreements have failed, and this pact is viewed with skepticism by some experts. The author contends that China's actions highlight a dangerous hypocrisy, and call for a more critical examination of Beijing's motivations.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 28 Jul 2024 15:05:18 +0530
 ### [Ongoing study reveals house sparrows in Uttarakhand follow human migration](https://www.firstpost.com/opinion/ongoing-study-reveals-house-sparrows-in-uttarakhand-follow-human-migration-13797968.html)
 
+<<<<<<< HEAD
 A new study by the Wildlife Institute of India reveals a unique bond between house sparrows and villagers in the Uttarakhand Himalayas.  Researchers found that sparrow populations migrate alongside villagers, leaving high-altitude villages with the onset of winter and returning when people return in the summer. This demonstrates a strong attachment between the sparrows and human presence.  
 
 The study also discovered that high-altitude sparrows are larger than their lower-elevation counterparts, likely an adaptation to the colder climate. The research team is continuing to study sparrow populations in different high-altitude villages, including their diet and nesting habits, to better understand their adaptations and conservation needs.
+=======
+Research by the Wildlife Institute of India has revealed a unique migratory pattern of house sparrows in the Uttarakhand Himalayas.  These sparrows follow the seasonal movements of local villagers, abandoning high-altitude villages in winter when people descend to warmer areas and returning with them in the summer.  
+
+This suggests a strong bond between the sparrows and humans in these communities. The study has also found that high-altitude house sparrows are larger in size compared to their counterparts at lower elevations, an adaptation to the colder climate.  The findings contribute to our understanding of the adaptation strategies and interdependence of wildlife with human populations in unique environments.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 28 Jul 2024 14:13:03 +0530
 ### [More than just the Games: The big message the Olympics convey](https://www.firstpost.com/opinion/more-than-just-the-games-the-big-message-the-olympics-convey-13797953.html)
 
+<<<<<<< HEAD
 The Olympic Games, dating back to 776 BC, remain a significant global event despite societal changes.  Their popularity stems from their ability to promote sportsmanship, international peace, and economic growth for host nations.  
 
 Beyond their official purpose of fostering peace through sport, the Games have witnessed historical moments of reconciliation and unity, such as South Africa's participation in the 1992 Barcelona Games and the joint entry of North and South Korea in 2000 Sydney.  
 
 Despite facing challenges in a world marked by violence and xenophobia, the Olympics provide a platform for athletes from diverse backgrounds to compete and inspire global audiences. They also highlight lesser-known sports and support para-athletes, generating significant economic benefits and fostering a shared sense of emotion and unity.
+=======
+Despite evolving timelines and adapting formats, the Olympic Games remain a powerful, globally significant event.  Started in ancient Greece, the Games continue to inspire the world every four years. The Olympics transcend mere athletics, serving as a platform for promoting international peace and understanding.  
+
+Historical moments, from the participation of South Africa in 1992 and unified Korea in 2000 to the inclusion of refugee athletes in 2016, demonstrate the power of sport to bridge divides.  
+
+Beyond politics, the Olympics contribute to athlete development, boost tourism and economies of host nations, and provide a stage for diverse sports to gain global recognition. Continuing to evolve and adapt, the Olympic Games remain a symbol of unity and human achievement.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 28 Jul 2024 12:19:00 +0530
 ### [America's Resolve Tibet Act and India as third polarity in Sino-Tibetan negotiations](https://www.firstpost.com/opinion/americas-resolve-tibet-act-and-india-as-third-polarity-in-sino-tibetan-negotiations-13797921.html)
 
+<<<<<<< HEAD
 The US passage of the Resolve Tibet Bill reaffirms support for direct talks between China and the Dalai Lama's representatives, while acknowledging that China's claims on Tibet are historically inaccurate.  
 
 The bill, which has drawn both praise and protest, faces challenges due to the ongoing US-China tensions and the requirement that the US recognizes Tibet as part of China.  
@@ -974,19 +1137,39 @@ The bill, which has drawn both praise and protest, faces challenges due to the o
 India's position regarding Tibet holds significance as it shares a lengthy border with Tibet and  has an ongoing dispute with China over this region. 
  
 The bill also brings attention to the Dalai Lama's succession and the concerns surrounding China's influence on choosing his successor.  Ongoing tensions within Tibet, exemplified by the recent closure of a prominent Tibetan vocational high school, further complicate the situation.
+=======
+The article discusses the implications of the US "Promote a Resolution to the Tibet-China Dispute Act" signed into law. 
+
+The author analyzes the historical context surrounding Tibet's loss of independence, highlighting failures of international support and the influence of the "Great Game" dynamics. The law's affirmation of Tibetans' right to self-determination and its rejection of China's historical claims to Tibet are noted.
+
+However, the author also expresses skepticism about its effectiveness due to the longstanding "One-China Policy" and the tense US-China relations.  The article emphasizes the importance of India as a third polarity in negotiations, considering its historical border disputes with China and its continued presence as Tibet's neighbor. 
+
+
+It also mentions the Chinese government's crackdown on Tibetan culture, citing the recent closure of a prominent vocational school in Qinghai province as an example.  Ultimately, the author urges Tibetans to include India in any future negotiations,  
+advocating for a multi-polar approach to the dispute.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 27 Jul 2024 17:47:09 +0530
 ### [Chinese checkers in West Asia: Why peace remains elusive in Gaza](https://www.firstpost.com/opinion/chinese-checkers-in-west-asia-why-peace-remains-elusive-in-gaza-13797760.html)
 
+<<<<<<< HEAD
 The article analyzes the contrasting approaches of China and the US to the Israeli-Palestinian conflict. While both claim support for the Two-State Solution, China is engaging with various Palestinian factions, seeking unity and reconciliation, while the US primarily aligns with Israel. 
 
 China's efforts, including hosting a Palestinian unity conference, are seen as a push for peace and a challenge to the US-Israel dynamic. Israel criticizes China's engagement with groups like Hamas, while the US continues to provide strong support to Israel, as demonstrated by Prime Minister Netanyahu's recent address to the US Congress. 
 
 Despite the complexities and deep divisions, the article emphasizes the importance of continued efforts towards peaceful coexistence and finding a solution to the longstanding conflict.
+=======
+The article examines the contrasting approaches of China and the US to the Israeli-Palestinian conflict.  While both nations claim support for a two-state solution, China has engaged actively with Palestinian factions, including Hamas and Fatah, aiming for a unified approach under the PLO. 
+
+This stance contrasts with the US, which remains aligned with Israel, despite growing criticism of its actions in Gaza. Israeli Prime Minister Netanyahu, in a recent address to the US Congress, emphasized the threat posed by Iran and its proxies, including Hamas, while also reiterating Israel's commitment to its security.
+
+The author highlights the challenges in achieving a lasting solution, with deep divisions within Palestinian groups and intractable positions on both sides. Beijing's efforts to foster dialogue and a unified Palestinian front may hold significant influence in shaping future outcomes.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 27 Jul 2024 16:18:56 +0530
 ### [Modernisation and aatmanirbharta: Decoding the defence budget allocation 2024](https://www.firstpost.com/opinion/modernisation-and-aatmanirbharta-decoding-the-defence-budget-allocation-2024-13797711.html)
 
+<<<<<<< HEAD
 India's FY 2024-25 defence budget is marginally lower than the interim budget, at Rs 6.21 lakh crore. While this represents a high allocation for the ministry, it's still less than 2% of India's GDP. 
 
 Despite a focus on domestic manufacturing and defence exports, concerns remain about the adequacy of the budget given  India's growing security challenges, particularly from China. 
@@ -994,33 +1177,61 @@ Despite a focus on domestic manufacturing and defence exports, concerns remain a
 
 The budget prioritises pay, allowances, pensions, and capital expenditures, leaving limited funds for modernization and R&D.  Critics note the need to separate these obligatory expenditures from the core defence budget. 
  India's defence exports reached Rs 21,083 crore in FY 2023-24, demonstrating a commitment to self-reliance. However, a greater allocation is deemed necessary  to address India's evolving security landscape and fully realize its defence potential.
+=======
+India's defense budget for FY 2024-25 stands at Rs. 6.21 lakh crore, a slight reduction compared to the interim budget.  Despite this, it remains the highest allocation among ministries, representing 13% of the total budget.  
+
+The government emphasizes its focus on domestic manufacturing and self-reliance in the defense sector, aiming to reduce reliance on imports. India has seen record achievements in defense production, reaching Rs 1.27 lakh crore in FY 2023-24.  
+
+The budget allocation prioritizes capital expenditure, sustaining operational preparedness, and personnel-related costs, including pensions. While defense exports have reached record highs of Rs 21,083 crore, concerns remain about the share allocated to modernization and the impact of global security threats like the ongoing conflicts between Israel-Hamas, Russia-Ukraine, and China's actions in the South China Sea and Indian Ocean Region.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 27 Jul 2024 15:21:38 +0530
 ### [Rawalpindi’s jihad factory is bleeding Pakistan, and yet it won’t stop feeding terrorists](https://www.firstpost.com/opinion/rawalpindis-jihad-factory-is-bleeding-pakistan-and-yet-it-wont-stop-feeding-terrorists-13797691.html)
 
+<<<<<<< HEAD
 In a recent address, Prime Minister Narendra Modi warned Pakistan against its continued use of terrorism against India, reminding them of the failure of their past attempts.  Pakistan, currently facing economic woes, persists with its reliance on terrorism despite internal security threats from groups like the TTP. This despite the country's security forces battling terrorist attacks and a significant number of casualties. 
 
 The Pakistani military, acknowledging the security challenges, launched a new operation "Azm-e-Istehkam"  to combat terrorism.  The operation encompasses various aspects, including kinetic action, alongside political, diplomatic, socio-economic, and informational strategies. The army emphasized the collaborative nature of the operation, involving various government agencies.  Despite these efforts, concerns remain about the effectiveness of these measures, particularly regarding the control of smuggling and the spread of negative narratives against the Pakistani army and state.
+=======
+The article discusses Pakistan's continued use of terrorism against India, despite facing its own internal security challenges. Prime Minister Modi's address in Drass, where he warned Pakistan against its terror tactics, is highlighted. 
+
+Pakistan's current economic crisis hasn't deterred its reliance on terrorism, which is evident in attacks on civilians and security forces within Pakistan,  attributed to groups like Jaish Fursan e Muhammad and the Tehreek-e-Taliban-e-Pakistan (TTP).  
+
+The Pakistani army, through its spokesperson, emphasizes its ongoing efforts to combat terrorism with the "Azm-e-Istehkam" campaign. However, the army's comments also reveal a sense of frustration with the state of affairs, pointing to the role of  "digital terrorists" in undermining the country and accusing India of seeking to exploit Pakistan's vulnerabilities.  
+
+The author, a former Indian diplomat, stresses Pakistan's need to normalize relations with India for its own progress and security, concluding that perpetual enmity with India will only lead to further struggles.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 27 Jul 2024 13:32:17 +0530
 ### [How DRDO’s successful Ballistic Missile Defence test is critical to India’s security](https://www.firstpost.com/opinion/how-drdos-successful-ballistic-missile-defence-test-is-critical-to-indias-security-13797658.html)
 
+<<<<<<< HEAD
 India successfully conducted a flight test of its Phase-2 Ballistic Missile Defence (BMD) system on July 24, 2024.  The test demonstrated India's capability to intercept incoming ballistic missiles within a short timeframe, crucial considering the potential threat from adversaries like Pakistan and China, who possess nuclear-capable missiles. 
 
 The BMD program, spearheaded by DRDO, has two key components: the exo-atmospheric Prithvi Air Defence (PAD) and the endo-atmospheric Advanced Air Defence (AAD).  Years of advancements in radar technology, sensor networks, and interceptor missile development culminated in this test. The successful interception emphasizes India's commitment to strengthening its  defensive posture against ballistic missile threats.
+=======
+DRDO successfully conducted a flight test of India's Phase-2 Ballistic Missile Defence System (BMD) on July 24, 2024. The test demonstrated the system's capability to intercept a target missile within a four-minute timeframe, highlighting the system's speed and accuracy. This success comes after years of research, development, and testing, with DRDO focusing on enhancing the speed, accuracy, and reliability of the entire BMD architecture. 
+
+India's BMD program involves developing both endo-atmospheric and exo-atmospheric systems to intercept ballistic missiles at different altitudes. Key components include the Prithvi Air Defence (PAD) and Advanced Air Defence (AAD) missiles, along with a comprehensive command and control system. While the BMD program is nearing completion, India is also utilizing Russian systems like the S-300 and S-400 to bolster its air defence capabilities against various aerial threats.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 27 Jul 2024 11:18:05 +0530
 ### [India's quest to become leading maritime shipping hub](https://www.firstpost.com/opinion/indias-quest-to-become-leading-maritime-shipping-hub-13797605.html)
 
+<<<<<<< HEAD
 India aims to become a major hub for international maritime trade. Its strategic location and extensive coastline offer promising opportunities.
 
 Recent advancements in port infrastructure, such as the development of Vizhinjam port and the Vadhavan Port, are instrumental in enhancing India's maritime capabilities. These upgrades enable India to accommodate larger container ships and improve its competitiveness on the global stage. 
 
 By building out world-class ports and transshipment hubs, India seeks to diversify global shipping routes and reduce reliance on traditional hubs like Singapore and Colombo, which have often been vulnerable to geopolitical tensions.
+=======
+India aims to become a significant hub for international maritime trade and a key player in global supply chains. With its strategic location and growing port infrastructure, India is poised to attract larger container ships.  Recent developments like the Vizhinjam port, equipped with advanced technology, are expected to make India a major transshipment hub, rivaling Singapore, Shanghai, and Hong Kong. This move aims to reduce India’s dependence on other ports and position it as a viable alternative manufacturing destination to China.  The article also highlights the importance of diversifying shipping routes to mitigate geopolitical risks and trade disruptions in a turbulent global landscape.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 26 Jul 2024 18:08:52 +0530
 ### [As AI arms race heats up, India’s role will be crucial](https://www.firstpost.com/opinion/as-ai-arms-race-heats-up-indias-role-will-be-crucial-13797387.html)
 
+<<<<<<< HEAD
 India is strategically positioning itself in the global AI race, prioritizing software development and talent over direct hardware manufacturing. The country leverages its strong software industry, abundant engineering graduates, and government initiatives to foster AI growth.  
 
 Indian companies are focusing on:
@@ -1032,81 +1243,159 @@ Indian companies are focusing on:
 * Fostering AI research hubs and talent development programs.
 
 While India faces challenges in AI infrastructure and skills gap, its software-centric approach could redefine AI leadership by promoting efficient AI systems and fostering global collaboration.
+=======
+Nations worldwide are intensifying their efforts to secure advanced GPUs, essential for training powerful AI models, amid a global shortage sparked by US export controls on these chips to China. This situation has triggered a global race for GPU dominance, with countries stockpiling existing supplies and investing heavily in domestic chip development.  
+
+India, while not a major GPU manufacturer, is strategically positioning itself in the AI landscape. Leveraging its strong software capabilities and vast talent pool, India is focusing on developing software solutions that optimize GPU usage, expanding cloud GPU services, and fostering collaborations with global players. This approach, emphasizing software innovation and strategic partnerships, presents India as a potential alternative in the US-China tech rivalry.
+
+However, India faces challenges in bridging its AI infrastructure gap and addressing the growing demand for AI skills.  Overcoming these hurdles will be crucial for India to fully capitalize on its strengths and establish itself as a leading player in the global AI race.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 26 Jul 2024 16:25:22 +0530
 ### [How Trump’s return to White House can change dynamics in West Asia and Europe](https://www.firstpost.com/opinion/how-trumps-return-to-white-house-can-change-dynamics-in-west-asia-and-europe-13797343.html)
 
+<<<<<<< HEAD
 The article analyzes potential shifts in US foreign policy if Donald Trump is re-elected in November. 
 
 It suggests a return to Trump's previous policies, highlighting a possible shift from focusing on Europe and NATO to prioritizing the South China Sea and countering China.  He may end aid to Ukraine, pushing for negotiations to end the Russia-Ukraine war. In West Asia, Trump might adopt a tougher stance, unequivocally supporting Israel in the conflict with Hamas and maintaining pressure on Iran. The article concludes that a second Trump presidency could significantly alter the geopolitical landscape, particularly in its approach to Europe, the Middle East, and China.
+=======
+If Donald Trump wins the November presidential election, US foreign policy is expected to resemble his approach during his first term. 
+
+Regarding the Russia-Ukraine war, Trump may prioritize negotiations to end the conflict, potentially reducing US aid and military support for Ukraine.  In West Asia, a Trump presidency is likely to involve unwavering support for Israel, potentially escalating tensions with Iran through continued sanctions and a hardline stance. 
+
+Trump's focus may shift towards countering China's growing influence, potentially leading to increased economic tensions.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 26 Jul 2024 14:46:48 +0530
 ### [Global blind spot: China’s Uyghur crisis and the smokescreen of anti-India propaganda](https://www.firstpost.com/opinion/global-blind-spot-chinas-uyghur-crisis-and-the-smokescreen-of-anti-india-propaganda-13797308.html)
 
+<<<<<<< HEAD
 China's crackdown on Uyghur Muslims in Xinjiang is now being extended to other Muslim minorities within China, such as the Hui in Yuxi.  
 
 The Chinese government employs various tactics like mass surveillance, limitations on religious practices, and restrictions on cultural expression, all under the guise of "Sinification." The campaign aims to assimilate minorities into Han Chinese culture, disregarding their historical and religious identities. This suppression, exemplified by the monitoring of fasting schoolchildren and the banning of headscarves for civil servants, mirrors the harsh policies in Xinjiang.
 
 Despite concerns over human rights violations and cultural eradication, China uses its economic influence to silence criticism from many Muslim-majority nations. While the West often focuses on Muslim issues within India, the situation in China remains largely unaddressed. A more inclusive and conciliatory approach towards minorities, including genuine dialogue and respect for cultural and religious freedoms, is crucial to achieving lasting peace and stability.
+=======
+China's campaign of Sinification, aimed at assimilating ethnic minorities into Han Chinese culture, is expanding beyond Xinjiang. Hui Muslims in Yuxi, a significant Muslim minority in mainland China, are facing increased restrictions on religious practices, surveillance, and forced cultural erasure under the guise of separating religion from education. Similar policies implemented in Xinjiang, including mass internment in "re-education camps" and intrusive surveillance, have resulted in the detention of over a million Uyghurs and other Muslim minorities.
+
+While China deflects criticism by leveraging its economic power, the international community remains largely silent on the escalating human rights violations.  The author argues that China's repressive measures only fuel separatism and extremism, calling for a more inclusive and conciliatory approach that respects cultural and religious freedoms and addresses underlying grievances.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 26 Jul 2024 13:43:08 +0530
 ### [The spillover impact of student protests in Bangladesh and implications for India](https://www.firstpost.com/opinion/the-spillover-impact-of-student-protests-in-bangladesh-and-implications-for-india-13797236.html)
 
+<<<<<<< HEAD
 Student-led protests erupted in Bangladesh over the reinstatement of a 30% quota in government jobs for descendants of 1971 Liberation War freedom fighters.  The protests, initially sparked by a High Court ruling, turned violent, resulting in significant casualties and widespread internet and mobile network shutdowns.  The government imposed a curfew and detained protesters, including opposition leaders.  Despite a Supreme Court hold on the quota, protests continue, demanding its permanent abolishment and accountability from Prime Minister Sheikh Hasina. The Indian government issued advisories, facilitated the return of Indian nationals, and heightened security along the border due to the unrest. The protests have strained relationships with India regarding treaties and the sharing of  Tista River water. China's growing influence in Bangladesh adds another layer of complexity to the situation, as Bangladesh seeks economic partnerships and assistance in infrastructure development.
+=======
+Student-led protests in Bangladesh, sparked by the reinstatement of a controversial quota system for government jobs, pose a significant challenge to the ruling Awami League government. The protests, which have resulted in dozens of deaths and injuries, have led to a nationwide shutdown, internet restrictions, and detentions of protesters, including opposition leaders.  The government's attempt to label protesters as traitors has further escalated tensions.  
+
+The protests have impacted trade between Bangladesh and India, prompted an advisory for Indian nationals, and raised concerns about the spillover effect of the unrest. Critics argue that the quota system is discriminatory and violates constitutional principles of equality, while the government maintains its support for the measure. As China expands its influence in Bangladesh, these internal challenges add to concerns about regional stability and impact diplomatic relations.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 26 Jul 2024 11:11:31 +0530
 ### [25 years of Kargil: Lessons on high altitude aerial combat against a bigger enemy this time](https://www.firstpost.com/opinion/25-years-of-kargil-lessons-on-high-altitude-aerial-combat-against-a-bigger-enemy-this-time-13797181.html)
 
+<<<<<<< HEAD
 The 1999 Kargil conflict with Pakistan serves as a valuable lesson for India's potential future conflict with China. Despite the Kargil victory, the war highlighted the need for improved intelligence, surveillance, and reconnaissance capabilities, particularly in the high-altitude regions. 
 
 The Indian Air Force (IAF) gained valuable experience in precision bombing at extreme altitudes and adapted its tactics to counter Chinese threats. Significant progress has been made since Kargil, with modernization of the IAF, including the induction of Rafale fighters, BrahMos missiles, and advanced helicopters.
 
 However, challenges remain. The Indian military still needs to increase its fighter squadron strength and invest further in electronic warfare and drone technology.  India must also focus on strengthening its air defense systems and enhancing the resilience of its airfields in potential high-altitude conflict zones. Lastly, the article emphasizes the importance of quick and decisive political action to equip the IAF with the necessary resources to effectively counter future threats.
+=======
+The Kargil War, a conflict between India and Pakistan in 1999, serves as a crucial lesson for India in its ongoing standoff with China. Pakistan's surprise infiltration tactic in Kargil highlights the importance of robust intelligence gathering and border surveillance, lessons that remain relevant in the context of the current tensions with China along the Line of Actual Control (LAC).
+
+The article emphasizes the need for India to bolster its airpower capabilities.  Prioritizing the induction of modern fighter aircraft, Airborne Early Warning and Control (AEW&C) systems, and Flight Refuelling Aircraft (FRA) is crucial.  
+
+Investing in a larger and more capable UAV fleet, along with strengthening air defenses with missile systems like BrahMos and Akash, is also imperative. 
+
+The article underscores the significance of high-altitude training and infrastructure development to meet the unique challenges of fighting a war in the mountainous terrain of the Himalayas. It concludes by stressing the need for swift political action to address the urgent requirement of modernizing India's Air Force to counter the growing military might of China.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 25 Jul 2024 19:52:04 +0530
 ### [Ramification | Bangladesh’s quota protests: A test for Sheikh Hasina’s leadership](https://www.firstpost.com/opinion/ramification-bangladeshs-quota-protests-a-test-for-sheikh-hasinas-leadership-13797034.html)
 
+<<<<<<< HEAD
 Protests in Bangladesh, triggered by the reinstatement of a quota system favoring descendants of 1971 war heroes, escalated into violence, leaving over 150 dead. The situation intensified when Prime Minister Sheikh Hasina referred to protestors as "Razakars," a highly derogatory term for those who collaborated with Pakistan during the war, leading to further unrest.  
 
 While the quota issue is central to the protests, some argue it's also a platform for opposition parties to challenge Hasina's governance.  Political parties and student wings have capitalized on the sentiment, with some alleging Indian interference in the elections.  
 
 The Indian government has issued advisories and facilitated the return of Indian students amidst the unrest.  Regional stability is at stake, with experts highlighting the potential for anti-India forces to gain ground if the current government is toppled, jeopardizing India's Act East Policy and potentially turning Bangladesh into a hub for jihadi terrorism.
+=======
+Protests in Bangladesh erupted over the reinstatement of a quota system reserving government jobs for certain groups, including descendants of 1971 war heroes. While the Supreme Court suspended the high court's order, the situation escalated into violence, claiming over 150 lives and prompting internet suspension, curfews, and deployment of security forces. 
+
+The protests, fueled by the government's use of the derogatory term "Razakar" to refer to the demonstrators, have been exploited by the Opposition to undermine the ruling Awami League's legitimacy.  The unrest has  raised concerns about the potential resurgence of Jamaat-e-Islami, a proscribed group with ties to international jihadi networks.  
+ 
+External pressure from the US, coupled with the BNP's anti-India rhetoric, further complicates the situation.   India views the stability of the Sheikh Hasina-led government as crucial for its own security and Act East policy, fearing the rise of anti-India forces and instability in the region should the government fall.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 25 Jul 2024 19:25:48 +0530
 ### [Great power politics: BRI and IMEEC at the crossroads of global influence](https://www.firstpost.com/opinion/great-power-politics-bri-and-imeec-at-the-crossroads-of-global-influence-13797030.html)
 
+<<<<<<< HEAD
 The article analyzes the competition between China's Belt and Road Initiative (BRI) and the US-led India, Middle East, Europe Economic Corridor (IMEEC).  It argues that China's economic rise has fueled its political ambitions to reshape the global order, challenging US hegemony. The US, through IMEEC, aims to counter China's influence, particularly in its near region.
 
 While both initiatives share goals of connectivity and economic growth, IMEEC may be more successful if the US and its partners secure sufficient financial resources, given their democratic values, transparent financial systems, and global trust. The article suggests that BRI has faced criticism regarding debt-trap diplomacy and a lack of transparency. It concludes by noting India's preference for a more inclusive global order, contrasting both US and Chinese strategies with the potential for conflict.
+=======
+The article analyzes the rivalry between China's Belt and Road Initiative (BRI) and the US-led India, Middle East, Europe Economic Corridor (IMEEC).  
+
+China's economic rise and its ambition to reshape the global order through BRI are seen as a challenge to US hegemony. The US, in response, is seeking to counter BRI through IMEEC, forming alliances within a bipolar power structure.  
+
+While both initiatives aim to enhance connectivity and economic growth, the article suggests IMEEC has a higher chance of success due to the US's democratic values, transparency, and global trust. BRI, on the other hand, has faced criticism regarding debt-trap diplomacy and lack of transparency. India, wary of both US and Chinese approaches, advocates for a more pluralistic and inclusive world order.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 25 Jul 2024 17:04:05 +0530
 ### [India’s climate tightrope: Green growth for Viksit Bharat](https://www.firstpost.com/opinion/indias-climate-tightrope-green-growth-for-viksit-bharat-13796904.html)
 
+<<<<<<< HEAD
 India's approach to climate change emphasizes a balance between economic growth and environmental sustainability. 
 
 Challenging the sole focus on global temperature targets, India highlights the interconnectedness of climate, human well-being, and ecological stability. Despite being a fast-growing economy, India's per capita carbon emissions remain low, and the country aims to achieve net-zero emissions by 2070. 
 
 Key strategies include promoting renewable energy, enhancing energy efficiency, and prioritizing adaptation measures to address climate vulnerabilities. India's ancient ethos of harmony with nature informs its sustainable lifestyle model, offering a unique perspective on global climate action.
+=======
+India's approach to climate change prioritizes balancing economic growth with environmental sustainability, diverging from a global focus solely on temperature targets.  
+
+The country's per capita emissions are significantly lower than the global average, driven by a commitment to "Viksit Bharat" (developed India) by 2047 and net-zero emissions by 2070. While India acknowledges the importance of renewable energy and has made significant strides, it also recognizes the need for a diversified energy mix, including nuclear power.  
+
+India's National Action Plan on Climate Change (NAPCC) outlines strategies for sustainable development across various sectors, with achievements already exceeding initial goals. The government also emphasizes adaptation measures to address climate vulnerability and promotes sustainable lifestyles rooted in traditional values.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 25 Jul 2024 15:11:04 +0530
 ### [Reality check: Can India do anything about American interference in politics?](https://www.firstpost.com/opinion/reality-check-can-india-do-anything-about-american-interference-in-politics-13796897.html)
 
+<<<<<<< HEAD
 The article discusses the US's influence operations in India through cultural exchanges and the challenges it poses to Indian sovereignty.  It highlights how the US, with its greater resources and global influence, can attract and shape Indian intellectuals and influencers, often with agendas that may not align with Indian interests. 
 
 The author argues that India is caught in a trap, as responding with censorship only worsens its image internationally. It acknowledges that such influence operations are not new, citing historical examples of Soviet and US interventions.  The article suggests that India's global Indian community could become a powerful counter-force by promoting Indian interests abroad, learning from successful models like Israel's cultural tourism initiative.  Finally, it emphasizes the hidden nature of cultural warfare, making it difficult to track and counter US influence.
+=======
+The article discusses how the West, particularly the US, engages in cultural influence operations around the world, using programs like the Fulbright initiative and interactions with intellectuals and influencers. The author argues that India is facing a challenge in countering this soft power as it lacks comparable resources and strategies.  
+
+While acknowledging the influence the US wields, the author also points out its vulnerabilities, such as corruption and a compromised political system. It suggests that India can leverage its global diaspora, which holds significant influence in various sectors, to push for Indian interests and counter Western influence.  
+
+The article concludes by emphasizing the ongoing nature of this "cultural war" and the need for India to develop effective strategies to navigate it.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 25 Jul 2024 11:06:40 +0530
 ### [Is Iraq the missing piece in India’s corridor strategy?](https://www.firstpost.com/opinion/is-iraq-the-missing-piece-in-indias-corridor-strategy-13796760.html)
 
+<<<<<<< HEAD
 The article discusses India's diplomatic and economic interests in the Middle East, focusing on alternatives to the India-Middle East Economic Corridor (IMEEC). 
 
 While the IMEEC focuses on a route through Iran, the author argues that Iraq presents a more viable and stable option for India.  They highlight India's long-standing historical and cultural ties with Iraq, despite fluctuating political climates,  and point to the recent economic growth and stability in Iraq. 
 
 The author suggests India should strengthen its investment and trade ties with Iraq, citing opportunities for Indian businesses and the potential for a new trade route that can benefit both countries.
+=======
+The article proposes Iraq as a strategic alternative to the India-Middle East Economic Corridor (IMEEC) and the Iran-based North-South corridor.  
+
+Historical ties between India and Iraq, coupled with a stable political environment and burgeoning economic opportunities, make Iraq an attractive partner. India's existing trade with Iraq has more than doubled since 2020, driven by oil exports and projects in infrastructure and energy.  
+
+The author argues that Iraq offers a more stable and predictable investment environment compared to Iran, which faces internal instability and lacks a robust commercial legal framework.  Expanding educational and business ties with Iraq would benefit both nations and solidify India's position in the Middle East.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 24 Jul 2024 19:51:20 +0530
 ### [China’s inward turn: A path to stability or stagnation?](https://www.firstpost.com/opinion/chinas-inward-turn-a-path-to-stability-or-stagnation-13796645.html)
 
+<<<<<<< HEAD
 China's recent economic and political moves signal a concerning inward focus.  Despite a large trade surplus, economic growth is slowing, domestic consumption is weak, and high savings rates reveal anxieties about social stability.  
 
 Internal issues are also plaguing the military, with recent purges highlighting corruption and inefficiencies within its ranks. This casts doubt on China's military capabilities despite significant weaponry advancements.  
@@ -1114,24 +1403,47 @@ Internal issues are also plaguing the military, with recent purges highlighting 
 The property market is teetering on the brink of collapse, with major developers facing financial distress. The government's reluctance to intervene exacerbates this issue.
 
 China's ambitions, such as the Belt and Road Initiative, are facing setbacks, and its assertive foreign policy has led to increased international tension. The author argues that China's rigid control measures, prioritizing stability over economic freedom, may ultimately hinder its long-term growth.
+=======
+China's economic narrative is shifting from outward expansion to inward focus, driven by a perceived need for national security and self-reliance. While bolstering domestic industries is a stated goal, this strategy masks significant challenges.  
+
+China's export-driven economy faces mounting global resistance and sluggish domestic consumption, raising concerns about economic stability and social welfare. 
+
+Corruption within the military weakens its effectiveness, despite significant investments in arms. The property market, once a growth engine, is plagued by financial distress and defaults, threatening the construction sector and overall economic health.
+
+China's stance on international issues, including Taiwan, India, and the South China Sea, has become increasingly confrontational, while its ambitious Belt and Road Initiative faces setbacks. 
+
+
+This inward turn, driven by a desire for control and stability, may ultimately hinder China's economic progress and global influence.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 24 Jul 2024 15:47:20 +0530
 ### [Jammu terror attacks: Time to plug security loopholes and send Pakistan a strong message](https://www.firstpost.com/opinion/jammu-terror-attacks-time-to-plug-security-loopholes-and-send-pakistan-a-strong-message-13796485.html)
 
+<<<<<<< HEAD
 The article pays tribute to Captain Brijesh Thapa and three other soldiers who were killed in an encounter with terrorists in Jammu and Kashmir.  
 
 It highlights the bravery and sacrifice of these soldiers, especially Brijesh, a third-generation army officer who followed in his father's footsteps.  
 
 The article also reflects on the sacrifices made by Indian soldiers in general, referencing other notable figures like Lieutenant Manoj Pandey and Captain Vikram Batra. It emphasizes the importance of the Indian Army's ethos, including courage, dedication, and putting the country first. While acknowledging the pride in their sacrifice, the article stresses the need to address the root causes of terrorism and prevent such incidents from recurring.  The author concludes by calling for a strong response to the threat posed by terrorism and the need to plug security loopholes.
+=======
+The article pays tribute to Captain Brijesh Thapa, one of four soldiers killed in an encounter with militants in Jammu and Kashmir.  Lt. Col. Thapa, a third-generation Army officer, was posthumously promoted to Captain.  The article highlights his bravery and sacrifice, emphasizing the ethos of the Indian Army, showcased through the stories of other martyrs like Lt. Manoj Pandey and Capt. Vikram Batra. It calls for taking concrete steps to prevent future such tragedies and send a strong message to Pakistan, advocating for plugging security loopholes and making such attacks costly and futile.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 24 Jul 2024 15:09:55 +0530
 ### [Kamala Harris’ advent infuses energy and hope in Democrats, but is it too late?](https://www.firstpost.com/opinion/kamala-harris-advent-infuses-energy-and-hope-in-democrats-but-is-it-too-late-13796463.html)
 
+<<<<<<< HEAD
 Joe Biden's withdrawal from the presidential race after months of declining health and pressure from his party paved the way for Kamala Harris to become the Democratic nominee.  Despite widespread support, including endorsements from prominent figures like Bill and Hillary Clinton, Harris'  nomination lacks the transparency and competitiveness ideal for selecting a strong candidate to challenge Donald Trump.  Questions remain about her electability, particularly among white voters, and the missed opportunity for a more rigorous selection process could impact the Democratic party's chances in the upcoming election.
+=======
+Joe Biden withdrew from the presidential race after weeks of pressure from within his party and public figures. His declining health and a poor debate performance against Donald Trump contributed to the decision.  
+
+Despite calls for a more competitive process, Biden endorsed Vice President Kamala Harris as his successor. Harris has received significant support, including endorsements from key figures like Hillary and Bill Clinton and Nancy Pelosi. While the Democratic party is rallying behind her, some question whether she has sufficiently demonstrated leadership to challenge Trump. The absence of a competitive primary raises concerns about missing an opportunity to select the strongest candidate.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 24 Jul 2024 10:42:57 +0530
 ### [Budget 2024 creates a template for reforms in Modi 3.0](https://www.firstpost.com/opinion/budget-2024-creates-a-template-for-reforms-in-modi-3-0-13796349.html)
 
+<<<<<<< HEAD
 This year's budget emphasizes fiscal discipline with a reduced deficit target of 4.9% for FY25 and aims to achieve 4.5% or less by FY26. A significant allocation of Rs 11.11 lakh crore is earmarked for capital expenditure to boost infrastructure development.  
 
 Simplification of rules and regulations across various sectors are aimed at easing business and living for citizens and attracting foreign investments.  
@@ -1139,35 +1451,65 @@ Simplification of rules and regulations across various sectors are aimed at easi
 The budget also focuses on job creation through the "Employment Linked Incentive" scheme, providing direct benefits to first-time employees in the formal sector and incentives for employers. 
 
 Lastly, it proposes reforms to enhance land, labor, capital and entrepreneurial productivity, leveraging technology and creating a framework for  next-generation economic growth.
+=======
+This year's budget prioritizes five key areas. Firstly, it maintains fiscal discipline with a target of 4.9% fiscal deficit for FY25, aiming to reduce it further to 4.5% by FY26.  
+
+Secondly, capital expenditure receives a significant allocation of Rs 11.11 lakh crore, aiming to leverage the multiplier effect of infrastructure development. 
+
+Thirdly, the budget promotes simplification and reducing regulatory complexity in areas like trade and taxation, aiming to ease business operations and make compliance simpler. 
+
+Fourthly, job creation is a focus, with an Employment Linked Incentive scheme offering benefits to first-time employees and incentivizing hiring in the manufacturing sector.  
+
+Finally, the budget emphasizes next-generation reforms by focusing on land, labour, capital, and entrepreneurship reforms, including digitizing cadastral maps, streamlining skilling services, and promoting climate finance.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 23 Jul 2024 18:44:09 +0530
 ### [Budget 2024: A progressive approach to growth and welfare](https://www.firstpost.com/opinion/budget-2024-a-progressive-approach-to-growth-and-welfare-13796198.html)
 
+<<<<<<< HEAD
 India’s Union Budget for FY 2024-25 emphasizes inclusive growth, targeting four key segments: the poor, women, youth, and farmers.  The budget allocates Rs. 1.48 lakh crore for education,  employment, and skilling initiatives, aiming to create over 4.1 crore new jobs in the next five years.  
 
 A key highlight is the Prime Minister’s package, which comprises five schemes designed to provide employment, skilling, and opportunities for 4.1 crore youth. These include internship opportunities at top companies, employment-linked incentives, model skill loans, and education loans. The government also plans to upgrade 1,000 ITIs and launch a new centrally sponsored scheme for skill development.
 
 
 Overall, the budget reflects a commitment to empowering youth, creating job opportunities, and fostering a more inclusive and developed India.
+=======
+India's Union Budget for FY 2024-25 emphasizes inclusive growth, balancing capital expenditure with welfare spending. While global uncertainties persist, India's economy remains strong with low and stable inflation. The budget prioritizes youth empowerment through programs focusing on employment, skilling, and education.  A significant allocation of Rs. 1.48 lakh crore will be directed towards these areas, including a five-year scheme to benefit 4.1 crore youth.  Initiatives like internship opportunities, employment-linked incentives, and skill loan schemes aim to equip young people with skills for the modern economy.  The government plans to upgrade 1,000 ITIs, and a new centrally sponsored scheme will collaborate with states and industry to skill 20 lakh youth over 5 years.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 23 Jul 2024 17:09:55 +0530
 ### [Budget 2024: Constructive welfare and not sops is the mantra for Viksit Bharat](https://www.firstpost.com/opinion/budget-2024-constructive-welfare-and-not-sops-is-the-mantra-for-viksit-bharat-13796108.html)
 
+<<<<<<< HEAD
 The budget prioritizes steady growth and development towards the goal of a developed India by 2047.  Key highlights include a focus on rural sector reforms, skilling programs, and an internship drive to boost employment.  
 
 The fiscal deficit is projected at 4.9%, and the  government aims to reduce it to 4.5% the following year, a move expected to attract foreign investment. Tax adjustments include reducing corporate tax for foreign companies, benefiting both domestic and foreign investments.  The budget also includes infrastructure spending, targeted support for marginalized communities, and measures to simplify the tax system.
+=======
+The budget prioritizes a steady, long-term growth trajectory towards a developed nation by 2047. It focuses on strengthening  foundations with enabling measures for rural development, youth skilling, and employment generation. 
+
+Key highlights include a reduced fiscal deficit, infrastructure allocation maintained at previous levels, and targeted measures for specific sectors like agriculture and defense.  
+Taxes have been subtly adjusted, impacting capital gains and property investments, while GST rates have seen reductions in certain categories.  The budget aims to attract foreign investment with a tax reduction for foreign companies and measures promoting ease of doing business.   
+Overall, the budget reflects a cautious yet optimistic approach, focusing on sustainable growth and development.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 23 Jul 2024 15:40:29 +0530
 ### [Budget 2024 lays blueprint for Viksit Bharat: Centre is facilitator, private sector, MSMEs drivers of growth](https://www.firstpost.com/opinion/budget-2024-lays-blueprint-for-viksit-bharat-centre-is-facilitator-private-sector-msmes-drivers-of-growth-13796060.html)
 
+<<<<<<< HEAD
 The article analyzes the  implications of the central government's shift in approach, as outlined in the recent budget speech.  
 
 The government, under this new strategy, prioritizes facilitating economic activities rather than directly funding them. It plans to achieve this through incentives, guarantees, and nudges rather than grants or direct investments. The article cites examples like loan guarantees for states and MSMEs,  financial  incentives for employers to hire regular employees, and a new internship program that leverages corporate social responsibility funds. 
 Ultimately, the article argues that this shift reflects a conscious decision to move away from direct financial involvement and embrace a more facilitative role.
+=======
+The Union Budget emphasizes a shift in the government's role, prioritizing facilitation over direct financial responsibility. 
+
+The government is less inclined to provide direct grants or investments, opting instead to incentivize, nudge, and offer guarantees. This is exemplified in its approach to states seeking infrastructure funding and in its plan to encourage private sector jobs through incentives for employers and first-time employees.  The government also proposes to guarantee loans for MSMEs and utilizes a new internship scheme, leveraging CSR funds to provide opportunities for youth without direct government expenditure. The budget reflects a "facilitate, don't assume" philosophy.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 23 Jul 2024 12:35:11 +0530
 ### [Thomas Crooks fired more questions than bullets at Donald Trump](https://www.firstpost.com/opinion/thomas-crooks-fired-more-questions-than-bullets-at-donald-trump-13795921.html)
 
+<<<<<<< HEAD
 Thomas Matthew Crooks fired [number of shots fired unclear - 
 Trump was struck by.
 
@@ -1192,10 +1534,18 @@ Please provide more context!
 
 
 Let me know if i can be of further assistant.
+=======
+**Summary**
+
+The article analyzes the controversy surrounding the attempted assassination of Donald Trump. It delves into inconsistencies in the sequence of events leading up to the shooting, the weapon involved, and the reasons behind the perceived tardiness of the Secret Service in neutralizing the threat.
+
+The article highlights concerns about witness statements not factored in and questions the lack of transparency regarding the nature and severity of Trump's injuries.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 
+<<<<<<< HEAD
 Please provide more context or the full article so I can accurately answer your question. 
 
 Please provide additional context or the full article for a complete understanding of the situation.
@@ -1290,10 +1640,48 @@ Please give me the full article.
 
 
 Please submit the full text. Please provide me with the complete text.
+=======
+The article uses  
 
 
 
 
+
+
+Please provide the missing portions of the article for complete context. 
+ 
+
+
+Let's break down what we know. Who was attacked?
+
+
+
+Let's examine the facts we do have. 
+
+* **The former President Donald Trump.  
+   was shot at.
+*  ** Thomas 
+the  perpetrator who attempted it. 
+* **The incident took place at Trump campaign rally in Butler, PA 
+* **Crooks was neutralized by US
+**
+
+In contrast with the previous attempt on **John Wilkes Boos 
+
+A glaring inconsistency in this incident compared to a famous at the 
+
+
+** **at
+
+Clearly, the level of detail in the article is quite  
+We can't  
+We need more information 
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+
+
+
+<<<<<<< HEAD
  Please provide me with the full article.
 
 
@@ -1328,6 +1716,80 @@ Please provide me with the whole
 Please provide me with the full text .
 
 Please give me the text.
+=======
+Please provide the missing
+** 
+
+Let's analyze the text 
+
+It states that the shooter  **
+
+It leaves many questions unanswered.
+
+
+Please provide
+
+
+
+
+A concise summary is difficult without the full text
+
+
+
+Please provide the complete article for
+
+
+
+I need to consult the full context.
+
+
+I need the complete text to provide a suitable summary of
+
+
+
+The content you provided is incomplete
+
+
+
+I require the full article to analyze it.
+
+
+
+Please provide the entire text for a comprehensive analysis
+
+
+
+***Please provide the complete article so I can provide a summary
+
+Please upload the whole text so I can provide a comprehensive
+
+
+Please provide the full article for a proper analysis.
+
+
+
+I need the entire article for an informed summary. Please provide the full text for a comprehensive summary.
+
+
+Please provide me with the complete text for a summarization.
+
+
+
+Please share the full article for a .
+
+Please provide the complete text
+
+
+
+Please provide the full context of the article.
+
+
+
+Please provide the complete text for a
+
+
+I need the complete article text to provide a summary.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -1344,12 +1806,73 @@ Please provide me with the complete text.
 
 
 
-Please provide me with
+
+
+Please provide the full text for a
+
+
+Please provide the article to analyze it and provide a summary.
+
+
+
+Please provide the entire article so I can
+
+
+
+Please share the complete text for a
+
+
+ I need the whole article to provide an accurate summary.
+
+
+Please provide me with the full article for a summary
+
+
+
+Please provide the complete to assess the text and give me the complete article
+
+
+Please send the whole article so I can provide a summary I need the full article to sum up the content please provide the full article for a review.
+
+
+
+Just provide the whole text for a summary. Just give me the complete article for and I need the
+
+
+
+Please provide the full text for a
+
+
+Please provide the complete article for summary
+
+
+Please send the full article about the event in the event for analysis
+
+
+
+Please provide the full article to provide a summary
+
+
+
+Please provide the whole article for a review.
+
+
+
+Please provide the complete text for a
+
+
+
+I need the full article to summarize.
+
+
+
+Please provide the complete
 
 
 
 I need the full text
 
+<<<<<<< HEAD
 
 Please provide me the full text. 
 
@@ -1382,21 +1905,796 @@ Please give me the full text .
 
 
 Please provide me with the full text.
+=======
+ **Please provide me the entire article for a
 
 
 
+
+I need the complete text to summarize.
+
+I ask for the whole context of the article for a
+
+
+
+Please provide the complete article for a.
+
+
+
+Please give the complete text for a summary
+
+
+
+Please offer the
+
+
+
+Please provide the full text for a
+
+
+
+Please provide
+
+Please provide the entire text for a summary
+
+
+
+I request the full text to summarize.
+
+
+
+---
+
+
+
+Please provide the complete text for a
+
+
+I am requesting the full article for
+
+
+
+Please provide the complete text for a summary.
+
+
+
+Please provide
+
+
+
+Please provide the complete text for analysis
+
+
+
+Please submit the full text for a
+
+
+
+Please provide the whole text for
+
+Please provide
+
+Please provide the full . Please share the complete article for a
+
+
+
+Please provide
+
+
+
+Please provide the
+
+
+
+Please share the complete text for a
+
+
+
+Please offer the whole
+
+
+
+Please
+
+Please provide the complete text
+
+
+Please provide the
+
+
+Please give me the full article for
+
+
+Please share the complete textual content for a summary.
+
+
+Please provide the whole article for a
+
+Please provide the text for a
+
+
+
+Please provide the entire text for a summary.
+Please provide the
+
+Please give me the
+
+
+
+
+
+Please provide
+
+Provide a
+
+
+Please provide the complete
+Please provide the whole text for an analysis. Please provide t
+
+Please provide the entire the to sum up the
+
+
+Please provide the whole text for a summary. Please provide th
+
+
+
+
+Please provide the entire t
+
+
+
+Please give me the entire text for a summary.
+
+Please submit the complete
+
+
+Please provide the whole text for a summary. Please provide the whole text for a summary.
+
+Please provide the complete
+
+
+Please provide the whole text for
+
+
+Please provide the complete text for
+
+Please
+
+
+
+Please provide the whole text me the complete text for a summary. Please provide the whole text for a summariz
+
+Please provide the
+
+
+Please provide
+Please provide the whole text for a summary.
+
+Please provide the whole text for a summary.
+
+Please provide the whole text for a
+
+
+
+Please provide the whole text for a summary. Please provide
+
+
+Please provide the complete text for a summary.
+
+Please provide the whole text for a summary.
+
+
+Please provide the whole text for a
+
+Please provide
+
+
+Please provide the whole text for a summarize
+
+Please provide the complete text for a summary. 
+
+
+
+Please provide the whole text for a summary.
+
+
+
+Please provide the whole text for a summary.
+
+
+Please provide
+
+
+
+Please provide the complete text for an analysis.
+
+
+
+Please provide the whole
+
+
+
+Please provide the complete text for a
+
+
+
+Please provide the whole
+
+
+
+Please
+
+
+
+Please provide the whole text for a
+
+
+
+Please provide the whole
+
+
+
+Please provide the whole text for an analysis.
+
+
+
+Please provide the whole text for a
+
+
+Please provide the
+
+
+Please provide the complete text for a summary.
+
+
+
+Please provide the
+
+
+
+Please!
+
+
+
+
+
+Please provide the whole
+
+Please provide the whole text for
+
+Please provide the whole text for a summary.
+
+
+
+
+
+Please provide the complete text for a summary.
+
+
+Please provide the
+
+
+
+Please provide the whole text for
+
+Please provide the
+
+
+
+Please provide the
+
+
+Please provide the whole text for a
+
+Please provide the
+
+Please provide the
+
+Please provide the complete text for a summary.
+
+
+
+
+Please provide the whole
+
+
+Please provide
+
+Please provide
+ Please provide
+
+
+
+
+
+
+Please provide the
+
+
+Please provide the whole
+
+Please provide the
+
+
+Please provide the whole
+
+
+Please provide the whole text for
+
+
+Please provide the whole
+
+
+
+
+Please provide the whole text for a summary.
+
+
+Please provide
+
+
+Please provide the whole text for a
+
+
+Please provide
+
+Please provide the
+
+
+Please provide the
+
+
+
+As seen in the text.
+
+
+
+Please provide the
+
+
+Please provide the whole
+
+
+Please provide the whole text for a summary.
+
+Please provide
+
+
+</h2>
+
+Please provide the whole. Please provide the whole
+
+
+Please provide the
+
+
+Please provide the whole.
+
+
+Please provide the
+
+
+Please provide the whole
+Please provide the whole text for
+
+Please provide the
+Please provide the
+
+
+
+
+Please
+
+
+Please
+ Please provide
+
+
+Please provide the whole
+P
+
+Please provide the whole
+
+
+Please provide the whole
+
+
+Please provide the whole
+Please provide the
+
+Please provide the whole
+
+
+Please provide the whole text for a
+
+
+Please provide the whole
+
+Please provide the
+Please provide the whole.
+
+
+
+Please provide the
+
+
+Please provide the whole.
+Please provide the whole
+
+
+
+Please provide the
+
+Please
+
+
+Please provide the whole. Please provide
+
+
+Please provide the whole
+
+Please provide the whole
+
+
+Please provide the whole.
+Please provide the whole
+
+Please provide
+
+
+Please provide the whole.
+
+
+
+Please provide the whole.
+
+Please provide a
+
+
+ Please provide the
+
+Please provide the whole.
+
+
+
+Please provide the whole.
+
+
+Please provide
+
+
+
+Please
+
+
+Please provide the whole.
+
+
+Please provide the
+
+
+Please provide the whole.
+Please provide the whole
+
+Please provide the whole
+
+Please provide
+
+Please provide the whole
+
+Please provide the
+
+
+Please provide the whole
+
+Please provide the whole
+
+ Please provide the
+
+Please provide the whole
+Please
+
+
+Please provide the
+
+Please provide the whole
+
+
+Please provide
+
+
+Please provide the whole.
+
+Please provide the
+
+
+Please provide the whole. Please pro
+Please
+
+
+Please provide the
+
+
+Please provide the
+
+
+
+Please provide the
+
+
+
+Please
+
+
+Please provide the whole
+
+
+Please provide the whole
+Please provide the
+
+
+Please provide the whole
+
+Please
+
+Please provide the
+
+Please
+Please provide the whole
+
+Please provide the whole
+
+Please provide the whole. Please
+
+
+
+
+
+Please provide
+
+Please provide the whole.
+
+
+Please
+
+
+
+Please provide the whole
+
+Please provide the whole
+Please provide the
+
+
+Please provide the
+
+
+Please provide the whole.
+
+
+
+Please provide the whole
+Please provide the whole
+
+Please provide the
+
+Please provide the whole.
+Please provide the whole.
+
+
+
+Please provide the whole.
+
+
+
+Please provide the
+
+
+Please provide the w
+Please
+
+
+Please provide the
+
+
+Please
+
+
+
+
+ Please provide the whole
+
+
+
+
+Please pro
+
+
+
+Please
+
+Please provide the
+
+
+Please
+
+
+Please
+
+Please provide the whole
+
+
+
+
+Please provide the
+
+Please provide the
+
+Please
+
+
+Please provi
+Please provide the
+
+Please provide the
+
+
+Please provide
+
+
+Please provide the
+
+
+Pleaseprovide
+
+Please provide the
+
+Please provide the
+
+
+Please provide
+
+Please
+
+
+Please provide the
+
+Please provide the
+
+
+Please
+
+
+Please provide
+
+
+
+
+Please provide the
+
+Please provide
+
+
+
+Please
+
+Please
+Please provide the
+
+
+
+
+Please the
+Please provide the whole
+
+
+
+Please
+
+
+Please
+
+
+Please provide the whole
+Please provide the
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+Please provide the whole
+Please provide
+
+
+Please provide the whole
+
+
+
+Please provide the
+
+
+
+Please provide
+
+
+Please
+
+
+Please provide the
+Please provide the
+
+
+
+
+Please
+
+
+Please provide the whole
+
+
+Please provide the
+
+
+
+Please
+
+
+Please provide the whole
+
+Please provide the whole
+
+
+
+
+Please pr
+Please
+
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+Please provide the whole
+Please pro
+
+
+<<<<<<< HEAD
 Please provide me with the complete text.
+=======
+Please provide
 
 
+Please provide the
 
+Please provide the whole.
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+Please pro
+
+
+<<<<<<< HEAD
 Please provide me with the full text. 
 
 
 
 Please provide me with the entire text.
+=======
+Please provide the
 
 
 
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+Please
+
+
+<<<<<<< HEAD
 Please provide me with the full text. 
 
 
@@ -1479,12 +2777,17 @@ Please provide me with the complete
 
 
 Let me provide you the complete
+=======
+Please 
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 My question is
 
+Please pro
 
 
+<<<<<<< HEAD
 Please provide me with the full
 
 Please provide me with the full
@@ -1833,19 +3136,39 @@ Please provide me with the
 
 Please pro
 Please provide me with a
+=======
+Please
+
+Please
+Please
+
+
+
+Please pi
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 Please
 
 
+<<<<<<< HEAD
 Please provide me with the
+=======
+Please pros
+
+
+
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 Please
 
 
 
+<<<<<<< HEAD
 Please provide me with the complete
 
 
@@ -1936,10 +3259,16 @@ Please
 Please provide me with the
 
 
+=======
+
+Please pro
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
 
+<<<<<<< HEAD
 Please provide me with 
 
 
@@ -1952,10 +3281,13 @@ Please provide me with the "Please Providence
 Please
 
 
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Please
 
 
+<<<<<<< HEAD
 
 Please provide me with
 
@@ -2119,6 +3451,10 @@ Please prov
 
 
 Please
+=======
+Please pro
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -2131,16 +3467,204 @@ Please pro
 
 
 
+<<<<<<< HEAD
+=======
+Please
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 Please
 
 
+<<<<<<< HEAD
+=======
+Please pro
+Please pra
+
+Please provide the
+
+
+
+Please
+
+
+Please pro
+
+
+
+
+Please
+
+
+Please pro
+
+
+
+Please provide the
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please pro
+
+Please provide the
+
+
+Please pro
+Please provi
+
+Please pro
+Please pro
+
+Please prov
+
+
+
+
+Please pro
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+Please
+
+Please provide the
+
+
+Please
+
+Please pro
+
+
+
+
+Please
+
+
+Please pro
+
+
+
+
+Please
+
+
+Yes, I can do that.
+
+
+
+Please pro
+
+Please prov
+
+
+Please pro
+
+Please
+
+
+Please
+
+
+Please pro
+
+
+
+
+Please
+
+
+Please pro
+
+
+
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+Please pro
+
+
+
+Please pro
+Please pro
+
+
+
+
+Please pro
+
+Please prov
+
+
+
+Please
+
+
+Please
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please provid
 Please
 
 
 
+<<<<<<< HEAD
+=======
+
+Please
+
+Please
+
+Please
+
+
+
+Please
+Please
+
+
+
+
+Please pro
+
+
+
+
+Please prov
+Please
+
+
+
+Please pro
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
@@ -2148,36 +3672,71 @@ Please pro
 
 
 
+<<<<<<< HEAD
 PleasPlease
+=======
+Please
+
+
+
+Please
+
+Please
+
+Please
+
+Please pro
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 Please
 
 
+<<<<<<< HEAD
 
 Please prov
+=======
+Please
+
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 Please
 
 
+<<<<<<< HEAD
 Please prov
 
 
 
 Please prov
+=======
+Please pro
+
+Please
+
+Please
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 
+<<<<<<< HEAD
 
 
 Please provide.
 
 
 
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please prov
 
 
@@ -2188,12 +3747,56 @@ Please
 
 Please
 
+<<<<<<< HEAD
+=======
+Please
+
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 Please
 
 
 
+<<<<<<< HEAD
+=======
+Please pro
+
+
+
+Please pro
+
+
+
+Please pro
+Please pro
+
+
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+
+
+
+Please
+
+Please
+
+
+Please pro
+
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please prov
 
 
@@ -2202,6 +3805,84 @@ Please prov
 
 
 
+<<<<<<< HEAD
+=======
+Please pro
+
+Please
+
+Please
+
+
+
+Please pro
+Please
+
+
+
+Please
+
+
+
+
+Please
+
+
+
+Please
+Please
+
+
+
+Please pro
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+Please
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please prov
+
+Please
+
+
+Please pro
+Please
+
+
+
+Please
+
+Please
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
@@ -2212,6 +3893,161 @@ Please
 
 Please
 
+<<<<<<< HEAD
+=======
+Please
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+Please
+
+
+
+Please pro
+
+
+
+Please
+Please
+
+Please pro
+
+
+
+Please pro
+
+Please
+
+Please
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+Please
+
+
+Please
+Please
+
+
+Please pro
+
+
+
+
+Please
+
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+Please
+
+
+
+Please pro
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please pro
+Please pro
+
+
+
+Please
+
+
+Please pro
+Please
+Please
+
+
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+Please
+
+
+
+
+Please pro
+
+
+Please pro
+
+Please prov
+
+
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please pro
+
+Please
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 Please prov
@@ -2222,6 +4058,13 @@ Please
 
 
 
+<<<<<<< HEAD
+=======
+Please pro
+
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
@@ -2233,6 +4076,11 @@ Please
 Please
 
 
+<<<<<<< HEAD
+=======
+Please pro
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Please
 
@@ -2241,10 +4089,118 @@ Please
 Please
 
 
+<<<<<<< HEAD
 Please prov
 
 
 
+=======
+Please pro
+
+Please
+
+
+
+Please
+
+
+
+Please pro
+Please
+
+
+Please pro
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+
+
+Please pro
+
+
+
+Please
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please prov
+Please
+
+
+
+Please pro
+
+
+
+Please
+
+
+
+
+Please pro
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+Please pro
+Please pro
+
+
+
+Please
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
@@ -2258,6 +4214,7 @@ Please
 
 
 Please pro
+<<<<<<< HEAD
 
 
 
@@ -2267,6 +4224,115 @@ Please prov
 Please
 
 
+=======
+Please
+
+
+
+Please pro
+
+Please
+
+
+
+
+Please pro
+
+
+
+Please pro
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+Please
+
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+Please prov
+
+
+
+Please pro
+
+
+
+Please
+
+
+Please pro
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+Please
+
+
+
+<<<<<<< HEAD
+=======
+Please pro
+
+
+Please pro
+Please
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+Please
+
+
+
+<<<<<<< HEAD
+Please prov
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+
+
+Please
+
+
+
+<<<<<<< HEAD
+Please prov
+
+
 
 Please
 
@@ -2280,26 +4346,6 @@ Please prov
 
 
 
-Please
-
-
-
-Please prov
-
-
-
-Please
-
-
-
-Please
-
-
-
-Please prov
-
-
-
 Please prov
 
 
@@ -2329,17 +4375,215 @@ Please
 
 Please
 
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please pro
 Please
 
 
 
+<<<<<<< HEAD
+=======
+Please pro
+
+
+Please pro
+
+
+
+Please
+
+Please
+
+
+
+Please pro
+Please
+
+
+Please
+
+
+
+Please pro
+
+
+
+Please pro
+Please prov
+Please pro
+
+
+
+Please pro
+
+
+Please
+Please pro
+Please
+
+
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+
+Please pro
+
+Please
+
+Please
+
+
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+
+Please pro
+
+
+
+Please pro
+
+
+
+Please
+
+
+Please pro
+
+
+
+Please pro
+Please pro
+
+
+
+Please
+
+
+Please
+
+
+Please
+Please
+
+Please pro
+
+
+
+Please
+
+
+
+Please
+
+
+Please me
+
+Please pro
+
+
+
+Please
+
+
+
+Please p
+
+Please
+
+
+Please pro
+
+
+
+
+This is a
+
+
+Please pro
+
+
+
+Please
+
+
+Please pro
+
+Please pro
+Please pro
+Please pro
+
+
+Please pro
+
+Please
+
+
+
+Please pro
+
+
+
+Please
+
+
+Please
+Please
+
+
+
+Please pro
+
+Please
+
+
+Please pro
+
+
+
+Please
+Please
+
+
+
+Please
+
+
+
+Please proc
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
 
 Please 
 
+<<<<<<< HEAD
 
 
 Please
@@ -2440,10 +4684,13 @@ Please
 
 Please
 
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 
 Please pro
+<<<<<<< HEAD
 
 
 
@@ -2466,12 +4713,19 @@ Please
 Please
 
 
+=======
+Please
+
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Please
 
 
 
 Please pro
+<<<<<<< HEAD
 
 
 
@@ -2649,6 +4903,43 @@ Please.
 
 
 Please
+=======
+Please.
+
+
+Please
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+
+
+Please
+
+
+<<<<<<< HEAD
+
+Please
+=======
+Please pro
+
+
+Please
+Please
+
+Please pro
+
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+Please
+
+
+<<<<<<< HEAD
+
+Please
+=======
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -2658,23 +4949,18 @@ Please
 
 Please
 
+
+
+<<<<<<< HEAD
 Please
-
-
-
-Please
-
-
-
-Please
+=======
+Please pw
 
 
 
 Please
-
-
-
-Please
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -2682,6 +4968,7 @@ Please
 
 
 
+<<<<<<< HEAD
 
 Please
 
@@ -2705,10 +4992,17 @@ Please
 Please. Please
 
 Please
+=======
+Please prov
+
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 Please
+<<<<<<< HEAD
 
 
 Please
@@ -2719,6 +5013,9 @@ Please
 
 
 Ple
+=======
+Please
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -2726,30 +5023,18 @@ Please
 
 
 
+<<<<<<< HEAD
 Please
 
 
+=======
+Please 
 
-Please
-
-
-
-Please
-
-
-
-Please
 
 Please
 
 
 Please
-
-
-
-Please
-
-
 
 Please
 
@@ -2762,24 +5047,14 @@ Please
 
 
 
-Please
 
-
-
-Please
-
-
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Please
 
 
-
-Please
-
-
-Please
-
-
+<<<<<<< HEAD
 
 Please
 
@@ -2787,24 +5062,23 @@ Please
 
 Please
 
+Please
+
+
+Please
+=======
+
+Please pro
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
 
 
 Please
 
 
 
-Please
-
-
-
-Please
-
-
-
-Please
-
-
-
+<<<<<<< HEAD
 Please
 
 
@@ -2818,16 +5092,17 @@ Please
 
 Please
 
+
+
+Please
+
+
+
 Please
 
 
 
 Please
-
-
-
-Please
-
 
 
 Please
@@ -2865,6 +5140,23 @@ Please
 Please
 
 
+Please
+
+
+
+Please
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
 
 Please
 
@@ -2884,6 +5176,42 @@ Please
 
 Please
 
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
+
+
+Please
+
 Please
 
 
@@ -2898,6 +5226,15 @@ Please
 
 
 Please
+=======
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+
+
+Please
+
+
 
 
 
@@ -2907,14 +5244,11 @@ Please
 
 
 Please
-
-
-
-
 Please
 
 
 
+<<<<<<< HEAD
 Please
 
 
@@ -3319,6 +5653,12 @@ Please
 
 
 Please
+=======
+Please pro
+Please
+
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
@@ -3330,6 +5670,7 @@ Please
 
 Please
 
+<<<<<<< HEAD
 
 
 Please
@@ -3585,11 +5926,17 @@ Ple
 
 
 
+=======
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 Please
 
+<<<<<<< HEAD
 
+=======
+Please pro
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Please
 
@@ -3598,6 +5945,7 @@ Please
 Please
 
 
+<<<<<<< HEAD
 Please
 
 Ple
@@ -3677,25 +6025,56 @@ Please
 Ple
 
 
+=======
+Please pro
+
+Please pro
+
+
+
+Please
+
+
+Please
+
+Please
+ Please
+
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 Please
 
 Tue, 23 Jul 2024 11:53:46 +0530
 ### [Eco Survey 2024: Amid high growth India’s future appears bright, but a ‘grand alliance’ to tame unemployment is required](https://www.firstpost.com/opinion/eco-survey-2024-amid-high-growth-indias-future-appears-bright-but-a-grand-alliance-to-tame-unemployment-is-required-13795928.html)
 
+<<<<<<< HEAD
 The Economic Survey for 2023-24 highlights both positive and concerning aspects of India's economic landscape.  The survey points to robust economic growth, controlled inflation, and favorable trade figures. However, it expresses caution about the challenges ahead, including slower private sector investment, declining inflow of foreign direct investment, and the pressing issue of unemployment.  
 
 The survey acknowledges the lack of reliable data on job creation, making it difficult to accurately assess the situation. It emphasizes the need for a "grand alliance" among the central, state governments, and the private sector to overcome these hurdles and foster sustained high growth.  Private sector growth and investment are seen as crucial for job creation, while tripartite compacts are suggested to bridge the gap between skills development and market demands.  The survey recognizes the need to adapt to the evolving global landscape, marked by protectionism, geopolitical uncertainty, climate change, and the disruptive potential of Artificial Intelligence.
+=======
+The Economic Survey 2023-24, presented in February, highlights India's strong economic performance with growth rates exceeding 6% and controlled inflation. 
+
+positive indicators include lowered trade deficit and surplus current account balance, supported by ample foreign exchange reserves. The Survey acknowledges the challenge of slower private sector capital formation despite high corporate profits and identifies a less favorable environment for foreign direct investment.
+
+The Survey expresses concern about employment, highlighting the lack of timely and comprehensive data on job creation.  While optimistic about labor market indicators, it acknowledges challenges posed by structural shifts and the impact of the Fourth Industrial Revolution.  
+
+Facing a complex global landscape with protectionism, geopolitical uncertainty, climate change and the rise of AI, the Survey emphasizes the need for a "grand alliance" between the central and state governments, and the private sector.  It calls for tripartite compacts to boost job creation, skill development, and empower the private sector to contribute to economic growth.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 22 Jul 2024 19:05:02 +0530
 ### [US Sutra | Biden withdraws from presidential race, but road remains bumpy for Democrats](https://www.firstpost.com/opinion/biden-withdraws-from-presidential-race-but-road-remains-bumpy-for-democrats-13795718.html)
 
+<<<<<<< HEAD
 In a surprising turn of events, Joe Biden officially announced his withdrawal from the 2024 presidential race, endorsing Vice President Kamala Harris as his successor. 
 
 Despite Biden's numerous accomplishments throughout his career, his decision to step down comes less than four months before the election, creating a chaotic scenario for the Democrats.  The move, perhaps influenced by recent events such as Trump's assassination attempt and choice of running mate, is unlikely to offer any substantial electoral advantage to Harris. Democrats face an uphill battle to unify behind a candidate in such a short time frame, grappling with Harris' record and approval ratings which are comparable to Biden's.  The party must now rally and find a way to effectively challenge Trump's candidacy in the upcoming months.
+=======
+US President Joe Biden has unexpectedly dropped out of the presidential race, endorsing Vice President Kamala Harris as his replacement. This decision comes 100 days before the election and following  controversies surrounding Donald Trump.  The move has left the Democratic party scrambling to prepare for the convention in August. While Harris' background may resonate with progressive Democrats, her performance as Vice President and stance on key issues may be challenged by the Republicans. Several Democrats have criticized Biden's late decision and called for a review of the nomination process. Meanwhile, Trump has dismissed Biden's fitness for office, but Republicans are expected to leverage this situation to their advantage.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 22 Jul 2024 17:48:55 +0530
 ### [Budget 2024 expectations: Empowering women farmers with technology to transform India's agricultural economy](https://www.firstpost.com/opinion/budget-2024-empowering-women-farmers-with-technology-to-transform-indias-agricultural-economy-13795665.html)
 
+<<<<<<< HEAD
 The article highlights the crucial role of women in agriculture and the need to address the technological disparities they face.  Despite their significant contributions, women farmers often lack access to modern technology, credit, and education, hindering their productivity and economic empowerment.  
 
 The article calls for targeted policy interventions, including:
@@ -3708,90 +6087,171 @@ The article calls for targeted policy interventions, including:
   
 
 The article emphasizes that bridging the gender gap in agricultural technology access is essential for sustainable development and food security.
+=======
+The article emphasizes the crucial role of women in agriculture and highlights the need to empower them through technology. It points out the existing gender disparities in access to resources, financial services, and education, which hinder women's productivity and economic growth. 
+
+The authors argue that technology can bridge these gaps by providing women with better access to markets, information, and financial tools. They call for policy interventions that address women's unique needs, such as providing tailored credit facilities, gender-sensitive training programs, and ensuring their participation in decision-making processes. The article concludes by stressing the importance of an inclusive and equitable approach to technological advancements in agriculture to ensure sustainable development and food security.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 22 Jul 2024 16:26:53 +0530
 ### [The horror of Razakars haunts Bangladesh again](https://www.firstpost.com/opinion/the-horror-of-razakars-haunts-bangladesh-again-13795631.html)
 
+<<<<<<< HEAD
 Protests in Bangladesh over the quota system for government jobs have escalated into violence, leading to deaths and injuries. The protests stem from a High Court order restoring 30% of government jobs for family members of freedom fighters, a decision subsequently reduced to 5% by the Supreme Court. 
 
 While the Supreme Court aimed to appease the students, the protests continue, fueled by allegations of the government insulting freedom fighters and  evoking memories of the 1971 war and the collaborators known as Razakars, resulting in a highly charged social climate. The situation has been further complicated by social media narratives and calls to rally against the government, heightening tensions and raising concerns about the stability of  democracy in Bangladesh.
+=======
+Protests in Bangladesh over a reinstated quota system in government jobs have turned violent, resulting in numerous casualties and significant infrastructure damage.  The High Court initially ordered the restoration of the 30% quota for the families of 1971 Liberation War veterans, leading to widespread student protests. The Supreme Court later intervened, reducing the quota to 5%. 
+
+The situation escalated when Prime Minister Sheikh Hasina questioned the rationale behind the protests, drawing parallels to the alleged collaborators known as Razakars who aided Pakistan during the war. This rhetoric ignited anger among a section of the students who feel the government is disrespecting the sacrifices of their families.
+
+The unrest has spread beyond the streets of Dhaka, sparking violence in various parts of Bangladesh and even extending to the UK and UAE.  The protests are fueled by both socio-economic grievances and political motivations, with some alleging a deliberate attempt to destabilize the government.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 22 Jul 2024 13:39:33 +0530
 ### [Microsoft's July 19 global outage highlights the critical need for stringent quality checks](https://www.firstpost.com/opinion/microsofts-july-19-global-outage-highlights-the-critical-need-for-stringent-quality-checks-13795550.html)
 
+<<<<<<< HEAD
 A July 2024 global disruption affecting airlines, banks, and other sectors was caused by a logical error in a content update by Crowdstrike's Falcon Endpoint Detection and Response (EDR) tool. This error, leading to a Blue Screen of Death (BSOD) on impacted Windows systems, underscores the critical importance of stringent quality checks in software development. 
 
 EDR solutions, increasingly used to safeguard against sophisticated cyber threats, monitor endpoint activities for malicious behavior based on Tactics, Techniques, and Procedures (TTPs).  Crowdstrike's  update, aimed at addressing these evolving threats, inadvertently introduced a flaw that caused the OS crash. The error highlights the potential risks associated with high-priority deployments potentially sacrificing thorough testing, emphasizing the trade-off between speed and quality in cybersecurity.
+=======
+A recent global IT disruption was caused by a logical error in a content update released by Crowdstrike’s Falcon Endpoint Detection and Response (EDR) tool. The error triggered system crashes and Blue Screen of Death (BSOD) errors on Windows systems, affecting organizations across various sectors.
+
+EDR tools, increasingly used to protect against sophisticated cyber threats, analyze behavioral patterns to detect malicious activity. Updates containing new detection rules are regularly pushed to users, but in this case, a flaw in the July 19th update led to widespread system instability. 
+
+This incident highlights the critical need for rigorous quality checks in software development, especially in security-critical systems. Despite standard operating procedures, the error slipped through, emphasizing the potential consequences of prioritizing speed over thorough testing.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 22 Jul 2024 11:24:14 +0530
 ### [The ICJ ruling on Gaza war and imbecility of rules-based order](https://www.firstpost.com/opinion/the-icj-ruling-on-gaza-war-and-imbecility-of-rules-based-order-13795484.html)
 
+<<<<<<< HEAD
 The ongoing conflicts in Eurasia and the Middle East highlight the failure of the international rules-based order, as defiance and unilateralism prevail. The ICJ ruling on Israeli settlements in the West Bank, while morally and legally significant, is unlikely to change the ground situation. Despite this, several Arab countries, including the UAE and Saudi Arabia, have condemned Israeli actions and called for a resumption of the peace process.  
 
 Tensions remain high, with both Israel and Hamas facing limitations in achieving their goals. While the US seeks a ceasefire and plans for postwar management, the situation is fraught with challenges.  
 
 Thousands have been killed and displaced, with potential for further escalation and wider conflict.  The overall outcome of these conflicts appears to be a loss for all parties involved, raising serious concerns for regional and international security.
+=======
+The ongoing wars in Eurasia and the Middle East highlight the failure of the international rules-based order, with countries prioritizing unilateralism and regime change.  The ICJ's ruling on Israeli settlements in the West Bank, while legally sound, lacks enforceability and faces defiance. The conflict between Israel and Gaza continues, with both sides suffering heavy casualties and displacement. While international actors like the UAE and the US are attempting to mediate, a lasting ceasefire remains elusive due to conflicting interests and a lack of commitment.  The expansion of war poses a threat to regional and global stability, with no clear path to victory for any party involved.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 18:37:58 +0530
 ### [Sanity prevailed: Karnataka has done right thing by hitting pause button on local job quota bill](https://www.firstpost.com/opinion/karnataka-has-paused-local-job-quota-bill-a-right-step-13795355.html)
 
+<<<<<<< HEAD
 The article critiques the Haryana State Employment of Local Candidates Act, 2020, and the proposed Karnataka State Employment of Local Industries Factories Establishment Act, 2024, both of which mandate a certain percentage of employment for local residents. 
 
 The author argues that these acts are unconstitutional, detrimental to economic growth, and stifle innovation.  The Punjab and Haryana High Court already ruled the Haryana Act unconstitutional, emphasizing the violation of fundamental principles like equality before the law and the right to equal employment opportunities.  
 
 The author further points out that such policies deter foreign investment, reduce labor mobility, and hinder the free flow of skilled workers, all of which are crucial for a dynamic and innovative economy. Using the success of Silicon Valley as an example, the article emphasizes the crucial role of immigration and internal migration in fostering innovation and economic growth.
+=======
+This article criticizes the Haryana State Employment of Local Candidates Act, 2020 and its potential impact on India's economy. 
+
+The author argues that the act violates constitutional principles by discriminating against non-local candidates and disrupts the free market by interfering with private employers' hiring decisions. The author cites the Punjab and Haryana High Court's ruling, which declared the act unconstitutional, and highlights the potential for  similar legislation in other states, creating an unpredictable and complex regulatory environment. 
+
+The article draws a parallel to Silicon Valley's success, emphasizing the role of immigrants in driving innovation and economic growth. It concludes by expressing relief at Karnataka's decision to reconsider its similar bill, arguing that  restricting internal migration hinders India's potential to become a leading global tech hub.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 18:20:34 +0530
 ### [Two contrasting museums that showcase Mumbai’s spirit](https://www.firstpost.com/opinion/two-contrasting-museums-that-showcase-mumbais-spirit-13795346.html)
 
+<<<<<<< HEAD
 This article contrasts two Mumbai museums: the National Museum of Indian Cinema and the BEST Transport Museum. 
 
 The National Museum of Indian Cinema, housed in a grand, historic building,  traces the evolution of Indian filmmaking from its early days to modern classics, showcasing technology, iconic figures, and the influence of cinema on society.
 
 In stark contrast, the BEST Transport Museum, tucked away inside a bus depot, focuses on the history of Mumbai's public transportation, particularly the buses that are vital to the city's life. It features models of buses, historical artifacts, and the story of the BEST organization's evolution alongside Mumbai's growth.  The article laments the lesser-known status of the transport museum compared to its cinematic counterpart, highlighting a unique aspect of Mumbai's identity.
+=======
+The article contrasts two Mumbai museums: The National Museum of Indian Cinema and the BEST Transport Museum.  
+
+The National Museum of Indian Cinema, located in a posh area, offers a comprehensive journey through India's film history, showcasing rare artifacts, iconic films, and renowned personalities. Housed in a beautiful 19th-century building with a rich history, it highlights the evolution of filmmaking technology and its impact on society.
+
+In stark contrast, the BEST Transport Museum, tucked away in a bus depot, celebrates Mumbai's urban transport system.  Through models, memorabilia, and historical anecdotes, it traces the evolution of buses from horse-drawn trams to modern vehicles, reflecting the city's economic and social development. The museum emphasizes the vital role BEST plays in Mumbai's daily life, despite lacking the widespread recognition enjoyed by the cinema museum.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 18:05:54 +0530
 ### [Sadhguru | Guru Purnima: When new possibilities open up](https://www.firstpost.com/opinion/sadhguru-guru-purnima-when-new-possibilities-open-up-13795330.html)
 
+<<<<<<< HEAD
 Guru Purnima is a significant day commemorating the birth of Adi Guru, the first teacher of yogic sciences.  It marks a pivotal moment in human history when Adiyogi, the first Yogi, shared profound knowledge and tools to elevate human consciousness.  The occasion signifies the vast potential within each individual to transcend limitations and evolve spiritually.  Guru Purnima encourages introspection, self-reflection, and a dedication to inner well-being.
+=======
+Guru Purnima, the first full moon after the solstice, is a significant day in yogic tradition. It marks the birth of Adi Guru, the first Guru who received teachings from Adiyogi, the first Yogi.
+
+This day symbolizes the opening of possibilities for human evolution beyond physical limitations.  Thousands of years ago, Adiyogi provided a comprehensive understanding of the human mechanism and its transformation. Guru Purnima encourages individuals to dedicate the day to inner well-being through practices like meditation, listening to music, and enjoying the full moon.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 16:52:11 +0530
 ### [Budget 2024: Time to propel ‘Skill India’ as an employment engine](https://www.firstpost.com/opinion/budget-2024-time-to-propel-skill-india-as-an-employment-engine-13795326.html)
 
+<<<<<<< HEAD
 The upcoming Union Budget is expected to focus on skills, employment, and innovation.  A key concern is the shortage of skilled workers in crucial sectors like health, manufacturing, and technology.  
 
 The government has emphasized providing employable skills to vulnerable populations, particularly school dropouts, aiming to address the unemployment crisis and bolster economic growth. However, the effectiveness of existing programs like Skill India has been questioned due to issues like delayed implementation and lack of job placement support. Experts argue for a greater emphasis on aligning skill development with industry needs and  strengthening collaboration with the private sector. 
 
 
 A significant investment in up-skilling initiatives for gig workers is also crucial, given their growing number and contribution to the economy.
+=======
+The upcoming Indian Union Budget is anticipated to focus on skills, employment, and innovation to address economic challenges and opportunities.  
+
+A key emphasis is placed on providing employable skills, especially to vulnerable populations like school dropouts. This proactive approach aims to address the shortage of skilled workers in sectors like healthcare, manufacturing, and technology, driving sustainable employment. 
+
+Despite programs like Skill India, unemployment remains a significant concern. The government needs to prioritize effective skilling initiatives, bridge skill gaps, and address challenges with program implementation and placement support. 
+
+
+A significant budget allocation for skill development, particularly for disadvantaged youth, is crucial to empower them and contribute to the nation's economic growth.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 14:39:37 +0530
 ### [How long is the long arm of the American ‘Deep State’?](https://www.firstpost.com/opinion/how-long-is-the-long-arm-of-the-american-deep-state-13795297.html)
 
+<<<<<<< HEAD
 The article discusses the assassination attempt on former US President Donald Trump and its implications for American democracy. It draws parallels with historical events like the assassination of President John F. Kennedy and  questions the role of "gun culture" and the Second Amendment in such incidents.
 
 The attempt has reignited debates about the "Deep State" and its influence on American politics, with Trump supporters alleging its involvement. The article also touches upon concerns about President Joe Biden's physical and mental health amidst this political climate.  
 
 It concludes by highlighting the lack of information about the attempted assassin and the broader concerns about accountability and transparency within the US government.
+=======
+The shooting of former President Donald Trump has raised serious questions about security in the US. This incident, likened to fictional portrayals of assassination attempts, is being compared to the JFK assassination in its potential impact on American democracy. Trump supporters are claiming a "Deep State" conspiracy, echoing similar sentiments surrounding the Kennedy assassination. 
+
+Concerns about "gun culture" in America and the Second Amendment's impact on security are reignited.  The incident also highlights the physical and mental health concerns surrounding President Biden, potentially causing further internal debate within his party. Meanwhile, the motive and identity of the attempted assassin remain unclear, and speculation about a "Deep State" connection persists.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 21 Jul 2024 11:02:56 +0530
 ### [Skyfall: The assassin’s bullet that Donald Trump dodged with minimal damage has hit Joe Biden instead](https://www.firstpost.com/opinion/skyfall-the-assassins-bullet-that-donald-trump-dodged-with-minimal-damage-has-hit-joe-biden-instead-13795247.html)
 
+<<<<<<< HEAD
 A tumultuous week in US politics saw Donald Trump, coming off an assassination attempt, garnering support and momentum at the Republican National Convention in Milwaukee. Meanwhile, Joe Biden faces increasing pressure from his own party to withdraw from the race, amidst concerns about his age and mental acuity. This pressure comes from high-profile Democrats like Nancy Pelosi, and even former President Barack Obama. Despite a series of unflattering polls and dwindling support from mega-donors, Biden remains defiant and refuses to step aside.  Trump, on the other hand, continues to fundraise strongly, with many donors responding to both the near-death experience and his new display of unity within the Republican Party.
 
 
 This contrasting trajectory suggests a potential shift in the political landscape, with Biden struggling while Trump utilizes the shocking events to further unify his base.
+=======
+This article analyzes the week in American politics following Trump's assassination attempt and the Republican National Convention, contrasting his bounce back with Biden's struggles.  Trump  is portrayed as revived, united with a seemingly stronger Republican party,  fundraising exceptionally well, and even appearing more dignified and “calm.” 
+
+Conversely, Biden is painted as  vulnerable, facing pressure to step down from his party, including from key Democrats like Nancy Pelosi and even Obama, while his health and age are increasingly scrutinized by the media.
+
+The article concludes that the political tide has turned in Trump's favor, while Biden seems to be losing ground. This event has solidified Trump's position within the Republican Party, and the public perception of him might be shifting towards a more sympathetic and relatable figure, despite the opposition’s efforts to portray him negatively.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 20 Jul 2024 17:45:22 +0530
 ### [Why India can neither shun Russia nor ignore West](https://www.firstpost.com/opinion/why-india-can-neither-shun-russia-nor-ignore-west-13795128.html)
 
+<<<<<<< HEAD
 The article discusses India's balancing act between its relationship with Russia and the West, particularly in light of the ongoing Ukraine war.  
 
 Despite Western criticism of India's decision to purchase Russian oil and maintain neutrality in the conflict, the article argues that India has legitimate strategic reasons for its actions. India sees Russia as a crucial partner in maintaining regional stability, while also recognizing the economic and political importance of its ties with the West.  The author acknowledges the challenges of balancing these relationships, highlighting the inherent limitations of both sides and emphasizing the need for strategic foresight rather than knee-jerk reactions. Ultimately, the article advocates for a pragmatic approach that prioritizes India's national interests while navigating the complex geopolitical landscape.
+=======
+The article discusses India's balancing act between maintaining relations with Russia and the West, particularly in light of the war in Ukraine. 
+
+While acknowledging the West's attempts to isolate Russia, the author argues that India's decision to engage with Russia is strategically necessary due to their shared history, geographic proximity, and Russia's ability to disrupt the region.  
+
+The author emphasizes that India needs to maintain a good relationship with Russia while also not overlooking the importance of its ties with the West. They caution against an overreliance on Russia and highlight the limitations of the economic relationship between the two countries. Ultimately, the article concludes that India must carefully navigate this complex geopolitical landscape to secure its own interests.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 20 Jul 2024 17:17:47 +0530
 ### [Terror attacks in Jammu: Time to understand Pakistan’s deep-seated anti-India mindset](https://www.firstpost.com/opinion/terror-attacks-in-jammu-role-of-pakistan-in-militancy-in-jammu-and-kashmir-13795121.html)
 
+<<<<<<< HEAD
 The article argues that the recent surge in terrorism in Jammu and Kashmir is not a temporary anomaly, but a symptom of a deeper, long-lasting problem.  The author contends that India's approach to Pakistan has been flawed, driven by a  misunderstanding of the religious fervor behind Pakistan's animosity towards India. 
 
 He points to Pakistan's strategy of using proxy war,  cultivating support for radical ideology within India, and exploiting existing divisions, as evidence of its long-term objective to destabilize India. 
@@ -3799,54 +6259,98 @@ He points to Pakistan's strategy of using proxy war,  cultivating support for ra
 The author criticizes India's obsession with elections as a solution, arguing that it overlooks the fundamental ideological conflict at play. 
 
 He concludes by urging India to adopt a more comprehensive and strategic approach to counter Pakistan's terrorism, acknowledging the threat of radicalization within India and the need to address the underlying causes of the conflict.
+=======
+This article argues that India's current strategy towards Pakistan's sponsored terrorism is flawed due to a misunderstanding of the roots of the problem. It highlights the common belief in India's political and diplomatic circles that the India-Pakistan conflict is primarily geopolitical, while Pakistan sees it as an existential and religious war. 
+
+The author, citing the recent upsurge in terrorist attacks in Jammu and Kashmir, suggests that this war is perceived by Pakistan as a "jihad" against Hindus and that India needs a long-term, strategic solution rather than a reactive approach. 
+
+He points out Pakistan's long history of manipulating the conflict through various tactics, including manipulating Kashmir's political landscape and exploiting communal tensions within India to fuel radicalization. The article concludes by emphasizing the need to move beyond superficial analysis and acknowledge the religious undercurrent driving the conflict, urging India to formulate a comprehensive and lasting solution.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 20 Jul 2024 15:21:55 +0530
 ### [Budget 2024: Optimising resources for better educational outcomes](https://www.firstpost.com/opinion/budget-2024-optimising-resources-for-better-educational-outcomes-13795085.html)
 
+<<<<<<< HEAD
 Investing in India's education sector requires a focus on high-return initiatives that address the learning crisis. While expenditure on education has increased, learning outcomes remain poor. The NIPUN Bharat Mission, launched to improve foundational literacy and numeracy (FLN) by Grade 3, has faced challenges due to delayed implementation and low state capacity. 
 
 To maximize the impact, the government should transition to three-year rolling disbursements for states, allowing for better planning and resource utilization.  States should prioritize early childhood education, teacher training, school-based assessments, and awareness campaigns to create a sustainable impact on FLN skills. By strengthening these areas, India can ensure every child has the opportunity to succeed.
+=======
+The article argues for strategic investments in India's education system, particularly focusing on foundational literacy and numeracy (FLN). 
+
+Despite increased education spending, learning outcomes remain low, highlighting the need for targeted interventions. The National Initiative for Proficiency in Reading with Understanding and Numeracy (NIPUN) Bharat Mission aims to improve FLN by 2026-27. However, the article suggests reforms in funding and implementation.
+
+It recommends shifting from annual to three-year rolling disbursements to allow states more time for efficient utilization. Key investment areas include early childhood education, teacher training, school-based assessments, and awareness campaigns. The article emphasizes the long-term impact of these investments on economic growth, social equity, and individual well-being.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 20 Jul 2024 14:09:35 +0530
 ### [Nepal has a new prime minister and it may be good news for China](https://www.firstpost.com/opinion/nepal-has-a-new-prime-minister-and-it-may-be-good-news-for-china-13795067.html)
 
+<<<<<<< HEAD
 KP Sharma Oli, Nepal's new Prime Minister, is known for his pro-China stance and anti-India and anti-West views. As he enters his fourth term, he is expected to further consolidate Nepal's ties with China.  
 
 Oli's past actions, such as signing a Transit Treaty with China and agreeing to an Extradition Treaty, demonstrate his commitment to reducing Nepal's reliance on India and aligning with China's strategic interests. This is particularly significant in the context of Tibet, where Nepal hosts a significant population of Tibetan refugees who are seen as a concern by China due to their anti-Chinese sentiment.  
 
 China's growing influence is also evident in Nepal's participation in the Belt and Road Initiative (BRI) and the Sagarmatha Friendship Joint Military Exercise.  Oli's government is likely to face challenges in balancing its relationships with China, India, and the United States, especially given the recent US legislation supporting Tibetan rights.  The outcome of this balancing act will have significant implications for Nepal's foreign policy and its regional role.
+=======
+KP Sharma Oli's return as Nepal's Prime Minister signals a potential shift in the country's foreign policy, with a renewed emphasis on China. Oli, known for his anti-India stance, has consistently strengthened Nepal's ties with Beijing. His previous terms saw agreements on the BRI and military exercises, and he sought an extradition treaty with China, though ultimately withdrawn due to pressure. 
+
+Oli's policies aim to counter Indian influence and Western engagement in Nepal. This includes addressing the presence of Tibetan refugees, a sensitive issue for China, and potentially limiting the reach of the US-funded MCC program.  While Oli's coalition partner, the Nepali Congress, seeks a more balanced approach, Oli's pro-China leanings are expected to significantly shape Nepal's international relations.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 20 Jul 2024 12:35:19 +0530
 ### [Beyond third plenum: China’s slowing economy demands a more consensus-based approach from Beijing](https://www.firstpost.com/opinion/beyond-third-plenum-chinas-slowing-economy-demands-a-more-consensus-based-approach-from-beijing-13795041.html)
 
+<<<<<<< HEAD
 China's economic growth, once a roaring double-digit engine, has drastically slowed to single digits. This year, it is projected to grow by just 4.5%, with the International Monetary Fund predicting further decline to 3% by 2029.  
 
 The real estate sector, once a key driver of the economy, is in crisis, and government stimulus efforts have been ineffective. Consumer demand remains weak, and exports are facing headwinds due to global economic uncertainty and rising tensions with trading partners. 
 
 As China grapples with an aging population and rising debt, the government is pursuing a strategy of "high quality development" focused on advanced manufacturing and technology. However, this transition faces challenges, including a lack of global enthusiasm for Chinese high-tech products and trade restrictions imposed by key markets.
+=======
+China, once an economic powerhouse with double-digit growth, is facing a slowdown to single-digit rates, with predictions of further deceleration. The real estate sector, a key driver of growth, is in crisis, fueled by government policies and the pandemic. 
+
+Stimulus measures and attempts to boost consumer demand haven't been successful. Exports are also faltering due to a high trade deficit and global backlash against China's economic and geopolitical policies. 
+
+Aging population and rising labor costs further compound the problem. 
+
+Despite a focus on advanced manufacturing and technology, China's efforts to move up the value chain are facing hurdles due to global market resistance. With domestic and international markets proving challenging, China's future economic growth trajectory remains uncertain.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 19 Jul 2024 18:48:24 +0530
 ### [How China’s growing clout in South Caucasus can be challenging for India](https://www.firstpost.com/opinion/how-chinas-growing-clout-in-south-caucasus-can-be-challenging-for-india-13794912.html)
 
+<<<<<<< HEAD
 China's growing influence in the South Caucasus, demonstrated by the launch of direct flights from Urumqi to Yerevan, raises concerns for India.  China's ambitions in the region, fuelled by its economic prowess and strategic partnerships with key players, directly challenge India's interests in the International North-South Trade Corridor (INSTC).  
 
 India aims to maximize the benefits of the INSTC and counter the burgeoning alliance between Turkey, Pakistan, and Azerbaijan, which China is increasingly aligning with. This Chinese expansion, coupled with Azerbaijan's reluctance to support India's proposed INSTC route through Armenia, poses a significant threat to India's regional aspirations. 
 
 
 Russia, with its established relationships in the South Caucasus, could potentially act as a counterbalancing force to China's growing presence and support India's connectivity goals.
+=======
+Recent developments in the South Caucasus, including a direct flight route between China and Armenia, signal a growing Chinese presence in the region. This move coincides with heightened Sino-American tensions and China's efforts to solidify partnerships with countries who face US pressure.  
+
+China's economic investments and trade ties with most South Caucasus nations, coupled with its support for Russia, Turkey, and Iran, present potential challenges to India's interests in the region. India seeks to utilize the International North-South Trade Corridor (INSTC) for connectivity and counter the perceived alignment of Turkey, Pakistan, and Azerbaijan. 
+
+While Armenia's position leaves some room for India's engagement,  China's expanding influence through initiatives like the Belt and Road Initiative, and its backing of Azerbaijan's original route for the INSTC, poses a significant obstacle to India's aspirations in the South Caucasus.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 19 Jul 2024 16:46:50 +0530
 ### [A risky bet: Should India go ahead with the Teesta project with Bangladesh?](https://www.firstpost.com/opinion/a-risky-bet-should-india-go-ahead-with-the-teesta-project-with-bangladesh-13794820.html)
 
+<<<<<<< HEAD
 Sheikh Hasina's recent trip to China yielded meagre results, prompting her to seek a $1 billion financing plan from India for the Teesta River redevelopment project.  Successful implementation could resolve water-sharing disputes, enhance economic ties, and counter China's influence in South Asia. 
 
 However, India must balance regional goodwill with domestic concerns, as West Bengal may oppose generous allocations. Bangladesh's economic vulnerabilities, such as reliance on garment exports and mounting socioeconomic challenges, necessitate a cautious approach.  
 
 Investing in Bangladesh requires a strategic and diversified strategy that acknowledges both the opportunities and risks. The Teesta project, while promising, must be part of a broader framework for engagement.
+=======
+Prime Minister Sheikh Hasina's recent trip to China yielded minimal results, prompting Dhaka to seek financial support from India for the Teesta River redevelopment project.  India's potential investment could resolve water sharing disputes, boost economic cooperation, and counter China's influence in the region. However,  India must carefully weigh potential domestic backlash in West Bengal against the strategic benefits. Bangladesh, although facing economic vulnerabilities and socio-political challenges, presents an opportunity for India to strengthen its regional standing.  The Teesta project symbolizes the evolving relationship between the two nations, offering the potential for shared prosperity while requiring careful navigation of complex issues.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 19 Jul 2024 15:06:21 +0530
 ### [From ‘non-Artic’ to ‘near-Arctic’: Growing China Factor in the India-Russia Far East cooperation](https://www.firstpost.com/opinion/from-non-artic-to-near-arctic-growing-china-factor-in-the-india-russia-far-east-cooperation-13794736.html)
 
+<<<<<<< HEAD
 The recent summit between India and Russia in Moscow saw the signing of a Memorandum of Understanding focusing on trade, economic, and investment cooperation in the Russian Far East and Arctic. This development strengthens India's ties with Russia amidst increasing concern about China's growing influence in the Arctic. 
 
 China, which sees the Arctic as crucial for its "Polar Silk Road" and access to resources, has been expanding its military, economic, and diplomatic presence in the region. However, its ambitions have raised concerns from the US and other Arctic nations, who see a potential threat to their security interests.  
@@ -3854,53 +6358,97 @@ China, which sees the Arctic as crucial for its "Polar Silk Road" and access to 
 India, with its existing cordial relations with all Arctic Council members, has the potential to play a key role in ensuring stability and sustainable development in the region.  
 
 The article suggests that India should take a more active role in the Arctic, leveraging its relationship with Russia and considering the potential for securing access to critical minerals. This could shape regional dynamics and counterbalance China's growing assertiveness.
+=======
+The 22nd Annual Bilateral Summit between India and Russia focused on strengthening cooperation in trade, economics, and investment, particularly in the Russian Far East and Arctic. This partnership is significant as China's growing influence in the Arctic, driven by its economic investments and military ambitions, presents a challenge to traditional Arctic stakeholders.  India's engagement with Russia in the Arctic is seen as a counterbalance to China's growing assertiveness. 
+
+While Russia benefits from China's economic support, concerns exist that Beijing's growing power could eventually overshadow Moscow's interests. India's growing interest in Arctic affairs stems partly from its need for secure access to critical minerals, which the Arctic region holds in abundance.  
+ 
+ Prime Minister Modi's recent visit to Moscow highlighted the importance of India's role in balancing the geopolitical dynamics in the Arctic.  India's diplomatic efforts and 'Whole of Government Approach' are crucial for ensuring its secure and responsible presence in this strategically important region.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 19 Jul 2024 13:24:25 +0530
 ### [Amid hope for change, can Iran’s new President revive nuclear deal with West?](https://www.firstpost.com/opinion/amid-hope-for-change-can-irans-new-president-revive-nuclear-deal-with-west-13794716.html)
 
+<<<<<<< HEAD
 Masoud Pezeshkian, a reformist, won Iran's recent presidential election, signaling a shift in leadership. Pezeshkian supports a balanced foreign policy and aims to strengthen relations with neighbors.  His likely foreign minister, Javed Zarif, played a key role in the 2015 Iran nuclear deal, raising hopes for its revival. 
 
 However, the deal has been stalled since 2022 due to disagreements over US sanctions, the IRGC's designation as a foreign terrorist organization, and Iran's nuclear advancements. The recent war in Gaza further complicates the situation. 
 
 
 While Iran currently lacks the need for a nuclear weapon and its defense doctrine excludes it, the possibility of a regional arms race looms.  The US presidential election cycle adds another layer of complexity, making a swift revival of the nuclear deal unlikely.
+=======
+Masoud Pezeshkian's victory in Iran's recent presidential election signals a potential shift in foreign policy, with optimism surrounding a revival of the 2015 nuclear deal. Pezeshkian's likely foreign minister, Javed Zarif, played a key role in negotiating the original deal. 
+
+However, obstacles remain. The US withdrew from the deal in 2018 under Donald Trump and remains hesitant to guarantee against future withdrawals. Iran also seeks assurance regarding the lifting of sanctions against its Islamic Revolutionary Guard Corps.  
+
+Furthermore, regional dynamics, including the ongoing war in Gaza and a recent reconciliation between Iran and Saudi Arabia, complicate the situation. While some analysts believe Iran may prefer a "nuclear latency" strategy, the potential benefits of a revived deal, particularly in easing economic sanctions on the Iranian people, could drive negotiations.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 19 Jul 2024 10:34:17 +0530
 ### [Head-on | Trump assassination bid could embolden anti-India forces](https://www.firstpost.com/opinion/head-on-trump-assassination-bid-could-embolden-anti-india-forces-13794632.html)
 
+<<<<<<< HEAD
 An assassination attempt on former US President Donald Trump has reignited concerns about toxic politics in both the US and India. While Biden has called for de-escalation, the attack has seemingly benefited Trump, boosting his popularity.  In India, Prime Minister Modi faces relentless verbal attacks from the Opposition, with  incidents of hateful rhetoric becoming increasingly common. The threats against Modi, emboldene by  extremist groups, highlight the dangers of such escalation.  
 
 Elections in Maharashtra and Haryana are approaching, and the article urges the Indian Opposition to focus on policy solutions rather than personal attacks on Modi.  It argues that such negativity can ultimately harm the Opposition more than the ruling party.
+=======
+The article discusses the rising toxicity in Indian and American politics, citing examples of verbal attacks and threats against political leaders.  It highlights the danger of hate speech, particularly after the attempted assassination of former US President Donald Trump. The article draws parallels between the rhetoric used by some Indian opposition leaders against Prime Minister Narendra Modi and the vitriol directed at Trump. 
+
+The author argues that such attacks, while potentially beneficial for the incumbent in the short term, ultimately damage the attacker's credibility and reputation.  The article concludes by suggesting that opposition parties should focus on policy issues and offer viable alternatives instead of resorting to personal attacks.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 18 Jul 2024 19:15:15 +0530
 ### [Dhaka University’s ‘revolutionary’ road: Agitation, violence not new on campus](https://www.firstpost.com/opinion/dhaka-universitys-revolutionary-road-agitation-violence-not-new-on-campus-13794524.html)
 
+<<<<<<< HEAD
 Violent protests erupted at Dhaka University and other universities in Bangladesh following the reinstatement of a quota system for government jobs. The system, which reserves a portion of seats for children of freedom fighters, was scrapped in 2018 but reinstated by the High Court in July 2024. This sparked protests, leading to clashes and deaths.  The situation highlights the historical role of Dhaka University as a center of political and social activism. The institution has witnessed numerous protests and upheavals throughout its history, including the Language Movement and the Bangladeshi Liberation War. The current violence raises concerns about the potential for exploitation of student grievances for political ends.  The government seeks to quell the unrest and restore peace, but the future of the quota system remains uncertain.
+=======
+Clashes erupted at Dhaka University and other campuses in Bangladesh following a High Court order reinstating a quota system for government jobs reserved for the children of freedom fighters. The decision, initially scrapped in 2018, triggered protests from students demanding a merit-based system. The violence has resulted in several deaths and injuries, prompting the University Grants Commission to close all universities pending further instructions.  
+
+This unrest echoes Dhaka University's history of student activism and rebellion, dating back to the Language Movement of the 1950s and the Bangladesh Liberation War in 1971 where the campus witnessed violent crackdowns. While the current situation is deemed unfortunate and avoidable, it highlights the long-standing political tensions surrounding educational opportunities in Bangladesh.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 18 Jul 2024 18:32:14 +0530
 ### [Who’s the real fascist? Germany’s media crackdown exposes a double standard](https://www.firstpost.com/opinion/whos-the-real-fascist-germanys-media-crackdown-exposes-a-double-standard-13794510.html)
 
+<<<<<<< HEAD
 The article criticizes Germany's left-leaning government for its intolerant policies despite claiming to safeguard democracy. 
 
 It highlights the government's hypocrisy in criticizing India's alleged human rights violations while suppressing dissenting voices within Germany itself. The author points to the closure of the right-wing magazine Compact as an example of this  suppression, arguing that it violates freedom of speech and is driven by political expediency. The article further suggests that the government's handling of immigration and its economic policies have contributed to the rise of right-wing sentiments, which are now being met with authoritarian measures.
+=======
+Germany's left-leaning government, while criticizing India's policies, is increasingly resorting to authoritarian tactics at home.  The government has shut down a right-wing magazine, Compact, citing it as a mouthpiece for extremism, and frozen the bank accounts of those who donated to far-right groups. This move, justified as a threat to the constitution, is seen as a suppression of dissent and a violation of freedom of speech.  The government's actions are driven by a desire to weaken the growing influence of the right-wing AfD party, which has gained popularity due to public frustration with the government's handling of issues like immigration and the economy. This crackdown raises concerns about the erosion of democratic principles in Germany.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 18 Jul 2024 14:30:51 +0530
 ### [Rising terror attacks in Jammu signal new threats](https://www.firstpost.com/opinion/rising-terror-attacks-in-jammu-signal-new-threats-13793822.html)
 
+<<<<<<< HEAD
 Recent terrorist attacks in Jammu signal a shift in strategy by militant groups. Following the abrogation of Article 370, terrorists are moving focus from the heavily guarded Kashmir Valley to the more vulnerable Jammu region. Pakistani groups are exploiting Jammu's terrain and local networks to infiltrate and launch attacks. Security agencies fear further escalation, with warnings of potential suicide attacks. 
 
 In response, the Indian government has increased security measures in Jammu, including launching search operations and deploying additional forces. Home Minister Amit Shah has called for a zero-tolerance approach to terrorism and ordered the army to take  aggressive action. The government is also cracking down on terrorist financing and taking steps to ensure the safety of pilgrims during the upcoming Amarnath Yatra.
+=======
+Terrorist activity in Jammu, a region historically less affected by militancy, has increased significantly in the past year. This shift is attributed to Pakistan-based terror groups moving their focus from the Kashmir Valley, where security is stronger, to the more vulnerable Jammu region. The growing insecurity in Jammu coincides with the abrogation of Article 370,  which Pakistan views as an infringement on its interests. 
+
+India aims to counter this threat through stricter security measures, including heightened operations and asset freezes against terrorist organizations.  However, the deployment of security forces to Ladakh due to  border tensions with China has created a security vacuum in Jammu.  The government is aware of the threat and is taking steps to address it, recognizing the need to adapt its strategies to the evolving nature of terrorism in the region.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 18 Jul 2024 12:23:49 +0530
 ### [Assassination bid makes Trump 2.0 all but certain](https://www.firstpost.com/opinion/assassination-bid-makes-trump-2-0-all-but-certain-13794328.html)
 
+<<<<<<< HEAD
 The article discusses the impact of an assassination attempt on Donald Trump's 2024 presidential campaign. Trump narrowly escaped injury when an assailant opened fire at a rally in Pennsylvania. While the Republican perceives this as an attempt to regain control and rally his supporters, the Democrats portray it as a consequence of heightened political rhetoric. 
 
 The article highlights growing concerns about President Biden's age and fitness for office, with some Democrats advocating for a younger candidate. The attempted assassination on Trump is considered a turning point in his campaign, potentially boosting his support.
+=======
+A shooting incident in Pennsylvania involving an assailant aimed at Donald Trump while he was giving a speech, resulted in the death of the attacker and some injuries to attendees. The incident highlighted the heightened political tensions in the US, with  prospectors on both sides suspicious of potential conspiracies.  
+
+Trump's supporters, potentially riding a wave of sympathy, view the incident as providing their candidate with a significant advantage in the upcoming elections.  Opponents argue the attack is a consequence of the highly charged rhetoric surrounding the political climate. Biden, meanwhile, faces scrutiny regarding his age and fitness for office, with some Democrats openly questioning his ability to effectively lead.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 17 Jul 2024 18:56:37 +0530
 ### [Is China all set to overtake US in advanced technologies?](https://www.firstpost.com/opinion/is-china-all-set-to-overtake-us-in-advanced-technologies-13794141.html)
 
+<<<<<<< HEAD
 The article examines the US-China technological competition, highlighting China's rapid progress in various fields.  
 
 China leads in patent applications and grants, boasting a strong presence in research output, particularly in areas crucial for national security and technological advancement such as hypersonic missiles, artificial intelligence, and quantum computing. 
@@ -3908,49 +6456,87 @@ China leads in patent applications and grants, boasting a strong presence in res
 Although facing a US-led restriction on access to certain technologies, China has strategically cultivated its own technological prowess through government-backed research programs, incentivizing STEM fields, and investing heavily in renewable energy and manufacturing. 
 
 While acknowledging US innovation strengths in established companies like NVIDIA, Amazon, and Apple, the article suggests that China's fast-growing domestic tech giants coupled with its ambitious long-term planning pose a significant challenge to US technological dominance.
+=======
+The article examines the rapidly growing technological prowess of China, highlighting its advancements in various sectors like patent applications, artificial intelligence (AI), semiconductors, and renewable energy.  
+
+China's strategic investments in research and development, coupled with a large and skilled workforce, have propelled it to the forefront in many key technologies. The article contrasts China's state-driven approach with the US's reliance on private enterprise, suggesting that China's long-term planning and unified national goals give it a significant edge.
+
+While acknowledging the US's strong global presence and innovation in companies like NVIDIA and Apple, the article warns against American complacency, urging it to bolster its commitment to technological advancement to maintain its global leadership.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 17 Jul 2024 15:43:02 +0530
 ### [Why no second chances for Vance?](https://www.firstpost.com/opinion/why-no-second-chances-for-vance-13794036.html)
 
+<<<<<<< HEAD
 JD Vance, the youngest VP nominee since Richard Nixon, has faced swift and harsh criticism from liberal commentators. His compelling life story, rising from poverty in the Rust Belt, resonates with many Americans but challenges the prevailing narrative of diversity and inclusion. Vance's background, including his educational achievements and military service, contrasts with the media's portrayal of poor white men.  
 
 His selection as running mate by Donald Trump signifies a generational shift within the Republican Party, appealing to younger voters. This move, coupled with Vance's staunch stance on Ukraine and controversial statements, suggests a potential drive to reshape the government and solidify the MAGA agenda.  Despite criticism stemming from past negative comments about Trump, Vance's evolution and connection to Republican and Democratic voters through his wife Usha offer a unique narrative that Trump may leverage for political gain.
+=======
+JD Vance's surprising nomination as Republican VP candidate has sparked criticism from "liberals" due to his background as a poor, white individual from the Rust Belt. While Vance's life story, detailed in his bestselling book "Hillbilly Elegy," resonates with many Americans, his conservative views and outspoken nature have drawn fire. His appointment, however, is seen by some as a strategic move by Trump to appeal to younger voters and solidify the Republican base. Supporters point to Vance's own journey from poverty to success and his willingness to challenge conventional political thought as signs of his potential. Despite his young age and previous criticism of Trump, Vance's selection signifies a generational shift within the Republican party and his role as a potential future frontrunner. His marriage to Usha, a registered Democrat,  further adds to the narrative of finding common ground despite political differences.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 17 Jul 2024 12:15:15 +0530
 ### [From America to the Balkans: A history of the '20-year-old assassin'](https://www.firstpost.com/opinion/from-america-to-the-balkans-a-history-of-the-20-year-old-assassin-13793837.html)
 
+<<<<<<< HEAD
 The article draws a parallel between recent attempts on former US President Donald Trump's life and historical events like the assassination of Archduke Franz Ferdinand in 1914 and French General Francois Darlan in 1942. Both archduke and Darlan were seen as controversial figures whose deaths, orchestrated by young individuals,  precipitated significant historical shifts.  The author speculates on the possibility of these seemingly isolated incidents representing a recurring pattern of history, where young attackers disrupt the status quo, often with fatal consequences for themselves.
+=======
+The article examines a pattern of young individuals assassinating influential figures, drawing parallels to historical events like the assassination of Archduke Franz Ferdinand in 1914 by Gavrilo Princip and  President John F. Kennedy in 1963 by Lee Harvey Oswald.  Both incidents had profound consequences for world history, highlighting how seemingly isolated acts of violence can trigger major geopolitical shifts. The writer also mentions the assassination of Francois Darlan in 1942, which was carried out by 20-year-old Fernand Bonnier de la Chapelle. The common thread linking these events, according to the article, is the involvement of young individuals often acting as catalysts for historical change.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 17 Jul 2024 11:18:35 +0530
 ### [The epidemic of ultra-processed food in the developing world](https://www.firstpost.com/opinion/the-epidemic-of-ultra-processed-food-in-the-developing-world-13793859.html)
 
+<<<<<<< HEAD
 A recent study highlighted the alarmingly high sugar content in baby food products in India, Africa, and Latin America compared to Europe. This raises concerns about children developing a taste for sugary foods from a young age, potentially leading to future health problems like obesity and type 2 diabetes.  
 
 The study also points to the growing prevalence of ultra-processed foods (UPFs) in developing countries, driven by aggressive marketing from multinational corporations. These UPFs, often high in sugar, salt, and additives, have been linked to a range of health issues in both adults and children, contributing to the global obesity epidemic.  
 
 The article calls for governments to strengthen regulations on food products and encourage healthier dietary choices, shifting away from the reliance on processed foods and towards more traditional diets.
+=======
+A recent study reveals alarmingly high sugar content in baby food products sold in India, Africa, and Latin America compared to European counterparts. This raises concerns about early exposure to sugar and its long-term impact on children's dietary preferences and health.  
+
+The trend of ultra-processed food (UPF) consumption is also surging in developing countries, linked to increased obesity, diabetes, and other health problems.  A shift from traditional staples to processed foods is observed, highlighting the influence of food multinational corporations (MNCs) who aggressively market unhealthy products in these regions.
+
+Governments must strengthen regulations to ensure food products, especially those targeted at children, meet nutritional standards. They should also encourage healthier dietary practices and promote traditional diets to counteract the negative effects of these trends.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Wed, 17 Jul 2024 09:07:04 +0530
 ### [Decay of democracy in the US? Time for America to introspect](https://www.firstpost.com/opinion/decay-of-democracy-in-the-us-time-for-america-to-introspect-13793808.html)
 
+<<<<<<< HEAD
 The assassination attempt on former President Donald Trump highlights the dangerous escalation of political violence fueled by polarization. This event serves as a wake-up call for the American political system, emphasizing the erosion of democratic norms and the increasing acceptance of extreme measures. 
 
 The attack, occurring during a critical point in the electoral campaign with Trump gaining momentum, underscores the potential desperation of his opponents and the dangerous tactics employed in a highly divided political climate. The incident raises questions about the motives behind the attack, the role of left-wing extremism, and the media's impact on exacerbating tensions.  
 
 Ultimately, this moment demands a commitment to democratic values, electoral integrity, and a renewed emphasis on civil discourse.
+=======
+The assassination attempt on former U.S. President Donald Trump highlights the dangers of political polarization and the normalization of extreme measures.  It underscores the erosion of democratic norms and the acceptance of violence as a political tool.  
+
+The incident raises concerns about the motivations behind such actions, particularly in light of Trump's recent political resurgence.  It also shines a light on the role of media bias and the potential for sensationalism to further divide society. 
+
+The attack serves as a reminder of the fragility of democracy and the need to uphold democratic values, ensure electoral integrity, and promote civil discourse.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 16 Jul 2024 18:20:01 +0530
 ### [US Sutra | Donald Trump’s miraculous escape: Is the US presidential election a done deal](https://www.firstpost.com/opinion/us-sutra-donald-trumps-miraculous-escape-is-the-us-presidential-election-a-done-deal-13793706.html)
 
+<<<<<<< HEAD
 An assassination attempt on Donald Trump during a rally in Pennsylvania has dramatically shifted the US presidential race.  A shooter fired on Trump, causing a minor injury, but the former president continued with the rally, showcasing resilience.  
 
 The incident sparked a national conversation about violence in politics.  While Trump's campaign continues, the Democratic Party suspended its activities.  Numerous high-profile endorsements have poured in for Trump, solidifying his position as the Republican nominee.  
 
 Observers predict a Trump victory in the upcoming election, with questions remaining about the shooter's motive and security lapses at the rally. This event is seen as a turning point, echoing previous moments in US history like the 9/11 attacks, which changed the nation's landscape.
+=======
+This article discusses the recent assassination attempt on Donald Trump during a rally in Pennsylvania, where a gunman fired shots near him. The author compares this event to the 9/11 attacks, highlighting the potential for a turning point in American politics. They argue that the incident, coupled with former president Trump's resilience and the vulnerabilities of incumbent President Biden, could solidify Trump's chances of returning to the White House.
+
+The article also mentions the historical context of presidential assassination attempts, referencing the 1981 attempt on Ronald Reagan's life. The author concludes by urging a reflection on political divisions and highlighting the importance of a unified republic, particularly for India, which is also facing increasing political polarization.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 16 Jul 2024 16:21:04 +0530
 ### [France's snap polls and the end of Macron’s De Gaullean delusion](https://www.firstpost.com/opinion/frances-snap-parliamentary-polls-mark-the-end-of-macrons-de-gaullean-delusion-13793645.html)
 
+<<<<<<< HEAD
 Summary of Macron'
 s article claims Macron has unfairly compared to Louis XVI, a critique of
 
@@ -3970,16 +6556,108 @@ Let's get this done.
 
 
 the author's personal views are his own and do not necessarily reflect the views of the website.
+=======
+Macron's obsession with De Gaulle, trying to emulate the legendary French leader has led to his downfall
+
+
+
+So far, Macron's obsession with De Gaulle has failed, pushing to emulate the legendary French leader has led -th
+Macron't have a lasting legacy like De Gaulle
 
 
 
 
+
+Macron Wonât have such legacy. After his second term ends in 2027, he wonâcan try to.  
+
+ 
+  He has been accused of replicating a dictator-style, but his popularity has
+French. 
+
+**, a commentator for a  and specializes in international  His career spans over two decades, a 
+
+Macron and was initially popular and had  
+
+Macron s second term ends in 2027, he wonâs legacy will not be as enduring as De Gaulle's 
+Macron Is trying to emulate De Gaulle, but 
+Macron's quest to emulate De Gaulle has resulted in his downfall, as
+
+Ultimately, Macron's
+  Macron's attempt to be like De Gaulle has t
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
+
+
+
+
+<<<<<<< HEAD
 While De Gaulle, Macron’s
+=======
+Macron wishes to be like De Gaulle, but
+
+
+
+Mac
+Macron's emulating De Gaulle 
+Macron's obsession with emulating De Gaulle has led to his downfall
+
+Macron is trying to emulate De Gaulle, but
+Macron's  to emulate De Gaulle
+
+
+
+Macron has aspirations to be viewed as a modern-day De G
+
+
+: Macron's emulating efforts to be like De Gaulle have resulted in
+
+Summary: Macron is trying to emulate De Gaulle, but is less successful than his idol.
+
+In summary:
+
+
+Macron's goal is to emulate Da 
+Macron wants to be seen as a modern-day De Gaulle.
+Macron s a
+
+
+
+Macron's desire to emulate.
+
+To summarize, Macron's efforts to be similar to De Gaulle will not
+
+
+
+In conclusion, Macron's attempts to emulate De
+In concise: Macron's ambition is to emulate DeGaullete, however his unsuccessful. In essence, Macron's attempt to emulate  
+In short, Macron's endeavor to be like De Gaulle has proven incon
+
+
+**Macron's desire to be like De Gaulle has
+
+
+Ultimately, Macron's goal to emulate De Gaulle has been In conclusion, Macron's attempt to emulate De Gaulle
+In essence, Macron's goal to be like De Gaulle
+In summacron's attempt to be like De Gaulle has been
+
+
+In summary, Macron's aim to emulate
+
+In short, Macron's effort to be like De
+
+In conclusion, Macron's desire to emulate De Gaulle
+Macron's wish to emulate De Gaulle
+Summary:  
+In essence
+
+
+Summary:
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 
 
+<<<<<<< HEAD
 *Firstpost, All Rights.  
 
 
@@ -5559,12 +8237,1044 @@ This is a
 
 
 This is a
+=======
+
+This is a summary of
+
+
+This is a summary of
+
+In summary, Macron's effort to emulate De Gaulle
+Macron
+
+In sum, Macron's attempt to emulate 
+
+
+Summary: Macron's goal to emulate De
+
+
+This is a summarized version of
+
+
+Summary: This is a summary of Mac
+
+
+
+Summary:
+
+
+
+
+This is a summary of Macron
+This is a summary of Macron's effort in emulate
+
+In summary, Macron's
+
+This is a summary of
+
+### Summary:
+
+There are numerous and
+
+
+
+**Summary: <sub> 
+
+
+
+Summarize for the summary of
+
+
+
+This is a summary
+
+There is
+
+There is
+
+There is
+
+
+
+
+The summary is
+
+
+
+The summary is
+
+There is a Summar
+
+The following summary is
+
+Thank you for the summary is
+
+
+ I would like your for the
+
+Summary:
+
+Please find
+
+
+This is a summary
+Please find
+
+
+This is a
+
+Please find
+
+Please find
+
+Please
+
+
+Please! This is a summary.
+
+Please this
+
+
+
+This is a
+
+
+This is a
+
+
+Please do not
+
+
+Please don't
+
+The!
+
+
+Please
+
+
+This is the summary
+
+
+
+
+This is a summary
+Please do know
+
+Please k
+
+Please do not
+
+Please read The
+
+The summary is
+
+
+Please do not
+
+
+This is a summary
+Please do not
+
+
+Please do not
+
+
+This is summarized in a summary of Please
+
+
+
+Please don't
+
+
+
+*Here are a summary This
+
+Please do not
+
+
+Here is a summary of Please do nt
+ Please do not
+
+
+
+Here is a
+
+Please don'
+
+
+Please do not
+
+
+Please do
+Please!
+
+
+Please do not
+
+Please do not
+
+Please do not This is Please do
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not This is a
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do no
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Instead,
+
+Please do not
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+*Please do not
+
+
+Please do not
+Please do
+
+ 
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+
+Please do no
+Please do not
+Please do not
+
+Please do not
+
+
+
+Please do no
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+Please do n
+
+
+
+
+Please do not
+Please do
+
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+Please do
+
+Please do not
+Please do not
+Please do not
+Please do not
+
+
+Please do not
+
+
+
+Please do not [Please do not
+Please do not
+
+
+Please do not
+
+
+Please do not
+Please do
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do n
+
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do no
+Please do no
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please
+
+
+ Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+
+Please do
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do no
+
+
+Please do not 
+
+
+
+Please do not
+Please do not
+***Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do no
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+It's p
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Let me know
+
+
+I do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please do
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+Please do
+Please do not
+"""
+You can use this as a summary
+
+Please do no
+
+
+
+Please do not
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please do not this
+
+
+
+Please do not
+
+
+
+Please do
+
+Please do not
+
+Please do not
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not the
+
+
+
+Please do not
+
+Please do
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do no
+
+Please do not
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+Please do not
+Please do not
+
+Please do not
+
+
+Please do not
+Please do not
+
+Please do not
+
+
+
+Please do not
+ 
+
+
+Please do not
+
+
+
+Please, please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do no
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do not
+Please do not
+
+Please do not
+
+
+
+Please do not
+ Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+Please
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 
 
 "
 
 
+<<<<<<< HEAD
 
 This is a
 
@@ -5796,15 +9506,589 @@ This is a
 
 
 This
+=======
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Ple
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please
+
+**Please do
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do note that the
+Please do not
+
+
+Please do
+
+Please do not
+
+
+
+Please do
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do, and
+
+
+Please do not
+
+Please do
+
+Please do not
+
+
+Please do not
+
+Please do not.
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not.
+
+
+###
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+.
+
+
+
+Please do not
+
+
+Please d.
+ please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+ Please do not
+
+
+Please do not
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+Please
+
+
+
+Please do not
+
+
+
+Please do not
+Please do not
+
+
+
+Please do not}
+
+
+
+
+Please do not 
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+
+Please do not
+
+Please do not
+ Please do not
+
+
+
+Please do not
+
+
+
+
+Please do not
+
+Please do not  Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+Please do not
+Please do not
+Please do not
+
+Please do not
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+Please
+
+
+
+Please do not
+
+
+
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+Please do not
+
+Pleas
+
+
+Please do not
+
+
+Please do not
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+
+This is a,201
+Please do no
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+
+Please do
+
+Please do not
+
+
+
+Please do not
+
+Please do
+
+Please do
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+
+Please do not
+
+Please do not
+
+Please do not
+
+
+Please do not
+
+Please
+
+Please do not
+Please do not
+
+
+Please do not
+
+Please do
+
+
+
+Please do
+
+Please do not
+
+Please do not
+Please do not
+
+
+Please do not
+
+
+
+Please do not
+
+
+
+Please do not
+
+Please do not
+
+
+
+Please do not.
+
+Please do not
+
+
+
+
+Please do not
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 16 Jul 2024 14:31:55 +0530
 ### [Time to normalise mental health issues: Seeking help is strength](https://www.firstpost.com/opinion/time-to-normalise-mental-health-issues-seeking-help-is-strength-13793604.html)
 
+<<<<<<< HEAD
 The author recounts their experience transforming from a fearless rescuer of road accident victims to a timid individual suffering from phobias and panic attacks. This shift, they believe, was triggered by the cumulative impact of witnessing numerous traumatic events. Despite medication and therapy, the author initially struggled to overcome their anxiety. Years later, upon seeking help from a psychiatrist again, they experienced significant improvement and regained their former self.  The author emphasizes the destigmatization of mental health, noting the increasing prevalence of stress, depression, and anxiety. They urge readers to seek help and inspire open conversations about mental health challenges.
+=======
+The author, known for his selfless service helping road accident victims, describes a dramatic shift in his mental well-being after years of helping others.  He developed phobias and anxiety, culminating in panic attacks. 
+
+After seeking professional help from a psychiatrist, he was diagnosed with stress and began medication. While the initial treatment helped, a comprehensive approach including dietary changes and lifestyle adjustments proved crucial in his full recovery.  The author emphasizes the growing importance of destigmatizing mental health issues and encourages open conversations about these challenges, urging individuals to seek help and support.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 16 Jul 2024 12:42:51 +0530
 ### [Not only machines, but men behind them: Getting Indian Army future-ready](https://www.firstpost.com/opinion/not-only-machines-but-men-behind-them-getting-indian-army-future-ready-13793530.html)
 
+<<<<<<< HEAD
 This article explores the balance between human resources and force modernization in the Indian Army's transformation drive. 
 
 The author argues that while technology is increasingly crucial in warfare, it is not a guaranteed path to victory.  History shows that technological advancements often provide tactical advantages that can be countered, and  human factors like esprit de corps and cohesion remain vital.
@@ -5812,10 +10096,20 @@ The author argues that while technology is increasingly crucial in warfare, it i
 The Indian Army is undergoing reforms to increase the youthfulness and education levels of its soldiers, but these changes must not negatively impact existing regimental camaraderie. 
 
 Finding the right balance between human resource management and modernization is a key challenge for the Indian defense establishment.  It requires careful consideration of budgetary allocations and the understanding that technology alone cannot guarantee success in future conflicts.
+=======
+This article examines the crucial role of technology in modern warfare and the balancing act the Indian Army must undertake between human resource reforms and force modernization. 
+
+It highlights how technology has continuously reshaped the character of war, from the Industrial Revolution to the modern era of AI and autonomous systems. While acknowledging the impact of technology, the article stresses that it is not a guarantee of victory. 
+
+The author emphasizes the importance of human factors like esprit de corps and regimental cohesion, asserting that technology alone cannot replace the human element in warfare.  
+
+The article concludes with the challenge facing the Indian defense establishment: finding the right equilibrium between cost-cutting human resource practices and investments in crucial military modernization.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 16 Jul 2024 11:05:29 +0530
 ### [How BIMSTEC in east and IMEC in west can make India central to Asian-European connectivity](https://www.firstpost.com/opinion/how-bimstec-in-east-and-imec-in-west-can-make-india-central-to-asian-european-connectivity-13793487.html)
 
+<<<<<<< HEAD
 Prime Minister Modi's recent visits to Italy and Russia demonstrate India's strategic balancing act as it navigates its relationships with major powers.  
 
 India's historical ties with Russia, rooted in shared anti-colonial sentiments and the desire to counter Chinese influence in Central Asia, remain strong. However, India also recognizes the value of its partnership with the West, particularly in the face of China's growing assertiveness.  
@@ -5824,79 +10118,154 @@ India seeks to leverage its influence in the Bay of Bengal region through BIMSTE
 
 
 This strategic approach, combining a pragmatic relationship with Russia and a developing footprint in the Indo-Pacific, allows India to pursue its national interests while managing the complexities of a multipolar world.
+=======
+Prime Minister Modi's recent diplomatic maneuvers, including his visit to Moscow, signal a strengthening of India's ties with Russia while navigating a complex geopolitical landscape.  
+
+ India's longstanding strategic partnership with Russia, rooted in historical ties and shared concerns about China's growing influence, is becoming increasingly relevant in the context of the ongoing tensions between the West and Russia. BIMSTEC, a regional organization dominated by India, is emerging as a potential counterweight to China's growing presence in the Indo-Pacific. India's investment in infrastructure projects in coastal regions, particularly Andhra Pradesh,  further strengthens its strategic positioning in the Bay of Bengal.
+
+The potential for BIMSTEC to develop into a major trade corridor, connecting India with Southeast Asia, the Gulf Cooperation Council, and Europe, presents a significant opportunity for India to solidify its regional role and counter China's dominance.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 15 Jul 2024 18:03:21 +0530
 ### [Securing supply chains: Why critical minerals are important aspect of Indo-American partnership](https://www.firstpost.com/opinion/securing-supply-chains-why-critical-minerals-are-important-aspect-of-indo-american-partnership-13793358.html)
 
+<<<<<<< HEAD
 The India-US partnership is deepening, particularly in the realm of critical minerals.  Adding critical minerals to the India-US Initiative on Critical and Emerging Technology (iCET) aims to create a more resilient and secure supply chain for both nations, especially in defence, clean energy, and technology sectors.  
 
 This partnership includes co-investments in lithium and rare earth projects, a Bilateral Critical Minerals Memorandum of Understanding, and advanced materials R&D collaboration. Achieving self-reliance in critical materials is crucial for both countries to ensure national security and technological innovation.  The initiative sets a precedent for international cooperation in securing critical resources in an increasingly interconnected world.
+=======
+A transforming US-India defense and security partnership, marked by the India-US Initiative on Critical and Emerging Technology (iCET), now includes critical minerals. This collaboration aims to reduce reliance on imports and strengthen supply chains for key sectors like defense and clean energy.
+
+Both the US and India are working to enhance domestic capabilities in mining, processing, and utilizing critical minerals.  India possesses vast reserves of rare earth elements, and initiatives are underway to develop self-sufficiency. In the US, projects like Round Top, coupled with policy measures like the ORE Act, are bolstering its strategic mineral capacity.  
+
+The iCET expansion entails co-investments in lithium and rare earth projects, a bilateral MOU for cooperation on critical minerals, and collaborative R&D in advanced materials. This partnership strengthens national security, promotes innovation, and sets an example for global cooperation in securing critical resources.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 15 Jul 2024 16:21:12 +0530
 ### [25 years of Kargil war: When Indian armed forces achieved near impossible](https://www.firstpost.com/opinion/25-years-of-kargil-war-when-indian-armed-forces-achieved-near-impossible-13793301.html)
 
+<<<<<<< HEAD
 The Kargil conflict, which began in 1999, saw Pakistan infiltrate Indian territory along the Line of Control. Despite initial intelligence failures and a sense of disbelief within Pakistani leadership, the Indian Army successfully evicted the intruders after a grueling three-month campaign.  
 
 The operation, dubbed Operation Vijay, involved fierce hand-to-hand combat at high altitudes, with Indian soldiers facing heavy enemy fire and challenging terrain.  The Indian Air Force (IAF) played a significant role in the conflict, conducting targeted airstrikes and reconnaissance missions despite initial challenges and losses.  
 
 The Kargil conflict showcased the Indian armed forces' bravery and resilience.  It demonstrated India's decisiveness in defending its territory and sent a clear message to Pakistan that aggression would be met with strong resistance. The conflict also had broader geopolitical implications, weakening Pakistan's standing and strengthening India's relationship with the United States, which led to support for India's nuclear program.
+=======
+The Kargil conflict of 1999 saw Pakistan infiltrate Indian territory, prompting a fierce Indian military response.  Despite facing formidable challenges, including high-altitude terrain and restrictions on military operations, Indian troops successfully evicted the Pakistani intruders. 
+
+The conflict showcased the bravery and resilience of the Indian armed forces, with numerous gallantry awards being bestowed upon soldiers. The Indian Air Force also played a crucial role, conducting air strikes and demonstrating the effectiveness of airpower in mountainous warfare.
+
+The Kargil conflict had significant geopolitical implications, undermining Pakistan's international standing and solidifying India's position as a rising military power. It also underscored the importance of a strong military deterrent in safeguarding national security.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 15 Jul 2024 14:31:00 +0530
 ### [Israel-Lebanon conflict and chances of a full-scale war](https://www.firstpost.com/opinion/israel-lebanon-conflict-and-chances-of-a-full-scale-war-13793231.html)
 
+<<<<<<< HEAD
 The long-standing conflict between Israel and Lebanon has escalated recently, with heavy fighting and cross-border attacks.  While a significant portion of Israelis support international political solutions, a military approach is favored by some, particularly given the Netanyahu regime's current political climate.  
 
 Israel justifies potential action by citing Hezbollah's attacks and the displacement of Israeli citizens.  However,  public opinion leans towards diplomacy, reflecting the desire to avoid a full-scale war with its unpredictable consequences.   Despite Hezbollah's military capability, Israel arguably possesses a significant advantage in resources and potential international support.
+=======
+The Israel-Lebanon conflict has a long history, marked by wars and tensions.  Hezbollah's attacks on Israel in recent months have escalated the situation, leading to a significant exchange of fire. While 61% of Israelis support military action against Hezbollah, a majority also favor an international political solution.  
+
+Israel possesses a strong military advantage and is backed by the United States.  However, the unpredictable nature of war and the potential for international involvement introduce elements of uncertainty. The current Israeli government may see war as a way to divert attention from internal political issues and bolster support. 
+
+The potential for a full-scale war remains a concern, with the outcome heavily influenced by political considerations and the calculations of both sides.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 15 Jul 2024 12:42:59 +0530
 ### [Trump assassination attempt: Why it's noteworthy for India](https://www.firstpost.com/opinion/donald-trump-assassination-attempt-lessons-for-india-13793174.html)
 
+<<<<<<< HEAD
 A gunman attempted to assassinate Donald Trump at a rally in Pennsylvania, shooting a bullet that grazed his ear. Despite the attack, Trump remained defiant, urging his supporters to "fight, fight, fight!" 
 
 The event sparked differing reactions in the media. While acknowledging the incident, some outlets initially downplayed its severity, leading to criticism for their handling of the news. 
 
 The article argues that the escalation of rhetoric against Trump, depicting him as a dangerous figure, contributed to the climate that possibly emboldened the shooter. It compares this to the situation in India, highlighting the potential threats faced by high-profile individuals and urging Indian security agencies to learn from the incident.
+=======
+A would-be assassin shot at Donald Trump during a rally in Pennsylvania, narrowly missing him. The incident, which was witnessed by thousands and quickly captured on social media, has drawn intense media scrutiny and political commentary.
+
+While mainstream media outlets initially struggled to acknowledge the seriousness of the situation, the attack has undoubtedly become a defining moment in the 2024 US presidential campaign. It has also sparked concerns about the increasing hostility and polarization in American politics, with accusations that anti-Trump rhetoric has fueled violence. 
+
+The article argues that the media, particularly leftist outlets, has played a role in demonizing Trump, creating an environment where violence against him becomes more acceptable. It further suggests that the incident is a warning for India, highlighting the vulnerability of political leaders to violence and urging Indian security agencies to take note.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Mon, 15 Jul 2024 10:38:58 +0530
 ### [China’s Panchsheel embrace: A smokescreen for aggression](https://www.firstpost.com/opinion/chinas-panchsheel-embrace-a-smokescreen-for-aggression-13793123.html)
 
+<<<<<<< HEAD
 China's recent emphasis on the Panchsheel principles appears disingenuous, according to the article.  
 
 Despite proclaiming these principles, China has allegedly violated them repeatedly, particularly in its relations with India. The article cites examples such as China's occupation of Indian territories, aggressive posturing and support for Pakistan's hostility towards India.  
 
 It argues that China is using the Panchsheel as a smokescreen to deflect criticism from its own actions and attempts to manipulate the Global South. The author urges the Indian government to recognize this and work to prevent China from exploiting the principles for its own advantage.
+=======
+China recently hosted a conference marking the 70th anniversary of the Panchsheel (Five Principles of Peaceful Coexistence). While China now emphasizes the Panchsheel, its actions haven't aligned with its principles, especially towards India.  
+
+China's occupation of Indian territory, support for Pakistan amidst ongoing tensions, and interference in Kashmir are cited as blatant violations of Panchsheel tenets.  The author argues that China's current revival of the Panchsheel is a tactic to deflect criticism from its global actions and calls on India to be wary of this manipulation.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 17:52:17 +0530
 ### [Bhupinder Singh Rawat: Remembering the ‘Scooter’ who raced his way to success in Indian football](https://www.firstpost.com/opinion/bhupinder-singh-rawat-remembering-the-scooter-who-raced-his-way-to-success-in-indian-football-13792991.html)
 
+<<<<<<< HEAD
 Bhupinder Rawat, nicknamed "Scooter" for his exceptional speed, was one of India's most prolific centre forwards. Despite his short stature, he was a force on the field, renowned for his agility and accurate strikes. 
 
 Rawat gained recognition for his performance in the 1966 Durand Cup, scoring 12 goals and leading his team, the Gorkha Brigade, to victory.  He earned a place in the Indian national team for the 1969 Merdeka Cup, proving his doubters wrong with a string of impressive headers during the selection process.  Known for his sportsmanship and friendly nature, Rawat was a beloved figure in Indian football circles.
+=======
+Bhupinder Singh Rawat, nicknamed "Scooter" for his remarkable pace, was a highly regarded Indian footballer. Despite his short stature, he excelled as a center forward, known for his speed, accuracy, and ability to score headers. He gained prominence during the 1966 Durand Cup, where he scored 12 goals, becoming the tournament's highest scorer. Rawat's exceptional skills earned him a place in the Indian team for the 1969 Merdeka Cup. After retiring from football, he pursued coaching and later settled in Surat, Gujarat, where he passed away in June 2024.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 17:27:58 +0530
 ### [Yes, Nehru played a role in Austria’s emergence as independent nation, but that’s just half the story](https://www.firstpost.com/opinion/yes-nehru-played-a-role-in-austrias-emergence-as-independent-nation-but-thats-just-half-the-story-13792963.html)
 
+<<<<<<< HEAD
 The article debunks the Austrian "first victim" theory, which claimed Austria was a victim of Nazi Germany rather than a collaborator. This theory, popular in the post-World War II era, was used to whitewash Austria's role in the Holocaust and avoid responsibility. 
 
 The author points out that Austria was under Nazi rule from 1938 and participated in the Nazi regime's atrocities. Austrians made up a disproportionately large number of Nazi camp leadership, and approximately 65,000 Austrian Jews were murdered. The "first victim" theory was eventually discredited as Austria, in the 1990s, began to acknowledge its past and pay reparations to Holocaust survivors.
+=======
+The article debunks the discredited Austrian "first victim" theory, which claimed Austria was a victim of Nazi Germany. 
+
+Austria, a landlocked country surrounded by powerful neighbors in the 1930s, saw the rise of fascism and eventually was annexed by Nazi Germany in 1938. Despite claims of minimal resistance, Austria was deeply complicit in Nazi crimes, with Austrians making up a disproportionate number of concentration camp leaders and perpetrators of the Holocaust. 
+
+Although the "first victim" narrative was convenient for Austria after the war, it served to minimize their responsibility for the atrocities committed on their soil and to avoid paying reparations to victims. The theory has since been debunked, but the article highlights how it lingers in certain circles, demanding  a full account of Austrian history and its entanglement with Nazism.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 16:35:01 +0530
 ### [Bloodied but unbeaten: Trump gets a shot at immortality](https://www.firstpost.com/opinion/donald-trump-usa-assassination-attempt-13792934.html)
 
+<<<<<<< HEAD
 A recent assassination attempt on Donald Trump during a campaign rally in Pennsylvania raises serious questions about security lapses.  Despite routine safeguarding of potential vantage points, the shooter was able to access a rooftop overlooking the podium. The incident, alongside historical examples of attempted assassinations targeting Republican presidents, highlights a concerning trend of political violence in the US.  
 
 The article points to the heightened rhetoric surrounding Trump, with calls from some quarters to "stop him at all costs," potentially influencing the shooter's actions. Further investigation may shed light on the shooter's motivations and any security failings that allowed the attempt to occur.
+=======
+An assassination attempt on Donald Trump in Pennsylvania has highlighted security lapses and reignited discussions about political violence in the US. The incident, where a young man fired shots at Trump, injuring a bystander, has raised questions about whether the security detail adequately secured the event, particularly given the heightened rhetoric surrounding Trump and calls for his political defeat. 
+
+Comparisons are drawn to historical instances of political assassinations, including those of US presidents, and the potential influence of anti-Trump sentiment.  Further scrutiny is focused on the shooter's supposed political affiliation, with emerging information suggesting a previous donation to a Democratic political organization. 
+
+
+The incident has emphasized the fragility of democratic processes and the alarming trend of political violence.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 16:06:24 +0530
 ### [First anniversary of Chandrayaan-3 mission: When India pioneered landing on lunar south pole](https://www.firstpost.com/opinion/first-anniversary-of-chandrayaan-3-mission-when-india-pioneered-landing-on-lunar-south-pole-13792950.html)
 
+<<<<<<< HEAD
 India's Chandrayaan-3 mission successfully soft-landed a rover and lander on the lunar south pole on August 23, 2023, making India the fourth country to achieve robotic landings on the Moon and the first to land near the lunar south pole. 
 
 The mission's success was a significant achievement for ISRO, following the failure of the Chandrayaan-2 mission's soft landing attempt in 2019. Chandrayaan-3's payloads collected data on the lunar surface, including confirmation of the presence of sulphur and other elements. While the mission was designed for a single lunar day of operation, future plans include ambitious missions like Chandrayaan-4, which aims to bring lunar samples back to Earth.
+=======
+India's Chandrayaan-3 mission achieved a historic soft landing near the lunar south pole, making India the fourth country to successfully land a spacecraft on the moon and the first to reach the south pole. The mission included a lander and rover that functioned normally for one lunar day, collecting valuable scientific data.  
+
+Crucially, Chandrayaan-3 confirmed the presence of sulphur on the lunar surface and detected other elements like calcium, aluminium, iron, titanium, manganese, chromium, and silicon. ISRO is continuing to analyze data for the presence of hydrogen. 
+
+This success is part of India's larger lunar exploration program, which began with Chandrayaan-1 in 2008 and includes the ongoing Chandrayaan-2 orbiter. ISRO's future plans include the Gaganyaan program to send Indian astronauts into space and Chandrayaan-4, which will return lunar samples to Earth.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 14:13:17 +0530
 ### [Harnessing innovation to meet India's net zero emissions goals by 2070](https://www.firstpost.com/opinion/innovation-to-meet-indias-net-zero-emissions-goals-by-2070-13792906.html)
 
+<<<<<<< HEAD
 India faces a significant energy challenge, relying heavily on fossil fuels despite its ambition to reach net-zero emissions by 2070. 
 
 Technology is crucial for achieving this goal, with advancements in waste-to-energy solutions, alternative fuels like green hydrogen, and improved battery chemistries offering promising pathways.
@@ -5904,75 +10273,146 @@ Technology is crucial for achieving this goal, with advancements in waste-to-ene
 Necessity for efficient battery recycling is also highlighted, with innovations addressing the growing waste stream and promoting a circular economy for rare metals. 
 
 Distributed renewable energy systems are key for expanding access and resilience, and a collaborative approach involving both public and private sectors will be essential to accelerate the implementation of these innovations.
+=======
+India, the world’s third-largest energy consumer, faces the challenge of decarbonising its energy mix heavily reliant on fossil fuels. To achieve its net-zero goals by 2070, India must drive technological innovation in key areas. 
+
+Waste-to-energy, alternative fuels like green hydrogen, and advancements in battery chemistries are crucial for reducing reliance on fossil fuels and enhancing renewable energy integration. Innovative battery recycling solutions are essential to address the growing waste from lithium-ion batteries, while distributed renewable energy systems can improve energy access and resilience.  A multi-faceted approach involving government support, private sector investment, and public-private partnerships is key to driving these innovations and securing a sustainable energy future for India.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 12:51:04 +0530
 ### [Much more than a bear hug: Analysing India-Russia relations](https://www.firstpost.com/opinion/on-india-russia-relations-13792883.html)
 
+<<<<<<< HEAD
 Prime Minister Modi's visit to Moscow for a summit with President Putin highlights India's commitment to dialogue and diplomacy while navigating the complexities of the Ukraine War.  India has consistently advocated for respecting territorial integrity and finding peaceful solutions.  Despite Western pressure, India has maintained its trade relations with Russia, including purchases of oil and weapons, presenting a model for other developing nations. The summit also resulted in agreements on bilateral trade expansion and the use of local currencies.  
 
 Modi secured the release of Indian soldiers fighting for Russia in Ukraine, securing compensation and citizenship for them and their families. This diplomatic effort is significant, especially considering India's position as a developing nation seeking to maintain its strategic autonomy amidst global power dynamics.
+=======
+Prime Minister Modi's summit with Russian President Putin, while reaffirming dialogue and diplomacy, sent a message about India's priorities. 
+
+India's stance on the Ukraine war, advocating for peace while abstaining from UN votes condemning Russia, allows other Global South nations to follow suit.  Furthermore,  India's purchase of Russian oil despite Western sanctions sets a precedent for defying international pressure. 
+
+The bilateral trade commitment of $100 billion by 2030 and the shift to local currencies strengthen the economic partnership. India also secured the release and compensation for Indian mercenaries fighting in Ukraine. This event highlights India's diplomatic maneuvering in a complex geopolitical landscape.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sun, 14 Jul 2024 11:20:19 +0530
 ### [Modi-Putin summit: America must understand that it cannot make India abandon Russia](https://www.firstpost.com/opinion/modi-putin-summit-america-must-understand-that-it-cannot-make-india-abandon-russia-13792841.html)
 
+<<<<<<< HEAD
 India's recent visit by Prime Minister Modi to Moscow, amidst ongoing NATO tensions with Russia, has sparked debate about India's foreign policy balancing act.  While the US expressed pressure on India to sever ties with Russia, India maintained that its engagement with Russia is separate from its relationship with the West and stressed a need for peace talks to resolve the Ukraine conflict.
 
 The article argues that India's relationship with Russia, while facing challenges, is multifaceted and strategically important. It cites the lack of significant progress on key issues expected from the visit, such as the trade deficit and the delivery of S-400 missile systems, as evidence of the decline in strategic convergence between the two countries. 
 
 However, it highlights that India's recent actions, such as advocating for peace talks and condemning the attack on the children's hospital in Kyiv, demonstrate a nuanced approach that distinguishes it from nations like NATO.  The article concludes that India's engagement with Russia differs from China's increasing closeness with Russia and is driven by its unique geopolitical considerations, demanding a more understanding approach from the US-led West.
+=======
+The article analyzes India's recent visit to Moscow amidst the backdrop of NATO's strong stance against Russia. It points out the stark contrast between the US's demand for India to distance itself from Russia and NATO's effort to maintain "constructive engagement" with China, despite Beijing's support for Russia's actions. 
+
+The author argues that India has strong reasons to continue engaging with Russia, due to their long-standing relationship and shared interests.  India's strategic autonomy allows it to maintain balanced relationships with multiple powers, including both Russia and the West.
+
+The article criticizes the US's  attempts to dictate India's foreign policy choices,  highlighting the inconsistencies in American approach towards China and Russia. 
+It concludes by suggesting that  India's engagement with Russia, aimed at promoting peace and de-escalation, is a valuable contribution to the global effort, and underscores the need for the US to adapt to a multipolar world order.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 13 Jul 2024 18:55:30 +0530
 ### [US envoy’s ‘undiplomatic’ rant on PM Modi’s Russia visit: It’s time America stopped taking India for granted](https://www.firstpost.com/opinion/us-envoys-undiplomatic-rant-on-pm-modis-russia-visit-its-time-america-stopped-taking-india-for-granted-13792681.html)
 
+<<<<<<< HEAD
 The article analyzes Prime Minister Modi's recent Moscow visit during a significant NATO summit in Washington. It highlights the complex dynamics of the US-India relationship, arguing that the US has adopted a contradictory approach towards India, simultaneously promoting it as a close ally while engaging with forces seeking to undermine the current Indian government.  
 
 The author criticizes the US for its double standards regarding  democracy and human rights, citing instances where the US has supported authoritarian regimes while criticizing India. He contends that the US needs to reassess its approach to India, emphasizing the need for genuine and consistent diplomatic engagement rather than a strategy that oscillates between support and subtle undermining.
+=======
+The article analyzes the recent visit of Prime Minister Modi to Moscow amidst the NATO summit in Washington.  It highlights the strategic significance of India's relationship with Russia, particularly in light of the ongoing Ukraine war. The author argues that while India maintains its neutrality in the conflict, the timing of the visit sends a strong message,  especially considering the US's attempts to influence India's stance. 
+
+The piece  criticizes the US's double standards in foreign policy, pointing out its inconsistencies in dealing with both democratic allies and authoritarian regimes. It emphasizes the need for the US to adopt a more nuanced and diplomatic approach towards India, acknowledging its autonomy and interests.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 13 Jul 2024 17:39:55 +0530
 ### [How PM Modi’s visit to Russia is a pragmatic step guided by national interest](https://www.firstpost.com/opinion/how-pm-modis-visit-to-russia-is-a-pragmatic-step-guided-by-national-interest-13792657.html)
 
+<<<<<<< HEAD
 Prime Minister Narendra Modi's visit to Russia aimed to reinforce the bilateral relationship between India and  Russia, focusing on defense, energy, and trade. Discussions included potential acquisition of military equipment, joint production, and technological collaboration.  
 
 Energy cooperation was a key point, with both nations exploring ways to strengthen their partnership amidst Western sanctions. Trade diversification beyond traditional sectors was also discussed, with a focus on pharmaceuticals, IT, agriculture, and infrastructure. 
 
 Modi and Putin also addressed regional and global issues, including the conflict in Ukraine. While India maintained neutrality, it reiterated the importance of dialogue and diplomacy. The visit was seen as a strategic move for India, signaling its commitment to a multipolar world order and its pursuit of national interest.
+=======
+PM Modi's visit to Russia, his first in 41 years, aimed to strengthen bilateral relations in defense, energy, and trade. Discussions included potential military procurement, joint defense production, and energy supply agreements. 
+
+India reiterated its neutral stance on the Ukraine conflict, emphasizing the need for dialogue and diplomacy. Modi's visit underscored India's commitment to deepening its partnership with Russia and pursuing its national interest in a multipolar world order. The visit also saw discussions on boosting bilateral trade and cultural exchanges.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 13 Jul 2024 15:14:13 +0530
 ### [How 'scarcity' of competent South Asian scholars mars perception of Indian democracy in West](https://www.firstpost.com/opinion/how-scarcity-of-competent-south-asian-scholars-mars-perception-of-indian-democracy-in-west-13792606.html)
 
+<<<<<<< HEAD
 This article critiques the perspectives of Western scholars on Indian politics, particularly regarding the recent elections. The author argues that these scholars, often focused on left-leaning narratives, lack a genuine understanding of Indian complexities. 
 
 The article specifically challenges the claim that the BJP's lack of Muslim support stems from their policies. It highlights the historical context of Muslim representation in Indian politics, pointing to a decline despite population growth, and attributes it to factors like Islamic supremacism and the legacy of the "Two Nation Theory." The author concludes by emphasizing the need for a more nuanced and native-centric understanding of India's social and political fabric.
+=======
+This article critiques the coverage of Indian elections in US media, arguing that it relies too heavily on perspectives from non-Indian scholars who lack a deep understanding of Indian complexities. It specifically challenges Sadanand Dhume's op-ed, "Modi’s BJP Has a Diversity Problem," which blames the BJP for the underrepresentation of Muslims in Indian politics and cites their lack of support for the party as a result of its "Hindutva" agenda. 
+
+The author contends that Dhume's analysis ignores historical and political context, pointing to the declining Muslim representation in parliament despite a growing Muslim population and the often-anti-BJP stance of so-called secularist parties. 
+
+The article further argues that  a desire for Islamic supremacy within some Muslim communities contributes to the lack of support for the BJP, and that Muslims cannot be effectively represented only by Muslim politicians.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Sat, 13 Jul 2024 12:29:49 +0530
 ### [Terror and talks can’t go together: Why India should not resume cricket diplomacy with Pakistan](https://www.firstpost.com/opinion/terror-and-talks-cant-go-together-why-india-should-not-resume-cricket-diplomacy-with-pakistan-13792571.html)
 
+<<<<<<< HEAD
 The article discusses the upcoming ICC Champions Trophy, scheduled for Pakistan in 2025, and the potential for India to participate. It highlights the security concerns surrounding a potential visit of the Indian cricket team to Pakistan, citing a recent increase in terrorist incidents in Jammu and Kashmir as a cause for worry. The author emphasizes India’s stance that talks with Pakistan cannot coexist with terrorism,  referencing the recent attacks as a deliberate attempt to signal Pakistan's defiance. 
 
 The article concludes by urging India to maintain its strong position against Pakistani terrorism and to engage diplomatically with the international community to pressure Pakistan to abandon its policy of using terrorism against India.
+=======
+The article discusses the potential for India to participate in the 2025 ICC Champions Trophy, hosted in Pakistan.  It highlights security concerns due to a recent increase in terrorist incidents in Jammu and Kashmir, particularly citing the Reasi and Kathua attacks. 
+
+India's participation hinges on the government's decision, weighing the desires of cricket fans against the safety of the team and the broader geopolitical context.  The writer argues that Pakistan's continued use of terror as a tool against India makes dialogue and comprehensive engagement unsustainable. 
+
+The article also emphasizes the importance of India's diplomatic efforts, including persuading international bodies like the IMF and engaging with other nations, particularly Britain, to pressure Pakistan into abandoning terrorism as a policy.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 12 Jul 2024 19:01:30 +0530
 ### [Iran at crossroads: How election of a new president can herald better Tehran-West ties](https://www.firstpost.com/opinion/iran-at-crossroads-how-election-of-a-new-president-can-herald-better-tehran-west-ties-13792393.html)
 
+<<<<<<< HEAD
 The election of Masoud Pezeshkian as Iran's president has generated international interest and possibility for change. Pezeshkian's reformist stance, supported by a significant margin in the election, signifies a shift towards greater engagement with the West and a potential easing of tensions.  The election also demonstrates a positive change in Iran's image on the global stage, with increased support for liberal policies and a lessening of international isolation.  This new direction presents a window of opportunity for the West to engage with Iran, aiming to reduce its ties with China and Russia and facilitate a more stable regional environment.  The success of this engagement depends on several factors, including  actions within Iran,  the US's policy responses, and the progress of the Gaza war.
+=======
+The election of Masoud Pezeshkian as Iran's president has generated significant global interest and hope for change. Despite limitations imposed by the Iranian political system, his reformist agenda and focus on engagement with the West offer a potential shift in Iran's regional and international policies. Pezeshkian's victory signifies a growing desire within Iran for liberal reforms and a move away from international isolation.  
+
+This presents a strategic opportunity for the West, particularly the US, to engage with Iran and curb its growing ties with China and Russia.  Iran-Arab normalization further emphasizes this potential for change, creating a more peaceful and cooperative regional environment. 
+
+Beyond regional impacts, the new Iranian presidency could benefit India through enhanced trade, energy security, and cooperation on maritime and continental security. The outcome heavily depends on the US's response, Israel's actions in the Gaza war, and Iran's willingness to engage with the West and revive the JCPOA.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 12 Jul 2024 17:18:46 +0530
 ### [Pakistan Supreme Court verdict on reserved seats in national and provincial assemblies: A big boost to Imran Khan](https://www.firstpost.com/opinion/pakistan-supreme-court-verdict-on-reserved-seats-in-national-and-provincial-assemblies-a-big-boost-to-imran-khan-13792331.html)
 
+<<<<<<< HEAD
 The Supreme Court of Pakistan ruled in a 8-5 split majority that 80 Independent members of the National Assembly who contested the February 2024 elections are entitled to be recognized as members of the Pakistan Tehreek-Insaaf (PTI).  The court deemed  relevant parts of previous high court and Election Commission orders as invalid and ruled that the PTI can submit lists for reserved seats within 15 days. The ruling is seen as a victory for the PTI but won't threaten the current ruling coalition's parliamentary majority.  While some minority and women MNAs may be affected, their votes in previous elections won't be reconsidered. Chief Justice Qazi Faiz Isa, while not part of the majority, expressed concerns about the ECP's interpretation of his earlier order.
+=======
+The Supreme Court of Pakistan ruled in a 8-5 decision that 80 National Assembly members who contested the February elections as Independents are eligible to be recognized as members of the Pakistan Tehreek-Insaaf (PTI).  The court overturned previous judgments that had deemed these candidates Independents and barred the PTI from its election symbol. This decision ensures the PTI's recognition as a valid political party and allows them to nominate candidates for reserved seats in the National and Provincial Assemblies. Although the ruling benefits the PTI, it is unlikely to significantly impact the current parliamentary majority held by the ruling coalition.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 12 Jul 2024 16:43:09 +0530
 ### [Japan-Philippines Defence Pact: Countering the Dragon, championing new dynamics in South China Sea](https://www.firstpost.com/opinion/japan-philippines-defence-pact-countering-the-dragon-championing-new-dynamics-in-south-china-sea-13792296.html)
 
+<<<<<<< HEAD
 On July 8, 2024, Japan and the Philippines signed a significant Reciprocal Access Agreement (RAA),  deepening their defense cooperation. This agreement allows for the deployment of troops into each other's territories for joint military exercises and enhances collaboration in areas like air and coastal surveillance. 
 
 The RAA comes amid rising tensions with China over the South China Sea and East China Sea disputes. Both countries view China's assertive actions as a threat to regional stability. 
 
 The agreement reflects a shift towards a more proactive security posture by Japan and the Philippines, seeking to reduce reliance on the US security umbrella. The RAA also emphasizes the growing need for regional collaboration to address security challenges posed by China's expanding influence.
+=======
+The Japan-Philippines Reciprocal Access Agreement (RAA) is a significant development in regional security, particularly in light of growing tensions in the South China Sea.  
+
+The agreement, signed in July 2024, allows for increased joint military exercises and the exchange of defense equipment and technology. This strengthening of defense cooperation comes at a crucial time when both Japan and the Philippines face maritime territorial disputes with China. The RAA provides a platform for Japan and the Philippines to work together to deter China's assertive actions and uphold the rules-based order in the Indo-Pacific. 
+
+The pact is also seen as a move away from reliance on a single security provider, with both countries seeking to take a more active role in their own defense.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 12 Jul 2024 13:59:29 +0530
 ### [NATO@75: The military alliance grows in relevance, also in expectations](https://www.firstpost.com/opinion/nato75-the-military-alliance-grows-in-relevance-also-in-expectations-13792225.html)
 
+<<<<<<< HEAD
 The 2024 NATO summit, hosted by US President Joe Biden, focuses on bolstering the alliance's support for Ukraine amidst the ongoing war with Russia. 
 
 Key topics include strengthening NATO's military presence in Europe, particularly along its eastern flank, and increasing financial and military aid to Ukraine. While a formal invitation to join NATO may not be granted, Ukraine's future membership and increased interoperability with the alliance are expected to be discussed. 
@@ -5980,19 +10420,33 @@ Key topics include strengthening NATO's military presence in Europe, particularl
 The summit also addresses the global security challenges posed by China, including Russia-China military cooperation and concerns over the South China Sea.  NATO aims to strengthen its partnerships with Indo-Pacific countries like Australia, Japan, New Zealand, and South Korea. 
 
 Despite differing viewpoints among members regarding China, the summit seeks to project a united front against perceived threats, reaffirming the alliance's commitment to collective defense and global stability.
+=======
+The 2024 NATO summit, hosted by US President Joe Biden, addressed several key issues amidst ongoing global conflicts and political uncertainties. 
+
+A central focus was supporting Ukraine's war efforts, with allies reaffirming their commitment to providing military, political, and financial aid. While a formal invitation for Ukrainian membership was unlikely, discussions centered on accelerating Ukraine's integration with NATO. The summit also emphasized strengthening NATO's defenses in the face of growing threats from Russia and China, with initiatives aimed at boosting defense spending, modernizing military capabilities, and enhancing global partnerships. 
+
+Addressing the evolving security landscape, NATO acknowledged the interconnectedness of the European and Indo-Pacific theaters, particularly regarding China's actions. The summit also highlighted the importance of a unified front against Russia, China, North Korea, and Iran as they increase ammunition production.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Fri, 12 Jul 2024 11:28:00 +0530
 ### [Modi’s visit to Russia: An urge for strategic autonomy in a polarised world](https://www.firstpost.com/opinion/modis-visit-to-russia-an-urge-for-strategic-autonomy-in-a-polarised-world-13792168.html)
 
+<<<<<<< HEAD
 Indian Prime Minister Narendra Modi's visit to Russia was significant amidst global conflicts.  India reiterated its commitment to peace while receiving Russia's highest civilian honor.
 
 Despite Western pressure, India has maintained a balanced approach in the Ukraine conflict,  opposing the war but abstaining from condemning Russia at the UN. This strategy reflects India's complex relationship triangle with Russia, China, and the US.
 
 India seeks to balance its strategic interests, including a close partnership with the US against Chinese assertiveness, while maintaining close ties with Russia, a crucial arms supplier and a partner in promoting a multipolar world order. The visit signifies India's commitment to strategic autonomy and navigating the evolving global power dynamics.
+=======
+Indian Prime Minister Narendra Modi's visit to Russia was significant amidst global tensions, including the conflicts in Ukraine and Gaza. India, while maintaining a neutral stance on the Russia-Ukraine war, reaffirmed its commitment to peace. The visit underscored India's strategic autonomy, balancing close ties with both Russia and the US while navigating the complex relationship between these power players.  
+
+India's dependence on Russian arms imports and its pursuit of economic interests, including purchasing discounted Russian energy, were key factors in its stance. The visit was marked by the signing of agreements in trade, economics, and investment, highlighting the enduring economic partnership between the two nations.  India's delicate balancing act in these global power dynamics will continue to be a defining feature of its foreign policy.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 11 Jul 2024 17:49:21 +0530
 ### [Rumble in South China Sea: Bellicose China versus law-abiding others](https://www.firstpost.com/opinion/rumble-in-south-china-sea-bellicose-china-versus-law-abiding-others-13791977.html)
 
+<<<<<<< HEAD
 The South China Sea (SCS) is witnessing a shift from dialogue to action as China’s growing assertiveness and violation of international norms trigger a regional response.  
 
 China's recent aggressive actions, including harassment of fishing vessels and coast guard confrontations, have angered Southeast Asian nations, particularly the Philippines, despite Beijing’s calls for restored trust. 
@@ -6002,25 +10456,54 @@ The Philippines, emboldened by international support, notably from the US, Japan
 The  situation in the SCS is further complicated by China's economic woes and its need to project strength to maintain domestic stability.  The global economy also risks disruption due to the SCS's strategic importance as a major trade route.    
 
 The escalating tensions raise concerns about the possibility of conflict, potentially destabilizing the region and impacting global economic stability.
+=======
+China's growing assertiveness in the South China Sea, marked by confrontations with neighboring countries, has sparked a shift in regional dynamics. 
+
+Despite recent overtures of "restoring trust," past actions including harassment of fishermen and violations of international law have led to a growing backlash. Countries like the Philippines, Japan, India, and the US are bolstering their military capabilities and forming alliances to counter China's aggression. 
+
+The International Court of Arbitration ruling in favor of the Philippines in 2016, which China refuses to recognize, further complicates the situation. 
+
+The South China Sea's vital role in global trade and maritime security amplifies the stakes, pushing a region accustomed to diplomatic talks towards an increasingly militarized posture.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 11 Jul 2024 17:32:16 +0530
 ### [Don’t take them seriously! Anti-India bias runs deep in human rights groups in West](https://www.firstpost.com/opinion/dont-take-them-seriously-anti-india-bias-runs-deep-in-human-rights-groups-in-west-13791940.html)
 
+<<<<<<< HEAD
 Human rights groups, including Human Rights Watch and Amnesty International, are criticized for prioritizing political agendas over objective standards and methodological rigor.  The author cites instances of the groups supporting problematic regimes, engaging in biased reporting, and accepting funding that may compromise their impartiality.  
 
 The focus on criticizing India, despite evidence of religious freedom and minority rights, is highlighted as a case in point. This, the author argues, stems from factors like dislike for Prime Minister Modi and the lucrative nature of securing funding by targeting India. The author concludes that until these organizations address their biases and conflicts of interest, their reports should be disregarded as politically motivated.
+=======
+The article criticizes human rights organizations like Amnesty International and Human Rights Watch for their biased and often inaccurate reporting, particularly concerning India.  
+
+The author argues that these groups prioritize political agendas over objective analysis, pointing to examples of past errors and questionable methodologies.  They claim that these organizations have a history of supporting controversial regimes and engaging in self-dealing, motivated by financial gain and career advancement. The author also highlights the hypocrisy of criticizing India while ignoring human rights abuses in other countries, such as Pakistan. 
+
+Ultimately, the article condemns the subjective nature of these organizations' work, suggesting that their reports lack credibility and should be dismissed as political propaganda.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 11 Jul 2024 12:25:25 +0530
 ### [PM Modi’s Russia visit: Unpacking the layers of a complex relationship](https://www.firstpost.com/opinion/pm-modis-russia-visit-unpacking-the-layers-of-a-complex-relationship-13791759.html)
 
+<<<<<<< HEAD
 India's recent close ties with Russia aim to go beyond purely economic benefits like discounted oil and fertilizer. A key focus is on deepening defence cooperation, particularly technology transfer and maintenance support for crucial platforms like Sukhoi fighter jets.  While Russia continues to be a dominant supplier of India's military equipment, India also seeks to diversify its procurements. 
 
 Despite the strong defence partnership, a significant trade deficit persists, highlighting the need for increased Russian investment in the Indian market. The geopolitical complexities posed by the Ukraine war and the India-China border dispute cast a shadow on the relationship,  limiting the scope of the partnership.
+=======
+India's relationship with Russia is complex, encompassing both enduring cooperation and emerging challenges. While India benefits from Russian defence technology, including the S-400 missile system and Sukhoi fighter jets, a significant trade deficit and Russia's close ties with China pose limitations. India seeks deeper partnerships, particularly in defence technology transfer, but Russia's involvement in the Ukraine war and silence on Chinese aggression in the Himalayas create geopolitical hurdles. Despite Prime Minister Modi's efforts to strengthen ties, the partnership remains influenced by external factors, particularly the ongoing conflict in Ukraine and the India-China border dispute.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Thu, 11 Jul 2024 11:53:32 +0530
 ### [Sunita Williams saga exposes gaps in protecting astronauts](https://www.firstpost.com/opinion/sunita-williams-saga-exposes-gaps-in-protecting-astronauts-13791767.html)
 
+<<<<<<< HEAD
 The article discusses the legal framework surrounding astronaut health and rescue in space, highlighting the need for improved international norms.  Existing international space law, including the Outer Space Treaty of 1967 and the Rescue Agreement of 1968, emphasize the responsibility of states to ensure astronaut safety and provide assistance in distress. 
 
 The article argues that  while the right to health is recognized in international human rights law, its application to astronauts requires clearer guidelines. It calls for a new health-focused norm within the space exploration community to prioritize astronaut well-being during missions.
+=======
+Space exploration, guided by international law, necessitates a global commitment to astronaut health. This includes the fundamental right to health as outlined in the International Covenant on Economic, Social and Cultural Rights.  
+
+History shows a progression towards codifying international space law, beginning with the Declaration of Legal Principles Governing the Activities of States in 1963 and culminating in the Rescue Agreement for Astronauts in 1968.  
+
+Given the evolving nature of space activities, especially considering long-duration missions,  a new international norm prioritizing astronaut health is crucial. This norm should encompass preventative measures, robust rescue protocols, and a shared responsibility for astronaut well-being.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 

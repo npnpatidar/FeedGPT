@@ -1,16 +1,28 @@
 Tue, 20 Aug 2024 20:23:12 +0530
 ### [Who was Aruna Shanbaug mentioned by the Supreme Court during Kolkata rape-murder case hearing?](https://www.firstpost.com/explainers/supreme-court-kolkata-rape-murder-case-hearing-aruna-shanbaug-euthanasia-13806612.html)
 
+<<<<<<< HEAD
 The Supreme Court referred to the case of Aruna Shanbaug, a Mumbai nurse who was brutally sexually assaulted and left in a persistent vegetative state for 42 years. 
 
 The attack occurred in 1973 when Shanbaug was  working at KEM Hospital.  The perpetrator, a ward boy, sodomized and strangled her. While convicted, he received a lenient sentence as "sodomy" was not considered rape under Indian law at the time. 
 
 Shanbaug's case sparked a national discussion on euthanasia and violence against women in healthcare settings. A petition seeking legal euthanasia was filed on her behalf, ultimately leading the Supreme Court to legalize passive euthanasia in specific circumstances. Shanbaug sadly passed away in 2015.
+=======
+In 1973,  Aruna Shanbaug, a 25-year-old nurse, was brutally sexually assaulted by a ward boy at Mumbai's KEM Hospital.  The attack left her in a persistent vegetative state for 42 years until her death in 2015.  Her case sparked a national debate on euthanasia in India.  A petition seeking her legal right to die was filed in the Supreme Court, which ultimately rejected it but paved the way for passive euthanasia in certain cases. Aruna Shanbaug's story highlighted the vulnerability of healthcare workers, particularly women, to violence in the workplace.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 20 Aug 2024 20:04:19 +0530
 ### [Why is Switzerland offering Rs 49 lakh to pull ammunition from its lakes?](https://www.firstpost.com/explainers/switzerland-rs-49-lakh-ammunition-lakes-13806561.html)
 
+<<<<<<< HEAD
 Switzerland is tackling the problem of thousands of tonnes of military munitions dumped in its lakes between 1918 and 1964. The Swiss federal office for defence procurement, Armasuisse, has launched a competition offering 50,000 Swiss francs to find safe and environmentally friendly methods to remove the explosives.  The munitions pose risks of explosions and environmental contamination, with some estimations suggesting over 3,300 tonnes in Lake Lucerne alone.  The competition invites ideas from various sectors, with the winning proposals potentially serving as a basis for future research and removal projects.
+=======
+Switzerland is confronting a significant environmental hazard: thousands of tonnes of old military munitions dumped in its picturesque lakes between 1918 and 1964.  These explosives pose risks of both explosions and environmental contamination from toxic TNT. 
+
+To address this issue, the Swiss government has launched a competition seeking innovative and safe methods for removing the munitions.  The competition, with a prize pool of 50,000 Swiss francs, aims to engage academia and industry in finding solutions for this complex challenge.
+
+Estimates suggest that Lake Lucerne alone holds 3,300 tonnes of munitions, while Lake Neuchatel contains approximately 4,500 tonnes. The depth and weight of the munitions, coupled with visibility issues, add significant complexity to the recovery effort.  Experts believe that international experience from countries like the UK, Norway, and Denmark could be beneficial in tackling this issue.
+>>>>>>> 2deb6a72e9d16779a9e50271a9a2e0c348b832d1
 
 Tue, 20 Aug 2024 19:33:24 +0530
 ### [Can Taylor Swift sue Donald Trump for sharing AI-generated endorsement? What does the law say?](https://www.firstpost.com/explainers/can-taylor-swift-sue-donald-trump-for-sharing-ai-generated-endorsement-what-does-the-law-say-13806602.html)
