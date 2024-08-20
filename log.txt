@@ -6775,3 +6775,14 @@ Total time taken: 306.8055386543274 seconds
 
 49 entries have been deleted from feeds/Column_TH.xml 
 
+Started at 2024-08-20 16:13:27
+62 Feed entries have been written to feeds/Explained_IE.xml
+2 Feed entries have been written to feeds/Explain_FP.xml
+105 Feed entries have been written to feeds/Opinion_FP.xml
+66 Feed entries have been written to feeds/EDITORIAL_TH.xml
+94 Feed entries have been written to feeds/Column_TH.xml
+329 new entries have been added
+0 summaries have been updated
+Finished at 2024-08-20 16:45:43
+Total time taken: 1936.5903854370117 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
