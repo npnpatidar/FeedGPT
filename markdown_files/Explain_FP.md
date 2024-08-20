@@ -1,3 +1,27 @@
+Tue, 20 Aug 2024 17:31:46 +0530
+### [In Graphics | How do mosquitoes detect people, spread diseases?](https://www.firstpost.com/explainers/world-mosquito-day-graphics-how-do-mosquitoes-detect-people-spread-diseases-13806509.html)
+
+World Mosquito Day, observed on August 20th, highlights the threat posed by mosquito-borne diseases like malaria, dengue fever, Zika virus, and West Nile virus, which claim millions of lives annually.  
+
+This year's theme emphasizes the urgent need to address inequalities in access to malaria treatment, diagnosis, and prevention. The day recognizes the dedication of those combating these diseases.
+
+Tue, 20 Aug 2024 16:44:15 +0530
+### [How pro-Trump supporters are spreading rumours about Kamala Harris’ ‘drinking problem’](https://www.firstpost.com/explainers/pro-trump-supporters-spread-rumours-about-kamala-harris-drinking-problem-13806361.html)
+
+Trump supporters have begun circulating videos of Kamala Harris, alleging she has a drinking problem. These videos, which show Harris speaking at rallies and events, have been interpreted by some as evidence of her alleged intoxication. Critics point to her speech patterns and occasional laughter as proof, while supporters dismiss these claims as baseless.  
+
+This latest attack comes amidst a broader effort by Trump and his allies to undermine Harris, employing derogatory nicknames, sexist remarks, and personal attacks on her character and capabilities. 
+
+
+They hope to weaken her standing and divert attention from policy discussions.
+
+Tue, 20 Aug 2024 16:00:53 +0530
+### [What led to the sinking of the Bayesian superyacht off Italy’s coast?](https://www.firstpost.com/explainers/what-led-to-the-sinking-of-the-bayesian-superyacht-off-italy-sicily-coast-13806409.html)
+
+The superyacht Bayesian sank off the coast of Sicily after being caught in a violent storm.  The yacht, owned by British entrepreneur Mike Lynch, capsized with 22 people onboard. One person was found dead, the chef, while 15 were rescued, including Lynch's wife. Lynch and six others remain missing. 
+
+The storm, characterized by high winds and waterspouts, struck the anchored yacht, leading to its rapid sinking.  The yacht's tall mast and a potentially raised lifting keel may have contributed to its instability. The incident raises concerns about yacht safety in the face of increasingly frequent extreme weather events in the Mediterranean, possibly exacerbated by climate change.
+
 Tue, 20 Aug 2024 14:40:09 +0530
 ### [How Islamic preacher Zakir Naik, a fugitive in India, became Malaysia's guest](https://www.firstpost.com/explainers/how-islamic-preacher-zakir-naik-a-fugitive-in-india-became-malaysias-guest-13806439.html)
 
@@ -9179,8 +9203,9 @@ UK Prime Minister Rishi Sunak has announced an early general election for 4 July
 Thu, 23 May 2024 08:54:04 +0530
 ### [Why are Electric Vehicles more likely to hit pedestrians?](https://www.firstpost.com/explainers/electric-vehicles-pedestrians-13773922.html)
 
-Article found but Couldn't summarize 
-A new study published in the Journal of Epidemiology & Community Health examining data from the UK found that electric and hybrid cars are twice as likely to hit pedestrians than their petrol and diesel counterparts. Experts say this is because EVs are quieter and that people are used to looking for certain cues to signal when cars are approaching
+A study analyzing UK road accident data from 2013 to 2017 found that electric and hybrid vehicles are twice as likely to be involved in pedestrian accidents compared to petrol and diesel cars. This difference is particularly pronounced in urban areas, where EVs are three times more likely to hit pedestrians.  
+
+Researchers suggest the increased risk stems from the quiet nature of EVs, as people rely on auditory cues to anticipate approaching vehicles.  The study emphasizes the need for  mitigation strategies to address this safety concern as the transition to electric transportation continues.
 
 Wed, 22 May 2024 21:09:06 +0530
 ### [Why is New Caledonia unrest causing nickel prices to soar?](https://www.firstpost.com/explainers/new-caledonia-unrest-nickel-prices-13773930.html)
@@ -9921,8 +9946,7 @@ As the 2024 US presidential election approaches, New Yorkers are increasingly in
 Fri, 17 May 2024 08:05:09 +0530
 ### [Love and lust in the White House: Long list of US presidential sex scandals before Trump](https://www.firstpost.com/explainers/love-lust-white-house-list-us-presidential-sex-scandals-donald-trump-john-f-kennedy-bill-clinton-13769395.html)
 
-Article found but Couldn't summarize 
-Juicy details of Donald Trump’s alleged affair with adult film star Stormy Daniels have been revealed in the ongoing hush money trial case. However, he isn’t the first US president accused of adultery. History shows that the occupants of the White House, dating as far back as George Washington, have been involved in sex scandals
+A string of US presidents have faced accusations of infidelity and sexual misconduct throughout history. Bill Clinton's affair with Monica Lewinsky, the result of which led to his impeachment, remains a prominent example. John F. Kennedy, known for his charisma, was rumored to have numerous affairs, including one with Marilyn Monroe. George H.W. Bush faced allegations concerning his relationship with a White House staffer. Richard Nixon garnered notoriety for his inappropriate behavior towards female staff members. Franklin D. Roosevelt's long-running affair with his wife's secretary, Lucy Mercer, garnered significant attention. Additionally, Warren G. Harding engaged in an affair with a secretary, resulting in a child acknowledged through DNA testing. Thomas Jefferson's alleged relationship with slave Sally Hemings was confirmed by DNA testing in 1998.
 
 Fri, 17 May 2024 06:00:26 +0530
 ### [FirstUp: PM Modi's Mumbai rally, Rahul and Akhilesh in UP... The top news today](https://www.firstpost.com/explainers/firstup-pm-modi-mumbai-rahul-gandhi-akhilesh-yadav-in-up-top-news-today-13771654.html)
@@ -17128,92 +17152,131 @@ However, these initiatives face opposition from those who view them as excessive
 Wed, 6 Mar 2024 05:00:57 +0530
 ### [FirstUp: India's 1st underwater metro tunnel, farmers protest... The headlines today](https://www.firstpost.com/explainers/firstup-indias-1st-underwater-metro-tunnel-farmers-protest-the-headlines-today-13745486.html)
 
-Article found but Couldn't summarize 
-PM Narendra Modi will inaugurate India’s first underwater metro tunnel in Kolkata. Farmers will resume their march to Delhi to press the Centre over their various demands. In international news, the UK finance minister Jeremy Hunt will present a spring budget in Parliament
+Today, Prime Minister Modi will inaugurate India's first underwater metro tunnel in Kolkata, as well as other Metro sections.  
+
+The Indian Navy will also be commissioning a naval detachment in Minicoy as INS Jatayu,  demonstrating its commitment to enhancing security in the Lakshadweep Islands. Farmers will resume their march to Delhi to press the government on their demands, including MSP for crops and a farm loan waiver.
+
+Defence Minister Rajnath Singh will commission the newly inducted MH 60R Seahawk multi-role helicopter.  
+
+In the UK, Finance Minister Jeremy Hunt will present a spring budget.
 
 Tue, 5 Mar 2024 21:18:49 +0530
 ### [Polluters Beware! How new satellite will monitor global methane leaks](https://www.firstpost.com/explainers/polluters-beware-how-new-satellite-will-monitor-global-methane-leaks-13745551.html)
 
-Article found but Couldn't summarize 
-The satellite known as MethaneSAT was launched from California on Monday via a SpaceX rocket. Built at a cost of $88 million, the washing machine-sized satellite will orbit the earth 15 times a day at an altitude of 590 kilometres and will be able to detect changes as small as three parts per billion
+MethaneSAT, a newly launched satellite developed by the US Environmental Defense Fund and the New Zealand Space Agency, is designed to detect and track methane emissions globally. 
+
+The satellite, which cost $88 million to build, can identify changes in methane concentrations as small as three parts per billion. Equipped with high-resolution infrared sensors and a wide-angle camera, MethaneSAT is expected to pinpoint “super emitters”  — sites releasing significant amounts of methane. The data collected will be publicly available through Google Earth Engine, aiding researchers, policymakers, and the public in understanding and mitigating methane emissions. 
+
+The launch of MethaneSAT is anticipated to increase transparency in methane emissions from oil and gas facilities, a sector identified as a major contributor to global warming.
 
 Tue, 5 Mar 2024 20:24:26 +0530
 ### [Justice Abhijit Gangopadhyay says will ‘join BJP’: Can judges enter politics?](https://www.firstpost.com/explainers/calcutta-high-court-justice-abhijit-gangopadhyay-says-will-join-bjp-can-judges-enter-politics-13745553.html)
 
-Article found but Couldn't summarize 
-Former Calcutta High Court judge Abhijit Gangopadhyay said on Tuesday he will join the BJP, hours after leaving the judiciary. India’s history is rife with judges who entered the political arena and some who undertook the reverse journey
+Abhijit Gangopadhyay, a former Calcutta High Court judge, announced that he will join the BJP on March 7. He cited his experience exposing corruption in the West Bengal teachers’ recruitment scam as a motivation for entering politics.  Gangopadhyay has been embroiled in controversies during his tenure, including defying orders from higher courts and making critical statements against the CBI. 
+
+
+Indian judges are not barred from joining politics, and history is filled with examples of judges who have entered and exited political life.
 
 Tue, 5 Mar 2024 20:09:35 +0530
 ### [No true equality in even wealthiest nations: What new World Bank report on women reveals](https://www.firstpost.com/explainers/no-true-equality-in-even-wealthiest-nations-what-new-world-bank-report-on-women-reveals-13745537.html)
 
-Article found but Couldn't summarize 
-The World Bank's 10th annual Women, Business and the Law report has shone a spotlight on several issues faced by women across 190 nations including legal protections, the gender wage gap and transparency. But how did India fare?
+The World Bank's 10th annual Women, Business and the Law report emphasizes the persistent global gap in legal protections between men and women.  Women currently enjoy just 64 percent of the legal protections afforded to men, a decline from previous estimates. The report highlights the critical need for improved safety measures and affordable childcare as significant barriers to women's labor force participation. 
+
+ Despite some progress, enforcement of existing laws remains a major challenge, with many countries lacking the systems necessary to implement policies aimed at gender equality in the workplace. The report stresses that removing discriminatory laws could significantly boost global GDP, highlighting the economic imperative of empowering women.  India has seen a  improvement in its ranking, though it still lags behind in areas like pay equality and workplace restrictions for women.
 
 Tue, 5 Mar 2024 19:00:41 +0530
 ### [Dreaming of the expat life in Singapore? Why getting a job there will be tougher](https://www.firstpost.com/explainers/dreaming-of-the-expat-life-in-singapore-why-getting-a-job-there-will-be-tougher-13745489.html)
 
-Article found but Couldn't summarize 
-Yes, it is the most liveable place for expats in Asia. But getting a job in Singapore just got more difficult. The government has tightened rules for hiring foreign professionals and it’s likely to affect how global businesses recruit in the city-state
+Singapore is amending its employment pass rules, increasing the minimum monthly salary requirement for foreign professionals from January 2025. This rise aims to create more job opportunities for local workers and ensure higher-quality foreign hires.
+
+The minimum salary is escalating to SGD 5,600 for most applicants, and SGD 6,200 for the financial services sector. The adjustments progressively rise with age and are based on top one-third local salaries for relevant professions.  
+
+These changes are expected to impact global businesses recruiting in Singapore, but the government aims to attract high-caliber talent through its revamped ONE pass program and a new COMPASS points system evaluating candidates' complementarity to the Singaporean workforce.
 
 Tue, 5 Mar 2024 18:31:17 +0530
 ### [US woman claims she's allergic to water: What is aquagenic urticaria?](https://www.firstpost.com/explainers/us-woman-claims-shes-allergic-to-water-what-is-aquagenic-urticaria-13745411.html)
 
-Article found but Couldn't summarize 
-Loren Montefusco claims that she is allergic to water and is unable to shower as it causes her severe itching. The condition that the 22-year-old is suffering from is called aquagenic urticaria, a kind of hive that manifests as a rash upon contact with water
+Loren Montefusco, a 22-year-old from South Carolina, suffers from aquagenic urticaria, a rare condition that causes hives upon contact with water.  The itching can last up to an hour and is so intense that Montefusco avoids showers and baths as much as possible.
+
+She manages her condition by using body wipes and dry shampoo. Montefusco has found support through online communities of people who experience similar issues, which has helped her cope with the mental burden of the condition. Aquagenic urticaria affects women more often than men, typically starting around puberty. The exact cause is unknown, but it is believed to be a reaction to chemicals or allergens in water rather than the water itself. Treatment options include steroids, antihistamines, and UV radiation therapy.
 
 Tue, 5 Mar 2024 18:06:17 +0530
 ### [How did Haiti become the land of gang violence?](https://www.firstpost.com/explainers/how-did-haiti-become-the-land-of-gang-violence-13745424.html)
 
-Article found but Couldn't summarize 
-Haiti has witnessed an explosion of violence since the assassination of then-president Jovenel Moïse in 2021. Now, armed gangs are battling police and soldiers for control of the streets, prisoners are breaking out en masse and authorities are scrambling in vain to restore order. Experts say armed groups, which have been used by politicians for decades, are now a power unto themselves
+Haiti is engulfed in a severe crisis fueled by rampant gang violence. For decades, political leaders have exploited gangs, turning them into powerful entities that now operate with a disturbing level of autonomy. 
+
+The assassination of former president Jovenel Moise in 2021 further destabilized the country. With a weak police force and a leadership struggling to regain control, gangs now control vast swaths of territory, including key infrastructure like the Varreux fuel terminal. 
+
+The dire economic situation, exacerbated by political corruption and natural disasters, has driven thousands of Haitians to flee their homeland. The international community's response has been inadequate, leaving the Haitian people trapped in a cycle of violence and despair.
 
 Tue, 5 Mar 2024 16:49:41 +0530
 ### [‘Chaiwala’, ‘Chowkidar’, ‘Parivar’: How jibes at PM gave BJP 3 poll campaigns](https://www.firstpost.com/explainers/pm-narendra-modi-opposition-jibes-chaiwala-chowkidar-parivar-bjp-poll-campaigns-2024-lok-sabha-elections-13745457.html)
 
-Article found but Couldn't summarize 
-The BJP has launched a ‘Modi ka Parivar’ campaign ahead of the Lok Sabha polls after RJD supremo Lalu Prasad said the PM has ‘no family’ at a rally recently. This is not the first time that the saffron party has capitalised on the Opposition’s barbs at Narendra Modi
+In response to Lalu Prasad Yadav's remark that Prime Minister Narendra Modi has "no family," the BJP has launched the "Modi Ka Parivar" campaign.  Modi, during a rally, stated that the 140 crore people of India are his family.  BJP leaders have adopted "Modi Ka Parivar" as a suffix to their online profiles. The party intends to use this slogan as a mass public campaign, highlighting Modi's connection with the common people. This strategy mirrors the BJP's 2019 campaign where they embraced the "Chowkidar" label after Rahul Gandhi's "Chowkidar Chor Hai" comment, and their 2014 campaign,  "Chai Pe Charcha,"  which capitalized on Modi's humble beginnings after a Congress leader referred to him as a tea seller.
 
 Tue, 5 Mar 2024 16:21:55 +0530
 ### [What is Chakshu, India's new SMS and call fraud reporting portal?](https://www.firstpost.com/explainers/what-is-chakshu-indias-new-sms-and-call-fraud-reporting-portal-13745337.html)
 
-Article found but Couldn't summarize 
-The government has rolled out the Chakshu platform to curb the menace of phone call fraud. A part of the citizen-centric facilities available on the Sanchar Saathi portal, the new platform makes it easier to report such calls and messages and enables real-time intelligence-sharing among several stakeholders
+The Indian government has launched Chakshu, a platform integrated with the Sanchar Saathi portal, to combat phone call fraud. Chakshu allows users to report suspicious calls and messages, enabling real-time information sharing among telecom companies, law enforcement, banks, and other relevant entities. 
+
+The platform aims to facilitate quick verification and disconnection of numbers suspected to be involved in fraud. Additionally, it will address issues like inadvertent disconnections and frozen funds due to fraudulent activity. 
+
+
+Chakshu, coupled with the Digital Intelligence Platform, is expected to significantly enhance the detection and prevention of cyber fraud.
 
 Tue, 5 Mar 2024 16:04:50 +0530
 ### [Why is India’s first indigenous Fast Breeder Reactor significant?](https://www.firstpost.com/explainers/why-is-indias-first-indigenous-fast-breeder-reactor-significant-13745361.html)
 
-Article found but Couldn't summarize 
-Prime Minister Narendra Modi on Monday witnessed history — the commencement of the ‘core loading’ in India’s indigenous Prototype Fast Breeder Reactor (PFBR). This is a stepping stone to the third stage of India's programme designed by Homi J Bhabha through which the country will achieve 'aatma nirbharta' in nuclear energy by using its abundant thorium reserves
+Prime Minister Narendra Modi witnessed the commencement of "core loading" at India's Prototype Fast Breeder Reactor (PFBR) in Kalpakkam. This marks a significant step towards India achieving self-reliance in nuclear energy using its abundant thorium reserves. 
+
+The PFBR, a third-generation reactor, uses Uranium-Plutonium Mixed Oxide (MOX) fuel initially.  A key feature is its ability to transmute Uranium-238 into fissile material, creating a breeding effect. Long-term, the reactor will utilize thorium-232, transforming it into U-233, further enhancing India's energy security.  This technology minimizes nuclear waste and aligns with India's goal of reducing reliance on fossil fuels. 
+
+
+ Becoming operational, the PFBR will place India among a select few nations, alongside Russia,  possessing a commercially functioning fast breeder reactor.
 
 Tue, 5 Mar 2024 15:24:58 +0530
 ### [What is the ADITI scheme to fund India's defence start-ups?](https://www.firstpost.com/explainers/what-is-the-aditi-scheme-to-fund-indias-defence-start-ups-13745383.html)
 
-Article found but Couldn't summarize 
-Under the Centre's ADITI scheme, start-ups are eligible to receive grant-in-aid of up to Rs 25 crore for their research development and innovation endeavours in defence technology
+The Indian Defence Ministry launched the ADITI (Acing Development of Innovative Technologies with iDEX) scheme to foster innovation in strategic defence technologies. This Rs 750 crore scheme, spanning 2023-26, aims to develop 30 critical technologies and bridge the gap between military needs and innovation capabilities.  
+
+The first edition includes 17 challenges from various branches of the armed forces and the Defence Space Agency. ADITI, building on the success of the iDEX program, seeks to empower startups with grants up to Rs 25 crore for their defence technology research and development.  
+
+Defence Minister Rajnath Singh emphasized the government's commitment to promoting innovation and transforming India into a knowledge society to achieve technological superiority.
 
 Tue, 5 Mar 2024 14:10:00 +0530
 ### [Why France has made abortion a constitutional right](https://www.firstpost.com/explainers/france-abortion-constitutional-right-us-supreme-court-2022-ruling-13745291.html)
 
-Article found but Couldn't summarize 
-France has enshrined the right to abortion in its Constitution, the first country in the world to do so. While terminating a pregnancy has been legal here since 1975, what prompted the lawmakers to usher in the big change?
+France became the first country to include the right to abortion in its Constitution, following a bill passed by Parliament with overwhelming support. 
+
+While abortion has been legal in France since 1975, the legislation, prompted by the overturning of Roe v. Wade in the US, aims to solidify women's reproductive rights and guarantee "guaranteed freedom" to terminate a pregnancy.  Public opinion strongly favors abortion rights in France, with over 80% supporting the constitutional amendment. The move has been celebrated as a historic step for women's rights, with some opposing voices arguing it was unnecessary.
 
 Tue, 5 Mar 2024 14:05:00 +0530
 ### [13 governments in 16 yrs: How Nepal continues to see political churn](https://www.firstpost.com/explainers/pushpa-kamal-daha-new-alliance-13-governments-16-years-nepal-political-churn-13745366.html)
 
-Article found but Couldn't summarize 
-Nepal prime minister Pushpa Kamal Dahal ‘Prachanda’ has forged a new alliance with previous rival KP Oli’s Communist Party of Nepal-Unified Marxist Leninist (CPN-UML). This marks a new chapter in the country’s power struggles. There have been 13 governments since 2008, when monarchy was abolished
+Nepal Prime Minister Pushpa Kamal Dahal "Prachanda" has formed a new coalition with  KP Sharma Oli's Communist Party of Nepal-Unified Marxist Leninist (CPN-UML), a move that marks a significant shift in the country's political landscape. This alliance comes after Prachanda's 15-month partnership with the Nepali Congress ended due to disagreements over budget allocation and the appointment of the Chairman of the National Assembly. 
+
+Nepal has witnessed 13 different governments since becoming a republic in 2008, with coalitions being the norm. This history of political instability is attributed to politicians prioritizing power over ideological consistency.  The frequent changes in alliances and governments lead to policy volatility, impacting economic growth and foreign investment, and potentially exacerbating social and ethnic tensions.
 
 Tue, 5 Mar 2024 13:17:54 +0530
 ### [Are four-day work weeks really the answer to increase productivity?](https://www.firstpost.com/explainers/four-day-work-weeks-increase-productivity-13745112.html)
 
-Article found but Couldn't summarize 
-While Belgium and some Nordic countries are trying to compress the work week into four days, Spain and Portugal are trying to boost productivity by shortening working hours. But experts say managers need to look beyond simply reorganising working hours if they want to reenergise the workforce
+Discussions around reducing working hours are resurfacing globally, spurred by the COVID-19 pandemic and a desire for better work-life balance. There are two main approaches: compressing work into four days while maintaining the same weekly hours, or implementing a shorter 32-hour week by boosting productivity. 
+
+Belgium and Nordic countries favor the former, while Spain and Portugal are pursuing the latter. 
+
+However, experts caution that simply reorganizing hours isn't enough.  True workforce reengagement requires addressing the meaning and purpose of work, offering autonomy, and fostering a sense of fulfillment, rather than solely focusing on the quantity of hours worked.  
+
+
+The article suggests that we need to envision a new model of work and life that prioritizes individual and collective well-being beyond mere economic productivity.
 
 Tue, 5 Mar 2024 11:56:51 +0530
 ### [Taurus missiles: The weapon at the heart of the German military leak](https://www.firstpost.com/explainers/taurus-missiles-weapon-german-military-leak-russia-13745268.html)
 
-Article found but Couldn't summarize 
-A leaked audio recording of German military officers discussing the possible use of Taurus long-range missiles in Ukraine has raised concerns about the security of their communications. But what do we know about the missiles that is at the root of the tensions?
+A leaked audio recording of German military officers discussing the potential use of Taurus long-range missiles in Ukraine has sparked controversy. 
+
+The recording, published by Russian state media,  shows the officers discussing deployment scenarios and logistical considerations, but makes clear that no decision has been made to send the missiles. 
+
+Germany has denied any wrongdoing, with Defence Minister Pistorius branding the leak "information warfare" aimed at sowing discord. The incident highlights the sensitive nature of military aid to Ukraine and the risks of communication security breaches.
 
 Tue, 5 Mar 2024 11:30:59 +0530
 ### [Dry ice as ‘mouth freshener’: How a mix-up by Gurugram eatery left 5 hospitalised](https://www.firstpost.com/explainers/dry-ice-as-mouth-freshener-how-a-mix-up-by-gurugram-eatery-left-5-hospitalised-13745225.html)

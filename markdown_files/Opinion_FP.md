@@ -1,3 +1,33 @@
+Tue, 20 Aug 2024 17:25:07 +0530
+### [Why a Chinese report on American hands in regime changes is worth considering](https://www.firstpost.com/opinion/why-a-chinese-report-on-american-hands-in-regime-changes-is-worth-considering-13806543.html)
+
+The Chinese Foreign Ministry report "The National Endowment for Democracy: What It Is and What It Does?" criticizes the NED for interfering in the internal affairs of other countries. 
+
+The report alleges that the NED supports pro-US forces, manipulates elections, and incites division to undermine stability. It specifically accuses the NED of funding Uyghur and Tibetan groups considered anti-state by China, citing financial support to organizations like the World Uyghur Congress and individuals like Hidayet Oguzhan and Rushan Abbas. 
+
+The report also highlights articles published in the Journal of Democracy, a publication associated with the NED, that question the effectiveness of Indian democracy. 
+
+
+China calls on countries to be aware of the NED's true intentions and protect their national sovereignty and interests.
+
+Tue, 20 Aug 2024 16:25:11 +0530
+### [How social inequality fuels ‘godmen’ culture](https://www.firstpost.com/opinion/how-social-inequality-fuels-godmen-culture-13806496.html)
+
+This article discusses the alarming rise of exploitative "godmen" in India,  highlighting their abuse of power and wealth. 
+
+While India boasts genuine saints who promote inner peace and selflessness, a  disconcerting number of self-proclaimed gurus exploit poverty, caste inequality, and superstition for personal gain. 
+
+Examples like Bhole Baba, Asaram Bapu, and Gurmeet Ram Rahim Singh demonstrate how these figures amass wealth, influence, and impunity, often securing political protection despite accusations of sexual assault, murder, and other crimes.  The article argues that the root causes of this phenomenon are India's deep-seated social problems, including  caste discrimination and economic disparity, which make vulnerable populations susceptible to their manipulative tactics.  The author emphasizes the need for comprehensive social and economic reforms to address the underlying issues and prevent continued exploitation.
+
+Tue, 20 Aug 2024 16:06:38 +0530
+### [Could Moneyball methodology improve Indian cricket?](https://www.firstpost.com/opinion/could-moneyball-methodology-improve-indian-cricket-13806487.html)
+
+The Indian Premier League (IPL), a driving force behind India's cricketing success, uses awards and rankings to recognize player performance. However, the current system relies on limited and questionable metrics. 
+
+Analyzing IPL data, a group of students developed a new Most Valuable Player (MVP) formula based on multivariate regression. This new system considers batting efficiency and consistency, bowling control and wicket-taking, and fielding impact, leading to a stronger correlation between MVP scores and team win percentages.  
+
+The revised metrics highlight the importance of strike rate, economy rate, and fielding contributions, offering a more comprehensive assessment of player value. This Moneyball approach could elevate the competition within the IPL and potentially contribute to India's dominance in world cricket.
+
 Tue, 20 Aug 2024 13:58:25 +0530
 ### [Why Yunus’ government can’t overlook jihadi groups exploiting Bangladesh’s turmoil](https://www.firstpost.com/opinion/why-yunus-government-cant-overlook-jihadi-groups-exploiting-bangladeshs-turmoil-13806417.html)
 

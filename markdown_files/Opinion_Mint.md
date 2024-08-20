@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 16:00:14 +0530
+### [The eastern states have a big role in India's development aim](https://www.livemint.com/opinion/online-views/indian-economy-bihar-economic-growth-gdp-per-capita-jharkhand-eastern-states-development-skilled-workforce-11724097646577.html)
+
+Despite possessing abundant natural resources and strategic advantages, eastern Indian states lag behind other regions. Although the combined GDP of the eastern region has grown, its share in India's overall GDP remains stagnant at 17%. 
+
+To achieve India's goal of becoming a $30 trillion economy by 2047, the eastern region's contribution is crucial. Achieving a growth rate of 9% will be vital, as continued growth at the current rate of 5.5% would significantly hinder national progress.  
+
+The region faces challenges including low social progress rankings, a workforce largely concentrated in semi-skilled positions, and persistent socioeconomic disparities.  Addressing these issues through targeted policies and interventions is essential to unlock the region's potential and ensure shared prosperity across the nation.
+
 Tue, 20 Aug 2024 15:00:13 +0530
 ### [Kamala Harris is walking a fine line on the Gaza conflict](https://www.livemint.com/opinion/online-views/kamala-harris-joe-biden-israel-palestine-conflict-gaza-war-netanyahu-hamas-humanitarian-crisis-ceasefire-11724097467517.html)
 

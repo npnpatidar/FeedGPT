@@ -1,3 +1,26 @@
+Tue, 20 Aug 2024 12:00:30 +0000
+### [Supreme Court verdict on sub-classification of SCs, STs is blinkered to historical discrimination of Dalits](https://indianexpress.com/article/opinion/columns/supreme-court-verdict-sub-classification-sc-st-dalits-9523850/)
+
+The article criticizes the Supreme Court's recent verdict on sub-categorization within reservation policies, arguing that it fails to address the root causes of social and economic inequality.  
+
+While seemingly acknowledging the needs of vulnerable groups within SCs and STs, the verdict overlooks the systemic marginalization of Dalits, Adivasis, and OBCs in institutions of power and prestige. The author points out that reservation policies, poorly implemented and hampered by decreasing government jobs, have not effectively addressed this issue. 
+
+Furthermore, the article argues that the Court's emphasis on economic mobility through reservation ignores the persistent social discrimination and violence faced by Dalits. It calls for a broader approach to social justice, encompassing diversity in leadership, entrepreneurship, and technology innovation, to ensure that the benefits of economic growth are shared by all, not just an elite few.
+
+Tue, 20 Aug 2024 10:31:17 +0000
+### [Who is behind the violence in Bangladesh? It’s unlikely to be the students](https://indianexpress.com/article/opinion/columns/violence-in-bangladesh-unlikely-students-9523696/)
+
+Following the resignation of former Prime Minister Sheikh Hasina in August 2024, Bangladesh experienced widespread violence and destruction echoing events from the 1971 Liberation War. Targeted attacks focused on members of the Awami League, religious minorities, and secular intellectuals. The destruction of landmarks associated with Bangladesh's founding father, Sheikh Mujibur Rahman, and the Indian Cultural Centre in Dhaka fueled concerns. 
+
+The events are widely perceived as a Jamaat-e-Islami-led military coup, potentially backed by Pakistan and the US, with China possessing knowledge. The involvement of students is disputed, as their lack of unified structure contradicts the violence's calculated nature.  The international community's response has been muted, raising alarm about the safety of minorities and the future of Bangladesh's democracy, secularism, nationalism, and socialism, as enshrined in its 1972 Constitution.
+
+Tue, 20 Aug 2024 10:31:08 +0000
+### [After Wayanad, time to empower common people to claim their rightful inheritance](https://indianexpress.com/article/opinion/columns/wayanad-time-empower-common-people-claim-rightful-inheritance-9523710/)
+
+This article discusses environmental degradation in India, particularly focusing on the Western Ghats. The author, a member of the Western Ghats Ecology Expert Panel, highlights the disastrous impact of human activities like quarrying and construction on the fragile ecosystem and local communities. 
+
+The author uses the recent landslide in Wayanad as a stark reminder of the consequences, drawing a parallel to Mahatma Gandhi's philosophy of non-violence and the "meek" bearing the burden of environmental damage.  They advocate for local communities to be empowered and take control of their resources, suggesting several concrete steps such as transferring quarry ownership to women's cooperatives, promoting tribal-run homestays, and challenging the Wildlife Protection Act to allow self-defense against animal attacks. The author expresses hope that the "common people" will shed their meekness and fight for their rightful inheritance of a sustainable and healthy future.
+
 Tue, 20 Aug 2024 02:38:55 +0000
 ### [Secular Civil Code will unify, not divide Indians](https://indianexpress.com/article/opinion/columns/secular-civil-code-will-unify-not-divide-indians-9522698/)
 
