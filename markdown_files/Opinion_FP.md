@@ -1,3 +1,13 @@
+Tue, 20 Aug 2024 13:58:25 +0530
+### [Why Yunus’ government can’t overlook jihadi groups exploiting Bangladesh’s turmoil](https://www.firstpost.com/opinion/why-yunus-government-cant-overlook-jihadi-groups-exploiting-bangladeshs-turmoil-13806417.html)
+
+Bangladesh is facing a critical period of instability following Prime Minister Sheikh Hasina's resignation and the government's move to designate Islamist groups as militant organizations. This has led to violence, the resurgence of extremist groups like Jama'at Mujahideen Bangladesh and Ansar-al Islam, and a rise in sectarian tensions.
+
+International players, including Pakistan and potentially the US, are suspected to be meddling in Bangladesh's internal affairs, seeking to exploit the situation for their strategic gains.  India, concerned about potential spillover effects on its security, needs to remain vigilant and supportive of efforts to maintain stability in Bangladesh.  
+
+
+The situation highlights the fragility of Bangladesh's social fabric and the potential for further violence if extremist forces gain a foothold.
+
 Tue, 20 Aug 2024 10:58:27 +0530
 ### [South China Sea: How growing Chinese assertiveness finds strong Philippine response](https://www.firstpost.com/opinion/south-china-sea-how-growing-chinese-assertiveness-finds-strong-philippine-response-13806334.html)
 

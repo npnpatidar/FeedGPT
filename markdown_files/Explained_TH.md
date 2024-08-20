@@ -1,3 +1,8 @@
+Tue, 20 Aug 2024 14:11:54 +0530
+### [Lateral entry for government posts | Explained](https://www.thehindu.com/news/national/lateral-entry-for-ias-posts-what-is-the-proposal-and-why-it-has-sparked-controversy-explained/article68542248.ece)
+
+The Union Public Service Commission (UPSC) has issued an advertisement seeking  lateral entry hires for  45 posts across 24 ministries.  These roles include joint secretary, director, and deputy secretary positions in areas such as emerging technologies, environment policy, cybersecurity, and education.  Applicants from both the private and public sectors are eligible, with appointments on a contract or deputation basis. The program, implemented by the Modi government in 2018, aims to bring in domain experts and skilled individuals. However, the move has triggered criticism from the opposition, who allege it bypasses reservation policies and benefits the RSS.
+
 Mon, 19 Aug 2024 22:50:09 +0530
 ### [A change in India’s power export rules | Explained](https://www.thehindu.com/news/national/a-change-in-indias-power-export-rules-explained/article68544254.ece)
 

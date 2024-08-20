@@ -1,3 +1,23 @@
+Tue, 20 Aug 2024 15:00:13 +0530
+### [Kamala Harris is walking a fine line on the Gaza conflict](https://www.livemint.com/opinion/online-views/kamala-harris-joe-biden-israel-palestine-conflict-gaza-war-netanyahu-hamas-humanitarian-crisis-ceasefire-11724097467517.html)
+
+The article discusses Vice President Kamala Harris' stance on the Israeli-Palestinian conflict and the pressure she faces from pro-Palestinian organizations. 
+
+Harris has taken a firmer stance than President Biden, emphasizing the need for Israel to target Hamas while minimizing civilian casualties. This has led to some concerns within the Democratic party, as it comes during a time of heightened tensions and public scrutiny. Pro-Palestinian organizers are planning protests during the Democratic National Convention, hoping to leverage Harris' position and influence policy. However,  it is unclear if such protests will sway public opinion or create lasting change. The article also examines the history of US involvement in the conflict and the complexities involved in finding a lasting solution.
+
+Tue, 20 Aug 2024 14:00:11 +0530
+### [Subsidies and MSP:It makes most sense for farmers to keep growing rice and wheat](https://www.livemint.com/opinion/online-views/subsidies-msp-agriculture-rice-wheat-cultivation-oilseeds-pulses-tur-dal-crop-diversification-11724096959023.html)
+
+The article discusses the reasons behind India's persistent reliance on rice and wheat cultivation.  It highlights the guaranteed return on investment due to government subsidies and open-ended procurement schemes, which offer a minimum support price.
+
+Despite repeated calls for diversification into crops like pulses and oilseeds, mathematical analysis suggests that rice and wheat remain financially most attractive for farmers due to their high yield and low net profit margin.  However, the article argues this approach is unsustainable in the long run, given limited arable land and the need for self-sufficiency in diverse crops.
+
+It proposes solutions like: 
+
+* Replicating the rice-wheat procurement ecosystem for other crops.
+* Remodeling the MSP mechanism to be more efficient and targeted towards small farmers.
+* Revising power and water subsidies to discourage over-reliance on rice and wheat while encouraging growth of alternative crops.
+
 Tue, 20 Aug 2024 12:30:10 +0530
 ### [Open Network courts can enable vast judicial process reforms](https://www.livemint.com/opinion/online-views/virtual-courts-judicial-reforms-litigation-dpi-technology-lawyers-litigants-dispute-resolution-11724096551322.html)
 
