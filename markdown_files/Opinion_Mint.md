@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 07:00:01 +0530
+### [Mint Quick Edit | Goldman Sach’s outlook changes highlight global uncertainty](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-goldman-sach-global-economy-us-recession-stock-market-employment-data-11724095559376.html)
+
+Goldman Sachs has lowered the probability of a US recession to 20% from 25%, citing encouraging retail sales data. This revision comes after a previous spike in the predicted recession odds following a disappointing July US jobs report.  
+
+While Goldman Sachs expresses some optimism, the debate regarding the severity of an economic downturn persists. This uncertainty has impacted investor sentiment, leading to global stock market volatility, including in India.
+
+Although India's economy is domestically focused, its growing integration with the world economy means it is not immune to global economic challenges. Potential troubles in the US and other countries could negatively affect India's exports and capital inflows, highlighting the need for close monitoring of the situation.
+
 Mon, 19 Aug 2024 16:00:15 +0530
 ### [Quantum cryptography: Digital security will get a shot in the arm](https://www.livemint.com/opinion/online-views/quantum-cryptography-digital-encryption-data-security-technology-quantum-physics-national-quantum-mission-ibm-google-11724012580947.html)
 

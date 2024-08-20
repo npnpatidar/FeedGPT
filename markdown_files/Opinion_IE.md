@@ -1,3 +1,40 @@
+Tue, 20 Aug 2024 02:22:50 +0000
+### [Mohun Bagan and East Bengal’s joint protest: A team effort](https://indianexpress.com/article/opinion/editorials/mohun-bagan-and-east-bengals-joint-protest-a-team-effort-9522678/)
+
+The Kolkata Derby match between East Bengal and Mohun Bagan was cancelled due to security concerns.  Instead, fans of both clubs, along with others and Mohun Bagan’s captain, protested the rape and murder of a young trainee doctor. This unexpected unity  highlights the clubs’  shared history rooted in protest. Mohun Bagan was founded after defeating a British team in 1911, while East Bengal was formed due to discrimination against a Bangal player. This coming together signifies the power of collective action and the universality of the fight for justice.
+
+Tue, 20 Aug 2024 02:20:48 +0000
+### [Kamala Harris, out of Biden’s shadow](https://indianexpress.com/article/opinion/editorials/kamala-harris-out-of-bidens-shadow-9522676/)
+
+Kamala Harris unexpectedly became the Democratic presidential nominee after President Biden withdrew from the race. Despite facing challenges in the 2020 primaries, Harris now enjoys momentum, benefiting from Biden's perceived frailty and her youth. 
+
+She possesses several advantages, including her California senatorial experience and strong party support.  Harris has closed the polling gap with Trump, partially fueled by  the party's focus on an "opportunity economy" to address inflation. However, the ongoing Israel-Gaza conflict presents a potential obstacle, with some voters expressing dissatisfaction with the US stance.
+
+Tue, 20 Aug 2024 02:18:14 +0000
+### [Yogendra Yadav writes: Where are our political thinkers?](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-where-are-our-political-thinkers-9522697/)
+
+The article laments the decline of modern Indian political thought, likening it to the "sudden death" of Sanskrit knowledge in the 18th century. 
+
+The author points to the absence of a vibrant political discourse and a dearth of  political visionaries akin to those present in India's post-independence era. Despite the presence of brilliant minds, mainstream political thought has become impoverished, disconnected from political action, and dominated by academic discourse that prioritizes global trends over local realities. This vacuum, argues the author, has contributed to the current state of Indian politics.  Reviving a tradition of engaged, Indian-centric political thought is crucial for the health of Indian democracy.
+
+Tue, 20 Aug 2024 02:15:11 +0000
+### [August 20, 1984, Forty Years Ago: Farooq ousted](https://indianexpress.com/article/opinion/40-years-ago/august-20-1984-forty-years-ago-farooq-ousted-9522684/)
+
+Jammu and Kashmir Governor Jagmohan dismissed Farooq Abdullah's ministry and appointed G M Shah's ministry after 13 National Conference MLAs withdrew support. 
+
+The CBI arrested four individuals, including two airline officials, for alleged involvement in the hijacking of an Indian Airlines Airbus from Srinagar to Lahore. 
+
+In Andhra Pradesh, the central government faces a dilemma regarding the Governor's decision to install N Bhaskara Rao's ministry, amidst N T Rama Rao's planned demonstration of majority before the President. 
+
+Meanwhile, an Airbus flight returning to Delhi after a bomb hoax was thoroughly checked, revealing no explosives.
+
+Tue, 20 Aug 2024 02:04:47 +0000
+### [Express view on SSLV launch: India’s space](https://indianexpress.com/article/opinion/editorials/express-view-on-sslv-launch-indias-space-9522674/)
+
+India made a significant leap in its space exploration capabilities with the successful launch of the Small Satellite Launch Vehicle (SSLV). This smaller, more agile launch vehicle is designed to carry payloads of up to 500 kg, opening up opportunities for universities, startups, and individual innovators in the space sector.
+
+The SSLV's rapid assembly time and  technology transfer plans to private players are expected to fuel a significant expansion of India's space sector.  With the demand for small satellites increasing in sectors like weather forecasting, communications, and disaster management, India aims to leverage this technology to boost its share in the global space economy from 2% to 8% by 2033.
+
 Mon, 19 Aug 2024 12:38:40 +0000
 ### [Outrage over reform in capital gains tax is overblown. Here’s why](https://indianexpress.com/article/opinion/columns/capital-gains-tax-reform-outrage-overblown-explained-9522238/)
 
