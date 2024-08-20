@@ -1,3 +1,8 @@
+Tue, 20 Aug 2024 08:58:48 +0530
+### [Top Gear: How Ethiopia has seen a rapid transition to electric vehicles](https://www.firstpost.com/explainers/ethiopia-rapid-transition-electric-vehicles-13806101.html)
+
+Ethiopia is leading Africa's transition to electric vehicles. The country banned gas-powered car imports in 2023 and aims to have 500,000 EVs on the road by 2030.  This initiative is driven by Ethiopia's abundant hydropower and a desire to reduce fuel costs. The government has implemented policies to make EVs more accessible, including reducing import tariffs and supporting local manufacturing. Despite progress, economic challenges and the high cost of EVs pose hurdles to widespread adoption. Expanding charging infrastructure and making EVs more affordable for all income levels are crucial for sustaining this green revolution.
+
 Tue, 20 Aug 2024 06:30:54 +0530
 ### [FirstUp: Supreme Court to hear Kolkata rape-murder case, DNC’s Day 2 to see big faces](https://www.firstpost.com/explainers/firstup-supreme-court-to-hear-kolkata-rape-murder-case-dncs-day-2-to-see-big-faces-13806135.html)
 
@@ -6850,212 +6855,263 @@ Modi's past cabinets started small and expanded over time, culminating in 77 and
 Sun, 9 Jun 2024 10:47:13 +0530
 ### [From Roman Empire to Rashtrapati Bhavan, the long history behind oath-taking ceremonies](https://www.firstpost.com/explainers/modi-swearing-in-history-oath-taking-ceremony-rashtrapati-bhavan-13779931.html)
 
-Article found but Couldn't summarize 
-Narendra Modi will take the oath of office in a grand swearing-in ceremony at Rashtrapati Bhavan, which is expected to have a guest list of 8,000 people. But have you ever wondered where this tradition came from
+The tradition of oath-taking ceremonies dates back to ancient Western Europe, with military oaths like the "sacramentum" invoking Roman gods.  Over time, oaths became commonplace, with kings, nobles, and religious leaders taking them. India's tradition of swearing-in ceremonies began before independence,  needing to profess allegiance to the British Crown, then transitioning to the Indian Constitution after independence.  
+
+Initially held in the Durbar Hall of Rashtrapati Bhavan, the ceremony shifted to the open forecourt in 1990 to accommodate larger crowds. Live telecasts began in 1984. Prime Ministers take an oath in the name of God or through affirmation, pledging allegiance to the Constitution, upholding India's sovereignty, and serving the people fairly.
 
 Sat, 8 Jun 2024 19:59:04 +0530
 ### [Rae Bareli or Wayanad? Why Rahul Gandhi must choose between them and which one he will pick](https://www.firstpost.com/explainers/rae-bareli-or-wayanad-why-rahul-gandhi-must-choose-between-them-and-which-one-he-will-pick-13780294.html)
 
-Article found but Couldn't summarize 
-Rahul Gandhi, who contested from both Rae Bareli in Uttar Pradesh and Wayanad in Kerala in the recent Lok Sabha polls, won both seats by massive margins. Under the Representation of the People Act, 1951, a candidate can contest from a maximum of two constituencies, but can keep only one
+Rahul Gandhi, who secured victories in both Rae Bareli and Wayanad in the recent Lok Sabha elections, is obligated to choose one seat under the Representation of the People Act, 1951. 
+
+He won Rae Bareli with a record margin, continuing the Gandhi family's historical association with the seat. However, significant support also exists within the Congress for retaining Wayanad, where he enjoys a substantial voter base.  
+
+Sources indicate Rahul will likely make his decision before June 17th, potentially favoring Rae Bareli to solidify the Congress's presence in Uttar Pradesh and allowing him to take on the role of Leader of the Opposition in the Lok Sabha, a position strongly advocated for by the Congress party.
 
 Sat, 8 Jun 2024 18:34:02 +0530
 ### [Who will make it to the Modi 3.0 cabinet? These names are being considered](https://www.firstpost.com/explainers/who-will-make-it-to-the-modi-3-0-cabinet-these-names-are-being-considered-13780273.html)
 
-Article found but Couldn't summarize 
-According to several media reports, the BJP is keen on keeping a number of high-profile ministries including home, finance and defence, Meanwhile, the NDA allies the TDP and JD (U) are eyeing several berths in the cabinet. But which names are being discussed?
+Narendra Modi is set to be sworn in as India's Prime Minister for a third term. The strength of his cabinet is expected to be between 78 and 81, with approximately 30 members sworn in today. 
+
+Several high-profile BJP members are confirmed, including Amit Shah, Rajnath Singh, Nitin Gadkari, and S Jaishankar. Other BJP leaders expected in the cabinet include Arjun Ram Meghwal, Jitin Prasada, Sarbananda Sonowal, and Shivraj Singh Chouhan.  
+
+From the JD(U), Lalan Singh and Ram Nath Thakur are likely to join the cabinet, while the TDP's Ram Mohan Naidu Kinjarapu and Chandra Sekhar Pemmasani are also expected to be appointed.  
+
+The Shiv Sena, NCP, Hindustani Awam Morcha (HAM), JD(S), LJP, and RLD are also anticipated to receive ministerial positions.
 
 Sat, 8 Jun 2024 17:53:18 +0530
 ### [Inflated marks, paper leak and more: The NEET-UG results row](https://www.firstpost.com/explainers/inflated-marks-neet-ug-results-row-13780228.html)
 
-Article found but Couldn't summarize 
-The results of the National Eligibility-sum-Entrance Test (NEET-UG) 2024 were announced earlier this week. However, the results have been marred by claims of irregularities and paper leaks after 67 candidates bagged the top spot and got a perfect score of 720/720. The NTA has denied the allegations
+The NEET-UG 2024 results sparked controversy due to a high number of candidates achieving a perfect score of 720/720. Approximately 67 students scored the top mark, leading to allegations of irregularities and paper leaks. 
+
+The National Testing Agency (NTA), however, denied these claims, attributing the inflated scores to changes in NCERT textbooks and grace marks awarded for time lost during the exam. They cited a high number of students receiving grace marks for issues related to lost time and the implementation of a new plus-one, minus-four marking scheme.  
+
+The NTA maintains that the exam was conducted fairly, and claimed no paper leaks occurred.  Despite the NTA's explanations, several petitions challenging the results have been filed in High Courts, and the controversy continues to be debated.
 
 Sat, 8 Jun 2024 15:15:35 +0530
 ### [EU Elections 2024: Will Ursula von der Leyen continue as European Commission president?](https://www.firstpost.com/explainers/eu-elections-2024-ursula-von-der-leyen-european-commission-president-13780210.html)
 
-Article found but Couldn't summarize 
-In one of the largest democratic events, nearly 400 million citizens of the European Union are casting votes this week to elect MEPs (members of the European Parliament). Whether European Commission president Ursula von der Leyen will continue to lead the EU as its public face is one of the biggest questions
+The European Union is holding its parliamentary elections this week, with nearly 400 million citizens casting votes to elect members of the European Parliament (MEPs).  Key issues include defense and security in the wake of the Ukraine war, as well as the economy and climate change.  The largest group in the current parliament, the centre-right European People's Party, aims for continued leadership, while the far-right groups are predicted to gain influence.  
+
+The outcome of the elections will determine the composition of the parliament and will have a significant impact on the appointment of the European Commission president, potentially involving Ursula von der Leyen's second term. The process involves national party contests leading to transnational political group formations, with the parliament authorizing laws, the EU budget, and commissioner nominations.
 
 Sat, 8 Jun 2024 13:42:08 +0530
 ### [Who is Olivia Henson, Kate Middleton's lookalike, who married Britain’s 'most eligible bachelor'?](https://www.firstpost.com/explainers/olivia-henson-kate-middleton-lookalike-britain-most-eligible-bachelor-13780160.html)
 
-Article found but Couldn't summarize 
-Hugh Grosvenor, the Duke of Westminster, dubbed Britain's most eligible bachelor, tied the knot with Olivia Henson at Chester Cathedral on Friday. Little is known about the new Duchess of Westminster. However, royal analysts say the 31-year-old is quite similar to Kate Middleton because of her elegant yet relaxed demeanour
+Hugh Grosvenor, the Duke of Westminster, married Olivia Henson in a ceremony at Chester Cathedral. Olivia, 31, is an account manager who attended the same school as Kate Middleton, Marlborough College.  She comes from an aristocratic background and has worked for various companies including Belazu.   Royal analysts note similarities between Olivia and Kate Middleton, including their appearance, demeanor, and upbringing in similar environments. Both women had careers outside of their royal roles.
 
 Sat, 8 Jun 2024 13:34:52 +0530
 ### [MEA says SAGAR vision in action as neighbourhood leaders invited to PM Modi's swearing in: What it is?](https://www.firstpost.com/explainers/mea-says-sagar-vision-in-action-as-neighbourhood-leaders-invited-to-pm-modis-swearing-in-what-it-is-13780194.html)
 
-Article found but Couldn't summarize 
-India launched its SAGAR vision in 2015 during Prime Minister Narendra Modi’s visit to the Indian Ocean island states of Seychelles, Mauritius, and Sri Lanka. The idea behind it is to fortify India’s economic and security connections with its maritime neighbours as well as counter China, which has been attempting to increase its sway in the Indian Ocean Region over the past few years through its Belt and Road Initiative (BRI)
+India's SAGAR vision, launched in 2015, aims to strengthen economic and security ties with maritime neighbors. 
+
+The initiative, rooted in the concept of collective security, seeks to advance regional cooperation, enhance maritime security capabilities, and promote sustainable development in the Indian Ocean region. It encompasses areas such as information sharing, coastline surveillance, infrastructure development, and capacity building.  SAGAR is seen as a counter to China's increasing influence in the Indian Ocean through its Belt and Road Initiative (BRI). India conducts joint patrols and exercises with countries like Japan, Australia, the US, Bangladesh, and others under SAGAR to address maritime threats such as piracy and terrorism.
 
 Sat, 8 Jun 2024 11:42:46 +0530
 ### [Three-layered security, no-fly zone: How Delhi is readying for PM Modi's swearing-in](https://www.firstpost.com/explainers/delhi-pm-modi-swearing-in-preparations-13780106.html)
 
-Article found but Couldn't summarize 
-With just one day to go before Narendra Modi’s swearing-in ceremony, massive preparations are underway and a thorough security review is being conducted in New Delhi. There will be no change of guard ceremony at Rashtrapati Bhavan, a sophisticated three-tier security system has been set up and a no-fly zone has been announced over the National Capital Territory
+Narendra Modi will be sworn in as Prime Minister on June 9th at 7:15 pm, alongside his council of ministers. The Rashtrapati Bhavan will have a three-tier security system in place, with 2,500 personnel ensuring safety. A no-fly zone will be active over Delhi from June 9th to 10th. 
+
+The Change of Guard ceremony has been canceled for three days due to the event.  
+
+Foreign dignitaries and leaders from neighboring countries are expected to attend, along with a diverse range of Indian guests representing various sectors and walks of life, reflecting Modi's philosophy of acknowledging contributions from all sections of society.
 
 Sat, 8 Jun 2024 10:07:13 +0530
 ### [This Week in Explainers: Decoding the Lok Sabha election results](https://www.firstpost.com/explainers/this-week-in-explainers-decoding-the-lok-sabha-election-results-13780020.html)
 
-Article found but Couldn't summarize 
-In our weekly wrap, we analyse the Lok Sabha election results. Why did Narendra Modi’s BJP not perform as well as expected? What does a coalition government mean for India?
+The 2024 Lok Sabha election results defied expectations, with the Narendra Modi-led NDA securing victory but falling short of a majority. The BJP won 240 seats, necessitating alliances with parties like the TDP and JD(U).  
+
+Key factors contributing to the BJP's lower-than-expected performance include losses in Uttar Pradesh, where the Samajwadi Party-Congress alliance made gains, and a deviation from traditional voting patterns in other states like Maharashtra, Haryana, and Rajasthan. 
+
+The BJP's inability to secure an outright majority will likely lead to a period of coalition politics, where the party will need to negotiate with its allies to pass legislation and implement its agenda.
 
 Sat, 8 Jun 2024 09:08:04 +0530
 ### [Stranger Things: Are giant, poisonous spiders going to invade New York City?](https://www.firstpost.com/explainers/new-york-flying-poisonous-joro-spiders-threat-summer-13779828.html)
 
-Article found but Couldn't summarize 
-The Big Apple braces for an unusual invasion of giant, venomous Joro spiders. While these 'flying spiders' have made an appearance in many southern US states, there is a likelihood of them swarming to New York City this summer, say experts. Are New Yorkers in danger?
+Joro spiders, native to Asia, are predicted to arrive in New York City this summer. These large, brightly-colored spiders are known for their ability to "balloon" or travel using silk threads carried by the wind. They have already spread throughout the southeastern US, likely arriving via cargo shipments.  
+
+While venomous, Joro spiders pose little threat to humans. Their bite is similar to a bee sting and their fangs are too small to penetrate human skin. Scientists are more concerned about their potential impact on local ecosystems and agriculture.
 
 Fri, 7 Jun 2024 20:44:17 +0530
 ### [Chandrababu Naidu's family has become richer by Rs 850 crore in 5 days. Here’s how](https://www.firstpost.com/explainers/chandrababu-naidus-family-has-become-richer-by-rs-850-crore-in-5-days-heres-how-13780048.html)
 
-Article found but Couldn't summarize 
-Chandrababu Naidu’s family has seen a massive jump in their net worth after shares of dairy company Heritage Foods – in which they own a 35 per cent stake – jumped massively over the past few days. Shares that were trading at Rs 424 before the polls are now at a record high of Rs 661.25 with Naidu set to take office as chief minister of Andhra Pradesh and play a crucial role at the Centre as an NDA ally
+Chandrababu Naidu's family wealth has surged by over Rs 800 crore following his party's strong performance in the recent elections. This increase is primarily attributed to a significant rise in the share price of Heritage Foods, a dairy company Naidu founded and in which his family holds a 35% stake.  
+
+Before the election results, Heritage Foods shares were trading at Rs 424.  However, the share price has since surged to a record high of Rs 661.25, a 55% increase. Naidu's wife, Nara Bhuvaneshwari, the biggest shareholder, has seen her net worth rise by Rs 579 crore, while his son, Nara Lokesh, has gained Rs 237.8 crore.
 
 Fri, 7 Jun 2024 19:24:30 +0530
 ### [Kangana Ranaut slapgate: Did the MP-elect not have security?](https://www.firstpost.com/explainers/kangana-ranaut-slapgate-mandi-mp-elect-security-cisf-constable-13780029.html)
 
-Article found but Couldn't summarize 
-BJP MP-elect from Mandi Kangana Ranaut alleged she was ‘hit’ by a Central Industrial Security Force woman constable at Chandigarh airport on Thursday. Videos shared online show the accused expressing anger about the actor’s past remarks on farmers’ protest. Was there no security with Ranaut when the incident took place?
+BJP MP-elect Kangana Ranaut alleged she was slapped by a CISF constable, Kulwinder Kaur, at Chandigarh airport. Kaur has been arrested and suspended.  
+
+Videos circulating online show Kaur, who reportedly supported farmers’ protests, referencing Ranaut’s past controversial remarks about farmers. Ranaut, who has Y+ security, confirmed she was safe but expressed concern about rising terrorism in Punjab.  
+
+The incident raises questions about the adequacy of security for MPs and the guidelines for providing security cover based on individual threat perception.
 
 Fri, 7 Jun 2024 18:49:12 +0530
 ### [Lok Sabha election results 2024: How much do MPs earn? What other perks do they enjoy?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-much-do-mps-earn-what-other-perks-do-they-enjoy-13780019.html)
 
-Article found but Couldn't summarize 
-With the BJP-led NDA set to form the government for a third time after easily crossing the half way mark of 272 seats in the 543-seat Parliament, all eyes are now on the newly elected MPs in the 18th Lok Sabha. But have you ever wondered how much our MPs earn? Or what other perks our lawmakers enjoy?
+Newly elected MPs in India's 18th Lok Sabha receive a basic salary of Rs 1 lakh per month, along with an additional constituency allowance of Rs 70,000 and Rs 60,000 for office expenses. They also get Rs 2,000 daily for expenses during parliamentary sessions, a travel allowance including free first-class AC train passes and 34 domestic air journeys annually. MPs are provided with free accommodation, electricity, water, and telephones. Their salaries and perks are reviewed every five years based on the Cost Inflation Index.
 
 Fri, 7 Jun 2024 18:26:36 +0530
 ### [Why overstressed Chinese workers are growing bananas on their office desk](https://www.firstpost.com/explainers/stop-banana-green-trend-chinese-employees-are-adopting-at-their-work-places-13779952.html)
 
-Article found but Couldn't summarize 
-With the average working week exceeding 49 hours in China, many overworked young professionals are looking for ways to alleviate stress and anxiety at their workplace. A quirky trend of growing desk bananas is certainly helping them. Here's how
+A quirky trend known as “Stop Banana Green” is sweeping through China, where stressed young professionals are placing green bananas in water on their desks. 
+
+Over the course of a week, the bananas ripen, providing a calming and therapeutic experience. The trend, which started on Xiaohongshu, is believed to ease anxiety and boost productivity, supported by studies showing the positive impact of plants on mental well-being. “Stop Banana Green” fosters conversation among colleagues and creates a sense of camaraderie, while also injecting a touch of nature into the workplace.  Banana sales have surged as a result, with some speculating that farmers may have instigated the trend to boost sales.
 
 Fri, 7 Jun 2024 18:06:45 +0530
 ### [In Graphics | What the 18th Lok Sabha will look like](https://www.firstpost.com/explainers/in-graphics-what-the-18th-lok-sabha-will-look-like-13779981.html)
 
-Article found but Couldn't summarize 
-The Lok Sabha elections are over and Narendra Modi is set to take oath as Prime Minister for a third term. Let us take a look at the new Lok Sabha
+The BJP-led National Democratic Alliance (NDA) won the 18th Lok Sabha elections with 293 seats, while the Indian National Developmental Inclusive Alliance (INDI) secured 232 seats.  Exit polls had underestimated INDI's performance, particularly in Hindi-speaking regions like Uttar Pradesh, Bihar, and Rajasthan.  
+
+The average age of MPs in the new Lok Sabha dropped from 59 to 56 years, with 281 out of 543 MPs being first-timers, indicating a fresh wave of representation.
 
 Fri, 7 Jun 2024 16:49:50 +0530
 ### [In this EU election, why does Ursula von der Leyen have a challenging road ahead?](https://www.firstpost.com/explainers/eu-election-ursula-von-der-leyen-european-commission-13779940.html)
 
-Article found but Couldn't summarize 
-In 2019, Ursula von der Leyen became the European Commission's first woman president. She has had to deal with crises like the pandemic and the Russia-Ukraine war from the get-go. Her strong work ethic has even been praised by opponents. So why is re-election still an uphill path for her?
+Ursula von der Leyen, the first woman to lead the European Commission, faces an uphill battle for re-election. Despite strong leadership during crises like the pandemic and the Ukraine war,  and achievements in areas like climate change and gender equality, she needs to secure a majority in both the EU's national leaders summit and the newly elected European Parliament. Her reelection bid is complicated by internal divisions within the EU on issues like integration and environmental policy, as well as a  fragmented political landscape. While von der Leyen is considered a strong and effective leader, her limited communication style and reliance on a small circle of advisors have drawn criticism. Ultimately, her success hinges on demonstrating both her accomplishments and the ability to build consensus among diverse political actors.
 
 Fri, 7 Jun 2024 16:45:01 +0530
 ### [93% of newly elected Lok Sabha MPs are crorepatis. Meet the richest](https://www.firstpost.com/explainers/93-of-newly-elected-lok-sabha-mps-are-crorepatis-meet-the-richest-13779954.html)
 
-Article found but Couldn't summarize 
-According to the poll rights body Association of Democratic Reforms (ADR), 504 of 543 winning Lok Sabha candidates are crorepatis – up from 475 winning candidates in 2019. The three wealthiest MPs this time are Chandra Sekhar Pemmasani of the TDP and Konda Vishweshwar Reddy and Naveen Jindal from the BJP
+An analysis by the Association of Democratic Reforms (ADR) reveals that a majority of winning candidates in the 2024 Lok Sabha elections are crorepatis. A staggering 93% of elected MPs have assets exceeding Rs 1 crore,  up from 88% in the 2019 elections.
+
+The richest three MPs are Chandra Sekhar Pemmasani (TDP),  Konda Vishweshwar Reddy, and Naveen Jindal (both BJP). Pemmasani emerged as the wealthiest with assets worth Rs 5,705 crore, followed by Reddy with Rs 4,568 crore and Jindal with Rs 1,241 crore.
+
+The ADR analysis observed a consistent trend of increasing wealth among winning candidates since 2009.  Across major political parties, the financial backgrounds of successful candidates highlight significant disparities. While some boast substantial assets, others have comparatively modest net worths.
 
 Fri, 7 Jun 2024 16:26:48 +0530
 ### [Days after Lok Sabha election results, how Congress' tally may change to reach 100](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-congress-tally-100-independent-mp-support-13779928.html)
 
-Article found but Couldn't summarize 
-Despite Congress’ best performance in general elections since 2014, the party failed to touch the century, winning 99 of the 543 Lok Sabha seats. Narendra Modi, who is geared up for a third term as Prime Minister, even took a potshot at the Grand Old Party over this. But the situation could change soon. Here’s how
+The Congress party, despite its best performance since 2014, fell short of winning 100 Lok Sabha seats. This situation may soon change as  Independent candidate Vishal Patil from Maharashtra, who won the Sangli seat, has offered his support to the Congress.  Patil's backing will take the Congress' strength in the Lok Sabha to 100.
+
+The Congress has deep roots in Sangli, and Patil's decision to support the party is seen as a continuation of that legacy. Though Patil plans to formally join the Congress later, he will initially be an associate member, with the process underway for his official recognition as a Congress MP.
 
 Fri, 7 Jun 2024 15:23:54 +0530
 ### [Why activists in South Korea are sending balloons with K-drama, K-pop to North Korea](https://www.firstpost.com/explainers/south-korea-north-korea-news-balloon-warfare-k-pop-k-drama-13779848.html)
 
-Article found but Couldn't summarize 
-Activists from the South have sent balloons carrying K-pop and K-dramas on USB sticks in the direction of North Korea. This comes days after balloons filled with faeces were sent by Pyongyang to South Korea. We explain the ramifications of this balloon warfare
+The Koreas are engaged in a "balloon war," escalating tensions after years of activist groups sending balloons containing information, media, and leaflets to North Korea.  
+
+Recent exchanges were sparked by North Korean balloons carrying trash and faeces sent to the South.  South Korean activists responded by sending balloons loaded with K-pop, K-dramas, anti-Kim propaganda, and currency to the North. 
+
+These actions have resulted in the full suspension of a 2018 military agreement by South Korea, leading to the resumption of military activities and propaganda broadcasts. Both sides cite freedom of speech and the need to counter the other's messages as justification for their actions, leaving the future of this volatile situation uncertain.
 
 Fri, 7 Jun 2024 14:26:14 +0530
 ### [Who are Lok Sabha’s 7 Independent MPs? Are they with NDA or INDI alliance?](https://www.firstpost.com/explainers/who-are-lok-sabhas-7-independent-mps-will-they-join-nda-or-indi-alliance-13779895.html)
 
-Article found but Couldn't summarize 
-As the National Democratic Alliance government formation is in full swing, all eyes are on the seven Independent MPs elected to the Lok Sabha. But who are these Independents? Whom do they support?
+The outcome of the BJP-led NDA government formation hinges on the support of seven Independent Lok Sabha MPs. Vishal Patil, who won from Sangli, has pledged allegiance to the Congress, boosting their tally to 100.  Amritpal Singh, imprisoned leader of 'Waris Punjab De,' won from Khadoor Sahib but is unlikely to join the NDA. 
+
+Sheikh Abdul Rashid, jailed under the Unlawful Activities (Prevention) Act, secured victory from Baramulla. Rajesh Ranjan alias Pappu Yadav, who won from Purnea, is expected to support the Congress.   Mohmad Haneefa, the Ladakh MP,  is also unlikely to align with the NDA. Sarabjeet Singh Khalsa, son of Indira Gandhi's assassin, won from Faridkot, but his political leanings remain unclear.  Patel Umeshbhai Babubhai, a social worker, defeated a BJP heavyweight in Daman and Diu and his future alliance is unknown.
 
 Fri, 7 Jun 2024 13:47:00 +0530
 ### [Uttarakhand rat-hole miners, sanitation workers & more: The special invitees for Modi’s third swearing-in](https://www.firstpost.com/explainers/uttarakhand-rat-hole-miners-sanitation-workers-special-invitees-pm-narendra-modi-third-swearing-in-ceremony-13779852.html)
 
-Article found but Couldn't summarize 
-Narendra Modi is set to take the oath of office for a third consecutive term on 9 June at 6 pm. The grand event at the Rashtrapati Bhavan will witness the presence of 8,000 guests, including foreign dignitaries. Besides them, the invitees include people from diverse backgrounds. Here is a look at who all are expected to attend
+Narendra Modi will be sworn in for a third term as India's Prime Minister on June 9th at 6 pm at Rashtrapati Bhavan.  The ceremony will host 8,000 guests, including world leaders and individuals from diverse backgrounds.  
+
+The guest list reflects Modi's focus on recognizing the contributions of marginalized communities, with invitations extended to doctors, sanitation workers, tribal women, transgender people, and labourers involved in the Central Vista Project.  World leaders attending include Bangladesh Prime Minister Sheikh Hasina, Sri Lanka President Ranil Wickremesinghe, and potentially Maldives President Mohamed Muizzu.
 
 Fri, 7 Jun 2024 13:06:50 +0530
 ### [Lok Sabha election results 2024: Why Ajit Pawar is looking at an uncertain future](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-ajit-pawar-ncp-future-maharashtra-performance-mahayuti-alliance-13779833.html)
 
-Article found but Couldn't summarize 
-Ajit Pawar’s NCP has faced a massive defeat in the recently concluded Lok Sabha elections, winning only one of the four contested seats. Despite all his efforts, his wife also lost the prestige seat of Baramati in Maharashtra. Now, there are rumours that a few of his MLAs are trying to switch to the Sharad Pawar faction
+Ajit Pawar's NCP faction suffered a major setback in the recent Lok Sabha elections, winning only one seat out of four contested. This contrasts sharply with his uncle, Sharad Pawar's, NCP{SP} faction which secured eight victories.  
+
+In particular, Supriya Sule, Sharad Pawar's daughter, retained the Baramati seat convincingly, defeating Ajit Pawar's wife, Sunetra. The poor performance has led to speculation that some of Ajit Pawar's MLAs are considering switching back to Sharad Pawar's faction. While Ajit Pawar has denied these claims, there is evidence to suggest some MLAs are in talks with Sharad Pawar's camp.  
+
+Ajit Pawar has taken responsibility for the electoral defeat and remains committed to the Mahayuti alliance. However, his future as a potential chief ministerial candidate for the upcoming Maharashtra Assembly elections is uncertain given the NCP's poor showing.
 
 Fri, 7 Jun 2024 12:40:04 +0530
 ### [Big Bite: Why a vegetarian thali has become costlier, chicken cheaper](https://www.firstpost.com/explainers/big-bite-why-a-vegetarian-thali-has-become-costlier-chicken-cheaper-13779747.html)
 
-Article found but Couldn't summarize 
-A vegetarian thali in India was priced at Rs. 27.8 last month, an increase from Rs 25.5 in the year-ago period. Damage to crops, blight, and insufficient water reservoir levels contributed to the price hike of a few essential food items, affecting the prices of vegetables. However, the cost of a chicken meal has fallen
+The price of a vegetarian thali in India rose by 9% in May, reaching Rs 27.8,  due to increased vegetable costs.   Tomatoes, potatoes, and onions, key ingredients, saw price increases of 39%, 41%, and 43% respectively, driven by lower crop yields and blight.  
+
+These increases were partially offset by falling cumin, chili, and vegetable oil prices.  Rice and pulse prices also contributed to the overall surge.  In contrast, the cost of a non-vegetarian thali decreased by 7% due to a drop in broiler prices.
 
 Fri, 7 Jun 2024 12:10:55 +0530
 ### [Why has RBI kept repo rate steady at 6.5%? How does it affect you?](https://www.firstpost.com/explainers/rbi-repo-rate-news-6-5-per-cent-repo-rate-meaning-how-it-affects-you-13779816.html)
 
-Article found but Couldn't summarize 
-The repo rate, short for repurchase option rate, is the rate at which the RBI lends money to commercial banks and other financial institutions in India. How does it affect you? And why did RBI keep it unchanged? We explain
+The Reserve Bank of India (RBI) has kept the repo rate unchanged at 6.5% for the eighth consecutive time. The repo rate is the rate at which the RBI lends money to commercial banks, influencing interest rates across the economy.  
+
+A higher repo rate increases borrowing costs for banks, potentially leading to higher interest rates for consumers on loans and credit.  Conversely, a lower repo rate can stimulate borrowing and spending.  
+
+The RBI's decision to maintain the repo rate reflects a focus on controlling inflation while supporting continued economic growth.
 
 Fri, 7 Jun 2024 10:38:15 +0530
 ### [Explained: Hamas' losses so far and its shift to guerilla warfare tactics using tunnels](https://www.firstpost.com/explainers/explained-hamas-losses-so-far-and-its-shift-to-guerilla-warfare-tactics-using-tunnels-13779779.html)
 
-Article found but Couldn't summarize 
-Hamas' fighting force has been cut down by almost half. The group is now resorting to guerilla tactics to hold its ground against the much more powerful Israeli Defense Forces (IDF). A labyrinth of tunnels, sprawling 500 km, is central to this
+Hamas, significantly weakened by the ongoing Gaza conflict, has shifted to guerilla tactics.  Estimated losses have reduced their fighting force by half to between 9,000-12,000 fighters.  
+
+Despite this, Hamas retains control of key areas in Gaza, utilizing a vast 500 km tunnel network for shelter and hit-and-run attacks. The tunnels, fortified for years, remain a challenge for Israeli forces. 
+
+While Israel aims to dismantle Hamas as a governing authority, concerns exist about replacing it.  Experts warn that a vacuum could lead to instability and radicalization, potentially benefiting militant groups.
 
 Fri, 7 Jun 2024 09:45:04 +0530
 ### [Is an invite to Mohamed Muizzu for Modi’s swearing-in a sign of thaw in India-Maldives’ ties?](https://www.firstpost.com/explainers/mohamed-muizzu-modi-swearing-in-thaw-india-maldives-ties-13779746.html)
 
-Article found but Couldn't summarize 
-The Maldives’ president Mohamed Muizzu will attend Narendra Modi’s third swearing-in ceremony to be held over the weekend. The invite comes as a surprise for many, as ties between Male and New Delhi have nosedived since Muizzu took office last year
+Maldives president Mohamed Muizzu will attend Prime Minister Narendra Modi's swearing-in ceremony, despite strained relations between the two countries since Muizzu took office.  The invitation is seen as a signal of India's desire to continue cooperation with the Maldives, despite Muizzu's previous pro-China leanings and moves to distance the Maldives from India. These included a campaign to remove Indian troops stationed in the Maldives and the refusal to renew a hydrographic agreement with India.  However, Muizzu has recently softened his stance, calling India a "closest ally" and agreeing to discussions on bilateral issues.
 
 Fri, 7 Jun 2024 08:37:18 +0530
 ### [No funny business: Can you faint from laughing too much?](https://www.firstpost.com/health/no-funny-business-can-you-faint-from-laughing-too-much-13779433.html)
 
-Article found but Couldn't summarize 
-A man from Hyderabad couldn't control his laughter while he was enjoying a comedy show with his family. After laughing hard for a few minutes, things turned serious as he lost his consciousness. A doctor later explained that he suffered from a rare condition called laughter-induced syncope. Here's what it is
+A 53-year-old man from Hyderabad was hospitalized after laughing uncontrollably during a comedy show, leading to a temporary loss of consciousness. Dr. Sudhir Kumar, a neurologist, diagnosed him with laughter-induced syncope, a rare condition where excessive laughter causes a temporary reduction in blood flow to the brain.  
+
+The man recovered fully and expressed no memory of the incident.  While  there is no cure for laughter-induced syncope, avoiding triggers like prolonged laughter and implementing management strategies like staying hydrated and managing dizziness can help prevent future episodes.
 
 Fri, 7 Jun 2024 06:56:21 +0530
 ### [FirstUp: NDA's meeting, RBI's decision on interest rate, Nvidia stock split...The headlines today](https://www.firstpost.com/explainers/firstup-ndas-meeting-rbis-decision-on-interest-rate-nvidia-stock-split-the-headlines-today-13779632.html)
 
-Article found but Couldn't summarize 
-The newly elected MPs of the National Democratic Alliance (NDA) led by the BJP will meet in Delhi. The RBI's Monetary Policy Committee (MPC) will announce the result of its three-day meeting. Nvidia shares are likely to see activity as the stock is headed for a ten-for-one stock split on 7 June. We dig into these and other headlines
+Several significant events are scheduled for June 7th. The RBI Monetary Policy Committee is expected to maintain interest rates at 6.5%. Newly elected NDA MPs will meet in Delhi to discuss government formation, likely leading to Prime Minister Modi's swearing-in soon. US President Biden will deliver a speech on democracy and freedom in France, coinciding with his reelection campaign.
+
+Nvidia's stock will be active due to a ten-for-one stock split, following a remarkable surge in value this year. NATO Secretary General Jens Stoltenberg will visit Sweden, meeting the Prime Minister after a military demonstration amid heightened tensions following threats from Russia. World Food Safety Day will also be observed, emphasizing the importance of food safety practices.
 
 Thu, 6 Jun 2024 22:06:21 +0530
 ### [Quicksplained: Everything we know about Kangana slapgate](https://www.firstpost.com/explainers/quicksplained-everything-we-know-about-kangana-slapgate-13779693.html)
 
-Article found but Couldn't summarize 
-Actor and BJP MP-elect Kangana Ranaut was set to board a plane to New Delhi on Thursday when she was slapped by a woman Central Industrial Security Force (CISF) constable for past remarks about the farmers’ protests. But what happened? Who is the CISF constable? And what did Ranaut say?
+Earlier this week, actress and recently elected BJP MP Kangana Ranaut was slapped by a CISF constable named Kulwinder Kaur at Chandigarh airport. The constable, reportedly upset about previous comments Ranaut made about the 2020-21 farmers' protests, claimed Ranaut's statement about women being paid for protesting  regarding her mother's involvement.  Ranaut was heading to Delhi for a party meeting after winning the Mandi constituency in Himachal Pradesh. The CISF has suspended Kaur and initiated an investigation.  
+ Ranaut, known for her outspoken opinions, had previously made controversial remarks about the farmers' protests, including comparing a woman farmer to "Shaheen Bagh dadi" and labelling protestors as "terrorists".  The incident has drawn criticism, with the National Commission for Women calling for serious action against those responsible for the security breach.
 
 Thu, 6 Jun 2024 21:06:59 +0530
 ### [What is the Agniveer scheme? Why has it become so contentious among BJP allies?](https://www.firstpost.com/explainers/what-is-the-agniveer-scheme-why-has-it-become-so-contentious-among-bjp-allies-13779687.html)
 
-Article found but Couldn't summarize 
-The Agniveer scheme was introduced by the Centre in June 2022. Under it, youth between 17-and-a-half years to 21 years are recruited on a contractual basis. However, critics of the scheme say it offers no pension or gratuity and that just 25 per cent of those selected are retained. The BJP's allies the JD(U) and LJP want its 'shortcomings' to be addressed
+The BJP's Agniveer scheme, introduced in 2022, recruits youth aged 17.5 to 21 for a four-year contract in the armed forces. Only 25% are retained, raising concerns about the fate of the remaining 75%.  Critics argue the scheme offers no pension or gratuity and leaves recruits vulnerable after service. 
+
+The BJP's allies, the JD(U) and LJP, have called for a review of the scheme, citing public discontent and proposing changes like raising the retention rate and upper age limit.  The Centre has indicated openness to modifications, considering increased retention and age limits, along with providing preference for Agniveers in government jobs and CAPF recruitment.
 
 Thu, 6 Jun 2024 20:22:40 +0530
 ### [Will Rahul Gandhi be Leader of Opposition in Lok Sabha?](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-rahul-gandhi-congress-leader-of-opposition-lop-post-india-13779667.html)
 
-Article found but Couldn't summarize 
-Rahul Gandhi, who led the Congress’ election campaigning from the front, is the party’s first choice for the position of Leader of Opposition (LoP) in the Lok Sabha. The post that comes with its own privileges has been vacant since 2014. But will the Gandhi scion agree?
+The Congress party, having won 99 seats in the Lok Sabha elections, is eligible to claim the Leader of Opposition (LoP) post.  Many Congress leaders are pushing for Rahul Gandhi to take on this role, citing his performance as the face of the Opposition and the party's resurgence. The LoP post comes with considerable privileges, including membership in crucial committees and appointment selection bodies.
+
+While there is no official discussion yet,  the Congress is reportedly keen on Gandhi accepting the position.  This echoes similar expectations in 2014 and 2019, which Gandhi had declined.  Supporters argue that the LoP role will formally elevate Gandhi's leadership and enable him to directly challenge Prime Minister Modi. However, Gandhi remains reluctant, emphasizing his ability to voice dissent without the formal title.  
+
+
+
+
+Should he decline, other contenders like Shashi Tharoor, Manish Tiwari, KC Venugopal, and Gaurav Gogoi are being considered.
 
 Thu, 6 Jun 2024 19:56:01 +0530
 ### [In Graphics: Key milestones of India's 2024 Lok Sabha elections](https://www.firstpost.com/explainers/in-graphics-key-milestones-of-india-2024-lok-sabha-elections-13779638.html)
 
-Article found but Couldn't summarize 
-As India's mammoth elections come to a close with the much-anticipated results released late Tuesday, the 2024 edition of the Lok Sabha polls seems to have broken all kinds of records and set new milestones. Our graphics tell the story
+India's 2024 general elections, encompassing seven phases from April to June, witnessed record-breaking voter turnout with 642 million people casting their votes, including a historic 312 million women. This year's elections, focused on electing all 543 members of the Lok Sabha, showcased the country's organizational capabilities with extensive logistical planning and security measures. 
+
+The Election Commission of India ensured a smooth and secure process with a notable reduction in required repolls, coupled with a record seizure of money meant to influence voters. The elections, anticipated to be the world's most expensive, with an estimated expenditure exceeding 1.2 trillion rupees, highlighted the vibrancy and inclusivity of India's multiparty democracy.
 
 Thu, 6 Jun 2024 19:29:12 +0530
 ### [Lok Sabha election results 2024: How the BJP lost its Dalit votes](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-how-the-bjp-lost-its-dalit-votes-13779619.html)
 
-Article found but Couldn't summarize 
-One major reason being cited for BJP's underperformance in the 2024 Lok Sabha polls is how the party fared with Dalits particularly in the politically crucial state of Uttar Pradesh, which sends the most MPs to Parliament. The BJP in the 2014 Lok Sabha polls swept all 17 SC or Dalit-reserved seats in the state. However, this time it won just eight seats, while the Opposition prevailed in the rest. So, what changed?
+The BJP's performance in the 2024 Lok Sabha elections, particularly in Uttar Pradesh, has been attributed to a shift in the Dalit vote.  In 2014, the BJP won all 17 Dalit-reserved seats in UP, but this time secured only eight.  The Samajwadi Party and Congress alliance gained significant Dalit support, winning nine seats, with the Samajwadi Party securing seven. 
+
+Experts suggest various factors contributed to this shift, including concerns raised by the INDIA bloc about the BJP's potential to alter the Constitution and reservation policies. The BSP, which traditionally enjoys strong Dalit support, failed to win any seats this time. Issues surrounding the '400 paar' statements made by BJP leaders and the perceived weakening of the BSP may have also played a role.
 
 Thu, 6 Jun 2024 18:36:46 +0530
 ### [Not loving it: How McDonald's has lost the 'Big Mac' name](https://www.firstpost.com/explainers/not-loving-it-how-mcdonalds-has-lost-the-big-mac-name-13779595.html)
 
-Article found but Couldn't summarize 
-McDonald's has lost a legal battle in the European Union to retain its 'Big Mac' trademark beyond its iconic hamburgers, following a ruling from the EU General Court. The fast-food giant was challenged by Supermac's, a smaller Irish chain known for its fish and chips as well as its burgers. Supermac's argued that McDonald's trademark hindered its expansion across Europe, leading to this legal confrontation
+The European Union's General Court ruled against McDonald's, stating the company hadn't proven genuine use of the "Big Mac" trademark for poultry products over a five-year period.  The decision stems from a challenge by the Irish fast-food chain Supermac's, who argued that McDonald's trademark hindered their expansion.  While McDonald's maintains its right to use "Big Mac" for its iconic beef burgers, the ruling opens opportunities for Supermac's to expand across the EU.  The case highlights the challenges multinational corporations face in maintaining trademark protections across regions and product categories, emphasizing the EU's stance on needing genuine and continuous use to retain trademark rights.
 
 Thu, 6 Jun 2024 17:51:31 +0530
 ### [Uniform Civil Code, Agniveer and more: How coalition sarkar could affect BJP’s pet projects](https://www.firstpost.com/explainers/uniform-civil-code-agniveer-modi-coalition-sarkar-bjp-pet-project-13779544.html)
 
-Article found but Couldn't summarize 
-After failing to get a majority on its own, the BJP will have to rely heavily on its allies, namely the JD(U) and the TDP. In such a coalition sarkar, the saffron party’s core agendas and key programmes such as the Uniform Civil Code, Agnipath scheme and others may have to be shelved or pushed to the backburner
+The BJP's victory in the 2024 election, while historic, brings a weakened mandate and reliance on allies like the JD(U) and TDP.  This coalition structure could affect key BJP agendas. The Uniform Civil Code, a core BJP aim, faces uncertainty as the JD(U) supports consensus-building, and the TDP prioritizes Muslim community interests. The "One Nation, One Poll" initiative, supported by the JD(U), may proceed, while the controversial Agnipath scheme, criticized by the JD(U), is likely to be reviewed.  Disputed religious sites like Kashi and Mathura are unlikely to see BJP-led amendments to the Places of Worship Act due to allied opposition.
 
 Thu, 6 Jun 2024 17:24:08 +0530
 ### [How ‘Power Star’ Pawan Kalyan helped NDA storm to power in Andhra](https://www.firstpost.com/explainers/andhra-pradesh-election-results-pawan-kalyan-tdp-bjp-nda-victory-13779537.html)
@@ -7126,8 +7182,11 @@ Narendra Modi is set to be sworn in for a third term as Prime Minister of India 
 Thu, 6 Jun 2024 12:26:27 +0530
 ### [A victory for Trump? Why his Georgia election case has been put on hold](https://www.firstpost.com/explainers/a-victory-for-trump-why-his-georgia-election-case-has-been-put-on-hold-13779408.html)
 
-Article found but Couldn't summarize 
-A Georgia appeals court in the US paused the criminal election interference case against Donald Trump in the state on Wednesday. This suspension will remain in effect until a decision is made regarding his attempt to disqualify the district attorney handling the case. This development makes it highly unlikely that a trial will occur before the US presidential election in November this year
+A Georgia appeals court has paused the criminal election interference case against Donald Trump.  This suspension is pending a decision on Trump's attempt to disqualify Fulton County District Attorney Fani Willis. 
+
+Trump's legal team argues that Willis should be disqualified due to a perceived conflict of interest related to her relationship with a former special prosecutor on the case. Judge McAfee, while finding insufficient evidence to prove financial impropriety, ruled Willis could only continue if the special prosecutor resigned. 
+
+The appeals court's decision makes it highly unlikely that a trial will occur before the 2024 US presidential election.  The case centers on allegations that Trump and 18 co-defendants engaged in a "criminal racketeering enterprise" to overturn the 2020 election results in Georgia.
 
 Thu, 6 Jun 2024 12:24:37 +0530
 ### [From textbooks to uniforms: How Kerala schools are trying to achieve gender neutrality](https://www.firstpost.com/explainers/from-textbooks-to-uniforms-how-kerala-schools-trying-to-achieve-gender-neutrality-13779327.html)
@@ -7181,14 +7240,18 @@ Voter turnout is expected to be higher than previous years, with 71% of European
 Thu, 6 Jun 2024 06:00:39 +0530
 ### [FirstUp: EU elections, Sunil Chhetri's farewell match... Top headlines today](https://www.firstpost.com/explainers/firstup-eu-elections-sunil-chhetri-farewell-match-13779152.html)
 
-Article found but Couldn't summarize 
-Voters in the European Union are set to elect lawmakers in an election from 6-9 June for the bloc's parliament. France will commemorate the 80th anniversary of the Allied invasion, which marked the beginning of the end of World War II in Europe. Emotions will run high when Sunil Chhetri leads India out one last time in a crucial FIFA World Cup qualifying match against Kuwait in Kolkata
+The European Union will hold elections for its parliament from June 6th to 9th. Around 373 million citizens across the 27 member states will be eligible to vote for 720 Members of the European Parliament (MEPs).  Pre-election projections suggest the European People's Party, the Progressive Alliance of Socialists And Democrats, and Renew Europe will be the largest parties.
+
+ France will commemorate the 80th anniversary of the D-Day landing on June 6th, 1944, a pivotal moment in World War II.  Indian football legend Sunil Chhetri will lead his team in his final game against Kuwait in a crucial World Cup qualifier in Kolkata on the same day.
 
 Wed, 5 Jun 2024 22:19:21 +0530
 ### [2014 vs 2019 vs 2024: How India's political landscape has changed](https://www.firstpost.com/explainers/2014-vs-2019-vs-2024-how-indias-political-landscape-has-changed-13779221.html)
 
-Article found but Couldn't summarize 
-The BJP-led NDA is set to return to power with Prime Minister Narendra Modi reportedly being sworn in on Saturday. But much has changed since 2014 when the then BJP's prime ministerial face was swept into office in a wave election on the back of massive victories in the Hindi heartland
+The BJP under Prime Minister Narendra Modi has returned to power, securing a decisive victory in the 2024 general elections. This win marks Modi's third consecutive term,  making him the first Indian Prime Minister to achieve this feat since Jawaharlal Nehru.  Despite falling short of the target of 400 seats, the NDA alliance won 292 seats.  
+
+While victorious, the BJP experienced a decline in its parliamentary seats compared to previous elections, particularly losing ground in crucial Hindi heartland states. This loss highlights a potential shift in the political landscape.  
+
+On the other hand, the opposition Congress party, led by Rahul Gandhi, showed a significant revival, increasing its seat count and challenging the BJP's dominance, particularly in states like Rajasthan and Haryana. The 2024 elections also saw the emergence of the Samajwadi Party as a major force in Uttar Pradesh. The outcome suggests a more dynamic and competitive political climate as India heads into its future.
 
 Wed, 5 Jun 2024 20:53:04 +0530
 ### [Lok Sabha election results 2024: The many times when Nitish Kumar has flipped the script](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-times-when-nitish-kumar-flipped-the-scripts-13779190.html)
@@ -7377,8 +7440,7 @@ Despite the BJP being the single-largest party with 240 seats, it will need the 
 Tue, 4 Jun 2024 21:14:18 +0530
 ### [Some cheer, some crackers: The Lok Sabha election results give NDA, INDI Alliance a reason to celebrate](https://www.firstpost.com/explainers/some-cheer-some-crackers-the-lok-sabha-election-results-give-nda-indi-alliance-a-reason-to-celebrate-13778805.html)
 
-Article found but Couldn't summarize 
-As votes for the Lok Sabha elections were counted, celebrations broke out on the streets across the country. Supporters of PM Narendra Modi hailed his third term and the INDI Alliance were happy to defy expectations
+India's Lok Sabha elections concluded with celebrations erupting nationwide as votes were tallied.  Prime Minister Narendra Modi's BJP secured a third consecutive term, prompting jubilant displays from supporters.  Conversely, the opposition INDIA alliance, exceeding pre-election predictions, expressed satisfaction with their performance.
 
 Tue, 4 Jun 2024 20:58:18 +0530
 ### [Ayodhya shocker: BJP lost in Ram Mandir constituency of Faizabad. Here's what it means](https://www.firstpost.com/explainers/bjp-lost-in-ram-mandir-constituency-of-faizabad-heres-what-it-means-13778768.html)
@@ -7582,8 +7644,7 @@ The tax reforms are expected to support social spending and address economic cha
 Mon, 3 Jun 2024 19:50:55 +0530
 ### [In Graphics | A for Alliance, V for VVPAT... All vote-counting terms explained](https://www.firstpost.com/explainers/lok-sabha-election-results-vote-counting-terms-explained-graphics-13778215.html)
 
-Article found but Couldn't summarize 
-India is all geared up for the counting of votes on 4 June for the Lok Sabha elections. But are you confused about VVPAT or a deposit paid by candidates? We have you covered
+India will count votes for its Lok Sabha elections on June 4th, with results announced at 8 am.  This election saw a record 642 million voters participate over seven phases.  For those unfamiliar with election terminology, the Election Commission has released a glossary to help explain terms like VVPAT and candidate deposits.
 
 Mon, 3 Jun 2024 19:00:28 +0530
 ### [Lok Sabha election results 2024: How Uttar Pradesh elected India’s most PMs](https://www.firstpost.com/explainers/lok-sabha-election-results-2024-uttar-pradesh-elected-indias-most-pms-13778175.html)
@@ -7609,8 +7670,11 @@ Toyota and Mazda are taking steps to address the issues and regain trust, with T
 Mon, 3 Jun 2024 16:29:21 +0530
 ### [Lok Sabha election results 2024: What is the row over postal ballots? Can they impact poll outcome?](https://www.firstpost.com/explainers/lok-sabha-election-results-postal-ballots-impact-poll-outcome-ec-indi-alliance-13778151.html)
 
-Article found but Couldn't summarize 
-Ahead of the counting day for the Lok Sabha elections, the INDI Alliance has raised the issue of counting postal ballots. The Opposition bloc has asked the Election Commission to scrap a 2019 guideline and urge that they be tallied before those of the EVMs. But what do the rules say on the timing of finalising absentee votes?
+The INDIA alliance is urging the Election Commission to resume the previous practice of counting postal ballots before those of Electronic Voting Machines (EVMs). They argue this ensures a level playing field, citing instances where postal ballots swung election results, such as in the 2020 Bihar Assembly elections and the 2019 Arunachal Pradesh Assembly elections. 
+
+Previously, the EC required postal ballot counting to be completed before EVM counting. However, in 2019, the rule was changed, allowing EVM counting to proceed irrespective of the stage of postal ballot counting. 
+
+While the EC initially changed this rule, the Chief Election Commissioner recently reaffirmed that postal ballot counting will be commenced first, followed by EVM counting 30 minutes later.
 
 Mon, 3 Jun 2024 15:50:52 +0530
 ### [In a first, a sitting US president's child goes to court. What is Hunter Biden's gun trial?](https://www.firstpost.com/explainers/in-a-first-a-sitting-us-presidents-child-goes-to-court-what-is-hunter-bidens-gun-trial-13778137.html)

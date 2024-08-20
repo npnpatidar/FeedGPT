@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 08:30:05 +0530
+### [Abandon prejudices for women's participation in workforce to rise](https://www.livemint.com/opinion/online-views/abandon-prejudices-for-womens-participation-in-workforce-to-rise-11724095931780.html)
+
+International Monetary Fund (IMF) deputy managing director Gita Gopinath emphasized the importance of workplace safety for women's participation in the labor force.  Closing the gender gap in labor force participation could significantly boost developing economies' GDP. However, India's female labor force participation rate remains low at 37%, significantly below the global average. 
+
+Challenges include societal prejudices that limit women's opportunities and traditional roles that confine them to domestic responsibilities.  
+
+Gopinath called for multidimensional reforms to improve India's growth rate, including addressing societal attitudes and promoting a more equitable division of labor within families.
+
 Tue, 20 Aug 2024 07:00:01 +0530
 ### [Mint Quick Edit | Goldman Sach’s outlook changes highlight global uncertainty](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-goldman-sach-global-economy-us-recession-stock-market-employment-data-11724095559376.html)
 
