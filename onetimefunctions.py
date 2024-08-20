@@ -131,4 +131,4 @@ def convert_json_data_to_xml(json_file_path):
 
 feeds = get_feeds()
 for feed in feeds:
-    delete_entries_older_than_input_date  (feed , '01/08/2024')
+    delete_entries_older_than_input_date  (feed , '08/01/2024')

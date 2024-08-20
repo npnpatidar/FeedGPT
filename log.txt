@@ -6759,3 +6759,19 @@ Total time taken: 306.8055386543274 seconds
 
 75 entries have been deleted from feeds/Column_TH.xml 
 
+1268 entries have been deleted from feeds/Explained_IE.xml 
+
+2349 entries have been deleted from feeds/Explain_FP.xml 
+
+305 entries have been deleted from feeds/Explained_TH.xml 
+
+1743 entries have been deleted from feeds/Opinion_IE.xml 
+
+1281 entries have been deleted from feeds/Opinion_FP.xml 
+
+824 entries have been deleted from feeds/Opinion_Mint.xml 
+
+350 entries have been deleted from feeds/EDITORIAL_TH.xml 
+
+49 entries have been deleted from feeds/Column_TH.xml 
+
