@@ -1,3 +1,31 @@
+Tue, 20 Aug 2024 19:33:24 +0530
+### [Can Taylor Swift sue Donald Trump for sharing AI-generated endorsement? What does the law say?](https://www.firstpost.com/explainers/can-taylor-swift-sue-donald-trump-for-sharing-ai-generated-endorsement-what-does-the-law-say-13806602.html)
+
+Donald Trump posted AI-generated images of Taylor Swift endorsing him for the 2024 election. Swift, who previously criticized Trump, has not endorsed any candidate this year.  Legal experts believe Swift could sue Trump for using her likeness without permission, potentially violating her right of publicity.  
+
+The NO FAKES Act and Tennessee's ELVIS Act are two potential legal avenues Swift could explore. While experts agree she likely has a strong case, they question whether the cost and effort of a lawsuit outweigh the potential benefits.
+
+Tue, 20 Aug 2024 19:00:52 +0530
+### [Excessive screen time can cause ‘digital dementia’. What is this condition?](https://www.firstpost.com/health/excessive-screen-time-can-cause-digital-dementia-what-is-this-condition-13806465.html)
+
+The term "digital dementia" describes potential cognitive decline linked to excessive technology use. While not an official diagnosis, research suggests a correlation between increased screen time and negative impacts on cognitive function, including memory loss, attention difficulties, and reduced learning capacity. 
+
+Studies highlight the link between excessive screen time and heightened risks of dementia,  especially vascular dementia and Alzheimer's disease. This is potentially due to the constant multitasking and rapid information processing that digital devices demand, overwhelming the brain and disrupting sleep patterns.  
+  
+Efforts to manage screen time, engage in cognitively stimulating activities, and prioritize real-world interactions can help mitigate these risks and protect cognitive health in the digital age.
+
+Tue, 20 Aug 2024 18:16:20 +0530
+### [Fashion faux pas: Why Zara has pulled its ‘perfect snack’ T-shirt off shelves](https://www.firstpost.com/explainers/zara-perfect-snack-t-shirt-controversy-13806475.html)
+
+Zara has faced backlash for a T-shirt marketed towards young girls that read "the perfect snack" and featured a strawberry with the words "take a bite" and "a burst of sweet delight."  
+
+Critics, including mothers on TikTok, called the design sexually suggestive, particularly due to the slang use of "snack" to describe someone attractive. Zara apologized for the "misunderstanding," removed the shirt from its stores and website, stating there was no intention to imply anything other than the traditional meaning of "snack." This incident is not the first controversy Zara has faced, with past issues including an ad campaign criticized for its resemblance to imagery from the Israeli-Palestinian conflict and a  "White is the New Black" t-shirt deemed as racially insensitive.
+
+Tue, 20 Aug 2024 18:00:51 +0530
+### [Mpox outbreak: Why has the world reacted so slowly?](https://www.firstpost.com/health/mpox-outbreak-why-has-the-world-reacted-so-slowly-13806537.html)
+
+Congo's mpox outbreak, fueled by a potentially more infectious strain, highlights the world's slow response to the disease.  Though the 2022 global outbreak was largely contained in wealthy nations, few vaccine doses were sent to Africa. The current variant is affecting young people disproportionately and has spread to 13 African countries. Despite alarming statistics, Congo initially did not request vaccines, and access remains a major issue. Experts warn that the current situation mirrors the early stages of the HIV pandemic and urge immediate global intervention to prevent further spread.
+
 Tue, 20 Aug 2024 17:31:46 +0530
 ### [In Graphics | How do mosquitoes detect people, spread diseases?](https://www.firstpost.com/explainers/world-mosquito-day-graphics-how-do-mosquitoes-detect-people-spread-diseases-13806509.html)
 
@@ -17281,92 +17309,111 @@ Germany has denied any wrongdoing, with Defence Minister Pistorius branding the 
 Tue, 5 Mar 2024 11:30:59 +0530
 ### [Dry ice as ‘mouth freshener’: How a mix-up by Gurugram eatery left 5 hospitalised](https://www.firstpost.com/explainers/dry-ice-as-mouth-freshener-how-a-mix-up-by-gurugram-eatery-left-5-hospitalised-13745225.html)
 
-Article found but Couldn't summarize 
-Five people were hospitalised after ingesting what they were told was mouth freshener at a restaurant in Gurugram. According to the police, it appears that the waiter served them dry ice, which is solid carbon dioxide, by mistake. Why is it so dangerous?
+Five people were hospitalised in Gurugram after consuming what they believed to be mouth freshener at a restaurant. The waiter accidentally served them dry ice, which is solid carbon dioxide.  The individuals experienced burning sensations, bleeding, and vomiting after ingesting the substance.  The incident resulted in the filing of an FIR against the waiter for causing hurt by poisoning and criminal conspiracy.  Police are investigating the matter while three of the five patients remain hospitalized in stable condition. 
+
+Dry ice is highly hazardous if ingested as it can cause severe burns, internal injuries, and even death.  The FSSAI advises against consuming dry ice and emphasizes the importance of using it in a well-ventilated environment due to the risk of carbon dioxide buildup.
 
 Tue, 5 Mar 2024 10:23:07 +0530
 ### [One Indian dead, two injured in Israel. What we know so far](https://www.firstpost.com/explainers/israel-hamas-war-indian-dead-two-injured-what-we-know-so-far-13745244.html)
 
-Article found but Couldn't summarize 
-Patnibin Maxwell of Kollam in Kerala died after an anti-tank missile, which was fired from Lebanon, struck an orchard near Israel's northern border. Two other Indians,  Bush Joseph George and Paul Melvin, have also been injured and are receiving treatment in hospital
+An anti-tank missile fired from Lebanon struck an orchard near Israel's northern border, killing an Indian national, Patnibin Maxwell, from Kerala. Two other Indians, Bush Joseph George and Paul Melvin, were injured and are receiving treatment in hospitals. 
+
+The attack is believed to have been carried out by Hezbollah, which has been launching rockets and missiles at northern Israel in support of Hamas during the ongoing Gaza war. Israel responded with artillery shelling on the launch site and airstrikes on Hezbollah compounds.
 
 Tue, 5 Mar 2024 10:09:17 +0530
 ### [US SC keeps Trump on the ballot: What this means for 2024 race](https://www.firstpost.com/explainers/us-supreme-court-donald-trump-colorado-ballot-2024-presidential-race-joe-biden-13745251.html)
 
-Article found but Couldn't summarize 
-In a huge boost to Donald Trump, the US supreme court reversed the Colorado ruling on removing the former president from the ballot. This effectively clears the way for the Republican frontrunner to appear on the primary ballot in all states, and possibly even win the election
+The US Supreme Court ruled unanimously that Donald Trump cannot be removed from the Colorado ballot under the 14th Amendment. The court determined that states lack the power to enforce Section 3 of the 14th Amendment, which prohibits individuals who engaged in insurrection from holding office, with respect to federal elections.
+
+Trump celebrated the decision, arguing that it prevents opponents from using courts to interfere with elections. Critics expressed disappointment, arguing that the court failed to address the threat Trump poses to democracy.  The ruling significantly boosts Trump's 2024 presidential campaign and potentially hinders efforts to prevent him from returning to office, even amid ongoing criminal charges.
 
 Tue, 5 Mar 2024 08:34:51 +0530
 ### [What is Super Tuesday? Why is it important for US presidential elections?](https://www.firstpost.com/explainers/super-tuesday-important-us-presidential-elections-joe-biden-donald-trump-13745106.html)
 
-Article found but Couldn't summarize 
-Super Tuesday will be a crucial moment for President Joe Biden and his opponent Donald Trump. As the day with the most delegates up for stake, here's what to look out for
+Super Tuesday is a pivotal day in the 2024 US presidential primaries, with 16 states holding elections that will significantly influence the Democratic and Republican nominations. 
+
+President Joe Biden and Donald Trump are the clear frontrunners for their respective parties. The outcome in states like California and Texas is crucial. Will Trump continue his strong showing, consolidating his lead over Nikki Haley in the Republican race? 
+
+The Democratic primary has been less contested, but Biden faces potential challenges from voters who opposed his stance on the Israeli-Palestinian conflict.  High-stakes senate races in California and North Carolina will also garner attention, along with important local elections in San Francisco and Los Angeles that touch on criminal justice reform.
 
 Tue, 5 Mar 2024 05:00:17 +0530
 ### [FirstUp: Will Donald Trump seal Nikki Haley's fate on Super Tuesday?](https://www.firstpost.com/explainers/firstup-will-donald-trump-seal-nikki-haleys-fate-on-super-tuesday-13745131.html)
 
-Article found but Couldn't summarize 
-The United States is set to hold one of the biggest days on its election calendar with delegates in 16 states across the nation up for grabs. The Ministry of Defence will sign a deal to acquire over 200 BrahMos missiles for the Indian Navy. Here’s are today's big stories
+The US is holding a crucial election day, known as Super Tuesday, with delegates from 16 states up for grabs. Former president Donald Trump is the frontrunner, while both finalists, Biden for Democrats and Trump for Republicans are expected to secure their party’s nomination. Another major story is the Indian Navy signing a deal to acquire over 200 BrahMos missiles from BrahMos Aerospace. In India, the Supreme Court will hear AAP leader Sanjay Singh’s bail plea in the Delhi excise policy case, Prime Minister Narendra Modi will unveil several development projects in Odisha, and Defence Minister Rajnath Singh will inaugurate a new building at Goa's Naval War College.
 
 Mon, 4 Mar 2024 21:14:33 +0530
 ### [How UPI transactions can help save billions every year for developing countries](https://www.firstpost.com/explainers/india-upi-transactions-wto-cross-border-remittance-costs-13745137.html)
 
-Article found but Couldn't summarize 
-India’s proposal to lower the cost of cross-border remittances and promote ‘interoperability and interlinkages of digital payment infrastructure’ did not make it to the declaration of the World Trade Organisation’s 13th ministerial conference. According to Union minister Piyush Goyal, these plans would have helped save $30-40 billion for Least developed countries and developing nations
+India proposed at the World Trade Organisation's ministerial conference to lower cross-border remittance costs, aiming to save $30-40 billion for developing nations. India highlighted its Unified Payments Interface (UPI) system as a solution to reduce these costs, which currently average between 4% and 8-9% of the transaction value. 
+
+The proposal, supported by numerous countries, was reportedly blocked by the United States. India argued that lower remittance costs would benefit not only its citizens but also individuals from many other countries, particularly those reliant on remittances for their economies.  Reduced costs would also encourage the use of legal remittance channels, diminishing reliance on informal methods like hawala.
 
 Mon, 4 Mar 2024 20:14:56 +0530
 ### [How Houthi attacks in Red Sea could disrupt internet across the world](https://www.firstpost.com/explainers/how-houthi-attacks-in-red-sea-could-disrupt-internet-across-the-world-13745098.html)
 
-Article found but Couldn't summarize 
-Four cables in the Red Sea which account for 17 per cent of the world’s internet traffic have been ‘cut.’ The Houthis have previously denied they have any intention of targeting sea cables. So what's really going on?
+Recent attacks in the Red Sea have damaged several undersea data cables, disrupting 17% of global internet traffic. The cables, which connect Europe and East Asia, have been impacted by attacks attributed to the Iran-backed Houthi group.  
+
+While the Houthis deny any involvement, the incidents highlight the vulnerability of critical internet infrastructure. Experts suggest that the damage, while significant, might not be catastrophic due to the presence of redundant cables in the region. Repair work, however, could take several weeks and faces potential further attacks. This is not the first time such incidents have occurred, with previous outages attributed to Houthi activity.
 
 Mon, 4 Mar 2024 19:00:18 +0530
 ### [Can mental health days for students bring down suicide rates? Taiwan thinks so](https://www.firstpost.com/explainers/can-mental-health-days-for-students-bring-down-suicide-rates-taiwan-thinks-so-13745073.html)
 
-Article found but Couldn't summarize 
-High schools in Taiwan will soon be offering mental health leave to students. It’s part of a trial run by the government to address the rising suicide rates, depression, and high stress levels among its youths
+Taiwan is piloting a mental health leave program for high school students, allowing them up to three days off per semester without requiring a doctor's note. This initiative addresses rising suicide rates and mental health issues among youth. 
+
+Over 40 schools have joined the program, marking a shift in societal attitudes towards mental well-being.  
+
+Data shows that stress, future prospects, and interpersonal relationships are major contributors to student stress. 
+
+Taiwan's program has received positive feedback from students and experts who believe it allows students to manage stress and encourages help-seeking behavior.
 
 Mon, 4 Mar 2024 18:09:46 +0530
 ### [Joe Biden, Donald Trump’s verbal gaffes: How age affects our memory](https://www.firstpost.com/explainers/joe-biden-donald-trumps-verbal-gaffes-how-age-affects-our-memory-13745041.html)
 
-Article found but Couldn't summarize 
-US president Joe Biden and his Republican rival Donald Trump’s many public stumbles have triggered questions about their cognitive abilities. Experts say memory lapses can happen at any age and they do not signal a mental decline for many people
+This article examines the verbal slips of US President Biden and former President Trump, sparking discussion about their cognitive abilities as they age.  
+
+Experts note that memory lapses are common at any age and don't necessarily indicate cognitive decline. However, age can impact memory recall, processing speed, and working memory, leading to occasional slips in speech and recall. 
+
+While Biden and Trump have faced criticism for their verbal gaffes, diagnosing cognitive disorders based solely on public appearances is unreliable.  Dementia, Alzheimer's, and other cognitive conditions require thorough evaluation and are not determined by isolated instances of memory lapses.
 
 Mon, 4 Mar 2024 17:00:22 +0530
 ### [No immunity for MPs, MLAs taking bribes: How SC overturned 1998 verdict](https://www.firstpost.com/explainers/no-immunity-for-mps-mlas-taking-bribes-how-sc-overturned-1998-verdict-13745017.html)
 
-Article found but Couldn't summarize 
-A seven-judge bench constitution bench led by Chief Justice DY Chandrachud said MPs and MLAs who take bribes to vote or make a speech do not enjoy immunity from prosecution under Articles 105(2) and 194 of the Constitution while reconsidering its own 1998 verdict in the JMM bribery case. Here's everything you need to know
+The Supreme Court of India, in a landmark decision, has overturned its 1998 ruling in the JMM bribery case. 
+
+In a unanimous verdict, a seven-judge bench led by Chief Justice DY Chandrachud ruled that Members of Parliament (MPs) and Members of Legislative Assemblies (MLAs) who take bribes to vote or make a speech do not enjoy immunity from prosecution.  
+
+The court held that bribery is not protected by parliamentary privileges and undermines the integrity of the democratic process.  The decision clarifies that MPs and MLAs can be prosecuted for taking bribes even if their actions are related to their legislative duties.
 
 Mon, 4 Mar 2024 16:51:07 +0530
 ### [Toll, Truce and Talks: Where does the Israel-Hamas war stand today?](https://www.firstpost.com/explainers/death-toll-ceasefire-truce-israel-hamas-war-gaza-strip-13744984.html)
 
-Article found but Couldn't summarize 
-Death and destruction pervades in the Gaza Strip as Israel continues to pound the area in its attempt to destroy Hamas. As per an official count, over 30,000 people have died while millions of others have been left homeless and susceptible to disease. But amid these hostilities, there’s hope for peace as ceasefire talks are underway
+The war between Israel and Hamas has reached a grim milestone, with over 30,000 Palestinians reported dead in the Gaza Strip. The conflict has caused widespread devastation, leaving thousands homeless and facing a humanitarian crisis exacerbated by shortages of food, water, and medical supplies.  
+
+Attempts at a ceasefire are ongoing, with negotiators aiming for an agreement before the start of Ramadan. A potential deal includes a six-week truce, the release of Palestinian prisoners in exchange for Israeli hostages, and the gradual return of Palestinians to northern Gaza. However, Israel has withdrawn from talks due to Hamas's refusal to provide a complete list of hostages.  
+
+The war has also sparked internal division within Israel, with Prime Minister Benjamin Netanyahu facing criticism for his handling of the conflict. Netanyahu's popularity has declined as some Israelis hold him responsible for the Hamas attack and question his decision-making.
 
 Mon, 4 Mar 2024 16:04:58 +0530
 ### [Joe Biden's State of the Union address: How the speech is crafted](https://www.firstpost.com/explainers/joe-bidens-state-of-the-union-address-how-the-presidents-speech-is-crafted-13744891.html)
 
-Article found but Couldn't summarize 
-US president Joe Biden will deliver the annual address at a joint session of Congress on Thursday. This speech takes months to prepare and speechwriters face the difficult task of combining dozens of ideas into a coherent narrative of a president's vision for the year
+President Biden's upcoming State of the Union address is a significant platform for him to outline his domestic agenda and address global issues, particularly the war in Ukraine and its economic ramifications.  The speech, expected to be heavily focused on policy initiatives, will also touch upon topics like inflation, supply chain issues, and reproductive rights.  
+
+Crafting the speech is a meticulous process involving months of preparation, consultations with various agencies, and a deep understanding of Biden's communication style. Speechwriters strive to capture the President's voice, rhythm, and worldview while ensuring the address clearly conveys his vision for the year ahead.  They also anticipate potential unscripted moments and prepare accordingly.
 
 Mon, 4 Mar 2024 14:28:04 +0530
 ### [Is Indian-origin life coach Jay Shetty's self-help empire built on lies?](https://www.firstpost.com/explainers/jay-shetty-self-help-empire-backstory-plagiarism-controversies-13744903.html)
 
-Article found but Couldn't summarize 
-A report in ‘The Guardian’ has revealed glaring inaccuracies in the backstory of popular self-help podcaster Jay Shetty during his time as a monk. The piece also points out that the ‘8 Rules of Love’ author was previously accused of plagiarising content
+A Guardian report reveals discrepancies in self-help guru Jay Shetty's narrative about his time as a Hindu monk.  The report challenges Shetty's claims about his age when attending a life-changing lecture and the duration of his stay in an Indian ashram. Further inconsistencies arise regarding Shetty's involvement with ISKCON, an organization with a controversial past.  The report also alleges that Shetty plagiarized content in the past and that his life coaching school's accreditations are dubious. Shetty's lawyers maintain his account and dispute some of the allegations.
 
 Mon, 4 Mar 2024 14:10:50 +0530
 ### [Who is Jimmy ‘Barbecue’ Chérizier, gang leader at centre of Haiti violence?](https://www.firstpost.com/explainers/who-is-jimmy-barbecue-cherizier-gang-leader-at-centre-of-haiti-violence-13744900.html)
 
-Article found but Couldn't summarize 
-Jimmy Chérizier is a former officer of the Haitian National Police (HNP) who leads a group of Haitian gangs collectively called the 'G9 Family and Allies.' Chérizier has vowed to oust Prime Minister Ariel Henry, who travelled abroad last week to try to salvage support for bringing in a United Nations-backed security force to help stabilise Haiti in its conflict with armed gangs
+Jimmy "Barbecue" ChÃ©rizier leads the G9 Family and Allies, a coalition of Haitian gangs. A former Haitian National Police officer, ChÃ©rizier has been accused of leading numerous attacks and human rights abuses, including the 2018 La Saline massacre.  He has denied these accusations, claiming to be a revolutionary fighting against the Haitian government and for a more equitable society. ChÃ©rizier's gang has  blockaded the Varreux fuel terminal, contributing to Haiti's economic crisis. His group's recent assaults, including the capture of two major prisons, have heightened tensions in the country.  Prime Minister Ariel Henry is facing mounting pressure after calling for UN-backed security forces to help stabilize the situation, though he insists he won't resign.
 
 Mon, 4 Mar 2024 13:16:49 +0530
 ### [The shocking case of the Spanish tourist gang-raped in Jharkhand](https://www.firstpost.com/explainers/spanish-tourist-gang-raped-jharkhand-dumka-anger-womens-safety-13744871.html)
 
-Article found but Couldn't summarize 
-A Spanish woman has alleged that she was gang-raped by seven men in Jharkhand’s Dumka during her bike trip across the country. She detailed her assault on Instagram, prompting authorities to arrest three accused and continue their hunt for the others
+A Spanish woman traveling across India with her husband on a bike, alleged that she and her husband were assaulted and gang-raped by seven men in Jharkhand. The incident occurred while they were camping near a market. The woman detailed the incident on Instagram, leading to the arrest of three men. Four others are still at large.  The police have filed a case and are working to locate the remaining suspects. The incident has sparked outrage and calls for increased safety for women travelers in India.
 
 Mon, 4 Mar 2024 12:36:14 +0530
 ### [8 days on, no trace of Indian Navy sailor who disappeared from ship: What happened?](https://www.firstpost.com/explainers/indian-navy-sailor-sahil-verma-missing-family-cbi-probe-13744852.html)

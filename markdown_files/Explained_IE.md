@@ -1,3 +1,19 @@
+Tue, 20 Aug 2024 13:26:22 +0000
+### [Who are the Dhangars of Maharashtra and why are they asking for ‘grazing corridors’ in forests?](https://indianexpress.com/article/explained/dhangars-maharashtra-elections-caste-9524048/)
+
+The Dhangar community, a nomadic group of shepherds predominantly found in Maharashtra, Gujarat, Karnataka, and Andhra Pradesh, has been demanding the establishment of "grazing corridors" to ensure their traditional movement with their livestock.  They argue that recent forest conservation measures have restricted their access to grazing lands, impacting their livelihoods and cultural practices.  
+
+The Dhangars face challenges accessing education and healthcare due to their nomadic life and have long fought for Scheduled Tribe (ST) status, which is currently opposed by existing ST groups in Maharashtra due to concerns over reservation dilution.  The Forest Rights Act, which recognizes traditional grazing rights, has not adequately benefited the Dhangar community.
+
+The community wields significant political influence, particularly in western Maharashtra and parts of Vidarbha.  They are seeking political attention and support for their demand for grazing corridors, hoping to secure their rights to traditional grazing lands.
+
+Tue, 20 Aug 2024 12:51:25 +0000
+### [Before Siddaramiah, 4 alleged corruption cases where Karnataka Governor’s prosecution sanction was sought](https://indianexpress.com/article/explained/siddaramiah-governor-corruption-sanction-9523838/)
+
+Karnataka Governor Thawar Chand Gehlot granted prosecution sanction against Chief Minister Siddaramaiah on corruption allegations. The Congress party calls this a political conspiracy, highlighting other pending sanction requests against figures like HD Kumaraswamy, Murugesh Nirani, Gali Janardhan Reddy, and Shashikala Jolle. 
+
+The requests against Kumaraswamy and Nirani concern alleged corruption during their tenures as CM and Industries Minister respectively, while Reddy faces charges of amassing disproportionate assets during his time as a minister. Jolle is accused of seeking bribes related to a nutritional scheme.
+
 Tue, 20 Aug 2024 07:07:29 +0000
 ### [What must NASA decide to bring Sunita Williams and Barry Wilmore home?](https://indianexpress.com/article/explained/explained-sci-tech/nasa-sunita-williams-barry-stuck-return-9523319/)
 

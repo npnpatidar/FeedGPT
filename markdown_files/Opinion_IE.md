@@ -1,3 +1,12 @@
+Tue, 20 Aug 2024 14:04:21 +0000
+### [PM Modi’s visit to Ukraine, Poland: Central Europe in India](https://indianexpress.com/article/opinion/columns/pm-modis-visit-ukraine-poland-central-europe-india-9524102/)
+
+Prime Minister Modi's visit to Poland and Ukraine signifies India's growing interest in Central Europe, a region now at the forefront of global geopolitical tensions.  This is the first visit by an Indian Prime Minister to Poland since 1979 and to Ukraine since its independence. 
+
+India recognizes the importance of Central Europe and aims to establish long-term partnerships with Poland and Ukraine. Despite the ongoing war in Ukraine, India seeks to engage constructively with both nations, acknowledging their strategic significance and historical ties. 
+
+Modi's visit underlines India's commitment to strengthening its European engagement, expanding beyond its traditional relationships with major European powers. This strategy reflects India's recognition of Central Europe's growing influence and its desire to shape regional geopolitics.
+
 Tue, 20 Aug 2024 12:00:30 +0000
 ### [Supreme Court verdict on sub-classification of SCs, STs is blinkered to historical discrimination of Dalits](https://indianexpress.com/article/opinion/columns/supreme-court-verdict-sub-classification-sc-st-dalits-9523850/)
 
