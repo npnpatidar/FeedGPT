@@ -47,7 +47,7 @@ def summarise(article_text):
     conversation = [
         {
             "role": "system",
-            "content": "Summarise given article in around 100 words. There can be an adverstisement or unrelated content in between. Don't include that in the summary and no need to mention that it has been omitted.  \n\n"
+            "content": "Summarise given article in around 100 words. There can be an adverstisement or unrelated content in between. Don't include that in the summary and no need to mention that it has been omitted. Do not Include any markdown format.  \n\n"
         },
         {
             "role": "user",
