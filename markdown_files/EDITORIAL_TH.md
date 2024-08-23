@@ -1,3 +1,15 @@
+Sat, 24 Aug 2024 00:20:00 +0530
+### [Not taking sides: On Prime Minister Modi’s Ukraine visit](https://www.thehindu.com/opinion/editorial/not-taking-sides-on-the-prime-ministers-ukraine-visit/article68559349.ece)
+
+Prime Minister Modi's visit to Kyiv signifies a balancing act in India's stance on the Russia-Ukraine war. India has maintained neutrality, abstaining from UN resolutions critical of Russia and continuing trade relations despite Western sanctions. While Modi's visit, the first by an Indian Prime Minister to Ukraine since its independence, signaled a desire to engage, it remained cautious. 
+
+Discussions centered around peace, with agreements signed on cooperation in sectors like agriculture, culture, and medicine. However, there were no significant breakthroughs on strategic partnership, infrastructure supplies, or India's potential role in peace negotiations. Modi's visit, symbolic in nature,  reinforced India's position as a neutral mediator within the global South, prioritizing its own interests while encouraging direct dialogue between Russia and Ukraine.
+
+Sat, 24 Aug 2024 00:10:00 +0530
+### [​Soren vs Soren: On Jharkhand politics](https://www.thehindu.com/opinion/editorial/%E2%80%8Bsoren-vs-soren-on-politics-in-jharkhand/article68558963.ece)
+
+Champai Soren, a veteran tribal leader and former Jharkhand Chief Minister, has parted ways with the Jharkhand Mukti Morcha (JMM) after a power struggle.  Champai  served as Chief Minister while Hemant Soren was in jail but was removed abruptly upon Hemant's release. He felt humiliated by the move, expecting more respect given his experience and the leadership role he had temporarily held. As the Jharkhand Assembly elections approach, Champai's future political path remains uncertain. He might form his own party or join the BJP, with  possibility  of aiding the BJP's campaign strategy to divide the tribal vote.
+
 Fri, 23 Aug 2024 00:20:00 +0530
 ### [Death at work: On industrial safety](https://www.thehindu.com/opinion/editorial/death-at-work-on-industrial-safety/article68554966.ece)
 
