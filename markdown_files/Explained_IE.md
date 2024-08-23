@@ -1,3 +1,10 @@
+Fri, 23 Aug 2024 21:39:31 +0000
+### [Getting India into power play, Modi tries to bring Kyiv, Moscow to table](https://indianexpress.com/article/explained/getting-india-into-power-play-modi-tries-to-bring-kyiv-moscow-to-table-9530100/)
+
+During his visit to Ukraine, Prime Minister Narendra Modi offered India's support for any initiative aimed at ending the Russia-Ukraine war. This marked the first-ever visit by an Indian Prime Minister to Ukraine since its independence. Modi's meetings with both President Vladimir Putin of Russia and President Volodymyr Zelenskyy of Ukraine position India uniquely in mediating between the two sides. 
+
+India has maintained a neutral stance, abstaining from UN resolutions and sending humanitarian aid to Ukraine. While not directly involved in the war effort, PM Modi emphasized the need for dialogue and diplomacy to resolve the conflict. His call for direct talks between Putin and Zelenskyy signifies India's willingness to facilitate a peaceful resolution.
+
 Fri, 23 Aug 2024 16:25:41 +0000
 ### [Why Modi’s visit to Ukraine marks three new roads: India in Europe, diplomatic space, and Delhi-Kyiv revival](https://indianexpress.com/article/explained/explained-global/modi-visit-ukraine-9529875/)
 
