@@ -1,3 +1,12 @@
+Fri, 23 Aug 2024 16:25:41 +0000
+### [Why Modi’s visit to Ukraine marks three new roads: India in Europe, diplomatic space, and Delhi-Kyiv revival](https://indianexpress.com/article/explained/explained-global/modi-visit-ukraine-9529875/)
+
+Narendra Modi's first visit to Kyiv since Ukraine's independence signifies three key developments. Firstly, it demonstrates India's support for Ukraine's sovereignty and its willingness to engage in peace efforts, providing a platform for Zelenskyy to articulate Ukraine's concerns. 
+
+Secondly, Modi's trip signals India's active role in shaping the global geopolitical landscape amidst the war's repercussions, countering the perception of India as a passive bystander.
+
+Lastly, the visit aims to revitalize the relationship between India and Ukraine, fostering economic, defense, and cultural ties after a period of neglect.   Modi's engagement with both Russia and Ukraine underscores India's strategic positioning and its commitment to safeguarding its interests in this evolving global order.
+
 Fri, 23 Aug 2024 14:03:55 +0000
 ### [Polaris Dawn: Another small step to Mars?](https://indianexpress.com/article/explained/explained-sci-tech/polaris-dawn-mars-9529662/)
 
