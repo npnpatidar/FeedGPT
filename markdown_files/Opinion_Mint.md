@@ -1,3 +1,10 @@
+Sat, 24 Aug 2024 09:00:06 +0530
+### [The unravelling of a financial titan: Ravi Parthasarathy and the IL&amp;FS scandal](https://www.livemint.com/opinion/online-views/ravi-parthasarathy-il-fs-vijay-mallya-jet-airways-naresh-goyal-satyam-computers-adia-11724316384473.html)
+
+Ravi Parthasarathy rose to prominence in the Indian financial sector during the 1980s and 1990s through his leadership at IL&FS. The company, initially a public-private partnership model for infrastructure projects, grew under Parthasarathy's guidance, becoming a significant force in sectors like roads, ports, and power.  
+
+However, IL&FS's rapid expansion was fueled by short-term loans against long-term infrastructure projects, leading to a significant debt burden. Despite his reputation as a shrewd businessman, Parthasarathy's gamble on government support for his projects failed. His resignation in 2018 preceded the company's collapse, exposing a ₹91,000 crore debt pile accumulated through complex subsidiaries and questionable financial practices. His arrest in 2021 on charges of embezzlement and money laundering highlighted the depth of the scandal, ultimately resulting in the closure of the case after his death in 2022.
+
 Fri, 23 Aug 2024 14:00:11 +0530
 ### [Focus on three pillars to attain the developed economy goal](https://www.livemint.com/opinion/online-views/viksit-bharat-gdp-infrastructure-technology-development-employment-generation-job-creation-manufacturing-investment-11724400262575.html)
 

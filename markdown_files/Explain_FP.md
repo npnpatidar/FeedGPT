@@ -1,3 +1,8 @@
+Sat, 24 Aug 2024 09:36:59 +0530
+### [This Week in Explainers: What PM Modi achieved from his Ukraine trip](https://www.firstpost.com/explainers/this-week-in-explainers-pm-narendra-modi-ukraine-trip-13807695.html)
+
+This week, India celebrated its first National Space Day, commemorating the successful Chandrayaan-3 lunar landing, a historic achievement for the Indian Space Research Organisation (ISRO).  Prime Minister Narendra Modi undertook a two-nation trip, visiting Poland and Ukraine.  In Poland, he met with his counterpart and elevated ties to a strategic partnership. In Ukraine, he held talks with President Zelenskyy and reiterated India's stance on resolving the conflict through dialogue and diplomacy.  A report on sexual harassment in the Malayalam film industry, the Hema Committee report, sparked strong reactions in Kerala. The report detailed instances of harassment and exploitation, highlighting a powerful lobby within the industry.
+
 Fri, 23 Aug 2024 20:57:02 +0530
 ### ['India ready to play active role': The big takeaways from PM Modi's Ukraine visit](https://www.firstpost.com/explainers/india-ready-to-play-active-role-the-big-takeaways-from-pm-modis-ukraine-visit-13807709.html)
 
