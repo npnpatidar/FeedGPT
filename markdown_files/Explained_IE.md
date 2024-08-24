@@ -1,3 +1,22 @@
+Sat, 24 Aug 2024 02:15:36 +0000
+### [Assessing Ukraine’s deep incursion into Russia’s Kursk oblast: why, what happens now](https://indianexpress.com/article/explained/explained-global/assessing-ukraines-deep-incursion-into-russias-kursk-oblast-why-what-happens-now-9530045/)
+
+Ukraine’s surprise incursion into Russia’s Kursk Oblast two weeks ago has resulted in the capture of significant territory by Ukrainian forces. Russia claims to have thwarted a Ukrainian attempt to seize land in the neighboring Bryansk Oblast. Ukraine’s objectives are believed to be multifaceted, including using the captured territory as a bargaining chip in future negotiations, boosting morale after recent setbacks, and forcing Russia to divert troops from other fronts. The incursion has resulted in the displacement of civilians and the capture of Russian soldiers by Ukrainian forces. 
+
+While Ukraine has made notable gains, it remains uncertain if they can sustain them. The Ukrainian army faces a manpower shortage and has pulled troops from other battlefields, potentially leaving them vulnerable in the long term. Russia, meanwhile, has not yet significantly diverted forces from its eastern offensive, raising concerns about Ukraine’s ability to hold onto its gains.
+
+Sat, 24 Aug 2024 01:50:16 +0000
+### [Were Bangladesh floods caused by India releasing water from dam? GoI says no](https://indianexpress.com/article/explained/explained-climate/tripura-floods-ministry-of-external-affairs-eastern-bangladesh-flood-dumbur-dam-9529990/)
+
+Heavy rainfall in Tripura, India, led to flooding in eastern Bangladesh impacting nearly 1.8 million people across six districts. Unverified social media reports claimed that the release of water from the Dumbur dam in Tripura caused the floods. However, the Indian Ministry of External Affairs clarified that the dam's flood gates were not opened and excess water from the Gumti reservoir spilled automatically due to heavy rainfall exceeding its capacity. The ministry emphasized that the floods in Bangladesh are primarily due to the heavy rainfall in the Gumti river catchment area downstream of the dam.
+
+Sat, 24 Aug 2024 01:40:05 +0000
+### [What US Fed Chief’s speech in Jackson Hole symposium signals](https://indianexpress.com/article/explained/explained-economics/jackson-hole-symposium-us-fed-chief-jerome-powell-economic-policy-symposium-interest-rate-cuts-9530044/)
+
+Jerome Powell, head of the US Federal Reserve, indicated that interest rate adjustments are near, signaling a potential shift towards rate cuts. This statement, made at the annual Economic Policy Symposium in Jackson Hole, Wyoming, impacted global markets, with bond yields falling and stock indices rising. Powell emphasized that the Fed aims to balance inflation control with labor market conditions. His remarks suggest a priority on curbing unemployment, as markets anticipate an end to interest rate hikes and the commencement of a rate-cutting cycle.
+
+The Jackson Hole symposium is a significant event for global policymakers and investors as it offers insights into the world economy's direction. The theme this year, "Reassessing the Effectiveness and Transmission of Monetary Policy,"  focuses on the role of monetary policy in managing inflation and economic growth, particularly in light of recent global shocks.
+
 Fri, 23 Aug 2024 21:39:31 +0000
 ### [Getting India into power play, Modi tries to bring Kyiv, Moscow to table](https://indianexpress.com/article/explained/getting-india-into-power-play-modi-tries-to-bring-kyiv-moscow-to-table-9530100/)
 
