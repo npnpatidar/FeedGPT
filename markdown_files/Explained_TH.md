@@ -1,3 +1,20 @@
+Sun, 25 Aug 2024 02:47:00 +0530
+### [To Lam | The security tsar](https://www.thehindu.com/news/international/to-lam-the-security-tsar/article68563449.ece)
+
+Vo Van Thuong, Vietnam's newly elected President, recently concluded a visit to China, his first international trip since assuming office. Thuong, who succeeded Nguyen Phu Trong, solidified his power domestically and prioritized strengthening ties with Vietnam's communist neighbor. He has been a member of the Communist Party of Vietnam's Politburo and served as Minister of Public Security, a position that granted him significant influence. Thuong's tenure has seen controversies, including a viral video of him enjoying an expensive meal abroad during a period of economic hardship. Human Rights Watch has expressed concern about his rise to power, citing alleged repression and hostility towards civil liberties. While in office, Thuong's security forces have been accused of abducting activists from other countries, raising questions about his commitment to human rights. Thuong will remain President until 2026.
+
+Sun, 25 Aug 2024 02:24:00 +0530
+### [Paetongtarn Shinawatra | Rise of the scion](https://www.thehindu.com/news/international/paetongtarn-shinawatra-rise-of-the-scion/article68563429.ece)
+
+Paetongtarn Shinawatra, at 38 years old, became Thailand's youngest and second female Prime Minister on August 18, 2023.  Following in the footsteps of her father, Thaksin, and aunt, Yingluck, both former Prime Ministers, Paetongtarn formally entered politics in 2021. Before politics, she was involved in her family's business ventures. Her path to Prime Minister included a  coalition government formation, the dismissal of the initial PTP nominee Srettha Thavisin, and a swift vote of confidence from the newly elected Senate.  Despite this, Paetongtarn faces numerous challenges, including a divided Parliament, a complex judiciary, and economic concerns, while also striving to establish her own legacy separate from her family's political history.
+
+Sun, 25 Aug 2024 02:07:00 +0530
+### [Women in Cinema Collective | The fight for a gender-balanced workplace](https://www.thehindu.com/news/national/women-in-cinema-collective-the-fight-for-a-gender-balanced-workplace/article68563412.ece)
+
+The Women in Cinema Collective (WCC) is a group formed in 2017 after an actress was allegedly assaulted in Kerala. The collective advocates for women's rights and safety in the Malayalam film industry.  A government report, released in 2024, confirmed the widespread issue of sexual exploitation and discrimination faced by women in the industry. 
+
+The WCC has faced criticism and backlash for their outspoken stance, with some members resigning from industry associations in protest. Despite challenges, they have achieved legal victories, including a ruling mandating Internal Complaints Committees in film production houses. The collective continues to work towards a safer and more equitable film industry, partnering with organizations and undertaking independent projects.
+
 Fri, 23 Aug 2024 16:54:29 +0530
 ### [Ladki Bahin : A look at cash transfer schemes for women in seven states](https://www.thehindu.com/news/national/ladki-bahin-a-look-at-womens-cash-transfer-scheme-in-seven-states/article68557741.ece)
 
