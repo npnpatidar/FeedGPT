@@ -1,3 +1,19 @@
+Sat, 24 Aug 2024 04:58:41 +0000
+### [India adds 3 new Ramsar sites: What are wetlands, why do they matter for the environment?](https://indianexpress.com/article/explained/india-adds-3-new-ramsar-sites-what-are-wetlands-why-do-they-matter-for-the-environment-9529938/)
+
+India has expanded its network of Ramsar sites, designated wetlands of international importance, to 85. The three newest additions are Nanjarayan Bird Sanctuary and Kazhuveli Bird Sanctuary in Tamil Nadu, and Tawa Reservoir in Madhya Pradesh. These sites were chosen based on criteria like supporting critical habitats for plant and animal species, providing refuge during adverse conditions, and contributing to water management and biodiversity. 
+
+Wetlands are crucial ecosystems that regulate climate conditions through carbon sequestration, purify water, and act as buffers against extreme weather events.  However, they face threats from human activities like encroachment, pollution, and urbanization. 
+
+India has implemented policies and initiatives to protect its wetlands, but ongoing efforts are needed to conserve these valuable resources.
+
+Sat, 24 Aug 2024 04:30:22 +0000
+### [Tanager-1: Why NASA has launched a satellite to track methane emissions](https://indianexpress.com/article/explained/explained-sci-tech/tanager-satellite-methane-emissions-9529992/)
+
+The Tanager-1 satellite, launched recently, is designed to track and measure methane and carbon dioxide emissions. Using imaging spectrometer technology, it can identify and quantify these emissions down to the level of individual facilities and equipment globally. 
+
+Researchers emphasize the importance of tracking methane emissions because it is a potent greenhouse gas, 80 times more warming than carbon dioxide over a 20-year period. Fossil fuel operations are a major source of methane, contributing to global warming and health issues like ground-level ozone formation. Tanager-1's data will help pinpoint emission sources and accelerate mitigation efforts.
+
 Sat, 24 Aug 2024 03:41:35 +0000
 ### [Mandatory reporting under POCSO Act: Why FIR has named Badlapur school under Section 21 of the law to protect children](https://indianexpress.com/article/explained/explained-law/mandatory-reporting-under-pocso-act-why-fir-has-named-badlapur-school-under-section-21-of-the-law-to-protect-children-9529825/)
 
