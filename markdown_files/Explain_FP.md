@@ -1,3 +1,9 @@
+Sat, 24 Aug 2024 16:26:13 +0530
+### [In a pickle: Why TikTok is being blamed for a cucumber shortage in Iceland](https://www.firstpost.com/explainers/tiktok-cucumber-trend-viral-iceland-shortage-13807842.html)
+
+A viral TikTok trend featuring cucumber salad recipes has led to a cucumber shortage in Iceland.  The trend, started by Canadian TikToker Logan Moffitt, has seen a surge in demand for cucumbers, surpassing the production capacity of Icelandic farmers.  As a result, major grocery chains like Kronan and Hagkaup have reported empty shelves and are scrambling to import cucumbers from the Netherlands.  
+The shortage comes at a challenging time as Icelandic cucumber farmers are in the process of replacing plants, and schools are placing increased bulk orders during the return from summer holidays.
+
 Sat, 24 Aug 2024 14:28:38 +0530
 ### [In Graphics | Can mpox spark a COVID-like outbreak?](https://www.firstpost.com/explainers/in-graphics-l-can-mpox-spark-a-covid-19-like-outbreak-13807819.html)
 

@@ -1,3 +1,12 @@
+Sat, 24 Aug 2024 17:36:18 +0530
+### [Japan: Where did Fumio Kishida go wrong?](https://www.firstpost.com/opinion/japan-where-did-fumio-kishida-go-wrong-13807924.html)
+
+Fumio Kishida, facing declining public support and internal party pressure, chose to step down as Prime Minister of Japan. Economic stagnation, despite his "New Capitalism" initiative, coupled with scandals within the Liberal Democratic Party (LDP), led to falling approval ratings.  
+
+Kishida's focus on foreign policy, particularly strengthening ties with the US amidst rising tensions with China, was seen by some as neglecting domestic concerns.  His attempts at digitalization and economic revitalization faced public resistance, and policies aimed at addressing inflation failed to gain traction.
+
+Shigeru Ishiba, a former defense minister, is among those vying to succeed Kishida, who is leaving office after a three-year term as LDP leader. The LDP seeks to present a united front and regain public trust  under new leadership ahead of upcoming general elections.
+
 Sat, 24 Aug 2024 15:24:15 +0530
 ### [How India-Japan 2+2 dialogue isn’t just about countering ‘China threat’](https://www.firstpost.com/opinion/how-india-japan-22-dialogue-isnt-just-about-countering-china-threat-13807880.html)
 

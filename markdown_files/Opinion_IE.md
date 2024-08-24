@@ -1,3 +1,19 @@
+Sat, 24 Aug 2024 11:51:00 +0000
+### [In Bangladesh press, a question: Should students be allowed to protest?](https://indianexpress.com/article/opinion/columns/bangladesh-press-question-should-students-allowed-protest-9530990/)
+
+A survey by Prothom Alo revealed strong public support for ending student politics in Bangladesh, attributed to frustration with the current system.  While some outlets see this sentiment as a sign of disillusionment, others view the student protests as a positive force for change, demonstrating youth activism and a renewed sense of hope for democracy. 
+
+Recent floods in eastern Bangladesh, affecting hundreds of thousands and causing casualties, have sparked debate about  India’s role. While India denies opening its Dumbur dam, contributing to the flooding, some Bangladeshi publications see it as a factor.  The focus, however, remains on relief efforts and helping those affected by the disaster.
+
+Sat, 24 Aug 2024 10:56:34 +0000
+### [After PM Modi’s historic visit to Ukraine, a question: Do Kyiv, the West really want India to play a role in mediating with Russia?](https://indianexpress.com/article/opinion/pm-modi-historic-visit-ukraine-question-kyviv-west-india-role-russia-9530985/)
+
+Prime Minister Modi's visit to Ukraine reflects India's intricate balancing act between its desire for peace and its strategic ties with Russia.  While affirming its commitment to international law and a peaceful resolution, India appears hesitant to adopt measures that would significantly antagonize Russia, such as halting oil imports.  
+
+This approach echoes India's stance during the Soviet-Afghan War, where the US pushed for India's influence on Russia but ultimately restricted India's role in shaping the post-withdrawal scenario.  
+
+The current situation presents a similar dilemma for India as the geopolitical landscape is shaped by competing interests between the US-led West and China-Russia alliance.  While PM Modi emphasizes dialogue and innovative solutions, Ukraine's expectations for a more assertive Indian role remain unclear.
+
 Sat, 24 Aug 2024 09:29:44 +0000
 ### [Express View on Modi-Zelenskyy meet: Momentous in Kyiv](https://indianexpress.com/article/opinion/editorials/express-view-modi-zelenskyy-momentous-kyiv-9530880/)
 

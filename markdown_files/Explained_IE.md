@@ -1,3 +1,8 @@
+Sat, 24 Aug 2024 10:40:51 +0000
+### [Why do doctors want a central law to protect themselves from attacks and violence?](https://indianexpress.com/article/explained/doctors-central-law-protect-violence-9530964/)
+
+Doctors in India have been protesting against violence, demanding a central law with stricter punishments. While a draft law was prepared in 2019, it was rejected by the Home Ministry. The government argues that existing state laws are sufficient and that systemic issues like security measures need to be addressed. Doctors point to the frequency of attacks and argue that the proposed central law would act as a stronger deterrent.  The 2019 draft law suggested prison sentences of up to five years and fines of up to Rs 5 lakh for violence against healthcare professionals.  Several private MPs have tried to introduce similar bills in recent years, but none have been passed.  Incidents of violence against doctors are widespread, with over 75% of medical professionals reporting some form of aggression.
+
 Sat, 24 Aug 2024 09:10:29 +0000
 ### [When Ukraine declared independence](https://indianexpress.com/article/explained/explained-history/when-ukraine-declared-independence-9530821/)
 
