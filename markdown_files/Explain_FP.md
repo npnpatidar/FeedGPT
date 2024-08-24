@@ -1,3 +1,12 @@
+Sat, 24 Aug 2024 12:26:20 +0530
+### ['A balancing act': How global media reported PM Modi's Ukraine visit](https://www.firstpost.com/explainers/a-balancing-act-how-global-media-reported-pm-modis-ukraine-visit-13807780.html)
+
+PM Modi's visit to Kyiv was the first by an Indian prime minister since diplomatic ties were established in 1992.  The visit garnered global media attention, with various outlets analyzing its potential implications for India's foreign policy and the war in Ukraine.  
+
+Some reports, like those from Reuters and the BBC, framed the visit as a "balancing act"  between India's relations with Russia and the West, while others, such as the New York Times, highlighted India's position as a voice of the "Global South" in the conflict.  The Chinese media outlet Global Times was critical, calling the visit a "symbolic gesture" unlikely to significantly advance peace talks.
+
+The Moscow Times pointed to India's continued trade with Russia during Western sanctions, while Al Jazeera suggested Modi's visit could help bolster India's image as a potential peacemaker.
+
 Sat, 24 Aug 2024 09:36:59 +0530
 ### [This Week in Explainers: What PM Modi achieved from his Ukraine trip](https://www.firstpost.com/explainers/this-week-in-explainers-pm-narendra-modi-ukraine-trip-13807695.html)
 

@@ -1,3 +1,10 @@
+Sat, 24 Aug 2024 06:54:55 +0000
+### [Kolkata rape case: From Pakistan to India, the same misogyny](https://indianexpress.com/article/opinion/columns/kolkata-rape-case-pakistan-india-same-misogyny-9530671/)
+
+A recent rape and murder of a trainee doctor in Kolkata has sparked outrage and protests in India and Pakistan, highlighting the pervasive issue of violence against women, particularly in the medical field.  Female doctors face a lack of safety measures and often experience harassment and intimidation from patients and their attendants.  
+
+Similar incidents have occurred in Pakistan,  leading to calls for better protection and an end to the misogynistic attitudes that contribute to these crimes.  Protests and online campaigns emphasize the need for a societal shift to create safe workplaces for women.  While laws exist against sexual assault, the problem persists due to societal norms, lack of reporting, and inadequate enforcement.  Addressing the root cause of this violence, the desire for power and control over women, is crucial to ensuring a future where women, including doctors, can work and live without fear.
+
 Sat, 24 Aug 2024 02:15:39 +0000
 ### [Why RBI’s attempts to control the Rupee can have adverse consequences](https://indianexpress.com/article/opinion/columns/why-rbis-attempts-to-control-the-rupee-can-have-adverse-consequences-9529975/)
 

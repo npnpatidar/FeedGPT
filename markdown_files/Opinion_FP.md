@@ -1,3 +1,10 @@
+Sat, 24 Aug 2024 12:24:29 +0530
+### [PM Modi’s Ukraine visit: Balancing diplomacy in a complex geopolitical landscape](https://www.firstpost.com/opinion/pm-modis-ukraine-visit-balancing-diplomacy-in-a-complex-geopolitical-landscape-13807808.html)
+
+PM Modi's recent visit to Ukraine, the first by an Indian prime minister since the country's independence, carried significant weight amidst the ongoing conflict.  India, while advocating for peace and diplomacy,  explored opportunities for strategic collaboration with Ukraine, particularly in defense manufacturing, which has been disrupted due to the war. 
+
+Discussions focused on  achieving a peaceful resolution, defense and economic cooperation, and India's role in Ukraine's post-war reconstruction. The visit aimed to strengthen ties with Ukraine, while also navigating the complex geopolitical landscape  marked by India's  relations with both Russia and the West.
+
 Fri, 23 Aug 2024 17:11:26 +0530
 ### [Why Hindus matter in American elections](https://www.firstpost.com/opinion/why-hindus-matter-in-american-elections-13807601.html)
 
