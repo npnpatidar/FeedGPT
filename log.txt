@@ -6941,3 +6941,10 @@ Started at 2024-08-24 16:12:34
 Finished at 2024-08-24 16:12:48
 Total time taken: 13.68731141090393 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-08-24 18:13:44
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-08-24 18:13:58
+Total time taken: 13.653964519500732 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

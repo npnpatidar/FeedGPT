@@ -1,3 +1,12 @@
+Sat, 24 Aug 2024 16:25:20 +0000
+### [Centre announces Unified Pension Scheme: How will UPS differ from OPS, NPS?](https://indianexpress.com/article/explained/centre-announced-unified-pension-scheme-how-will-ups-differ-from-ops-nps-9531351/)
+
+The Indian government has approved a new pension scheme called the Unified Pension Scheme (UPS) for its employees. This comes after widespread criticism of the New Pension Scheme (NPS), which was introduced in 2004 to replace the older, unfunded Old Pension Scheme (OPS).  The UPS, effective from April 1, 2025, provides a guaranteed pension amount to retirees, 50% of their average last 12 months' basic pay, with a minimum of Rs 10,000 per month for those with 10 years of service. It also includes inflation indexation and a lumpsum payment at retirement. 
+ 
+The implementation of the UPS is seen as a significant move ahead of upcoming assembly elections in several states. It is intended to address concerns raised by government employees regarding the lack of guaranteed returns under the NPS and the need for an unfunded pension scheme. 
+ 
+The UPS combines aspects of both OPS and NPS, offering a guaranteed pension while maintaining a contributory funded scheme structure.  It is expected to cost the exchequer around Rs 6,250 crores in its first year of implementation.
+
 Sat, 24 Aug 2024 10:40:51 +0000
 ### [Why do doctors want a central law to protect themselves from attacks and violence?](https://indianexpress.com/article/explained/doctors-central-law-protect-violence-9530964/)
 
