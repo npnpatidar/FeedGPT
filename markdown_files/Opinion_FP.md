@@ -1,3 +1,23 @@
+Sat, 24 Aug 2024 15:24:15 +0530
+### [How India-Japan 2+2 dialogue isn’t just about countering ‘China threat’](https://www.firstpost.com/opinion/how-india-japan-22-dialogue-isnt-just-about-countering-china-threat-13807880.html)
+
+The recent 2+2 ministerial dialogue between India and Japan highlighted the growing strategic convergence between the two nations.  Both countries share concerns over China's expansionist policies in the Indo-Pacific region, aligning with Japan's  "Free and Open Indo-Pacific (FOIP)" vision. 
+
+Defense cooperation has intensified, with Japan  considering removing bottlenecks for sharing advanced technology with India.  
+
+Economic ties are also strengthening, with Japan emerging as the largest development partner for India's northeast and Bangladesh. Projects like the Mumbai-Ahmedabad high-speed rail line and industrial corridors demonstrate Japanese commitment to India's development. 
+
+Despite challenges such as potential changes in Japanese leadership and a shift in Japan's stance towards China, both countries  find ample motivation for deeper cooperation, driven by India's emerging market and Japan's desire for technological and investment opportunities.
+
+Sat, 24 Aug 2024 14:16:36 +0530
+### [Ramification | Why Myanmar is not a walkover for China](https://www.firstpost.com/opinion/ramification-why-myanmar-is-not-a-walkover-for-china-13807856.html)
+
+Since the 2021 military coup in Myanmar, the country's situation has remained unstable, posing concerns for neighboring countries like India and China. China, particularly, is worried as its significant investments in Myanmar's infrastructure projects, intended to bypass the Strait of Malacca, are threatened by the junta's inability to control the situation. 
+
+The emergence of Operation 1027, led by ethnic armed organizations (EAOs) against the junta, reflects this growing tension. Though China strategically supported the initial operation, it has expressed reservations about a subsequent operation. Compounding the issue is the Tatmadaw's distrust of China and its alignment with Russia for a new deep-sea port, potentially undermining China's strategic ambitions. 
+
+While India shares concerns with China regarding Myanmar's instability, it maintains goodwill with various stakeholders, including the junta, the National Unity Government, and some EAOs. India’s approach prioritizes engagement with all parties and safeguarding its interests while providing humanitarian aid.
+
 Sat, 24 Aug 2024 12:24:29 +0530
 ### [PM Modi’s Ukraine visit: Balancing diplomacy in a complex geopolitical landscape](https://www.firstpost.com/opinion/pm-modis-ukraine-visit-balancing-diplomacy-in-a-complex-geopolitical-landscape-13807808.html)
 

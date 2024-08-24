@@ -1,3 +1,13 @@
+Sat, 24 Aug 2024 14:28:38 +0530
+### [In Graphics | Can mpox spark a COVID-like outbreak?](https://www.firstpost.com/explainers/in-graphics-l-can-mpox-spark-a-covid-19-like-outbreak-13807819.html)
+
+The World Health Organization has declared a global health emergency due to a surging mpox outbreak.  Originating in the Democratic Republic of Congo, the virus has claimed 450 lives and spread across Central and East Africa. The Clade 1B strain is now emerging in Europe and Southeast Asia, including countries like Sweden, Thailand, the Philippines, and Pakistan.  This follows a reported 99,176 cases and 208 deaths since 2022 across 116 countries. The WHO urges healthcare professionals to be aware of mpox symptoms, which may resemble those of COVID-19, but are fundamentally distinct viruses.
+
+Sat, 24 Aug 2024 14:17:46 +0530
+### [RG Kar rape case accused, six others undergoing 'lie detector' test, but is it admissible in court?](https://www.firstpost.com/india/rg-kar-rape-case-lie-detector-polygraph-test-accurate-or-not-13807852.html)
+
+Polygraph tests, or "lie detector" tests, are being conducted on the main suspect and six others in the rape and murder of a trainee doctor in West Bengal. The tests are being conducted by a team of polygraph specialists from the Central Forensic Science Laboratory in Delhi. The accuracy of polygraph tests is controversial, as physiological changes that they measure can be caused by factors other than deception. In India, polygraph test results are not admissible in court as confessions, but any evidence discovered as a result of the test can be used.
+
 Sat, 24 Aug 2024 12:26:20 +0530
 ### ['A balancing act': How global media reported PM Modi's Ukraine visit](https://www.firstpost.com/explainers/a-balancing-act-how-global-media-reported-pm-modis-ukraine-visit-13807780.html)
 

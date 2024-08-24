@@ -1,3 +1,10 @@
+Sat, 24 Aug 2024 09:29:44 +0000
+### [Express View on Modi-Zelenskyy meet: Momentous in Kyiv](https://indianexpress.com/article/opinion/editorials/express-view-modi-zelenskyy-momentous-kyiv-9530880/)
+
+Prime Minister Modi's visit to Kyiv marks a significant shift in India's foreign policy by rebalancing its relations with Russia and Ukraine.  India's previous avoidance of high-level engagement with post-Soviet Ukraine and Central European countries has ended, signalling a departure from past deference to Russia. Modi's visit to Kyiv signifies a correction to India's approach regarding the Russian invasion of Ukraine. Notably, India has spoken out against Russia's actions, emphasized its commitment to territorial sovereignty, and expressed empathy for the Ukrainian people.
+
+This rebalancing does not diminish India's relationship with Russia but rather elevates its engagement with Ukraine and Central Europe. India's reorientation is a clear indication that 21st-century realities will guide its European policies, moving away from 20th-century ideological constraints.
+
 Sat, 24 Aug 2024 06:54:55 +0000
 ### [Kolkata rape case: From Pakistan to India, the same misogyny](https://indianexpress.com/article/opinion/columns/kolkata-rape-case-pakistan-india-same-misogyny-9530671/)
 

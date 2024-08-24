@@ -1,3 +1,19 @@
+Sat, 24 Aug 2024 09:10:29 +0000
+### [When Ukraine declared independence](https://indianexpress.com/article/explained/explained-history/when-ukraine-declared-independence-9530821/)
+
+On August 24, 1991, Ukrainian Parliament declared the country's independence from Moscow. This pivotal moment was spearheaded by democratic forces, with Mykola Porovskyi playing a key role as a leader of the People’s Movement party. 
+
+The declaration followed a failed coup in Moscow and was initiated by the democratic opposition's faction, the "People's Council." Despite initial resistance from the communist majority, Porovskyi and his colleagues convinced them with promises of protection and recognition of their past work. 
+
+Thousands of Ukrainians celebrated the declaration, carrying a blue and yellow flag into the Parliament building, symbolizing the nation's new-found freedom.  Porovskyi  highlights the unity and courage of the people in the face of a powerful Soviet military presence, emphasizing their unwavering belief in a better future for Ukraine.
+
+Sat, 24 Aug 2024 08:25:49 +0000
+### [Remembering Ray Bradbury’s Fahrenheit 451: why his pioneering critique of censorship remains relevant today](https://indianexpress.com/article/explained/explained-culture/ray-bradburys-fahrenheit-451-censorship-9530771/)
+
+Ray Bradbury's Fahrenheit 451, a dystopian novel about a society where books are banned, remains relevant today as censorship persists. The story follows Guy Montag, a fireman tasked with burning books, as he begins to question his role and the society he lives in. Bradbury's work critiques the dangers of mass conformity and the suppression of free thought. 
+
+Throughout history, book burnings and censorship have been used by regimes to control information and silence dissent. From the Nazi book burnings of the 1930s to contemporary instances of banning books in schools and libraries, the threat to freedom of expression continues.  Bradbury's novel serves as a warning against the dangers of intellectual suppression and the importance of safeguarding the right to read and think critically.
+
 Sat, 24 Aug 2024 04:58:41 +0000
 ### [India adds 3 new Ramsar sites: What are wetlands, why do they matter for the environment?](https://indianexpress.com/article/explained/india-adds-3-new-ramsar-sites-what-are-wetlands-why-do-they-matter-for-the-environment-9529938/)
 
