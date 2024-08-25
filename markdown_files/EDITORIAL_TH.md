@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 00:20:00 +0530
+### [Middle path: on the Unified Pension Scheme](https://www.thehindu.com/opinion/editorial/middle-path-on-the-unified-pension-scheme/article68565757.ece)
+
+The Indian government has reinstated a guaranteed pension scheme for its employees, partially addressing their demands and attempting to reconcile this with fiscal prudence. This move comes amidst a global pension crisis, driven by demographic shifts and other factors. The government argues that pension costs are a burden on future generations and contributes to its efforts to downsize and cut costs through measures like contract work and modified recruitment schemes. The restoration of the pension scheme, however, was a political necessity for the ruling BJP amidst pressure from the opposition Congress. The new Unified Pension Scheme offers a pension of 50% of the average salary in the employee's last year of service, with a minimum of ₹10,000 for those with at least 10 years of service.
+
+Mon, 26 Aug 2024 00:10:00 +0530
+### [Catalyst for change: on the Hema Committee report and Malayalam film industry](https://www.thehindu.com/opinion/editorial/catalyst-for-change-on-the-hema-committee-report-and-malayalam-film-industry/article68565778.ece)
+
+The Justice K. Hema Committee report on the issues faced by women in Malayalam cinema has shed light on the pervasiveness of discrimination, exploitation, and sexual harassment.  The report points out the normalization of "casting couch" culture, where sexual favors are often demanded in exchange for roles, making the industry inherently exploitative. 
+
+Other inequities highlighted include lack of basic facilities, pay disparity, and the absence of binding contracts.  The report calls for structural reforms, including the professionalization of the industry and the provision of adequate facilities for women.  The government is expected to take action on the report's recommendations, ensuring a safer and more equitable work environment for women in cinema.
+
 Sat, 24 Aug 2024 00:20:00 +0530
 ### [Not taking sides: On Prime Minister Modi’s Ukraine visit](https://www.thehindu.com/opinion/editorial/not-taking-sides-on-the-prime-ministers-ukraine-visit/article68559349.ece)
 
