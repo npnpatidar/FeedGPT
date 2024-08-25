@@ -1,3 +1,13 @@
+Sat, 24 Aug 2024 22:35:23 +0000
+### [In UPS, extra burden, but no pushing back of the reform needle](https://indianexpress.com/article/explained/in-ups-extra-burden-but-no-pushing-back-of-the-reform-needle-9531518/)
+
+The Union Government has introduced a new Unified Pension Scheme (UPS) to address concerns among employees regarding lower pensions under the existing National Pension System. The UPS combines elements of both the old pension scheme (OPS) and NPS, offering an assured pension while maintaining a contributory, funded scheme structure.
+
+Key features of the UPS include a minimum guaranteed pension, inflation indexation, family pension benefits, and an increased government contribution to 18.5% of the basic pay. The government anticipates increased expenditure, including arrears for retired employees, due to these enhancements. 
+
+
+The move is seen as a political response to employee grievances and may influence state governments to adopt the UPS, potentially increasing their financial burden. Despite concerns raised by the Reserve Bank of India about the strain OPS can put on state finances, the government emphasizes the UPS as a fiscally prudent alternative.
+
 Sat, 24 Aug 2024 16:25:20 +0000
 ### [Centre announces Unified Pension Scheme: How will UPS differ from OPS, NPS?](https://indianexpress.com/article/explained/centre-announced-unified-pension-scheme-how-will-ups-differ-from-ops-nps-9531351/)
 
