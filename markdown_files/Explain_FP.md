@@ -1,3 +1,8 @@
+Sun, 25 Aug 2024 09:31:34 +0530
+### [This Week in Explainers: Why did the superyacht Bayesian sink off the coast of Italy?](https://www.firstpost.com/explainers/this-week-in-explainers-why-did-the-superyacht-bayesian-sink-off-the-coast-of-italy-13807547.html)
+
+A large sailing superyacht named the Bayesian sank off the coast of Sicily, resulting in the deaths of seven people, including UK tech entrepreneur Mike Lynch. The Democratic National Convention took place in Chicago, with Kamala Harris accepting the Democratic nomination for Vice President.  In Bangladesh, the newly formed interim government led by Muhammad Yunus revoked the diplomatic passport of former Prime Minister Sheikh Hasina. Controversy arose when Donald Trump tweeted AI-generated images suggesting Taylor Swift's endorsement, leading to potential legal repercussions. Bavarian Nordic, a Danish biotech firm, assured that there are enough mpox vaccines available as cases rise globally, contributing to the company's financial success.  Starbucks' new CEO, Brian Niccol, will reportedly make a 1,600 km weekly trek from his California home to the company's Seattle headquarters, utilizing a company jet.
+
 Sat, 24 Aug 2024 16:26:13 +0530
 ### [In a pickle: Why TikTok is being blamed for a cucumber shortage in Iceland](https://www.firstpost.com/explainers/tiktok-cucumber-trend-viral-iceland-shortage-13807842.html)
 
