@@ -1,3 +1,12 @@
+Sun, 25 Aug 2024 18:50:40 +0530
+### [Food vs core inflation: No, governor Das doesn’t need a new handbook for RBI’s interest rate policy](https://www.livemint.com/opinion/online-views/food-inflation-core-inflation-interest-rates-inflation-targeting-framework-rbi-governor-shaktikanta-das-11724588211814.html)
+
+There's ongoing debate about the Reserve Bank of India’s (RBI) inflation targeting policy, with some arguing that food inflation should be excluded. The Economic Survey suggested this approach, and former chief statistician TCA Anant endorsed it, believing it could hinder economic recovery. However, the RBI emphasizes the need for a durable approach to inflation, as food price shocks can spill over into general inflation. 
+
+The RBI emphasizes its commitment to aligning inflation with the 4% target sustainably.  The central bank considers forward forecasts and needs to see consistent CPI within the target range before making rate adjustments. 
+
+Criticism from New Delhi may stem from industrial desires for lower interest rates to stimulate investment. However, the RBI argues that reduced interest rates alone may not solve underlying issues like policy uncertainty and weak consumption demand.
+
 Sun, 25 Aug 2024 16:35:14 +0530
 ### [Suspense grows over the next leg of financial reforms](https://www.livemint.com/opinion/online-views/corporate-bond-market-sebi-rbi-financial-reforms-banking-sector-private-equity-funds-regulators-policy-11724575594249.html)
 

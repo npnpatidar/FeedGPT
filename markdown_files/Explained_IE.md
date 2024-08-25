@@ -1,3 +1,12 @@
+Sun, 25 Aug 2024 13:40:46 +0000
+### [Badlapur sexual abuse case: Can political parties exercise their right to protest to call for a bandh?](https://indianexpress.com/article/explained/explained-law/explained-badlapur-case-right-to-protest-bandh-9532741/)
+
+The Bombay High Court revoked the Maha Vikas Aghadi (MVA) alliance's call for a state-wide 'bandh' in Maharashtra to protest sexual assault allegations against minors in Badlapur. The court cited the potential crippling impact on the economy, public services, and emergency services, particularly the vital Mumbai local trains. 
+
+The High Court emphasized that bandhs, by their very nature, aim to bring all activities to a standstill, disrupting the rights of individuals and businesses. It relied on past Supreme Court and High Court rulings that deem bandhs unconstitutional and illegal, prioritizing the public order over the right to call for a state-wide shutdown.  
+
+Despite arguments from legal experts that the right to call for a bandh falls under the ambit of freedom of speech and expression, the High Court maintained its stance, arguing that maintaining public order and upholding individual rights takes precedence.
+
 Sun, 25 Aug 2024 11:48:20 +0000
 ### [What is Hezbollah and what do we know about its military capabilities?](https://indianexpress.com/article/explained/everyday-explainers/hezbollah-israel-military-capabilities-rockets-9532446/)
 
