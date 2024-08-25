@@ -1,3 +1,19 @@
+Sun, 25 Aug 2024 11:48:20 +0000
+### [What is Hezbollah and what do we know about its military capabilities?](https://indianexpress.com/article/explained/everyday-explainers/hezbollah-israel-military-capabilities-rockets-9532446/)
+
+There was  recent exchange of fire between the Israel Defence Forces (IDF) and Hezbollah. The attack, which involved hundreds of rockets and drones launched by Hezbollah, was in retaliation for the killing of a senior Hezbollah commander by Israel in July.  Hezbollah indicated they are not planning further strikes and Israel stated they do not seek a full-scale war. Hezbollah, meaning 'Party of God', is a heavily armed non-state actor  and considers itself the champion of the Palestinian cause, opposing both Israel and Western influence in the Middle East. 
+
+The group's arsenal includes a vast number of rockets, some with precision guidance systems, as well as anti-tank missiles and unmanned aerial vehicles. Hezbollah gained prominence during the Lebanese Civil War, supported by Iran, and has played a significant role in Lebanese politics, presently holding seats in Parliament and forming part of the ruling government.
+
+Sun, 25 Aug 2024 10:14:36 +0000
+### [Luxury yacht sinks off Sicily: what questions must investigators answer?](https://indianexpress.com/article/explained/explained-global/luxury-yacht-sinking-investigators-questions-9532286/)
+
+The  $40 million sailing yacht Bayesian sank tragically off the coast of Sicily, resulting in seven deaths, including British billionaire Michael Lynch and his teenage daughter. 
+
+The sinking occurred during a sudden and violent storm, although its exact nature remains unclear. Some speculate it could have been a downburst or waterspout. While the yacht's maker claims the vessel was "unsinkable,"  authorities are investigating potential factors like open hatches or doors allowing water to enter, contributing to the rapid sinking.  
+
+A manslaughter investigation is underway, focusing on potential responsibilities of the captain, crew, manufacturer, and those monitoring the yacht.  Italian authorities are also examining emergency procedures and the captain's decision to leave the sinking vessel while passengers were still on board.
+
 Sun, 25 Aug 2024 02:30:37 +0000
 ### [Chile’s Atacama salt flat sinking due to lithium mining: What a new study says](https://indianexpress.com/article/explained/explained-global/chiles-atacama-lithium-mining-9531288/)
 

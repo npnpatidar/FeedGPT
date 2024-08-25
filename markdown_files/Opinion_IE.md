@@ -1,3 +1,12 @@
+Sun, 25 Aug 2024 10:30:16 +0000
+### [Kolkata rape-murder: When a chief minister’s protest becomes a symbol of state abdication](https://indianexpress.com/article/opinion/columns/kolkata-rape-murder-chief-minister-protest-state-abdication-9532140/)
+
+The rape and murder of a postgraduate trainee doctor in Kolkata has sparked widespread protests and ignited a national debate on safety and security, particularly for women. 
+
+The incident has drawn parallels to the 2012 Delhi rape case, highlighting a disturbing trend of violence against women. Political leaders, from differing parties, have expressed concern and called for stronger action against perpetrators. 
+
+A historical figure, Dr Radha Gobinda Kar, whose  hospital the victim worked at, is also being invoked in this context, as his dedication to healthcare resonates with the protesters' demand for a better and safer Bengal. Public anger over the crime stems from a perceived breakdown in law and order and a sense that the state has failed to protect its citizens.  The protests reflect a collective yearning for change, better governance, and a society where women can live without fear.
+
 Sun, 25 Aug 2024 07:42:37 +0000
 ### [Truth about women’s abuse in Malayalam cinema is out. Does anyone really care?](https://indianexpress.com/article/opinion/columns/women-abuse-malayalam-cinema-justice-hema-committee-report-9532112/)
 

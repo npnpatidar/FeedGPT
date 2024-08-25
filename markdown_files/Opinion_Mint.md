@@ -1,3 +1,26 @@
+Sun, 25 Aug 2024 16:35:14 +0530
+### [Suspense grows over the next leg of financial reforms](https://www.livemint.com/opinion/online-views/corporate-bond-market-sebi-rbi-financial-reforms-banking-sector-private-equity-funds-regulators-policy-11724575594249.html)
+
+The Indian financial sector has come a long way since the establishment of its first banks centuries ago.  Despite significant progress, the sector needs further reforms to achieve its full potential.  
+
+The author highlights two key areas requiring attention: the development of a robust corporate bond market and addressing regulatory arbitrage. A flourishing corporate bond market is crucial for attracting private sector investment and reducing reliance on banks. Currently, the market is limited by factors like poor recovery rates and the dominance of government bonds.
+
+The second concern is regulatory arbitrage, where market participants exploit gaps between regulations to gain advantages.  This can destabilize the financial system and requires stronger inter-regulatory coordination, which is hampered by the secrecy surrounding the Financial Stability and Development Council's proceedings.
+
+
+The article concludes by emphasizing the need for a comprehensive vision and strategy to guide the financial sector's future growth and stability.
+
+Sun, 25 Aug 2024 16:05:13 +0530
+### [Powell ignored the elephant in the Fed’s Jackson Hole lodge](https://www.livemint.com/opinion/online-views/jerome-powell-monetary-policy-jackson-hole-us-federal-reserve-interest-rate-cut-borrowing-costs-neutral-rate-11724575399964.html)
+
+Federal Reserve Chair Jerome Powell signaled that interest rate cuts are imminent, creating a market rally. Powell emphasized  concerns over labor market risks while stating that inflation risks have diminished.
+
+This suggests a series of interest rate reductions. While the market anticipates about 2.25 percentage points of easing, Powell's speech might trigger a shift in expectations regarding the long-run neutral interest rate, known as r-star.
+
+This rate represents the level that neither stimulates nor restricts economic activity.  Although market expectations for r-star increased recently, some experts believe it may retreat. With bond yields already reflecting a neutral rate around 3.1%, further declines might be limited.  
+
+Powell acknowledges the uncertainty surrounding r-star but states that the Fed will proceed cautiously. He believes anchoring inflation expectations will ease the process. Despite potential changes in understanding of r-star, achieving a definitive conclusion could take years.
+
 Sun, 25 Aug 2024 15:35:12 +0530
 ### [Don't just upgrade products, invent new use cases for technology](https://www.livemint.com/opinion/online-views/emerging-technology-ai-innovation-business-models-fintech-grubhub-cross-border-payments-product-development-11724575272788.html)
 

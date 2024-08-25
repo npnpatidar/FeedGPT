@@ -1,3 +1,12 @@
+Sun, 25 Aug 2024 16:03:36 +0530
+### [How radicalism in Bangladesh threatens India’s ‘Chicken Neck’](https://www.firstpost.com/opinion/how-radicalism-in-bangladesh-threatens-indias-chicken-neck-13808083.html)
+
+The recent ousting of Bangladesh Prime Minister Sheikh Hasina has created a serious geopolitical problem for India.  Under Hasina's leadership, Bangladesh was a stable ally and a safe haven for its minorities, particularly Hindus. The current situation, seemingly spurred by fabricated student protests, is highly suspicious as it aligns with historical patterns of Pakistan destabilizing regions due to its intolerance of secularism.
+
+The turmoil in Bangladesh has unleashed violence against minorities, a disturbing echo of the atrocities committed during the Bangladesh Liberation War in 1971. It is now feared that Pakistan's influence, possibly through the ISI and Jamaat-e-Islami, is gaining ground in Bangladesh, threatening India's northeastern border.  
+
+This new development could force India to confront not one, but two hostile neighbors, potentially opening a new front of instability and cross-border terrorism.  With the strategically vital Siliguri Corridor at risk, India must strengthen its defenses and diplomatic efforts to counter this emerging threat.
+
 Sun, 25 Aug 2024 14:43:36 +0530
 ### [How Israel-Iran war can ruin peace chances for Gaza, destabilise Middle East](https://www.firstpost.com/opinion/how-israel-iran-war-can-ruin-peace-chances-for-gaza-destabilise-middle-east-13808072.html)
 

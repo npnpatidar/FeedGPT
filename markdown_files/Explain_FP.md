@@ -1,3 +1,10 @@
+Sun, 25 Aug 2024 16:03:57 +0530
+### [A quiet movement: What’s the ‘hushed hybrid’ trend at workplaces?](https://www.firstpost.com/explainers/a-quiet-movement-whats-the-hushed-hybrid-trend-at-workplaces-13806894.html)
+
+The "hushed hybrid" trend sees managers quietly allowing employees to work remotely despite return-to-office mandates.  This arises from employee preference for flexibility,  with research indicating benefits like improved productivity and lower quit rates. 
+
+However, this practice can create a two-tier workforce, breed resentment, and erode trust in leadership. It can also lead to cultural inconsistencies and conflict.  Companies are urged to clearly communicate flexible work policies, understand employee needs, and adopt a transparent approach to hybrid work that considers individual team requirements.
+
 Sun, 25 Aug 2024 14:02:09 +0530
 ### [Explained: The health insights your nose can provide](https://www.firstpost.com/health/explained-the-health-insights-your-nose-can-provide-13806544.html)
 
