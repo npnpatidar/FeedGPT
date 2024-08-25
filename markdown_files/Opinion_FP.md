@@ -1,3 +1,10 @@
+Sun, 25 Aug 2024 14:43:36 +0530
+### [How Israel-Iran war can ruin peace chances for Gaza, destabilise Middle East](https://www.firstpost.com/opinion/how-israel-iran-war-can-ruin-peace-chances-for-gaza-destabilise-middle-east-13808072.html)
+
+The assassination of Hamas and Hezbollah leaders has heightened tensions between Iran and Israel, raising fears of a regional war. Iran has vowed retaliation, leaving the world to speculate on the form it will take. This escalating conflict has significant global implications, potentially disrupting oil supplies, triggering an economic crisis, and fueling a nuclear arms race in the Middle East. 
+
+India, heavily reliant on the Gulf region for energy, has a vested interest in de-escalation and regional stability. Potential disruptions to trade routes and the safety of Indian citizens in the region pose serious challenges. India's diplomacy and its strong ties with both Iran and Israel could play a crucial role in mediating the conflict and preventing further bloodshed.
+
 Sun, 25 Aug 2024 13:28:28 +0530
 ### [Rajnath Singh’s US visit: Indo-American defence ties on the upswing](https://www.firstpost.com/opinion/rajnath-singhs-us-visit-indo-american-defence-ties-on-the-upswing-13808044.html)
 

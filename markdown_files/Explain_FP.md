@@ -1,3 +1,8 @@
+Sun, 25 Aug 2024 14:02:09 +0530
+### [Explained: The health insights your nose can provide](https://www.firstpost.com/health/explained-the-health-insights-your-nose-can-provide-13806544.html)
+
+The human brain often filters out the nose from our visual field. However, examining the nose, like other body parts, can reveal skin conditions and internal diseases. Acne vulgaris and rosacea are common skin conditions affecting the nose, with rosacea sometimes leading to rhinophyma, thickening of the nose skin. Sarcoidosis, causing lupus pernio, can also affect the nose, while lupus pernio is a skin rash associated with lupus, an autoimmune disease. Trigeminal trophic syndrome, a rare condition damaging the facial nerve, can cause nose skin sensation changes.
+
 Sun, 25 Aug 2024 09:31:34 +0530
 ### [This Week in Explainers: Why did the superyacht Bayesian sink off the coast of Italy?](https://www.firstpost.com/explainers/this-week-in-explainers-why-did-the-superyacht-bayesian-sink-off-the-coast-of-italy-13807547.html)
 
