@@ -1,3 +1,14 @@
+Sun, 25 Aug 2024 13:28:28 +0530
+### [Rajnath Singh’s US visit: Indo-American defence ties on the upswing](https://www.firstpost.com/opinion/rajnath-singhs-us-visit-indo-american-defence-ties-on-the-upswing-13808044.html)
+
+Recent developments have strengthened the strategic partnership between India and the US, particularly in the defense sector. The signing of the Security of Supplies Agreement (SOSA) will facilitate closer defense industry cooperation, while the Reciprocal Defence Procurement Agreement (RDP) is expected to follow, promoting joint production and sourcing. A Memorandum of Understanding (MoU) for liaison officers will also bolster defense ties.
+
+These agreements build upon existing collaboration, including the General Security of Military Information Agreement (GSOMIA), Logistics Exchange Memorandum of Agreement (LEMOA), Communications Compatibility and Security Agreement (COMCASA), and Basic Exchange and Cooperation Agreement (BECA), which have enhanced intelligence sharing, logistics support, communications, and geospatial intelligence access, respectively.  
+
+The US has designated India as a Strategic Trade Authorisation-1 (STA-1) country, enabling India to acquire advanced technologies. The US-India Business Council (USIBC) and the India-US Defence Policy Group (DPG) facilitate dialogues and strengthen collaborations between the two nations.  
+
+This deepening partnership enhances joint security interests in the Indo-Pacific region and reflects the growing convergence of strategic goals between the two democracies.
+
 Sun, 25 Aug 2024 11:30:10 +0530
 ### [PM Modi’s Ukraine visit: Key takeaways for India](https://www.firstpost.com/opinion/pm-modis-ukraine-visit-key-takeaways-for-india-13808031.html)
 

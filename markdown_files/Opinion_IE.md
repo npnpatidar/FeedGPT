@@ -1,3 +1,10 @@
+Sun, 25 Aug 2024 07:42:37 +0000
+### [Truth about women’s abuse in Malayalam cinema is out. Does anyone really care?](https://indianexpress.com/article/opinion/columns/women-abuse-malayalam-cinema-justice-hema-committee-report-9532112/)
+
+The Hema Committee report, examining workplace issues for women in the Malayalam film industry, exposed  serious sexual harassment and widespread exploitation. However, the response to the report has been marred by apathy, sensationalism, and a focus on individual experiences rather than systemic issues. 
+
+There is a tendency to deflect responsibility and cast doubt on the validity of women's experiences, while simultaneously suggesting they should pursue legal action despite the challenges involved. The report's damning findings highlight the need for concrete action, not mere lip service. The Kerala government, lauded for its initial steps towards gender inclusion, now faces a critical juncture: will it succumb to apathy or demonstrate the political will to implement meaningful change?
+
 Sun, 25 Aug 2024 01:45:38 +0000
 ### [The myth of the A-team](https://indianexpress.com/article/opinion/columns/the-myth-of-the-a-team-9531429/)
 
