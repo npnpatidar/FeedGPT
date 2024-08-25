@@ -1,3 +1,10 @@
+Sun, 25 Aug 2024 15:25:11 +0000
+### [Vandita Mishra writes | In America and in India: The neighbour test](https://indianexpress.com/article/opinion/columns/us-elections-kamala-harris-india-9532900/)
+
+The article discusses the challenges faced by Kamala Harris in her bid for US presidency, highlighting the need for political leaders to bridge divides and connect with those who hold opposing views. 
+
+Drawing parallels with the political climate in India, the article emphasizes the importance of empathy and understanding in fostering a sense of community. It criticizes both US and Indian political leaders for stoking division and failing to bridge the gap between supporters and opponents.  The author urges leaders to prioritize respectful dialogue and engagement with those who hold different perspectives, calling it a crucial test for any democracy.
+
 Sun, 25 Aug 2024 10:30:16 +0000
 ### [Kolkata rape-murder: When a chief minister’s protest becomes a symbol of state abdication](https://indianexpress.com/article/opinion/columns/kolkata-rape-murder-chief-minister-protest-state-abdication-9532140/)
 

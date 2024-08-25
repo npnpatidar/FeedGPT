@@ -1,3 +1,19 @@
+Sun, 25 Aug 2024 15:55:29 +0000
+### [What was the Great Moon Hoax, which claimed winged humans lived on the Moon?](https://indianexpress.com/article/explained/explained-history/great-moon-hoax-9532908/)
+
+In 1835, The New York Sun published a series of articles reporting on supposed astronomical discoveries made by Sir John Herschel, including the existence of life on the moon. The articles, filled with fantastical descriptions of  bison, beavers, single-horned goats, and even bat-winged humans, fooled many readers. 
+
+The hoax, orchestrated by publisher Richard Adam Locke, aimed to satirize the trend of religion influencing scientific discoveries. The articles gained widespread attention and even praise from some publications, until The Sun finally confessed to the deception.  Despite the revelation,  The Sun's readership continued to grow.  The incident highlighted the public's gullibility and the powerful influence of the press at a time when reliable information was scarce.
+
+Sun, 25 Aug 2024 14:50:52 +0000
+### [All about Singapore’s $2.3 billion money laundering scandal, in which Chinese nationals have been arrested](https://indianexpress.com/article/explained/explained-global/explained-singapores-money-laundering-scandal-chinese-arrests-9532844/)
+
+Following a money laundering scandal involving S$3 billion, Singapore authorities arrested two former bank relationship managers, accusing them of aiding wealthy foreign clients in laundering money through real estate and cryptocurrencies. Ten individuals of Chinese origin were initially arrested in the case, with investigations revealing connections to illegal online gambling and unlicensed lending operations. 
+
+Seizures included properties, vehicles, cash, and assets. Major banks, property agents, and precious metal traders have been implicated, highlighting challenges for Singapore in balancing attracting investment with maintaining transparency. 
+
+The scandal has impacted Singapore's reputation, further compounded by recent political scandals involving corruption allegations and alleged misuse of state-owned assets.
+
 Sun, 25 Aug 2024 13:40:46 +0000
 ### [Badlapur sexual abuse case: Can political parties exercise their right to protest to call for a bandh?](https://indianexpress.com/article/explained/explained-law/explained-badlapur-case-right-to-protest-bandh-9532741/)
 
