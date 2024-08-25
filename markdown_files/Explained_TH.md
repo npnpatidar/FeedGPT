@@ -1,3 +1,12 @@
+Sun, 25 Aug 2024 22:41:11 +0530
+### [On West Bengal’s civic police volunteers | Explained](https://www.thehindu.com/news/national/on-west-bengals-civic-police-volunteers-explained/article68566602.ece)
+
+This article explores the recent rape and murder of a doctor at Kolkata's R.G. Kar Medical College and Hospital and the involvement of the accused, a civic police volunteer. 
+
+The article details the role of civic police volunteers in West Bengal, their recruitment process and the issues surrounding their authority and deployment. It highlights concerns raised by the Calcutta High Court regarding the legitimacy of the civic police volunteer program and instances where they have been engaged in law and order duties despite court directives.
+
+The article further discusses allegations that civic police volunteers have acted as an extension of the ruling Trinamool Congress party, leading to concerns about their accountability and potential for abuse. It cites cases of alleged excesses committed by civic police volunteers, including the R.G. Kar case and the death of student leader Anish Khan.
+
 Sun, 25 Aug 2024 04:32:00 +0530
 ### [Will Malayalam film industry report lead to changes?](https://www.thehindu.com/news/national/kerala/will-malayalam-film-industry-report-lead-to-changes/article68562114.ece)
 
