@@ -1,3 +1,10 @@
+Sun, 25 Aug 2024 11:30:10 +0530
+### [PM Modi’s Ukraine visit: Key takeaways for India](https://www.firstpost.com/opinion/pm-modis-ukraine-visit-key-takeaways-for-india-13808031.html)
+
+Prime Minister Modi's visits to Russia and Ukraine demonstrated India's commitment to peace and its pursuit of independent foreign policy. India has consistently called for dialogue and a peaceful resolution to the conflict, as evidenced by Modi's statements to Putin emphasizing the inappropriateness of war in the current era. While India has abstained from resolutions supporting either side and provided humanitarian assistance to Ukraine, it has also increased its imports of Russian oil and gas, a move criticized by the West.  
+
+ India's role in potential peace efforts is significant, as it is a leading voice of the Global South and has been invited by Ukraine to host a peace summit.  However, the success of such initiatives hinges on the willingness of both Russia and Ukraine to engage in meaningful dialogue and compromise.
+
 Sat, 24 Aug 2024 17:36:18 +0530
 ### [Japan: Where did Fumio Kishida go wrong?](https://www.firstpost.com/opinion/japan-where-did-fumio-kishida-go-wrong-13807924.html)
 
