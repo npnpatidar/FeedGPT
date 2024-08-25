@@ -1,3 +1,36 @@
+Sun, 25 Aug 2024 01:45:38 +0000
+### [The myth of the A-team](https://indianexpress.com/article/opinion/columns/the-myth-of-the-a-team-9531429/)
+
+Reed Hastings, co-founder of Netflix, advocates for a highly competitive work environment based on his "Keeper Test," where employees are constantly evaluated and those deemed unworthy are swiftly let go.  This approach, while fostering freedom for high performers, creates a climate of fear and anxiety.  The system is compared to a sports team with players constantly vying for their position, and critics argue it reflects a primal "survival of the fittest" mentality within the modern workplace. Hastings' ideology, while successful for Netflix, raises concerns about the long-term impact on employee well-being and the sustainability of a workplace built on constant pressure and elimination.
+
+Sun, 25 Aug 2024 01:40:01 +0000
+### [50 years ago, a nurse was attacked in a Mumbai hospital. What changed, what didn’t](https://indianexpress.com/article/opinion/columns/50-years-ago-a-nurse-was-attacked-in-a-mumbai-hospital-what-changed-what-didnt-9531412/)
+
+In 1973, nurse Aruna Shanbaug was sexually assaulted and left in a vegetative state by a colleague at King Edward Memorial Hospital in Mumbai. The attacker, a contract sweeper, was convicted of attempted murder and robbery, but not sexual assault. 
+
+Aruna lived in a hospital ward for 42 years until her death in 2015.  Her case highlighted the vulnerability of women health workers and sparked discussion about passive euthanasia.  
+
+Despite Aruna's case and other incidents of violence against women in healthcare settings, concerns surrounding safety and security for women in healthcare remain largely unaddressed.
+
+Sun, 25 Aug 2024 01:38:33 +0000
+### [Inside Track by Coomi Kapoor: Family Friction](https://indianexpress.com/article/opinion/columns/coomi-kapoor-family-friction-9531427/)
+
+A recent rape and murder at a medical college in Kolkata has exposed a rift between West Bengal Chief Minister Mamata Banerjee and her nephew, Abhishek Banerjee. While Abhishek demands harsh punishment for the accused, Mamata faced criticism for her handling of the case, including alleged attempts to protect a tainted former principal. Tensions within the ruling Trinamool Congress party have heightened following the incident.  In unrelated news, the ousting of former Bangladeshi Prime Minister Sheikh Hasina from power has led to India hosting her in a state of limbo. Seeking asylum, Hasina is currently stuck in India as the UK has delayed its response to her request. This situation has sparked concerns about the potential for political instability in the region, especially in West Bengal.
+
+Sun, 25 Aug 2024 01:35:09 +0000
+### [Tavleen Singh writes: Rape as a political weapon](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-rape-as-a-political-weapon-9531411/)
+
+The article criticizes the Indian political establishment for its inadequate response to the rampant issue of rape in the country. It argues that politicians' insistence on not "politicizing" these crimes reveals their lack of empathy and genuine commitment to addressing the root causes of sexual violence. The author highlights instances where certain rapes garner political attention while others are ignored, depending on their sensitivity to ruling parties. The article further condemns the freeing of convicts in the Bilkis Bano case and the RSS chief's dismissive remarks regarding the prevalence of rape in India. It emphasizes the need for the media to shed light on every case and calls upon political leaders to prioritize justice and safety for women by enforcing existing laws and preventing further victimization.
+
+Sun, 25 Aug 2024 01:30:55 +0000
+### [P Chidambaram writes: Vision or division](https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-vision-or-division-9531409/)
+
+Prime Minister Narendra Modi's 11th consecutive Independence Day speech, his longest yet,  focused on India's progress but also drew criticism for targeting a segment of the population. Modi labeled those who oppose the nation's development as having a "perverse mindset," raising concerns about his tone vis-a-vis democratic dissent. 
+
+The speech also reiterated support for the Uniform Civil Code (UCC) and One Nation, One Election (ONOE), sparking debate. The PM characterized existing personal law codes as "communal," a statement seen by some as biased and lacking understanding of the nuances involved.  He called for a "secular civil code,"  a goal that requires extensive consultations and careful consideration. 
+ 
+ Modi's speech remained divisive, continuing with rhetoric targeting the Congress party and raising concerns about potential further division through policies like the UCC and ONOE.  The speech's inflammatory language fueled fears that the government might push through legislation that could exacerbate societal rifts.
+
 Sat, 24 Aug 2024 11:51:00 +0000
 ### [In Bangladesh press, a question: Should students be allowed to protest?](https://indianexpress.com/article/opinion/columns/bangladesh-press-question-should-students-allowed-protest-9530990/)
 

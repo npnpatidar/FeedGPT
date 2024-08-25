@@ -1,3 +1,8 @@
+Sun, 25 Aug 2024 02:30:37 +0000
+### [Chile’s Atacama salt flat sinking due to lithium mining: What a new study says](https://indianexpress.com/article/explained/explained-global/chiles-atacama-lithium-mining-9531288/)
+
+A new study reveals that Chile’s Atacama salt flat is sinking at 1 to 2 centimeters per year due to lithium brine extraction. Researchers from the University of Chile analyzed satellite data and found the subsidence is most pronounced in areas where mining companies operate. This occurs because the brine pumping rate exceeds the aquifer recharge, causing the ground level to lower. The study highlights the environmental impact of lithium mining, such as water depletion and contamination, which threaten the region's biodiversity, including declining flamingo populations.
+
 Sat, 24 Aug 2024 22:35:23 +0000
 ### [In UPS, extra burden, but no pushing back of the reform needle](https://indianexpress.com/article/explained/in-ups-extra-burden-but-no-pushing-back-of-the-reform-needle-9531518/)
 
