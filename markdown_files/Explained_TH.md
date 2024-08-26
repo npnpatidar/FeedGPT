@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 08:30:00 +0530
+### [What did Justice Verma panel say on death penalty for rape? | Explained](https://www.thehindu.com/news/national/what-did-justice-verma-panel-say-on-death-penalty-for-rape-explained/article68566587.ece)
+
+Following the horrific rape and murder of a doctor in Kolkata, calls for the death penalty have intensified. This incident reignites the debate around the Justice J.S. Verma Committee recommendations, which opposed capital punishment for rape, even in extreme cases. The committee, formed after the 2012 Delhi gang rape, argued that the death penalty was not a deterrent and that reformation should be prioritized.
+
+While the 2013 amendments introduced death penalty for certain aggravated rape cases, the Verma Committee's core stance on capital punishment for rape remained untouched. They did, however, recommend harsher sentences for rape, including life imprisonment, and advocated for the removal of marital rape exemption, a recommendation the government did not adopt. The committee emphasized the need for broader societal changes to empower women and address gender bias.
+
 Sun, 25 Aug 2024 22:41:11 +0530
 ### [On West Bengal’s civic police volunteers | Explained](https://www.thehindu.com/news/national/on-west-bengals-civic-police-volunteers-explained/article68566602.ece)
 

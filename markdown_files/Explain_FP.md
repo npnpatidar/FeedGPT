@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 09:38:49 +0530
+### [Hezbollah fires over 320 Katyusha rockets at Israel: What makes these missiles so dangerous?](https://www.firstpost.com/explainers/hezbollah-katyusha-rockets-israel-soviet-era-dangerous-lethality-13808191.html)
+
+Hezbollah launched over 320 Katyusha rockets and drones at Israel in retaliation for the death of a senior commander.  These rockets, first developed by the Soviet Union during World War II, are known for their ability to deliver a large number of explosives over a wide area, creating a destructive "storm of fire." While lacking precision, their sheer volume makes them effective weapons, particularly in terrorizing enemy troops. 
+
+Hezbollah's arsenal also includes a variety of other rockets and missiles, such as Iranian-made Raad, Fajr, and Zilzal rockets, as well as  Kornet anti-tank missiles.  The group is estimated to possess a significant number of these weapons, potentially up to 130,000 rockets and missiles.
+
+Mon, 26 Aug 2024 08:54:29 +0530
+### [How China’s growing unemployment has given rise to ‘rotten tail kids’](https://www.firstpost.com/explainers/china-growing-unemployment-rotten-tail-kids-13807250.html)
+
+China is facing a severe youth unemployment crisis, with the rate exceeding 20% in June 2023.  The term "rotten-tail kids" has emerged on social media to describe this generation of graduates struggling to find meaningful employment despite their qualifications. Many accept low-paying jobs or rely on parental support. The government acknowledges the issue and has implemented measures to create job opportunities and support businesses, but the situation remains dire.  Widespread pessimism prevails among young job seekers, with concerns about scams and limited prospects. This crisis stems from a long-standing mismatch between the supply of college graduates and available jobs, exacerbated by a slowing economy and changing industry demands.
+
 Mon, 26 Aug 2024 06:30:31 +0530
 ### [FirstUp: US Open kicks off, Janmashtami celebrations... Headlines today](https://www.firstpost.com/explainers/firstup-us-open-kicks-off-janmashtami-celebrations-headlines-today-13807666.html)
 

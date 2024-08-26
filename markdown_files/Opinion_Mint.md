@@ -1,3 +1,14 @@
+Mon, 26 Aug 2024 07:00:14 +0530
+### [Mint Quick Edit | Unified Pension Scheme: Old meets the New](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-unified-pension-scheme-cabinet-economics-beneficiaries-politics-retirement-old-pension-scheme-11724617339694.html)
+
+The Indian government has approved a Unified Pension Scheme (UPS) for its employees, offering a defined benefit of 50% of the last salary. This contrasts with the existing National Pension System (NPS), which  offers a defined contribution but variable benefits. The UPS seeks to combine the guaranteed payouts of the previously existing Old Pension Scheme (OPS) with the contributory nature of NPS. 
+
+Concerns remain about the scheme's long-term financial viability, as it's unclear if contributions will adequately fund the promised payouts.  Further, state participation could increase the number of beneficiaries, potentially straining their already fragile finances.
+
+
+
+The decision appears to be politically motivated, as opposition parties had successfully used the demand for a return to OPS as a key campaign issue. The success of the UPS hinges on its long-term sustainability and avoidance of becoming a burden on public finances.
+
 Sun, 25 Aug 2024 18:50:40 +0530
 ### [Food vs core inflation: No, governor Das doesn’t need a new handbook for RBI’s interest rate policy](https://www.livemint.com/opinion/online-views/food-inflation-core-inflation-interest-rates-inflation-targeting-framework-rbi-governor-shaktikanta-das-11724588211814.html)
 

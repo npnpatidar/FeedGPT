@@ -1,3 +1,12 @@
+Mon, 26 Aug 2024 03:30:10 +0000
+### [RHFL fraud: Why has Sebi fined Anil Ambani and banned him from the market?](https://indianexpress.com/article/explained/explained-economics/rhfl-fraud-why-has-sebi-fined-anil-ambani-and-banned-him-from-the-market-9533010/)
+
+The Securities and Exchange Board of India (Sebi) has imposed a five-year ban on Anil Ambani and 24 other entities from the securities market for diverting funds from Reliance Home Finance Ltd (RHFL).  
+
+Sebi's investigation revealed that RHFL, under the influence of Anil Ambani, disbursed large general purpose working capital (GPC) loans to entities with weak financial profiles and without proper security or collateral. This resulted in the erosion of RHFL's finances.
+
+The regulator found that RHFL deviated from standard credit due diligence processes and that these loans were likely motivated by personal benefit for Anil Ambani and his associates. Sebi has imposed a total penalty of over Rs 625 crore on Ambani and the involved entities.
+
 Sun, 25 Aug 2024 15:55:29 +0000
 ### [What was the Great Moon Hoax, which claimed winged humans lived on the Moon?](https://indianexpress.com/article/explained/explained-history/great-moon-hoax-9532908/)
 
