@@ -1,3 +1,12 @@
+Mon, 26 Aug 2024 14:39:21 +0000
+### [Who is Telegram co-founder Pavel Durov, and why did French authorities arrest him?](https://indianexpress.com/article/explained/explained-global/telegram-founder-pavel-durov-arrest-france-9534303/)
+
+Pavel Durov, the CEO of Telegram, was arrested in France on charges related to alleged complicity in drug trafficking, terrorism support, and cyberstalking. French authorities believe Telegram's high level of user privacy has facilitated illegal activity. 
+
+Durov denies these allegations, stating that Telegram does not actively condone or participate in such activities. He argues that the app should remain a neutral platform for free speech, even if it inadvertently becomes a tool for some users to engage in illegal acts. 
+
+This arrest has drawn criticism from those who view it as an overreach by the French government, with some comparing it to similar actions taken against other tech giants by various governments worldwide.
+
 Mon, 26 Aug 2024 12:47:23 +0000
 ### [China-Philippines clash: What is the South China Sea dispute?](https://indianexpress.com/article/explained/explained-global/south-china-sea-dispute-9534189/)
 

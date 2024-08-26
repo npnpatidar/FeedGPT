@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 20:41:10 +0530
+### [Can Lebanon afford to go to war with Israel?](https://www.firstpost.com/explainers/can-lebanon-afford-to-go-to-war-with-israel-13808421.html)
+
+The recent exchange of fire between Israel and Hezbollah has raised concerns about a potential wider conflict. Lebanon, already grappling with economic and political turmoil, is facing a precarious situation.  Unlike the 2006 war, Lebanon is hosting a large Syrian refugee population, further straining its resources. The country's infrastructure is fragile, and its ability to cope with a major humanitarian crisis is limited. 
+
+Hezbollah's military capabilities have significantly grown since 2006, raising fears of a more destructive conflict. The possibility of a wider war with Hezbollah’s involvement adds another layer of complexity to the already volatile situation in the region.
+
+Mon, 26 Aug 2024 20:16:16 +0530
+### [Explained: The many conspiracies around Juli Vavilova, the woman linked to Telegram CEO's arrest](https://www.firstpost.com/explainers/explained-the-many-conspiracies-around-juli-vavilova-the-woman-linked-to-telegram-ceo-pavel-durov-arrest-13808442.html)
+
+Pavel Durov, the CEO of Telegram, was arrested in France on serious charges, including the dissemination of criminal content. His arrest involved a woman named Juli Vavilova, a 24-year-old crypto coach from Dubai. Vavilova has been seen with Durov on multiple occasions and her social media posts suggest a close relationship with him. Her presence at the time of his arrest has led to various theories, ranging from accidental exposure to intentional involvement in a plot to capture Durov. Some speculate that she may have been a "honeytrap" or a Mossad agent, though these claims are unsubstantiated. Vavilova's whereabouts and involvement in the case remain unclear as of now.
+
 Mon, 26 Aug 2024 19:17:33 +0530
 ### [Meet Emily Lahey, the Australian cancer patient, who is selling her final moments to strangers](https://www.firstpost.com/explainers/emily-lahey-australian-cancer-patient-selling-final-moments-time-to-live-13808340.html)
 
