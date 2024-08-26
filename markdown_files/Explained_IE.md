@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 12:47:23 +0000
+### [China-Philippines clash: What is the South China Sea dispute?](https://indianexpress.com/article/explained/explained-global/south-china-sea-dispute-9534189/)
+
+The South China Sea dispute centers around competing territorial claims in a strategically vital region. China asserts its claims based on historical maritime rights, encompassing 90% of the sea with its "nine-dash line," which has been contested by Brunei, Malaysia, the Philippines, Taiwan, and Vietnam.  
+
+China has physically escalated its claim through island building and military installations, prompting US intervention with increased military presence and aid to opposing nations. The dispute carries immense economic significance due to oil and gas reserves, rich fishing grounds, and crucial trade routes. 
+
+An international tribunal in 2016 largely rejected China's claims, but Beijing, which boycotted the proceedings, has refused to abide by the ruling.  
+
+
+Despite attempts by ASEAN, a regional grouping, to resolve the conflict diplomatically, a peaceful solution remains elusive, raising fears of a potential global crisis.
+
 Mon, 26 Aug 2024 11:34:10 +0000
 ### [Why Baloch militants targeted Punjabi travellers in recent attack which killed 23](https://indianexpress.com/article/explained/explained-global/baloch-militants-targeted-punjabi-travellers-in-recent-attack-which-9534077/)
 

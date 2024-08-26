@@ -1,3 +1,20 @@
+Mon, 26 Aug 2024 19:17:33 +0530
+### [Meet Emily Lahey, the Australian cancer patient, who is selling her final moments to strangers](https://www.firstpost.com/explainers/emily-lahey-australian-cancer-patient-selling-final-moments-time-to-live-13808340.html)
+
+Emily Lahey, a 31-year-old Australian woman with terminal NUT carcinoma, is selling three-minute slots of her remaining time as part of a performance art piece called "Time to Live." Diagnosed with this rare and aggressive cancer, Lahey, who has surpassed the usual six to nine-month prognosis,  underwent chemotherapy, radiotherapy, and immunotherapy.  She uses this unique art project to raise awareness and funds for cancer research, believing that her extended survival is due to advancements made possible by research.  
+
+"Time to Live" invites people to spend three minutes with Lahey, creating a poignant connection to the reality of living with a terminal illness. In a powerful gesture, she hands each participant an envelope with a card urging them to "give that gift" to others. Lahey emphasizes the significance of continued funding for cancer research, hoping her exhibition encourages ongoing support for finding better treatments and ultimately achieving cures.
+
+Mon, 26 Aug 2024 18:46:14 +0530
+### [Ghost of Gaza: How Hamas leader Yahya Sinwar remains as elusive as ever to Israeli and American intelligence](https://www.firstpost.com/explainers/ghost-of-gaza-how-hamas-leader-yahya-sinwar-remains-as-elusive-as-ever-to-israel-and-american-intelligence-13808374.html)
+
+Yahya Sinwar, the leader of Hamas, has eluded capture by Israeli and American intelligence despite significant efforts and advanced technology.  Sinwar's use of a human courier network, reminiscent of Osama bin Laden's tactics, has made him one of the most difficult targets in history. He has moved his operations underground, relying on Gaza's extensive tunnel system for shelter and communication. Sinwar's direct involvement in the October 7 attacks, which resulted in the deaths of many Israelis, makes his capture a priority for Israel and the US. While they have collaborated extensively, including deploying ground-penetrating radar to map the tunnel network, Sinwar has continued to evade detection.
+
+Mon, 26 Aug 2024 17:57:59 +0530
+### [Looking for a mate: How a lonely dolphin is wreaking havoc in Japanese waters](https://www.firstpost.com/explainers/lonely-dolphin-wreaking-havoc-japan-13808319.html)
+
+A bottle-nosed dolphin named Suzu has been responsible for a series of attacks on swimmers and divers in Fukui Prefecture, Japan. Since 2022, at least 47 people have been injured, with attacks reported in both  Wakasa Bay and near the towns of Echizen and Mihama. Suzu is believed to be a lone male dolphin who may be seeking a mate or acting out due to previous negative interactions with humans.  Authorities have attempted to deter Suzu with acoustic deterrents, warning signs, and restricted swimming hours.
+
 Mon, 26 Aug 2024 17:02:03 +0530
 ### [What is the Baloch Liberation Army, the group behind the deadly attacks in Pakistan?](https://www.firstpost.com/explainers/what-is-the-baloch-liberation-army-the-group-behind-the-deadly-attacks-in-pakistan-13808396.html)
 
