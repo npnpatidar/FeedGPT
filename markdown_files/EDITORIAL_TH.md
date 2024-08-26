@@ -1,3 +1,13 @@
+Tue, 27 Aug 2024 00:30:00 +0530
+### [​No more delays: On holding the Census](https://www.thehindu.com/opinion/editorial/%E2%80%8Bno-more-delays-the-hindu-editorial-on-holding-the-census/article68569137.ece)
+
+There are concerns about the Union government's reported plans to collect caste data during the long-delayed Census. Given the shortcomings of the 2011 Socio-Economic and Caste Census, rushing into caste enumeration without a clear timeline for conducting the Census is unwise.  Conducting the Census promptly is crucial as it impacts various public schemes, policy decisions, and statistical surveys.  India's delay in conducting the Census places it in the company of countries facing conflict, crises, or turmoil, highlighting the urgency of the situation.
+
+Tue, 27 Aug 2024 00:15:00 +0530
+### [​Unending war: On the multi-party war in West Asia](https://www.thehindu.com/opinion/editorial/%E2%80%8Bunending-war-the-hindu-editorial-on-the-multi-party-war-in-west-asia/article68569158.ece)
+
+The conflict between Israel and Hezbollah in Lebanon has escalated following Israel's preemptive airstrikes on Lebanese targets and Hezbollah's subsequent rocket and drone attacks. Though both sides have indicated a willingness to de-escalate, the underlying tensions remain.  Israel's primary conflict with Hamas in Gaza continues, resulting in heavy casualties on both sides. While the U.S. supports a ceasefire and provides Israel with diplomatic and military aid, Hezbollah vows to continue its attacks in solidarity with Palestinians. Israel's strategy of targeting Hezbollah leadership has had limited success in curbing their attacks, highlighting the complexities and risks of escalating this conflict within a broader regional war.
+
 Mon, 26 Aug 2024 00:20:00 +0530
 ### [Middle path: on the Unified Pension Scheme](https://www.thehindu.com/opinion/editorial/middle-path-on-the-unified-pension-scheme/article68565757.ece)
 
