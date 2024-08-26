@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 08:13:59 +0000
+### [RBI to launch Unified Lending Interface: What is it and how will it benefit borrowers](https://indianexpress.com/article/explained/explained-economics/explained-rbi-unified-lending-interface-9533758/)
+
+Reserve Bank of India (RBI) Governor Shaktikanta Das announced the upcoming nationwide launch of the Unified Lending Interface (ULI), a platform designed to streamline the lending process. Similar to UPI's revolution in retail payments, ULI aims to reduce costs, expedite loan disbursement, and enhance scalability. 
+
+ULI will facilitate the seamless flow of digital information, including land records, from various data sources to lenders, simplifying credit appraisal, particularly for smaller and rural borrowers. The platform's standardized APIs will enable "plug and play" integration, reducing technical complexities and empowering borrowers with faster credit access.  Das believes ULI, alongside JAM and UPI, will significantly contribute to India's digital infrastructure, addressing the unmet credit demand across sectors, especially in agriculture and MSME.
+
 Mon, 26 Aug 2024 03:30:10 +0000
 ### [RHFL fraud: Why has Sebi fined Anil Ambani and banned him from the market?](https://indianexpress.com/article/explained/explained-economics/rhfl-fraud-why-has-sebi-fined-anil-ambani-and-banned-him-from-the-market-9533010/)
 

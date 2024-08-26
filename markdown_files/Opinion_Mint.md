@@ -1,3 +1,21 @@
+Mon, 26 Aug 2024 15:00:04 +0530
+### [Climate action: UK's Labour Party has made a blunder in greening aviation](https://www.livemint.com/opinion/online-views/climate-action-labour-party-aviation-sector-airport-expansion-sustainable-aviation-fuel-carbon-emission-climate-change-11724620769163.html)
+
+The UK government approved London City Airport's expansion despite recommendations from its own climate advisory body to limit airport capacity growth. While passenger numbers will rise, aircraft movements will remain capped and weekend flight interruptions will continue. Critics argue this expansion benefits wealthy frequent flyers and is incompatible with climate goals. The aviation sector globally is expanding, but sustainable aviation fuel (SAF) production is lagging behind. The article suggests the UK government could implement a kerosene tax to fund the transition to SAF and impose conditions on airport expansions, such as requiring zero-emission or SAF-powered planes. Reducing air travel is ultimately the best way to cut emissions in the short term.
+
+Mon, 26 Aug 2024 14:00:02 +0530
+### [India must manage its green energy demand for a successful climate transition](https://www.livemint.com/opinion/online-views/energy-transition-fossil-fuels-data-centres-overconsumption-renewable-energy-climate-action-energy-demand-11724619982279.html)
+
+This article argues that the global energy transition is more complex than simply replacing fossil fuels with renewables.  
+
+The author highlights two key issues:
+
+1. **Securing and integrating green energy supply:** While transitioning to green energy is crucial, it's not straightforward. There are challenges in developing and integrating these new sources, including high costs and logistical hurdles. 
+ 
+2. **Addressing energy demand:** Simply increasing green energy supply won't solve the problem if energy demand continues to rise. The article emphasizes the need for demand management strategies, such as promoting public transport, reducing overconsumption, and implementing taxes on energy-intensive activities like crypto mining.  
+
+The author uses India as a case study, praising its efforts to develop both supply and demand-side solutions.  The article concludes by calling for a shift in global mindset, urging developed nations to reduce their energy demand and for India to continue leading the way with a more comprehensive approach to the energy transition.
+
 Mon, 26 Aug 2024 12:30:18 +0530
 ### [India’s agenda for policy reforms must lift the quality of outcomes](https://www.livemint.com/opinion/online-views/public-health-policy-reforms-viksit-bharat-healthcare-policy-vaccination-nutrition-immunization-mortality-rate-11724619078113.html)
 

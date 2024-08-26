@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 09:32:31 +0000
+### [I am Indian-American and a first-time voter. Watching Kamala Harris live in Chicago melted my cynicism](https://indianexpress.com/article/opinion/columns/kamala-harris-chicago-live-indian-american-cynicism-9533857/)
+
+The article recounts the author's experience at the 2020 Democratic National Convention, where Kamala Harris was nominated as Joe Biden's running mate. The author, a young Indian-American woman, was struck by the historic significance of the event and Harris's nomination, noting the palpable energy and excitement in the atmosphere. 
+
+Harris's campaign emphasized American values and her qualifications as a prosecutor and public servant, rather than her identity as a woman or person of color. The author observed that while Harris did not shy away from her racial identity, she focused on policy differences with Donald Trump. The convention was seen as a sign of a surge in momentum for the Democratic campaign, with many people feeling inspired to vote, especially young people. Ultimately, the author decided to vote for Harris because she saw her as a symbol of radical change and progress for America.
+
 Mon, 26 Aug 2024 06:44:44 +0000
 ### [‘Angry Young Men’: Why Deewar’s Vijay may not be so different from Animal’s Vijay](https://indianexpress.com/article/opinion/columns/angry-young-men-deewar-vijay-animal-9533654/)
 

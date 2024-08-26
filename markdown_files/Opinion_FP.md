@@ -1,3 +1,25 @@
+Mon, 26 Aug 2024 15:33:36 +0530
+### [Shadow Warrior | The tragedy of Wayanad and the vulnerability of Western Ghats](https://www.firstpost.com/opinion/climate-tragedy-of-wayanad-and-the-vulnerability-of-western-ghats-13808331.html)
+
+This article discusses the ecological problems in Kerala, focusing on the recent landslides in Wayanad and their causes.
+
+A range of factors contribute to the instability of the region, including population pressure, overtourism, and environmental destruction. Deforestation has weakened the soil, making it vulnerable to heavy rainfall. The article points to climate change, excessive rainfall, and soil erosion as further contributors to the landslides. 
+
+Historical events like the eruption of Parasurama legend, the 1341 flood in Kodungalloor, and the devastating floods of 1924 are cited as evidence that Kerala has always been prone to geological events. 
+
+The author argues that the government needs to take stronger action to address the situation through stricter land use regulations, better disaster management strategies, and a shift toward sustainable tourism practices. They emphasize the importance of reforestation, community engagement, and addressing the root causes of ecological damage.
+
+Mon, 26 Aug 2024 14:10:51 +0530
+### [PM Modi’s Ukraine and Poland visits: Broadening the base of Indian diplomacy](https://www.firstpost.com/opinion/pm-modis-ukraine-and-poland-visits-broadening-the-base-of-indian-diplomacy-13808300.html)
+
+Prime Minister Modi's recent visit to Poland and Ukraine signifies India's efforts to navigate the complex geopolitical landscape created by the Russia-Ukraine conflict. 
+
+Recognizing the multi-faceted nature of the situation, India has stressed the need for dialogue and diplomacy while maintaining its historically close ties with Russia. This delicate balancing act has drawn both praise and criticism, with the West urging India to take a stronger stance against Russia.  
+
+Modi's visits aimed to reiterate India's commitment to peace and stability while highlighting the global impact of the conflict, particularly on food and energy security. While negotiations with both countries succeeded in outlining shared principles, differing perspectives on key issues, such as Zelensky's '10-point peace formula', remain apparent.
+
+India's focus on expanding its diplomatic engagement with Central and Eastern Europe, as exemplified by the visit to Poland, reflects a broader strategy of diversifying its partnerships and strengthening its global standing.
+
 Mon, 26 Aug 2024 13:12:49 +0530
 ### [The war of narratives: Why India needs a domestic social media universe](https://www.firstpost.com/opinion/the-war-of-narratives-why-india-needs-a-domestic-social-media-universe-13808258.html)
 

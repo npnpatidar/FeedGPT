@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 14:45:56 +0530
+### [Cigarette with gangsters: Is Kannada actor Darshan receiving VIP treatment in Bengaluru jail?](https://www.firstpost.com/explainers/kannada-actor-darshan-vip-treatment-bengaluru-jail-13808239.html)
+
+Kannada actor Darshan Thoogudeepa, accused in the Renukaswamy murder case, is embroiled in controversy after images surfaced online showing him smoking a cigarette on a prison lawn with other inmates. The incident sparked outrage, leading to the suspension of seven prison officials and an inquiry into the matter. Darshan and 11 others, including his rumoured partner Pavithra Gowda, are currently in judicial custody in connection with the case.  The Karnataka government has rejected claims of VIP treatment, asserting that seven prison officials have been suspended and a detailed inquiry is underway.
+
+Mon, 26 Aug 2024 14:32:07 +0530
+### [Maharashtra becomes first state to offer Unified Pension Scheme. How is it different from National Pension Scheme?](https://www.firstpost.com/explainers/maharashtra-becomes-first-state-to-offer-unified-pension-scheme-how-is-it-different-from-national-pension-scheme-13808306.html)
+
+Maharashtra has become the first state to implement the Unified Pension Scheme (UPS) for its employees.  The UPS guarantees a fixed pension after retirement, calculated at half the employee's average basic pay over the last year of service for those who have served for 25 years. It offers inflation indexation and a lump sum payment upon retirement.  Contributions are split between the employee (10%) and the government (18.5%). 
+
+This differs from the National Pension Scheme (NPS) which, despite also providing a pension,  links returns to the stock market, making the pension amount variable. NPS contributions are split between the employee (10%) and the government (14%). NPS subscribers can choose their risk level and benefit from tax deductions.
+
 Mon, 26 Aug 2024 13:26:05 +0530
 ### [Who is Hezbollah’s Hassan Nasrallah, the man behind the militant movement in Lebanon?](https://www.firstpost.com/explainers/who-is-hezbollah-sayyed-hassan-nasrallah-the-man-behind-militant-movement-in-lebanon-13808241.html)
 
