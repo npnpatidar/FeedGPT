@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 11:35:09 +0530
+### [It can’t be a dialogue of the deaf: How Zelensky chiding India for buying Russian oil is plain hypocrisy](https://www.firstpost.com/opinion/it-cant-be-a-dialogue-of-the-deaf-how-zelensky-chiding-india-for-buying-russian-oil-is-plain-hypocrisy-13808221.html)
+
+Prime Minister Modi's visit to Kyiv and Poland aimed to contribute to peace efforts in the Ukraine conflict.  Modi emphasized dialogue and diplomacy, urging both sides to find a peaceful resolution. While acknowledging the complexity of the situation, India reaffirmed its commitment to global welfare and offered support for Ukraine's reconstruction.
+
+During his visit, Modi gifted medical aid and pledged to strengthen bilateral ties in areas like trade, agriculture, and defense.  India has consistently called for adherence to international law and has supported initiatives like the Black Sea grain deal. The author argues that India's stance on purchasing Russian oil, while criticized by Zelensky, should be seen in the context of Europe's continued reliance on Russian gas and the need to prioritize energy security. The article concludes by highlighting India's role as a trusted mediator and its commitment to peacemaking.
+
 Sun, 25 Aug 2024 16:03:36 +0530
 ### [How radicalism in Bangladesh threatens India’s ‘Chicken Neck’](https://www.firstpost.com/opinion/how-radicalism-in-bangladesh-threatens-indias-chicken-neck-13808083.html)
 

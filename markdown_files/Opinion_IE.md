@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 05:26:04 +0000
+### [August 26, 1984, Forty Years Ago: Indian Airlines hijackers surrender](https://indianexpress.com/article/opinion/columns/august-26-1984-forty-years-ago-indian-airlines-hijackers-surrender-9533502/)
+
+Hijackers who seized an Indian Airlines plane over Pathankot surrendered in the United Arab Emirates after 38 hours, releasing all passengers and crew unharmed in exchange for passage to the United States. 
+
+Opposition parties held "all-India protest day" demonstrations against the dismissal of the Andhra Pradesh Rama Rao ministry, resulting in some violent incidents.  The Election Commission decided to use the 1971 electoral rolls as the basis for future revisions in Assam. Prime Minister Indira Gandhi denied reports of an Indian invasion plan for Sri Lanka, stating there was no such plan then or in the future. Lastly, the government introduced the Unified Pension Scheme, guaranteeing a 50% pension for central government employees who joined service in 2004 or later.
+
 Mon, 26 Aug 2024 01:23:44 +0000
 ### [Unified pension scheme raises the risk of higher burden on the exchequer](https://indianexpress.com/article/opinion/editorials/unified-pension-scheme-raises-the-risk-of-higher-burden-on-the-exchequer-9533004/)
 

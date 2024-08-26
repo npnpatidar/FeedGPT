@@ -1,3 +1,13 @@
+Mon, 26 Aug 2024 11:32:47 +0530
+### [Who is Telegram founder Pavel Durov? Why has he been arrested in France?](https://www.firstpost.com/explainers/telegram-founder-pavel-durov-arrested-in-france-13808228.html)
+
+Pavel Durov, founder of the messaging app Telegram, was arrested in France over allegations related to his platform. The allegations include fraud, drug trafficking, organized crime, promotion of terrorism, and cyberbullying. 
+
+Durov, a self-proclaimed libertarian, has built a tech empire and amassed a $15.5 billion fortune. He moved from Russia in 2014 after refusing government demands to censor opposition content on his previous social network, VK.  Telegram has gained popularity for its focus on privacy and encryption, but it has also faced criticism for allegedly hosting harmful content and facilitating illegal activities.  
+
+
+Durov maintains that he complies with EU laws and removes content promoting violence.  He is currently detained in France as the investigation continues.
+
 Mon, 26 Aug 2024 09:38:49 +0530
 ### [Hezbollah fires over 320 Katyusha rockets at Israel: What makes these missiles so dangerous?](https://www.firstpost.com/explainers/hezbollah-katyusha-rockets-israel-soviet-era-dangerous-lethality-13808191.html)
 
