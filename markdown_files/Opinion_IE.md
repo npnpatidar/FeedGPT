@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 06:44:44 +0000
+### [‘Angry Young Men’: Why Deewar’s Vijay may not be so different from Animal’s Vijay](https://indianexpress.com/article/opinion/columns/angry-young-men-deewar-vijay-animal-9533654/)
+
+The article examines the evolution of male archetypes in Indian culture, contrasting Vikram Seth's depiction of the "cad" with the "Angry Young Man" trope popularized by Salim-Javed in Bollywood.  It argues that the "cad," despite potential flaws, embodies a more nuanced and complex masculinity, subject to both admiration and judgment. The "Angry Young Man," characterized by anger and violence, is seen as problematic for potentially excusing harmful behavior.  
+
+The author criticizes the recent documentary on Salim-Javed for its hagiographic approach, failing to adequately address the problematic representations of women in their films. Ultimately, the article suggests that the "Cad," being subject to both desire and scrutiny from women, represents a more desirable form of masculinity compared to the potentially violent and simplistic "Angry Young Man."
+
 Mon, 26 Aug 2024 05:26:04 +0000
 ### [August 26, 1984, Forty Years Ago: Indian Airlines hijackers surrender](https://indianexpress.com/article/opinion/columns/august-26-1984-forty-years-ago-indian-airlines-hijackers-surrender-9533502/)
 

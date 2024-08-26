@@ -1,3 +1,14 @@
+Mon, 26 Aug 2024 12:30:18 +0530
+### [India’s agenda for policy reforms must lift the quality of outcomes](https://www.livemint.com/opinion/online-views/public-health-policy-reforms-viksit-bharat-healthcare-policy-vaccination-nutrition-immunization-mortality-rate-11724619078113.html)
+
+The article argues for a "quantity to quality" (QtoQ) transformation in India's development strategy as it aims to achieve developed country status.  Specifically, it emphasizes the importance of public health as a foundation for this transformation.
+
+The author highlights the need to improve key health indicators like the Under Five Mortality Rate (U5MR) and the prevalence of Low Birth Weight (LBW) babies, which persist at alarmingly high levels in India compared to developed nations.  
+
+While recognizing the progress made through vaccination campaigns, the article stresses that a long-term shift from intervention-based  approaches to creating an enabling environment for healthy living is crucial. 
+
+This includes providing wider access to primary care, nutrition education, and addressing underlying factors  like maternal health and anemia. The author posits that a healthier population will contribute to India's overall economic growth and prosperity, creating a virtuous cycle of development.
+
 Mon, 26 Aug 2024 10:40:29 +0530
 ### [India's digital protection bill promotes competition and user interests](https://www.livemint.com/opinion/online-views/digital-personal-data-protection-bill-regulation-big-tech-competition-user-choice-digital-security-innovation-app-store-11724618437297.html)
 

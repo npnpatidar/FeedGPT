@@ -1,3 +1,12 @@
+Mon, 26 Aug 2024 13:12:49 +0530
+### [The war of narratives: Why India needs a domestic social media universe](https://www.firstpost.com/opinion/the-war-of-narratives-why-india-needs-a-domestic-social-media-universe-13808258.html)
+
+The article argues that control over social media narratives is crucial for national sovereignty in today's digital age.  It cites the example of Bangladesh, where social media played a significant role in recent political upheavals, highlighting the potential for manipulation and regime change. 
+
+The article compares this to the influence wielded by the US through Hollywood in the past, emphasizing how narratives shape global perceptions. It then focuses on China's proactive approach, building its own social media ecosystem to control domestic narratives and safeguard its sovereignty.  
+
+The author concludes by urging India to learn from these examples and develop its own independent digital infrastructure to protect its sovereignty and control its own narrative.
+
 Mon, 26 Aug 2024 11:35:09 +0530
 ### [It can’t be a dialogue of the deaf: How Zelensky chiding India for buying Russian oil is plain hypocrisy](https://www.firstpost.com/opinion/it-cant-be-a-dialogue-of-the-deaf-how-zelensky-chiding-india-for-buying-russian-oil-is-plain-hypocrisy-13808221.html)
 

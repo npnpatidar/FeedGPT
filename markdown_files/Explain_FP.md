@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 13:26:05 +0530
+### [Who is Hezbollah’s Hassan Nasrallah, the man behind the militant movement in Lebanon?](https://www.firstpost.com/explainers/who-is-hezbollah-sayyed-hassan-nasrallah-the-man-behind-militant-movement-in-lebanon-13808241.html)
+
+Hassan Nasrallah, the leader of Hezbollah since 1992, has transformed the group from a local militia into a dominant political and military force in Lebanon and beyond.  Hezbollah's military capabilities have grown significantly under his leadership, with Nasrallah claiming 100,000 fighters. The group has engaged in conflict with Israel, most notably during the 2006 Lebanon War.  Nasrallah's influence extends to Lebanese politics, where Hezbollah holds considerable sway. Despite criticism for challenging Lebanese sovereignty and aligning with Iran, Nasrallah remains a revered figure among Hezbollah's supporters.
+
+Mon, 26 Aug 2024 12:40:33 +0530
+### [New clashes break out in Dhaka: Why are Bangladeshis protesting even after Sheikh Hasina’s ouster?](https://www.firstpost.com/explainers/clashes-dhaka-ansar-forces-bangladesh-sheikh-hasina-ouster-13808252.html)
+
+Clashes erupted in Dhaka, Bangladesh, between students and members of the Ansar paramilitary force, resulting in nearly 50 injuries. The violence stemmed from students protesting the Ansar's continued blockade of the Secretariat, despite government assurances. The Ansar members were demanding the nationalization of their jobs and other benefits. Tensions escalated when students confronted the Ansar, accusing them of acting as agents of the dictators. 
+
+The Bangladesh interim government, led by Muhammad Yunus, has urged calm and pledged to hold free and fair elections after implementing reforms.  The government also ordered the transfer of several Ansar officials and imposed a ban on gatherings near key government buildings. The situation highlights the ongoing political turmoil in Bangladesh following the resignation and flight of former Prime Minister Sheikh Hasina.
+
 Mon, 26 Aug 2024 11:32:47 +0530
 ### [Who is Telegram founder Pavel Durov? Why has he been arrested in France?](https://www.firstpost.com/explainers/telegram-founder-pavel-durov-arrested-in-france-13808228.html)
 
