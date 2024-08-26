@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 11:34:10 +0000
+### [Why Baloch militants targeted Punjabi travellers in recent attack which killed 23](https://indianexpress.com/article/explained/explained-global/baloch-militants-targeted-punjabi-travellers-in-recent-attack-which-9534077/)
+
+In Balochistan, armed men attacked vehicles, killing 23 individuals from Punjab after checking their identities. This attack is part of a pattern of violence against Punjabis in the region, attributed to Baloch militant groups. 
+
+Balochistan has a long history of conflict with the Pakistani state, marked by insurrections and accusations of human rights abuses.  The targeting of Punjabis stems from a complex interplay of ethnic tensions and a sense of economic alienation felt by the Baloch people. Balochistan, despite its natural wealth, remains relatively impoverished, and many Baloch feel that the Punjabi-dominated Pakistani government exploits the province's resources without providing equitable benefits.
+
 Mon, 26 Aug 2024 08:13:59 +0000
 ### [RBI to launch Unified Lending Interface: What is it and how will it benefit borrowers](https://indianexpress.com/article/explained/explained-economics/explained-rbi-unified-lending-interface-9533758/)
 

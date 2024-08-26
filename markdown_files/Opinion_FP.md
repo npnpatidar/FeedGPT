@@ -1,3 +1,13 @@
+Mon, 26 Aug 2024 17:32:24 +0530
+### [How the US’ bipartisan democracy fails to represent plural voices of present-day America](https://www.firstpost.com/opinion/how-the-us-bipartisan-democracy-fails-to-represent-plural-voices-of-present-day-america-13808400.html)
+
+The US two-party system, while historically promoting stability, is increasingly failing to represent the diverse modern electorate.  The system's rigidity marginalizes the voices of many, particularly the lower middle class, Hispanics, Indian Americans, and African Americans,  leaving them politically disengaged. 
+
+The binary nature of the system forces diverse communities into broad, often conflicting, policy platforms, failing to address their specific needs. Racial and ethnic minorities, despite the symbolic presence of figures like Obama and Harris, remain politically disenfranchised due to a system that discourages the emergence of new parties to better represent their interests. 
+
+
+Reforming this system requires not only encouraging new political parties but also rethinking representation in the US. Public financing of campaigns could create a more inclusive system. Addressing this issue is crucial for the US to live up to its democratic ideals and prevent democracy from perpetuating inequality.
+
 Mon, 26 Aug 2024 15:33:36 +0530
 ### [Shadow Warrior | The tragedy of Wayanad and the vulnerability of Western Ghats](https://www.firstpost.com/opinion/climate-tragedy-of-wayanad-and-the-vulnerability-of-western-ghats-13808331.html)
 

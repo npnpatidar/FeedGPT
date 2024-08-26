@@ -1,3 +1,10 @@
+Mon, 26 Aug 2024 11:21:25 +0000
+### [Awami League lost touch with people, students. But reformed, it deserves political space in Bangladesh](https://indianexpress.com/article/opinion/awami-league-reformed-political-bangladesh-9534076/)
+
+The Awami League faced mounting challenges in the years leading up to its significant downfall.  The Covid-19 pandemic and the Ukraine conflict led to a tightening of control by the government, isolating it from critical social and economic concerns. 
+
+Economic mismanagement,  fueled by corruption and a failure to address institutional dysfunction, fueled public discontent.  The government's handling of social movements,  perceived as confrontational and dismissive, further exacerbated the situation.  The party's refusal to engage with dissenting voices and its suppression of internal diversity contributed to its decline.  This crisis of moral authority necessitates a fundamental restructuring of the Awami League, including a sincere apology for past mistakes and a commitment to democratic values. Rebuilding trust and credibility will be crucial for the party to regain public support and emerge as a force for positive change.
+
 Mon, 26 Aug 2024 09:32:31 +0000
 ### [I am Indian-American and a first-time voter. Watching Kamala Harris live in Chicago melted my cynicism](https://indianexpress.com/article/opinion/columns/kamala-harris-chicago-live-indian-american-cynicism-9533857/)
 

@@ -1,3 +1,15 @@
+Mon, 26 Aug 2024 17:02:03 +0530
+### [What is the Baloch Liberation Army, the group behind the deadly attacks in Pakistan?](https://www.firstpost.com/explainers/what-is-the-baloch-liberation-army-the-group-behind-the-deadly-attacks-in-pakistan-13808396.html)
+
+The Baloch Liberation Army (BLA) launched a series of attacks across Pakistan's Balochistan province. Targets included police stations, railway lines, and highways. The BLA claimed responsibility for killing over 100 soldiers in attacks on army camps, though these claims are yet to be confirmed.  
+
+Monday's attacks, described as the most widespread by the insurgent group in years, resulted in the deaths of at least 23 civilians and security personnel.  The group, which seeks an independent state of Greater Balochistan, has been designated a terrorist organization by several countries.  They cite the exploitation of Balochistan's resources and mistreatment of its people by the Pakistani establishment as reasons for their actions.
+
+Mon, 26 Aug 2024 15:51:30 +0530
+### [Is the Maldives facing a currency crisis? Has it run out of dollars?](https://www.firstpost.com/explainers/is-the-maldives-facing-a-currency-crisis-has-it-run-out-of-dollars-13808298.html)
+
+The Maldives is facing its worst financial crisis ever, with usable dollar reserves reaching a negative balance for the first time. This alarming situation was triggered by a $25 million oil bill and dwindling reserves, attributed to loan repayments and rising import costs.  The decline has prompted the central bank to impose temporary restrictions on dollar transactions. The government, while striving to reassure the public,  has faced criticism for lack of transparency and is exploring measures like raising fees and taxes to bolster dollar revenue.  Experts suggest the government might have to utilize the Sovereign Development Fund if the crisis deepens. The Maldives urgently needs to address this financial instability to ensure it can meet its financial obligations and maintain essential imports.
+
 Mon, 26 Aug 2024 14:45:56 +0530
 ### [Cigarette with gangsters: Is Kannada actor Darshan receiving VIP treatment in Bengaluru jail?](https://www.firstpost.com/explainers/kannada-actor-darshan-vip-treatment-bengaluru-jail-13808239.html)
 
