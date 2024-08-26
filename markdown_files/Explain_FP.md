@@ -1,3 +1,12 @@
+Mon, 26 Aug 2024 06:30:31 +0530
+### [FirstUp: US Open kicks off, Janmashtami celebrations... Headlines today](https://www.firstpost.com/explainers/firstup-us-open-kicks-off-janmashtami-celebrations-headlines-today-13807666.html)
+
+Monday, August 26th sees the start of the 144th US Open in New York, the final Grand Slam event of the year. Defending champions Novak Djokovic and Coco Gauff will compete on the outdoor hard courts of the USTA Billie Jean King National Tennis Center.
+
+Elsewhere, Krishna Janmashtami, a Hindu festival celebrating the birth of Lord Krishna, will be observed as a bank holiday in some Indian states.  
+
+In Maharashtra, the custody of the school sweeper accused of sexually abusing two young schoolgirls in Badlapur ends today, following widespread protests against the alleged assault.
+
 Sun, 25 Aug 2024 18:03:43 +0530
 ### [Massaging the fascia is the latest social media trend. But does it really work?](https://www.firstpost.com/explainers/massaging-the-fascia-is-the-latest-social-media-trend-but-does-it-really-work-13806238.html)
 

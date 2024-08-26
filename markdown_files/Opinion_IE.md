@@ -1,3 +1,37 @@
+Mon, 26 Aug 2024 01:23:44 +0000
+### [Unified pension scheme raises the risk of higher burden on the exchequer](https://indianexpress.com/article/opinion/editorials/unified-pension-scheme-raises-the-risk-of-higher-burden-on-the-exchequer-9533004/)
+
+The Indian government has introduced a new Unified Pension Scheme (UPS) for central government employees. The UPS combines elements of both the old and new pension schemes, offering a defined benefit of 50% of an employee's average basic pay upon retirement.  The government's contribution will increase to 18.5% of the employee's basic salary, while employees will continue to contribute 10%. This change is expected to increase the government's financial burden on pension payments by Rs 6,250 crore in the first year.  The UPS comes amidst a resurgence of support for the old pension scheme in several states, raising concerns about the sustainability of such a defined benefit structure for all government employees.
+
+Mon, 26 Aug 2024 01:22:29 +0000
+### [Hema Committee report: It can happen only in Kerala](https://indianexpress.com/article/opinion/columns/hema-committee-report-sexual-harassment-exploitation-of-women-in-malayalam-cinema-9532955/)
+
+The article discusses the Hema Committee report on sexual harassment and exploitation in Malayalam cinema, focusing on the unique context of Kerala.  It argues that the report's revelations are not surprising given the history of patriarchal structures within the industry and the collision between traditional power dynamics and the increasing education and empowerment of women in Kerala.  
+
+The writer emphasizes the importance of the Women in Cinema Collective's (WCC) struggle, which led to the report's formation, highlighting how educated, middle-class women in Kerala challenged the industry's feudal practices. While acknowledging the resistance to change and the limitations of government action, the article expresses hope for a transformation of societal norms in Kerala through continued discourse and activism.
+
+Mon, 26 Aug 2024 01:22:20 +0000
+### [Whether it is President Trump or President Harris, US-India relations must continue on an upward arc](https://indianexpress.com/article/opinion/columns/whether-it-is-president-trump-or-president-harris-us-india-relations-must-continue-on-an-upward-arc-9532976/)
+
+India's relationship with the US has been steadily improving over the past two and a half decades, regardless of the political party in power.  The US is now India's most important partner across various sectors, from trade and technology to national security. A robust and multi-faceted engagement, including strong Congressional support and involvement from the business sector, further strengthens this bond. 
+
+While President Biden's policies are well-known, Vice President Harris's foreign policy approach remains slightly ambiguous. However, her actions and rhetoric suggest continuity in areas crucial for India, such as immigration reform, trade, technology, and Eurasian security. Key areas of convergence, such as countering Chinese influence in Asia, are likely to continue under a Harris administration. 
+
+
+Maintaining this strong relationship requires sustained effort from both sides. India should address potential disagreements proactively and work towards deepening the partnership in various domains.
+
+Mon, 26 Aug 2024 01:22:20 +0000
+### [MUDRA 2.0 loans should target greater equity, deepen financial literacy](https://indianexpress.com/article/opinion/columns/mudra-2-0-loans-should-target-greater-equity-deepen-financial-literacy-9532994/)
+
+The Pradhan Mantri MUDRA Yojana (PMMY) has been a significant initiative for empowering small and micro businesses in India.  The scheme has disbursed over 27.75 lakh crore to 47 crore entrepreneurs, with a high proportion going to women and marginalized groups, promoting financial inclusion and economic growth.  While successful, PMMY faces challenges such as uneven regional distribution of loans, inadequate monitoring, and financial literacy gaps among beneficiaries. This has led to higher NPAs in certain categories and hindered the scheme's full potential. 
+
+Moving forward, MUDRA 2.0 needs to focus on strengthening outreach in rural areas, enhancing financial literacy programs, implementing a robust credit guarantee mechanism, and improving monitoring and evaluation systems.  These measures will help ensure that the benefits of the scheme reach the intended beneficiaries and contribute to sustainable economic development.
+
+Mon, 26 Aug 2024 01:21:45 +0000
+### [Many questions about ‘one nation, one election’](https://indianexpress.com/article/opinion/columns/one-nation-one-election-commission-of-india-narendra-modi-bjp-congress-suggestions-constitution-9532990/)
+
+A high-level committee, headed by former President Ram Nath Kovind, has recommended simultaneous elections for the Lok Sabha and state assemblies in India. The committee, formed to suggest concrete implementation measures for simultaneous elections, analyzed public opinion, expert insights, and legal provisions. While 80% of the 21,558 responses received favored the concept, opposing parties raised concerns about marginalization of regional players and a potential shift towards a presidential form of governance.  The report proposed amendments to the Constitution, including a new article  "simultaneous elections"  would mean general elections for the Lok Sabha and all Vidhan Sabhas together, excluding Panchayat elections which would be held within 100 days.  The committee emphasized the need for a single electoral roll and acknowledged the logistical challenges and increased expenditure required for simultaneous polls.
+
 Sun, 25 Aug 2024 15:25:11 +0000
 ### [Vandita Mishra writes | In America and in India: The neighbour test](https://indianexpress.com/article/opinion/columns/us-elections-kamala-harris-india-9532900/)
 
