@@ -1,3 +1,8 @@
+Tue, 27 Aug 2024 12:24:39 +0530
+### [After UPI, RBI announces new Unified Lending Interface: What is it?](https://www.firstpost.com/explainers/rbi-upi-unified-lending-interface-uli-explained-shaktikanta-das-13808648.html)
+
+The Reserve Bank of India (RBI) is launching the Unified Lending Interface (ULI), a digital platform designed to simplify and streamline the lending process in India. Similar to the successful Unified Payments Interface (UPI), ULI aims to revolutionize credit accessibility by facilitating a seamless flow of customer financial and non-financial data from various sources to lenders. This centralized data sharing will reduce the time taken for credit appraisal, particularly benefiting smaller borrowers and those in rural areas. ULI is currently in a pilot phase and will be rolled out nationwide based on its success. The RBI envisions ULI as a transformative force in the lending landscape, creating frictionless credit access and driving financial inclusion.
+
 Tue, 27 Aug 2024 11:29:40 +0530
 ### [Why did the 35-foot Shivaji statue unveiled in 2023 collapse in Maharashtra?](https://www.firstpost.com/explainers/35-foot-shivaji-statue-collapse-maharashtra-13808583.html)
 

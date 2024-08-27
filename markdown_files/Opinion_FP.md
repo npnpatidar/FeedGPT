@@ -1,3 +1,19 @@
+Tue, 27 Aug 2024 13:18:02 +0530
+### [From Ukraine to Bangladesh: Analysing instability, regime change and the not-so-hidden American hand](https://www.firstpost.com/opinion/from-ukraine-to-bangladesh-analysing-instability-regime-change-and-the-not-so-hidden-american-hand-13808653.html)
+
+This article examines the activities of the National Endowment for Democracy (NED), a US Congress-funded body, and its role in promoting regime change in countries like Bangladesh and its influence on India's democratic processes. It argues that NED, while claiming to support democracy, operates like a tool of US soft power, often inciting division and supporting violence. 
+
+The article highlights NED's funding of NGOs critical of the Indian government, which has led to concerns about foreign interference in India's internal affairs. It cites examples of NED's influence in shaping global narratives about India's democracy and its alleged involvement in the toppling of governments like Imran Khan's in Pakistan.  The article also discusses the internal debate within the US regarding NED's funding and ideological leanings, noting the criticism it faces from both Republicans and the public.
+
+Tue, 27 Aug 2024 11:45:31 +0530
+### [How PM Modi’s Ukraine visit suited both optics and interests](https://www.firstpost.com/opinion/how-pm-modis-ukraine-visit-suited-both-optics-and-interests-13808631.html)
+
+Prime Minister Modi's visit to Ukraine was a significant event, marking the first time an Indian Prime Minister has visited the country in modern history. The visit, which took place against the backdrop of the ongoing war with Russia,  highlighted India's commitment to peace and its desire to engage with all parties involved.  
+
+Modi met with President Zelenskyy, discussed the situation in Ukraine, and pledged India's humanitarian support. He reiterated India's stance on resolving the conflict through dialogue and diplomacy. While acknowledging the challenges posed by the war,  Modi emphasized India's willingness to play a constructive role in finding a solution.  
+
+The visit also addressed bilateral and defense ties, with discussions focusing on India's needs in marine engines and air transport upgrades.  The meeting between the leaders signaled India's proactive engagement in international affairs and its commitment to finding a peaceful resolution to the conflict in Ukraine.
+
 Mon, 26 Aug 2024 17:32:24 +0530
 ### [How the US’ bipartisan democracy fails to represent plural voices of present-day America](https://www.firstpost.com/opinion/how-the-us-bipartisan-democracy-fails-to-represent-plural-voices-of-present-day-america-13808400.html)
 

@@ -1,3 +1,21 @@
+Tue, 27 Aug 2024 12:47:59 +0530
+### [The sky is the limit for Indian aviation, but can homegrown talent keep up?](https://www.livemint.com/opinion/online-views/airlines-talent-pilots-aviation-schools-aviation-training-tata-sons-gmr-dgca-commercial-pilot-licence-ceo-coo-leadership-11724737766033.html)
+
+India’s booming aviation sector is facing a significant talent shortage.  To meet the projected demand for over 10,900 pilots by 2029-30, Tata Sons plans to establish a large aviation academy in Gurugram, aiming to train 50,000 professionals including pilots, cabin crew, and engineers.  
+
+Additionally,  taxis are opening a flying training organization (FTO) and an aircraft maintenance engineering (AME) school. GMR Group is also investing in a new AME school to address the engineer shortage.  
+
+While these initiatives aim to bridge the gap, a crucial leadership vacuum persists.   Top management positions in Indian airlines are predominantly held by foreign nationals, highlighting a lack of homegrown leadership. The limited presence of management training programs specifically focused on aviation leadership further exacerbates the issue.
+
+Tue, 27 Aug 2024 12:30:19 +0530
+### [Fighting food inflation isn’t a challenge for a single fighter](https://www.livemint.com/opinion/online-views/food-inflation-consumer-price-index-cpi-food-prices-core-inflation-rbi-monetary-policy-price-volatility-11724707626484.html)
+
+Analysis of between  CPI-C and food inflation data from 2014 to 2024 shows two key findings.  
+
+Firstly, food inflation significantly impacts overall inflationary expectations, even when food prices are falling. Food inflation, driven by pulses, vegetables, and cereals, often surpasses general CPI inflation.  Secondly, the relationship between food and overall inflation is complex and influenced by supply-side factors like monsoon variations, crop failures, and government-set minimum support prices.
+
+These findings suggest that  RBI's monetary policy needs to consider food inflation when setting interest rates as it directly affects expectations and subsequent inflation. Conversely, the government should focus on reducing supply-side issues in agriculture to stabilize food prices.  Addressing both supply and demand sides is crucial to effectively manage India's persistent food inflation problem.
+
 Tue, 27 Aug 2024 10:30:16 +0530
 ### [Stock prices could slide but don’t expect it to happen one fine day](https://www.livemint.com/opinion/online-views/stock-prices-fii-individual-investors-stock-market-nse-equity-market-mutual-fund-retail-investor-market-slump-11724707430826.html)
 

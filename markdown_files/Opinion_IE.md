@@ -1,3 +1,14 @@
+Tue, 27 Aug 2024 07:30:24 +0000
+### [What we don’t talk about when we talk about rape](https://indianexpress.com/article/opinion/columns/what-we-dont-talk-about-when-we-talk-about-rape-9535332/)
+
+The article discusses the inadequate conversation surrounding sexual violence in India. 
+
+It highlights the tendency to focus on the graphic details of assaults, the victim's actions leading up to the incident, and the outrage that is selectively reserved for certain victims based on their social standing.  The elephant in the room,  the patriarchal culture that perpetuates these acts,  is often ignored. 
+
+The piece further delves into the victim-blaming mentality prevalent in society, where women are held responsible for preventing assault. 
+
+It criticizes the focus on quick justice solutions like capital punishment, arguing that it overlooks the systemic issues at play.  The article concludes by emphasizing the need to acknowledge and address the deeply ingrained patriarchy that enables sexual violence to thrive.
+
 Tue, 27 Aug 2024 05:33:41 +0000
 ### [As a woman of colour in the US, my hope for Vice President Kamala Harris is greater than my fear](https://indianexpress.com/article/opinion/columns/as-a-woman-of-colour-in-the-us-my-hope-for-vice-president-kamala-harris-is-greater-than-my-fear-9535146/)
 
