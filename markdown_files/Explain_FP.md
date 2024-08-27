@@ -1,3 +1,15 @@
+Tue, 27 Aug 2024 11:29:40 +0530
+### [Why did the 35-foot Shivaji statue unveiled in 2023 collapse in Maharashtra?](https://www.firstpost.com/explainers/35-foot-shivaji-statue-collapse-maharashtra-13808583.html)
+
+A 35-foot statue of Chhatrapati Shivaji Maharaj, inaugurated by Prime Minister Narendra Modi in Sindhudurg district, Maharashtra, collapsed on August 26th.  The statue, constructed by the Indian Navy, had reportedly started rusting. Following an FIR filed against the contractor and structural consultant, Chief Minister Eknath Shinde ordered an investigation into the incident. The opposition parties criticized the state government, blaming them for negligence and disrespect towards the Maratha warrior. They demanded a thorough probe and highlighted the need for a scientifically sound reconstruction of the memorial. The incident has sparked outrage and raised questions about the quality of infrastructure projects undertaken in the state.
+
+Tue, 27 Aug 2024 09:49:32 +0530
+### [First floods, now visas: How anti-India sentiment continues to grow in Bangladesh](https://www.firstpost.com/explainers/floods-visa-anti-india-sentiment-bangladesh-sheikh-hasina-13808597.html)
+
+Anti-India sentiment is rising in Bangladesh following recent floods and the provision of shelter for former Prime Minister Sheikh Hasina after her ouster.  Protests erupted at an Indian visa centre in Satkhira as applicants expressed frustration over processing delays and alleged harassment. The demonstrators voiced anger at what they perceive as India's role in the flooding and criticized the Indian visa application process. While the Indian High Commission addressed the situation with Bangladesh's foreign ministry, the incident highlights the escalating tensions between the two nations.  
+
+The situation has been further complicated by allegations of election rigging and India's alleged complicity in supporting Hasina's regime, which has fueled distrust among the Bangladeshi populace. Despite diplomatic efforts to mend relations, the "India Out" sentiment persists, posing a challenge to the smooth functioning of bilateral ties.
+
 Tue, 27 Aug 2024 06:30:42 +0530
 ### [FirstUp: SpaceX’s Polaris Dawn mission, US NSA to visit China… The headlines today](https://www.firstpost.com/explainers/firstup-spacex-polaris-dawn-mission-us-nsa-china-visit-headlines-today-13808409.html)
 

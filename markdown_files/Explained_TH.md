@@ -1,3 +1,12 @@
+Tue, 27 Aug 2024 11:21:25 +0530
+### [What does spaceflight do to the human body? | Explained](https://www.thehindu.com/sci-tech/science/what-does-spaceflight-do-to-the-human-body-explained/article68571578.ece)
+
+Hundreds of astronauts have flown to space, revealing trends in how spaceflight affects the human body.  Microgravity causes bones to weaken, potentially leading to kidney stones.  Digestive issues can occur, and about 70% of astronauts on long-duration missions develop spaceflight-associated neuro-ocular syndrome (SANS), which impacts eyesight. 
+
+The heart, muscles, and blood also undergo changes in response to the space environment.  While exercise regimes and routines help mitigate these effects, researchers continue to investigate the long-term impacts of radiation exposure, confined environments, and the unique conditions of space.  
+
+Innovative studies like the 'Twins Study' and the development of space omics tools are shedding light on how the body adapts to space, paving the way for countermeasures and a deeper understanding of human health in extreme environments. As missions become longer and venture farther into space, these findings are crucial for ensuring the safety and well-being of future astronauts.
+
 Mon, 26 Aug 2024 08:30:00 +0530
 ### [What did Justice Verma panel say on death penalty for rape? | Explained](https://www.thehindu.com/news/national/what-did-justice-verma-panel-say-on-death-penalty-for-rape-explained/article68566587.ece)
 

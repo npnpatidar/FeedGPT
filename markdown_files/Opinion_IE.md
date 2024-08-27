@@ -1,3 +1,10 @@
+Tue, 27 Aug 2024 05:33:41 +0000
+### [As a woman of colour in the US, my hope for Vice President Kamala Harris is greater than my fear](https://indianexpress.com/article/opinion/columns/as-a-woman-of-colour-in-the-us-my-hope-for-vice-president-kamala-harris-is-greater-than-my-fear-9535146/)
+
+An American author reflects on the historic nomination of Kamala Harris, the first woman of color to be the presumptive Democratic nominee for President. 
+
+While her accomplishment should be a source of joy, the author feels a sense of dread, knowing the inevitable prejudice and  low expectations Harris will face. The author highlights the often subtle but pervasive ways in which women of color are judged and undervalued, drawing parallels between Harris's experiences and her own.  The author recognizes the strength and resilience required for Harris to navigate these challenges, but fears the cost this will have on her well-being.  Ultimately, she expresses hope for Harris's presidency, hoping it will lead to a more equitable future for women of color.
+
 Tue, 27 Aug 2024 02:30:06 +0000
 ### [Remembering Nari Hira the man who built an empire, who Amitabh Bachchan couldn’t say no to](https://indianexpress.com/article/opinion/columns/remembering-nari-hira-the-man-who-built-an-empire-who-amitabh-bachchan-couldnt-say-no-to-9534559/)
 
