@@ -1,3 +1,23 @@
+Tue, 27 Aug 2024 18:56:13 +0530
+### [From Australia to Poland, how visa changes are making studying abroad more difficult and expensive](https://www.firstpost.com/explainers/from-australia-to-poland-how-visa-changes-are-making-studying-abroad-more-difficult-and-expensive-13808782.html)
+
+Disruptions in the international student visa landscape are impacting Indian students significantly.
+
+ Australia has reduced its student intake by 20,000, barred loopholes extending visas, doubled student visa fees, and tightened English language requirements.  This, coupled with a crackdown on dependent visas,  has led to a steep decline in Indian student visa approvals and applications.
+
+The UK has barred students from bringing their families unless they are on research programs or government-funded scholarships and tightened rules around post-study work visas.  This coupled with uncertainty surrounding the Graduate Route, has also dampened interest from Indian students.
+
+ New Zealand has doubled its student visa fees, citing the need for a sustainable immigration system. Poland has tightened visa rules after a scandal involving student visa misuse for work purposes in the Schengen area. 
+
+Canada, meanwhile, is capping study permits and reducing permanent residency nominations, potentially impacting 70,000 international students due to  changes in post-graduation work permit eligibility.
+
+Tue, 27 Aug 2024 18:01:24 +0530
+### [Could Ukraine's new homegrown weapon bypass Western restrictions and hit deep into Russia?](https://www.firstpost.com/explainers/ukraine-new-homegrown-weapon-bypass-western-restrictions-russia-13808775.html)
+
+Ukraine has unveiled its new long-range weapon, the "Palianytsia," a domestically developed missile-drone hybrid with a range of up to 700 kilometers.  The weapon, named after a type of Ukrainian bread, was created to counter Russia's dominance in the skies and to bypass Western restrictions on using long-range missiles against targets deep inside Russia. 
+
+The Palianytsia has been used in its first strike, targeting a Russian military base in occupied territory.  Ukrainian officials believe it will be a game changer, allowing them to strike deeper into enemy territory and erode Russia's military infrastructure. The weapon's development, which took about 18 months, was driven by the need to effectively respond to Russia's relentless bombardment of Ukrainian infrastructure.
+
 Tue, 27 Aug 2024 17:28:22 +0530
 ### [What’s the controversy surrounding Bangladesh floods and India’s Farakka barrage?](https://www.firstpost.com/explainers/bangladesh-floods-india-farakka-barrage-treaty-ganga-water-sharing-13808771.html)
 

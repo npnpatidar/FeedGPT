@@ -1,3 +1,10 @@
+Tue, 27 Aug 2024 13:51:35 +0000
+### [No penalties for refusing office calls or messages after hours: What is Australia’s ‘right to disconnect’?](https://indianexpress.com/article/explained/australia-right-to-disconnect-debate-9536192/)
+
+Australia implemented a “right to disconnect” law, allowing employees to refuse work-related contact outside working hours. This follows similar laws in countries like France, Italy, and Belgium, aimed at addressing the blurring of work-life boundaries due to technology and remote work. 
+
+The Australian law requires companies with more than 15 employees to comply immediately, while smaller firms have until 2025.  Employers can still contact employees outside work hours under certain circumstances, such as emergencies or when reasonable compensation is provided.  The law aims to prevent employees from being penalized for not being constantly available and encourages a healthier work-life balance.
+
 Tue, 27 Aug 2024 11:37:17 +0000
 ### [What is SpaceX’s Crew Dragon, which will bring back Sunita Williams from space?](https://indianexpress.com/article/explained/everyday-explainers/spacex-crew-dragon-9535866/)
 

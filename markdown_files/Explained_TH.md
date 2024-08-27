@@ -1,3 +1,23 @@
+Tue, 27 Aug 2024 19:02:08 +0530
+### [Is the administration of lie-detector tests legally valid? | Explained](https://www.thehindu.com/news/national/is-the-administration-of-lie-detector-tests-legally-valid/article68568568.ece)
+
+The CBI conducted a second round of polygraph tests on seven individuals connected to the rape and murder of a resident doctor at Kolkata's R.G. Kar Medical College and Hospital. The tests were administered on the former principal of the medical college, four doctors who had dinner with the victim, and the main accused, a civic police volunteer.  The inclusion of the former principal, who reportedly provided inconsistent responses during questioning, highlights the ongoing investigation's scrutiny. These polygraph tests are part of a broader legal process following a Calcutta High Court order directing the CBI to investigate the case.   
+ The use of such tests raises ethical and legal questions regarding their effectiveness and potential for coercion.  In India, the Supreme Court has ruled that polygraph tests can only be conducted with the informed consent of the accused, recognizing the individual's right against self-incrimination. Despite these safeguards, concerns persist about the potential for false positives and the use of these tests to extract confessions under duress.
+
+Tue, 27 Aug 2024 18:06:49 +0530
+### [Watch: How cyber fraudsters scam people using second-hand mobile phones](https://www.thehindu.com/news/national/telangana/watch-how-cyber-fraudsters-scam-people-using-second-hand-mobile-phones/article68572798.ece)
+
+Telangana police have issued an advisory against selling old mobile phones to strangers due to a new cyber crime tactic. The Telangana Cyber Security Bureau (TGCSB) uncovered a syndicate that collected old phones from residents in Ramagundam and surrounding areas, either paying low prices or exchanging them for plastic items. These phones were then supplied to cyber fraudsters operating  call centers in Jharkhand. Three men from Bihar involved in this operation were arrested.
+
+Tue, 27 Aug 2024 17:45:52 +0530
+### [Unified Pension Scheme | How does it differ from the Old and New Pension Scheme?](https://www.thehindu.com/news/national/unified-pension-scheme-how-does-it-differ-from-the-old-and-new-pension-scheme/article68571778.ece)
+
+The Indian government has introduced a new 'Unified Pension Scheme' (UPS), aiming to provide government employees with 50% of their last drawn salary as a lifelong monthly pension. 
+
+The UPS has drawn mixed reactions, with unions broadly divided along political lines. While some unions like the BMS have welcomed the move, others like CITU and AITUC argue it is a ploy to mislead employees. The scheme is seen as a return to the 'Old Pension Scheme' (OPS), which was replaced by the 'New Pension Scheme' (NPS) by the NDA government in 2004. 
+
+Key features of the UPS include a minimum pension of ₹10,000 per month, periodic dearness relief hikes, and provision for a family pension. Unlike the OPS, the UPS is a partially funded scheme, with both employees and the government contributing towards the pension fund. The scheme has a retrospective effect, impacting those who retired under the NPS. The government estimates an additional annual burden of ₹6,250 crore due to the increased pension contribution.
+
 Tue, 27 Aug 2024 11:21:25 +0530
 ### [What does spaceflight do to the human body? | Explained](https://www.thehindu.com/sci-tech/science/what-does-spaceflight-do-to-the-human-body-explained/article68571578.ece)
 
