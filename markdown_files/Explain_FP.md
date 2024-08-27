@@ -1,3 +1,28 @@
+Tue, 27 Aug 2024 17:28:22 +0530
+### [What’s the controversy surrounding Bangladesh floods and India’s Farakka barrage?](https://www.firstpost.com/explainers/bangladesh-floods-india-farakka-barrage-treaty-ganga-water-sharing-13808771.html)
+
+Flooding in Bangladesh, which has resulted in 23 deaths and displacement of millions, has sparked accusations against India. 
+
+ Bangladeshi reports claim the opening of the Farakka barrage in West Bengal is partially responsible for the deluge.  
+
+India has refuted these allegations, stating that the barrage is not a dam and operates in accordance with the 1996 Ganga Water Treaty. 
+
+The treaty ensures that a certain amount of water is released downstream from Farakka, particularly during specific periods.  
+
+Indian officials have emphasized that the barrage operates to divert water for navigability in Calcutta port and does not directly cause flooding in Bangladesh.
+
+Tue, 27 Aug 2024 16:47:49 +0530
+### [Will men be wiped out from Earth? The case of disappearing Y chromosomes](https://www.firstpost.com/explainers/will-men-be-wiped-out-from-earth-the-case-of-disappearing-y-chromosomes-13808746.html)
+
+A recent study suggests the Y chromosome, responsible for male development, is shrinking and may eventually disappear. This is due to the chromosome's loss of genes over time and its inability to undergo genetic recombination. While this raises questions about the future of male humans, some species, like spiny rats, have evolved alternative sex determination mechanisms after losing their Y chromosome.  This suggests that even if the Y chromosome disappears, humans might evolve new ways to determine sex, potentially leading to diverse human species in the future.
+
+Tue, 27 Aug 2024 16:21:35 +0530
+### [EEE, West Nile, malaria: How different are the mosquito-borne diseases on the rise in the US?](https://www.firstpost.com/health/eee-west-nile-malaria-how-different-are-the-mosquito-borne-diseases-on-the-rise-in-the-us-13808704.html)
+
+Mosquito-borne illnesses are seeing an increase in the United States. Cases of eastern equine encephalitis (EEE), a rare but severe disease, have been reported in Massachusetts, New Jersey, and Vermont. The disease causes brain inflammation and can be fatal. West Nile virus, spread by Culex mosquitoes, has also affected the former top US infectious disease expert, Dr. Anthony Fauci. 
+
+Dengue and malaria, typically found in tropical regions, are also becoming more common in the US due to factors like global warming.  Dengue, known for causing severe muscle and joint pain, carries a high risk globally with millions of infections occurring annually. Malaria, a parasitic disease, infects hundreds of millions globally, primarily in Africa. Although primarily found in tropical regions, warming temperatures are expanding the reach of these mosquito-borne diseases.
+
 Tue, 27 Aug 2024 15:30:43 +0530
 ### [MeToo haunts Mollywood: The bigwigs facing sexual abuse allegations](https://www.firstpost.com/explainers/mollywood-metoo-kerala-bigwigs-sexual-abuse-allegations-hema-committee-report-13808698.html)
 

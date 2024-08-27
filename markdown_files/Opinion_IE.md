@@ -1,3 +1,10 @@
+Tue, 27 Aug 2024 10:30:19 +0000
+### [‘Kalki 2898 AD’ on OTT: Indian cinema’s problem lies in its lazy piggybacking on the Ramayana and Mahabharata](https://indianexpress.com/article/opinion/columns/kalki-2898-ad-on-ott-indian-cinemas-problem-lies-in-its-lazy-piggybacking-on-the-ramayana-and-mahabharata-9535492/)
+
+The article discusses the success of the film Kalki 2898 AD, noting its reliance on familiar tropes from the Mahabharata and Ramayana. While acknowledging the broad appeal of these epics, the author argues that this consistent retelling, particularly in simplified and regressive forms, hinders Indian cinema from developing new archetypes and voices. 
+
+The article contrasts this approach with Hollywood, which also recycles stories but often lacks the depth of meaning found in Indian epics. It suggests that Indian cinema should learn from Hollywood's shortcomings and strive for originality, exploring more nuanced and contemporary interpretations of classic narratives. The author ultimately concludes that while these epics remain a part of Indian identity, their constant rehashing may not be beneficial for the 21st century.
+
 Tue, 27 Aug 2024 07:30:24 +0000
 ### [What we don’t talk about when we talk about rape](https://indianexpress.com/article/opinion/columns/what-we-dont-talk-about-when-we-talk-about-rape-9535332/)
 

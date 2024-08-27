@@ -1,3 +1,13 @@
+Tue, 27 Aug 2024 11:37:17 +0000
+### [What is SpaceX’s Crew Dragon, which will bring back Sunita Williams from space?](https://indianexpress.com/article/explained/everyday-explainers/spacex-crew-dragon-9535866/)
+
+NASA has announced that astronauts Sunita Williams and Barry Wilmore, currently aboard the International Space Station (ISS), will return to Earth in February 2025 on a SpaceX Crew Dragon flight. Their original return on a Boeing Starliner spacecraft was delayed due to technical issues.  SpaceX is modifying Crew Dragon for the mission, including reconfiguring seats and adjusting cargo capacity. Crew Dragon, a reusable spacecraft, was developed by SpaceX to transport astronauts to the ISS for NASA. It consists of a reusable capsule and an expandable trunk module. The spacecraft launches on a Falcon 9 rocket and docks automatically with the ISS. For return missions, the trunk detaches and burns up in the atmosphere, while the capsule performs a de-orbit burn and splashes down in the ocean.
+
+Tue, 27 Aug 2024 10:16:29 +0000
+### [Supreme Court overrules Delhi court verdict to grant bail to Kavitha: Why it criticised the HC’s reasoning](https://indianexpress.com/article/explained/explained-law/supreme-court-k-kavitha-bail-9535660/)
+
+The Supreme Court granted bail to BRS leader K Kavitha in the Delhi Excise policy case.  The court criticized the Delhi High Court's decision to deny Kavitha bail, stating the high court's reasoning could prevent any educated woman from receiving bail.  The  Supreme Court highlighted the exception for women under Section 45 of the Prevention of Money Laundering Act (PMLA), which allows for bail in certain circumstances. The Delhi High Court had earlier denied bail to Kavitha, arguing that she was not a "vulnerable" woman as she was educated and well-placed in society.  However, the Supreme Court emphasized that the law does not make distinctions based on a woman's profession or social status when considering bail applications under the exception for women.
+
 Tue, 27 Aug 2024 09:46:11 +0000
 ### [Explained: Supreme Court ruling on relaxing bail provision for first-time offenders to apply retrospectively](https://indianexpress.com/article/explained/explained-law/sc-bail-undertrials-bnss-9535391/)
 

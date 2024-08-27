@@ -1,3 +1,23 @@
+Tue, 27 Aug 2024 17:08:30 +0530
+### [Can Trump do a Truman? When opinion polls err and media is biased](https://www.firstpost.com/opinion/can-trump-do-a-truman-when-opinion-polls-err-and-media-is-biased-13808769.html)
+
+The article discusses the accuracy of opinion polls, drawing parallels between polls before the 2020 and 1948 elections and highlighting how incorrect predictions can be.  
+
+Though some recent polls show a lead for VP Kamala Harris, the article cautions against jumping to conclusions based on this, reasoning that recent polls do not guarantee election results. It cites 1948 and 2016 elections that defied poll predictions.  It also points out that media often biases its reporting 
+
+The article argues that journalists often overstate the certainty of polls, which can mislead readers as polls aren't 100% accurate. The Truman-Dewey 1948 election. 2016 saw similar discrepancies with polls predicting Hillary Clinton's win.  The article then again emphasizes that polls should not be treated as guaranteed predictions. 
+
+The article concludes by suggesting that, just like media sometimes overemphasize poll results when they favor their narrative, predicting the election outcome.
+
+Tue, 27 Aug 2024 16:28:39 +0530
+### [Sri Lankan presidential poll: Dynast, incumbent and challenger, but no frontrunner yet](https://www.firstpost.com/opinion/sri-lankan-presidential-poll-dynast-incumbent-and-challenger-but-no-frontrunner-yet-13808725.html)
+
+Sri Lanka is preparing for a presidential election on September 21st, amidst political instability. Incumbent President Ranil Wickremesinghe, who assumed office after the 2022 protests that ousted Gotabaya Rajapaksa, is seeking re-election as an independent candidate. 
+
+The main opposition, led by Sajith Premadasa of the Samagi Jana Balawegaya (SJB), is forming alliances with various parties to challenge him.  The Sri Lanka Podujana Peramuna (SLPP) initially planned to field Dhammika Perera, but after his withdrawal, has nominated Namal Rajapaksa, son of former President Mahinda Rajapaksa.  
+
+Other notable candidates include Field Marshal Sarath Fonseka and Anura Kumar Dissanayake representing the National People’s Power (NPP).  The election will be closely watched as it could signal the direction of Sri Lankan politics following the recent turmoil. Achieving a first-round majority for any candidate remains  unlikely without significant coalition building.
+
 Tue, 27 Aug 2024 13:18:02 +0530
 ### [From Ukraine to Bangladesh: Analysing instability, regime change and the not-so-hidden American hand](https://www.firstpost.com/opinion/from-ukraine-to-bangladesh-analysing-instability-regime-change-and-the-not-so-hidden-american-hand-13808653.html)
 
