@@ -1,3 +1,17 @@
+Tue, 27 Aug 2024 08:30:13 +0530
+### [Unified Pension Scheme: Is good psychology also sound economics?](https://www.livemint.com/opinion/online-views/unified-pension-scheme-ups-behavioural-economics-old-pension-scheme-ops-fiscal-cost-stock-market-retail-investors-11724707135841.html)
+
+The government's newly launched Unified Pension Scheme (UPS) is poised to replace the existing National Pension System (NPS). The UPS offers assured pension benefits, a feature that appeals to individuals who prefer guaranteed returns over the market-linked uncertainties of the NPS.  Despite the NPS performing reasonably well, people's preference for assured income, as explained by Prospect Theory, contributed to the decision to shift towards the UPS.  
+
+The UPS is a hybrid model, combining the assured payout structure of the old pension scheme with the mandatory contribution feature of the NPS. The government will contribute 18.5%, a higher percentage than the NPS, to enhance pension payouts.  
+
+However, the long-term fiscal sustainability of the UPS remains a concern.  It depends heavily on market performance. A prolonged market slump could significantly impact the scheme's ability to meet its obligations.  To mitigate this risk, ensuring stable economic growth and market stability is crucial for the UPS's success.
+
+Tue, 27 Aug 2024 07:00:09 +0530
+### [Mint Quick Edit | Dial ULI for digital credit outreach](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-uli-unified-lending-interface-loans-upi-rbi-shaktikanta-das-rural-lending-digital-credit-11724707005573.html)
+
+India's central bank launched the Unified Lending Interface (ULI), a technology platform designed to simplify the credit application process.  ULI aims to streamline credit appraisals by gathering data from various sources with borrowers' consent, leveraging India's digital infrastructure based on Aadhaar IDs and mobile connectivity. This initiative is expected to  make formal credit more accessible, particularly to underserved populations, and potentially curb reliance on exploitative moneylenders. ULI's success could serve as a model for other countries seeking to improve financial inclusion.
+
 Mon, 26 Aug 2024 16:00:06 +0530
 ### [India Inc is in a sweet spot but risks loom too](https://www.livemint.com/opinion/online-views/india-inc-credit-rating-balance-sheets-government-policy-regulation-ebitda-liquidity-transportation-telecom-reliance-11724621421071.html)
 

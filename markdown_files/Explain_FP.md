@@ -1,3 +1,8 @@
+Tue, 27 Aug 2024 06:30:42 +0530
+### [FirstUp: SpaceX’s Polaris Dawn mission, US NSA to visit China… The headlines today](https://www.firstpost.com/explainers/firstup-spacex-polaris-dawn-mission-us-nsa-china-visit-headlines-today-13808409.html)
+
+SpaceX is set to launch its Polaris Dawn mission, a five-day private space exploration effort led by Jared Isaacman. The mission marks a significant step in private space travel. Meanwhile, US National Security Advisor Jake Sullivan is traveling to China for talks with Foreign Minister Wang Yi, addressing issues ranging from Taiwan and military relations to the fentanyl crisis and tensions in various regions.
+
 Mon, 26 Aug 2024 20:41:10 +0530
 ### [Can Lebanon afford to go to war with Israel?](https://www.firstpost.com/explainers/can-lebanon-afford-to-go-to-war-with-israel-13808421.html)
 

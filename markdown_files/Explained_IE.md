@@ -1,3 +1,19 @@
+Tue, 27 Aug 2024 03:25:02 +0000
+### [Two new US-India agreements: a short history of growing defence ties](https://indianexpress.com/article/explained/explained-global/two-new-us-india-agreements-a-short-history-of-growing-defence-ties-9534655/)
+
+India and the US further strengthened their defense and security cooperation through two new agreements. The Security of Supply Arrangement (SOSA) prioritises reciprocal support for goods and services essential for national defense, enabling both nations to address potential supply chain disruptions. The Memorandum of Agreement regarding the Assignment of Liaison Officers aims to enhance information sharing by posting Indian armed forces officers in key US strategic commands. 
+
+
+ This development builds upon a decade of collaborative milestones, including foundational agreements on military information sharing, logistics, communications, and data exchange.  
+The countries have also established frameworks for industrial cooperation, technological advancement, and defense trade, resulting in significant  procurement deals for  India, such as helicopters, rifles, howitzers, and jet engines.
+
+Tue, 27 Aug 2024 02:02:46 +0000
+### [Why a new, homegrown missile can be a game-changer for Ukraine’s fight against Russia](https://indianexpress.com/article/explained/explained-global/homegrown-missile-game-changer-ukraine-fight-russia-9534340/)
+
+Ukraine has unveiled a new long-range weapon called the Palianytsia, a missile-drone hybrid capable of striking 700 kilometers deep into Russian territory.  Developed in response to limitations imposed by Western allies on the use of long-range weapons, the Palianytsia will allow Ukraine to target areas previously out of reach.  
+
+ Ukrainian officials believe the weapon will be a game-changer, enabling them to strike targets deep within Russia and exploit vulnerabilities in its defenses.  The Palianytsia is relatively inexpensive to produce, costing less than $1 million per unit.
+
 Mon, 26 Aug 2024 14:39:21 +0000
 ### [Who is Telegram co-founder Pavel Durov, and why did French authorities arrest him?](https://indianexpress.com/article/explained/explained-global/telegram-founder-pavel-durov-arrest-france-9534303/)
 
