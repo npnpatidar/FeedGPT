@@ -1,3 +1,28 @@
+Tue, 27 Aug 2024 15:00:05 +0530
+### [Anti-rape protests won’t suffice: India needs an institutional upheaval](https://www.livemint.com/opinion/online-views/public-protests-sexual-assault-patriarchy-womens-safety-ncrb-crimes-against-women-gender-gap-women-representation-11724708180119.html)
+
+Despite  new laws and increased awareness, sexual violence in India remains a persistent issue. 
+
+The article highlights a critical need for systemic change, as the deeply ingrained patriarchal norms and structures within society contribute to the problem.  
+
+It emphasizes that addressing this issue requires a multifaceted approach, including increased female representation in positions of power within government, the police force, and the corporate world. This increased representation can help to shift cultural attitudes and improve the system's response to violence against women.
+
+The article also points to the need for police reforms, addressing the backlog in the judicial system, and creating safer public spaces for women. 
+
+
+It concludes by stressing the urgency of reform, emphasizing that meaningful change is essential to ensure the safety and well-being of women in India.
+
+Tue, 27 Aug 2024 14:00:03 +0530
+### [Think win-win to overcome the second Chinese export shock](https://www.livemint.com/opinion/online-views/chinese-imports-trade-barriers-protectionism-subsidies-industrial-policy-fta-lithium-batteries-evs-11724707859131.html)
+
+China's aggressive export push, particularly in advanced manufactured goods, is stirring global trade tensions. This "second China shock" follows a previous surge in the early 2000s,  triggered by its entry into the WTO. China's strategy, once based on low-wage manufacturing, is now driven by vast production capacity, enabling them to undercut competitors on price.  
+
+While China claims their exports are a reflection of strong domestic demand, the global community perceives this as a deliberate strategy to dominate markets. The US and other nations are responding with protectionist measures like higher tariffs and government subsidies for domestic industries.  
+
+This situation echoes concerns raised by economist John Maynard Keynes at the Bretton Woods conference in 1944. Keynes highlighted the risks of large current account surpluses, arguing that the burden of adjustment should be shared by both deficit and surplus countries.  
+
+He advocated for a global economic system with: stable aggregate demand, mechanisms to balance current accounts, financing for developing economies, and an open international trading system. His ideas remain relevant today as the world grapples with the consequences of China's export dominance.
+
 Tue, 27 Aug 2024 12:47:59 +0530
 ### [The sky is the limit for Indian aviation, but can homegrown talent keep up?](https://www.livemint.com/opinion/online-views/airlines-talent-pilots-aviation-schools-aviation-training-tata-sons-gmr-dgca-commercial-pilot-licence-ceo-coo-leadership-11724737766033.html)
 

@@ -1,3 +1,10 @@
+Tue, 27 Aug 2024 09:46:11 +0000
+### [Explained: Supreme Court ruling on relaxing bail provision for first-time offenders to apply retrospectively](https://indianexpress.com/article/explained/explained-law/sc-bail-undertrials-bnss-9535391/)
+
+The Supreme Court ruled that relaxed bail provisions under the new Bharatiya Nagarik Suraksha Sanhita (BNSS) will apply retroactively. This means first-time offenders detained in pending criminal cases, even those predating the BNSS, can be released on bail after serving one-third of the maximum imprisonment for their offense. 
+
+This decision stems from the court's ongoing monitoring of prison conditions and recognizing the BNSS provision's potential to alleviate overcrowding. The court directed jail superintendents to process applications from eligible undertrial prisoners within three months.
+
 Tue, 27 Aug 2024 03:25:02 +0000
 ### [Two new US-India agreements: a short history of growing defence ties](https://indianexpress.com/article/explained/explained-global/two-new-us-india-agreements-a-short-history-of-growing-defence-ties-9534655/)
 

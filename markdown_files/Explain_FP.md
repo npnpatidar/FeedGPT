@@ -1,3 +1,44 @@
+Tue, 27 Aug 2024 15:30:43 +0530
+### [MeToo haunts Mollywood: The bigwigs facing sexual abuse allegations](https://www.firstpost.com/explainers/mollywood-metoo-kerala-bigwigs-sexual-abuse-allegations-hema-committee-report-13808698.html)
+
+Reports by the Justice Hema Committee triggered a Malayalam film industry MeToo movement.  Several women accused prominent figures like actor Siddique of sexual misconduct. 
+
+A female actor accused Siddique of rape when they met about a film role. Another actor, Sridevika, claimed filmmaker Thulasidas harassed during the shoot of  "Avan Chandiyude Makan," and that AMMA, the industry association, failed to act on her complaints.
+
+These accusations sparked outrage, and Mohanlal, the AMMA president, resigned. Actor Prithviraj Sukumaran demanded action against perpetrators and criticized AMMA's handling of previous complaints. 
+
+The Kerala government has formed a Special Investigation Team to probe the allegations.
+
+Tue, 27 Aug 2024 14:48:01 +0530
+### [Nabanna Abhijan protests turn violent: What is ‘Chhatra Samaj’, the new student outfit behind the stir in Kolkata?](https://www.firstpost.com/explainers/nabanna-abhijan-protests-chhatra-samaj-student-outfit-kolkata-13808640.html)
+
+A newly formed student group, Paschimbanga Chhatra Samaj, organized a protest march in Kolkata demanding the resignation of Chief Minister Mamata Banerjee over the recent rape-murder case of a trainee doctor. The march, called "Nabanna Abhijan," aimed to reach the state secretariat.  
+
+The group, while claiming to be apolitical, faced accusations from the ruling Trinamool Congress of having BJP backing. The BJP denied the allegations, stating they supported the movement but were not organizing it.  Police called the march illegal and deployed significant security measures, including tear gas and water cannons, to prevent the students from reaching their destination. The situation escalated, leading to stone-throwing by protesters and forceful dispersal by police.
+
+Tue, 27 Aug 2024 14:30:35 +0530
+### [Pavel Durov arrest: Is Telegram the go-to app for terrorists?](https://www.firstpost.com/explainers/telegram-ceo-pavel-durov-arrested-is-it-the-go-to-app-for-terrorists-13808712.html)
+
+Telegram, with approximately 700 million users globally, has positioned itself as a platform prioritizing user privacy and data protection. It gained notoriety following the 2015 Paris attacks when ISIS utilized the app to spread propaganda and recruit members. Despite claims of taking down numerous ISIS accounts, experts argue that Telegram is ineffective in curbing the group's online activity, as new channels can be easily created. 
+
+The app's strong encryption features, while appealing to many, have also attracted criminal and terrorist organizations.  Concerns over Telegram's role in facilitating terrorist activities have heightened following CEO Pavel Durov's arrest in France over allegations of money laundering, drug trafficking, and terrorism support.
+
+Tue, 27 Aug 2024 14:01:50 +0530
+### [India has developed its own mpox RT-PCR testing kits. Here’s why this matters](https://www.firstpost.com/health/india-has-developed-its-own-mpox-rt-pcr-testing-kits-heres-why-this-matters-13808633.html)
+
+India has made significant strides in its fight against the mpox virus by developing two indigenous RT-PCR testing kits. The 'ErbaMDx Monkeypox RT-PCR Kit', developed by Andhra Pradesh MedTech Zone (AMTZ) and Transasia Diagnostics, boasts a 12-month shelf life, no cross-reactivity with other orthopoxviruses, and uses lyophilized components for easier storage and transportation.  
+
+Siemens Healthineers has also developed the 'IMDX Monkeypox Detection RT-PCR Assay', which offers rapid results in 40 minutes and high accuracy with 100% sensitivity and specificity. Both kits are approved by the Central Drugs Standard Control Organisation (CDSCO) and demonstrate India's growing expertise in advanced medical technology.
+ 
+  These developments come at a crucial time as the WHO has declared a second public health emergency due to the global spread of a more virulent mpox strain.
+
+Tue, 27 Aug 2024 13:50:22 +0530
+### [What’s al-Aqsa, Islam’s third holiest site, where Israeli minister wants to build a synagogue?](https://www.firstpost.com/explainers/al-aqsa-islam-third-holiest-site-israel-itamar-ben-gvir-palestine-conflict-13808680.html)
+
+Israel's National Security Minister Itamar Ben-Gvir has sparked international outrage by stating that he would build a synagogue at the al-Aqsa mosque compound in occupied East Jerusalem if he had the authority.  The compound, known to Jews as the Temple Mount and to Muslims as al-Haram al-Sharif, is the third holiest site in Islam and is highly contested. 
+
+Ben-Gvir's comments have drawn criticism from both Israeli and international leaders, who argue that his actions threaten regional stability. The site has been a flashpoint for conflict for decades, with numerous clashes between Israeli forces and Palestinian worshippers.  Current arrangements stipulate that the Islamic Waqf controls the compound's internal affairs while Israel manages external security. However, Israeli actions, such as allowing Jewish visitors and prohibiting prayer, have been condemned by Muslims.  Ben-Gvir's previous visits to the site have also caused significant controversy.
+
 Tue, 27 Aug 2024 12:24:39 +0530
 ### [After UPI, RBI announces new Unified Lending Interface: What is it?](https://www.firstpost.com/explainers/rbi-upi-unified-lending-interface-uli-explained-shaktikanta-das-13808648.html)
 
