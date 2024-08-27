@@ -1,3 +1,19 @@
+Wed, 28 Aug 2024 00:20:00 +0530
+### [​Coordinated attacks: On Pakistan and the Baloch conflict](https://www.thehindu.com/opinion/editorial/%E2%80%8Bcoordinated-attacks-on-pakistan-and-the-baloch-conflict/article68573468.ece)
+
+Following the Taliban's takeover of Afghanistan, Pakistan, particularly Balochistan and Khyber Pakhtunkhwa, has experienced a surge in terrorist attacks. On August 26th, the 18th death anniversary of Baloch nationalist leader Nawab Akbar Bugti, separatists carried out coordinated attacks across Balochistan, damaging infrastructure and targeting migrant laborers. 
+
+This increased reach and capability of the insurgency highlight the longstanding issue of Baloch separatism in Pakistan.  Balochistan, despite its natural resources, remains underdeveloped, leading to resentment and exploitation accusations against the central government, particularly towards Punjab. 
+
+While Pakistan's approach has been primarily military, it has failed to address the root causes of the conflict, such as poverty and human rights abuses. The recent attacks underscore the urgent need for the Pakistani government to engage with civil rights groups, address developmental concerns, and stop human rights violations to achieve stability and security in Balochistan.
+
+Wed, 28 Aug 2024 00:10:00 +0530
+### [​Reasonable restrictions: on Durov’s arrest and content hosting](https://www.thehindu.com/opinion/editorial/%E2%80%8Breasonable-restrictions-on-durovs-arrest-and-content-hosting/article68573507.ece)
+
+The arrest of Telegram's founder Pavel Durov in France due to investigations into criminal activity on his platform, has sparked debate about free speech and responsibility. Durov, known for his stance on absolute free speech, argues that privacy trumps any fear of harm. However, Telegram's platform has been used for disseminating extremism, drug dealing, and child pornography.  
+
+While Telegram's encryption makes it attractive for dissidents, it doesn't guarantee complete secrecy. The platform acknowledges moderation within industry standards and questions its liability for user abuse.  The incident highlights the complex balance between protecting free expression and preventing harm, prompting discussion about the responsibilities of platforms like Telegram towards moderating content.
+
 Tue, 27 Aug 2024 00:30:00 +0530
 ### [​No more delays: On holding the Census](https://www.thehindu.com/opinion/editorial/%E2%80%8Bno-more-delays-the-hindu-editorial-on-holding-the-census/article68569137.ece)
 
