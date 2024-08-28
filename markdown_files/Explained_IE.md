@@ -1,3 +1,13 @@
+Wed, 28 Aug 2024 13:59:37 +0000
+### [Who is Indian-origin Kevan Parekh, the new CFO of Apple?](https://indianexpress.com/article/explained/explained-global/kevan-parekh-cfo-apple-9538202/)
+
+Apple has appointed Kevan Parekh as its new chief financial officer, succeeding Luca Maestri who will retire in January 2025. Parekh, a 11 year veteran of Apple, has been with the company since 2012 and currently oversees financial planning, investor relations, and market research. He is highly regarded for his financial expertise and deep understanding of Apple's operations.  Maestri will be transitioning out of the role, having groomed Parekh for the position.   Parekh's appointment adds to the growing list of Indian-origin executives leading major global companies.
+
+Wed, 28 Aug 2024 12:48:38 +0000
+### [Oasis reunites: Story of the British band and reasons behind their enduring popularity](https://indianexpress.com/article/explained/explained-culture/oasis-reunites-9537999/)
+
+Oasis, the iconic British rock band known for defining the Britpop genre in the 1990s, is reuniting for a world tour in 2025.  After a 15-year split and years of public animosity between brothers Liam and Noel Gallagher, the band is set to perform in the UK and Ireland, with plans to expand to other continents.  They achieved massive success with albums like "Definitely, Maybe" and "(What's the Story) Morning Glory?", featuring anthems like "Wonderwall" and "Don't Look Back in Anger". The reunion marks a significant moment for fans who have long yearned for a full Oasis live experience.
+
 Wed, 28 Aug 2024 12:08:15 +0000
 ### [How Canada’s policy of ‘reducing low-wage, temporary workers’ may impact Indians](https://indianexpress.com/article/explained/explained-global/canada-policy-low-wage-temporary-workers-indians-9537877/)
 

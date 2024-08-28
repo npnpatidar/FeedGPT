@@ -1,3 +1,29 @@
+Wed, 28 Aug 2024 19:06:00 +0530
+### [Explained: Why is Namibia planning to cull elephants, zebras, and wildebeest amid drought?](https://www.firstpost.com/explainers/explained-why-is-namibia-planning-to-cull-elephants-zebras-and-wildebeest-amid-drought-13809038.html)
+
+Namibia is facing a severe drought that has depleted its food reserves by 84%.  To address escalating food insecurity, the government has authorized the culling of 723 wild animals, including 83 elephants, to distribute meat to drought-stricken communities. The cull is justified by the government as necessary to manage animal populations where resources are scarce.  Already, 157 animals have been culled, providing over 56,800 kilograms of meat for the relief program. This drastic measure highlights the dire situation facing Namibia and the region due to the ongoing drought.
+
+Wed, 28 Aug 2024 18:21:42 +0530
+### [How an Australian posed as a teen YouTuber and committed 'one of the worst sextortion cases' in history](https://www.firstpost.com/explainers/how-an-australian-posed-as-a-teen-youtuber-and-committed-one-of-the-worst-sextortion-cases-in-history-13809149.html)
+
+Muhammad Zain Ul Abideen Rasheed, a 29-year-old Australian man, has been sentenced to 17 years in prison for orchestrating a large-scale sextortion operation. He posed as a teenage YouTuber, targeting vulnerable girls worldwide, primarily between the ages of 13 and 16. Rasheed manipulated his victims into sharing explicit content, threatening to expose their personal information if they didn't comply.  
+
+His crimes affected nearly 300 victims across 20 countries, involving over 550 incidents.  Rasheed was apprehended following a global investigation involving Australian Federal Police,US Homeland Security Investigations, and Interpol. He pleaded guilty to 119 charges, with the judge characterizing the case as unprecedented in Australia due to its scale and severity. Rasheed continues to pose a significant risk of reoffending.
+
+Wed, 28 Aug 2024 18:21:32 +0530
+### [‘Deadpool Killer’ gets death: The shocking story of Wade Wilson who murdered 2 women for ‘sake of killing’](https://www.firstpost.com/explainers/the-shocking-story-of-deadpool-killer-wade-wilson-13809104.html)
+
+Wade Wilson, dubbed the "Deadpool Killer" due to sharing a name with the Marvel antihero, has been sentenced to death for the murders of Kristine Melton and Diane Ruiz in 2019.  Wilson, who was found guilty of two counts of first-degree murder and other charges, showed no emotion during the sentencing.  Prosecutors described the murders as "heinous, atrocious, and cruel," citing the brutality involved, particularly in Ruiz's death. Wilson's attorneys argued for leniency, citing his history of drug addiction and brain damage, but the jury voted to impose the death penalty.
+
+Wed, 28 Aug 2024 18:01:43 +0530
+### [What is Trump-flation? Why are economists worried about it?](https://www.firstpost.com/explainers/what-is-trump-flation-why-are-economists-worried-about-it-13809135.html)
+
+The term "Trump-flation" refers to concerns about inflation potentially rising if Donald Trump wins a second term.  Economists worry about this because of several of Trump's stated policies, including imposing tariffs on imports, weakening the dollar, and potentially pressuring the Federal Reserve to lower interest rates.  
+
+These policies could lead to higher consumer prices. A 20% tariff on China, for example, could cost US households an additional $1,700 to $2,350 per month. Some economists believe that Trump's policies could lead to a surge in inflation, potentially echoing the situation in Turkey under President Erdogan, where inflation reached 85%. 
+
+However, some argue that Trump's focus on tax cuts and replacing them with tariffs on international trade could be beneficial. They point out that income taxes are also a type of trade tax, and it's a matter of preference whether to tax domestic or international trade. Ultimately, the potential impact of Trump's policies on inflation remains a subject of debate.
+
 Wed, 28 Aug 2024 17:11:35 +0530
 ### [Mamata Banerjee calls for death penalty for rapists: What does India’s law say?](https://www.firstpost.com/explainers/kolkata-doctor-rape-murder-west-bengal-cm-mamata-banerjee-rapists-death-penalty-india-law-13809114.html)
 
