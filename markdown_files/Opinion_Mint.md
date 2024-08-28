@@ -1,3 +1,12 @@
+Wed, 28 Aug 2024 08:30:11 +0530
+### [Paytm cue: Adhere to stock option rules in both letter and spirit](https://www.livemint.com/opinion/online-views/paytm-shares-vijay-shekhar-sharma-one97-communications-esops-sebi-employee-stock-options-promoters-startups-11724787393321.html)
+
+One97 Communications, the owner of Paytm, saw its shares drop after reports of a possible show-cause notice from the Securities and Exchange Board of India (Sebi). The issue revolves around an employee stock option plan (ESOP) granted to founder CEO Vijay Shekhar Sharma in 2021, which Sebi ruled may be in violation of norms by granting options to promoters.
+
+While One97 denies any fresh scrutiny, Sharma's substantial ownership stake in the company, both directly and indirectly, raises questions about his eligibility for the ESOP. Regardless of the specific legal interpretation, the incident has damaged investor trust. 
+
+The ESOP was intended to align the interests of employees with shareholders by incentivizing performance.  Granting it to a promoter like Sharma, who already has a large stake and powerful control, seems to undermine this spirit.  This case serves as a warning to other startups planning to go public about the importance of adhering to both the letter and spirit of regulations, especially those concerning shareholder fairness and transparency.
+
 Wed, 28 Aug 2024 07:00:09 +0530
 ### [Mint Quick Edit | Resourceful IPO: Irrational exuberance?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-resourceful-automobile-ipo-equity-frothy-stock-market-small-cap-firms-yamaha-investors-11724787283640.html)
 

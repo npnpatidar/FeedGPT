@@ -1,3 +1,12 @@
+Wed, 28 Aug 2024 08:49:43 +0530
+### [Was there a time when dinosaurs travelled across continents? Here's what new study says](https://www.firstpost.com/explainers/dinosaurs-footprints-across-continents-new-study-13808767.html)
+
+Over 260 dinosaur footprints have been discovered in Brazil and Cameroon, separated by the Atlantic Ocean. These tracks, dating back to the Early Cretaceous period, provide insights into the environment of the Gondwana supercontinent. The footprints, consistent in age and shape, suggest a family of predators roamed both continents before they split apart.  
+
+The majority of the fossils belong to three-toed theropod dinosaurs, with some possibly belonging to sauropods and ornithischians. Both regions where the footprints were found were once connected, forming a land bridge that allowed dinosaurs to travel between Africa and South America.  
+
+The tracks offer valuable information about dinosaur behavior, including their gait, social interactions, and the environments they inhabited.
+
 Wed, 28 Aug 2024 05:30:12 +0530
 ### [FirstUp: 2024 Paralympics in Paris and other big headlines today](https://www.firstpost.com/explainers/firstup-2024-paralympics-in-paris-and-other-big-headlines-today-13808801.html)
 

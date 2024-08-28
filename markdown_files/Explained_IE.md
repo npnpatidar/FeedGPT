@@ -1,3 +1,17 @@
+Wed, 28 Aug 2024 03:30:52 +0000
+### [What are combination drugs; why have 156 of them been banned?](https://indianexpress.com/article/explained/explained-health/govt-ban-fdc-drugs-cheston-cold-foracet-health-ministry-fever-allergies-aches-9536556/)
+
+The Indian government has banned 156 fixed-dose combination (FDC) drugs, marking the most significant crackdown since 2018. This brings the total number of banned FDCs to 499 since 2014. The government deemed these combinations irrational and lacking therapeutic benefits. 
+
+The banned drugs include various combinations for gastrointestinal problems, skin conditions, migraines, and erectile dysfunction.  The move aims to address concerns about the overuse of antibiotics, the potential for harmful interactions between ingredients, and companies circumventing pricing controls by creating FDCs. 
+ 
+While manufacturers have been ordered to halt production and sales, existing stock may remain available. The government hopes this action will contribute to a healthier and safer pharmaceutical market.
+
+Wed, 28 Aug 2024 03:15:02 +0000
+### [Why India’s weather forecasting needs an upgrade](https://indianexpress.com/article/explained/explained-climate/india-met-department-upgradation-imd-forecasting-tools-monsoon-season-vintage-meteorological-instruments-9536559/)
+
+The India Meteorological Department (IMD) has significantly upgraded its capabilities in the last decade, leading to increased public trust in weather forecasts.  Improvements in infrastructure, technology, and expertise have enabled the IMD to provide more accurate and detailed forecasts, particularly for cyclones. This has resulted in effective disaster response and reduced loss of life.  However, challenges remain in predicting hyper-local events and extreme weather events driven by climate change. The IMD aims to further enhance its capabilities by developing India-specific weather models that can better simulate the country's unique climatic conditions.
+
 Tue, 27 Aug 2024 23:00:50 +0000
 ### [How AMMA lorded over Kerala cinema, its writ running from stars to junior artistes](https://indianexpress.com/article/explained/how-amma-lorded-over-kerala-cinema-its-writ-running-from-stars-to-junior-artistes-9536680/)
 
