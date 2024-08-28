@@ -1,3 +1,24 @@
+Wed, 28 Aug 2024 14:45:28 +0530
+### [Bangladesh frees ABT chief Jashimuddin Rahmani, a vocal supporter of Al Qaeda. Should India be worried?](https://www.firstpost.com/explainers/bangladesh-frees-abt-chief-jashimuddin-rahmani-a-vocal-supporter-of-al-qaeda-should-india-be-worried-13809034.html)
+
+Jashimuddin Rahmani, the leader of the Al Qaeda-affiliated Ansarullah Bangla Team (ABT), has been released from prison in Bangladesh. Rahmani was convicted for abetting the murder of blogger Ahmed Rajib Haider in 2013. The ABT is responsible for the killings of several other bloggers, writers, and activists in Bangladesh. Rahmani is known for his extremist views and support of Al Qaeda. He has authored books promoting violence against non-believers.
+ 
+Experts believe that Rahmani's release poses a threat to India as the ABT has been attempting to establish a jihadi network in the country. They have allegedly collaborated with the Lashkar-e-Taiba to carry out attacks in India's northeast. The Indian authorities have arrested several ABT members in recent months.
+
+Wed, 28 Aug 2024 14:34:30 +0530
+### [Where is MH370? Has an Australian scientist solved the mystery of the Malaysian Airlines plane?](https://www.firstpost.com/explainers/mh370-australian-scientist-solved-mystery-malaysian-airlines-plane-13808969.html)
+
+The disappearance of Malaysia Airlines flight MH370 in 2014 remains a mystery, but Australian scientist Vincent Lyne proposes a new theory.  Lyne suggests the plane is located in a deep trench at the eastern end of the Broken Ridge in the Southern Indian Ocean, a site he believes was deliberately chosen by the pilot.
+
+He bases his theory on a flight path generated from the pilot’s home simulator that intersects with the coordinates of this trench. Lyne argues that damage to the plane’s wings and flaps points to a “controlled ditching” rather than a catastrophic crash.  
+
+While official investigations focused on the 7th arc, where the last satellite communication occurred, Lyne believes the evidence points to the deep trench as the final resting place of MH370.
+
+Wed, 28 Aug 2024 13:48:29 +0530
+### [NDA crosses majority mark in Rajya Sabha: Why it matters for govt](https://www.firstpost.com/explainers/nda-bjp-majority-mark-rajya-sabha-why-it-matters-for-govt-13809010.html)
+
+The BJP-led NDA has secured a majority in the Rajya Sabha after 11 members, including nine from the BJP, were elected unopposed. This shift in numbers gives the ruling alliance the power to pass bills without relying on the support of non-aligned parties.  Prior to the elections, the NDA was short of the majority mark, prompting concerns about its ability to push through its legislative agenda. The NDA now holds 121 seats in the Upper House, surpassing the required 119 for a majority.  This newfound majority is expected to significantly bolster the NDA's legislative capabilities and streamline the passage of important bills.
+
 Wed, 28 Aug 2024 13:40:01 +0530
 ### [Kolkata rape-murder: Who is Anup Dutta, the policeman under scanner as CBI demands polygraph test?](https://www.firstpost.com/explainers/kolkata-rape-murder-who-is-anup-dutta-the-policeman-under-scanner-as-cbi-demands-polygraph-test-13808943.html)
 

@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 14:47:46 +0530
+### [K. Kavitha’s bail: What is PMLA’s bail concession for women? | Explained](https://www.thehindu.com/news/national/k-kavithas-bail-what-is-pmlas-bail-concession-for-women-explained/article68573908.ece)
+
+The Supreme Court granted bail to BRS leader K Kavitha in a money laundering case linked to the Delhi excise policy scam. The court criticized the Delhi High Court's decision to deny bail, arguing that Kavitha should benefit from the PMLA's provision granting exemptions to women based on vulnerability. 
+
+The High Court had rejected the bail plea stating that Kavitha, being well-educated and accomplished, did not fit the "vulnerable woman" category. However, the Supreme Court emphasized that the PMLA provision is intended to protect women, regardless of their education or social standing.  Justice B.R. Gavai clarified that the precedent set by the Saumya Chaurasia case did not exclude educated women from this protection, urging courts to exercise discretion judiciously when considering bail for women.
+
 Tue, 27 Aug 2024 19:02:08 +0530
 ### [Is the administration of lie-detector tests legally valid? | Explained](https://www.thehindu.com/news/national/is-the-administration-of-lie-detector-tests-legally-valid/article68568568.ece)
 

@@ -1,3 +1,12 @@
+Wed, 28 Aug 2024 08:30:55 +0000
+### [Bail for K Kavitha: Without personal liberty, all other rights are meaningless](https://indianexpress.com/article/opinion/columns/bail-for-k-kavitha-without-personal-liberty-all-other-rights-are-meaningless-9537333/)
+
+Recent Supreme Court of India judgments have reemphasized the fundamental right to life and personal liberty, affirming that this right supersedes restrictive statutory provisions in penal statutes when considering bail. 
+
+The court has stressed that bail should be the rule, with refusal being the exception. 
+
+It has criticized lower courts for denying bail in deserving cases and highlighted the need for speedy trials. The court has also clarified that custodial interrogation is not necessary after charges have been filed, and questioned the fairness of prosecution agencies in using co-accused statements without corroboration.  Beyond bail, theSC has protected procedural rights, such as providing written grounds for arrest and ensuring timely access to legal counsel.  These decisions reflect the judiciary's commitment to individual freedom and checks on executive power, even in times of political shifts.
+
 Wed, 28 Aug 2024 05:36:51 +0000
 ### [For me, a first-generation immigrant born in India, anticipating Kamala Harris’s presidency is exciting and cautionary](https://indianexpress.com/article/opinion/columns/first-generation-immigrant-born-in-india-anticipating-kamala-harris-presidency-9537170/)
 

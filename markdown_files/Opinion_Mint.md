@@ -1,3 +1,23 @@
+Wed, 28 Aug 2024 15:00:01 +0530
+### [Jacks of all trades: India’s bureaucracy needs experts](https://www.livemint.com/opinion/online-views/ias-indian-administrative-service-lateral-entry-indian-bureaucracy-subject-experts-civil-service-evs-semiconductors-11724788286496.html)
+
+India's administrative system relies heavily on the Indian Administrative Service (IAS), a relatively small group of elite generalist bureaucrats.  Despite facing increasingly complex challenges in a rapidly growing economy, the IAS remains largely unchanged from its British colonial origins. 
+
+The system relies on a small cadre of generalists who often lack expertise in their assigned areas and are constantly shuffled between ministries, preventing them from developing deep knowledge or experience. This creates inefficiencies and obstacles to effective governance. A recent attempt to inject much-needed expertise by hiring lateral entry officials was quickly withdrawn despite the clear need for specialized knowledge in sectors like semiconductors, batteries, and international law. 
+
+The Indian government's reluctance to reform its bureaucratic system, even in the face of mounting challenges, suggests a failure to prioritize necessary changes for a more effective and modern governance structure.
+
+Wed, 28 Aug 2024 14:00:19 +0530
+### [Are you a smart investor? Time for a reality check.](https://www.livemint.com/opinion/online-views/stock-market-investment-performance-psychology-of-investing-luck-skill-smart-investors-nifty-11724788007776.html)
+
+The article discusses the common human bias of attributing investment successes to skill and failures to external factors. This self-attribution bias can lead to overconfidence and poor decisions in the future.
+
+The author uses examples of past market performances, both positive and negative, to illustrate how investors often convince themselves of their analytical abilities during good times while blaming external factors for losses.
+
+This bias, the author argues, is rooted in our evolutionary need to protect self-esteem, but it can be detrimental in investing.  
+
+Recognizing this bias and acknowledging the role of luck in both successes and failures is crucial for investors to avoid overconfidence, make better decisions, and learn from their mistakes.
+
 Wed, 28 Aug 2024 12:30:17 +0530
 ### [Nepotism in politics: A South Asian bug has bitten Southeast Asian nations](https://www.livemint.com/opinion/online-views/nepotism-in-politics-jared-kushner-president-jokowi-thailand-prime-minister-paetongtarn-shinawatra-inflation-economy-11724787791745.html)
 

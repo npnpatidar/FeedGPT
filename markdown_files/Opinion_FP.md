@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 15:32:05 +0530
+### [Jake Sullivan’s China visit: Sino-American ties and the question of Biden’s legacy](https://www.firstpost.com/opinion/jake-sullivans-china-visit-sino-american-ties-and-the-question-of-bidens-legacy-13809070.html)
+
+US National Security Adviser Jake Sullivan's visit to China is aimed at stabilizing the relationship between the two countries. The meeting follows a series of diplomatic efforts since  the tensions escalated after the Chinese spy balloon incident. Sullivan is expected to discuss areas of concern, including China's military activities around Taiwan, while also pushing for the resumption of military-to-military talks and collaboration on issues like fentanyl production. 
+
+This visit signifies a continued effort by the Biden administration to engage in diplomacy and find common ground despite ongoing disagreements and geopolitical competition.  Ultimately, the goal is to manage the complex relationship and prevent further escalation of tensions.
+
 Wed, 28 Aug 2024 13:09:24 +0530
 ### [Why West Asia cannot afford an Israel-Hezbollah war](https://www.firstpost.com/opinion/why-west-asia-cannot-afford-an-israel-hezbollah-war-13809005.html)
 

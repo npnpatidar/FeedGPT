@@ -1,3 +1,8 @@
+Wed, 28 Aug 2024 10:05:50 +0000
+### [The Pacific Islands Forum’s annual meeting begins: The organisation and the issues being discussed](https://indianexpress.com/article/explained/explained-global/the-pacific-islands-forums-annual-meeting-begins-the-organisation-and-the-issues-being-discussed-9537666/)
+
+The annual Pacific Islands Forum (PIF) meeting is focusing on climate change and the increasing competition between China and the US.  PIF members are facing significant threats from rising sea levels, ocean warming, and acidification, urging for greater financial support for climate action. The meeting also highlights the growing influence of China in the region, with security pacts signed with the Solomon Islands raising concerns for Australia and the US. The forum emphasizes the Pacific nations' own security priorities,  differing from those of larger development partners.
+
 Wed, 28 Aug 2024 03:30:52 +0000
 ### [What are combination drugs; why have 156 of them been banned?](https://indianexpress.com/article/explained/explained-health/govt-ban-fdc-drugs-cheston-cold-foracet-health-ministry-fever-allergies-aches-9536556/)
 
