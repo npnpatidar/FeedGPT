@@ -1,3 +1,17 @@
+Thu, 29 Aug 2024 00:20:00 +0530
+### [​War and peace: on India and a Russia-Ukraine peace initiative](https://www.thehindu.com/opinion/editorial/%E2%80%8Bwar-and-peace-on-india-and-a-russia-ukraine-peace-initiative/article68577274.ece)
+
+Recent diplomatic moves by Indian Prime Minister Narendra Modi, including conversations with the US and Russian presidents, have raised speculation about India's potential role in mediating the Russia-Ukraine conflict.  While India has expressed support for peace, it has maintained a neutral stance, avoiding direct involvement in the conflict's resolution.  India's historical ties and economic dependencies on Russia present a challenge to its perceived impartiality.  
+
+For a successful peace initiative, India would need to articulate clear principles and a focused agenda, similar to successful efforts like the Black Sea Grain Initiative.  Furthermore,  India would need to navigate conflicting proposals from Ukraine and Russia regarding military withdrawals and security guarantees.
+
+Thu, 29 Aug 2024 00:10:00 +0530
+### [Focus on trial: on central agencies and cases](https://www.thehindu.com/opinion/editorial/focus-on-trial-on-central-agencies-and-cases/article68577302.ece)
+
+A Supreme Court order granting bail to Bharat Rashtra Samithi leader K. Kavitha highlights a concerning trend of using arrests and legal proceedings to target political opponents. While the charges against Ms. Kavitha and other Delhi government officials regarding their liquor policy are serious and warrant investigation, the focus appears to be on prolonged detention rather than a fair trial. 
+
+The court questioned the fairness of the investigation, noting the reliance on witnesses who are potentially involved in the alleged scheme and the granting of pardon to accused individuals in exchange for testimony. The court emphasized the need for a strong case based on concrete evidence and a timely trial, urging prosecutors to prioritize building a sound prosecution instead of contesting bail applications.
+
 Wed, 28 Aug 2024 00:20:00 +0530
 ### [​Coordinated attacks: On Pakistan and the Baloch conflict](https://www.thehindu.com/opinion/editorial/%E2%80%8Bcoordinated-attacks-on-pakistan-and-the-baloch-conflict/article68573468.ece)
 
