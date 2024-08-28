@@ -1,3 +1,8 @@
+Wed, 28 Aug 2024 05:30:12 +0530
+### [FirstUp: 2024 Paralympics in Paris and other big headlines today](https://www.firstpost.com/explainers/firstup-2024-paralympics-in-paris-and-other-big-headlines-today-13808801.html)
+
+Today marks the opening ceremony of the 2024 Paralympic Games in Paris, featuring approximately 4,400 athletes competing in 22 sports.  In India, the BJP has called for a 12-hour strike in West Bengal to protest police action against a march organized in response to the rape and murder of a doctor in Kolkata.  A Delhi Court will hear Rau's IAS Study Circle's appeal to access its premises, previously shut down following the deaths of three UPSC aspirants. Meanwhile, the Madras High Court will address former Tamil Nadu Minister Senthil Balaji's bail plea in a money laundering case.  Across the border in Pakistan, Jamaat-e-Islami has announced a nationwide strike against inflation. SpaceX has rescheduled the launch of its Polaris Dawn astronaut mission to at least August 28th due to a helium leak.
+
 Tue, 27 Aug 2024 20:11:39 +0530
 ### [How Hema Committee report has left Kerala's ruling CPI (M) in a fix](https://www.firstpost.com/explainers/how-hema-committee-report-has-left-keralas-ruling-cpi-m-in-a-fix-13808827.html)
 

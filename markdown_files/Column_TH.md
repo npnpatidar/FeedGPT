@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 00:30:00 +0530
+### [Ten million ways to give Test cricket the boost it needs](https://www.thehindu.com/opinion/columns/ten-million-ways-to-give-test-cricket-the-boost-it-needs/article68572897.ece)
+
+The International Cricket Council is proposing a new fund to support Test cricket and player salaries. This initiative aims to address the financial disparities between top cricket nations (India, England, Australia) and the rest.  The fund, potentially worth millions of dollars, would provide a minimum income of $10,000 per Test for players in weaker cricketing nations and assist their boards.  
+
+While details are yet to be finalized, the plan is motivated by concerns about the future of Test cricket, which is facing challenges from the rise of lucrative franchise leagues.  Support from India, a major stakeholder in international cricket, is crucial for the fund's success.  The initiative could help balance the scales in international cricket and ensure the long-term viability of Test matches.
+
 Thu, 22 Aug 2024 16:46:00 +0530
 ### [Column | Pencil in some rest](https://www.thehindu.com/opinion/columns/pencil-in-some-rest-phuphee-saba-mahjoor-a-little-life-column/article68542370.ece)
 

@@ -1,3 +1,13 @@
+Tue, 27 Aug 2024 23:00:50 +0000
+### [How AMMA lorded over Kerala cinema, its writ running from stars to junior artistes](https://indianexpress.com/article/explained/how-amma-lorded-over-kerala-cinema-its-writ-running-from-stars-to-junior-artistes-9536680/)
+
+In light of the shocking revelations about rampant sexual misconduct in the Malayalam film industry detailed in the Justice Hema Committee report, the Association of Malayalam Movie Artistes (AMMA) has dissolved its 17-member executive committee.  AMMA, an influential body with jurisdiction over actors, directors, and junior artistes, has faced scrutiny for its alleged misuse of power. 
+ 
+The report highlighted AMMA's involvement in issuing illegal bans, opposing the creation of an Internal Complaints Committee, and generally stifling dissent. It also criticized the association for its inaction following a 2017 rape case involving a leading actress within the industry.  
+ 
+
+ AMMA's legacy is now deeply tarnished. Many see its disbandment as a necessary step towards reforming the industry and ensuring a safer environment for women.
+
 Tue, 27 Aug 2024 13:51:35 +0000
 ### [No penalties for refusing office calls or messages after hours: What is Australia’s ‘right to disconnect’?](https://indianexpress.com/article/explained/australia-right-to-disconnect-debate-9536192/)
 
