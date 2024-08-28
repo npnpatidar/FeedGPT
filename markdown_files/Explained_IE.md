@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 14:24:34 +0000
+### [History and controversies of AMMA, the Kerala actors’ body that was led by superstar Mohanlal](https://indianexpress.com/article/explained/explained-amma-malayalam-actors-mohanlal-9538210/)
+
+The executive committee of the Association of Malayalam Movie Actors (AMMA), including its president Mohanlal, resigned following the release of the Justice K Hema Committee report. The report exposed rampant sexual harassment and misconduct in the Malayalam film industry, including allegations against AMMA officials like Siddique and Baburaj. 
+
+The report detailed a culture of fear and abuse, with powerful men controlling the industry and women facing exploitation and threats.  It also criticized AMMA for its handling of the 2017 abduction and assault of a leading actress, particularly its reinstatement of actor Dileep, who was accused of involvement. The Women in Cinema Collective (WCC), an advocacy group for women in the film industry, had been vocal in their criticism of AMMA and the industry's culture.
+
 Wed, 28 Aug 2024 13:59:37 +0000
 ### [Who is Indian-origin Kevan Parekh, the new CFO of Apple?](https://indianexpress.com/article/explained/explained-global/kevan-parekh-cfo-apple-9538202/)
 

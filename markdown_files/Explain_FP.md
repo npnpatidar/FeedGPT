@@ -1,3 +1,8 @@
+Wed, 28 Aug 2024 20:09:47 +0530
+### [Indian woman vanishes into Malaysian sinkhole: Inside search and rescue ops to find Vijaya Lakshmi Gali](https://www.firstpost.com/explainers/indian-woman-vanishes-into-malaysian-sinkhole-inside-search-and-rescue-ops-to-find-vijaya-lakshmi-gali-13809203.html)
+
+Vijaya Lakshmi Gali, an Indian tourist, fell into a sinkhole in Kuala Lumpur, Malaysia, on August 23rd while walking to a temple.  Search and rescue operations have been ongoing for several days, but heavy rain delayed efforts.  Rescuers are using high-powered jets to remove debris and searching sewers, believing she may have fallen into a broken pipe.  A second sinkhole has opened nearby, raising concerns about the area's safety. Authorities are conducting investigations and a safety audit of the area.  While the deputy prime minister insists the area is safe for now, a task force has been established to examine the safety of developments in Kuala Lumpur.
+
 Wed, 28 Aug 2024 19:06:00 +0530
 ### [Explained: Why is Namibia planning to cull elephants, zebras, and wildebeest amid drought?](https://www.firstpost.com/explainers/explained-why-is-namibia-planning-to-cull-elephants-zebras-and-wildebeest-amid-drought-13809038.html)
 
