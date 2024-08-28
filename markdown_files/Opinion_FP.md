@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 11:09:36 +0530
+### [Balochistan attacks show Pakistan is a failed state](https://www.firstpost.com/opinion/how-balochistan-attacks-show-pakistan-is-a-failed-state-13808931.html)
+
+Recent attacks on August 26-27, 2024, by Baloch insurgents, codenamed "Op Haruf," resulted in the deaths of at least 23 civilians and 14 security personnel. The violence, including the targeting of civilians, security pickets, and the destruction of infrastructure, was claimed by the Baloch Liberation Army (BLA) and executed near the Punjab border.  The attacks, which coincided with the martyrdom day of Nawab Akbar Bugti, highlighted serious intelligence lapses by Pakistani security agencies.  The attacks demonstrate the intensity of the Baloch insurgency and underscore the failure of military force alone to solve the underlying issues driving the conflict. Political leaders have primarily focused on reprisals, neglecting previous efforts to address the grievances of the Baloch people, such as the Aghaz e Huqooq package.  
+
+A deeper understanding of the causes of Balochistan's disaffection, including human rights violations, socio-economic disparities, and the denial of political rights, is necessary to achieve lasting peace.
+
 Tue, 27 Aug 2024 17:08:30 +0530
 ### [Can Trump do a Truman? When opinion polls err and media is biased](https://www.firstpost.com/opinion/can-trump-do-a-truman-when-opinion-polls-err-and-media-is-biased-13808769.html)
 

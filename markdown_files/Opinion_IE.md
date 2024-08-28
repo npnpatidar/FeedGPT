@@ -1,3 +1,12 @@
+Wed, 28 Aug 2024 05:36:51 +0000
+### [For me, a first-generation immigrant born in India, anticipating Kamala Harris’s presidency is exciting and cautionary](https://indianexpress.com/article/opinion/columns/first-generation-immigrant-born-in-india-anticipating-kamala-harris-presidency-9537170/)
+
+The author, a first-generation Indian immigrant, discusses Kamala Harris's historic potential as the first woman, Black woman, Caribbean American, and Asian American President. While celebrating Harris's nomination, she acknowledges the current climate of racial tension in the US, exacerbated by policies that target diversification. 
+
+The author highlights the unique challenges faced by Indian Americans, who despite being a growing political force, are still subject to racial discrimination and navigate issues like H-1B visas and precarious immigration realities. She criticizes Harris's attempts to appease White voters by emphasizing her commitment to national security and separating "good" immigrants from "bad" ones. 
+
+Despite these criticisms, the author recognizes the significance of Harris's candidacy, particularly for young people of color who see themselves reflected in her story.  She believes Harris's presidency, while not without its challenges, offers hope and inspiration for immigrants and marginalized communities.
+
 Wed, 28 Aug 2024 02:20:20 +0000
 ### [Supriya Sule writes: The people’s voice is finally being heard in Parliament](https://indianexpress.com/article/opinion/columns/parliament-opposition-supriya-sule-9536702/)
 

@@ -1,3 +1,17 @@
+Wed, 28 Aug 2024 10:09:23 +0530
+### [Why did US readout on Modi-Biden call omit Bangladesh crisis? The controversy explained](https://www.firstpost.com/explainers/us-readout-modi-biden-call-bangladesh-crisis-controversy-explained-13808909.html)
+
+A phone conversation took place between Prime Minister Narendra Modi and US President Joe Biden. While India's readout mentioned discussions about the situation in Bangladesh, the US readout did not. 
+
+India clarified that it's common practice for separate press releases to be issued following conversations, and the omission doesn't necessarily mean an issue wasn't discussed. Some geopolitical experts suggest the US's omission reflects growing unease with Bangladesh, while others believe the US focused mainly on Modi's recent visit to Ukraine. 
+
+
+The US silence on Bangladesh, particularly concerning minority safety, has drawn attention.  Sheikh Hasina, the former Prime Minister of Bangladesh, alleged in a reported undelivered speech that she was pressured by the US to allow a naval base on St. Martin's Island.
+
+
+
+The situation in Bangladesh remains a point of contention, with differing perspectives on the US's role and stance.
+
 Wed, 28 Aug 2024 08:49:43 +0530
 ### [Was there a time when dinosaurs travelled across continents? Here's what new study says](https://www.firstpost.com/explainers/dinosaurs-footprints-across-continents-new-study-13808767.html)
 
