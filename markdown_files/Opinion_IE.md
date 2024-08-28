@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 11:43:57 +0000
+### [The Hema moment gives not only ‘stars’ but also the ‘extras’ a voice](https://indianexpress.com/article/opinion/columns/hema-moment-gives-stars-extras-voice-9537810/)
+
+The Malayalam film industry is facing a crisis following allegations of sexual assault against its members. A 2017 government-appointed committee, headed by retired Justice K Hema, investigated the issue and found widespread violence against women. The committee's report, delayed in its release, shed light on the pervasive exploitation and abuse faced by women in the industry. 
+
+The Women in Cinema Collective (WCC), formed by women actors, has been instrumental in supporting survivors and demanding accountability. Their efforts have emboldened other women to come forward, highlighting the deep-rooted misogyny within the industry. The situation has sparked a reckoning, forcing the industry to confront its culture of silence and  the need for systemic change to create a safe and equitable space for women.
+
 Wed, 28 Aug 2024 08:30:55 +0000
 ### [Bail for K Kavitha: Without personal liberty, all other rights are meaningless](https://indianexpress.com/article/opinion/columns/bail-for-k-kavitha-without-personal-liberty-all-other-rights-are-meaningless-9537333/)
 

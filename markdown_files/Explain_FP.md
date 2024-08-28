@@ -1,3 +1,46 @@
+Wed, 28 Aug 2024 17:11:35 +0530
+### [Mamata Banerjee calls for death penalty for rapists: What does India’s law say?](https://www.firstpost.com/explainers/kolkata-doctor-rape-murder-west-bengal-cm-mamata-banerjee-rapists-death-penalty-india-law-13809114.html)
+
+W Bengal CM Mamata Banerjee has pledged to introduce a bill in the state Assembly that will mandate the death penalty for rapists within seven days of the crime. This comes in response to the recent rape and murder of a trainee doctor at RG Kar Medical College and Hospital in Kolkata. Banerjee stated she will call a special session next week to pass the bill and will pressurize the Governor to approve it, even resorting to protests if necessary. India's existing rape laws already provide for the death penalty in certain cases, such as rape leading to death or permanent vegetative state.
+
+Wed, 28 Aug 2024 16:40:27 +0530
+### [Do Sunita Williams and Barry Wilmore have enough food and supplies to stay in space until 2025?](https://www.firstpost.com/explainers/nasa-sunita-williams-barry-wilmore-food-supplies-international-space-station-2025-survival-13809077.html)
+
+Two US astronauts, Barry Wilmore and Sunita Williams, were  scheduled for an eight-day mission to the International Space Station (ISS) but remain there due to issues with the Boeing Starliner spacecraft. 
+
+They are now expected to return to Earth in February 2025 aboard a SpaceX Crew Dragon capsule.  Nasa assures that the ISS has sufficient supplies, including food, water, and oxygen, to support the crew for the extended period.  
+
+They will be participating in regular crew tasks, such as spacewalks, maintenance, and scientific experiments.  However, concerns exist regarding the impact of the prolonged stay on their physical and mental health. Potential issues include muscle and bone loss, fluid redistribution, space anemia, vision problems, and psychological effects of isolation.  Despite these concerns, the astronauts are well equipped to handle the challenges of a longer stay, as Nasa has extensive experience managing extended missions.
+
+Wed, 28 Aug 2024 16:15:43 +0530
+### [Buying a new car? Here's how scrapping your old vehicle can earn you discounts](https://www.firstpost.com/explainers/buying-a-new-car-heres-how-scrapping-your-old-vehicle-can-earn-you-discounts-13809032.html)
+
+Following a meeting between Union Minister Nitin Gadkari and SIAM CEOs, many automobile manufacturers have agreed to offer discounts on new car purchases for customers who scrap their old vehicles. Discounts range from 1.5% to 3.5% on passenger vehicles and 1.5% to 3% on commercial vehicles, based on various factors like vehicle weight and age. Luxury car brand Mercedes-Benz is offering a flat discount of Rs 25,000 for scrapped vehicles. 
+
+The scheme aims to promote the National Vehicle Scrappage Policy, which encourages phasing out unfit and polluting vehicles while fostering a circular economy. 
+
+
+This initiative incentivizes vehicle owners to contribute to a cleaner environment and benefits the automotive industry by stimulating new vehicle sales. To qualify for the discounts, owners must link their scrapped vehicle's details to the Vahan system.
+
+Wed, 28 Aug 2024 16:10:15 +0530
+### [Is Kamala Harris ineligible to run for US president? What's the latest controversy?](https://www.firstpost.com/explainers/is-kamala-harris-ineligible-to-run-for-us-president-whats-the-latest-controversy-13808992.html)
+
+The National Federation of Republican Assemblies (NFRA), a conservative organization, has sparked controversy by citing the 1857 Dred Scott Supreme Court ruling to argue that Vice President Kamala Harris is ineligible to run for president. The NFRA claims that Harris, Nikki Haley, and Vivek Ramaswamy do not meet the Constitution's “natural-born citizen” requirement.
+
+Their argument hinges on a strict interpretation of the clause, suggesting that only those born on US soil to two US citizen parents qualify. This stance draws on originalist legal philosophies and cites several Supreme Court cases, including Dred Scott,  which is widely considered one of the worst rulings in US history.
+
+The NFRA's position has been widely criticized as legally flawed and racially insensitive. Legal experts argue that their interpretation contradicts established precedents and would have disqualified several early US presidents. 
+Critics also point out that invoking Dred Scott to challenge a woman of color's eligibility for president resembles racial dog-whistling. While the NFRA claims their actions are solely based on legal arguments, the timing and targeting of their claim against Harris raise questions about its political motives, particularly in light of their endorsement of Donald Trump.
+
+Wed, 28 Aug 2024 15:48:03 +0530
+### [How this Arizona county could play a crucial role in deciding the fate of Kamala Harris and Donald Trump](https://www.firstpost.com/explainers/arizona-county-crucial-role-us-presidential-elections-13809055.html)
+
+Maricopa County, Arizona, containing Phoenix and 4.5 million residents, holds significant weight in national elections.  
+
+This was once a reliably Republican county, but its political landscape is shifting.  The 2020 election saw Biden defeat Trump, hinting at a trend towards more centrist leanings and fueled by a growing Hispanic population that tends to vote Democratic.
+
+While the county still leans Republican, a significant portion of voters are unaffiliated, making the outcome of elections more unpredictable. Maricopa County also has a high early voting rate, adding complexity to the vote counting process.
+
 Wed, 28 Aug 2024 14:45:28 +0530
 ### [Bangladesh frees ABT chief Jashimuddin Rahmani, a vocal supporter of Al Qaeda. Should India be worried?](https://www.firstpost.com/explainers/bangladesh-frees-abt-chief-jashimuddin-rahmani-a-vocal-supporter-of-al-qaeda-should-india-be-worried-13809034.html)
 

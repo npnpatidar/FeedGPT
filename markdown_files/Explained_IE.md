@@ -1,3 +1,19 @@
+Wed, 28 Aug 2024 12:08:15 +0000
+### [How Canada’s policy of ‘reducing low-wage, temporary workers’ may impact Indians](https://indianexpress.com/article/explained/explained-global/canada-policy-low-wage-temporary-workers-indians-9537877/)
+
+Canada's Prime Minister Justin Trudeau announced a reduction in low-wage, temporary foreign workers in the country. This policy shift aims to decrease the proportion of such workers to 5% of the population in the next three years. 
+
+The move is likely to impact various groups, including those on temporary work visas, international students, spouses of international students, and workers under Labour Market Impact Assessment contracts.  This policy could particularly affect Indians, who constitute a significant portion of Canada's temporary worker population.  
+
+The Canadian government's intention is to encourage businesses to invest in Canadian workers. While the policy shift may limit opportunities for temporary workers, there is a possibility that it could also create pathways to permanent residency, integrating them more fully into the Canadian economy.  The ultimate direction of this policy will likely depend on political and economic considerations leading up to the next Canadian election.
+
+Wed, 28 Aug 2024 11:23:15 +0000
+### [Why FSSAI withdrew its advisory on removing A1, A2 claims on milk and milk products](https://indianexpress.com/article/explained/everyday-explainers/explained-fssai-advisory-a1-a2-milk-9537796/)
+
+The Food Safety and Standards Authority of India (FSSAI) initially issued an advisory asking food businesses to stop marketing milk and milk products as A1 or A2. This decision was subsequently withdrawn after facing criticism. 
+
+The FSSAI stated that its existing standards don't recognize A1 and A2 differentiation, despite growing consumer interest and global trends of marketing these types separately. The advisory was met with pushback, including a letter from an ICAR member urging its reconsideration and suggesting a high-level committee for further discussion. The FSSAI ultimately withdrew the advisory to allow for more consultation and engagement with stakeholders.
+
 Wed, 28 Aug 2024 10:05:50 +0000
 ### [The Pacific Islands Forum’s annual meeting begins: The organisation and the issues being discussed](https://indianexpress.com/article/explained/explained-global/the-pacific-islands-forums-annual-meeting-begins-the-organisation-and-the-issues-being-discussed-9537666/)
 

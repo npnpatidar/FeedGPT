@@ -1,3 +1,16 @@
+Wed, 28 Aug 2024 16:00:03 +0530
+### [How to tell fake NGOs apart from actual do-gooders? Here’s a guide.](https://www.livemint.com/opinion/online-views/ngos-social-work-grassroot-immersion-commitment-impact-social-sector-fakeness-11724788435949.html)
+
+The article critiques NGOs that the author refers to as "SAGs" (self-appointed guardians and guides) within the Indian social sector. These NGOs, it argues, prioritize appearances and scale over genuine impact, employing tactics such as: 
+
+* **Exaggerated scale:** Claiming to work across multiple states or in vast numbers of schools while engaging in limited or superficial activities.
+* **Shallow depth:** Emphasizing broad narratives and metrics over the intensity and quality of their work.  
+* **Inflated impact:**  Making grandiose claims about their effects, often unsupported by verifiable data.
+* **False immersion:** Presenting polished facades of authenticity and ground-level engagement while prioritizing networking and fund-seeking activities.
+* **Erosion of purpose:** Shifting from initial genuine commitment to a focus on visibility and power. 
+
+The author urges funders to critically assess these claims and to support authentic NGOs that prioritize genuine impact over superficial appearances.
+
 Wed, 28 Aug 2024 15:00:01 +0530
 ### [Jacks of all trades: India’s bureaucracy needs experts](https://www.livemint.com/opinion/online-views/ias-indian-administrative-service-lateral-entry-indian-bureaucracy-subject-experts-civil-service-evs-semiconductors-11724788286496.html)
 

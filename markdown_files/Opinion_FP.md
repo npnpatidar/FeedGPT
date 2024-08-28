@@ -1,3 +1,14 @@
+Wed, 28 Aug 2024 17:19:07 +0530
+### [Caste in an old mould: Are we going backward?](https://www.firstpost.com/opinion/caste-in-an-old-mould-are-we-going-backward-13809124.html)
+
+The discourse around caste in India appears to have regressed despite a lack of concrete evidence suggesting a worsening economic situation for Scheduled Castes and Scheduled Tribes (SCs/STs).  
+
+A period from 2005 to 2014 focused on individual empowerment and addressing deprivation through mechanisms like the Socio-Economic Caste Census (SECC), which emphasized household-level indicators rather than solely relying on caste. 
+
+This shift aimed to move away from the limitations of using a collective category like caste to define deprivation, recognizing the potential for both exclusion and inclusion errors. Prominent voices like Milind Kamble, Chandra Bhan Prasad, and D Shyam Babu advocated for  economic empowerment as a means to reduce caste's relevance.  
+
+However, recent trends indicate a resurgence of the "old mould" view of caste, with a renewed emphasis on caste-based identity.
+
 Wed, 28 Aug 2024 15:32:05 +0530
 ### [Jake Sullivan’s China visit: Sino-American ties and the question of Biden’s legacy](https://www.firstpost.com/opinion/jake-sullivans-china-visit-sino-american-ties-and-the-question-of-bidens-legacy-13809070.html)
 
