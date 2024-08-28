@@ -1,3 +1,12 @@
+Wed, 28 Aug 2024 12:30:17 +0530
+### [Nepotism in politics: A South Asian bug has bitten Southeast Asian nations](https://www.livemint.com/opinion/online-views/nepotism-in-politics-jared-kushner-president-jokowi-thailand-prime-minister-paetongtarn-shinawatra-inflation-economy-11724787791745.html)
+
+In recent times, nepotism in Southeast Asian politics appears to be resurging. Indonesian President Jokowi faces criticism for attempting to secure political positions for his sons before his term ends. This strategy, including trying to lower age limits for candidacy, contrasts with his early reputation built on defeating a dynasty and emphasizing humility. 
+
+Similarly, Thailand is grappling with the repercussions of a military-backed establishment manipulating power. Former election winner Move Forward party was ousted, and though Paetongtarn Shinawatra became Prime Minister, this is seen as part of the existing political system's manipulation rather than genuine democratic progress. The Philippines exemplifies this trend with Bongbong Marcos' rise, the son of a former dictator, to the presidency. 
+
+These examples raise concerns about backsliding democracy and highlight the detrimental impact of nepotism.
+
 Wed, 28 Aug 2024 10:30:15 +0530
 ### [Central bank rate cuts: Ask why instead of when and to what extent](https://www.livemint.com/opinion/online-views/central-banks-us-fed-rbi-monetary-policy-inflation-policy-rate-cuts-recession-jerome-powell-gdp-growth-shaktikanta-das-11724787560983.html)
 

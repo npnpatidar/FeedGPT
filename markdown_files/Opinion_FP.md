@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 13:09:24 +0530
+### [Why West Asia cannot afford an Israel-Hezbollah war](https://www.firstpost.com/opinion/why-west-asia-cannot-afford-an-israel-hezbollah-war-13809005.html)
+
+Tensions escalated between Hezbollah and Israel following a rocket attack and subsequent airstrikes. Both sides exchanged messages indicating they  do not desire all-out war but remain prepared. The situation has displaced hundreds of thousands of people and worsened the humanitarian crisis.  The conflict raises concerns about regional stability, global energy security, and international diplomacy. 
+
+ India, with significant stakes in the region's stability, has historically favoured a diplomatic solution and is urging for de-escalation while  maintaining balanced relations with involved parties. The coming weeks will be crucial in determining if the current hostilities will de-escalate or escalate into a larger conflict.
+
 Wed, 28 Aug 2024 11:09:36 +0530
 ### [Balochistan attacks show Pakistan is a failed state](https://www.firstpost.com/opinion/how-balochistan-attacks-show-pakistan-is-a-failed-state-13808931.html)
 

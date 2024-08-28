@@ -1,3 +1,36 @@
+Wed, 28 Aug 2024 13:40:01 +0530
+### [Kolkata rape-murder: Who is Anup Dutta, the policeman under scanner as CBI demands polygraph test?](https://www.firstpost.com/explainers/kolkata-rape-murder-who-is-anup-dutta-the-policeman-under-scanner-as-cbi-demands-polygraph-test-13808943.html)
+
+The CBI investigation into the rape and murder of a doctor in Kolkata has led them to suspect Anup Dutta, an assistant sub-inspector with the Kolkata Police. Dutta was in contact with Sanjay Roy, the only person arrested in the case, on the day the body was found.  Suspicions arose due to alleged favors Dutta extended to Roy, including access to police quarters and a motorcycle, which Roy wasn't entitled to.  
+
+Dutta also had connections to the former principal of RG Kar Medical College, who is also under CBI investigation. Photos of Dutta and the former principal together have surfaced on social media.  The CBI is investigating whether Dutta helped Roy destroy evidence or escape. A polygraph test has been requested from the court, pending Dutta's consent.
+
+Wed, 28 Aug 2024 13:05:21 +0530
+### [Selling Sunlight: The truth behind US firm’s sci-fi plan of providing sunlight after dark](https://www.firstpost.com/explainers/reflect-orbital-us-firm-selling-sunlight-after-dark-13808980.html)
+
+Reflect Orbital, a California-based startup, is developing a system to beam sunlight from space to Earth.  The company plans to launch a network of satellites equipped with large mylar mirrors to reflect sunlight onto specific locations, providing an additional 30 minutes of "sunshine" to solar farms during peak demand times.  This technology aims to address the issue of solar energy's inconsistency, as it's unavailable at night and can be affected by weather conditions. Reflect Orbital's concept has garnered significant attention, with thousands of individuals expressing interest in its "spot of light" service. 
+
+
+
+However, the technology faces challenges, including potential light pollution and the risk of debris re-entering the Earth's atmosphere. Despite these concerns, Reflect Orbital's ambitious project has the potential to revolutionize energy production and illuminate previously dark areas.
+
+Wed, 28 Aug 2024 12:03:25 +0530
+### [How Israel rescued a hostage from Hamas’ infamous tunnel network in Gaza](https://www.firstpost.com/explainers/how-israel-idf-rescued-hostage-qaid-farhan-alkadi-from-hamas-infamous-tunnel-network-in-gaza-13808918.html)
+
+Israeli forces successfully rescued Farhan Al-Qadi, a 52-year-old Bedouin Israeli, from Hamas's tunnel network in Gaza. Held captive since October 7, he was found alive and in stable condition, marking the first time a hostage has been rescued alive from these tunnels. Guided by intelligence, special forces discovered Al-Qadi alone, leading to speculation that his captors fled upon realizing Israeli troops were nearby.  Prime Minister Benjamin Netanyahu spoke with Al-Qadi, who expressed overwhelming relief and gratitude.
+
+Al-Qadi, a father of 11, was working as an unarmed guard at the time of his abduction. His rescue brought immense joy to his family, who had endured a year of uncertainty. Al-Qadi's brother described the experience as "bringing him back from the dead," detailing the brutal conditions of captivity, including constant darkness and witnessing another hostage die. He had reportedly lost significant weight and suffered from untreated injuries. 
+
+
+The rescue highlights the ongoing plight of hostages in Gaza, with 104 still held captive, and 34 presumed dead, following the October 7 attacks. The Hostages and Missing Families Forum emphasizes the need for more than just military operations to secure the release of the remaining hostages.
+
+Wed, 28 Aug 2024 11:54:55 +0530
+### [Floods, deaths and more: How Gujarat is devastated by heavy rains, which are likely to worsen](https://www.firstpost.com/explainers/gujarat-floods-devastation-heavy-rains-13808938.html)
+
+Incessant rains have caused widespread flooding in Gujarat, claiming 15 lives and disrupting transportation, electricity, and daily life.  The state has received significantly higher than average rainfall, with some districts experiencing over 200 millimeters of rain in a 12-hour period.  
+
+Rivers have breached danger marks, forcing evacuations in Vadodara and Panchmahals. Several bridges have collapsed due to overflowing rivers, hindering commuting and access between villages.  Additionally, the state administration reported waterlogged roads, disrupted train and flight services, and over 600 villages without electricity. The Gujarat government has deployed National Disaster Response Force (NDRF) teams and Indian Army columns to aid in rescue and relief efforts.  The IMD has issued warnings for continued heavy to very heavy rains until Thursday, prompting authorities to urge residents to stay indoors and avoid water bodies.
+
 Wed, 28 Aug 2024 10:09:23 +0530
 ### [Why did US readout on Modi-Biden call omit Bangladesh crisis? The controversy explained](https://www.firstpost.com/explainers/us-readout-modi-biden-call-bangladesh-crisis-controversy-explained-13808909.html)
 
