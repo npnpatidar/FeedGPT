@@ -1,3 +1,10 @@
+Wed, 28 Aug 2024 07:00:09 +0530
+### [Mint Quick Edit | Resourceful IPO: Irrational exuberance?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-resourceful-automobile-ipo-equity-frothy-stock-market-small-cap-firms-yamaha-investors-11724787283640.html)
+
+The recent IPO of Resourceful Automobile, a small New Delhi-based motorcycle dealership, was vastly oversubscribed, receiving applications worth ₹4,800 crore for a mere ₹12 crore offering. While the company's growth potential might be a factor, the intense response likely reflects broader irrational exuberance in India's stock market. Small-cap firms have witnessed soaring price-to-earnings ratios, fueling concerns that the market may be overheating. 
+
+There are fears that the Resourceful Automobile IPO could be a signal of a "shoe shining moment," where market participants realize that excessive investment in equities as speculative bets may necessitate an exit strategy.
+
 Tue, 27 Aug 2024 16:00:06 +0530
 ### [India’s biodiversity can help it leap ahead in synthetic biology](https://www.livemint.com/opinion/online-views/synthetic-biology-biodiversity-conservation-genetic-engineering-biotechnology-sustainable-development-11724708402818.html)
 

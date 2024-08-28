@@ -1,3 +1,66 @@
+Wed, 28 Aug 2024 02:20:20 +0000
+### [Supriya Sule writes: The people’s voice is finally being heard in Parliament](https://indianexpress.com/article/opinion/columns/parliament-opposition-supriya-sule-9536702/)
+
+The 2024 Lok Sabha elections resulted in a more balanced Parliament, leading to a different dynamic compared to the previous sessions. The increased Opposition strength has made it harder for the government to pass legislation without debate and has forced them to reconsider certain decisions. 
+
+Significant improvements include a longer discussion on the Union Budget and the referral of contentious bills to Parliamentary Committees.  However, concerns remain regarding the government's transparency, as leaks of bills prior to formal circulation continue.  
+
+Despite calls for greater inclusivity, the government has yet to fill the vacant Deputy Speaker position and has shown reluctance to allot sufficient time for Opposition-led discussions.  These actions, coupled with restricted media access to Parliament proceedings, raise concerns about the government's commitment to a truly democratic and transparent legislative process.
+
+Wed, 28 Aug 2024 02:20:09 +0000
+### [New Pension Scheme favours a small minority at the expense of majority of uncovered elderly](https://indianexpress.com/article/opinion/columns/new-pension-scheme-favours-a-small-minority-at-the-expense-of-majority-of-uncovered-elderly-9536701/)
+
+The recent revision of the New Pension Scheme (NPS) in India has sparked debate. While the Unified Pension Scheme (UPS) aims to harmonize benefits with the Old Pension Scheme (OPS), critics argue it merely increases government expenditure on existing pensioners and fails to address the core objectives of pension reform. 
+
+The government's focus on aligning benefits with the OPS has been criticized for favoring a small percentage of government employees while neglecting the vast majority of workers and elderly who lack access to institutional pension schemes. 
+
+Experts emphasize the need to reallocate resources from existing pension provisions to expand worker and elderly coverage, highlighting the need for a social contract that promotes inter- and intra-generational equity in public expenditure on old age income support.
+
+Wed, 28 Aug 2024 02:05:29 +0000
+### [Delhi L-G writes: Our Capital is a case study in misgovernance](https://indianexpress.com/article/opinion/columns/delhi-l-g-writes-our-capital-is-a-case-study-in-misgovernance-9536544/)
+
+Delhi's population surge, nearing 43 million in the next decade, raises concerns about the city's infrastructure preparedness. The recent monsoon exposed severe infrastructure shortcomings, highlighting failures in managing waterlogging, sanitation, and overall civic services. The rapid growth of unauthorized colonies lacks basic amenities like roads, drainage, and sanitation.  While the government highlights its development projects, citizens grapple with inadequate water supply, overflowing drains, and unsafe living conditions.  The healthcare system faces challenges with the lack of essential medical equipment and staffing in new facilities. Delhi's air quality remains poor, with garbage management a significant concern.  Growing hostility towards other administrative agencies and the judiciary further hampers effective governance.
+
+Wed, 28 Aug 2024 02:05:00 +0000
+### [PM Jan Dhan Yojana has accelerated financial inclusion, reduced inequalities](https://indianexpress.com/article/opinion/columns/pm-jan-dhan-yojana-has-accelerated-financial-inclusion-reduced-inequalities-9536553/)
+
+The Pradhan Mantri Jan Dhan Yojana (PMJDY) has significantly improved financial inclusion in India, with over 80% of adults now having a formal financial account. Launched in 2014, the scheme aimed to include unbanked households by providing basic savings bank deposit accounts. PMJDY accounts have disbursed Rs 38.49 lakh crore through direct benefit transfer (DBT) and plugged leakages worth Rs 3.48 lakh crore.  
+
+The success of the scheme is evident in the increase in account balances, with 55.6% belonging to women, and 66.6% located in rural and semi-urban areas.  The  initiative has also led to a decrease in thefts and consumption of intoxicants in several states. Looking ahead, strengthening the financial ecosystem, expanding product penetration, enhancing consumer protection, and designing customer-centric products are key priorities.  Linking PMJDY accounts with other government schemes will further empower individuals at the bottom of the pyramid.
+
+Wed, 28 Aug 2024 02:00:49 +0000
+### [A Roman burglar broke into a home and settled down with a book](https://indianexpress.com/article/opinion/editorials/roman-burglar-book-9536557/)
+
+A burglar apprehended in Rome was found reading a book, Giovanni Nucci's "The Gods at Six O'Clock", a retelling of the Iliad from the gods' perspective.  This unexpected finding has sparked discussions about literature's power to transcend social divides and offer intellectual solace.  The incident highlights the potential for literature to provide respite and intellectual engagement, even in the midst of challenging circumstances. It also reflects a certain rebelliousness that aligns with the mischievous nature of the Greek gods.
+
+Wed, 28 Aug 2024 02:00:04 +0000
+### [Politics has returned to Jammu and Kashmir — and that is welcome](https://indianexpress.com/article/opinion/editorials/jammu-and-kashmir-assembly-elections-9536554/)
+
+Following the announcement of Jammu & Kashmir Assembly election dates, political activity has intensified in the region. The  National Conference and Congress have forged a seat-sharing arrangement, with the NC contesting 51 seats and the Congress 32. This alliance seems to favor Congress, aiming to revive its presence in the state, while the NC seeks to regain its dominant role. However, the alliance faces challenges due to differing stances on issues like Article 370.  Both the BJP and the PDP, previous major players, appear vulnerable. The BJP contends with resistance from allies on various issues, impacting its perceived strength. The PDP, meanwhile, grapples with diminished influence after 2019.  Despite these uncertainties, the return of political engagement is a positive development for the region.
+
+Wed, 28 Aug 2024 01:45:32 +0000
+### [To make India more climate-resilient, India Meteorological Department’s upgrade is necessary](https://indianexpress.com/article/opinion/editorials/india-meteorological-department-climate-9536545/)
+
+The India Meteorological Department (IMD) is planning to upgrade its weather forecasting capabilities to better predict extreme weather events.  While the IMD has made progress in long-range predictions, it struggles with hyper-local forecasts of intense rainfall, leading to unpreparedness for disasters. The new focus will be on developing computer models tailored to specific local areas, requiring more detailed data collection and a denser network of measuring instruments. AI is expected to play a role in analyzing existing weather records and improving forecast accuracy. Collaboration with universities and research institutions is also crucial. Effective communication of weather information, considering local context and vulnerabilities, will be essential for building climate resilience.
+
+Wed, 28 Aug 2024 01:35:52 +0000
+### [August 28, 1984, Forty Years Ago: PM Gandhi considers a drastic change in the Constitution](https://indianexpress.com/article/opinion/40-years-ago/august-28-1984-forty-years-ago-pm-gandhi-considers-a-drastic-change-in-the-constitution-9536558/)
+
+Indian Prime Minister Indira Gandhi is considering a significant change to the country's Constitution, potentially shifting to a presidential form of government.  This idea has been proposed by a legal expert and discussed by Congress (I) MPs.  
+
+Meanwhile, in Andhra Pradesh, opposition parties have issued an ultimatum to the governor, demanding the assembly convene within 48 hours to allow deposed Chief Minister N T Rama Rao to demonstrate his support. 
+
+In international news, India has accused Pakistan of involvement in the hijacking of an Indian Airlines aircraft.
+
+Wed, 28 Aug 2024 01:30:04 +0000
+### [In new criminal codes, a missed opportunity](https://indianexpress.com/article/opinion/columns/in-new-criminal-codes-a-missed-opportunity-9536700/)
+
+This article discusses the recent amendments to India's criminal justice system, specifically the Indian Penal Code (IPC). While acknowledging the need for some changes, the author argues that the new legislation, the Bharatiya Nyaya Sanhita (BNS), does not adequately address the challenges of the 21st century, particularly those arising from technological advancements. 
+
+The author points out the absence of provisions specifically dealing with cybercrime, data theft, and other offences prevalent in the digital age. They criticize the BNS for not including clear definitions and safeguards against potential misuse of powers related to  "economic security" and "economic offences."  
+
+Furthermore, the article highlights concerns regarding the gender-neutrality of certain provisions, the criminalization of suicide attempts, and the lack of consideration for practices like hunger strikes. The author concludes by emphasizing the need for the law to evolve and adapt to the rapid advancements in technology and societal norms.
+
 Tue, 27 Aug 2024 10:30:19 +0000
 ### [‘Kalki 2898 AD’ on OTT: Indian cinema’s problem lies in its lazy piggybacking on the Ramayana and Mahabharata](https://indianexpress.com/article/opinion/columns/kalki-2898-ad-on-ott-indian-cinemas-problem-lies-in-its-lazy-piggybacking-on-the-ramayana-and-mahabharata-9535492/)
 
