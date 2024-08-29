@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 12:30:08 +0000
+### [When cringe works: Why everyone dances to ‘Lovebomber baby’](https://indianexpress.com/article/opinion/columns/why-everyone-dances-to-lovebomber-baby-9540020/)
+
+The article explores the concept of "cringe" in popular culture, using examples like Kajol's outfit in "Kuch Kuch Hota Hai" and songs by Dhinchak Pooja and Gagni Porwal.  It argues that the internet allows for a democratization of art and expression, leading to both successes and spectacular failures.  We are drawn to these "cringe" moments because they offer a form of relatable authenticity and celebrate the vulnerability of putting oneself out there. The article draws parallels between "cringe" and camp, where sincerity and exaggerated effort combine to create humor and a sense of shared experience. Ultimately, it suggests that appreciating these attempts, even if imperfect, is a valuable part of online culture and a reflection of our own human desire to connect and share.
+
 Thu, 29 Aug 2024 10:50:15 +0000
 ### [A Uniform Civil Code should expand rights of women and young, not restrict them](https://indianexpress.com/article/opinion/columns/uniform-civil-code-women-rights-9539655/)
 

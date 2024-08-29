@@ -1,3 +1,14 @@
+Thu, 29 Aug 2024 18:03:52 +0530
+### [How Pakistani counter-terrorism operations flared up Baloch insurgency](https://www.firstpost.com/opinion/how-pakistani-counter-terrorism-operations-flared-up-baloch-insurgency-13809526.html)
+
+The Balochistan Liberation Army (BLA) launched Operation Herof, a large-scale attack on Pakistani security forces and infrastructure.  This followed Pakistan's military operation in Balochistan, which the BLA claims is intended to suppress the Baloch people. 
+
+The BLA took responsibility for attacks on army bases, vehicles, and the main railway line to Quetta. They claimed to have killed over a hundred soldiers and released photographs of slain militants. 
+
+Pakistan responded by blaming the Tehrik-e-Taliban Pakistan (TTP) despite evidence suggesting local involvement, and cabinet approved increased funding for operations. Prime Minister Shahbaz Sharif offered dialogue but faced criticism for the Pakistani military's actions against Baloch people. 
+
+The situation is exacerbated by internal tensions, with the Baloch Chief Minister advocating genocide as a solution.  International actors, such as the US and China, offer counterterrorism cooperation to Pakistan, but their involvement may further complicate the situation for the Baloch people.
+
 Thu, 29 Aug 2024 15:45:21 +0530
 ### [Chinese aggression in South China Sea will push Philippines more into American arms](https://www.firstpost.com/opinion/chinese-aggression-in-south-china-sea-will-push-philippines-more-into-american-arms-13809462.html)
 

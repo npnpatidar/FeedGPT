@@ -1,3 +1,26 @@
+Thu, 29 Aug 2024 19:08:25 +0530
+### [What is EEE, the deadly mosquito-borne virus that is raging in the US?](https://www.firstpost.com/health/what-is-eee-the-deadly-mosquito-borne-virus-that-is-raging-in-the-us-13809414.html)
+
+Eastern Equine Encephalitis (EEE), a rare but potentially fatal mosquito-borne virus, is causing concern in the US. A man in New Hampshire has died from the virus, marking the state's first case in a decade.  This year, EEE cases have also been reported in New Jersey, Vermont, and Wisconsin. 
+
+While most people infected with EEE don't experience symptoms, those who do can develop fever, brain swelling, headache, vomiting, diarrhea, seizures, behavior changes, and drowsiness.  About 30% of infected individuals die from the illness. 
+
+There is no specific treatment or vaccine for EEE.  Prevention is key and includes avoiding outdoor activities during peak mosquito hours and using insect repellent. States are taking measures to control mosquito populations through insecticide spraying and encouraging residents to take preventive steps.
+
+Thu, 29 Aug 2024 18:17:29 +0530
+### [Why is polio still a threat in Afghanistan and Pakistan?](https://www.firstpost.com/explainers/why-is-polio-still-a-threat-in-afghanistan-and-pakistan-13809531.html)
+
+Polio, a highly infectious viral disease, mainly affecting children under five, was nearly eradicated globally through widespread vaccination efforts. However, outbreaks continue to occur in countries with low vaccination rates, like recent cases in Gaza.  The virus can cause paralysis and even death.  Before the vaccine, polio outbreaks were catastrophic, causing thousands of deaths and lifelong disability. Eradication efforts, led by the WHO, have been incredibly successful but face challenges in conflict zones and regions with weak health systems.  Despite the progress, achieving complete eradication remains a complex and ongoing task.
+
+Thu, 29 Aug 2024 17:58:54 +0530
+### [Jio Brain, Jio Phonecall AI & more: The 5 big announcements made at Reliance’s 47th AGM](https://www.firstpost.com/explainers/jio-brain-jio-phonecall-ai-big-announcements-made-at-reliance-47th-agm-mukesh-ambani-13809508.html)
+
+Reliance Industries chairman Mukesh Ambani outlined the conglomerate's AI-focused vision, aiming to make AI accessible to everyone in India at affordable prices.  He announced Jio Brain, a comprehensive AI platform encompassing tools and services across the entire AI lifecycle.  
+
+ Ambani also revealed Jio Phonecall AI, integrating AI into phone calls, enabling transcription, summarization, and language translation. 
+
+Reliance is investing heavily in its New Energy business, citing an integrated advanced chemistry-based battery manufacturing facility and a large-scale bio-energy, deep-tech energy centre in Jamnagar, Gujarat. This initiative also includes plans for solar PV module production, an electrolyser manufacturing facility, and investment in carbon fibre technology.
+
 Thu, 29 Aug 2024 17:32:10 +0530
 ### [Quicksplained: Who is Kaivalya Vohra, the youngest Indian billionaire on the Hurun Rich List?](https://www.firstpost.com/explainers/kaivalya-vohra-youngest-indian-billionaire-hurun-rich-list-13809490.html)
 

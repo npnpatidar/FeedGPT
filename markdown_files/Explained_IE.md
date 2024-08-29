@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 12:58:34 +0000
+### [National Sports Day: Story of Dhyan Chand, India’s first sporting superstar](https://indianexpress.com/article/explained/explained-sports/national-sports-day-dhyan-chand-hockey-9540081/)
+
+Dhyan Chand, born in 1905, is revered as India's first sporting superstar and a hockey wizard.  He led India to three consecutive Olympic hockey gold medals, dazzling audiences with his skills. His achievements on the international stage during India's pre-independence era held immense significance, inspiring pride as an Indian dominating a sport invented by Europeans. Dhyan Chand's legacy is enduringly celebrated in India, with National Sports Day commemorating him. Numerous awards and accolades, including the highest sporting honor, the Dhyan Chand Khel Ratna Award, are named after him. The National Stadium in New Delhi bears his name,  honoring his extraordinary contribution to Indian sports.
+
 Thu, 29 Aug 2024 12:09:41 +0000
 ### [What are jiu-jitsu & aikido, practised by Rahul Gandhi during Bharat Jodo Nyay Yatra](https://indianexpress.com/article/explained/jiu-jitsu-aikido-rahul-gandhi-bharat-jodo-nyay-yatra-9539835/)
 
