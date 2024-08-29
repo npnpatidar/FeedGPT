@@ -1,3 +1,21 @@
+Thu, 29 Aug 2024 15:00:02 +0530
+### [Viksit Bharat will get closer as family philanthropy gains momentum](https://www.livemint.com/opinion/online-views/family-philanthropy-viksit-bharat-ultra-high-net-worth-individuals-rohini-nilekani-diversity-equity-inclusion-healthcare-11724874953889.html)
+
+Family philanthropy is growing rapidly in India, driven by a rise in ultra-high net worth individuals (UHNI) and affluent donors.  This growth is notable in sectors like gender equity, arts and culture, climate action, mental health, and sports.
+
+While progress is being made, there are still challenges to overcome. Funding gaps persist in certain areas, and a greater focus on intersectional approaches addressing caste, gender, and regional disparities is needed. 
+
+Moreover, philanthropy predominantly benefits Tier 1 cities, leaving other areas underserved.  
+
+Family philanthropists are increasingly adopting innovative strategies, collaborating, leveraging data and technology, and prioritizing marginalized communities.  However, continued efforts are required to enhance transparency and governance within the sector.  With a focus on inclusivity and addressing deep-rooted inequities, family philanthropy has the potential to significantly contribute to India's development.
+
+Thu, 29 Aug 2024 14:30:01 +0530
+### [Suppressed feminism: China’s gaming industry is too gender insensitive](https://www.livemint.com/opinion/online-views/chinese-online-gamers-gaming-industry-womens-rights-censorship-game-science-gender-discrimination-feminism-11724921074578.html)
+
+The Chinese game "Black Myth: Wukong," which is gaining international acclaim, has landed in controversy over its alleged suppression of discussions about women's rights.  The game's developer, Game Science, reportedly asked reviewers not to discuss "feminist propaganda" during streams. This follows past controversies including vulgar comments made by the studio's founder and allegations of sexism within the company. 
+
+Despite China's government censoring feminist discussions online, the controversy surrounding "Wukong" has sparked debate and scrutiny.  While some see the backlash as an attack on Chinese culture, others view it as a symptom of the wider gender inequality within the gaming industry in China.
+
 Thu, 29 Aug 2024 12:30:18 +0530
 ### [The magnificent seven ways in which AI can transform human life](https://www.livemint.com/opinion/columns/ai-chatbots-technology-generative-ai-saas-user-interface-app-stores-coding-homo-sapiens-llms-11724874823268.html)
 

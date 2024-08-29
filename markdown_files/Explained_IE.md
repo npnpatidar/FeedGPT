@@ -1,3 +1,17 @@
+Thu, 29 Aug 2024 10:03:25 +0000
+### [Why govt has strengthened security for RSS chief Mohan Bhagwat, brought his cover on par with Amit Shah’s](https://indianexpress.com/article/explained/explained-politics/explained-asl-security-mohan-bhagwat-9539577/)
+
+Following threat intelligence, RSS chief Mohan Bhagwat's security has been strengthened with the addition of the ‘Advance Security Liaison’ (ASL) protocol.  This protocol, previously only used for visits to sensitive locations, now encompasses all of Bhagwat's movements. It involves a special team assessing security arrangements, identifying vulnerabilities and coordinating with local agencies for multi-layered security rings. The ASL has been implemented based on  threat assessments and observed shortcomings.
+
+Thu, 29 Aug 2024 09:36:58 +0000
+### [What Australia’s new cap on number of international students means](https://indianexpress.com/article/explained/explained-global/australia-new-cap-number-international-students-9539540/)
+
+Australia will limit new international student admissions to 270,000 in 2025, the lowest in five years.  This cap impacts various sectors, including vocational education and training, with publicly funded universities maintaining 2023 levels. Despite a record-high intake in the first half of 2024, likely exceeding 2023 figures, the government aims to control migration.  
+
+The cap excludes certain categories like school students, research degree seekers, and those on government scholarships. This follows other recent policy changes, including increased IELTS score requirements and a new Genuine Student Test.  
+
+Concerns have been raised, with the Group of Eight universities calling the cap "bad policy" and immigration consultants in India noting its potential impact on the business sector.
+
 Thu, 29 Aug 2024 02:10:32 +0000
 ### [How ISRO designed humanoid skull which will be used in Gaganyaan](https://indianexpress.com/article/explained/explained-sci-tech/how-isro-designed-humanoid-skull-which-will-be-used-in-gaganyaan-9538728/)
 

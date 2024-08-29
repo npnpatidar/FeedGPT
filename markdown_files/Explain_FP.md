@@ -1,3 +1,34 @@
+Thu, 29 Aug 2024 15:09:10 +0530
+### [26 people killed, dams overflowing & more: What’s behind the devastating Gujarat floods?](https://www.firstpost.com/explainers/whats-behind-the-devastating-gujarat-floods-13809375.html)
+
+Heavy rains in Gujarat have caused widespread devastation, resulting in at least 26 deaths and impacting numerous areas.
+
+Floods, triggered by overflowing rivers and reservoirs, have submerged homes and roads, displacing thousands. Prime Minister Modi has spoken with the Chief Minister and pledged full support for relief efforts. The Indian Army, Air Force, NDRF, and SDRF are engaged in rescue operations. Hundreds of trains have been disrupted or canceled, and power outages have affected thousands of villages.
+
+The Indian Meteorological Department (IMD) has issued red and yellow alerts for the Saurashtra and Kutch regions, forecasting heavy to exceptionally heavy rainfall, adding to the state's mounting rainfall total which has already exceeded 105% of its annual average.
+
+Thu, 29 Aug 2024 14:51:43 +0530
+### [Explained: South Korea’s deepfake porn epidemic and its link to Telegram](https://www.firstpost.com/explainers/explained-south-korea-deepfake-porn-epidemic-telegram-group-chats-13809416.html)
+
+South Korea is facing a surge in deepfake pornography cases targeting women and girls, often shared on Telegram. Universities and schools have been affected, with victims ranging from students and teachers to military personnel. President Yoon Suk Yeol has called for a crackdown on these "digital sex crimes," urging authorities to investigate and eradicate the issue. Telegram has been identified as the main platform for distributing this illegal content, prompting calls for the social media platform to take stronger measures against its spread. 
+
+
+Concerns have been raised about the government's response, with activists calling for a national emergency declaration and urging increased efforts to address the root causes of these crimes, including gender inequality and a culture of online anonymity.  The Korean National Police Agency has launched a campaign to combat online sex crimes, while the Korea Communications Standards Commission is working with platforms like Telegram, Facebook, and YouTube to remove and prevent the spread of deepfake content.  South Korea's legal system punishes the creation and distribution of sexually explicit deepfakes with up to five years in prison or a fine of 50 million won.
+
+Thu, 29 Aug 2024 14:07:15 +0530
+### [The shocking truth behind young, beautiful women promoting Trump on X](https://www.firstpost.com/explainers/the-shocking-truth-behind-young-beautiful-women-promoting-trump-on-x-13809398.html)
+
+A new method of pro-Trump propaganda has emerged on X, relying on stolen images of European and Russian fashion and beauty influencers. These accounts, created over the last few months, depict fictional personas supporting Trump and JD Vance, garnering thousands of followers. The accounts utilize everyday photos from the influencers' Instagram accounts, often captioned with pro-Trump hashtags and pleas for votes, despite these individuals having no connection to US politics. This practice raises concerns about misrepresentation and foreign interference in the upcoming US election. In addition to promoting Trump, these fake accounts spread misinformation on various issues, including the recent assassination attempt against Trump, Kamala Harris's ethnicity, and US military aid to Ukraine. X has taken down a majority of these accounts, but the incident highlights the platform's vulnerability to manipulation and the spread of false information.
+
+Thu, 29 Aug 2024 13:58:46 +0530
+### [What is the tree-felling case that Chief Justice DY Chandrachud has taken up?](https://www.firstpost.com/explainers/what-is-the-tree-felling-case-that-chief-justice-dy-chandrachud-has-taken-up-13809364.html)
+
+Two Supreme Court benches were handling different aspects of a contempt case against the Delhi Development Authority (DDA) regarding alleged unauthorized tree-cutting in Delhi's Ridge area. This resulted in a potential judicial standoff as one bench issued a contempt notice in April, while another bench took up a separate petition in May. 
+
+The conflict arose due to concerns over potential contradictory judgments and a lack of adherence to judicial propriety. Concerns were raised about the adequacy of the DDA's environmental impact assessment and accusations of covering up the extent of tree felling.  
+
+To prevent further conflict and ensure judicial coherence, Chief Justice of India D.Y. Chandrachud intervened and formed a new bench to take over the case,  with himself presiding over the hearing.
+
 Thu, 29 Aug 2024 12:53:00 +0530
 ### [INS Arighat, India’s second nuclear-powered submarine, to be commissioned today: Why this is significant](https://www.firstpost.com/explainers/ins-arighat-india-second-nuclear-powered-submarine-commissioned-significance-arihant-class-navy-13809373.html)
 
