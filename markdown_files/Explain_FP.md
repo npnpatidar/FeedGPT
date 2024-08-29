@@ -1,3 +1,19 @@
+Thu, 29 Aug 2024 21:09:33 +0530
+### [Who is Niels Holck, aka Kim Davy, Danish ‘mastermind’ of the 1995 Purulia arms drop case?](https://www.firstpost.com/explainers/purulia-arms-drop-case-niels-holck-kim-davy-danish-mastermind-extradition-to-india-13809580.html)
+
+A Danish court has again rejected India's extradition request for Niels Holck, also known as Kim Davy, who is involved in the 1995 Purulia arms drop case. The court's decision stems from concerns that Holck would not be treated according to the European Convention on Human Rights if sent to India. 
+
+Denmark's top prosecuting authority had previously approved the extradition, but the final decision rested with the court. India has been seeking Holck's extradition for years to try him for his role in the case where a plane carrying weapons was dropped over Purulia, West Bengal. Holck, who admits to his involvement, argues that he would face inhumane treatment in India. The case has caused tension between the two countries, affecting diplomatic and economic relations.
+
+Thu, 29 Aug 2024 20:03:04 +0530
+### ['Grabbed my child by the neck': How a pack of man-eating wolves is spreading terror in UP](https://www.firstpost.com/explainers/grabbed-my-child-by-the-neck-how-a-pack-of-man-eating-wolves-is-spreading-terror-in-up-13809512.html)
+
+A pack of man-eating wolves has terrorized 25 to 30 villages in Uttar Pradesh's Bahraich district, killing nine people, including eight children, in 45 days. The attacks have left over 50,000 residents living in fear.  
+
+The first incident occurred in mid-July when a one-year-old child was killed. Since then, attacks have continued with horrifying regularity, leaving villagers traumatized and struggling to survive.  
+  
+In response, the Uttar Pradesh government launched "Operation Bhediya" to capture the wolves. Over 250 personnel, including forest officials, are involved in the operation which includes setting up traps and deploying drone cameras.  They have already trapped three wolves, but two remain at large. The government is also providing support to villagers by installing doors and toilets in homes.
+
 Thu, 29 Aug 2024 19:08:25 +0530
 ### [What is EEE, the deadly mosquito-borne virus that is raging in the US?](https://www.firstpost.com/health/what-is-eee-the-deadly-mosquito-borne-virus-that-is-raging-in-the-us-13809414.html)
 

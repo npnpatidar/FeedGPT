@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 15:28:51 +0000
+### [Who is Warren Buffett, CEO of Berkshire Hathaway which attained a $1 trillion market cap?](https://indianexpress.com/article/explained/explained-global/explained-warren-buffett-berkshire-hathaway-9540343/)
+
+Warren Buffett, the CEO of Berkshire Hathaway, is widely recognized for his successful value investing strategies. After an early interest in business, he honed his skills through various investment partnerships before acquiring Berkshire Hathaway in 1965.  Initially focused on textile manufacturing, Buffett transformed the company into a holding company, investing in a diverse range of undervalued businesses with strong fundamentals.  His long-term investment approach, shaped by his mentor Benjamin Graham's principles, emphasizes identifying companies with enduring competitive advantages and holding onto them for significant periods. This strategy, coupled with his partnership with Charlie Munger, has propelled Berkshire Hathaway to become the first non-tech company to reach a $1 trillion market capitalization.
+
 Thu, 29 Aug 2024 12:58:34 +0000
 ### [National Sports Day: Story of Dhyan Chand, India’s first sporting superstar](https://indianexpress.com/article/explained/explained-sports/national-sports-day-dhyan-chand-hockey-9540081/)
 

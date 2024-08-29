@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 21:02:06 +0530
+### [What does Himachal Pradesh’s Bill raising women’s minimum marriage age entail? | Explained](https://www.thehindu.com/news/national/himachal-pradesh-bill-womens-minimum-marriage-age-entail/article68580118.ece)
+
+The Himachal Pradesh Assembly passed a Bill raising the minimum marriageable age for women from 18 to 21. The Bill, which amends the Prohibition of Child Marriage Act, 2006, aims to promote gender equality and higher education for women.  Chief Minister Sukhvinder Singh Sukhu emphasized the government's commitment to women's welfare, stating that Himachal Pradesh is the first state to enact this legislation. The Bill also extends the time period for filing a petition to annul a marriage for both men and women. It also  ensures that its provisions take precedence over other laws and practices regarding marriage in the state.
+
 Wed, 28 Aug 2024 14:47:46 +0530
 ### [K. Kavitha’s bail: What is PMLA’s bail concession for women? | Explained](https://www.thehindu.com/news/national/k-kavithas-bail-what-is-pmlas-bail-concession-for-women-explained/article68573908.ece)
 
