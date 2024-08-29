@@ -1,3 +1,19 @@
+Thu, 29 Aug 2024 12:30:18 +0530
+### [The magnificent seven ways in which AI can transform human life](https://www.livemint.com/opinion/columns/ai-chatbots-technology-generative-ai-saas-user-interface-app-stores-coding-homo-sapiens-llms-11724874823268.html)
+
+The author argues that Artificial Intelligence (AI) will have a profound impact on our lives, surpassing its current capabilities. They highlight seven key ways AI will reshape our world:
+
+1. **AI as the new UI:**  Voice interaction will become the primary way we interact with machines, similar to how we collaborate with colleagues.
+2. **Agents replacing apps:** AI agents will handle tasks for us, like booking travel, integrating with various apps and services.
+3. **SaaS evolves to service-as-a-software:**  AI will take over the responsibility of achieving desired outcomes, offering services rather than just tools.
+4. **English as the language of coding:**  Natural language will enable anyone to "code" by instructing AI to build things.
+5. **The AI phone:**  Future phones will be voice-controlled with agents replacing apps, and large language models powering the operating system.
+6. **The CHRO becomes the new CIO:**  Companies will need to promote AI literacy among employees, making the CHRO responsible for fostering AI adoption.
+7. **Homo Deus:**  AI will merge with humans, leading to advancements in technology and potentially a new species.
+
+
+The author concludes that AI literacy will be crucial for everyone in the future, as it becomes a powerful general-purpose technology shaping our world.
+
 Thu, 29 Aug 2024 10:08:52 +0530
 ### [Here’s how organizations can get digital ready without going wrong](https://www.livemint.com/opinion/online-views/digital-transformation-ai-business-strategy-leadership-upskilling-top-talent-value-chain-digital-lending-payments-11724874615871.html)
 

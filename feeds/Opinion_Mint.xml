@@ -5,6 +5,26 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>The magnificent seven ways in which AI can transform human life</title>
+			<link>https://www.livemint.com/opinion/columns/ai-chatbots-technology-generative-ai-saas-user-interface-app-stores-coding-homo-sapiens-llms-11724874823268.html</link>
+			<description>The author argues that Artificial Intelligence (AI) will have a profound impact on our lives, surpassing its current capabilities. They highlight seven key ways AI will reshape our world:
+
+1. **AI as the new UI:**  Voice interaction will become the primary way we interact with machines, similar to how we collaborate with colleagues.
+2. **Agents replacing apps:** AI agents will handle tasks for us, like booking travel, integrating with various apps and services.
+3. **SaaS evolves to service-as-a-software:**  AI will take over the responsibility of achieving desired outcomes, offering services rather than just tools.
+4. **English as the language of coding:**  Natural language will enable anyone to "code" by instructing AI to build things.
+5. **The AI phone:**  Future phones will be voice-controlled with agents replacing apps, and large language models powering the operating system.
+6. **The CHRO becomes the new CIO:**  Companies will need to promote AI literacy among employees, making the CHRO responsible for fostering AI adoption.
+7. **Homo Deus:**  AI will merge with humans, leading to advancements in technology and potentially a new species.
+
+
+The author concludes that AI literacy will be crucial for everyone in the future, as it becomes a powerful general-purpose technology shaping our world.</description>
+			<pubDate>Thu, 29 Aug 2024 12:30:18 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/08/28/1600x900/AFP_9D38Q6_1625195693009_1724877805535.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/08/28/1600x900/AFP_9D38Q6_1625195693009_1724877805535.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Here’s how organizations can get digital ready without going wrong</title>
 			<link>https://www.livemint.com/opinion/online-views/digital-transformation-ai-business-strategy-leadership-upskilling-top-talent-value-chain-digital-lending-payments-11724874615871.html</link>
 			<description>A recent BCG study found that while over 80% of companies see digital transformation as a priority, only 30% succeed. The study identifies key factors contributing to this low success rate, emphasizing the importance of a well-defined strategy with clear goals and a roadmap. 

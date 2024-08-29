@@ -1,3 +1,17 @@
+Thu, 29 Aug 2024 12:53:00 +0530
+### [INS Arighat, India’s second nuclear-powered submarine, to be commissioned today: Why this is significant](https://www.firstpost.com/explainers/ins-arighat-india-second-nuclear-powered-submarine-commissioned-significance-arihant-class-navy-13809373.html)
+
+India is set to commission its second nuclear-powered ballistic missile submarine, INS Arighat, marking a significant enhancement to its naval capabilities. 
+
+INS Arighat, meaning 'destroyer of enemies', is a technological marvel, capable of carrying nuclear-capable missiles and staying submerged for extended periods. Boasting advanced stealth features and a solid displacement of 6,000 tonnes, this submarine poses a formidable deterrent in the Indo-Pacific region.  
+
+INS Arighat joins its predecessor, INS Arihant, in India's strategic submarine force, demonstrating its commitment to safeguarding maritime interests and contributing to regional security. India's growing submarine prowess signifies its growing influence on the global stage.
+
+Thu, 29 Aug 2024 11:48:17 +0530
+### [More students than farmers are dying by suicide in India. What's behind the alarming rise?](https://www.firstpost.com/explainers/rising-student-suicide-rates-in-india-whats-behind-the-alarming-rise-13809308.html)
+
+A new report reveals a growing crisis of student suicide in India. Student suicides have increased at an alarming rate of four per cent annually, outpacing both population growth and overall suicide trends. Despite a slight decline in 2022, student suicides still account for 7.6 per cent of all suicides nationally. Maharashtra, Tamil Nadu, and Madhya Pradesh have the highest numbers of student suicides.  Male students comprise 53 per cent of reported suicides, with both genders experiencing a significant increase in suicide rates over the past decade. The report attributes this crisis to various factors such as academic pressure, career choices, ragging, bullying, discrimination, and financial stress.  It emphasizes the need for improved mental health support, quality education, and comprehensive counseling systems within educational institutions to address this growing concern.
+
 Thu, 29 Aug 2024 10:10:46 +0530
 ### [What’s the West Bank where Israel has launched a massive raid? Why does the timing matter?](https://www.firstpost.com/explainers/west-bank-israel-military-raid-timing-matters-13809312.html)
 

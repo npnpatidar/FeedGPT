@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 12:08:33 +0530
+### [Olympics 2028: India must mull its Paris debacle, start preparing for Los Angeles Games](https://www.firstpost.com/opinion/olympics-2028-india-must-mull-its-paris-debacle-start-preparing-for-los-angeles-games-13809368.html)
+
+Despite a recent increase in Olympic medals, India's performance still falls short of expectations.  The author argues for policy stability to support long-term athlete development and highlights the need to prioritize aquatic sports, athletics, and gymnastics.  They suggest increased federation accountability, strengthened state-corporate partnerships, greater involvement of the Defence Services, and a national-level planning conclave for the 2028 Los Angeles Olympics.  The author proposes a "Kreedapath" program similar to Agnipath for short-term sports enlistment and calls for a "Target Olympic Grassroot Scheme" to identify talent at the grassroots level.  Ultimately, they emphasize the importance of committed sports policy stability for India to achieve Olympic success.
+
 Thu, 29 Aug 2024 11:31:29 +0530
 ### [Why China must recall history before replacing Tibet with ‘Xizang’](https://www.firstpost.com/opinion/why-china-must-recall-history-before-replacing-tibet-with-xizang-13809349.html)
 

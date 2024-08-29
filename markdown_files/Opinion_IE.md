@@ -1,3 +1,12 @@
+Thu, 29 Aug 2024 07:10:56 +0000
+### [From Salim-Javed to Kamala Harris, the fantasy of the infallible ‘Ma’](https://indianexpress.com/article/opinion/columns/kamala-harris-salim-javed-mother-9539227/)
+
+The concept of "mother" holds immense cultural significance, transcending individual experiences and shaping societal perceptions. From religious figures to cinematic portrayals, the idealized mother embodies unconditional love, sacrifice, and moral authority.  
+
+Hindi cinema often depicts widowed or abandoned mothers as powerful figures, reflecting a cultural yearning for a nurturing, primal maternal figure.  While recent films have explored more complex mother characters, the dichotomy between "good" and "bad" mothers persists, reinforcing traditional roles.  
+
+This idealized image of motherhood exerts influence beyond cinema, impacting political discourse where women leaders are often expected to leverage maternal qualities for legitimacy.  To challenge the status quo for women, it may require moving beyond the solely maternal narrative.
+
 Thu, 29 Aug 2024 01:36:23 +0000
 ### [Bail for K Kavitha: Time to review PMLA’s draconian provisions](https://indianexpress.com/article/opinion/columns/bail-for-k-kavitha-time-to-review-pmlas-draconian-provisions-9538774/)
 
