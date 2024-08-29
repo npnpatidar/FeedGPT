@@ -1,3 +1,13 @@
+Thu, 29 Aug 2024 08:30:11 +0530
+### [Ayurvedic medicines mustn’t get a free pass on advertising](https://www.livemint.com/opinion/online-views/supreme-court-ayurvedic-medicines-patanjali-misleading-ads-allopathy-advertising-regulation-public-health-coronil-11724874219190.html)
+
+The Indian Supreme Court upheld a ban on misleading advertisements of Ayurvedic, Siddha, and Unani drugs, rejecting a July notification by the Ayush Ministry that aimed to lift the restriction.  Rule 170 of India’s Drugs and Cosmetic Rules, 1945, which prohibits ads that might mislead people about the therapeutic value of these medicines, remains in effect.
+
+This follows a long-standing debate between proponents of allopathy and Ayurveda, sparked by Patanjali Ayurved's claim that its product Coronil could cure COVID-19. The Court, recognizing the need for a balance between traditional medical practices and public health, reinstated the rule while emphasizing the importance of clear advertising standards for Ayurvedic products.  
+
+
+It highlighted the difference in regulatory processes between allopathic drugs, which undergo rigorous clinical trials, and Ayurvedic formulations, which are subject to softer regulations focusing on traditional texts and safety.
+
 Thu, 29 Aug 2024 07:00:08 +0530
 ### [Mint Quick Edit | Industrial smart hubs will need reform support](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-industrial-area-smart-city-special-economic-zones-investment-manufacturing-policy-reform-business-11724874161778.html)
 

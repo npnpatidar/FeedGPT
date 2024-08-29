@@ -1,3 +1,12 @@
+Thu, 29 Aug 2024 09:00:00 +0530
+### [‘The victim of crime is treated as a mere witness in the prosecution of the offence’](https://www.thehindu.com/opinion/columns/victims-of-crime-are-the-neglected-pillars-of-the-criminal-justice-system/article68571631.ece)
+
+The criminal justice system often neglects victims, focusing primarily on the accused. Victims suffer physical, emotional, and financial consequences from crimes, but their needs are frequently overlooked.  
+
+Recognizing this, the United Nations adopted principles ensuring victims' access to justice, restitution, compensation, and assistance. While some developed countries have implemented comprehensive victim support laws, India's approach is limited to compensation schemes and the Protection of Human Rights Act.  
+
+Despite progress, a paradigm shift is needed to prioritize victims' rights within the criminal justice system. A more comprehensive approach encompassing relief, compensation, and rehabilitation should be mandated, ensuring victims receive the support they need and deserve.
+
 Wed, 28 Aug 2024 00:30:00 +0530
 ### [Ten million ways to give Test cricket the boost it needs](https://www.thehindu.com/opinion/columns/ten-million-ways-to-give-test-cricket-the-boost-it-needs/article68572897.ece)
 

@@ -1,3 +1,12 @@
+Thu, 29 Aug 2024 08:45:54 +0530
+### [Netflix's IC 814: The Kandahar Hijack: The true story of the hijacking that shook India](https://www.firstpost.com/explainers/netflix-series-ic-814-the-kandahar-hijack-flight-180-hostages-india-13809211.html)
+
+In December 1999, Indian Airlines Flight IC 814 was hijacked by five terrorists. The plane, carrying 180 passengers, was diverted to various locations including Pakistan, Dubai, and finally Kandahar, Afghanistan. 
+
+The hijackers demanded the release of 36 terrorists in exchange for the hostages and a ransom of $200 million. After intense negotiations, the Indian government agreed to release three militants in a deal that garnered criticism for appeasing terrorists. The hijackers released some hostages but kept the rest until the deal was completed. 
+
+The three released terrorists, including Masood Azhar, went on to form the terror group Jaish-e-Mohammed, responsible for numerous attacks on India.
+
 Thu, 29 Aug 2024 07:52:39 +0530
 ### [In Hong Kong, two journalists are awaiting the results of their sedition trial. Here's what is at stake](https://www.firstpost.com/explainers/in-hong-kong-two-journalists-are-awaiting-the-results-of-their-sedition-trial-heres-what-is-at-stake-13809213.html)
 
