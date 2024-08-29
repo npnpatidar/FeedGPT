@@ -1,3 +1,38 @@
+Thu, 29 Aug 2024 02:10:32 +0000
+### [How ISRO designed humanoid skull which will be used in Gaganyaan](https://indianexpress.com/article/explained/explained-sci-tech/how-isro-designed-humanoid-skull-which-will-be-used-in-gaganyaan-9538728/)
+
+ISRO's 2025 uncrewed Gaganyaan mission will feature Vyomitra, a female half-humanoid robot. Designed to assist astronauts with tasks like equipment repair and panel cleaning, Vyomitra will demonstrate its capabilities during the mission, including operating the crew console, monitoring systems, and communicating with Earth. 
+
+Vyomitra's skull, made from a lightweight and heat-resistant aluminum alloy,  was 3D printed using additive manufacturing techniques. This design allows for strength and flexibility, crucial for withstanding the rigors of a space launch.  
+
+ISRO will use data from the mission to evaluate the impacts of space travel on humans, paving the way for India's first crewed mission later in 2025.
+
+Thu, 29 Aug 2024 01:45:56 +0000
+### [How Jan Dhan has had a transformative impact on financial, banking sector](https://indianexpress.com/article/explained/explained-economics/how-jan-dhan-has-had-a-transformative-impact-on-financial-banking-sector-9538734/)
+
+The Pradhan Mantri Jan Dhan Yojana (PMJDY), launched in 2014, has opened 53.13 crore bank accounts, significantly boosting financial inclusion, particularly for women, youth, and marginalized communities. The scheme aimed to provide basic savings bank accounts with no minimum balance requirement, RuPay debit cards, and insurance coverage.  
+
+PMJDY's success has driven demand for banking services, encouraging branch expansion and the adoption of payment solutions like UPI. The scheme has also become crucial for the government's Direct Benefit Transfer (DBT) architecture, ensuring efficient delivery of welfare programs.
+
+Thu, 29 Aug 2024 01:30:25 +0000
+### [Himachal Bill raises women’s marriage age; what happens next?](https://indianexpress.com/article/explained/explained-law/himachal-bill-raises-womens-marriage-age-what-happens-next-9538741/)
+
+The Himachal Pradesh Assembly passed a Bill to raise the minimum marriage age for women from 18 to 21 years. The Bill amends the Prohibition of Child Marriage Act by,  removing the distinction of age between male and female "child" as defined in the Act and defining both as those who have not completed 21 years of age. It also gives overriding effect to the Act over any other law, custom, or practice, ensuring that the new marriage age applies to everyone. 
+
+ Additionally, the Bill increases the time to file a petition to annul a child marriage from two to five years.  Since the Bill contradicts a central law, it needs the President's assent to come into force.
+
+Thu, 29 Aug 2024 01:30:06 +0000
+### [Who are the Jamaat-e-Islami Bangladesh?](https://indianexpress.com/article/explained/explained-history/who-are-the-jamaat-e-islami-bangladesh-9538726/)
+
+Bangladesh’s interim government has lifted the ban on the Bangladesh Jamaat-e-Islami, allowing its return to active politics.  Previously, the party was labeled as a "militant and terrorist" organization and faced criminal charges for war crimes committed during the 1971 Liberation War. 
+
+
+The Jamaat, which advocates for the implementation of Islamic law in Bangladesh, traces its roots back to a larger Islamic group established in Lahore in 1941. While it actively opposed the partition of India and Pakistan in 1947, it played a significant role in supporting the Pakistani government during the Bangladesh Liberation War. 
+
+The party was actively involved with organizations that carried out atrocities against the Bengali population. After Bangladesh's independence in 1971, the Jamaat was banned and its leaders faced prosecution. 
+
+While the party was rehabilitated in later years, it was once again cracked down on by the Sheikh Hasina government, which used the International Crimes Tribunal Act to prosecute alleged war criminals. Several high-ranking Jamaat leaders were executed or imprisoned.
+
 Wed, 28 Aug 2024 14:24:34 +0000
 ### [History and controversies of AMMA, the Kerala actors’ body that was led by superstar Mohanlal](https://indianexpress.com/article/explained/explained-amma-malayalam-actors-mohanlal-9538210/)
 

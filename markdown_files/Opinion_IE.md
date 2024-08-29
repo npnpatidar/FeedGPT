@@ -1,3 +1,63 @@
+Thu, 29 Aug 2024 01:36:23 +0000
+### [Bail for K Kavitha: Time to review PMLA’s draconian provisions](https://indianexpress.com/article/opinion/columns/bail-for-k-kavitha-time-to-review-pmlas-draconian-provisions-9538774/)
+
+Recent Supreme Court judgments emphasize the principle of bail as the norm in cases under special laws like the UAPA and PMLA, aiming to prevent pretrial detention from becoming punitive. 
+
+The ED's use of stringent PMLA provisions has faced scrutiny, with courts expressing concerns about its impact on individuals and due process. While the government highlights the ED's success in registering cases and attaching assets, critics point to allegations of bias against the opposition and concerns about the lengthy and often unresolved judicial processes.
+
+Questions arise about the ED's capacity to handle the sheer volume of cases and potential for misuse of its powers. The Supreme Court's upcoming review of PMLA provisions is anticipated to address these concerns and potentially bring about necessary reforms to ensure a balance between combating financial crime and safeguarding individual rights.
+
+Thu, 29 Aug 2024 01:36:19 +0000
+### [AAP’s Saurabh Bhardwaj writes: Offices of governor and L-G must be abolished](https://indianexpress.com/article/opinion/columns/aaps-saurabh-bhardwaj-writes-offices-of-governor-and-l-g-must-be-abolished-9538771/)
+
+This article criticizes the actions of the Lieutenant Governor of Delhi, arguing that the position has been misused to obstruct the work of the elected government. The author contends that the L-G's role should be limited to land and law and order matters, as originally intended, and that recent interference in other areas has been detrimental to the city's progress. The article highlights several instances of alleged L-G overreach, including the appointment of unfavorable bureaucrats, blocking funds for projects, and disregarding environmental regulations.  
+
+Despite these challenges, the author points to the achievements of the Delhi government in areas like education, healthcare, and infrastructure, arguing that these successes demonstrate the need for a more collaborative relationship between the elected government and the L-G's office. The article concludes with a call to abolish the positions of L-G and governor, deeming them relics of colonialism that hinder democratic principles.
+
+Thu, 29 Aug 2024 01:36:02 +0000
+### [August 29, 1984, Forty Years Ago: Sikh Convention](https://indianexpress.com/article/opinion/40-years-ago/august-29-1984-forty-years-ago-sikh-convention-9538767/)
+
+The five Sikh high priests announced they would proceed with their World Sikh Convention in Amritsar on September 2nd, despite the authorities withholding permission. The convention aims to address Sikh concerns, particularly regarding the Army's 1984 operation at the Golden Temple. Meanwhile,  Indian Finance Minister Pranab Mukherjee dismissed rumors of a potential shift to a presidential system of government stemming from Congress-I discussions. Yugoslav President Veselin Djuranovic revealed the Non-Aligned Movement plans to propose an international conference on Lebanese and Palestinian issues at the upcoming UN General Assembly.
+
+Thu, 29 Aug 2024 01:35:30 +0000
+### [Single seniors in Shanghai are showing the way on love](https://indianexpress.com/article/opinion/editorials/single-seniors-in-shanghai-are-showing-the-way-on-love-9538748/)
+
+Senior citizens in Shanghai are finding love and companionship later in life, challenging the notion that romance is solely a youthful pursuit.  As the global elderly population grows, the importance of addressing the need for social connection and love in later years becomes increasingly significant.  Older individuals are actively using dating apps and social clubs to find love, proving that love remains a vital force regardless of age.
+
+Thu, 29 Aug 2024 01:35:18 +0000
+### [Express View on Jan Dhan Yojana: For the underserved](https://indianexpress.com/article/opinion/editorials/express-view-on-jan-dhan-yojana-for-the-underserved-9538746/)
+
+The Pradhan Mantri Jan Dhan Yojana has significantly expanded access to formal banking services in India.  The scheme has opened over 53 crore accounts, with a majority in rural/semi-urban areas and benefiting women disproportionately. 
+
+This financial inclusion, coupled with Aadhaar and mobile technology, has enabled Direct Benefit Transfer (DBT) schemes, ensuring more efficient and accurate delivery of social welfare. The JAM trinity has also revolutionized payment systems through the Unified Payments Interface, facilitating millions of daily transactions, especially among low-income households.  
+
+While the focus has been on account opening, the challenge remains to provide tailored financial products and services that cater to the specific needs of low-income individuals.  The Unified Lending Interface holds potential for serving those segments still excluded from formal financial services.
+
+Thu, 29 Aug 2024 01:34:22 +0000
+### [Neither fear, nor favour: Assam Chief Minister must remember his oath of office](https://indianexpress.com/article/opinion/editorials/neither-fear-nor-favour-assam-chief-minister-must-remember-his-oath-of-office-9538747/)
+
+Assam Chief Minister Himanta Biswa Sarma sparked controversy by declaring he would "take sides" and rejecting claims by Bengali Muslims, referred to as "Miya Muslims", to  "take all of Assam".  His statements followed tensions in Sivasagar stemming from a rape incident allegedly perpetrated by Bengali Muslim youths, leading to threats against those perceived as "Bangladeshis". Sarma's rhetoric is seen as alarmingly divisive, fueling communal anxieties in a state already grappling with identity issues. 
+
+  Bengali Muslims, referred to as "Miyas", face xenophobic attacks, often portrayed by political actors as competing with indigenous Assamese for resources and cultural dominance.  Sarma's controversial statements reflect a pattern of divisive politics that exploits existing insecurities, contradicting the Prime Minister's call for adherence to constitutional morality.
+
+Thu, 29 Aug 2024 01:34:13 +0000
+### [P B Mehta writes: Uncharted territory for India’s governance matrix](https://indianexpress.com/article/opinion/columns/p-b-mehta-writes-uncharted-territory-for-indias-governance-matrix-9538745/)
+
+The recent election results have significantly impacted India's governance landscape. The Prime Minister's authority has suffered a decline, both domestically and in his ability to understand public sentiment. This, coupled with internal party dissension, has created a sense of vacuum at the top of the government.
+
+The BJP is increasingly resorting to tactics that exacerbate institutional conflict, evident in their approach towards states under opposition rule and the use of inflammatory rhetoric.  
+
+Furthermore, despite electoral setbacks, the BJP remains committed to the Hindutva agenda, further dividing the nation. Routine governance remains absent, and the government is likely to rely on welfare populism and communal mobilization to appease its base. 
+
+The opposition is emboldened and ready to challenge the ruling party, while the judiciary, though imperfect, offers some resistance against government overreach. This volatile combination sets the stage for an unpredictable governance trajectory for India.
+
+Thu, 29 Aug 2024 01:34:07 +0000
+### [In Good Faith: How to ensure that our boys grow into good men](https://indianexpress.com/article/opinion/columns/in-good-faith-how-to-ensure-that-our-boys-grow-into-good-men-9538743/)
+
+The article discusses the increasing violence against female caregivers in India, highlighting the complex factors contributing to this issue. It argues that societal misogyny, lack of support systems, and a changing cultural landscape, marked by a rise in toxic masculinity and a disregard for respect, are key drivers of this violence. The author emphasizes the importance of addressing the root causes by promoting gender sensitivity, peaceful conflict resolution, and empathy from a young age. 
+
+It calls for a collective effort involving families, schools, communities, and religious leaders to create a culture of respect for women and children.  The author stresses the need for strong leadership and societal change to ensure the safety and well-being of caregivers and to foster a more compassionate future.
+
 Wed, 28 Aug 2024 11:43:57 +0000
 ### [The Hema moment gives not only ‘stars’ but also the ‘extras’ a voice](https://indianexpress.com/article/opinion/columns/hema-moment-gives-stars-extras-voice-9537810/)
 

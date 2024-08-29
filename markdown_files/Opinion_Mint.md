@@ -1,3 +1,21 @@
+Thu, 29 Aug 2024 07:00:08 +0530
+### [Mint Quick Edit | Industrial smart hubs will need reform support](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-industrial-area-smart-city-special-economic-zones-investment-manufacturing-policy-reform-business-11724874161778.html)
+
+The Indian cabinet has approved the development of twelve industrial smart cities under the National Industrial Corridor Development Programme, with an investment of ₹28,602 crore. These cities will operate on a ‘plug-and-play’ model, providing ready infrastructure for businesses to establish operations quickly.  The goal is to create activity hubs and stimulate domestic manufacturing.  
+
+While the concept is promising, there are concerns about the effectiveness of similar initiatives in the past, which have faced operational challenges.  To avoid this, simultaneous efforts are needed to create a more favorable policy environment for businesses.  Progress has been made in simplifying business regulations, but red tape still persists, hindering manufacturing growth.
+
+Thu, 29 Aug 2024 06:30:05 +0530
+### [Telegram CEO’s arrest is a moment of social media reckoning](https://www.livemint.com/opinion/online-views/telegram-ceo-pavel-durov-social-media-regulation-end-to-end-encryption-terrorism-digital-governance-meta-tik-tok-youtube-11724873986322.html)
+
+Pavel Durov, founder of Telegram, was arrested in France on charges related to the app's alleged facilitation of criminal activity like child sexual abuse material distribution, drug trafficking, and money laundering.  
+
+While Telegram boasts a "no consequences" approach to content moderation, its hands-off policy has resulted in the platform being used for harmful purposes. Despite claiming full end-to-end encryption, the app utilizes client-server encryption by default, allowing Telegram to potentially access user data. 
+
+The arrest signals a shift towards holding social media platforms accountable for the content hosted on them.  Durov's critics argue that his arrest threatens free speech, but proponents of the charges emphasize that ignoring online criminal activity is not a defense of liberty but a dereliction of duty.
+
+This event highlights the growing pressure on tech giants to operate in a less unregulated environment and face consequences for facilitating illegal activities.
+
 Wed, 28 Aug 2024 16:00:03 +0530
 ### [How to tell fake NGOs apart from actual do-gooders? Here’s a guide.](https://www.livemint.com/opinion/online-views/ngos-social-work-grassroot-immersion-commitment-impact-social-sector-fakeness-11724788435949.html)
 

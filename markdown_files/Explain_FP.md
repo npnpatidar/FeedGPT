@@ -1,3 +1,21 @@
+Thu, 29 Aug 2024 07:52:39 +0530
+### [In Hong Kong, two journalists are awaiting the results of their sedition trial. Here's what is at stake](https://www.firstpost.com/explainers/in-hong-kong-two-journalists-are-awaiting-the-results-of-their-sedition-trial-heres-what-is-at-stake-13809213.html)
+
+Two journalists from the now-defunct Hong Kong outlet Stand News, Chung Pui-kuen and Patrick Lam, are awaiting the verdict in a landmark sedition case.  This is Hong Kong's first such case involving media since its return to Chinese rule in 1997. 
+
+They are charged with conspiracy to publish seditious materials under a colonial-era law increasingly used to target dissent following the 2019 anti-government protests.  Stand News, known for its critical reporting, was shut down in December 2021 after police raided its office and froze its assets. The prosecution alleges that the outlet acted as a political platform and published seditious articles, while the defense maintains that Stand News upheld freedom of speech.  
+
+
+
+ The case has drawn international attention and is seen as a test of press freedom in Hong Kong.
+
+Thu, 29 Aug 2024 06:42:38 +0530
+### [FirstUp: India to commission second nuclear submarine, Chilean foreign minister in Mumbai... The news today](https://www.firstpost.com/explainers/firstup-india-to-commission-second-nuclear-submarine-chilean-foreign-minister-in-mumbai-the-news-today-13809145.html)
+
+The Indian Navy will commission its second nuclear submarine, INS Arighat, today. This submarine strengthens India's nuclear triad, enabling the launch of nuclear missiles from sea, air, and land.  Chile's Foreign Minister, Alberto Klaveren, will visit Mumbai to meet business leaders, focusing on strengthening economic ties between Chile and India. 
+
+A BJP central election committee meeting will discuss candidates for the upcoming Haryana Assembly elections, prioritizing candidates with a clean image.  The Karnataka High Court will continue hearing on CM Siddaramaiah's petition challenging the Governor’s sanction for his prosecution in the MUDA site allotment scam. Lastly, the Delhi High Court will hear the anticipatory bail plea of suspended IAS trainee officer Puja Khedkar, who is accused of falsifying information in her UPSC application.
+
 Wed, 28 Aug 2024 20:09:47 +0530
 ### [Indian woman vanishes into Malaysian sinkhole: Inside search and rescue ops to find Vijaya Lakshmi Gali](https://www.firstpost.com/explainers/indian-woman-vanishes-into-malaysian-sinkhole-inside-search-and-rescue-ops-to-find-vijaya-lakshmi-gali-13809203.html)
 
