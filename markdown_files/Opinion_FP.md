@@ -1,3 +1,10 @@
+Thu, 29 Aug 2024 15:45:21 +0530
+### [Chinese aggression in South China Sea will push Philippines more into American arms](https://www.firstpost.com/opinion/chinese-aggression-in-south-china-sea-will-push-philippines-more-into-american-arms-13809462.html)
+
+The Philippines is facing increasing tensions with China in the South China Sea, with confrontations escalating over disputed territories and maritime claims.  Manila accuses Beijing of employing "gray zone" tactics, including the deployment of vessels near Philippine-controlled areas and harassment of Philippine ships. This has prompted the Philippine government to strengthen its military ties with the United States, allowing US forces access to additional bases in the country. Philippine President Marcos seeks to modernize the country's military capabilities to deter Chinese aggression and protect Philippine sovereignty. 
+
+While China remains the Philippines' top trading partner, growing mistrust and the territorial disputes have strained bilateral relations. The Philippines seeks international support to uphold the 2016 South China Sea Arbitration ruling, which invalidated China's expansive maritime claims.  As tensions rise, the Philippines risks becoming a focal point of the wider regional power struggle between China and the US.
+
 Thu, 29 Aug 2024 12:08:33 +0530
 ### [Olympics 2028: India must mull its Paris debacle, start preparing for Los Angeles Games](https://www.firstpost.com/opinion/olympics-2028-india-must-mull-its-paris-debacle-start-preparing-for-los-angeles-games-13809368.html)
 

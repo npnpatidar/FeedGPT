@@ -1,3 +1,12 @@
+Thu, 29 Aug 2024 10:50:15 +0000
+### [A Uniform Civil Code should expand rights of women and young, not restrict them](https://indianexpress.com/article/opinion/columns/uniform-civil-code-women-rights-9539655/)
+
+Two Op-Eds arguing for Prime Minister Modi's call for a "secular civil code"  fail to clearly define what such a code would entail. Both focus on the need to reform Muslim personal law, overlooking the broader context of women's rights and the historical resistance to a uniform civil code.
+
+The original push for a uniform civil code in the Constituent Assembly faced opposition from both Hindu and minority groups, leading to a compromise focusing on a common Hindu civil code which ultimately fell short of achieving women's rights.  
+
+The Uttarakhand Uniform Civil Code,  which mirrors these older provisions, raises concerns about its potential to be divisive and detrimental to women's freedoms.  The code restricts interfaith marriages, criminalizes early divorce, and mandates registration of live-in relationships, leaving couples vulnerable to harassment.  A timely Supreme Court judgment is needed to establish constitutional benchmarks for a women's rights-based civil code.
+
 Thu, 29 Aug 2024 07:10:56 +0000
 ### [From Salim-Javed to Kamala Harris, the fantasy of the infallible ‘Ma’](https://indianexpress.com/article/opinion/columns/kamala-harris-salim-javed-mother-9539227/)
 

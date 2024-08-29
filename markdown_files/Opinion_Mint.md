@@ -1,3 +1,14 @@
+Thu, 29 Aug 2024 16:00:04 +0530
+### [Making capital costlier in relation to labour may help generate more jobs](https://www.livemint.com/opinion/online-views/employment-paradox-economic-growth-capital-costs-agriculture-labour-costs-employment-linked-incentives-corporate-bonds-11724922955034.html)
+
+India's economic growth is failing to translate into job creation. While the GDP grew significantly between 2011-12 and 2022-23, employment grew at a much slower pace. This has resulted in a surge in unemployment. 
+
+The article suggests that to address this issue, the government needs to implement policies that encourage labour-intensive growth. A key strategy is lowering the wage-rental ratio, which compares the cost of labour to the cost of capital. This can be achieved by raising the cost of capital through policies like a depreciating exchange rate or real interest rate hikes. 
+
+Another solution proposed is an employment-linked incentive scheme (ELI) similar to the existing Production Linked Incentive (PLI) scheme, but focused on job creation instead of production. 
+
+The article also highlights the need to address structural rigidities in the labour market, which may be hindering job growth despite low wage levels.  Variations in labour laws across states provide opportunities to study these rigidities and find effective solutions.
+
 Thu, 29 Aug 2024 15:00:02 +0530
 ### [Viksit Bharat will get closer as family philanthropy gains momentum](https://www.livemint.com/opinion/online-views/family-philanthropy-viksit-bharat-ultra-high-net-worth-individuals-rohini-nilekani-diversity-equity-inclusion-healthcare-11724874953889.html)
 

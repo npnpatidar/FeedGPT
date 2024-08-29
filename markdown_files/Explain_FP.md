@@ -1,3 +1,20 @@
+Thu, 29 Aug 2024 17:32:10 +0530
+### [Quicksplained: Who is Kaivalya Vohra, the youngest Indian billionaire on the Hurun Rich List?](https://www.firstpost.com/explainers/kaivalya-vohra-youngest-indian-billionaire-hurun-rich-list-13809490.html)
+
+The Hurun India Rich List 2024 revealed that Kaivalya Vohra, co-founder of Zepto, is the youngest entrant at 21 years old with a net worth of Rs 3,600 crore. Vohra, along with his co-founder Aadit Palicha, dropped out of Stanford to launch Zepto in 2021.  Other young entrants on the list include Rohan Gupta, Shasvat Nakrani, Alakh Pandey, and Ritesh Agarwal. 
+
+ The Hurun India Rich List highlights the success of India's youth entrepreneurs. A total of 334 billionaires were listed, with Gautam Adani and family topping the list with a net worth of Rs 11.6 lakh crore. Notably, 1,008 individuals on the list are self-made, showcasing the entrepreneurial spirit in India.
+
+Thu, 29 Aug 2024 17:16:14 +0530
+### [Why Japan is luring single women with money to move out of Tokyo](https://www.firstpost.com/explainers/why-japan-is-luring-single-women-with-money-to-move-out-of-tokyo-13809437.html)
+
+To address Japan's declining population and gender imbalance in rural areas, the government is implementing a new initiative.  The plan includes covering travel expenses for single women relocating from Tokyo to rural areas for matchmaking events and offering financial incentives for those who decide to permanently move. This aims to encourage single women who currently stay in Tokyo for work or education to return to their hometowns and potentially find partners. The government hopes this will help reverse the trend of a shrinking rural population and boost birth rates.
+
+Thu, 29 Aug 2024 15:56:30 +0530
+### [Warren Buffett’s Berkshire Hathaway is now a $1 trillion company. Inside the small and elite club of world's richest firms](https://www.firstpost.com/explainers/warren-buffett-berkshire-hathaway-1-trillion-company-elite-club-richest-firms-13809450.html)
+
+Berkshire Hathaway, Warren Buffett's conglomerate, reached a market capitalization of $1 trillion, making it the first non-technology company in the US to achieve this milestone. The company's success is attributed to Buffett's long-term investment strategy and holdings in stable, well-established businesses like American Express, Coca-Cola, and Apple. Berkshire Hathaway's growth strategy focuses on acquiring businesses with strong fundamentals and enduring competitive advantages.  While Buffett, who will turn 94 soon, is set to retire, he has named Greg Abel as his successor, assuring a smooth transition and continuation of the company's current operations.
+
 Thu, 29 Aug 2024 15:09:10 +0530
 ### [26 people killed, dams overflowing & more: What’s behind the devastating Gujarat floods?](https://www.firstpost.com/explainers/whats-behind-the-devastating-gujarat-floods-13809375.html)
 

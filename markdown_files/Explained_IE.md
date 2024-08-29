@@ -1,3 +1,8 @@
+Thu, 29 Aug 2024 12:09:41 +0000
+### [What are jiu-jitsu & aikido, practised by Rahul Gandhi during Bharat Jodo Nyay Yatra](https://indianexpress.com/article/explained/jiu-jitsu-aikido-rahul-gandhi-bharat-jodo-nyay-yatra-9539835/)
+
+During his Bharat Jodo Yatra, Rahul Gandhi practiced jiu-jitsu daily, aiming to teach young people a blend of martial arts and non-violent conflict resolution. He described the experience as bringing people together and fostering a more compassionate society.  Gandhi mentioned a "Bharat Dojo Yatra" is coming soon. Jiu-jitsu, meaning "gentle art,"  originated in Japan during the samurai era as a grappling and self-defense technique. Its principles involve manipulating an opponent's energy rather than direct force.  Aikido, another martial art mentioned, focuses on harmonizing energy to resolve conflicts non-violently.  Rahul Gandhi holds a black belt in Aikido, demonstrating a high level of proficiency.
+
 Thu, 29 Aug 2024 10:03:25 +0000
 ### [Why govt has strengthened security for RSS chief Mohan Bhagwat, brought his cover on par with Amit Shah’s](https://indianexpress.com/article/explained/explained-politics/explained-asl-security-mohan-bhagwat-9539577/)
 
