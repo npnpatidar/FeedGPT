@@ -1,3 +1,14 @@
+Thu, 29 Aug 2024 10:08:52 +0530
+### [Here’s how organizations can get digital ready without going wrong](https://www.livemint.com/opinion/online-views/digital-transformation-ai-business-strategy-leadership-upskilling-top-talent-value-chain-digital-lending-payments-11724874615871.html)
+
+A recent BCG study found that while over 80% of companies see digital transformation as a priority, only 30% succeed. The study identifies key factors contributing to this low success rate, emphasizing the importance of a well-defined strategy with clear goals and a roadmap. 
+
+Companies must avoid simply automating existing processes and instead reimagine workflows to leverage technology's full potential. 
+
+Sustained leadership commitment is crucial, with top executives leading by example and allocating resources accordingly. Assembling a dedicated team of top talent and fostering a culture of experimentation are also essential.  
+
+Finally, companies should adopt a holistic approach, considering the entire ecosystem, including suppliers and partners, to maximize the benefits of digital transformation.
+
 Thu, 29 Aug 2024 08:30:11 +0530
 ### [Ayurvedic medicines mustn’t get a free pass on advertising](https://www.livemint.com/opinion/online-views/supreme-court-ayurvedic-medicines-patanjali-misleading-ads-allopathy-advertising-regulation-public-health-coronil-11724874219190.html)
 

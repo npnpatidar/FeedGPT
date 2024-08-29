@@ -1,3 +1,14 @@
+Thu, 29 Aug 2024 10:10:46 +0530
+### [What’s the West Bank where Israel has launched a massive raid? Why does the timing matter?](https://www.firstpost.com/explainers/west-bank-israel-military-raid-timing-matters-13809312.html)
+
+Israel launched a large-scale military operation in the West Bank, the largest in 20 years. The operation resulted in the deaths of at least 10 Palestinians and injuries to dozens more.
+
+The Israeli Defense Forces (IDF) cited a need to counter a "systematic strategy" by Iran to smuggle weapons and explosives into the West Bank, pointing to a rise in Palestinian attacks against Israelis.  
+
+The raids, which involved armored vehicles, drones, and mass arrests, focused on areas like Jenin and Tulkarem.  
+
+The international community condemned the operation, with the UN calling for an immediate cessation and the EU expressing concern about it escalating the conflict.  Palestinian authorities condemned the raids as a "serious escalation".
+
 Thu, 29 Aug 2024 08:45:54 +0530
 ### [Netflix's IC 814: The Kandahar Hijack: The true story of the hijacking that shook India](https://www.firstpost.com/explainers/netflix-series-ic-814-the-kandahar-hijack-flight-180-hostages-india-13809211.html)
 

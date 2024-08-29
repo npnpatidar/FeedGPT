@@ -1,3 +1,16 @@
+Thu, 29 Aug 2024 11:31:29 +0530
+### [Why China must recall history before replacing Tibet with ‘Xizang’](https://www.firstpost.com/opinion/why-china-must-recall-history-before-replacing-tibet-with-xizang-13809349.html)
+
+The article examines China's claim over Tibet, arguing that it contradicts historical facts and evidence. 
+
+The author points out Tibet's longstanding cultural and religious ties with India and its previous status as an independent nation, citing the 1913-14 Simla conference as proof of Tibet's right to negotiate treaties.  
+
+China's attempts to control the reincarnation of Tibetan Buddhist leaders, particularly the Dalai Lama and Panchen Lama, are criticized.  The author highlights the case of Gedhun Choekyi Nyima, the recognized reincarnation of the 10th Panchen Lama, who was abducted by Chinese authorities in 1995. 
+
+The article contrasts the immense popularity and reverence for the Dalai Lama with the limited support for the Chinese-selected Panchen Lama. 
+
+Finally, the author condemns China's brutal suppression of the Tibetan rebellion in 1958, citing declassified military records that reveal the aerial bombardment of fleeing Tibetans by the People's Liberation Army Air Force.
+
 Wed, 28 Aug 2024 17:19:07 +0530
 ### [Caste in an old mould: Are we going backward?](https://www.firstpost.com/opinion/caste-in-an-old-mould-are-we-going-backward-13809124.html)
 
