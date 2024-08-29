@@ -1,3 +1,10 @@
+Thu, 29 Aug 2024 23:03:47 +0530
+### [Analysing the Gender Budget of 2024-25 | Explained](https://www.thehindu.com/business/Economy/analysing-the-gender-budget-of-2024-25/article68582974.ece)
+
+The Indian government's Gender Budget Statement (GBS) reached 1% of GDP estimates for 2024-25, marking a significant increase from previous years.  This surge is attributed to the inclusion of the Pradhan Mantri Kisan scheme under Part 'C,' which reports programs with less than 30% provisioning for women, and a boost in Part A, which covers schemes with 100% allocation for women.  
+
+However, inconsistencies in reporting remain. For instance, the PMEGP allocation is reported as 40% for women without explanation, while the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGA), despite having significant female participation, is reported under Part B.  Experts highlight the need for transparency and explanations in the GBS to ensure accurate accounting and enable effective gender audits.  The ultimate goal is to ensure actual spending for women in all government programs, leading to improved gender outcomes.
+
 Thu, 29 Aug 2024 21:02:06 +0530
 ### [What does Himachal Pradesh’s Bill raising women’s minimum marriage age entail? | Explained](https://www.thehindu.com/news/national/himachal-pradesh-bill-womens-minimum-marriage-age-entail/article68580118.ece)
 
