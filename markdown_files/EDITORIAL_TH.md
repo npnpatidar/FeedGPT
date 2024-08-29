@@ -1,3 +1,15 @@
+Fri, 30 Aug 2024 00:20:00 +0530
+### [​By another name: on misleading advertisements, fake medicine](https://www.thehindu.com/opinion/editorial/%E2%80%8Bby-another-name-on-misleading-advertisements-fake-medicine/article68582049.ece)
+
+The Supreme Court of India is addressing the issue of misleading advertisements for Ayurveda, Siddha, and Unani products.  This comes after a previous case against Patanjali Ayurved for making unproven claims. While some state agencies are taking action, the Court expresses concern over the Ministry of AYUSH's attempts to weaken quality control measures and advertising regulations for these products.  The Court emphasizes the need for a robust quality control regime, free from political interference, to protect consumers from potentially harmful products.
+
+Fri, 30 Aug 2024 00:10:00 +0530
+### [​Biotech enigma: on the BioE3 proposal and beyond](https://www.thehindu.com/opinion/editorial/%E2%80%8Bbiotech-enigma-on-the-bioe3-proposal-and-beyond/article68582063.ece)
+
+India's government has launched a new biotechnology initiative called BioE3, aiming to boost manufacturing in the sector. 
+
+BioE3 seeks to establish companies through public-private partnerships, focusing on areas like bio-based chemicals, functional foods, precision biotherapeutics, climate-resilient agriculture, carbon capture, and futuristic marine and space research. The policy recognizes the need to move beyond research funding and create a robust manufacturing base for biotech products, addressing India's reliance on imports.  However, the success of BioE3 hinges on long-term government support, infrastructure development, and a collaborative approach between the Centre and States.
+
 Thu, 29 Aug 2024 00:20:00 +0530
 ### [​War and peace: on India and a Russia-Ukraine peace initiative](https://www.thehindu.com/opinion/editorial/%E2%80%8Bwar-and-peace-on-india-and-a-russia-ukraine-peace-initiative/article68577274.ece)
 
