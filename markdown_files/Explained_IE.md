@@ -1,3 +1,25 @@
+Fri, 30 Aug 2024 02:00:25 +0000
+### [What are BJP’S allegations against Kharge family?](https://indianexpress.com/article/explained/explained-politics/what-are-bjps-allegations-against-kharge-family-9540509/)
+
+The leader of opposition in the Karnataka Legislative Council is demanding the dismissal of Priyank Kharge, the state's IT/BT and Rural Development minister, over allegations of impropriety in the allotment of land. 
+
+The BJP claims the land, intended for civic amenities, was given to a trust run by Kharge's family, despite a quota for SC/ST entrepreneurs.  Kharge maintains the trust's application followed proper procedures and denies any wrongdoing.  He claims the BJP's accusations are part of a campaign to destabilize the government and target his family for opposing the RSS.
+
+Fri, 30 Aug 2024 01:43:58 +0000
+### [How conservationists are helping once-extinct birds find lost migration routes](https://indianexpress.com/article/explained/explained-sci-tech/how-conservationists-are-helping-once-extinct-birds-find-lost-migration-routes-9540505/)
+
+The northern bald ibis, hunted to near extinction, is being revived in central Europe through reintroduction efforts.  Conservationists at Waldrappteam have successfully bred the birds and are teaching them to migrate using ultralight aircraft.  Young birds are raised by foster parents and then guided along historic migratory routes.  Climate change has forced the team to extend the migratory path from Italy to Spain to ensure the birds fly in safer weather conditions and can conserve energy.  The success of this project is seen as a model for conserving other migratory bird species threatened by climate change.
+
+Fri, 30 Aug 2024 01:15:16 +0000
+### [What Assam’s new Muslim marriage law says, why it was introduced](https://indianexpress.com/article/explained/what-assams-new-muslim-marriage-law-says-why-it-was-introduced-9540507/)
+
+The Assam Legislative Assembly passed the Assam Compulsory Registration of Muslim Marriages and Divorces Bill, 2024, which aims to prevent child marriages and marriages without consent, as well as check polygamy.  This new law repeals the 89-year-old Assam Muslim Marriage and Divorce Registration Act, 1935.  The government argues the new law is needed to address child marriages, citing the previous Act's allowance for registration of marriages involving minors.  Under the new law, registration will be handled by government officers, not kazis, and several conditions must be met, including the bride being 18 years old and the groom 21.  The government emphasizes increased accountability through government registration. However, opposition members argue that simpler amendments to the old Act could have achieved the goal of preventing child marriages and criticize the complexity of the new process.
+
+Fri, 30 Aug 2024 01:00:27 +0000
+### [What was the IC-814 aircraft hijack, the subject of a new Netflix series?](https://indianexpress.com/article/explained/ic-814-aircraft-hijack-kandahar-real-story-9540351/)
+
+The IC-814 hijacking in 1999 was a major terrorist incident where an Indian Airlines flight was commandeered by five men. The hijackers' demands included the release of several terrorists and the coffin of a militant leader. The plane flew to various locations, including Lahore, Kabul, and Kandahar, before the Indian government agreed to release the three terrorists in exchange for the passengers' safety. This decision sparked significant controversy, with criticism directed at the government's handling of the situation and the decision to free terrorists. The incident highlighted the involvement of Pakistan and militant organizations in terrorism against India.
+
 Thu, 29 Aug 2024 15:28:51 +0000
 ### [Who is Warren Buffett, CEO of Berkshire Hathaway which attained a $1 trillion market cap?](https://indianexpress.com/article/explained/explained-global/explained-warren-buffett-berkshire-hathaway-9540343/)
 

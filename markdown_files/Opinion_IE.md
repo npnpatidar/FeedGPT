@@ -1,3 +1,41 @@
+Fri, 30 Aug 2024 02:35:53 +0000
+### [Derek O’Brien writes: Between 2012 Delhi rape and R G Kar, little has changed](https://indianexpress.com/article/opinion/columns/rg-kar-doctor-rape-delhi-derek-o-brien-9540589/)
+
+Following the 2012 Delhi gang rape, numerous Members of Parliament expressed outrage and called for severe punishment for perpetrators.  They acknowledged the deep social failure that allowed such crimes to occur and emphasized the need for stronger laws and swift justice. Some called for the death penalty, while others advocated for preventive measures like educating young men about respecting women. 
+
+Twelve years later, the issue of violence against women persists. The article cites several recent cases of horrific crimes against women and girls, emphasizing that parliamentary speeches alone are insufficient.  It calls for action, urging a commitment to turning words into tangible results.
+
+Fri, 30 Aug 2024 02:22:16 +0000
+### [Women-only airline seats won’t solve problem of male misbehaviour](https://indianexpress.com/article/opinion/columns/women-only-airline-seats-wont-solve-problem-of-male-misbehaviour-9540599/)
+
+India boasts the highest proportion of women pilots globally, demonstrating progress in gender equality within the aviation industry. However, the issue of sexual safety for women passengers remains a concern. Despite existing protocols, reports of inappropriate behavior on flights continue.  Indigo Airlines' recent "pink seats" initiative, which allows women to see the gender of fellow passengers before selecting seats, aims to address this issue but may inadvertently reinforce the idea that women are responsible for their own safety.  
+
+True solutions require a focus on perpetrator accountability and robust training for airline staff to effectively identify and handle inappropriate behavior. Isolate men rather than women to ensure a safe and comfortable flying experience for all.
+
+Fri, 30 Aug 2024 02:15:47 +0000
+### [The right to disconnect: Leisure is endangered, it must be protected](https://indianexpress.com/article/opinion/editorials/the-right-to-disconnect-leisure-is-endangered-it-must-be-protected-9540587/)
+
+Facing a growing culture where work bleeds into personal time, several countries are enacting "right to disconnect" laws.  Australia is the latest, prohibiting employers from penalizing workers who don't respond to calls or texts outside work hours. This legislation stems from a larger movement emphasizing work-life balance and recognizes that technology has blurred the lines between work and leisure, leading to increased burnout. Studies show that well-rested and rejuvenated employees are more productive and creative, suggesting a win-win for both workers and companies.
+
+Fri, 30 Aug 2024 02:05:42 +0000
+### [On RG Kar case, Mamata Banerjee must step up, not play victim](https://indianexpress.com/article/opinion/editorials/on-rg-kar-case-mamata-banerjee-must-step-up-not-play-victim-9540586/)
+
+Mamata Banerjee's response to the R G Kar rape and murder case has been criticized as rash and desperate.  Her comments, accusing the BJP of exploiting the situation, are seen as inflammatory and deflecting from the TMC government's shortcomings in handling the crisis. The government has been faulted for its initial handling, including failing to inform the family, investigating as "unnatural death," and poorly addressing the subsequent vandalism at the hospital. 
+
+While Banerjee has called for swift justice and harsher punishments, many believe that true reform requires a more comprehensive approach rather than simply relying on stricter laws.
+
+Fri, 30 Aug 2024 01:35:34 +0000
+### [R G Kar case is not about violence against a healthcare worker — it is violence against a woman](https://indianexpress.com/article/opinion/columns/rg-kar-rape-murder-doctor-9540584/)
+
+The horrific sexual violence at RG Kar hospital should be seen as a case of assault against a woman, not primarily a workplace safety issue for healthcare workers.  
+
+ While it's important to ensure the safety of all healthcare workers, focusing solely on this diminishes the gravity of the sexual assault and shifts attention from the systemic issues of patriarchy and impunity that allow such crimes to occur.  
+
+The incident highlights the need for a culture shift that addresses violence against women in all settings, not just hospitals.  It also underscores the importance of holding institutions accountable and strengthening legal frameworks to protect women.  
+
+
+Ultimately, tackling sexual violence requires a multifaceted approach that includes addressing societal norms, promoting ethical practices in healthcare, and ensuring a safe and empowering experience for all healthcare users.
+
 Thu, 29 Aug 2024 12:30:08 +0000
 ### [When cringe works: Why everyone dances to ‘Lovebomber baby’](https://indianexpress.com/article/opinion/columns/why-everyone-dances-to-lovebomber-baby-9540020/)
 

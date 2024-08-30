@@ -1,3 +1,8 @@
+Fri, 30 Aug 2024 06:33:14 +0530
+### [FirstUp: SpaceX likely to launch Polaris Dawn, Champai Soren to join BJP...  Today's big headlines](https://www.firstpost.com/explainers/firstup-spacex-likely-to-launch-polaris-dawn-champai-soren-to-join-bjp-todays-big-headlines-13809509.html)
+
+Today will be a busy day with several significant events. SpaceX is expected to launch the Polaris Dawn mission after earlier delays caused by weather and technical issues. In India, former Jharkhand Chief Minister Champai Soren will join the Bharatiya Janata Party. A Delhi court will decide on charges against Congress leader Jagdish Tytler in a case related to the 1984 anti-Sikh riots. Prime Minister Narendra Modi is expected to address the Global Fintech Fest in Mumbai. Friday also marks the start of the three-day Kailash Kund Yatra in Jammu and Kashmir and the release of India's GDP growth data for the first quarter of 2024-25.
+
 Thu, 29 Aug 2024 21:09:33 +0530
 ### [Who is Niels Holck, aka Kim Davy, Danish ‘mastermind’ of the 1995 Purulia arms drop case?](https://www.firstpost.com/explainers/purulia-arms-drop-case-niels-holck-kim-davy-danish-mastermind-extradition-to-india-13809580.html)
 
