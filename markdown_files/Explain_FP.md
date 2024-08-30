@@ -1,3 +1,29 @@
+Fri, 30 Aug 2024 17:44:25 +0530
+### [Gujarat floods: How hundreds of crocodiles have taken over Vadodara](https://www.firstpost.com/explainers/gujarat-floods-how-hundreds-of-crocodiles-have-taken-over-vadodara-13809817.html)
+
+Unprecedented rains in Gujarat have led to severe flooding in the city of Vadodara, with the Vishwamitri River overflowing its banks. This has resulted in hundreds of mugger crocodiles being displaced from their habitat and venturing into residential areas.  Residents have reported sightings of large crocodiles on roads, parks, and even on rooftops, causing widespread panic. Authorities have rescued several crocodiles and are working to relocate them to safer areas as the water levels recede. This is an annual occurrence during the monsoon season, but this year the flooding is more severe, highlighting the escalating challenges posed by climate change.
+
+Fri, 30 Aug 2024 17:42:55 +0530
+### [Norway's 'clairvoyant' princess to marry US shaman ‘risen from dead’. The story of the controversial couple](https://www.firstpost.com/explainers/norway-princess-martha-louise-wedding-us-shaman-story-of-the-controversial-couple-13809919.html)
+
+Norwegian Princess Märtha Louise is marrying American shaman Durek Verrett in a controversial ceremony. The princess, fourth in line to the throne,  has faced criticism for her unconventional path, including her previous claim of clairvoyance and her embracing of spirituality. Verrett, who also claims shamanistic lineage, has been accused of spreading misinformation and promoting pseudoscience. 
+
+The couple's relationship has drawn controversy in Norway, with Verrett facing accusations of racism.  They have further fueled the controversy by signing an exclusive deal with Hello! magazine for wedding coverage, angering the Norwegian press who typically cover royal events. Despite the backlash, the wedding is proceeding with guests including members of the Swedish royal family and several celebrities.
+
+Fri, 30 Aug 2024 16:25:46 +0530
+### [Who is ‘Barry Stanton’, whose X account has been suspended for racist posts against Indians?](https://www.firstpost.com/explainers/barry-stanton-x-account-suspended-racist-posts-indians-13809839.html)
+
+X suspended the account of Barry Stanton after numerous Indian users reported him for racist remarks targeting India. Stanton's posts included derogatory cartoons, hateful comments against Indians, Jews, and Africans, and praise for posts encouraging the expulsion of Indian nationals from "white neighborhoods." Indian authorities and users, including Minister of Information and Broadcasting Ashwini Vaishnaw, reported Stanton's account for hate speech.  A previous report indicated that the pictures used on Stanton's profile may have been stolen from another person, suggesting a potential fake identity.
+
+Fri, 30 Aug 2024 15:42:18 +0530
+### [Will Modi accept Pakistan’s invite to SCO meet? What happened when Indian PMs visited the neighbour?](https://www.firstpost.com/explainers/will-modi-accept-pakistans-invite-to-sco-meet-what-happened-when-indian-pms-visited-the-neighbour-13809856.html)
+
+Since India first gained independence, several Indian prime ministers have visited Pakistan.  Jawaharlal Nehru made the first visit in 1953, hoping to resolve ongoing conflicts, including the dispute over Kashmir. He returned in 1960, signing the Indus Water Treaty, a landmark agreement on water sharing.
+
+Rajiv Gandhi later visited in both 1988 and 1989, hoping to improve relations. Atal Bihari Vajpayee made two significant trips – one in 1999  by bus to Lahore, resulting in the landmark Lahore Declaration, and another in 2004, emphasizing SAARC cooperation. Narendra Modi's unexpected visit in 2015, on the occasion of Sharif's birthday, was a positive step towards stronger bilateral ties.  
+
+Each visit has had its successes and challenges, but all have been attempts to foster dialogue and peace in the often-contentious relationship between the two nations.
+
 Fri, 30 Aug 2024 14:43:22 +0530
 ### [Hidden bathroom camera in girls’ hostel, 300 videos found: The big scandal involving Andhra college](https://www.firstpost.com/explainers/hidden-camera-girls-hostel-bathroom-andhra-pradesh-college-13809761.html)
 

@@ -1,3 +1,24 @@
+Fri, 30 Aug 2024 11:27:03 +0000
+### [Striking a balancing act: 5 takeaways from Kamala Harris’ first major interview as nominee](https://indianexpress.com/article/explained/explained-global/takeaways-kamala-harris-interview-9541679/)
+
+In an interview, Vice President Kamala Harris addressed criticism regarding her shifting stances on issues like Medicare for All and fracking, asserting that her values remain consistent.  She emphasized her commitment to bolstering the middle class and hinted at the possibility of appointing a Republican to her Cabinet. Harris also discussed her reaction to President Biden's decision to not seek re-election, stating her initial focus was on his well-being.  Minnesota Governor Tim Walz, her running mate, largely remained silent during the interview.
+
+Fri, 30 Aug 2024 11:04:23 +0000
+### [How drones can revolutionise pesticide and fertiliser application in Punjab fields](https://indianexpress.com/article/explained/explained-economics/drones-revolutionise-pesticide-fertiliser-application-punjab-9541612/)
+
+The use of drones in Punjab agriculture is rapidly increasing, with 93 out of 100 drones provided by IFFCO under the ‘NAMO Drone Didi’ scheme already operational.  Drones offer numerous advantages over traditional manual pesticide and fertiliser application. They are faster, more efficient, and reduce the risk of farmer exposure to harmful chemicals, leading to improved health outcomes. 
+
+Drones also enable precise application of nano fertilisers, which are more cost-effective and environmentally friendly. Real-time imagery captured by drones allows farmers to monitor crop health and respond quickly to pest outbreaks.  Furthermore, drone technology can contribute to reducing water consumption and minimizing environmental pollution. However, challenges remain, including job displacement for agricultural labourers and the need for drone pilot training.
+
+Fri, 30 Aug 2024 10:28:10 +0000
+### [What flyers can expect in early days of Vistara’s merger with Air India](https://indianexpress.com/article/explained/explained-economics/air-india-vistara-merger-flyers-early-days-9541550/)
+
+Vistara, a full-service Indian airline, will merge with Air India in November.  Singapore Airlines, Vistara’s joint venture partner, will hold a 25.1% stake in the merged entity.  After November 11th, all Vistara flights will be operated as Air India flights. 
+
+Customers with existing Vistara bookings will see their reservations transferred to Air India.  While the initial product and service offerings are expected to remain largely unchanged for a few months, long-term plans include integrating Vistara’s premium service standards with Air India’s fleet modernization program.
+
+The airlines’ loyalty programs, Club Vistara and Flying Returns, will also merge.  Club Vistara members will transfer their points and tier status to Flying Returns at a 1:1 ratio.  Details regarding co-branded credit cards are yet to be released.
+
 Fri, 30 Aug 2024 09:45:07 +0000
 ### [India plans $15 billion second push for chipmaking. Here’s what to know](https://indianexpress.com/article/explained/explained-economics/india-15-billion-push-chipmaking-9541416/)
 

@@ -1,3 +1,12 @@
+Fri, 30 Aug 2024 16:57:07 +0530
+### [Myanmar: India should engage with resistance forces before China takes a lead](https://www.firstpost.com/opinion/myanmar-india-should-engage-with-resistance-forces-before-china-takes-a-lead-13809909.html)
+
+Myanmar's junta is facing increasing losses against resistance forces and could be on the verge of collapse. The junta has lost control of key trade routes and territory to ethnic armed organizations, local militias, and the People Defence Force. This situation has led to humanitarian crises, with refugees fleeing violence to neighboring countries. 
+
+India, concerned about instability along its border with Myanmar, has so far maintained a cautious approach, engaging with the junta while avoiding contact with resistance groups. As the situation deteriorates, India faces a dilemma:  continue balancing relations with the junta or take a more active role in supporting the resistance and establishing humanitarian corridors. 
+
+The collapse of the junta could lead to a balkanization of Myanmar, further complicating regional security and stability. India needs to prepare for this scenario and consider collaborating with other countries, such as Japan and ASEAN members, to foster dialogue and prevent a humanitarian catastrophe.
+
 Fri, 30 Aug 2024 14:23:37 +0530
 ### [Maldives: President Muizzu’s plan to end dollar shortage is a risky gamble](https://www.firstpost.com/opinion/maldives-president-muizzus-plan-to-end-dollar-shortage-is-a-risky-gamble-13809828.html)
 
