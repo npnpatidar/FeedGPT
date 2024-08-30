@@ -1,3 +1,10 @@
+Fri, 30 Aug 2024 08:30:03 +0530
+### [Right to Disconnect: Will employers self-correct their work expectations?](https://www.livemint.com/opinion/online-views/australias-right-to-disconnect-work-life-balance-work-timings-leisure-work-from-home-sweat-equity-work-hours-11724951842754.html)
+
+Australia has implemented a law granting employees the right to disconnect from work-related communication outside their scheduled hours. This legislation aims to protect employees' personal time and address concerns about work-life balance, especially in a post-pandemic world where boundaries between work and home have become increasingly blurred. 
+
+While proponents argue that the law is necessary to safeguard employee well-being and prevent burnout, critics claim it may distort the labor market and negatively impact productivity.  They suggest that market forces would naturally incentivize companies to optimize work practices and avoid overworking employees. However, the Australian law reflects a growing global concern about protecting employees' right to disconnect and the potential negative consequences of constantly accessible work environments.
+
 Fri, 30 Aug 2024 07:00:19 +0530
 ### [Mint Quick Edit | The boost India can get from its billionaire boom](https://www.livemint.com/opinion/online-views/mint-quick-edit-hurun-india-rich-list-billionaires-high-net-worth-individuals-philanthropy-economic-growth-inequality-11724951791512.html)
 

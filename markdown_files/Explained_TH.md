@@ -1,3 +1,12 @@
+Fri, 30 Aug 2024 08:30:00 +0530
+### [On the controversy over lateral entry into the civil services | Explained](https://www.thehindu.com/news/national/controversy-over-lateral-entry-into-the-civil-services/article68583002.ece)
+
+The Union Public Service Commission (UPSC) recently withdrew an advertisement for lateral recruitment of Joint Secretaries, Directors, and Deputy Secretaries. This decision followed objections raised regarding the lack of reservations for  various communities in the process. 
+
+The merit system, established by the British in 1858, aims to select government officers through a rigorous process, fostering neutrality and independent advice to the political executive. Lateral recruitment, bringing in specialists from outside government, has seen some prominent examples in the past but raises concerns regarding collaboration with career bureaucrats and potential conflicts of interest. 
+
+The article argues that while lateral entry can bring valuable expertise, it shouldn't overshadow the crucial role of career bureaucrats.  It emphasizes the need to address bureaucratic inefficiencies and political interference while maintaining the autonomy of the civil service. Ensuring a balance between merit and social justice is key to a robust and effective governance system.
+
 Thu, 29 Aug 2024 23:03:47 +0530
 ### [Analysing the Gender Budget of 2024-25 | Explained](https://www.thehindu.com/business/Economy/analysing-the-gender-budget-of-2024-25/article68582974.ece)
 
