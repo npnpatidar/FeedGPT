@@ -1,3 +1,21 @@
+Fri, 30 Aug 2024 21:03:39 +0530
+### [How Taliban's harsh new laws are setting women back decades](https://www.firstpost.com/explainers/how-talibans-harsh-new-laws-are-setting-women-back-decades-13810007.html)
+
+Following the Taliban's takeover of Afghanistan in 2021, initial hopes for a more moderate regime have been dashed.  The Taliban leadership, under Hibatullah Akhundzada, has issued over 50 decrees, severely restricting social and individual freedoms. 
+
+Women face particularly harsh restrictions, including bans on education beyond the age of 12, movement outside the home, and even speaking in public.  Public executions, flogging, and stoning are also back, reminiscent of the Taliban's 1990s rule.  
+
+A Ministry for the Propagation of Virtue and Prevention of Vice (PVPV) has been established to enforce these laws, which empower the morality police to punish "vice" and un-Islamic behavior.  
+
+These measures have effectively eliminated any distinction between the present regime and its previous, ostracized iteration.   The Taliban's recent actions raise serious concerns about human rights and the future of Afghanistan.
+
+Fri, 30 Aug 2024 20:22:22 +0530
+### [Who is Jagdish Tytler? What is his alleged role in the anti-Sikh riots?](https://www.firstpost.com/explainers/who-is-jagdish-tytler-what-is-his-alleged-role-in-the-anti-sikh-riots-13809997.html)
+
+A Delhi court has ordered the Central Bureau of Investigation to charge Congress leader Jagdish Tytler in a 1984 anti-Sikh riots case. The charges relate to the killing of three people in Pul Bangash. Special Judge Rakesh Siyal found sufficient evidence to proceed against Tytler. The CBI accuses Tytler of inciting a mob that set a gurdwara ablaze and looted shops. 
+
+The chargesheet cites eyewitness testimony stating Tytler said, "kill the Sikhs, they have killed our mother."  Tytler has been given a clean chit by the CBI three times before and insists on his innocence.
+
 Fri, 30 Aug 2024 19:12:55 +0530
 ### [Polio has made a comeback in war-torn Gaza. Here’s what we know so far](https://www.firstpost.com/health/polio-has-made-a-comeback-in-war-torn-gaza-heres-what-we-know-so-far-13809944.html)
 
