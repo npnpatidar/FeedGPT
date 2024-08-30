@@ -1,3 +1,8 @@
+Fri, 30 Aug 2024 08:31:30 +0000
+### [Definitely, not maybe: The music of Oasis still resonates](https://indianexpress.com/article/opinion/columns/music-oasis-band-world-tour-9541228/)
+
+Oasis, the iconic 1990s British band, is reuniting after over a decade for a two-month world tour in July 2024. The brothers, Liam and Noel Gallagher, known for their tumultuous relationship and onstage clashes, have put aside their differences for this highly anticipated comeback. The band rose to prominence with their 1994 album "What's the Story (Morning Glory)?," capturing the zeitgeist of Britpop and echoing the longing for the optimistic era of the 1960s. With their anthemic songs, raw energy and Noel's distinctive guitar work, Oasis became a voice for a generation, achieving both immense success and notoriety for their volatile personalities. Despite their struggles, Oasis' music continues to resonate, with their breakout hit "Wonderwall" recently reaching one billion streams on Spotify, proving their enduring legacy.
+
 Fri, 30 Aug 2024 07:45:13 +0000
 ### [The City and I | Scary tales, fairy tales: Othering and belonging in Udaipur](https://indianexpress.com/article/opinion/columns/the-city-and-i-scary-tales-fairy-tales-othering-and-belonging-in-udaipur-9541274/)
 

@@ -1,3 +1,33 @@
+Fri, 30 Aug 2024 14:43:22 +0530
+### [Hidden bathroom camera in girls’ hostel, 300 videos found: The big scandal involving Andhra college](https://www.firstpost.com/explainers/hidden-camera-girls-hostel-bathroom-andhra-pradesh-college-13809761.html)
+
+In Andhra Pradesh, a hidden camera was discovered in a women’s hostel toilet at Gudlavalleru Engineering College. A final year student, Vijay Kumar, has been arrested in connection with the incident. 
+
+The camera was found by female students, who reported the incident to authorities.  Police seized Kumar's laptop and are investigating whether other students were involved. Protests erupted on campus following the discovery, with students demanding justice. 
+
+The state government has launched an inquiry into the incident and the Chief Minister has called for strict action against those responsible.
+
+Fri, 30 Aug 2024 14:16:55 +0530
+### [UK’s Southampton University to open campus in India: Which other foreign varsities are coming?](https://www.firstpost.com/explainers/uk-southampton-university-to-open-campus-in-india-which-foreign-varsities-are-coming-13809806.html)
+
+The University of Southampton will open India's third foreign university campus in Delhi-NCR in 2025. This follows Deakin University and the University of Wollongong, both from Australia, which established campuses in Gujarat's GIFT City. 
+
+The Indian government is attracting foreign universities through the National Education Policy 2020.  Lincoln University College from Malaysia and Oxford University from the UK have also expressed interest in setting up campuses in India.
+
+The UGC has laid down guidelines for foreign universities, including ranking requirements and autonomy in faculty recruitment.  However, the 10-year permit duration and lack of financial incentives have been cited as potential drawbacks.
+
+Fri, 30 Aug 2024 13:50:16 +0530
+### [3 eastern states in Germany gear up for polls. But why is Russia closely watching the results?](https://www.firstpost.com/explainers/3-eastern-states-in-germany-gear-up-for-polls-but-why-is-russia-closely-watching-the-results-13809755.html)
+
+Upcoming regional elections in eastern Germany are being closely watched by Russia. Pro-Moscow parties, particularly the AfD and the new Sahra Wagenknecht Alliance (BSW), are expected to perform well. These parties align with Russian interests by opposing NATO, expressing skepticism towards the European Union, and calling for normalized relations with Russia, including an end to sanctions. Putin, who spent time in East Germany during his KGB days, sees a potential opportunity to regain influence in the region. 
+
+The AfD and BSW's success could signify a shift in Germany's foreign policy, potentially weakening European unity and impacting NATO's stance against Russia. Putin's support for these parties reflects a strategic effort to undermine Western influence and reassert Russia's standing in Europe.
+
+Fri, 30 Aug 2024 13:49:43 +0530
+### [Quicksplained: Who is Bharat Ramamurti, Kamala Harris’ Indian-origin economic advisor?](https://www.firstpost.com/explainers/quicksplained-who-is-bharat-ramamurti-kamala-harris-indian-origin-economic-advisor-13809734.html)
+
+Bharat Ramamurti is a key advisor to Vice President Kamala Harris as she prepares for the 2024 presidential election. Ramamurti is known for his progressive economic views and has been instrumental in shaping Harris's economic platform. He previously served as Deputy Director of the National Economic Council under President Biden and as an advisor to Senator Elizabeth Warren. Ramamurti advocates for policies such as clean energy, a higher minimum wage, increased taxes on the wealthy, and student debt cancellation. He believes these policies are essential for economic growth and social justice.
+
 Fri, 30 Aug 2024 13:18:40 +0530
 ### [What is listeria that has forced a US company to recall 7 million pounds of meat?](https://www.firstpost.com/health/what-is-listeria-that-has-forced-a-us-company-to-recall-7-million-pounds-of-meat-13809763.html)
 

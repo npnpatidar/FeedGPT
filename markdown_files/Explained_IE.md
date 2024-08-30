@@ -1,3 +1,10 @@
+Fri, 30 Aug 2024 09:45:07 +0000
+### [India plans $15 billion second push for chipmaking. Here’s what to know](https://indianexpress.com/article/explained/explained-economics/india-15-billion-push-chipmaking-9541416/)
+
+India is making significant investments in its semiconductor manufacturing industry. The government is increasing funding for its chip incentive policy to $15 billion, aiming to spur domestic fabrication and assembly plants. Tata and Powerchip Semiconductor Manufacturing Corporation are constructing India's first commercial semiconductor fabrication plant, while Micron Technology, Tata, and C G Power and Industrial Solutions are building assembly and testing plants.  These projects, totaling over $180 billion, highlight India's ambition to become a major player in the global semiconductor market.  
+
+While the government initiative is encouraging, India's entry into advanced chip manufacturing faces challenges.  Domestic plants will not initially produce cutting-edge chips, and  reaching that level requires significant technological advancements and investment.
+
 Fri, 30 Aug 2024 02:00:25 +0000
 ### [What are BJP’S allegations against Kharge family?](https://indianexpress.com/article/explained/explained-politics/what-are-bjps-allegations-against-kharge-family-9540509/)
 

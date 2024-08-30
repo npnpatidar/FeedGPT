@@ -1,3 +1,23 @@
+Fri, 30 Aug 2024 15:00:07 +0530
+### [India as a land of virtually limitless AI possibilities](https://www.livemint.com/opinion/online-views/ai-artificial-intelligence-healthcare-manufacturing-viksit-bharat-agriculture-urban-traffic-governance-innovation-11724993616652.html)
+
+The article discusses India's potential to leverage artificial intelligence (AI) for economic and social advancement.  
+
+The author highlights that India is poised to become a global powerhouse, driven by its talent pool, technology, and AI advancements,  which can contribute significantly to reaching the $10 trillion economy goal. 
+
+The article outlines various AI applications across sectors like agriculture, manufacturing, healthcare, and governance, emphasizing their role in bridging the socio-economic divide, improving public services, and fostering sustainable growth.  
+
+The author stresses the importance of collaboration between the public and private sectors to ensure ethical AI development,  retain talent, and scale up its beneficial use across society.
+
+Fri, 30 Aug 2024 14:00:01 +0530
+### [How India’s GST revenues can sustain their incline](https://www.livemint.com/opinion/online-views/gst-collections-tax-reform-gst-revenue-gdp-growth-gst-filing-gst-evasion-gst-council-11725005081732.html)
+
+This article analyzes the growth of India's Goods and Services Tax (GST) revenue since its implementation in 2017. It attributes this growth to several factors: a robust labor market with increasing employment and wages,  a rise in private consumption expenditure, particularly in higher-value items, and effective measures to curb tax evasion and bogus registrations.  
+
+The article highlights the government's efforts to improve GST compliance, e-invoicing, and e-way billing, leading to a surge in the number of GST returns filed. It also acknowledges the role of rate rationalization, such as the recent increase in GST on online gaming, in boosting revenues.
+
+Looking ahead, the article emphasizes the importance of sustained economic growth, a rise in the worker population ratio, and creating more productive jobs in manufacturing and services as key drivers for continued GST revenue growth.
+
 Fri, 30 Aug 2024 08:30:03 +0530
 ### [Right to Disconnect: Will employers self-correct their work expectations?](https://www.livemint.com/opinion/online-views/australias-right-to-disconnect-work-life-balance-work-timings-leisure-work-from-home-sweat-equity-work-hours-11724951842754.html)
 
