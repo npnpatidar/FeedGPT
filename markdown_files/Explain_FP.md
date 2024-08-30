@@ -1,3 +1,17 @@
+Fri, 30 Aug 2024 11:46:03 +0530
+### [Who was Oleksiy 'Moonfish' Mes, the Ukrainian pilot killed in an F-16 crash?](https://www.firstpost.com/explainers/who-was-oleksiy-moonfish-mes-the-ukrainian-pilot-killed-in-an-f-16-crash-13809727.html)
+
+Oleksiy Mes, a highly skilled Ukrainian fighter pilot known as "Moonfish," tragically died during a mission to counter a massive Russian air assault.  Mes was a key figure in Ukraine's efforts to acquire F-16 fighter jets, alongside another pilot, Andriy "Juice" Pilshchykov, who died in a previous crash.  He became one of the first Ukrainian pilots trained to operate the advanced jets and played a vital role in integrating them into Ukraine's air force. 
+
+During the August 26th attack, Mes's F-16 successfully downed several Russian missiles but tragically crashed during the mission.  His death is a significant blow to Ukraine's air force, both because of his skill and his symbolic importance in securing the F-16s.  The incident highlights the risks faced by Ukrainian pilots as they use these advanced aircraft against a formidable adversary.
+
+Fri, 30 Aug 2024 09:54:51 +0530
+### [What we learnt about Kamala Harris and Tim Walz through their first interview](https://www.firstpost.com/explainers/takeaways-kamala-harris-tim-walz-cnn-interview-us-presidential-elections-13809685.html)
+
+Kamala Harris's first major interview since becoming the Democratic nominee for president focused on her policy positions and plans for her administration.  Harris emphasized her commitment to strengthening the middle class and addressing economic concerns like inflation. She discussed her evolving stance on fracking, stating she would not ban it but prioritize a clean energy economy. 
+
+On migration, Harris reiterated her belief in border security and enforcing existing laws while also highlighting her experience as California's attorney general. She declined to engage with Donald Trump's attacks on her identity, characterizing them as tired rhetoric. Harris outlined her "Day One" agenda, which includes supporting the middle class through policies like extending the child tax credit and providing tax credits for first-time homebuyers. She also expressed openness to having a Republican in her cabinet.
+
 Fri, 30 Aug 2024 06:33:14 +0530
 ### [FirstUp: SpaceX likely to launch Polaris Dawn, Champai Soren to join BJP...  Today's big headlines](https://www.firstpost.com/explainers/firstup-spacex-likely-to-launch-polaris-dawn-champai-soren-to-join-bjp-todays-big-headlines-13809509.html)
 

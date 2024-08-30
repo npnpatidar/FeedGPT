@@ -1,3 +1,12 @@
+Fri, 30 Aug 2024 11:29:51 +0530
+### [How Bangladesh crisis points at global power play in Bay of Bengal](https://www.firstpost.com/opinion/how-bangladesh-crisis-points-at-global-power-play-in-bay-of-bengal-13809740.html)
+
+The article analyzes the political instability in Bangladesh and its connection to the larger geopolitical rivalry between China and the US in the Bay of Bengal.  It argues that while Muhammad Yunus's interim government may appear to offer a solution, the underlying cause of the crisis is foreign interference, particularly from the US and China. 
+
+China, through its Belt and Road Initiative, aims to expand its influence in the Bay of Bengal, investing heavily in ports and infrastructure. This raises concerns for India, which views the region as its backyard and has historically maintained strong ties with Bangladesh. The article highlights China's strategic investments in Mongla and Chittagong ports, its presence in Myanmar, and its potential to challenge India's security interests. 
+
+In response, India is bolstering its relationship with Bangladesh through infrastructure projects, trade, and diplomatic engagements. It is also working closely with Japan to counter China's growing influence in the region. The article concludes that India needs to be strategic and proactive in protecting its interests in the Bay of Bengal, as the region is becoming a focal point of a larger geopolitical conflict.
+
 Thu, 29 Aug 2024 18:03:52 +0530
 ### [How Pakistani counter-terrorism operations flared up Baloch insurgency](https://www.firstpost.com/opinion/how-pakistani-counter-terrorism-operations-flared-up-baloch-insurgency-13809526.html)
 
