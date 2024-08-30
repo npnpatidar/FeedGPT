@@ -1,3 +1,21 @@
+Fri, 30 Aug 2024 13:55:52 +0000
+### [Who is Jagdish Tytler, and what was his alleged role 1984 anti-Sikh violence in Delhi?](https://indianexpress.com/article/explained/explained-history/jagdish-tytler-1984-sikh-violence-9541946/)
+
+Jagdish Tytler, a Congress leader, will be charged in connection with the 1984 anti-Sikh violence. The charges stem from his alleged role in the killing of three Sikh men at the Pul Bangash Gurdwara in Delhi. The CBI, which filed a charge sheet against Tytler last May, accused him of inciting and provoking the mob.  
+
+The Nanavati Commission report, which investigated the 1984 violence, had found credible evidence against Tytler, stating he likely had a hand in organizing attacks on Sikhs. Tytler maintains his innocence, claiming he was at Indira Gandhi's residence when the violence occurred. The case, registered in 2005, saw a Special Investigation Team re-investigate Tytler's role before the charge sheet was filed last May.
+
+Fri, 30 Aug 2024 13:04:02 +0000
+### [INS Arighaat commissioned: Why a second nuclear submarine matters for India](https://indianexpress.com/article/explained/ins-arighaat-commissioned-nuclear-sub-importance-9541813/)
+
+India has commissioned its second nuclear-powered ballistic missile submarine, INS Arighaat. This enhances the country's nuclear triad, which includes land-based and air-based nuclear capabilities. 
+
+INS Arighaat, armed with indigenously developed K-15 missiles, can remain submerged for extended periods, strengthening India's second-strike capabilities. The submarine's construction involved advanced technology and was a collaborative effort between scientists, industry, and naval personnel. 
+
+
+
+The commissioning of INS Arighaat follows the induction of INS Arihant in 2016 and marks a significant advancement in India's naval capabilities.
+
 Fri, 30 Aug 2024 11:27:03 +0000
 ### [Striking a balancing act: 5 takeaways from Kamala Harris’ first major interview as nominee](https://indianexpress.com/article/explained/explained-global/takeaways-kamala-harris-interview-9541679/)
 

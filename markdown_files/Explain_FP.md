@@ -1,3 +1,15 @@
+Fri, 30 Aug 2024 19:12:55 +0530
+### [Polio has made a comeback in war-torn Gaza. Here’s what we know so far](https://www.firstpost.com/health/polio-has-made-a-comeback-in-war-torn-gaza-heres-what-we-know-so-far-13809944.html)
+
+Polio, once nearing eradication, has re-emerged in Gaza, affecting a 10-month-old infant. The virus, a vaccine-derived strain linked to Egypt, highlights concerns about declining vaccination rates amid ongoing conflict and poor sanitation.  
+
+Israel and Hamas have agreed to three-day ceasefires in Gaza's regions to allow for a mass vaccination campaign targeting 640,000 children under 10. The WHO emphasizes the need for 95% coverage to effectively combat the spread.  The situation poses a significant challenge to global polio eradication efforts, as Gaza faces the risk of widespread transmission and potential outbreaks in neighboring countries.
+
+Fri, 30 Aug 2024 18:09:20 +0530
+### [Right to Repair: What’s the repairability index that Centre is planning for electronics?](https://www.firstpost.com/explainers/right-to-repair-whats-the-repairability-index-that-centre-is-planning-for-electronics-13809939.html)
+
+The Indian government is introducing a repairability index for electronics to empower consumers with the "Right to Repair."  This index will rate products based on factors like technical document availability, spare part accessibility, and ease of disassembly. The scores will range from 1 to 5, with 5 being the most repairable. Manufacturers will be required to display the index scores, enabling consumers to make informed purchasing decisions. This initiative aims to address the growing e-waste problem and promote sustainable consumption by encouraging manufacturers to design repairable products.
+
 Fri, 30 Aug 2024 17:44:25 +0530
 ### [Gujarat floods: How hundreds of crocodiles have taken over Vadodara](https://www.firstpost.com/explainers/gujarat-floods-how-hundreds-of-crocodiles-have-taken-over-vadodara-13809817.html)
 

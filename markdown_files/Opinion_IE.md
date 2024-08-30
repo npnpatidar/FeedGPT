@@ -1,3 +1,12 @@
+Fri, 30 Aug 2024 12:55:46 +0000
+### [It’s about time marital rape was criminalised](https://indianexpress.com/article/opinion/columns/time-marital-rape-criminalised-9541894/)
+
+The Supreme Court of India is set to hear the case of Hrishikesh Sahoo v the State of Karnataka, which challenges the constitutionality of the marital rape exception (MRE).  The MRE, present in both the Indian Penal Code and the Bharatiya Nyaya Sanhita, allows husbands to have sex with their wives without consent.  
+
+This exception is considered discriminatory and a violation of women's rights, as it denies them the same legal protections as unmarried women. Data suggests that marital rape is prevalent in India, with significant psychological and physical effects on victims. Opponents argue that criminalizing marital rape will harm family structures, but advocates contend that true marital harmony stems from consent and respect.  
+
+The Supreme Court will consider whether the MRE violates Articles 14, 15, 19, and 21 of the Constitution, which guarantee equality, non-discrimination, freedom of speech, and the right to life and liberty, respectively. The decision has the potential to significantly impact women's rights in India, aligning the country with international human rights standards.
+
 Fri, 30 Aug 2024 08:31:30 +0000
 ### [Definitely, not maybe: The music of Oasis still resonates](https://indianexpress.com/article/opinion/columns/music-oasis-band-world-tour-9541228/)
 
