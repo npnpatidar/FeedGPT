@@ -1,3 +1,26 @@
+Fri, 30 Aug 2024 13:18:40 +0530
+### [What is listeria that has forced a US company to recall 7 million pounds of meat?](https://www.firstpost.com/health/what-is-listeria-that-has-forced-a-us-company-to-recall-7-million-pounds-of-meat-13809763.html)
+
+A serious listeria outbreak in the US, linked to Boar's Head deli meats, has resulted in nine deaths and over 50 hospitalizations. The outbreak prompted the recall of over seven million pounds of Boar's Head products, including sliced meats, ready-to-eat meats, and poultry. Listeria contamination was detected in an unopened loaf of liverwurst, leading to a wider recall. 
+
+Affected products have a sell-by date from July 29, 2024 to October 17, 2024, and bear the markings "EST. 12612" or "P-12612" on the USDA label. Listeria, a resilient bacteria that can survive in refrigeration, can cause a range of symptoms from mild gastrointestinal distress to serious complications like meningitis.  Consumers are urged to discard or return recalled products and practice thorough cleaning and sanitation.
+
+Fri, 30 Aug 2024 12:36:10 +0530
+### [1 billionaire in every 5 days: How India is becoming richer](https://www.firstpost.com/explainers/india-billionaire-count-increase-hurun-rich-list-2024-13809757.html)
+
+India's billionaire population has surged, with 334 individuals now classified as billionaires according to the Hurun Rich List 2024. This represents a 29% increase from the previous year and a  significant rise from 109 billionaires in 2014.  The collective wealth of these billionaires is estimated at Rs 159 lakh crore, surpassing the combined GDP of Saudi Arabia and Switzerland. 
+
+ Mumbai has emerged as the "billionaire capital of Asia," surpassing Beijing in terms of billionaire concentration.  Factors driving this wealth creation include a new wave of entrepreneurs, competitive wages, a strong English-speaking population, and domestic economic reforms. However, the growth in wealth is not evenly distributed, with the richest 1% holding a larger share of India's wealth than at any point in the last six decades. Some of India's wealthy are choosing to emigrate to countries like Australia, the US, and Canada.
+
+Fri, 30 Aug 2024 11:53:58 +0530
+### ['Unwell, critical, suicide': How 3 phone calls made to doctor’s parents reveal RG Kar Hospital’s flip-flops](https://www.firstpost.com/explainers/3-phone-calls-doctors-parents-rg-kar-hospital-flip-flops-13809682.html)
+
+Alleged audio recordings of phone calls from the authority of Kolkata's RG Kar Medical College to the parents of a murdered doctor have sparked controversy.  The recordings, purportedly made on August 9th, reveal changing statements from a hospital official, raising questions about whether the institution initially attempted to conceal the crime.
+
+The calls describe the doctor's condition as "a little ill," then "very critical," and finally, leading to the revelation that she had "died by suicide" or "passed away."  The last call occurred with the presence of police and hospital authorities.
+
+These revelations have prompted accusations of insensitivity and a cover-up attempt by the hospital. The probe, initially handled by the Kolkata police, is now in the hands of the CBI following a directive from the Calcutta High Court.  The authenticity of the recordings is yet to be independently verified, and hospital officials have remained silent.  The case has drawn scrutiny from the Supreme Court and High Courts, leading to investigations into the delay in filing a formal complaint and the potential mishandling of evidence. The parents of the victim claim they were made to wait for three hours before learning about their daughter's death.
+
 Fri, 30 Aug 2024 11:46:03 +0530
 ### [Who was Oleksiy 'Moonfish' Mes, the Ukrainian pilot killed in an F-16 crash?](https://www.firstpost.com/explainers/who-was-oleksiy-moonfish-mes-the-ukrainian-pilot-killed-in-an-f-16-crash-13809727.html)
 

@@ -1,3 +1,14 @@
+Fri, 30 Aug 2024 07:45:13 +0000
+### [The City and I | Scary tales, fairy tales: Othering and belonging in Udaipur](https://indianexpress.com/article/opinion/columns/the-city-and-i-scary-tales-fairy-tales-othering-and-belonging-in-udaipur-9541274/)
+
+This article reflects on the author's experience living in Udaipur.  While acknowledging the city's beauty and tranquility, the author highlights a stark reality beneath the surface.  Incidents of communal tension and caste-based discrimination challenge the idyllic image often portrayed of Udaipur. 
+
+The author recounts encounters with prejudice, including a domestic worker refusing to work for her based on caste and children perpetuating stereotypes. 
+
+The author also observes a rise in ethno-nationalistic sentiments, evidenced by banners, rallies, and online hate speech. These occurrences, culminating in a recent communal riot, have created a climate of fear and foreboding. 
+
+However, the author also emphasizes the presence of hope, citing instances of interfaith harmony, community support, and acts of kindness that offer a counter narrative to the prevailing negativity.
+
 Fri, 30 Aug 2024 03:11:50 +0000
 ### [August 30, 1984, Forty Years Ago: Two supporters abandon N T Rama Rao-led TDP](https://indianexpress.com/article/opinion/40-years-ago/august-30-1984-forty-years-ago-two-supporters-abandon-n-t-rama-rao-led-tdp-9540588/)
 
@@ -427,6 +438,17 @@ Prime Minister Modi's visit to Ukraine reflects India's intricate balancing act 
 This approach echoes India's stance during the Soviet-Afghan War, where the US pushed for India's influence on Russia but ultimately restricted India's role in shaping the post-withdrawal scenario.  
 
 The current situation presents a similar dilemma for India as the geopolitical landscape is shaped by competing interests between the US-led West and China-Russia alliance.  While PM Modi emphasizes dialogue and innovative solutions, Ukraine's expectations for a more assertive Indian role remain unclear.
+
+Sat, 24 Aug 2024 10:56:34 +0000
+### [After PM Modi’s historic visit to Ukraine, a question: Do Kyiv, the West really want India to play a role in mediating with Russia?](https://indianexpress.com/article/opinion/columns/pm-modi-historic-visit-ukraine-question-kyviv-west-india-role-russia-9530985/)
+
+Prime Minister Narendra Modi's visit to Ukraine highlighted India's commitment to peace and diplomacy in the conflict.  
+
+While India publicly supports international law and territorial integrity, its pragmatism is evident in its willingness to engage all stakeholders to find practical solutions for peace. India's position is complex, balancing its historical ties with Russia and its desire to uphold global order.  
+
+While Western powers and Ukraine may want India to exert more pressure on Russia, there is no indication that they seek a significant Indian intervention. Nonetheless, India's role as a global player is evolving, and its efforts to mediate the conflict could contribute to finding a lasting solution.  
+
+The visit marks a step forward in India-Ukraine relations, which have historically been strained, but presents challenges in navigating the geopolitical complexities of the conflict.
 
 Sat, 24 Aug 2024 09:29:44 +0000
 ### [Express View on Modi-Zelenskyy meet: Momentous in Kyiv](https://indianexpress.com/article/opinion/editorials/express-view-modi-zelenskyy-momentous-kyiv-9530880/)
