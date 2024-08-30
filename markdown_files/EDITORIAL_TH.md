@@ -1,3 +1,13 @@
+Sat, 31 Aug 2024 00:20:00 +0530
+### [​Growth matrix: On the economy’s performance](https://www.thehindu.com/opinion/editorial/%E2%80%8Bgrowth-matrix-on-the-economys-performance/article68586412.ece)
+
+India's GDP growth for the first quarter of 2024-25 came in at 6.7%, lower than the Reserve Bank of India's projection and marking a slowdown in economic momentum.  While private consumption spending rose, external factors like the general election and erratic monsoon conditions have impacted growth.  Higher food prices, despite a better monsoon compared to last year, remain a concern.  The government is focused on boosting capital expenditure, but achieving  its targets remains a challenge.   The outlook for the year indicates  a growth rate of 6.5% to 7%,  with  potential to slip further in 2025-26. Some experts emphasize the need for  structural reforms and efficiency improvements in institutions to boost India's long-term growth prospects.
+
+Sat, 31 Aug 2024 00:10:00 +0530
+### [Hateful, baleful: On the Assam Chief Minister and communally sensitive remarks](https://www.thehindu.com/opinion/editorial/hateful-baleful-on-the-assam-chief-minister-and-communally-sensitive-remarks/article68586433.ece)
+
+The article criticizes Assam Chief Minister Himanta Biswa Sarma for repeatedly using hate speech, particularly targeting the Bengali Muslim community. Sarma's inflammatory remarks, often made during election campaigns and in the wake of recent events, promote a divisive agenda and disregard his oath to uphold India's secular Constitution. The author argues that such rhetoric, reminiscent of hate speech that led to atrocities in Myanmar, is detrimental to societal harmony and development in Assam.  The article emphasizes the urgent need for the central government to address Sarma's behavior, contrasting the lack of action against him with the reprimand given to party leaders for targeting other groups.
+
 Fri, 30 Aug 2024 00:20:00 +0530
 ### [​By another name: on misleading advertisements, fake medicine](https://www.thehindu.com/opinion/editorial/%E2%80%8Bby-another-name-on-misleading-advertisements-fake-medicine/article68582049.ece)
 
