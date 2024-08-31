@@ -1,3 +1,30 @@
+Sat, 31 Aug 2024 02:20:18 +0000
+### [How does methane play a role in climate change?](https://indianexpress.com/article/explained/explained-climate/methane-climate-change-co2-9542004/)
+
+Methane is a potent greenhouse gas that traps heat in the atmosphere. While carbon dioxide is the main driver of climate change due to its longer lifespan, methane's short lifetime still contributes significantly to global warming. 
+
+About 60% of methane emissions come from human activities, primarily agriculture, waste decomposition, and the energy sector. Oil and gas production is a major source, with leaks, flaring, and venting releasing significant amounts of methane.  
+
+Solutions to reduce methane emissions include leak detection and repair, as well as stricter regulations on flaring and venting. The European Union recently implemented new regulations aimed at slashing methane emissions from the fossil fuel industry.
+
+Sat, 31 Aug 2024 01:30:13 +0000
+### [India’s second nuclear sub](https://indianexpress.com/article/explained/indias-second-nuclear-sub-9542283/)
+
+India recently commissioned its second nuclear submarine, INS Arighaat, strengthening its nuclear triad capabilities.  The submarine is equipped with indigenously built K-15 missiles and powered by nuclear reactors, allowing for prolonged underwater operation.  
+
+The commissioning of INS Arighaat, more technologically advanced than its predecessor, INS Arihant, enhances India's  maritime strike capability as part of its nuclear deterrence strategy.  India maintains a "no first use" policy for nuclear weapons, but the submarine's ability to survive a nuclear attack and retaliate serves as a strong deterrent. 
+
+
+
+The project involved extensive collaboration between private firms, the DRDO, and Russia, highlighting India's indigenously developed technological expertise. India now possesses two operational nuclear submarines, with two larger ones under construction.
+
+Sat, 31 Aug 2024 01:20:07 +0000
+### [Vistara will soon be Air India: How will merger affect flyers?](https://indianexpress.com/article/explained/vistara-will-soon-be-air-india-how-will-merger-affect-flyers-9542277/)
+
+Vistara, a well-regarded airline, will cease operations on November 11, merging with Air India. Customers with existing Vistara bookings up to November 11 will not experience immediate changes. Reservations from November 12 onwards will be automatically converted to Air India flights, with new tickets issued. After November 11, bookings, add-on services, and modifications will need to be handled through Air India.
+
+While Vistara's aircraft and crew will initially continue to operate under Air India's AOC until early 2025, the product and service quality is expected to remain largely consistent. Air India aims to upgrade its fleet and service quality to match Vistara's premium offering over time.  The Club Vistara loyalty program will merge with Flying Returns, and members will either maintain their current status or receive an upgrade based on their accumulated points.
+
 Fri, 30 Aug 2024 13:55:52 +0000
 ### [Who is Jagdish Tytler, and what was his alleged role 1984 anti-Sikh violence in Delhi?](https://indianexpress.com/article/explained/explained-history/jagdish-tytler-1984-sikh-violence-9541946/)
 

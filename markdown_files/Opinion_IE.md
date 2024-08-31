@@ -1,3 +1,69 @@
+Sat, 31 Aug 2024 02:10:55 +0000
+### [Ram Madhav writes: Indian politics has failed to attract young leaders](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-indian-politics-has-failed-to-attract-young-leaders-9542241/)
+
+While young people are leading in industries and innovation, they remain underrepresented in politics. Despite comprising a large portion of the global population, young individuals hold less than 2% of elected legislative positions. This is a concern globally, particularly in developing nations like India where youth make up a significant portion of the population but lack proportionate representation in government. Political dynasties and nepotism hinder the rise of capable young leaders, emphasizing family connections over merit. 
+ 
+India's Prime Minister has called for change, urging a new generation of leaders who are not from political families.  This highlights the need for a shift in political culture to empower young voices and ensure their participation in shaping the future.
+
+Sat, 31 Aug 2024 01:40:54 +0000
+### [Can India ensure that its elderly are taken care of?](https://indianexpress.com/article/opinion/columns/india-elderly-care-9542240/)
+
+This article discusses India's aging population and the need to redefine how society views older adults. It highlights the diverse experiences of seniors, from those who enjoy freedom and purpose to those struggling with poverty and isolation. The author argues that India has a unique opportunity to lead the way in creating a more inclusive and supportive environment for its aging population.
+
+The article emphasizes the work of community service organizations (CSOs) that are advocating for better policies and services for seniors and showcasing examples of older adults who are actively contributing to society. It acknowledges the government's limited progress in addressing the needs of the elderly and calls for greater involvement from the private sector and society as a whole.  The author expresses hope that India can create a future where longevity is celebrated and older adults are valued for their wisdom and experience.
+
+Sat, 31 Aug 2024 01:35:56 +0000
+### [What Indian Hindus don’t understand about Hindus in Bangladesh](https://indianexpress.com/article/opinion/columns/what-indian-hindus-dont-understand-about-hindus-in-bangladesh-9542242/)
+
+The recent student-led protests in Bangladesh that led to the resignation of Sheikh Hasina  raised concerns among Bangladeshi Hindus about their safety.  They fear that, as in the past, political upheaval might lead to attacks on minority communities. However, Bangladeshi citizens of all religions, led by the student protesters, have come together to protect minority institutions.  While demanding a secular democratic government, Bangladeshi Hindus are seeking concrete changes like a Minority Affairs Ministry and reservations in Parliament. 
+However, misinformation from some Indian Hindu groups portrays Bangladeshi Hindus as helpless and dependent on authoritarian rule, further endangering them.  Instead of promoting fear and division, Indian Hindus should support the demands of their Bangladeshi counterparts for a truly inclusive and secular democracy in Bangladesh. Bangladeshi Hindus are not helpless; they are actively fighting for their rights and seeking solidarity from fellow Hindus to ensure their safety and equal citizenship in Bangladesh.
+
+Sat, 31 Aug 2024 01:35:39 +0000
+### [Anjum Rajabali writes: Salim-Javed, thank you for ‘Deewaar’](https://indianexpress.com/article/opinion/columns/anjum-rajabali-writes-salim-javed-thank-you-for-deewaar-9542239/)
+
+The documentary "Angry Young Men" explores the lives and careers of screenwriting duo Salim Khan and Javed Akhtar, who achieved massive success in the 1970s with films like "Deewaar" and "Sholay".  
+
+The series highlights their early struggles, their intense ambition, and the strong bond they shared. However, it falls short in analyzing their writing, which is the foundation of their legacy.  
+
+While touching upon the success of "Sholay" and the enduring impact of "Deewaar," the documentary doesn't delve into the craft of their storytelling. It fails to examine their evolution, inspirations, or the techniques that made their scripts so impactful.
+
+Despite this, their influence on Indian cinema is undeniable, inspiring aspiring screenwriters and bringing the script to the forefront.  Their work, though lacking social commentary, entertained audiences and left a lasting mark on the industry.
+
+Sat, 31 Aug 2024 01:31:57 +0000
+### [Remembering A G Noorani: A scholar of justice](https://indianexpress.com/article/opinion/columns/remembering-a-g-noorani-a-scholar-of-justice-9542243/)
+
+Abdul Ghafoor Noorani, a prominent legal scholar, passed away leaving behind a significant body of work on constitutional law and Indian history.  Known for his meticulous legal analysis and engaging style, Noorani was a respected authority on Kashmir, having authored influential works on Article 370 and the Kashmir dispute.  His scholarship extended beyond constitutional law to encompass Indian diplomacy, civil liberties, and topics such as Islam, the RSS, and Hindutva.  
+
+Noorani was renowned for his moral courage and unwavering commitment to constitutional values, which earned him the admiration of many but also made him a critic of political dispensations. He celebrated secular and progressive India, leaving behind a legacy of rigorous scholarship and unwavering dedication to truth.
+
+Sat, 31 Aug 2024 01:30:58 +0000
+### [Express View: On Delhi and Beijing, a hint of hope](https://indianexpress.com/article/opinion/editorials/express-view-on-delhi-and-beijing-a-hint-of-hope-9542244/)
+
+Recent talks between India and China on easing tensions in eastern Ladakh offer hope for a breakthrough.  While both sides describe the discussions as "constructive," reaching a resolution remains challenging due to differing approaches.  India insists on a return to the pre-2020 border status as a prerequisite for improved relations, while China advocates for "normalisation" while addressing border concerns separately. 
+
+Despite these differences, both countries appear to be moving towards a negotiated settlement. The focus is now on addressing legacy issues in Depsang and Demchok. China recognizes the economic and diplomatic costs of the stand-off, and India acknowledges the limitations of maintaining strained ties. A potential agreement involves China easing military pressure and India resuming political dialogue and economic engagement. However, any deal requires transparency and public support to navigate India's internal political complexities and strong nationalist sentiments.
+
+Sat, 31 Aug 2024 01:20:00 +0000
+### [Express View: A timely warning on SME stocks](https://indianexpress.com/article/opinion/editorials/express-view-a-timely-warning-on-sme-stocks-9542245/)
+
+The Indian stock market is experiencing a surge, with both large and small companies showing impressive gains. However, concerns have been raised about valuations in the smaller company segment, with some analysts pointing to "froth" and potential manipulation. 
+
+Several recent IPOs from small and medium-sized enterprises (SMEs) have been heavily oversubscribed, raising questions about the involvement of entities seeking to profit quickly by inflating stock prices. The Securities and Exchange Board of India (SEBI) has acknowledged these risks and urged investors to exercise caution.  
+
+Measures such as a cap on SME IPO issue prices have been implemented, and continued vigilance is necessary to protect investors and market integrity, particularly as the number of new investors continues to grow.
+
+Sat, 31 Aug 2024 01:16:01 +0000
+### [Recommitting to Test cricket: Afghanistan vs New Zealand, in India](https://indianexpress.com/article/opinion/editorials/recommitting-to-test-cricket-afghanistan-vs-new-zealand-in-india-9542246/)
+
+The upcoming Test match between Afghanistan and New Zealand holds greater significance than a typical encounter. It serves as a barometer for the health of Test cricket, which faces challenges due to the allure of lucrative T20 leagues. Key players like Rashid Khan and even Kane Williamson are opting out of Test commitments, highlighting the format's struggle.  To address this, the ICC is proposing a dedicated Test cricket fund to ensure minimum match fees and financial support for participating boards. India's hosting of this historic match demonstrates its commitment to Test cricket, making the proceedings at Greater Noida a focal point for the future of the longest format.
+
+Sat, 31 Aug 2024 01:00:02 +0000
+### [August 31, 1984, Forty Years Ago: Army concessions](https://indianexpress.com/article/opinion/40-years-ago/august-31-1984-forty-years-ago-army-concessions-9542247/)
+
+The Indian government announced concessions for the armed forces, aiming to address stagnation and recruitment challenges. 
+
+Six Pakistani soldiers were killed during an attempt to cross the Line of Actual Control in the Uri sector.  The proposed Sikh world convention, banned by the government, could potentially empower Sikh high priests to disband political organizations like the Akali Dal.  A rodent caused a power outage at two Delhi newspaper buildings, affecting electricity supply during Ganesh Chaturthi.
+
 Fri, 30 Aug 2024 12:55:46 +0000
 ### [It’s about time marital rape was criminalised](https://indianexpress.com/article/opinion/columns/time-marital-rape-criminalised-9541894/)
 
