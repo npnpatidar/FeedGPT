@@ -1,3 +1,10 @@
+Sat, 31 Aug 2024 19:03:14 +0530
+### [Student suicides in India: An epidemic that is seeing a big spike](https://www.firstpost.com/opinion/student-suicides-in-india-an-epidemic-that-is-seeing-a-big-spike-13810204.html)
+
+The article discusses the alarming rise in student suicides in India. Student suicides have increased by 4% compared to the overall suicide rate which has risen by 2%.  The article highlights the immense pressure on Indian students, particularly those aspiring for careers in demanding fields like engineering and medicine. It points  to the competitive nature of the education system, the emphasis on entrance exams like JEE and NEET, and the influence of coaching centers as contributing factors. 
+
+The article also emphasizes the importance of addressing the issue of mental health among students. It calls for changes in the education system, including prioritizing mental health, providing counseling services, and engaging parents to create a more supportive environment.
+
 Sat, 31 Aug 2024 15:34:59 +0530
 ### [How Jamaat’s rise is bad news for Bangladesh’s global standing and India’s regional security](https://www.firstpost.com/opinion/how-jamaats-rise-is-bad-news-for-bangladeshs-global-standing-and-indias-regional-security-13810161.html)
 
