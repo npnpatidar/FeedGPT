@@ -1,3 +1,15 @@
+Sat, 31 Aug 2024 10:58:09 +0530
+### [‘Invaluable’ partner? American meddling in Indian politics and regional interventionism hasn’t served New Delhi’s cause](https://www.firstpost.com/opinion/invaluable-partner-american-meddling-in-indian-politics-and-regional-interventionism-hasnt-served-new-delhis-cause-13810071.html)
+
+Demonstrating a shift in power dynamics after recent elections, the US has been increasing engagement with Indian opposition leaders. American diplomats have met with opposition figures in various states, including Telangana, Andhra Pradesh, and Jammu and Kashmir. These meetings, while portraying the US as simply fostering subnational diplomacy, raise concerns about potential interference in India's domestic politics. 
+
+This trend is happening against the backdrop of ongoing tensions between India and the US regarding Bangladesh. While India has expressed concerns about the treatment of minorities in Bangladesh, the US took a more interventionist stance, which according to some accounts, contributed to the ousting of the then-prime minister.  
+
+Further exacerbating these concerns is the US's complicated relationship with Myanmar, where their support for rebel groups has fueled instability and regional insecurity, a factor impacting India's northeastern states.
+
+
+Despite the US's framing of the relationship as "invaluable," these actions demonstrate a tendency to prioritize their strategic interests over India's, raising questions about the reliability of the American partnership.
+
 Fri, 30 Aug 2024 16:57:07 +0530
 ### [Myanmar: India should engage with resistance forces before China takes a lead](https://www.firstpost.com/opinion/myanmar-india-should-engage-with-resistance-forces-before-china-takes-a-lead-13809909.html)
 

@@ -1,3 +1,12 @@
+Sat, 31 Aug 2024 11:30:11 +0530
+### [How low birth rate in South Korea has forced it to turn to foreign nannies](https://www.firstpost.com/explainers/how-low-birth-rate-in-south-korea-has-forced-it-to-turn-to-foreign-nannies-13809840.html)
+
+South Korea's historically low fertility rate has prompted a pilot program to allow 100 Filipino nannies into the country to address a childcare shortage. The program aims to make affordable childcare accessible to families, particularly dual-income households, potentially encouraging higher birth rates.  
+
+The nannies will work under an E-9 visa and be employed for six months in Seoul. While the government hopes this program will ease the childcare burden, concerns remain about the cost for families, along with criticism regarding labor standards and potential exploitation of foreign workers.  
+
+Successful completion of the pilot program could lead to its expansion, but evaluation and addressing concerns regarding illegal immigration and fair treatment of workers are necessary before a full-scale implementation.
+
 Sat, 31 Aug 2024 09:31:40 +0530
 ### [This Week in Explainers: Will PM Narendra Modi visit Pakistan for SCO summit?](https://www.firstpost.com/explainers/this-week-in-explainers-pm-narendra-modi-pakistan-sco-summit-13809985.html)
 
