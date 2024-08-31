@@ -1,3 +1,12 @@
+Sat, 31 Aug 2024 12:08:05 +0000
+### [SpaceX’s Falcon 9 rocket grounded yet again: What happened?](https://indianexpress.com/article/explained/explained-sci-tech/spacex-falcon-9-grounded-9543315/)
+
+The US Federal Aviation Administration (FAA) grounded SpaceX's Falcon 9 rocket following a landing failure during a Starlink mission. 
+
+This marks the second grounding of the rocket this year due to technical issues. The FAA is investigating the cause of the latest failure and may allow Falcon 9 to return to flight before the investigation is complete. 
+
+Falcon 9, a reusable rocket, has a history of success but recently experienced its first failure since 2015. The grounding could potentially delay Falcon 9's launch schedule, which has been extremely active in 2023.
+
 Sat, 31 Aug 2024 09:54:05 +0000
 ### [What is known about polio’s return to the Gaza Strip?](https://indianexpress.com/article/explained/explained-global/polio-gaza-strip-9543106/)
 

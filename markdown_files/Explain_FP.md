@@ -1,3 +1,12 @@
+Sat, 31 Aug 2024 16:53:07 +0530
+### [‘Fountain of Youth’: Can Ozempic, the weight-loss drug, help slow ageing?](https://www.firstpost.com/health/fountain-of-youth-can-ozempic-the-weight-loss-drug-help-slow-ageing-13810153.html)
+
+Recent studies suggest that semaglutide, the active ingredient in Ozempic and Wegovy, may offer benefits beyond its original use for type 2 diabetes and weight loss. Research indicates that semaglutide could potentially slow down the ageing process.
+
+Studies involving thousands of participants found that semaglutide may reverse kidney disease, prevent heart failure, lower high blood pressure, and reduce the risk of death from COVID-19. It also appears to reduce inflammation, potentially benefiting a variety of age-related diseases. 
+
+Experts suggest that semaglutide, which mimics the hormone GLP-1, could become a "multi-purpose drug" protecting against a broad spectrum of health threats.  However, as with any medication, consultation with a doctor is crucial due to potential side effects.
+
 Sat, 31 Aug 2024 14:32:06 +0530
 ### [How over 6 lakh children will be vaccinated for polio in Gaza in 3 days](https://www.firstpost.com/explainers/how-over-6-lakh-children-will-be-vaccinated-for-polio-in-gaza-in-3-days-13810125.html)
 

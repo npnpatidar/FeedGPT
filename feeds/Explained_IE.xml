@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>SpaceX’s Falcon 9 rocket grounded yet again: What happened?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/spacex-falcon-9-grounded-9543315/</link>
+			<description>The US Federal Aviation Administration (FAA) grounded SpaceX's Falcon 9 rocket following a landing failure during a Starlink mission. 
+
+This marks the second grounding of the rocket this year due to technical issues. The FAA is investigating the cause of the latest failure and may allow Falcon 9 to return to flight before the investigation is complete. 
+
+Falcon 9, a reusable rocket, has a history of success but recently experienced its first failure since 2015. The grounding could potentially delay Falcon 9's launch schedule, which has been extremely active in 2023.</description>
+			<pubDate>Sat, 31 Aug 2024 12:08:05 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/08/falcon-9.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/08/falcon-9.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What is known about polio’s return to the Gaza Strip?</title>
 			<link>https://indianexpress.com/article/explained/explained-global/polio-gaza-strip-9543106/</link>
 			<description>The Gaza Strip has confirmed its first polio case in 25 years, prompting a mass vaccination campaign. The virus, a vaccine-derived strain, was likely introduced from Egypt and spread due to decreased routine vaccinations, hospital closures, and poor sanitation. Israel and Hamas agreed to three-day ceasefires in Gaza's zones to allow UN workers to administer vaccines to 640,000 children under 10. The World Health Organization emphasizes the need for at least 95% coverage to prevent further spread. 
