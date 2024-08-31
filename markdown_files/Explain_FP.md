@@ -1,3 +1,8 @@
+Sat, 31 Aug 2024 12:34:03 +0530
+### [Why has Brazil banned X? Which other countries have suspended the platform?](https://www.firstpost.com/explainers/why-has-brazil-banned-x-which-other-countries-have-suspended-the-platform-13810073.html)
+
+Brazil's Supreme Court ordered the immediate suspension of X, formerly Twitter, due to the platform's failure to comply with court orders regarding the spread of misinformation.  Judge Alexandre de Moraes threatened fines for individuals using technological means to circumvent the block. This decision makes Brazil one of several countries, including China, Russia, Iran, Myanmar, North Korea, Turkmenistan, and Uzbekistan, that have banned or restricted access to X for various reasons, ranging from political dissent to preventing the spread of unrest and protecting national security.
+
 Sat, 31 Aug 2024 11:30:11 +0530
 ### [How low birth rate in South Korea has forced it to turn to foreign nannies](https://www.firstpost.com/explainers/how-low-birth-rate-in-south-korea-has-forced-it-to-turn-to-foreign-nannies-13809840.html)
 

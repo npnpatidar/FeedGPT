@@ -1,3 +1,10 @@
+Sat, 31 Aug 2024 06:59:03 +0000
+### [Stop expecting billionaires to act on climate change. They’re part of the problem](https://indianexpress.com/article/opinion/columns/billionaires-action-climate-change-part-of-problem-starbucks-ceo-private-jet-9542892/)
+
+Starbucks CEO Brian Niccol, despite the company's commitment to environmental sustainability, will travel to the Seattle headquarters in a company-owned jet three times a week. This practice contradicts the company's encouragement of using eco-friendly alternatives and highlights the disparity in environmental impact between the wealthy and the rest. 
+
+The use of private jets for travel contributes significantly to carbon emissions, far exceeding the environmental footprint of other modes of transportation like trains or commercial planes.  This incident exposes a larger issue: the wealthiest individuals, often those at the helm of major companies, disproportionately contribute to climate change while enacting measures that appear superficially sustainable. Critics argue that these actions are  empty gestures  or attempts to influence climate policies to their advantage.
+
 Sat, 31 Aug 2024 02:10:55 +0000
 ### [Ram Madhav writes: Indian politics has failed to attract young leaders](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-indian-politics-has-failed-to-attract-young-leaders-9542241/)
 

@@ -1,3 +1,10 @@
+Sat, 31 Aug 2024 12:34:29 +0530
+### [US Sutra | The reinvention of Kamala Harris: Reality or hype?](https://www.firstpost.com/opinion/us-sutra-the-reinvention-of-kamala-harris-reality-or-hype-13810119.html)
+
+The Democratic National Convention (DNC) marked Vice President Kamala Harris's ascendance as the party's presidential candidate.  Her speech aimed for relatability, highlighting diversity and inclusivity. 
+
+The DNC presented a stark contrast to the Republican platform, emphasizing a "soft-socialist" approach versus Trump's focus on American dominance. Harris's economic plan drew criticism for being flawed and simplistic, while concerns arose regarding her stance on immigration and its impact on vulnerable citizens. Despite media bias in her favor, polls remain tight, highlighting the significance of undecided and independent voters.  Given the razor-thin margins in recent elections and persistent controversies surrounding electoral integrity, the upcoming election is poised to be highly contested and consequential.
+
 Sat, 31 Aug 2024 10:58:09 +0530
 ### [‘Invaluable’ partner? American meddling in Indian politics and regional interventionism hasn’t served New Delhi’s cause](https://www.firstpost.com/opinion/invaluable-partner-american-meddling-in-indian-politics-and-regional-interventionism-hasnt-served-new-delhis-cause-13810071.html)
 
