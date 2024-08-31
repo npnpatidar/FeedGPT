@@ -1,3 +1,15 @@
+Sun, 01 Sep 2024 01:48:00 +0530
+### [Pacific Island Forum | Growing stature](https://www.thehindu.com/news/international/pacific-island-forum-growing-stature/article68590774.ece)
+
+The annual Pacific Island Forum leaders meeting took place in Tonga, attracting over 1,500 delegates from 40 nations.  A key focus of the Forum was the ongoing unrest in New Caledonia, with the organization planning a dialogue to address the situation. UN Secretary-General António Guterres stressed the need for a climate fund to tackle environmental challenges in the region.  Australia proposed an Australian-funded Pacific police training center to counter China's growing influence in the Pacific. The Forum's recognition of Taiwan caused controversy, with China and its allies seeking its removal. Meanwhile, the U.S. is actively engaging with Pacific nations, seeking to counter China's growing influence in the region.
+
+Sun, 01 Sep 2024 01:27:00 +0530
+### [Pavel Durov | The prophet of privacy](https://www.thehindu.com/news/international/pavel-durov-the-prophet-of-privacy/article68590765.ece)
+
+Pavel Durov, founder of the messaging app Telegram, was arrested in Paris on charges related to alleged criminal activity facilitated through the platform. French authorities allege that Telegram's 'hands-off' approach to content moderation enables crimes like drug trafficking, fraud, and dissemination of child pornography. Durov, who has been granted bail, maintains that platforms should not be held responsible for abuses by users. 
+
+This arrest has sparked debate about the balance between free speech rights and law enforcement's access to information. Supporters of Durov argue that his arrest is an assault on fundamental rights, while proponents of the French government's stance emphasize the need to uphold the rule of law. Durov, known for his privacy-focused philosophy and opposition to government censorship, has previously clashed with authorities in Russia and is now facing scrutiny in France.
+
 Sun, 01 Sep 2024 01:04:00 +0530
 ### [Association of Malayalam Movie Artistes | AMMA’s moment of reckoning](https://www.thehindu.com/news/national/association-of-malayalam-movie-artistes-ammas-moment-of-reckoning/article68590754.ece)
 
