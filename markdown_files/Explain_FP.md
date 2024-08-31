@@ -1,3 +1,12 @@
+Sat, 31 Aug 2024 09:31:40 +0530
+### [This Week in Explainers: Will PM Narendra Modi visit Pakistan for SCO summit?](https://www.firstpost.com/explainers/this-week-in-explainers-pm-narendra-modi-pakistan-sco-summit-13809985.html)
+
+This week in India saw devastating floods in Gujarat, causing death and disrupting transportation.  
+
+Pakistan has invited PM Modi to attend the SCO summit in Islamabad, a potential second visit for the PM to the nation. The Reserve Bank of India launched a new digital platform called ULI, aimed at simplifying lending processes. 
+
+The Justice Hema Committee report on sexual harassment in the Malayalam film industry continues to cause controversy, involving accusations against individuals linked to the ruling CPI (M) government. A worrying report highlighted a rising rate of student suicides, surpassing both population growth and overall suicide trends. Finally, the discovery of a hidden camera in a women's hostel toilet in Andhra Pradesh raised concerns about women's safety.
+
 Fri, 30 Aug 2024 21:03:39 +0530
 ### [How Taliban's harsh new laws are setting women back decades](https://www.firstpost.com/explainers/how-talibans-harsh-new-laws-are-setting-women-back-decades-13810007.html)
 
