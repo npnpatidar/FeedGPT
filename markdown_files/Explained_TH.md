@@ -1,3 +1,13 @@
+Sun, 01 Sep 2024 01:04:00 +0530
+### [Association of Malayalam Movie Artistes | AMMA’s moment of reckoning](https://www.thehindu.com/news/national/association-of-malayalam-movie-artistes-ammas-moment-of-reckoning/article68590754.ece)
+
+The Association of Malayalam Movie Artistes (AMMA) is facing its biggest crisis following the release of the Hema Committee report that exposed sexual exploitation within the Malayalam film industry. The report prompted the resignation of its general secretary and the dissolving of the executive committee amid allegations of sexual assault against several prominent members.  
+
+AMMA, founded in 1994 to protect the interests of actors, has been criticized for its handling of past sexual harassment cases, including its reinstatement of actor Dileep after his arrest in connection with the 2017 assault of a woman actor.  The association's resistance to forming a comprehensive internal complaints committee also drew criticism.  
+
+
+As calls for a safe and equitable work environment in the industry intensify, AMMA is at a turning point, facing pressure to overhaul its structures and address the deeply rooted issues of power and accountability within its ranks.
+
 Fri, 30 Aug 2024 16:10:53 +0530
 ### [Jammu and Kashmir elections | Who is in the fray?](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jammu-and-kashmir-elections-who-is-fighting-for-the-uts-90-seat-assembly/article68584526.ece)
 
