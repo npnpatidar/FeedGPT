@@ -1,3 +1,11 @@
+Sat, 31 Aug 2024 15:34:59 +0530
+### [How Jamaat’s rise is bad news for Bangladesh’s global standing and India’s regional security](https://www.firstpost.com/opinion/how-jamaats-rise-is-bad-news-for-bangladeshs-global-standing-and-indias-regional-security-13810161.html)
+
+The recent political developments in Bangladesh, including the departure of Prime Minister Sheikh Hasina and the rise of Jamaat-e-Islami, have sparked concern about the country's stability and future. Jamaat-e-Islami, known for its Islamist ideology and history of violence, poses a significant threat to Bangladesh's secular fabric and the safety of its minorities, particularly Hindus. The party's potential to destabilize the region, embolden insurgent groups, and harm Bangladesh's international relations is a cause for worry. 
+
+
+The international community is closely watching the situation, hoping for a return to secularism and a government that protects the rights of all citizens.
+
 Sat, 31 Aug 2024 12:34:29 +0530
 ### [US Sutra | The reinvention of Kamala Harris: Reality or hype?](https://www.firstpost.com/opinion/us-sutra-the-reinvention-of-kamala-harris-reality-or-hype-13810119.html)
 

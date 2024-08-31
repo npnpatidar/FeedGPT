@@ -1,3 +1,19 @@
+Sat, 31 Aug 2024 09:38:32 +0000
+### [A neighbourhood in turmoil: Terrorist attacks in Pakistan; Disappearances in Bangladesh](https://indianexpress.com/article/opinion/columns/neighbourhood-turmoil-terrorist-attacks-in-pakistan-disappearances-in-bangladesh-9543094/)
+
+A recent wave of violence in Balochistan, Pakistan, has resulted in over 70 deaths. The Baloch Liberation Army (BLA) claimed responsibility for the attacks, which targeted civilians and security personnel.  News outlets highlight the alarming rise in violence and call for government action to address the root causes, including years of mistrust and marginalization. 
+
+The press emphasizes the need for dialogue and cooperation with the people of Balochistan to counter terrorism.  They urge the government to listen to those who seek peace and genuine change.
+
+Sat, 31 Aug 2024 08:51:34 +0000
+### [The Supreme Court wants the state to let people protest peacefully](https://indianexpress.com/article/opinion/columns/the-supreme-court-wants-the-state-to-let-people-protest-peacefully-9543065/)
+
+The Supreme Court of India has taken the unusual step of initiating suo motu proceedings into the rape and murder of a trainee doctor in Kolkata. While the immediate trigger was this incident,  the court aims to examine broader issues related to workplace violence against healthcare professionals.  
+
+The court's recognition of public protests as a "moment of national catharsis" and its empathetic stance towards protestors marks a significant shift. It also validates the importance of media reports in situations where public trust in official narratives is low. The court has distinguished between peaceful protestors and disruptive mobs, condemning the police for retreating in the face of violence against protestors.  
+
+This case presents an opportunity to re-evaluate the legal framework surrounding protests, particularly concerning disproportionate state action against demonstrators. The court's willingness to review criminal cases against protest leaders is also encouraging.
+
 Sat, 31 Aug 2024 06:59:03 +0000
 ### [Stop expecting billionaires to act on climate change. They’re part of the problem](https://indianexpress.com/article/opinion/columns/billionaires-action-climate-change-part-of-problem-starbucks-ceo-private-jet-9542892/)
 

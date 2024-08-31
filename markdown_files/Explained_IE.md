@@ -1,3 +1,24 @@
+Sat, 31 Aug 2024 09:54:05 +0000
+### [What is known about polio’s return to the Gaza Strip?](https://indianexpress.com/article/explained/explained-global/polio-gaza-strip-9543106/)
+
+The Gaza Strip has confirmed its first polio case in 25 years, prompting a mass vaccination campaign. The virus, a vaccine-derived strain, was likely introduced from Egypt and spread due to decreased routine vaccinations, hospital closures, and poor sanitation. Israel and Hamas agreed to three-day ceasefires in Gaza's zones to allow UN workers to administer vaccines to 640,000 children under 10. The World Health Organization emphasizes the need for at least 95% coverage to prevent further spread. 
+ 
+This case is a setback for global polio eradication efforts, despite a 99% reduction in cases since 1988.  Poliovirus, highly infectious and spread through faecal-oral contact, can cause paralysis and death in young children.
+
+Sat, 31 Aug 2024 08:35:00 +0000
+### [Tamil Nadu govt to nationalise Karunanidhi’s works: what does this mean](https://indianexpress.com/article/explained/explained-law/nationalise-karunanidhi-works-9543042/)
+
+The Tamil Nadu government initiated a program to "nationalize" the literary works of prominent Tamil figures. This involves collaborating with the heirs of the authors to secure the copyright and make the works freely accessible to the public. 
+
+The nationalized works are released under a CC0 1.0 Universal Public Domain Dedication license, allowing for unrestricted use, modification, and distribution, even for commercial purposes.  Similar efforts were undertaken in Maharashtra with the collected works of Dr. B. R. Ambedkar, resulting in a public domain collection of his writings. However, a dispute arose when Dr. Ambedkar's grandson contested the legality of the copyright lapse, highlighting the complexities surrounding copyright ownership and public access after an author's death.
+
+Sat, 31 Aug 2024 08:22:51 +0000
+### [An Expert Explains: What the commissioning of INS Arighaat means to India](https://indianexpress.com/article/explained/expert-explains-arighaat-nuclear-submarine-9542992/)
+
+The commissioning of Arighaat, India's second nuclear-powered ballistic missile submarine, is a significant achievement for national defense and self-reliance. Arighaat boasts doubled indigenization content compared to its predecessor, Arihant, reducing reliance on foreign sources and enhancing reliability. This SSBN strengthens India's sea-based nuclear deterrent, a crucial component of its nuclear triad aimed at preventing nuclear escalation.  
+
+The project demonstrates India's capability to build sophisticated submarines, fostering expertise and driving innovation across scientific, naval, and industrial sectors. The experience and advancements will benefit future submarine construction programs, bolstering India's defense capabilities and contributing to economic growth.
+
 Sat, 31 Aug 2024 02:20:18 +0000
 ### [How does methane play a role in climate change?](https://indianexpress.com/article/explained/explained-climate/methane-climate-change-co2-9542004/)
 

@@ -1,3 +1,12 @@
+Sat, 31 Aug 2024 14:32:06 +0530
+### [How over 6 lakh children will be vaccinated for polio in Gaza in 3 days](https://www.firstpost.com/explainers/how-over-6-lakh-children-will-be-vaccinated-for-polio-in-gaza-in-3-days-13810125.html)
+
+A major polio vaccination drive is underway in Gaza to combat the first case in 25 years, affecting a 10-month-old boy. The World Health Organization (WHO) is partnering with Israel and Hamas to administer the vaccine during temporary ceasefires.  
+
+The campaign aims to vaccinate 640,000 children under ten with two doses of oral polio vaccine, achieved through over 400 fixed sites and 230 outreach locations. A second round of vaccinations is planned for late September. 
+
+Despite challenges posed by damaged infrastructure, displacement, and ongoing conflict, the WHO believes the campaign is feasible if logistical aspects are successfully implemented. The vaccination drive relies on the safe and effective oral polio vaccine, with extremely rare but serious side effects.
+
 Sat, 31 Aug 2024 12:34:03 +0530
 ### [Why has Brazil banned X? Which other countries have suspended the platform?](https://www.firstpost.com/explainers/why-has-brazil-banned-x-which-other-countries-have-suspended-the-platform-13810073.html)
 
