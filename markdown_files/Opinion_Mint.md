@@ -1,3 +1,29 @@
+Sun, 01 Sep 2024 15:30:02 +0530
+### [Meta has impressed investors with an AI boost to its internal operations](https://www.livemint.com/opinion/online-views/meta-ai-mark-zuckerberg-big-tech-investors-llms-instagram-genai-microsoft-google-amazon-11725177431122.html)
+
+Meta has outperformed its tech rivals this year, with investors showing more confidence in Mark Zuckerberg's approach to artificial intelligence (AI). While companies like Google and Microsoft haven't clearly demonstrated the financial benefits of AI, Meta has showcased how AI is boosting its advertising systems and user engagement on platforms like Instagram and Reels. Zuckerberg's transparency about AI's positive impact on Meta's bottom line has earned him praise from analysts and contributed to the company's stock increase.
+
+In contrast to Meta,  Google  has remained vague about how AI is driving revenue growth, despite claiming it plays a vital role. This lack of concrete examples has fueled investor uncertainty about AI's economic value. Zuckerberg's success with AI emphasizes the importance of "showing, don't telling," and demonstrates a clear link between AI investments and tangible business results.
+
+Sun, 01 Sep 2024 15:00:02 +0530
+### [Desilting can ease India’s water storage constraints and its rural water crisis](https://www.livemint.com/opinion/online-views/desilting-water-scarcity-underground-water-table-reservoirs-lakes-water-storage-rural-water-crisis-11725176888127.html)
+
+India is facing a severe water crisis exacerbated by climate change. The increasing frequency of droughts, coupled with declining groundwater levels, threatens agriculture, livelihoods, and food security.  Reviving silted water bodies offers a cost-effective solution.  
+
+Initiatives like the Amrit Sarovar project and Niti Aayog's scheme in drought-prone areas demonstrate the success of this approach. By reviving these water bodies, India can increase water storage, recharge groundwater, improve irrigation, and support sustainable agriculture.
+
+Community involvement is crucial for this effort. By engaging local communities in managing and maintaining these water bodies, a sense of ownership can be fostered, leading to long-term sustainability.  
+
+
+The government's commitment to sustainable water management practices, as highlighted by Prime Minister Modi's "Catch the rain--where it falls, when it falls," slogan, is encouraging. However, widespread implementation of these initiatives across water-stressed regions requires sustained efforts and investment.
+
+Sun, 01 Sep 2024 14:00:01 +0530
+### [Manu Joseph: Nari Hira was a success only Bombay could have given India](https://www.livemint.com/opinion/online-views/manu-joseph-nari-hira-magna-publishing-company-narendra-hiranandani-stardust-magazine-entertainment-industry-11725175850180.html)
+
+This article is a reflection on Nari Hira, the flamboyant founder of Magna Publishing Company, which included the popular film magazine Stardust.  Hira, who hailed from a wealthy South Bombay family, was known for his ability to stir controversy within the Hindi film industry, often antagonizing stars with his fearless and sometimes scandalous reporting.  He was a product of an era in Bombay where a cosmopolitan elite, unconcerned with traditional Indian values, held sway in media and entertainment.  
+
+The article highlights Hira's media savvy, noting how he mimicked trends from New York and brought them to India, exemplified by his magazine and direct-to-video film productions.  Stardust, during its heyday, commanded the respect and fear of celebrities, while also provoking heated reactions. Its influence waned as the media landscape changed and stars gained more power and control. Hira, the article suggests, was a relic of a bygone era –  a "last of the urban gentry" who ultimately lost his battle against the growing dominance of star-centric media.
+
 Sun, 01 Sep 2024 13:00:19 +0530
 ### [Bangladesh must strive to keep its success story going](https://www.livemint.com/opinion/online-views/bangladesh-protest-sheikh-hasina-bangladesh-interim-government-democracy-secularism-authoritarianism-religious-extremism-11725175294379.html)
 

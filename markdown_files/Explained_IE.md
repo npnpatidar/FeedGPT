@@ -1,3 +1,10 @@
+Sun, 01 Sep 2024 08:30:48 +0000
+### [Why does France not have a new prime minister nearly two months after its elections?](https://indianexpress.com/article/explained/explained-global/explained-france-polls-pm-two-months-9544437/)
+
+French President Emmanuel Macron, facing a hung parliament after elections, has delayed appointing a new prime minister for nearly two months. The far-left France Unbowed party, which won the most seats, has criticized Macron's silence and called for his impeachment. 
+
+Macron seeks to form a government with centrist parties but has not been successful. He has also ruled out a coalition with France Unbowed.  The delay comes as France Unbowed has nominated its candidate for prime minister and is arguing for the right to form the government. The political stalemate raises concerns about administrative friction and the stability of the French government.
+
 Sun, 01 Sep 2024 06:54:13 +0000
 ### [Why do oil prices remain subdued?](https://indianexpress.com/article/explained/explained-economics/oil-prices-subdued-libya-9544274/)
 
