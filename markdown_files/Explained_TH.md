@@ -1,3 +1,19 @@
+Sun, 01 Sep 2024 05:10:00 +0530
+### [Why did the Centre alter its pension plan?](https://www.thehindu.com/news/national/why-did-the-centre-alter-its-pension-plan/article68590701.ece)
+
+The Indian government has ushered in a new Unified Pension Scheme (UPS) for its employees, set to launch on April 1, 2025. The UPS aims to address concerns regarding the National Pension System (NPS), which replaced the older Old Pension Scheme (OPS).  The UPS combines elements of both schemes. A key feature is a guaranteed monthly pension for life, calculated as half the employee's average basic pay from their last 12 months of service, subject to a minimum service of 25 years. 
+
+It also offers a family pension and a lumpsum payout upon retirement. While employees will contribute 10% of their salary to the pension fund, the government's contribution will be 18.5%. This move has been hailed as a step towards providing more stable and predictable pension benefits for government employees.
+
+Sun, 01 Sep 2024 04:45:00 +0530
+### [How will the morality law hit Afghan women?](https://www.thehindu.com/news/international/how-will-the-morality-law-hit-afghan-women/article68590732.ece)
+
+The Taliban announced a new law in Afghanistan that enforces its interpretation of Islamic law. The law restricts women's rights significantly, including banning them from showing their bodies or faces in public, and silencing their voices.  It also regulates various aspects of life, such as dress, travel, and entertainment. 
+
+The Taliban claims these regulations are based on Islamic principles and aim to promote morality.  
+
+These new laws have been widely condemned by governments and organizations, who see them as a severe setback for women's rights. However, the Taliban insists they will continue to implement them. Despite the backlash, some Afghan women are resisting the restrictions through subtle and overt acts of defiance.
+
 Sun, 01 Sep 2024 01:48:00 +0530
 ### [Pacific Island Forum | Growing stature](https://www.thehindu.com/news/international/pacific-island-forum-growing-stature/article68590774.ece)
 
