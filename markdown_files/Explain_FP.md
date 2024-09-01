@@ -1,3 +1,14 @@
+Sun, 1 Sep 2024 09:29:02 +0530
+### [This Week in Explainers: From Australia to Canada, why studying abroad is becoming testing for Indian students](https://www.firstpost.com/explainers/this-week-in-explainers-from-australia-to-canada-why-studying-abroad-is-becoming-testing-for-indian-students-13809928.html)
+
+This week's global news highlights several major developments.  Israel has escalated military operations in the West Bank, killing at least 15 Palestinians,  amidst ongoing conflict in Gaza. In the US, the Democratic presidential campaign intensifies as Kamala Harris and Tim Walz give their first joint interview since the Democratic National Convention.  
+
+Bangladesh experiences widespread floods and protests against India, which it blames for the disaster. Pakistan faces increasing violence as separatist attacks in Balochistan escalate.  Western countries, including Australia, Canada, and the UK, are implementing stricter policies on international students, raising concerns for Indian students who aim to study abroad.
+
+
+
+Finally, an Australian scientist claims to have solved the mystery of Malaysia Airlines Flight MH370's disappearance, while a recent study sparks debate about the future of the male population due to shrinking Y chromosomes.
+
 Sat, 31 Aug 2024 18:26:07 +0530
 ### [Is a 4-day workweek Japan's answer to the 'work yourself to death' culture?](https://www.firstpost.com/explainers/is-a-4-day-workweek-japans-answer-to-the-work-yourself-to-death-culture-13810191.html)
 
