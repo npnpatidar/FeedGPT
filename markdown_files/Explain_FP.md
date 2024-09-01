@@ -1,3 +1,8 @@
+Sun, 1 Sep 2024 15:57:13 +0530
+### [Feline Facts: Do cats grieve the loss of fellow pets?](https://www.firstpost.com/explainers/feline-facts-do-cats-grieve-the-loss-of-fellow-pets-13809105.html)
+
+A recent study suggests that cats may exhibit grieving behaviors after the loss of a fellow pet. Researchers observed changes in behavior like increased vocalization, attention-seeking, and reduced appetite in cats following the death of a companion animal. The strength of the bond and daily interactions between the cats were found to be factors influencing these behaviors.  While this study builds on previous research hinting at grief-like responses in cats, it's important to note that owner observations might be subjective and influenced by their own grief.  The study didn't investigate whether cats grieve for their human owners, leaving that question open for further research.
+
 Sun, 1 Sep 2024 11:25:52 +0530
 ### [Ozempic chic: How weight-loss drugs are changing the fashion industry, closet by closet](https://www.firstpost.com/explainers/ozempic-weight-loss-drugs-fashion-industry-resale-market-second-hand-luxury-clothes-13809854.html)
 

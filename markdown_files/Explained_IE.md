@@ -1,3 +1,13 @@
+Sun, 01 Sep 2024 12:03:33 +0000
+### [What is the Munich Agreement and the role it played in starting World War II?](https://indianexpress.com/article/explained/everyday-explainers/explained-munich-agreement-role-world-war-ii-9544797/)
+
+On September 1, 1939, Germany invaded Poland, marking the start of World War II. The invasion, a direct violation of the Munich Agreement signed the previous year, exposed the dangers of appeasement towards Hitler's aggressive regime.  The agreement had allowed Germany to annex the Sudetenland region of Czechoslovakia, a move intended to prevent war but ultimately emboldened Hitler. The Czechoslovak government, under pressure from Britain and France, was forced to accept the deal despite its own reservations. Six months later, Hitler reneged on his promises and occupied the entire country, paving the way for the devastating global conflict.
+
+Sun, 01 Sep 2024 11:07:10 +0000
+### [How Telegram CEO Durov’s arrest in France could possibly upend ‘safe harbour’ protection](https://indianexpress.com/article/explained/explained-sci-tech/explained-telegram-durov-arrest-upend-safe-harbour-9544628/)
+
+The arrest of Pavel Durov, founder of Telegram, in France has significant implications for the tech industry. This unprecedented action against a high-ranking tech executive, alleging his platform facilitates illicit activities, challenges the legal concept of "safe harbour" which protects platforms from liability for user-generated content. This protection, enshrined in laws like Section 230 in the US and India's IT Act, is seen as crucial for enabling free speech online. Durov’s case, however, raises questions about the boundaries of this protection, particularly when platforms are accused of failing to adequately moderate harmful content.  Analysts view this as a warning to other tech companies regarding potential liability for content hosted on their platforms.
+
 Sun, 01 Sep 2024 08:30:48 +0000
 ### [Why does France not have a new prime minister nearly two months after its elections?](https://indianexpress.com/article/explained/explained-global/explained-france-polls-pm-two-months-9544437/)
 

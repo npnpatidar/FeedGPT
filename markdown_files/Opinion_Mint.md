@@ -1,3 +1,14 @@
+Sun, 01 Sep 2024 16:00:04 +0530
+### [Would a more diverse monetary policy panel spell better RBI rate calls?](https://www.livemint.com/opinion/online-views/rbi-monetary-policy-committee-inflation-rate-hikes-economists-monetary-policy-repo-rate-indian-economy-11725178071351.html)
+
+The article discusses the upcoming reconstitution of the Reserve Bank of India's (RBI) Monetary Policy Committee (MPC).  
+
+It highlights the current composition of the MPC, comprising three RBI officials and three external experts primarily from academia. The article then compares this model to those of other central banks, such as the US Federal Reserve, Bank of England, European Central Bank,  People's Bank of China, and the Bank of Japan, which vary in their membership structure and representation. 
+
+The author explores the debate surrounding  whether the MPC should include members from sectors beyond academia, such as industry or households, to provide diverse perspectives. The advantages and disadvantages of such a move are weighed, considering the potential for representing specific interests versus the risk of overlooking the broader economic picture. 
+
+Finally, the article emphasizes the importance of the MPC's role in navigating the current economic climate, characterized by strong growth and unpredictable inflation, and suggests that the composition of the new MPC will be crucial in steering the economy.
+
 Sun, 01 Sep 2024 15:30:02 +0530
 ### [Meta has impressed investors with an AI boost to its internal operations](https://www.livemint.com/opinion/online-views/meta-ai-mark-zuckerberg-big-tech-investors-llms-instagram-genai-microsoft-google-amazon-11725177431122.html)
 

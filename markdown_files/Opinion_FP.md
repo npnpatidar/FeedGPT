@@ -1,3 +1,8 @@
+Sun, 1 Sep 2024 16:41:58 +0530
+### [China will have to pay the price for its overtures in Balochistan](https://www.firstpost.com/opinion/china-will-have-to-pay-the-price-for-its-overtures-in-balochistan-13810493.html)
+
+Recent attacks by the Balochistan Liberation Army (BLA) in Balochistan, Pakistan, highlight the growing resentment towards the China-Pakistan Economic Corridor (CPEC). The BLA views China as an accomplice to Pakistan's suppression of the Baloch movement for independence.  These attacks, timed to coincide with the anniversary of the death of prominent Baloch leader Nawab Bugti, who opposed Chinese interests in the region, are seen as a reaction to China's disregard for local grievances and its support for Pakistan's policies targeting Baloch people.  The Balochs view China's activities in their region as exploitative and reminiscent of the oppression faced by Uyghurs in Xinjiang, whom they have expressed solidarity with. China's close relationship with Pakistan and its labeling of Baloch resistance as terrorism further fuels discontent.
+
 Sun, 1 Sep 2024 15:35:46 +0530
 ### [Humayun’s Tomb museum | How an unprepared prince became the emperor of second chances](https://www.firstpost.com/opinion/humayuns-tomb-museum-how-an-unprepared-prince-became-the-emperor-of-second-chances-13810463.html)
 
