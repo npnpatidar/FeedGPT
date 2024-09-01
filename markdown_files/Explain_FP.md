@@ -1,3 +1,12 @@
+Sun, 1 Sep 2024 11:25:52 +0530
+### [Ozempic chic: How weight-loss drugs are changing the fashion industry, closet by closet](https://www.firstpost.com/explainers/ozempic-weight-loss-drugs-fashion-industry-resale-market-second-hand-luxury-clothes-13809854.html)
+
+The increased use of Ozempic and similar weight-loss drugs is significantly impacting the fashion industry, particularly the second-hand luxury market. 
+
+More people are selling larger clothing sizes as they experience weight loss due to these medications, leading to a surge in plus-size apparel listings on resale platforms like Poshmark and Vestiaire Collective.  This trend is also reflected in reports from brands like Lafayette 148 and Rent the Runway, where customers are buying smaller sizes.
+
+However, this shift poses a challenge for resale platforms as they struggle to manage the surplus of larger clothing sizes and align their inventory with the changing demand.  This imbalance could result in unsold items ending up in landfills, highlighting the environmental implications of this trend.
+
 Sun, 1 Sep 2024 09:29:02 +0530
 ### [This Week in Explainers: From Australia to Canada, why studying abroad is becoming testing for Indian students](https://www.firstpost.com/explainers/this-week-in-explainers-from-australia-to-canada-why-studying-abroad-is-becoming-testing-for-indian-students-13809928.html)
 
