@@ -7721,3 +7721,10 @@ Started at 2024-09-01 18:14:24
 Finished at 2024-09-01 18:14:40
 Total time taken: 15.740427494049072 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-01 20:12:58
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-01 20:13:16
+Total time taken: 17.87652826309204 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

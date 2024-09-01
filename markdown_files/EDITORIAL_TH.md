@@ -1,3 +1,13 @@
+Mon, 02 Sep 2024 00:30:00 +0530
+### [​Old rivalries: On Maharashtra’s ruling coalition](https://www.thehindu.com/opinion/editorial/%E2%80%8Bold-rivalries-the-hindu-editorial-on-maharashtras-ruling-coalition/article68593658.ece)
+
+The ruling Mahayuti coalition in Maharashtra is facing internal discord, primarily between the BJP, Eknath Shinde's Shiv Sena, and Ajit Pawar's NCP. This tension emerged after a disappointing performance in the 2024 general election and is exacerbated by disagreements over policy initiatives and personal animosity.  A recent incident involving the collapse of a Shivaji Maharaj statue further strained relations, as it holds significant cultural importance for the Maratha community, to which Ajit Pawar and Sharad Pawar belong. Despite being political partners, the BJP and Shinde's Shiv Sena harbor resentment towards Ajit Pawar, while Ajit Pawar himself seems unsure of his alliance with them, expressing reservations about their tactics and suggesting possible connections with Sharad Pawar and the opposition Maha Vikas Aghadi. The coalition's divisions threaten its stability ahead of the upcoming assembly elections, while the opposition is benefiting from this disarray.
+
+Mon, 02 Sep 2024 00:15:00 +0530
+### [​Open season: On the U.S. Open](https://www.thehindu.com/opinion/editorial/%E2%80%8Bopen-season-the-hindu-editorial-on-the-us-open/article68593397.ece)
+
+The recent US Open departures of Carlos Alcaraz and Novak Djokovic have sent shockwaves through the tennis world. Alcaraz, the World No.3, and Djokovic, the reigning champion and 24-time Grand Slam winner, both exited in the early rounds, marking a significant upset.  The defeats could be attributed to the physically and emotionally demanding summer both players endured,  including Alcaraz's French Open-Wimbledon double and Djokovic's Wimbledon final and Olympic gold medal. Notably, Djokovic's third-round loss signifies a potential shift in the sport's hierarchy, especially since it's his earliest exit from a Major since 2017. This opens up the possibility for new players like Jannik Sinner to dominate.
+
 Sat, 31 Aug 2024 00:20:00 +0530
 ### [​Growth matrix: On the economy’s performance](https://www.thehindu.com/opinion/editorial/%E2%80%8Bgrowth-matrix-on-the-economys-performance/article68586412.ece)
 
