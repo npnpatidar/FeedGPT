@@ -1,3 +1,27 @@
+Sun, 01 Sep 2024 01:40:21 +0000
+### [Tavleen Singh writes: Rahul Gandhi’s fixation with people’s castes is not just baffling, but inane](https://indianexpress.com/article/opinion/columns/rahul-gandhi-caste-congress-9543660/)
+
+Rahul Gandhi has become a more prominent political figure, gaining recognition  as a potential successor to Narendra Modi.  His efforts in portraying himself as a man of the people have resonated with some voters, challenging Modi's image. However, Gandhi's focus on caste issues and his sometimes eccentric statements  can hinder his credibility.  Concerns arise about the return of his old "courtiers," who could undermine his progress and allow Modi to regain his footing. Gandhi needs to address this perception of insincerity and avoid dwelling excessively on caste to be taken more seriously as a political leader.
+
+Sun, 01 Sep 2024 01:38:22 +0000
+### [Bollywood’s worst-kept secret: ‘compromise’](https://indianexpress.com/article/opinion/columns/bollywoods-worst-kept-secret-compromise-9543661/)
+
+The article discusses the pervasive issue of sexual harassment in the Indian film industry. 
+
+It highlights the power dynamics that often lead to women being coerced into compromising their morals for career opportunities. The article cites the #MeToo movement and instances of women speaking out against harassment, but also acknowledges the fear of backlash and the difficulty of pursuing justice in an industry where powerful individuals often get away with misconduct.  Despite some progress in terms of awareness and measures like the POSH Act, the article stresses that the fight against sexual exploitation in the film industry is far from over.
+
+Sun, 01 Sep 2024 01:35:20 +0000
+### [1962 elections: a third for J&K and a first for EC](https://indianexpress.com/article/opinion/columns/jammu-and-kashmir-election-commission-9543659/)
+
+Jammu & Kashmir will hold its first Assembly elections in five years from September 18 to October 1, 2024. This marks the first election since the abrogation of Article 370 in 2019. The 1962 Assembly elections in J&K,  simultaneously held with national polls, were the first conducted by the Election Commission of India.  Despite the JKNC sweeping both the 1957 and 1962 polls, these elections weren't without controversy. Opposition parties  alleged irregularities and boycotted, while others criticized the EC for not preventing malpractice.  The 1964 saw a significant political shift in J&K, with JKNC leaders joining the Congress and the Praja Parishad merging with the Bharatiya Jana Sangh.
+
+Sun, 01 Sep 2024 01:30:53 +0000
+### [P Chidambaram writes: On the horns of a dilemma](https://indianexpress.com/article/opinion/columns/pension-scheme-chidambaram-9543658/)
+
+There is a debate in India regarding pensions, particularly the shift from the Old Pension Scheme (OPS) to the New Pension Scheme (NPS). The OPS was a defined benefit scheme with a guaranteed minimum pension, while the NPS is a defined contribution scheme. 
+
+The government argues that the OPS was unsustainable and burdensome financially. The Unified Pension Scheme (UPS) aims to address this by being a funded scheme where both the government and employees contribute, while also guaranteeing a minimum pension. However, employee unions are opposed to the employee contribution, creating a dilemma for the government.
+
 Sat, 31 Aug 2024 09:38:32 +0000
 ### [A neighbourhood in turmoil: Terrorist attacks in Pakistan; Disappearances in Bangladesh](https://indianexpress.com/article/opinion/columns/neighbourhood-turmoil-terrorist-attacks-in-pakistan-disappearances-in-bangladesh-9543094/)
 

@@ -1,3 +1,14 @@
+Sun, 01 Sep 2024 06:43:06 +0530
+### [The past shaping the 2024 J&K Assembly elections](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/the-past-shaping-the-2024-jk-assembly-elections/article68592222.ece)
+
+The article analyzes the 2024 Assembly elections in Jammu and Kashmir, discussing the complex political landscape shaped by historical events and the abrogation of Article 370. 
+
+The author notes the resurgence of political interest after a six-year hiatus, highlighting the demand for statehood as a unifying factor. Examining the regional dynamics, the article analyzes the strengths and strategies of various parties like the National Conference, Peoples Democratic Party, and BJP.  
+
+It explores the impact of delimitation on representation, particularly concerning Scheduled Caste and Scheduled Tribe constituencies, questioning whether it will truly benefit marginalized groups. The article also delves into the contentious issue of nominating seats for Kashmiri migrants and those from Pakistan-controlled Kashmir, raising concerns about definition and potential constitutional implications. 
+
+Ultimately, the article suggests that while new political realities are emerging, the legacy of the past continues to shape the electoral landscape and the future of Jammu and Kashmir.
+
 Thu, 29 Aug 2024 09:00:00 +0530
 ### [‘The victim of crime is treated as a mere witness in the prosecution of the offence’](https://www.thehindu.com/opinion/columns/victims-of-crime-are-the-neglected-pillars-of-the-criminal-justice-system/article68571631.ece)
 

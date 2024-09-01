@@ -1,3 +1,10 @@
+Sun, 01 Sep 2024 01:00:39 +0000
+### [Why Namibia plans to kill hundreds of its majestic wild animals for meat](https://indianexpress.com/article/explained/explained-climate/namibia-wild-animals-meat-drought-9543457/)
+
+Namibia is undertaking a cull of hundreds of wild animals, including elephants and hippopotamuses, to address the worst drought in a century.  The drought, exacerbated by the El Nino weather pattern, has caused widespread crop failure, livestock deaths, and food shortages, impacting nearly half the country's population. The government aims to provide meat for its citizens and prevent human-wildlife conflict as animals migrate in search of resources.  
+
+The cull, which has already seen over 150 animals killed, is intended to manage grazing pressure and water availability while ensuring sustainable practices and animal welfare.
+
 Sat, 31 Aug 2024 12:08:05 +0000
 ### [SpaceX’s Falcon 9 rocket grounded yet again: What happened?](https://indianexpress.com/article/explained/explained-sci-tech/spacex-falcon-9-grounded-9543315/)
 
