@@ -1,3 +1,8 @@
+Sun, 01 Sep 2024 13:56:48 +0000
+### [How the Titanic wreckage was discovered, 73 years after its sinking](https://indianexpress.com/article/explained/explained-history/explained-ballard-titanic-wreckage-1985-discovered-9544964/)
+
+The sinking of the RMS Titanic in 1912 captivated the world.  Despite early proposals, the wreckage remained elusive due to the immense depth and technological limitations.  Oceanographer Robert Ballard, driven by his passion for deep-sea exploration, finally located the Titanic in 1985 using advanced technology like the submersible Alvin and a remotely operated vehicle named Argo. This discovery revealed crucial details about the Titanic's demise, such as its breaking into two pieces. Ballard advocated for leaving the wreckage undisturbed,  highlighting the importance of preserving historical sites. The successful expedition cemented Ballard's legacy and showcased the power of modern technology in unraveling mysteries beneath the waves.
+
 Sun, 01 Sep 2024 12:03:33 +0000
 ### [What is the Munich Agreement and the role it played in starting World War II?](https://indianexpress.com/article/explained/everyday-explainers/explained-munich-agreement-role-world-war-ii-9544797/)
 

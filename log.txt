@@ -7700,3 +7700,11 @@ Started at 2024-09-01 12:20:21
 Finished at 2024-09-01 12:20:42
 Total time taken: 20.266586542129517 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-01 14:10:04
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Explain_FP.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-01 14:10:21
+Total time taken: 16.586755752563477 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

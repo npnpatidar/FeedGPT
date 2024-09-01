@@ -1,3 +1,13 @@
+Sun, 1 Sep 2024 17:56:59 +0530
+### [Tall people are at a higher risk of developing cancer. Here's why](https://www.firstpost.com/explainers/tall-people-are-at-a-higher-risk-of-developing-cancer-heres-why-13809199.html)
+
+Several studies, including the UK Million Women Study, have shown a correlation between height and an increased risk of developing cancer.  Taller individuals have a higher chance of developing cancers of the pancreas, large bowel, uterus, ovary, prostate, kidney, skin (melanoma), and breast. 
+
+Two main theories attempt to explain this link:  a higher number of cells in taller individuals, potentially leading to more opportunities for genetic mutations, and elevated levels of the growth hormone insulin-like growth factor 1 (IGF-1). While research supports both explanations, further investigation is needed to fully understand the relationship between height and cancer risk.
+
+
+Despite the slight elevated risk, it's crucial to remember that many factors influence cancer development. Maintaining a healthy lifestyle, including a balanced diet, regular exercise, a healthy weight, sun safety, limited alcohol consumption, and not smoking, significantly reduces cancer risk, outweighing the impact of height.
+
 Sun, 1 Sep 2024 15:57:13 +0530
 ### [Feline Facts: Do cats grieve the loss of fellow pets?](https://www.firstpost.com/explainers/feline-facts-do-cats-grieve-the-loss-of-fellow-pets-13809105.html)
 
