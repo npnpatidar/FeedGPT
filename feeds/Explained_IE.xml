@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Why do oil prices remain subdued?</title>
+			<link>https://indianexpress.com/article/explained/explained-economics/oil-prices-subdued-libya-9544274/</link>
+			<description>Oil prices have recently increased due to a political dispute in Libya that has cut production. Despite this, market prices remain relatively stable, hovering around $80 per barrel, and are below the average historical level. 
+
+Global oil inventories are currently healthy, with demand growth being met by production increases from various nations, including Brazil, Canada, Guyana, and the United States.  The OPEC+ group is considering strategic increases in oil output, which could further impact prices. 
+
+Although China's demand growth is slowing, analysts expect it to remain a key player in the oil market.  Market watchers are closely monitoring the situation in Libya, as its production losses could have a significant effect on global supply and prices.</description>
+			<pubDate>Sun, 01 Sep 2024 06:54:13 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/oil-prices.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/oil-prices.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Why Namibia plans to kill hundreds of its majestic wild animals for meat</title>
 			<link>https://indianexpress.com/article/explained/explained-climate/namibia-wild-animals-meat-drought-9543457/</link>
 			<description>Namibia is undertaking a cull of hundreds of wild animals, including elephants and hippopotamuses, to address the worst drought in a century.  The drought, exacerbated by the El Nino weather pattern, has caused widespread crop failure, livestock deaths, and food shortages, impacting nearly half the country's population. The government aims to provide meat for its citizens and prevent human-wildlife conflict as animals migrate in search of resources.  

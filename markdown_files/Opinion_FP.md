@@ -1,3 +1,23 @@
+Sun, 1 Sep 2024 12:31:17 +0530
+### [Ramification | How instability in Myanmar fosters drug trade, affects India’s security](https://www.firstpost.com/opinion/how-instability-in-myanmar-fosters-drug-trade-affects-indias-security-13810413.html)
+
+This article explores the enduring link between conflict, drugs, and instability in Myanmar's Shan State.  It highlights the region's long history of drug production and trafficking, starting with the powerful figures like Olive Yang, Lo Hsing-Han, and Khun Sa. 
+
+The article analyzes how even after attempts to control the trade and bring democracy, groups like the United Wa State Army (UWSA) and  the Arakan Army (AA) have become deeply involved in the illicit drug market.  
+
+The consequences extend beyond Myanmar, affecting neighboring countries like Thailand, Cambodia, Laos, Vietnam, Bangladesh, and India, with a surge in Yaba (methamphetamine) trafficking posing significant security threats. 
+
+The proliferation of new drug brands and a lack of central control due to the fragmented political landscape further complicate the situation, making it even more challenging to combat this pervasive issue.
+
+Sun, 1 Sep 2024 12:21:09 +0530
+### [Sullivan’s Beijing visit: Why US needs a grand strategy to deal with China](https://www.firstpost.com/opinion/sullivans-beijing-visit-why-us-needs-a-grand-strategy-to-deal-with-china-13810411.html)
+
+The absence of a clear US grand strategy leaves it vulnerable to China's growing influence, particularly in the Asia-Pacific region. While China faces economic challenges, its geopolitical ambitions remain strong, driven by the need to maintain the Communist Party's legitimacy. 
+
+The US focus on the Ukraine conflict has inadvertently benefited China, allowing it to strengthen its position in the South China Sea and apply pressure on Taiwan. The US trade deficit with China further highlights its vulnerability.  The potential return of Donald Trump, with his unpredictable policies, could disrupt US-China relations.  
+
+The article warns that the absence of a coherent US strategy risks escalating tensions and instability, potentially leading to military conflict. Great power competition, it argues, rarely ends gracefully.
+
 Sat, 31 Aug 2024 19:03:14 +0530
 ### [Student suicides in India: An epidemic that is seeing a big spike](https://www.firstpost.com/opinion/student-suicides-in-india-an-epidemic-that-is-seeing-a-big-spike-13810204.html)
 

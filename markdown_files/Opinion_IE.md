@@ -1,3 +1,8 @@
+Sun, 01 Sep 2024 06:47:50 +0000
+### [In Hindi film industry, feminism is the ‘f’ word most people are terrified to be associated with](https://indianexpress.com/article/opinion/columns/in-hindi-film-industry-feminism-is-the-f-word-most-people-are-terrified-to-be-associated-with-9544312/)
+
+The Malayalam film industry is undergoing a reckoning following the release of the Hema Committee report, revealing widespread sexual harassment and exploitation.  Inspired by this movement, women from other film industries, including Bengali and Telugu, are demanding similar accountability and workplace safety. However, the Hindi film industry has yet to make a collective statement or take significant action. The article highlights the industry's history of silencing victims and perpetuating misogynistic practices, citing the #MeToo movement's limited impact. Despite some positive changes, such as increased representation of women in crew positions and stories centered on female protagonists, the lack of a strong advocacy group like the Women in Cinema Collective in Bollywood is a concerning gap. The article calls upon men in the industry to act as allies, use their platforms to support women, and create a safer environment for speaking out against abuse.
+
 Sun, 01 Sep 2024 01:40:21 +0000
 ### [Tavleen Singh writes: Rahul Gandhi’s fixation with people’s castes is not just baffling, but inane](https://indianexpress.com/article/opinion/columns/rahul-gandhi-caste-congress-9543660/)
 

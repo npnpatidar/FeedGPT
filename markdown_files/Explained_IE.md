@@ -1,3 +1,12 @@
+Sun, 01 Sep 2024 06:54:13 +0000
+### [Why do oil prices remain subdued?](https://indianexpress.com/article/explained/explained-economics/oil-prices-subdued-libya-9544274/)
+
+Oil prices have recently increased due to a political dispute in Libya that has cut production. Despite this, market prices remain relatively stable, hovering around $80 per barrel, and are below the average historical level. 
+
+Global oil inventories are currently healthy, with demand growth being met by production increases from various nations, including Brazil, Canada, Guyana, and the United States.  The OPEC+ group is considering strategic increases in oil output, which could further impact prices. 
+
+Although China's demand growth is slowing, analysts expect it to remain a key player in the oil market.  Market watchers are closely monitoring the situation in Libya, as its production losses could have a significant effect on global supply and prices.
+
 Sun, 01 Sep 2024 01:00:39 +0000
 ### [Why Namibia plans to kill hundreds of its majestic wild animals for meat](https://indianexpress.com/article/explained/explained-climate/namibia-wild-animals-meat-drought-9543457/)
 
