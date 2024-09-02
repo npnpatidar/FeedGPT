@@ -1,3 +1,20 @@
+Tue, 03 Sep 2024 00:30:00 +0530
+### [​Enhancing oversight: On the GST Council meet and issues](https://www.thehindu.com/opinion/editorial/%E2%80%8Benhancing-oversight-the-hindu-editorial-on-the-gst-council-meet-and-issues/article68597546.ece)
+
+The GST Council is set to meet on September 9 to discuss key issues within the indirect tax regime. A major focus will be the review of GST's complex rate structure. While progress on this front has been slow, the Council is expected to set a timeline for the ministerial group's deliberations and potentially explore alternative rate structures.  The meeting may also address concerns about the 18% GST levy on essential services like health insurance and life cover.  
+
+Inclusion of items like electricity, petroleum, and alcohol under GST is another topic, although significant hurdles exist due to states' reservations.  The Council will also monitor the daily functioning of GST, particularly refund disbursement and revenue trends, to ensure smooth implementation and prevent issues for taxpayers.
+
+Tue, 03 Sep 2024 00:20:00 +0530
+### [Another escalation: On the Manipur ground report](https://www.thehindu.com/opinion/editorial/another-escalation-the-hindu-editorial-on-the-manipur-ground-report/article68598006.ece)
+
+Drone bombings in Manipur's Imphal West district claimed two lives and injured nine, attributed to Kuki-Zo militants in retaliation to an alleged Meitei ambush. This incident marks a dangerous escalation of the ethnic conflict, utilizing tactics reminiscent of Myanmar's pro-democracy insurgents.  While the government vows a six-month peace resolution, these attacks sow doubt and highlight the entrenched hostilities.  
+
+ This incident exposes a critical intelligence failure, urging a stronger security response. However, a mere security approach proves insufficient. Disarming the various militant groups in the valley and hills is crucial to prevent further escalation. 
+
+
+The Centre's and state government's reliance on buffer zones and security forces for over a year has demonstrably failed, failing to foster dialogue or address the hardening ethnic identities. This necessitates a shift in approach and leadership, with a firmer commitment to peace.
+
 Mon, 02 Sep 2024 00:30:00 +0530
 ### [​Old rivalries: On Maharashtra’s ruling coalition](https://www.thehindu.com/opinion/editorial/%E2%80%8Bold-rivalries-the-hindu-editorial-on-maharashtras-ruling-coalition/article68593658.ece)
 
