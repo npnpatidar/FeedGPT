@@ -1,3 +1,12 @@
+Mon, 02 Sep 2024 22:50:43 +0530
+### [On Germany’s electoral architecture | Explained](https://www.thehindu.com/news/international/on-germanys-electoral-architecture-explained/article68598322.ece)
+
+Germany's constitutional court has approved a plan to reduce the size of the Bundestag, the country's lower house of parliament. The current Bundestag, with 736 members, is the largest among democratically elected assemblies. 
+
+The size increase has been attributed to Germany's complex electoral system, which includes a two-vote system and a 5% threshold for parties to enter parliament.  This has led to a complex distribution of seats, with larger parties often gaining more seats than their share of the vote would warrant. 
+
+The new law, effective from 2025, will cap the Bundestag size at 630 members. This will be achieved by eliminating "overhang seats" and "balance seats,"  which were created to compensate for imbalances in the previous system. The weight given to directly elected candidate seats will also be reduced.
+
 Sun, 01 Sep 2024 05:10:00 +0530
 ### [Why did the Centre alter its pension plan?](https://www.thehindu.com/news/national/why-did-the-centre-alter-its-pension-plan/article68590701.ece)
 
