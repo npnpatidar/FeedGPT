@@ -1,3 +1,12 @@
+Mon, 02 Sep 2024 08:30:51 +0000
+### [What happens when AI replaces human creativity?](https://indianexpress.com/article/opinion/columns/what-happens-when-ai-replaces-human-creativity-9546125/)
+
+Richard Linklater's "Boyhood" exemplifies how technology has become a constant in our ever-changing world.  Just as oil shapes our narratives, data and digital technologies are now driving storytelling.  
+
+However, the rise of AI in creative industries raises concerns.  AI models are trained on vast amounts of human-generated data, often without consent or compensation,  potentially leading to the appropriation of cultural heritage. 
+
+This raises questions about the ethics of data use and the need for regulation to protect both creators and consumers.   While AI can offer certain benefits, it’s crucial to ensure it doesn't stifle human creativity, perpetuate biases, or exploit cultural resources for profit.  A balanced approach that prioritizes human values and ethical considerations is essential for the future of storytelling.
+
 Mon, 02 Sep 2024 02:22:29 +0000
 ### [September 2, 1984, Forty Years Ago: Amritsar on high alert](https://indianexpress.com/article/opinion/40-years-ago/september-2-1984-forty-years-ago-amritsar-on-high-alert-9545182/)
 

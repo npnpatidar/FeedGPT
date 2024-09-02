@@ -1,3 +1,24 @@
+Mon, 02 Sep 2024 15:00:17 +0530
+### [Global heat: Worry about health, not just death tolls and financial losses](https://www.livemint.com/opinion/online-views/climate-change-heatstroke-deaths-extreme-heat-kidney-failure-miscarriages-heatwave-mental-health-carbon-emission-11725221896558.html)
+
+This article explores the wide-ranging health impacts of extreme heat, going beyond just fatalities.  It highlights the heightened risk for pregnant women, potentially leading to miscarriages, stillbirths, and other complications. 
+
+The article also notes the dangers of heat for infants, linking it to heart disease, asthma, and even mental health issues later in life. It emphasizes the impact on mental health overall, exacerbating conditions like anxiety, depression, and schizophrenia.
+
+Finally, the article cites a kidney failure epidemic in Sri Lanka, possibly caused by extreme heat, dehydration, and pesticide contamination, as a stark example of the unseen consequences of climate change on human health.  It stresses the need for more research and funding to understand and mitigate these health risks.
+
+Mon, 02 Sep 2024 14:00:16 +0530
+### [CEA: No inflation targeting framework is sacrosanct](https://www.livemint.com/opinion/online-views/cea-inflation-targeting-rbi-food-inflation-monetary-policy-indian-economy-headline-inflation-fiscal-policy-intervention-11725221362828.html)
+
+The Economic Survey of 2023-24 questions the effectiveness of India's inflation targeting regime, which aims for a 4% headline inflation rate. The survey suggests that targeting inflation excluding food prices might be more appropriate, especially considering its impact on farmers' terms of trade.  
+
+The author argues that questioning established economic models is crucial, citing how past economic stances, like free trade and industrial policy, have undergone significant shifts. They highlight several concerns with the current inflation targeting framework, including its focus on a metric largely influenced by factors outside the central bank's control (food prices). They also contend that monetary policy is not always effective against supply-induced inflation, and that fiscal policy plays a significant role in managing inflation, raising questions about its inclusion in decision-making.
+
+The author further challenges the assumption that inflation targeting is neutral, pointing out its implicit influence on labor income in advanced economies and farmers' terms of trade in developing countries. They also question the effectiveness of targeting inflation based solely on monetary factors, citing evidence showing the influence of real factors like globalization, competition, and technology.
+
+
+The author concludes by emphasizing that discussions about inflation targeting and its underlying assumptions should remain open and critical, as the experience of past economic models demonstrates the need for continuous reassessment and adaptation to changing circumstances.
+
 Mon, 02 Sep 2024 12:30:14 +0530
 ### [Ajit Ranade: A truly secure nest egg is one that’s fully funded](https://www.livemint.com/opinion/online-views/ajit-ranade-unified-pension-scheme-retirement-planning-old-pension-scheme-personal-finance-national-pension-scheme-11725220619011.html)
 

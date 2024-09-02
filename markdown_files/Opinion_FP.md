@@ -1,3 +1,15 @@
+Mon, 2 Sep 2024 14:40:51 +0530
+### [Egypt deploys forces in Somalia: How it may end up creating a new conflict in the Horn of Africa](https://www.firstpost.com/opinion/egypt-deploys-forces-in-somalia-how-it-may-end-up-creating-a-new-conflict-in-the-horn-of-africa-13810803.html)
+
+Tensions are escalating in the Horn of Africa due to an agreement between Ethiopia and Somaliland, which recognizes Somaliland's independence in return for port access. 
+
+This agreement has sparked controversy, with Somalia condemning it as a violation of its sovereignty.  Egypt has recently signed a defense pact with Somalia and deployed troops, aiming to bolster Somali security and potentially counter Ethiopian influence.  
+
+This development increases the risk of conflict between Egypt and Ethiopia, who are already at odds over the Grand Ethiopian Renaissance Dam on the Nile River. The situation is further complicated by the presence of Yemen's Houthis in Somalia and instability caused by terrorist groups like Al-Shabaab.
+
+
+The potential for a major conflict in the region is a serious concern, threatening regional stability, international security, and humanitarian well-being.
+
 Mon, 2 Sep 2024 12:21:37 +0530
 ### [Shadow Warrior | The geo-political fallout from Bangladesh: What should India do?](https://www.firstpost.com/opinion/shadow-warrior-the-geo-political-fallout-from-bangladesh-what-should-india-do-13810744.html)
 

@@ -1,3 +1,35 @@
+Mon, 2 Sep 2024 15:38:58 +0530
+### [Quicksplained: What's the She-Box portal Centre launched to address sexual harassment at the workplace?](https://www.firstpost.com/explainers/quicksplained-shebox-portal-sexual-harassment-at-workplace-13810817.html)
+
+The Centre has launched SHe-Box, a centralized platform for registering and tracking complaints of sexual harassment against women at work. The portal aims to provide a unified system for handling complaints in both the private and public sectors. 
+
+Women can file complaints online, and a designated nodal officer will monitor them in real-time.  Upon receiving a complaint,  a committee will be formed within the relevant institution to investigate and take necessary action. The Ministry of Women and Child Development will oversee the process, ensuring time-bound resolution and confidentiality.
+
+Mon, 2 Sep 2024 15:10:42 +0530
+### [Beyond Mollywood: Did Telangana govt undermine report on sexual harassment in Telugu film industry?](https://www.firstpost.com/explainers/mollywood-hema-committee-report-telangana-government-report-on-sexual-harassment-in-telugu-film-industry-13810785.html)
+
+The Hema Committee report in Malayalam cinema, which exposed sexual harassment, has prompted calls for the release of a similar report on the Telugu film industry (Tollywood).  A sub-committee report on sexual harassment in Tollywood, submitted to the Telangana government in 2022, has remained unpublished.  The Tollywood report followed a protest by actress Sri Reddy highlighting abuse in the industry.  
+
+Telugu actresses, including Samantha Ruth Prabhu and Lakshmi Manchu, have urged the government to release the findings, citing the need to establish a safe working environment for women in the industry.  The sub-committee found issues like unequal pay, lack of written contracts, and poor working conditions, but specifics about harassment were not detailed in the report. Despite its availability, the report faces a lack of urgency from both industry stakeholders and the government.
+
+Mon, 2 Sep 2024 14:35:09 +0530
+### [What the deaths of 6 Israeli hostages mean for Benjamin Netanyahu and ceasefire talks](https://www.firstpost.com/explainers/what-the-deaths-of-6-israeli-hostages-mean-for-benjamin-netanyahu-and-ceasefire-talks-13810807.html)
+
+The deaths of six more hostages held by Hamas following the October 7 attack have  intensified public pressure on Israeli Prime Minister Benjamin Netanyahu to reach a deal for their release. The hostages, identified as Israeli-American Hersh Goldberg-Polin, Carmel Gat, Eden Yerushalmi, Alexander Lobanov, Almog Sarusi, and Master Seargant Ori Danino, were found dead with gunshot wounds in a tunnel in southern Gaza.  
+
+This latest tragedy has ignited protests across Israel, with organizers estimating 500,000 people joined nationwide demonstrations demanding Netanyahu make a deal with Hamas. The families of hostages, including Goldberg-Polin’s parents who had campaigned internationally for his release, have expressed outrage and accused the government of prioritizing other objectives over saving their loved ones.  
+
+Within Israel's government, tensions are mounting with Defense Minister Yoav Gallant clashing with Netanyahu over his approach to the negotiations. Gallant, along with other security officials, has warned that time is running out and accused Netanyahu of  putting political calculations ahead of the hostages' lives. A  general strike, the first since the start of the war, is planned for Monday in a show of solidarity with the hostages' families. 
+
+While Netanyahu blames Hamas for the stalled negotiations and maintains his stance on "total victory,"  the public outcry and internal dissent signal a possible turning point in his strategy.
+
+Mon, 2 Sep 2024 14:06:19 +0530
+### [How Pakistan’s Peshawar has emerged as mpox 'epicentre'](https://www.firstpost.com/health/pakistan-peshawar-mpox-epicentre-13810742.html)
+
+Pakistan's Peshawar city is emerging as a potential epicenter for the mpox virus, with five cases reported, most recently a traveler returning from  the Gulf. This rise in cases has prompted concerns about the virus's spread from travellers from West Asia. Officials are increasing screening measures at airports and are working to monitor the situation closely.  The mpox virus was declared a global health emergency by the WHO due to the emergence of a new strain, clade lb, which appears to be spreading rapidly. 
+
+While no cases of clade lb have been reported in Pakistan, other Asian countries like Thailand, Singapore, and the Philippines have also reported cases. Countries like India, China, Japan, and South Korea are on high alert and have intensified surveillance measures.  UNICEF is working with global partners to secure mpox vaccines for affected countries.
+
 Mon, 2 Sep 2024 13:37:54 +0530
 ### [Paris mayor wants Olympic rings to stay on Eiffel Tower. Here's why some want them gone](https://www.firstpost.com/explainers/paris-mayor-wants-olympic-rings-to-stay-on-eiffel-tower-heres-why-some-want-them-gone-13810741.html)
 
