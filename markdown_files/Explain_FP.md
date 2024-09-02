@@ -1,3 +1,20 @@
+Mon, 2 Sep 2024 21:13:44 +0530
+### [Firing outside AP Dhillon's Canada home: Who is he? What's his connection to Salman Khan?](https://www.firstpost.com/explainers/firing-outside-ap-dhillons-canada-home-who-is-he-whats-his-connection-to-salman-khan-13810969.html)
+
+AP Dhillon, a Canadian rapper of Indian origin, rose to fame with chart-topping songs like "Majhail" and "Brown Munde." He gained further recognition through his Amazon Prime documentary series, "AP Dhillon: First of a Kind." Recently, he featured in a music video with Bollywood actor Salman Khan for the song "Old Money."  
+
+This has led to threats from the Bishnoi gang, who are known for targeting individuals associated with Salman Khan.  The gang has a history of  criminality, including the murder of Punjabi singer Sidhu Moose Wala.  The Bishnoi gang has issued threats on social media, alleging that Dhillon's connection with Salman Khan makes him a target.  They allege that Salman will meet a "dog's death" if he doesn't stay within his limits. 
+
+
+Salman Khan has also been targeted by the Bishnoi gang, who feel he killed a blackbuck, which is revered by the Bishnoi community.
+
+Mon, 2 Sep 2024 19:57:04 +0530
+### [Is chicken tikka masala British? Tracing the origin of the dish amid row over TasteAtlas' ranking](https://www.firstpost.com/explainers/chicken-tikka-masala-british-indian-origin-tasteatlas-rankings-13810942.html)
+
+Chicken tikka masala's origins continue to be debated, despite its widespread popularity in the UK.  Often cited as the inventor, Ali Ahmed Aslam, a Pakistani-Scottish chef, claimed to have created the dish in 1972 at his Glasgow restaurant, Shish Mahal, to accommodate a customer's preference for sauce with their chicken tikka. 
+
+However, other claims attribute the dish to Indian chefs in the 1950s and even earlier. Some believe it evolved from Indian butter chicken, while others suggest Bangladeshi chefs in the UK in the 1960s developed it to suit British palates.  The debate highlights the complex interplay of culinary traditions and cultural influences in the evolution of food.
+
 Mon, 2 Sep 2024 19:06:45 +0530
 ### [Why Pope Francis’ Asia visit is important for the region and the Church](https://www.firstpost.com/explainers/why-pope-francis-asia-visit-is-important-for-the-region-and-the-church-13810858.html)
 

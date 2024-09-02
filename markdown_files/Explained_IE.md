@@ -1,3 +1,20 @@
+Mon, 02 Sep 2024 14:18:54 +0000
+### [500 days of the Sudan war: What is happening — and what happens next?](https://indianexpress.com/article/explained/explained-global/sudan-war-9546581/)
+
+The war in Sudan, stemming from a power struggle between generals Abdel Fattah al-Burhan and Mohamed Hamdan Dagalo, has raged for over 500 days.  The conflict has resulted in thousands of deaths, widespread displacement, and a dire humanitarian crisis, with millions lacking access to basic necessities like food and healthcare. 
+
+The situation is exacerbated by ongoing flooding, adding further strain on already stretched resources.  Experts warn that without a ceasefire, the war could escalate into a regional conflict, trigger mass migration to Europe, and potentially claim millions of lives through starvation.  Urgent international intervention is crucial to prevent a catastrophic outcome.
+
+Mon, 02 Sep 2024 14:11:51 +0000
+### [Big plans for farms: What is in the Rs 2,800-cr Digital Agriculture Mission?](https://indianexpress.com/article/explained/big-plan-farms-2800-cr-digital-agriculture-mission-9546566/)
+
+The Union Cabinet approved a Rs 2,817-crore Digital Agriculture Mission to create Digital Public Infrastructure (DPI) in the agriculture sector. This mission includes AgriStack, Krishi Decision Support System (DSS), and Soil Profile Maps. 
+
+AgriStack will create digital identities for farmers, linking land, livestock, crops sown, and demographics.  The Crop Sown Registry will record crop information through mobile-based surveys, while detailed Soil Profile Maps will improve crop yield estimation. The DSS will utilize geospatial data for crop mapping, drought/flood monitoring, and yield assessment for crop insurance.
+
+
+The mission aims to improve data accuracy for agricultural production estimates, enabling efficient service delivery like MSP-based procurement, crop insurance, and credit facilities. It also seeks to facilitate crop diversification and optimized fertilizer use.
+
 Mon, 02 Sep 2024 12:58:29 +0000
 ### [Suspected Russian spy whale found dead in Norway: story of Hvaldimir, other spy animals](https://indianexpress.com/article/explained/explained-global/russian-spy-whale-dead-norway-hvaldimir-9546485/)
 

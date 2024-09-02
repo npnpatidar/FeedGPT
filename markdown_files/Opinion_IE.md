@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 14:13:43 +0000
+### [SC’s recent verdicts on grant of bail affirm the primacy of Fundamental Rights](https://indianexpress.com/article/opinion/columns/sc-recent-verdicts-on-grant-of-bail-affirm-primacy-of-fundamental-rights-9546572/)
+
+The Supreme Court has issued recent rulings that emphasize the importance of liberty and fair treatment within the criminal justice system. In several cases, the Court reinforced the principle that bail is the rule, not the exception, and highlighted the right to a speedy trial as a fundamental right.  
+
+The Court has also scrutinized stringent penal statutes like the PMLA and NDPS Act, urging them to be interpreted in a way that respects constitutional safeguards and the presumption of innocence.  These judgments stress the paramountcy of the Constitution and the protection of individual liberties against potentially oppressive legal processes.
+
 Mon, 02 Sep 2024 12:47:08 +0000
 ### [How to raise a boy: Indian parents follow outdated gender distinctions](https://indianexpress.com/article/opinion/columns/how-to-raise-a-boy-indian-parents-outdated-gender-distinctions-9546480/)
 
