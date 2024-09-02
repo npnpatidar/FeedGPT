@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 03:22:17 +0000
+### [Supreme Court pulled up AYUSH Ministey over Rule 170 of Drugs Act. Here’s what it says](https://indianexpress.com/article/explained/explained-health/supreme-court-pulled-up-ayush-ministey-over-rule-170-of-drugs-act-heres-what-it-says-9545226/)
+
+The Supreme Court is questioning the AYUSH ministry's July 1 notification instructing state licensing authorities to ignore Rule 170 of the Drugs and Cosmetics Act. This rule, introduced in 2018, aims to prevent misleading advertisements of AYUSH products by requiring manufacturers to submit details about their products and obtain approval before advertising. The ministry's justification is based on amendments being considered in the Drugs and Magic Remedies Act, which also addresses misleading advertisements. 
+
+Rule 170 mandates that manufacturers provide evidence of safety, effectiveness, and quality, and prohibits certain types of advertisements, such as those using testimonials from celebrities or government officials or making exaggerated claims. However, the ministry's action has been criticized for potentially weakening regulations on AYUSH drug advertising.
+
 Mon, 02 Sep 2024 01:09:47 +0000
 ### [How Supreme Court has centred rights of the accused in recent PMLA cases](https://indianexpress.com/article/explained/explained-law/how-sc-has-centred-rights-of-the-accused-in-recent-pmla-cases-9545232/)
 
