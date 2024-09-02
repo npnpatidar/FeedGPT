@@ -1,3 +1,51 @@
+Mon, 2 Sep 2024 11:41:11 +0530
+### [After Mollywood MeToo, what’s the ‘casting couch’ row in Kerala Congress?](https://www.firstpost.com/explainers/casting-couch-row-kerala-congress-13810724.html)
+
+Simi Rosebell John, a senior Congress leader from Ernakulam, Kerala, was expelled from the party for alleging a "casting couch" culture within the KPCC, similar to the one in the film industry. John claimed that women leaders face exploitation and have to endure  unfair behaviours to gain opportunities. She also accused opposition leader VD Satheesan of controlling factions and bestowing preferential treatment. 
+
+The KPCC, taking the complaint filed by the Mahila Congress seriously, launched an investigation into John’s allegations, deeming her actions a serious breach of discipline. John, in turn, refuted these accusations and accused the party leadership of silencing her and creating an unsafe environment.
+
+Mon, 2 Sep 2024 11:25:53 +0530
+### [Who were 6 hostages ‘killed’ by Hamas in Gaza? Why have the deaths triggered protests in Israel?](https://www.firstpost.com/explainers/israel-hamas-war-hostages-killed-gaza-hersh-goldberg-polin-protests-benjamin-netanyahu-13810708.html)
+
+Six hostages, including Israeli American Hersh Goldberg-Polin, were found dead in an underground tunnel in Gaza.  The Israeli military claims Hamas brutally murdered them prior to IDF troops reaching the location.  
+
+The hostages, who included Eden Yerushalmi, Ori Danino, Almog Sarusi, Alexander Lobanov, and Carmel Gat, were discovered in a tunnel close to one from which a hostage was rescued earlier. 
+
+Israel states that the hostages were shot multiple times at close range.  The deaths have sparked protests in Israel, with many blaming Prime Minister Benjamin Netanyahu for not securing a hostage deal with Hamas.
+
+
+
+Hamas claims that the Israeli government bears responsibility for the deaths, stating they could have been released in a prisoner exchange.
+
+Mon, 2 Sep 2024 11:24:22 +0530
+### [What a win by far-right AfD in eastern Germany could mean for Olaf Scholz's government?](https://www.firstpost.com/explainers/what-win-by-far-right-afd-in-eastern-germany-means-for-olaf-scholz-government-13810677.html)
+
+The Alternative for Germany (AfD) has secured a historic victory in the state election of Thuringia, marking the first time a far-right party has won a state election in post-World War II Germany. This victory comes on the heels of a strong second-place finish in neighboring Saxony. 
+
+The AfD's success is attributed to growing dissatisfaction with the national government, particularly in eastern Germany, where the party's anti-immigration stance and opposition to policies such as climate change measures have resonated with voters. 
+
+The far-right party's rise poses a significant challenge to the stability of the national coalition government led by Chancellor Scholz. Although other parties like Sahra Wagenknecht's BSW have also gained traction, the AfD's success underscores a deepening political divide in Germany.
+
+Mon, 2 Sep 2024 10:30:46 +0530
+### [Wolfing down your food? Here's why it's not good for your health](https://www.firstpost.com/health/wolfing-down-your-food-heres-why-its-not-good-for-your-health-13808836.html)
+
+Eating quickly can have several negative impacts on our health.  It can lead to excessive gas and bloating due to increased air intake and gas production.  Rushed eating also requires our stomach to produce more acid for digestion, causing discomfort and indigestion.  
+
+Moreover, quickly eating prevents our brains from receiving  fullness signals from leptin, leading to overeating. Studies link fast eating to an increased risk of cardiovascular disease, elevated triglyceride levels, and metabolic syndrome. 
+
+Slowing down and chewing thoroughly allows for proper digestion,  regulates fullness cues, and ultimately contributes to better overall health.
+
+Mon, 2 Sep 2024 10:04:10 +0530
+### [Did Netflix series ‘IC 814: The Kandahar Hijack’ incorrectly use Hindu names for hijackers? The controversy explained](https://www.firstpost.com/explainers/netflix-series-ic-814-the-kandahar-hijack-incorrectl-names-hijackers-controversy-13810676.html)
+
+The Netflix series "IC 814: The Kandahar Hijack" has sparked controversy for using Hindu names like Bhola and Shankar for the Pakistani terrorists involved in the 1999 hijacking. BJP IT cell chief Amit Malviya accuses the makers of legitimizing the terrorists' criminal intent, while historian Hindol Sengupta criticizes the show for glorifying them. 
+
+Veteran journalist Vir Sanghvi alleges that the series serves as propaganda for Pakistan's ISI and portrays a whitewashed version of the hijacking. The series' creators, however, defend the use of these names, stating they were the aliases used by the hijackers throughout the incident. They cite sources, including the author of a book on the hijacking, who corroborate this claim. 
+
+
+The Ministry of External Affairs also stated in 2000 that the hijackers were known by these aliases to the passengers.
+
 Mon, 2 Sep 2024 06:30:37 +0530
 ### [FirstUp: Israel union’s nationwide strike over Gaza hostage deal, South Africa's Ramaphosa to visit China... Top news today](https://www.firstpost.com/explainers/firstup-harris-biden-in-pittsburgh-south-africas-ramaphosa-china-visit-top-news-today-13809893.html)
 

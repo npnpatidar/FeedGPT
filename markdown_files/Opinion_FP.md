@@ -1,3 +1,10 @@
+Mon, 2 Sep 2024 10:35:54 +0530
+### [Baloch uprising: Pakistan is on the verge of implosion](https://www.firstpost.com/opinion/baloch-uprising-pakistan-is-on-the-verge-of-implosion-13810695.html)
+
+The Baloch insurgency in Pakistan is a long-standing issue stemming from the forced merger of Balochistan with Pakistan in 1948.  The Baloch people have consistently resisted Pakistani rule, facing repression, human rights abuses, and a lack of political representation. The recent attack on Pakistani infrastructure by the Baloch Liberation Army (BLA) highlights the escalating conflict and demonstrates the BLA's resolve. Pakistan's attempts to quell the insurgency through force and divide-and-rule tactics have been ineffective. 
+
+The involvement of China in the CPEC project, which passes through Balochistan, has further inflamed tensions, with Baloch people perceiving it as a threat to their natural resources. Political instability in Pakistan is compounded by protests in other regions, suggesting a potential for the country's disintegration. The rise of Dr Mahrang Baloch as a peaceful leader bolstering the Baloch nationalist movement adds another layer to the complex situation.
+
 Sun, 1 Sep 2024 16:41:58 +0530
 ### [China will have to pay the price for its overtures in Balochistan](https://www.firstpost.com/opinion/china-will-have-to-pay-the-price-for-its-overtures-in-balochistan-13810493.html)
 

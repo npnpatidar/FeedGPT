@@ -1,3 +1,16 @@
+Mon, 02 Sep 2024 10:30:12 +0530
+### [Data privacy is Signal’s edge over Telegram and Whatsapp](https://www.livemint.com/opinion/online-views/data-privacy-signal-telegram-whatsapp-end-to-end-encryption-data-security-big-tech-social-media-apps-11725220153550.html)
+
+This article compares the privacy and security features of three popular messaging apps: Signal, Telegram, and WhatsApp. 
+
+Signal is lauded for its strong end-to-end encryption (E2EE) by default for all communication, minimal data collection, and non-profit status, making it the gold standard for privacy-conscious users.
+
+Telegram, while popular due to its features like group chats and channels, offers less robust security. Its standard chats are not E2EE and rely on cloud-based encryption, making user data potentially vulnerable.  Telegram's hands-off approach to content moderation has also drawn criticism for its role in harboring illegal activities.
+
+ WhatsApp, the most widely used app, utilizes E2EE but is owned by Meta, a company known for data collection.  WhatsApp collects metadata, raising concerns about user privacy despite encrypted messages. Recent privacy policy changes further fueled these concerns.  
+
+The article concludes by emphasizing Signal's commitment to user privacy as a valuable countercultural stance in today's data-driven world.
+
 Mon, 02 Sep 2024 08:30:09 +0530
 ### [Revive public-private partnerships in infra to boost GDP growth](https://www.livemint.com/opinion/online-views/publicprivate-partnerships-indian-economy-infrastructure-gdp-growth-labour-force-participation-rate-private-investment-11725219146221.html)
 

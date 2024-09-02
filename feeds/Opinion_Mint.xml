@@ -5,6 +5,23 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Data privacy is Signal’s edge over Telegram and Whatsapp</title>
+			<link>https://www.livemint.com/opinion/online-views/data-privacy-signal-telegram-whatsapp-end-to-end-encryption-data-security-big-tech-social-media-apps-11725220153550.html</link>
+			<description>This article compares the privacy and security features of three popular messaging apps: Signal, Telegram, and WhatsApp. 
+
+Signal is lauded for its strong end-to-end encryption (E2EE) by default for all communication, minimal data collection, and non-profit status, making it the gold standard for privacy-conscious users.
+
+Telegram, while popular due to its features like group chats and channels, offers less robust security. Its standard chats are not E2EE and rely on cloud-based encryption, making user data potentially vulnerable.  Telegram's hands-off approach to content moderation has also drawn criticism for its role in harboring illegal activities.
+
+ WhatsApp, the most widely used app, utilizes E2EE but is owned by Meta, a company known for data collection.  WhatsApp collects metadata, raising concerns about user privacy despite encrypted messages. Recent privacy policy changes further fueled these concerns.  
+
+The article concludes by emphasizing Signal's commitment to user privacy as a valuable countercultural stance in today's data-driven world.</description>
+			<pubDate>Mon, 02 Sep 2024 10:30:12 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/01/1600x900/2-0-1244300858-WhatsApp2-0_1679615646812_1725220328299.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/01/1600x900/2-0-1244300858-WhatsApp2-0_1679615646812_1725220328299.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Revive public-private partnerships in infra to boost GDP growth</title>
 			<link>https://www.livemint.com/opinion/online-views/publicprivate-partnerships-indian-economy-infrastructure-gdp-growth-labour-force-participation-rate-private-investment-11725219146221.html</link>
 			<description>While India's economic growth remains strong with a high share of gross fixed capital formation in GDP, there is a need to look beyond simply being the world's fastest growing major economy.  Recent growth rates, though impressive, may be deceptive and require a shift in focus towards sustained double-digit growth.  Maximizing India's demographic dividend, which is beginning to decline, is crucial.  
