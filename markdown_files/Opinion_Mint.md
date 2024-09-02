@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 07:00:05 +0530
+### [Mint Quick Edit | So, will UPS sign up private sector folks too?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-ups-private-sector-old-pension-scheme-government-employees-national-pension-scheme-11725218743864.html)
+
+The government's new Unified Pension Scheme (UPS) offers a guaranteed pension of half an employee's average basic pay for those with 25 years or more of service. While billed as an improvement to the National Pension System (NPS),  the UPS is exclusive to central government employees, raising questions about its parity with the old pension scheme (OPS). 
+
+Proponents argue the UPS's funded nature will limit its budgetary impact. However, critics point out that excluding private sector employees creates a disparity, especially given that the stock market's performance, which influences both the UPS corpus and the NPS, could negatively affect retirement plans for the majority of Indian workers, creating pressure for better old-age support.
+
 Sun, 01 Sep 2024 16:00:04 +0530
 ### [Would a more diverse monetary policy panel spell better RBI rate calls?](https://www.livemint.com/opinion/online-views/rbi-monetary-policy-committee-inflation-rate-hikes-economists-monetary-policy-repo-rate-indian-economy-11725178071351.html)
 

@@ -1,3 +1,8 @@
+Mon, 2 Sep 2024 06:30:37 +0530
+### [FirstUp: Israel union’s nationwide strike over Gaza hostage deal, South Africa's Ramaphosa to visit China... Top news today](https://www.firstpost.com/explainers/firstup-harris-biden-in-pittsburgh-south-africas-ramaphosa-china-visit-top-news-today-13809893.html)
+
+Israel’s main union, Histadrut, has called for a nationwide general strike following the recovery of six hostages’ bodies from Gaza. This comes amid widespread protests against Prime Minister Benjamin Netanyahu's handling of the situation after Hamas’s October 7 attack on Israel, which resulted in the abduction of 251 people, 97 of whom remain captive.  Biden and Harris will campaign in Pittsburgh on Labour Day. South African President Cyril Ramaphosa will visit China for a four-day trip before the Forum on China-Africa Cooperation summit. In India, the West Bengal Assembly will convene to discuss a bill proposing capital punishment for convicts in rape and murder cases.
+
 Sun, 1 Sep 2024 17:56:59 +0530
 ### [Tall people are at a higher risk of developing cancer. Here's why](https://www.firstpost.com/explainers/tall-people-are-at-a-higher-risk-of-developing-cancer-heres-why-13809199.html)
 

@@ -1,3 +1,23 @@
+Mon, 02 Sep 2024 01:09:47 +0000
+### [How Supreme Court has centred rights of the accused in recent PMLA cases](https://indianexpress.com/article/explained/explained-law/how-sc-has-centred-rights-of-the-accused-in-recent-pmla-cases-9545232/)
+
+The Supreme Court has issued several rulings impacting the Prevention of Money Laundering Act (PMLA), particularly regarding arrests, bail, and confession rights. 
+
+The court has clarified that the grounds for arrest under PMLA must be provided in writing to the accused. It has also emphasized the application of Section 436A of the Code of Criminal Procedure for bail in PMLA cases, considering the length of pre-trial detention.
+
+In recent judgments, the court has relaxed the stringent "twin conditions" for bail in PMLA cases for individuals facing prolonged pre-trial incarceration. It has also affirmed the exception for women under Section 45 of the PMLA, granting bail to BRS leader Kavitha while rejecting the High Court's reasoning based on her social standing.
+
+Finally, the court has addressed the admissibility of confessions made to ED officers, ruling that such confessions, obtained under custodial interrogation, may violate the right against self-incrimination. Furthermore, the court has referred the issue of "need and necessity to arrest" under PMLA to a larger bench for consideration.
+
+Mon, 02 Sep 2024 00:57:17 +0000
+### [Why rice-wheat need to be de-hyphenated](https://indianexpress.com/article/explained/explained-economics/why-rice-wheat-need-to-be-de-hyphenated-9545216/)
+
+While India typically considers wheat and rice as a combined surplus issue, their current situations differ greatly. Rice production exceeds domestic consumption, with record exports and mounting stockpiles.  
+
+Conversely, wheat faces export decline due to reduced production and a government ban. This shortage is attributed to climate change impacting wheat cultivation, coupled with rising consumption, particularly in processed forms.  
+
+Experts predict India may become a wheat importer in the near term. In contrast, rice surplus calls for export liberalization and removal of existing restrictions to prevent oversupply. Treating these grains separately is crucial as their challenges and future trajectories diverge.
+
 Sun, 01 Sep 2024 22:50:35 +0000
 ### [How Indians stand little chance of asylum but still manage to stay on](https://indianexpress.com/article/explained/how-indians-stand-little-chance-of-asylum-but-still-manage-to-stay-on-9545276/)
 
