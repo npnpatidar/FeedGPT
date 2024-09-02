@@ -1,3 +1,14 @@
+Mon, 02 Sep 2024 16:00:00 +0530
+### [Smart industrial cities can propel India towards its export targets](https://www.livemint.com/opinion/online-views/industrial-corridor-export-manufacturing-sector-job-creation-foreign-investment-domestic-production-employment-11725222748739.html)
+
+India's government has announced plans to develop 12 smart industrial cities under the National Industrial Corridor Development Programme (NICDP). These cities, strategically located across six industrial corridors, aim to boost India's manufacturing sector,  increase exports, and create employment opportunities.  
+
+The project, with a ₹28,600 crore budget, focuses on sectors with high export potential like electronics, pharmaceuticals, and textiles.  India's target is to reach  $1 trillion in merchandise exports by 2030, and these cities are designed to support this ambitious goal.   
+
+Sustainability is a key aspect of this initiative, incorporating circular economy principles and eco-friendly features such as renewable energy and efficient waste management. This aligns with India's commitment to achieving net-zero carbon emissions by 2070. 
+
+Public-private partnerships are encouraged to accelerate the development of these cities, with infrastructure improvements playing a crucial role in attracting businesses and skilled workers.  The government hopes these smart industrial cities will  transform India's manufacturing landscape, making it a more competitive player in the global economy.
+
 Mon, 02 Sep 2024 15:00:17 +0530
 ### [Global heat: Worry about health, not just death tolls and financial losses](https://www.livemint.com/opinion/online-views/climate-change-heatstroke-deaths-extreme-heat-kidney-failure-miscarriages-heatwave-mental-health-carbon-emission-11725221896558.html)
 

@@ -1,3 +1,32 @@
+Mon, 2 Sep 2024 17:35:41 +0530
+### [Urine-soaked teddy, bursting firecrackers: How UP’s Bahraich is trying to hunt down man-eating wolves who’ve killed 7 children](https://www.firstpost.com/explainers/uttar-pradesh-bahraich-wolf-attacks-track-down-methods-13810879.html)
+
+A series of deadly wolf attacks in Bahraich, Uttar Pradesh, has claimed eight lives, including seven children. The Uttar Pradesh government has launched 'Operation Bhediya' to capture the responsible wolves, with forest officials capturing four of the six wolves involved. Innovative tactics are being employed, such as using colourful teddy dolls soaked in children's urine as bait to lure the wolves into traps. 
+
+Additionally, elephant dung is being burned to deter wolves from populated areas. A specialized task force comprising forest, police, and fire departments is tracking the wolves using thermal drones and CCTV cameras. The situation has triggered panic in neighboring Bihar, but experts criticize media sensationalization of the attacks and advise villagers to be vigilant and take precautions.
+
+Mon, 2 Sep 2024 17:06:03 +0530
+### [‘How can house be demolished’: What is ‘bulldozer justice’ that Supreme Court has come down on?](https://www.firstpost.com/explainers/bulldozer-justice-supreme-court-criticism-explained-13810871.html)
+
+The Supreme Court of India has criticized the practice of 'bulldozer justice,' where properties of accused individuals are demolished.  The court emphasized that even convicted individuals cannot have their houses demolished without following proper legal procedures. It stressed the need for guidelines to ensure that concerns regarding this practice are addressed. 
+
+While the court acknowledged that illegal constructions should be removed, it clarified that there should be due process and no blanket demolishing of properties solely based on accusations. 
+
+
+
+'Bulldozer justice' has been used in several states, notably Uttar Pradesh, following claims of criminal activity or communal violence. This practice has drawn criticism from legal experts and human rights organizations, who argue it violates the principles of natural justice and punishes families for the alleged actions of one individual.
+
+Mon, 2 Sep 2024 16:24:26 +0530
+### [Could Nasa's DART mission create the first human-made meteor shower?](https://www.firstpost.com/explainers/could-nasa-dart-mission-create-the-first-human-made-meteor-shower-13810837.html)
+
+NASA's DART mission, which impacted the asteroid Dimorphos in 2022, may create the first human-made meteor shower called the Dimorphids.  
+
+Debris from the collision, estimated at over 2 million pounds, could reach Earth and Mars within the next decade.  While not posing a risk to Earth, these fragments could create a faint meteor shower, primarily visible from the southern hemisphere around May. 
+
+Scientists used data from the LICIACube satellite to simulate the debris trajectories.
+
+ The European Space Agency's Hera mission, launching in October, will further investigate the DART impact and the resulting debris cloud.
+
 Mon, 2 Sep 2024 15:38:58 +0530
 ### [Quicksplained: What's the She-Box portal Centre launched to address sexual harassment at the workplace?](https://www.firstpost.com/explainers/quicksplained-shebox-portal-sexual-harassment-at-workplace-13810817.html)
 

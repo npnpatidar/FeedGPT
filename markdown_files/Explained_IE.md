@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 10:05:58 +0000
+### [Hayao Miyazaki wins Magsaysay Award: Why his animated films resonate with audiences across ages](https://indianexpress.com/article/explained/explained-culture/hayao-miyazaki-magsaysay-award-ghibli-9546235/)
+
+Hayao Miyazaki, co-founder of Studio Ghibli, has been awarded the 2024 Ramon Magsaysay Award for his contributions to animation. The award citation highlights Miyazaki's films as works that deeply understand the human condition and encourage reflection.  
+
+Miyazaki, known for masterpieces like "My Neighbor Totoro" and "Spirited Away,"  has produced visually stunning and thematically rich films. His work often explores pacifism, environmentalism, and strong female characters, drawing inspiration from his personal experiences and Japanese folklore. Miyazaki's films are celebrated not only for their commercial success but also for their enduring impact on audiences and their depiction of universal human experiences.
+
 Mon, 02 Sep 2024 03:22:17 +0000
 ### [Supreme Court pulled up AYUSH Ministey over Rule 170 of Drugs Act. Here’s what it says](https://indianexpress.com/article/explained/explained-health/supreme-court-pulled-up-ayush-ministey-over-rule-170-of-drugs-act-heres-what-it-says-9545226/)
 
