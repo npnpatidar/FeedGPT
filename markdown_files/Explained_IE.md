@@ -1,3 +1,10 @@
+Sun, 01 Sep 2024 22:50:35 +0000
+### [How Indians stand little chance of asylum but still manage to stay on](https://indianexpress.com/article/explained/how-indians-stand-little-chance-of-asylum-but-still-manage-to-stay-on-9545276/)
+
+The increasing number of Indian asylum seekers and walk-ins in the US and UK is straining immigration systems already burdened with backlogs. While the success rate for Indian asylum seekers is low in both countries, lengthy legal processes often allow them to remain.
+
+In the UK, Indians have the lowest chance of securing asylum compared to other nationalities. Even when denied, appeals can take years, further delaying removals. The US, on the other hand, sees a rise in defensive asylum applications from Indians, though the success rate remains below 15%. Backlogs in immigration courts contribute to lengthy processing times, offering a window for migrants to work and potentially become eligible for amnesty programs.  Several factors contribute to this trend, including perceived religious and political persecution in India, along with the allure of economic opportunities in Western countries.
+
 Sun, 01 Sep 2024 13:56:48 +0000
 ### [How the Titanic wreckage was discovered, 73 years after its sinking](https://indianexpress.com/article/explained/explained-history/explained-ballard-titanic-wreckage-1985-discovered-9544964/)
 
