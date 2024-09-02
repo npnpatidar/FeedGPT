@@ -1,3 +1,14 @@
+Mon, 02 Sep 2024 12:30:14 +0530
+### [Ajit Ranade: A truly secure nest egg is one that’s fully funded](https://www.livemint.com/opinion/online-views/ajit-ranade-unified-pension-scheme-retirement-planning-old-pension-scheme-personal-finance-national-pension-scheme-11725220619011.html)
+
+The Indian government has announced changes to the National Pension System (NPS), increasing the government's contribution from 14% to 18.5% of an employee's basic pay. This new scheme, called the Unified Pension Scheme (UPS), guarantees retirees 50% of their average salary in the year before retirement, similar to the old Old Pension Scheme (OPS).  
+
+While supporters see this as a  "minor tweak," many view it as a return to the principles of the OPS, which provided a guaranteed pension and shifted the financial burden from employees to the government. This change has been attributed to political pressure, as several states have reintroduced OPS in response to public demands.
+
+Critics argue that the UPS puts an increasing strain on government finances, crowding out spending on essential services like healthcare and education. They also raise concerns about intergenerational equity, with future generations potentially shouldering the burden of these "assured incomes."  
+
+The author suggests that the NPS, designed to move towards a fully funded system with no government liability, could have incorporated a solution for the transitional batch of employees who were adversely affected by the switch from OPS in 2004.
+
 Mon, 02 Sep 2024 10:30:12 +0530
 ### [Data privacy is Signal’s edge over Telegram and Whatsapp](https://www.livemint.com/opinion/online-views/data-privacy-signal-telegram-whatsapp-end-to-end-encryption-data-security-big-tech-social-media-apps-11725220153550.html)
 

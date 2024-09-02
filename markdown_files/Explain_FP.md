@@ -1,3 +1,13 @@
+Mon, 2 Sep 2024 13:37:54 +0530
+### [Paris mayor wants Olympic rings to stay on Eiffel Tower. Here's why some want them gone](https://www.firstpost.com/explainers/paris-mayor-wants-olympic-rings-to-stay-on-eiffel-tower-heres-why-some-want-them-gone-13810741.html)
+
+Paris Mayor Anne Hidalgo plans to keep the Olympic rings, installed on the Eiffel Tower for the 2024 Summer Games, as a permanent fixture. Hidalgo believes this symbolizes the union of a French icon with a global one and aims to preserve the festive spirit of the Games. She intends to replace the current heavy rings with lighter ones while acknowledging the logistical challenges. The decision has sparked debate, with some Parisians praising the modern addition while others criticize defiling the historic monument. While Hidalgo views the rings as a positive legacy of the Games, the final decision on their permanence remains under discussion.
+
+Mon, 2 Sep 2024 13:32:23 +0530
+### [How the Canada border is becoming the preferred choice for Indians to illegally enter the US](https://www.firstpost.com/explainers/canada-border-indians-us-illegal-immigration-donkey-route-13810764.html)
+
+A record number of Indians, 5,152 in June alone, attempted to illegally enter the US through the Canada-US border, surpassing the number using the traditional Mexico route. This surge is attributed to Canada's accessible visa process and relatively unguarded border stretches, making it a preferable alternative to more perilous "donkey routes". While Canada offers a safer pathway, experts warn of its risks, citing the tragic case of an Indian family who perished near the border during a blizzard. Indians, mostly from Gujarat and Punjab, are seeking a better economic future in the US, driven by factors like limited job opportunities and a struggling agricultural sector in India.
+
 Mon, 2 Sep 2024 11:41:11 +0530
 ### [After Mollywood MeToo, what’s the ‘casting couch’ row in Kerala Congress?](https://www.firstpost.com/explainers/casting-couch-row-kerala-congress-13810724.html)
 
