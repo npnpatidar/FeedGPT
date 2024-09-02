@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 12:58:29 +0000
+### [Suspected Russian spy whale found dead in Norway: story of Hvaldimir, other spy animals](https://indianexpress.com/article/explained/explained-global/russian-spy-whale-dead-norway-hvaldimir-9546485/)
+
+Hvaldimir, a beluga whale known for wearing a harness with "Equipment St Petersburg" inscribed on it, was found dead in Norway. Speculation arose that Hvaldimir was a Russian spy due to the harness and camera mount. However, Marine biologist Sebastian Strand suggested that Hvaldimir had likely been held in captivity and was perhaps a therapy whale. 
+
+Hvaldimir frequently interacted with people in Norwegian coastal waters, responding to hand signals and appearing comfortable around humans.  Despite the speculation, Hvaldimir's exact purpose remains unknown.
+
 Mon, 02 Sep 2024 10:05:58 +0000
 ### [Hayao Miyazaki wins Magsaysay Award: Why his animated films resonate with audiences across ages](https://indianexpress.com/article/explained/explained-culture/hayao-miyazaki-magsaysay-award-ghibli-9546235/)
 

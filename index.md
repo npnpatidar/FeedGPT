@@ -6,11 +6,12 @@
 - [Opinion Mint](markdown_files/Opinion_Mint.md)
 - [EDITORIAL TH](markdown_files/EDITORIAL_TH.md)
 - [Column TH](markdown_files/Column_TH.md)
+- [Movies TH](markdown_files/Movies_TH.md)
 
 
 
  ************************************************* 
-Total number of new entries: 5
+Total number of new entries: 105
 Total number of summaries updated: 0
-Finished at: 2024-09-02 12:23:53
-Total time taken: 0.0 minutes 23.90390634536743 seconds
+Finished at: 2024-09-02 14:19:30
+Total time taken: 8.0 minutes 14.902747869491577 seconds

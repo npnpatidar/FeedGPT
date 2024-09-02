@@ -1,3 +1,21 @@
+Mon, 2 Sep 2024 19:06:45 +0530
+### [Why Pope Francis’ Asia visit is important for the region and the Church](https://www.firstpost.com/explainers/why-pope-francis-asia-visit-is-important-for-the-region-and-the-church-13810858.html)
+
+Pope Francis is embarking on a significant journey to Indonesia, Papua New Guinea, East Timor, and Singapore, highlighting the growing importance of Asia to the Catholic Church. This extensive trip, Pope Francis's longest to date, reflects his commitment to reaching out to the "peripheries" where Catholicism is experiencing growth and diversity. 
+
+During his visit, Pope Francis will emphasize interreligious dialogue, environmental concerns, and the promotion of peace and tolerance, particularly in Indonesia, where he will meet with Muslim leaders to celebrate religious harmony.  In Papua New Guinea, he will engage with missionaries serving remote communities. 
+
+His trip to East Timor, following in the footsteps of St. John Paul II, symbolizes the country's journey towards healing from its colonial past. In Singapore, the Pope's visit coincides with ongoing Vatican efforts to improve relations with China, acknowledging a complex geopolitical context.
+
+Mon, 2 Sep 2024 18:02:34 +0530
+### [Are you a symbiosexual? The new sexual identity that everyone's talking about](https://www.firstpost.com/explainers/what-is-symbiosexual-new-sexual-identity-13810901.html)
+
+A new study published in the Archives of Sexual Behaviour explores symbiosexuality, a phenomenon where individuals are attracted to couples rather than single people.  The study, conducted at Seattle University,  found that people who identify as symbiosexuals are drawn to the energy and dynamics within existing relationships.
+
+Participants in the study described a genuine desire for the "whole" of the relationship, seeking validation and intimacy from multiple partners.  They tend to be extroverted and less prone to jealousy. 
+
+Symbiosexuality, distinguished from polyamory, values the unique dynamics of each relationship.  Further research is underway to understand the mental health implications and relationship satisfaction associated with this evolving sexual identity.  Researchers hope to reduce stigma and expand the understanding of desire within sexuality studies.
+
 Mon, 2 Sep 2024 17:35:41 +0530
 ### [Urine-soaked teddy, bursting firecrackers: How UP’s Bahraich is trying to hunt down man-eating wolves who’ve killed 7 children](https://www.firstpost.com/explainers/uttar-pradesh-bahraich-wolf-attacks-track-down-methods-13810879.html)
 

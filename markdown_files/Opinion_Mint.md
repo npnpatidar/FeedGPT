@@ -1,3 +1,12 @@
+Mon, 02 Sep 2024 17:54:04 +0530
+### [A time to choose between growth and expansionism](https://www.livemint.com/opinion/columns/a-time-to-choose-between-growth-and-expansionism-column-opinion-11725272968684.html)
+
+The period between 1991 and 2019 witnessed a relative global peace, attributed to Western dominance and a focus on alleviating poverty.  Landmark attacks like 9/11 shifted the geopolitical landscape, leading to the US-led wars in Afghanistan, marked by ethical concerns and mistrust.  
+
+The early 21st century saw the rise of assertive powers like Russia and China, engaging in conflicts and territorial disputes. This escalation has resulted in widespread global instability, with conflicts intensifying in Ukraine, Israel-Palestine, and the Middle East. 
+
+The UN Security Council, plagued by veto powers, has become ineffective in addressing these crises. Calls for reform highlight the need to prioritize peace and security in the face of rising global tensions and the potential for economic disruption.
+
 Mon, 02 Sep 2024 16:00:00 +0530
 ### [Smart industrial cities can propel India towards its export targets](https://www.livemint.com/opinion/online-views/industrial-corridor-export-manufacturing-sector-job-creation-foreign-investment-domestic-production-employment-11725222748739.html)
 

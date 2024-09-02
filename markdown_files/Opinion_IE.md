@@ -1,3 +1,10 @@
+Mon, 02 Sep 2024 12:47:08 +0000
+### [How to raise a boy: Indian parents follow outdated gender distinctions](https://indianexpress.com/article/opinion/columns/how-to-raise-a-boy-indian-parents-outdated-gender-distinctions-9546480/)
+
+The article discusses the urgent need for mothers to guide their sons towards a more respectful and compassionate approach towards women. It highlights the alarming statistics of sexual harassment and violence against women in India, attributing it to ingrained societal norms of masculinity that often devalue women and promote entitlement. 
+
+The author emphasizes the importance of challenging traditional gender roles and breaking down harmful stereotypes, encouraging open conversations and critical reflection on societal issues. By acknowledging and discussing problematic aspects of Indian society, such as historical gender inequality, parents can equip their sons with tools to envision a different, more equitable future. Sharing personal family stories and engaging with media that portrays complex realities can spark meaningful dialogues and foster empathy.
+
 Mon, 02 Sep 2024 08:30:51 +0000
 ### [What happens when AI replaces human creativity?](https://indianexpress.com/article/opinion/columns/what-happens-when-ai-replaces-human-creativity-9546125/)
 
