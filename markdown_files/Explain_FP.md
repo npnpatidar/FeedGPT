@@ -1,3 +1,25 @@
+Tue, 3 Sep 2024 11:16:38 +0530
+### [Putin in Mongolia amid ICC arrest warrant: Is the country defying international law?](https://www.firstpost.com/explainers/russian-president-vladimir-putin-visits-mongolia-amid-icc-arrest-warrant-is-the-country-defying-international-law-13811066.html)
+
+Vladimir Putin's visit to Mongolia, a country legally obligated to arrest him due to an active ICC warrant for war crimes, has sparked international controversy. 
+
+While Ukraine and international organizations are urging Mongolia to uphold its obligations, Russia maintains that all aspects of the visit have been discussed and agreed upon. 
+
+Mongolia's critical dependence on Russia for energy and infrastructure complicates its position, forcing it to balance international legal commitments with its own national interests.  The visit coincides with several key events, including the anniversary of a historical Soviet-Mongolian victory and the potential expansion of a Russian gas pipeline through Mongolia, highlighting the country's strategic importance in Russia's energy plans. 
+
+
+
+The situation presents a dilemma for Mongolia, which is trying to maintain its image as a neutral mediator while navigating the complex geopolitical landscape of its powerful neighbors.
+
+Tue, 3 Sep 2024 10:11:05 +0530
+### [Will Israel’s biggest protests mark the end of Benjamin Netanyahu’s rule?](https://www.firstpost.com/explainers/israel-protests-strike-benjamin-netanyahu-rule-future-13811077.html)
+
+Massive protests erupted in Israel following the recovery of six hostage bodies from Gaza.  The protesters, angered by the prime minister's handling of the situation, blame Netanyahu for the deaths and demand his resignation.
+
+A general strike called by the Histadrut trade union brought the country to a standstill for several hours.  Demonstrators gathered outside Netanyahu's home and the US embassy, chanting slogans and holding signs calling for his removal. 
+
+While Netanyahu maintains his commitment to ending Hamas's threat and asserts control over the Philadelphi Corridor, he faces growing criticism from both the opposition and within his own cabinet. Experts believe that  Netanyahu's  stubborn stance stems from fear of losing his coalition partners and concerns about his legacy.
+
 Tue, 3 Sep 2024 08:24:27 +0530
 ### [PM Modi's trip to Brunei: What we know about the country and why it matters to India](https://www.firstpost.com/explainers/pm-modi-brunei-country-significance-india-13810944.html)
 

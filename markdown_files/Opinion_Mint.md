@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 10:30:15 +0530
+### ['Angry Young Men': A documentary that entertains but doesn’t elucidate](https://www.livemint.com/opinion/online-views/angry-young-men-documentary-salim-khan-javed-akhtar-script-writers-cinema-deewar-sholay-11725306591555.html)
+
+"Angry Young Men," a documentary about the legendary screenwriter duo Salim Khan and Javed Akhtar, offers a heartwarming look into their lives and careers.  The film, produced primarily by their families, provides nostalgic glimpses into the 1970s Bollywood scene, particularly through their iconic "angry young man" characters.  While it touches on key influences and inspirations behind their works like "Deewar" and "Sholay," it lacks in-depth analysis of their collaboration and the evolution of their writing style.  The documentary omits a thorough exploration of how the "angry young man" trope emerged and their individual post-collaboration careers. Despite its shortcomings, the film, primarily through Honey Irani’s recollections, provides entertaining anecdotes and insights into the lives of these cinematic titans.
+
 Tue, 03 Sep 2024 08:30:10 +0530
 ### [Audit quality is a bigger concern than market concentration](https://www.livemint.com/opinion/online-views/nfra-lead-auditors-audit-quality-icai-auditors-subsidiaries-promoters-kpmg-pwc-deloitte-ey-market-concentration-11725305935727.html)
 

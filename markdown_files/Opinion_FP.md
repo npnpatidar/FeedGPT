@@ -1,3 +1,15 @@
+Tue, 3 Sep 2024 11:20:15 +0530
+### [Head-on | How US deep state defies the White House](https://www.firstpost.com/opinion/head-on-how-us-deep-state-defies-the-white-house-13811117.html)
+
+The article discusses potential outcomes of the upcoming US presidential election and its implications for global policy.  It argues that regardless of whether Kamala Harris or Donald Trump wins, the "deep state" within the Pentagon and State Department will continue to hold sway over foreign policy decisions.  
+
+The author highlights the deep state's focus on weakening Russia, challenging China, and supporting Israel, citing examples of defiance towards presidential directives.  
+
+The article analyzes the electoral landscape and suggests that Pennsylvania could be a key battleground state, potentially determining the winner. It also touches upon the selection of Tim Walz as Harris' running mate, speculating on the motivations behind choosing him over Josh Shapiro. 
+
+
+The concluding paragraph reiterates the influence of the "deep state" on global policies, regardless of the presidency.
+
 Mon, 2 Sep 2024 19:41:03 +0530
 ### [Colombo Security Conclave: Amid growing Chinese challenge, India renews its commitment to regional security](https://www.firstpost.com/opinion/colombo-security-conclave-amid-growing-chinese-challenge-india-renews-its-commitment-to-regional-security-13810945.html)
 

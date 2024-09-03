@@ -1,3 +1,15 @@
+Tue, 03 Sep 2024 10:54:05 +0530
+### [‘Concord’ game review: Is This Guardians of the Galaxy-inspired game worth your money?](https://www.thehindu.com/entertainment/reviews/concord-game-review/article68595852.ece)
+
+Concord, despite its promising qualities, has been met with disappointing sales, making it a potential flop. The game offers a fun and engaging team shooter experience with a diverse roster of characters and well-designed levels.  The  story, borrowing elements from Guardians of the Galaxy and featuring compelling voice acting and character design,  feels  incongruous with the repetitive mission structure. While the gameplay is enjoyable, the lack of a clear narrative purpose for the battles leaves players wanting more. With a dwindling player base, Concord's future seems uncertain unless it transitions to a free-to-play model.
+
+Tue, 03 Sep 2024 10:53:39 +0530
+### [‘Star Wars Outlaws’ game review: Ubisoft’s bold comeback with tight gunplay and rhythmic lockpicking](https://www.thehindu.com/entertainment/reviews/star-wars-outlaws-game-review/article68595816.ece)
+
+Star Wars Outlaws takes place between The Empire Strikes Back and Return of the Jedi, where players control Kay Vess, a thief who gets caught up with a notorious crime boss. While the story is engaging, the characters lack depth. 
+
+The game offers large planetary environments to explore, but doesn't feature true open-world mechanics.  Gunplay is solid, but Kay's weapon variety is limited. The standout feature is the rhythmic lockpicking mini-game, which is challenging and enjoyable.  The graphics are impressive, with good voice acting and facial animations, although there are some launch bugs. Overall, Outlaws delivers on its promise of a Star Wars adventure, despite some flaws.
+
 Mon, 02 Sep 2024 17:30:09 +0530
 ### [SL Naanu’s Sikkal Sivaraman takes a light-hearted look at life](https://www.thehindu.com/entertainment/theatre/how-does-sl-naanus-sikkal-sivaraman-takes-a-light-hearted-look-at-life/article68561737.ece)
 
