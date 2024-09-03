@@ -1,3 +1,16 @@
+Tue, 03 Sep 2024 04:06:14 +0000
+### [As RSS wraps up baithak in Kerala, all about Sangh’s four annual meetings](https://indianexpress.com/article/explained/as-rss-wraps-up-baithak-in-kerala-all-about-sanghs-four-annual-meetings-9547130/)
+
+The Rashtriya Swayamsevak Sangh (RSS) hinted at its support for a caste census, emphasizing its usefulness for welfare activities but cautioning against political exploitation. The Sangh's  three-day Akhil Bharatiya Samanvay Baithak, focused on coordination with its various affiliated organizations, was held in Kerala. 
+Delegates from organizations like the BJP, Vishwa Hindu Parishad (VHP), and others discussed organizational issues and future strategies. The RSS highlighted its active shakha network and annual training camps, emphasizing its commitment to organizational growth.
+
+Tue, 03 Sep 2024 02:54:04 +0000
+### [Why Union Minister Dharmendra Pradhan wants to change name of historic Ravenshaw College in Cuttack](https://indianexpress.com/article/explained/why-union-minister-dharmendra-pradhan-wants-to-change-name-of-historic-ravenshaw-college-in-cuttack-9547121/)
+
+There is a debate surrounding the renaming of Ravenshaw University in Cuttack.  Union Education Minister Dharmendra Pradhan supports the change due to the university's namesake, Thomas Edward Ravenshaw's, role during the devastating 1866 famine in Odisha.  
+
+Opponents of the renaming argue that Ravenshaw contributed to the growth of higher education and the Odia language in the region. They point to his support for establishing a degree college in Odisha, which ultimately led to the foundation of Ravenshaw College.  The college, established in 1868, has a rich history and produced many influential Odia personalities across various fields.
+
 Tue, 03 Sep 2024 02:30:17 +0000
 ### [As the war in Sudan marks 500 days, what is the situation in the country?](https://indianexpress.com/article/explained/explained-global/war-sudan-500-days-situation-9546788/)
 

@@ -1,3 +1,16 @@
+Tue, 03 Sep 2024 08:30:10 +0530
+### [Audit quality is a bigger concern than market concentration](https://www.livemint.com/opinion/online-views/nfra-lead-auditors-audit-quality-icai-auditors-subsidiaries-promoters-kpmg-pwc-deloitte-ey-market-concentration-11725305935727.html)
+
+The National Financial Reporting Authority (NFRA) proposes revising accounting standard SA600 to hold parent company auditors responsible for subsidiary audits, aiming to enhance accountability and minimize governance lapses. 
+
+The Institute of Chartered Accountants of India (ICAI) expressed concerns about this proposal, fearing it would weaken smaller audit firms and concentrate power within the "Big Four" accounting firms.
+
+The ICAI argues that individual auditors, regardless of firm size, possess equal qualifications and that a hierarchical structure would be antithetical to the profession's flat architecture.
+
+However, proponents of the change highlight the need to improve audit quality and investor confidence, noting that split assignments have previously allowed for unnoticed financial irregularities.
+
+While acknowledging the concerns of smaller firms, the need to align Indian auditing practices with global standards and restore public trust in the profession is emphasized. The ICAI is encouraged to work with the NFRA to find a solution that balances efficiency and protects the interests of all stakeholders.
+
 Tue, 03 Sep 2024 07:00:06 +0530
 ### [Mint Quick Edit | Twitter’s dead, long live Twitter!](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-twitter-elon-musk-x-rebranding-tweeting-social-media-brand-value-microblogging-11725305413597.html)
 

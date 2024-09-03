@@ -1,3 +1,10 @@
+Tue, 3 Sep 2024 08:24:27 +0530
+### [PM Modi's trip to Brunei: What we know about the country and why it matters to India](https://www.firstpost.com/explainers/pm-modi-brunei-country-significance-india-13810944.html)
+
+Brunei, a small Southeast Asian nation on Borneo island, is marking 40 years of diplomatic ties with India. Prime Minister Modi's visit is the first by an Indian premier. Brunei is a wealthy country with a predominantly Malay population and a constitutional monarchy led by Sultan Bolkiah, one of the world's longest-reigning monarchs.  
+
+Though small, Brunei matters to India due to its strategic location and its role in India's "Act East" policy and Indo-Pacific vision. India and Brunei share strong trade ties, and the visit aims to deepen cooperation across sectors including defense, energy, and technology.
+
 Tue, 3 Sep 2024 07:28:58 +0530
 ### [FirstUp: PM Modi in Brunei, Pope begins Asia-Pacific visit... The big news of the day](https://www.firstpost.com/explainers/firstup-pm-modi-in-brunei-pope-begins-asia-pacific-visit-the-big-news-of-the-day-13810881.html)
 
