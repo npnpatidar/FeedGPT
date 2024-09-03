@@ -1,3 +1,8 @@
+Tue, 3 Sep 2024 07:28:58 +0530
+### [FirstUp: PM Modi in Brunei, Pope begins Asia-Pacific visit... The big news of the day](https://www.firstpost.com/explainers/firstup-pm-modi-in-brunei-pope-begins-asia-pacific-visit-the-big-news-of-the-day-13810881.html)
+
+Prime Minister Narendra Modi will begin the first ever bilateral visit to Brunei by an Indian Prime Minister. Pope Francis will embark on a 12-day trip to Southeast Asia and Oceania, visiting Indonesia, Papua New Guinea, East Timor, and Singapore. Delhi Chief Minister Arvind Kejriwal's judicial custody in a corruption case is set to end, and he is expected to be brought to court. The West Bengal Cabinet will table an anti-rape bill, 'Aparajita Women and Child (West Bengal Criminal Laws Amendment) Bill 2024',  following the  rape and murder of a trainee doctor in Kolkata.
+
 Mon, 2 Sep 2024 21:13:44 +0530
 ### [Firing outside AP Dhillon's Canada home: Who is he? What's his connection to Salman Khan?](https://www.firstpost.com/explainers/firing-outside-ap-dhillons-canada-home-who-is-he-whats-his-connection-to-salman-khan-13810969.html)
 

@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 01:53:13 +0000
+### [Express View on export ban on food commodities: Monsoon comfort](https://indianexpress.com/article/opinion/editorials/express-view-on-export-ban-on-food-commodities-monsoon-comfort-9546930/)
+
+India's robust monsoon has led the government to ease restrictions on certain food commodities. The ban on sugar mills producing ethanol directly from cane has been lifted, and rice can be procured from government stocks for ethanol production.  With bumper crops expected, the government is considering relaxing the ban on white non-basmati rice exports and removing restrictions on sugar exports. Lifting these curbs is crucial to avoid future supply gluts and ensure farmers receive fair prices.
+
 Mon, 02 Sep 2024 14:13:43 +0000
 ### [SC’s recent verdicts on grant of bail affirm the primacy of Fundamental Rights](https://indianexpress.com/article/opinion/columns/sc-recent-verdicts-on-grant-of-bail-affirm-primacy-of-fundamental-rights-9546572/)
 

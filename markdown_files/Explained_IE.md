@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 02:30:17 +0000
+### [As the war in Sudan marks 500 days, what is the situation in the country?](https://indianexpress.com/article/explained/explained-global/war-sudan-500-days-situation-9546788/)
+
+The war in Sudan, which began in April 2023, has had a devastating impact on the country and its people.  Over 15,000 people have died, with some estimates reaching 40,000.  Millions face acute hunger, including over 755,000 on the brink of famine.  Ten million people are internally displaced, and over two million have fled to neighboring countries.  Without a resolution to the conflict, experts warn that millions could die of starvation by 2027.
+
 Mon, 02 Sep 2024 14:18:54 +0000
 ### [500 days of the Sudan war: What is happening — and what happens next?](https://indianexpress.com/article/explained/explained-global/sudan-war-9546581/)
 

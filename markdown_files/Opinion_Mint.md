@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 07:00:06 +0530
+### [Mint Quick Edit | Twitter’s dead, long live Twitter!](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-twitter-elon-musk-x-rebranding-tweeting-social-media-brand-value-microblogging-11725305413597.html)
+
+Elon Musk's rebranding of Twitter to X has been seen as a failure, with the original name still widely used, including by Musk himself.  The name "Twitter" effectively captured the essence of the platform, with its bird-call analogy and concise messaging. Despite Musk's desire to create a more versatile brand with "X," the original name remains deeply ingrained in public consciousness. It's argued that Musk should consider returning to the successful "Twitter" brand to regain user familiarity and loyalty.
+
 Mon, 02 Sep 2024 17:54:04 +0530
 ### [A time to choose between growth and expansionism](https://www.livemint.com/opinion/columns/a-time-to-choose-between-growth-and-expansionism-column-opinion-11725272968684.html)
 
