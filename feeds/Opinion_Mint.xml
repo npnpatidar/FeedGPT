@@ -5,6 +5,21 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Weak bank deposit growth: Beware faulty explanations</title>
+			<link>https://www.livemint.com/opinion/online-views/weak-bank-deposit-growth-rbi-scheduled-commercial-banks-banking-system-cash-reserve-ratio-bank-lending-11725309025261.html</link>
+			<description>The article analyzes the recent trend of slow deposit growth in the Indian banking system.  It suggests that attributing this to factors like investments in capital markets or household savings patterns is misleading. Instead, the article proposes examining the broader money supply (M3) and its components, such as cash in circulation, government balances with the central bank, and the balance of payments.
+
+The analysis reveals that increased cash in circulation and government balances with the RBI have acted as leakages from the banking system. However, a BoP surplus has provided an infusion.
+
+Looking at bank balance sheets, the article highlights a shift in liabilities, with deposits now comprising a smaller percentage, replaced by equity and reserves due to increased bank profitability.
+
+The article concludes that the current situation is cyclical and deposit growth is expected to normalize. It emphasizes the importance of understanding these broader money supply dynamics to analyze deposit growth trends accurately.</description>
+			<pubDate>Tue, 03 Sep 2024 16:00:04 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/02/1600x900/rbi-kTiD--621x414LiveMint_1725309433485_1725309433724.JPG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/02/1600x900/rbi-kTiD--621x414LiveMint_1725309433485_1725309433724.JPG" medium="image"></media:content>
+		</item>
+		<item>
 			<title>The end of monetary dominance in the US is not a bad thing</title>
 			<link>https://www.livemint.com/opinion/online-views/us-economy-federal-reserve-monetary-policy-inflation-fiscal-policy-central-bank-independence-unemployment-labour-market-11725308465215.html</link>
 			<description>The US Federal Reserve's recent success in taming inflation might be a temporary peak in its authority. Experts suggest the US is shifting from a "monetary dominance" to a "fiscal dominance" regime. 

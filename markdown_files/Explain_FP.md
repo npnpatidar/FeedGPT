@@ -1,3 +1,37 @@
+Tue, 3 Sep 2024 17:46:03 +0530
+### [Goodbye Kimchi? How climate change is affecting South Korea's cabbage quality](https://www.firstpost.com/explainers/goodbye-kimchi-how-climate-change-is-affecting-south-koreas-cabbage-quality-13811289.html)
+
+Due to climate change, rice production in South Korea is in jeopardy. Rising temperatures are impacting the quality and quantity of napa cabbage, the primary ingredient in kimchi. Cabbage thrives in cool climates, and the increasing summer heat is making it difficult to grow. Farmers are already noticing issues with cabbage quality, with the heart going bad and the root becoming mushy. Projections suggest that the area suitable for highland cabbage farming will dramatically decrease in the next few decades. 
+The government is working to mitigate the impact through climate-controlled storage and research into heat-resistant cabbage varieties. However, these solutions may come with higher costs and potentially compromise the traditional taste of kimchi. This situation has many worried about the future of this iconic Korean dish.
+
+Tue, 3 Sep 2024 17:18:43 +0530
+### [Is the ‘strange noise’ reported from Sunita Williams’ Starliner spacecraft a reason to worry?](https://www.firstpost.com/explainers/nasa-strange-noise-sunita-williams-starliner-spacecraft-13811282.html)
+
+Astronaut Barry Wilmore reported a "strange noise" coming from a Starliner spacecraft speaker while on the International Space Station (ISS).  The sound, described as a pulsing noise, was traced back to an audio configuration issue between the ISS and Starliner. NASA confirmed the sound did not impact the crew, the spacecraft, or station operations and has since stopped.  
+
+The uncrewed Starliner spacecraft is scheduled to undock from the ISS and return to Earth on September 6th.  Astronauts Sunita Williams and Barry Wilmore, initially slated to return on Starliner, will now return to Earth in a SpaceX Dragon capsule in early 2025. This change is due to a series of glitches Starliner experienced during its initial flight, requiring an extended orbital stay for analysis and troubleshooting.
+
+Tue, 3 Sep 2024 17:10:00 +0530
+### [What is phocomelia, the rare condition that Paralympics bronze medallist Sheetal Devi suffers from?](https://www.firstpost.com/health/what-is-phocomelia-the-rare-condition-that-paralympics-bronze-medallist-sheetal-devi-suffers-from-13811232.html)
+
+Seventeen-year-old Paralympic archer Sheetal Devi, who was born with phocomelia, a condition causing severe limb underdevelopment, made her Olympic debut at the Paris 2024 games.  Despite narrowly losing in the pre-quarterfinals, Devi's journey is inspiring. 
+
+Phocomelia is a rare congenital condition with the exact cause unclear, though it can be inherited or occur due to maternal use of thalidomide during pregnancy. Treatment focuses on prosthetics, therapy, and counseling. Devi, who shoots with her legs, shoulders, and jaw, discovered archery at 15 and quickly excelled with the support of her coaches. They adapted a bow to her needs, recognizing her determination and strength.  Devi's remarkable performance showcases her resilience and ability to overcome adversity.
+
+Tue, 3 Sep 2024 16:16:30 +0530
+### [Quicksplained: Inside the opulent Brunei palace, the world’s largest, which will host PM Modi](https://www.firstpost.com/explainers/quicksplained-inside-worlds-largest-brunei-palace-pm-modi-13811236.html)
+
+Prime Minister Narendra Modi is undertaking his first official visit to Brunei, meeting Sultan Hassanal Bolkiah at the Istana Nurul Iman Palace. Known as the world's largest residential palace, it was built in 1984 at a cost of $1.4 billion and boasts 1,788 rooms, 257 bathrooms, and 44 marble staircases. The palace, which translates to "Palace of the Light of Faith", features a grand banquet hall, multiple swimming pools, a stable for 200 polo ponies, and a mosque with a capacity of 1,500 worshippers.  Its architectural style blends Islamic and Malay traditions, with opulent interiors designed by Khuan Chew.
+
+Tue, 3 Sep 2024 16:03:01 +0530
+### [What is 9M370 Burevestnik, Russia’s ‘invincible’ nuclear missile, that could hit even the US?](https://www.firstpost.com/explainers/what-is-9m370-burevestnik-russia-invincible-nuclear-missile-that-could-hit-even-the-us-13811189.html)
+
+US researchers have identified a potential deployment site for Russia's 9M370 Burevestnik missile, a nuclear-powered cruise missile. 
+
+The site, near a nuclear warhead storage facility, could allow for rapid launch capabilities. The Burevestnik, also known as SSC-X-9 Skyfall, is designed to carry a nuclear warhead and has a theoretical unlimited range due to its nuclear engine.  
+
+While Russia claims the missile is "invincible," it has faced technical difficulties and accidents, including a radiation leak in 2019. Experts remain skeptical about its strategic value and raise concerns about its environmental and safety risks. Despite these challenges, the Burevestnik complicates international arms control efforts, as it is not covered by the New START treaty, which expires in 2026.
+
 Tue, 3 Sep 2024 14:23:39 +0530
 ### [Why IIT grads are forced to say yes to Rs 33,000 a month salaries](https://www.firstpost.com/explainers/iit-bombay-graduates-average-salaries-13811204.html)
 

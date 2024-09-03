@@ -1,3 +1,14 @@
+Tue, 03 Sep 2024 16:00:04 +0530
+### [Weak bank deposit growth: Beware faulty explanations](https://www.livemint.com/opinion/online-views/weak-bank-deposit-growth-rbi-scheduled-commercial-banks-banking-system-cash-reserve-ratio-bank-lending-11725309025261.html)
+
+The article analyzes the recent trend of slow deposit growth in the Indian banking system.  It suggests that attributing this to factors like investments in capital markets or household savings patterns is misleading. Instead, the article proposes examining the broader money supply (M3) and its components, such as cash in circulation, government balances with the central bank, and the balance of payments.
+
+The analysis reveals that increased cash in circulation and government balances with the RBI have acted as leakages from the banking system. However, a BoP surplus has provided an infusion.
+
+Looking at bank balance sheets, the article highlights a shift in liabilities, with deposits now comprising a smaller percentage, replaced by equity and reserves due to increased bank profitability.
+
+The article concludes that the current situation is cyclical and deposit growth is expected to normalize. It emphasizes the importance of understanding these broader money supply dynamics to analyze deposit growth trends accurately.
+
 Tue, 03 Sep 2024 15:00:02 +0530
 ### [The end of monetary dominance in the US is not a bad thing](https://www.livemint.com/opinion/online-views/us-economy-federal-reserve-monetary-policy-inflation-fiscal-policy-central-bank-independence-unemployment-labour-market-11725308465215.html)
 

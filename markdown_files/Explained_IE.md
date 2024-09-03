@@ -1,3 +1,15 @@
+Tue, 03 Sep 2024 11:53:56 +0000
+### [New study suggests existence of a dockyard at Lothal, Gujarat, during Harappan Civilisation: What are the findings?](https://indianexpress.com/article/explained/explained-sci-tech/dockyard-lothal-gujarat-9548119/)
+
+A new study suggests that a dockyard may have existed at the ancient Harappan site of Lothal in Gujarat. Researchers from IIT Gandhinagar analyzed satellite imagery and topographic maps, revealing that the Sabarmati River once flowed near Lothal, connecting it to trade routes via the Nal Sarovar wetland and the Little Rann to Dholavira. This finding supports the theory that Lothal served as a major port for trade during the Indus Valley Civilization.  
+
+The study also suggests that traders likely traveled from the Gulf of Khambhat to Lothal,  procured materials, and then transported them to Mesopotamia. This supports previous evidence suggesting foreign trade from Lothal.  The research utilized advanced technology, enabling the researchers to study ancient river channels and understand geomorphic changes over time.
+
+Tue, 03 Sep 2024 10:13:37 +0000
+### [Why is the far-right AfD party’s victory in a German regional election significant?](https://indianexpress.com/article/explained/explained-global/explained-afd-germany-significance-9547883/)
+
+Germany's Alternative for Democracy (AfD) party achieved a historic victory in the Thuringia regional elections, becoming the first far-right party to win a regional election since World War II. The AfD's success can be attributed to several factors, including its  xenophobic and anti-Muslim messaging, which resonates with some voters, particularly in economically disadvantaged regions of east Germany.  The party has also capitalized on regional economic disparities and discontent with the central government's handling of issues like inflation and fuel costs. The AfD's rise has raised concerns about the growth of extremism in Germany and its potential impact on the political landscape.
+
 Tue, 03 Sep 2024 07:13:51 +0000
 ### [Why the Brazil Supreme Court took down X, amid a judge’s feud with Elon Musk](https://indianexpress.com/article/explained/explained-global/brazil-supreme-court-ban-x-elon-9547637/)
 
