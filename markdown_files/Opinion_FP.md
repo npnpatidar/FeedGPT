@@ -1,3 +1,21 @@
+Tue, 3 Sep 2024 15:25:52 +0530
+### [900 days and not over yet: Why India is best positioned to play peacemaker in Ukraine war](https://www.firstpost.com/opinion/900-days-and-not-over-yet-why-india-is-best-positioned-to-play-peacemaker-in-ukraine-war-13811242.html)
+
+This article discusses the ongoing Russia-Ukraine war, outlining the history of the conflict, key negotiating positions of both sides, and the potential role of India as a mediator. It highlights the increasing costs of the war, the impasse in peace talks, and the different stances of NATO and the Global South. 
+
+The article mentions recent proposals for a peace summit in India, suggesting that India's neutral stance and strong relationships with both Russia and the West make it well-suited to facilitate dialogue.  It emphasizes the urgency for peace, citing the devastating human and economic consequences of the war, while acknowledging the challenges involved in reaching a negotiated settlement given the entrenched positions of both sides.
+
+Tue, 3 Sep 2024 14:26:53 +0530
+### [India’s China challenge: The stakes are higher than ever before](https://www.firstpost.com/opinion/indias-china-challenge-the-stakes-are-higher-than-ever-before-13811215.html)
+
+This article discusses the current state of relations between India and China. 
+
+ Despite recent conciliatory statements from both sides, the author highlights lingering distrust stemming from past border disputes, the 2020 Galwan clashes, and China's assertiveness in the region. 
+
+The author explores various potential scenarios, including a swift Chinese invasion, a protracted border war, or a more subtle strategy of salami-slicing incursions. 
+
+While acknowledging the relative strengthening of India's military and economic standing since 1962, the author concludes by emphasizing the complex geopolitical dynamics at play and the high stakes involved in the India-China relationship.
+
 Tue, 3 Sep 2024 11:20:15 +0530
 ### [Head-on | How US deep state defies the White House](https://www.firstpost.com/opinion/head-on-how-us-deep-state-defies-the-white-house-13811117.html)
 

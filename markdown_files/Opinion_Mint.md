@@ -1,3 +1,29 @@
+Tue, 03 Sep 2024 15:00:02 +0530
+### [The end of monetary dominance in the US is not a bad thing](https://www.livemint.com/opinion/online-views/us-economy-federal-reserve-monetary-policy-inflation-fiscal-policy-central-bank-independence-unemployment-labour-market-11725308465215.html)
+
+The US Federal Reserve's recent success in taming inflation might be a temporary peak in its authority. Experts suggest the US is shifting from a "monetary dominance" to a "fiscal dominance" regime. 
+
+This means the government's large-scale debt, rather than the Fed's interest rate adjustments, is becoming the dominant force in the economy. While this reduces the Fed's control over inflation and interest rates, the shift also brings an opportunity.
+
+The government is taking on a larger role in managing the supply side of the economy through policies aimed at boosting manufacturing, infrastructure, and housing. This could lead to healthier long-term growth.
+
+However, the effectiveness of these policies hinges on the government's ability to manage its debt and prevent a return to fiscal dominance, which would further weaken the Fed's independence.
+
+Tue, 03 Sep 2024 14:00:01 +0530
+### [Six key aspects of a carbon credits trading system that India must get right](https://www.livemint.com/opinion/online-views/carbon-credits-trading-system-decarbonization-carbon-tax-power-sector-carbon-credits-net-zero-goal-exports-cbam-11725307769817.html)
+
+A new Carbon Credit Trading Scheme (CCTS) is being implemented in India, making it part of a select group of countries using this approach to reduce emissions.  
+
+The CCTS is designed to directly manage the quantity of emissions by setting limits on what can be released per unit of output. 
+
+While a carbon tax is considered more economically efficient, a CCTS is seen as more politically acceptable as the costs are primarily borne by larger producers, who can pass them on to consumers.
+
+Key challenges in designing a successful CCTS include determining appropriate emission allowances, deciding which sectors should be included (the power sector, in particular), ensuring allowances decrease over time to meet net-zero goals, and addressing revenue generation.
+
+The system must also consider potential carbon border adjustments from the EU to ensure Indian exports remain competitive.  
+
+Finally, the CCTS will likely increase production costs in the covered sectors, requiring cost-reflective electricity tariffs, potentially with compensatory cash transfers to protect low-income households.
+
 Tue, 03 Sep 2024 12:30:17 +0530
 ### [Climate change: It’s imperative to wage an evidence-based battle](https://www.livemint.com/opinion/online-views/climate-change-carbon-emission-climate-action-greenhouse-gases-energy-climate-mitigation-net-zero-goal-niti-aayog-11725307268761.html)
 

@@ -1,3 +1,29 @@
+Tue, 3 Sep 2024 14:23:39 +0530
+### [Why IIT grads are forced to say yes to Rs 33,000 a month salaries](https://www.firstpost.com/explainers/iit-bombay-graduates-average-salaries-13811204.html)
+
+IIT-Bombay concluded its placement drive with an average annual package of Rs 23.5 lakh, a 7.7% increase from the previous year. However, the lowest package offered dropped to Rs 4 lakh, raising concerns.  
+
+Despite a 12% rise in participating companies, fewer students secured jobs this year.  Out of 2,414 registered students, only 1,475 accepted offers. The institute attributed this to students pursuing higher studies, entrepreneurship, or civil services. 
+
+While the engineering and technology sector remained the largest recruiter, the finance sector experienced a decline. Emerging fields like artificial intelligence and machine learning showed increasing interest. 
+
+
+The shift in the job market, influenced by a global economic slowdown and industry trends, led to a decrease in the median salary of IIT graduates.
+
+Tue, 3 Sep 2024 14:18:37 +0530
+### [Who is Brunei's Sultan Haji Hassanal Bolkiah, one of world's richest monarchs, who will host PM Modi?](https://www.firstpost.com/explainers/who-is-bruneis-sultan-haji-hassanal-bolkiah-one-of-worlds-richest-monarchs-who-will-welcome-pm-modi-13811198.html)
+
+Sultan Bolkiah ascended to the Brunei throne in 1967 at the age of 21, succeeding his father.  He oversaw Brunei's independence from Britain in 1984 and established the Malay Muslim Monarchy, with himself as the "defender of the faith."   Known for his immense wealth, estimated at $30 billion, Bolkiah is renowned for his extravagant car collection, extensive real estate holdings, and luxurious lifestyle, including a private zoo and a palatial residence.  While popular within Brunei, Bolkiah has faced criticism for introducing Sharia law, which includes punishments such as stoning for adultery and amputation for theft.  Despite international backlash, particularly concerning the death penalty for gay sex, Bolkiah remains a powerful figure with absolute authority over his nation.
+
+Tue, 3 Sep 2024 14:08:44 +0530
+### [The shocking case of a French man who recruited strangers to rape his wife](https://www.firstpost.com/explainers/the-shocking-case-of-a-french-man-who-recruited-strangers-to-rape-his-wife-13811128.html)
+
+Dominique Pelicot, a 72-year-old Frenchman, is on trial for orchestrating a decade-long campaign of sexual abuse against his wife, Gisèle.  Pelicot allegedly drugged his wife with sleeping pills and anti-anxiety medication, rendering her unconscious, before inviting over 70 men from an online chatroom to rape her. The assaults reportedly occurred from 2011 to 2020, at their homes in Paris and Mazan.
+
+Police discovered 20,000 images and videos of the abuse on a USB drive connected to Pelicot's computer.  Gisèle became aware of the abuse in 2020 when police informed her. 
+
+Fifty of the accused rapists are standing trial alongside Pelicot, while over 30 others remain unidentified. Pelicot faces charges for a 1991 murder and rape, which he denies.
+
 Tue, 3 Sep 2024 13:30:58 +0530
 ### [What’s the Philadelphi Corridor that Netanyahu calls 'Oxygen of Hamas'?](https://www.firstpost.com/explainers/whats-the-philadelphi-corridor-that-netanyahu-calls-oxygen-of-hamas-13811126.html)
 

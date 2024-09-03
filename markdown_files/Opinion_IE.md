@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 08:30:24 +0000
+### [Why do we watch when a Muslim man is beaten up on a train?](https://indianexpress.com/article/opinion/columns/why-do-we-watch-when-a-muslim-man-is-beaten-up-on-a-train-9547599/)
+
+A video shows an elderly Muslim man being attacked and harassed by a group of young men on a train.  The author, a young Muslim woman, expresses her outrage at the incident, which she sees as part of a larger pattern of violence against Muslims in India. She criticizes the focus on "exposure" as a solution, arguing that everyday acts of discrimination and fear also contribute to the problem. She emphasizes that Muslims should not have to hide their identities and that the responsibility lies with all citizens to challenge Islamophobia and protect vulnerable individuals.
+
 Tue, 03 Sep 2024 06:41:43 +0000
 ### [IndiGo airlines’ pink seats: Putting the onus of safety on women](https://indianexpress.com/article/opinion/columns/pink-seats-onus-safety-women-9547595/)
 
