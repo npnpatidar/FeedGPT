@@ -1,3 +1,17 @@
+Tue, 3 Sep 2024 19:15:08 +0530
+### [Can sleeping only 30 minutes a day 'double' your life?](https://www.firstpost.com/health/can-sleeping-only-30-minutes-a-day-double-your-life-13811304.html)
+
+Daisuke Hori, a 40-year-old Japanese entrepreneur, claims to function normally on only 30 minutes of sleep per day. He believes this ultra-short sleep routine, adopted 12 years ago, has significantly increased his work efficiency. Hori attributes his ability to function on minimal sleep to his training methods and lifestyle choices, such as exercising and drinking coffee before meals.  He has even established a training association to teach others how to become "ultra-short sleepers."  However, medical experts warn that chronic sleep deprivation can lead to various health problems, including memory decline, weakened immunity, and increased risk of cardiovascular diseases.
+
+Tue, 3 Sep 2024 18:02:03 +0530
+### [From Abu Dhabi to Zanzibar: How IIT is India’s new big export](https://www.firstpost.com/explainers/from-abu-dhabi-to-zanzibar-how-iit-is-indias-new-big-export-13811264.html)
+
+The Indian Institutes of Technology (IITs), often compared to MIT and Harvard of India, are expanding their reach beyond India's borders. After IIT-Madras inaugurated its campus in Zanzibar in 2023, IIT-Delhi recently opened its international campus in Abu Dhabi.  
+
+These offshore campuses aim to bolster ties between India and these countries and position them as global research and development hubs.  The expansion is part of India's "internationalization" of education strategy.  
+ 
+Apart from Abu Dhabi and Zanzibar, IITs are exploring the possibility of establishing campuses in Nepal, Saudi Arabia, Sri Lanka, Egypt, and Malaysia. The initiative reflects the growing international recognition and influence of Indian educational institutions.
+
 Tue, 3 Sep 2024 17:46:03 +0530
 ### [Goodbye Kimchi? How climate change is affecting South Korea's cabbage quality](https://www.firstpost.com/explainers/goodbye-kimchi-how-climate-change-is-affecting-south-koreas-cabbage-quality-13811289.html)
 

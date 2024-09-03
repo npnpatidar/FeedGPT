@@ -1,3 +1,21 @@
+Tue, 03 Sep 2024 12:39:53 +0000
+### [Ayatollah Khamenei signals possible negotiations with the US: A brief history of Iran-US ties](https://indianexpress.com/article/explained/everyday-explainers/ayatollah-khamenei-us-iran-history-ties-9548190/)
+
+Ayatollah Khamenei, Iran's Supreme Leader, recently suggested that engaging with the United States on nuclear cooperation might be beneficial, despite past tensions. 
+
+This comes after the collapse of the 2015 Joint Comprehensive Plan of Action (JCPOA), which had seen Iran agree to limit its nuclear program in exchange for sanctions relief. The agreement fell apart when the United States withdrew under President Trump in 2018.
+
+Relations between the two countries have been fraught for decades, marked by events like the 1953 coup in Iran, the Iran Hostage Crisis, and sanctions imposed by the US. 
+
+The recent suggestion of dialogue follows a period of heightened tensions in the Middle East, including the ongoing Israel-Hamas war. While Iran has criticized US support for Israel, Khamenei's statement indicates a potential willingness to engage with Washington on nuclear issues.
+
+Tue, 03 Sep 2024 12:25:38 +0000
+### [‘Bulldozer justice’: What do local laws in states say about demolitions?](https://indianexpress.com/article/explained/explained-law/bulldozer-justice-law-demolition-9548173/)
+
+The Supreme Court expressed concern over the demolition of homes and properties of individuals accused of crimes without due process. The court is considering nationwide guidelines on this issue following petitions challenging demolitions in Rajasthan, Madhya Pradesh, Uttar Pradesh, Delhi, and Haryana. 
+
+These cases involve demolitions following alleged crimes committed by tenants or residents, often triggering communal tensions.  The court highlighted the importance of adhering to legal procedures, including serving notices and providing opportunities for representation before taking action against property.
+
 Tue, 03 Sep 2024 11:53:56 +0000
 ### [New study suggests existence of a dockyard at Lothal, Gujarat, during Harappan Civilisation: What are the findings?](https://indianexpress.com/article/explained/explained-sci-tech/dockyard-lothal-gujarat-9548119/)
 

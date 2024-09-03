@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 13:32:45 +0000
+### [With elegance and glamour: How Deepika Padukone has shut down those who doubted her pregnancy](https://indianexpress.com/article/opinion/columns/elegance-glamour-deepika-padukone-shut-down-doubted-pregnancy-9548366/)
+
+Deepika Padukone and Ranveer Singh's recent maternity photoshoot has generated significant online buzz. Images of a radiant Padukone showcasing her baby bump, shared alongside Singh in some photographs, have garnered millions of views and sparked widespread discussion.  The photoshoot comes amidst speculation about Padukone's pregnancy, fueled by online trolls who questioned her bump's authenticity and even suggested surrogacy. Despite facing relentless negativity, Padukone and Singh chose to address the rumors head-on with the powerful images. This instance highlights the relentless scrutiny and online abuse that female celebrities face, often regarding their bodies and personal lives.  Padukone's graceful response serves as a reminder of the impact of online discourse on the mental well-being of public figures.
+
 Tue, 03 Sep 2024 08:30:24 +0000
 ### [Why do we watch when a Muslim man is beaten up on a train?](https://indianexpress.com/article/opinion/columns/why-do-we-watch-when-a-muslim-man-is-beaten-up-on-a-train-9547599/)
 
