@@ -1,3 +1,8 @@
+Tue, 03 Sep 2024 15:39:43 +0000
+### [3 things to know about Brunei Darussalam, with PM Modi’s official visit](https://indianexpress.com/article/explained/everyday-explainers/brunei-modi-sultan-significance-9548552/)
+
+Prime Minister Narendra Modi made his first-ever visit to Brunei, commemorating 40 years of diplomatic ties between India and Brunei. With a population of approximately 450,500, Brunei has a significant Indian diaspora numbering around 14,000, who have contributed to the nation's healthcare and education sectors. Brunei holds strategic importance for India within the framework of its 'Act East' policy and Indo-Pacific Vision, aiming to strengthen economic and political ties in the region.  Brunei, an ASEAN member, is a key oil and gas producer, and its location makes it crucial for countering Chinese influence in the Indo-Pacific. The Sultanate is led by Sultan Haji Hassanal Bolkiah, the world's longest-reigning monarch, known for his wealth and longevity on the throne.
+
 Tue, 03 Sep 2024 12:39:53 +0000
 ### [Ayatollah Khamenei signals possible negotiations with the US: A brief history of Iran-US ties](https://indianexpress.com/article/explained/everyday-explainers/ayatollah-khamenei-us-iran-history-ties-9548190/)
 

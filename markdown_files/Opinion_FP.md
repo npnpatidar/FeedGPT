@@ -1,3 +1,14 @@
+Tue, 3 Sep 2024 19:41:46 +0530
+### [Why India needs to prepare for 2028 and woo future American leaders to guarantee strong relations](https://www.firstpost.com/opinion/why-india-needs-to-prepare-for-2028-and-woo-future-american-leaders-to-guarantee-strong-relations-13811338.html)
+
+This article discusses the significance of the upcoming US presidential elections for India.  
+
+The author argues that the current high level of partisan division in the US makes it difficult to predict the future trajectory of US-India relations. They highlight the potential challenges posed by both the Democratic and Republican nominees. 
+
+While acknowledging that Kamala Harris has Indian ancestry, the author expresses concerns about her susceptibility to anti-India sentiment and her potential to prioritize political posturing over strengthening ties with India.  Similarly, they caution against the unpredictable nature of a potential Trump presidency, citing his history of erratic behavior and protectionist policies.
+
+The author urges Indian diplomats to proactively engage with potential future candidates from both parties, building relationships and educating them about India's realities. They emphasize the importance of taking initiative now to shape perceptions and ensure a strong foundation for US-India relations in the years to come.  Otherwise, the author warns, tensions and grievances could significantly strain the relationship during future administrations.
+
 Tue, 3 Sep 2024 15:25:52 +0530
 ### [900 days and not over yet: Why India is best positioned to play peacemaker in Ukraine war](https://www.firstpost.com/opinion/900-days-and-not-over-yet-why-india-is-best-positioned-to-play-peacemaker-in-ukraine-war-13811242.html)
 

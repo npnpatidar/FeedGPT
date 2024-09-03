@@ -1,3 +1,19 @@
+Tue, 3 Sep 2024 20:28:45 +0530
+### [Why doesn’t France have a PM two months after polls? Whom is Macron considering?](https://www.firstpost.com/explainers/why-doesnt-france-have-a-pm-two-months-after-polls-whom-is-macron-considering-13811365.html)
+
+France is in a political deadlock after snap elections resulted in a hung parliament. President Emmanuel Macron, despite winning the most votes, does not have a parliamentary majority and faces the challenge of forming a government. 
+
+The inability to secure a majority has led Macron to consider several potential Prime Ministers. Among them are Xavier Bertrand, a leader from the conservative Les RÃ©publicains party, Bernard Cazeneuve, a former Prime Minister under Socialist president FranÃ§ois Hollande, and Thierry Beaudet, a technocrat with no prior political experience.  
+
+Macron's search for a Prime Minister is  complicated by the fact that each potential candidate faces opposition from different political factions.  With growing pressure to form a government, Macron is navigating a complex political landscape where consensus-building is essential.
+
+Furthermore,  left-wing parties who hold the largest number of seats oppose Macron's policies, creating challenges for the centrist president in passing his agenda.
+
+Tue, 3 Sep 2024 20:20:40 +0530
+### [Netflix’s IC 814: The Kandahar Hijack: Decoding the real identity of the hijackers](https://www.firstpost.com/explainers/netflix-ic-814-the-kandahar-hijack-row-real-identity-of-hijackers-13811336.html)
+
+The 1999 hijacking of IC 814 involved five terrorists from Pakistan who forced the plane to land in multiple locations, including Kandahar. To hide their identities, they used aliases like "Bhola" and "Shankar", which led to controversy when Netflix's series depicting the event used the same names.  The hijackers' real names were Ibrahim Athar, Shahid Akhtar Sayeed, Sunny Ahmed Qazi, Mistri Zahoor Ibrahim, and Shakir. They belonged to the Harkat-ul-Mujahideen terror group.  After widespread criticism, Netflix updated the opening credits to include both the aliases and real names of the hijackers.
+
 Tue, 3 Sep 2024 19:15:08 +0530
 ### [Can sleeping only 30 minutes a day 'double' your life?](https://www.firstpost.com/health/can-sleeping-only-30-minutes-a-day-double-your-life-13811304.html)
 
