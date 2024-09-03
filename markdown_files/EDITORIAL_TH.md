@@ -1,3 +1,15 @@
+Wed, 04 Sep 2024 00:20:00 +0530
+### [​Demolition squad: On the Supreme Court and ‘bulldozer justice’](https://www.thehindu.com/opinion/editorial/%E2%80%8Bdemolition-squad-on-the-supreme-court-and-bulldozer-justice/article68601539.ece)
+
+The Supreme Court questioned the legality of demolishing houses belonging to accused individuals, highlighting a growing concern about the use of bulldozers as retribution.  The court acknowledged the political symbolism associated with these demolitions, particularly targeting Muslim homes in BJP-ruled states. While recognizing the legal grounds for removing encroachments, the court aims to establish nationwide guidelines ensuring due process and fairness in such actions.  The court must address the perception that these demolitions, often justified as anti-encroachment drives, serve a thinly veiled communal agenda, violating the rule of law and due process.
+
+Wed, 04 Sep 2024 00:10:00 +0530
+### [​Hollow middle: On the regional election results in Germany](https://www.thehindu.com/opinion/editorial/%E2%80%8Bhollow-middle-on-the-regional-election-results-in-germany/article68601345.ece)
+
+The recent regional elections in eastern Germany revealed a surge in support for the far-right Alternative for Germany (AfD).  The AfD secured the largest share of votes in Thuringia and came second in Saxony. The party's success is attributed to its nationalist stance on immigration and attacks against the establishment. Meanwhile, the leftist nationalist-populist Reason and Justice Alliance (BSW) also gained significant support, highlighting growing anti-establishment sentiment. 
+
+While the AfD is unlikely to form a government, its powerful position in the statehouse raises concerns about its influence. The establishment parties face a challenge in addressing the root causes of the AfD's rise, including economic woes and anxieties stemming from the war in Ukraine. Without addressing these underlying issues, political isolation of the far-right may prove insufficient.
+
 Tue, 03 Sep 2024 00:30:00 +0530
 ### [​Enhancing oversight: On the GST Council meet and issues](https://www.thehindu.com/opinion/editorial/%E2%80%8Benhancing-oversight-the-hindu-editorial-on-the-gst-council-meet-and-issues/article68597546.ece)
 
