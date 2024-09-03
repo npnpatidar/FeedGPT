@@ -1,3 +1,10 @@
+Tue, 03 Sep 2024 06:41:43 +0000
+### [IndiGo airlines’ pink seats: Putting the onus of safety on women](https://indianexpress.com/article/opinion/columns/pink-seats-onus-safety-women-9547595/)
+
+The author recounts a negative experience of harassment on a flight, highlighting the everyday challenges women face. She praises IndiGo's new feature allowing women to see where other women are seated during web check-in, initially viewing it as a positive step. However, she argues that this move exemplifies "neoliberal feminism," placing the onus of safety on women rather than addressing the root cause of men's entitled behaviour. 
+
+She contends that the feature normalizes male harassment by suggesting women pay for a safer experience. The author concludes that token "feminist" measures are insufficient and true change requires addressing the systemic issues that create hostile public spaces for women.
+
 Tue, 03 Sep 2024 02:30:26 +0000
 ### [September 3, 1984, Forty Years Ago: Golden Temple March](https://indianexpress.com/article/opinion/40-years-ago/september-3-1984-forty-years-ago-golden-temple-march-9546933/)
 

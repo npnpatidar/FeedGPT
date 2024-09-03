@@ -1,3 +1,12 @@
+Tue, 03 Sep 2024 07:13:51 +0000
+### [Why the Brazil Supreme Court took down X, amid a judge’s feud with Elon Musk](https://indianexpress.com/article/explained/explained-global/brazil-supreme-court-ban-x-elon-9547637/)
+
+Brazil's Supreme Court upheld the shutdown of social media platform X due to its refusal to appoint a local legal representative as mandated by Brazilian law.  Elon Musk, X's owner, has clashed with Justice Alexandre de Moraes, the judge overseeing the case, who ordered X to block accounts spreading disinformation. Musk has criticized de Moraes, calling him "the dictator of Brazil," and accused him of targeting political opponents. 
+
+Justice Moraes has accused Musk of obstructing Brazilian justice and inciting crime.  The ban on X follows an earlier case against Telegram, whose CEO was arrested over alleged child pornography content on the platform, highlighting tensions between governments and tech giants regarding online regulations. 
+
+The shutdown impacts millions of X users in Brazil, X's fifth-largest market globally.
+
 Tue, 03 Sep 2024 04:06:14 +0000
 ### [As RSS wraps up baithak in Kerala, all about Sangh’s four annual meetings](https://indianexpress.com/article/explained/as-rss-wraps-up-baithak-in-kerala-all-about-sanghs-four-annual-meetings-9547130/)
 

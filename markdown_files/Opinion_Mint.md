@@ -1,3 +1,14 @@
+Tue, 03 Sep 2024 12:30:17 +0530
+### [Climate change: It’s imperative to wage an evidence-based battle](https://www.livemint.com/opinion/online-views/climate-change-carbon-emission-climate-action-greenhouse-gases-energy-climate-mitigation-net-zero-goal-niti-aayog-11725307268761.html)
+
+The article stresses the urgency for India to take a more aggressive stance on climate change.  
+
+Citing increasingly frequent and severe climate-related disasters worldwide, the author argues that India's vulnerability is high due to its large population and status as the third largest emitter of greenhouse gases. 
+
+While India has implemented mitigation measures, the author contends that a more proactive approach is needed, particularly focusing on the energy transition and building climate resilience.  
+
+The article proposes several concrete actions, including revitalizing the Technology Information, Forecasting and Assessment Council (TIFAC), strengthening the Environmental Impact Assessment (EIA) process, implementing strategic environmental assessments (SEAs), and establishing a robust national data and analytics ecosystem.
+
 Tue, 03 Sep 2024 10:30:15 +0530
 ### ['Angry Young Men': A documentary that entertains but doesn’t elucidate](https://www.livemint.com/opinion/online-views/angry-young-men-documentary-salim-khan-javed-akhtar-script-writers-cinema-deewar-sholay-11725306591555.html)
 

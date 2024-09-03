@@ -1,3 +1,24 @@
+Tue, 3 Sep 2024 13:30:58 +0530
+### [What’s the Philadelphi Corridor that Netanyahu calls 'Oxygen of Hamas'?](https://www.firstpost.com/explainers/whats-the-philadelphi-corridor-that-netanyahu-calls-oxygen-of-hamas-13811126.html)
+
+The Philadelphi Corridor, a 14-kilometer strip along the Gaza-Egypt border, is a key point of contention in negotiations between Israel and Hamas.  Israel views the corridor as crucial for preventing Hamas from re-arming, describing it as "the oxygen of Hamas."  After Israel’s withdrawal in 2005, control was transferred to Egypt and the Palestinian Authority.  However, the rise of Hamas in 2007 led to concerns over weapons smuggling tunnels, prompting Israel to demand continued oversight.  Egypt, while committed to the peace treaty and security, is wary of Israeli reoccupation due to concerns about Palestinian displacement and regional instability.  Possible compromises involve an underground barrier and electronic monitoring with occasional patrols, but require approval from Palestinian factions, including Hamas.  This standoff complicates efforts for a ceasefire and hostage release.
+
+Tue, 3 Sep 2024 12:55:31 +0530
+### [West Bengal's Aparajita Bill seeks death for rapists. But can states make their own criminal laws?](https://www.firstpost.com/explainers/west-bengal-aparajita-bill-death-rapists-states-criminal-laws-13811147.html)
+
+The Mamata Banerjee-led government in West Bengal has introduced the Aparajita Woman and Child (West Bengal Criminal Laws Amendment) Bill, 2024, aiming to enhance punishments for rape and create a safer environment for women and children.  
+
+The bill proposes the death penalty for rapists if the victim dies or is left in a vegetative state, and life imprisonment for those convicted of rape and gang rape. It also mandates a 21-day deadline for investigating rape cases, requires convicts to cover the victim's medical expenses, and introduces penalties for publishing court proceedings without permission.  
+
+The legislation requires presidential assent to be enforced and while states can amend central laws under certain circumstances, the President is not obligated to approve them. The passage of the bill in the West Bengal Assembly is likely given the Trinamool Congress's majority.
+
+Tue, 3 Sep 2024 11:43:08 +0530
+### [What’s the corruption case against ex-RG Kar principal Sandip Ghosh?](https://www.firstpost.com/explainers/corruption-case-ex-rg-kar-principal-sandip-ghosh-13811065.html)
+
+Sandip Ghosh, the former principal of RG Kar Medical College in Kolkata, has been arrested by the CBI on charges of financial irregularities.  
+
+The arrest follows a two-week questioning session and comes after a petition filed by the hospital's former Deputy Superintendent, Akhtar Ali, alleging corruption, including the illegal sale of unclaimed corpses, embezzlement, and organ trafficking. The CBI has also named three others in connection with the case, including Ghosh's security guard and two vendors.  Ghosh’s arrest is seen as a moral victory by protesting doctors and residents, who have demanded his removal since the rape and murder of a junior doctor at the hospital last month.
+
 Tue, 3 Sep 2024 11:16:38 +0530
 ### [Putin in Mongolia amid ICC arrest warrant: Is the country defying international law?](https://www.firstpost.com/explainers/russian-president-vladimir-putin-visits-mongolia-amid-icc-arrest-warrant-is-the-country-defying-international-law-13811066.html)
 
