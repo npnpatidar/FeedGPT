@@ -1,3 +1,8 @@
+Wed, 4 Sep 2024 22:59:11 +0530
+### [Harris skipped campaigning in New Hampshire, a swing state, until now; here's why](https://www.firstpost.com/world/kamala-harris-new-hampshire-swing-state-13811836.html)
+
+Vice President Kamala Harris' campaign has focused primarily on large swing states, neglecting New Hampshire. Despite its recent Democratic leanings, Harris will visit the state on September 4th.  The visit aims to counter Republican criticism stemming from Biden's primary calendar changes and Trump's attacks on New Hampshire's economy. Harris plans to promote her proposal to expand tax incentives for small businesses, positioning herself as a champion for the middle class in the state. This focus on New Hampshire, even as a smaller swing state, could be crucial if the election outcome hinges on a few thousand votes.
+
 Wed, 4 Sep 2024 20:25:13 +0530
 ### [This cocktail at the US Open will surpass $10 million in sales. What makes it so popular?](https://www.firstpost.com/explainers/popular-honey-deuce-cocktail-us-open-increasing-sales-13811743.html)
 
