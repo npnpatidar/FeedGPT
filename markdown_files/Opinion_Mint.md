@@ -1,3 +1,21 @@
+Wed, 04 Sep 2024 07:05:01 +0530
+### [Mint Quick Edit | Give hybrids tax relief to help decarbonize traffic](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-evs-hybrids-cars-electric-cars-clean-energy-tax-relief-decarbonization-road-traffic-11725413092934.html)
+
+India plans to maintain a tax disparity between electric vehicles (EVs) and hybrids to encourage battery production and accelerate the shift to electric transport. While India aims for net-zero emissions by  2070, hybrid vehicles  remain expensive due to high taxes, hindering their adoption as a cleaner transportation option. 
+
+EV sales are also lagging due to concerns like insufficient charging infrastructure, limited home charging space, and "range anxiety".  Addressing these issues could take time. In the meantime, the article suggests utilizing hybrid vehicles as a bridging technology by reducing their tax burden to encourage their purchase and thus contribute to India's decarbonization efforts.
+
+Wed, 04 Sep 2024 07:00:14 +0530
+### [Has Warren Buffett lost his touch?](https://www.livemint.com/opinion/online-views/has-warren-buffett-lost-his-touch-11725412706855.html)
+
+Berkshire Hathaway recently reached a $1 trillion market value, a significant milestone for the company. However, despite this achievement, Berkshire's performance has lagged behind the S&P 500 in recent years. 
+
+Warren Buffett, Berkshire's CEO, attributes this to the company's size, arguing  that it's harder to achieve outsized growth with such massive operations.  
+
+However, critics contend that Berkshire's investment strategy is outdated and its reluctance to embrace technology is hindering its growth. The company's opaque corporate governance and lack of shareholder engagement also draw scrutiny.  
+
+While Buffett remains optimistic about Berkshire's future, some believe the company needs to adapt to the changing landscape to remain relevant and competitive. They suggest actions like paying dividends and share buybacks could be beneficial.
+
 Tue, 03 Sep 2024 16:00:04 +0530
 ### [Weak bank deposit growth: Beware faulty explanations](https://www.livemint.com/opinion/online-views/weak-bank-deposit-growth-rbi-scheduled-commercial-banks-banking-system-cash-reserve-ratio-bank-lending-11725309025261.html)
 

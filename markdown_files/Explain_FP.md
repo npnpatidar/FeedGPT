@@ -1,3 +1,17 @@
+Wed, 4 Sep 2024 08:06:05 +0530
+### [How Canada's 24-hour work cap for international students will affect Indians](https://www.firstpost.com/explainers/canada-24-hour-work-cap-international-students-will-affect-indians-13811173.html)
+
+Canada's new rule allows international students to work off-campus up to 24 hours per week, a four-hour increase from the previous limit. The change aims to balance students' work and study commitments and align with policies in other countries.  The rule is expected to impact Indian students the most, as they are the largest group of international students in Canada. The work restriction may lead to financial difficulties for students who rely on off-campus jobs to cover expenses, especially in expensive cities. While some students criticize the rule, professors support it, believing it encourages students to focus on their studies.  Arguments regarding the impact on the quality of education and the equity of the rule persist.
+
+Wed, 4 Sep 2024 06:37:27 +0530
+### [FirstUp: PM Modi to meet Brunei monarch, to embark on two-day visit to Singapore later... the big news today](https://www.firstpost.com/explainers/firstup-pm-modi-to-meet-brunei-monarch-to-embark-on-two-day-visit-to-singapore-later-the-big-news-today-13811306.html)
+
+Prime Minister Narendra Modi will continue his visit to Brunei, meeting with Prime Minister and Sultan Haji Hassanal Bolkiah to strengthen bilateral relations.  Discussions will focus on new areas of cooperation in space and energy. Following Brunei, Modi will travel to Singapore at the invitation of Prime Minister Lawrence Wong. 
+
+In Singapore, Modi will hold talks with Wong, Senior Minister Lee Hsien Loong,  Emeritus Senior Minister Goh Chok Tong, and President Tharman Shanmugaratnam. He will also meet with Singaporean business leaders.
+
+Other significant events today include the Calcutta High Court hearing PILs over the Kolkata doctor's rape and murder case, Rahul Gandhi launching the Congress campaign for the Jammu and Kashmir Assembly elections, and the beginning of the three-day monsoon session of the Tripura Legislative Assembly.
+
 Tue, 3 Sep 2024 20:28:45 +0530
 ### [Why doesn’t France have a PM two months after polls? Whom is Macron considering?](https://www.firstpost.com/explainers/why-doesnt-france-have-a-pm-two-months-after-polls-whom-is-macron-considering-13811365.html)
 

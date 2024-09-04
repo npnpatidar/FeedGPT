@@ -1,3 +1,49 @@
+Wed, 04 Sep 2024 02:23:11 +0000
+### [How to ensure food safety and reduce waste](https://indianexpress.com/article/opinion/columns/how-to-ensure-food-safety-and-reduce-waste-9548814/)
+
+Food plays a vital role in India's culture and economy. Ensuring food safety and security is crucial for the nation's progress.  Food safety incidents can have significant economic and health consequences. To address these challenges, India is investing in food irradiation technology, which extends product shelf life, reduces spoilage, and minimizes food loss. Irradiation is a safe and effective method, globally recognized and adopted by countries with strict safety standards.  
+
+While initial investments in irradiation facilities are substantial, the long-term benefits are considerable. The technology offers a promising investment opportunity in the growing Indian food processing sector, supporting both domestic and export markets. The government is providing financial assistance to encourage the establishment of new irradiation facilities, underscoring its commitment to advancing food safety and security.
+
+Wed, 04 Sep 2024 02:19:30 +0000
+### [PM Modi in Singapore: A partner in India’s growth story](https://indianexpress.com/article/opinion/columns/pm-modi-in-singapore-a-partner-in-indias-growth-story-9548766/)
+
+India-Singapore relations are flourishing, marked by frequent high-level interactions and a flourishing trade and investment partnership. Singapore is India's largest trading partner among ASEAN nations and its primary source of foreign direct investment. The two nations share a deep historical and cultural connection, with Singapore hosting a significant Indian diaspora and being a popular tourist destination for Indians.  Beyond economics, India and Singapore collaborate on defense and maritime security, especially within the Indo-Pacific context. 
+
+The upcoming India-Singapore meeting will likely address shared regional concerns like the situation in Myanmar and explore new avenues for cooperation, including potential Chinese investment in India. 
+
+
+While Singapore's success as a global hub highlights India's potential, it also underscores the need for India to address its own regulatory and structural challenges to fully leverage this partnership.
+
+Wed, 04 Sep 2024 02:18:44 +0000
+### [The Third Edit: An Indian record at Paris Paralympics](https://indianexpress.com/article/opinion/editorials/the-third-edit-an-indian-record-at-paris-paralympics-9548686/)
+
+The Indian contingent at the Paris Paralympics is on track to surpass its previous best medal count. Strong performances in athletics, badminton, shooting, and archery have delighted Indian sports fans. Avani Lekhara has been a standout, successfully defending her gold medal in the 10-meter air rifle SH1 category and setting Paralympic records in both gold medal-winning events. Furthermore, armless archer Sheetal Devi's triumphs add to India's Paralympics success. 
+Several female medallists come from humble backgrounds and have overcome significant obstacles, demonstrating the power of resilience and determination .
+
+Wed, 04 Sep 2024 02:09:33 +0000
+### [SC’s stand against ‘bulldozer justice’ is welcome — but it may be too little too late](https://indianexpress.com/article/opinion/editorials/scs-stand-against-bulldozer-justice-is-welcome-but-it-may-be-too-little-too-late-9548767/)
+
+The Supreme Court has condemned "bulldozer justice," the practice of demolishing properties of crime suspects. The court's intervention, long awaited, recognizes the misuse of power and violation of citizen rights.  While the court proposes guidelines, concerns remain regarding its effectiveness. The court faces skepticism over its ability to enforce its directives considering past instances where its pronouncements against hate speech have been largely ineffective. Greater action from lower courts, law enforcement, and a political climate that discourages hate speech are necessary for tangible change. The court must ensure its actions are timely and meaningful, as reversing the damage caused by bulldozer justice is often impossible.
+
+Wed, 04 Sep 2024 02:05:37 +0000
+### [In Manipur, a continuing saga of political and administrative abdication](https://indianexpress.com/article/opinion/editorials/in-manipur-a-continuing-saga-of-political-and-administrative-abdication-9548768/)
+
+Manipur continues to experience violence and unrest despite the state government's assurances of peace. The recent attack in Koutruk, involving sophisticated weaponry, has underscored the fragility of the situation. A BJP MLA has called for the withdrawal of central forces and a change in the security force command, attributing the continued violence to their ineffectiveness. 
+
+The ongoing crisis stems from deep-rooted ethnic tensions between the Meiteis and the Kuki-Zos, fueled by economic and political marginalization. 
+
+The demand for ST status for the Meiteis and the subsequent backlash from the Kuki-Zos highlight the state government's failure to address these structural issues. Instead of focusing on dialogue and reconciliation, the government has been quick to frame the crisis as a law-and-order problem, diverting attention from the underlying causes.
+
+Wed, 04 Sep 2024 01:22:06 +0000
+### [C Raja Mohan writes: In Rahul Gandhi and PM Modi’s US visits, a new internationalism](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-in-rahul-gandhi-and-pm-modis-us-visits-a-new-internationalism-9548791/)
+
+Rahul Gandhi's upcoming US visit presents both opportunities and challenges for the Congress Party. While the visit allows the party to rebuild global connections and showcase its leader's vision, it raises questions about the appropriateness of taking domestic criticism of the BJP government to foreign soil.  
+
+The visit coincides with a larger trend of Indian political parties engaging with the diaspora, a development that has grown in significance alongside India's economic and military rise. This engagement, however, is increasingly scrutinized by host countries and potentially prone to domestic political biases.  
+
+The Congress, in particular, needs to revitalize its foreign affairs department to effectively navigate this shifting global landscape. The article contrasts the Congress's historic engagement with the world with its current limitations, suggesting a renewed commitment to internationalism is crucial.
+
 Tue, 03 Sep 2024 13:32:45 +0000
 ### [With elegance and glamour: How Deepika Padukone has shut down those who doubted her pregnancy](https://indianexpress.com/article/opinion/columns/elegance-glamour-deepika-padukone-shut-down-doubted-pregnancy-9548366/)
 

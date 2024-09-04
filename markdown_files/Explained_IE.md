@@ -1,3 +1,12 @@
+Wed, 04 Sep 2024 01:20:29 +0000
+### [Attacks and deaths in Bahraich: Why and when wolves turn on humans](https://indianexpress.com/article/explained/attacks-and-deaths-in-bahraich-why-and-when-wolves-turn-on-humans-9548857/)
+
+In Uttar Pradesh's Bahraich district, seven deaths have been attributed to wolf attacks since March, with additional deaths under investigation. The local administration has captured four wolves and is searching for two more suspected to be involved. Throughout history, wolf attacks on humans in India have been documented, particularly in northern regions where competition for resources is prevalent. 
+
+Past incidents, like the Astha killings in 1985-86 and the Hazaribagh attacks between 1993 and 1995, highlight the need for scientific investigation and targeted intervention rather than widespread panic. 
+
+Experts emphasize the importance of understanding the triggers behind wolf attacks, such as habitat loss and prey scarcity, and suggest a combination of removal of habituated animals and long-term strategies to ensure coexistence between humans and wolves.
+
 Tue, 03 Sep 2024 15:39:43 +0000
 ### [3 things to know about Brunei Darussalam, with PM Modi’s official visit](https://indianexpress.com/article/explained/everyday-explainers/brunei-modi-sultan-significance-9548552/)
 
