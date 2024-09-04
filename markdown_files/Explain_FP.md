@@ -1,3 +1,27 @@
+Wed, 4 Sep 2024 15:31:06 +0530
+### [Why have wolves in UP’s Bahraich turned ‘man-eaters’?](https://www.firstpost.com/explainers/uttar-pradesh-bahraich-attacks-why-wolves-turned-man-eaters-13811616.html)
+
+A recent series of wolf attacks in Bahraich, Uttar Pradesh, has left nine people, including eight children, dead. The UP administration has launched 'Operation Bhediya' to capture the remaining wolves responsible. 
+
+While wolves generally avoid humans, experts suggest several reasons for this unusual behavior. Habitat loss and prey scarcity due to flooding may be driving wolves to target humans. Some theorize that a wolf may have tasted human flesh accidentally, leading to a learned preference. 
+
+Another possibility is that wolf-dog hybrids, accustomed to humans, might have developed a lack of fear and turned into man-eaters. The theory of revenge is also being explored, considering past instances where wolves attacked humans after experiencing human aggression towards them.
+
+Wed, 4 Sep 2024 14:07:58 +0530
+### [How former New York Governor aide Linda Sun 'spied' for China in exchange for salted ducks](https://www.firstpost.com/explainers/how-former-new-york-governor-aide-linda-sun-spied-for-china-in-exchange-for-salted-ducks-13811597.html)
+
+Linda Sun, a former aide to New York Governors Kathy Hochul and Andrew Cuomo, faces charges of acting as an illegal agent for China. The indictment alleges she engaged in a scheme spanning nearly a decade, blocking Taiwanese officials from accessing state leaders, manipulating messaging to align with Beijing's priorities, and arranging unauthorized invitations for Chinese officials to enter the US. Sun allegedly received millions in illicit benefits, including a Ferrari Roma, real estate, and salted ducks from Chinese officials, in exchange for her actions. The case has sparked outrage among New York's political elite, with Governor Hochul expressing shock and concern. Sun and her spouse, Chris Hu, have pleaded not guilty to the charges.
+
+Wed, 4 Sep 2024 13:59:07 +0530
+### [Coming soon to India: New eye drops that could eliminate the need for reading glasses](https://www.firstpost.com/health/new-eye-drops-that-could-elimate-the-need-for-reading-glasses-india-13811569.html)
+
+PresVu, India’s first eye drop designed to reduce reliance on reading glasses for presbyopia, has been authorized by the Drug Controller General of India. Developed by Entod Pharmaceuticals, the eye drop utilizes pilocarpine, a compound that constricts pupils, enabling clearer near vision.  PresVu is formulated with a dynamic buffer technology to ensure long-lasting safety and efficacy. Clinical trials showed its effectiveness in treating mild-to-moderate presbyopia in adults aged 40 to 55.  While similar products exist globally, PresVu is specifically tailored for Indian eyes, considering the country's unique genetic characteristics.  The eye drop will be available in India in October at a cost of Rs 345 per vial.
+
+Wed, 4 Sep 2024 13:54:06 +0530
+### [Why did Nvidia suffer a record $279 billion loss, the biggest for a US company?](https://www.firstpost.com/explainers/why-did-nvidia-suffer-a-record-279-billion-loss-the-biggest-for-a-us-company-13811626.html)
+
+Nvidia's stock price dropped significantly, wiping out nearly $279 billion in market value, the biggest ever loss for a US company.  This decline was triggered by a new report on slowing manufacturing activity and growing investor caution about artificial intelligence, a sector that has been driving market gains this year.  Nvidia's recent forecast also fell short of investor expectations. Concerns about the return on investment in AI are also weighing on investor sentiment, with some experts questioning the sustainability of the current valuation for AI-related companies.  Adding to the pressure is a subpoena from the US Justice Department investigating Nvidia's antitrust practices.  This downturn in chip stocks is part of a broader market selloff, with the Nasdaq and S&P 500 also experiencing notable losses.
+
 Wed, 4 Sep 2024 13:33:52 +0530
 ### [‘Tis the season… Why Venezuela’s Nicolas Maduro has fast-tracked Christmas to October](https://www.firstpost.com/explainers/venezuela-nicolas-maduro-christmas-october-13811603.html)
 

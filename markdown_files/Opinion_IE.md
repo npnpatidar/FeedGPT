@@ -1,3 +1,8 @@
+Wed, 04 Sep 2024 08:30:43 +0000
+### [‘IC 814: The Kandahar Hijack’ controversy: When a culture is hijacked by the permanently offended](https://indianexpress.com/article/opinion/columns/ic-814-the-kandahar-hijack-controversy-9549638/)
+
+. A recent controversy arose over the Netflix series "IC 814: The Kandahar Hijack", with some accusing the makers of distorting the religious identity of the hijackers. The series, based on a memoir by the pilot of the hijacked flight, used aliases for the hijackers, which sparked outrage and calls for a ban. The aliases, however, are documented in media reports and the Ministry of External Affairs website.  This incident highlights a pattern of manufactured outrage in the Indian entertainment industry, where creatives face pressure to avoid potentially offensive content. This stifles artistic expression and creates a climate of fear. Concerns arise about the long-term impact on the industry and the potential for  silencing diverse voices.
+
 Wed, 04 Sep 2024 06:10:36 +0000
 ### [What the Hema Committee reports tells us about workers’ rights — and how to ensure them](https://indianexpress.com/article/opinion/columns/hema-committee-report-workers-rights-9549435/)
 
