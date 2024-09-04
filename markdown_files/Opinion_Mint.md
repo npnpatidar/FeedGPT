@@ -1,3 +1,23 @@
+Wed, 04 Sep 2024 11:03:17 +0530
+### [Dunzo could have been a Zepto. So why did it fail?](https://www.livemint.com/opinion/online-views/dunzo-job-cut-zepto-swiggy-instamart-bigbasket-zomato-blinkit-quick-commerce-delivery-platform-flipkart-amazon-reliance-11725422823641.html)
+
+Dunzo, a quick commerce startup, is struggling after recent job cuts, facing a potential demise. Despite being an early entrant in the market, Dunzo failed to capitalize on the rapid growth of online grocery delivery. While rivals like Zepto, Swiggy, and Blinkit focused on quick commerce, Dunzo initially dabbled in a broader range of consumer-to-consumer delivery services, leading to a lack of focus and scale.
+
+Their pivot to instant grocery delivery came too late, as competitors already had established dark store networks and strong market positions. Dunzo's past success as a marketplace platform provided little advantage in the competitive grocery market, where speed and efficiency are paramount.  The company's struggles highlight the challenges of pivoting in a rapidly evolving market and the importance of a clear core business strategy.
+
+Wed, 04 Sep 2024 10:30:09 +0530
+### [Anti-rape protests aren’t pointless if they alter the behaviour of perpetrators](https://www.livemint.com/opinion/online-views/antirape-protests-kolkata-doctor-rape-case-malayalam-fil-industry-justice-hema-commission-report-sexual-violence-11725416780100.html)
+
+Recent protests in Calcutta and Kerala against violence against women raise the question of whether they will influence societal attitudes. The author analyzes two distinct scenarios: a random act of violence in a hospital and a systemic issue within the Malayalam film industry.
+
+While preventing isolated incidents like the Kolkata hospital attack is difficult, the author expresses optimism about the impact of the protests on the film industry. 
+
+Following testimonies from female actors,  a sense of fear and uncertainty has emerged among powerful perpetrators. This 'what if she speaks up?' mentality can deter future abuses. 
+
+The author draws a parallel with 'nakka bandis' (temporary police checkpoints) which, despite their simplicity, deter terrorist attacks by introducing an element of doubt and uncertainty. 
+
+Ultimately, the author argues that even small, determined voices like those of the courageous actresses can create significant behavioral change within an industry, highlighting the power of collective action in addressing societal issues like gender-based violence.
+
 Wed, 04 Sep 2024 08:30:05 +0530
 ### [The IPO frenzy isn’t a sign of a robust stock market](https://www.livemint.com/opinion/online-views/ipo-frenzy-stock-market-share-prices-issue-pricing-capital-allocation-retail-investors-equity-portfolios-11725413650722.html)
 

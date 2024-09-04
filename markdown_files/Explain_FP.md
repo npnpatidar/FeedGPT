@@ -1,3 +1,27 @@
+Wed, 4 Sep 2024 11:22:38 +0530
+### [What is the FOCAC Summit? Why and how is China attempting to woo African leaders?](https://www.firstpost.com/explainers/what-is-the-focac-summit-why-and-how-is-china-attempting-to-woo-african-leaders-13811498.html)
+
+The ninth Forum on China-Africa Cooperation (FOCAC) summit is taking place in Beijing, bringing together over 50 African leaders and marking a significant moment in Sino-African relations. 
+
+China is adjusting its investment strategy in Africa, moving away from large-scale state-backed loans towards public-private partnerships (PPPs) to mitigate risks and promote sustainable development. This shift comes amid concerns about Africa's growing debt burden and the need for more equitable partnerships. Despite challenges and scrutiny, China remains Africa's largest bilateral creditor, and the FOCAC summit is crucial for shaping the future of their economic collaboration. African leaders are seeking to balance their need for infrastructure funding with concerns about debt dependency, while China aims to secure access to resources and expand its influence on the continent. The summit is a platform for negotiation and strategic planning, with both sides seeking to navigate the evolving dynamics of their relationship.
+
+Wed, 4 Sep 2024 10:26:44 +0530
+### [Nudes of daughter, lurid chats: Inside the shocking trial of French man accused of inviting 50 men to rape wife](https://www.firstpost.com/explainers/shocking-trial-french-man-inviting-men-to-rape-wife-avignon-dominique-p-13811509.html)
+
+A 71-year-old French pensioner, Dominique P,  is on trial for drugging his wife, Gisele, and inviting over 50 men to rape her over a decade.  Police discovered images of his nude daughter, Caroline, on his computer, taken after he drugged her.  Dominique also admitted to sending messages to the men, enticing them with phrases like “You’re like me - you like rape mode.” He instructed the men on how to avoid leaving evidence and ensured his wife was heavily sedated. Fifty men are also on trial, with some claiming they believed it was a couple's fantasy.  Dominique's daughter has started a campaign to raise awareness about drug-facilitated sexual assault.
+
+Wed, 4 Sep 2024 10:12:02 +0530
+### [After Brunei, PM Modi to visit Singapore: Why ties with the island nation matter to India](https://www.firstpost.com/explainers/pm-modi-visit-to-singapore-ties-with-india-13811310.html)
+
+Prime Minister Narendra Modi's visit to Singapore aims to strengthen the already close ties between the two nations.  The relationship has evolved from diplomatic ties established soon after Singapore's independence in 1965 to a Strategic Partnership in 2015.  
+
+Singapore is India's largest trading partner in ASEAN and its sixth largest globally.  Trade has flourished since the Comprehensive Economic Cooperation Agreement (CECA) was signed in 2005, with a significant increase in trade volume and investment flow between the countries. 
+
+Cooperation extends beyond trade and finance to areas like space technology, with ISRO launching several Singaporean satellites.  There is also a strong Indian diaspora in Singapore, contributing to the cultural and economic fabric of the nation. 
+
+
+Experts suggest a renewed interest in India from Singapore's government, leading to increased engagement in areas like advanced manufacturing, digitalization, and sustainable development.
+
 Wed, 4 Sep 2024 08:06:05 +0530
 ### [How Canada's 24-hour work cap for international students will affect Indians](https://www.firstpost.com/explainers/canada-24-hour-work-cap-international-students-will-affect-indians-13811173.html)
 

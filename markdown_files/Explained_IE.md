@@ -1,3 +1,8 @@
+Wed, 04 Sep 2024 04:29:55 +0000
+### [Four major US climate policies Donald Trump would reverse if elected](https://indianexpress.com/article/explained/explained-global/four-major-us-climate-policies-donald-trump-would-reverse-if-elected-9548868/)
+
+Donald Trump, if elected again, plans to reverse numerous Biden administration clean energy policies. These include EPA regulations requiring power plants to capture emissions or shut down, as well as fuel efficiency standards for cars. Additionally, Trump aims to expedite approvals for energy projects and build new power plants. The Trump campaign also intends to repeal EV subsidies outlined in the Inflation Reduction Act and withdraw from the Paris Agreement.  Trump argues these policies are burdensome to consumers and hinder economic growth.
+
 Wed, 04 Sep 2024 03:30:18 +0000
 ### [Harnessing biotechnology for economic development](https://indianexpress.com/article/explained/harnessing-biotechnology-for-economic-development-9548862/)
 

@@ -1,3 +1,17 @@
+Wed, 04 Sep 2024 06:10:36 +0000
+### [What the Hema Committee reports tells us about workers’ rights — and how to ensure them](https://indianexpress.com/article/opinion/columns/hema-committee-report-workers-rights-9549435/)
+
+The Hema Commission report, investigating women's issues in the Malayalam film industry, exposed systemic problems and validated complaints about harassment, wage disparity, and lack of safety measures. The report empowered women workers to speak out, highlighting the fear of repercussions and the silencing of those who demand fair treatment.  
+
+The report echoes past inquiries that called for worker rights protection and  better working conditions.  It proposes a tribunal to address complaints, challenging the existing Internal Complaints Committee's effectiveness. The report also addresses issues faced by  below-the-line workers and emphasizes the need for gender balance in production. 
+
+A crucial takeaway is the need for systemic change beyond mere funding initiatives. The report's impact is being felt nationwide, prompting calls for similar interventions in other Indian film industries. The challenge lies in translating public attention into concrete policy changes that ensure safety and equality for all workers in the film sector.
+
+Wed, 04 Sep 2024 04:12:19 +0000
+### [September 4, 1984, Forty Years Ago: Indian Airlines hijackers in police custody in India](https://indianexpress.com/article/opinion/40-years-ago/september-4-1984-forty-years-ago-indian-airlines-hijackers-in-police-custody-in-india-9548775/)
+
+Hijackers of an Indian Airlines Boeing 737, who diverted the plane to Chandigarh, were remanded to 21 days of police custody. India expressed gratitude to the UAE and the US for their assistance in bringing the hijackers back to India. Meanwhile, Typhoon Ike devastated the southern Philippines, with a preliminary death toll reaching 300.
+
 Wed, 04 Sep 2024 03:01:07 +0000
 ### [How agriculture can be an engine for growth](https://indianexpress.com/article/opinion/columns/agriculture-engine-growth-9549171/)
 
