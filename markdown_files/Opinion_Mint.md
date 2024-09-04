@@ -1,3 +1,12 @@
+Wed, 04 Sep 2024 08:30:05 +0530
+### [The IPO frenzy isn’t a sign of a robust stock market](https://www.livemint.com/opinion/online-views/ipo-frenzy-stock-market-share-prices-issue-pricing-capital-allocation-retail-investors-equity-portfolios-11725413650722.html)
+
+A recent study by India's Securities and Exchange Board (Sebi) highlights a concerning trend in the stock market. Analysis of 144 initial public offerings (IPOs) revealed that a majority of shares allotted to individual investors were sold shortly after listing, indicating a focus on short-term gains rather than long-term value creation. The study found that 54% of shares were sold within a week, and 70% within a year.
+
+This behavior is further amplified when IPO prices surge post-listing, with over 67% of shares in such cases being sold within a week. The report suggests that this resembles a pre-Sebi era where allotments operated more like lotteries, driven by speculation rather than fundamental company performance. 
+
+While the researcher acknowledges the responsible behavior of mutual funds, it expresses concern over the potential for market instability and a "financialization trap" where financial markets unduly influence policy decisions.
+
 Wed, 04 Sep 2024 07:05:01 +0530
 ### [Mint Quick Edit | Give hybrids tax relief to help decarbonize traffic](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-evs-hybrids-cars-electric-cars-clean-energy-tax-relief-decarbonization-road-traffic-11725413092934.html)
 

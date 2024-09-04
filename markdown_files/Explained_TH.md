@@ -1,3 +1,12 @@
+Wed, 04 Sep 2024 08:30:00 +0530
+### [Why is Google accused of being an illegal monopoly? | Explained](https://www.thehindu.com/sci-tech/technology/why-is-google-accused-of-being-an-illegal-monopoly/article68602619.ece)
+
+A US District Judge ruled that Google misused its dominant position in the search engine market by paying billions of dollars to device manufacturers like Apple and Samsung to be the default search engine. This practice, while advantageous for Google, is seen as unfair to competitors as it limits user exposure to alternative search engines. 
+
+The case highlights concerns about Google's market share exceeding 90%, with some arguing it constitutes a monopoly that abuses its power.  However, others contend that a large market share alone doesn't equate to a monopoly, as  competitors can still enter the market and challenge Google's dominance. 
+
+The court proceedings are expected to determine whether Google will be required to stop these payments, give users more control over their default search engine, share user search data with competitors, or even be broken up into smaller companies.
+
 Mon, 02 Sep 2024 22:50:43 +0530
 ### [On Germany’s electoral architecture | Explained](https://www.thehindu.com/news/international/on-germanys-electoral-architecture-explained/article68598322.ece)
 

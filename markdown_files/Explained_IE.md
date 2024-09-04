@@ -1,3 +1,15 @@
+Wed, 04 Sep 2024 03:30:18 +0000
+### [Harnessing biotechnology for economic development](https://indianexpress.com/article/explained/harnessing-biotechnology-for-economic-development-9548862/)
+
+The BioE3 policy aims to leverage biotechnology to make industrial processes more sustainable and environmentally friendly. It seeks to transform manufacturing by mimicking natural biological systems, creating bio-based alternatives to traditional products like plastics, meat, and fuel. This includes using precision fermentation for animal-free milk, bioplastics from renewable materials, and microorganisms for carbon capture. The policy also fosters research in areas like synthetic biology and organ engineering, with potential applications in healthcare and space exploration.  Government initiatives focus on building competencies and promoting research in biotechnology to position India for future economic benefits in this rapidly evolving field. Biomanufacturing hubs will be established to support the development and production of bio-based products and services, spanning various sectors.
+
+Wed, 04 Sep 2024 03:28:55 +0000
+### [OpenAI’s Project Strawberry and the promise of AI’s next big breakthrough](https://indianexpress.com/article/explained/explained-sci-tech/openais-project-strawberry-and-the-promise-of-ais-next-big-breakthrough-9548877/)
+
+OpenAI is set to release its most advanced AI model, codenamed Project Strawberry, this fall. This model is expected to significantly enhance AI reasoning capabilities, enabling autonomous internet research and potentially leading to breakthroughs in fields like science and education. Project Strawberry aims to address the limitations of existing training data by generating high-quality synthetic data, which could improve the accuracy and fairness of future AI models. 
+
+Integrating Project Strawberry with ChatGPT-5 could make it the most powerful AI chatbot available, surpassing its predecessors in areas like math and programming. Its advanced capabilities may also contribute to the development of OpenAI's next-frontier model, Project Orion.
+
 Wed, 04 Sep 2024 01:20:29 +0000
 ### [Attacks and deaths in Bahraich: Why and when wolves turn on humans](https://indianexpress.com/article/explained/attacks-and-deaths-in-bahraich-why-and-when-wolves-turn-on-humans-9548857/)
 
