@@ -1,3 +1,8 @@
+Wed, 04 Sep 2024 14:25:26 +0000
+### [Why Mongolia refused to arrest Vladimir Putin](https://indianexpress.com/article/explained/explained-global/explained-mongolia-putin-arrest-9550491/)
+
+Vladimir Putin attended the Eastern Economic Forum in Vladivostok after a visit to Mongolia, where he was not arrested despite an International Criminal Court (ICC) warrant for his arrest related to alleged war crimes.  The warrant accuses Putin of involvement in the abduction and deportation of Ukrainian children to Russia. While Mongolia is a signatory to the Rome Statute establishing the ICC, it chose not to arrest Putin, likely due to its strong dependence on Russia for energy and its geopolitical positioning between Russia and China.  This situation highlights the challenges facing the ICC in enforcing its warrants against powerful leaders.
+
 Wed, 04 Sep 2024 12:24:44 +0000
 ### [Genome mapping of Chandipura virus: what researchers found](https://indianexpress.com/article/explained/explained-health/genome-mapping-chandipura-virus-9550092/)
 

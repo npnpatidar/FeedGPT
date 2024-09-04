@@ -1,3 +1,28 @@
+Wed, 4 Sep 2024 20:25:13 +0530
+### [This cocktail at the US Open will surpass $10 million in sales. What makes it so popular?](https://www.firstpost.com/explainers/popular-honey-deuce-cocktail-us-open-increasing-sales-13811743.html)
+
+The Honey Deuce, a signature cocktail at the US Open, is a blend of vodka, lemonade, and Chambord, garnished with three honeydew scoops resembling tennis balls. Created in 2007 by Nick Mautone, the drink's popularity has soared, becoming a cultural phenomenon and a must-have experience at the tournament.  
+
+Sales are projected to reach over $10 million this year, driven by its clever marketing, association with the tournament, and exclusive availability.  Grey Goose, the drink's sponsor, has partnered with bartenders across New York to offer it in various locations and even in cans for delivery.  Beyond the drink itself, US Open organizers are capitalizing on its popularity by selling Honey Deuce merchandise. With record attendance expected this year, sales are likely to continue flourishing.
+
+Wed, 4 Sep 2024 20:24:44 +0530
+### [Why are workers in Japan hiring resignation agencies to say ‘I Quit’?](https://www.firstpost.com/explainers/japan-workers-hiring-resignation-agencies-toxic-work-culture-13811793.html)
+
+Japan's challenging work environment, characterized by long hours and intimidating bosses, is leading employees to seek help from "resignation agencies." These agencies, like Exit and Momuri,  step in to resign on behalf of employees who fear backlash from their employers. 
+
+Reasons for using these agencies include fear of bullying, guilt associated with leaving a job, and struggles with overwork. The cost of services varies, with fees ranging from 12,000 to 50,000 yen.
+
+This trend reflects a shift in young employees' attitudes towards work and a growing power dynamic due to Japan's labor shortage.  However, some experts believe this reliance on resignation agencies could perpetuate a cycle of avoiding confrontation.
+
+Wed, 4 Sep 2024 20:23:31 +0530
+### [Who will be the super rich in the future?](https://www.firstpost.com/explainers/who-will-the-super-rich-in-the-future-13811789.html)
+
+The article examines the lives and aspirations of wealthy Gen Z students attending an expensive Swiss boarding school.  Although their upbringing fostered a global lifestyle and their families encouraged international opportunities, their social circles often aligned with their national backgrounds.
+
+While they initially engaged in conspicuous consumption driven by boredom, they later found meaning in work and self-sufficiency.  
+
+Transitioning to university brought challenges as they encountered geopolitical realities and racism, prompting some to reconsider their future plans. Despite similar backgrounds, their career paths and life choices diverged significantly, showcasing the variety of aspirations within this group.
+
 Wed, 4 Sep 2024 19:14:56 +0530
 ### [This airline’s first class seats are too heavy. Here’s why that is a problem](https://www.firstpost.com/explainers/this-airlines-first-class-seats-are-too-heavy-heres-why-that-is-a-problem-13811733.html)
 
