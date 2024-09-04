@@ -1,3 +1,12 @@
+Wed, 04 Sep 2024 06:50:43 +0000
+### [How navigation satellite-based tolling, live monitoring of plazas can lower wait times](https://indianexpress.com/article/explained/explained-satellite-tolling-live-monitoring-plazas-9549483/)
+
+The Ministry of Road Transport & Highways has developed a GIS-based software for real-time monitoring of waiting times at toll plazas. This software, initially implemented at 100 toll plazas identified based on congestion feedback, will display queue length, waiting time, and vehicle speed.  
+
+The system provides congestion alerts and lane distribution recommendations.  It also offers comparative traffic condition analysis and updates on weather conditions and local festivals, aiding NHAI officials in managing traffic load. The software will be expanded to more toll plazas in phases.  
+
+The Ministry is concurrently working on implementing a GNSS-based tolling system, expected to replace FASTag and offer distance-based tolling, ensuring a free flow of vehicles at high speeds.
+
 Wed, 04 Sep 2024 04:29:55 +0000
 ### [Four major US climate policies Donald Trump would reverse if elected](https://indianexpress.com/article/explained/explained-global/four-major-us-climate-policies-donald-trump-would-reverse-if-elected-9548868/)
 

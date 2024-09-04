@@ -1,3 +1,27 @@
+Wed, 4 Sep 2024 13:33:52 +0530
+### [‘Tis the season… Why Venezuela’s Nicolas Maduro has fast-tracked Christmas to October](https://www.firstpost.com/explainers/venezuela-nicolas-maduro-christmas-october-13811603.html)
+
+Venezuelan President Nicolas Maduro has controversially moved Christmas to October 1st, citing a "festive feeling."  However, many view this as a distraction from the country's deep political and economic crises.  Critics argue that with rampant inflation, soaring unemployment and concerns over the legitimacy of recent elections, people are struggling to afford basic necessities, rendering the early Christmas celebration hollow.  The move has drawn condemnation from the Venezuelan Episcopal Conference and international observers who highlight the country's dire situation, including widespread human rights violations and the suppression of dissent.
+
+Wed, 4 Sep 2024 12:57:28 +0530
+### [Brazil’s ‘viral’ teen bodybuilder dies of heart attack: What we know so far](https://www.firstpost.com/explainers/brazils-viral-teen-bodybuilder-dies-of-heart-attack-what-we-know-so-far-13811542.html)
+
+Matheus Pavlak, a 19-year-old Brazilian bodybuilder, passed away after reportedly suffering a heart attack. Pavlak had become a social media sensation for his incredible body transformation over the past five years, transitioning from obesity to a competitive physique. He won several bodybuilding contests, including the 'Mr Blumenau' title last year.  The cause of his death remains unconfirmed, but speculation about potential role of anabolic steroids has sparked debate within the bodybuilding community. Pavlak's death adds to a string of recent losses within the sport, raising concerns about potential health risks.
+
+Wed, 4 Sep 2024 12:36:59 +0530
+### [Do cellphones cause brain cancer? The answer is...](https://www.firstpost.com/health/cellphones-brain-cancer-who-iarc-research-13811382.html)
+
+A new systematic review commissioned by the World Health Organization has found no link between mobile phone use and brain cancer. The review, published in the journal Environment International, analyzed over 5,000 studies, including 63 from 1994 to 2022.  
+
+Despite previous concerns and a 2011 classification by the International Agency for Research on Cancer (IARC) labeling radio waves as a possible carcinogen, this extensive review concludes that exposure to radio waves from mobile phones does not increase the risk of brain cancer or other head and neck cancers.  The findings, which align with previous research, suggest that existing safety limits for radio wave exposure from mobile phones are protective.
+
+Wed, 4 Sep 2024 11:53:37 +0530
+### [Brunei, Singapore, Egypt and more: The famous mosques PM Modi has visited during foreign trips](https://www.firstpost.com/explainers/brunei-singapore-egypt-pm-modi-mosques-visit-foreign-trips-13811545.html)
+
+Prime Minister Modi's visit to Brunei's Omar Ali Saifuddien Mosque strengthens India's diplomatic ties with the nation. This mosque visit is part of a broader pattern of PM Modi visiting prominent mosques globally, showcasing India's cultural diplomacy. 
+
+Notable past mosque visits include Egypt's Al-Hakim Mosque, Indonesia's Istiqlal Mosque, Singapore's Chulia Mosque, Oman's Sultan Qaboos Grand Mosque, and the UAE's Sheikh Zayed Grand Mosque.  These visits underline India's engagement with the Muslim world and its commitment to fostering interfaith understanding.
+
 Wed, 4 Sep 2024 11:22:38 +0530
 ### [What is the FOCAC Summit? Why and how is China attempting to woo African leaders?](https://www.firstpost.com/explainers/what-is-the-focac-summit-why-and-how-is-china-attempting-to-woo-african-leaders-13811498.html)
 

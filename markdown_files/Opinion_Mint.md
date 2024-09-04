@@ -1,3 +1,10 @@
+Wed, 04 Sep 2024 12:30:11 +0530
+### [Unsafe harbour: Social media platforms are being hauled up for what others post](https://www.livemint.com/opinion/online-views/pavel-durov-telegram-ceo-elon-musk-social-media-platforms-content-moderation-third-party-content-11725414995598.html)
+
+The article discusses tensions between social media platforms and nations regarding content moderation. It highlights cases of Telegram's CEO, Pavel Durov, being arrested in France for alleged crimes facilitated through his platform, and Elon Musk's conflict with Brazilian authorities over X (formerly Twitter). These incidents signal a shift in global attitudes towards tech company immunity. 
+
+A US court ruling declaring TikTok's algorithmic recommendations as "first-party speech," and therefore not protected under Section 230, raises further concerns. If this precedent is followed, it could discourage platforms from using algorithms, potentially limiting how users discover content online. The article concludes that governments are pushing for greater control over online content and that the landscape of internet content moderation is changing significantly.
+
 Wed, 04 Sep 2024 11:03:17 +0530
 ### [Dunzo could have been a Zepto. So why did it fail?](https://www.livemint.com/opinion/online-views/dunzo-job-cut-zepto-swiggy-instamart-bigbasket-zomato-blinkit-quick-commerce-delivery-platform-flipkart-amazon-reliance-11725422823641.html)
 

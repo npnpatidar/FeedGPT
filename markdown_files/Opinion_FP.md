@@ -1,3 +1,12 @@
+Wed, 4 Sep 2024 12:29:43 +0530
+### [PM Modi's visit to Singapore: Ties born of mutual respect](https://www.firstpost.com/opinion/pm-modis-visit-to-singapore-ties-born-of-mutual-respect-13811582.html)
+
+The article discusses the close relationship between India and Singapore, highlighting similarities in history, culture, and demographics. Singapore, despite being a small city-state, boasts a strong economy and high quality of life, serving as a role model for India.  
+
+The article emphasizes the significance of the Indian diaspora in Singapore, which acts as a bridge between the two nations. It points out the need for the Indian diaspora to contribute more to India through investments and entrepreneurship, drawing a comparison to the role of the Chinese diaspora in China's economic growth.
+
+The upcoming visit of Indian Prime Minister Narendra Modi to Singapore is anticipated to focus on strengthening economic ties, particularly in sectors like semiconductors and technology.  The article concludes by stressing the potential for collaboration between India and Singapore in various areas, leveraging the unique strengths of both nations.
+
 Wed, 4 Sep 2024 11:35:54 +0530
 ### [Geopolitical consequences of ‘orchestrated revolution’ in Bangladesh](https://www.firstpost.com/opinion/geopolitical-consequences-of-orchestrated-revolution-in-bangladesh-13811550.html)
 

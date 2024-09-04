@@ -1,3 +1,10 @@
+Wed, 04 Sep 2024 00:30:00 +0530
+### [Cricket has much on its plate, including a new disruptor — Jay Shah](https://www.thehindu.com/opinion/columns/cricket-has-much-on-its-plate-including-a-new-disruptor/article68601245.ece)
+
+Jay Shah, the newly elected ICC chairman, is a prominent figure in Indian cricket, currently serving as the secretary of the BCCI.  He is expected to wield significant power in the ICC, potentially influencing the future direction of the sport. Some commentators express concerns about Shah's potential to prioritize Indian interests over the global good of cricket.
+ 
+Shah's tenure will face numerous challenges, including the growing influence of domestic T20 and T10 franchises, the upcoming cricket re-entry into the Olympics, and the ongoing dispute with Pakistan regarding bilateral series. The article raises questions about Shah's leadership style and whether he will be able to foster open discussion and transparency in the ICC or if his decisions will be driven by a desire to maintain control.
+
 Sun, 01 Sep 2024 06:43:06 +0530
 ### [The past shaping the 2024 J&K Assembly elections](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/the-past-shaping-the-2024-jk-assembly-elections/article68592222.ece)
 

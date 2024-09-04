@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>How navigation satellite-based tolling, live monitoring of plazas can lower wait times</title>
+			<link>https://indianexpress.com/article/explained/explained-satellite-tolling-live-monitoring-plazas-9549483/</link>
+			<description>The Ministry of Road Transport &amp; Highways has developed a GIS-based software for real-time monitoring of waiting times at toll plazas. This software, initially implemented at 100 toll plazas identified based on congestion feedback, will display queue length, waiting time, and vehicle speed.  
+
+The system provides congestion alerts and lane distribution recommendations.  It also offers comparative traffic condition analysis and updates on weather conditions and local festivals, aiding NHAI officials in managing traffic load. The software will be expanded to more toll plazas in phases.  
+
+The Ministry is concurrently working on implementing a GNSS-based tolling system, expected to replace FASTag and offer distance-based tolling, ensuring a free flow of vehicles at high speeds.</description>
+			<pubDate>Wed, 04 Sep 2024 06:50:43 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/toll-explained-sept-4.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/toll-explained-sept-4.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Four major US climate policies Donald Trump would reverse if elected</title>
 			<link>https://indianexpress.com/article/explained/explained-global/four-major-us-climate-policies-donald-trump-would-reverse-if-elected-9548868/</link>
 			<description>Donald Trump, if elected again, plans to reverse numerous Biden administration clean energy policies. These include EPA regulations requiring power plants to capture emissions or shut down, as well as fuel efficiency standards for cars. Additionally, Trump aims to expedite approvals for energy projects and build new power plants. The Trump campaign also intends to repeal EV subsidies outlined in the Inflation Reduction Act and withdraw from the Paris Agreement.  Trump argues these policies are burdensome to consumers and hinder economic growth.</description>
