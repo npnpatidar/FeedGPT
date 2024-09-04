@@ -1,3 +1,17 @@
+Thu, 05 Sep 2024 00:20:00 +0530
+### [​Trading up: on the World Bank’s India Development Update](https://www.thehindu.com/opinion/editorial/%E2%80%8Btrading-up-on-the-world-banks-india-development-update/article68606096.ece)
+
+The World Bank has raised India's GDP growth forecast for 2024-25 to 7%, aligning with predictions from the IMF and ADB. This upward revision comes despite a subdued global economic outlook. 
+
+The Bank attributes India's strong growth to expected rises in private consumption and the farm sector. However, external risks like supply chain pressures and inflation remain a concern.  
+
+The World Bank also emphasizes the need for India to revamp its trade strategy, suggesting a reduction in tariffs and non-tariff barriers to better capitalize on global opportunities.
+
+Thu, 05 Sep 2024 00:10:00 +0530
+### [​Death for rape: on The Aparajita Women and Child (West Bengal Criminal Laws Amendment) Bill, 2024](https://www.thehindu.com/opinion/editorial/%E2%80%8Bdeath-for-rape-on-the-aparajita-women-and-child-west-bengal-criminal-laws-amendment-bill-2024/article68605587.ece)
+
+Following the rape and murder of a doctor in Kolkata, the West Bengal Assembly passed a bill introducing the death penalty for certain sexual offenses. The bill amends the state's criminal laws to include death for rape, gang rape, and aggravated assaults. It also proposes special courts for time-bound trials of such cases.  While the call for tougher laws often arises after such incidents, the bill's efficacy in deterring sexual offences is questionable. Some argue that focusing on societal change and ensuring women's safety in homes and workplaces is more impactful than solely relying on legal sanctions.
+
 Wed, 04 Sep 2024 00:20:00 +0530
 ### [​Demolition squad: On the Supreme Court and ‘bulldozer justice’](https://www.thehindu.com/opinion/editorial/%E2%80%8Bdemolition-squad-on-the-supreme-court-and-bulldozer-justice/article68601539.ece)
 

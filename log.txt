@@ -8035,3 +8035,10 @@ Started at 2024-09-04 18:14:39
 Finished at 2024-09-04 18:15:04
 Total time taken: 24.974245309829712 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-04 20:13:05
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-04 20:13:28
+Total time taken: 23.31844162940979 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
