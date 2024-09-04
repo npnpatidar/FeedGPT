@@ -8011,3 +8011,12 @@ Started at 2024-09-04 12:22:54
 Finished at 2024-09-04 12:23:34
 Total time taken: 39.913394927978516 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-04 14:11:08
+1 Feed entries have been written to feeds/Explained_IE.xml
+3 Feed entries have been written to feeds/Explain_FP.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+5 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-04 14:11:30
+Total time taken: 21.814096927642822 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

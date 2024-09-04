@@ -1,3 +1,10 @@
+Wed, 4 Sep 2024 19:19:55 +0530
+### [IC 814 Kandahar hijacking: The perspective from Islamabad](https://www.firstpost.com/opinion/ic-814-kandahar-hijacking-the-perspective-from-islamabad-13811775.html)
+
+This article recounts Ruchi Ghanashyam's experience as India's first woman diplomat in Pakistan during the hijacking of Indian Airlines Flight IC-814 in 1999. As her husband, Ambassador Ghanashyam, was the official sent to Kandahar, Afghanistan to negotiate the hostages' release, Ruchi faced a heightened sense of anxiety and uncertainty during the tense days following the hijacking.  
+
+Despite the historical context of previous hijackings and the precarious situation in Taliban-controlled Afghanistan, Ruchi found solace in her belief that the Pashtun tradition of hospitality would offer protection to her husband. She details the depleted staff at the Indian High Commission, the Pakistani media's speculation, and her personal encounter with a Pakistani journalist who questioned Ghanashyam's identity and role. The article concludes with Ruchi reflecting on the event, questioning whether their actions stemmed from bravery, naivety, or simply the demands of their work.
+
 Wed, 4 Sep 2024 15:54:30 +0530
 ### [UC Berkeley vigil for Bangladesh Hindus: Lessons for survival](https://www.firstpost.com/opinion/uc-berkeley-vigil-for-bangladesh-hindus-lessons-for-survival-13811680.html)
 

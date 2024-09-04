@@ -1,3 +1,10 @@
+Wed, 04 Sep 2024 12:24:44 +0000
+### [Genome mapping of Chandipura virus: what researchers found](https://indianexpress.com/article/explained/explained-health/genome-mapping-chandipura-virus-9550092/)
+
+The Gujarat Biotechnology Research Centre has fully mapped the Chandipura Vesiculovirus genome, responsible for a significant portion of encephalitis cases in Gujarat during a July-August outbreak.  The mapped virus showed similarities to strains from previous outbreaks in India, specifically 2003-04 and 2012, with only a few mutations in the glycoprotein gene.  This finding suggests the virus may not have evolved significantly and indicates there's been limited selection pressure for immunity escape.  
+
+The researchers also noted that patients in the outbreak had a high Cycle Threshold (Ct) value in RT-PCR tests, implying a low viral load despite the severity of symptoms. This information is crucial for understanding the virus's behavior and developing effective treatments and vaccines.
+
 Wed, 04 Sep 2024 11:59:51 +0000
 ### [RIL to approve bonus issue on Sept 5: five things that investors must know](https://indianexpress.com/article/explained/explained-economics/explained-five-things-investors-ril-bonus-issue-9550061/)
 

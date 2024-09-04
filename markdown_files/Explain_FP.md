@@ -1,3 +1,20 @@
+Wed, 4 Sep 2024 19:14:56 +0530
+### [This airline’s first class seats are too heavy. Here’s why that is a problem](https://www.firstpost.com/explainers/this-airlines-first-class-seats-are-too-heavy-heres-why-that-is-a-problem-13811733.html)
+
+Swiss International Airlines is introducing new, luxurious first-class seats called "Swiss Senses" on its Airbus A330s.  Scheduled for 2025, the suites offer spacious privacy with six-foot walls and sliding doors. 
+
+However, the heavier-than-expected seats have created an imbalance in the aircraft. To address this, the airline will install a large balancing plate at the rear of the plane. Swiss acknowledges the environmental impact of the increased weight and reduced the number of first-class seats to mitigate it. The airline is also exploring alternative technological solutions for balancing the aircraft in the future.
+
+Wed, 4 Sep 2024 18:27:54 +0530
+### ['Queen of trash' goes on trial in Sweden. Who is Bella Nilsson?](https://www.firstpost.com/explainers/queen-of-trash-goes-on-trial-in-sweden-who-is-bella-nilsson-13811759.html)
+
+Bella Nilsson, formerly known as Fariba Vancor, is on trial in Sweden for her role in one of the country's largest environmental crime cases. Nilsson was the CEO of waste management company NMT Think Pink, which is accused of illegally dumping 200,000 tonnes of toxic waste across 21 sites. Prosecutors allege that the company collected waste with no intention of handling it properly, endangering the health of humans, animals, and plant life. Nilsson and other accused individuals deny the charges. Evidence includes financial irregularities, with company funds allegedly spent on personal luxuries, and environmental contamination, with fires erupting from waste piles. The trial is expected to last until May and involves a substantial body of evidence and numerous witnesses.
+
+Wed, 4 Sep 2024 18:10:41 +0530
+### [Earth's ‘Gateway to Hell’ in Siberia has tripled in size. Here's why](https://www.firstpost.com/explainers/gateway-to-hell-siberia-tripled-in-size-13811682.html)
+
+The Batagaika Crater, nicknamed the "Gateway to Hell," is a massive sinkhole in Siberia that has been expanding rapidly due to climate change.  Originally forming millions of years ago during the Quaternary Ice Age, the crater has become significantly larger in recent decades due to thawing permafrost. Scientists are studying the Batagaika Crater to better understand the impact of climate change on permafrost and the potential consequences of accelerating permafrost thaw, including increased greenhouse gas emissions and threats to local ecosystems.  The crater's growth is causing erosion of the nearby Batagay River and altering the surrounding environment. Concerns exist that the crater could expand further, posing risks to nearby villages and releasing significant amounts of trapped organic carbon into the atmosphere.
+
 Wed, 4 Sep 2024 17:32:46 +0530
 ### [Haryana Assembly polls: Are wrestlers Vinesh Phogat, Bajrang Punia joining Congress?](https://www.firstpost.com/explainers/haryana-assembly-polls-wrestlers-vinesh-phogat-bajrang-punia-rahul-gandhi-congress-13811725.html)
 
