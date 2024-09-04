@@ -7,6 +7,15 @@ The case highlights concerns about Google's market share exceeding 90%, with som
 
 The court proceedings are expected to determine whether Google will be required to stop these payments, give users more control over their default search engine, share user search data with competitors, or even be broken up into smaller companies.
 
+Tue, 03 Sep 2024 20:19:25 +0530
+### [How Shivaji remains a hot button issue in Maharashtra politics](https://www.thehindu.com/news/national/maharashtra/shivaji-and-maharashtra-politics-how-the-maratha-emperor-remains-a-hot-button-issue/article68598326.ece)
+
+The collapse of a 35-foot statue of Chhatrapati Shivaji Maharaj at Rajkot Fort in Sindhudurg district sparked outrage and accusations of corruption against the ruling BJP-led coalition in Maharashtra.  Prime Minister Narendra Modi apologized for the incident, stating that Shivaji Maharaj is not just a king but a revered figure for him and everyone. 
+
+The Opposition, led by the Maha Vikas Aghadi, alleged that the statue's collapse was due to negligence and corruption during its construction and demanded action against those responsible. Meanwhile, the BJP maintained that the incident occurred due to heavy rain and high winds. A committee investigation is underway to determine the exact cause.  
+
+Chhatrapati Shivaji Maharaj, a 17th-century Maratha warrior king, is a revered icon in Maharashtra. His legacy is intertwined with political discourse, with various political parties, including the Shiv Sena, BJP, and Congress, claiming to champion his ideals and memory.
+
 Mon, 02 Sep 2024 22:50:43 +0530
 ### [On Germany’s electoral architecture | Explained](https://www.thehindu.com/news/international/on-germanys-electoral-architecture-explained/article68598322.ece)
 

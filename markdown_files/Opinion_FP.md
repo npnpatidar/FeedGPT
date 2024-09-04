@@ -1,3 +1,12 @@
+Wed, 4 Sep 2024 15:54:30 +0530
+### [UC Berkeley vigil for Bangladesh Hindus: Lessons for survival](https://www.firstpost.com/opinion/uc-berkeley-vigil-for-bangladesh-hindus-lessons-for-survival-13811680.html)
+
+A recent vigil at UC Berkeley highlighted the growing concern for Hindus facing aggression and persecution, especially in Bangladesh.  While media coverage often minimizes or rationalizes these events, many Hindus feel unheard and powerless.
+
+The article argues that a shift towards emphasizing Hindu success in economic and social spheres over clearly proclaiming a deity-centric worldview has been detrimental.  It criticizes Hindu leaders for embracing a narrative of assimilation rather than defending their traditions and religious beliefs forcefully. The authors believe this approach has weakened Hindus' ability to respond to  Hinduphobia and leaves their children vulnerable to the anti-Hindu rhetoric they face in Western societies. 
+ 
+They call for Hindus to reclaim their ancestral strengths and stand by their gods and traditions openly, arguing this is the only way to truly combat the growing threat to their faith.
+
 Wed, 4 Sep 2024 12:29:43 +0530
 ### [PM Modi's visit to Singapore: Ties born of mutual respect](https://www.firstpost.com/opinion/pm-modis-visit-to-singapore-ties-born-of-mutual-respect-13811582.html)
 

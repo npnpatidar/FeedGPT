@@ -1,3 +1,29 @@
+Wed, 4 Sep 2024 17:32:46 +0530
+### [Haryana Assembly polls: Are wrestlers Vinesh Phogat, Bajrang Punia joining Congress?](https://www.firstpost.com/explainers/haryana-assembly-polls-wrestlers-vinesh-phogat-bajrang-punia-rahul-gandhi-congress-13811725.html)
+
+Wrestlers Vinesh Phogat and Bajrang Punia recently met with Congress leader Rahul Gandhi and general secretary KC Venugopal, fueling speculation about their potential entry into the political arena. Both wrestlers have previously shown support for farmers' protests and had led a high-profile agitation against the former Wrestling Federation of India (WFI) chief, Brij Bhushan Sharan Singh, accusing him of sexual harassment.  While no official announcements have been made, Congress officials suggest that the wrestlers' political aspirations may become clearer in the near future.
+
+Wed, 4 Sep 2024 17:30:17 +0530
+### [Is Amazon's Alexa biased towards Kamala Harris?](https://www.firstpost.com/explainers/is-amazons-alexa-biased-towards-kamala-harris-13811608.html)
+
+Amazon's Alexa came under fire for allegedly displaying political bias when answering questions about voting for Donald Trump and Kamala Harris. 
+
+Users noticed that Alexa provided reasons to vote for Harris while offering criticisms of Trump. This inconsistency led to accusations of bias and caused Amazon's share price to dip. 
+
+A spokesperson for Amazon acknowledged the issue as an "error" and stated they had implemented a fix. They emphasized that Alexa does not have political affiliations and is constantly being updated to prevent such incidents in the future.
+
+Wed, 4 Sep 2024 16:13:35 +0530
+### [Why is Canada suddenly rejecting more visitor visas?](https://www.firstpost.com/explainers/why-is-canada-suddenly-rejecting-more-visitor-visas-13811652.html)
+
+Canada has seen a sharp rise in visitor visa rejections, reaching the highest levels since early 2019. In July 2024 alone, nearly 6,000 foreign travellers were denied entry. This increase coincides with stricter immigration enforcement measures under Prime Minister Justin Trudeau's government. 
+
+Growing public concern about immigration's impact on housing and living costs is believed to be a contributing factor to this trend. Border officials are reportedly more skeptical of applicants' intentions, and more visas are being refused than approved.  This shift has also impacted other temporary residency categories, such as study and work permits.  The government cites the need to address public concerns and manage population growth,  but the move has been criticized by opposition parties who accuse the government of mismanaging the immigration system.
+
+Wed, 4 Sep 2024 16:10:07 +0530
+### [Google Pay unveils UPI Circle: What is it? How does it help those without bank account?](https://www.firstpost.com/explainers/google-pay-unveils-upi-circle-what-is-it-how-does-it-help-those-without-bank-account-13811696.html)
+
+UPI Circle, a new feature by Google Pay in partnership with NPCI, allows users to add family and friends as secondary users for making digital payments without linking their bank accounts.  This aims to bridge the gap for those hesitant or unable to use UPI due to limited banking access.  Secondary users can make payments up to a certain limit (Rs 15,000 per month, Rs 5,000 per transaction)  without primary user authorization in full delegation mode. Partial delegation requires primary user approval for each transaction. Primary users can add up to five secondary users, who can only be part of one UPI Circle. The feature will be available on other UPI apps like BHIM, PhonePe, and Amazon Pay.
+
 Wed, 4 Sep 2024 15:31:06 +0530
 ### [Why have wolves in UP’s Bahraich turned ‘man-eaters’?](https://www.firstpost.com/explainers/uttar-pradesh-bahraich-attacks-why-wolves-turned-man-eaters-13811616.html)
 

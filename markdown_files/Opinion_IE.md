@@ -1,3 +1,10 @@
+Wed, 04 Sep 2024 10:30:57 +0000
+### [Malaysian PM Anwar Ibrahim’s recent visit to India marked a reset in India-Malaysia relations](https://indianexpress.com/article/opinion/columns/malaysia-pm-anwar-ibrahim-recent-visit-india-marked-reset-india-malaysia-relations-9549739/)
+
+The recent visit of Malaysian Prime Minister Anwar Ibrahim to India significantly strengthened bilateral relations. This partnership has progressed from an "enhanced strategic partnership" to a "comprehensive strategic partnership,"  reflecting  growing economic and diplomatic cooperation. Key areas of focus include  enhancing trade through initiatives like the CEOs Forum and expediting the review of the ASEAN-India Trade in Goods Agreement (AITIGA).  Both countries are also collaborating on digital technologies and exploring currency trading arrangements. The visit also saw an agreement on the recruitment, employment, and repatriation of workers, addressing the concerns of the substantial Indian diaspora in Malaysia.  While the South China Sea issue was addressed, with India reiterating its stance on freedom of navigation, the talks focused on building a more just and multipolar world order.  
+
+Malaysia expressed support for India's bid for permanent membership in a reformed UN Security Council and its application to BRICS.
+
 Wed, 04 Sep 2024 08:30:43 +0000
 ### [‘IC 814: The Kandahar Hijack’ controversy: When a culture is hijacked by the permanently offended](https://indianexpress.com/article/opinion/columns/ic-814-the-kandahar-hijack-controversy-9549638/)
 

@@ -1,3 +1,14 @@
+Wed, 04 Sep 2024 16:00:17 +0530
+### [Do responses to the Hindenburg report reveal a colonial hangover?](https://www.livemint.com/opinion/online-views/sebi-madhabi-puri-buch-hindenburg-report-adani-colonial-mindset-western-narratives-british-raj-credibility-11725414371389.html)
+
+The article critiques the automatic acceptance of foreign analyses, particularly those from Western sources, in India. It argues that this tendency reflects a lingering colonial mindset, where external perspectives are viewed as inherently more credible and authoritative than domestic ones. 
+
+This, the author suggests, is evident in the immediate call for investigations into allegations made against Indian institutions by foreign entities, without due scrutiny of the allegations themselves.  
+
+The author contrasts this with the apparent disregard for criticism of Western policies and institutions from non-Western sources, highlighting a one-sided dynamic. 
+
+The article concludes by calling for a shift towards greater self-reliance and trust in Indian institutions, urging a critical examination of foreign assessments and a stronger assertion of an independent Indian narrative.
+
 Wed, 04 Sep 2024 15:00:15 +0530
 ### [There is no such thing as ‘unskilled labour’: Drop its use.](https://www.livemint.com/opinion/online-views/ai-hard-skills-soft-skills-empathy-manufacturing-unskilled-labour-market-value-technology-labour-market-11725416289260.html)
 

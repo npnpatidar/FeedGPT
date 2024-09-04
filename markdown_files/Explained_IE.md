@@ -1,3 +1,15 @@
+Wed, 04 Sep 2024 11:59:51 +0000
+### [RIL to approve bonus issue on Sept 5: five things that investors must know](https://indianexpress.com/article/explained/explained-economics/explained-five-things-investors-ril-bonus-issue-9550061/)
+
+Reliance Industries Ltd (RIL) is set to issue bonus shares to its shareholders in a 1:1 ratio, meaning one free share for every share held. The bonus issue, approved by the board on September 5th,  will increase the equity capital by Rs 6,770 crore.  
+
+The move is expected to boost liquidity and affordability for investors, potentially driving retail buying. However, RIL's share price is likely to decline proportionally to the increase in shares. 
+
+Analysts highlight that the bonus issue, while increasing shares, does not intrinsically improve the company's financial performance. Investors will benefit only if RIL registers better financial results in the future. 
+
+
+Despite the positive implications for liquidity, RIL shares have underperformed since January 2024, mirroring a sluggish market performance for the company.  The bonus issue might be considered a precursor to future capital expenditure plans by RIL,  a company with a history of bonus issuances.
+
 Wed, 04 Sep 2024 06:50:43 +0000
 ### [How navigation satellite-based tolling, live monitoring of plazas can lower wait times](https://indianexpress.com/article/explained/explained-satellite-tolling-live-monitoring-plazas-9549483/)
 
