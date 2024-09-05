@@ -1,3 +1,12 @@
+Thu, 5 Sep 2024 09:03:54 +0530
+### [Why space diplomacy is a critical component of India-Brunei relations](https://www.firstpost.com/opinion/why-space-diplomacy-is-a-critical-component-of-india-brunei-relations-13811903.html)
+
+India and Brunei have elevated their bilateral ties to an Enhanced Partnership, focusing on collaboration in energy, technology, and specifically space. 
+
+This comes amidst India's Act East policy and signifies the strategic importance of Brunei's location in the Indo-Pacific region. While Brunei currently lacks an active space program, it seeks international collaboration, leading to a recent MoU on cooperation in satellite and launch vehicle operations. This builds upon an existing arrangement from 1997 where ISRO established a telemetry tracking and command station in Brunei.  
+
+India sees opportunities to expand its space influence in the region, countering China's Space Silk Road initiative by engaging smaller Southeast Asian nations. Brunei's equatorial location makes it attractive for establishing a launchpad, further deepening India's space diplomacy efforts in the region.
+
 Wed, 4 Sep 2024 19:19:55 +0530
 ### [IC 814 Kandahar hijacking: The perspective from Islamabad](https://www.firstpost.com/opinion/ic-814-kandahar-hijacking-the-perspective-from-islamabad-13811775.html)
 

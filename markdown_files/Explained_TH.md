@@ -1,3 +1,10 @@
+Thu, 05 Sep 2024 08:30:00 +0530
+### [What do we know about ANIIDCO? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-do-we-know-about-aniidco-andaman-and-nicobar-islands-integrated-development-corporation/article68606680.ece)
+
+The Andaman and Nicobar Islands Integrated Development Corporation (ANIIDCO) is responsible for a ₹72,000 crore infrastructure project on Great Nicobar. Concerns have been raised about ANIIDCO's capability to handle such a large and complex project.  At the time of its appointment as project proponent, ANIIDCO lacked an environment policy, an environmental cell, and the necessary human resources. 
+
+The Expert Appraisal Committee (EAC) raised concerns about ANIIDCO's environmental governance system, including the absence of a corporate environment policy.  Despite these concerns, the EAC granted environmental clearance to ANIIDCO.  Further, the process involved potential conflicts of interest, as the managing director of ANIIDCO was also the Commissioner cum Secretary (Environment and Forests) of the islands.
+
 Wed, 04 Sep 2024 08:30:00 +0530
 ### [Why is Google accused of being an illegal monopoly? | Explained](https://www.thehindu.com/sci-tech/technology/why-is-google-accused-of-being-an-illegal-monopoly/article68602619.ece)
 

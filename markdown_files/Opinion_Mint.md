@@ -1,3 +1,34 @@
+Thu, 05 Sep 2024 08:30:04 +0530
+### [Tax overload: India’s middle class is hurting because of inequitable taxation](https://www.livemint.com/opinion/online-views/income-tax-corporate-taxation-india-s-middle-class-consumption-tax-policy-inflation-unemployment-regressive-taxation-11725503484923.html)
+
+This article argues that India's tax system has become increasingly regressive, disproportionately burdening the middle class. 
+
+It points to the decrease in corporate tax revenue as a result of tax cuts implemented in 2019, despite the lack of corresponding benefits in terms of increased investment or economic growth. 
+
+The article highlights the economic struggles of the middle class, citing factors like stagnant salaries, high GST rates, persistent inflation, and rising unemployment.   
+
+It contrasts India's approach with global trends, where countries are moving towards more equitable tax policies that prioritize reducing inequality.
+
+The author calls for tax reforms that create a more transparent and progressive system, where those with greater means contribute a fairer share to support national development.
+
+Thu, 05 Sep 2024 07:30:01 +0530
+### [Deposits won’t grow faster; it is time for credit growth to slow down](https://www.livemint.com/opinion/deposits-credit-growth-rbi-system-liquidity-11725465990059.html)
+
+The Reserve Bank of India (RBI) is deliberately managing deposit growth by implementing a "withdrawal of liquidity" stance. This policy aims to curb excessive credit expansion.  
+
+The RBI has used various tools, like repo auctions and managing reserve money growth, to influence deposit levels. While deposit growth remains stable near 12%, the composition is shifting, favoring term and bulk deposits over Casa deposits due to higher interest rates. 
+
+To mitigate risks associated with relying heavily on bulk deposits, the RBI has advised caution and introduced a new liquidity coverage ratio framework to encourage more granular deposits.  
+
+The RBI has also taken a strong stance on credit, addressing excesses in specific segments and products. By increasing risk weights and issuing cease-and-desist orders, the central bank aims to ensure financial stability.
+
+As a result of these actions, credit growth is expected to moderate to 12.5-13% in FY25, from 16% the previous year.  The widening credit-deposit ratio is anticipated to converge in the coming year, aligning with the RBI's Financial Stability report analysis.  This slowdown in credit growth will also provide a test of the quality of credit originated during the post-pandemic period of easy money.
+
+Thu, 05 Sep 2024 07:11:00 +0530
+### [Mint Quick Edit | AI chip-maker Nvidia’s share crash is a reality check](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-ai-chip-maker-nvidia-share-price-crash-stock-market-anti-trust-subpoena-monopolization-11725499989272.html)
+
+Global stock markets declined on Wednesday, influenced by a downturn in US markets triggered by Nvidia's shares. Nvidia experienced a 9.5% drop after news of a US Department of Justice subpoena related to alleged monopoly practices. Investor confidence was further shaken by Nvidia's recent quarterly earnings report, which fell short of expectations. Despite this, Nvidia's shares remain significantly up year-to-date, reflecting the robust demand for its AI-powered chips. However, the recent correction suggests that market expectations may be adjusting to reality.
+
 Wed, 04 Sep 2024 16:00:17 +0530
 ### [Do responses to the Hindenburg report reveal a colonial hangover?](https://www.livemint.com/opinion/online-views/sebi-madhabi-puri-buch-hindenburg-report-adani-colonial-mindset-western-narratives-british-raj-credibility-11725414371389.html)
 

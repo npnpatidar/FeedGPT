@@ -1,3 +1,15 @@
+Thu, 5 Sep 2024 08:11:33 +0530
+### [PM Modi in Singapore: How the island nation became India’s top FDI source](https://www.firstpost.com/explainers/pm-modi-singapore-india-top-fdi-source-13811787.html)
+
+Prime Minister Narendra Modi's visit to Singapore highlights the strong economic ties between the two nations. Singapore is India's top source of Foreign Direct Investment (FDI), with a cumulative inflow of $159.94 billion since 2000, representing 24% of India's total FDI. In the recent quarter, Singapore led FDI into India at $3.9 billion.  
+
+Experts attribute Singapore's prominence to factors like its competitive tax regime, efficient regulatory environment, and attractive features for global investors seeking Asian market entry.  While global uncertainties may temporarily impact FDI flows, India remains attractive to Singaporean investors, with anticipated growth in sectors like real estate, renewables, and semiconductors.
+
+Thu, 5 Sep 2024 06:47:58 +0530
+### [FirstUp: PM Modi to meet counterpart Wong in Singapore and other big stories today](https://www.firstpost.com/explainers/firstup-pm-modi-to-meet-counterpart-wong-in-singapore-and-other-big-stories-today-13811698.html)
+
+Several key events are scheduled for September 5th. Prime Minister Modi will meet with Singapore's Prime Minister Lawrence Wong to strengthen bilateral ties.  President Murmu will preside over the National Awards ceremony, honoring 50 exceptional teachers. Reliance Industries shareholders are expected to approve a bonus share issue.  In the US, jury selection begins in Hunter Biden's tax trial.
+
 Wed, 4 Sep 2024 22:59:11 +0530
 ### [Harris skipped campaigning in New Hampshire, a swing state, until now; here's why](https://www.firstpost.com/world/kamala-harris-new-hampshire-swing-state-13811836.html)
 

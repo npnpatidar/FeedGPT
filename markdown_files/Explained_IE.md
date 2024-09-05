@@ -1,3 +1,19 @@
+Thu, 05 Sep 2024 01:27:34 +0000
+### [State changes in rape law: How Bengal, Andhra, and Maharashtra bills compare](https://indianexpress.com/article/explained/explained-law/rape-law-how-bengal-andhra-maharashtra-bills-compare-9550878/)
+
+The West Bengal Assembly unanimously passed a Bill, the Aparajita Woman and Child (West Bengal Criminal Laws Amendment) Bill, 2024,  to mandate the death penalty for rape cases where the victim dies or is left in a permanent vegetative state. The Bill also introduces death as the maximum punishment in all rape cases and establishes special task forces and courts to handle these offences. 
+ It amends existing laws like the Bharatiya Nyaya Sanhita, 2023 (BNS), the Bharatiya Nyaya Suraksha Sanhita, 2023 (BNSS), and the Protection of Children Against Sexual Offences Act, 2012 (POCSO). The Bill also enhances punishments for  repeated rape offenses, acid attacks, and discloses the identity of rape victims.
+
+Sentencing in rape cases will be expedited with shorter timelines for investigation and trial.  The bill awaits the President's assent for it to come into force.
+
+Thu, 05 Sep 2024 00:51:06 +0000
+### [4 out of 5 Indians want their national leader to share religious beliefs with them: what Pew study found](https://indianexpress.com/article/explained/everyday-explainers/4-of-5-indians-want-national-leader-to-share-religious-beliefs-pew-study-9550527/)
+
+A Pew Research Center study examined attitudes towards religious qualities in national leaders across 35 countries. 81% of Indians believe it's important for their leader to advocate for people sharing their religion, the fifth highest rate globally. 79% of Indians also consider strong religious beliefs in a leader important, regardless of personal alignment.  
+
+In India, 81% believe their leader should have the same religious beliefs as them. 
+Globally, those who prioritize religion are more likely to desire leaders who champion their religious views.  Interestingly, the difference between Hindu and Muslim preferences in India was minimal.
+
 Wed, 04 Sep 2024 14:25:26 +0000
 ### [Why Mongolia refused to arrest Vladimir Putin](https://indianexpress.com/article/explained/explained-global/explained-mongolia-putin-arrest-9550491/)
 

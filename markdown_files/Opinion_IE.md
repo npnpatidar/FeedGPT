@@ -1,3 +1,58 @@
+Thu, 05 Sep 2024 01:55:43 +0000
+### [This Teachers’ Day, let’s thank the gurus who built our nation](https://indianexpress.com/article/opinion/columns/teachers-day-9550866/)
+
+This article celebrates the pivotal role teachers play in society, drawing upon India's historical reverence for the guru-shishya tradition. It highlights the profound impact teachers have on students, shaping not just their intellect but also their values and character.  The author emphasizes the importance of teachers in nation-building, particularly in the context of the National Education Policy 2020, which recognizes their crucial role in shaping the future of India's youth.  The article lauds Prime Minister Modi's "Pariksha Pe Charcha" initiative as an example of a true educator engaging with students and creating a supportive learning environment.  Ultimately, the author expresses heartfelt gratitude to all teachers for their immeasurable contributions and enduring influence.
+
+Thu, 05 Sep 2024 01:50:31 +0000
+### [A Constitution museum: Bringing the republic to the public](https://indianexpress.com/article/opinion/columns/constitution-museum-republic-9550865/)
+
+The Constitution of India, adopted on November 26, 1949, and coming into effect on January 26, 1950, marks a significant milestone in India's history.  Drafted during a time of great social, economic, and political change, it reflects a vision of social revolution and not just a legal document. Completed after numerous sessions by the Constituent Assembly, the Constitution embodies the ideas of parliamentary government, fundamental rights, and directive principles of state policy.  Its ongoing interpretation by courts and amendments by Parliament have made it one of the world's most dynamic and evolving constitutions.  A Constitution Museum is proposed to celebrate this history, democratize access to constitutional knowledge, promote civic education, recognize the contributions of the framers, and foster public discourse on the Constitution's relevance to contemporary India.
+
+Thu, 05 Sep 2024 01:50:14 +0000
+### [September 5, 1984, Forty Years Ago: No Room To Move](https://indianexpress.com/article/opinion/40-years-ago/september-5-1984-forty-years-ago-no-room-to-move-9550789/)
+
+A Supreme Court judge has been residing in temporary accommodations in Delhi due to a former minister's family refusing to vacate the official bungalow allocated to him.  In Andhra Pradesh, the state assembly is set to convene to test the majority support of Chief Minister N Bhaskara Rao.  Meanwhile, Sikh high priests have outlined three conditions for calling off their planned march on the Golden Temple, including the withdrawal of the army and a halt to the "kar seva" by Santa Singh.  The Economic Administration Reforms Commission (EARC) has argued that India's rent control legislation unduly favors tenants over landlords, potentially leading to exploitation.
+
+Thu, 05 Sep 2024 01:50:11 +0000
+### [Express View: Who’s a clever dog?](https://indianexpress.com/article/opinion/editorials/express-view-whos-a-clever-dog-9550788/)
+
+A study found that dogs can remember up to a dozen object names for years, even if they haven't seen the objects recently. This suggests a strong connection between long-term memory and language comprehension, offering insights into brain function.  
+
+Dogs' exceptional memory, combined with their emotional intelligence and understanding of human behavior, makes them suitable for various roles like service animals and in search and rescue operations. 
+
+While other animals display intelligence, dogs' cognitive abilities seem to have evolved due to their long-standing relationship with humans.  Puppies are particularly adept at understanding human cues and using them to navigate their environment, showcasing the impact of domestication on canine intelligence.
+
+Thu, 05 Sep 2024 01:45:05 +0000
+### [West Bengal’s anti-rape law: A knee-jerk reaction](https://indianexpress.com/article/opinion/editorials/west-bengals-anti-rape-law-9550787/)
+
+The Aparajita Woman and Child Bill 2024, passed unanimously by the West Bengal Assembly, proposes stringent punishments for rape, including the death penalty in certain cases. While the bill aims to address the loopholes in existing laws, it raises concerns about its effectiveness in combating a deeply rooted culture of misogyny. Studies show that stricter laws alone do not deter crime, and institutional challenges like a lack of due process and system-wide insensitivity towards survivors persist. The bill also overlooks the need for broader societal change, including challenging patriarchal norms at the grassroots level. True progress requires addressing the systemic factors that contribute to gender-based violence, not just enacting punitive measures.
+
+Thu, 05 Sep 2024 01:45:00 +0000
+### [World Bank raises India’s growth forecast: An upward tick](https://indianexpress.com/article/opinion/editorials/world-bank-india-growth-9550786/)
+
+The World Bank has increased its growth prediction for the Indian economy to 7 percent for the current year, citing a rebound in rural incomes due to a good monsoon and increased consumption.  While investment growth is expected to moderate, the Bank remains optimistic about India's medium-term prospects, predicting an average growth rate of 6.7 percent between 2025 and 2027. 
+
+However, the report points out that India has struggled to capitalize on the export opportunities created by China's receding market share in low-skill manufacturing.  This is partly attributed to high tariffs and non-tariff barriers, leading to a decline in both direct and indirect export-related employment.
+
+
+The Bank recommends reducing tariffs, entering into more free trade agreements, and increasing integration with global value chains to address these challenges.
+
+Thu, 05 Sep 2024 01:35:43 +0000
+### [Why India should not have the Right to Disconnect](https://indianexpress.com/article/opinion/columns/right-to-disconnect-india-9550785/)
+
+India's unique economic context makes a blanket application of the "Right to Disconnect" law potentially harmful.  While advocating for work-life balance is crucial,  the "Right to Disconnect" philosophy, which emphasizes disconnecting from work-related communications outside official hours, might not be suitable for a rapidly developing economy like India's.
+
+The Indian workforce, driven by ambition and a strong work ethic, typically views work as a source of identity and purpose.  Lowering work hours could impede progress and limit India's ability to compete in the global market. 
+
+Instead of solely focusing on disconnecting, a more balanced approach that recognizes the importance of hard work and productivity while ensuring a healthy and motivated workforce is essential for India's continued growth.
+
+Thu, 05 Sep 2024 01:30:13 +0000
+### [Pratap Bhanu Mehta writes: S Radhakrishnan still speaks to our time](https://indianexpress.com/article/opinion/columns/radhakrishnan-speech-oxford-pb-mehta-9550723/)
+
+Radhakrishnan's inaugural lecture at Oxford, "The World's Unborn Soul,"  examines the global crisis of the 20th century. He highlights the interconnectedness of humanity due to advancements in technology and economics, yet observes a disconnect in our political structures and identities, leading to a sense of disquiet.
+
+He analyzes the erosion of established ideologies and the emergence of a fragile sense of self, pushing individuals towards therapy and fueling the rise of the state and nationalism. Radhakrishnan posits that a solution lies in cultivating openness to diverse cultures and understanding the true meaning of spirituality—the transcendence of the ego.
+
 Wed, 04 Sep 2024 10:30:57 +0000
 ### [Malaysian PM Anwar Ibrahim’s recent visit to India marked a reset in India-Malaysia relations](https://indianexpress.com/article/opinion/columns/malaysia-pm-anwar-ibrahim-recent-visit-india-marked-reset-india-malaysia-relations-9549739/)
 
