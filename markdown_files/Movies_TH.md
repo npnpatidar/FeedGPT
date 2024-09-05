@@ -1,3 +1,10 @@
+Thu, 05 Sep 2024 18:39:16 +0530
+### [The Greatest of All Time movie review: Vijay, Venkat Prabhu’s ‘GOAT’ chooses theatrical fan service over a compelling story](https://www.thehindu.com/entertainment/movies/the-greatest-of-all-time-movie-review-vijay-venkat-prabhus-goat-chooses-theatrical-fan-service-over-a-compelling-story/article68609437.ece)
+
+"The Greatest of All Time" (GOAT), directed by Venkat Prabhu, features Vijay in a double role as Gandhi and his son Jeevan. The film follows Gandhi, a seasoned agent, and his team as they face a personal tragedy and embark on a revenge mission. 
+
+While the film's plot is predictable and its action sequences lackluster, its biggest strength lies in its star-studded cast, especially Vijay's impressive performances in both roles. The film heavily relies on fan service, paying homage to Vijay's previous works and featuring cameos that delight his fans. Though not a groundbreaking thriller, GOAT offers a potent dose of  Entertainment for Vijay's admirers.
+
 Tue, 03 Sep 2024 10:54:05 +0530
 ### [‘Concord’ game review: Is This Guardians of the Galaxy-inspired game worth your money?](https://www.thehindu.com/entertainment/reviews/concord-game-review/article68595852.ece)
 

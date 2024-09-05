@@ -1,3 +1,37 @@
+Thu, 5 Sep 2024 19:04:14 +0530
+### [Does Vladimir Putin have 2 secret sons?](https://www.firstpost.com/explainers/does-vladimir-putin-have-2-secret-sons-13812090.html)
+
+Vladimir Putin has two young sons, Ivan and Vladimir Jr, allegedly fathered with former Olympic gymnast Alina Kabaeva. Despite Kremlin denials, reports suggest the boys live in seclusion at Putin's mansion near Moscow. 
+
+They are reportedly given cover identities, homeschooled, and have limited contact with the outside world.  
+
+While Putin has not publicly acknowledged them, they are said to enjoy a luxurious lifestyle and travel frequently with their father. 
+
+Putin has two adult daughters from a previous marriage, who largely stay out of the public eye.
+
+Thu, 5 Sep 2024 18:56:40 +0530
+### [In Graphics | Veganism is out, flexitarianism is in. What are these terms?](https://www.firstpost.com/explainers/in-graphics-veganism-is-out-flexitarianism-is-in-what-are-these-terms-13812133.html)
+
+The perception of veganism is changing, with some high-profile figures like Miley Cyrus and Mike Tyson abandoning plant-based diets. While veganism offers health benefits like lower cholesterol and reduced cancer risk, some former vegans cite fatigue, brain fog, and weakened health as reasons for switching.  Despite this, the growing vegan population suggests the movement remains significant.  However,  a more flexible approach, often called "flexitarianism,"  may be  gaining traction.
+
+Thu, 5 Sep 2024 18:12:35 +0530
+### [Sheikh Hasina fled Bangladesh a month ago. Here's how the country is faring](https://www.firstpost.com/explainers/sheikh-hasina-fled-bangladesh-a-month-ago-heres-how-the-country-is-faring-13812105.html)
+
+Bangladesh is in a state of flux following the resignation and exile of long-reigning Prime Minister Sheikh Hasina.  An interim government led by Nobel laureate Muhammad Yunus has taken over, focusing on restoring law and order, fighting corruption, and holding fresh elections.  
+
+Despite some signs of normality returning, tensions remain high. Widespread anger against Hasina's 15-year rule persists, with garment workers striking and former government officials facing legal action.  Student leaders, instrumental in forcing Hasina's resignation, are now part of the interim government but face the challenge of enacting meaningful reforms and managing public expectations.  
+
+The timing of the next elections is a point of contention, with critics urging the interim government to prioritize consensus building among political parties before proceeding.  Hasina's opposition, the Bangladesh Nationalist Party, is pushing for an early election, raising concerns about potential instability if their demands are not met.
+
+Thu, 5 Sep 2024 18:02:04 +0530
+### [Who is Anna Sorokin, the con artist who will participate in the US dancing reality show?](https://www.firstpost.com/explainers/anna-sorokin-con-artist-to-participate-in-us-dance-reality-show-13812068.html)
+
+Anna Sorokin, infamous for conning people while posing as a wealthy German heiress, will be competing on the upcoming season of Dancing With the Stars. 
+
+She gained notoriety for her elaborate scheme in New York City, faking financial statements and exploiting her fabricated social status. Sorokin's crimes led to her conviction and imprisonment in 2019, but she was released in 2021.  
+
+While under house arrest after being detained by immigration authorities,  Sorokin launched a podcast.  Her participation in "Dancing With the Stars" marks her attempt to rebrand and leverage her notoriety into a more positive trajectory.
+
 Thu, 5 Sep 2024 17:44:49 +0530
 ### [Why supermodel Elle Macpherson’s breast cancer story is causing a controversy](https://www.firstpost.com/explainers/why-supermodel-elle-macphersons-breast-cancer-story-is-causing-a-controversy-13812046.html)
 

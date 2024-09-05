@@ -1,3 +1,8 @@
+Thu, 05 Sep 2024 14:00:18 +0000
+### [Women have served in hellish work environments, our daughters deserve better](https://indianexpress.com/article/opinion/columns/women-served-in-hellish-work-environments-daughters-deserve-better-9552352/)
+
+The Hema Committee report reveals the stark reality of workplace challenges faced by women, particularly in the film industry. The report exposes the pervasive male domination, lack of safety measures, and instances of sexual harassment.  The article highlights the double burden of domestic and work responsibilities that women bear, often with insufficient support systems. It also points out the discrepancies in how women are perceived and treated in workplaces compared to men. The author stresses the need for a fundamental shift in mindset, emphasizing that women deserve respect, safety, and fair opportunities in all sectors.  The article calls for stricter implementation of existing laws, fair division of domestic work, and a collective effort to create an environment where women can thrive without facing discrimination or threats.
+
 Thu, 05 Sep 2024 12:16:27 +0000
 ### [As a teacher, how I made online classes fun for me — and my students](https://indianexpress.com/article/opinion/columns/teacher-online-classes-fun-me-students-9552065/)
 
