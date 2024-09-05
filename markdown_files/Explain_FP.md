@@ -1,3 +1,39 @@
+Thu, 5 Sep 2024 13:22:52 +0530
+### [Was Hvaldimir, the Russian ‘spy whale’, killed? Mystery deepens over death of the famous white beluga](https://www.firstpost.com/explainers/hvaldimir-russian-spy-whale-killed-mystery-death-famous-white-beluga-13811998.html)
+
+Hvaldimir, a white beluga whale known for his friendly interactions with humans and his alleged ties to Russia, was found dead off the Norwegian coast.  Initially, the cause of death was unclear, but animal rights groups now allege that Hvaldimir was shot. They cite multiple bullet wounds found on his body as evidence.  
+
+The groups have filed a police report, prompting an investigation. While the identity of the perpetrator remains unknown, Hvaldimir had gained notoriety in 2019 when he was found wearing a harness inscribed with "Equipment St. Petersburg," leading to speculation that he was a Russian spy. 
+
+Despite the accusations, Hvaldimir was beloved for his playful nature, often engaging with people and retrieving objects.
+
+Thu, 5 Sep 2024 13:19:18 +0530
+### [Is the Trudeau government set to fall? What’s going on in Canadian politics?](https://www.firstpost.com/explainers/canada-justin-trudeau-liberals-ndp-jagmeet-singh-withdraws-support-13811996.html)
+
+Justin Trudeau's minority Liberal government faces uncertainty after the New Democratic Party (NDP) withdrew its support. The NDP, led by Jagmeet Singh, cited Trudeau's handling of recent labor disputes as a reason for the decision.  The agreement, in place since 2022, protected the Liberal government from confidence votes.  
+
+The NDP's move leaves Trudeau needing to secure the support of other parties on a case-by-case basis to avoid an early election. This puts the government in a precarious position, especially as polls show declining popularity for the Liberals and support for the Conservative party.  
+
+While not immediately triggering an election, the NDP's decision significantly weakens the Liberal government and increases the potential for an early poll. The next budget, expected in March or April, could serve as a catalyst for an election.  The NDP's strategy is to distance itself from the unpopular Liberals and position itself for the next election by focusing on issues like fighting corporate interests and protecting social programs.
+
+Thu, 5 Sep 2024 13:05:20 +0530
+### [Kolkata rape-murder: Did police officials attempt to bribe parents of the trainee doctor?](https://www.firstpost.com/explainers/kolkata-rape-murder-police-officials-bribe-parents-of-the-trainee-doctor-13811947.html)
+
+The family of a trainee doctor murdered at RG Kar Medical College and Hospital in Kolkata has joined the protests, alleging police misconduct. They claim the police tried to suppress the incident, rushed the cremation, and offered them a bribe to drop the case. The allegations have been amplified by BJP leader Amit Malviya. The incident sparked widespread outrage and protests, leading to a CBI investigation. 
+
+The investigation has revealed possible tampering of the crime scene and inconsistencies in the initial handling of the case by the Kolkata Police. The West Bengal Assembly passed a  bill proposing stringent punishments, including capital punishment for perpetrators resulting in death or permanent vegetative state for victims.
+
+Thu, 5 Sep 2024 11:49:35 +0530
+### [Is Russia meddling in the 2024 US election? What we know so far](https://www.firstpost.com/explainers/is-russia-meddling-in-the-2024-us-election-what-we-know-so-far-13811953.html)
+
+The US government has intensified scrutiny of Russian attempts to interfere in the 2024 presidential election.  
+
+RT, a Russian state-controlled media outlet, is accused of being a key tool in spreading Kremlin-backed narratives and funding pro-Russian media campaigns in the US. Two RT employees were recently charged with funneling nearly $10 million to a Tennessee firm that employed conservative commentators to disseminate content favorable to Russia, particularly regarding Ukraine. 
+
+The US has seized 32 Kremlin-controlled websites designed to mimic authentic US news outlets and is taking other actions, such as visa restrictions and foreign agent registrations, to counter Russian influence. 
+
+Moscow's interference strategy, which involves disinformation campaigns, cyberattacks, and hacking attempts, is seen as a significant threat to US election security.
+
 Thu, 5 Sep 2024 10:51:42 +0530
 ### [Georgia school shooting: How mass killings in the US have already claimed 131 lives in 2024](https://www.firstpost.com/explainers/georgia-school-shoting-mass-killings-us-2024-13811904.html)
 

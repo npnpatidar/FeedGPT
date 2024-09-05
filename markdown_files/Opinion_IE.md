@@ -1,3 +1,12 @@
+Thu, 05 Sep 2024 07:28:17 +0000
+### [This Teachers’ Day, three challenges for educators](https://indianexpress.com/article/opinion/columns/this-teachers-day-three-challenges-for-educators-9551535/)
+
+This article argues that the true art of teaching is facing a crisis due to societal pressures prioritizing instrumental learning and economic success. The author emphasizes the need to recognize teaching as a serious vocation with a higher purpose.  
+
+They call for teachers to become "transformative intellectuals" who nurture democratic values, promote empathy and love in the face of growing violence, and educate students about the importance of ecological responsibility and resisting consumerism. 
+
+The author acknowledges the difficult working conditions faced by many teachers and calls for a fight to create a better environment for engaged teaching and meaningful research. Ultimately, the message is a call to value and respect teachers as agents of positive change.
+
 Thu, 05 Sep 2024 01:55:43 +0000
 ### [This Teachers’ Day, let’s thank the gurus who built our nation](https://indianexpress.com/article/opinion/columns/teachers-day-9550866/)
 

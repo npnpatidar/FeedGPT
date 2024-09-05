@@ -1,3 +1,10 @@
+Thu, 05 Sep 2024 07:34:28 +0000
+### [Why banks are witnessing a slowdown in bank deposit growth](https://indianexpress.com/article/explained/explained-economics/banks-slow-deposit-growth-markets-9551518/)
+
+Indian banks are facing challenges with slower deposit growth compared to credit. High credit growth paired with slowing deposits has created an asset-liability mismatch, raising concerns for the government and RBI. Several factors are contributing to this trend, including increased household investment in capital markets, driven by higher returns and ease of access offered by digital platforms. 
+
+To address this issue, banks are focusing on deposit mobilization through innovative schemes and special deposit products that offer higher interest rates to incentivize savings. Despite these efforts, deposit tightness is expected to persist, potentially leading to an increase in the cost of funds for banks. The RBI and government are urging banks to prioritize deposit growth and maintain a balance between credit expansion and stable funding sources.
+
 Thu, 05 Sep 2024 04:20:18 +0000
 ### [Why India celebrates Teachers’ Day on September 5](https://indianexpress.com/article/explained/explained-history/why-india-celebrates-teachers-day-on-september-5-9550877/)
 

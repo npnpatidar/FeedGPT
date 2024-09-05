@@ -1,3 +1,14 @@
+Thu, 05 Sep 2024 12:30:10 +0530
+### [Imperial Blue is up for sale: A win for gender sensitivity?](https://www.livemint.com/opinion/online-views/imperial-blue-whisky-pernod-ricard-premiumization-men-will-be-men-ad-campaign-gender-sensitivity-liquor-policy-sexism-11725500435935.html)
+
+Pernod Ricard has decided to sell its popular Imperial Blue whisky brand in India.  This move is likely driven by the company's focus on premium brands like Glenlivet and Jameson. 
+
+The  decision coincides with  regulatory challenges Pernod Ricard faces in India, including license issues and tax disputes. However, an unstated reason might be a desire to distance the brand from its past association with a sexist advertising tagline: "Men will be Men."  
+
+Though  this campaign was successful two decades ago,  attitudes have shifted significantly. Modern consumers, especially women, are less tolerant of gender insensitive marketing.  
+
+Companies need to be sensitive to these changing views and avoid perpetuating harmful stereotypes.  Shedding sexist associations, even indirectly, is a step towards creating a more inclusive and respectful marketplace.
+
 Thu, 05 Sep 2024 10:00:07 +0530
 ### [India’s economy needs moderate corporate taxes to prosper](https://www.livemint.com/opinion/online-views/direct-tac-collection-income-tax-corporate-taxation-cagr-private-investment-job-creation-gdp-indian-economy-11725502736459.html)
 
