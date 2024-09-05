@@ -1,3 +1,10 @@
+Thu, 05 Sep 2024 14:33:49 +0000
+### [Who is new France PM Michel Barnier? Why did his appointment take so long?](https://indianexpress.com/article/explained/explained-global/explained-new-france-pm-michel-barnier-9552398/)
+
+Michel Barnier, a seasoned politician with a long career in French and European politics, has been appointed as the new prime minister of France. Barnier, renowned for his role as the EU's Brexit negotiator, replaces Gabriel Attal, who served as caretaker prime minister.  The appointment came after a lengthy transition period, exceeding 50 days, the longest since the establishment of the Fifth Republic.  
+
+France's parliamentary elections resulted in a hung parliament, with no single party securing a majority. President Macron sought to unite "republican forces" and after extensive consultations,  eventually chose Barnier, relying on input from the far-right National Rally leader, Marine Le Pen. The appointment marked a strategic move to prevent a left-wing coalition from forming the government.
+
 Thu, 05 Sep 2024 13:01:38 +0000
 ### [Why the US jobs report could be the most pivotal one in years](https://indianexpress.com/article/explained/explained-economics/us-economy-jobs-report-employment-9552173/)
 

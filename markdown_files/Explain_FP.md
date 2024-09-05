@@ -1,3 +1,18 @@
+Thu, 5 Sep 2024 20:53:31 +0530
+### [Meteor strike in South Africa: What do we know? Where did it come from?](https://www.firstpost.com/explainers/meteor-strike-in-south-africa-what-do-we-know-where-did-it-come-from-13812223.html)
+
+In August 2024, a meteorite, estimated to be car-sized, fragmented over South Africa's Eastern Cape. A nine-year-old girl, Eli-zÃ© du Toit, discovered a 90-gram fragment. The find marks the 52nd recognized meteorite in South Africa. Meteorites are invaluable to scientists as they provide direct samples from space, offering insights into the solar system's formation and the evolution of planets. This particular meteorite is classified as an achondrite breccia, likely originating from the asteroid 4 Vesta, a significant body in the asteroid belt.
+
+Thu, 5 Sep 2024 20:31:49 +0530
+### [Tory leadership race: Priti Patel is out. Could Robert Jenrick replace Rishi Sunak as the next leader?](https://www.firstpost.com/explainers/tory-leadership-race-priti-patel-out-robert-jenrick-next-conservative-leader-13812201.html)
+
+Robert Jenrick has emerged as the frontrunner in the race to replace Rishi Sunak as leader of the UK's Conservative Party. Jenrick, a former immigration minister, secured 28 votes in the first round of voting, ahead of Kemi Badenoch who received 22 votes.  Jenrick, known for his shift from centrist to hardline views, has been a vocal advocate for stricter immigration policies, including withdrawal from the European Convention on Human Rights. The contest will continue with further rounds of voting, culminating in a final two candidates who will then be chosen by the wider party membership.
+
+Thu, 5 Sep 2024 20:02:56 +0530
+### [Pro-European, anti-Brexit hardliner: Meet France's new PM Michel Barnier](https://www.firstpost.com/explainers/pro-european-anti-brexit-hardliner-meet-frances-new-pm-michel-barnier-13812203.html)
+
+Michel Barnier, a seasoned politician with decades of experience serving in various French ministerial roles, has been appointed Prime Minister by President Emmanuel Macron. Known for his role as the EU's Brexit negotiator, Barnier is seen as a relatively unifying figure despite his previous more hardline stances on issues like immigration.  Barnier faces the challenge of forming a stable government in a fractured parliament following the recent legislative elections.  His appointment comes after a period of intense political uncertainty and amidst calls for financial stability from the EU. The success of his government will depend on his ability to navigate the complex political landscape and forge alliances across the divided parliamentary blocs.
+
 Thu, 5 Sep 2024 19:04:14 +0530
 ### [Does Vladimir Putin have 2 secret sons?](https://www.firstpost.com/explainers/does-vladimir-putin-have-2-secret-sons-13812090.html)
 
