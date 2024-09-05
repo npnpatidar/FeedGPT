@@ -8130,3 +8130,10 @@ Started at 2024-09-05 18:14:59
 Finished at 2024-09-05 18:15:20
 Total time taken: 21.240267276763916 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-05 20:12:59
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-05 20:13:19
+Total time taken: 20.507801294326782 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

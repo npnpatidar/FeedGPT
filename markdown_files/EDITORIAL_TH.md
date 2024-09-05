@@ -1,3 +1,13 @@
+Fri, 06 Sep 2024 00:20:00 +0530
+### [​Maoist setback: On the anti-Naxalite operations this year](https://www.thehindu.com/opinion/editorial/%E2%80%8Bmaoist-setback-on-the-anti-naxalite-operations-this-year/article68609915.ece)
+
+The year 2024 has seen significant setbacks for the Maoist movement in India, with 159 cadres killed in anti-Naxalite operations. Improved coordination between security forces has resulted in a string of successes, particularly in south Chhattisgarh.  This success is also attributed to the weakening base of support for the Maoists, as tribal populations are increasingly weary of the insurgency's violence. However, the government's "no-holds barred" approach, while effective against militants, has also raised concerns about the crackdown on peaceful activists fighting for tribal rights. Despite its resilience, the Maoist movement's outdated ideology has brought misery rather than progress to the very people it claims to represent. A shift towards engaging with the democratic system would be more beneficial for tribals caught in the crossfire.
+
+Fri, 06 Sep 2024 00:10:00 +0530
+### [​Income inequality: On the ILO’s World Employment and Social Outlook study](https://www.thehindu.com/opinion/editorial/%E2%80%8Bincome-inequality-on-the-ilos-world-employment-and-social-outlook-study/article68609994.ece)
+
+The ILO's World Employment and Social Outlook study links declining labor income share to technological advancements like automation and AI. A 1.6% drop globally between 2004-24 translates to $2.4 trillion in lost wages. The pandemic exacerbated this trend, highlighting the challenge of creating jobs amid rising inequality. Notably, young women are disproportionately impacted, with nearly a third worldwide outside of employment, education or training. The study suggests a universal basic income could address this growing disparity.
+
 Thu, 05 Sep 2024 00:20:00 +0530
 ### [​Trading up: on the World Bank’s India Development Update](https://www.thehindu.com/opinion/editorial/%E2%80%8Btrading-up-on-the-world-banks-india-development-update/article68606096.ece)
 
