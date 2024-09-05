@@ -1,3 +1,14 @@
+Thu, 05 Sep 2024 12:16:27 +0000
+### [As a teacher, how I made online classes fun for me — and my students](https://indianexpress.com/article/opinion/columns/teacher-online-classes-fun-me-students-9552065/)
+
+The author, an online teacher, shares her positive experiences transforming her teaching through online platforms. She initially worried about engaging students virtually but found the experience rewarding.  
+
+Teaching online requires adapting to a new environment and finding creative ways to connect with students. Young learners need interactive games and storytelling, while older students thrive on discussions and debates. 
+
+The author highlights the benefits of online teaching, such as convenience, flexibility, and access to diverse perspectives.  She acknowledges the challenges of lacking physical interaction and emphasizes the importance of building community and emotional support through online methods. 
+
+The author believes online teaching is here to stay and encourages teachers to embrace innovation and technology to inspire the next generation.
+
 Thu, 05 Sep 2024 07:28:17 +0000
 ### [This Teachers’ Day, three challenges for educators](https://indianexpress.com/article/opinion/columns/this-teachers-day-three-challenges-for-educators-9551535/)
 

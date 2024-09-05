@@ -1,3 +1,17 @@
+Thu, 05 Sep 2024 11:53:50 +0000
+### [Why Haryana’s agriculture is different from Punjab’s](https://indianexpress.com/article/explained/explained-economics/haryana-agriculture-different-punjab-9551911/)
+
+Punjab and Haryana, while often grouped together, differ significantly in their agricultural practices. While Punjab is dominated by rice and wheat monoculture, leading to surplus production and groundwater depletion, Haryana shows a more diversified cropping pattern.  Haryana farmers cultivate a variety of crops like cotton, bajra, and guar, and a higher proportion of basmati rice, which is less water-intensive and not subject to government procurement policies. 
+
+Haryana's canal network plays a role in this diversity, irrigating the northern and central regions while the southern districts, with limited irrigation, rely on drought-resistant crops like bajra and cotton. The Haryana government promotes crop diversification through MSP procurement and price deficiency payments.  However, recent trends show a rise in rice acreage in both states, prompting a need to address price and yield risks in alternative crops.
+
+Thu, 05 Sep 2024 11:07:53 +0000
+### [Explained: The significance of the first global ‘legally binding’ pact on use of AI](https://indianexpress.com/article/explained/explained-sci-tech/explained-global-legally-binding-ai-treaty-9551874/)
+
+A groundbreaking international treaty on artificial intelligence (AI) is set to be signed by the US, EU, and UK. This "legally binding" agreement, the Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law, prioritizes human rights in the development and use of AI. 
+
+The treaty establishes a risk-based approach to AI, ensuring accountability for harmful outcomes and requiring signatories to uphold equality, privacy, and legal recourse for victims of AI-related violations. It emphasizes the responsible use of AI, protecting democratic processes and ensuring compatibility with human rights obligations. While the treaty lacks provisions for penalties, it signifies a crucial step towards global AI governance.
+
 Thu, 05 Sep 2024 10:08:17 +0000
 ### [What California’s new law regulating use of deceased personalities’ likeness say](https://indianexpress.com/article/explained/explained-law/california-law-regulating-use-deceased-personalities-likeness-9551745/)
 

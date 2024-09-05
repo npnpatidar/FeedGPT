@@ -1,3 +1,23 @@
+Thu, 05 Sep 2024 17:47:14 +0530
+### [Who is Madhabi Puri Buch really accountable to?](https://www.livemint.com/opinion/online-views/sebi-madhabi-puri-buch-allegations-against-buch-icici-bank-salary-esops-hindenburg-reit-subhash-chandra-sony-zee-merger-11725532513441.html)
+
+The article discusses the lack of clear accountability for regulators in India, using Madhabi Buch, the head of Sebi, as an example. Criticisms have been leveled against her, including accusations of harsh language, conflicts of interest related to her husband's investments and consultancy work, and interference in corporate mergers. 
+
+The article argues that Buch should clarify these allegations, but questions who she should be accountable to. It proposes that parliamentary standing committees on relevant subjects, such as the finance committee where Buch could testify quarterly, would be the most suitable forum for this accountability. 
+ 
+The author examines each of the charges against Buch, finding some to be unfounded while emphasizing the need for transparency regarding her husband's consultancy firm.
+
+Thu, 05 Sep 2024 16:00:15 +0530
+### [The Wayanad landslide holds lessons on the governance of fragile zones](https://www.livemint.com/opinion/online-views/wayanad-landslide-ecologically-sensitive-ares-kasthurirangan-report-mining-quarrying-gadgil-panel-report-11725504443690.html)
+
+The article discusses the devastating landslides in Wayanad, India, attributing them to both extreme rainfall amplified by climate change and the vulnerability of the landscape due to unchecked construction, mining, and quarrying. 
+
+The author highlights two previous reports – one by the Western Ghats Ecology Expert Panel (WGEEP) in 2011 and another by the Kasturirangan Committee in 2013 – both advocating for stricter environmental regulations in the Western Ghats region. However, these recommendations, particularly the WGEEP's proposal to designate ecologically sensitive zones (ESZ), have not been implemented, leaving the region vulnerable. 
+
+The author criticizes the Indian government's tendency to establish committees instead of taking decisive action, emphasizing the role of Parliament's standing committees in assessing and implementing expert recommendations. 
+
+He points to the lack of public resistance against environmentally damaging practices despite their risks, potentially due to the allure of short-term job opportunities. The article concludes by emphasizing the need for a strong commitment from both the central and state governments to prioritize sustainability and protect ecologically sensitive areas.
+
 Thu, 05 Sep 2024 15:00:14 +0530
 ### [The Telegram chief’s arrest shouldn’t lead us down a faulty policy path](https://www.livemint.com/opinion/online-views/telegram-ceo-pavel-durov-arrest-due-diligence-app-regulation-national-security-cyber-crime-protectionism-social-media-11725502108708.html)
 

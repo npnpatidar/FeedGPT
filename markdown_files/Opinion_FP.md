@@ -1,3 +1,10 @@
+Thu, 5 Sep 2024 17:48:09 +0530
+### [Jamaat genie out of bottle: How Yunus has failed to tame radicalism in Bangladesh](https://www.firstpost.com/opinion/jamaat-genie-out-of-bottle-how-yunus-has-failed-to-tame-radicalism-in-bangladesh-13811975.html)
+
+Bangladesh's secular image clashes with a history of Islamist politics and violence.  While efforts were made to establish secular governance after independence, subsequent regimes incorporated Islamic values into the state, often led by political figures like Ziaur Rahman who promoted Bangladesh as an Islamic state. This shift, coupled with the rise of Islamist groups like Jamaat-e-Islami, contributed to increased radicalism. Numerous surveys reveal a growing support for sharia law among Bangladeshis.  
+
+The 1980s and 1990s saw the emergence of violent extremism, with groups like Jamaat-ul-Mujahideen Bangladesh (JMB) carrying out attacks. Later, organizations like Ansarullah Bangla Team (ABT), ISIS, and al-Qaeda in the Indian Subcontinent (AQIS) gained a foothold, targeting minorities and foreigners.Following the recent ousting of Sheikh Hasina's government, violence against minorities, particularly Hindus, has escalated. The interim government, led by Mohammad Yunus, has been criticized for its inaction and for lifting bans on radical Islamist groups. This situation raises concerns about Bangladesh's trajectory, mirroring its neighboring country Pakistan in its embrace of radical Islam.
+
 Thu, 5 Sep 2024 11:32:45 +0530
 ### [The Strait of Opportunity: India-Singapore ties, a classic win-win case](https://www.firstpost.com/opinion/the-strait-of-opportunity-india-singapore-ties-a-classic-win-win-case-13811960.html)
 

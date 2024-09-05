@@ -1,3 +1,26 @@
+Thu, 5 Sep 2024 17:44:49 +0530
+### [Why supermodel Elle Macpherson’s breast cancer story is causing a controversy](https://www.firstpost.com/explainers/why-supermodel-elle-macphersons-breast-cancer-story-is-causing-a-controversy-13812046.html)
+
+Elle Macpherson, known for her acting and modeling career, revealed she was diagnosed with early-stage breast cancer seven years ago. While doctors recommended chemotherapy, hormonal therapy, or a mastectomy, Macpherson chose alternative therapies, describing her path as "heart-led, holistic." 
+
+Macpherson claims she is now in remission and attributes her recovery to her alternative approach. However, this has sparked debate in the medical community. Some doctors warn against relying solely on alternative therapies for cancer treatment, citing potential dangers and a higher risk of mortality. They emphasize the importance of consulting with medical professionals and relying on evidence-based treatments.
+
+Thu, 5 Sep 2024 16:59:13 +0530
+### [iPhone 16 set for September 9 launch: What’s new?](https://www.firstpost.com/explainers/iphone-16-set-for-september-9-launch-whats-new-13812088.html)
+
+Apple's "It's Glowtime" event will introduce four iPhone 16 models: the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max.  Leaked information suggests pricing around Rs 66,300 for the iPhone 16, Rs 74,600 for the iPhone 16 Plus, Rs 91,200 for the iPhone 16 Pro, and Rs 99,500 for the iPhone 16 Pro Max.  
+
+The iPhone 16 and 16 Plus are rumored to come in seven colors and feature an aluminum design. The Pro models are expected to have a titanium build, a coffee color option, and potentially a 120Hz refresh rate. Both Pro models are anticipated to have the A18 Pro chipset and upgraded camera systems. Additional features may include a "Capture Button," touch-sensitive buttons, the "Action Button," and AI-powered enhancements like a better Siri and object detection.
+
+Thu, 5 Sep 2024 16:23:02 +0530
+### [How did purple cupcakes lead to a diplomatic clash between Australia and Iran?](https://www.firstpost.com/explainers/how-did-purple-cupcakes-lead-to-a-diplomatic-clash-between-australia-and-iran-13812050.html)
+
+An Australian embassy Instagram post celebrating 'Wear It Purple Day', which promotes LGBTQIA+ inclusivity, sparked a diplomatic row with Iran. The post, featuring purple cupcakes and the ambassador wearing a purple bow tie, was condemned by Tehran as disrespectful to its cultural norms.  
+
+Homosexuality is illegal in Iran, punishable by death, and the Iranian government summoned the Australian ambassador, calling the post "norm-breaking" and a violation of international law. 
+
+Australia's foreign minister defended the embassy's actions, reaffirming the country's commitment to human rights.  The incident further strained already tense relations between the two nations following a previous controversial post by Iran's ambassador to Australia.
+
 Thu, 5 Sep 2024 15:35:42 +0530
 ### [Mpox outbreak at US prison: How bad is it?](https://www.firstpost.com/health/mpox-outbreak-us-prison-how-bad-is-it-13812017.html)
 
