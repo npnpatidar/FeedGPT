@@ -1,3 +1,22 @@
+Thu, 05 Sep 2024 15:00:14 +0530
+### [The Telegram chief’s arrest shouldn’t lead us down a faulty policy path](https://www.livemint.com/opinion/online-views/telegram-ceo-pavel-durov-arrest-due-diligence-app-regulation-national-security-cyber-crime-protectionism-social-media-11725502108708.html)
+
+Pavel Durov, the creator of Telegram, was arrested in France facing charges related to child sexual abuse material, drug trafficking, and money laundering. The situation has drawn attention globally, with contrasting reactions from various countries. While the app remains operational in France, concerns are rising about potential regulation of similar platforms. 
+
+This incident highlights the complexities of investigating cybercrime and the need for robust judicial capacities to tackle evolving digital challenges. India, facing its own cybercrime surge, should focus on building specialized investigative units and avoid arbitrary app bans, mirroring France's approach. Further, India must be cautious about protectionist app regulations, ensuring they don't hinder the development of a healthy digital ecosystem.
+
+Thu, 05 Sep 2024 14:00:11 +0530
+### [Revise direct taxes: Corporate taxation needs to be progressive](https://www.livemint.com/opinion/online-views/corporate-taxation-income-tax-government-revenue-tax-reform-direct-taxes-regressive-taxes-employment-tax-slabs-11725501378865.html)
+
+Over the past two decades, India has focused heavily on direct tax reforms, primarily concerning income tax, while corporate taxes have received less attention despite contributing significantly to direct tax revenue. 
+
+The effective corporate tax rate has declined steadily, reaching its lowest point after 2019 due to substantial tax breaks given to companies. While these breaks were intended to stimulate investment and job creation, the results have been underwhelming. 
+
+The Economic Survey itself acknowledged the private sector's failure to invest or generate employment despite these tax incentives. The 2019 reforms, rather than promoting a progressive tax structure, have arguably made it more regressive, with the wealthiest companies benefiting the most. The outcome has been a sharp decline in effective tax rates, a rise in corporate profits, and a reduction in employee costs as a proportion of sales. 
+
+
+This sluggishness in investment and job creation highlights the need to rethink corporate tax policies. Experts argue that fixing corporate taxation is crucial for meaningful direct tax reforms and achieving equitable growth.
+
 Thu, 05 Sep 2024 12:30:10 +0530
 ### [Imperial Blue is up for sale: A win for gender sensitivity?](https://www.livemint.com/opinion/online-views/imperial-blue-whisky-pernod-ricard-premiumization-men-will-be-men-ad-campaign-gender-sensitivity-liquor-policy-sexism-11725500435935.html)
 

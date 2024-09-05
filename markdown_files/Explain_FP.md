@@ -1,3 +1,41 @@
+Thu, 5 Sep 2024 15:35:42 +0530
+### [Mpox outbreak at US prison: How bad is it?](https://www.firstpost.com/health/mpox-outbreak-us-prison-how-bad-is-it-13812017.html)
+
+Mpox has been detected at Fort Dodge Correctional Facility in Iowa, US. The strain found is clade II, which is considered less serious. The prison staff are managing the situation with health measures and isolation protocols.  The US has not yet seen the more deadly clade I strain, but health officials anticipate lower morbidity and mortality rates compared to Africa.
+
+Thu, 5 Sep 2024 14:43:50 +0530
+### [How ‘small’ Singapore, a semiconductor powerhouse, can aid India’s chip ambitions](https://www.firstpost.com/explainers/how-small-singapore-a-semiconductor-powerhouse-can-aid-indias-chip-ambitions-13812043.html)
+
+India and Singapore have signed a memorandum of understanding to boost their semiconductor cooperation. Singapore, a major player in the global semiconductor industry, has emerged as a powerhouse thanks to early investments, support from government agencies, a focus on education and research, and a thriving ecosystem. 
+
+Singapore produces 10% of the world's semiconductors and boasts a significant share of fabrication capacity and equipment production. The country's success can offer valuable insights for India, which aims to establish itself as a semiconductor manufacturing hub. 
+
+Singapore can assist India by sharing its expertise, technologies and infrastructure, attracting investments to India and helping develop the local semiconductor ecosystem.
+
+Thu, 5 Sep 2024 14:21:45 +0530
+### [Fact Check: Did Kamala Harris really commit a hit-and-run that left a girl paralysed?](https://www.firstpost.com/explainers/fact-check-did-kamala-harris-really-commit-a-hit-and-run-that-left-a-girl-paralysed-13811983.html)
+
+A viral story alleging that Vice President Kamala Harris was involved in a 2011 hit-and-run accident that paralyzed a young girl has been debunked as false. The story originated from a recently created website, KBSF-San Francisco News, which features doctored images and a staged video. Investigations revealed that the images used in the story were taken from unrelated medical cases and the video shows a woman from an undisclosed location. No credible evidence supports the claims, and fact-checkers found no reports of such an incident involving Harris. Experts believe the story is part of a disinformation campaign aimed at undermining Harris and spreading misinformation ahead of the 2024 election.
+
+Thu, 5 Sep 2024 13:58:30 +0530
+### [Who is Jaydeep Apte, sculptor of collapsed Shivaji statue, arrested in Maharashtra?](https://www.firstpost.com/explainers/who-is-jaydeep-apte-sculptor-of-collapsed-shivaji-statue-arrested-in-maharashtra-13811952.html)
+
+Jaydeep Apte, the 24-year-old sculptor responsible for the collapsed Chhatrapati Shivaji Maharaj statue in Sindhudurg, was arrested after a manhunt by police. Apte had evaded authorities since the August 26 incident where the 35-foot statue, unveiled by Prime Minister Narendra Modi in 2022, fell down after heavy rains. 
+
+Apte, facing charges including attempted murder and culpable homicide, was nabbed in Kalyan, Thane district. The incident sparked a political controversy with questions raised about the project's execution and Apte's capabilities. The sculptor, an alumni of JJ School of Art, had limited experience with constructing large-scale statues before being awarded the contract.  
+
+
+He was previously known for  creating a bronze bust of a Sikh soldier and a statuette of Manilal Gandhi. Apte’s arrest came amidst a political storm with both BJP and Shiv Sena trading accusations over the arrest and the handling of the case.
+
+Thu, 5 Sep 2024 13:55:27 +0530
+### [Lesbianism as ‘sexual offence’, ‘importance’ of virginity: India’s ‘regressive’ new medical curriculum](https://www.firstpost.com/explainers/nmc-lesbianism-sexual-offence-importance-of-virginity-india-new-medical-curriculum-13812022.html)
+
+The National Medical Commission (NMC) has revised the forensic medicine and toxicology curriculum for undergraduate medical students. Controversially, it has reintroduced  terms like "sodomy" and "lesbianism" under "unnatural sexual offences".  The revised syllabus also includes topics on the hymen, virginity, and defloration, which were previously removed.  
+
+Other changes include a broader list of sexual offenses, the removal of seven hours of disability-related training, and updates to the psychiatry module that no longer explicitly address gender identity disorders. The NMC justifies the changes as necessary to adapt to evolving medical practices and societal contexts.  
+
+However, disability rights activists have criticized the omission of disability-related training, arguing it negatively impacts the medical community's understanding and care for individuals with disabilities.
+
 Thu, 5 Sep 2024 13:22:52 +0530
 ### [Was Hvaldimir, the Russian ‘spy whale’, killed? Mystery deepens over death of the famous white beluga](https://www.firstpost.com/explainers/hvaldimir-russian-spy-whale-killed-mystery-death-famous-white-beluga-13811998.html)
 

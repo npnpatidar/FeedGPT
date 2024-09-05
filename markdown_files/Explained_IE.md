@@ -1,3 +1,19 @@
+Thu, 05 Sep 2024 10:08:17 +0000
+### [What California’s new law regulating use of deceased personalities’ likeness say](https://indianexpress.com/article/explained/explained-law/california-law-regulating-use-deceased-personalities-likeness-9551745/)
+
+The California State Senate has passed AB 1836, a bill aimed at regulating the use of deceased individuals' likenesses.  Sponsored by SAG-AFTRA, the bill grants surviving family members the right to control the commercial use of a person's name, voice, signature, photograph, or likeness after their death. 
+
+The legislation covers a broad range of representations, including digital replicas,  and establishes penalties for unauthorized use. These penalties include fines and potentially actual damages, which could encompass both economic losses and non-economic harm.  The bill  explicitly mentions that these rights are transferable through contracts. Exceptions exist for artistic works and newsworthy content, excluding direct product endorsements.
+
+Thu, 05 Sep 2024 09:31:55 +0000
+### [Explained: Significance of the China-hosted FOCAC summit, with 53 African countries in attendance](https://indianexpress.com/article/explained/explained-global/focac-china-africa-9551476/)
+
+The ninth Forum on China-Africa Cooperation (FOCAC) saw Chinese President Xi Jinping pledge $51 billion in funding for African infrastructure projects. The  FOCAC, established in 2000, aims to strengthen ties between China and African nations. This year's summit focuses on modernization and building a shared future, with key outcomes expected to be consensus and an action plan for future cooperation. China's engagement with Africa has evolved since the 1950s, from supporting decolonization movements to becoming Africa's largest trading partner. China's trade with Africa is substantial, focusing on primary commodities from Africa and manufactured goods from China. The Belt and Road Initiative (BRI) further strengthens economic ties, but concerns regarding "debt trap diplomacy" remain. 
+
+
+
+The current economic slowdown in China might influence its approach to investment, potentially shifting towards smaller projects and green technologies. However, African nations seek increased lending to initiate infrastructure projects.  China emphasizes its position as a developing nation alongside Africa, highlighting shared experiences with Western imperialism.
+
 Thu, 05 Sep 2024 07:34:28 +0000
 ### [Why banks are witnessing a slowdown in bank deposit growth](https://indianexpress.com/article/explained/explained-economics/banks-slow-deposit-growth-markets-9551518/)
 
