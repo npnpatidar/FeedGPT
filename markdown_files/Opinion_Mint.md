@@ -1,3 +1,12 @@
+Thu, 05 Sep 2024 10:00:07 +0530
+### [India’s economy needs moderate corporate taxes to prosper](https://www.livemint.com/opinion/online-views/direct-tac-collection-income-tax-corporate-taxation-cagr-private-investment-job-creation-gdp-indian-economy-11725502736459.html)
+
+This article analyzes the tax contributions of individuals and corporations in India. It states that while individual income taxes may appear higher at first glance, when analyzing aggregate data, corporations pay a larger proportion of taxes relative to their Gross Total Income (GTI) than individuals do.
+
+The article cites data from the Income Tax Department showing that between 2020-21 and 2022-23, corporations paid an average of 18.2% to 18.7% of their GTI in taxes, compared to individuals' 9.4% to 10.9%. This trend holds true even when factoring in the change in dividend taxation policy since 2020-21, where dividend income is now taxed at the individual level. 
+
+The article also compares India's tax structure to the US, noting that individual income tax collections are significantly higher in the US than corporate tax collections. It concludes that globally competitive corporate tax rates are essential for India to attract investment and stimulate economic growth, ultimately benefiting both individuals and corporations.
+
 Thu, 05 Sep 2024 08:30:04 +0530
 ### [Tax overload: India’s middle class is hurting because of inequitable taxation](https://www.livemint.com/opinion/online-views/income-tax-corporate-taxation-india-s-middle-class-consumption-tax-policy-inflation-unemployment-regressive-taxation-11725503484923.html)
 

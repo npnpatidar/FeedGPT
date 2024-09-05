@@ -1,3 +1,17 @@
+Thu, 5 Sep 2024 10:51:42 +0530
+### [Georgia school shooting: How mass killings in the US have already claimed 131 lives in 2024](https://www.firstpost.com/explainers/georgia-school-shoting-mass-killings-us-2024-13811904.html)
+
+The US has experienced over 30 mass shootings in 2023, resulting in the deaths of 131 people. These incidents, defined as four or more fatalities in a 24-hour period, occurred in various locations across the country. Examples include shootings at a Georgia high school, a Chicago train, a grocery store in Arkansas, and a home in Pennsylvania. 
+
+Several of these shootings involved families or domestic disputes, while others targeted specific communities or appeared random.  The high number of mass shootings has intensified the debate around gun control in the US.
+
+Thu, 5 Sep 2024 09:49:20 +0530
+### [Georgia school shooting: Who is Colt Gray, 14-year-old gunman, one of the youngest in US?](https://www.firstpost.com/explainers/georgia-school-shooting-colt-gray-gunman-13811914.html)
+
+A shooting at Apalachee High School in Georgia resulted in the deaths of four people, including two students. The shooter, 14-year-old Colt Gray, has been taken into custody and will be tried as an adult. Gray reportedly used an AR-platform weapon and was described as a quiet student who often skipped class.  
+
+The FBI had interviewed Gray last year following online threats he made, but they did not arrest him at the time. The victims were identified as students Mason Schermerhorn and Christian Angulo, along with teachers Richard Aspinwall and Christina Irimie. Nine others were injured in the shooting. The incident is the 30th mass killing in the US this year, prompting renewed calls for gun control.
+
 Thu, 5 Sep 2024 08:11:33 +0530
 ### [PM Modi in Singapore: How the island nation became India’s top FDI source](https://www.firstpost.com/explainers/pm-modi-singapore-india-top-fdi-source-13811787.html)
 

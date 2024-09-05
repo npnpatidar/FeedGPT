@@ -1,3 +1,15 @@
+Thu, 5 Sep 2024 11:32:45 +0530
+### [The Strait of Opportunity: India-Singapore ties, a classic win-win case](https://www.firstpost.com/opinion/the-strait-of-opportunity-india-singapore-ties-a-classic-win-win-case-13811960.html)
+
+Prime Minister Modi's visit strengthens the growing relationship between India and Singapore. Singapore has invested heavily in India, becoming the largest source of foreign direct investment. The trade relationship is complementary, with Singapore exporting high-quality goods and India providing raw materials and talent.  A shared concern about China's influence drives strategic convergence, evidenced by long-standing defense ties including the annual SIMBEX naval exercise.  Both nations are collaborating in health, technology and finance.  Singapore's financial sector and stock exchange offer opportunities for Indian companies, while GIFT city in Gujarat presents an onshore option for Singapore.
+
+Thu, 5 Sep 2024 10:03:54 +0530
+### [End of ‘uninterrupted dialogue’: How India’s policy dilemma towards Pakistan is over](https://www.firstpost.com/opinion/end-of-uninterrupted-dialogue-how-indias-policy-dilemma-towards-pakistan-is-over-13811926.html)
+
+India's Foreign Minister S Jaishankar recently stated that the era of uninterrupted dialogue with Pakistan is over.  This follows Pakistan's invitation to Prime Minister Modi to attend the Shanghai Cooperation Organisation summit in Islamabad, an invitation India is unlikely to accept. The strained relationship is marked by the absence of diplomatic representatives in both capitals and a lack of cross-border trade.  Pakistan's obsession with the abrogation of Article 370, which granted special status to the state of Jammu and Kashmir, has further hindered dialogue. 
+
+Despite calls from some quarters for reconciliation, the Indian government remains firm on its stance regarding Kashmir. The upcoming Assembly elections in Jammu and Kashmir are seen as a step towards normalizing the situation in the region.
+
 Thu, 5 Sep 2024 09:03:54 +0530
 ### [Why space diplomacy is a critical component of India-Brunei relations](https://www.firstpost.com/opinion/why-space-diplomacy-is-a-critical-component-of-india-brunei-relations-13811903.html)
 

@@ -1,3 +1,10 @@
+Thu, 05 Sep 2024 04:20:18 +0000
+### [Why India celebrates Teachers’ Day on September 5](https://indianexpress.com/article/explained/explained-history/why-india-celebrates-teachers-day-on-september-5-9550877/)
+
+Teachers’ Day in India is celebrated on September 5th, the birth anniversary of former President Sarvepalli Radhakrishnan. Radhakrishnan was a renowned philosopher who dedicated his life to understanding and promoting Hinduism.  He was also a highly respected academic and teacher, believing that educators should be the nation’s brightest minds. 
+
+ When he became President, students wished to celebrate his birthday. Radhakrishnan preferred honoring all teachers instead, leading to the establishment of Teachers’ Day on his birthdate.
+
 Thu, 05 Sep 2024 01:27:34 +0000
 ### [State changes in rape law: How Bengal, Andhra, and Maharashtra bills compare](https://indianexpress.com/article/explained/explained-law/rape-law-how-bengal-andhra-maharashtra-bills-compare-9550878/)
 
