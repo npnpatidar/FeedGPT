@@ -1,3 +1,32 @@
+Fri, 6 Sep 2024 14:32:46 +0530
+### [Did Vladimir Putin just ‘endorse’ Kamala Harris or did he do Donald Trump a huge favour?](https://www.firstpost.com/explainers/did-vladimir-putin-just-endorse-kamala-harris-or-did-he-do-donald-trump-a-huge-favour-13812432.html)
+
+Vladimir Putin made a surprising endorsement of Kamala Harris for US president, praising her "infectious laugh." This comment came despite US accusations of Russian interference in the 2024 election, favoring Donald Trump through disinformation campaigns. 
+
+Putin's past actions, including praising Trump in 2015 and supporting Russian interference in 2016, raise questions about the sincerity of his endorsement. Some experts believe it could be a tactic to sow discord and undermine US democracy, similar to his strategies in previous elections.  
+
+The timing of Putin's endorsement coincides with serious allegations of Russian interference, including the unsealing of charges against two Russian citizens and the seizure of Russian-backed websites. While the Biden administration accuses Russia of actively supporting Trump, the Kremlin denies any involvement.
+
+Fri, 6 Sep 2024 14:31:33 +0530
+### [Can Sheikh Hasina be extradited to Bangladesh from India?](https://www.firstpost.com/explainers/can-sheikh-hasina-be-extradited-to-bangladesh-from-india-13812438.html)
+
+Sheikh Hasina fled Bangladesh after resigning as prime minister and is currently in India. The interim government, led by Muhammad Yunus, has stated that Hasina should "keep quiet" and has implied they could request her extradition on charges related to violence and instability that followed her removal. 
+
+A 2013 extradition treaty between India and Bangladesh, amended in 2016,  could allow for her extradition if  certain legal conditions are met.  These include charges being "extradition offences," punishable in both countries, and an arrest warrant issued by a court. However, the treaty allows for the refusal of extradition if the offenses are "political in nature."
+
+Hasina's situation is complex, as some charges against her may be considered political, and India may prioritize its strategic interests in the region over complying with the extradition request. India has not made any public statements on the matter.
+
+Fri, 6 Sep 2024 13:54:54 +0530
+### [Italy luxury yacht victims died of ‘dry drowning’: What is it?](https://www.firstpost.com/explainers/what-is-dry-drowning-italy-luxury-yacht-13812384.html)
+
+Autopsies on four victims of the Bayesian superyacht sinking revealed "dry drowning" as the cause of death. This condition, not medically recognized, occurs when inhaled water causes vocal cord spasms, restricting airflow to the lungs. 
+
+The autopsies found no water in the victims' lungs, tracheas, or stomachs. It is believed they absorbed all the oxygen in an air pocket within the cabin before CO2 levels became fatal.  
+ 
+Further autopsies are pending for other victims, including British tech tycoon Mike Lynch and his daughter. Investigations into potential manslaughter and shipwreck are ongoing, focusing on the ship's engineer, sailor, and captain.  
+
+The luxury yacht sank within 16 minutes after being struck by a downburst, prompting questions about its stability. Salvage operations are underway to raise the vessel and prevent fuel leakage.
+
 Fri, 6 Sep 2024 13:39:09 +0530
 ### [Olympian Rebecca Cheptegei dies after being set on fire. Her murder exposes Kenya's gender violence](https://www.firstpost.com/explainers/olympian-rebecca-cheptegei-death-kenya-femicide-violence-against-women-13812407.html)
 

@@ -1,3 +1,8 @@
+Fri, 06 Sep 2024 09:51:34 +0000
+### [Pervez Musharraf’s ancestral land in UP to be auctioned under Enemy Property Act: What it means](https://indianexpress.com/article/explained/explained-law/pervez-musharraf-land-india-enemy-property-9553637/)
+
+The Indian government is auctioning land in Uttar Pradesh, previously owned by the family of former Pakistani President Pervez Musharraf, under the Enemy Property Act.  This act allows the government to take control of properties belonging to individuals who acquired Pakistani nationality after the 1965 and 1971 wars.  The Tashkent Declaration aimed to discuss the return of such properties, but Pakistan disposed of theirs in 1971.  The Enemy Property Act of 1968 solidified the government's ownership of these properties. Amendments in 2017 expanded the definition of "enemy property" to include legal heirs and successors, regardless of their nationality. These amendments aimed to prevent claims to properties left by those who migrated to Pakistan after the wars.
+
 Fri, 06 Sep 2024 04:27:08 +0000
 ### [What is the Law Commission: its role, members, & recommendations](https://indianexpress.com/article/explained/explained-law/what-is-the-law-commission-its-role-members-recommendations-9552771/)
 

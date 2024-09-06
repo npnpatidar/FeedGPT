@@ -1,3 +1,8 @@
+Fri, 06 Sep 2024 15:24:05 +0530
+### [‘Call Me Bae’ series review: Ananya Panday carries a no-carbs comedy](https://www.thehindu.com/entertainment/movies/call-me-bae-series-review-ananya-panday-carries-a-no-carbs-comedy/article68613133.ece)
+
+"Call Me Bae," a new comedy series on Prime Video starring Ananya Panday, follows Bella "Bae" Chowdhury, a rich socialite who is evicted by her husband and finds herself in Mumbai.  Despite her lack of practical skills, Bae navigates the city with her signature bubbly personality and lands an internship at a quirky news channel. While the series borrows elements from Western sitcoms, its humour is often literal and relies heavily on Panday's charm. The show explores themes of familial relationships and personal growth, with some heartwarming moments emerging from the side plots. However, the narrative struggles to find its unique voice and the Mumbai backdrop feels underdeveloped.
+
 Fri, 06 Sep 2024 13:11:16 +0530
 ### [‘Ibbani Tabbida Ileyali’ movie review: Chandrajith Belliappa makes a promising debut with a fairytale-like romantic drama](https://www.thehindu.com/entertainment/movies/ibbani-tabbida-ileyali-movie-review-chandrajith-belliappa-makes-a-promising-debut-with-a-fairytale-like-romantic-drama/article68612688.ece)
 

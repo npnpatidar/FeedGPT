@@ -1,3 +1,10 @@
+Fri, 6 Sep 2024 14:54:20 +0530
+### [Amid wars in Ukraine and Gaza, are US, Iran in a ‘Drone Race’?](https://www.firstpost.com/opinion/amid-wars-in-ukraine-and-gaza-are-us-iran-in-a-drone-race-13812464.html)
+
+The article analyzes Iran's growing reliance on drone technology as a means of exerting influence in the Middle East and beyond. It highlights Iran's delivery of Shahed drones to Russia, used in the Ukraine conflict, framing it as a proxy war with the US, which is supplying drones to Ukraine. The author argues that Iran's drone program is driven by a desire to counter US and Israeli power and strengthen its position in the region. 
+
+The article points to Iran's history of developing drones, drawing on expertise gained during the Iran-Iraq war and by reverse-engineering captured US drones. It also notes that Iran emphasizes its commitment to supporting Palestinian resistance through drone deployments, further complicating its role in the region.  The author concludes that Iran's assertive stance and rapid drone development pose a significant challenge to US interests in the Middle East.
+
 Fri, 6 Sep 2024 12:54:47 +0530
 ### [PM Modi's visit to Brunei, Singapore bolsters up ASEAN focus in his third term](https://www.firstpost.com/opinion/pm-modis-visit-to-brunei-singapore-bolsters-up-asean-focus-in-his-third-term-13812388.html)
 
