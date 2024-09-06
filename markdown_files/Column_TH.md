@@ -1,3 +1,8 @@
+Sat, 07 Sep 2024 00:32:00 +0530
+### [Corrections and Clarifications — September 7, 2024](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-september-7-2024/article68614790.ece)
+
+The article "The Food Security Act has revamped the PDS" contained a factual error. The sentence concerning the progress made in coverage under the NFSA should have read: "In spite of the improvement in coverage, the Centre is falling short of the coverage mandated by the NFSA (75% of rural population and 50% of urban population)."
+
 Wed, 04 Sep 2024 00:30:00 +0530
 ### [Cricket has much on its plate, including a new disruptor — Jay Shah](https://www.thehindu.com/opinion/columns/cricket-has-much-on-its-plate-including-a-new-disruptor/article68601245.ece)
 

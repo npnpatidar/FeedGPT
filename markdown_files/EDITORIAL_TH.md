@@ -1,3 +1,15 @@
+Sat, 07 Sep 2024 00:24:00 +0530
+### [​Fresh openings: On the J&K Assembly elections](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfresh-openings-on-the-jk-assembly-elections/article68614119.ece)
+
+The assembly elections in Jammu and Kashmir have generated significant anticipation, with parties focusing on restoration of Article 370 and statehood. Regional parties, including the NC, PDP and J&K Peoples’ Conference, have promised to reverse measures taken after 2019 and challenge the BJP's dominance. The BJP aims to expand its support base, appealing to marginalized communities and highlighting concerns about family control within other parties. The Congress is navigating a delicate stance, focusing on statehood restoration while avoiding direct mentions of Article 370. Notably, Jamaat-e-Islami and even separatists are participating in the elections, potentially paving the way for a new era of peace and stability.
+
+Sat, 07 Sep 2024 00:10:00 +0530
+### [​Undoing the undoing: On the Competency-Based Medical Education Curriculum guidelines](https://www.thehindu.com/opinion/editorial/%E2%80%8Bundoing-the-undoing-on-the-competency-based-medical-education-curriculum-guidelines/article68614092.ece)
+
+The National Medical Commission (NMC) published a revised medical curriculum that drew significant criticism for its inclusion of outdated and discriminatory language.  The curriculum labelled sodomy, lesbianism, and transvestism as offenses, violating the Transgender Persons (Protection of Rights) Act, 2019.  It also removed mandatory disability competencies, contravening the Rights of Persons with Disabilities Act, 2016. 
+
+These changes sparked protests from transgender and disability rights groups, who condemned the regression in inclusivity. The NMC eventually withdrew the guidelines, acknowledging the public outcry and legal concerns.
+
 Fri, 06 Sep 2024 00:20:00 +0530
 ### [​Maoist setback: On the anti-Naxalite operations this year](https://www.thehindu.com/opinion/editorial/%E2%80%8Bmaoist-setback-on-the-anti-naxalite-operations-this-year/article68609915.ece)
 
