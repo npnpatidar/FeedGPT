@@ -1,3 +1,10 @@
+Fri, 06 Sep 2024 08:30:00 +0530
+### [Can Kerala access funds from the Loss and Damage Fund? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/can-kerala-access-funds-from-the-loss-and-damage-fund-explained/article68611070.ece)
+
+The recent Kerala landslides highlight the urgency of accessing climate finance, particularly for loss and damage, through the UNFCCC's Loss and Damage Fund (LDF). While India has suffered significant economic losses due to climate-related disasters, its focus on mitigation currently hampers its engagement with LDF-related discussions.
+
+Establishing clearer legal and policy frameworks within India to streamline climate finance, particularly for adaptive measures and loss and damage, is crucial. This should prioritize locally led adaptation strategies to ensure effective support for vulnerable communities. India should advocate for decentralized fund disbursement from the LDF, bypassing centralized systems used for other climate finance mechanisms.  The lack of a standardized method for assessing disaster-related damages, especially from slow-onset events, poses a barrier to accessing LDF resources. A structured assessment process is vital to ensure India can effectively tap into this fund and secure the necessary support for post-disaster recovery and resilience-building.
+
 Thu, 05 Sep 2024 08:30:00 +0530
 ### [What do we know about ANIIDCO? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/what-do-we-know-about-aniidco-andaman-and-nicobar-islands-integrated-development-corporation/article68606680.ece)
 

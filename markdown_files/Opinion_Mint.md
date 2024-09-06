@@ -1,3 +1,14 @@
+Fri, 06 Sep 2024 08:30:03 +0530
+### [Affordable excellence: ‘Study in India’ isn’t a pipe dream](https://www.livemint.com/opinion/online-views/isb-mba-iima-business-school-education-us-universities-insead-stern-wharton-harvard-stanford-fees-networking-placement-11725551973376.html)
+
+Indian business schools are gaining global recognition, with ISB Hyderabad ranking sixth on LinkedIn's 2024 list of top MBA programs.  India's B-schools offer high-quality education at a fraction of the cost of their US counterparts, making them attractive options for international students.  
+
+Despite this, India faces challenges in transforming itself into a global education hub. These include limited seat availability and concerns about the quality of education in some institutions.  
+
+The National Education Policy 2020 aims to address these issues by encouraging foreign universities to set up campuses in India. However, a lack of clarity around academic freedom may be deterring some investors.  
+
+Overcoming these challenges and fostering a more open and competitive education sector could lead to India becoming a major destination for international students.
+
 Fri, 06 Sep 2024 07:00:19 +0530
 ### [Mint Quick Edit | US race: Harris's campaign has pivoted to the centre](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-us-elections-kamala-harris-donald-trump-democrats-republicans-us-middle-class-tax-cuts-startups-11725551927504.html)
 

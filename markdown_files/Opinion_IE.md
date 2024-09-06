@@ -1,3 +1,18 @@
+Fri, 06 Sep 2024 02:43:24 +0000
+### [‘Anyone can teach’ is a common view in India. But is it true?](https://indianexpress.com/article/opinion/columns/anyone-can-teach-is-a-common-view-in-india-but-is-it-true-9552643/)
+
+The article discusses the disrespect and lack of trust towards teachers within the education system. It highlights how teachers are often blamed for problems within schools, disregarded in decision-making processes, and subjected to harsh working conditions.  The author criticizes the prevalence of a perception that "anyone can teach" and emphasizes the vital role teachers play in shaping students' lives.  The article also touches upon the influence of the coaching industry, which has eroded the traditional role of teachers, particularly in secondary education. 
+
+
+It points out the marginalization of primary and pre-primary teachers, who are often overlooked despite their crucial role in early childhood development. The author concludes by underscoring the negative consequences of neglecting teachers' well-being, stating that a nation's disregard for its educators ultimately harms its human resources and future generations.
+
+Fri, 06 Sep 2024 02:42:32 +0000
+### [R G Kar case shows stricter rape laws are necessary](https://indianexpress.com/article/opinion/columns/r-g-kar-case-shows-stricter-rape-laws-are-necessary-9552728/)
+
+India faces a severe rape epidemic, with a reported case every four hours. The societal stigma surrounding rape and inadequate legal response often leave victims marginalized and vulnerable. 
+
+Despite legal advancements and stricter laws like the Bharatiya Nyaya Sanhita (BNS), 2023, the rate of rape persists. Recent cases highlight the need for stronger deterrents. The West Bengal government's proposed Aparajita Woman and Child Bill, 2024, which includes capital punishment for rape resulting in death or vegetative state, aligns with the urgent demand for swift and severe consequences.  The writer advocates for capital punishment in such cases and a quick judicial process to effectively deter future instances of rape and create a safer environment for women in India.
+
 Fri, 06 Sep 2024 02:27:11 +0000
 ### [September 6, 1984, Forty Years Ago: PM Indira Gandhi denies role in splits in other parties](https://indianexpress.com/article/opinion/40-years-ago/september-6-1984-forty-years-ago-pm-indira-gandhi-denies-role-in-splits-in-other-parties-9552701/)
 

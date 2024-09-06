@@ -1,3 +1,10 @@
+Fri, 6 Sep 2024 08:58:08 +0530
+### [Is an economic crisis in China turning the population obese?](https://www.firstpost.com/explainers/china-economic-crisis-obesity-13811746.html)
+
+China is facing a growing obesity crisis driven by economic and lifestyle changes. 
+
+In urban areas, job losses in construction and manufacturing are pushing people towards cheaper, unhealthy meals. Automation in agriculture and a lack of access to healthcare are contributing to the problem in rural regions. The increasing number of desk-bound jobs due to economic shifts is leading to a decline in physical activity. This, combined with long work hours and stress, is further encouraging unhealthy eating habits. Experts warn that obesity can lead to costly health issues and strain China's healthcare system. The government has launched a public awareness campaign to combat obesity, promoting healthy diets, exercise, and lifestyle changes. However, addressing the underlying economic and structural factors driving the crisis remains a challenge.
+
 Fri, 6 Sep 2024 06:30:49 +0530
 ### [FirstUp: Boeing Starliner to return to Earth, BJP to release manifesto ahead of J&K polls...the big news today](https://www.firstpost.com/explainers/firstup-boeing-starliner-to-return-to-earth-bjp-to-release-manifesto-ahead-of-jk-polls-the-big-news-today-13812177.html)
 
