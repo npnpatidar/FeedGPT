@@ -1,3 +1,8 @@
+Fri, 6 Sep 2024 06:30:49 +0530
+### [FirstUp: Boeing Starliner to return to Earth, BJP to release manifesto ahead of J&K polls...the big news today](https://www.firstpost.com/explainers/firstup-boeing-starliner-to-return-to-earth-bjp-to-release-manifesto-ahead-of-jk-polls-the-big-news-today-13812177.html)
+
+Boeing's Starliner spacecraft is scheduled to return to Earth on Friday after an uncrewed mission to the International Space Station. The spacecraft, which had experienced complications earlier in the mission, was initially intended to transport astronauts. The return marks a final stage for Starliner after a period of delays. Meanwhile, Union Home Minister Amit Shah will release the BJP manifesto for the upcoming Jammu and Kashmir Assembly elections, focusing on good governance, tourism development, and addressing the issue of Kashmiri Pandits. AAP MLA Amanatullah Khan will appear in court for a money laundering case related to alleged irregularities in the Delhi Waqf Board.
+
 Thu, 5 Sep 2024 20:53:31 +0530
 ### [Meteor strike in South Africa: What do we know? Where did it come from?](https://www.firstpost.com/explainers/meteor-strike-in-south-africa-what-do-we-know-where-did-it-come-from-13812223.html)
 

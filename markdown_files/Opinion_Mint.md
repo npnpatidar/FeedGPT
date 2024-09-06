@@ -1,3 +1,10 @@
+Fri, 06 Sep 2024 07:00:19 +0530
+### [Mint Quick Edit | US race: Harris's campaign has pivoted to the centre](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-us-elections-kamala-harris-donald-trump-democrats-republicans-us-middle-class-tax-cuts-startups-11725551927504.html)
+
+Kamala Harris has unveiled new economic policies in an effort to appeal to a broader range of voters.  These proposals include increased startup deductions, expanded child tax credits, middle-class tax cuts, and down-payment assistance for first-time homebuyers.  
+
+This strategy reflects a "pivot to the center" as Harris seeks to counter criticism from Republicans who label her as too leftist. This move follows her previous backpedaling on her stance against fracking.  The upcoming televised debate is expected to have a significant impact on the race.
+
 Thu, 05 Sep 2024 17:47:14 +0530
 ### [Who is Madhabi Puri Buch really accountable to?](https://www.livemint.com/opinion/online-views/sebi-madhabi-puri-buch-allegations-against-buch-icici-bank-salary-esops-hindenburg-reit-subhash-chandra-sony-zee-merger-11725532513441.html)
 

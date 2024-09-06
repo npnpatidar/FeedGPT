@@ -1,3 +1,10 @@
+Fri, 06 Sep 2024 01:15:17 +0000
+### [Why PM Narendra Modi’s visit to Singapore is significant for India’s semiconductor push](https://indianexpress.com/article/explained/why-pm-narendra-modis-visit-to-singapore-is-significant-for-indias-semiconductor-push-9552760/)
+
+Prime Minister Narendra Modi visited South-East Asia, stopping in Brunei and Singapore. In  Brunei, talks focused on strengthening trade, defense, space, and cultural ties. In Singapore, agreements were signed on semiconductors, digital technologies, health, and skill development.
+
+This partnership is significant as India aims to build its own semiconductor ecosystem, spurred by global supply chain disruptions and geopolitical tensions.  Singapore, with its established semiconductor industry, offers valuable lessons and potential for collaboration. Despite Singapore's focus on mature-node chips, India sees opportunities for joint ventures and knowledge sharing in areas like talent development and semiconductor park management.
+
 Thu, 05 Sep 2024 14:33:49 +0000
 ### [Who is new France PM Michel Barnier? Why did his appointment take so long?](https://indianexpress.com/article/explained/explained-global/explained-new-france-pm-michel-barnier-9552398/)
 

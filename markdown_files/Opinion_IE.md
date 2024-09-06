@@ -1,3 +1,50 @@
+Fri, 06 Sep 2024 02:27:11 +0000
+### [September 6, 1984, Forty Years Ago: PM Indira Gandhi denies role in splits in other parties](https://indianexpress.com/article/opinion/40-years-ago/september-6-1984-forty-years-ago-pm-indira-gandhi-denies-role-in-splits-in-other-parties-9552701/)
+
+Indira Gandhi defended her party against accusations of orchestrating splits in other parties,  stating that those affected should be allowed to choose their political affiliations.  The Indian government is preparing for upcoming talks with China in Beijing, emphasizing the importance of the discussions. 
+
+Teachers' Day was celebrated across India, honoring the contributions of educators. Meanwhile, Canada's Progressive Conservative Party secured a significant victory in the general election, replacing the incumbent Liberals.
+
+Fri, 06 Sep 2024 02:20:06 +0000
+### [A new generation of tennis stars in rising](https://indianexpress.com/article/opinion/editorials/tennis-grand-slam-us-open-semifinal-9552700/)
+
+American men's tennis has struggled in recent decades, with Andy Roddick being the last American man to win a Grand Slam singles title in 2003. However, the US Open 2023 semifinals feature an all-American matchup with Frances Tiafoe and Taylor Fritz, signaling a potential shift in the sport. The emergence of these players coincides with the decline of the "Big 3" (Federer, Nadal, Djokovic), creating an opportunity for new stars to dominate. In contrast, US women's tennis remains strong, with the Williams sisters' legacy carried on by players like Coco Gauff, Jessica Pegula, and Sofia Kenin.
+
+Fri, 06 Sep 2024 02:17:18 +0000
+### [NMA has done well to roll back changes to medical curriculum](https://indianexpress.com/article/opinion/editorials/lesbianism-nmc-medical-curriculum-9552703/)
+
+The National Medical Commission (NMC) initially made positive changes to the competency-based medical education (CBME) curriculum, removing discriminatory language and outdated concepts.  However, these changes were reversed, reinstating harmful definitions of virginity and "defloration,"  and removing crucial training modules on  disability and LGBTQI+ healthcare. This reversal  contravenes existing laws that mandate inclusive healthcare for marginalized groups.  The outdated definitions perpetuate stigma and discrimination, further hindering access to quality healthcare for  LGBTQI+ and disabled individuals.   The NMC must prioritize the dignity and well-being of all citizens by fully integrating inclusive and ethical healthcare practices into medical education.
+
+Fri, 06 Sep 2024 02:15:28 +0000
+### [Sebi needs to put its house in order](https://indianexpress.com/article/opinion/editorials/sebi-needs-to-put-its-house-in-order-9552644/)
+
+The Securities and Exchange Board of India (Sebi) is facing multiple controversies.  Around 500 Sebi officials accused its leadership of creating a toxic work environment.  Additionally, allegations have been raised regarding Chairperson Madhabi Puri Buch's potential conflicts of interest, including her past association with ICICI Bank and investments linked to the Adani Group.  
+
+Sebi has denied these allegations, but the controversies have raised concerns about the regulator's transparency and integrity.  Experts emphasize the need for thorough investigations and open discussions to address these issues and ensure the stability and trust in the Indian stock market.
+
+Fri, 06 Sep 2024 02:15:22 +0000
+### [Harsher rape laws do little to prevent sexual violence](https://indianexpress.com/article/opinion/columns/harsher-rape-laws-do-little-to-prevent-sexual-violence-9552727/)
+
+The recent rape and murder of a doctor has sparked debate about harsher punishments for sexual offenders. The West Bengal government has proposed amendments to criminal laws, including mandatory death penalty for rape resulting in death or permanent vegetative state.  
+
+However, critics argue that this approach is ineffective and a distraction from addressing the root causes of sexual violence. They point out that harsher punishments have been implemented before without significant impact on preventing such crimes.  
+
+Instead, they advocate for broader social reforms, improved criminal justice institutions, and a focus on addressing the systemic factors that contribute to sexual violence, such as patriarchal structures and gender inequality.  
+
+
+They argue that the death penalty does not deter crime effectively and fails to address the needs of victims who face numerous challenges throughout the justice process.
+
+Fri, 06 Sep 2024 01:40:37 +0000
+### [India offers an alternate development path for Global South nations](https://indianexpress.com/article/opinion/columns/india-development-global-south-9552729/)
+
+Prime Minister Modi, at the Third Voice of Global South Summit, proposed a "Development Compact" to reframe engagement with the Global South. This framework emphasizes five key areas: capacity building, technology sharing, trade for development, grants, and concessional finance. 
+
+The proposal aims to address the existing debt crisis faced by many developing countries, driven by imbalanced engagement models and unmet commitments from developed nations. The summit emphasized the need for a development narrative based on Southern experiences and perspectives, exploring alternative pathways for economic growth, social inclusion, and environmental sustainability. 
+
+India shared five areas of its development experience, including sustainability initiatives, health security, humanitarian aid, financial inclusion, and capacity building. Institutional frameworks, like the Global South Centre of Excellence (DAKSHIN), were highlighted for facilitating knowledge sharing and collaborative solutions. 
+   
+The summit also saw announcements of new funds to support capacity building in trade policy and social impact, totaling $3.5 million.
+
 Thu, 05 Sep 2024 14:00:18 +0000
 ### [Women have served in hellish work environments, our daughters deserve better](https://indianexpress.com/article/opinion/columns/women-served-in-hellish-work-environments-daughters-deserve-better-9552352/)
 
