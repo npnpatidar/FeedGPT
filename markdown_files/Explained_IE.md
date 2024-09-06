@@ -1,3 +1,22 @@
+Fri, 06 Sep 2024 12:10:51 +0000
+### [Do mobile phones cause cancer? New analysis debunks this myth](https://indianexpress.com/article/explained/explained-health/do-mobile-phones-cause-cancer-9553877/)
+
+A new global review of over 5,000 studies has confirmed that there is no link between mobile phone use and cancer. 
+The research, commissioned by the World Health Organization, analyzed  studies from 22 countries and focused on cancers of the brain, pituitary gland, salivary glands, and leukemias. 
+None of the studies showed an increased risk of cancer from mobile phone use, and there was no evidence of risk from broadcasting transmitters or base stations. 
+
+The study's authors emphasize that radiofrequency waves, used by mobile phones and wireless technologies, are a form of non-ionising radiation with insufficient energy to damage DNA or cause cancer. 
+ 
+Despite the strong scientific consensus, some organizations haven't officially weighed in on the issue, highlighting the difficulty of proving a negative.  
+ Nonetheless, the overwhelming evidence indicates that using mobile phones and wireless technologies is safe.
+
+Fri, 06 Sep 2024 10:55:06 +0000
+### [Why have Sensex and Nifty tanked over 1% each?](https://indianexpress.com/article/explained/everyday-explainers/sensex-nifty-markets-tanked-reason-jobs-us-9553760/)
+
+Indian stock market indices Sensex and Nifty declined over 1% on Friday, influenced by anticipation of the US jobs data. 
+
+Analysts believe the data will impact the Federal Reserve's decision on interest rate cuts later this month.  A weaker-than-expected jobs report could lead to a larger Fed rate cut, but the market might react negatively due to concerns about a potential global economic slowdown.  Major decliners on the NSE included State Bank of India, BPCL, ICICI Bank, HCL Tech, and Tata Motors.
+
 Fri, 06 Sep 2024 09:51:34 +0000
 ### [Pervez Musharraf’s ancestral land in UP to be auctioned under Enemy Property Act: What it means](https://indianexpress.com/article/explained/explained-law/pervez-musharraf-land-india-enemy-property-9553637/)
 

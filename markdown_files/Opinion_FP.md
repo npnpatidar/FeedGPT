@@ -1,3 +1,13 @@
+Fri, 6 Sep 2024 16:01:00 +0530
+### [World merrily forgets Uyghur cause as China mobilises mega-propaganda machine](https://www.firstpost.com/opinion/world-merrily-forgets-uyghur-cause-as-china-mobilises-mega-propaganda-machine-13812489.html)
+
+A 2024 report by the Office of the High Commissioner of Human Rights (OHCHR) detailed "serious human rights violations" in Xinjiang, China,  where an estimated million Uyghurs are detained in what China calls "re-education camps." The report urged China to address these abuses but Beijing has vehemently denied the allegations and countered with its own propaganda,  including state-sponsored tours and the publication of White Papers. 
+
+Despite international reports and calls for action, including sanctions from the US, China continues to tighten control over Xinjiang,  muzzling dissent and restricting information flow.  Many countries, particularly Islamic nations, have aligned with China's narrative, seemingly swayed by Chinese diplomatic efforts and economic incentives. 
+
+
+The international community's failure to effectively address China's actions in Xinjiang has led to a situation where China has successfully shaped global perceptions in its favor, leaving the plight of Uyghurs largely unaddressed.
+
 Fri, 6 Sep 2024 14:54:20 +0530
 ### [Amid wars in Ukraine and Gaza, are US, Iran in a ‘Drone Race’?](https://www.firstpost.com/opinion/amid-wars-in-ukraine-and-gaza-are-us-iran-in-a-drone-race-13812464.html)
 

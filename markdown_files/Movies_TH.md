@@ -1,3 +1,20 @@
+Fri, 06 Sep 2024 17:20:43 +0530
+### [‘Beetlejuice Beetlejuice’ movie review: Tim Burton brings gob-smacking giggles and gore](https://www.thehindu.com/entertainment/movies/beetlejuice-beetlejuice-movie-review-tim-burton-brings-gob-smacking-giggles-and-gore/article68613437.ece)
+
+The sequel to Tim Burton's "Beetlejuice" sees Lydia Deetz, now a paranormal investigator, returning to the original Ghost House with her daughter Astrid. Betelgeuse, Lydia's ghostly ex-husband, is on the run from his vengeful ex-wife, Delores. As Halloween approaches, the Deetz ladies and new characters face various supernatural encounters. 
+
+The film features the original cast members with strong performances, along with an impressive new cast. The sequel boasts a visually imaginative and unique style, seamlessly blending classic black-and-white with animation and other elements. With its humor, special effects, and nostalgic charm, "Beetlejuice Beetlejuice" is a delightful return to the beloved world of the original.
+
+Fri, 06 Sep 2024 15:58:34 +0530
+### [‘35: Chinna Katha Kaadu’ movie review: Nivetha Thomas and a bunch of children in an uplifting tale of triumph](https://www.thehindu.com/entertainment/movies/35-chinna-katha-kaadu-movie-review-telugu-film-led-by-nivetha-thomas-is-a-tale-of-triumph/article68609164.ece)
+
+The Telugu family drama "35: Chinna Katha Kaadu" explores the struggles of a young boy named Arun, who faces academic challenges and societal pressure. The film centers around Arun's journey to overcome his perceived failure in math, with his mother Saraswathi's unwavering support and the guidance of unexpected sources. 
+
+Director Nanda Kishore delicately portrays the realism of childhood dynamics, sibling relationships, and the pressures of education. Nivetha Thomas delivers a powerful performance as Saraswathi, a woman striving to balance her responsibilities while encouraging her son. Viswadev and the talented child actors add depth and authenticity to the narrative. 
+
+
+The film's heartwarming story encourages viewers to confront their weaknesses and celebrate the triumph of resilience.
+
 Fri, 06 Sep 2024 15:24:05 +0530
 ### [‘Call Me Bae’ series review: Ananya Panday carries a no-carbs comedy](https://www.thehindu.com/entertainment/movies/call-me-bae-series-review-ananya-panday-carries-a-no-carbs-comedy/article68613133.ece)
 

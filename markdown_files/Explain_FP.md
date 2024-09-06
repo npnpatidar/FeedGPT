@@ -1,3 +1,15 @@
+Fri, 6 Sep 2024 16:49:30 +0530
+### [With Michel Barnier as French PM, has Macron made Marine Le Pen France’s ‘kingmaker’?](https://www.firstpost.com/explainers/with-michel-barnier-as-french-pm-has-macron-made-marine-le-pen-france-kingmaker-13812468.html)
+
+Following inconclusive elections in France, President Macron appointed Michel Barnier as prime minister.  The new government lacks a majority, relying on support from Marine Le Pen's National Rally party.  Le Pen, leader of the far-right, now holds significant influence, demanding policies aligned with her party's priorities.  While she claims to be willing to compromise, Barnier faces challenges in balancing the demands of various political factions, including the need to address budget concerns and the ever-present potential for no-confidence motions.
+
+Fri, 6 Sep 2024 16:31:00 +0530
+### [Why has a tiny town in Italy banned cricket?](https://www.firstpost.com/explainers/why-has-a-tiny-town-in-italy-banned-cricket-13812487.html)
+
+The Italian town of Monfalcone has banned cricket, citing concerns about public safety and financial constraints. However, the ban is widely seen as part of a broader anti-immigration agenda pushed by the town's mayor, Anna Maria Cisint. 
+
+Cisint, who won re-election on a platform opposing immigration, claims that the influx of Bangladeshi Muslim immigrants, many employed at the town's shipyards, is eroding Monfalcone's culture and that they contribute nothing to the community.  She has also taken steps to restrict religious practices of the Bangladeshi Muslim population, including banning collective prayer at local Islamic centers. Local Bangladeshis, who say they are targeted and contribute significantly to the town's economy, deny these allegations and feel ostracized.
+
 Fri, 6 Sep 2024 14:32:46 +0530
 ### [Did Vladimir Putin just ‘endorse’ Kamala Harris or did he do Donald Trump a huge favour?](https://www.firstpost.com/explainers/did-vladimir-putin-just-endorse-kamala-harris-or-did-he-do-donald-trump-a-huge-favour-13812432.html)
 
