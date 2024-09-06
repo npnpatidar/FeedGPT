@@ -1,3 +1,14 @@
+Fri, 6 Sep 2024 12:54:47 +0530
+### [PM Modi's visit to Brunei, Singapore bolsters up ASEAN focus in his third term](https://www.firstpost.com/opinion/pm-modis-visit-to-brunei-singapore-bolsters-up-asean-focus-in-his-third-term-13812388.html)
+
+Recently, Prime Minister Modi visited Brunei and Singapore, strengthening India's engagement with ASEAN nations. This marked the first bilateral visit by an Indian Prime Minister to Brunei since its independence and elevated the India-Brunei relationship to an "Enhanced Partnership."  In Singapore, the partnership was elevated to a "Comprehensive Strategic Partnership."
+
+ The visits focused on enhancing cooperation in various areas, including trade, gas, space, and capacity building.  
+
+Significant agreements were signed, including one on semiconductors, highlighting Singapore's expertise in this field and India's aspirations in chipmaking. Both nations recognized the growing importance of diversification in supply chains, with Singapore increasingly interested in India's economic growth story.  
+
+The visits also addressed strategic concerns, with the joint statement mentioning the South China Sea and acknowledging the role of the Quad.
+
 Fri, 6 Sep 2024 11:25:33 +0530
 ### [Facing the toughest challenge of her political career, Mamata Banerjee is making rookie mistakes](https://www.firstpost.com/opinion/kolkata-rape-case-protests-in-west-bengal-mamata-banerjee-making-mistakes-13812346.html)
 

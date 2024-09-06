@@ -1,3 +1,20 @@
+Fri, 6 Sep 2024 13:39:09 +0530
+### [Olympian Rebecca Cheptegei dies after being set on fire. Her murder exposes Kenya's gender violence](https://www.firstpost.com/explainers/olympian-rebecca-cheptegei-death-kenya-femicide-violence-against-women-13812407.html)
+
+Rebecca Cheptegei, a 33-year-old Ugandan long-distance runner, was set on fire by her ex-boyfriend at her home in western Kenya. She died four days later from multiple organ failure due to the severe burns. This tragic incident highlights the widespread issue of femicide in Kenya. Cheptegei's death follows two similar cases of female athletes being killed in Kenya since 2021.  Kenya's sports minister acknowledged the urgent need to combat gender-based violence, especially within the sports community. Cheptegei's father called for justice, while fellow athletes and activists mourned her loss and condemned the violence.  The incident has sparked renewed calls for government action to address the root causes of femicide in the country, including societal attitudes that tolerate violence against women.
+
+Fri, 6 Sep 2024 13:22:02 +0530
+### [Dubai has the world's tallest tower and is now set to get the second-tallest. All about the Burj Azizi](https://www.firstpost.com/explainers/dubai-has-the-worlds-largest-tower-and-is-now-set-to-get-the-second-tallest-all-about-the-burj-azizi-13812368.html)
+
+Burj Azizi, a new skyscraper in Dubai, is poised to become the world's second tallest building at 2,377 feet.  Expected to be completed in 2028, it will surpass Malaysia's Merdeka 118 and feature a world-record 11th-floor hotel lobby.  The tower will also boast the world's highest nightclub and observation deck. Burj Azizi is designed to reflect Dubai's multiculturalism and will include luxury apartments, retail space, and various amenities like dining options, a beach club, and wellness centers. The project represents a significant investment exceeding 6 billion dirhams (approximately Rs 13,719 crore).
+
+Fri, 6 Sep 2024 12:53:57 +0530
+### [US, Britain, EU sign world's first AI treaty: Why is it a big deal?](https://www.firstpost.com/explainers/us-britain-eu-sign-world-first-ai-treaty-why-is-it-a-big-deal-13812386.html)
+
+The US, EU, and UK have signed the first legally binding international treaty on artificial intelligence. The treaty, backed by over 50 nations, aims to balance AI innovation with safeguarding human rights and democracy. It focuses on addressing potential risks posed by AI while promoting responsible innovation.  
+
+The treaty requires signatories to be held accountable for harmful or discriminatory outcomes resulting from AI systems and mandates that AI systems respect privacy, equality, and democratic principles.  While hailed as a significant step, some critics argue that the treaty lacks sufficient enforcement power and includes broad exemptions for certain AI applications.
+
 Fri, 6 Sep 2024 11:38:33 +0530
 ### [Georgia teen school shooter’s troubled life: Dad gifted him gun for Christmas, drug-addict mother](https://www.firstpost.com/explainers/georgia-teen-school-shooter-troubled-life-dad-christmas-gift-drug-addict-mother-13812329.html)
 

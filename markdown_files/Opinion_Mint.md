@@ -1,3 +1,15 @@
+Fri, 06 Sep 2024 12:30:10 +0530
+### [Women savers could help India accelerate bank deposit growth](https://www.livemint.com/opinion/online-views/women-savers-bank-accounts-for-women-bank-deposit-growth-indian-economy-women-empowerment-rbi-credit-deposit-ratio-11725599650124.html)
+
+The article highlights the growing concern of declining deposit growth in the Indian banking sector and proposes addressing this issue by engaging women as depositors.  
+
+A significant gap exists as women currently hold only 20.5% of total bank deposits despite having a high percentage of bank accounts.  The reason behind this limited participation is attributed to a lack of formalized, accessible, and appealing savings products tailored to their unique needs and circumstances.
+
+The article suggests that innovative financial products and solutions, along with increased financial literacy programs specifically designed for women, can help bridge this gap. It emphasizes the immense potential of women's participation in formal savings, citing data showing that even small contributions from a large segment of women could significantly contribute to overall deposit growth. 
+
+
+Empowering women through financial inclusion is not only a social equity issue but also a strategic imperative for the long-term stability and growth of the banking sector and the Indian economy.
+
 Fri, 06 Sep 2024 08:30:03 +0530
 ### [Affordable excellence: ‘Study in India’ isn’t a pipe dream](https://www.livemint.com/opinion/online-views/isb-mba-iima-business-school-education-us-universities-insead-stern-wharton-harvard-stanford-fees-networking-placement-11725551973376.html)
 

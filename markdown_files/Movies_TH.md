@@ -1,3 +1,10 @@
+Fri, 06 Sep 2024 13:11:16 +0530
+### [‘Ibbani Tabbida Ileyali’ movie review: Chandrajith Belliappa makes a promising debut with a fairytale-like romantic drama](https://www.thehindu.com/entertainment/movies/ibbani-tabbida-ileyali-movie-review-chandrajith-belliappa-makes-a-promising-debut-with-a-fairytale-like-romantic-drama/article68612688.ece)
+
+"Ibbani Tabbida Ileyali," a debut feature by Chandrajith Belliappa, tells the story of Siddharth, a cricketer, and Anahita, a writer, who fall in love but are separated by circumstances.  The film explores themes of love, loss, and the difficulty of letting go of the past.
+
+While the love story unfolds in a dream-like world with beautiful visuals and refreshing music, the lack of significant conflict between the couple makes it difficult for the audience to invest emotionally in their relationship. Despite this, the performances by Vihan Gowda, Ankita Amar, Mayuri Nataraja, and Girija Shettar are notable.
+
 Thu, 05 Sep 2024 18:39:16 +0530
 ### [The Greatest of All Time movie review: Vijay, Venkat Prabhu’s ‘GOAT’ chooses theatrical fan service over a compelling story](https://www.thehindu.com/entertainment/movies/the-greatest-of-all-time-movie-review-vijay-venkat-prabhus-goat-chooses-theatrical-fan-service-over-a-compelling-story/article68609437.ece)
 
