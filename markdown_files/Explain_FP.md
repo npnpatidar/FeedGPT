@@ -1,3 +1,15 @@
+Fri, 6 Sep 2024 21:09:00 +0530
+### [Why luxury brand Burberry is no longer on UK’s ‘most valuable companies’ list](https://www.firstpost.com/explainers/why-luxury-brand-burberry-is-no-longer-on-uks-most-valuable-companies-list-13812595.html)
+
+Burberry's value has drastically declined, leading to its removal from the UK's most valuable companies list and the FTSE 100 index. The luxury brand has faced significant financial setbacks, with sales and profits plummeting due to slowed spending on luxury goods globally, particularly in China.  
+
+Experts attribute their struggles to Burberry's attempts to move into the high-profit leather goods market and attract a more upscale clientele, areas where it lacked brand desirability and heritage.  Burberry's past design changes, along with its struggles to balance outlet sales with price increases, have also contributed to its decline.  Despite the challenges, the company remains optimistic about its future, highlighting the enduring appeal of its iconic products.
+
+Fri, 6 Sep 2024 20:41:09 +0530
+### ['For me, everything collapsed': The heartbreaking testimony of French woman, whose husband invited 72 men to rape her](https://www.firstpost.com/explainers/for-me-everything-collapsed-the-heartbreaking-testimony-of-french-woman-whose-husband-invited-72-men-to-rape-her-13812542.html)
+
+Gisele Pelicot, a 71-year-old French woman, bravely testified in court about the horrific ordeal she endured at the hands of her husband and over 70 other men.  For over a decade, she was drugged and repeatedly raped by her husband's friends and acquaintances, while under heavy sedation. Gisele expressed feeling like a "heap of ruins" after learning the extent of the abuse. She described the feeling of betrayal and despair,  and how she wanted to "disappear."  The trial is ongoing, with numerous defendants facing charges of aggravated rape. Gisele's goal is to raise awareness and prevent similar tragedies from happening in the future.
+
 Fri, 6 Sep 2024 18:49:54 +0530
 ### [Barack Obama’s half-brother will vote for Trump this US elections. Who is Malik Obama?](https://www.firstpost.com/explainers/barack-obamas-half-brother-will-vote-for-trump-this-us-elections-who-is-malik-obama-13812455.html)
 
