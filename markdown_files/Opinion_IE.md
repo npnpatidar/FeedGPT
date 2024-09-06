@@ -1,3 +1,12 @@
+Fri, 06 Sep 2024 05:24:24 +0000
+### [Amid infighting in Israel, can Netanyahu carry on with his war policy in Gaza?](https://indianexpress.com/article/opinion/columns/amid-infighting-in-israel-can-netanyahu-carry-on-with-his-war-policy-in-gaza-9553239/)
+
+Israel faces a complex and volatile situation. The ongoing war in Gaza, coupled with internal tensions between the government and the military, presents a major threat to Israel's national security. 
+
+Defense Minister Yoav Gallant has publicly criticized Prime Minister Benjamin Netanyahu's handling of the war, generating further instability. The government's policies in the West Bank, perceived by some as encouraging violence against Palestinians, have further exacerbated the situation. These internal divisions come as Israel navigates external challenges, including threats from Iran, Hezbollah, and the Houthis. The recent execution of Israeli hostages by Hamas has sparked massive protests and a national strike, highlighting the deep public frustration with the government's leadership. 
+ 
+This internal turmoil, coupled with the escalating conflict in Gaza, raises questions about Israel's future stability and its ability to effectively address the numerous threats it faces.
+
 Fri, 06 Sep 2024 02:43:24 +0000
 ### [‘Anyone can teach’ is a common view in India. But is it true?](https://indianexpress.com/article/opinion/columns/anyone-can-teach-is-a-common-view-in-india-but-is-it-true-9552643/)
 

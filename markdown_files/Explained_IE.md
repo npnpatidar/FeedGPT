@@ -1,3 +1,8 @@
+Fri, 06 Sep 2024 04:27:08 +0000
+### [What is the Law Commission: its role, members, & recommendations](https://indianexpress.com/article/explained/explained-law/what-is-the-law-commission-its-role-members-recommendations-9552771/)
+
+The 23rd Law Commission of India has been constituted with a three-year term. This follows the end of the previous commission's tenure. The commission, which is non-statutory, is tasked with reviewing laws, suggesting repeals, and making recommendations to the government on legal matters. It typically includes a retired judge as chairperson and legal scholars as members. The 23rd commission's terms of reference include identifying outdated laws, simplifying legal processes, and examining laws in line with the Directive Principles of State Policy. They will also review judicial administration and laws affecting the poor.
+
 Fri, 06 Sep 2024 03:35:16 +0000
 ### [Why Saturn’s majestic rings will briefly ‘disappear’ in march 2025](https://indianexpress.com/article/explained/explained-sci-tech/why-saturns-majestic-rings-will-briefly-disappear-in-march-2025-9552780/)
 

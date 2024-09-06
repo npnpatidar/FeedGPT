@@ -1,3 +1,31 @@
+Fri, 6 Sep 2024 11:38:33 +0530
+### [Georgia teen school shooter’s troubled life: Dad gifted him gun for Christmas, drug-addict mother](https://www.firstpost.com/explainers/georgia-teen-school-shooter-troubled-life-dad-christmas-gift-drug-addict-mother-13812329.html)
+
+A school shooting at Apalachee High School in Georgia left two students and two teachers dead. The 14-year-old suspect, Colt Gray, will be tried as an adult on four counts of murder. His father, Colin Gray, has been charged with involuntary manslaughter and other offenses for allowing his son access to a firearm. Authorities say Colt used an AR-15 style rifle in the shooting. 
+
+Colt's mother, Marcee, has a history of drug and domestic violence arrests. Neighbors described a troubled home life for Colt and his siblings, reporting frequent incidents of abuse and neglect.  Colt had reportedly expressed struggles with mental health issues and begged for help.
+
+Fri, 6 Sep 2024 11:14:52 +0530
+### [US jobs report set for release today: What will it reveal and why is it crucial?](https://www.firstpost.com/explainers/us-jobs-report-set-for-release-today-what-will-it-reveal-and-why-is-it-crucial-13812351.html)
+
+The upcoming US jobs report is highly anticipated as it will influence the Federal Reserve's decision on interest rates. Recent economic data, including a rise in unemployment to 4.3% in July, has raised concerns about a potential slowdown. Economists predict job growth will remain moderate with the unemployment rate edging down slightly. The report's outcome could impact the 2024 US presidential election, as it could influence public perception of the current administration's economic performance. Additionally, the US jobs report will have reverberations across global financial markets, including stock indexes, oil prices, and bond yields.
+
+Fri, 6 Sep 2024 10:18:06 +0530
+### [Why has US president’s son Hunter Biden pleaded guilty in tax case? Will he go to jail?](https://www.firstpost.com/explainers/us-president-joe-biden-son-hunter-biden-tax-case-guilty-plea-13812340.html)
+
+Hunter Biden, son of President Joe Biden, pleaded guilty to nine federal tax charges.  This avoids a second criminal trial for Hunter, who was previously found guilty in a separate case involving gun possession and drug use. The tax charges stem from Hunter Biden's failure to pay approximately $1.4 million in taxes between 2016 and 2019, as well as allegations of misrepresenting expenses on his tax forms. 
+
+Prosecutors rejected an Alford plea from Hunter Biden, who asserted his innocence while acknowledging the strength of the evidence against him. Hunter Biden's guilty plea came after his lawyers proposed this alternative, stating he desired to spare his family further scrutiny and pain related to his past struggles with addiction.  
+
+He faces a potential sentence of up to 17 years in prison and $1.3 million in fines.  His sentencing is scheduled for December, after the presidential election.
+
+Fri, 6 Sep 2024 10:01:01 +0530
+### [Ganesh Chaturthi: From Thailand to Japan, how Ganpati is revered beyond India](https://www.firstpost.com/explainers/ganesh-chaturthi-thailand-japan-how-ganpati-is-revered-beyond-india-13812104.html)
+
+Ganesha, a beloved deity in India, enjoys widespread reverence across Asia.  His influence extends to Thailand, where he is known as Phira Phikanet and symbolizes success and obstacle removal.  In Cambodia, Ganesha is worshipped for his power to grant moksha, while Tibet incorporates him into Buddhism with forms like Maharakta Ganapati and Vajra Vinayaka, emphasizing his role as a protector and remover of obstacles.
+
+China portrays Ganesha in a darker tantric form as Huanxi Tian, while Afghanistan houses the Gardez Ganesha, worshipped as a god of wisdom and prosperity. Reaching Japan through Tibet and China, Ganesha, known as Kangiten, is revered by merchants, gamblers, actors, and geishas, even evolving into a unique "twin" form, "Embracing Kangiten," representing prosperity through passion.   Indonesia sees Ganesha as a tantric deity removing obstacles in magical rituals, and   in Java, both tantric and Hindu versions exist, with a notable idol situated at Mount Bromo, believed to protect locals from the volcano.
+
 Fri, 6 Sep 2024 08:58:08 +0530
 ### [Is an economic crisis in China turning the population obese?](https://www.firstpost.com/explainers/china-economic-crisis-obesity-13811746.html)
 

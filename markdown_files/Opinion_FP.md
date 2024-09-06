@@ -1,3 +1,17 @@
+Fri, 6 Sep 2024 11:25:33 +0530
+### [Facing the toughest challenge of her political career, Mamata Banerjee is making rookie mistakes](https://www.firstpost.com/opinion/kolkata-rape-case-protests-in-west-bengal-mamata-banerjee-making-mistakes-13812346.html)
+
+The article discusses the widespread protests in Kolkata following the rape and murder of a junior doctor. The protests, driven by the urban middle class, demand justice and the resignation of key officials, including the police commissioner and the chief minister.
+
+Despite  attempts by the TMC government to deflect blame and discredit the protestors, the movement persists and gains momentum.  The anger stems not only from the horrific crime but also from allegations of police misconduct, including pressure tactics on the victim's family and a crackdown on social media dissent. 
+
+The author highlights the unprecedented nature of the protests, noting the unique participation of women and the apolitical nature of the movement, which has shaken the foundations of Mamata Banerjee's authority. The government's response, characterized by repression and a refusal to address the core issues, is seen as counterproductive and potentially exacerbating the situation.
+
+Fri, 6 Sep 2024 09:48:10 +0530
+### [India’s neighbourhood challenge: No easy answers](https://www.firstpost.com/opinion/indias-neighbourhood-challenge-no-easy-answers-13812339.html)
+
+India's pursuit of friendly relations with its neighbors, despite historical complexities and geopolitical realities, faces inherent challenges. India's size and power, coupled with its neighbors' sensitivities about sovereignty and desire for external balancing, create friction. Pakistan's hostility, China's increasing influence in the region, and the complex dynamics within smaller nations like Bangladesh and Nepal add to the difficulty.  Although a stable neighborhood would be advantageous, India has achieved significant international progress amidst these challenges. India's approach should balance fostering closer ties with its neighbors while realistically addressing China's growing presence and Pakistan's persistent antagonism. Long-term strategies should focus on economic development, connectivity, and people-to-people exchanges with neighboring countries, while firmly outlining concerns and red lines.
+
 Thu, 5 Sep 2024 17:48:09 +0530
 ### [Jamaat genie out of bottle: How Yunus has failed to tame radicalism in Bangladesh](https://www.firstpost.com/opinion/jamaat-genie-out-of-bottle-how-yunus-has-failed-to-tame-radicalism-in-bangladesh-13811975.html)
 
