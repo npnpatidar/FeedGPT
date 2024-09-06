@@ -1,3 +1,10 @@
+Fri, 6 Sep 2024 18:49:54 +0530
+### [Barack Obama’s half-brother will vote for Trump this US elections. Who is Malik Obama?](https://www.firstpost.com/explainers/barack-obamas-half-brother-will-vote-for-trump-this-us-elections-who-is-malik-obama-13812455.html)
+
+Malik Obama, half-brother of former US President Barack Obama, has publicly declared his support for Republican presidential nominee Donald Trump. This support stems from what Malik perceives as a lack of support from his brother, particularly regarding Malik's foundation established in their late father's name. Malik accuses Barack of wanting him to shut down the foundation and of not supporting him during controversial allegations against it.  
+
+Beyond this, Malik expresses dissatisfaction with Barack's political stances,  finding him too "focused on himself" and disapproving of his support for LGBT rights. Malik shares conservative views, aligning with Trump's platform on issues like same-sex marriage and abortion. He views Trump as a genuine leader who speaks his mind.
+
 Fri, 6 Sep 2024 16:49:30 +0530
 ### [With Michel Barnier as French PM, has Macron made Marine Le Pen France’s ‘kingmaker’?](https://www.firstpost.com/explainers/with-michel-barnier-as-french-pm-has-macron-made-marine-le-pen-france-kingmaker-13812468.html)
 

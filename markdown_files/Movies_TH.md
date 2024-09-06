@@ -1,3 +1,8 @@
+Fri, 06 Sep 2024 17:53:24 +0530
+### [‘Rebel Ridge’ movie review: Jeremy Saulnier’s tense, slow-burn thriller packs a quiet punch](https://www.thehindu.com/entertainment/movies/rebel-ridge-movie-review-jeremy-saulniers-tense-slow-burn-thriller-packs-a-quiet-punch/article68613609.ece)
+
+"Rebel Ridge" is a suspenseful thriller that follows Terry Richmond, a former Marine wrongly detained by corrupt Louisiana police.  Though physically capable, Terry's primary battle is against the entrenched power structures that allow abuse to flourish.  The film, directed by Jeremy Saulnier, builds tension not through action but through legal maneuvering and the claustrophobic atmosphere of rural Louisiana. Aaron Pierre delivers a magnetic performance as Terry, a man who skillfully navigates a system rigged against him.  "Rebel Ridge" is a cerebral and thought-provoking thriller that exposes the flaws within the justice system.
+
 Fri, 06 Sep 2024 17:20:43 +0530
 ### [‘Beetlejuice Beetlejuice’ movie review: Tim Burton brings gob-smacking giggles and gore](https://www.thehindu.com/entertainment/movies/beetlejuice-beetlejuice-movie-review-tim-burton-brings-gob-smacking-giggles-and-gore/article68613437.ece)
 

@@ -1,3 +1,15 @@
+Fri, 06 Sep 2024 13:18:42 +0000
+### [‘IC 814: The Kandahar Hijack’ gets many things right. Portrayal of a newspaper office is not one of them](https://indianexpress.com/article/opinion/columns/ic-814-the-kandahar-hijack-newspaper-office-portrayal-9554007/)
+
+The article critiques the portrayal of newsrooms in Hindi entertainment, using the Netflix series "IC 814: The Kandahar Hijack" as an example.  It points out numerous inaccuracies, such as reporters having complete control over headlines and the newsroom being sparsely populated at night. The author argues that filmmakers and series directors often get the depiction of a newsroom wrong, failing to capture the complexities and realities of the profession. They highlight the important role of editors, the multi-layered process of story selection and editing, and the long hours and dedication required by journalists.  The article concludes by urging the Hindi entertainment industry to do better by spending time in actual newsrooms and understanding the nuances of journalism.
+
+Fri, 06 Sep 2024 12:28:23 +0000
+### [How does a disabled professor teach?](https://indianexpress.com/article/opinion/columns/how-does-disabled-professor-teach-9553902/)
+
+Teachers' Day should be a time to reflect on the challenges faced by marginalized academicians, including disabled professors. Disabled professors disrupt ableist assumptions about universities and knowledge production, bringing unique perspectives and experiences. However, they often face systemic barriers like a heavy workload, ableist expectations of "neutral" knowledge, and limited opportunities for agency.  The emphasis on "publish or perish" metrics can be particularly disadvantageous, as these often prioritize knowledge derived from abled experiences.
+
+It is crucial to recognize that disabled professors challenge dominant paradigms and offer a more inclusive approach to knowledge formation.  Their presence enriches the academic environment and contributes to a more equitable and democratic understanding of knowledge.  By challenging ableist structures and celebrating the diverse experiences of disabled professors, we can move towards a truly inclusive and enriching academic community.
+
 Fri, 06 Sep 2024 05:24:24 +0000
 ### [Amid infighting in Israel, can Netanyahu carry on with his war policy in Gaza?](https://indianexpress.com/article/opinion/columns/amid-infighting-in-israel-can-netanyahu-carry-on-with-his-war-policy-in-gaza-9553239/)
 

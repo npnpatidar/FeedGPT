@@ -1,3 +1,8 @@
+Fri, 06 Sep 2024 13:05:15 +0000
+### [Kejriwal bail plea in CBI case: Main arguments before Supreme Court](https://indianexpress.com/article/explained/explained-law/kejriwal-bail-plea-sc-9553989/)
+
+The Supreme Court reserved its decision on Delhi Chief Minister Arvind Kejriwal's bail plea in the Delhi excise policy case. Kejriwal's lawyer argued that he had been granted bail in the related money laundering case and that his arrest by the CBI under the Prevention of Corruption Act was not justified, particularly as he was already in custody. The prosecution, however, argued that Kejriwal should have first approached the trial court for bail and that his arrest fulfilled the conditions under Section 41 of the CrPC, citing his alleged attempts to influence witnesses and derail the investigation.
+
 Fri, 06 Sep 2024 12:10:51 +0000
 ### [Do mobile phones cause cancer? New analysis debunks this myth](https://indianexpress.com/article/explained/explained-health/do-mobile-phones-cause-cancer-9553877/)
 
