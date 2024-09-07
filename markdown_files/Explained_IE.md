@@ -1,3 +1,26 @@
+Sat, 07 Sep 2024 02:00:08 +0000
+### [Formalised ‘gender apartheid’: What Taliban’s new law means for women](https://indianexpress.com/article/explained/explained-global/formalised-gender-apartheid-what-talibans-new-law-means-for-women-9554386/)
+
+The Taliban supreme leader has ordered the implementation of Afghanistan's "morality law," a 114-page code formalizing restrictions on women, LGBTQ individuals, and religious minorities. The code mandates full-body veiling for women, deems their voices "intimate" and forbids singing or reading aloud in public or even within homes. It bans music, mixing of unrelated genders, and eye contact between unrelated men and women.  
+
+The law also sanctions persecution of LGBTQ people and religious minorities. Men are forbidden from wearing clothing above the knee and closely trimming their beards.  
+
+UN experts describe the code as "gender apartheid" and "disturbingly similar" to the previous Taliban regime. They warn that the code empowers Taliban morality inspectors with authority to arbitrarily detain and punish individuals, creating a climate of fear. While the US has made support to the Taliban contingent on the withdrawal of these measures, several Muslim-majority countries and China have recognized the regime.
+
+Sat, 07 Sep 2024 01:45:54 +0000
+### [Night time light pollution linked to increased Alzheimer’s risk: what a new study says](https://indianexpress.com/article/explained/night-time-light-pollution-linked-to-increased-alzheimers-risk-what-a-new-study-says-9554385/)
+
+A new study published in Frontiers in Neuroscience suggests that exposure to artificial light at night may be a risk factor for Alzheimer's disease. Researchers from Rush University Medical Center analyzed satellite data on light pollution and Medicare reports on Alzheimer's prevalence, finding a correlation between the two, even stronger than for some established risk factors like obesity and alcohol abuse. They believe the disruption of natural circadian rhythms and sleep patterns caused by light pollution may contribute to the disease's development.  This finding is significant as up to 80% of the global population is exposed to light pollution.
+
+Sat, 07 Sep 2024 01:20:10 +0000
+### [Why global models went wrong with their La Niña predictions — and what its delay means](https://indianexpress.com/article/explained/explained-climate/why-global-models-went-wrong-with-their-la-nina-predictions-and-what-its-delay-means-9554393/)
+
+La Niña, a climate phenomenon that influences global weather patterns, was predicted to begin in July but has been delayed.  This has implications for India's rainfall, as La Niña typically enhances monsoon activity. 
+
+Despite initially predicting a La Niña onset during the latter half of  the monsoon season, forecasters were inaccurate about its timing. While the delay might impact the northeast monsoon (October-December), India has already received surplus rainfall overall during the southwest monsoon. 
+
+La Niña's delayed onset could still influence cyclone activity in the north Indian Ocean basin, potentially leading to more frequent and intense storms. The phenomenon may also result in colder winters.
+
 Fri, 06 Sep 2024 13:05:15 +0000
 ### [Kejriwal bail plea in CBI case: Main arguments before Supreme Court](https://indianexpress.com/article/explained/explained-law/kejriwal-bail-plea-sc-9553989/)
 
