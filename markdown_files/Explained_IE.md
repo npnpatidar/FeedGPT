@@ -1,3 +1,8 @@
+Sat, 07 Sep 2024 03:22:44 +0000
+### [The law and the ground realities of passive euthanasia](https://indianexpress.com/article/explained/explained-law/passive-euthanasia-law-realities-9554679/)
+
+The Delhi High Court and Supreme Court recently rejected a plea for passive euthanasia for Harish Rana, who has been in a permanent vegetative state since 2013.  This case has renewed the discussion surrounding passive euthanasia, which the Supreme Court first recognized as legally permissible in the Aruna Shanbaug case in 2011. The court clarified that passive euthanasia could only be undertaken with a High Court's approval and that the patient must not require life support.  Further, the 2018 ruling stated the 'right to die with dignity' is part of the right to life. The court established guidelines for passive euthanasia, including the requirement of an advance directive or living will for withdrawal of life support in such cases. The guidelines also involve approval from multiple medical boards and, in the absence of a living will, consent from the family.
+
 Sat, 07 Sep 2024 02:00:08 +0000
 ### [Formalised ‘gender apartheid’: What Taliban’s new law means for women](https://indianexpress.com/article/explained/explained-global/formalised-gender-apartheid-what-talibans-new-law-means-for-women-9554386/)
 

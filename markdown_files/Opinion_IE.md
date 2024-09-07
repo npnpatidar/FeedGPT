@@ -1,3 +1,58 @@
+Sat, 07 Sep 2024 02:25:00 +0000
+### [Ram Madhav writes: How Modi government tackled Maoism in India](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-how-modi-government-tackled-maoism-in-india-9554358/)
+
+The Maoist insurgency in India, a five-decade-long violent movement rooted in Mao Zedong's ideology, is nearing its end.  The movement, which gained prominence in the 1970s and reached its peak in 2010, controlled significant territory and claimed thousands of lives. While earlier governments struggled to contain it, the Modi government's approach, focusing on counter-terrorism, state coordination, and development in affected regions, has significantly weakened the Maoists. Through military operations, infrastructure development, and incentivizing surrenders, the government has reduced Maoist influence and violence drastically.  Disillusionment within Maoist ranks, coupled with global failings of communist ideology, further contributes to their weakening.
+
+Sat, 07 Sep 2024 01:50:59 +0000
+### [How our lifestyle is creating an epidemic of mental ill health](https://indianexpress.com/article/opinion/columns/how-our-lifestyle-is-creating-an-epidemic-of-mental-ill-health-9554357/)
+
+India is experiencing rapid economic growth, but this progress comes at a cost to the mental well-being of its youth.  Studies reveal a concerning rise in mental health issues among adolescents, linked to factors such as early smartphone usage, high consumption of ultra-processed foods, sedentary lifestyles, and weakened family relationships.  Alarmingly,  youth from wealthier backgrounds, who consume more processed foods, are less physically active, and experience strained family ties, demonstrate poorer mental health compared to their less affluent peers who engage in healthier habits and maintain strong family connections.  This trend highlights the urgent need for intervention. Policymakers, schools, parents, and the private sector must work together to address this growing mental health crisis before it jeopardizes India's demographic dividend.
+
+Sat, 07 Sep 2024 01:40:38 +0000
+### [Miyazaki wins Magsaysay award: A child’s heart, a philosopher’s mind](https://indianexpress.com/article/opinion/columns/miyazaki-wins-magsaysay-award-a-childs-heart-a-philosophers-mind-9554349/)
+
+Hayao Miyazaki, a recipient of this year's Ramon Magsaysay Award, is celebrated as a visionary in animation. His films, filled with magical creatures and stunning visuals, explore themes of war, environmentalism, and the complexities of technological progress.  Although often set in fantastical worlds, his stories weave in real-world anxieties and anxieties like illness, loneliness, and change. Miyazaki's characters exhibit quiet courage, facing challenges with resourcefulness and empathy. He encourages reflection on the world's beauty and its fragility, inviting audiences to look with wonder and quiet resilience in the face of darkness.
+
+Sat, 07 Sep 2024 01:35:44 +0000
+### [Sanjay Srivastava writes: Why we must talk about caste](https://indianexpress.com/article/opinion/columns/sanjay-srivastava-writes-why-we-must-talk-about-caste-9554353/)
+
+The article argues that ignoring caste in India doesn't make it disappear; it only reinforces existing inequalities. The author critiques the idea that caste is simply a matter of thought and memory, pointing out that it manifests both formally and informally.
+
+Rahul Gandhi's comment about the lack of representation of lower castes in beauty pageants, though seemingly trivial, highlights the pervasiveness of caste discrimination. The author suggests that to truly understand this issue, we need to analyze not only the visible barriers but also the invisible ones embedded in societal attitudes and cultural capital. 
+
+The author uses examples of conversations about caste in Haryana and academia to illustrate how upper castes often justify their privilege by attributing "merit" and "inclinations" to specific castes, perpetuating a hierarchy that limits opportunities for others.  The article concludes that acknowledging and addressing both formal and informal discrimination is crucial to dismantle the caste system effectively.
+
+Sat, 07 Sep 2024 01:35:44 +0000
+### [Aggressive China and neighbourhood woes: India is at a strategic crossroads](https://indianexpress.com/article/opinion/columns/aggressive-china-and-neighbourhood-woes-india-is-at-a-strategic-crossroads-9554354/)
+
+The article analyzes India's strategic position, highlighting challenges and opportunities. It criticizes India's declining influence in its neighborhood due to perceived "big brother" behaviour and domestic political polarization, which negatively impact its image. 
+
+The article emphasizes the importance of robust statecraft, including a comprehensive strategic agenda, to address security threats from China and Pakistan.  It underscores India's vulnerability due to a ballooning trade deficit with China, dependence on foreign defense imports, and adversaries who have gained nuclear advantages. 
+
+Finally, the article calls for India to forge strategic alliances and partnerships to bolster national security and achieve its economic and military ambitions, reminding the leadership that national security  requires prioritization.
+
+Sat, 07 Sep 2024 01:30:43 +0000
+### [The Third Edit: A filmy, kitty-cat break](https://indianexpress.com/article/opinion/editorials/the-third-edit-a-filmy-kitty-cat-break-9554352/)
+
+Cat Video Fests are gaining popularity, featuring humorous compilation of the internet's best feline clips. These festivals, including the Cat Video Fest touring the US and the upcoming NY Cat Film Festival, aim to raise funds for cat charities.  These events provide a lighthearted escape for audiences, drawing crowds with their feline antics.  Cats have a long history connected with technology, from early film pioneers using them as subjects to shaping internet experiences. The success of these festivals suggests that cat-themed entertainment could offer a unique and appealing niche for movie theaters.
+
+Sat, 07 Sep 2024 01:22:41 +0000
+### [In India, changes in food consumption patterns capture important trends](https://indianexpress.com/article/opinion/editorials/in-india-changes-in-food-consumption-patterns-capture-important-trends-9554351/)
+
+A new study analyzing household spending patterns reveals that for the first time in independent India, food expenditure accounts for less than half of the average monthly budget. This decline, attributed to the success of government food security policies and improved infrastructure, is seen as a significant progress marker. 
+
+The study highlights the declining share of cereal spending, particularly among the poorest households, suggesting a shift towards a more diversified diet.  This trend, while positive, raises questions about the need to adjust agricultural policies to encourage diverse crop production. Additionally, the study notes a rise in spending on processed food, prompting a need to assess its health implications and refine public health policies accordingly.
+
+Sat, 07 Sep 2024 01:15:40 +0000
+### [Express View on PM Modi’s Singapore visit: Facing East](https://indianexpress.com/article/opinion/editorials/express-view-on-pm-modis-singapore-visit-facing-east-9554350/)
+
+Prime Minister Modi's recent visits to Southeast Asia signify India's renewed commitment to the region. This diplomatic push aims to strengthen ties and foster cooperation in areas like defense, security, and trade.  Despite India's withdrawal from the Regional Comprehensive Economic Partnership (RCEP), it is actively pursuing bilateral trade agreements and exploring new partnerships in sectors such as digitalization and technology. The goal is to solidify India's position as a key player in the region amidst evolving geopolitics.
+
+Sat, 07 Sep 2024 01:00:58 +0000
+### [September 7, 1984, Forty Years Ago: Haryana Floor Test](https://indianexpress.com/article/opinion/40-years-ago/september-7-1984-forty-years-ago-haryana-floor-test-9554356/)
+
+The Haryana Vidhan Sabha rejected a no-confidence motion against the Bhajan Lal government. The motion was debated for four hours before being voted down 54 to 28.  Former Andhra Pradesh Chief Minister N T Rama Rao requested the Governor to ensure the safety of supporting legislators and maintain order in the state assembly. Romesh Bhandari will be the new Foreign Secretary, taking over from Maharajkrishna Rasgotra in January.
+
 Fri, 06 Sep 2024 13:18:42 +0000
 ### [‘IC 814: The Kandahar Hijack’ gets many things right. Portrayal of a newspaper office is not one of them](https://indianexpress.com/article/opinion/columns/ic-814-the-kandahar-hijack-newspaper-office-portrayal-9554007/)
 

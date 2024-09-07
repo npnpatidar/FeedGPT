@@ -1,3 +1,14 @@
+Sat, 7 Sep 2024 09:11:21 +0530
+### [Ganesh Chaturthi: In Mumbai, even Ganpati pandals are insured. But why?](https://www.firstpost.com/explainers/ganesh-chaturthi-mumbai-ganpati-pandals-insurance-13812500.html)
+
+Ganesh Chaturthi, a major festival in India, sees numerous Ganpati pandals erected across Mumbai.  These pandals often require insurance coverage for a variety of risks. 
+
+The GSB Seva Mandal's Maha Ganapati, Mumbai's "richest idol," holds a record-breaking insurance policy of Rs 400.58 crore. This coverage includes protection against theft, fire, earthquake, and personal accident for volunteers and staff.
+
+Lalbaugcha Raja, another famous Ganpati idol in Mumbai, is insured for Rs 32.76 crore, with provisions for personal accident cover, third-party liability, and protection for the idol's ornaments and the pandal structure.
+
+Insurance for Ganpati pandals typically extends from the start of the festival until the idol's immersion. Beyond Ganpati festivals, insurance is also becoming increasingly common for other religious celebrations like Durga Puja, Janmashtami, and Navratri.
+
 Fri, 6 Sep 2024 21:09:00 +0530
 ### [Why luxury brand Burberry is no longer on UK’s ‘most valuable companies’ list](https://www.firstpost.com/explainers/why-luxury-brand-burberry-is-no-longer-on-uks-most-valuable-companies-list-13812595.html)
 
