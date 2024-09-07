@@ -1,3 +1,12 @@
+Sat, 7 Sep 2024 11:28:49 +0530
+### [Mahrang Baloch: The harbinger of feminist wave in Balochi nationalism](https://www.firstpost.com/opinion/mahrang-baloch-the-harbinger-of-feminist-wave-in-balochi-nationalism-13812771.html)
+
+The Balochistan uprising has gained new momentum under the leadership of Mahrang Baloch, leader of the Baloch Yakjehti Committee. Baloch women have taken a prominent role in the movement, demanding autonomy and an end to injustices perpetrated by the Pakistani state. 
+
+These include forced disappearances, extra-judicial killings, and economic deprivation. Baloch nationalism, rooted in historical grievances dating back to 1948, has been fueled by the perceived apathy of the Pakistani establishment. Mahrang Baloch's peaceful, yet assertive approach, coupled with her personal experiences of loss due to state violence, has resonated with the people of Balochistan. 
+
+Her movement highlights the urgency for a resolution to the Baloch conflict, advocating for democracy, human rights, and an end to state oppression.
+
 Fri, 6 Sep 2024 16:01:00 +0530
 ### [World merrily forgets Uyghur cause as China mobilises mega-propaganda machine](https://www.firstpost.com/opinion/world-merrily-forgets-uyghur-cause-as-china-mobilises-mega-propaganda-machine-13812489.html)
 

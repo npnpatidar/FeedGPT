@@ -1,3 +1,24 @@
+Sat, 7 Sep 2024 10:26:15 +0530
+### [In Graphics | Modaks: The divine sweet that won Lord Ganesha's heart](https://www.firstpost.com/explainers/in-graphics-modaks-the-divine-sweet-that-won-lord-ganeshas-heart-13812705.html)
+
+Modaks are traditional sweet dumplings deeply significant in Ganesh Chaturthi celebrations. Legend says Goddess Parvati declared whoever ate a divine modak would gain knowledge in various fields.  A competition arose between her sons, Ganesha and Kartikeya, for the modak. Ganesha, by symbolically circling his parents as his universe, won the favor of his mother, who made it his favorite. 
+
+Modaks now symbolize wisdom and are essential offerings to Lord Ganesha, who is also known as "Modakapriyaya."  They are prepared with love, often in quantities of 21.
+
+Sat, 7 Sep 2024 10:25:08 +0530
+### [This Week in Explainers: How India's quest to become a semiconductor powerhouse got a boost](https://www.firstpost.com/explainers/this-week-in-explainers-how-indias-quest-to-become-a-semiconductor-powerhouse-got-a-boost-13812549.html)
+
+This week in India saw a controversy over Netflix's show IC-814, with some critics targeting the makers.
+
+India further solidified its ambition to become a semiconductor giant by signing a Memorandum of Understanding with Singapore.
+
+Concerns arose after reports surfaced indicating that some IIT Bombay graduates accepted salaries as low as Rs 33,000. The West Bengal Assembly passed the Aparajita Woman and Child (West Bengal Criminal Laws Amendment) Bill, 2024, aiming to enhance women's safety. 
+
+Meanwhile, wolf attacks in Uttar Pradesh's Bahraich district claimed the lives of nine people. The Supreme Court addressed the issue of 'bulldozer justice,' criticizing state authorities for demolishing properties based on accusations. 
+
+Finally, anticipation built for the launch of Apple's new iPhone 16 on September 9th. 
+:
+
 Sat, 7 Sep 2024 09:11:21 +0530
 ### [Ganesh Chaturthi: In Mumbai, even Ganpati pandals are insured. But why?](https://www.firstpost.com/explainers/ganesh-chaturthi-mumbai-ganpati-pandals-insurance-13812500.html)
 
