@@ -1,3 +1,10 @@
+Sat, 7 Sep 2024 17:53:34 +0530
+### [Who is Alice Guo? Ex-Mayor of a small Philippine town, accused of being a spy for China](https://www.firstpost.com/explainers/who-is-alice-guo-ex-mayor-of-a-small-philippine-town-accused-of-being-a-spy-for-china-13812819.html)
+
+Former Filipina mayor Alice Guo, once portrayed as a humble public servant, is at the center of a major international scandal.  Guo, who used the alias Alice Guo Hua Ping, is accused of ties to Chinese criminal syndicates, money laundering, and human trafficking. Her arrest came after months on the run, during which authorities discovered a network of businesses linked to Guo that facilitated online gambling operations and allegedly trafficked hundreds of workers. 
+
+Philippine authorities, led by Senator Risa Hontiveros, allege Guo's connections to individuals convicted of fraud in Singapore.  Her case has highlighted concerns about the influence of Chinese organized crime in the Philippines and the vulnerability of the country's justice system. Guo's recent extradition from Indonesia marks a turning point in this case, with Philippine President Ferdinand Marcos Jr vowing to ensure justice is served.
+
 Sat, 7 Sep 2024 14:34:32 +0530
 ### [Who was Aysenur Ezgi Eygi, Turkish-American activist allegedly shot dead by Israeli forces in West Bank?](https://www.firstpost.com/explainers/who-was-aysenur-ezgi-eygi-turkish-american-activist-allegedly-shot-dead-by-israeli-forces-in-west-bank-13812785.html)
 
