@@ -1,3 +1,12 @@
+Sat, 07 Sep 2024 08:30:14 +0000
+### [Eight years after I became the first woman para-athlete to bring India a medal, I have goosebumps watching Sheetal Devi shine](https://indianexpress.com/article/opinion/columns/paralympics-paris-para-athletes-medals-sheetal-devi-9555026/)
+
+Over the past three Paralympic Games, the number of medals won by Indian women para-athletes has surged from zero to eleven.  This progress is attributed to policy changes, increased societal acceptance, and a shift in the perception of para-sports.  
+
+The Paralympic Committee of India has transitioned from a charitable organization to a professional sporting body, providing athletes with training, support, and funding. Prime Minister Narendra Modi's "Khelo India" initiative and national youth para-games have further boosted grassroots talent identification and development. 
+
+The 2024 Paris Games showcase India's largest-ever women's para-athlete contingent, competing across various sports and disability categories.  This success signifies a step towards equal opportunity and empowerment for women in para-sports, demonstrating the transformative power of sport in challenging societal norms and fostering inclusivity.
+
 Sat, 07 Sep 2024 07:08:03 +0000
 ### [Pavel Durov arrest: Why Elon Musk and Russia have a problem with Telegram](https://indianexpress.com/article/opinion/columns/elon-musk-russia-telegram-pavel-durov-arrest-9554981/)
 

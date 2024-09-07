@@ -1,3 +1,13 @@
+Sat, 7 Sep 2024 14:34:32 +0530
+### [Who was Aysenur Ezgi Eygi, Turkish-American activist allegedly shot dead by Israeli forces in West Bank?](https://www.firstpost.com/explainers/who-was-aysenur-ezgi-eygi-turkish-american-activist-allegedly-shot-dead-by-israeli-forces-in-west-bank-13812785.html)
+
+Aysenur Ezgi Eygi, a 26-year-old Turkish-American and recent graduate of the University of Washington, was killed by Israeli forces in the West Bank while participating in a protest against Israeli settlement expansion. Eyewitnesses  say she was not posing a threat at the time of the shooting. Eygi was shot in the head during a clash with Israeli soldiers near Beita, a town known for frequent protests against settlements. Israeli forces claim they were responding to "instigators of violent activity." 
+
+The US has called for an investigation and expressed its concern over Eygi's death. Turkish officials also condemned the killing and urged for accountability. Eygi was an active advocate for human rights and had participated in various protests, including those against the Dakota Access Pipeline and the war in Gaza. 
+
+
+The incident highlights the escalating violence in the West Bank following the Israel-Hamas war and raises concerns about the safety of foreign nationals and civilians in the region.
+
 Sat, 7 Sep 2024 11:47:57 +0530
 ### [In Graphics | Ganesh Chaturthi: A celebration of Lord Ganesha's 32 divine forms. What are they?](https://www.firstpost.com/explainers/in-graphics-ganesh-chaturthi-a-celebration-of-lord-ganeshas-32-divine-forms-what-are-they-13812734.html)
 

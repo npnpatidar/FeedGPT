@@ -1,3 +1,17 @@
+Sat, 07 Sep 2024 13:39:23 +0530
+### [What is assistive technology and how is it helping para athletes? | Explained](https://www.thehindu.com/sport/olympics/what-is-assistive-technology-and-how-is-it-helping-para-athletes/article68610013.ece)
+
+India made history at the 2024 Paris Paralympics, surpassing its previous best medal haul with 27 wins. This success is attributed to several factors, including increased athlete participation, the Target Olympic Podium Scheme (TOPS), and the widespread use of assistive technology.  
+
+Assistive technology plays a crucial role in enabling para-athletes to compete on a level playing field. Examples include release braces for archers, running blades for track athletes, modified wheelchairs for basketball, and shooting stands for para-shooters. These technologies cater to a range of impairments, allowing individuals to participate in various sports.
+
+India's strong performance in events like para archery, para athletics, para badminton, shooting, swimming, and powerlifting highlights the impact of assistive technology. Athletes like Sheetal Devi (archery), Dharambir (club throw), and Avani Lekhara (shooting) are prime examples of how these technologies empower para-athletes to achieve greatness.  
+
+While advancements in assistive technology have come a long way, challenges remain. Access to these technologies is uneven globally, with disparities between high-income and low-income countries. 
+
+
+The 'Equipped for Equity' campaign addresses this issue by urging governments to prioritize access to assistive technology, ensuring everyone has the opportunity to participate and excel in sports.
+
 Fri, 06 Sep 2024 08:30:00 +0530
 ### [Can Kerala access funds from the Loss and Damage Fund? | Explained](https://www.thehindu.com/sci-tech/energy-and-environment/can-kerala-access-funds-from-the-loss-and-damage-fund-explained/article68611070.ece)
 

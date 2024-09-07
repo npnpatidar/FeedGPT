@@ -1,3 +1,17 @@
+Sat, 7 Sep 2024 15:31:42 +0530
+### [Time for Taiwan to turn the narrative around](https://www.firstpost.com/opinion/time-for-taiwan-to-turn-the-narrative-around-13812827.html)
+
+China falsely portrays itself as a dominant power and aims to coerce Taiwan into submission through fear. It exploits the global lack of interest in countering its narrative, using state media, weasel-wording from "experts," and the constant repetition of its claims. 
+
+A popular misconception is that dictators initiate wars to divert attention from domestic problems, a notion that benefits Beijing's propaganda. This stereotype ignores historical realities and perpetuates a defeatist narrative.
+
+Taiwan's president recently challenged China's narrative, highlighting its weakness and baseless claims. To counter China's disinformation, Taiwan and its allies must proactively promote a message of strength and resolve, defending Taiwan's right to exist.
+
+Sat, 7 Sep 2024 14:10:05 +0530
+### [MeToo in Mollywood: The world-wide plague of sexual harassment in film industries](https://www.firstpost.com/opinion/metoo-in-mollywood-the-world-wide-plague-of-sexual-harassment-in-film-industries-13812805.html)
+
+A 2017 assault on a Malayalam film actress sparked a seven-year movement exposing exploitation within the industry.  Allegedly motivated by revenge, the attack highlighted a culture of male dominance and complicity within the film world, as seen in the Hollywood scandal involving Harvey Weinstein.  Women in the Malayalam film industry, facing retaliation for speaking out, have called for change, demanding adherence to safety guidelines and creation of secure work environments.  This movement echoes broader societal issues where women continue to face safety concerns and discrimination.  It's a call for men to be part of the solution, promoting gender equality and upholding safety for all.
+
 Sat, 7 Sep 2024 11:28:49 +0530
 ### [Mahrang Baloch: The harbinger of feminist wave in Balochi nationalism](https://www.firstpost.com/opinion/mahrang-baloch-the-harbinger-of-feminist-wave-in-balochi-nationalism-13812771.html)
 
