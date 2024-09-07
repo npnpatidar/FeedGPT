@@ -1,3 +1,14 @@
+Sun, 08 Sep 2024 01:50:00 +0530
+### [Michel Barnier: ‘Monsieur Brexit’ to France’s PM](https://www.thehindu.com/news/international/michel-barnier-profile/article68616984.ece)
+
+French President Emmanuel Macron appointed former EU Brexit negotiator Michel Barnier as the country's new prime minister.  Barnier, a seasoned conservative politician, faces the challenge of uniting a divided National Assembly.  Having served in various ministerial positions in the past, Barnier is known for his methodical approach and consensus-building skills. 
+
+His appointment comes after a period of political instability following inconclusive parliamentary elections where no party secured a majority. Macron's choice of Barnier, who shares some conservative views with the far-right but aligns with Macron on economic policies, is seen as a bid to secure support from diverse political factions.
+
+
+
+However, the Left has already rejected Barnier's appointment, alleging a stolen election. Barnier now has the task of navigating the complex political landscape and forming a stable government.
+
 Sat, 07 Sep 2024 13:39:23 +0530
 ### [What is assistive technology and how is it helping para athletes? | Explained](https://www.thehindu.com/sport/olympics/what-is-assistive-technology-and-how-is-it-helping-para-athletes/article68610013.ece)
 

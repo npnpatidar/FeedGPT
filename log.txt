@@ -8331,3 +8331,10 @@ Started at 2024-09-07 20:11:58
 Finished at 2024-09-07 20:12:21
 Total time taken: 22.795655727386475 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-07 22:10:18
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-07 22:10:40
+Total time taken: 21.404842853546143 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
