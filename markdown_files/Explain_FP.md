@@ -1,3 +1,8 @@
+Sat, 7 Sep 2024 11:47:57 +0530
+### [In Graphics | Ganesh Chaturthi: A celebration of Lord Ganesha's 32 divine forms. What are they?](https://www.firstpost.com/explainers/in-graphics-ganesh-chaturthi-a-celebration-of-lord-ganeshas-32-divine-forms-what-are-they-13812734.html)
+
+Ganesh Chaturthi celebrations honor Lord Ganesha, the remover of obstacles and embodiment of wisdom. While commonly depicted in one form, Ganesha manifests in 32 divine incarnations, each representing a unique aspect of his powers and personality. These forms, including Bala Ganapati, Ucchishta Ganapati, and Vighna Ganapati, offer insights into the multifaceted divine essence of this beloved deity.
+
 Sat, 7 Sep 2024 10:26:15 +0530
 ### [In Graphics | Modaks: The divine sweet that won Lord Ganesha's heart](https://www.firstpost.com/explainers/in-graphics-modaks-the-divine-sweet-that-won-lord-ganeshas-heart-13812705.html)
 

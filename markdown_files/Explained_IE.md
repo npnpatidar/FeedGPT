@@ -1,3 +1,10 @@
+Sat, 07 Sep 2024 06:45:03 +0000
+### [Slowdown in auto sales: 5 reasons why cars are not selling (as much)](https://indianexpress.com/article/explained/explained-economics/slowdown-in-auto-car-sales-5-reasons-9554982/)
+
+The Indian automobile industry is experiencing a slowdown after a period of strong growth. Several factors contribute to this, including a cyclical downturn in demand,  easing of chip shortages which had led to pent-up demand, increased competition from new launches, and affordability challenges  in the entry-level segment. 
+
+Additionally, there's a slowdown in sales for Battery Electric Vehicles (BEVs), and  climate change, with extreme weather events impacting buyer sentiment. Dealerships are grappling with rising inventory levels, prompting carmakers to offer discounts to clear stock. This downturn comes after record discounts and  the Indian auto sector's initial resilience against the broader economic slowdown.
+
 Sat, 07 Sep 2024 03:22:44 +0000
 ### [The law and the ground realities of passive euthanasia](https://indianexpress.com/article/explained/explained-law/passive-euthanasia-law-realities-9554679/)
 

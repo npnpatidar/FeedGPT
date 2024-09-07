@@ -1,3 +1,12 @@
+Sat, 07 Sep 2024 07:08:03 +0000
+### [Pavel Durov arrest: Why Elon Musk and Russia have a problem with Telegram](https://indianexpress.com/article/opinion/columns/elon-musk-russia-telegram-pavel-durov-arrest-9554981/)
+
+Pavel Durov's recent arrest in France has significant implications for Telegram and the broader social media landscape. 
+
+The arrest, which stemmed from allegations of non-compliance with law enforcement requests, has sparked debate about the balance between free speech and content moderation. Durov argues that Telegram actively combats harmful content and has cooperated with authorities, while critics contend that the platform's policies create a breeding ground for extremism and illegal activity. 
+
+The incident raises concerns about the potential for censorship and highlights the challenges of regulating social media platforms, especially those with global reach and strong encryption measures.  The future of Telegram’s operations in France remains uncertain, adding another layer of complexity to the ongoing discussion surrounding online safety and user privacy.
+
 Sat, 07 Sep 2024 02:25:00 +0000
 ### [Ram Madhav writes: How Modi government tackled Maoism in India](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-how-modi-government-tackled-maoism-in-india-9554358/)
 

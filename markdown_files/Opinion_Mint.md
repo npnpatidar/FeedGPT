@@ -1,3 +1,12 @@
+Sat, 07 Sep 2024 12:44:29 +0530
+### [Sheikh Hasina’s extradition conundrum: What are India’s options?](https://www.livemint.com/opinion/online-views/sheikh-hasina-extradition-bangladesh-india-bangladesh-relations-extradition-treaty-foreign-policy-diplomacy-11725692501115.html)
+
+Sheikh Hasina's potential extradition from India due to demands from Bangladesh has created a complex dilemma for India. While traditionally viewed as a close ally, this situation necessitates a careful balancing act. India can invoke exception clauses within the extradition treaty based on the political nature of the accusations and lack of good faith, but this risks straining bilateral relations. 
+
+India needs to move beyond its perception as an ally of Sheikh Hasina and the Awami League specifically, and instead see itself as a partner of Bangladesh as a whole. Engaging with Bangladesh's opposition parties, including the BNP, is crucial. Additionally, avoiding the "minority card"  in domestic politics will prevent an unfavorable reaction in Bangladesh. 
+
+Ultimately, a pragmatic diplomatic approach that considers both international law and the complex realities of Bangladesh's political landscape is required.
+
 Fri, 06 Sep 2024 14:00:12 +0530
 ### [Marketers and brands have good reason to celebrate the rise of AI](https://www.livemint.com/opinion/online-views/genai-marketing-ai-advertising-cost-human-creativity-ai-tools-customer-engagement-ad-targeting-11725601004665.html)
 
