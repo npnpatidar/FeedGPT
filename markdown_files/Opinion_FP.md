@@ -1,3 +1,8 @@
+Sat, 7 Sep 2024 17:08:34 +0530
+### [Pakistan: How Faiz Hameed’s court martial is Gen Asim Munir’s risky shot to get Imran Khan](https://www.firstpost.com/opinion/pakistan-how-faiz-hameeds-court-martial-is-gen-asim-munirs-risky-shot-to-get-imran-khan-13812847.html)
+
+Lt Gen (retd) Faiz Hameed, former ISI chief, is facing court martial proceedings initiated by the Pakistani army amidst accusations of exceeding legal and constitutional bounds while in service. He is alleged to have acted on instructions from political elements for personal gain and violated the Pakistan Army Act after retirement. The army cites "multiple instances of violation" and links the charges to the May 9, 2024 protests against the army's detention of Imran Khan. This unusual move, using the Field General Court Martial (FGCM),  historically reserved for wartime offenses,  highlights the deep tensions within the Pakistani military. This case comes amidst a broader crackdown on Imran Khan by the current army chief, General Asim Munir, who seeks to silence Khan's influence.
+
 Sat, 7 Sep 2024 15:31:42 +0530
 ### [Time for Taiwan to turn the narrative around](https://www.firstpost.com/opinion/time-for-taiwan-to-turn-the-narrative-around-13812827.html)
 

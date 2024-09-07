@@ -1,3 +1,8 @@
+Sat, 07 Sep 2024 10:30:06 +0000
+### [View from Bangladesh: ‘A refreshing start’ in Bangladesh with Muhammad Yunus](https://indianexpress.com/article/opinion/columns/bangladesh-refreshing-start-with-muhammad-yunus-9555237/)
+
+One month after the ousting of Sheikh Hasina, Bangladesh is under interim government led by Muhammad Yunus.  Yunus is receiving praise for his connection with the people and his openness to engaging with the media, a welcome change from the previous administration.  The focus has shifted to the role of the Bangladesh Nationalist Party (BNP) in the country's future.  The media urges the BNP to distance itself from the past and engage in constructive reforms to seize the opportunity presented by the current political climate. There is  a call for  the BNP to abandon revenge-driven politics and embrace public sentiment.
+
 Sat, 07 Sep 2024 08:30:14 +0000
 ### [Eight years after I became the first woman para-athlete to bring India a medal, I have goosebumps watching Sheetal Devi shine](https://indianexpress.com/article/opinion/columns/paralympics-paris-para-athletes-medals-sheetal-devi-9555026/)
 
