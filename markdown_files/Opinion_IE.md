@@ -1,3 +1,10 @@
+Sun, 08 Sep 2024 15:52:33 +0000
+### [Vandita Mishra writes: In the Modi government’s third term so far, signs of politics opening up, and remaining frozen](https://indianexpress.com/article/opinion/columns/modi-government-third-term-politics-9557090/)
+
+The 2024 election results have led to a more balanced political landscape, pushing the ruling government to adopt a less authoritarian approach.  The Supreme Court has shown signs of institutional pushback, affirming individual rights and condemning practices like "bulldozer justice."  
+
+Within the BJP, there are visible cracks with the RSS chief seemingly challenging PM Modi's stance.  Additionally, the party is facing internal struggles due to ticket distribution complexities in the upcoming Haryana elections. However, concerns remain as the Court's authority on hate crimes appears weak, exemplified by the recent assault on a Muslim man on a train.  Police inaction and the escalating climate of impunity fueled by vigilantism pose a threat to social harmony. The government's silence on these issues further compounds the concern.
+
 Sun, 08 Sep 2024 08:05:01 +0000
 ### [Express View on film about the Emergency: Let it play](https://indianexpress.com/article/opinion/editorials/express-view-on-film-about-the-emergency-let-it-play-9556412/)
 
