@@ -1,3 +1,18 @@
+Mon, 09 Sep 2024 00:20:00 +0530
+### [​Periodic reset: On India-ASEAN ties, ‘Act East’ policy](https://www.thehindu.com/opinion/editorial/%E2%80%8Bperiodic-reset-on-india-asean-ties-act-east-policy/article68618719.ece)
+
+Prime Minister Narendra Modi's recent visits to Brunei and Singapore signify India's renewed focus on its "Act East" policy.  This marks a significant effort to strengthen ties with Southeast Asia, which have been neglected in recent years.  The visits aimed to re-establish connections, explore new collaborations, and address shared interests in areas like defence, geopolitics, trade, and technology. While discussions on trade, investment, and energy cooperation took place, concrete outcomes remain to be seen. The emphasis on semiconductors and space cooperation reflects India's desire for technological advancement and regional integration. 
+
+
+For sustained engagement, India must address concerns raised by ASEAN, including its withdrawal from the RCEP and lack of progress on updating trade agreements. Closer coordination on geopolitical issues like Myanmar and the South China Sea is also crucial.
+
+Mon, 09 Sep 2024 00:10:00 +0530
+### [​Wide open: on India’s Paralympians](https://www.thehindu.com/opinion/editorial/%E2%80%8Bwide-open-on-indias-paralympians/article68618666.ece)
+
+India's performance at the 2024 Paris Paralympics was its best ever, securing 29 medals and an 18th-place finish.  This success represents a  significant improvement from previous Paralympics, highlighting the dedication of Indian para-athletes and increased government support. 
+
+Para-athletics dominated India's medal haul, with  achievements in javelin throw, high jump, and track events.  Notable performances included Avani Lekhara and Sumit Antil defending their gold medals, Mariyappan Thangavelu winning his third consecutive medal, and Sheetal Devi becoming the youngest Indian para-athlete to win a medal.  The inspiring success of these athletes and the enthusiastic support from spectators  reinforces the importance of continuing government and corporate support to foster the growth of para-sports in India.
+
 Sat, 07 Sep 2024 00:24:00 +0530
 ### [​Fresh openings: On the J&K Assembly elections](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfresh-openings-on-the-jk-assembly-elections/article68614119.ece)
 
