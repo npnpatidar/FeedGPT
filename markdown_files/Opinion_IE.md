@@ -1,3 +1,14 @@
+Sun, 08 Sep 2024 08:05:01 +0000
+### [Express View on film about the Emergency: Let it play](https://indianexpress.com/article/opinion/editorials/express-view-on-film-about-the-emergency-let-it-play-9556412/)
+
+The film "Emergency", directed by Kangana Ranaut who portrays Indira Gandhi, has been embroiled in controversy since its trailer release. Despite initial clearance by the CBFC with minor modifications, objections from Sikh groups and a PIL seeking a ban have arisen. While the film's quality is not the primary concern, the incident raises questions about the CBFC's role as a tool for political censorship, especially given the government's focus on commemorating the Emergency as a violation of democratic principles.  The incident echoes the banning of "Kissa Kursi Ka", a satirical film about Indira and Sanjay Gandhi, highlighting the danger of silencing dissenting voices through censorship.
+
+Sun, 08 Sep 2024 06:52:17 +0000
+### [‘IC 814: The Kandahar Hijack’: Why Bollywood gets intelligence and security work so wrong](https://indianexpress.com/article/opinion/columns/ic-814-the-kandahar-hijack-why-bollywood-gets-security-work-so-wrong-9556307/)
+
+The hijacking of Indian Airlines Flight IC 814 in 1999 was a significant blow to India's intelligence and security. While the involvement of Pakistan's ISI and the terrorist group Harkat-ul-Mujahideen (HuM) was evident, Indian intelligence failed to prevent the hijacking due to temporary loss of valuable assets and insufficient anticipation of Pakistan's strategy. The hijacking highlighted vulnerabilities in India's security apparatus and exposed the reality of Pakistan's influence in Afghanistan under the Taliban. 
+The Netflix series "IC 814: The Kandahar Hijack" distorts the events by suggesting involvement of Osama bin Laden and Al Qaeda, despite no evidence to support these claims. The series also depicts inaccurate details about the role of R&AW and the presence of specific terrorists among the hijackers.  The incident underscores the need for accurate historical accounts and wider access to information from retired intelligence personnel.
+
 Sun, 08 Sep 2024 02:15:46 +0000
 ### [All praise isn’t creepy](https://indianexpress.com/article/opinion/columns/all-praise-isnt-creepy-9555712/)
 

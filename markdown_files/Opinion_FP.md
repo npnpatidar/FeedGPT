@@ -1,3 +1,10 @@
+Sun, 8 Sep 2024 12:24:27 +0530
+### [Decoding reasons behind Putin’s ‘endorsement’ of Kamala Harris’ presidency](https://www.firstpost.com/opinion/decoding-reasons-behind-putins-endorsement-of-kamala-harris-presidency-13813022.html)
+
+Vladimir Putin's humor, often described as dark, cynical, and deadpan, is a recurring element in his public persona. His jokes frequently have a hidden political agenda, as seen in his comments about Kamala Harris, Donald Trump, and renewable energy.  Putin uses humor to troll, make veiled criticisms, and reinforce his message of Russian strength and self-reliance.  
+
+His remarks, often lacking in political tact,  have sparked controversy and raised questions about his worldview. Despite the unconventional nature of his humor, it seems to resonate with his supporters and solidify his image as a powerful and unapologetic leader.
+
 Sun, 8 Sep 2024 10:41:42 +0530
 ### [US presidential election: Donald Trump, Kamala Harris and stakes for India](https://www.firstpost.com/opinion/us-presidential-election-donald-trump-kamala-harris-and-stakes-for-india-13812998.html)
 

@@ -1,3 +1,10 @@
+Sun, 8 Sep 2024 13:29:43 +0530
+### [How ageing 'bursts' at 44 and 60 can make you grow older rapidly](https://www.firstpost.com/health/ageing-waves-44-66-growing-old-rapidly-13812446.html)
+
+A new study challenges the traditional view of aging as a slow and steady process, revealing that it occurs in distinct "waves."  Researchers found that significant changes in molecules like RNA and proteins happen in two main spurts: around age 44 and again around age 60. These changes may explain sudden shifts in physical attributes and health, such as wrinkle formation, muscle soreness, and increased susceptibility to infections.  
+
+The study suggests that lifestyle factors, including alcohol consumption, may contribute to these aging "waves." The researchers recommend individuals in their 40s and 60s prioritize healthier living, including exercise and a balanced diet, to mitigate the effects of these accelerated aging periods.
+
 Sun, 8 Sep 2024 11:31:27 +0530
 ### [Thailand's most controversial dynasty is back at the helm. Can Paetongtarn Shinawatra tread her own path?](https://www.firstpost.com/explainers/thailands-most-controversial-dynasty-is-back-at-the-helm-can-paetongtarn-shinawatra-tread-her-own-path-13812550.html)
 

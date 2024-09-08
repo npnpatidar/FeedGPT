@@ -1,3 +1,16 @@
+Sun, 08 Sep 2024 13:00:14 +0530
+### [It’s about effective law enforcement: Let’s recommit the country](https://www.livemint.com/opinion/columns/its-about-effective-law-enforcement-let-s-recommit-the-country-prakash-singh-police-judiciary-11725775950956.html)
+
+The article discusses the public outcry following a heinous crime against a woman in West Bengal and highlights the systemic lack of faith in the Indian justice system. The author argues that quick fixes like fast-track courts are ineffective and that a comprehensive solution requires significant reform of police and law enforcement. 
+
+The author cites a study showing abysmally low conviction rates and lengthy delays in investigations and court proceedings, leading to a cycle of impunity for criminals and discouragement for victims.  Solutions proposed include: 
+
+* Setting up specialist investigation units within police departments 
+* Publicizing successful prosecutions to deter crime
+* Establishing case progression units to prevent bureaucracy-related delays
+
+The author emphasises the need for national leadership and cooperative federalism to bring about lasting change, advocating for a national blue ribbon commission to develop policy recommendations. Ultimately, the article calls for a systemic overhaul of the indian law enforcement system to protect citizens and restore faith in justice.
+
 Sat, 07 Sep 2024 12:44:29 +0530
 ### [Sheikh Hasina’s extradition conundrum: What are India’s options?](https://www.livemint.com/opinion/online-views/sheikh-hasina-extradition-bangladesh-india-bangladesh-relations-extradition-treaty-foreign-policy-diplomacy-11725692501115.html)
 
