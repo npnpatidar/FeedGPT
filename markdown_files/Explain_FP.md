@@ -1,3 +1,15 @@
+Sun, 8 Sep 2024 18:00:05 +0530
+### [1 in 10 people fall ill by eating unsafe food every year. Here's how you should wash your veggies before use](https://www.firstpost.com/explainers/1-in-10-people-fall-ill-by-eating-unsafe-food-every-year-heres-how-you-should-wash-your-veggies-before-use-13811342.html)
+
+Consuming contaminated fruits and vegetables contributes to a significant number of foodborne illnesses. While we often associate dangers with raw meat and fish, fresh produce can also harbor bacteria, fungi, viruses, and pesticides.
+
+The simplest and safest way to clean produce is by washing it under cold, running water, removing dirt and surface contaminants by rubbing.  
+
+Avoid using detergents or bleach, as they can be absorbed by the produce and alter its taste and safety. While vinegar and baking soda solutions can reduce bacteria and pesticides, they may also impact the taste and texture of the produce.
+
+
+For produce with firm skins or rinds, scrub gently with a vegetable brush. Leafy greens should be separated and rinsed thoroughly, discarding damaged outer leaves.  Berries, due to their high water content, are best washed right before consumption.  Finally, remember that no home washing method eliminates all germs, and cooking at temperatures above 60°C is the only way to ensure their complete destruction.
+
 Sun, 8 Sep 2024 16:00:20 +0530
 ### [Why are people putting flowers and antiques in their fridges? It's called fridgescaping](https://www.firstpost.com/explainers/why-are-people-putting-flowers-and-antiques-in-their-fridges-its-called-fridgescaping-13810875.html)
 
