@@ -1,3 +1,12 @@
+Sun, 8 Sep 2024 16:00:20 +0530
+### [Why are people putting flowers and antiques in their fridges? It's called fridgescaping](https://www.firstpost.com/explainers/why-are-people-putting-flowers-and-antiques-in-their-fridges-its-called-fridgescaping-13810875.html)
+
+Fridgescaping, the trend of decorating the interior of refrigerators, has gained popularity on social media.  It involves arranging food items aesthetically, using decorative bowls, and incorporating non-food elements like flowers and artwork. 
+
+While some find it a creative and fun way to enhance their kitchens, others criticize it as impractical and insensitive given food insecurity issues. Critics argue that turning a refrigerator into a display diminishes its functional purpose and may even pose safety risks. 
+
+Advocates, however, suggest that fridgescaping can encourage healthier eating habits by making food more visually appealing and motivating users to consume ingredients before they spoil.
+
 Sun, 8 Sep 2024 13:29:43 +0530
 ### [How ageing 'bursts' at 44 and 60 can make you grow older rapidly](https://www.firstpost.com/health/ageing-waves-44-66-growing-old-rapidly-13812446.html)
 

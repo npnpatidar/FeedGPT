@@ -1,3 +1,10 @@
+Sun, 08 Sep 2024 10:11:44 +0000
+### [Oasis reunion tour: Why are fans angry with Ticketmaster’s dynamic pricing model?](https://indianexpress.com/article/explained/explained-economics/oasis-reunion-ticketmaster-dynamic-pricing-9556536/)
+
+The recent announcement of an Oasis reunion tour led to the band adding two extra shows due to high demand. However, fans faced issues with Ticketmaster's dynamic pricing model, experiencing website errors and inflated ticket prices. This incident has drawn scrutiny to Ticketmaster's practices, prompting investigations from the UK's Competition and Markets Authority and the European Commission. Critics argue that dynamic pricing unfairly benefits the company and can exploit fans.  
+
+Similar issues arose during Taylor Swift's Eras Tour ticket sale, leading to criticism of Ticketmaster and a lawsuit from the US Department of Justice.
+
 Sun, 08 Sep 2024 09:54:06 +0000
 ### [Expert Explains: With REAIM summit in Korea, what is the responsible use of Artificial Intelligence in war?](https://indianexpress.com/article/explained/reaim-summit-ai-war-weapons-9556525/)
 

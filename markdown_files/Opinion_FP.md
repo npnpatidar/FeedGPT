@@ -1,3 +1,12 @@
+Sun, 8 Sep 2024 15:56:17 +0530
+### [How Chinese J-20 fighters in Xinjiang and Tibet are a concern for India](https://www.firstpost.com/opinion/how-chinese-j-20-fighters-in-xinjiang-and-tibet-are-a-concern-for-india-13813077.html)
+
+India-China relations remain strained following the 2020 Galwan Valley clash. China has been aggressively building infrastructure along the Line of Actual Control (LAC) and recently deployed its advanced fifth-generation J-20 stealth fighter aircraft to Shigatse Air Base in Tibet and Hotan Air Base in Xinjiang. 
+
+These bases are strategically located close to the LAC and India's existing air bases. Shigatse is just 150 kilometers from the Indian Air Force's (IAF) Hasimara base, which houses Rafale aircraft. Hotan is 130 kilometers north of the Indian claim line.  The deployment of J-20s, along with other advanced PLAAF assets like bombers and drones, signifies China's growing military capabilities in the region and presents a potential challenge to Indian air dominance.
+
+While the IAF has a significant numerical advantage in the region with airbases at lower altitudes and a combat-tested fleet of fighter jets, including the Rafale,  India is investing in infrastructure upgrades and bolstering its airpower to counter this threat.  Simultaneously, India is emphasizing indigenous development of its own fifth-generation fighter, the  Advanced Medium Combat Aircraft (AMCA), while also working towards acquiring additional multi-role fighters.
+
 Sun, 8 Sep 2024 15:21:04 +0530
 ### [After Bangladesh crisis, is India now resetting its ties in southern neighbourhood?](https://www.firstpost.com/opinion/after-bangladesh-crisis-is-india-now-resetting-its-ties-in-southern-neighbourhood-13813065.html)
 

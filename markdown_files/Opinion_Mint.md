@@ -1,3 +1,14 @@
+Sun, 08 Sep 2024 16:00:17 +0530
+### [Pension alert: Even the unified scheme could acquire a sell-by date over time](https://www.livemint.com/opinion/pension-alert-even-the-unified-scheme-could-acquire-a-sell-by-date-over-time-nps-ops-unified-pension-scheme-ups-11725789872344.html)
+
+This article analyzes the Indian government's recent decision to introduce a Unified Pension Scheme (UPS) after years of promoting the New Pension System (NPS). This sudden shift is attributed to political pressure, with opposition parties promising the reintroduction of the old pension scheme (OPS).
+
+Five states have already restored the OPS, and the BJP's electoral losses in key states have further fueled this trend. The article emphasizes concerns about the efficacy of the existing pension system, noting India's low ranking in the Mercer CFA Institute Global Pension Index. 
+
+It highlights the inadequacy of pension payouts, especially considering rising healthcare costs and inflation.  The reliance on fixed-income investments within the NPS is criticized as it has led to low returns, failing to keep pace with inflation.  
+
+The article concludes by suggesting that the government must either increase funding for pensions, beef up investment in public healthcare, or implement stricter regulations on private healthcare to mitigate the growing disconnect between pensions and the cost of living in retirement.
+
 Sun, 08 Sep 2024 15:32:46 +0530
 ### [Focus on the harms being caused to keep social media under watch](https://www.livemint.com/opinion/focus-on-the-harms-being-caused-to-keep-social-media-under-watch-malaysia-suicide-tiktok-big-tech-regulation-pavel-durov-11725788141129.html)
 

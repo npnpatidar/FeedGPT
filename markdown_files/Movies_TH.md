@@ -1,3 +1,10 @@
+Sun, 08 Sep 2024 16:21:50 +0530
+### [‘Strange Darling’ movie review: Willa Fitzgerald’s electrifying run elevates this subversive shocker](https://www.thehindu.com/entertainment/movies/strange-darling-review-willa-fitzgeralds-electrifying-run-elevates-this-subversive-shocker/article68618213.ece)
+
+"Strange Darling" is a nonlinear horror film that subverts genre conventions with its fragmented narrative and unsettling atmosphere. Writer-director JT Mollner crafts a tense and visually striking tale of bloodlust and manipulation, starring Willa Fitzgerald as "The Lady" and Kyle Gallner as "The Demon". The film employs a mix of Hitchcockian suspense and Lynchian dreaminess, keeping viewers off balance with its constant twists and turns. 
+
+While the film is visually striking and boasts strong performances, its reliance on shock value and misdirection occasionally undermines its narrative coherence.  Mollner's bold choices result in a film that is undeniably stylish and memorable, albeit flawed.
+
 Sun, 08 Sep 2024 13:58:04 +0530
 ### [‘The Perfect Couple’ series review: Nicole Kidman presides over this stylish, superficial murder mystery](https://www.thehindu.com/entertainment/movies/the-perfect-couple-series-review-nicole-kidman-presides-over-this-stylish-superficial-murder-mystery/article68617295.ece)
 
