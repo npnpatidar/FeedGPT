@@ -1,3 +1,10 @@
+Sun, 8 Sep 2024 09:30:11 +0530
+### [This Week in Explainers: Why life might be getting tougher for Indian students in Canada](https://www.firstpost.com/explainers/this-week-in-explainers-why-life-might-be-getting-tougher-for-indian-students-in-canada-13812563.html)
+
+This week saw tragic events unfold across the globe. Six hostages were killed in Gaza, sparking outrage and protests in Israel against Prime Minister Netanyahu. In the US, a 14-year-old gunman carried out a school shooting in Georgia, highlighting the ongoing issue of gun violence. A French court heard a horrifying case involving a 71-year-old man who drugged his wife and allowed over 50 men to rape her repeatedly.
+
+In Kenya, Olympic runner Rebecca Cheptegei was killed by her ex-boyfriend, raising awareness about femicide. In Canada, Prime Minister Justin Trudeau faced a political crisis with the withdrawal of support from his key ally, Jagmeet Singh's NDP. New legislation will limit student work hours to 24 per week, potentially affecting a large Indian student population.  Finally, US researchers revealed a potential deployment site for Russia's nuclear-powered cruise missile, the Burevestnik, raising international concerns.
+
 Sat, 7 Sep 2024 17:53:34 +0530
 ### [Who is Alice Guo? Ex-Mayor of a small Philippine town, accused of being a spy for China](https://www.firstpost.com/explainers/who-is-alice-guo-ex-mayor-of-a-small-philippine-town-accused-of-being-a-spy-for-china-13812819.html)
 
