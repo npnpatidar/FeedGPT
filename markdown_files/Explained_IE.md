@@ -1,3 +1,21 @@
+Sun, 08 Sep 2024 09:54:06 +0000
+### [Expert Explains: With REAIM summit in Korea, what is the responsible use of Artificial Intelligence in war?](https://indianexpress.com/article/explained/reaim-summit-ai-war-weapons-9556525/)
+
+The increasing use of AI in warfare is prompting a global diplomatic push to establish norms for its responsible use. The Responsible Use of Artificial Intelligence in the Military Domain (REAIM) summit in Seoul is part of this effort, aiming to understand the implications of military AI, implement new norms, and develop long-term global governance. 
+
+The debate has expanded beyond autonomous weapons to encompass a broader range of AI applications in intelligence, surveillance, and reconnaissance. While major militaries see AI as transformative for battlefield advantages, critics warn of potential dangers.  
+
+The US, leading the initiative, has issued its own political declaration on responsible AI use and is encouraging international support. In contrast, India has adopted a 'watch-and-wait' approach, observing the debate while refraining from full involvement. This passive stance risks leaving India behind as global norms for military AI are established.
+
+Sun, 08 Sep 2024 08:20:52 +0000
+### [Explained: The significance of the first clear images of Mercury’s South Pole](https://indianexpress.com/article/explained/explained-sci-tech/explained-first-clear-images-mercury-9556396/)
+
+The European Space Agency and Japan's BepiColombo spacecraft recently performed its closest flyby of Mercury yet, capturing detailed black-and-white images. 
+
+The images revealed the planet's south pole for the first time, showcasing craters with distinctive rings of peaks along their rims. Scientists hope to unravel the mysteries behind these "peak ring basins" and better understand Mercury's geological history, possibly including its volcanic activity. 
+
+Despite initial technical challenges that delayed the mission, BepiColombo's arrival is anticipated in 2026. The spacecraft is designed to study Mercury's composition, magnetic field, and evolution, providing valuable insights into this enigmatic planet with its oversized core, water ice, and unexpected magnetic field.
+
 Sat, 07 Sep 2024 06:45:03 +0000
 ### [Slowdown in auto sales: 5 reasons why cars are not selling (as much)](https://indianexpress.com/article/explained/explained-economics/slowdown-in-auto-car-sales-5-reasons-9554982/)
 

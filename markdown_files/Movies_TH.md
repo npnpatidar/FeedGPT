@@ -1,3 +1,8 @@
+Sun, 08 Sep 2024 13:58:04 +0530
+### [‘The Perfect Couple’ series review: Nicole Kidman presides over this stylish, superficial murder mystery](https://www.thehindu.com/entertainment/movies/the-perfect-couple-series-review-nicole-kidman-presides-over-this-stylish-superficial-murder-mystery/article68617295.ece)
+
+"The Perfect Couple" on Netflix follows the wealthy Winbury family during their son's wedding weekend in Nantucket.  When a body is discovered, the glittering facade begins to crack, revealing the secrets and dark undercurrents within the seemingly perfect family and their circle. The mystery unfolds as police investigate and relationships are tested, leading to a surprising reveal. While the plot is predictable and the characters suffer from flaws, the show's production value shines, particularly in Nicole Kidman's captivating performance and the stunning wardrobe. Despite its shortcomings, "The Perfect Couple" offers an engaging but ultimately shallow exploration of wealth, privilege, and hidden motives.
+
 Fri, 06 Sep 2024 17:53:24 +0530
 ### [‘Rebel Ridge’ movie review: Jeremy Saulnier’s tense, slow-burn thriller packs a quiet punch](https://www.thehindu.com/entertainment/movies/rebel-ridge-movie-review-jeremy-saulniers-tense-slow-burn-thriller-packs-a-quiet-punch/article68613609.ece)
 

@@ -1,3 +1,36 @@
+Sun, 08 Sep 2024 15:32:46 +0530
+### [Focus on the harms being caused to keep social media under watch](https://www.livemint.com/opinion/focus-on-the-harms-being-caused-to-keep-social-media-under-watch-malaysia-suicide-tiktok-big-tech-regulation-pavel-durov-11725788141129.html)
+
+Following the suicide of a popular TikTok creator in Malaysia who was targeted by cyberbullies, the government announced sweeping new social media licensing requirements. Authorities aim to curb online harms like scams and cyberbullying, but critics fear the regulations will stifle free speech.  
+
+The plan requires platforms with over 8 million users in Malaysia to obtain a license and adhere to yet-to-be-determined conditions. Some worry these guidelines could be used to suppress dissent, pointing to the government’s history of restricting media freedom and its increasing  requests for content removal from TikTok.  
+
+While Malaysian officials argue the licensing scheme is necessary to hold Big Tech accountable, they lack specifics on how it will address cyberbullying.  Critics point out that more immediate steps, such as more robust platform policing and criminalizing cyberbullying, might be more effective.
+
+This situation highlights the global struggle to balance online safety with free expression, with Malaysia becoming a potential test case for navigating this complex issue.
+
+Sun, 08 Sep 2024 15:00:16 +0530
+### [E-commerce is impacting Indian jobs and consumer welfare](https://www.livemint.com/opinion/online-views/ecommerce-is-impacting-indian-jobs-and-consumer-welfare-pahle-india-foundation-price-cash-on-delivery-retail-11725785686997.html)
+
+A recent study by Pahle India Foundation and PRICE reveals the growing impact of e-commerce in India. Over 90% of urban respondents spend significant time online, with 85% shopping online weekly.
+
+Cash-on-delivery (COD) and UPI remain the most popular payment methods, highlighting trust concerns around alternative digital options. 
+
+The study found that convenience is the biggest benefit of e-commerce for consumers, but challenges remain in cost-effectiveness and grievance redressal.
+
+While online sellers have seen job growth and increased profitability through digital tools, traditional offline retailers struggle with digital adoption due to technological barriers and concerns about competition.  
+
+The study emphasizes the need for government support for offline retailers through training programs, infrastructure improvements, and financial incentives. Addressing trust issues with digital payments and investing in reskilling initiatives are crucial for ensuring that the benefits of e-commerce are shared widely.
+
+Sun, 08 Sep 2024 14:00:15 +0530
+### [Manu Joseph: Why Indian cities may be doomed to remain unliveable](https://www.livemint.com/opinion/columns/manu-joseph-why-indian-cities-may-be-doomed-to-remain-unliveable-nitin-gadkari-urban-development-11725781457626.html)
+
+The article laments the state of Indian cities, describing them as  unliveable and ugly.  
+
+The author criticizes the Indian elite for their lack of investment in improving urban life, attributing their focus on migration abroad as a key factor. They argue that while successful nations were transformed by their elites, India's elite has been consistently absent from shaping its cities.
+
+Despite the pessimism, the author offers a sliver of hope, suggesting that India's growing prosperity and the returning interest of a new economic elite might signal a shift in priorities. This new elite,  discontented with Western life and seeking opportunities in India, could potentially invest in and improve urban infrastructure, leading to safer roads, greener spaces, and a more aesthetically pleasing environment. Ultimately, the author believes that a renewed commitment from India's elite  could be the key to uplifting its urban landscape.
+
 Sun, 08 Sep 2024 13:00:14 +0530
 ### [It’s about effective law enforcement: Let’s recommit the country](https://www.livemint.com/opinion/columns/its-about-effective-law-enforcement-let-s-recommit-the-country-prakash-singh-police-judiciary-11725775950956.html)
 

@@ -1,3 +1,14 @@
+Sun, 8 Sep 2024 15:21:04 +0530
+### [After Bangladesh crisis, is India now resetting its ties in southern neighbourhood?](https://www.firstpost.com/opinion/after-bangladesh-crisis-is-india-now-resetting-its-ties-in-southern-neighbourhood-13813065.html)
+
+Recent high-level visits by Indian officials to the Maldives and Sri Lanka demonstrate India's commitment to regional security and stability. 
+
+External Affairs Minister S Jaishankar's visit to the Maldives focused on addressing the nation's economic crisis and strengthening bilateral ties. National Security Advisor Ajit Doval's trip to Sri Lanka emphasized India's collaboration with all political candidates and parties in promoting regional security through initiatives like the Colombo Security Conclave (CSC).
+
+Both visits addressed pressing concerns, with India pledging support for Sri Lanka's economic recovery and working to counter China's growing influence in the region. 
+
+Despite internal challenges and political considerations, India aims to foster stronger economic and strategic partnerships with its neighbors, emphasizing a strategic approach that prioritizes regional stability and cooperation.
+
 Sun, 8 Sep 2024 12:24:27 +0530
 ### [Decoding reasons behind Putin’s ‘endorsement’ of Kamala Harris’ presidency](https://www.firstpost.com/opinion/decoding-reasons-behind-putins-endorsement-of-kamala-harris-presidency-13813022.html)
 
