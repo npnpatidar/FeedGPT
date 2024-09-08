@@ -1,3 +1,8 @@
+Sun, 08 Sep 2024 17:46:02 +0000
+### [Why Venezuela’s opposition Presidential candidate fled to Spain, a month after the elections](https://indianexpress.com/article/explained/explained-global/venezuela-gonzalez-spain-9556647/)
+
+Venezuelan opposition candidate Edmundo González Urrutia fled to Spain after the disputed presidential elections which saw Nicolas Maduro declared the winner.  Despite exit polls indicating González's lead, Maduro was announced as re-elected, leading to allegations of electoral fraud supported by international bodies like the US, EU, UK, and several Latin American nations. Violent protests erupted across Venezuela, met with a government crackdown that included detentions and the controversial "Operation Tun Tun," which encouraged informants to report on those questioning the election results. The government's actions were condemned by human rights groups, who reported deaths and wide-scale arrests.  This situation highlights Venezuela's long-standing political and economic struggles, marked by power centralization, restricted freedoms, and economic instability worsened by international sanctions.
+
 Sun, 08 Sep 2024 10:11:44 +0000
 ### [Oasis reunion tour: Why are fans angry with Ticketmaster’s dynamic pricing model?](https://indianexpress.com/article/explained/explained-economics/oasis-reunion-ticketmaster-dynamic-pricing-9556536/)
 

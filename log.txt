@@ -8411,3 +8411,10 @@ Started at 2024-09-08 16:14:24
 Finished at 2024-09-08 16:14:47
 Total time taken: 22.54546356201172 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-08 18:15:36
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-08 18:15:59
+Total time taken: 23.14857029914856 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
