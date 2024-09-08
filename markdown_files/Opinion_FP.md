@@ -1,3 +1,12 @@
+Sun, 8 Sep 2024 10:41:42 +0530
+### [US presidential election: Donald Trump, Kamala Harris and stakes for India](https://www.firstpost.com/opinion/us-presidential-election-donald-trump-kamala-harris-and-stakes-for-india-13812998.html)
+
+The 2024 US Presidential election has significant implications for India's diplomatic and economic future. The outcome will shape India's relationship with the US, a key strategic partner.  India's ties with the US have strengthened over the years, encompassing trade, defense, technology, and cultural exchanges. 
+
+Donald Trump's  policies during his presidency aligned with some of India's strategic interests, but his unpredictable nature and protectionist tendencies could create uncertainty. Kamala Harris, while having a symbolic connection to India through her heritage, has a less clear stance on issues crucial to India. 
+
+The 2024 election presents a dilemma for India as both candidates offer different approaches to the relationship. Balancing its strategic partnerships in a volatile geopolitical landscape will be crucial for India's future.
+
 Sat, 7 Sep 2024 17:08:34 +0530
 ### [Pakistan: How Faiz Hameed’s court martial is Gen Asim Munir’s risky shot to get Imran Khan](https://www.firstpost.com/opinion/pakistan-how-faiz-hameeds-court-martial-is-gen-asim-munirs-risky-shot-to-get-imran-khan-13812847.html)
 

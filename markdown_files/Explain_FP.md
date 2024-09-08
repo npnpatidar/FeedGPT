@@ -1,3 +1,12 @@
+Sun, 8 Sep 2024 11:31:27 +0530
+### [Thailand's most controversial dynasty is back at the helm. Can Paetongtarn Shinawatra tread her own path?](https://www.firstpost.com/explainers/thailands-most-controversial-dynasty-is-back-at-the-helm-can-paetongtarn-shinawatra-tread-her-own-path-13812550.html)
+
+Paetongtarn Shinawatra, Thailand’s new prime minister, faces significant challenges as she leads her family's political dynasty.  
+
+Due to her father's popularity with the rural and working-class, his policies thrived despite alleged corruption accusations from the elite, resulting in two military coups.  Paetongtarn seeks to carry forward this legacy but must address the country's economic woes and navigate the complex Thai political landscape.  
+
+The conservative establishment, which previously removed her father and aunt from power, remains a formidable opponent.  They are likely to closely scrutinize any decisions made by Paetongtarn's government, potentially using judicial or anti-corruption mechanisms to undermine her rule. The Shinawatras also face a dilemma regarding the progressive Move Forward Party, which poses a threat to their and the establishment's power.
+
 Sun, 8 Sep 2024 09:30:11 +0530
 ### [This Week in Explainers: Why life might be getting tougher for Indian students in Canada](https://www.firstpost.com/explainers/this-week-in-explainers-why-life-might-be-getting-tougher-for-indian-students-in-canada-13812563.html)
 
