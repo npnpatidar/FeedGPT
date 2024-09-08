@@ -1,3 +1,38 @@
+Sun, 08 Sep 2024 02:15:46 +0000
+### [All praise isn’t creepy](https://indianexpress.com/article/opinion/columns/all-praise-isnt-creepy-9555712/)
+
+Journalist Rohan Dua faced a backlash on social media after an interview with Olympian Manu Bhaker, where he complimented her beauty and asked about her interactions with Neeraj Chopra.  Edited clips went viral, accusing Dua of sexism and trivializing Bhaker's achievements. 
+
+Dua filed a defamation plea, arguing the accusations were false and distracting from her accomplishments. The court ordered the removal of the offending posts. This incident highlights the sensitivity surrounding compliments towards women and the ease with which online accusations can be made and spread.
+
+Sun, 08 Sep 2024 02:14:07 +0000
+### [Inside Track: Perception test](https://indianexpress.com/article/opinion/columns/inside-track-perception-test-9555723/)
+
+While the BJP has secured a strong majority in the recent election, Prime Minister Modi faces challenges as perceptions surrounding his leadership style shift.  His previous two terms saw an image of absolute power, which, while appreciated by some, also raised concerns about democratic norms.  Recent events, such as backtracking on amendments to the Waqf Board Act and changes in Assam’s legislature rules, have fueled perceptions of weakness and raised concerns among allies. Modi's unwavering stance during the farm protests and Brij Bhushan Singh controversy seems to have backfired electorally.  Moving forward, Modi needs to strike a balance between projecting strength and exhibiting pragmatism, while also addressing concerns over the use of the Enforcement Directorate to target political opponents and fostering greater consultation with allies.
+
+Sun, 08 Sep 2024 01:45:44 +0000
+### [P Chidambaram writes: No comfort in 100 days](https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-no-comfort-in-100-days-9555724/)
+
+You won't believe this! During the article, it highlights Prime Minister Modi's claims regarding India's economic growth over the past decade. An analysis reveals that while the economy has grown, the growth rate hasn't met expectations compared to previous periods.  
+
+The author questions the claim of "renewed confidence" amongst the people, citing a large number of applications for low-paying government jobs. They further argue that the recent election was a vote for change, constitutional governance, and growth with equality, contrasting it with the BJP's focus on continuity and economic growth. 
+
+The article stresses the urgent need to address unemployment, criticizing the government's inaction despite promises in the budget. It points to layoffs in various sectors, low graduate placement rates, and stagnant salaries.  Finally, it laments the lack of progress in addressing trade policies that could boost employment in labor-intensive industries.
+
+Sun, 08 Sep 2024 01:45:41 +0000
+### [To Port of Spain, India’s I-Day present — a chair](https://indianexpress.com/article/opinion/columns/to-port-of-spain-indias-i-day-present-a-chair-9555722/)
+
+In 1968, India gifted Trinidad and Tobago a Speaker's Chair, symbolizing shared democratic values, six years after the nation gained independence. The chair was delayed due to the intricate craftsmanship involved and the illness of one of the two specialized woodcarvers.  The gift, presented by then-Indian High Commissioner Muni Lal, was acknowledged by the Parliament as a reminder of the unity between the two countries,  especially given the historical contribution of Indian indentured laborers to Trinidad and Tobago's present society. The chair now continues to be used by the country's Speaker, representing a lasting symbol of their connection.
+
+Sun, 08 Sep 2024 01:20:40 +0000
+### [Tavleen Singh writes: Humility works better than arrogance](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-humility-works-better-than-arrogance-9555721/)
+
+The article discusses the aftermath of the recent general election in India. Despite the BJP not securing a full majority, the author argues that the party's leadership remains entrenched in its divisive policies, failing to address the rising tide of hate crimes against Muslims.  
+
+The author criticizes Opposition leaders for not capitalizing on this issue, failing to raise concerns about hate crimes, the Supreme Court's judgment on "bulldozer justice", and the SEBI scandal. 
+
+The article concludes by highlighting the BJP's weakened position and urging Prime Minister Modi to listen more to the people and address the failing economy and disillusionment among Indians.
+
 Sat, 07 Sep 2024 10:30:06 +0000
 ### [View from Bangladesh: ‘A refreshing start’ in Bangladesh with Muhammad Yunus](https://indianexpress.com/article/opinion/columns/bangladesh-refreshing-start-with-muhammad-yunus-9555237/)
 
