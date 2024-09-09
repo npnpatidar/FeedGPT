@@ -1,3 +1,22 @@
+Mon, 9 Sep 2024 20:57:05 +0530
+### [Across UK, local governments are at risk of collapse. Here's why](https://www.firstpost.com/explainers/across-uk-local-governments-are-at-risk-of-collapse-heres-why-13813494.html)
+
+A new report from Unison, the UK's largest trade union, warns that local governments in Wales, Scotland, and England face a funding shortfall of £5.6 billion this year, potentially rising to £11.1 billion.  This crisis could lead to the collapse of local government services, job cuts, and increased charges for residents and businesses. 
+
+Unison blames the funding shortfall on years of austerity cuts imposed by previous Conservative governments, which have reduced local government funding by nine per cent since 2010-11.  They highlight eight councils declaring bankruptcy since 2018 and the closure of numerous youth centers, children's centers, public toilets, and libraries.  
+
+However, some experts argue that the situation is more complex, pointing to specific poor financial decisions made by individual councils. For example, Birmingham's financial troubles are linked to equal pay lawsuits and a flawed IT system, while Nottingham's problems stem from a failed energy firm. 
+
+
+Despite these varying perspectives, a consensus exists that local government funding is at a critical juncture, and urgent action is needed to prevent widespread collapse. The new Labour government plans to address this issue with increased funding and reforms to the local government system.
+
+Mon, 9 Sep 2024 19:55:44 +0530
+### [What is abrosexuality, the latest talking point on the internet?](https://www.firstpost.com/explainers/what-is-abrosexuality-the-latest-talking-point-on-the-internet-13813430.html)
+
+Abrosexuality is a relatively new and understood sexual identity characterized by fluctuating sexual or romantic attraction to different genders.  Unlike bisexual or pansexual identities which involve attraction to multiple genders consistently, abrosexual individuals experience shifts in attraction intensity and direction over time. These changes can occur daily, weekly, or even over longer periods, sometimes leading to little or no attraction at all.
+
+The fluidity of abrosexual attraction presents unique challenges in dating and relationships, but many abrosexual individuals find ways to navigate them through open communication and mutual understanding.  For many, embracing the label "abrosexual" has brought a sense of clarity and self-acceptance.  As discussions around sexual orientation continue to evolve, abrosexuality is gaining more recognition and validating the experiences of those who identify with it.
+
 Mon, 9 Sep 2024 19:10:50 +0530
 ### [Attention remote workers. UK cafes are banning laptops. Here's why](https://www.firstpost.com/explainers/attention-remote-workers-uk-cafes-are-banning-laptops-heres-why-13813338.html)
 

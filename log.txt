@@ -8503,3 +8503,10 @@ Started at 2024-09-09 14:14:34
 Finished at 2024-09-09 14:15:01
 Total time taken: 27.065207719802856 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-09 16:14:35
+2 Feed entries have been written to feeds/Explain_FP.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-09 16:15:00
+Total time taken: 24.12791609764099 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
