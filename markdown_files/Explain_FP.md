@@ -1,3 +1,8 @@
+Mon, 9 Sep 2024 06:30:49 +0530
+### [FirstUp: Apple event, PM Mod to hold talks with Abu Dhabi Crown Prince... The big news today](https://www.firstpost.com/explainers/firstup-apple-event-rahul-gandhi-us-big-news-today-13812505.html)
+
+This Monday is packed with notable events. Apple's highly anticipated 'It's Glowtime' event will unveil the new iPhone 16 lineup.  Abu Dhabi Crown Prince Sheikh Khaled bin Zayed Al Nahyan will meet Prime Minister Modi in India, while Congress leader Rahul Gandhi is embarking on his first international trip since becoming the Leader of the Opposition, visiting the US. Meanwhile, Norwegian Prime Minister Jonas Gahr Store is in China for an official visit marking the 70th anniversary of diplomatic ties.
+
 Sun, 8 Sep 2024 18:00:05 +0530
 ### [1 in 10 people fall ill by eating unsafe food every year. Here's how you should wash your veggies before use](https://www.firstpost.com/explainers/1-in-10-people-fall-ill-by-eating-unsafe-food-every-year-heres-how-you-should-wash-your-veggies-before-use-13811342.html)
 

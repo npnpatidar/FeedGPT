@@ -1,3 +1,10 @@
+Mon, 09 Sep 2024 07:00:01 +0530
+### [Mint Quick Edit | Trump’s tariff ideas are bad for the world](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-trump-s-tariff-ideas-are-bad-for-the-world-donald-trump-dollar-trade-tariffs-11725807815859.html)
+
+Donald Trump proposes a shift in US foreign policy, favoring trade tariffs over financial sanctions. He argues that while financial sanctions may weaken the US dollar's global influence, tariffs harm global trade and lead to economic inefficiency, reminiscent of pre-World War II mercantilist policies. 
+
+Trump believes fostering frictionless world trade is the best way to prevent conflict and maintain America's standing on the world stage. He also emphasizes the need to avoid "nuclear warming" and mitigate the risk of another catastrophic war.
+
 Sun, 08 Sep 2024 16:00:17 +0530
 ### [Pension alert: Even the unified scheme could acquire a sell-by date over time](https://www.livemint.com/opinion/pension-alert-even-the-unified-scheme-could-acquire-a-sell-by-date-over-time-nps-ops-unified-pension-scheme-ups-11725789872344.html)
 
