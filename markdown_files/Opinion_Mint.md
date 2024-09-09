@@ -1,3 +1,14 @@
+Mon, 09 Sep 2024 12:30:11 +0530
+### [Are business investments in improving customer experience going waste?](https://www.livemint.com/opinion/are-business-investments-in-improving-customer-experience-going-waste-customer-experience-investments-air-india-11725812951735.html)
+
+Despite significant investments and the rise of CX leadership roles and consulting practices, customer satisfaction remains low in India.  
+
+Companies are struggling to bridge the gap between expectations and reality, as evidenced by long wait times, difficulty reaching human agents, and unresolved complaints. 
+
+While technology like AI and chatbots are being implemented, there's a need to combine them with personalized human interaction. 
+
+Addressing service quality issues, improving cross-functional collaboration, and integrating feedback across channels are crucial for companies to achieve true customer satisfaction.
+
 Mon, 09 Sep 2024 10:30:08 +0530
 ### [Can GenAI bots win Nobels? They’ll soon be pushing the borders of knowledge](https://www.livemint.com/opinion/online-views/can-genai-bots-win-nobels-they-ll-soon-be-pushing-the-borders-of-knowledge-genai-ai-chatgpt-11725811094492.html)
 

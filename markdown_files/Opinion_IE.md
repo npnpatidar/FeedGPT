@@ -1,3 +1,8 @@
+Mon, 09 Sep 2024 07:40:37 +0000
+### [Aryan Mishra’s killing: Is the ideology being protected by the gau rakshak worth the price?](https://indianexpress.com/article/opinion/columns/aryan-mishras-killing-is-the-ideology-being-protected-by-the-gau-rakshak-worth-the-price-9558024/)
+
+The death of Aryan Mishra, allegedly killed by "gau rakshaks", raises concerns about the dangerous normalization of violence by groups with alleged links to the police.  These individuals, often referred to as protectors, are not vigilantes but essentially function as subcontracted law enforcement, blurring the lines between official and unofficial authority. The questioning of due process, where instant justice takes precedence over legal procedures, is further highlighted by Mishra's death, mirroring a disconcerting trend of extrajudicial killings across the country. The incident also exposes the dangerous undercurrent of religious prejudice, with the suspected killer expressing regret for killing a Brahmin, implying discrimination against Muslims. This tragic event compels a critical examination of the ideology these "gau rakshaks" purportedly protect and whether the price is too high.
+
 Mon, 09 Sep 2024 05:54:54 +0000
 ### [How to raise a boy: My son’s modernity is different from mine. So is his patriarchy](https://indianexpress.com/article/opinion/columns/how-to-raise-a-boy-modernity-patriarchy-9557799/)
 

@@ -1,3 +1,10 @@
+Mon, 9 Sep 2024 12:40:53 +0530
+### [From Japan to US: How Kolkata rape protests have spread to 25 countries](https://www.firstpost.com/explainers/from-japan-to-us-how-kolkata-rape-protests-have-spread-to-25-countries-13813233.html)
+
+A month after the horrific rape and murder of a trainee doctor in Kolkata's RG Kar Medical College, the case continues to garner global attention. Protests demanding justice have spread to over 130 cities across 25 countries, led by alumni of the medical college. The Supreme Court is closely monitoring the case and has requested the CBI to submit a fresh status report by September 17. 
+
+Several irregularities, including alleged financial misappropriation by the hospital's former principal, have come to light. Meanwhile, the West Bengal Assembly unanimously passed a bill proposing capital punishment for perpetrators who cause death or vegetative state in rape cases. The case has sparked nationwide outrage and demands for stricter laws and swift justice to ensure the safety of women.
+
 Mon, 9 Sep 2024 11:41:59 +0530
 ### [Japan's Prince Hisahito turns 18: What this means for the world's oldest monarchy](https://www.firstpost.com/explainers/japan-prince-hisahito-turns-18-worlds-oldest-monarchy-13813220.html)
 
