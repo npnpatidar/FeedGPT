@@ -1,3 +1,10 @@
+Mon, 09 Sep 2024 05:54:54 +0000
+### [How to raise a boy: My son’s modernity is different from mine. So is his patriarchy](https://indianexpress.com/article/opinion/columns/how-to-raise-a-boy-modernity-patriarchy-9557799/)
+
+The article discusses the pervasive nature of patriarchy in Indian society, highlighting its insidious presence even in seemingly innocent aspects of life.  The author shares a personal anecdote about his son's initial exposure to gender stereotypes through a children's book illustration. This experience sparked a conversation about societal expectations and the need to challenge them. 
+
+The author emphasizes that patriarchy starts at home and permeates various aspects of life, from unequal inheritance to double standards for women's behavior. He stresses the importance of educating the younger generation about these issues and promoting gender equality. The article concludes with a call to overcome societal conditioning and embrace a more equitable future.
+
 Mon, 09 Sep 2024 01:32:33 +0000
 ### [Learning from the success of the Swachh Bharat Mission](https://indianexpress.com/article/opinion/editorials/learning-from-the-success-of-the-swachh-bharat-mission-9557184/)
 

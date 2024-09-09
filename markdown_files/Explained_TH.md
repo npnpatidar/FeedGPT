@@ -1,3 +1,10 @@
+Mon, 09 Sep 2024 09:10:49 +0530
+### [Watch: What does Bengal’s ‘Aparajita’ Anti-Rape Bill entail?](https://www.thehindu.com/news/national/watch-what-does-bengals-aparajita-anti-rape-bill-entail/article68620694.ece)
+
+Following the tragic rape and murder of a doctor, the West Bengal Legislative Assembly unanimously passed the Aparajita Women and Child (West Bengal Criminal Laws Amendment) Bill, 2024. This Bill introduces a mandatory death penalty for rape resulting in death or vegetative state, a first in Indian law. It also mandates a life sentence without parole for rape convictions.  
+
+Investigations into rape and child sexual assault cases are required to be completed within 21 days, down from two months. Trials for rape and acid attack cases must be concluded within 30 days of the chargesheet.
+
 Sun, 08 Sep 2024 01:50:00 +0530
 ### [Michel Barnier: ‘Monsieur Brexit’ to France’s PM](https://www.thehindu.com/news/international/michel-barnier-profile/article68616984.ece)
 

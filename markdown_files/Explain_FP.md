@@ -1,3 +1,27 @@
+Mon, 9 Sep 2024 11:41:59 +0530
+### [Japan's Prince Hisahito turns 18: What this means for the world's oldest monarchy](https://www.firstpost.com/explainers/japan-prince-hisahito-turns-18-worlds-oldest-monarchy-13813220.html)
+
+Prince Hisahito, a son of Crown Prince Akishino and Crown Princess Kiko, turned 18, marking a significant event for Japan's imperial family. As the last male heir apparent, Hisahito's coming of age highlights the pressure on the country's unique succession system, which doesn't allow for empresses.  The future emperor,  currently enrolled in high school, expressed his desire to learn and grow while continuing his studies. 
+
+
+This single male heir presents a challenge as Japan's population ages and shrinks.  There's ongoing debate about whether to amend the law to allow female succession or expand the imperial family to ensure a stable line of heirs.
+
+Mon, 9 Sep 2024 11:35:27 +0530
+### [Why did Edmundo González, ‘winner’ of Venezuela election, flee to Spain?](https://www.firstpost.com/explainers/venezuela-edmundo-gonzalez-oppositon-leader-flees-to-spain-nicolas-maduro-13813243.html)
+
+Edmundo GonzÃ¡lez, the opposition candidate declared the winner of Venezuela's July 28 presidential election by many Venezuelans and foreign governments, has fled to Spain.  He was granted asylum after the Maduro government ordered his arrest. 
+
+GonzÃ¡lez had been in hiding at the Spanish embassy in Caracas before leaving on a Spanish Air Force plane.  The departure comes amid a government crackdown after the election, with over 2,000 arrests and deaths.
+
+While the official results declared Maduro the winner, the opposition collected evidence suggesting GonzÃ¡lez won by a two-to-one margin. The UN and Carter Center, which observed the election, found the official results lacked credibility.  GonzÃ¡lez's departure is a significant setback for the Venezuelan opposition, leaving his political future uncertain.
+
+Mon, 9 Sep 2024 10:31:08 +0530
+### [Abu Dhabi's Crown Prince in India: What’s the agenda? How will the visit boost New Delhi’s ties with the UAE?](https://www.firstpost.com/explainers/abu-dhabi-crown-prince-india-visit-agenda-new-delhi-uae-ties-13813227.html)
+
+Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, the Crown Prince of Abu Dhabi, is on his first official visit to India. The trip aims to strengthen the historical relationship between India and the UAE, which are major trading partners.  The two nations share a strong bond,  with the UAE being one of India's top export destinations and a significant investor. 
+
+Trade between the countries reached historic highs after signing the Comprehensive Economic Partnership Agreement (CEPA) in 2022.  Discussions during the visit are expected to cover  bilateral cooperation, trade, investment, and energy security.  Beyond trade, the visit emphasizes the growing strategic partnership and highlights areas for collaboration in new and emerging fields.
+
 Mon, 9 Sep 2024 06:30:49 +0530
 ### [FirstUp: Apple event, PM Mod to hold talks with Abu Dhabi Crown Prince... The big news today](https://www.firstpost.com/explainers/firstup-apple-event-rahul-gandhi-us-big-news-today-13812505.html)
 

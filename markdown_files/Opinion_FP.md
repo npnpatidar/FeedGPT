@@ -1,3 +1,12 @@
+Mon, 9 Sep 2024 11:17:59 +0530
+### [India-GCC meet: How Modi-era diplomacy has bridged the gulf between India and West Asia](https://www.firstpost.com/opinion/india-gcc-meet-how-modi-era-diplomacy-has-bridged-the-gulf-between-india-and-west-asia-13813247.html)
+
+India's West Asia policy, characterized by strategic autonomy and a de-hyphenation approach, has yielded significant success. Prime Minister Modi's frequent visits have strengthened relationships with regional countries, elevating them from transactional to strategic partnerships. India's focus on energy security, economy, trade, expatriate welfare, maritime cooperation, and mutual respect has resonated across the region.
+
+India successfully navigates complex geopolitical situations, maintaining relationships with both Iran and Israel while advocating for peace in the Middle East. Its growing international stature has extended expectations for India's involvement in regional conflicts, exemplified by its efforts to mediate the Russia-Ukraine war.  
+
+Furthermore, India actively engages through multilateral frameworks like I2U2 and IUSU, fostering economic cooperation through initiatives like the IMEEC. The India-GCC foreign ministers' meeting, aiming to deepen institutional cooperation and explore a free trade agreement, underscores the importance of India's partnership with the Gulf region.
+
 Sun, 8 Sep 2024 15:56:17 +0530
 ### [How Chinese J-20 fighters in Xinjiang and Tibet are a concern for India](https://www.firstpost.com/opinion/how-chinese-j-20-fighters-in-xinjiang-and-tibet-are-a-concern-for-india-13813077.html)
 
