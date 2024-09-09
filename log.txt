@@ -8517,3 +8517,10 @@ Started at 2024-09-09 18:15:42
 Finished at 2024-09-09 18:16:07
 Total time taken: 25.367000579833984 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-09 20:12:58
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-09 20:13:22
+Total time taken: 23.916824340820312 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

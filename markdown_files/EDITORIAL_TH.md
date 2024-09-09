@@ -1,3 +1,15 @@
+Tue, 10 Sep 2024 00:20:00 +0530
+### [​Taking TB seriously: On the BPaLM treatment regimen for drug-resistant tuberculosis](https://www.thehindu.com/opinion/editorial/%E2%80%8Btaking-tb-seriously-on-the-bpalm-treatment-regimen-for-drug-resistant-tuberculosis/article68622530.ece)
+
+The Union Health Ministry's approval of the BPaLM regimen for drug-resistant tuberculosis is a significant step towards India's goal of eliminating TB by 2025.  This new four-drug treatment, recommended by the WHO, offers better outcomes, reducing treatment duration to six months from the traditional 20 months and significantly improving quality of life for patients.  
+
+The BPaLM regimen is particularly important for India, which has an estimated 75,000 people living with drug-resistant TB.  This move is expected to improve treatment outcomes and help thousands of patients achieve successful cures.
+
+Tue, 10 Sep 2024 00:10:00 +0530
+### [Stolen vote: On a sledgehammer blow to democracy in France](https://www.thehindu.com/opinion/editorial/stolen-vote-on-a-sledgehammer-blow-to-democracy-in-france/article68622213.ece)
+
+French President Emmanuel Macron called for snap parliamentary elections to counter the far-right National Rally (RN), but no party secured a majority. The leftist New Popular Front (NFP) emerged as the largest bloc but was blocked from forming a government. Macron instead appointed Michel Barnier, a conservative, as Prime Minister, relying on support from his own party and abstention from the RN. This decision sparked outrage as it seemingly undermines the election results and strengthens the far right's influence. Macron argues this ensures institutional stability, but critics view it as a betrayal of the people's mandate and a blow to French democracy.
+
 Mon, 09 Sep 2024 00:20:00 +0530
 ### [​Periodic reset: On India-ASEAN ties, ‘Act East’ policy](https://www.thehindu.com/opinion/editorial/%E2%80%8Bperiodic-reset-on-india-asean-ties-act-east-policy/article68618719.ece)
 
