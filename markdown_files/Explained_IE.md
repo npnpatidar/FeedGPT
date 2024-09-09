@@ -1,3 +1,10 @@
+Sun, 08 Sep 2024 22:40:33 +0000
+### [‘Hills, water bodies, paddy fields sacrificed’: Why changing Goa’s land use law raises red flags](https://indianexpress.com/article/explained/hills-water-bodies-paddy-fields-sacrificed-why-changing-goas-land-use-law-raises-red-flags-9557338/)
+
+The amendment of Goa's Town and Country Planning Act (TCP Act) with Section 17 (2) has ignited controversy. The section facilitates the "correction" of green zones designated in the Regional Plan 2021 into "settlements," allowing construction. This process involves a multi-step application, scrutiny, and approval mechanism. 
+
+The move is aimed at increasing land value for construction, including residential and commercial projects. However, critics argue that it leads to the destruction of natural habitats and promotes an unsustainable real estate market. Concerns are also raised about conflicts of interest as politicians, including those involved in the approval process, have applied for "corrections" themselves.
+
 Sun, 08 Sep 2024 17:46:02 +0000
 ### [Why Venezuela’s opposition Presidential candidate fled to Spain, a month after the elections](https://indianexpress.com/article/explained/explained-global/venezuela-gonzalez-spain-9556647/)
 
