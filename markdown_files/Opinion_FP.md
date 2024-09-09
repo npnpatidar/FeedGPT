@@ -1,3 +1,8 @@
+Mon, 9 Sep 2024 16:35:32 +0530
+### [Why Uyghur groups have contradictory stances on Israel-Hamas war](https://www.firstpost.com/opinion/why-uyghur-groups-have-contradictory-stances-on-israel-hamas-war-13813376.html)
+
+Following Hamas's attacks on Israel in October 2023, the World Uyghur Congress (WUC), a Germany-based group advocating for Uyghur rights, condemned the attacks and expressed solidarity with Israel. This stance has drawn criticism from the Muslim world, who see it as contradicting Islamic principles and ignoring the Palestinian struggle. The WUC's position is further questioned given its alleged funding from Western countries, including the US government through the National Endowment for Democracy (NED) and US Zionist organizations. Critics argue this funding may be influencing the WUC's pro-Israel stance, attempting to divert global attention from Palestine.  In contrast, some Uyghur groups based in Turkey, potentially influenced by the Turkish government's stance, have expressed solidarity with the Palestinians. The differing positions highlight the complex geopolitical considerations and potential for conflicting interests within the Uyghur community.
+
 Mon, 9 Sep 2024 15:29:01 +0530
 ### [How Trump 2.0 may be good news for India-Russia relations](https://www.firstpost.com/opinion/how-trump-2-0-may-be-good-news-for-india-russia-relations-13813362.html)
 

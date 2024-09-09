@@ -1,3 +1,18 @@
+Mon, 09 Sep 2024 12:16:03 +0000
+### [How vegetarian is India?](https://indianexpress.com/article/explained/vegetarian-india-9558468/)
+
+Despite a common perception, India is not predominantly vegetarian. Data from the National Family and Health Survey (NFHS) shows that roughly half of Indians consume meat, fish, or eggs at least once a week.  There's been a rise in meat consumption between 2015 and 2021, particularly among men.  Even those who identify as vegetarian often consume milk and dairy products, which can act as a substitution for meat.
+
+Mon, 09 Sep 2024 11:45:00 +0000
+### [Why can’t NASA send out a spacecraft and bring Sunita Williams back?](https://indianexpress.com/article/explained/explained-sci-tech/why-cant-nasa-send-out-a-spacecraft-bring-sunita-williams-back-9558393/)
+
+The uncrewed Boeing Starliner spacecraft, intended to return astronauts Butch Wilmore and Sunita Williams, has landed back on Earth.  The astronauts are currently safe on the International Space Station (ISS) and will return to Earth in a SpaceX Crew Dragon spacecraft in February 2025.  While NASA could send another spacecraft sooner, Wilmore and Williams are not in immediate danger. The ISS is a well-supplied space station, and the Dragon spacecraft, which will return them, is scheduled to launch later this month. The  Crews Dragon will bring four astronauts back down, including Wilmore and Williams.
+
+Mon, 09 Sep 2024 11:35:02 +0000
+### [What is behind the Mona Lisa’s enduring popularity?](https://indianexpress.com/article/explained/explained-culture/mona-lisa-enduring-popularity-9558395/)
+
+The Mona Lisa, stolen in 1911, gained international fame after the theft.  While not initially highly regarded, it became a symbol of  Renaissance art later. Theories about its enduring popularity include the mystery surrounding the sitter's identity and the 'mythologizing' of Leonardo da Vinci. The theft itself, its display, and reproductions by artists like Marcel Duchamp and Andy Warhol further contributed to its iconic status.  The painting has been subject to several acts of vandalism over time, highlighting its significance even in acts of protest.
+
 Mon, 09 Sep 2024 03:40:01 +0000
 ### [What are PresVu eye drops, which claim to ‘reduce dependency on reading glasses’?](https://indianexpress.com/article/explained/explained-health/presvu-eye-drop-entod-pharmaceuticals-dcgi-nod-presbyopia-9557411/)
 

@@ -1,3 +1,12 @@
+Mon, 09 Sep 2024 10:30:16 +0000
+### [In politics as in films, Kangana Ranaut is a disruptor charting her own course](https://indianexpress.com/article/opinion/columns/kangana-ranaut-politics-films-disruptor-charting-her-course-9558181/)
+
+Kangana Ranaut is a Bollywood actor known for her disruptive and confrontational nature.  She has challenged the industry's norms, speaking out against nepotism and abusive relationships.  Despite her success, she has faced backlash and criticism for her outspoken views.
+
+Ranaut's foray into politics has also been controversial.  aligning herself with the right-wing, she has spoken out against various political figures and movements. However, she has recently faced setbacks due to the release delay of her film "Emergency", highlighting the political pressures she is navigating. 
+
+Ranaut's journey demonstrates her resilience and willingness to challenge the status quo, but it also raises questions about the costs of such resistance in both the film industry and politics.
+
 Mon, 09 Sep 2024 07:40:37 +0000
 ### [Aryan Mishra’s killing: Is the ideology being protected by the gau rakshak worth the price?](https://indianexpress.com/article/opinion/columns/aryan-mishras-killing-is-the-ideology-being-protected-by-the-gau-rakshak-worth-the-price-9558024/)
 

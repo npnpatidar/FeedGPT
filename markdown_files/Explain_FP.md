@@ -1,3 +1,34 @@
+Mon, 9 Sep 2024 17:05:39 +0530
+### [2,000 cops, thermal imaging, and more: How celebrity Filipino pastor, ‘owner of the universe’, wanted for sex crimes was arrested](https://www.firstpost.com/explainers/filipino-pastor-apollo-quiboloy-arrest-sex-crimes-human-trafficking-charges-us-fbi-13813397.html)
+
+Apollo Quiboloy, a Filipino preacher known for his "owner of the universe" claim, surrendered to authorities after a two-week standoff.  He faced charges of sexual abuse and human trafficking in both the Philippines and the United States. Quiboloy, a close associate of former Philippine president Rodrigo Duterte,  had been on the run since a Philippine court ordered his arrest.  
+
+
+
+
+A US federal grand jury charged him with various offenses, including sex trafficking, marriage fraud, and money laundering. The US indictment accused Quiboloy and his associates of operating a sex trafficking ring that exploited women and underage girls. Despite the accusations, Quiboloy maintained his innocence. His arrest concluded a tense situation involving police, riot squads, and his devout followers.  He is expected to face trial in the Philippines before any potential extradition to the US.
+
+Mon, 9 Sep 2024 16:55:15 +0530
+### [What is the 'God of Chaos', an asteroid that could hit Earth? Why are experts worried?](https://www.firstpost.com/explainers/god-of-chaos-asteroid-possible-earth-collision-13813345.html)
+
+The asteroid Apophis, also known as the "God of Chaos," is scheduled to pass close to Earth in 2029 at a distance of 32,000 kilometers. Despite initial concerns about a potential collision, recent research suggests that even a small object impacting Apophis could alter its trajectory and potentially lead to a future collision with Earth. The study indicates that an object as small as 0.6 meters could cause a significant change in Apophis' path.  While the probability of such an event is low, the possibility remains, and astronomers will continue to monitor Apophis closely in the coming years.
+
+Mon, 9 Sep 2024 16:12:09 +0530
+### [Why is US mainstream media being accused of ‘sanewashing’ Donald Trump's speeches?](https://www.firstpost.com/explainers/why-is-us-mainstream-media-being-accused-of-sanewashing-donald-trumps-speeches-13813388.html)
+
+The term "sanewashing" has recently gained traction, accusing mainstream media outlets like The New York Times, CNN, and The Wall Street Journal of  attempting to make sense of Donald Trump's often rambling and nonsensical speeches. 
+
+Critics argue that this practice, exemplified by the media's coverage of Trump's childcare policy explanation, misrepresents his words and downplays their potential harm. They contend that this sanitized portrayal fails to hold Trump accountable and normalizes his erratic behavior, ultimately endangering democratic discourse.
+
+Examples cited include Trump's frequent references to Hannibal Lecter, his bizarre anecdote about an electric boat and a shark, and his threats regarding tariffs. Critics argue that media outlets, in an attempt to present Trump in a more palatable light, often focus on tangential details or misrepresent the content of his speeches, creating a distorted reality for viewers. This, they argue, undermines public understanding of Trump's rhetoric and its potential consequences.
+
+Mon, 9 Sep 2024 15:53:47 +0530
+### [Landslides are destroying multimillion-dollar homes in California. Why they can't be stopped](https://www.firstpost.com/explainers/california-landslides-rancho-palos-verdes-homes-destroyed-13813275.html)
+
+Rancho Palos Verdes, California, is experiencing severe landslide issues exacerbated by recent heavy rains. The city, built on a complex network of slowly moving landslides, is witnessing accelerated ground shifts, with some areas sinking up to 13 inches weekly. This has resulted in road buckling, power outages, and gas shut-offs.  The Portuguese Bend community is particularly hard-hit, leading to evacuation warnings.  
+
+The city is implementing the "Emergency Hydraugers Project" to extract water from the ground and slow down the movement, but the situation remains dire.  Climate change, with its increased rainfall and stronger storms, is contributing to the severity of the landslides, posing a significant risk to the safety and stability of the community.
+
 Mon, 9 Sep 2024 14:21:51 +0530
 ### [The heartbreaking story of 10-year-old Gazan girl with pink rollerblades, who was killed in Israeli strikes](https://www.firstpost.com/explainers/the-heartbreaking-story-of-10-year-old-gazan-girl-with-pink-rollerblades-who-was-killed-in-israeli-strikes-13813249.html)
 

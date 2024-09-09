@@ -1,3 +1,8 @@
+Mon, 09 Sep 2024 15:53:18 +0530
+### [Watch: India-Singapore deal on semiconductors: Explained](https://www.thehindu.com/shorts/watch-india-singapore-deal-on-semiconductors-explained/article68621497.ece)
+
+Please provide me with the article you would like me to summarise. I'm ready to condense it into a concise 100-word summary for you!
+
 Mon, 09 Sep 2024 09:10:49 +0530
 ### [Watch: What does Bengal’s ‘Aparajita’ Anti-Rape Bill entail?](https://www.thehindu.com/news/national/watch-what-does-bengals-aparajita-anti-rape-bill-entail/article68620694.ece)
 

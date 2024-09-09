@@ -5,6 +5,33 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>How vegetarian is India?</title>
+			<link>https://indianexpress.com/article/explained/vegetarian-india-9558468/</link>
+			<description>Despite a common perception, India is not predominantly vegetarian. Data from the National Family and Health Survey (NFHS) shows that roughly half of Indians consume meat, fish, or eggs at least once a week.  There's been a rise in meat consumption between 2015 and 2021, particularly among men.  Even those who identify as vegetarian often consume milk and dairy products, which can act as a substitution for meat.</description>
+			<pubDate>Mon, 09 Sep 2024 12:16:03 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/Lula_kebab_2.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/Lula_kebab_2.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Why can’t NASA send out a spacecraft and bring Sunita Williams back?</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/why-cant-nasa-send-out-a-spacecraft-bring-sunita-williams-back-9558393/</link>
+			<description>The uncrewed Boeing Starliner spacecraft, intended to return astronauts Butch Wilmore and Sunita Williams, has landed back on Earth.  The astronauts are currently safe on the International Space Station (ISS) and will return to Earth in a SpaceX Crew Dragon spacecraft in February 2025.  While NASA could send another spacecraft sooner, Wilmore and Williams are not in immediate danger. The ISS is a well-supplied space station, and the Dragon spacecraft, which will return them, is scheduled to launch later this month. The  Crews Dragon will bring four astronauts back down, including Wilmore and Williams.</description>
+			<pubDate>Mon, 09 Sep 2024 11:45:00 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/Butch-Sunita-NASA.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/Butch-Sunita-NASA.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>What is behind the Mona Lisa’s enduring popularity?</title>
+			<link>https://indianexpress.com/article/explained/explained-culture/mona-lisa-enduring-popularity-9558395/</link>
+			<description>The Mona Lisa, stolen in 1911, gained international fame after the theft.  While not initially highly regarded, it became a symbol of  Renaissance art later. Theories about its enduring popularity include the mystery surrounding the sitter's identity and the 'mythologizing' of Leonardo da Vinci. The theft itself, its display, and reproductions by artists like Marcel Duchamp and Andy Warhol further contributed to its iconic status.  The painting has been subject to several acts of vandalism over time, highlighting its significance even in acts of protest.</description>
+			<pubDate>Mon, 09 Sep 2024 11:35:02 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/plain-black-background-02fh7564l8qq4m6d.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/plain-black-background-02fh7564l8qq4m6d.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What are PresVu eye drops, which claim to ‘reduce dependency on reading glasses’?</title>
 			<link>https://indianexpress.com/article/explained/explained-health/presvu-eye-drop-entod-pharmaceuticals-dcgi-nod-presbyopia-9557411/</link>
 			<description>Entod Pharmaceuticals has received approval from the Drug Controller General of India for PresVu, a new eye drop designed to reduce reliance on reading glasses for presbyopia. PresVu contains pilocarpine, a compound that contracts the iris muscles, improving near-focus ability. The company emphasizes its advanced delivery system for sustained efficacy and safety. Although presented as a novel therapy, pilocarpine has been used for presbyopia treatments in other countries and is already available in India.</description>
