@@ -1,3 +1,13 @@
+Mon, 09 Sep 2024 03:40:01 +0000
+### [What are PresVu eye drops, which claim to ‘reduce dependency on reading glasses’?](https://indianexpress.com/article/explained/explained-health/presvu-eye-drop-entod-pharmaceuticals-dcgi-nod-presbyopia-9557411/)
+
+Entod Pharmaceuticals has received approval from the Drug Controller General of India for PresVu, a new eye drop designed to reduce reliance on reading glasses for presbyopia. PresVu contains pilocarpine, a compound that contracts the iris muscles, improving near-focus ability. The company emphasizes its advanced delivery system for sustained efficacy and safety. Although presented as a novel therapy, pilocarpine has been used for presbyopia treatments in other countries and is already available in India.
+
+Mon, 09 Sep 2024 03:30:09 +0000
+### [India generates highest plastic pollution in world: what a new study found](https://indianexpress.com/article/explained/explained-climate/plastic-pollution-waste-management-plastic-burning-new-study-9557388/)
+
+A new study published in Nature reveals that India contributes significantly to global plastic pollution, accounting for nearly a fifth of the world's total. The study estimates that India burns approximately 5.8 million tonnes of plastic annually and releases another 3.5 million tonnes as debris, totaling 9.3 million tonnes of plastic pollution. The researchers define "managed" waste as that collected by municipal bodies and either recycled or sent to landfills, while "Unmanaged" waste, the study's focus, is what ends up in the environment either as debris or through open burning. The study highlights a stark divide between the Global North and Global South in terms of plastic pollution. While high-income countries, generally located in the Global North, have high rates of plastic waste generation but manage their waste effectively, countries in the Global South often lack adequate waste management infrastructure, leading to significant amounts of plastic being burned or left as debris.  The study's findings are significant as they coincide with ongoing negotiations for a global treaty to address plastic pollution.
+
 Sun, 08 Sep 2024 22:40:33 +0000
 ### [‘Hills, water bodies, paddy fields sacrificed’: Why changing Goa’s land use law raises red flags](https://indianexpress.com/article/explained/hills-water-bodies-paddy-fields-sacrificed-why-changing-goas-land-use-law-raises-red-flags-9557338/)
 

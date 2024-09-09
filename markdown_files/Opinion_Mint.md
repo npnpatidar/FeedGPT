@@ -1,3 +1,10 @@
+Mon, 09 Sep 2024 08:30:05 +0530
+### [Speedy plan execution holds the key to the success of India’s semiconductor thrust](https://www.livemint.com/opinion/speedy-plan-execution-holds-the-key-to-the-success-of-india-s-semiconductor-thrust-semiconductors-chips-singapore-us-eu-11725809439271.html)
+
+India is making a concerted effort to become a major player in the global semiconductor industry.  Building on deals with the US and EU, a recent pact with Singapore aims to establish India as a hub for chip-making by 2030. Singapore offers India access to advanced technology, a skilled workforce, and a business-friendly environment.
+
+India's strategy focuses on producing "mature node chips," which are used in a variety of applications and require lower upfront investments compared to high-end chips. The government has approved several semiconductor projects and established a $10 billion fund to attract further investment. With a growing talent pool and a supportive policy framework, India is well-positioned to overcome its semiconductor struggles and strengthen its position in the global technology landscape.
+
 Mon, 09 Sep 2024 07:00:01 +0530
 ### [Mint Quick Edit | Trump’s tariff ideas are bad for the world](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-trump-s-tariff-ideas-are-bad-for-the-world-donald-trump-dollar-trade-tariffs-11725807815859.html)
 
