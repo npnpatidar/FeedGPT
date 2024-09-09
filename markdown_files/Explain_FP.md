@@ -1,3 +1,22 @@
+Mon, 9 Sep 2024 14:21:51 +0530
+### [The heartbreaking story of 10-year-old Gazan girl with pink rollerblades, who was killed in Israeli strikes](https://www.firstpost.com/explainers/the-heartbreaking-story-of-10-year-old-gazan-girl-with-pink-rollerblades-who-was-killed-in-israeli-strikes-13813249.html)
+
+Tala Abu Ajwa, a 10-year-old girl from Gaza, was killed by an Israeli strike while rollerblading with friends. The heartbreaking image of Tala in a white shroud with her pink roller skates on has gone viral, highlighting the devastating impact of the conflict on children. Her father, Hussam Abu Ajwa, recounted how she begged to go play and how he found her body under rubble. Tala's death adds to the growing number of child casualties in the war, with a third of Gaza's victims being children. Her dream was to return to school, but relentless bombardment and displacement have made that impossible.  Her father hopes her death will spur action to end the war.
+
+Mon, 9 Sep 2024 13:49:33 +0530
+### [What is Pakistan’s affidavit, invoked by Rajnath Singh, that called PoK foreign land?](https://www.firstpost.com/explainers/what-is-pakistans-affidavit-invoked-by-rajnath-singh-that-called-pok-foreign-land-13813303.html)
+
+Defense Minister Rajnath Singh highlighted Pakistan's treatment of PoK residents as "foreigners," contrasting it with India's stance of considering them "our own." He cited a Pakistani government affidavit stating that the region is a "foreign land" under the Pakistani court's jurisdiction. Singh urged PoK residents to join India and benefit from the development witnessed in Jammu and Kashmir.  
+
+ India maintains that PoK is an integral part of the erstwhile princely state of Jammu and Kashmir.  External Affairs Minister S Jaishankar asserted that PoK is "will always be part of India," emphasizing that residents there are comparing their situation to those in Indian-controlled Jammu and Kashmir and observing its progress.
+
+Mon, 9 Sep 2024 13:47:41 +0530
+### [Russia to build a nuclear power plant on the Moon. Are India and China joining in?](https://www.firstpost.com/explainers/russia-to-build-a-nuclear-power-plant-on-the-moon-are-india-and-china-joining-in-13813317.html)
+
+Following its successful Chandrayaan-3 mission, India is reportedly interested in joining Russia's lunar nuclear power plant project. Led by Rosatom, this initiative aims to provide power to a planned lunar base being developed in collaboration with China. The plant is designed to generate around half a megawatt of energy and is expected to be operational by 2036. 
+
+Nuclear power is considered crucial for long-term lunar exploration due to the Moon's limited solar energy availability, particularly during its 14-day lunar nights.  Experts highlight the safety measures built into the design, including automatic shutdowns in case of problems, to address concerns regarding transporting nuclear fuel to the Moon.
+
 Mon, 9 Sep 2024 12:40:53 +0530
 ### [From Japan to US: How Kolkata rape protests have spread to 25 countries](https://www.firstpost.com/explainers/from-japan-to-us-how-kolkata-rape-protests-have-spread-to-25-countries-13813233.html)
 

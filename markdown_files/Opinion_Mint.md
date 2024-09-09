@@ -1,3 +1,21 @@
+Mon, 09 Sep 2024 15:00:13 +0530
+### [Email avalanche? Here’s why humans are a lot like monkeys](https://www.livemint.com/opinion/email-avalanche-here-s-why-humans-are-a-lot-like-monkeys-communication-behaviour-emails-primates-11725815815695.html)
+
+This article explores the concept of email hierarchy, drawing parallels with primate social structures.  
+
+It argues that email exchanges often involve an inherent power dynamic, where the sender typically has a lower status than the recipient. This dynamic influences the time and effort invested in crafting emails, with lower-status individuals often expending more effort to impress their superiors. 
+
+The author uses examples like students writing to professors and experts requesting interviews to illustrate this point.  The article suggests that recognizing this status game can help us navigate the often overwhelming world of email more effectively. It advises spending minimal time on emails from lower-status correspondents and treating those from higher-status individuals with more care. However, it acknowledges that navigating unclear status relationships, such as those between colleagues, can be more challenging.
+
+Mon, 09 Sep 2024 14:00:12 +0530
+### [Great nations do not tell themselves that geography is destiny](https://www.livemint.com/opinion/great-nations-do-not-tell-themselves-that-geography-is-destiny-foreign-policy-india-bangladesh-maldives-china-hasina-11725814635138.html)
+
+The article argues that India should approach its "challenging" neighborhood with the understanding that it cannot single-handedly determine the future of its neighbors.  It criticizes those who blame New Delhi for every regional instability, pointing out that India's success, particularly its rise on the global stage, has come despite these challenges and the turmoil in many neighboring economies. 
+
+The author uses Bangladesh and the Maldives as examples, highlighting that recent political changes in these countries are more a result of internal dynamics than a reflection of Indian policy successes or failures.  
+
+The piece concludes by urging India to continue investing in its neighbors but to do so realistically, recognizing that the outcome ultimately lies with the countries themselves. India should focus on being a global power rather than getting too entangled in the complexities of its immediate region.
+
 Mon, 09 Sep 2024 12:30:11 +0530
 ### [Are business investments in improving customer experience going waste?](https://www.livemint.com/opinion/are-business-investments-in-improving-customer-experience-going-waste-customer-experience-investments-air-india-11725812951735.html)
 
