@@ -1,3 +1,17 @@
+Mon, 9 Sep 2024 19:10:50 +0530
+### [Attention remote workers. UK cafes are banning laptops. Here's why](https://www.firstpost.com/explainers/attention-remote-workers-uk-cafes-are-banning-laptops-heres-why-13813338.html)
+
+Some UK coffee shops are implementing laptop bans or restrictions to encourage higher customer turnover and spending.  These cafes argue that laptop users often spend less and occupy tables for extended periods, impacting the cafe's revenue and atmosphere.  Owners cite a desire to create a more welcoming environment for customers who are looking to relax and socialize.  Similar restrictions are becoming common in European cities like Paris and Berlin. 
+
+The move has sparked mixed reactions, with some customers praising the policy for reserving space for others and improving the cafe's ambiance. Conversely, some criticize the restrictions as being overly restrictive, particularly for travellers or remote workers seeking a work space. This trend reflects a broader discussion about the evolving role of coffee shops and how to balance the needs of different customer types.
+
+Mon, 9 Sep 2024 18:11:26 +0530
+### [First mpox case in India: How does it spread, what are the symptoms to watch out for?](https://www.firstpost.com/health/first-mpox-case-india-how-does-it-spread-symptoms-to-watch-out-for-13813411.html)
+
+India has identified a suspected case of mpox in a man who recently traveled from a country experiencing an outbreak. The patient is isolated in stable condition, and authorities are conducting tests to confirm the infection and tracing potential contacts. This case aligns with earlier risk assessments, and there is no cause for undue alarm. India previously detected 30 cases of a different mpox strain between 2022 and 2024.
+
+Mpox is a viral infection spread through close contact, causing flu-like symptoms and skin lesions.  The disease has two known clades, with Clade II, prevalent in West Africa, linked to the recent global outbreak. While generally less severe, recent variations of Clade II have raised concern due to their increased transmissibility. Treatment for mpox is currently unavailable, but smallpox vaccines have shown effectiveness in preventing and reducing symptom severity. India is actively preparing for potential wider spread, with heightened scrutiny at border crossings, designated treatment hospitals, and approved diagnostic kits.
+
 Mon, 9 Sep 2024 17:05:39 +0530
 ### [2,000 cops, thermal imaging, and more: How celebrity Filipino pastor, ‘owner of the universe’, wanted for sex crimes was arrested](https://www.firstpost.com/explainers/filipino-pastor-apollo-quiboloy-arrest-sex-crimes-human-trafficking-charges-us-fbi-13813397.html)
 
