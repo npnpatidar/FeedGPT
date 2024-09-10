@@ -1,3 +1,31 @@
+Tue, 10 Sep 2024 15:05:29 +0530
+### [SpaceX launches Polaris Dawn: Why mission is set to make history](https://www.firstpost.com/explainers/spacex-launches-polaris-dawn-why-mission-is-set-to-make-history-13808475.html)
+
+SpaceX's Polaris Dawn mission, launched from Florida's Kennedy Space Center, marks the first privately managed spacewalk. The six-day mission involves a crew of four: billionaire Jared Isaacman, SpaceX engineers Sarah Gillis and Anna Menon, and ex-US Air Force pilot Scott Poteet. The Crew Dragon capsule, named Resilience, will orbit Earth at an altitude of 1,367 kilometers, exceeding the distance to the International Space Station. The highlight of the mission is the spacewalk by Isaacman and Gillis, a historic feat as previous spacewalks have only been conducted by government astronauts.  
+ 
+The spacewalk, lasting approximately two hours, will test SpaceX's new spacesuit, which will be crucial for future missions, including those to Mars. The crew will conduct approximately 40 experiments, exploring areas like human adaptation to low gravity and radiation exposure.  The success of Polaris Dawn is seen as a significant step towards private companies taking on a more prominent role in space exploration.
+
+Tue, 10 Sep 2024 14:25:38 +0530
+### [Why has Delhi banned crackers until January 1? How much harm do firecrackers cause to the body?](https://www.firstpost.com/health/why-has-delhi-banned-crackers-until-january-1-how-much-harm-do-firecrackers-cause-to-the-body-13813655.html)
+
+The Delhi government has implemented a complete ban on firecrackers until January 1, 2025, in an effort to mitigate the city's severe air pollution problem, particularly during the winter months. The ban encompasses manufacturing, storage, sale, and use of all firecrackers, including online purchases.
+
+Environment Minister Gopal Rai stated that firecrackers significantly worsen air quality, posing health risks to citizens. This move comes after previous attempts to control pollution by allowing only "green" firecrackers, which proved ineffective due to difficulty in distinguishing them from conventional ones and the emergence of a black market.
+
+Despite the ban, concerns remain about its enforcement, with opponents arguing that it infringes upon festivals and traditions while larger pollution sources like stubble burning are not adequately addressed.
+
+Tue, 10 Sep 2024 14:14:45 +0530
+### [Explained: The lawsuit against US senator Marie Alvarado-Gil who used her Chief of Staff as ‘sex slave’](https://www.firstpost.com/world/united-states/lawsuit-against-us-senator-who-used-her-chief-of-staff-as-sex-slave-13813653.html)
+
+California State Senator Marie Alvarado-Gil is facing a lawsuit from a former staffer alleging sexual harassment and a hostile work environment. The lawsuit claims that Alvarado-Gil engaged in unwanted sexual advances, coerced Condit into sexual acts, and retaliated against him when he resisted her advances. The lawsuit details accusations of Alvarado-Gil’s inappropriate behavior, including making sexually suggestive comments and asking Condit about his marital fidelity.  
+
+Condit claims that Alvarado-Gil’s actions caused him emotional distress and damaged his professional reputation, leading to his termination. He is seeking financial compensation for these alleged damages. Alvarado-Gil’s lawyers have denied the accusations, calling them “bogus” and “financially motivated.”
+
+Tue, 10 Sep 2024 13:46:13 +0530
+### [Are US migrants eating pet cats and ducks? Bizarre rumour pushed by JD Vance and Elon Musk](https://www.firstpost.com/explainers/are-us-migrants-eating-pet-cats-and-ducks-bizarre-rumour-pushed-by-jd-vance-and-elon-musk-13813731.html)
+
+False claims circulating online allege that Haitian migrants in Springfield, Ohio, are stealing and eating pets. These claims, originating from social media posts, have been amplified by right-wing figures including JD Vance, Elon Musk, and Ted Cruz. Despite a lack of evidence and police reports confirming the allegations, these narratives have been shared to exploit anxieties around immigration and target Vice President Kamala Harris, who is seen as vulnerable on the issue. The spread of these false claims is seen as an attempt to further a nativist and racist agenda, particularly ahead of the upcoming US election.
+
 Tue, 10 Sep 2024 13:31:25 +0530
 ### [Has Pakistan discovered ‘massive’ oil and gas reserves that could turn its ‘destiny’?](https://www.firstpost.com/explainers/pakistan-massive-oil-gas-reserves-discovery-economic-crisis-13813711.html)
 

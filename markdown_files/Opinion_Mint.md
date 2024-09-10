@@ -1,3 +1,20 @@
+Tue, 10 Sep 2024 15:00:11 +0530
+### [OPEC+ has postponed a tough decision it can’t put off for long](https://www.livemint.com/opinion/online-views/opec-has-postponed-a-tough-decision-it-can-t-put-off-for-long-crude-oil-production-russia-saudi-arabia-brent-nymex-11725883105731.html)
+
+OPEC+ recently delayed an output increase, hoping to shore up oil prices which had fallen to a one-year low. This short-term action won't solve the underlying issue of supply exceeding demand. Analysts predict further price drops unless OPEC+ takes more drastic measures, like cutting production, in the near future.  Current projections show the need for OPEC+ oil will decrease in the coming months.  Saudi Arabia,  a key player in OPEC+, wants to raise prices but is facing opposition from other members.  The group's tentative agreement highlights internal disagreements and raises concerns about their ability to effectively control the market in the long term.
+
+Tue, 10 Sep 2024 14:00:10 +0530
+### [India’s urban agglomerations are no longer held back by state boundaries](https://www.livemint.com/opinion/columns/indias-urban-agglomerations-are-no-longer-held-back-by-state-boundaries-economy-trade-gst-tamil-nadu-karnataka-11725882519751.html)
+
+Urban agglomerations in India are increasingly spilling across state borders, creating new challenges for Indian federalism.  This trend is driven by factors like improved infrastructure and the implementation of GST, which has facilitated the growth of integrated economic zones. 
+
+Examples include Sarjapura in Karnataka being closer to the Tamil Nadu town of Hosur, and the proximity of Sri City in Andhra Pradesh to Chennai, Tamil Nadu. 
+
+These cross-border urban zones require new forms of cooperation between states to manage their growth and ensure efficient infrastructure and urban planning. There are also potential future challenges, such as people identifying more strongly with a neighboring economic zone than their own state.
+
+
+The article suggests that we can expect more of this cross-border integration, and that managing it effectively will be crucial for the future of Indian federalism.
+
 Tue, 10 Sep 2024 12:30:07 +0530
 ### [Thank digital tools for small businesses going formal on their own](https://www.livemint.com/opinion/columns/thank-digital-tools-for-small-businesses-going-formal-on-their-own-digital-public-infrastructure-formalization-tax-gst-11725881660755.html)
 

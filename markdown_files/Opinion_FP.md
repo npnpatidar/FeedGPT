@@ -1,3 +1,19 @@
+Tue, 10 Sep 2024 15:00:59 +0530
+### [What BRICS+ means for India amid rising polarity in global order](https://www.firstpost.com/opinion/what-brics-means-for-india-amid-rising-polarity-in-global-order-13813761.html)
+
+BRICS+'s expansion to include Saudi Arabia, Iran, the UAE, and Egypt signifies its growing global influence and challenges the dominance of Western institutions like the IMF and UNSC.  This bloc now controls a substantial portion of global energy production, offering opportunities for India to secure resources at competitive rates.  
+
+BRICS+ promotes economic integration among members, with increased intra-group trade and the development of institutions like the New Development Bank (NDB), facilitating infrastructure projects. India views BRICS+ as a platform to advocate for reforms in global institutions and shape a more equitable world order. 
+
+While fostering economic growth, BRICS+ presents India with geopolitical challenges, primarily managing its relationship with China amidst border disputes and competition. India seeks to balance its engagement with BRICS+ by maintaining its strategic partnership with Russia and  the US.  
+ 
+
+
+Vocabulary:  
+* Geopolitical: Relating to the influence of geography on politics and international relations.
+* Hegemony: Leadership or dominance, especially by one country or social group over others.
+* Intra-group trade: Trade carried out within a particular group, such as a trade bloc.
+
 Tue, 10 Sep 2024 13:21:32 +0530
 ### [Illegal immigration from Bangladesh: Why India should deal with the issue with a sense of urgency](https://www.firstpost.com/opinion/illegal-immigration-from-bangladesh-why-india-should-deal-with-the-issue-with-a-sense-of-urgency-13813681.html)
 
