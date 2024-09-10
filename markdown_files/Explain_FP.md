@@ -1,3 +1,31 @@
+Tue, 10 Sep 2024 21:16:50 +0530
+### [Is America really prepared to elect Kamala Harris, a woman of colour, as president?](https://www.firstpost.com/world/united-states/is-america-really-prepared-to-elect-kamala-harris-a-woman-of-colour-as-president-13813896.html)
+
+The article discusses the question of whether the United States is "ready" for a Black woman president, focusing on Kamala Harris's campaign. It argues that the question is unanswerable and loaded with assumptions about America's progress towards racial and gender equality. 
+
+The author uses examples from history and other countries to demonstrate that the concept of "readiness" is complex and cannot be definitively proven. While progress has been made, significant structural inequalities remain, as evidenced by the underrepresentation of women and minorities in positions of power. 
+
+The article acknowledges that Harris's candidacy challenges traditional notions of  identity politics and focuses on addressing systemic issues rather than simply celebrating her "firsts." It concludes by stating that while Harris's election would be a significant historical event, it would not necessarily resolve deep-seated societal divisions.
+
+Tue, 10 Sep 2024 20:21:12 +0530
+### [Kamala Harris-Donald Trump debate: History of US presidential debates and the most iconic ones](https://www.firstpost.com/world/kamala-harris-donald-trump-debate-history-of-us-presidential-debates-and-the-most-iconic-ones-13813875.html)
+
+US presidential debates have evolved from their beginnings in the 19th century. The most famous early debate was between Abraham Lincoln and Stephen Douglas in 1858, which focused heavily on the issue of slavery. The first televised debate occurred in 1956, with Adlai Stevenson and Dwight D. Eisenhower. 
+
+A pivotal moment came in 1960 when the televised debate between Richard Nixon and John F. Kennedy is believed to have significantly impacted the election outcome, with Kennedy's perceived calm demeanor contrasting with Nixon's appearance of nervousness. The 1980 debate between Ronald Reagan and Jimmy Carter is remembered for Reagan's "there you go again" retort, and the 2016 debates between Hillary Clinton and Donald Trump were highly anticipated and garnered record viewership. The 2024 debates initially involved Joe Biden and Donald Trump, but Biden subsequently withdrew from the race, leading to Kamala Harris becoming the Democratic nominee.
+
+Tue, 10 Sep 2024 20:17:31 +0530
+### [British couple plan to die together in 'suicide pod'. What is it and how does it work?](https://www.firstpost.com/explainers/british-couple-plan-to-die-together-in-suicide-pod-what-is-it-and-how-does-it-work-13813853.html)
+
+A British couple, Peter and Christine Scott, are planning to end their lives together in a Sarco suicide pod in Switzerland. Christine, 80, has been diagnosed with early-stage vascular dementia, and Peter, 86,  doesn't want to live without her.  They have decided to utilize the pod, which allows for a peaceful death within minutes, due to concerns about the potential suffering and financial burden associated with declining health in the UK's healthcare system.  While their children are hesitant, they have come to accept their parents' choice. Peter emphasizes the importance of personal choice, highlighting the UK's restrictive laws on euthanasia and assisted dying.
+
+Tue, 10 Sep 2024 19:48:09 +0530
+### [What is ecocide? Can harming nature become a crime like genocide?](https://www.firstpost.com/explainers/what-is-ecocide-can-harming-nature-become-a-crime-like-genocide-13813811.html)
+
+Vanuatu, Fiji, and Samoa are urging the International Criminal Court (ICC) to classify ecocide as an international crime, similar to genocide and war crimes. Despite no universally agreed-upon definition, ecocide is broadly understood as severe and widespread environmental damage caused intentionally.  While a dozen countries, including Belgium and France, have already criminalized ecocide, proponents believe its recognition by the ICC would significantly raise the stakes for perpetrators, potentially holding heads of state and corporate leaders accountable. 
+
+Experts are divided. Some believe this is a timely step towards environmental justice, while others argue that it's insufficient without systemic changes to economic models. Concerns also exist about the practical implications of such a designation, given the ICC's limitations and the absence of major polluters like the U.S., China, and India as members.
+
 Tue, 10 Sep 2024 18:37:46 +0530
 ### [SpaceX's Polaris Dawn mission: Who are the astronauts embarking on history's first private spacewalk?](https://www.firstpost.com/explainers/spacex-polaris-dawn-mission-who-are-the-astronauts-embarking-on-history-first-private-spacewalk-13813817.html)
 
