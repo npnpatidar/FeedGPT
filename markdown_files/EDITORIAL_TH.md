@@ -1,3 +1,13 @@
+Wed, 11 Sep 2024 00:20:00 +0530
+### [​Soothing salvo: On new Group of Ministers and tax changes for insurance policies](https://www.thehindu.com/opinion/editorial/%E2%80%8Bsoothing-salvo-on-new-group-of-ministers-and-tax-changes-for-insurance-policies/article68626563.ece)
+
+Following recent pressure, the Goods and Services Tax (GST) Council has agreed to form a Group of Ministers to review the 18% GST levy on insurance premiums. This marks a shift in stance from  previous council meetings and  the Finance Minister's previous defense of the tax. The council will reconvene in November to consider the group's recommendations. The push for change comes from various sources, including government ministers and coalition partners who argue that taxing insurance, particularly life and health insurance, is inappropriate. The government's own silence on recent buoyant GST collections may also signal a willingness to reconsider the levy.
+
+Wed, 11 Sep 2024 00:10:00 +0530
+### [​Future, at last: On tennis’ brand-new era](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfuture-at-last-on-tennis-brand-new-era/article68626354.ece)
+
+Jannik Sinner and Aryna Sabalenka's US Open victories mark a new era in tennis.  Sinner and Carlos Alcaraz have split the four Grand Slams in 2024, ending the dominance of Federer, Nadal, and Djokovic.  This rise of new talent brings diversity to men's tennis with Sinner's methodical style contrasting Alcaraz's flair.  On the women's side, Sabalenka and Iga Swiatek have formed a dominant duo, securing seven of the last eleven Grand Slams. 2024 signifies a shift in the tennis landscape with fresh faces claiming top spots
+
 Tue, 10 Sep 2024 00:20:00 +0530
 ### [​Taking TB seriously: On the BPaLM treatment regimen for drug-resistant tuberculosis](https://www.thehindu.com/opinion/editorial/%E2%80%8Btaking-tb-seriously-on-the-bpalm-treatment-regimen-for-drug-resistant-tuberculosis/article68622530.ece)
 
