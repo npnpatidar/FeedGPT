@@ -1,3 +1,60 @@
+Tue, 10 Sep 2024 02:30:31 +0000
+### [India’s unwillingness to give asylum to Bangladeshi Hindus signals a policy shift](https://indianexpress.com/article/opinion/columns/indias-unwillingness-to-give-asylum-to-bangladeshi-hindus-signals-a-policy-shift-9559192/)
+
+India's decision to permit Bangladesh Prime Minister Sheikh Hasina safe passage while denying refuge to persecuted Bangladeshi Hindus creates a disconcerting dilemma. This contradicts India's established position as a refuge for persecuted Hindus, particularly given the passage of the Citizenship Amendment Act (CAA) in 2019. 
+
+Despite reports of numerous attacks against minority groups in Bangladesh post-August 5, including deaths and threats, India has opted to form a monitoring committee instead of extending asylum. This stance deviates from India's historical humanitarian record of hosting refugees, exemplified by its welcoming of East Pakistani refugees during the 1971 liberation struggle. The limited current number of Bangladeshi refugees seeking asylum pales in comparison to previous instances, making the current policy shift particularly perplexing.  This hardened stance on refugees raises concerns about its potential humanitarian consequences and impact on India's international image.
+
+Tue, 10 Sep 2024 02:25:01 +0000
+### [The Anusandhan National Research Foundation aims to make India a knowledge-driven economy](https://indianexpress.com/article/opinion/columns/the-anusandhan-national-research-foundation-aims-to-make-india-a-knowledge-driven-economy-9559203/)
+
+The operationalisation of the Anusandhan National Research Foundation (ANRF) is a significant milestone for India's research landscape. 
+The foundation aims to bridge the infrastructure gap in universities and promote research by streamlining funding processes, reducing bureaucratic hurdles, and fostering industry-academia collaborations.  ANRF's focus on supporting lower Technology Readiness Levels (TRLs) research in academia complements the government's efforts in funding higher TRL research through Focused Research Organisations (FROs) and deep-tech startups. Drawing inspiration from models like the US National Science Foundation, ANRF seeks to create a vibrant ecosystem for high-risk, cutting-edge research and foster technology transfer, ultimately positioning India as a knowledge-driven economy.
+
+Tue, 10 Sep 2024 02:20:05 +0000
+### [How Swachh Bharat Mission advanced progress on safety and dignity, health and economy](https://indianexpress.com/article/opinion/columns/how-swachh-bharat-mission-advanced-progress-on-safety-and-dignity-health-and-economy-9559189/)
+
+The Swachh Bharat Mission (SBM), launched in 2014 with the ambitious goal of eliminating open defecation by 2019, has achieved significant success. The mission, driven by Prime Minister Modi's leadership, resulted in the construction of over 100 million household toilets and successfully transitioned over 550 million Indians to using these facilities. A recent study published in Nature validates the SBM's positive health impact, attributing the saving of 60,000-70,000 infant and child lives annually to the program.
+
+
+Beyond health benefits, the SBM brought about economic advantages, improved the dignity and security of women and girls, and spurred a sense of national pride. 
+
+The program's success has been widely recognized globally, with its "four Ps" framework – political leadership, public financing, partnerships, and people's participation – being adopted as a model for implementing transformative development initiatives in the sanitation sector worldwide.
+
+Tue, 10 Sep 2024 02:15:14 +0000
+### [The Third Edit: What he meant to say — Sanewashing Donald Trump’s speeches](https://indianexpress.com/article/opinion/editorials/the-third-edit-what-he-meant-to-say-sanewashing-donald-trumps-speeches-9559095/)
+
+The article discusses the phenomenon of "sanewashing," where media outlets  tend to reframe or justify the often illogical and inflammatory rhetoric of politicians, particularly Donald Trump. 
+
+Critics argue that this practice distorts reality and fails to hold politicians accountable for their words, potentially misleading the public. The article questions the ethical implications of sanitizing political speech and whether it serves the public good in a post-truth era.
+
+Tue, 10 Sep 2024 02:10:22 +0000
+### [Yogendra Yadav writes: The books our children need](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-the-books-our-children-need-9559204/)
+
+This article discusses the rise of quality children's literature in India. The author acknowledges a past dearth of engaging and well-produced Indian children's books compared to Western counterparts, but celebrates the emergence of a new wave of independent publishers producing innovative and culturally relevant content. 
+
+The author highlights the work of  publishers like Tulika, Ektara, Katha, and Pratham, praising their efforts to diversify genres, improve production quality, and cater to a wider readership.  The article emphasizes the importance of expanding access to these books, urging parents to prioritize Indian titles, encourage reading in mother tongues, and support authors and illustrators. The author suggests government intervention, public library development, and philanthropic support as crucial steps to solidify this positive trend and ensure a richer future for Indian children's literature.
+
+Tue, 10 Sep 2024 02:07:10 +0000
+### [Why a noisy classroom must not be silenced](https://indianexpress.com/article/opinion/columns/why-a-noisy-classroom-must-not-be-silenced-9559194/)
+
+The article critiques the growing culture of agreement in academia, arguing that it stifles intellectual discourse and dissent. The author, drawing parallels with pedagogical practices and societal norms, suggests that this emphasis on harmony has led to a suppression of "noise," which is essential for critical thinking and productive debate. This "agreementative" approach, the author contends, prevents genuine conversation and understanding with those who hold differing views, ultimately hindering intellectual and social progress. The author calls for a return to a more robust and challenging environment where disagreement is valued and encouraged.
+
+Tue, 10 Sep 2024 02:05:05 +0000
+### [September 10, 1984, Forty Years Ago: Shoot-at-sight orders in Hyderabad](https://indianexpress.com/article/opinion/40-years-ago/september-10-1984-forty-years-ago-shoot-at-sight-orders-in-hyderabad-9559184/)
+
+Hyderabad faced severe communal violence during the Ganesh immersion procession, prompting the Army to be deployed and shoot-at-sight orders to be issued. A curfew remains in effect. The Janata Party released a "White Paper" condemning the Indian government's practice of toppling non-Congress state governments, calling it a constitutional subversion.  The agenda for the crucial Andhra Pradesh Assembly session is yet to be finalized, with no notice received for a proposed vote of confidence motion.  In the Delhi University Students Union election, the Janata Vidhyarthi Morcha secured victory for the fifth consecutive year. </ >
+
+Tue, 10 Sep 2024 02:00:36 +0000
+### [Signboard warnings in Uttarakhand: When state abdicates responsibility to uphold rule of law](https://indianexpress.com/article/opinion/editorials/signboard-warnings-in-uttarakhand-when-state-abdicates-responsibility-to-uphold-rule-of-law-9559133/)
+
+Recent warning signs in Uttarakhand targeting "non-Hindus/Rohingya Muslims"  highlight a concerning rise in intolerance and the state's failure to uphold the rule of law. Incidents like the 2023 "love jihad" protests in Purola demonstrate how these tensions persist even after a period of seeming normalcy, fueled by divisive rhetoric and the government's inaction. The passing of the Uniform Civil Code has further deepened anxieties, creating an environment where hate speech and violence are increasingly tolerated.  It is crucial that the state government takes immediate action to address these threats, ensuring the safety and security of all its citizens and reaffirming its commitment to constitutional values.
+
+Tue, 10 Sep 2024 01:57:53 +0000
+### [The message from Jawhar Sircar’s resignation that Mamata Banerjee, TMC refuse to heed](https://indianexpress.com/article/opinion/editorials/the-message-from-jawhar-sircars-resignation-that-mamata-banerjee-tmc-refuse-to-heed-9559164/)
+
+Jawhar Sircar's resignation highlights the Trinamool Congress's and Mamata Banerjee's failure to listen to criticism, particularly regarding the handling of the doctor rape and murder case at R G Kar Medical College and Hospital.  The government's response has been inadequate, focusing on allegations of a "conspiracy" rather than addressing the calls for justice and institutional reforms.   Instead of engaging with protesters and offering a roadmap for change, Banerjee's accusations further alienate the public and contradict the party's image of being a champion for women and their safety. The rushed "Aparajita Woman and Child" bill, proposing the death penalty, is seen as a superficial response that fails to address the deeper issues surrounding women's safety and access to public spaces in West Bengal.
+
 Mon, 09 Sep 2024 10:30:16 +0000
 ### [In politics as in films, Kangana Ranaut is a disruptor charting her own course](https://indianexpress.com/article/opinion/columns/kangana-ranaut-politics-films-disruptor-charting-her-course-9558181/)
 

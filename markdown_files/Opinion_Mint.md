@@ -1,3 +1,8 @@
+Tue, 10 Sep 2024 07:00:16 +0530
+### [Mint Quick Edit | Is a GST rate cut for insurance good news?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-is-a-gst-rate-cut-for-insurance-good-news-premium-life-insurance-health-goods-and-services-tax-11725886193881.html)
+
+Discussions are underway to potentially reduce the Goods and Services Tax (GST) on life and health insurance premiums from 18% to 5%, a rate designated for essential goods.  While this move is positive, it highlights a deviation from the GST regime's initial principles of minimal rate adjustments and reduced influence of lobbying groups. The ideal scenario envisioned for GST was a single rate for most items, with specific slabs for items requiring unique treatment. Although insurance may fall into a grey area, the potential reduction in premiums is a welcome development for consumers.
+
 Mon, 09 Sep 2024 16:00:15 +0530
 ### [Education and national development must go hand-in-hand as India emerges](https://www.livemint.com/opinion/education-and-national-development-must-go-hand-in-hand-as-india-emerges-reforms-healthcare-education-development-aser-11725817655808.html)
 

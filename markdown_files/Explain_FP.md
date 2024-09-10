@@ -1,3 +1,8 @@
+Tue, 10 Sep 2024 06:30:10 +0530
+### [FirstUp: The Trump-Harris presidential debate, NSA Doval travels to Russia... big headlines today](https://www.firstpost.com/explainers/firstup-the-trump-harris-presidential-debate-nsa-doval-to-travel-to-russia-for-brics-meeting-big-headlines-today-13813456.html)
+
+Today is a busy day in global politics.  VP Kamala Harris and Donald Trump will face off in their first presidential debate. Meanwhile, Indian National Security Advisor Ajit Doval travels to Russia for a BRICS meeting, amidst efforts to find a solution to the Ukraine conflict. External Affairs Minister S Jaishankar is in Germany for talks with GCC foreign ministers. The 79th UN General Assembly begins in New York. In India, PM Modi is likely to campaign in Jammu ahead of the state assembly elections.
+
 Mon, 9 Sep 2024 20:57:05 +0530
 ### [Across UK, local governments are at risk of collapse. Here's why](https://www.firstpost.com/explainers/across-uk-local-governments-are-at-risk-of-collapse-heres-why-13813494.html)
 
