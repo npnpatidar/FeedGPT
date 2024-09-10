@@ -1,3 +1,15 @@
+Tue, 10 Sep 2024 16:00:13 +0530
+### [White Revolution 2.0: Milk sufficiency for all](https://www.livemint.com/opinion/online-views/white-revolution-2-0-milk-sufficiency-for-all-national-milk-day-family-household-consumption-expenditure-survey-11725883940858.html)
+
+This article examines the impact of family size on milk consumption in India. Using data from the National Household Consumption Survey 2022-23, the authors find that, on average, two-child families spend 30-32% less on milk per person compared to one-child families.
+
+This lower spending is attributed to a combination of factors, including limited increases in family income and competing priorities for essential expenditures like education and healthcare. While two-child families spend a smaller portion of their income on milk, they allocate a slightly higher share than one-child families.
+
+The authors highlight a concerning trend: even in the lowest income quartile, milk spending by single-child families is low.  They emphasize the importance of addressing nutritional gaps in India, particularly for children, and suggest policy interventions like expanding programs like the Gift Milk Initiative to increase milk consumption.
+
+
+While acknowledging challenges like rising milk prices driven by production costs, the authors conclude by calling for India's "White Revolution 2.0" to ensure adequate access to this essential nutritional source for all.
+
 Tue, 10 Sep 2024 15:00:11 +0530
 ### [OPEC+ has postponed a tough decision it can’t put off for long](https://www.livemint.com/opinion/online-views/opec-has-postponed-a-tough-decision-it-can-t-put-off-for-long-crude-oil-production-russia-saudi-arabia-brent-nymex-11725883105731.html)
 

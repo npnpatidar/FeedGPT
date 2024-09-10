@@ -1,3 +1,52 @@
+Tue, 10 Sep 2024 17:38:34 +0530
+### [‘Underwear storm’ hits Chinese city. What's going on?](https://www.firstpost.com/explainers/underwear-storm-hits-chinese-city-chongqing-what-is-going-on-13813780.html)
+
+Chongqing, China experienced an unusual weather event dubbed the "9/2 Chongqing underwear crisis" on Monday.  A sudden windstorm, with gusts up to 122 km/h, swept through the city, scattering laundry from high-rise balconies. 
+
+The city had been enduring a heatwave and authorities had recently used cloud-seeding technology to induce rainfall.  
+
+Videos of underwear flying through the air went viral on social media, with residents sharing their experiences with humour and disbelief.  
+
+While some speculated that cloud seeding was to blame, the Chongqing Meteorological Bureau stated that the strong winds were caused by natural convection and not artificial rainfall.
+
+Tue, 10 Sep 2024 17:01:18 +0530
+### [Rahul Gandhi’s remarks in US on Sikhs draw ire: How Congress leader’s foreign trips have courted rows](https://www.firstpost.com/explainers/congress-rahul-gandhi-sikh-remarks-us-visit-bjp-foreign-trips-controversy-13813807.html)
+
+Rahul Gandhi, Leader of the Opposition, sparked controversy during his first foreign trip since assuming the role. 
+
+While addressing the Indian diaspora in the US, Gandhi raised concerns about religious freedom in India, citing the potential restrictions faced by Sikhs in practicing their faith. He specifically questioned whether Sikhs would be allowed to wear turbans and kada, a Sikh religious symbol,  in the country. 
+
+Gandhi also addressed the issue of reservations, stating that he believes they are necessary until India becomes a fairer place. This statement drew criticism from political parties like the BSP, who accused him of conspiring against reservations.
+
+His comments on India’s employment situation, contrasting it with China, also drew flak from the BJP, who accused him of promoting China's economic model and disrespecting India. 
+
+The BJP strongly condemned Gandhi's remarks, alleging that he was insulting India and resorting to mudslinging on foreign soil. They further criticized his previous remarks abroad, accusing him of consistently discrediting India and its institutions.
+
+Tue, 10 Sep 2024 16:36:03 +0530
+### [How a hunt for man who threw boiling hot coffee on a baby in Australia turned global](https://www.firstpost.com/explainers/global-hunt-for-man-who-threw-boiling-hot-coffee-on-baby-in-australia-13813805.html)
+
+A nine-month-old baby named Luka suffered serious burns after a man allegedly threw scalding coffee on him at a Brisbane park in August. The unprovoked attack shocked Australia and the suspect, a 33-year-old man, fled the country. Police have issued an arrest warrant for aggravated grievous bodily harm, a charge that carries a potential life sentence.  The man was captured on CCTV and is believed to be aware of police procedures, making the investigation complex.  Luka has undergone multiple surgeries and while his physical recovery is expected to take years, his parents fear the lasting mental scars of the attack.
+
+Tue, 10 Sep 2024 16:28:56 +0530
+### [Harris vs Trump: A look at where each stands on key issues ahead of the US presidential debate](https://www.firstpost.com/explainers/harris-vs-trump-a-look-at-where-each-stands-on-key-issues-ahead-of-the-us-presidential-debate-13813772.html)
+
+The US presidential race between Kamala Harris and Donald Trump highlights stark contrasts on key issues. Harris supports middle-class tax cuts, climate action, and restoring abortion rights, aligning with the Biden administration's agenda. 
+
+Trump, conversely, seeks to expand tax cuts, bolster fossil fuels, and implement stricter immigration policies. 
+
+Their positions diverge on issues like immigration, where Harris advocates for comprehensive reform and Trump proposes mass deportations.  
+
+On Ukraine, Harris backs continued support for Ukraine against Russian aggression, while Trump criticizes US aid and suggests negotiation with Russia.  
+
+They also differ on abortion, with Harris defending federal abortion rights and Trump leaving the issue to states.  
+
+Regarding climate change, Harris emphasizes clean energy projects, while Trump promotes fossil fuel expansion.  
+
+On social issues, Harris supports LGBTQ+ rights, while Trump advocates for rollback of protections. Their trade policies also clash, with Harris focusing on alliances and Trump on tariffs against China. 
+
+
+Finally, they hold opposing views on democracy and the rule of law, with Harris defending election integrity and Trump questioning the 2020 election results.
+
 Tue, 10 Sep 2024 15:05:29 +0530
 ### [SpaceX launches Polaris Dawn: Why mission is set to make history](https://www.firstpost.com/explainers/spacex-launches-polaris-dawn-why-mission-is-set-to-make-history-13808475.html)
 

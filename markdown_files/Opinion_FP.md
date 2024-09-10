@@ -1,3 +1,24 @@
+Tue, 10 Sep 2024 16:54:43 +0530
+### [Why India’s strategic partnership with the US-led West fails to click](https://www.firstpost.com/opinion/why-indias-strategic-partnership-with-the-us-led-west-fails-to-click-13813814.html)
+
+The article discusses the complexities of a potential strategic alliance between India and the US against China. 
+
+While proponents point to shared democratic values, economic ties, and the threat posed by China's rise, the article highlights several limitations and concerns. These include:
+
+* **US limitations in offering concrete support:** Intelligence sharing and limited logistical or technological aid don't constitute a decisive advantage against China's superior military capabilities. 
+
+* **Distrust stemming from historical events:** 
+  US support for Pakistan during the 1971 war and continued engagement with Pakistan fuel Indian skepticism.
+
+* **Democratic backsliding concerns:**
+
+The US raises concerns about democratic erosion in India, further straining relations.
+*  Concerns about US motives: Some believe the US seeks to push India into a direct confrontation with China, benefiting its own weapons industry.
+* **Conflicting priorities in the Western bloc:**  Economic ties between China and Western powers like Germany and the US-China "managed competition" stance raise doubts about Western unity and commitment to containing China.
+* **Geographic realities:** India's geographical proximity to China makes a complete alignment with the West risky, as it limits strategic options and could lead to heightened tensions. 
+
+In conclusion, while a strategic partnership with the US may seem appealing, the article argues that deep-rooted historical mistrust, differing priorities, and geopolitical realities make a complete alignment a complex and challenging prospect.
+
 Tue, 10 Sep 2024 15:00:59 +0530
 ### [What BRICS+ means for India amid rising polarity in global order](https://www.firstpost.com/opinion/what-brics-means-for-india-amid-rising-polarity-in-global-order-13813761.html)
 

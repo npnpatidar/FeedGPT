@@ -1,3 +1,8 @@
+Tue, 10 Sep 2024 16:26:42 +0530
+### [‘Bad Monkey’ series review: Vince Vaughn shoulders this deceptive crime-comedy](https://www.thehindu.com/entertainment/movies/bad-monkey-series-review-vince-vaughn-shoulders-this-deceptive-crime-comedy/article68625745.ece)
+
+"Bad Monkey," a new series on Apple TV+, follows a quirky cast of characters as they investigate the severed arm discovered by Vince Vaughn's character, Andrew Yancy, a Florida food inspector. The show unfolds across multiple storylines, weaving together elements of crime, comedy, and suspense.  While initially slow-paced, "Bad Monkey" picks up momentum, delivering engaging character development and a compelling mystery. The show tackles themes of greed, corruption, and morality through its diverse ensemble of characters, who encounter unexpected twists and turns along the way.  "Bad Monkey" is available for streaming with new episodes released weekly.
+
 Sun, 08 Sep 2024 16:21:50 +0530
 ### [‘Strange Darling’ movie review: Willa Fitzgerald’s electrifying run elevates this subversive shocker](https://www.thehindu.com/entertainment/movies/strange-darling-review-willa-fitzgeralds-electrifying-run-elevates-this-subversive-shocker/article68618213.ece)
 

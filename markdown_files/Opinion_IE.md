@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 12:11:29 +0000
+### [Ananya Pandey’s ‘Call Me Bae’ and Uorfi Javed’s ‘Follow Kar Lo Yaar’: Anyone can be a star](https://indianexpress.com/article/opinion/columns/ananya-pandey-call-me-bae-uorfi-javed-follow-kar-lo-yaar-9560295/)
+
+The article discusses the recent releases of two web series, "Follow Kar Lo Yaar" featuring Uorfi Javed and "Call Me Bae" with Ananya Pandey, highlighting the democratization of showbiz through digital platforms.  It contrasts the backgrounds of the two actresses, Javed, an outsider who rose to fame through social media and outlandish appearances, and Pandey, a star kid with a privileged upbringing and established Bollywood connections. 
+
+The article explores how both actresses, despite their different paths, navigate the pressures and aspirations of the entertainment industry, aiming for success and recognition. Javed aspires to reach Shah Rukh Khan-level fame, while Pandey seeks to connect with a wider audience on social media. The overlapping themes of ambition, struggle, and the pursuit of success in the Mumbai entertainment landscape are emphasized, presenting a glimpse into the lives of these contemporary celebrities.
+
 Tue, 10 Sep 2024 06:25:21 +0000
 ### [Abhaya. Nirbhaya. Tilottama. Damini. Amanat: What the names given to rape victims say about us](https://indianexpress.com/article/opinion/columns/rape-victims-given-nams-nirbhaya-abhaya-rg-kar-kolkata-case-9559621/)
 
