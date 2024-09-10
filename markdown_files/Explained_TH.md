@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 22:59:02 +0530
+### [On ANI’s defamation suit against Wikipedia | Explained](https://www.thehindu.com/sci-tech/technology/ani-defamation-suit-against-wikipedia/article68627535.ece)
+
+A Delhi High Court judge threatened to order the Indian government to block Wikipedia if the Wikimedia Foundation doesn't provide user details in a defamation case filed by ANI, a news agency. ANI sued Wikipedia after the platform described the agency as a propagator of government propaganda. Wikipedia stands by its description, citing reliable sources, but the judge's threat highlights the tension between free speech and platform accountability in India.  
+
+This case is not unique; Encyclopedia Wikipedia faces similar legal challenges and pressure from governments worldwide. Some criticize Wikipedia for potential bias, but its editors generally follow policies like neutrality and reliance on verifiable sources.
+
 Mon, 09 Sep 2024 22:54:56 +0530
 ### [On the challenges to road safety in India | Explained](https://www.thehindu.com/news/national/road-safety-in-india-challenges/article68623486.ece)
 
