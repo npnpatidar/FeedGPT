@@ -1,3 +1,20 @@
+Tue, 10 Sep 2024 11:12:03 +0530
+### [Apple Watch Series 10 can detect sleep apnea: What is the condition, can it be fatal?](https://www.firstpost.com/health/apple-watch-series-10-sleep-apnea-detection-13813632.html)
+
+The Apple Watch Series 10, announced at the "Its Glowtime" event, boasts a significant health advancement: the ability to detect sleep apnea. This feature uses the watch's accelerometer to monitor breathing disturbances during sleep.  Apple employs machine learning to analyze the data and alert users monthly to any irregularities.  If consistent patterns suggest moderate to severe sleep apnea, the watch will notify the user. 
+
+The new Series 10 also retains features from its predecessor like notifications for atrial fibrillation (AFib) and prescription reminders. 
+
+
+With a new wider OLED display, softer corners, and a thinner design,  the Apple Watch Series 10 aims to be both stylish and functional.
+
+Tue, 10 Sep 2024 10:30:55 +0530
+### [Haryana Assembly polls: Why Congress-AAP alliance remains elusive](https://www.firstpost.com/explainers/haryana-assembly-polls-2024-congress-aap-alliance-seat-sharing-talks-candidates-list-13813606.html)
+
+Alliance talks between the Congress and the AAP for the upcoming Haryana Assembly elections have collapsed. While the Congress had initially expressed interest in an alliance, differences over seat sharing proved insurmountable.  The AAP demanded five to seven specific seats, including Kalayat and Jind, which the Congress was unwilling to concede. The Congress, optimistic about its chances of defeating the BJP, offered the AAP fewer seats it deemed less winnable. Dissenting voices within both parties also contributed to the breakdown of talks.   
+
+The AAP, which will contest all 90 seats, blames an influential Congress leader for sabotaging the alliance.  With the nomination deadline approaching, both parties are now set to contest the elections independently.
+
 Tue, 10 Sep 2024 09:06:06 +0530
 ### [Donald Trump-Kamala Harris presidential debate: How are the candidates preparing? What can we expect?](https://www.firstpost.com/explainers/donald-trump-kamala-harris-presidential-debate-how-are-the-candidates-preparing-what-can-we-expect-13813471.html)
 

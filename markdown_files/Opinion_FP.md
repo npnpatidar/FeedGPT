@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 10:12:19 +0530
+### [No second guessing: Why SCO remains important for India](https://www.firstpost.com/opinion/no-second-guessing-why-sco-remains-important-for-india-13813608.html)
+
+The Shanghai Cooperation Organisation (SCO) has significantly evolved since its inception in 2001. Initially focused on security cooperation in Central Asia, the SCO has expanded its agenda to include trade, economic, and energy cooperation. China has emerged as a dominant force within the SCO, investing heavily in Central Asian infrastructure and leveraging its influence to advance its interests. 
+
+India, which joined the SCO in 2017, is a unique member given its democratic values. While India maintains good relations with most SCO members, relations with China remain strained. India views SCO as a platform to engage with Central Asia and other key players, using its membership to advocate for moderation and balance the influence of countries like China and Pakistan.  India aims to navigate the SCO's evolving landscape strategically, safeguarding its interests while contributing constructively to the organization's agenda.
+
 Mon, 9 Sep 2024 16:35:32 +0530
 ### [Why Uyghur groups have contradictory stances on Israel-Hamas war](https://www.firstpost.com/opinion/why-uyghur-groups-have-contradictory-stances-on-israel-hamas-war-13813376.html)
 

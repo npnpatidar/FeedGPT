@@ -1,3 +1,26 @@
+Tue, 10 Sep 2024 10:44:03 +0530
+### [Why India needs a sovereign wealth fund now](https://www.livemint.com/opinion/online-views/sovereign-wealth-fund-swfs-temasek-gic-forex-reserves-niif-global-financial-crisis-government-debt-return-on-investment-11725940083167.html)
+
+This article explores the potential benefits and risks of India establishing a sovereign wealth fund (SWF). 
+
+Unlike nations with current account surpluses that typically fund SWFs, India's reserves stem largely from capital inflows. The article argues that this presents an opportunity, as investing a portion of these reserves in an SWF could yield higher returns than traditional sovereign debt investments. 
+
+An SWF could contribute to India's strategic interests by securing stakes in strategic industries abroad, supporting external projects funded by Indian foreign aid, and gaining access to cutting-edge technologies.
+
+The article suggests adopting a structure similar to Singapore's Temasek or GIC, owned by the central bank, to ensure operational autonomy and focus on strategic investments. Ensuring ethical management through professional leadership, robust oversight mechanisms, and a strong whistleblower policy is crucial. 
+
+
+Ultimately, the article concludes that the potential benefits of an SWF, coupled with appropriate safeguards, outweigh the risks, making it a compelling proposition for India.
+
+Tue, 10 Sep 2024 10:02:18 +0530
+### [Here’s why the shares of small businesses sell at inflated prices](https://www.livemint.com/opinion/columns/sme-ipos-shares-small-businesses-sme-platform-inflated-prices-stock-markets-retail-investors-11725880737088.html)
+
+The surge in initial public offerings (IPOs) by companies listed on the SME platform has raised concerns regarding insufficient checks and balances. There are worries that chartered accountants, exchanges, and merchant bankers are not conducting adequate due diligence, potentially leading to inflated valuations and risky investment decisions. 
+
+History highlights similar occurrences in various bubbles, such as the dotcom bubble and the 1990s IPOs in India where promoters disappeared with raised funds.  The inherent nature of limited liability incentivizes those selling shares to maximize profits, sometimes at the expense of investor protection. 
+
+While Sebi has issued advisories, expecting due diligence from those selling shares may be unrealistic, given their profit-driven motives. As investors rush into promising ventures, market sentiment can become driven by speculation rather than fundamental values.
+
 Tue, 10 Sep 2024 08:30:19 +0530
 ### [Nvidia’s dominance: Stay alert to the risk of an AI monopoly](https://www.livemint.com/opinion/online-views/nvidias-dominance-stay-alert-to-the-risk-of-an-ai-monopoly-semiconductor-chips-big-tech-regulation-antitrust-11725885710957.html)
 

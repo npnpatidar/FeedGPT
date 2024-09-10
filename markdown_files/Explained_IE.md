@@ -1,3 +1,18 @@
+Tue, 10 Sep 2024 05:46:02 +0000
+### [5 most influential US presidential debates, from Nixon-Kennedy in 1960 to Trump-Biden in 2024](https://indianexpress.com/article/explained/explained-global/us-elections-influential-debates-kamala-trump-9559521/)
+
+The article discusses five instances where televised presidential debates significantly impacted the election. 
+
+The first, between Kennedy and Nixon in 1960, established the importance of appearances in politics. Nixon's appearance, perceived as tired and unwell, contrasted with Kennedy's youthful and charismatic image.  
+
+The 1976 debate between Ford and Carter saw Ford lose crucial support after stating there was no Soviet domination of Eastern Europe. 
+
+The 1992 debates involving Bush Sr, Clinton, and Perot showcased the impact of a multi-candidate race and the influence of format. 
+
+The 2000 election, the closest in US history, saw Gore's aggressive demeanor and demeanor hurting him despite strong performances on substance.
+
+Finally, Biden's 2024 debate performance was widely criticized, leading some to question his fitness for office.
+
 Tue, 10 Sep 2024 03:25:18 +0000
 ### [Who was Sakthan Thampuran, whose fallen statue in Thrissur Suresh Gopi wants to reconstruct](https://indianexpress.com/article/explained/explained-culture/who-was-sakthan-thampuran-whose-fallen-statue-in-thrissur-suresh-gopi-wants-to-reconstruct-9559218/)
 
