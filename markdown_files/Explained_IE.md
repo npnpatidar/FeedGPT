@@ -1,3 +1,12 @@
+Tue, 10 Sep 2024 00:41:12 +0000
+### [7 things to watch out for in high-stakes Kamala Harris vs Donald Trump debate](https://indianexpress.com/article/explained/explained-global/7-things-high-stakes-kamala-harris-v-donald-trump-debate-9559029/)
+
+The upcoming debate between Kamala Harris and Donald Trump is crucial as the race for the US presidency is extremely tight. Polls show them neck-and-neck, with the winner potentially gaining a significant advantage.  Harris, lacking specific policy details in her campaign, needs to define herself in contrast to Trump and capitalize on his perceived vulnerabilities.
+
+Trump, while maintaining a loyal base, needs to avoid his past debate mistakes of rambling and aggression. 
+
+Key issues likely to be debated include abortion rights, immigration, and the economy.  Despite the format changes, like muted microphones, both candidates will aim to make their chosen issues paramount in voters' minds. This debate, being the only televised one, holds immense weight as both campaigns have limited time to sway undecided voters.
+
 Mon, 09 Sep 2024 12:16:03 +0000
 ### [How vegetarian is India?](https://indianexpress.com/article/explained/vegetarian-india-9558468/)
 
