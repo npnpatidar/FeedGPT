@@ -1,3 +1,23 @@
+Tue, 10 Sep 2024 13:21:32 +0530
+### [Illegal immigration from Bangladesh: Why India should deal with the issue with a sense of urgency](https://www.firstpost.com/opinion/illegal-immigration-from-bangladesh-why-india-should-deal-with-the-issue-with-a-sense-of-urgency-13813681.html)
+
+Illegal immigration from Bangladesh to India is a complex issue with significant economic, social, and security implications for India. The flow of migrants, estimated to be several million to as many as 15 million, has led to demographic changes and tensions in border areas.   To address this challenge, India needs a multifaceted strategy.  This includes amending Indian legislation to introduce a national refugee law that distinguishes between refugees and illegal migrants, implementing  'crimmigration' principles, strengthening border controls, and increasing investment in police and immigration authorities. 
+
+A crucial step is establishing a bilateral agreement with Bangladesh for the readmission of nationals residing illegally in either country after verification.  India could also benefit from collaborating with international organizations like the UNHCR, IOM, and ICMPD, who possess expertise in managing migration issues.
+
+Tue, 10 Sep 2024 12:04:13 +0530
+### [Anti-India narrative on social media: Why it’s time for government to counter online negativity](https://www.firstpost.com/opinion/anti-india-narrative-on-social-media-why-its-time-for-government-to-counter-online-negativity-13813668.html)
+
+This article discusses the growing problem of anti-India sentiment on social media platforms like X (formerly Twitter). 
+
+It highlights how misinformation and biased representations are being used to shape negative perceptions of India globally.  The author points out that India's large online presence is not effectively used to counter these narratives and calls for a more unified and assertive response from Indian citizens and the government. 
+
+The article cites examples of successful counter-narratives and emphasizes the need for platforms that promote constructive dialogue and offer more control over the portrayal of India online. 
+
+
+
+Finally, it urges a multifaceted approach that includes addressing internal divisions, engaging constructively with criticism, and leveraging the power of social media to showcase India's strengths and achievements.
+
 Tue, 10 Sep 2024 10:12:19 +0530
 ### [No second guessing: Why SCO remains important for India](https://www.firstpost.com/opinion/no-second-guessing-why-sco-remains-important-for-india-13813608.html)
 

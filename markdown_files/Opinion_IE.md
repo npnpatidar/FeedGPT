@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 06:25:21 +0000
+### [Abhaya. Nirbhaya. Tilottama. Damini. Amanat: What the names given to rape victims say about us](https://indianexpress.com/article/opinion/columns/rape-victims-given-nams-nirbhaya-abhaya-rg-kar-kolkata-case-9559621/)
+
+The article criticizes the media's practice of giving symbolic names to rape victims like Abhaya and Nirbhaya. While well-intentioned, these names serve to distance us from the reality of the horrific violence committed against these women.  
+
+The author argues that these chosen names allow us to avoid introspection about our societal role in perpetuating sexual objectification and failing to protect women.  The article highlights the irony that these names, intended to inspire courage, ironically make some fathers more fearful for their daughters.  It concludes by suggesting that the anonymity of the "unknown soldier" allows for a more universal empathy, while naming the victim retroactively imposes undue symbolic weight on a tragedy that should simply be about justice.
+
 Tue, 10 Sep 2024 02:30:31 +0000
 ### [India’s unwillingness to give asylum to Bangladeshi Hindus signals a policy shift](https://indianexpress.com/article/opinion/columns/indias-unwillingness-to-give-asylum-to-bangladeshi-hindus-signals-a-policy-shift-9559192/)
 

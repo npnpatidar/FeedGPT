@@ -1,3 +1,20 @@
+Tue, 10 Sep 2024 13:31:25 +0530
+### [Has Pakistan discovered ‘massive’ oil and gas reserves that could turn its ‘destiny’?](https://www.firstpost.com/explainers/pakistan-massive-oil-gas-reserves-discovery-economic-crisis-13813711.html)
+
+Pakistan has announced the discovery of a potentially significant oil and gas reserve in its territorial waters.  
+
+This discovery follows a three-year survey conducted in collaboration with a friendly nation. The potential size of the reserves has generated optimism, with some estimates suggesting it could be the fourth largest in the world. This find could significantly impact Pakistan's economy, which is heavily reliant on energy imports. 
+
+However, experts caution against premature celebrations, emphasizing the need for further exploration and confirmation of the reserves' size and feasibility of extraction.  Actual production could take several years and require substantial investment. Despite the uncertainties, the discovery has renewed interest in Pakistan's offshore energy potential and its ability to benefit from the "blue economy."
+
+Tue, 10 Sep 2024 12:37:52 +0530
+### [White supremacist terror network on Telegram exposed: What is the 'Terrorgram Collective'?](https://www.firstpost.com/explainers/white-supremacist-terror-network-on-telegram-exposed-what-is-the-terrorgram-collective-13813627.html)
+
+Two leaders of the extremist white supremacist group ‘Terrorgram Collective’, Dallas Humber and Matthew Allison, have been charged by the US Department of Justice. Prosecutors allege the pair used Telegram to incite violence, glorify attacks on racial minorities and officials, and even provided bomb-making instructions.  The Terrorgram Collective, which promotes “white supremacist accelerationism,” aimed to provoke societal collapse through racially motivated violence. Humber and Allison are accused of celebrating attacks perpetrated by followers, including those in Turkey and Slovakia. If convicted on all charges, each could face up to 220 years in prison. 
+
+
+This case highlights the growing threat posed by extremist groups operating online and the challenges of moderating platforms like Telegram.
+
 Tue, 10 Sep 2024 11:12:03 +0530
 ### [Apple Watch Series 10 can detect sleep apnea: What is the condition, can it be fatal?](https://www.firstpost.com/health/apple-watch-series-10-sleep-apnea-detection-13813632.html)
 

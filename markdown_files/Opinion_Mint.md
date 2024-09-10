@@ -1,3 +1,14 @@
+Tue, 10 Sep 2024 12:30:07 +0530
+### [Thank digital tools for small businesses going formal on their own](https://www.livemint.com/opinion/columns/thank-digital-tools-for-small-businesses-going-formal-on-their-own-digital-public-infrastructure-formalization-tax-gst-11725881660755.html)
+
+While India's digital public infrastructure (DPI) has seen impressive growth, questions remain about its accessibility and usage by those most in need.
+
+Initial scepticism stems from India's large cash economy and reluctance among small businesses to formalize due to perceived higher liabilities with minimal benefits. However, recent trends suggest a shift.  The number of businesses registered on the GST platform has surged, boosting tax collections significantly.
+
+The IMF suggests that other countries can learn from India's experience. They propose a three-step approach: simplify entry into the formal financial system, align incentives to make it advantageous for businesses to operate formally, and offer tax-based incentives for formalization.
+
+Crucially, these efforts should prioritize citizen-driven participation, ensuring individuals understand the benefits of formal engagement in the economy and feel it's in their best interest.
+
 Tue, 10 Sep 2024 10:44:03 +0530
 ### [Why India needs a sovereign wealth fund now](https://www.livemint.com/opinion/online-views/sovereign-wealth-fund-swfs-temasek-gic-forex-reserves-niif-global-financial-crisis-government-debt-return-on-investment-11725940083167.html)
 
