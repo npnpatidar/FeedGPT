@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Nvidia’s dominance: Stay alert to the risk of an AI monopoly</title>
+			<link>https://www.livemint.com/opinion/online-views/nvidias-dominance-stay-alert-to-the-risk-of-an-ai-monopoly-semiconductor-chips-big-tech-regulation-antitrust-11725885710957.html</link>
+			<description>Nvidia, with its dominant 80% market share in AI chips, is facing increased scrutiny from the US Justice Department. Concerns stem from Nvidia's alleged control over chip allocation due to high demand and its potential to punish customers who deal with rivals. While Nvidia denies engaging in exclusivity practices, regulators are investigating its contract terms and the impact of its market power. 
+
+Additionally, Nvidia's acquisition of Run:ai, a software firm, is under review for its potential to further consolidate its position. 
+
+The potential for AI to create a winner-takes-all market and its significant impact on society are driving proactive antitrust measures, extending to both AI software and hardware providers like Nvidia.</description>
+			<pubDate>Tue, 10 Sep 2024 08:30:19 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/09/1600x900/Nvidia-Results-0_1717040267338_1725885964648.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/09/1600x900/Nvidia-Results-0_1717040267338_1725885964648.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Mint Quick Edit | Is a GST rate cut for insurance good news?</title>
 			<link>https://www.livemint.com/opinion/quick-edit/mint-quick-edit-is-a-gst-rate-cut-for-insurance-good-news-premium-life-insurance-health-goods-and-services-tax-11725886193881.html</link>
 			<description>Discussions are underway to potentially reduce the Goods and Services Tax (GST) on life and health insurance premiums from 18% to 5%, a rate designated for essential goods.  While this move is positive, it highlights a deviation from the GST regime's initial principles of minimal rate adjustments and reduced influence of lobbying groups. The ideal scenario envisioned for GST was a single rate for most items, with specific slabs for items requiring unique treatment. Although insurance may fall into a grey area, the potential reduction in premiums is a welcome development for consumers.</description>

@@ -1,3 +1,24 @@
+Tue, 10 Sep 2024 03:25:18 +0000
+### [Who was Sakthan Thampuran, whose fallen statue in Thrissur Suresh Gopi wants to reconstruct](https://indianexpress.com/article/explained/explained-culture/who-was-sakthan-thampuran-whose-fallen-statue-in-thrissur-suresh-gopi-wants-to-reconstruct-9559218/)
+
+Sakthan Thampuran ruled the Cochin kingdom from 1790 to 1805. Known for his strategic mind, he fostered relationships with both the Dutch and English, ultimately securing Cochin's independence from Mysore. He is credited with establishing the modern city of Thrissur, transferring the kingdom's seat there and implementing financial reforms. He also instituted the Thrissur Pooram, a major annual festival.
+
+Tue, 10 Sep 2024 03:11:30 +0000
+### [Why arrival of mpox vaccines was delayed in Africa](https://indianexpress.com/article/explained/explained-health/monkey-pox-mpox-vaccines-donation-democratic-republic-of-congo-mpox-vaccines-origin-9559205/)
+
+The Democratic Republic of Congo, the epicenter of the current mpox outbreak, has received its first mpox vaccine donation. The surge in cases, reaching over 100,000 globally with 229 deaths, highlights the disparity in vaccine access, particularly in Africa.  
+
+The new mpox variant, clade Ib,  is spreading rapidly, outpacing previous variants, and  affecting more women and children. Three vaccines are currently available, with additional ones in development. The high cost of vaccines has been a barrier for many African countries, relying on donations and purchases by international organizations. This has raised concerns about the WHO's approval processes and the need for equitable vaccine distribution.  
+
+The mpox vaccine is recommended for high-risk individuals and those exposed to infected individuals, ideally within four days of exposure.
+
+Tue, 10 Sep 2024 03:10:52 +0000
+### [‘Effective consultation’: How SC ruling underlines process of HC judges’ appointment](https://indianexpress.com/article/explained/explained-law/effective-consultation-how-sc-ruling-underlines-process-of-hc-judges-appointment-9559219/)
+
+The Supreme Court has directed the Himachal Pradesh High Court collegium to reconsider the names of two judicial officers recommended for elevation to the Bench 21 months ago. The court's decision comes after the individuals challenged the collegium's decision to recommend two other names earlier this year.  
+
+The Supreme Court emphasized the importance of seniority in judicial appointments, highlighting that the HC collegium should have reconsidered the original recommendations before putting forth new names. It ruled that the  HC Chief Justice cannot act unilaterally on matters of elevation and must consult with two seniormost judges within the high court for collective decision-making.
+
 Tue, 10 Sep 2024 00:41:12 +0000
 ### [7 things to watch out for in high-stakes Kamala Harris vs Donald Trump debate](https://indianexpress.com/article/explained/explained-global/7-things-high-stakes-kamala-harris-v-donald-trump-debate-9559029/)
 

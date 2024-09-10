@@ -1,3 +1,12 @@
+Tue, 10 Sep 2024 08:30:19 +0530
+### [Nvidia’s dominance: Stay alert to the risk of an AI monopoly](https://www.livemint.com/opinion/online-views/nvidias-dominance-stay-alert-to-the-risk-of-an-ai-monopoly-semiconductor-chips-big-tech-regulation-antitrust-11725885710957.html)
+
+Nvidia, with its dominant 80% market share in AI chips, is facing increased scrutiny from the US Justice Department. Concerns stem from Nvidia's alleged control over chip allocation due to high demand and its potential to punish customers who deal with rivals. While Nvidia denies engaging in exclusivity practices, regulators are investigating its contract terms and the impact of its market power. 
+
+Additionally, Nvidia's acquisition of Run:ai, a software firm, is under review for its potential to further consolidate its position. 
+
+The potential for AI to create a winner-takes-all market and its significant impact on society are driving proactive antitrust measures, extending to both AI software and hardware providers like Nvidia.
+
 Tue, 10 Sep 2024 07:00:16 +0530
 ### [Mint Quick Edit | Is a GST rate cut for insurance good news?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-is-a-gst-rate-cut-for-insurance-good-news-premium-life-insurance-health-goods-and-services-tax-11725886193881.html)
 

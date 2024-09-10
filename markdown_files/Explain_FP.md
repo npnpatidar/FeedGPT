@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 09:06:06 +0530
+### [Donald Trump-Kamala Harris presidential debate: How are the candidates preparing? What can we expect?](https://www.firstpost.com/explainers/donald-trump-kamala-harris-presidential-debate-how-are-the-candidates-preparing-what-can-we-expect-13813471.html)
+
+Vice President Kamala Harris and former President Donald Trump are set to participate in a high-stakes debate.  Harris has been preparing extensively, including mock debates with an actor method-acting as Trump and reviewing policy details.  Trump, on the other hand, claims he requires minimal preparation, relying on his experience and frequent public appearances. 
+
+The debate is expected to focus on key policy issues, with Harris likely to highlight Trump's record on issues like the economy, healthcare, and the environment. Trump is expected to attack Harris's liberal positions and paint her as being too radical.  Both campaigns anticipate the debate will be highly contentious.  Experts warn that a misstep in the 90-minute debate could significantly impact the election.
+
 Tue, 10 Sep 2024 06:30:10 +0530
 ### [FirstUp: The Trump-Harris presidential debate, NSA Doval travels to Russia... big headlines today](https://www.firstpost.com/explainers/firstup-the-trump-harris-presidential-debate-nsa-doval-to-travel-to-russia-for-brics-meeting-big-headlines-today-13813456.html)
 
