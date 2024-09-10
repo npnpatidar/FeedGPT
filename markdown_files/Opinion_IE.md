@@ -1,3 +1,10 @@
+Tue, 10 Sep 2024 12:32:19 +0000
+### [The problem with India’s political thought comes from Delhi — and being away from the people](https://indianexpress.com/article/opinion/columns/india-political-thought-problem-delhi-9560302/)
+
+The article argues that vibrant political thought stems from addressing the everyday concerns of ordinary people. It proposes a model of India's political structure characterized by a concentration of power at the Centre, a limited role for states, and a decline in the intellectual capacity of the citizenry.  
+
+This structure, the author contends, hinders the ability to tackle basic material problems like delayed public buses, dwindling groundwater, and the impact of pan-national business on local economies.  The author calls for decentralization, a revival of intellectual pursuits, and improved engagement between the people, institutions, and the government to foster genuine political thought and action in India.
+
 Tue, 10 Sep 2024 12:11:29 +0000
 ### [Ananya Pandey’s ‘Call Me Bae’ and Uorfi Javed’s ‘Follow Kar Lo Yaar’: Anyone can be a star](https://indianexpress.com/article/opinion/columns/ananya-pandey-call-me-bae-uorfi-javed-follow-kar-lo-yaar-9560295/)
 

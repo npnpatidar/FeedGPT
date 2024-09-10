@@ -1,3 +1,14 @@
+Tue, 10 Sep 2024 13:29:40 +0000
+### [MP Engineer Rashid gets bail: What was the NIA’s ‘terror’ case against him?](https://indianexpress.com/article/explained/explained-law/engineer-rashid-bail-terror-kashmir-9560425/)
+
+Lok Sabha MP Sheikh Abdul Rashid (Engineer Rashid) has been granted interim bail until October 2nd by a Delhi court to campaign for the Jammu and Kashmir Assembly elections. Rashid, known for defeating Omar Abdullah in the 2019 Lok Sabha election, has been imprisoned in Tihar Jail since 2019 in connection with a case of alleged terror funding. He was originally not named in the case and was arrested after the abrogation of Article 370 in Jammu and Kashmir. Rashid has been accused by the NIA of propagating separatism and collecting funds through hawala channels. 
+He denies these charges and cites his prior discharge from certain UAPA sections, pointing to the slow pace of the trial as evidence of his innocence.
+
+Tue, 10 Sep 2024 12:19:50 +0000
+### [Why foreigners can no longer adopt children from China](https://indianexpress.com/article/explained/explained-global/china-foreign-adoption-policy-change-9560296/)
+
+China has ended its international adoption policy, marking a change from a system that saw tens of thousands of Chinese children adopted by families globally, with the US being the largest recipient.  The new policy restricts adoptions to children of blood relatives. While China expresses appreciation for the intentions of international families, the move has drawn mixed reactions, with some American families left in limbo and concerns raised about the impact on vulnerable children in China. The policy shift aligns with international trends and China's increasing focus on domestic adoptions, which now account for nearly 90% of adoptions in the country.  Several factors are believed to have contributed to the change, including China's declining birth rate, a desire to avoid negative international perceptions associated with some past adoption practices, and a strengthening emphasis on national interest.
+
 Tue, 10 Sep 2024 05:46:02 +0000
 ### [5 most influential US presidential debates, from Nixon-Kennedy in 1960 to Trump-Biden in 2024](https://indianexpress.com/article/explained/explained-global/us-elections-influential-debates-kamala-trump-9559521/)
 

@@ -1,3 +1,8 @@
+Tue, 10 Sep 2024 18:37:46 +0530
+### [SpaceX's Polaris Dawn mission: Who are the astronauts embarking on history's first private spacewalk?](https://www.firstpost.com/explainers/spacex-polaris-dawn-mission-who-are-the-astronauts-embarking-on-history-first-private-spacewalk-13813817.html)
+
+The Polaris Dawn mission, led by billionaire Jared Isaacman, launched four astronauts into space on a SpaceX Crew Dragon capsule.  The five-day mission aims to push the boundaries of human space exploration by reaching the highest Earth orbit since the Apollo program, exceeding 1,400 km (870 miles).  Another key objective is the first-ever private spacewalk, where two crew members will venture outside the spacecraft, relying solely on SpaceX spacesuits. The mission also includes 40 science experiments focused on understanding the effects of space travel on the human body. Onboard are Isaacman, mission pilot Scott Poteet, SpaceX lead operations engineer Sarah Gillis, and SpaceX medical officer Anna Menon.  This mission marks a significant step in commercial space exploration, demonstrating the capabilities of private citizens and companies in pushing the frontiers of space travel.
+
 Tue, 10 Sep 2024 17:38:34 +0530
 ### [‘Underwear storm’ hits Chinese city. What's going on?](https://www.firstpost.com/explainers/underwear-storm-hits-chinese-city-chongqing-what-is-going-on-13813780.html)
 
