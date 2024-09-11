@@ -1,3 +1,14 @@
+Wed, 11 Sep 2024 03:00:10 +0000
+### [Everything about Polaris Dawn mission, which will attempt first private spacewalk](https://indianexpress.com/article/explained/explained-sci-tech/everything-about-polaris-dawn-mission-which-will-attempt-first-private-spacewalk-9561109/)
+
+A SpaceX Falcon 9 rocket successfully launched Jared Isaacman and three crewmates on the Polaris Dawn mission, aiming for the world's first private spacewalk. 
+
+This five-day mission, part of a larger program with SpaceX, focuses on testing technologies for future Mars missions.  The crew will reach an altitude of 1,400 km, venturing into the Van Allen radiation belts to study their effects on human health.   
+
+The highlight of the mission is a spacewalk scheduled for day three, where Isaacman and Gillis will test SpaceX's new EVA spacesuits. 
+
+The crew will also conduct 40 scientific experiments, including X-ray imaging using natural radiation and testing laser-based communication via the Starlink network.
+
 Wed, 11 Sep 2024 01:32:58 +0000
 ### [South China Sea: Philippines, Vietnam deepen defense ties](https://indianexpress.com/article/explained/explained-global/south-china-sea-philippines-vietnam-9560797/)
 

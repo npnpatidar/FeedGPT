@@ -1,3 +1,16 @@
+Wed, 11 Sep 2024 08:30:15 +0530
+### [Unilever’s ice-cream business hive-off: Should HUL follow its parent’s exit?](https://www.livemint.com/opinion/online-views/unilevers-ice-cream-business-hive-off-should-hul-follow-its-parent-s-exit-ben-jerrys-hul-m-a-kwality-walls-11725963438999.html)
+
+Unilever, a multinational corporation, is spinning off its ice-cream business, prompting speculation that its Indian subsidiary, Hindustan Unilever Ltd (HUL), might follow suit.  
+
+While Unilever cited business efficiency reasons, such as seasonality and complexity of the ice-cream supply chain, analysts suggest the move could be a way to maximize shareholder value by separating distinct business units.  
+
+HUL's ice-cream venture, which includes brands like Kwality Walls, has been successful in India, leveraging its extensive distribution network and Unilever's brand recognition.  
+
+Experts argue that HUL could continue the business independently, dropping the "Walls" branding and utilizing local resources to address potential research gaps. 
+
+Ultimately, HUL's decision will likely depend on a careful assessment of the Indian market and its own long-term strategic goals.
+
 Wed, 11 Sep 2024 07:00:11 +0530
 ### [Mint Quick Edit | Auto sales: The festive season will be crucial](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-auto-sales-the-festive-season-will-be-crucial-tata-motors-car-sales-festive-season-discounts-monsoon-11725963268052.html)
 
