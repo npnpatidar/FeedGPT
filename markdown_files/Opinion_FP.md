@@ -1,3 +1,12 @@
+Wed, 11 Sep 2024 19:44:09 +0530
+### [Why Kamala Harris-Donald Trump debate won’t decide presidential election](https://www.firstpost.com/opinion/why-kamala-harris-donald-trump-debate-wont-decide-presidential-election-13814252.html)
+
+The first face-off between Kamala Harris and Donald Trump lacked substance, focusing on personal attacks rather than policy discussions. Both candidates avoided specific answers on key issues like the economy and Biden's withdrawal from Afghanistan. 
+
+While Harris appeared more prepared, debates rarely decide elections, as shown by past examples.  
+
+Despite Indian-Americans already having made up their minds, both parties are actively courting them. This crucial voting bloc feels Harris's Indian heritage makes her relatable. However, Harris identifies strongly with her Black American roots, which might resonate more with the media narrative. Despite attempts to connect with Indian-Americans, the Democratic party's outreach to this demographic remains minimal according to recent surveys.
+
 Wed, 11 Sep 2024 18:27:19 +0530
 ### [Beijing’s island-grab playbook: South China Sea tactics and their implications for India](https://www.firstpost.com/opinion/beijings-island-grab-playbook-south-china-sea-tactics-and-their-implications-for-india-13814241.html)
 

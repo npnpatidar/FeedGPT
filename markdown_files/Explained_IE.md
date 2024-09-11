@@ -1,3 +1,17 @@
+Wed, 11 Sep 2024 14:46:58 +0000
+### [Why Rahul Gandhi’s meeting with US Congresswoman Ilhan Omar has triggered outrage](https://indianexpress.com/article/explained/rahul-gandhi-ilhan-omar-9562610/)
+
+The BJP criticized Rahul Gandhi for meeting with US Congresswoman Ilhan Omar, labeling her as "anti-India" and accusing her of supporting separatist movements and Pakistan. Omar's past statements and actions, including condemning the killing of a Sikh separatist and visiting Pakistan-occupied Kashmir, have drawn strong criticism from India. The BJP alleges that Omar's stance on Kashmir and her criticism of human rights violations in India indicate "anti-India" sentiments.
+
+Wed, 11 Sep 2024 14:30:22 +0000
+### [Why did Trump say immigrants were eating pet cats in the US?](https://indianexpress.com/article/explained/explained-global/trump-immigrants-pets-cats-us-9562585/)
+
+During the 2024 presidential debate, Donald Trump falsely claimed that Haitian immigrants in Springfield, Ohio, were eating people's pets. This claim, lacking credible evidence, was contradicted by the city manager.  
+
+Social media posts and videos from local residents, captured by figures like Elon Musk and JD Vance, perpetuated the narrative. These amplified the idea of Haitian immigrants posing a threat to public safety and fueled anti-immigration sentiment already present in Trump's campaign rhetoric. 
+
+This narrative aligns with Trump's and Vance's positions on immigration, advocating for stricter border control and deportation, and echoes the messaging of the Republican platform.  The campaign has attempted to link Kamala Harris, Biden's Vice President and Democratic nominee, to the issue, criticizing her handling of border security.
+
 Wed, 11 Sep 2024 14:03:43 +0000
 ### [Why Tamil Nadu opposes Centre’s New Education Policy (NEP)](https://indianexpress.com/article/explained/explained-politics/tamil-nadu-opposes-centre-new-education-policy-nep-9562529/)
 

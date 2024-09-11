@@ -1,3 +1,13 @@
+Wed, 11 Sep 2024 21:27:48 +0530
+### [How company that built the Titanic is struggling to stay afloat](https://www.firstpost.com/explainers/how-company-that-built-the-titanic-is-struggling-to-stay-afloat-13814288.html)
+
+Harland & Wolff, the historic shipbuilding firm behind the RMS Titanic, is facing financial difficulties.  The company has recently lost its finance chief, has its shares suspended, and was denied a loan from the UK government. Despite attempts to secure a new financial footing through  a recapitalization effort and revised loan terms, Harland & Wolff is expected to be sold in the future. The firm is currently undergoing a strategic review with experts from Rothschild Bank, and awaits the outcome of a potential contract with the British government for three support ships.
+
+Wed, 11 Sep 2024 20:23:41 +0530
+### [Who is  US lawmaker Ilhan Omar? Why is Rahul Gandhi under fire for meeting her?](https://www.firstpost.com/explainers/congress-rahul-gandhi-meeting-us-lawmaker-ilhan-omar-controversy-bjp-13814264.html)
+
+Rahul Gandhi's meeting with US Congresswoman Ilhan Omar during his US visit has sparked controversy in India. The BJP has accused Omar of being "anti-India" citing her past statements and actions. Omar, who represents Minnesota's 5th Congressional District, has faced criticism for her  condemnation of the killing of Hardeep Singh Nijjar, a Sikh separatist leader, and her visit to Pakistan-occupied Kashmir (PoK).  She has also been critical of the Modi government's human rights record and its policies in Kashmir. The BJP has condemned Gandhi for meeting Omar, calling it a betrayal of India.
+
 Wed, 11 Sep 2024 19:23:07 +0530
 ### [Why is Australia encouraging employees to poo at work?](https://www.firstpost.com/explainers/why-is-australia-encouraging-employees-to-poo-at-work-13814168.html)
 
