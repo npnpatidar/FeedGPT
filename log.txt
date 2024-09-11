@@ -8721,3 +8721,10 @@ Started at 2024-09-11 18:16:00
 Finished at 2024-09-11 18:16:30
 Total time taken: 30.14038348197937 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-11 20:11:40
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-11 20:12:09
+Total time taken: 28.395791053771973 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,3 +1,17 @@
+Thu, 12 Sep 2024 00:20:00 +0530
+### [​Public accounts: On the newly constituted Public Accounts Committee](https://www.thehindu.com/opinion/editorial/%E2%80%8Bpublic-accounts-on-the-newly-constituted-public-accounts-committee/article68630677.ece)
+
+The newly constituted Public Accounts Committee (PAC) under K.C. Venugopal is taking a proactive approach to its mandate, focusing on scrutinizing government expenditure and performance. The PAC has selected 161 subjects for deliberation, including five suo motu,  covering areas like banking, insurance, energy sector reforms, regulatory bodies, and public infrastructure fees.  This assertive stance comes amid a shift in parliamentary dynamics, with an opposition stronger than recent times and a coalition government relying on allies.  The PAC's actions have the potential to renew parliamentary oversight over the executive,  holding it accountable to the public, particularly in light of allegations of crony capitalism.
+
+Thu, 12 Sep 2024 00:10:00 +0530
+### [​One-man rule: On Venezuela’s disputed presidential election](https://www.thehindu.com/opinion/editorial/%E2%80%8Bone-man-rule-on-venezuelas-disputed-presidential-election/article68630696.ece)
+
+Venezuela's July 28 presidential election was highly contested, with the opposition claiming victory despite the official results declaring President Nicolás Maduro the winner. The opposition's candidate, Edmundo González, fled to Spain after facing charges of inciting protests.
+
+The election process itself was marred by irregularities, and the Maduro government rejected calls to release full election results. Citing alleged foreign interference and threats, Maduro has increased his crackdown on dissent, resulting in numerous deaths and arrests. 
+
+The international community has criticized the election and called for transparency, with even left-leaning governments condemning the violence and demanding a fair and democratic electoral process. Venezuela faces economic crisis, displacement, and growing international isolation.
+
 Wed, 11 Sep 2024 00:20:00 +0530
 ### [​Soothing salvo: On new Group of Ministers and tax changes for insurance policies](https://www.thehindu.com/opinion/editorial/%E2%80%8Bsoothing-salvo-on-new-group-of-ministers-and-tax-changes-for-insurance-policies/article68626563.ece)
 
