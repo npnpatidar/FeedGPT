@@ -1,3 +1,29 @@
+Wed, 11 Sep 2024 14:59:34 +0530
+### [Kamala Harris-Donald Trump debate: Who won and does it impact election outcome?](https://www.firstpost.com/world/united-states/kamala-harris-donald-trump-debate-who-won-and-does-it-impact-election-outcome-13814127.html)
+
+The Vice Presidential debate saw Harris repeatedly challenge Trump on issues like the 2020 election, January 6th, and his handling of COVID-19. Trump largely responded to these challenges, often appearing unprepared and defensive. A consensus among analysts and commentators suggests that Harris won the debate, citing her strong performance and Trump's struggling response. Despite this, experts remain divided on the overall impact of debates on elections, some arguing they lack significant influence.  
+
+
+
+The Harris campaign expressed its confidence in her performance, calling for a second debate while Trump remained non-committal.
+
+Wed, 11 Sep 2024 14:45:50 +0530
+### [‘Haitian immigrants eating pets': Who is Ohio woman, who killed cat and led to conspiracy theories?](https://www.firstpost.com/world/united-states/who-is-ohio-woman-haitian-immigrants-eating-pets-13814048.html)
+
+During a meeting, Donald Trump made accusations against Vice President Kamala Harris regarding Haitian immigrants allegedly eating pets in Ohio. These claims stemmed from a case involving a local woman, Allexis Telia Ferrell, who was charged with animal cruelty for killing and consuming a cat. 
+
+Despite Trump and other right-wing figures spreading the narrative, there is no evidence linking Ferrell to Haiti or any widespread incidents of Haitian immigrants harming animals for consumption. Local authorities and officials have denied these claims, emphasizing the lack of credible reports and the spread of misinformation on social media. 
+
+
+The incident highlights the use of fear-mongering and unsubstantiated allegations for political gain, exploiting societal anxieties and prejudices.
+
+Wed, 11 Sep 2024 14:44:12 +0530
+### [IAF officer accuses senior of rape: How prevalent is sexual harassment India’s armed forces?](https://www.firstpost.com/explainers/iaf-woman-officer-wing-commander-rape-india-armed-forces-sexual-harassment-prevalence-13814104.html)
+
+A woman flying officer in the Indian Air Force has accused a Wing Commander of rape. She alleges the assault took place at an air force station in Srinagar following a New Year's Eve party in December 2023. 
+
+The officer claims she was forced to perform a sexual act on the Wing Commander after being lured to a room under the pretext of receiving a gift. She reported the incident initially to internal authorities, but alleges they did not take her complaint seriously. After months of inaction and what she described as "continuous mental harassment and social boycott," she filed an FIR with the Jammu and Kashmir Police. The IAF has stated it is cooperating with the authorities. This case highlights a concerning trend of sexual harassment within India's armed forces, with several similar incidents reported in recent years.
+
 Wed, 11 Sep 2024 13:28:46 +0530
 ### [Why do 9/11 conspiracy theories still persist after 23 years?](https://www.firstpost.com/explainers/why-do-9-11-conspiracy-theories-still-persist-after-23-years-13814053.html)
 

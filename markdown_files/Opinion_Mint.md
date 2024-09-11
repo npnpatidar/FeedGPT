@@ -1,3 +1,19 @@
+Wed, 11 Sep 2024 15:00:06 +0530
+### [The EV charging business needs to figure out a viable model](https://www.livemint.com/opinion/online-views/the-ev-charging-business-needs-to-figure-out-a-viable-model-electric-vehicle-battery-charging-infrastructure-fossil-fuel-11725967069195.html)
+
+The transition to electric vehicles (EVs) is facing challenges due to inadequate charging infrastructure.  The high cost and complexity of setting up fast-charging stations, coupled with competition from cheaper home and workplace charging options, make it difficult for charging network operators to be profitable.  
+
+Despite government incentives, the rollout of fast-charging stations is lagging behind targets. Several companies operating charging networks have resorted to job cuts and are exploring different business models to remain viable.
+
+One potential solution lies in integrating fast-charging stations with other revenue streams, such as convenience stores or grocery stores, as seen with retailers like Carrefour and Walmart. This approach, similar to how gas stations supplement fuel sales with convenience items, could make fast-charging stations more financially viable and accelerate the adoption of EVs.
+
+Wed, 11 Sep 2024 14:00:05 +0530
+### [IPO investing: The challenge is to be a bigger genius than Isaac Newton](https://www.livemint.com/opinion/columns/ipo-investing-the-challenge-is-to-be-a-bigger-genius-than-isaac-newton-fundraise-capital-market-sme-market-frenzy-11725966503469.html)
+
+The article discusses the current boom in IPOs in India, highlighting the significant increase in funds raised through this method. It points out that a high proportion of allotted IPO shares are quickly sold, suggesting a 'greater fool' theory at play where investors buy hoping to resell at a higher price. 
+
+The article draws parallels with historical financial bubbles, citing examples like the South Sea Bubble and the recent crypto frenzy. It emphasizes the warning of bubbles recurring throughout history and the inevitability of a bust. The author uses Isaac Newton's experience with the South Sea Bubble to illustrate how even brilliant individuals succumb to the allure of quick profits in a bubble, ultimately losing substantial sums. The article concludes by cautioning readers against current speculative trends, advising them to only participate if they possess exceptional knowledge and insight surpassing even that of Isaac Newton.
+
 Wed, 11 Sep 2024 12:30:03 +0530
 ### [China’s export thrust is pushing tariffs up across Asia](https://www.livemint.com/opinion/columns/chinas-export-thrust-is-pushing-tariffs-up-across-asia-international-trade-india-trade-war-rcep-imf-globalization-11725965393079.html)
 
