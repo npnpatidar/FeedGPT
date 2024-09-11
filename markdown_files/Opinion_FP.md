@@ -1,3 +1,8 @@
+Wed, 11 Sep 2024 23:14:18 +0530
+### [James Earl Jones is no more, but his voice will live on forever](https://www.firstpost.com/opinion/james-earl-jones-is-no-more-but-his-voice-will-live-on-forever-13814265.html)
+
+James Earl Jones, a renowned American actor, passed away at 93. Known for his distinctive booming voice, he brilliantly brought iconic characters to life, including Darth Vader in "Star Wars" and Mufasa in "The Lion King." His performances, characterized by both grandeur and vulnerability, left an enduring mark on entertainment history. Jones possessed a remarkable versatility, excelling in both classical and modern roles on stage and screen. He received numerous prestigious awards, including two Primetime Emmy Awards, two Tony Awards, a Grammy Award, and an Honorary Academy Award. Beyond his acting, his voice graced countless documentaries, commercials, and public service announcements, solidifying his status as a cultural icon.  His legacy extends beyond his unforgettable performances, encompassing his perseverance, trailblazing spirit for African American actors, and profound impact on the world of entertainment.
+
 Wed, 11 Sep 2024 19:44:09 +0530
 ### [Why Kamala Harris-Donald Trump debate won’t decide presidential election](https://www.firstpost.com/opinion/why-kamala-harris-donald-trump-debate-wont-decide-presidential-election-13814252.html)
 

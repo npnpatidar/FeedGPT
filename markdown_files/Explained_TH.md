@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 22:20:58 +0530
+### [Tackling right-wing resurgence in Germany](https://www.thehindu.com/news/international/tackling-right-wing-resurgence-in-germany/article68631521.ece)
+
+The recent regional elections in Germany have seen significant gains by both the far-right Alternative for Germany (AfD) and the far-left Sahra Wagenknecht Alliance (BSW).  The AfD’s victory in Thuringia marks a first for a radical right-wing party in the post-war era, coming close to forming a government. The party's success is attributed to several factors, including internal divisions within the ruling coalition, xenophobia, and opposition to German arms supplies to Ukraine. 
+
+The BSW, a new alliance, has also made significant inroads, overtaking all parties in the ruling coalition.  Tensions are high as the AfD’s victory in Thuringia raises questions about potential alliances with mainstream parties.  Discussions for a government coalition in Thuringia between the CDU and BSW are underway, despite ideological differences and concerns about Wagenknecht’s conditions for support, including the cancellation of plans to station medium-range missiles in Germany and a diplomatic resolution to the conflict in Ukraine.
+
 Tue, 10 Sep 2024 22:59:02 +0530
 ### [On ANI’s defamation suit against Wikipedia | Explained](https://www.thehindu.com/sci-tech/technology/ani-defamation-suit-against-wikipedia/article68627535.ece)
 

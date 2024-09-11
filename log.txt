@@ -8713,3 +8713,11 @@ Started at 2024-09-11 16:14:37
 Finished at 2024-09-11 16:15:07
 Total time taken: 29.24758529663086 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-11 18:16:00
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 Feed entries have been written to feeds/Opinion_FP.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-11 18:16:30
+Total time taken: 30.14038348197937 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
