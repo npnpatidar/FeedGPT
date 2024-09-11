@@ -1,3 +1,12 @@
+Wed, 11 Sep 2024 00:30:00 +0530
+### [Two-tier system for Tests is an old idea whose time has come](https://www.thehindu.com/opinion/columns/two-tier-system-for-tests-is-an-old-idea-whose-time-has-come/article68626336.ece)
+
+The International Cricket Council has long considered a two-tier system for Test cricket to address  concerns about competitiveness and resource disparities amongst teams.  
+
+While a promotion-relegation system was initially debated, a proposal involving two divisions based on rankings has gained traction. This system aims to increase competition within nations with similar resources,  improve global touring schedules, and potentially separate major series like the Ashes from the World Test Championship cycle.  
+
+Financial support for less affluent nations through a central fund,  aimed at preserving Test cricket, is also expected to be implemented soon. Although television rights distribution reform remains unresolved, the two-tier system, modeled after American sports,  holds promise for a more balanced and engaging future for Test cricket.
+
 Sat, 07 Sep 2024 00:32:00 +0530
 ### [Corrections and Clarifications — September 7, 2024](https://www.thehindu.com/opinion/columns/corrections-and-clarifications-september-7-2024/article68614790.ece)
 

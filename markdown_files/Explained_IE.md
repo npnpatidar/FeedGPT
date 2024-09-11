@@ -1,3 +1,23 @@
+Wed, 11 Sep 2024 05:31:42 +0000
+### [Expert Explains: Five takeaways from the Harris-Trump Presidential Debate](https://indianexpress.com/article/explained/explained-global/five-takeaways-us-kamala-harris-v-donald-trump-debate-9561459/)
+
+The first presidential debate between Kamala Harris and Donald Trump saw Harris emerge as the victor, utilizing her prosecutorial skills to effectively challenge Trump on his past and policies. 
+
+Harris confidently engaged Trump, using her wit and attacks on his record, contrasting herself with both Trump and Biden.  Debating key issues like the economy, immigration, and foreign policy, she highlighted Trump's divisive rhetoric and lack of clear solutions.  
+
+Trump, on the other hand, predominantly focused on attacking Biden's administration, resorting to name-calling and deflecting from his own record. 
+
+The debate, marked by live fact-checking and a willingness to allow candid exchanges between the candidates, highlighted the stark differences in their approaches to leadership.
+
+Wed, 11 Sep 2024 05:01:14 +0000
+### [Teen girls’ brains aged rapidly during pandemic, study finds](https://indianexpress.com/article/explained/explained-sci-tech/teen-girls-brains-aged-rapidly-during-pandemic-study-finds-9561142/)
+
+A study revealed that girls' brains aged faster than expected during the COVID-19 lockdowns. 
+
+Researchers at the University of Washington observed accelerated cortical thinning in both boys and girls, but the effect was significantly more pronounced in girls. This accelerated thinning, on average, was equivalent to 4.2 years of accelerated development for girls, compared to 1.4 years for boys.
+
+The researchers attributed this difference to social isolation, which they believe disproportionately affected girls due to their reliance on social interaction for stress management. While accelerated cortical thinning can be linked to depression and anxiety, experts caution against assuming it necessarily signifies damage, as thinning is a natural part of brain maturation.
+
 Wed, 11 Sep 2024 03:00:10 +0000
 ### [Everything about Polaris Dawn mission, which will attempt first private spacewalk](https://indianexpress.com/article/explained/explained-sci-tech/everything-about-polaris-dawn-mission-which-will-attempt-first-private-spacewalk-9561109/)
 

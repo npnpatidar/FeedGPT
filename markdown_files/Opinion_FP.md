@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 09:56:32 +0530
+### [Tagore a pariah? Bangladesh’s rapid descent proves Hasina was the only secular bulwark against Islamist radicalism](https://www.firstpost.com/opinion/tagore-a-pariah-bangladeshs-rapid-descent-proves-hasina-was-the-only-secular-bulwark-against-islamist-radicalism-13813963.html)
+
+Following the removal of the former Prime Minister Sheikh Hasina, Bangladesh is experiencing a shift towards a more Islamist polity. During her tenure, Hasina, despite accusations of authoritarianism, oversaw significant economic growth and maintained a secular stance, balancing religious and secular concerns.  The US, advocating for democratic values and having pushed for Hasina's removal, now faces challenges as Islamist radicals assert influence.
+
+Incidents of violence against Hindus and calls to alter Bangladesh's national anthem, penned by Nobel laureate Rabindranath Tagore, highlight the growing religious extremism. The US, despite initial expressions of support for the interim government, may need to re-evaluate its approach as secularism in Bangladesh seems to be losing ground.
+
 Tue, 10 Sep 2024 16:54:43 +0530
 ### [Why India’s strategic partnership with the US-led West fails to click](https://www.firstpost.com/opinion/why-indias-strategic-partnership-with-the-us-led-west-fails-to-click-13813814.html)
 

@@ -1,3 +1,12 @@
+Wed, 11 Sep 2024 10:30:19 +0530
+### [India’s renewable energy target may prove elusive without course correction](https://www.livemint.com/opinion/online-views/indias-renewable-energy-target-may-prove-elusive-without-course-correction-green-energy-clean-energy-solar-energy-power-11725964576445.html)
+
+India's energy future heavily relies on solar power. Projections show solar-based capacity reaching 1,000 GW by 2047, a significant leap from the current 85 GW.  
+
+While India's renewable energy (RE) capacity is growing rapidly, challenges remain in integrating RE into the grid. Power purchase agreements (PPAs) between RE producers and distribution companies (discoms) are not executed at rates that align with market prices, leading to an "unsold inventory" of RE.   Discoms face difficulties forecasting demand, adjusting coal-based power plants, and reflecting the costs of RE obligations in consumer tariffs.  
+
+A new approach is needed to incentivize RE integration. It should involve equitable risk-sharing between producers and discoms, exploring market-based dispatch systems, and encouraging discoms to choose cost-effective RE options.  Long-term PPAs with reduced duration (15 years), coupled with short-term market-based deals, will play a crucial role. These measures can ensure a smooth transition to a cleaner energy future while keeping consumer tariffs in check.
+
 Wed, 11 Sep 2024 08:30:15 +0530
 ### [Unilever’s ice-cream business hive-off: Should HUL follow its parent’s exit?](https://www.livemint.com/opinion/online-views/unilevers-ice-cream-business-hive-off-should-hul-follow-its-parent-s-exit-ben-jerrys-hul-m-a-kwality-walls-11725963438999.html)
 

@@ -1,3 +1,31 @@
+Wed, 11 Sep 2024 11:47:02 +0530
+### [Why have Kolkata doctors defied Supreme Court deadline to return to work? What next in protest?](https://www.firstpost.com/explainers/why-kolkata-doctors-defied-supreme-court-deadline-to-return-to-work-13813979.html)
+
+Junior doctors in West Bengal continue to protest, demanding justice for a postgraduate trainee doctor who was raped and murdered at RG Kar Hospital. 
+
+The strike, which has entered its 32nd day, has led to disruptions in medical services across the state.  Protesters are demanding the resignation of several officials, including the state health secretary, city police chief, and directors of medical education and health services. They also want improved security measures and infrastructure in hospitals.  
+
+Despite a Supreme Court deadline for doctors to return to work, the West Bengal administration's efforts to mediate have been rejected by the protesting doctors.  The court has warned of disciplinary action and has ordered the CBI to submit a new report on the case by September 17.
+
+Wed, 11 Sep 2024 10:27:43 +0530
+### [Fact-checking Trump and Harris: What lies, conspiracies surfaced during the US presidential debate?](https://www.firstpost.com/world/united-states/fact-checking-trump-and-harris-what-lies-conspiracies-surfaced-during-the-us-presidential-debate-13813976.html)
+
+The debate between former President Donald Trump and Vice President Kamala Harris covered key issues like the economy, immigration, and crime.  Trump presented an exaggerated view of his economic achievements and misrepresented inflation rates under Biden. He also made unsubstantiated claims about migrant crime and non-citizens voting.  Harris, while fact-checked on some job creation figures and Trump's tax plan, countered Trump's claims and emphasized his controversial policy proposal, Project 2025.  The candidates differed on issues such as abortion, fracking, and tariffs, each presenting their own perspectives on these critical topics.
+
+Wed, 11 Sep 2024 10:10:16 +0530
+### [Abortion, economy, cats and...: What Donald Trump, Kamala Harris argued about in US presidential debate](https://www.firstpost.com/world/united-states/abortion-economy-cats-donald-trump-kamala-harris-us-presidential-debate-13813970.html)
+
+The debate between Donald Trump and Kamala Harris focused on key issues like the economy, abortion, and immigration. Harris, seeking to present herself as a forward-thinking candidate, contrasted her proposals with Trump's policies.  
+
+The candidates sparred over economic performance, with Trump blaming Biden administration policies for inflation and Harris highlighting the struggles of the middle class. Both sides engaged in heated exchanges on abortion, with Harris defending abortion rights and Trump reiterating his stance on leaving the issue to states. 
+
+Immigration was another contentious topic, with Trump making false claims about immigrants and Harris accusing him of exploiting divisive rhetoric.  Harris attempted to paint Trump as out of touch and highlight his past controversies. Despite Trump's attempts to shift the focus to rallies and personal attacks, Harris largely stuck to her policy positions and efforts to contrast herself with the former president.
+
+Wed, 11 Sep 2024 09:58:56 +0530
+### [What Pope Francis’ visit means for Singapore, one of world’s richest nations](https://www.firstpost.com/explainers/what-pope-francis-visit-means-for-singapore-one-of-worlds-richest-nations-13813674.html)
+
+Pope Francis' upcoming visit to Singapore is his final stop on a tour that has already taken him to Indonesia, Papua New Guinea, and East Timor. The last papal visit was in 1986. Pope Francis' message of unity and hope is expected to resonate in Singapore, a nation with a diverse religious landscape, including significant Buddhist, Muslim, and Christian populations. He will meet with government officials, engage in interreligious dialogue, and celebrate a public mass at the National Stadium. The Pope's visit is seen as an opportunity to strengthen ties between the Catholic Church and Singapore society, building on the Church's long history of contribution to the nation's development in fields like education and healthcare.
+
 Wed, 11 Sep 2024 06:30:23 +0530
 ### [FirstUp: Pope Francis in Singapore, Harris, Biden to visit 9/11 memorial... The big news today](https://www.firstpost.com/explainers/firstup-pope-francis-in-singapore-harris-biden-9-11-memorial-big-news-today-13813819.html)
 
