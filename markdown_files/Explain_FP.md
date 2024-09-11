@@ -1,3 +1,37 @@
+Wed, 11 Sep 2024 13:28:46 +0530
+### [Why do 9/11 conspiracy theories still persist after 23 years?](https://www.firstpost.com/explainers/why-do-9-11-conspiracy-theories-still-persist-after-23-years-13814053.html)
+
+Nineteen terrorists hijacked four planes on September 11, 2001, resulting in the attacks on the World Trade Center, the Pentagon, and a field in Pennsylvania. Despite overwhelming evidence and official reports, conspiracy theories surrounding the events persist. 
+
+These theories, often fueled by distrust in government and online communities, suggest various claims, including pre-knowledge of the attacks, government complicity, and the use of explosives to bring down the World Trade Center towers. 
+
+Conspiracy theories gained traction initially through anti-Bush sentiment and distrust of government institutions. They spread rapidly online, providing platforms for believers to share ideas and organize.  
+
+Official investigations, like the one conducted by the National Institute of Standards and Technology (NIST), concluded that the collapse of the World Trade Center towers and Building 7 was caused by fires ignited by the plane impacts and subsequent debris. However, conspiracy theorists continue to deny these findings and cite alternative explanations.
+
+ The persistence of these theories, even after 23 years, is concerning and highlights a broader trend of scepticism towards government institutions. 
+
+
+Experts suggest that conspiracy theories, in general, offer simple explanations for complex events, providing a sense of order in a chaotic world, and tap into deep-seated disillusionment and distrust.
+
+Wed, 11 Sep 2024 13:26:35 +0530
+### [Why did Taylor Swift sign off as ‘childless cat lady’ as she endorsed Kamala Harris for US president?](https://www.firstpost.com/world/united-states/taylor-swift-kamala-harris-us-elections-childless-cat-lady-jd-vance-donald-trump-13814073.html)
+
+Jd Vance,  Republican vice presidential candidate,  faced criticism for a 2021 comment where he referred to a segment of the Democratic party as "childless cat ladies,"  a phrase he claimed was sarcastic. Vance aimed his comment at those without children, particularly those he believed were running the Democratic party.
+
+His remarks, revived by Jennifer Aniston's criticism, drew attention to Vance's stance on family issues, particularly reproductive health, which some saw as contradicting his "anti-family" characterization of Democrats. Vance, defending his comments, stated they were directed at the Democrats' policies, not individuals, while his wife argued he was expressing the difficulties of parenting in America. 
+
+Critics argue Vance's comments are insensitive, especially considering the rising number of women choosing to remain childless and the demographic significance of women voters.
+
+Wed, 11 Sep 2024 12:56:33 +0530
+### [Is the IMF ‘sabotaging’ Pakistan? Is the lender rethinking $7-billion loan deal with bankrupt nation?](https://www.firstpost.com/explainers/imf-pakistan-loan-deal-ishaq-dar-13814066.html)
+
+Pakistan and the IMF reached a staff-level agreement in July for a $7 billion loan to help alleviate the country's economic crisis. However, the deal is facing delays in official approval by IMF's Executive Board, originally expected in August, then September 9, and now potentially September 18. 
+
+This delay has caused concern in Pakistan, with officials accusing the IMF of deliberately holding back funds. Possible reasons for the delay include Pakistan's inability to secure debt rollovers from creditors like China and its decision to provide electricity subsidies amidst a heatwave, contradicting IMF requirements. 
+
+Without the loan, Pakistan faces a significant debt repayment obligation and a struggling economy with low growth and currency devaluation. While some officials express optimism about the deal ultimately passing, the delay continues to cause economic uncertainty.
+
 Wed, 11 Sep 2024 11:47:02 +0530
 ### [Why have Kolkata doctors defied Supreme Court deadline to return to work? What next in protest?](https://www.firstpost.com/explainers/why-kolkata-doctors-defied-supreme-court-deadline-to-return-to-work-13813979.html)
 

@@ -1,3 +1,17 @@
+Wed, 11 Sep 2024 08:01:13 +0000
+### [I was a top-ranked table tennis player in India. Then I quit. Here’s why](https://indianexpress.com/article/opinion/columns/i-was-a-top-ranked-table-tennis-player-in-india-then-i-quit-heres-why-9561808/)
+
+A former Indian table tennis player, reflecting on an article about an Olympian choosing academics over sport, shares his own experience. He was dropped from the national team in 1987 despite his achievements, leading him to switch careers. He believes the article's argument holds true for many athletes in India who face limited opportunities and support.  He highlights the contrast between the US's strong university sports system and the shortcomings of Indian sports federations, often run as personal fiefdoms.  He expresses hope for the Khelo India system, urging it to provide support for athletes who don't reach the top level.
+
+Wed, 11 Sep 2024 06:17:21 +0000
+### [US Presidential debate: Why Donald Trump had no chance before a Kamala Harris who had done her homework](https://indianexpress.com/article/opinion/columns/us-presidential-debate-donald-trump-kamala-harris-winner-9561597/)
+
+Kamala Harris's campaign strategy centers around contrasting herself with both Joe Biden and Donald Trump. During the debate, she positioned herself as a more composed and informed alternative to Trump, highlighting his outbursts and lack of policy specifics. 
+
+While Harris successfully distanced herself from Biden's legacy, she struggled to articulate clear policy stances on several key issues like fracking, the Israel-Gaza conflict, and climate change.  Her answers on these topics were often vague or directed attacks at Trump. 
+
+Ultimately, Harris's campaign may hinge on her image as a more stable and knowledgeable leader compared to Trump's chaotic and controversial persona. The narrative of a mixed-race daughter of immigrants defeating a wealthy, white billionaire may resonate with voters and propel her to victory.
+
 Wed, 11 Sep 2024 01:25:35 +0000
 ### [India’s Digital Public Infrastructure: How to ensure healthy competition](https://indianexpress.com/article/opinion/columns/indias-digital-public-infrastructure-how-to-ensure-healthy-competition-9561138/)
 

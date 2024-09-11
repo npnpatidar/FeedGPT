@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 12:30:03 +0530
+### [China’s export thrust is pushing tariffs up across Asia](https://www.livemint.com/opinion/columns/chinas-export-thrust-is-pushing-tariffs-up-across-asia-international-trade-india-trade-war-rcep-imf-globalization-11725965393079.html)
+
+Growing concerns over the surge of cheap Chinese imports are spreading across Southeast Asia.  Countries like Indonesia, Thailand, and Malaysia are facing challenges from a range of industries, from textiles to electronics and automobiles. The flood of goods, sometimes at prices below half those of local competitors, is putting pressure on domestic manufacturers and driving job losses. 
+
+Faced with this,  Southeast Asian governments are responding with measures like raising tariffs and investigating unfair pricing practices. Experts point to two main factors behind this wave of Chinese exports: a persistent reliance on industrial growth and exports, despite calls for greater domestic consumption, and a property bubble burst that has spurred Beijing to ramp up manufacturing capacity.  Despite subsidies reaching record levels, concerns are mounting that China is entering a period of intensified deflation, which could further lead to export-driven pressures in the region.
+
 Wed, 11 Sep 2024 10:30:19 +0530
 ### [India’s renewable energy target may prove elusive without course correction](https://www.livemint.com/opinion/online-views/indias-renewable-energy-target-may-prove-elusive-without-course-correction-green-energy-clean-energy-solar-energy-power-11725964576445.html)
 
