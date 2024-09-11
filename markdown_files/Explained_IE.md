@@ -1,3 +1,24 @@
+Wed, 11 Sep 2024 12:08:56 +0000
+### [23 years since 9/11 attacks: How Osama bin Laden became the world’s most dreaded terrorist](https://indianexpress.com/article/explained/explained-global/9-11-osama-bin-laden-9562266/)
+
+Osama bin Laden evolved from an ally of the U.S. in the fight against the Soviet Union in Afghanistan to its most wanted enemy. Initially supported by the U.S. and Saudi Arabia in his efforts against Soviet forces, bin Laden grew increasingly disillusioned with the U.S. presence in Saudi Arabia after the Gulf War. He criticized the Saudi Royal Family and the American military, relocated to Sudan, and continued to oppose American influence in the Middle East. 
+
+Bin Laden intensified his attacks on the U.S., orchestrating bombings of U.S. embassies in Africa and taking responsibility for the deaths of American servicemen in Somalia. His association with the Taliban in Afghanistan,  the 9/11 attacks on the World Trade Center, and further global attacks solidified his status as a global terrorist threat, leading to a prolonged war against him by the U.S.
+
+Wed, 11 Sep 2024 11:17:04 +0000
+### [What was the impact of 9/11 on flying?](https://indianexpress.com/article/explained/9-11-flying-9562113/)
+
+The September 11 attacks dramatically changed the landscape of air travel.  Pre-9/11 air travel was relatively relaxed, but after the attacks, security measures were drastically increased. Baggage screening became mandatory, with 100% of bags in the US subsequently being inspected.  Passenger identification check processes were strengthened, moving beyond government-issued IDs to include fingerprint and biometric scanners, eventually incorporating facial recognition. Full-body scanners were later introduced, and passenger pat-downs became standardized.
+
+The Transportation Security Administration (TSA) was created to oversee airport security, replacing the previous practice of outsourcing to private firms. The cockpit access policy changed, with standardized bullet-proof doors and protocols limiting entry to enhance security.  The increase in security measures had a significant impact on the aviation industry, leading to financial losses for airlines and a period of adjustment for passengers.
+
+Wed, 11 Sep 2024 10:19:38 +0000
+### [How India and the world changed in the years after 9/11](https://indianexpress.com/article/explained/explained-global/india-world-9-11-9562051/)
+
+Following the 9/11 attacks, India positioned itself as a strong ally against terrorism,  a stance that deepened its relationship with the United States. The Indo-US relationship saw significant growth, culminating in the nuclear deal, despite challenges posed by the 26/11 Mumbai attacks and subsequent distrust towards Pakistan. India's concerns regarding Pakistan-sponsored terrorism gained global attention after 9/11, leading to increased US pressure on Islamabad. 
+
+The US's war on terror in Afghanistan further complicated the situation, making Pakistan a key player in peace negotiations, a development that worried India. Amidst this evolving landscape, China's rise has presented a new geopolitical challenge for India,  especially as Beijing expands its influence in the region, further straining ties.
+
 Wed, 11 Sep 2024 05:31:42 +0000
 ### [Expert Explains: Five takeaways from the Harris-Trump Presidential Debate](https://indianexpress.com/article/explained/explained-global/five-takeaways-us-kamala-harris-v-donald-trump-debate-9561459/)
 

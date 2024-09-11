@@ -1,3 +1,14 @@
+Wed, 11 Sep 2024 16:20:21 +0530
+### [Abu Dhabi Crown Prince’s Delhi visit: India-UAE ties scaling new heights](https://www.firstpost.com/opinion/abu-dhabi-crown-princes-delhi-visit-india-uae-ties-scaling-new-heights-13814175.html)
+
+The recent visit of the Crown Prince of Abu Dhabi to India signifies the strengthened partnership between the two nations amidst global geopolitical complexities. 
+
+Bilateral discussions focused on various key areas, including the Comprehensive Economic Partnership Agreement (CEPA) and Bilateral Investment Treaty (BIT), which aim to bolster economic and commercial collaborations. The CEPA has demonstrably increased bilateral trade, while the BIT fosters investor confidence and encourages Foreign Direct Investment. 
+
+Recognizing the importance of energy security, India and the UAE signed agreements covering LNG supply, crude storage, and production concessions.  The partnership also addresses food security concerns through a proposed India-UAE/India-Middle East food corridor.
+
+Discussions encompassed a wide range of issues, including AI and technology collaborations, connectivity, climate change, counter-terrorism, and regional stability.  India, a prominent leader in the Global South, sees this partnership as vital in navigating the challenges of a volatile world and promoting peace and prosperity.
+
 Wed, 11 Sep 2024 09:56:32 +0530
 ### [Tagore a pariah? Bangladesh’s rapid descent proves Hasina was the only secular bulwark against Islamist radicalism](https://www.firstpost.com/opinion/tagore-a-pariah-bangladeshs-rapid-descent-proves-hasina-was-the-only-secular-bulwark-against-islamist-radicalism-13813963.html)
 

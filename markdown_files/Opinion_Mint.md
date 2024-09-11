@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 16:00:07 +0530
+### [PM SVANidhi: An idea that lays down a model for marginal vendors to go formal](https://www.livemint.com/opinion/online-views/pm-svanidhi-an-idea-that-lays-down-a-model-for-marginal-vendors-to-go-formal-street-hawkers-informal-economy-smes-loans-11725967635126.html)
+
+India's street vendors, vital to the economy, face challenges but recent policies aim to integrate them into the formal sector.  The PM SVANidhi scheme provides collateral-free loans, empowering over 6.5 million vendors since its launch in 2020. Despite this progress, challenges remain. 
+
+Awareness of the scheme needs to be improved and identifying eligible street vendors requires collaborative efforts from various government bodies. Balancing the vendors' right to work with the needs of citizens to access public spaces is a complex issue that demands innovative solutions.  Effective regulation is crucial, ensuring vendors operate legally while protecting their livelihoods.  The success of PM SVANidhi shows the potential of fintech and other innovative approaches to support this crucial segment of the economy.
+
 Wed, 11 Sep 2024 15:00:06 +0530
 ### [The EV charging business needs to figure out a viable model](https://www.livemint.com/opinion/online-views/the-ev-charging-business-needs-to-figure-out-a-viable-model-electric-vehicle-battery-charging-infrastructure-fossil-fuel-11725967069195.html)
 

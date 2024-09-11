@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 11:20:55 +0000
+### [Why women of my generation both admire and envy the young Vinesh Phogat](https://indianexpress.com/article/opinion/columns/why-women-my-generation-admire-envy-young-vinesh-phogat-9562159/)
+
+This article reflects on the changing landscape of female empowerment in India, using Vinesh Phogat's entry into politics as a case study.  The author, drawing parallels to the transformative experiences of women in politics and sports, applauds Phogat's courage and the societal shift towards accepting women's strength. It recounts the initial challenges Vinesh Phogat faced due to a history of sexual assault allegations against the former WFI chief Brij Bhushan Sharan Singh.  
+
+The article contrasts Phogat's grit and unwavering support with Singh's frustrated attempts to discredit her, highlighting the growing acceptance of women's physical prowess and political ambition. While acknowledging the journey towards fully embracing women's strength across all segments of society is ongoing, the author views Phogat's political debut as a significant turning point in India's democratic history.
+
 Wed, 11 Sep 2024 08:01:13 +0000
 ### [I was a top-ranked table tennis player in India. Then I quit. Here’s why](https://indianexpress.com/article/opinion/columns/i-was-a-top-ranked-table-tennis-player-in-india-then-i-quit-heres-why-9561808/)
 

@@ -1,3 +1,30 @@
+Wed, 11 Sep 2024 17:45:17 +0530
+### [Why Europeans will have to pay to travel to the UK from next year](https://www.firstpost.com/explainers/europeans-visiting-the-uk-eta-fees-travel-permit-13814191.html)
+
+The UK is implementing an electronic travel authorisation (ETA) system for visitors from most countries, including those in the EU.  Starting next year, travellers will need to apply online and pay a £10 fee for permission to enter the UK. Irish citizens are exempt. The system aims to enhance border security and prevent immigration abuse. This change comes after Brexit, ending the free movement rights of EU citizens for travel to the UK.  The UK government argues the ETA will provide a better understanding of those travelling to the UK and enable more robust security checks.  The EU is also introducing a similar permit system called ETIAS for non-EU travellers visiting the Schengen Area.
+
+Wed, 11 Sep 2024 17:18:20 +0530
+### [Dhaka dampener ahead of Durga Puja: Are anti-India feelings behind Bangladesh’s hilsa export ban?](https://www.firstpost.com/explainers/bangalesh-hilsa-ban-impact-india-durga-puja-kolkata-13814155.html)
+
+Bangladesh has banned the export of hilsa fish to India ahead of Durga Puja, citing a need to make the fish affordable for its own citizens. This move is likely to cause a shortage and price increase of the popular seafood in West Bengal, where it is a staple during the festival. 
+
+While the Bangladeshi government claims the ban is purely economic, some speculate it reflects a growing anti-Indian sentiment following the ouster of former Prime Minister Sheikh Hasina, who had previously used hilsa exports as a symbol of diplomatic goodwill. The ban marks the end of a tradition known as "hilsa diplomacy," which saw Bangladesh sending hilsa fish as gifts to Indian leaders during celebrations and significant events.
+
+Wed, 11 Sep 2024 17:02:11 +0530
+### [Did COVID accelerate brain ageing among teens?](https://www.firstpost.com/health/covid-brain-ageing-teens-13814120.html)
+
+A new study reveals that COVID-19 lockdowns accelerated brain aging in adolescents, with girls' brains appearing 4.2 years older on average than expected compared to 1.4 years for boys. Researchers analyzed MRI scans from 160 teens in 2018 and 2021, finding accelerated cortical thinning in girls across multiple brain regions associated with social cognition, language, and emotion processing.  The study suggests that girls' higher reliance on social connection for emotional support may have made them more vulnerable to the pandemic's social isolation effects.  Further research is needed to understand the long-term cognitive implications of this accelerated brain aging, but experts emphasize the importance of supporting adolescents' mental health in the wake of the pandemic.
+
+Wed, 11 Sep 2024 16:31:13 +0530
+### [How deadly are Fath-360, the missiles Iran reportedly sent to Russia?](https://www.firstpost.com/explainers/how-deadly-are-fath-360-the-missiles-iran-reportedly-sent-to-russia-13814148.html)
+
+The US has confirmed that Russia has received Iranian-made Fath-360 ballistic missiles, which are assessed to be a significant threat to Ukraine. The missiles, known for their precision and rapid deployment capabilities, have a range of 120-300 kilometers and can strike both military and civilian targets. This development has been condemned internationally, with the US imposing sanctions on individuals and entities involved in the transfer.  Iran denies supplying the missiles, claiming the reports are "ugly propaganda." The transfer marks a significant escalation in Iranian support for Russia's war effort and raises concerns about the potential for further destabilization in the region.
+
+Wed, 11 Sep 2024 15:57:13 +0530
+### [What’s ‘divorce’ perfume by Dubai princess, who announced split on Instagram?](https://www.firstpost.com/explainers/whats-divorce-perfume-by-dubai-princess-who-announced-split-on-instagram-13814107.html)
+
+Sheikha Mahra bint Mohammed bin Rashid Al Maktoum, the princess of Dubai, has launched a perfume line named 'Divorce'. This comes eight weeks after the princess announced her separation from her husband, Sheikh Mana bin Mohammed bin Rashid bin Mana Al Maktoum, on social media, citing infidelity. The announcement of the perfume, showcased on the princess's Instagram, features a sleek black bottle and scenes with a black panther. The 'Divorce' fragrance is part of the princess's luxury Mahra M1 brand and has garnered significant attention and praise from her followers. Despite the buzz, the perfume's scent details and release date remain undisclosed.
+
 Wed, 11 Sep 2024 14:59:34 +0530
 ### [Kamala Harris-Donald Trump debate: Who won and does it impact election outcome?](https://www.firstpost.com/world/united-states/kamala-harris-donald-trump-debate-who-won-and-does-it-impact-election-outcome-13814127.html)
 
