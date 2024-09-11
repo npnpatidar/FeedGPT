@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 18:24:30 +0530
+### [‘My First Film’ review: Zia Anger’s moving meta-fiction is a stunning ode to failure](https://www.thehindu.com/entertainment/movies/my-first-film-review-zia-angers-moving-meta-fiction-is-a-stunning-ode-to-failure/article68630010.ece)
+
+Zia Anger's "My First Film" is a unique film that explores the breakdown of Anger's attempt to make her debut feature, "Always All Ways, Anne Marie." By blending documentary, performance, and fiction, Anger examines failure, artistic process, and self-expression. 
+
+The film follows Anger's fictionalized stand-in, Vita,  as she grapples with the challenges of directing her first film.  Anger intercuts scenes from the failed shoot with her own reflections, creating a haunting reflection on the realities of the art world and the anxieties of being a young female director.  Technical artistry is on display with the use of personal footage, re-enactments, and voiceover, culminating in a surreal and powerful depiction of an abortion as a metaphor for artistic creation and loss. Ultimately, "My First Film" is a darkly humorous and insightful meditation on the beauty found in artistic failure.
+
 Tue, 10 Sep 2024 16:26:42 +0530
 ### [‘Bad Monkey’ series review: Vince Vaughn shoulders this deceptive crime-comedy](https://www.thehindu.com/entertainment/movies/bad-monkey-series-review-vince-vaughn-shoulders-this-deceptive-crime-comedy/article68625745.ece)
 

@@ -1,3 +1,24 @@
+Wed, 11 Sep 2024 14:03:43 +0000
+### [Why Tamil Nadu opposes Centre’s New Education Policy (NEP)](https://indianexpress.com/article/explained/explained-politics/tamil-nadu-opposes-centre-new-education-policy-nep-9562529/)
+
+The Centre and Tamil Nadu are locked in a dispute over the implementation of the National Education Policy (NEP) 2020. The Centre is withholding Samagra Shiksha Abhiyan (SSA) funds, which are crucial for programs like providing uniforms and textbooks to students, until Tamil Nadu agrees to the conditions set by the PM- SHRI scheme, which promotes aspects of the NEP.  Tamil Nadu opposes certain aspects of the NEP, particularly the three-language formula, raising concerns about the imposition of Hindi and Sanskrit.  Tamil Nadu argues that the NEP infringes on their constitutional autonomy in education and emphasizes their commitment to the two-language policy. The state maintains it is open to implementing other aspects of the NEP through its own initiatives and is even drafting a State Education Policy.
+
+Wed, 11 Sep 2024 12:47:12 +0000
+### [GNSS: How the new satellite-based highway toll collection system will work](https://indianexpress.com/article/explained/gnss-new-satellite-based-highway-toll-collection-9562340/)
+
+The Indian government is implementing a new satellite-based toll collection system called GNSS, intended to replace FASTag.  
+
+GNSS  allows vehicles to travel through designated lanes without stopping, tracking distance traveled and charging accordingly. Vehicles will be equipped with a non-transferable "on-board unit" (OBU) to facilitate this. 
+
+To encourage adoption, users will enjoy a daily free travel allowance of 20 km in each direction on national highways and expressways. The new system aims to reduce congestion at toll plazas, which currently experience significant delays due to FASTag barcode reading. 
+
+While GNSS will initially run alongside the existing FASTag system, the government plans to eventually convert all lanes to GNSS.
+
+Wed, 11 Sep 2024 12:25:40 +0000
+### [Why did EU court order Apple to pay 13 billion euros as taxes in Ireland?](https://indianexpress.com/article/explained/explained-economics/apple-ireland-european-commission-taxes-9560684/)
+
+The EU's Court of Justice has ruled that Apple must pay 13 billion euros ($14.4 billion) in unpaid taxes to Ireland. This decision overturns a 2020 ruling that sided with Apple. The European Commission initiated the case in 2016, concluding that Ireland had provided Apple with illegal tax advantages. The Commission’s investigation found that Ireland's tax rulings significantly lowered Apple's tax burden, resulting in an effective tax rate as low as 0.05% in 2014. Apple and the Irish government contested the Commission's order, arguing that it lacked factual and legal basis. However, the ECJ upheld the Commission's position, stating that Ireland granted Apple unlawful aid.
+
 Wed, 11 Sep 2024 12:08:56 +0000
 ### [23 years since 9/11 attacks: How Osama bin Laden became the world’s most dreaded terrorist](https://indianexpress.com/article/explained/explained-global/9-11-osama-bin-laden-9562266/)
 

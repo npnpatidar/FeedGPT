@@ -1,3 +1,32 @@
+Wed, 11 Sep 2024 19:23:07 +0530
+### [Why is Australia encouraging employees to poo at work?](https://www.firstpost.com/explainers/why-is-australia-encouraging-employees-to-poo-at-work-13814168.html)
+
+Queensland Health Department launched a humorous social media campaign to address the taboo surrounding bowel movements at work.  The campaign encourages people to prioritize their health by not ignoring the urge to go to the bathroom, highlighting the serious health risks associated with withholding bowel movements. The lighthearted approach, featuring images of dolphins, rainbows, and unicorns, has resonated with the public, sparking conversations and encouraging people to normalize discussions about bodily functions.  The campaign also tackles "poo paranoia," offering practical tips for managing anxiety related to using public toilets. 
+
+
+Medical professionals support the campaign's message, emphasizing the connection between holding in bowel movements and potential health issues like colon cancer, appendicitis, hemorrhoids, and fecal impaction. Queensland Health's initiative has been praised for its innovative and engaging way of addressing a sensitive topic, using humor to promote awareness and encourage healthier behaviors.
+
+Wed, 11 Sep 2024 19:00:21 +0530
+### [Why China is planning to train 3,000 foreign police officers](https://www.firstpost.com/explainers/why-china-is-planning-to-train-3000-foreign-police-officers-13814186.html)
+
+China plans to train 3,000 foreign police officers in the coming year, building on last year's program which trained 2,700 officers. This initiative, part of President Xi Jinping's Global Security Initiative (GSI), aims to expand China's security influence globally.  
+
+The training program involves law enforcement from 122 countries and international organizations. China will also send consultants and working units abroad to assist with local law enforcement capabilities, joint patrols, and combating cross-border crimes.  
+
+This move is seen as an effort to reshape global security governance, offering an alternative to Western-led models. While China emphasizes a non-hegemonic approach, concerns have been raised about the potential for authoritarian tactics being shared and the focus on protecting Chinese interests.
+
+Wed, 11 Sep 2024 18:35:15 +0530
+### [In Graphics | The big quotes from the Harris-Trump presidential debate](https://www.firstpost.com/world/united-states/in-graphics-the-big-quotes-from-the-harris-trump-presidential-debate-13814234.html)
+
+Kamala Harris and Donald Trump participated in a 90-minute televised debate hosted by ABC News on September 10th. Harris challenged Trump on various issues, while he offered conspiracy theories.  The debate touched on race, with Trump making controversial remarks about Harris's heritage.  They also clashed over abortion, with Trump defending the Supreme Court's decision to overturn Roe v. Wade.
+
+Wed, 11 Sep 2024 17:56:06 +0530
+### [Have Chinese troops occupied land the size of Delhi in Ladakh? Rahul's big claim and Centre's rebuttal](https://www.firstpost.com/explainers/have-chinese-troops-occupied-land-the-size-of-delhi-in-ladakh-rahuls-big-claim-and-centres-rebuttal-13814213.html)
+
+Rahul Gandhi, the Leader of the Opposition in India, made a statement during his visit to the US, claiming that China occupies 4,000 square kilometers of Indian territory in Ladakh. He criticized Prime Minister Modi's handling of the situation and compared it to an unacceptable situation for America.  
+
+The Indian government has repeatedly refuted these claims, stating that not an inch of Indian land has been taken by China. The Defence Minister, External Affairs Minister, and the Lieutenant Governor of Ladakh have all asserted this position. However, some reports and testimonies from locals suggest that Indian access to certain patrolling points in eastern Ladakh has been restricted, and China has been actively constructing military infrastructure along the Line of Actual Control.  The true extent of the situation remains a point of contention and debate.
+
 Wed, 11 Sep 2024 17:45:17 +0530
 ### [Why Europeans will have to pay to travel to the UK from next year](https://www.firstpost.com/explainers/europeans-visiting-the-uk-eta-fees-travel-permit-13814191.html)
 

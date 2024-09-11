@@ -1,3 +1,10 @@
+Wed, 11 Sep 2024 18:27:19 +0530
+### [Beijing’s island-grab playbook: South China Sea tactics and their implications for India](https://www.firstpost.com/opinion/beijings-island-grab-playbook-south-china-sea-tactics-and-their-implications-for-india-13814241.html)
+
+This article examines China's strategy of island-grabbing in the South China Sea (SCS). Beginning in the 1950s, China has progressively occupied and militarized features in the SCS, disregarding international law and the 2016 ruling by the International Tribunal on the Law of the Sea (ITLOS) which invalidated China's claims. The article highlights China's use of economic and military pressure to assert its dominance in the region and warns of similar tactics being employed in the Indian Ocean Region (IOR).  
+
+It cites the potential risk of China coercing nations in the IOR to lease or cede their offshore islands for its strategic benefit, citing the attempted takeover of islands in Pakistan as an example. The article concludes by urging India to remain vigilant against China's ambitions and proactively safeguard its national security interests in the IOR.
+
 Wed, 11 Sep 2024 16:20:21 +0530
 ### [Abu Dhabi Crown Prince’s Delhi visit: India-UAE ties scaling new heights](https://www.firstpost.com/opinion/abu-dhabi-crown-princes-delhi-visit-india-uae-ties-scaling-new-heights-13814175.html)
 
