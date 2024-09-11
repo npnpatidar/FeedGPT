@@ -1,3 +1,8 @@
+Wed, 11 Sep 2024 06:30:23 +0530
+### [FirstUp: Pope Francis in Singapore, Harris, Biden to visit 9/11 memorial... The big news today](https://www.firstpost.com/explainers/firstup-pope-francis-in-singapore-harris-biden-9-11-memorial-big-news-today-13813819.html)
+
+Pope Francis will make his first-ever visit to Singapore from September 11th to 13th, as part of a wider tour of Asia. In the United States, President Joe Biden and Vice President Kamala Harris will visit all three 9/11 memorial sites to commemorate the 23rd anniversary of the attacks.  Prime Minister Narendra Modi of India will inaugurate SEMICON India 2024, a three-day semiconductor conference in Greater Noida, highlighting India's ambitions in the semiconductor industry.
+
 Tue, 10 Sep 2024 21:16:50 +0530
 ### [Is America really prepared to elect Kamala Harris, a woman of colour, as president?](https://www.firstpost.com/world/united-states/is-america-really-prepared-to-elect-kamala-harris-a-woman-of-colour-as-president-13813896.html)
 

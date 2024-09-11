@@ -1,3 +1,75 @@
+Wed, 11 Sep 2024 01:25:35 +0000
+### [India’s Digital Public Infrastructure: How to ensure healthy competition](https://indianexpress.com/article/opinion/columns/indias-digital-public-infrastructure-how-to-ensure-healthy-competition-9561138/)
+
+India has successfully implemented Digital Public Infrastructure (DPI), with transformative initiatives like Aadhaar, UPI, and CoWIN. 
+
+DPIs, categorized as foundational and sectoral, provide a platform for innovation and public-private partnerships. However, this platform-like structure can lead to market concentration and monopolies, as seen in the UPI payment system.
+
+To mitigate these risks, India's G20 task force emphasizes the need for regulatory frameworks that ensure fair competition and address data privacy, security, and interoperability.
+
+Concerns remain regarding data usage, innovation, and risk-reward sharing in DPI projects.  A balanced approach is needed to protect public interest while fostering private innovation, potentially using a combination of soft law guidelines and more rigid regulations for specific aspects.
+
+Wed, 11 Sep 2024 01:25:07 +0000
+### [Gajanan Madhav Muktibodh: A poet of his times – and ours](https://indianexpress.com/article/opinion/columns/gajanan-madhav-muktibodh-a-poet-of-his-times-and-ours-9561136/)
+
+Gajanan Madhav Muktibodh, a prominent Hindi poet and critic, died at the age of 46 in 1964. Though he  published posthumously, his poetry gained widespread acclaim. His works often explored complex themes like Marxism, Gandhian ideals, Indian tradition, and the tensions of the Nehruvian era. Muktibodh's poetry is known for its length, intricacy, and unflinching portrayal of societal issues.  He served as both a witness and participant in the realities of his time. 
+
+Muktibodh's work transcended its era, resonating with contemporary concerns about violence, injustice, and the erosion of conscience. His poetry, characterized by surreality and a blend of social and moral commentary, continues to inspire generations of writers and critics. Considered a unique figure in Hindi poetry, Muktibodh's legacy lies in his profound explorations of the human condition and his unwavering commitment to social responsibility.
+
+Wed, 11 Sep 2024 01:24:26 +0000
+### [Jawhar Sircar writes: The monsoon thunder in Bengal, making way for women to reclaim their space](https://indianexpress.com/article/opinion/columns/jawhar-sircar-writes-the-monsoon-thunder-in-bengal-making-way-for-women-to-reclaim-their-space-9561122/)
+
+A protest in Kolkata sparked by the rape and murder of a junior doctor has escalated into a nationwide movement demanding justice and women's safety.  The movement, notable for its spontaneity and widespread participation,  has surpassed calls for justice in a single case, addressing broader gender-based inequities and exposing a perceived "dark underbelly" within the otherwise popular government of West Bengal. 
+
+The government's handling of the case has been criticized, particularly its decision to reward the college principal. A loss of public trust, fueled by accusations of inefficiency and a potential cover-up, has amplified public anger.  While political elements may be involved in some instances, the majority of protesters have rejected attempts to politicize the movement, demanding direct action from the government.  
+
+
+This wave of protests signifies a significant reclaiming of women's space in public life, demonstrating their collective strength and resolve.
+
+Wed, 11 Sep 2024 01:24:22 +0000
+### [September 11, 1984, Forty Years Ago: Sikh Leader’s Pak Ties](https://indianexpress.com/article/opinion/40-years-ago/september-11-1984-forty-years-ago-sikh-leaders-pak-ties-9561121/)
+
+Avtar Singh, an associate of Jarnail Singh Bhindranwale, has reportedly confessed to receiving training in espionage and sabotage in Pakistan. The Andhra Pradesh Legislative Assembly will not hold a vote-of-confidence motion, instead adjourning after a condolence motion. Curfew was imposed in Sendhwa, Madhya Pradesh following communal riots resulting in four deaths and 35 injuries. Doordarshan will telecast the concert of the New York Philharmonic Orchestra conducted by Zubin Mehta live.
+
+Wed, 11 Sep 2024 01:24:06 +0000
+### [IIT-Madras’s Zanzibar campus: India’s best for Africa](https://indianexpress.com/article/opinion/columns/iit-madrass-zanzibar-campus-indias-best-for-africa-9561118/)
+
+IIT Madras (IITM) has evolved from a prestigious institution known for producing top-tier graduates to a driving force in research, technological innovation, and educational accessibility.  IITM's initiatives include Centers of Excellence, research parks fostering start-up ecosystems, and the online educational platform NPTEL. Recognizing the need to expand its impact, IITM established its first international campus in Zanzibar,  IITM Zanzibar (IITMZ). 
+
+IITMZ, a digital-first campus, offers full-time degree programs in Data Science & Artificial Intelligence, attracting students from across Africa. Significant support from the Government of India, the Zanzibar government, and private sector organizations like the Airtel Africa Foundation is aiding IITMZ's development and mission to provide quality education.   IITM aims to replicate the success of its Chennai campus in Zanzibar, fostering a community of future leaders who blend local relevance with global significance.
+
+Wed, 11 Sep 2024 01:23:17 +0000
+### [The Third Edit: Finding love, without swiping right](https://indianexpress.com/article/opinion/editorials/the-third-edit-finding-love-without-swiping-righ-9561120/)
+
+Modern dating often feels impersonal, relying on algorithms and quick judgments. In contrast, hobby apps like Strava and Letterboxd are emerging as unexpected platforms for finding romance.  These apps allow individuals to connect over shared passions before considering romantic possibilities, fostering genuine connections based on mutual interests. While traditional dating apps can be stressful and superficial, hobby apps offer a more organic and authentic approach to meeting people, blurring the lines between friendship and romance. This trend reflects a desire for genuine connections and a return to real-life interactions, moving beyond the confines of the digital world.
+
+Wed, 11 Sep 2024 01:23:13 +0000
+### [Express View on suicide prevention: Pull back from the edge](https://indianexpress.com/article/opinion/editorials/express-view-on-suicide-prevention-pull-back-from-the-edge-9561119/)
+
+1.71 lakh people died by suicide in India in 2022, marking the highest rate ever recorded. A new Lancet study emphasizes that focusing solely on individual risk factors, while important, is insufficient to tackle this global public health crisis.  
+
+The study calls for a broader approach that considers social determinants like poverty, healthcare access, and cultural values, as well as commercial factors like the alcohol and firearm industries.  The study highlights examples like the US, where a minimum wage increase correlated with fewer suicide deaths. India's high suicide rates, particularly among farmers, daily-wage laborers, and students, necessitate a comprehensive policy response that addresses these underlying issues.
+
+Wed, 11 Sep 2024 01:22:01 +0000
+### [Express View on GST council meet: Clarity needed](https://indianexpress.com/article/opinion/editorials/express-view-on-gst-council-meet-clarity-needed-9561117/)
+
+The GST Council recently made several changes to tax rates.  Cancer drugs, specified extruded or expanded products, and research and development funds for eligible institutions saw reductions or exemptions. 
+
+The council has deferred decisions on tax rates for health and life insurance, intending to address this issue in November after a Group of Ministers report.  
+
+The council must also decide on the future of the GST compensation cess, which was originally intended to compensate states for revenue loss but could be repaid earlier than projected.  Rate rationalization, potentially merging the 12% and 18% tax slabs, is also on the agenda.
+
+Wed, 11 Sep 2024 01:15:30 +0000
+### [C Raja Mohan writes: India’s role in peacemaking in Ukraine](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-indias-role-in-peacemaking-in-ukraine-9561126/)
+
+As peace efforts around Ukraine gain momentum, India is considering a more active role in peacemaking. While India supports peace and diplomacy, it's crucial to understand the limitations. The US holds significant power in shaping a new European security order, with negotiations ultimately determining the outcome. Several factors suggest a possible new peace dynamic:
+
+* Russia and Ukraine understand that the US holds the key to peace.
+* A new round of peace talks is being coordinated by Switzerland. 
+* The EU, despite internal divisions, recognizes the need for negotiations and is willing to consider compromises.
+
+India should focus on managing the geopolitical consequences of the war, which will undoubtedly reshape global and regional orders. A restoration of peace in Europe, coupled with a new understanding between Russia and the West, would be the most beneficial outcome for India's economic and security interests.
+
 Tue, 10 Sep 2024 12:32:19 +0000
 ### [The problem with India’s political thought comes from Delhi — and being away from the people](https://indianexpress.com/article/opinion/columns/india-political-thought-problem-delhi-9560302/)
 

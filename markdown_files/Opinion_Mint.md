@@ -1,3 +1,8 @@
+Wed, 11 Sep 2024 07:00:11 +0530
+### [Mint Quick Edit | Auto sales: The festive season will be crucial](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-auto-sales-the-festive-season-will-be-crucial-tata-motors-car-sales-festive-season-discounts-monsoon-11725963268052.html)
+
+Due to sluggish sales, India's car market is experiencing a wave of discounts and promotional schemes. Tata Motors has recently reduced prices on some models by up to ₹2 lakh. Dealers are reportedly facing significant inventory, totaling around ₹80,000 crore, which poses a risk to profitability for both dealers and the overall industry. Excessive rainfall is believed to be a factor contributing to the slowdown in demand, as potential buyers may be delaying purchases. The upcoming festive season will be a crucial test for the market, with mass-market car manufacturers hoping for a recovery.  However, prolonged discounting is not a long-term solution.
+
 Tue, 10 Sep 2024 16:00:13 +0530
 ### [White Revolution 2.0: Milk sufficiency for all](https://www.livemint.com/opinion/online-views/white-revolution-2-0-milk-sufficiency-for-all-national-milk-day-family-household-consumption-expenditure-survey-11725883940858.html)
 

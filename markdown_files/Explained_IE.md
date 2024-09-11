@@ -1,3 +1,17 @@
+Wed, 11 Sep 2024 01:32:58 +0000
+### [South China Sea: Philippines, Vietnam deepen defense ties](https://indianexpress.com/article/explained/explained-global/south-china-sea-philippines-vietnam-9560797/)
+
+Vietnam and the Philippines agreed to strengthen their defense ties and maritime security cooperation. The announcement followed a visit by Vietnam’s Defense Minister to Manila, where both sides signed letters of intent to increase collaboration.  
+
+An official security agreement is expected later this year. While the move is seen as mainly symbolic for now, experts believe it could be significant in the long term if ASEAN claimants seek a united front against China’s assertive actions in the South China Sea. 
+
+China's expansive territorial claims in the South China Sea, disputed by Vietnam, Brunei, Malaysia, the Philippines and Taiwan, have led to tensions, particularly between China and the Philippines.  Tensions have escalated this year with confrontations between Philippine and Chinese coast guard vessels. The US has pledged to defend the Philippines should an attack occur in the South China Sea.
+
+Wed, 11 Sep 2024 01:10:39 +0000
+### [The grave threat from AMR](https://indianexpress.com/article/explained/explained-health/the-grave-threat-from-amr-9561108/)
+
+The spread of antimicrobial resistance (AMR) is a serious global concern, particularly in a country like India where infections are increasingly resistant to commonly used antibiotics.  The ICMR's annual report on AMR highlights the steady rise of resistance to even strong antibiotics, emphasizing the "uphill battle" to combat it. This trend is attributed to factors such  as the inappropriate use of antibiotics, both self-medication and overuse in healthcare settings.  Doctors are urged to avoid broad-spectrum antibiotics and rely on diagnostics to prescribe specific treatments.  Beyond this, preventing infections through hygiene, vaccination, and tackling pollution from antibiotic manufacturing are crucial to preserving the effectiveness of these essential medicines.
+
 Tue, 10 Sep 2024 13:29:40 +0000
 ### [MP Engineer Rashid gets bail: What was the NIA’s ‘terror’ case against him?](https://indianexpress.com/article/explained/explained-law/engineer-rashid-bail-terror-kashmir-9560425/)
 
