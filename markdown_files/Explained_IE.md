@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 07:56:52 +0000
+### [Why September 12 is observed as Saragarhi Day](https://indianexpress.com/article/explained/explained-history/september-12-saragarhi-day-9563646/)
+
+The Battle of Saragarhi took place on September 12, 1897, where 21 soldiers from the 36th Sikh regiment bravely defended Saragarhi, a communication tower, against an overwhelming force of 8,000 to 15,000 tribal militants. Despite knowing they faced certain death, the soldiers held their ground for seven hours, killing 200 militants and injuring 600. Led by Havildar Ishar Singh, they communicated their valiant stand through a heliograph, reporting the enemy advance and their dwindling ammunition. 
+
+Though outnumbered and facing a hopeless situation, their courage and sacrifice remain a testament to their unwavering loyalty and bravery. The soldiers were posthumously awarded the Indian Order of Merit, recognizing their extraordinary bravery. The Battle of Saragarhi is remembered today as a symbol of unparalleled gallantry and is commemorated in India and Pakistan.
+
 Thu, 12 Sep 2024 03:36:49 +0000
 ### [40% of Amazon rainforest most vital to climate is unprotected](https://indianexpress.com/article/explained/explained-climate/40-of-amazon-rainforest-most-vital-to-climate-is-unprotected-9562983/)
 

@@ -1,3 +1,29 @@
+Thu, 12 Sep 2024 13:42:47 +0530
+### [‘Don’t use his death for political gain’: Who was 11-year-old Aiden Clark, whose parents slammed Vance and Trump?](https://www.firstpost.com/world/united-states/aiden-clark-nathan-father-jd-vance-trump-haitian-immigrants-ohio-13814451.html)
+
+Aiden Clark, an 11-year-old boy, was killed in a school bus crash caused by a Haitian immigrant, Hermanio Joseph, in August 2023.  His father, Nathan Clark, publicly criticized Donald Trump and JD Vance for using Aiden's death to advance their political agenda and spread hate against Haitian immigrants. Clark stated that they were using his son's name as a political tool and fueling racist attacks on Haitian immigrants in their community. Trump and Vance have used the incident to criticize Kamala Harris' immigration policies, connecting the crash to her stance.  Nathan Clark, however, emphasized that his son was not murdered, but accidentally killed, and urged Trump and Vance to stop spreading hate.
+
+Thu, 12 Sep 2024 12:35:07 +0530
+### [Why was Joe Biden spotted wearing a MAGA hat?](https://www.firstpost.com/world/united-states/why-was-joe-biden-spotted-wearing-a-maga-hat-13814391.html)
+
+A photo circulated online showing President Joe Biden wearing a "Trump 2024" MAGA hat at a 9/11 memorial event in Pennsylvania. The White House clarified that this was a brief gesture. 
+
+After giving his hat to a Trump supporter, the supporter asked Biden to wear it in return, which he briefly did as a symbolic gesture of bipartisan unity.  Biden, who has previously criticized Trump, has repeatedly  called him a threat to US democracy.  The incident came a day after a presidential debate between Trump and Democratic nominee Harris, where Trump mocked Harris and jokingly suggested sending her a MAGA hat.
+
+Thu, 12 Sep 2024 12:02:55 +0530
+### [How Iran benefits from sending ballistic missiles to Russia](https://www.firstpost.com/explainers/how-iran-benefits-from-sending-ballistic-missiles-to-russia-13814402.html)
+
+Iran has supplied Russia with short-range ballistic missiles, including the Fateh-110 and Zolfaghar systems. This strengthens Russia's military capabilities in the Ukraine war, while Iran hopes to leverage this for access to advanced Russian technology like the Su-35 fighter jets and S-400 air defense systems.  
+
+The missiles are more cost-effective for Russia compared to its own arsenal and could further damage Ukraine's infrastructure. However, this closer military cooperation between Iran and Russia risks straining Moscow's relationships with Gulf nations.  
+
+The US and allies have responded with additional sanctions on both countries.  The missile deliveries also raise questions about Western policies regarding Ukraine's use of long-range missiles against Russian targets.
+
+Thu, 12 Sep 2024 11:44:50 +0530
+### [Were Kamala Harris’ earrings during debate with Trump secret earphones?](https://www.firstpost.com/world/united-states/us-presidential-debate-kamala-harris-earrings-donald-trump-earphones-13814410.html)
+
+Claims circulated on social media that Vice President Kamala Harris wore Bluetooth audio devices disguised as earrings during the presidential debate against Donald Trump.  Some pointed to the resemblance between Harris's earrings and the Nova H1 audio earrings.  However, there is no evidence to support these claims. Photos show Harris wearing pearl earrings consistent with a known Tiffany & Co. pair.  Additionally, journalist Susan Kelley confirmed Harris has worn these earrings before. Similar claims have been made about other political figures during debates, often without evidence.
+
 Thu, 12 Sep 2024 09:50:13 +0530
 ### [Centre extends Ayushman Bharat free health insurance to all above 70: How will it work?](https://www.firstpost.com/explainers/centre-ayushman-bharat-health-insurance-age-70-eligibility-13814370.html)
 
