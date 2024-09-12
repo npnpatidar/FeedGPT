@@ -16,6 +16,13 @@ Moraes had previously ordered X to suspend accounts spreading misinformation and
 
 The case raises questions about regulatory sovereignty, free speech versus censorship, and the role of social media in political discourse.
 
+Thu, 12 Sep 2024 08:30:00 +0530
+### [What does dissolution of SCoS entail? | Explained](https://www.thehindu.com/news/national/what-does-dissolution-of-scos-entail/article68633981.ece)
+
+The Indian government has dissolved the Standing Committee on Statistics (SCoS), which advised on survey methodology and data analysis, including the census. The dissolution comes amid criticism over the delay in conducting the 2021 census, which was postponed due to the COVID-19 pandemic. 
+
+The government replaced the SCoS with a new Steering Committee for National Sample Surveys, but experts argue that the lack of a clear roadmap for the census and reliance on outdated data negatively impacts policymaking.  They emphasize the need for a comprehensive census to provide accurate and up-to-date information on critical issues like education, employment, and population distribution.
+
 Wed, 11 Sep 2024 22:20:58 +0530
 ### [Tackling right-wing resurgence in Germany](https://www.thehindu.com/news/international/tackling-right-wing-resurgence-in-germany/article68631521.ece)
 
