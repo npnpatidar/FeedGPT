@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 16:17:12 +0530
+### [Dangerous politics of Rahul Gandhi and the ‘3.5% Rule’ of regime change](https://www.firstpost.com/opinion/dangerous-politics-of-rahul-gandhi-and-the-3-5-rule-of-regime-change-13814518.html)
+
+Rahul Gandhi's recent statements about India during his US visit have raised concerns.  His comments, particularly regarding Sikhs and the Indian Constitution, have been deemed ignorant and divisive. Critics argue that  he  trivializes India's issues and downplays the achievements of Indian democracy, while simultaneously praising China.  Furthermore, his meetings with known anti-India figures have fueled suspicions that he is aligning with groups that seek to destabilize the country. 
+
+The article suggests that Gandhi's rhetoric echoes tactics outlined by Gene Sharp, a strategist who advocates for regime change through non-violent means. However, it contends that these strategies are more likely to succeed in illiberal societies and are unlikely to resonate in India's vibrant democracy.  The piece concludes by urging  Gandhi to reconsider his approach and engage in constructive dialogue with the government to address India's challenges.
+
 Thu, 12 Sep 2024 14:45:16 +0530
 ### [Why India needs to consolidate its control in the western Indian Ocean](https://www.firstpost.com/opinion/why-india-needs-to-consolidate-its-control-in-the-western-indian-ocean-13814494.html)
 

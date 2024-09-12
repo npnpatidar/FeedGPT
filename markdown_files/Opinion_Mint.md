@@ -1,3 +1,14 @@
+Thu, 12 Sep 2024 16:00:16 +0530
+### [Run a firm in founder or manager mode? There’s no clear answer](https://www.livemint.com/opinion/online-views/run-a-firm-in-founder-or-manager-mode-there-s-no-clear-answer-management-corporate-governance-family-businesses-11726050218851.html)
+
+The article discusses the ongoing debate between 'founder mode' and 'manager mode' in Indian businesses.  Founder mode is characterized by strong centralized control by the founder, while manager mode emphasizes delegation and professional autonomy.  
+
+Many Indian companies, particularly family-owned businesses, struggle with transitioning from founder mode. This is due to a reluctance to relinquish control, even to qualified professionals. 
+
+Despite sending managers for training, communication gaps persist between promoters (founders) and professionals, leading to frustration on both sides. 
+
+The article points out that venture capital and private equity investments can also complicate this dynamic, putting pressure on founders to share decision-making power.  Finally, the article highlights the increasing instance of family businesses facing succession crises, potentially opening up opportunities for professional managers to take on more prominent roles and build their own legacies.
+
 Thu, 12 Sep 2024 15:00:14 +0530
 ### [Trump’s dollar defence plan: It’ll hurt more than benefit the US](https://www.livemint.com/opinion/online-views/trumps-dollar-defence-plan-it-ll-hurt-more-than-benefit-the-us-dollar-dominance-dollar-index-foreign-currency-11726048973069.html)
 

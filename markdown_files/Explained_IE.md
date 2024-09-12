@@ -1,3 +1,8 @@
+Thu, 12 Sep 2024 10:38:21 +0000
+### [Can nano DAP replace the conventional granular version in Punjab’s Rabi season?](https://indianexpress.com/article/explained/explained-economics/can-nano-dap-replace-the-conventional-granular-version-in-punjabs-rabi-season-9563952/)
+
+Punjab heavily relies on di-ammonium phosphate (DAP) for its Rabi season crops.  However, supply disruptions of the conventional granular DAP have prompted a search for alternatives like nano DAP. Developed by IFFCO, nano DAP is an indigenously produced liquid fertilizer that is more cost-effective and easier to manage.  While it promises lower costs and environmental benefits, its efficiency is being questioned. The Punjab Agricultural University has shown nano DAP leading to reduced wheat yields compared to granular DAP in their experiments. IFFCO maintains that further trials are needed and points to positive results from other institutions.  The government recommends using nano DAP to supplement, not replace, conventional DAP entirely.  Despite the ongoing debate, nano DAP sales in Punjab have been encouraging since its introduction.
+
 Thu, 12 Sep 2024 07:56:52 +0000
 ### [Why September 12 is observed as Saragarhi Day](https://indianexpress.com/article/explained/explained-history/september-12-saragarhi-day-9563646/)
 

@@ -1,3 +1,37 @@
+Thu, 12 Sep 2024 17:44:10 +0530
+### [A photogenic scion, a defence geek, a hardliner woman leader: The big names in the race to be Japan’s PM](https://www.firstpost.com/explainers/japan-pm-contenders-ldp-election-13814551.html)
+
+Nine candidates are vying to become Japan's next prime minister with the ruling Liberal Democratic Party set to choose its leader on September 27th.  Shinjiro Koizumi, son of former PM Junichiro Koizumi, is the youngest candidate and a frontrunner favoured by young voters.  Shigeru Ishiba, a former defense minister, is popular with voters but less so with LDP lawmakers. Sanae Takaichi, a nationalistic figure close to the assassinated Shinzo Abe, is running for the second time. Taro Kono, a reform-minded politician, is experienced and has held several ministerial positions.
+
+
+
+Yoko Kamikawa, the current foreign minister, is the second woman running, while Toshimitsu Motegi, who handled US-Japan trade talks, goes by the nickname "Trump whisperer." Other candidates include Yoshimasa Hayashi, Katsunobu Kato and Takayuki Kobayashi. The race is considered more open than previous contests.
+
+Thu, 12 Sep 2024 17:35:16 +0530
+### [Flooded streets, landslides: How Typhoon Yagi has devastated Vietnam’s capital Hanoi](https://www.firstpost.com/explainers/typhoon-yagi-vietnam-hanoi-landslides-flooding-destruction-13814557.html)
+
+Typhoon Yagi, the most powerful typhoon to hit Asia this year, has devastated northern Vietnam, causing hundreds of deaths and leaving thousands displaced. 
+
+Heavy rainfall triggered by the storm led to severe flooding and landslides, with Hanoi experiencing its worst flooding in two decades.  Vast areas of farmland are submerged, and essential infrastructure has been damaged. The storm's impact extends beyond Vietnam, claiming lives and causing destruction in neighboring countries like China, the Philippines, Thailand, and Laos.  Recovery efforts are underway, with international aid pouring in to support the affected communities.
+
+Thu, 12 Sep 2024 16:56:53 +0530
+### [What is the Storm Shadow cruise missile that Ukraine is banned from using inside Russia?](https://www.firstpost.com/explainers/what-is-the-storm-shadow-cruise-missile-that-ukraine-is-banned-from-using-inside-russia-13814550.html)
+
+The Storm Shadow cruise missile is a long-range weapon supplied to Ukraine by the UK and France. With a range of 250 kilometers, it can target fortified locations and ammunition depots, key to degrading Russia's military capabilities.  
+
+While Ukraine has been using the missile within its borders, there is a debate on whether it should be allowed to target Russian territory. Some Western allies fear escalation, but the US recently shifted its stance, allowing for use if acting in self-defense. Ukraine argues that long-range capability is crucial for defending itself against Russian attacks.  The missile's effectiveness has already been demonstrated in striking targets within Russia. 
+
+Military analysts believe the Storm Shadow could significantly disrupt Russian logistics and command, potentially aiding Ukraine's counteroffensive.
+
+Thu, 12 Sep 2024 16:45:14 +0530
+### [In South Korea, dog strollers outsell prams for babies. Here’s why that is a worry](https://www.firstpost.com/explainers/south-korea-dog-strollers-prams-low-birth-rate-13814532.html)
+
+In South Korea, sales of pet strollers have surpassed those of baby strollers for the first time. This trend reflects a rising pet ownership rate and declining birth rate in the country. 
+
+Data shows pet stroller sales rose to 57% of total stroller sales in 2023, up from 33% in 2021.  South Korea currently has the world's lowest fertility rate, with an average of 0.78 children per woman in 2022. This has led to the government declaring the situation a "national emergency" and implementing various schemes to encourage childbirth, including financial incentives and subsidized childcare. 
+
+However, many women cite high living costs, long working hours, and societal pressures as reasons for delaying or forgoing motherhood.  Instead, they are choosing to invest in pets, contributing to the booming pet industry and the unique phenomenon of dog strollers becoming a common sight in South Korean cities.
+
 Thu, 12 Sep 2024 15:35:03 +0530
 ### [In Graphics | A guide to the first private spacewalk by SpaceX’s Polaris Dawn crew](https://www.firstpost.com/explainers/in-graphics-a-guide-to-the-first-private-spacewalk-by-spacexs-polaris-dawn-crew-13814474.html)
 
