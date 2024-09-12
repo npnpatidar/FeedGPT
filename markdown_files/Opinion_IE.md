@@ -1,3 +1,15 @@
+Thu, 12 Sep 2024 14:49:32 +0000
+### [Sitaram Yechury: A comrade of his time](https://indianexpress.com/article/opinion/editorials/sitaram-yechury-comrade-time-9564536/)
+
+Sitaram Yechury, the late general secretary of the CPM, was a key figure in Indian communist politics.  Known for his pragmatism, Yechury advocated for issue-based alliances, including with the Congress, recognizing the need to adapt communist ideology to the changing political landscape of India.  He was a strong advocate for addressing caste inequality, a topic often neglected by hardline communists.  Yechury also possessed a unique ability to build bridges across political divides, known for his affability and willingness to engage with both friends and rivals, a quality sorely lacking in contemporary politics.  His clear ideology, tactical acumen, and personality made him a vital leader for both his party and the broader opposition coalition.
+
+Thu, 12 Sep 2024 14:20:43 +0000
+### [Sitaram Yechury, the politician, will be missed by entire Opposition. ‘Sita’ will be missed by his friends](https://indianexpress.com/article/opinion/columns/sitaram-yechury-politician-missed-entire-opposition-friends-9564510/)
+
+Sitaram Yechury, a prominent figure in the Indian Left movement, left a lasting impact through his multifaceted contributions. From student activism to holding leadership positions within the Communist Party of India-Marxist (CPM), he advocated for democratic principles and sought to forge alliances with diverse political forces.
+
+Known for his affable nature, sharp intellect, and empathy, Yechury excelled as a parliamentarian, strategist, and party leader. He recognized the importance of flexibility and inclusivity in navigating the complex political landscape of India.  His ability to connect with people at a personal level endeared him to party members and beyond, making him a beloved figure. His passing is a significant loss to the political world  and those who knew him personally.
+
 Thu, 12 Sep 2024 13:53:27 +0000
 ### [Lollapalooza India 2025: A Gen Z-friendly lineup — but where are the gritty rock acts?](https://indianexpress.com/article/opinion/columns/lollapalooza-india-2025-gen-z-friendly-lineup-gritty-rock-acts-9564230/)
 

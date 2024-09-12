@@ -1,3 +1,36 @@
+Thu, 12 Sep 2024 21:35:14 +0530
+### [Why is Algeria's President Abdelmadjid questioning the results of the election he won?](https://www.firstpost.com/explainers/why-is-algerias-president-abdelmadjid-questioning-the-results-of-the-election-he-won-13814674.html)
+
+Algeria's recent presidential election saw President Abdelmadjid Tebboune declared the winner with a high percentage of the vote. However, the election process was marred by allegations of irregularities, low voter turnout, and discrepancies in reported figures. Both Tebboune's opponents and his own campaign challenged the results, citing inconsistencies and calling for a credible electoral process. While the constitutional court is set to rule on the appeals, analysts believe the challenges are unlikely to overturn Tebboune's victory. 
+
+The controversy highlights the deep divisions within Algerian society and the ongoing struggle for genuine democracy. The low turnout reflects a widespread distrust of the electoral system, a legacy of the 2019 pro-democracy movement known as Hirak, which demands deeper reforms and an end to the influence of the military and entrenched elites.
+
+Thu, 12 Sep 2024 20:53:48 +0530
+### [Sitaram Yechury: The Left stalwart who defied Indira Gandhi and went on to become Rahul's friend](https://www.firstpost.com/explainers/sitaram-yechury-death-cpim-left-indira-gandhi-rahul-gandhi-13814649.html)
+
+Sitaram Yechury, the general secretary of the Communist Party of India (Marxist), passed away at 72 after a battle with a severe lung infection. Born in Andhra Pradesh, Yechury began his political journey at Jawaharlal Nehru University, leading student protests against the Emergency imposed by Indira Gandhi. 
+
+He rose through the ranks of the CPI(M), becoming party general secretary in 2015.  A staunch advocate for coalition politics, Yechury played a significant role in forging alliances with secular parties, including the Congress. He was known for his strategic acumen and his close relationship with Sonia and Rahul Gandhi. Yechury is survived by his wife Seema Chisti and their children.
+
+Thu, 12 Sep 2024 20:39:15 +0530
+### [Beyond Vietnam: How Typhoon Yagi is now flooding Thailand, Myanmar and Laos](https://www.firstpost.com/explainers/beyond-vietnam-how-typhoon-yagi-is-now-flooding-thailand-myanmar-and-laos-13814619.html)
+
+Typhoon Yagi, the most powerful storm to hit Asia this year, has caused widespread devastation across Southeast Asia.  Heavy rains brought by the storm have led to deadly landslides and severe river flooding in Thailand, Laos, and Myanmar.
+
+In Thailand,  floodwaters have inundated parts of  Chiang Rai city and many riverside communities. Rescue efforts are underway to evacuate hundreds of people trapped by the rising waters. At least 33 people have died in Thailand due to rain-related incidents since mid-August. 
+
+Myanmar is also grappling with severe flooding, with thousands of residents displaced and seven bodies recovered from submerged villages. The storm has disrupted rail connections and significantly affected the capital Naypyidaw.   
+
+Laos has experienced flooding and landslides, particularly in Luang Namtha Province, causing property damage and leaving residents stranded. The Mekong River Commission issued a flood warning for Luang Prabang city. 
+
+
+The typhoon has claimed hundreds of lives, with the Vietnamese death toll reaching 226. Millions across the region are struggling with the aftermath of the disaster, facing flooded homes, power outages, and damaged infrastructure.
+
+Thu, 12 Sep 2024 20:14:44 +0530
+### [How did SpaceX’s Polaris Dawn pull off world's first private spacewalk?](https://www.firstpost.com/world/united-states/how-did-spacexs-polaris-dawn-pull-off-worlds-first-private-spacewalk-13814638.html)
+
+Jared Isaacman, leading SpaceX’s Polaris Dawn mission, successfully completed the world's first privately managed spacewalk. He was followed by SpaceX engineer Sarah Gillis. While the spacewalk lasted longer than the planned 30 minutes, reaching 1 hour and 46 minutes, it marked a significant milestone for the commercial space industry. The crew had undergone extensive training and testing prior to the mission, ensuring the safety of the procedures. Both Isaacman and Gillis conducted checks and movements outside the Crew Dragon capsule, demonstrating the capabilities of the new spacesuits and procedures. The successful spacewalk received congratulations from NASA and highlights the advancements private companies are making in space exploration.
+
 Thu, 12 Sep 2024 19:12:16 +0530
 ### [Why this Spanish city is asking British tourists to keep their clothes on](https://www.firstpost.com/explainers/why-this-spanish-city-is-asking-british-tourists-to-keep-their-clothes-on-13814507.html)
 
