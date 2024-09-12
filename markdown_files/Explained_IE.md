@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 02:31:41 +0000
+### [What a new study reveals about the presence of airborne germs 10,000 feet up](https://indianexpress.com/article/explained/explained-sci-tech/new-study-10000-feet-up-germs-9562678/)
+
+Scientists discovered hundreds of diverse bacteria and fungi in air at high altitudes above Japan, some potentially pathogenic to humans. The microbes had likely traveled over 1,200 miles from northeastern China, where there are numerous farms, livestock operations, and mines.
+
+Research suggests a connection between wind patterns carrying these microbes and outbreaks of Kawasaki disease in Japan and California. Although not definitive proof, the findings highlight the potential role of wind in spreading diseases and warrant further investigation into the link between airborne pathogens and human health.
+
 Wed, 11 Sep 2024 14:46:58 +0000
 ### [Why Rahul Gandhi’s meeting with US Congresswoman Ilhan Omar has triggered outrage](https://indianexpress.com/article/explained/rahul-gandhi-ilhan-omar-9562610/)
 

@@ -1,3 +1,66 @@
+Thu, 12 Sep 2024 02:04:35 +0000
+### [Harris-Trump presidential debate and two classic American stories](https://indianexpress.com/article/opinion/columns/harris-trump-presidential-debate-and-two-classic-american-stories-9562902/)
+
+The presidential debate between Kamala Harris and Donald Trump saw Harris perform confidently, effectively addressing key issues and distancing herself from President Biden's policies. Trump, on the other hand, relied on his usual tactics of superlatives and attacks on his opponent's character, but failed to convincingly counter Harris's arguments. 
+
+The debate highlighted the contrasting narratives of the US political spectrum, with Harris representing a liberal, inclusive vision and Trump embodying a conservative, nationalist one. Harris  emphasized the rule of law and social justice, while Trump appealed to traditional values and economic anxieties.  
+
+Though the debate's impact on voting behaviour remains uncertain, it served to establish Harris as a capable debater capable of standing up to Trump's aggressive style.
+
+Thu, 12 Sep 2024 02:04:20 +0000
+### [Why inequality between South and West India, and North and East could grow – and the dangers that carries](https://indianexpress.com/article/opinion/columns/why-inequality-between-south-and-west-india-and-north-and-east-could-grow-and-the-the-dangers-that-carries-9562898/)
+
+The article discusses the economic disparity between the richer southern and western states of India and the poorer northern, central, and eastern states. It highlights that despite possible efforts for convergence,  the gap might widen based on current trends. 
+
+The south's success is attributed to historical factors, government policies, and market forces, fostering a skilled workforce, manufacturing base, service ecosystem, and infrastructure. However, the article argues that the growth pattern is not likely to change drastically in 15 years. The potential consequences include increased migration, infrastructure strain in rich cities, demands for reservation, and populist government policies. 
+
+
+The situation calls for government intervention to address structural impediments in less developed regions, though the article acknowledges the challenge of achieving substantial change in a short timeframe.
+
+Thu, 12 Sep 2024 01:41:42 +0000
+### [September 12, 1984, Forty Years Ago: 26 Tamils Killed](https://indianexpress.com/article/opinion/40-years-ago/september-12-1984-forty-years-ago-26-tamils-killed-9562881/)
+
+Twenty-six Tamils were found dead after their bus was hijacked by men in Army uniform. The bus, carrying between 40 and 50 passengers, was traveling between Colombo and Jaffna. Separately, the hijackers of the Indian Airlines Boeing, which was hijacked to Dubai, confessed to receiving a pistol at Lahore airport and investigations suggest a wealthy Punjab contractor was behind the hijacking.
+
+Thu, 12 Sep 2024 01:39:37 +0000
+### [Suhas Palshikar writes: Why Manipur seems so far away](https://indianexpress.com/article/opinion/columns/suhas-palshikar-writes-why-manipur-seems-so-far-away-9562880/)
+
+The article criticizes the Indian government's handling of the ongoing violence in Manipur. It argues that the government's inaction and distorted view of state power, along with its flawed Hindu nationalist ideology, have exacerbated the situation.
+
+The author points to a pattern of non-response to crises, from the CAA-NRC protests to the farmers' agitation, highlighting the government's reliance on repression and manipulation of public perception.  Furthermore, the article contends that the government's definition of "state" prioritizes a symbolic image of strength over actual governance and fails to address internal challenges or safeguard the interests of diverse communities.
+
+The author concludes by stating that the government's Hindutva-based nationalism, which pits Hindus against non-Hindus, has further alienated communities and contributed to the violence in Manipur.  The crisis in Manipur, therefore, represents a failure of the government's governance model, its understanding of statehood, and its vision of a truly inclusive nation.
+
+Thu, 12 Sep 2024 01:39:34 +0000
+### [Express View on Indian workers: Fill the skill gap](https://indianexpress.com/article/opinion/editorials/express-view-on-indian-workers-fill-the-skill-gap-9562882/)
+
+An investigation revealed that Indian workers sent to Israel to address a labor shortage were facing skill mismatches, leading some to return home and others to be redeployed.  Despite this challenge, the surge in global demand for Indian labor, particularly in areas like construction and healthcare, presents a significant opportunity.  
+
+To effectively capitalize on this demand, India needs to focus on bridging the skill gap by providing vocational and technical training that aligns with market needs.  The focus should be on improving the entire training ecosystem, including institutes, trainers, and curriculum.  Adapting successful models like Sri Lanka's pre-departure training for overseas workers could be beneficial.
+
+Thu, 12 Sep 2024 01:38:45 +0000
+### [The Third Edit: James Earl Jones, Voice of the father](https://indianexpress.com/article/opinion/editorials/the-third-edit-james-earl-jones-voice-of-the-father-9562884/)
+
+James Earl Jones, renowned for his iconic voice, passed away at age 93.  His deep, resonant voice brought Darth Vader and Mufasa to life, becoming instantly recognizable figures across generations.  Jones' career spanned decades, encompassing both film and stage, showcasing his impressive range as an actor. 
+
+From his poignant role in "Field of Dreams" to his powerful performance in "Cry, the Beloved Country," Jones delivered memorable portrayals with gravitas and depth. Despite a childhood stutter, Jones transformed it into a strength, mastering the art of vocal delivery through his dedication and love for performing.
+
+Thu, 12 Sep 2024 01:38:39 +0000
+### [Making India a start-up nation](https://indianexpress.com/article/opinion/columns/making-india-a-start-up-nation-9562903/)
+
+India's economy has experienced rapid growth fueled by factors like UPI, telecom revolution, and the pandemic. With a large and young population, and a growing startup ecosystem, India aims to achieve ambitious economic goals by 2047. 
+
+However, creating sufficient employment opportunities for the burgeoning workforce is crucial.  
+
+The article suggests that fostering entrepreneurship, particularly among graduates of higher education institutions, could significantly contribute to job creation. Citing successful models in the US and UK, it emphasizes the need for academia-industry collaboration and a shift in mindset towards prioritizing entrepreneurship as a key metric for success in higher education.  India needs to increase its R&D expenditure and promote a synergistic approach integrating education, entrepreneurship, and employment to achieve its economic aspirations.
+
+Thu, 12 Sep 2024 01:38:39 +0000
+### [Express View: Facing off with Trump](https://indianexpress.com/article/opinion/editorials/express-view-facing-off-with-trump-9562883/)
+
+The US presidential debate between Kamala Harris and Donald Trump was a psychological battle where Harris emerged as the stronger candidate. She effectively defended her record while attacking Trump's positions on key issues like abortion rights. Harris skillfully avoided direct criticism of President Biden while promoting her vision for a new generation of leadership. 
+
+Her confident performance has shifted the dynamics of the race, making it more competitive. While the debate lacked substance on policy, voters were likely impressed by Harris's personality and composure.
+
 Wed, 11 Sep 2024 11:20:55 +0000
 ### [Why women of my generation both admire and envy the young Vinesh Phogat](https://indianexpress.com/article/opinion/columns/why-women-my-generation-admire-envy-young-vinesh-phogat-9562159/)
 

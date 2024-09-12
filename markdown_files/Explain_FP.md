@@ -1,3 +1,13 @@
+Thu, 12 Sep 2024 06:38:22 +0530
+### [FirstUp: World's first private spacewalk, S Jaishankar in Switzerland... The headlines today](https://www.firstpost.com/explainers/firstup-worlds-first-private-spacewalk-s-jaishankar-in-switzerland-the-headlines-today-13814243.html)
+
+Thursday, September 12th will see the first private space walk led by Jared Isaacman and Sarah Gillis, part of the Polaris Dawn mission. In Switzerland, External Affairs Minister S Jaishankar will conclude his diplomatic tour and meet with Swiss Foreign Minister Ignazio Cassis. Meanwhile, Prime Minister Narendra Modi will attend the Second Asia-Pacific Ministerial Conference on Civil Aviation and announce the “Delhi Declaration”. 
+
+The 11th Beijing Xiangshan Forum, hosted by China, will focus on security cooperation in the Asia-Pacific region, while in India, PM Modi will interact with the country’s Paris Paralympic contingent. 
+
+
+Finally, the “bow-string” arch bridge in Mumbai will partially open, offering a direct route from the Coastal Road to the Bandra Worli Sea Link.
+
 Wed, 11 Sep 2024 21:27:48 +0530
 ### [How company that built the Titanic is struggling to stay afloat](https://www.firstpost.com/explainers/how-company-that-built-the-titanic-is-struggling-to-stay-afloat-13814288.html)
 

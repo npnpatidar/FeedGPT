@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 07:00:19 +0530
+### [Mint Quick Edit | India’s fab dream: There’s hard work to do](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-india-s-fab-dream-there-s-hard-work-to-do-chips-semiconductors-narendra-modi-manufacturing-investment-11726044620974.html)
+
+Prime Minister Narendra Modi aims to establish India as a major global chip supplier, envisioning an "India-made chip" in every device worldwide.  He emphasized India's favorable business environment, stable policies, and existing investments in the semiconductor sector for attracting international players.  
+
+India's pursuit of chip self-sufficiency is driven by both domestic needs and the global trend of securing chip supplies amidst geopolitical uncertainties. While government efforts are underway, challenges remain in ensuring a truly conducive business environment for the sector's growth.
+
 Wed, 11 Sep 2024 16:00:07 +0530
 ### [PM SVANidhi: An idea that lays down a model for marginal vendors to go formal](https://www.livemint.com/opinion/online-views/pm-svanidhi-an-idea-that-lays-down-a-model-for-marginal-vendors-to-go-formal-street-hawkers-informal-economy-smes-loans-11725967635126.html)
 
