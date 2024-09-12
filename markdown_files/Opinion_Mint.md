@@ -1,3 +1,28 @@
+Thu, 12 Sep 2024 15:00:14 +0530
+### [Trump’s dollar defence plan: It’ll hurt more than benefit the US](https://www.livemint.com/opinion/online-views/trumps-dollar-defence-plan-it-ll-hurt-more-than-benefit-the-us-dollar-dominance-dollar-index-foreign-currency-11726048973069.html)
+
+Donald Trump claims the dollar is under attack and countries are moving away from it. He asserts that this is a grave threat and proposes a 100% tariff on goods from nations that abandon the dollar as their primary currency. However, the opposite is true. 
+
+The U.S. dollar remains the world’s primary reserve currency, with its dominance increasing since the start of the Russia-Ukraine war. 
+The global use of the dollar in transactions has surged, and foreign holdings of U.S. Treasury securities continue to grow under President Biden.
+
+In contrast, during Trump’s presidency, the dollar’s share of global currency reserves declined, reaching its lowest point since 1995. 
+
+Trump's proposal, experts warn, could backfire by driving countries further away from the dollar, potentially destabilizing global markets and harming the U.S. economy.
+
+Thu, 12 Sep 2024 14:00:13 +0530
+### [Strengthen industrial statistics to get a true picture of manufacturing](https://www.livemint.com/opinion/columns/strengthen-industrial-statistics-to-get-a-true-picture-of-manufacturing-data-statistics-iip-asi-nss-mospi-economy-11726046672569.html)
+
+India's statistical system relies on three major indicators to track industrial performance: the Index of Industrial Production (IIP), the Annual Survey of Industries (ASI), and manufacturing-related data within National Accounts statistics.  
+
+While the ASI is the primary source for detailed industrial analysis, it suffers from limitations. Its sampling frame, based on factory registrations, excludes many modern establishments, especially those utilizing outsourcing or IT. This results in an incomplete picture, particularly regarding high-value-added manufacturing.
+
+The 2011-12 shift to using the MCA database for National Accounts, while comprehensive,  involves allocating a company's entire value addition to its primary sector, leading to imprecise sectoral assessments. This is because some services and manufacturing activities are interwoven, particularly in the context of Industry 4.0.
+
+The author proposes a two-pronged solution. Utilizing the GST registration database, with its  establishment-based structure and turnover threshold, can improve ASI coverage and capture multi-state enterprises. Detailed GST filings can offer a comprehensive view of production and input usage, although separate surveys would be needed for employment data.  
+
+Additionally, leveraging the Collection of Statistics Act (2008) for a follow-up survey of large listed companies could fill gaps in MCA data, as their management systems hold more detailed information than factory records.  To begin, simply shifting the ASI sampling frame to the GST register and using GST data for reports on sectoral value addition is a feasible step, allowing for precise, timely, and comprehensive industrial performance assessment.
+
 Thu, 12 Sep 2024 12:30:10 +0530
 ### [Water must be at the centre of any efforts to uplift rural India](https://www.livemint.com/opinion/online-views/water-must-be-at-the-centre-of-any-efforts-to-uplift-rural-india-conservation-agriculture-women-climate-change-farming-11726045605853.html)
 

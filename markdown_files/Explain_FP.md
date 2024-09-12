@@ -1,3 +1,29 @@
+Thu, 12 Sep 2024 15:35:03 +0530
+### [In Graphics | A guide to the first private spacewalk by SpaceX’s Polaris Dawn crew](https://www.firstpost.com/explainers/in-graphics-a-guide-to-the-first-private-spacewalk-by-spacexs-polaris-dawn-crew-13814474.html)
+
+The SpaceX Polaris Dawn mission, launched from Florida on September 10th, will attempt the first spacewalk by non-professional astronauts on September 12th.  Led by billionaire Jared Isaacman, the crew of four reached an altitude of 870 miles and will test crucial spacesuits for future space missions, surpassing NASA's Project Gemini record from 1966.  Isaacman and a SpaceX engineer will alternate spacewalks, staying close to the capsule hatch while two other crew members remain secured inside.
+
+Thu, 12 Sep 2024 15:00:41 +0530
+### [What are the Islamic bonds that the Maldives may default on?](https://www.firstpost.com/explainers/what-are-the-islamic-bonds-that-the-maldives-may-default-on-13814476.html)
+
+Sukuks are Islamic bonds that function similarly to conventional bonds but adhere to Islamic law, prohibiting interest. They are investments in which buyers receive ownership or partial ownership of an asset, earning income from the asset rather than interest.  
+
+The Maldives, which issued sukuk to raise capital, faces concerns about potential default. While the central bank asserts its commitment to meet debt obligations, the nation's foreign exchange reserves have depleted significantly, leading to credit rating downgrades and restrictions on foreign currency spending. This situation raises uncertainty about the Maldives' ability to make upcoming sukuk payments and leaves investors questioning if a sukuk default is imminent.
+
+Thu, 12 Sep 2024 14:26:26 +0530
+### [Why India's drug regulator has suspended licence for 'Pres Vu' eye drop that would 'replace reading glasses'](https://www.firstpost.com/health/why-indias-drug-regulator-has-suspended-licence-for-pres-vu-eye-drop-that-would-replace-reading-glasses-13814411.html)
+
+The Drugs Controller General of India (DCGI) has suspended the approval for PresVu, an eye drop that claimed to reduce the need for reading glasses.  The suspension was issued due to concerns about "unauthorised promotion" and "unsafe use" of the product by patients.  
+
+The company, Entod Pharmaceuticals, had claimed that PresVu could enhance near vision within 15 minutes and reduce dependency on reading glasses for those with presbyopia. However, the DCGI found these claims to be unapproved and potentially misleading. The company is now challenging the DCGI's decision in court.
+
+Thu, 12 Sep 2024 14:02:17 +0530
+### [Once blamed for COVID-19, China’s Wuhan lab invents nasal vaccine against ‘future pandemics’. Here's what we know](https://www.firstpost.com/explainers/china-wuhan-lab-nasal-covid-vaccine-future-pandemics-13814450.html)
+
+Researchers at China's Wuhan Institute of Virology have developed a nanovaccine that reportedly offers protection against major COVID-19 variants, including Delta, Omicron, and WIV04. The vaccine, delivered intranasally, combines coronavirus epitopes with the blood protein ferritin to create nanoparticles that trigger a strong immune response.  
+
+Studies on mice showed promising results, with high antibody levels lasting for at least six months after the initial doses. The researchers believe this nanovaccine could provide long-lasting and broad-spectrum protection against various coronaviruses, potentially mitigating the threat of future pandemics.
+
 Thu, 12 Sep 2024 13:42:47 +0530
 ### [‘Don’t use his death for political gain’: Who was 11-year-old Aiden Clark, whose parents slammed Vance and Trump?](https://www.firstpost.com/world/united-states/aiden-clark-nathan-father-jd-vance-trump-haitian-immigrants-ohio-13814451.html)
 

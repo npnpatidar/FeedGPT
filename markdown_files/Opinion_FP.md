@@ -1,3 +1,12 @@
+Thu, 12 Sep 2024 14:45:16 +0530
+### [Why India needs to consolidate its control in the western Indian Ocean](https://www.firstpost.com/opinion/why-india-needs-to-consolidate-its-control-in-the-western-indian-ocean-13814494.html)
+
+India's security interests in the Indian Ocean basin are being challenged by various actors, including China and Turkey. China has established a naval base in Djibouti and has gained influence through debt diplomacy in Sri Lanka and Pakistan. Turkey's growing influence in Somalia, with the establishment of a naval base, is also a concern. 
+
+To counter these threats, India needs to assert its presence more strongly in mainland Africa.  Strengthening ties with countries like Rwanda and Mozambique, and possibly securing a base in Cabo Delgado, could help India deny China and Pakistan-backed groups a foothold.  Furthermore, engaging with countries like Kenya and Tanzania through increased trade  would provide India with strategic counterbalance. 
+
+Envisioning the African coast from Somalia to Mozambique as an Indian sphere of influence, while respecting African sovereignty, could ensure India's maritime security and regional stability.
+
 Thu, 12 Sep 2024 08:51:13 +0530
 ### [Decoding Rahul Gandhi’s US trip: Why is India’s LoP giving ammo to Khalistanis, meeting Ilhan Omar?](https://www.firstpost.com/opinion/decoding-rahul-gandhis-us-trip-why-is-indias-lop-giving-ammo-to-khalistanis-meeting-ilhan-omar-13814343.html)
 
