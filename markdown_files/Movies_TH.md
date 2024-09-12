@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 18:55:34 +0530
+### [‘Ajayante Randam Moshanam’ (ARM) movie review: Tovino Thomas carries this visually impressive drama, despite underwhelming writing](https://www.thehindu.com/entertainment/movies/ajayante-randam-moshanam-arm-movie-review-tovino-thomas-carries-this-visually-impressive-drama/article68634405.ece)
+
+"Ajayante Randam Moshanam" (ARM), a debut film by Jithin Laal, explores themes of lineage and legacy through the story of Ajayan, a man grappling with the historical baggage of his family.  The narrative blends reality and fantasy, incorporating a magical lamp and the legacy of Ajayan's ancestors. 
+
+Tovino Thomas delivers a strong performance as Ajayan and his ancestors, showcasing distinct characteristics for each role. The film boasts impressive visuals and special effects, effectively bringing the fantastical elements to life despite a limited budget. However, the screenplay falters in the middle, relying on familiar tropes and failing to fully develop the intriguing subtext it introduces about monarchy and democracy.
+
 Wed, 11 Sep 2024 18:24:30 +0530
 ### [‘My First Film’ review: Zia Anger’s moving meta-fiction is a stunning ode to failure](https://www.thehindu.com/entertainment/movies/my-first-film-review-zia-angers-moving-meta-fiction-is-a-stunning-ode-to-failure/article68630010.ece)
 

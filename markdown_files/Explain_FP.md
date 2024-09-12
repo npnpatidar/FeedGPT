@@ -1,3 +1,17 @@
+Thu, 12 Sep 2024 19:12:16 +0530
+### [Why this Spanish city is asking British tourists to keep their clothes on](https://www.firstpost.com/explainers/why-this-spanish-city-is-asking-british-tourists-to-keep-their-clothes-on-13814507.html)
+
+Malaga is attempting to curb disruptive tourist behavior with a new campaign featuring billboards and signs in English targeting British visitors.  
+
+Concerns include inappropriate attire like walking around in bikinis or shorts, noise pollution late at night, littering, and scooter riders obstructing pedestrian areas. The city is also imposing fines for these offenses. 
+
+This initiative comes amidst growing frustration among local residents who feel overwhelmed by tourism. They cite issues like skyrocketing housing costs, a decrease in local businesses, and the loss of residential character.  Malaga's efforts reflect a broader trend in Spain, where cities like Barcelona and Ibiza are also implementing measures to address the negative impacts of mass tourism.
+
+Thu, 12 Sep 2024 18:52:09 +0530
+### [In Graphics l The life and legacy of Communist icon Sitaram Yechury](https://www.firstpost.com/explainers/in-graphics-l-the-life-and-legacy-of-communist-icon-sitaram-yechury-13814589.html)
+
+Sitaram Yechury, the former Rajya Sabha MP and general secretary of the Communist Party of India (Marxist), passed away on Thursday at the age of 72. He died of a severe lung infection while receiving treatment at AIIMS in New Delhi. Yechury had a 50-year political career, known for his activism and commitment to civil liberties and left-wing ideals.  The CPI(M) described his passing as a significant loss for the Left, democratic, and secular forces in India.  He is survived by his wife, Seema Chishti, son, and daughter.
+
 Thu, 12 Sep 2024 17:44:10 +0530
 ### [A photogenic scion, a defence geek, a hardliner woman leader: The big names in the race to be Japan’s PM](https://www.firstpost.com/explainers/japan-pm-contenders-ldp-election-13814551.html)
 

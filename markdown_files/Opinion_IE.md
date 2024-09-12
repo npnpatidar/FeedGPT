@@ -1,3 +1,8 @@
+Thu, 12 Sep 2024 13:53:27 +0000
+### [Lollapalooza India 2025: A Gen Z-friendly lineup — but where are the gritty rock acts?](https://indianexpress.com/article/opinion/columns/lollapalooza-india-2025-gen-z-friendly-lineup-gritty-rock-acts-9564230/)
+
+Lollapalooza India's 2025 lineup features Green Day, Shawn Mendes, and Isabel LaRosa as headliners. While the festival welcomes a Gen-Z friendly lineup with artists like Zedd and John Summit, the absence of  rock and metal acts is lamented by long-time fans of the genre. Indian artists like Niladri Kumar, Sahil Vasudeva,  and hip-hop acts like Hanumankind and Raftaar x Kr$na also feature. However, the lack of international and Indian rock and metal artists is a disappointment, especially considering the genre's history with Lollapalooza.
+
 Thu, 12 Sep 2024 10:19:05 +0000
 ### [In polarising times, how I teach my students harmony](https://indianexpress.com/article/opinion/columns/polarising-times-how-i-teach-my-students-harmony-9563892/)
 

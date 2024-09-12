@@ -1,3 +1,17 @@
+Thu, 12 Sep 2024 19:17:49 +0530
+### [Will Turkey’s inclusion into BRICS push India on the back foot?](https://www.firstpost.com/opinion/will-turkeys-inclusion-into-brics-push-india-on-the-back-foot-13814627.html)
+
+Turkish President Recep Tayyip Erdogan's move to have Turkey join the BRICS group is significant. BRICS,  originally comprising Brazil, Russia, India, China and South Africa,  has expanded to include several new members,  positioning itself as a counterbalance to Western influence.  Turkey's potential membership would make it the first NATO member in the group, given its strategic location between Europe and Asia and its role as a key NATO ally. 
+
+This move comes at a time of global geopolitical shifts, including the war in Ukraine, the Israel-Gaza conflict, and the upcoming US presidential election. India, which maintains diplomatic ties with Turkey despite some friction, will need to assess the implications of Turkey's entry for its own foreign policy, particularly  its balancing act between Russia, the US, and China within the context of BRICS and the SCO.
+
+Thu, 12 Sep 2024 18:18:44 +0530
+### [Ukraine war: Why there’s growing consensus about India’s role as peacekeeper](https://www.firstpost.com/opinion/ukraine-war-why-theres-growing-consensus-about-indias-role-as-peacekeeper-13814599.html)
+
+India's stance on the Russia-Ukraine war has evolved from neutrality to a position of global importance as a potential peacemaker. Prime Minister Modi's recent visits to both Russia and Ukraine, where he met with Putin and Zelensky respectively, have garnered international attention.  
+
+Modi's message of peace and diplomacy has been widely welcomed, with leaders like Condoleeza Rice and Italian Prime Minister Meloni recognizing India's role in mediating the conflict. India's unique relationship with both Russia and Ukraine, coupled with Modi's diplomatic efforts, places the country in a crucial position to contribute to finding a resolution to the war.
+
 Thu, 12 Sep 2024 16:17:12 +0530
 ### [Dangerous politics of Rahul Gandhi and the ‘3.5% Rule’ of regime change](https://www.firstpost.com/opinion/dangerous-politics-of-rahul-gandhi-and-the-3-5-rule-of-regime-change-13814518.html)
 

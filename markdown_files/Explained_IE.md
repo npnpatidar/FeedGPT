@@ -1,3 +1,15 @@
+Thu, 12 Sep 2024 12:48:31 +0000
+### [Who is Kamala Harris’s father, whom Trump denounced as ‘a Marxist’?](https://indianexpress.com/article/explained/explained-global/kamala-harris-father-donald-marxist-9564064/)
+
+Donald Harris, father of Vice President Kamala Harris, is an emeritus professor of economics at Stanford University.  A Jamaican native, he was exposed to economics principles through his grandmothers and developed a keen interest in the field. He earned his PhD from the University of California, Berkeley and became the first Black scholar to receive tenure in Stanford's economics department. His work, which integrates post-Keynesian economics into Development Economics, challenges traditional assumptions about economic growth and critically analyzes economic traditions in the US and the Caribbean.
+
+Thu, 12 Sep 2024 12:40:33 +0000
+### [Does Polaris Dawn mission violate 50-year old international treaty?](https://indianexpress.com/article/explained/explained-sci-tech/polaris-dawn-violate-outer-space-treaty-9564213/)
+
+A recent private spacewalk conducted by the Polaris Dawn mission has sparked debate regarding its compliance with the Outer Space Treaty (OST) signed in 1967. Article VI of the OST mandates that space activities by non-governmental entities require authorization and supervision by a state party.  
+
+The US, however, currently limits oversight of private space companies to Earth-based rocket and spacecraft safety, citing limitations in federal law. This lack of regulatory oversight has raised concerns about potential violations of the OST, particularly among those who believe Article VI is clear and leaves little room for interpretation. Some experts argue for an international, independent space safety institute to ensure responsible and safe private space activities.  As private space exploration continues to expand, revisiting and clarifying the OST's ambiguities may be necessary to prevent future conflicts and ensure the responsible use of space.
+
 Thu, 12 Sep 2024 10:38:21 +0000
 ### [Can nano DAP replace the conventional granular version in Punjab’s Rabi season?](https://indianexpress.com/article/explained/explained-economics/can-nano-dap-replace-the-conventional-granular-version-in-punjabs-rabi-season-9563952/)
 

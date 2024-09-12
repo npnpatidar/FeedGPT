@@ -1,3 +1,12 @@
+Thu, 12 Sep 2024 18:57:12 +0530
+### [Can Sheikh Hasina be extradited from India to Bangladesh to stand trial?](https://www.thehindu.com/news/international/can-sheikh-hasina-be-extradited-from-india-to-bangladesh-to-stand-trial/article68624930.ece)
+
+Bangladesh's International Crimes Tribunal chief prosecutor has announced plans to extradite former Prime Minister Sheikh Hasina from India to face charges of murder, torture, abduction, crimes against humanity, and genocide. Hasina fled to India in August after mass protests forced her resignation.   
+
+While Bangladeshi courts can proceed with trials in absentia, extradition is considered crucial to ensure fairness and due process. India and Bangladesh have an extradition treaty that covers these offenses, and Hasina's alleged crimes qualify for extradition under its provisions. 
+
+However, India could potentially refuse extradition on grounds of political motivation or fear of unfair trial. Experts note that the final decision will likely be influenced by diplomatic negotiations and political considerations.
+
 Thu, 12 Sep 2024 08:30:00 +0530
 ### [Why did Brazil’s Supreme Court suspend X? | Explained](https://www.thehindu.com/news/international/why-did-brazils-supreme-court-suspend-x-explained/article68631494.ece)
 
