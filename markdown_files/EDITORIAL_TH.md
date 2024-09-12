@@ -1,3 +1,17 @@
+Fri, 13 Sep 2024 00:20:00 +0530
+### [​Essential, but not enough: on the extended coverage of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana](https://www.thehindu.com/opinion/editorial/%E2%80%8Bessential-but-not-enough-on-the-extended-coverage-of-the-ayushman-bharat-pradhan-mantri-jan-arogya-yojana/article68634754.ece)
+
+The extension of Ayushman Bharat Prime Minister Jan Arogya Yojana (AB PM-JAY) to senior citizens over 70 is a positive step, but its limitations raise concerns. While the scheme offers ₹500,000 in annual coverage for hospitalization, it lacks outpatient care, diagnostics, and medication coverage. This is problematic as chronic diseases are prevalent in this age group, and a significant portion of healthcare expenditure occurs outside of hospitalization. 
+
+Furthermore, the penetration of PM-JAY in smaller towns and cities is low, and the reliance on private hospitals further burdens the public healthcare system. Investing in robust primary and secondary care is crucial to reduce reliance on tertiary care and improve healthcare accessibility for the elderly.
+
+Fri, 13 Sep 2024 00:10:00 +0530
+### [Street power: on the Kolkata protest](https://www.thehindu.com/opinion/editorial/street-power-on-the-kolkata-protest/article68634777.ece)
+
+Kolkata is facing a crisis as junior doctors and civil society protest the brutal rape and murder of a doctor. Their demands include swift justice, disciplinary action against hospital authorities, enhanced security, and an overhaul of the government health system.  
+
+Despite a government initiative to protect healthcare workers, the situation remains tense. Doctors, who have defied court orders to return to work, are demanding televised talks with the government.  The ongoing protests have disrupted healthcare services, leaving many patients without essential medical attention, particularly those relying on government hospitals. With the upcoming festival season, pressure mounts on both the government and doctors to find a resolution and restore normalcy to the healthcare system.
+
 Thu, 12 Sep 2024 00:20:00 +0530
 ### [​Public accounts: On the newly constituted Public Accounts Committee](https://www.thehindu.com/opinion/editorial/%E2%80%8Bpublic-accounts-on-the-newly-constituted-public-accounts-committee/article68630677.ece)
 
