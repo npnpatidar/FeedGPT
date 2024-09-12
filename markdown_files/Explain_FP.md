@@ -1,3 +1,8 @@
+Thu, 12 Sep 2024 09:50:13 +0530
+### [Centre extends Ayushman Bharat free health insurance to all above 70: How will it work?](https://www.firstpost.com/explainers/centre-ayushman-bharat-health-insurance-age-70-eligibility-13814370.html)
+
+The Union Cabinet has approved an expansion of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) to include all citizens aged 70 years or above. This decision will benefit six crore people across 4.5 crore families by providing a Rs 5 lakh health coverage per family.  The scheme, which was previously only available to individuals belonging to the bottom 40 per cent of India's population, now covers all senior citizens regardless of income. Those aged 70 and above who are already covered under other public health insurance schemes can choose to opt for AB-PMJAY. The expansion is expected to have an initial outlay of Rs 3,437 crore, with the Centre bearing the costs for hilly and northeastern states. This move aims to provide a safety net for the elderly population, considering India's rapidly growing senior citizen demographic.
+
 Thu, 12 Sep 2024 08:36:54 +0530
 ### [Polaris Dawn set to make history with first privately managed spacewalk: Just how dangerous is it?](https://www.firstpost.com/explainers/polaris-dawn-first-privately-managed-spacewalk-dangers-13814272.html)
 

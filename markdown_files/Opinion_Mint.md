@@ -1,3 +1,12 @@
+Thu, 12 Sep 2024 10:30:08 +0530
+### [What the Blue Screen of Death that froze the world taught us](https://www.livemint.com/opinion/columns/what-the-blue-screen-of-death-that-froze-the-world-taught-us-bsod-crowdstrike-windows-ai-11726045105229.html)
+
+In July 2023, a software update from CrowdStrike, a cybersecurity firm, caused a widespread malfunction in Windows operating systems globally. The faulty update triggered the Blue Screen of Death, disrupting critical services in various sectors including airports, hospitals, and businesses.  
+
+The incident highlighted the fragility of our interconnected digital infrastructure and the need for robust testing and mitigation strategies. Experts point to a lack of throttled rollout in the update deployment, allowing the issue to impact a large user base before being detected and remedied.
+
+They emphasize the importance of redundancy and resilience in critical systems, urging organizations to diversify their cybersecurity solutions and invest in robust incident response plans. Continuous monitoring, including automated rollback mechanisms, is also crucial for proactively identifying and addressing potential problems.  The incident serves as a reminder of the potential consequences of even seemingly mundane IT failures in our increasingly reliant on digital systems world.
+
 Thu, 12 Sep 2024 08:30:04 +0530
 ### [Pet paranoia and anti-immigrant rants reveal economic myopia](https://www.livemint.com/opinion/online-views/pet-paranoia-and-anti-immigrant-rants-reveal-economic-myopia-donald-trump-kamala-harris-debate-immigration-pets-dogs-cat-11726044732708.html)
 

@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 05:56:09 +0000
+### [The wisdom of mothers: From Saroj Devi, Neeraj Chopra’s mother, to Uma Mishra, bereaved mother of Aryan Mishra, why love is the resistance we need](https://indianexpress.com/article/opinion/columns/mothers-saroj-devi-neeraj-chopra-uma-mishra-love-resistance-9563488/)
+
+This article examines the reactions of two mothers, Uma Mishra and Saroj Devi, to recent events involving their sons. Uma's son Aryan was killed by self-styled "cow vigilantes," highlighting the normalization of violence against Muslims. Saroj's son Neeraj Chopra, an Olympic medalist, lost to Pakistan's Arshad Nadeem in a recent competition. Despite the tension between India and Pakistan, Saroj expressed pride in both her son and Nadeem, rejecting divisive narratives. 
+
+The author draws parallels to the strength and resilience of women in India who have led protests against injustice, such as the farmers' demonstrations and the Shaheen Bagh protests.  These women have shown the power of love and unity in the face of hate and division. The article concludes by urging the "silent majority" to follow their lead and resist the prevailing culture of violence and intolerance.
+
 Thu, 12 Sep 2024 02:04:35 +0000
 ### [Harris-Trump presidential debate and two classic American stories](https://indianexpress.com/article/opinion/columns/harris-trump-presidential-debate-and-two-classic-american-stories-9562902/)
 

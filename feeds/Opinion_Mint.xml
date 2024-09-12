@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>What the Blue Screen of Death that froze the world taught us</title>
+			<link>https://www.livemint.com/opinion/columns/what-the-blue-screen-of-death-that-froze-the-world-taught-us-bsod-crowdstrike-windows-ai-11726045105229.html</link>
+			<description>In July 2023, a software update from CrowdStrike, a cybersecurity firm, caused a widespread malfunction in Windows operating systems globally. The faulty update triggered the Blue Screen of Death, disrupting critical services in various sectors including airports, hospitals, and businesses.  
+
+The incident highlighted the fragility of our interconnected digital infrastructure and the need for robust testing and mitigation strategies. Experts point to a lack of throttled rollout in the update deployment, allowing the issue to impact a large user base before being detected and remedied.
+
+They emphasize the importance of redundancy and resilience in critical systems, urging organizations to diversify their cybersecurity solutions and invest in robust incident response plans. Continuous monitoring, including automated rollback mechanisms, is also crucial for proactively identifying and addressing potential problems.  The incident serves as a reminder of the potential consequences of even seemingly mundane IT failures in our increasingly reliant on digital systems world.</description>
+			<pubDate>Thu, 12 Sep 2024 10:30:08 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/11/1600x900/CYBER-OUTAGES--13_1721466142526_1726045419163.JPG"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/11/1600x900/CYBER-OUTAGES--13_1721466142526_1726045419163.JPG" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Pet paranoia and anti-immigrant rants reveal economic myopia</title>
 			<link>https://www.livemint.com/opinion/online-views/pet-paranoia-and-anti-immigrant-rants-reveal-economic-myopia-donald-trump-kamala-harris-debate-immigration-pets-dogs-cat-11726044732708.html</link>
 			<description>The article discusses the rising political issue of immigration, citing examples like Donald Trump's campaign rhetoric in the US and the growth of anti-immigrant parties in Europe. 
