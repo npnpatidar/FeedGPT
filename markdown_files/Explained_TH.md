@@ -1,3 +1,12 @@
+Thu, 12 Sep 2024 08:30:00 +0530
+### [Why did Brazil’s Supreme Court suspend X? | Explained](https://www.thehindu.com/news/international/why-did-brazils-supreme-court-suspend-x-explained/article68631494.ece)
+
+The Brazilian Supreme Court ordered the suspension of X, formerly Twitter, citing the platform's refusal to appoint a legal representative in Brazil.  Justice Alexandre de Moraes initiated an investigation into "digital militias," far-right groups that allegedly used X to spread disinformation and incite violence leading to the January 2023 riots in Brasilia. 
+
+Moraes had previously ordered X to suspend accounts spreading misinformation and provide user data. Elon Musk, X's owner, defied these orders and threatened to shut down operations in Brazil. After X ignored a deadline to appoint a representative, Moraes suspended the platform. 
+
+The case raises questions about regulatory sovereignty, free speech versus censorship, and the role of social media in political discourse.
+
 Wed, 11 Sep 2024 22:20:58 +0530
 ### [Tackling right-wing resurgence in Germany](https://www.thehindu.com/news/international/tackling-right-wing-resurgence-in-germany/article68631521.ece)
 

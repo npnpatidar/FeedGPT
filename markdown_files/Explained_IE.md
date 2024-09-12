@@ -1,3 +1,15 @@
+Thu, 12 Sep 2024 03:36:49 +0000
+### [40% of Amazon rainforest most vital to climate is unprotected](https://indianexpress.com/article/explained/explained-climate/40-of-amazon-rainforest-most-vital-to-climate-is-unprotected-9562983/)
+
+A new analysis reveals that nearly 40% of the Amazon rainforest areas crucial for climate change mitigation lack governmental protection. These areas, concentrated in the southwest of Peru and the northeast of Brazil, French Guiana, and Suriname, have the largest, densest trees and highest carbon storage capacity. The study, conducted by Amazon Conservation using satellite data, highlights the importance of preserving these regions. 
+
+While 61% of peak carbon areas are designated as indigenous reserves or protected lands, significant portions remain unprotected, particularly in Brazil, Suriname, and French Guiana. The study emphasizes the urgency of protecting these vital areas, as the rainforest's role as a carbon sink is crucial for global climate stability.
+
+Thu, 12 Sep 2024 03:32:18 +0000
+### [Controversy over Mumbai’s salt pans: why do these lands matter?](https://indianexpress.com/article/explained/controversy-over-mumbais-salt-pans-why-do-these-lands-matter-9551821/)
+
+The Indian government approved the transfer of salt pan land in Mumbai to a company for building rental housing. This decision, while aimed at addressing Mumbai's slum housing crisis, sparked controversy due to the potential damage to the fragile ecosystem. Salt pans act as natural flood defenses for Mumbai, as low-lying areas where seawater flows in, leaving behind salt and minerals.  Environmentalists argue that development on these lands will exacerbate flooding risks in densely populated areas like Vikhroli and Kanjurmarg. They also highlight the ecological importance of salt pans for various bird and insect species  and question the sustainability of constructing housing on land prone to inundation, raising concerns about the quality of life for the relocated slum-dwellers.
+
 Thu, 12 Sep 2024 02:31:41 +0000
 ### [What a new study reveals about the presence of airborne germs 10,000 feet up](https://indianexpress.com/article/explained/explained-sci-tech/new-study-10000-feet-up-germs-9562678/)
 

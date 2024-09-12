@@ -1,3 +1,14 @@
+Thu, 12 Sep 2024 08:36:54 +0530
+### [Polaris Dawn set to make history with first privately managed spacewalk: Just how dangerous is it?](https://www.firstpost.com/explainers/polaris-dawn-first-privately-managed-spacewalk-dangers-13814272.html)
+
+The Polaris Dawn mission, launched on Tuesday from NASA's Kennedy Space Center, is set to make history with the first privately managed spacewalk. 
+
+Billionaire Jared Isaacman and SpaceX engineer Sarah Gillis will attempt the spacewalk, each separately, lasting approximately two hours at an altitude of 700 kilometers. This venture marks a significant step as previous spacewalks have only been conducted by government astronauts. 
+
+The crew will utilize SpaceX's new spacesuits equipped with cameras, thermal management systems, and heads-up displays, specially developed from the intravehicular activity (IVA) suit.  Both Isaacman and Gillis possess extensive experience, with Isaacman having previously flown in space in 2021 and Gillis training NASA astronauts for various missions.  
+
+Experts express confidence in the mission's success, highlighting SpaceX's commitment to safety and the team's expertise.
+
 Thu, 12 Sep 2024 06:38:22 +0530
 ### [FirstUp: World's first private spacewalk, S Jaishankar in Switzerland... The headlines today](https://www.firstpost.com/explainers/firstup-worlds-first-private-spacewalk-s-jaishankar-in-switzerland-the-headlines-today-13814243.html)
 

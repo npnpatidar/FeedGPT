@@ -1,3 +1,12 @@
+Thu, 12 Sep 2024 08:30:04 +0530
+### [Pet paranoia and anti-immigrant rants reveal economic myopia](https://www.livemint.com/opinion/online-views/pet-paranoia-and-anti-immigrant-rants-reveal-economic-myopia-donald-trump-kamala-harris-debate-immigration-pets-dogs-cat-11726044732708.html)
+
+The article discusses the rising political issue of immigration, citing examples like Donald Trump's campaign rhetoric in the US and the growth of anti-immigrant parties in Europe. 
+
+Despite global migration rates remaining relatively stable, countries like the US and Australia have significant foreign-born populations. The article highlights the economic benefits of immigration but acknowledges the cultural anxieties it can trigger, especially in Europe where concerns about Islamization and the erosion of traditional values are prevalent. 
+
+The author uses the example of India, where internal migration is widespread, to illustrate how cultural differences can lead to tensions even within a single country.  They argue for proactive policies to manage migration and promote tolerance, emphasizing the importance of  economic prosperity and national solidarity.
+
 Thu, 12 Sep 2024 07:00:19 +0530
 ### [Mint Quick Edit | India’s fab dream: There’s hard work to do](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-india-s-fab-dream-there-s-hard-work-to-do-chips-semiconductors-narendra-modi-manufacturing-investment-11726044620974.html)
 

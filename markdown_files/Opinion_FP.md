@@ -1,3 +1,10 @@
+Thu, 12 Sep 2024 08:51:13 +0530
+### [Decoding Rahul Gandhi’s US trip: Why is India’s LoP giving ammo to Khalistanis, meeting Ilhan Omar?](https://www.firstpost.com/opinion/decoding-rahul-gandhis-us-trip-why-is-indias-lop-giving-ammo-to-khalistanis-meeting-ilhan-omar-13814343.html)
+
+Rahul Gandhi's recent trip to the United States, aimed at bolstering his image as a thoughtful leader, has backfired. During interviews and events, he made controversial statements about India's democracy, institutions, and social inequalities.  
+
+His claims about Sikhs facing restrictions in India were deemed outrageous and played into the hands of Khalistani separatists. He also met with controversial US lawmakers, amplifying criticism that he is exploiting fault lines and undermining national security for political gain. His strategy of portraying India in a negative light on foreign soil has been met with outrage and accusations of incompetence.
+
 Wed, 11 Sep 2024 23:14:18 +0530
 ### [James Earl Jones is no more, but his voice will live on forever](https://www.firstpost.com/opinion/james-earl-jones-is-no-more-but-his-voice-will-live-on-forever-13814265.html)
 
