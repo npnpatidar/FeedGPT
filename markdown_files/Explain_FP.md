@@ -1,3 +1,29 @@
+Fri, 13 Sep 2024 18:53:28 +0530
+### [China is raising its retirement age for the first time in over 70 years: Why?](https://www.firstpost.com/explainers/china-is-raising-its-retirement-age-for-the-first-time-in-75-years-why-13815029.html)
+
+China is gradually raising its retirement age for the first time since the 1950s. This change is intended to address the country's rapidly ageing population, shrinking workforce, and strained pension system.  The retirement age for men will increase from 60 to 63 and for women from 50-55 to 55-58 over the next 15 years. 
+
+This reform is driven by demographic changes, with a growing number of elderly citizens and declining birth rates. A shrinking workforce threatens economic growth, and the existing pension system is facing a financial crisis.  
+
+While the reform is considered necessary, it has sparked public concern about job security and the delayed access to pensions, particularly in a tight job market where age discrimination is a prevalent issue.
+
+Fri, 13 Sep 2024 18:10:11 +0530
+### [Jammu and Kashmir Assembly elections: What gives BJP an edge? Why are the challenges?](https://www.firstpost.com/explainers/jammu-and-kashmir-assembly-elections-bjp-advantages-challenges-13815001.html)
+
+The BJP has strategically decided to contest only 19 out of 47 Assembly seats in the Kashmir Valley for the upcoming elections in Jammu and Kashmir.  This move comes after the party skipped all three Lok Sabha seats in the Valley previously.  BJP insiders suggest this is a tactical decision, as they don't expect to win many seats there, with the exception possibly of Srinagar.  
+
+The BJP has a strong focus on Jammu, where they will contest all 43 seats. Delimitation has benefited the BJP by increasing the number of Assembly seats in Jammu.  The recent Scheduled Tribes Order amendment bill, which accords scheduled tribe status to certain communities in Jammu, is also expected to bolster the BJP's prospects in the region.  
+
+
+Though the BJP expects to win a majority of seats in Jammu, internal party disagreements over ticket distribution could pose a challenge.  
+ 
+The party hopes to form a government in Jammu and Kashmir, potentially with the help of Independent candidates and smaller parties, which they claim to align with. The outcome of the elections will be significant as it will be the first after the abrogation of Article 370 and the UT's division.
+
+Fri, 13 Sep 2024 18:04:45 +0530
+### [Why did the Earth vibrate for 9 days in 2023?](https://www.firstpost.com/explainers/why-did-the-earth-vibrate-for-9-days-in-2023-13814891.html)
+
+In September 2022, an unusual nine-day seismic vibration puzzled scientists worldwide.  Dubbed a "Unidentified Seismic Object" (USO), it was unlike any earthquake recorded. The source was finally identified as a massive landslide in Greenland triggered by the collapse of a large ice slab. This triggered a huge tsunami, which, as it reverberated in the fjord, created a prolonged seiche - a rhythmic water oscillation. This seiche generated the sustained seismic waves detected globally. The event highlights the increasing frequency of such climate-change driven occurrences in the warming Arctic.
+
 Fri, 13 Sep 2024 16:21:55 +0530
 ### [Why are heart attacks among the young rising? Does it have a connection to indigestion?](https://www.firstpost.com/health/heart-attack-young-rising-indigestion-link-13814932.html)
 

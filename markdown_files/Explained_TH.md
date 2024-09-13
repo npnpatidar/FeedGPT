@@ -1,3 +1,10 @@
+Fri, 13 Sep 2024 19:12:05 +0530
+### [Supreme Court granting bail to Arvind Kejriwal in corruption case: Key takeaways](https://www.thehindu.com/news/national/arvind-kejriwal-bail-sc-verdict-corruption-case-key-takeaways/article68637876.ece)
+
+The Supreme Court granted regular bail to Delhi Chief Minister Arvind Kejriwal in the CBI case related to the now-scrapped liquor excise policy.  Justice Kant ruled that the arrest was valid as the special court had already sanctioned it, while Justice Bhuyan questioned the timing and necessity of the arrest, calling it potentially an "insurance arrest" to thwart Mr. Kejriwal's release in another case. Both judges agreed that continued incarceration violated his right to personal liberty and noted the likelihood of a lengthy trial.  
+
+Mr. Kejriwal was released on a ₹10 lakh bond with two sureties and barred from making public comments on the case. He must also adhere to certain bail conditions from a previous ED case involving restrictions on visiting his office and signing official files. Justice Bhuyan expressed reservations about these conditions.
+
 Fri, 13 Sep 2024 08:30:00 +0530
 ### [What role does CSTT play in standardising technical terms?](https://www.thehindu.com/news/national/what-role-does-cstt-play-in-standardising-technical-terms/article68633988.ece)
 

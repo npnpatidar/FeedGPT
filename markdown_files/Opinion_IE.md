@@ -1,3 +1,8 @@
+Fri, 13 Sep 2024 13:56:02 +0000
+### [Atishi writes on Arvind Kejriwal’s bail: The BJP has tried to bury us, but it does not realise — we are seeds](https://indianexpress.com/article/opinion/columns/arvind-kejriwal-bail-atishi-bjp-tried-to-bury-us-9566235/)
+
+The Supreme Court granted bail to Arvind Kejriwal in the Delhi excise policy case, questioning the CBI's motives and alleging political interference. The incident highlights the Modi government's alleged weaponization of laws like the PMLA, making it difficult for the accused to secure bail. The AAP has been a target of this "lawfare," with multiple cases against its leaders, but each has largely failed in court. Despite these challenges, the AAP has remained resilient, with its leadership uniting and regaining strength.
+
 Fri, 13 Sep 2024 12:00:29 +0000
 ### [From Ukraine today to India Post-Independence, how fashion can heal](https://indianexpress.com/article/opinion/columns/ukraine-to-india-post-independence-how-fashion-can-heal-9566001/)
 

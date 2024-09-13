@@ -1,3 +1,13 @@
+Fri, 13 Sep 2024 18:01:34 +0530
+### [Imran Khan's PTI renews its confrontation with Pakistan Army](https://www.firstpost.com/opinion/imran-khans-pti-renews-its-confrontation-with-pakistan-army-13815007.html)
+
+The PTI continues its confrontational stance against the military establishment, with its leader Imran Khan demanding the court martial of military officers and threatening to end all negotiations with them.  PTI Chief Minister of KP, Ali Amin Gandapur, made inflammatory remarks and was summoned for reprimand by security officials. Despite a pledge of remorse and restraint, the KP Assembly passed a resolution demanding the military's court martial and Khan's release. The situation is further complicated by judicial hostility towards the military, highlighted in the LHC ruling against the appointment of a serving general as NADRA chairman. However, leaked evidence from the court martial of former Lt Gen Faiz Hameed has had a damaging impact on PTI morale.  
+
+
+
+  
+The focus now shifts to a planned PTI protest rally in Lahore on September 21st, where the government must decide whether to grant permission, potentially escalating tensions further.
+
 Fri, 13 Sep 2024 16:31:39 +0530
 ### [How AI can help in Disaster Management: Lessons from across the world](https://www.firstpost.com/opinion/how-ai-can-help-in-disaster-management-lessons-from-across-the-world-13814943.html)
 

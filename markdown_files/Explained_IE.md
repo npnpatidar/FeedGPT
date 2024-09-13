@@ -1,3 +1,12 @@
+Fri, 13 Sep 2024 12:50:04 +0000
+### [Why India’s medical education regulator flip-flopped on ‘lesbianism’, ‘virginity’](https://indianexpress.com/article/explained/india-medical-education-regulator-9566110/)
+
+India's medical regulator withdrew and revised undergraduate curriculum guidelines for forensic medicine.  The revised version removes outdated and offensive language regarding LGBTQI+ issues. 
+
+It no longer categorizes sodomy and lesbianism as "unnatural sexual offenses,"  rejects the concept of virginity and defloration, and avoids using terms like "transvestism" as a sexual perversion.  
+
+The curriculum now includes topics like informed consent in sexual intercourse, the history of gender- and sexuality-based identities, and the recognition of unscientific virginity tests.
+
 Fri, 13 Sep 2024 12:13:16 +0000
 ### [What is OpenAI o1, an AI model that ‘thinks’ before it answers?](https://indianexpress.com/article/explained/explained-sci-tech/openai-o1-model-9566052/)
 
