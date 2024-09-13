@@ -1,3 +1,10 @@
+Fri, 13 Sep 2024 13:25:48 +0530
+### [‘The Buckingham Murders’ movie review: Kareena Kapoor Khan mothers this socially-pertinent whodunit](https://www.thehindu.com/entertainment/movies/the-buckingham-murders-movie-review-kareena-kapoor-khan-mothers-this-socially-pertinent-whodunit/article68637652.ece)
+
+"The Buckingham Murders" is a fast-paced thriller set in England that explores the complexities of social division and grief.  The film follows police officer Jaspreet Bhamra, played by Kareena Kapoor Khan, as she investigates the disappearance of a teenager amidst growing racial tension in the community.  Writer-director Hansal Mehta skillfully weaves together a compelling mystery while highlighting the struggles of immigrants, marginalized individuals, and those grappling with personal loss. 
+
+Kareena Kapoor Khan delivers a nuanced and emotionally charged performance as Jass, a grieving officer determined to find the truth.  The film features a strong supporting cast, including Ranveer Brar and Ash Tandon, who bring depth to their respective roles. "The Buckingham Murders"  successfully balances its gripping plot with thought-provoking social commentary, making for a compelling and ultimately satisfying cinematic experience.
+
 Thu, 12 Sep 2024 18:55:34 +0530
 ### [‘Ajayante Randam Moshanam’ (ARM) movie review: Tovino Thomas carries this visually impressive drama, despite underwhelming writing](https://www.thehindu.com/entertainment/movies/ajayante-randam-moshanam-arm-movie-review-tovino-thomas-carries-this-visually-impressive-drama/article68634405.ece)
 

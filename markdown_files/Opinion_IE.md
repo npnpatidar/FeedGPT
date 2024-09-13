@@ -1,3 +1,8 @@
+Fri, 13 Sep 2024 07:28:33 +0000
+### [Along with James Earl Jones, there were many unsung artists whose work made Darth Vader unforgettable](https://indianexpress.com/article/opinion/columns/james-earl-jones-many-unsung-artists-who-made-darth-vader-unforgettable-9565582/)
+
+The distinctive voice of Darth Vader, one of cinema's most iconic villains, came about through a collaborative effort involving various individuals. While George Lucas had a clear vision for Vader, the actor David Prowse's natural accent proved different from what was anticipated. James Earl Jones, a renowned stage actor, was ultimately chosen to provide the voice, bringing his deep, resonant tones to the character. Sound designer Ben Burtt further enhanced Vader's sound by experimenting with different audio techniques, such as recording through a scuba tank regulator. This combination of acting talent, technical ingenuity, and creative vision resulted in Vader's unforgettable voice that has captivated audiences for generations.
+
 Fri, 13 Sep 2024 02:59:08 +0000
 ### [Why PM Modi and CJI Chandrachud’s public display of faith is troubling](https://indianexpress.com/article/opinion/columns/pm-modi-cji-chandrachud-ganesh-puja-9565154/)
 

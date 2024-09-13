@@ -1,3 +1,19 @@
+Fri, 13 Sep 2024 12:55:42 +0530
+### [What does North Korea’s nuclear arsenal look like?](https://www.firstpost.com/explainers/kim-jong-un-north-korea-nuclear-arsenal-13814829.html)
+
+Recent images of Kim Jong Un visiting a uranium enrichment facility have reignited concerns about North Korea's growing nuclear arsenal. While the exact number of weapons North Korea possesses remains unknown, estimates vary from 40 to 116 warheads. The country's nuclear program, which began in the 1950s, has seen significant progression in recent years. 
+
+North Korea conducted its last nuclear test in 2017 and continues to develop its capabilities, including ICBMs capable of reaching the continental United States. They reportedly produce fissile material like uranium and plutonium, and experts believe they are expanding their nuclear stockpile.  North Korea finances its nuclear ambitions through various means, including cybercrime.
+
+Fri, 13 Sep 2024 11:48:21 +0530
+### [Who is Laura Loomer? Far-right conspiracy theorist accused of fuelling Trump's 'pet-eating' claims](https://www.firstpost.com/world/united-states/who-is-laura-loomer-far-right-conspiracy-theorist-accused-of-fuelling-trump-pet-eating-claims-13814788.html)
+
+Laura Loomer is a controversial far-right activist known for her anti-Islam and anti-immigrant views, as well as her promotion of conspiracy theories, including the claim that the 9/11 attacks were an "inside job." Despite being banned from several social media platforms, she has remained influential within far-right circles and has a close relationship with former President Donald Trump. 
+
+Loomer's proximity to Trump has raised concerns among Republicans, who worry that she is contributing to his tendency to spread misinformation. This concern was amplified when Trump repeated a debunked claim about Haitian immigrants eating pets during a presidential debate, a claim that had been circulating in right-wing online spaces where Loomer is active. 
+
+While some Republicans have publicly criticized Loomer's behavior, she continues to be a visible presence in Trump's orbit, raising questions about her ongoing influence on his political messaging.
+
 Fri, 13 Sep 2024 11:26:46 +0530
 ### [French First Lady Brigitte Macron awarded €8,000 in damages over false transgender claim. What is the case all about?](https://www.firstpost.com/explainers/french-first-lady-brigitte-macron-awarded-e8000-in-damages-over-false-transgender-claim-what-is-the-case-all-about-13814786.html)
 
