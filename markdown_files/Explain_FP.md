@@ -1,3 +1,13 @@
+Fri, 13 Sep 2024 11:26:46 +0530
+### [French First Lady Brigitte Macron awarded €8,000 in damages over false transgender claim. What is the case all about?](https://www.firstpost.com/explainers/french-first-lady-brigitte-macron-awarded-e8000-in-damages-over-false-transgender-claim-what-is-the-case-all-about-13814786.html)
+
+A French court ordered two women, Amandine Roy and Natacha Rey, to pay €8,000 in damages to First Lady Brigitte Macron. The women spread a conspiracy theory alleging that Macron was transgender. The rumor gained traction online, leading to significant public discussion and even influencing the 2022 French presidential election.  Brigitte Macron, who initially chose to ignore the claims, eventually took legal action against the women.  The court also awarded €5,000 in damages to Macron's brother and imposed a suspended fine of €500.
+
+Fri, 13 Sep 2024 09:56:42 +0530
+### [How many Indians inducted into Russian army have been discharged? How many are still left?](https://www.firstpost.com/explainers/russia-ukraine-war-indians-recruited-discharged-mea-13814761.html)
+
+The Indian Ministry of External Affairs has announced the discharge of 45 Indian men who were conscripted into the Russian military and sent to fight in the Ukraine war.  These men are awaiting their return to India.  Efforts are also underway to secure the release of an additional 50 Indians who remain in the Russian army. Many of these recruits were allegedly tricked into joining the Russian military by individuals who promised them jobs in Dubai or other lucrative opportunities. They were given minimal training and subsequently sent to the frontlines of the war in Ukraine.  The Indian government has been working through diplomatic channels to secure their release, and Prime Minister Narendra Modi raised the issue with President Vladimir Putin during his visit to Russia in July.
+
 Fri, 13 Sep 2024 06:30:05 +0530
 ### [FirstUp: Sunita Williams to address Earth from space station, SC to pronounce verdict on Kejriwal's bail plea... Today's big headlines](https://www.firstpost.com/explainers/firstup-sunita-williams-to-address-earth-from-space-station-sc-to-pronounce-verdict-on-kejriwals-bail-plea-todays-big-headlines-13814596.html)
 

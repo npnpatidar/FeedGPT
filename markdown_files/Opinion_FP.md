@@ -1,3 +1,19 @@
+Fri, 13 Sep 2024 11:42:12 +0530
+### [How Horn of Africa is on the brink of a crisis again](https://www.firstpost.com/opinion/how-horn-of-africa-is-on-the-brink-of-a-crisis-again-13814809.html)
+
+The Horn of Africa is engulfed in renewed conflicts, primarily centered around the Nile waters dispute involving Ethiopia, Egypt, and Sudan. Efforts to resolve the dispute over the Grand Ethiopian Renaissance Dam (GERD) have stalled, leading both Egypt and Ethiopia to take their claims to the UN. 
+
+Further complicating the situation is the breakdown in relations between Ethiopia and Somalia, exacerbated by Ethiopia's agreement with Somaliland to lease a section of coastline for a naval base. This move has prompted Somalia to forge a military alliance with Egypt, raising concerns about potential regional instability.
+
+Amidst these tensions, Turkey seeks to mediate, balancing its interests in Somalia with its strong economic ties to Ethiopia. Meanwhile, Saudi Arabia, the UAE, and other regional players with vested interests in the Horn of Africa are also navigating this complex geopolitical landscape.  The delicate balance of alliances and historical rivalries in the region makes the future seem precarious.
+
+Fri, 13 Sep 2024 09:51:40 +0530
+### [Head-on | Rahul Gandhi attacks India, not just Modi](https://www.firstpost.com/opinion/head-on-rahul-gandhi-attacks-india-not-just-modi-13814766.html)
+
+A common argument is made that Rahul Gandhi's recent attacks on Indian Prime Minister Narendra Modi during his US visit are just a continuation of Modi's own tactics against the Congress Party. However, the author contends that there are key differences between the two. Firstly, while Modi's criticism focuses on the damage done to India's economy under Congress rule, Rahul's attacks encompass a broader condemnation of India as a nation. 
+
+Secondly, Rahul's choice of associations and comparisons, such as praising China's manufacturing and suggesting Sikhs are unfairly treated in India, are seen as damaging to the nation's image. The author argues that criticisms directed at a political opponent are acceptable, but disparaging India itself crosses a line.
+
 Thu, 12 Sep 2024 19:17:49 +0530
 ### [Will Turkey’s inclusion into BRICS push India on the back foot?](https://www.firstpost.com/opinion/will-turkeys-inclusion-into-brics-push-india-on-the-back-foot-13814627.html)
 
