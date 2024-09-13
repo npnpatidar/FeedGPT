@@ -1,3 +1,34 @@
+Fri, 13 Sep 2024 17:33:44 +0530
+### [‘Kaalapatthar’ movie review: Vikky Varun’s film is an intriguing take on the politics of statues](https://www.thehindu.com/entertainment/movies/kaalapatthar-movie-review-an-interesting-take-on-the-politics-of-statues/article68638319.ece)
+
+“Kaalapatthar” is a Kannada film that explores the consequences of prioritizing a statue of a war hero over the villagers’ basic needs.  The film follows Shankara, a BSF jawan who becomes a national sensation for his bravery, leading to the erection of a statue in his honor. However, his statue becomes a source of trouble as he starts experiencing things that happen to it, reflecting the neglect of his village.  The movie showcases the protagonist's transformation into a selfish individual, highlighting the perils of ego and misplaced priorities. Through its narrative, "Kaalapatthar" criticizes the glorification of physical monuments while neglecting the real needs of the people.
+
+Fri, 13 Sep 2024 17:29:04 +0530
+### [‘KishKindha Kaandam’ movie review: A flawless screenplay drives this intriguing mystery drama](https://www.thehindu.com/entertainment/movies/kishkindha-kaandam-movie-review-a-flawless-screenplay-drives-this-intriguing-mystery-drama/article68638305.ece)
+
+“KishKindha Kaandam,” directed by Dinjith Ayyathan, weaves a captivating tale marked by unexpected plot twists and complex characters. The film revolves around a seemingly simple premise - the government order for firearms license holders to deposit their weapons - which unravels into a labyrinth of interconnected events.  
+
+Screenwriter Bahul Ramesh crafts a meticulously layered narrative, blurring genre boundaries and keeping viewers engaged with its intelligent screenplay. The performances, particularly those of Vijayaraghavan, Asif Ali, and Aparna Balamurali, are heartfelt and nuanced, adding depth to the already intricate storyline. 
+
+Through masterful direction, cinematography, editing, and music, the film transcends the ordinary, leaving audiences pondering the intricacies of memory, forgetting, and the weight of secrets.  KishKindha Kaandam serves as a testament to the power of storytelling and firmly establishes itself as a standout mystery-drama.
+
+Fri, 13 Sep 2024 17:26:53 +0530
+### [‘Berlin’ movie review: Aparshakti Khurana and Ishwak Singh become the voice of dissent in this subversive espionage thriller](https://www.thehindu.com/entertainment/movies/berlin-movie-review-aparshakti-khurana-and-ishwak-singh-become-the-voice-of-dissent-in-this-subversive-espionage-thriller/article68638358.ece)
+
+Set in 1993 Delhi, "Berlin" explores the world of espionage amidst the backdrop of a changing India. The film centers around Ashok, a deaf and mute waiter at a cafe frequented by spies, who gets caught in a web of intrigue.  Pushkin Verma, a sign language teacher, is brought in to decipher Ashok's communication, unraveling secrets of betrayal and hidden agendas within the intelligence agencies. As Pushkin digs deeper, he realizes the complexities of truth and the blurred lines between patriotism and personal gain. The film, with its gritty realism and layered characters,  presents a powerful commentary on the price of truth in a world of political maneuvering.
+
+Fri, 13 Sep 2024 16:45:09 +0530
+### [‘Speak No Evil’ movie review: James McAvoy lights up this host-from-hell shocker](https://www.thehindu.com/entertainment/movies/speak-no-evil-movie-review-james-mcavoy-lights-up-this-host-from-hell-shocker/article68638175.ece)
+
+"Speak No Evil" is a  horror film that builds tension masterfully.  The film follows an American couple who visit a charming English couple, but their weekend getaway turns sinister as they encounter disturbing behavior and unsettling events. James McAvoy delivers a chilling performance as Paddy, the charismatic and manipulative host. The director skillfully uses visual cues and dialogue to foreshadow the horrors that unfold, creating a truly unsettling atmosphere. 
+ 
+ Every element in the film serves a purpose, contributing to the overall sense of dread and suspense. With its psychological chills and masterful storytelling, "Speak No Evil" is a standout horror film that will stay with you long after the credits roll.
+
+Fri, 13 Sep 2024 15:45:41 +0530
+### [‘Mathu Vadalara 2’ movie review: Satya makes this spoofy thriller drama a fun watch](https://www.thehindu.com/entertainment/movies/mathu-vadalara-2-movie-review-satya-makes-this-spoofy-thriller-drama-a-fun-watch/article68637899.ece)
+
+'Mathu Vadalara 2' is a sequel to the 2019 comedy thriller, following characters Babu and Yesu as they become investigation officers in a fictional HE (high emergency) team. The film relies heavily on goofy humor and references to the first installment, with Satya's performance being a highlight. While the script lacks the sharpness of its predecessor, the film offers lighthearted entertainment with its meta references, bizarre humor, and recurring gags. The plot revolves around a kidnap investigation gone wrong, with the fun stemming from the characters' predicament and various misadventures. The film features cameos and references to popular Telugu cinema, adding to its comedic appeal.
+
 Fri, 13 Sep 2024 14:26:11 +0530
 ### [‘Sector 36’ movie review: Vikrant Massey, Deepak Dobriyal throw down in rancid thriller](https://www.thehindu.com/entertainment/movies/sector-36-movie-review-vikrant-massey-deepak-dobriyal-throw-down-in-rancid-thriller/article68637642.ece)
 
@@ -16,6 +47,11 @@ Thu, 12 Sep 2024 18:55:34 +0530
 "Ajayante Randam Moshanam" (ARM), a debut film by Jithin Laal, explores themes of lineage and legacy through the story of Ajayan, a man grappling with the historical baggage of his family.  The narrative blends reality and fantasy, incorporating a magical lamp and the legacy of Ajayan's ancestors. 
 
 Tovino Thomas delivers a strong performance as Ajayan and his ancestors, showcasing distinct characteristics for each role. The film boasts impressive visuals and special effects, effectively bringing the fantastical elements to life despite a limited budget. However, the screenplay falters in the middle, relying on familiar tropes and failing to fully develop the intriguing subtext it introduces about monarchy and democracy.
+
+Thu, 12 Sep 2024 16:24:53 +0530
+### [‘Aneki Sambhavana Hein’ documentary review: ­­­­An honest portrayal of a marginalised community](https://www.thehindu.com/entertainment/movies/aneki-sambhavana-hein-documentary-review-%C2%AD%C2%AD%C2%AD%C2%ADan-honest-portrayal-of-a-marginalised-community/article68632849.ece)
+
+Jibeesh Usha Balan's documentary "Aneki Sambhavana Hein"  explores the challenges faced by tribal families resettled in Aaralam Farm, Asia's largest tribal resettlement area in Kerala. Despite initial promises of a better life, the residents grapple with issues like man-animal conflict, lack of basic facilities, and a feeling of alienation. The film highlights their struggles, showcasing abandoned homes, a non-functioning school, and a hospital with limited resources. It portrays the residents' resentment towards a seemingly indifferent government,  making a powerful statement about the plight of Adivasis.
 
 Wed, 11 Sep 2024 18:24:30 +0530
 ### [‘My First Film’ review: Zia Anger’s moving meta-fiction is a stunning ode to failure](https://www.thehindu.com/entertainment/movies/my-first-film-review-zia-angers-moving-meta-fiction-is-a-stunning-ode-to-failure/article68630010.ece)

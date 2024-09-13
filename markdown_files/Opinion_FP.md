@@ -1,3 +1,12 @@
+Fri, 13 Sep 2024 16:31:39 +0530
+### [How AI can help in Disaster Management: Lessons from across the world](https://www.firstpost.com/opinion/how-ai-can-help-in-disaster-management-lessons-from-across-the-world-13814943.html)
+
+The increasing number and severity of natural disasters globally necessitate innovative solutions for prediction and mitigation. Artificial intelligence (AI) and machine learning (ML) offer promising tools in this regard. 
+
+AI-powered systems can analyze vast datasets like satellite images and social media posts to identify patterns and predict potential disasters. They can also be used to assess damage, allocate resources efficiently, and guide rescue operations.  
+
+Several real-world examples demonstrate the effectiveness of AI in disaster management, including the quick response to the Nepal earthquake and the accurate assessment of damage in Japan after the Tohoku earthquake. As technology advances, AI and ML will play an increasingly crucial role in safeguarding lives and property in the face of natural disasters.
+
 Fri, 13 Sep 2024 14:06:08 +0530
 ### [US-China rivalry in Bay of Bengal: Not all quiet on India’s eastern front](https://www.firstpost.com/opinion/us-china-rivalry-in-bay-of-bengal-not-all-quiet-on-indias-eastern-front-13814868.html)
 

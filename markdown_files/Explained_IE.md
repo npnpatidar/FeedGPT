@@ -1,3 +1,24 @@
+Fri, 13 Sep 2024 12:13:16 +0000
+### [What is OpenAI o1, an AI model that ‘thinks’ before it answers?](https://indianexpress.com/article/explained/explained-sci-tech/openai-o1-model-9566052/)
+
+OpenAI has launched 'OpenAI o1', the first in a series of AI models designed to enhance reasoning abilities. This model is trained to approach problems from multiple angles, evaluate its outputs, and learn from mistakes, leading to improved performance in complex tasks like physics, chemistry, biology, maths, and coding. 
+
+Initial testing shows significant progress, with o1 achieving scores comparable to PhD students in certain subject areas. Safety remains a priority, and OpenAI has implemented new training methods and rigorous testing procedures to mitigate potential risks.  
+
+While o1's advanced reasoning capabilities may impact certain job sectors, it is also expected to create new opportunities in fields related to AI safety and ethical use. For researchers, o1 offers a powerful tool to accelerate problem-solving and data analysis across various scientific disciplines.
+
+Fri, 13 Sep 2024 11:39:58 +0000
+### [Why has Supreme Court recalled its reference to CBI as a ‘caged parrot’](https://indianexpress.com/article/explained/supreme-court-cbi-caged-parrot-9566011/)
+
+In a recent case involving Delhi Chief Minister Arvind Kejriwal, India's highest court used the term "caged parrot" to describe the Central Bureau of Investigation (CBI), drawing parallels to a 2013 observation made during the "Coalgate" scandal.  In 2013, Justice Lodha criticized the CBI for appearing to be influenced by the political executive, citing instances where the agency's draft report on coal block allocations was shared with government officials and subject to changes. Justice Lodha expressed concern that the CBI had become too dependent on the government and lacked independence in its investigations.
+
+Fri, 13 Sep 2024 11:18:16 +0000
+### [Delhi CM Arvind Kejriwal gets bail: What are the bail conditions — what can be their impact?](https://indianexpress.com/article/explained/explained-law/arvind-kejriwal-bail-conditions-impact-9565978/)
+
+The Supreme Court granted bail to Delhi Chief Minister Arvind Kejriwal in the CBI's Delhi excise policy case, reiterating the conditions set during his earlier bail in the ED case.  Kejriwal must abide by a bail bond of Rs. 50,000, refrain from making public comments on the CBI case, attend all trial court hearings, and cooperate with the court for a speedy trial. He is restricted from visiting the Chief Minister's Office and the Delhi Secretariat and from signing official files unless it's "required and necessary" for the Delhi L-G's approval. 
+
+AAP leaders believe these conditions won't significantly hinder Kejriwal's governance, as most files ultimately require the L-G's approval, and Cabinet meetings can be conducted through circulation.
+
 Fri, 13 Sep 2024 02:31:30 +0000
 ### [Why is China raising retirement ages for its labour force?](https://indianexpress.com/article/explained/explained-economics/china-retirement-age-9564545/)
 

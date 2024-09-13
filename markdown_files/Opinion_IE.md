@@ -1,3 +1,17 @@
+Fri, 13 Sep 2024 12:00:29 +0000
+### [From Ukraine today to India Post-Independence, how fashion can heal](https://indianexpress.com/article/opinion/columns/ukraine-to-india-post-independence-how-fashion-can-heal-9566001/)
+
+Creativity, particularly in fashion, has long served as a coping mechanism and a tool for resilience during times of crisis.  The Ukraine Fashion Week, held amidst the ongoing war, exemplifies this by showcasing Ukrainian talent and embedding traditional motifs into designs, asserting cultural identity and providing an outlet for processing the emotional turmoil.  
+
+Historical examples such as Indian cinema after independence and Parisian fashion after World War II demonstrate how fashion movements have helped individuals and societies heal and navigate challenging periods.  In these instances, fashion became a means of unifying people, expressing hope, and reclaiming a sense of dignity.
+
+Fri, 13 Sep 2024 11:03:11 +0000
+### [Gurugram — where ambition of many swallows the privilege of few](https://indianexpress.com/article/opinion/columns/gurugram-ambition-swallows-privilege-few-9565945/)
+
+The article contrasts the "noisy set" of aspirational individuals in Gurugram, focused on showcasing wealth and status, with a quieter, more integrated segment comprising migrants who form the city's backbone. 
+
+The author argues that while the noisy set is outwardly prominent, it's the quieter, less privileged group who are more deeply connected to the city's realities and understand its silent workings. This is illustrated through the story of Dhoni, a migrant vegetable vendor who has risen economically and socially despite starting humbly. The piece suggests that Gurugram exemplifies a shift in India, where ambition from diverse backgrounds is reshaping the dynamics of power and privilege.
+
 Fri, 13 Sep 2024 07:28:33 +0000
 ### [Along with James Earl Jones, there were many unsung artists whose work made Darth Vader unforgettable](https://indianexpress.com/article/opinion/columns/james-earl-jones-many-unsung-artists-who-made-darth-vader-unforgettable-9565582/)
 

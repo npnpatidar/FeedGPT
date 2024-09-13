@@ -1,3 +1,14 @@
+Fri, 13 Sep 2024 16:21:55 +0530
+### [Why are heart attacks among the young rising? Does it have a connection to indigestion?](https://www.firstpost.com/health/heart-attack-young-rising-indigestion-link-13814932.html)
+
+Cardiac arrests and heart attacks are on the rise globally, especially among younger populations. The death of actor Vikas Sethi, who reportedly experienced indigestion before his cardiac arrest, has raised questions about a possible link between digestive issues and heart health. 
+
+Some experts suggest that indigestion, particularly heartburn or acid reflux, could be a warning sign.  They believe that disrupted blood flow to the heart might trigger stress responses affecting digestion, leading to vomiting and diarrhoea. Additionally, the vagus nerve, which regulates both heart rate and digestion, could be involved in transmitting signals that cause erratic heart rhythms. 
+
+It's crucial to differentiate heartburn from a heart attack, as chest pain during a heart attack is persistent, crushing, and spreads to other areas like the back, neck, and arms. A heart attack also involves shortness of breath, sweating, and dizziness, which are not characteristic of heartburn.  
+
+The reasons behind the increasing number of heart attacks in young people are multifaceted, including sedentary lifestyles, obesity, stress, unhealthy diets, and genetic predisposition.
+
 Fri, 13 Sep 2024 15:27:33 +0530
 ### [Quicksplained: Who was Pravin Gordhan, Indian-origin SA politician who defied Jacob Zuma?](https://www.firstpost.com/explainers/quicksplained-who-was-pravin-gordhan-indian-origin-sa-politician-who-defied-jacob-zuma-13814917.html)
 
