@@ -1,3 +1,11 @@
+Fri, 13 Sep 2024 08:30:00 +0530
+### [What role does CSTT play in standardising technical terms?](https://www.thehindu.com/news/national/what-role-does-cstt-play-in-standardising-technical-terms/article68633988.ece)
+
+The Indian government is promoting education in Indian languages by implementing technical education programs, including engineering and medicine, in these languages. The All India Council for Technical Education (AICTE) has introduced technical books in 12 scheduled Indian languages, and a set of these books is being distributed to libraries of technical institutions. The Commission for Scientific and Technical Terminology (CSTT) has developed a website, “Shabd,” that offers technical terms in all 22 official Indian languages across various subjects. This platform allows users to search for terms, provide feedback, and access a digital repository of glossaries and dictionaries. 
+
+
+Through expert committees, CSTT identifies equivalent terms in specific subjects and languages, ensuring standardization and facilitating the use of Indian languages in higher education and technological fields.
+
 Thu, 12 Sep 2024 18:57:12 +0530
 ### [Can Sheikh Hasina be extradited from India to Bangladesh to stand trial?](https://www.thehindu.com/news/international/can-sheikh-hasina-be-extradited-from-india-to-bangladesh-to-stand-trial/article68624930.ece)
 

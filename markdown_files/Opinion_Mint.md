@@ -1,3 +1,12 @@
+Fri, 13 Sep 2024 08:30:02 +0530
+### [Regulators, like Caesar’s wife, must always be above suspicion](https://www.livemint.com/opinion/online-views/regulators-like-caesar-s-wife-must-always-be-above-suspicion-madhabi-puri-buch-conflict-of-interest-resignation-demand-11726125039825.html)
+
+The controversy surrounding Securities and Exchange Board of India (Sebi) chairperson Madhabi Puri Buch intensifies as the Indian National Congress accuses her of a conflict of interest. The Congress alleges that her consulting firm, Agora Advisory, received fees from entities regulated by Sebi even after she took office, despite previous rejections of preferential treatment claims from those entities.  
+
+Buch, who previously owned a Singapore-based consultancy, Agora Partners, until her husband assumed ownership shortly after her Sebi appointment, denies any impropriety. However, the accusations raise concerns about transparency and potential favoritism in regulatory oversight. 
+
+Calls for a complete probe into the allegations and for Buch to step aside until her name is cleared are gaining momentum. Experts emphasize the need for stronger safeguards to prevent conflicts of interest in financial regulations and advocate for a bipartisan approach to appointments for regulatory heads.  They argue that maintaining public trust is crucial for the integrity of India's equity market and its wider economic implications.
+
 Fri, 13 Sep 2024 07:00:18 +0530
 ### [Mint Quick Edit | SpaceX’s Polaris Dawn spacewalk: A big leap for spacefarers?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-spacex-s-polaris-dawn-spacewalk-a-big-leap-for-spacefarers-space-travel-commercial-space-tourism-11726124940522.html)
 

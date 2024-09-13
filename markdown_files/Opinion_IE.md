@@ -1,3 +1,10 @@
+Fri, 13 Sep 2024 02:59:08 +0000
+### [Why PM Modi and CJI Chandrachud’s public display of faith is troubling](https://indianexpress.com/article/opinion/columns/pm-modi-cji-chandrachud-ganesh-puja-9565154/)
+
+The article critiques a public Ganesh puja hosted by the Chief Justice of India (CJI) with the Prime Minister in attendance.  The author argues that this display of religious practice by two high-ranking constitutional officials, particularly in light of the CJI presiding over cases related to the Shiv Sena, raises concerns about the separation of powers and the perception of impartiality within the judiciary. 
+
+The author cites the Supreme Court's stance on secularism and questions the CJI's adherence to his oath of office, which mandates  neutrality and impartiality.  Several probing questions are posed regarding the motivations behind the event and potential implications for public trust in the judiciary.
+
 Fri, 13 Sep 2024 02:00:36 +0000
 ### [PM Modi and CJI Chandrachud’s display of faith is personal, not political](https://indianexpress.com/article/opinion/columns/pm-and-cjis-display-of-faith-is-personal-not-political-9564740/)
 
