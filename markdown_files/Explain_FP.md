@@ -1,3 +1,15 @@
+Fri, 13 Sep 2024 20:41:10 +0530
+### [Andaman & Nicobar capital has a new name. But who was Archibald Blair after whom Port Blair was named?](https://www.firstpost.com/explainers/andaman-nicobar-capital-has-a-new-name-but-who-was-archibald-blair-after-whom-port-blair-was-named-13815038.html)
+
+The Indian government has renamed Port Blair, the capital of the Andaman and Nicobar Islands, to 'Sri Vijaya Puram'. The change aims to shed the city's colonial legacy, as its previous name honored Captain Archibald Blair, a British naval officer. Blair, who served in the East India Company,  surveyed the Andaman Islands in 1788-89, highlighting their strategic value for the British Empire.  Following his discoveries, the British established a settlement in Port Blair, later abandoned due to disease and native resistance. The city eventually became a penal settlement for Indian freedom fighters in 1858.
+
+Fri, 13 Sep 2024 20:00:01 +0530
+### [How does Imran Khan continue to influence Pakistan from behind bars?](https://www.firstpost.com/explainers/how-does-imran-khan-continue-to-influence-pakistan-from-behind-bars-13815030.html)
+
+Imran Khan, Pakistan's former prime minister, continues to exert influence despite being imprisoned for over a year on corruption charges. Khan maintains he is a victim of political persecution and fuels his base with calls for nationwide protests against the establishment, which he views as wielding undue authority. He maintains his defiance even from prison, with his supporters rallying behind him and his image appearing across Pakistan, from sports events to everyday clothing. 
+
+Following Khan's party's significant showing in the recent general elections, the government cracked down on PTI members, arresting several lawmakers after a large rally. Experts believe this move signals a heightened power struggle between Khan and the establishment, with no easy path to his release or mitigation of the escalating tensions.
+
 Fri, 13 Sep 2024 18:53:28 +0530
 ### [China is raising its retirement age for the first time in over 70 years: Why?](https://www.firstpost.com/explainers/china-is-raising-its-retirement-age-for-the-first-time-in-75-years-why-13815029.html)
 

@@ -8914,3 +8914,11 @@ Started at 2024-09-13 14:11:02
 Finished at 2024-09-13 14:11:39
 Total time taken: 37.52061581611633 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-13 16:13:57
+1 Feed entries have been written to feeds/Explained_IE.xml
+2 Feed entries have been written to feeds/Explain_FP.xml
+3 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-13 16:14:27
+Total time taken: 29.911073446273804 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

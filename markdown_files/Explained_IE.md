@@ -1,3 +1,10 @@
+Fri, 13 Sep 2024 15:01:54 +0000
+### [Port Blair renamed as Sri Vijaya Puram: How the city got its name — and its connection with imperial Cholas](https://indianexpress.com/article/explained/explained-history/port-blair-sri-vijaya-puram-cholas-9566312/)
+
+Port Blair, the capital city of Andaman and Nicobar Islands, has been renamed Sri Vijaya Puram. Union Minister Amit Shah stated that the name change was inspired by Prime Minister Narendra Modi's vision to eliminate colonial legacies.  The previous name, Port Blair, originated from Archibald Blair, a British naval surveyor who first explored the Andaman Islands in 1778.  The islands were later colonized by the British, primarily serving as a penal colony.  
+
+Some historical accounts suggest the Andaman Islands may have been used as a naval base by the Chola empire in the 11th century during their attack on Srivijaya.
+
 Fri, 13 Sep 2024 12:50:04 +0000
 ### [Why India’s medical education regulator flip-flopped on ‘lesbianism’, ‘virginity’](https://indianexpress.com/article/explained/india-medical-education-regulator-9566110/)
 
