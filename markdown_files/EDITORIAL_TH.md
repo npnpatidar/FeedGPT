@@ -1,3 +1,15 @@
+Sat, 14 Sep 2024 00:20:00 +0530
+### [​Last mile woes: On inflation data and the challenges](https://www.thehindu.com/opinion/editorial/%E2%80%8Blast-mile-woes-on-inflation-data-and-the-challenges/article68639297.ece)
+
+India's retail inflation edged up to 3.65% in August, driven by a sharp rebound in vegetable prices, which surged over 380 basis points to 10.7%. Food inflation accelerated to 5.66%, with prices of potatoes and onions still exhibiting high double-digit inflation. Disinflation in pulses and cereals remained slow, posing a challenge to achieving durable disinflation.  Core inflation, excluding food and fuel, also inched up to 3.38%, indicating a resurgence in underlying price pressures. The spatial and temporal volatility of the monsoon further complicates the outlook for price stability, leaving policymakers with a challenge to ensure inflation doesn't undermine economic momentum.
+
+Sat, 14 Sep 2024 00:10:00 +0530
+### [​Weather gods: On ‘Mission Mausam’](https://www.thehindu.com/opinion/editorial/%E2%80%8Bweather-gods-on-mission-mausam/article68638859.ece)
+
+The Union Cabinet has approved Mission Mausam, a ₹2,000 crore project aimed at enhancing India's weather and climate forecasting capabilities. The mission will upgrade instruments at various meteorological organizations, including weather radars, wind profilers, and radiosondes, to provide more precise data on atmospheric conditions. 
+
+Mission Mausam also envisions setting up a 'cloud-simulation chamber' to experiment with weather interventions like cloud seeding and lightning control. While weather modification remains uncertain, the mission emphasizes the importance of fundamental research in atmospheric sciences to mitigate the impacts of climate change.
+
 Fri, 13 Sep 2024 00:20:00 +0530
 ### [​Essential, but not enough: on the extended coverage of the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana](https://www.thehindu.com/opinion/editorial/%E2%80%8Bessential-but-not-enough-on-the-extended-coverage-of-the-ayushman-bharat-pradhan-mantri-jan-arogya-yojana/article68634754.ece)
 
