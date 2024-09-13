@@ -1,3 +1,17 @@
+Fri, 13 Sep 2024 15:00:14 +0530
+### [A practitioner’s playbook for the cyber-ready CEO to tame this humongous threat](https://www.livemint.com/opinion/online-views/a-practitioner-s-playbook-for-the-cyber-ready-ceo-to-tame-this-humongous-threat-it-security-cio-cybercrimes-cyber-threat-11726207575045.html)
+
+The increasing frequency and intensity of cyber attacks have made cybersecurity a top priority for CEOs in India. India is now the second most targeted nation in the Asia-Pacific region by cybercriminals.  
+
+The article emphasizes that the responsibility for protecting companies from cyber threats lies with the CEO, who must quantify and mitigate these risks.  This includes investing in cybersecurity technology and talent,  collaborating with other CEOs and experts, and  advocating for stronger government regulation and enforcement.
+
+  Factors contributing to this heightened risk include: evolving attack methods like phishing and deepfakes, the vulnerability of companies undergoing digital transformation, and the expanding attack surface due to increased reliance on third-party vendors.  Regulatory pressure is also mounting,  requiring greater transparency and accountability for data breaches.
+
+Fri, 13 Sep 2024 14:00:13 +0530
+### [Shomie Das (1935–2024): An educator par excellence](https://www.livemint.com/opinion/online-views/shomie-das-1935-2024-an-educator-par-excellence-heady-the-lawrence-school-sanawar-the-doon-school-mayo-college-ajmer-11726205087027.html)
+
+Shomie Ranjan Das, affectionately known as Heady, was a remarkable headmaster who led three prestigious boarding schools in India.  He was known for his sharp intellect, twinkle-eyed demeanor, and a passion for social justice.  During his time at The Lawrence School, Sanawar, Das transformed the student body to reflect regional and religious diversity. He was a gifted orator who inspired students through his words and actions.  He believed in "learning by doing," instituting projects and physical work to foster well-rounded education. Das emphasized pastoral care through tutor groups that provided students with individual attention and support. He fostered a school environment that encouraged exploration, student voice, and open discussions. His legacy as an educator is one of commitment to inclusivity, social responsibility, and holistic development.
+
 Fri, 13 Sep 2024 08:30:02 +0530
 ### [Regulators, like Caesar’s wife, must always be above suspicion](https://www.livemint.com/opinion/online-views/regulators-like-caesar-s-wife-must-always-be-above-suspicion-madhabi-puri-buch-conflict-of-interest-resignation-demand-11726125039825.html)
 

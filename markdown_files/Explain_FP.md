@@ -1,3 +1,41 @@
+Fri, 13 Sep 2024 15:27:33 +0530
+### [Quicksplained: Who was Pravin Gordhan, Indian-origin SA politician who defied Jacob Zuma?](https://www.firstpost.com/explainers/quicksplained-who-was-pravin-gordhan-indian-origin-sa-politician-who-defied-jacob-zuma-13814917.html)
+
+Pravin Gordhan, a prominent South African politician and anti-apartheid activist of Indian origin, passed away at 75 after a brief cancer battle.  Gordhan was known for his integrity and outspokenness against corruption. He played a key role in the fight against apartheid, serving as co-chair of the Convention for a Democratic South Africa.  After the country's transition to democracy, Gordhan served as a member of Parliament and held several ministerial positions, including finance minister and minister of public enterprises. He was particularly recognized for his efforts in transforming the South African Revenue Service (SARS) into a world-class institution. Gordhan was a vocal critic of former President Jacob Zuma's administration, famously pointing out the $36 billion loss to the country due to state capture.  He received the Padma Bhushan award in 2019.
+
+Fri, 13 Sep 2024 15:06:08 +0530
+### [Europe: Is Schengen's borderless dream ending?](https://www.firstpost.com/explainers/europe-is-schengen-borderless-dream-ending-13814853.html)
+
+Germany's reinstatement of border controls with nine nations, citing terrorism and migration concerns, has raised fears about the Schengen Area's future.  This move comes amid a surge in asylum applications in 2023, reaching 1.12 million, the highest since 2016.  While some see the action as necessary, others, including leaders from Poland, Austria, and Greece, criticize it as a violation of the Schengen principles. The European Commission acknowledges the temporary border control provision in the Schengen Borders Code but emphasizes the need for these measures to be both necessary and proportionate. This is not the first time Schengen countries have implemented border controls, with the number increasing since the 2015 migration crisis.  The long-term impact of Germany's decision on the Schengen Area and EU unity remains uncertain, with experts expressing concerns about potential economic consequences and the erosion of trust among member states.
+
+Fri, 13 Sep 2024 14:44:00 +0530
+### [Arvind Kejriwal to walk out of jail: The saga of his many bail rejections and release](https://www.firstpost.com/explainers/arvind-kejriwal-supreme-court-bail-delhi-excise-policy-case-cbi-ed-aap-13814883.html)
+
+The Supreme Court granted bail to Delhi Chief Minister Arvind Kejriwal in a corruption case related to the alleged excise policy scam. 
+
+Kejriwal had been in jail since April 1 after being arrested by the ED on money laundering charges. The bail comes after a complicated legal battle where he secured bail multiple times in the ED case but was arrested by the CBI
+
+The apex court questioned the necessity and timing of the CBI arrest, stating that it seemed aimed at preventing Kejriwal's release in the ED case.   
+
+
+The AAP hailed the verdict as a victory, while the BJP called for Kejriwal to resign. Kejriwal is expected to be released from Tihar Jail soon.
+
+Fri, 13 Sep 2024 13:57:38 +0530
+### [The shocking murder of Miss Switzerland finalist: Killed by husband, 'pureed' in a blender](https://www.firstpost.com/explainers/the-shocking-murder-of-miss-switzerland-finalist-killed-by-husband-pureed-in-a-blender-13814807.html)
+
+Kristina Joksimovic, a former Miss Switzerland finalist and successful model, was tragically murdered by her husband, Thomas, earlier this year. Her body was discovered dismembered in the laundry room of their home in Switzerland. Thomas confessed to the crime, claiming self-defense after his wife allegedly attacked him with a knife. However, forensic evidence contradicted his claims, and investigators have found indications of mental illness and sadistic-sociopathic traits in Thomas. He had a history of violence towards women, including previous instances of strangulation against Joksimovic and a former partner.
+
+Fri, 13 Sep 2024 13:53:50 +0530
+### [Trump-Harris presidential debate: Was ABC News biased toward the vice president?](https://www.firstpost.com/world/united-states/trump-harris-presidential-debate-was-abc-news-biased-toward-the-vice-president-13814874.html)
+
+Many right-wing commentators and politicians, including Donald Trump, allege that ABC News moderators David Muir and Linsey Davis were biased against Trump during the debate with Vice President Kamala Harris.  They claim the moderators corrected Trump's statements while not fact-checking Harris' responses. 
+
+Trump also accused the moderators of "rigging" the debate and suggested Harris had advance knowledge of the questions. Some  conservatives even promoted a conspiracy theory about a whistleblower claiming Harris' campaign received sample questions and guarantees that Trump would be fact-checked. 
+
+Muir and Davis refuted several of Trump's claims, especially concerning abortion and  statements about Haitian immigrants. Critics, however, argue that the fact-checking of Trump while not doing the same for Harris demonstrates bias. 
+
+While some Republicans, like Lindsey Graham, have criticized Trump's performance, others continue to push the narrative of a rigged debate.
+
 Fri, 13 Sep 2024 12:55:42 +0530
 ### [What does North Korea’s nuclear arsenal look like?](https://www.firstpost.com/explainers/kim-jong-un-north-korea-nuclear-arsenal-13814829.html)
 

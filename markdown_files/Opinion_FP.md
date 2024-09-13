@@ -1,3 +1,12 @@
+Fri, 13 Sep 2024 14:06:08 +0530
+### [US-China rivalry in Bay of Bengal: Not all quiet on India’s eastern front](https://www.firstpost.com/opinion/us-china-rivalry-in-bay-of-bengal-not-all-quiet-on-indias-eastern-front-13814868.html)
+
+The ousting of Sheikh Hasina from Bangladesh has created a power vacuum and  shifted the country's foreign policy landscape.  The interim government, lacking international credibility, has halted Bangladesh's international engagement. 
+
+China has significant economic and political influence in Bangladesh, providing infrastructure development, weapons, and being the top import partner. The US, dissatisfied with Bangladesh's rejection of requests for St Martin Island and closer ties with China, is now seeking to assert its influence in the region. 
+
+The situation in Bangladesh is viewed as part of a larger geopolitical contest between China and the US for dominance in the Bay of Bengal, which has implications for India's regional security and economic interests in the northeastern states. The instability created by the regime change poses a threat to regional peace and development, requiring a  stable democratic government to restore trust and collaboration.
+
 Fri, 13 Sep 2024 11:42:12 +0530
 ### [How Horn of Africa is on the brink of a crisis again](https://www.firstpost.com/opinion/how-horn-of-africa-is-on-the-brink-of-a-crisis-again-13814809.html)
 

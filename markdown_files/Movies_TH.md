@@ -1,3 +1,8 @@
+Fri, 13 Sep 2024 14:26:11 +0530
+### [‘Sector 36’ movie review: Vikrant Massey, Deepak Dobriyal throw down in rancid thriller](https://www.thehindu.com/entertainment/movies/sector-36-movie-review-vikrant-massey-deepak-dobriyal-throw-down-in-rancid-thriller/article68637642.ece)
+
+"Sector 36" is a crime thriller on Netflix loosely inspired by the 2006 Noida serial murders. The film follows a sub-inspector whose daughter is nearly abducted, prompting him to investigate the disappearances of children and young women in a Delhi slum. He encounters Prem, a psychopathic butcher, as his prime suspect.  The film, while visually engaging, lacks depth in its exploration of urban inequality and police corruption.  Performance by Vikrant Massey as Prem feels cliché and the film does not offer a convincing analysis of the murders. "Sector 36" is ultimately a superficial and exploitative take on a sensitive and complex case.
+
 Fri, 13 Sep 2024 13:25:48 +0530
 ### [‘The Buckingham Murders’ movie review: Kareena Kapoor Khan mothers this socially-pertinent whodunit](https://www.thehindu.com/entertainment/movies/the-buckingham-murders-movie-review-kareena-kapoor-khan-mothers-this-socially-pertinent-whodunit/article68637652.ece)
 
