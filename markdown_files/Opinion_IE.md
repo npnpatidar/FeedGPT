@@ -1,3 +1,45 @@
+Fri, 13 Sep 2024 02:00:36 +0000
+### [PM Modi and CJI Chandrachud’s display of faith is personal, not political](https://indianexpress.com/article/opinion/columns/pm-and-cjis-display-of-faith-is-personal-not-political-9564740/)
+
+Ganesh Chaturthi, a major festival celebrated across India, symbolizes unity and new beginnings. Prime Minister Narendra Modi and Chief Justice of India, D Y Chandrachud, participating in a puja together at the CJI's residence reflects the harmonious functioning of Indian institutions and the personal interactions common in Indian democracy. This act of sharing faith has faced criticism from some quarters who lack understanding of Indian traditions.  Such interactions are not new and instances of judges and politicians engaging personally have occurred before without causing concern. Attempts to politicize such personal choices are unwarranted and undermine the strength of Indian institutions based on dialogue and debate rather than confrontation.
+
+Fri, 13 Sep 2024 02:00:18 +0000
+### [Sitaram Yechury: The man who saw tomorrow](https://indianexpress.com/article/opinion/columns/sitaram-yechury-death-cpim-9564736/)
+
+This is a tribute to Marxist politician Sitaram Yechury. The author recounts their decades-long friendship, beginning with Yechury's reputation as a fiery student leader and culminating in his role as a respected parliamentary figure. Known for his intellect,  versatility in languages, and ability to connect with people from diverse backgrounds, Yechury was instrumental in shaping India's political landscape. He was revered for his advocacy of secularism and his efforts to unite diverse political forces against communalism.  His legacy, according to the author, continues to inspire generations.
+
+Fri, 13 Sep 2024 01:45:39 +0000
+### [Derek O’Brien writes: How direct benefit transfer empowers women](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-how-direct-benefit-transfer-empowers-women-9564741/)
+
+The article discusses the underrepresentation of women in India's workforce and highlights Direct Benefit Transfers (DBT) as a potential tool to empower them. It points out that while DBT has proven beneficial in providing financial autonomy to women, its political impact varies. 
+
+The effectiveness of DBT schemes in influencing election outcomes is examined through examples from different states. The article argues that a national DBT scheme targeted at women could significantly improve their socio-economic status and address the concerning gender disparities in India. 
+
+
+It concludes by referencing the praise received by India's DBT programs from both governmental and international bodies.
+
+Fri, 13 Sep 2024 01:40:14 +0000
+### [Pratap Bhanu Mehta writes on Manipur: The darkness we unsee](https://indianexpress.com/article/opinion/columns/manipur-violence-meiteis-kukis-9564735/)
+
+The article discusses the ongoing conflict in Manipur, highlighting the government's inaction and indifference towards the escalating violence. It points to the BJP's role in exacerbating the conflict through its majoritarian policies and  opportunistic alliances that have crumbled under its own weight. The article questions the lack of clarity in the chain of command in Manipur, with security advisor seemingly operating without direct accountability to the Chief Minister. 
+
+It criticizes the media for overlooking the Manipur crisis and the government for its mishandling of security operations. The piece further analyzes the BJP's strategy of using the conflict to justify increased authoritarianism and redirect blame to external conspiracies. The escalating ethnic tensions and the government's persistent failure to address the root causes of the conflict pose a serious threat to the stability of the region.
+
+Fri, 13 Sep 2024 01:30:33 +0000
+### [Ayushman Bharat health insurance for senior citizens: A wider net](https://indianexpress.com/article/opinion/editorials/ayushman-bharat-health-insurance-senior-citizens-9564737/)
+
+The expansion of  Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) to cover senior citizens above 70 is a positive step towards universal healthcare in India. This move will benefit around six crore individuals  but  more comprehensive changes in welfare policies are needed to address the growing elderly population.  Despite the scheme's success in providing hospital coverage, challenges remain, including out-of-pocket expenses and reports of doctors bypassing the scheme. To improve the scheme's effectiveness,  the government should focus on addressing these issues and ensuring adequate healthcare facilities for the elderly.
+
+Fri, 13 Sep 2024 01:20:34 +0000
+### [Express View: Everyone laughed at B-Girl Raygun. Now she’s on top](https://indianexpress.com/article/opinion/editorials/the-third-edit-everyone-laughed-at-b-girl-raygun-now-shes-on-top-9564738/)
+
+B-Girl Raygun, who faced online criticism for her Olympics performance, is now the world's top ranked woman breaker, according to the World DanceSport Federation. This ranking is due to a smaller pool of competitors in the past year, as many top breakers focused on Olympic preparation. Raygun won the Oceania Continental Championships, securing her position. Although her reign is temporary, it offers some validation after the negative online attention.  Her story highlights the fleeting nature of success and failure, especially in the digital age where viral moments are quickly replaced.
+
+Fri, 13 Sep 2024 01:00:35 +0000
+### [September 13, 1984, Forty Years Ago: Extremists in Punjab waylaid a bus, shot dead 20 people](https://indianexpress.com/article/opinion/40-years-ago/september-13-1984-forty-years-ago-extremists-in-punjab-waylaid-a-bus-shot-dead-20-people-9564739/)
+
+The Andhra Pradesh legislative assembly was adjourned for the second consecutive day due to unruly behavior by supporters of the Chief Minister. The delay in the vote of confidence motion is concerning for the future of parliamentary institutions, according to Congress (S) general secretary K P Unnikrishnan, who alleges collusion between the central Congress leadership and the "pretender CM." He also mentioned a fatal attack on a bus carrying people from a specific community in Gurdaspur district, where four to five suspected extremists allegedly killed 20 people.
+
 Thu, 12 Sep 2024 14:49:32 +0000
 ### [Sitaram Yechury: A comrade of his time](https://indianexpress.com/article/opinion/editorials/sitaram-yechury-comrade-time-9564536/)
 

@@ -1,3 +1,8 @@
+Fri, 13 Sep 2024 06:30:05 +0530
+### [FirstUp: Sunita Williams to address Earth from space station, SC to pronounce verdict on Kejriwal's bail plea... Today's big headlines](https://www.firstpost.com/explainers/firstup-sunita-williams-to-address-earth-from-space-station-sc-to-pronounce-verdict-on-kejriwals-bail-plea-todays-big-headlines-13814596.html)
+
+Nasa astronauts Sunita Williams and Butch Wilmore will address Earth from the International Space Station. The Supreme Court will deliver its verdict on Delhi Chief Minister Arvind Kejriwal's bail petition regarding the Delhi excise policy case. A Delhi court is expected to take cognizance of a supplementary charge sheet filed against RJD supremo Lalu Prasad and his son Tejashwi Yadav in the land-for-jobs case. Pre-booking for Apple's iPhone 16 series, including the iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max, will commence.
+
 Thu, 12 Sep 2024 21:35:14 +0530
 ### [Why is Algeria's President Abdelmadjid questioning the results of the election he won?](https://www.firstpost.com/explainers/why-is-algerias-president-abdelmadjid-questioning-the-results-of-the-election-he-won-13814674.html)
 

@@ -1,3 +1,18 @@
+Fri, 13 Sep 2024 02:31:30 +0000
+### [Why is China raising retirement ages for its labour force?](https://indianexpress.com/article/explained/explained-economics/china-retirement-age-9564545/)
+
+China is considering raising its retirement ages for the first time in 40 years to address a growing pension crisis. The move is driven by a shrinking workforce, a rising elderly population, and increasing life expectancy.  Although specific details are yet to be revealed, the proposal aims to delay pension payouts and ease the financial burden on the pension system.  The  decision comes amidst economic challenges, including deflation and high youth unemployment, raising concerns about its impact on employment opportunities and the livelihoods of vulnerable workers.
+
+Fri, 13 Sep 2024 01:50:40 +0000
+### [From Ashokan times to now, Sanchi to Europe, story of the Great Stupa](https://indianexpress.com/article/explained/explained-culture/from-ashokan-times-to-now-sanchi-to-europe-story-of-the-great-stupa-9564786/)
+
+The replica of Sanchi's East Gate, a 1:1 reproduction of the original structure, stands in Berlin's Humboldt Forum museum.  This ornate gateway, dating back to the first century BCE, is recognized for its intricate bas-relief sculptures depicting scenes from the Buddha's life and other Buddhist iconography. Constructed during the Satavahana dynasty, the torana features three curved architraves adorned with sculptures representing the seven Manushi Buddhas, the Great Departure, and Emperor Ashoka visiting the Bodhi tree. Plaster casts of the original gate were widely circulated in Europe, leading to the creation of modern replicas like the one in Berlin.   The Humboldt Forum's replica, built with advanced technology and the assistance of Indian and German artisans, stands as a testament to the enduring legacy of Sanchi's architectural marvel.
+
+Fri, 13 Sep 2024 01:15:23 +0000
+### [Health cover for elderly](https://indianexpress.com/article/explained/explained-health/health-cover-for-elderly-9564796/)
+
+The Union cabinet approved expanding Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) to provide health insurance to all Indians aged 70 and above, regardless of income.  Registration for the expanded scheme is expected to begin within a week and will be officially launched by the Prime Minister.  The scheme already covers the bottom 40% of the population and provides up to Rs 5 lakh in free annual coverage. The expansion benefits almost 6 crore individuals, with those already covered under AB PM-JAY receiving a top-up of Rs 5 lakh specifically for elderly members. Beneficiaries can register through the Ayushman App or by visiting government health facilities. They will receive a cashless cover of Rs 5 lakh annually, shareable within the family. The scheme covers 1,670 procedures across 26 specialities, including geriatric packages.
+
 Thu, 12 Sep 2024 12:48:31 +0000
 ### [Who is Kamala Harris’s father, whom Trump denounced as ‘a Marxist’?](https://indianexpress.com/article/explained/explained-global/kamala-harris-father-donald-marxist-9564064/)
 

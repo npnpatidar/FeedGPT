@@ -1,3 +1,10 @@
+Fri, 13 Sep 2024 07:00:18 +0530
+### [Mint Quick Edit | SpaceX’s Polaris Dawn spacewalk: A big leap for spacefarers?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-spacex-s-polaris-dawn-spacewalk-a-big-leap-for-spacefarers-space-travel-commercial-space-tourism-11726124940522.html)
+
+SpaceX's recent Polaris Dawn mission marks a significant step in private spacefaring. The mission featured the first commercial spacewalk, with SpaceX engineer Sarah Gillis and billionaire Jared Isaacman, CEO of Shift4Payments, venturing outside the Crew Dragon spacecraft at an altitude of 700km. While the mission also involved testing SpaceX's Starlink satellite communication equipment, it underscores the growing potential of space tourism. 
+
+Commercial space travel, initially a luxury for the ultra-wealthy, may depend on economic viability to expand further. However, its success in attracting a wider audience remains uncertain.
+
 Thu, 12 Sep 2024 16:00:16 +0530
 ### [Run a firm in founder or manager mode? There’s no clear answer](https://www.livemint.com/opinion/online-views/run-a-firm-in-founder-or-manager-mode-there-s-no-clear-answer-management-corporate-governance-family-businesses-11726050218851.html)
 
