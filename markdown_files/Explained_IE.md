@@ -1,3 +1,8 @@
+Fri, 13 Sep 2024 22:34:55 +0000
+### [Arvind Kejriwal bail: Six months later, why he walks out more a politician than a CM](https://indianexpress.com/article/explained/arvind-kejriwal-bail-six-months-later-why-he-walks-out-more-a-politician-than-a-cm-9566632/)
+
+Delhi Chief Minister Arvind Kejriwal was granted bail with conditions that restrict his ability to fully perform his duties.  He is prohibited from visiting the Secretariat or his CM office, and from signing files except those requiring Lieutenant Governor approval. This has raised concerns about the AAP government's ability to function smoothly.  While Kejriwal can still hold meetings and direct his ministers,  decisions that require LG clearance will need to be processed through file circulation.  Significant priorities for Kejriwal now include a Cabinet meeting, NCCSA proceedings, and reshuffling his Council of Ministers. The AAP maintains that Kejriwal remains fully empowered to govern and that essential work for the people of Delhi will continue.
+
 Fri, 13 Sep 2024 15:01:54 +0000
 ### [Port Blair renamed as Sri Vijaya Puram: How the city got its name — and its connection with imperial Cholas](https://indianexpress.com/article/explained/explained-history/port-blair-sri-vijaya-puram-cholas-9566312/)
 

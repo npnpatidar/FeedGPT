@@ -1,3 +1,11 @@
+Sat, 14 Sep 2024 06:00:49 +0530
+### [Why is Russia using 'double tap' strikes to target healthcare workers in Ukraine?](https://www.firstpost.com/world/why-is-russia-using-double-tap-strikes-to-target-healthcare-workers-in-ukraine-13815138.html)
+
+Russia is employing a brutal strategy in the Ukraine conflict, targeting both the healthcare and energy infrastructure.  The Lancet reports a surge in "double-tap" attacks,  where missiles hit the same location twice, aiming to kill emergency responders and civilians trying to help.  Since February 2022, the World Health Organization has documented 1,973 attacks on Ukrainian healthcare, highlighting the devastating consequences. 
+
+These attacks not only increase the immediate death toll but also cripple the healthcare system, making it more difficult to treat the injured and manage the ongoing humanitarian crisis.  Simultaneously, attacks on energy infrastructure threaten to exacerbate the already dire winter conditions, potentially causing widespread suffering and death from cold. 
+By employing these tactics, Russia aims to increase the cost of war for Ukraine, attempting to break morale and  pressure the country into conceding.
+
 Fri, 13 Sep 2024 20:41:10 +0530
 ### [Andaman & Nicobar capital has a new name. But who was Archibald Blair after whom Port Blair was named?](https://www.firstpost.com/explainers/andaman-nicobar-capital-has-a-new-name-but-who-was-archibald-blair-after-whom-port-blair-was-named-13815038.html)
 
