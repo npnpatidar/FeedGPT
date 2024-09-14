@@ -1,3 +1,12 @@
+Sat, 14 Sep 2024 17:54:49 +0530
+### [Jaishankar’s father was on the hijacked Indian Airlines Flight 421 in 1984: What happened then?](https://www.firstpost.com/explainers/jaishankars-father-was-on-the-hijacked-indian-airlines-flight-421-in-1984-what-happened-then-13815283.html)
+
+In 1984, Indian Airlines Flight IC-421 was hijacked by pro-Khalistani separatists. The plane, en route from Delhi to Srinagar, was forced to land in Dubai after a tense 38-hour standoff.  
+
+Among the passengers was K Subrahmanyam, the father of External Affairs Minister S Jaishankar. The hijackers demanded to be flown to the United States to seek asylum. Negotiations were fraught with tension, with the hijackers threatening to execute hostages.  
+
+Ultimately, the UAE played a key role in mediating the situation, ensuring the safe release of all passengers, including Subrahmanyam. The hijackers were later extradited to India to face charges. The incident highlights the complexities of hostage situations and the importance of diplomatic efforts in averting tragedies.
+
 Sat, 14 Sep 2024 13:48:36 +0530
 ### [Is Hamza bin Laden, son of Osama bin Laden, still alive? What we know so far](https://www.firstpost.com/explainers/is-hamza-bin-laden-son-of-osama-bin-laden-still-alive-what-we-know-so-far-13815188.html)
 

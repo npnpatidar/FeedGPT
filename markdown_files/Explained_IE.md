@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 13:42:55 +0000
+### [How an AI chatbot persuaded conspiracy theorists to rethink their beliefs](https://indianexpress.com/article/explained/explained-sci-tech/ai-chatbot-conspiracy-theorists-beliefs-9567811/)
+
+A recent study demonstrated that a chatbot powered by artificial intelligence (AI) can effectively challenge and reduce belief in conspiracy theories. Participants in the study engaged in conversations with the chatbot, which presented them with comprehensive counter-arguments and evidence.  
+
+This resulted in a notable decrease in their belief in the conspiracy theories they had initially expressed. The study suggests that AI has the potential to be a valuable tool in combating the spread of misinformation and fostering critical thinking.
+
 Sat, 14 Sep 2024 09:08:23 +0000
 ### [What is China’s carbon market and how does it work?](https://indianexpress.com/article/explained/explained-climate/china-carbon-market-9567534/)
 
