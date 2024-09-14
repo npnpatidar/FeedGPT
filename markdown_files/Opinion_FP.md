@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 11:20:10 +0530
+### [Pakistan's 24th IMF bailout: Time for Army to get back to barracks, quit anti-India intrigue](https://www.firstpost.com/opinion/pakistans-24th-imf-bailout-time-for-army-to-get-back-to-barracks-quit-anti-india-intrigue-13815190.html)
+
+The article discusses the IMF's recent decision to grant Pakistan a $7 billion support program.  While this provides temporary relief, the author argues that Pakistan's real issues lie in its economic and foreign policies. 
+
+The author criticizes the Pakistani army for its excessive involvement in the country's economy and business, viewing it as detrimental to the nation's well-being. They blame the army's narrative of itself as Pakistan's savior for public acceptance of its undue influence. The author suggests that the army's stance against India hinders economic stability and calls for the army to relinquish its control over the country's security and commerce.
+
 Sat, 14 Sep 2024 09:42:56 +0530
 ### [US Sutra | After the debate: What lies ahead in the US presidential race](https://www.firstpost.com/opinion/us-sutra-after-the-debate-what-lies-ahead-in-the-us-presidential-race-13815159.html)
 

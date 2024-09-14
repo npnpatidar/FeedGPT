@@ -1,3 +1,13 @@
+Sat, 14 Sep 2024 10:45:56 +0530
+### [How Nasa astronauts Sunita Williams and Butch Wilmore, stranded in space, will vote in US election](https://www.firstpost.com/world/united-states/how-nasa-astronauts-sunita-williams-butch-wilmore-stranded-in-space-will-vote-in-2024-us-election-13815166.html)
+
+Astronauts Sunita Williams and Butch Wilmore, stationed on the International Space Station due to a technical issue with their spacecraft, are determined to vote in the 2024 US presidential election. They will use a secure electronic process, established in 1997, to cast their ballots remotely.  The astronauts will receive encrypted PDF ballots from Texas election officials, where they reside.  They will vote electronically, making their selections on the ballot and securely transmitting it back to Earth for processing. Despite their extended stay in space, Williams and Wilmore remain committed to participating in the democratic process.  They will return to Earth in February 2025 aboard a SpaceX capsule.
+
+Sat, 14 Sep 2024 09:41:38 +0530
+### [This Week in Explainers: How Arvind Kejriwal finally got bail after many rejections](https://www.firstpost.com/explainers/this-week-in-explainers-delhi-cm-aap-arvind-kejriwal-bail-supreme-court-cbi-case-13815069.html)
+
+This week in India saw several significant events. Delhi Chief Minister Arvind Kejriwal was granted bail by the Supreme Court in a corruption case, marking a victory for his party ahead of the Haryana Assembly elections. The Indian political landscape mourned the passing of Sitaram Yechury, the veteran Communist Party of India (Marxist) leader, who significantly shaped the country's Communist movement. Congress leader Rahul Gandhi’s US visit sparked controversy due to his comments on religious freedom and India's internal issues, drawing criticism from the ruling BJP. In Jammu and Kashmir, high-stakes Assembly elections are approaching after a decade, marking the first polls since the abrogation of Article 370 and the region's reorganisation.  Additionally, a case of alleged sexual harassment in the Indian Air Force highlighted the ongoing issue of abuse within the armed forces, prompting discussions about the need for stronger safeguards.  Finally, the untimely death of TV actor Vikas Sethi from a cardiac arrest  renewed concerns about the rising incidence of heart-related ailments among young people in India.
+
 Sat, 14 Sep 2024 06:00:49 +0530
 ### [Why is Russia using 'double tap' strikes to target healthcare workers in Ukraine?](https://www.firstpost.com/world/why-is-russia-using-double-tap-strikes-to-target-healthcare-workers-in-ukraine-13815138.html)
 
