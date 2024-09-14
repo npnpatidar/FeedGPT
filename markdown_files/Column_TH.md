@@ -1,3 +1,8 @@
+Sat, 14 Sep 2024 20:16:27 +0530
+### [Denialism and ‘assertism’ are two sides of the same coin](https://www.thehindu.com/opinion/columns/denialism-and-assertism-are-two-sides-of-the-same-coin/article68641356.ece)
+
+The article discusses denialism, defined as the refusal to accept proven truths, and its connection to assertism, the insistence on beliefs despite evidence to the contrary. It highlights how both distort reality and fuel irrational beliefs, often found in conspiracy theories.  The author uses examples like climate change denial and belief in moon landing hoaxes to illustrate how these unfounded beliefs spread, especially when perpetuated by influential figures.  The article emphasizes that while some skepticism is healthy, blind trust in leaders and narratives can be detrimental, leading to the acceptance of pseudo-science and pseudo-religion.
+
 Thu, 12 Sep 2024 12:42:39 +0530
 ### [Bhanupriya Rao and the inner lives of women](https://www.thehindu.com/opinion/columns/bhanupriya-rao-behen-box-inner-lives-of-women/article68626036.ece)
 

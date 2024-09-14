@@ -1,3 +1,8 @@
+Sat, 14 Sep 2024 14:47:21 +0000
+### [Behind Typhoon Yagi becoming the most powerful storm in Asia this year](https://indianexpress.com/article/explained/explained-climate/typhoon-yagi-9567876/)
+
+Typhoon Yagi, one of the strongest cyclones in Asia this year, has caused widespread devastation across Southeast Asia.  Vietnam bore the brunt of the storm, with over 230 fatalities.  Yagi, which intensified due to unusually warm waters in the South China Sea, made landfall in the Philippines, China, and Vietnam, leaving a trail of destruction in its wake.  While scientists are still studying the exact impact of climate change on cyclones, there is a consensus that rising global temperatures are contributing to their increased intensity. This is attributed to warmer ocean surface temperatures, which fuel stronger winds, heavier rainfall, and flooding.
+
 Sat, 14 Sep 2024 13:42:55 +0000
 ### [How an AI chatbot persuaded conspiracy theorists to rethink their beliefs](https://indianexpress.com/article/explained/explained-sci-tech/ai-chatbot-conspiracy-theorists-beliefs-9567811/)
 
