@@ -6,6 +6,13 @@ Bhanupriya Rao, founder of Behen Box, an independent news organization, is dedic
 Rao emphasizes the agency of women, showcasing their resilience, resistance, and aspirations.  Behen Box's work  raises awareness about the challenges women face, such as underpayment and lack of access to justice, while also celebrating their triumphs and contributions to society. 
    Rao believes that providing a platform for women's voices is crucial for social change and achieving gender equality in India.
 
+Thu, 12 Sep 2024 12:42:39 +0530
+### [Bhanupriya Rao and the inner lives of women](https://www.thehindu.com/opinion/columns/bhanupriya-rao-behan-box-inner-lives-of-women/article68626036.ece)
+
+Bhanupriya Rao, founder of BehanBox, an independent news organization, is committed to understanding the multifaceted lives of Indian women.  BehanBox's work explores the diverse experiences of women across various socioeconomic backgrounds, focusing on issues like unpaid domestic labor, access to healthcare, and participation in social movements.  
+
+Through their reporting, they highlight the challenges and triumphs of women, advocating for their rights and recognizing their agency in shaping their own destinies.  BehanBox's research and storytelling shed light on the complexities of women's lives, urging society to recognize their contributions and support their pursuit of equality.
+
 Wed, 11 Sep 2024 00:30:00 +0530
 ### [Two-tier system for Tests is an old idea whose time has come](https://www.thehindu.com/opinion/columns/two-tier-system-for-tests-is-an-old-idea-whose-time-has-come/article68626336.ece)
 

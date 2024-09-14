@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 15:42:16 +0530
+### [‘Emily in Paris’ Season 4 (Part 2) series review: Mamma Mia! Is it going to be Roma for Emily?](https://www.thehindu.com/entertainment/movies/emily-in-paris-season-4-part-2-series-review-mamma-mia-is-it-going-to-be-roma-for-emily/article68641842.ece)
+
+The second part of Emily in Paris season 4 sees Emily stranded in Megève with Gabriel and Camille, leading to complications given Camille's pregnancy. A new romance blossoms for Emily in the form of Marcello, a charming Goatherd, while a troublesome Geneviève arrives from New York.  
+
+Amidst the romantic turmoil, Emily's best friend Mindy faces her own challenges, juggling a potentially scandalous singing gig and a complicated relationship with her boyfriend. Emily's trip to Rome with Marcello adds another layer of complexity, testing her loyalties and sparking professional conflict. The season culminates in a pivotal offer that leaves Emily with a life-changing decision to make.
+
 Fri, 13 Sep 2024 17:33:44 +0530
 ### [‘Kaalapatthar’ movie review: Vikky Varun’s film is an intriguing take on the politics of statues](https://www.thehindu.com/entertainment/movies/kaalapatthar-movie-review-an-interesting-take-on-the-politics-of-statues/article68638319.ece)
 

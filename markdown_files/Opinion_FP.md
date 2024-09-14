@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 16:38:52 +0530
+### [NATO member Turkey's bid to join BRICS: Erdogan will find it tough to balance West with East](https://www.firstpost.com/opinion/nato-member-turkeys-bid-to-join-brics-erdogan-will-find-it-tough-to-balance-west-with-east-13815203.html)
+
+Turkey aims to bolster its global standing by formally requesting membership in BRICS+, a group of emerging economies challenging Western dominance. This move signifies Turkey's shift towards an "oriental turn" in foreign policy, contrasting with its traditional Western alliances like NATO.  While Turkey seeks to leverage its geopolitical position and historical legacy, navigating the complexities of the East requires a nuanced understanding of regional dynamics.  
+
+Russia, for instance, has sent mixed signals about Turkey's BRICS bid, potentially aiming to deepen the divide between Turkey and the West.  Turkey's  relationship with India is also strained due to its stance on Kashmir and ties with Pakistan.  To successfully forge new alliances in the East, Turkey needs to move beyond Ottoman nostalgia and adopt a more comprehensive and realistic geopolitical strategy.
+
 Sat, 14 Sep 2024 14:41:49 +0530
 ### [Maldives: Once 'India Out' votary, why Muizzu is anxious for Delhi visit](https://www.firstpost.com/opinion/maldives-once-india-out-votary-why-muizzu-is-anxious-for-delhi-visit-13815271.html)
 

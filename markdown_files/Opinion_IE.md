@@ -1,3 +1,8 @@
+Sat, 14 Sep 2024 10:30:58 +0000
+### [Labour demonstrations in Bangladesh](https://indianexpress.com/article/opinion/columns/labour-demonstrations-in-bangladesh-9567523/)
+
+The Border Security Force (BSF) killings of Bangladeshi citizens are a recurring issue causing strain in the bilateral relationship with India.  Bangladesh presses India to investigate these killings and hold perpetrators accountable. The recent deaths of two Bangladeshi youths, Swarna Das and Jayanta Kumar Singh, have further fueled anger and demands for justice.  Alongside the geopolitical tension, labor unrest has gripped Bangladesh following the fall of the previous government. Factories face protests demanding better wages, working conditions, and other benefits.  There are concerns about  violence and the potential for job losses as a result of the unrest. Both the BSF killings and labor unrest highlight complex challenges facing Bangladesh as it navigates political and economic transitions
+
 Sat, 14 Sep 2024 06:29:19 +0000
 ### [For 45 years, I saw Sitaram Yechury work for justice, and build coalitions for the country’s best interests](https://indianexpress.com/article/opinion/columns/sitaram-yechury-cpim-build-coalition-justice-9567244/)
 
