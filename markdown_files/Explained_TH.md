@@ -1,3 +1,12 @@
+Sun, 15 Sep 2024 01:04:00 +0530
+### [Madhabi Puri Buch | The regulator at the centre of a storm](https://www.thehindu.com/news/national/madhabi-puri-buch-the-regulator-at-the-centre-of-a-storm/article68643134.ece)
+
+Madhabi Puri Buch, SEBI's first woman chairperson, faced early challenges, most significantly the Adani Group controversy in early 2023. Hindenburg Research accused the Adani Group of stock manipulation, triggering investor losses and legal inquiries. The Supreme Court appointed a committee to investigate SEBI's handling of the allegations, but it found no regulatory failure.  
+
+More recently, Hindenburg made new accusations, alleging conflicts of interest against Buch and her husband. Buch vehemently denied these claims, stating her finances were transparent and she had recused herself from relevant matters. SEBI also addressed the allegations, emphasizing Buch's disclosures and adherence to conflict-of-interest guidelines.   
+
+Despite these denials, Buch faces internal criticism within SEBI and opposition scrutiny, particularly concerning new regulations for foreign portfolio investors and derivatives trading. Some call for an independent review to clear Buch's name and restore trust in SEBI.
+
 Fri, 13 Sep 2024 19:12:05 +0530
 ### [Supreme Court granting bail to Arvind Kejriwal in corruption case: Key takeaways](https://www.thehindu.com/news/national/arvind-kejriwal-bail-sc-verdict-corruption-case-key-takeaways/article68637876.ece)
 

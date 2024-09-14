@@ -9020,3 +9020,10 @@ Started at 2024-09-14 18:14:40
 Finished at 2024-09-14 18:15:07
 Total time taken: 27.13421106338501 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-14 20:14:18
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-14 20:14:48
+Total time taken: 30.479485750198364 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
