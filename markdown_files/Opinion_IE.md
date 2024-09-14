@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 06:29:19 +0000
+### [For 45 years, I saw Sitaram Yechury work for justice, and build coalitions for the country’s best interests](https://indianexpress.com/article/opinion/columns/sitaram-yechury-cpim-build-coalition-justice-9567244/)
+
+The author recounts their long friendship and political collaboration with Sitaram Yechury, highlighting his early student activism, commitment to Marxist ideology, and success in various leadership roles within the CPI(M). Yechury is praised for his organizational abilities, oratory skills, and unwavering belief in social justice. 
+
+The author emphasizes Yechury's contributions to the left movement, his role in drafting ideological documents, and his opposition to communal forces. They acknowledge his impact on the formation of political alliances and his consistent advocacy for the farmers' movement. Yechury's sudden passing leaves a void that is difficult to fill, both politically and personally.
+
 Sat, 14 Sep 2024 02:15:59 +0000
 ### [Ram Madhav writes: The UN the world needs](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-the-un-the-world-needs-9566522/)
 
