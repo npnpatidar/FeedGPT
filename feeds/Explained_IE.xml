@@ -5,6 +5,30 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>What is China’s carbon market and how does it work?</title>
+			<link>https://indianexpress.com/article/explained/explained-climate/china-carbon-market-9567534/</link>
+			<description>China is expanding its carbon emissions trading scheme (ETS) to include cement, steel, and aluminum production by the end of 2023. This move aims to increase market liquidity. China's carbon market consists of a mandatory ETS and a voluntary market, the China Certified Emission Reduction (CCER) scheme.  
+
+The ETS, launched in 2021, covers key emitters in the power sector and will now encompass these three new sectors, bringing in 1,500 additional emitters and 3 billion tons of emissions. Firms participating in the ETS receive emission allowances; if they exceed their limits, they must purchase more.  This expansion is expected to increase demand for carbon credits and potentially drive up prices.  The CCER scheme, relaunched in January, allows businesses to voluntarily reduce their emissions. Firms can use CCER credits to offset a portion of their emissions under the ETS.</description>
+			<pubDate>Sat, 14 Sep 2024 09:08:23 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/Power_Plant_Tianjin_China.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/Power_Plant_Tianjin_China.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>What are the Commons and why is community leadership needed to govern them?</title>
+			<link>https://indianexpress.com/article/explained/commons-governance-9567461/</link>
+			<description>A recent event in Delhi focused on the conservation, restoration, and governance of common resources like forests, lands, and water bodies. These Commons are shared by communities and provide essential ecological services.  
+
+Historically, the "Tragedy of the Commons" theory suggested that shared resources faced over-exploitation.  However, Elinor Ostrom's research demonstrated that community-led governance effectively manages these resources.
+
+India's 2006 Forest Rights Act (FRA) is a model example of community-based governance, granting forest dwellers ownership rights.  Advocates call for similar frameworks for other Commons, highlighting the economic value and importance of local involvement for sustainable management.</description>
+			<pubDate>Sat, 14 Sep 2024 08:45:33 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/Spechtensee_gegen_Westen_01.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/Spechtensee_gegen_Westen_01.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>What is helium and why is it used in rockets?</title>
 			<link>https://indianexpress.com/article/explained/explained-sci-tech/helium-gas-helium-gas-use-nasa-space-crafts-gas-leakage-spacex-9566545/</link>
 			<description>Recent spacecraft issues like those with NASA's Starliner and SpaceX's Polaris Dawn highlight the importance of helium in space travel but also its vulnerability to leaks. Helium's inert nature and low weight make it ideal for pressurizing fuel tanks and cooling systems in rockets. Its small atomic size, however, allows it to escape through tiny gaps, leading to potential performance problems. This vulnerability has prompted calls for improvements in valve design and tightening mechanisms across the space industry to ensure the reliability of helium-based systems.</description>

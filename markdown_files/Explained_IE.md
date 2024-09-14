@@ -1,3 +1,19 @@
+Sat, 14 Sep 2024 09:08:23 +0000
+### [What is China’s carbon market and how does it work?](https://indianexpress.com/article/explained/explained-climate/china-carbon-market-9567534/)
+
+China is expanding its carbon emissions trading scheme (ETS) to include cement, steel, and aluminum production by the end of 2023. This move aims to increase market liquidity. China's carbon market consists of a mandatory ETS and a voluntary market, the China Certified Emission Reduction (CCER) scheme.  
+
+The ETS, launched in 2021, covers key emitters in the power sector and will now encompass these three new sectors, bringing in 1,500 additional emitters and 3 billion tons of emissions. Firms participating in the ETS receive emission allowances; if they exceed their limits, they must purchase more.  This expansion is expected to increase demand for carbon credits and potentially drive up prices.  The CCER scheme, relaunched in January, allows businesses to voluntarily reduce their emissions. Firms can use CCER credits to offset a portion of their emissions under the ETS.
+
+Sat, 14 Sep 2024 08:45:33 +0000
+### [What are the Commons and why is community leadership needed to govern them?](https://indianexpress.com/article/explained/commons-governance-9567461/)
+
+A recent event in Delhi focused on the conservation, restoration, and governance of common resources like forests, lands, and water bodies. These Commons are shared by communities and provide essential ecological services.  
+
+Historically, the "Tragedy of the Commons" theory suggested that shared resources faced over-exploitation.  However, Elinor Ostrom's research demonstrated that community-led governance effectively manages these resources.
+
+India's 2006 Forest Rights Act (FRA) is a model example of community-based governance, granting forest dwellers ownership rights.  Advocates call for similar frameworks for other Commons, highlighting the economic value and importance of local involvement for sustainable management.
+
 Sat, 14 Sep 2024 02:00:53 +0000
 ### [What is helium and why is it used in rockets?](https://indianexpress.com/article/explained/explained-sci-tech/helium-gas-helium-gas-use-nasa-space-crafts-gas-leakage-spacex-9566545/)
 

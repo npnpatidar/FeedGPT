@@ -1,3 +1,8 @@
+Sat, 14 Sep 2024 13:48:36 +0530
+### [Is Hamza bin Laden, son of Osama bin Laden, still alive? What we know so far](https://www.firstpost.com/explainers/is-hamza-bin-laden-son-of-osama-bin-laden-still-alive-what-we-know-so-far-13815188.html)
+
+New intelligence suggests Hamza bin Laden, son of Osama bin Laden, is alive and leading al-Qaeda's resurgence from Afghanistan. Despite claims of his death in 2019, reports indicate he is operating under Taliban protection, establishing training camps and planning future attacks. Al-Qaeda is reportedly collaborating with the Taliban and other extremist groups, forming alliances based on shared ideologies and practical collaborations. This resurgence raises concerns about a potential new wave of global terrorism, mirroring the pre-9/11 landscape.
+
 Sat, 14 Sep 2024 10:45:56 +0530
 ### [How Nasa astronauts Sunita Williams and Butch Wilmore, stranded in space, will vote in US election](https://www.firstpost.com/world/united-states/how-nasa-astronauts-sunita-williams-butch-wilmore-stranded-in-space-will-vote-in-2024-us-election-13815166.html)
 

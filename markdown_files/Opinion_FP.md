@@ -1,3 +1,12 @@
+Sat, 14 Sep 2024 14:41:49 +0530
+### [Maldives: Once 'India Out' votary, why Muizzu is anxious for Delhi visit](https://www.firstpost.com/opinion/maldives-once-india-out-votary-why-muizzu-is-anxious-for-delhi-visit-13815271.html)
+
+The Maldives has announced President Mohamed Muizzu's imminent visit to India, indicating a desire to mend strained relations following Muizzu's ascent to power. This comes after several diplomatic efforts to repair the ties, including External Affairs Minister S Jaishankar's recent visit to Male. The  announcement, made before formal diplomatic protocol, emphasizes Maldives' urgency in seeking India's assistance amidst an unfolding economic crisis.  
+
+The article highlights several positive developments, such as the resignations of two "anti-India" ministers and renewed security cooperation, including  Maldives' return to the Colombo Security Conclave. However, challenges remain, including the economic crisis requiring significant debt servicing in the coming years. 
+
+President Muizzu's decision to mandate dollar payments for taxes from dollar-earning entities, while potentially beneficial, could face opposition  from influential business owners and politicians.  The article concludes by emphasizing the precarious economic situation and political risks Muizzu faces as he attempts to navigate these challenges.
+
 Sat, 14 Sep 2024 11:20:10 +0530
 ### [Pakistan's 24th IMF bailout: Time for Army to get back to barracks, quit anti-India intrigue](https://www.firstpost.com/opinion/pakistans-24th-imf-bailout-time-for-army-to-get-back-to-barracks-quit-anti-india-intrigue-13815190.html)
 
