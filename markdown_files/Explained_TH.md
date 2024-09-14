@@ -1,3 +1,28 @@
+Sun, 15 Sep 2024 03:05:00 +0530
+### [Will Mission Mausam help tackle weather better?](https://www.thehindu.com/sci-tech/science/will-mission-mausam-help-tackle-weather-better/article68642014.ece)
+
+Mission Mausam, a ₹2,000 crore program, aims to upgrade India's weather monitoring infrastructure led by the Ministry of Earth Sciences. It focuses on improving monsoon forecasting, air quality warnings, and extreme weather event predictions. 
+
+The initiative involves deploying advanced radars, satellites, and supercomputers, alongside developing improved earth-system models and a real-time data dissemination system. This builds upon the previous 'Monsoon Mission' which focused on developing dynamical weather models for more accurate forecasting. 
+
+Mission Mausam also explores "weather management" techniques like cloud seeding to increase or decrease rainfall and potentially control lightning strikes, a major cause of death in India.
+
+Sun, 15 Sep 2024 01:46:00 +0530
+### [Hefazat-e-Islam | Return of the hardliners](https://www.thehindu.com/news/international/hefazat-e-islam-return-of-the-hardliners/article68643194.ece)
+
+Hefazat-e-Islam, a Bangladeshi Islamist group, has been making political inroads. Formed in 2010 to oppose policies promoting women's rights, the group gained prominence for its protests. 
+
+Despite its extremist views and violent clashes with police,  both the Sheikh Hasina government and the current caretaker government led by Muhammad Yunus have engaged with Hefazat. This engagement has included appointing a Hefazat leader to a government advisory position, recognizing madrassa degrees, and releasing jailed Hefazat members.  This appeasement of Hefazat, along with moves such as lifting the ban on Jamaat-e-Islami, has raised concerns about a resurgence of hardline Islamic influence in Bangladesh.
+
+Sun, 15 Sep 2024 01:25:00 +0530
+### [Edmundo Gonzalez | The challenger who fled](https://www.thehindu.com/news/international/edmundo-gonzalez-the-challenger-who-fled/article68643191.ece)
+
+Edmundo Gonzalez Urrutia, the official presidential candidate for the Democratic Unitary Platform in Venezuela's July 28 elections,  sought asylum in Spain on September 8. Despite opposition claims citing exit polls and their own vote tallies that pointed to Gonzalez's victory, Venezuela's National Electoral Council declared Nicolas Maduro the winner for a third term. 
+
+Gonzalez, a retired diplomat, emerged as the Opposition candidate after two other leading figures were barred from running. He campaigned on a platform of reducing inflation and restoring faith in government institutions, attracting public support with his calm demeanor and grandfatherly image.
+
+Following the election, with Gonzalez claiming pressure and threats, he fled Venezuela. Spain is debating a motion to recognize Gonzalez as the election winner as protesters gathered in Madrid, expressing their support and demanding transparency from the Venezuelan authorities.
+
 Sun, 15 Sep 2024 01:04:00 +0530
 ### [Madhabi Puri Buch | The regulator at the centre of a storm](https://www.thehindu.com/news/national/madhabi-puri-buch-the-regulator-at-the-centre-of-a-storm/article68643134.ece)
 
