@@ -1,3 +1,10 @@
+Sat, 14 Sep 2024 09:42:56 +0530
+### [US Sutra | After the debate: What lies ahead in the US presidential race](https://www.firstpost.com/opinion/us-sutra-after-the-debate-what-lies-ahead-in-the-us-presidential-race-13815159.html)
+
+The article analyzes the Trump-Harris debate, suggesting it was a tie with Harris performing better in terms of composure and likability.  Trump, while appearing angry and defensive, remained resilient.  The author criticizes the perceived bias of ABC and the media in general, claiming they favored Harris and fact-checked Trump more than her.  It argues that the "Modi effect" might benefit Trump, as criticism from the media could push undecided voters towards him.  
+
+Ultimately, the article contends that while the debate impacted perceptions, its effect on voter behavior remains uncertain. It suggests the election is too close to call, but Trump has a chance to win due to his perceived strength as a leader and the potential "Modi effect."
+
 Fri, 13 Sep 2024 18:01:34 +0530
 ### [Imran Khan's PTI renews its confrontation with Pakistan Army](https://www.firstpost.com/opinion/imran-khans-pti-renews-its-confrontation-with-pakistan-army-13815007.html)
 
