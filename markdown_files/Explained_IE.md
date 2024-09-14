@@ -1,3 +1,15 @@
+Sat, 14 Sep 2024 02:00:53 +0000
+### [What is helium and why is it used in rockets?](https://indianexpress.com/article/explained/explained-sci-tech/helium-gas-helium-gas-use-nasa-space-crafts-gas-leakage-spacex-9566545/)
+
+Recent spacecraft issues like those with NASA's Starliner and SpaceX's Polaris Dawn highlight the importance of helium in space travel but also its vulnerability to leaks. Helium's inert nature and low weight make it ideal for pressurizing fuel tanks and cooling systems in rockets. Its small atomic size, however, allows it to escape through tiny gaps, leading to potential performance problems. This vulnerability has prompted calls for improvements in valve design and tightening mechanisms across the space industry to ensure the reliability of helium-based systems.
+
+Sat, 14 Sep 2024 01:30:49 +0000
+### [Unpacking Kejriwal bail order](https://indianexpress.com/article/explained/explained-law/unpacking-kejriwal-bail-order-9566578/)
+
+The Supreme Court granted bail to Delhi Chief Minister Arvind Kejriwal in the CBI case related to the alleged "scam" in the Delhi excise policy. While both Justices Surya Kant and Ujjal Bhuyan agreed to grant bail, they differed in their opinions on the necessity of Kejriwal's arrest. Justice Kant upheld the arrest, stating that the CBI had grounds to believe Kejriwal was evasive during interrogation and that his arrest was necessary to uncover a larger conspiracy.  Justice Bhuyan, however, found fault with the timing of the arrest, particularly after Kejriwal's release on bail in a separate ED case. He argued that an accused's right to remain silent should be respected and questioned the CBI's justification for the arrest.
+
+Both justices agreed that Kejriwal's prolonged detention pending trial was unjust and that he met the criteria for bail. They highlighted the complexities of the case, with numerous accused, witnesses, and chargesheets, suggesting a lengthy trial process. Justice Kant emphasized the importance of adjudicating bail applications promptly based on their merits, rather than getting bogged down in procedural technicalities.
+
 Fri, 13 Sep 2024 22:34:55 +0000
 ### [Arvind Kejriwal bail: Six months later, why he walks out more a politician than a CM](https://indianexpress.com/article/explained/arvind-kejriwal-bail-six-months-later-why-he-walks-out-more-a-politician-than-a-cm-9566632/)
 

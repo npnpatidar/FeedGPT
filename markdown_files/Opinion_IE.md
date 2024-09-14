@@ -1,3 +1,55 @@
+Sat, 14 Sep 2024 02:15:59 +0000
+### [Ram Madhav writes: The UN the world needs](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-the-un-the-world-needs-9566522/)
+
+The UN is facing a crisis as it struggles to effectively address contemporary global challenges.  Established after World War II, its structure reflects an era of Western dominance, a reality that has become increasingly problematic as the global power landscape shifts.  
+
+The organization is seen as ineffective in resolving conflicts like those in Ukraine and Gaza, and in addressing issues of food security and climate change. This  paralysis stems from a lack of democratic representation and  the unwillingness of powerful nations to concede their influence.  Some, like India, are calling for a greater voice and say for nations like India in the UN's affairs, raising  questions about the future of the organization itself.
+
+Sat, 14 Sep 2024 02:00:54 +0000
+### [Sanjay Jha writes: Why BJP is obsessed with Rahul Gandhi and his speeeches](https://indianexpress.com/article/opinion/columns/sanjay-jha-writes-why-bjp-is-obsessed-with-rahul-gandhi-and-his-speeeches-9566521/)
+
+The article discusses the perceived shift in the political landscape, where Rahul Gandhi is now seen as more impactful and the BJP as more anxious. The author attributes this to Gandhi's Bharat Jodo Yatra, which seems to have transformed his image, and his ability to engage with international audiences and present alternative viewpoints to the state-controlled narrative. The BJP's focus on criticizing Gandhi's interactions abroad, according to the author, highlights their discomfort with his growing influence and their inability to match his open and direct communication style.  
+
+The author contrasts Gandhi's approach with the BJP's increasingly theatrical and divisive politics, arguing that India deserves a more substantive and thoughtful political discourse.
+
+Sat, 14 Sep 2024 01:40:10 +0000
+### [Gaurav Bhatia writes: In the US, Rahul Gandhi was divisive as usual](https://indianexpress.com/article/opinion/columns/gaurav-bhatia-writes-in-the-us-rahul-gandhi-was-divisive-as-usual-9566520/)
+
+During his recent US trip, Rahul Gandhi made several controversial statements about India. He accused the Prime Minister of attacking the Constitution, a claim refuted by pointing to the history of the Congress party's own actions. Gandhi also suggested that India is not fair and implied that the BJP government is against the wearing of turbans and visiting gurdwaras, which was seen as disrespectful to the Sikh community. 
+
+He criticized the implementation of Hindi and alleged that India dishonors skilled individuals, ignoring BJP's recognition of such individuals with awards like the Bharat Ratna. Gandhi praised China while remaining silent on the country's human rights violations. He further attacked the RSS, disregarding its role in India's history and social fabric. 
+
+
+
+The article concludes by highlighting the BJP's commitment to development, unity, and national interest, contrasting it with Gandhi's alleged divisive rhetoric and disregard for traditions.
+
+Sat, 14 Sep 2024 01:35:08 +0000
+### [The Third Edit: In Budapest, India’s coming-of-age chess prodigies](https://indianexpress.com/article/opinion/editorials/the-third-edit-in-budapest-indias-coming-of-age-chess-prodigies-9566518/)
+
+The Indian chess teams are making a strong showing at the Chess Olympiad in Budapest, winning their first two matches convincingly. This follows a remarkable year for Indian chess, with Gukesh becoming the youngest winner of the Candidates tournament, Praggnanandhaa defeating Magnus Carlsen, and Erigaisi rising to fifth in the world rankings. These young prodigies, led by Gukesh, are considered favorites for gold and are demonstrating their dominance on the world stage.  Garry Kasparov, a former world champion, has even called it an "Indian earthquake" in world chess.
+
+Sat, 14 Sep 2024 01:35:06 +0000
+### [Arvind Kejriwal’s bail: From Supreme Court, a limited relief](https://indianexpress.com/article/opinion/columns/arvind-kejriwals-bail-from-supreme-court-a-limited-relied-9566516/)
+
+Justice Ujjal Bhuyan's judgment granting bail to Arvind Kejriwal in the excise policy case raises concerns about the CBI's  tactics. Justice Bhuyan believes the arrest was illegal and aimed at preventing Kejriwal from obtaining bail in a separate ED case. He criticizes the CBI's reliance on vague grounds for arrest, like evasive replies and lack of cooperation, questioning the practice of using procedure as punishment. 
+
+The judgment highlights the need to reconsider the right against self-incrimination in pre-trial investigations,  referencing the outdated Supreme Court judgment in State v Kathi Kalu Oghad (1961). Justice Bhuyan also condemns the Delhi High Court's insistence on Kejriwal approaching the trial court for bail, emphasizing the judiciary's responsibility to protect personal liberty. Ultimately, the judgment serves as a critique of the criminal justice system, pointing to a worrying trend of courts prioritizing government interests over individual rights in high-profile cases.
+
+Sat, 14 Sep 2024 01:20:49 +0000
+### [Express View on Kejriwal’s bail: Calling out the Parrot](https://indianexpress.com/article/opinion/editorials/express-view-on-kejriwals-bail-calling-out-the-parrot-9566525/)
+
+The Supreme Court recently reinforced the principle of bail as the norm and jail as the exception, emphasizing the right to personal liberty under Article 21 of the Constitution.  This reassertion is particularly significant given concerns about the misuse of investigative agencies against political opponents. In a recent case involving Delhi Chief Minister Arvind Kejriwal, the court granted bail, highlighting the importance of due process and fairness in investigations. Justice Ujjal Bhuyan's judgment went further, criticizing the delay and questionable timing of Kejriwal's arrest, urging the CBI to act as an impartial and uninfluenced agency. The court's stance underscores the delicate balance between state power and individual rights, emphasizing that fairness in investigation is essential to a just legal system.
+
+Sat, 14 Sep 2024 01:15:07 +0000
+### [Why protesters in Kolkata must talk to Mamata Banerjee](https://indianexpress.com/article/opinion/editorials/why-protesters-in-kolkata-must-talk-to-mamata-banerjee-9566517/)
+
+Doctors in West Bengal are protesting the murder of a colleague at a state-run hospital, demanding justice, increased security, and an end to government intimidation. Their protests, met with accusations and resistance from the state government, have led to a stand-off.  Despite the CM's initial denials and accusations against the protesters, she has now expressed a willingness to negotiate. It is crucial that both sides engage in good faith dialogue to address the doctors' concerns and ensure systemic change within the healthcare system.  The political posturing and unhelpful statements from authorities must be put aside to allow for meaningful conversation and progress.
+
+Sat, 14 Sep 2024 01:00:09 +0000
+### [September 14, 1984, Forty Years Ago: AP Speaker quits](https://indianexpress.com/article/opinion/40-years-ago/september-14-1984-forty-years-ago-ap-speaker-quits-9566519/)
+
+The Andhra Pradesh Legislative Assembly witnessed a dramatic turn as pro tem Speaker M Baga Reddy resigned shortly after the session began to discuss a motion of trust in the Bhaskara Rao ministry. Governor S D Sharma swiftly appointed MIM leader Salahuddin Owaisi as Reddy's successor. Opposition leaders, including N T Rama Rao, viewed this as a conspiracy to avoid a likely defeat for the ruling party. Meanwhile, in Punjab, a bandh was called in response to the killing of innocent passengers by terrorists in Gurdaspur.  Governor K T Satarawala condemned the act and announced financial aid to the families of the victims. The opposition also submitted a memorandum to President Zail Singh demanding the dismissal of the Andhra Pradesh Chief Minister and restoration of the previous government.
+
 Fri, 13 Sep 2024 13:56:02 +0000
 ### [Atishi writes on Arvind Kejriwal’s bail: The BJP has tried to bury us, but it does not realise — we are seeds](https://indianexpress.com/article/opinion/columns/arvind-kejriwal-bail-atishi-bjp-tried-to-bury-us-9566235/)
 
