@@ -1,3 +1,40 @@
+Sun, 15 Sep 2024 01:50:11 +0000
+### [Vinesh Phogat readies for another bout](https://indianexpress.com/article/opinion/columns/vinesh-readies-for-another-bout-9568066/)
+
+Vinesh Phogat, a renowned wrestler, has faced significant adversity,  including being defamed and attacked for speaking out against injustices within the wrestling world.  
+
+Despite these challenges, she persevered, demonstrating remarkable resilience and courage, particularly at the Paris Olympics. However, her advocacy for change was met with hostility and attempts to discredit her. Undeterred, Phogat continued to fight for her rights and those of other athletes. 
+
+
+Moving into electoral politics, Phogat is running for the Julana Assembly seat in Haryana. Though her chances of victory remain uncertain, her unwavering spirit and dedication to justice inspire many. Her journey highlights the importance of amplifying the voices of those who challenge the status quo and work towards a more equitable society.
+
+Sun, 15 Sep 2024 01:45:38 +0000
+### [P Chidambaram writes | Manipur: dark side of the moon?](https://indianexpress.com/article/opinion/columns/manipur-dark-side-of-the-moon-9568064/)
+
+The article criticizes the handling of the conflict in Manipur by the Indian government. The author highlights the Prime Minister's refusal to visit the state despite widespread violence and the Home Minister's alleged mismanagement of the situation.  
+
+The conflict has escalated to the point where Manipur is effectively divided into two states, with the Kuki-Zomi and Meitei communities controlling respective areas. The author accuses the Chief Minister of incompetence and calls for his resignation, while blaming the BJP government for exacerbating the situation. They lament the lack of dialogue and government action to address the deep-seated ethnic tensions, concluding that Manipur is trapped in a cycle of violence and mistrust.
+
+Sun, 15 Sep 2024 01:37:01 +0000
+### [Tavleen Singh writes: Why Rahul Gandhi needs an education](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-rahul-needs-an-education-9568065/)
+
+The article critiques Rahul Gandhi's recent trip to the United States, focusing on statements made during his visit.  
+
+The author finds Gandhi's claim that the 2019 Lok Sabha elections were rigged to be illogical and hypocritical, given his family's history of alleged electoral manipulation. 
+
+They also criticize Gandhi's assertion that Sikhs in India face restrictions on wearing turbans and kada,  pointing to the inflammatory reaction from a Canadian Khalistani leader.  
+
+The author expresses concern that Gandhi's rhetoric, especially when abroad, undermines the need for a strong opposition in India. They argue that Gandhi should focus his efforts on addressing India's educational shortcomings rather than continuing to dwell on issues like caste reservations.
+
+Sun, 15 Sep 2024 01:20:02 +0000
+### [Salim-Javed in ‘Angry Young Men’, Yash Chopra and ‘Romantics’: The perils of nostalgia as PR](https://indianexpress.com/article/opinion/columns/salim-javed-angry-men-romantics-nostalgia-perils-pr-9567433/)
+
+The article discusses the current trend of nostalgia in Indian cinema, citing re-releases of old films and OTT series focusing on Bollywood history. It argues that while nostalgia is a powerful marketing tool, it shouldn't solely focus on declaring certain films "great." 
+
+The article criticizes recent documentaries on Bollywood, claiming they prioritized good PR over in-depth analysis of the subjects' work. Instead, it suggests alternative ways of remembering cinema: through fan communities and by studying the work's influence and reinterpretations. 
+
+The author examines the influence of older films on Salim-Javed's iconic screenplays, using "Deewar's" "mere paas maa hai" scene as an example. This analysis highlights how contemporary filmmakers draw inspiration from the past, reinterpreting classic themes and dilemmas in new contexts. Finally, the article suggests that a future where popular cinema more accurately reflects audience complexities and hypocrisies would resonate more deeply.
+
 Sat, 14 Sep 2024 10:30:58 +0000
 ### [Labour demonstrations in Bangladesh](https://indianexpress.com/article/opinion/columns/labour-demonstrations-in-bangladesh-9567523/)
 
