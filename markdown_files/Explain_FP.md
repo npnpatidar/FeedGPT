@@ -1,3 +1,12 @@
+Sun, 15 Sep 2024 16:00:38 +0530
+### [How unprotected sex is driving up STis in Europe](https://www.firstpost.com/health/how-unprotected-sex-is-driving-up-stis-in-europe-13814215.html)
+
+STIs are on the rise in Europe. Data reveals sharp increases in syphilis, chlamydia, and gonorrhea cases between 2021 and 2022. This surge is particularly pronounced among young people, specifically women aged 20-24, and men who have sex with men (MSM). 
+
+Several factors contribute to this trend, including declining condom use, increased use of online dating apps, and higher rates of pornography consumption.  
+
+Migrants also face unique challenges, experiencing barriers to accessing sexual health services and reporting higher rates of unsafe sexual behaviors. Addressing these challenges requires a multi-pronged approach: improving access to sexual health services, addressing socio-economic disparities, and implementing policies that promote sexual health and well-being for all.
+
 Sun, 15 Sep 2024 13:30:11 +0530
 ### [From bald to bold: How safe are hair transplants?](https://www.firstpost.com/health/how-safe-are-hair-transplants-13812130.html)
 

@@ -1,3 +1,19 @@
+Sun, 15 Sep 2024 17:20:28 +0530
+### [REAIM Summit 2024: Forging global consensus on military AI](https://www.firstpost.com/opinion/reaim-summit-2024-forging-global-consensus-on-military-ai-13815530.html)
+
+The second Responsible Artificial Intelligence in the Military Domain (REAIM) summit, hosted by South Korea, aimed to establish responsible guidelines for AI use in the military. 60 countries, including major powers like the UK, US, and Japan, endorsed a non-binding document outlining principles for AI governance.
+
+The summit addressed concerns about the potential risks of AI in warfare, such as the development of autonomous weapons and algorithmic bias. Participants stressed the importance of human oversight, transparency, and accountability in AI systems. The "Blueprint for Action"  emphasizes adherence to international law, human rights, and the prevention of  AI misuse by irresponsible actors.
+
+Sun, 15 Sep 2024 17:02:55 +0530
+### [Kursk counter-offensive: Ukrainian masterstroke or Russian tactical trap?](https://www.firstpost.com/opinion/kursk-counter-offensive-ukrainian-masterstroke-or-russian-tactical-trap-13815516.html)
+
+Ukraine launched a counteroffensive into Russia's Kursk Oblast in August, a surprise move intended to relieve pressure on the Donbas front, expose Russian weaknesses, and bolster Ukraine's negotiating position.  Despite initial tactical successes, the operation failed to achieve its strategic objectives.  Russia concentrated its efforts on the Donbas, launching a counteroffensive in Kursk that has  recaptured territory and trapped Ukrainian forces.
+
+The Kursk offensive exposed vulnerabilities in Ukraine's strategy, highlighting the importance of maintaining strategic balance and minimizing reliance on limited resources.  While Ukraine emphasized the need for Western support, the counteroffensive underscored the limitations of firepower without effective maneuver and the importance of boots on the ground.  Russia's methodical response, allowing Ukraine to commit resources in Kursk before launching a counteroffensive in the Donbas, demonstrates strategic clarity and a willingness to exploit vulnerabilities. 
+ 
+The outcome of the Kursk offensive could have significant implications for future negotiations, potentially diminishing Ukraine's leverage.  The war continues, with Russia holding the advantage.
+
 Sun, 15 Sep 2024 14:21:48 +0530
 ### [The forgotten ‘Spy Princess’ of Second World War](https://www.firstpost.com/opinion/the-forgotten-spy-princess-of-second-world-war-13815483.html)
 

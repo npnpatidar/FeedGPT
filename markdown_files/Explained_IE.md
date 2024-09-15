@@ -1,3 +1,19 @@
+Sun, 15 Sep 2024 12:08:53 +0000
+### [How the increased use of phosphoric acid has led to a food vs cars dilemma](https://indianexpress.com/article/explained/explained-economics/food-vs-cars-phosphoric-acid-9569174/)
+
+India faces a growing "food versus cars" dilemma as the demand for lithium-iron-phosphate (LFP) batteries in electric vehicles increases the consumption of phosphoric acid.  This acid is crucial for producing di-ammonium phosphate (DAP), India's second-most consumed fertilizer. 
+
+China, a leading supplier of DAP and phosphoric acid, is shifting its production towards LFP batteries, impacting global fertilizer supplies. India, heavily reliant on imports, is already witnessing a decline in DAP imports and sales due to both Chinese export restrictions and the rising cost of imported fertilizers. 
+
+While farmers are switching to complex fertilizers with lower phosphate content, this may threaten India's food security in the long run. The country needs to diversify its fertilizer sources, secure raw material supplies, and explore innovative solutions to ensure food production meets the demands of a growing population while supporting the transition to cleaner energy.
+
+Sun, 15 Sep 2024 11:13:36 +0000
+### [Explained: the link between dyslexia and the thalamus in the human brain](https://indianexpress.com/article/explained/explained-sci-tech/link-dyslexia-brain-9569237/)
+
+Dyslexia, affecting 5-10% of the world's population, presents reading and spelling challenges, often first appearing in infancy. Boys are affected more frequently than girls.  Dyslexia can impact learning across subjects requiring reading and writing, leading to academic and social difficulties.  Although it doesn't diminish intelligence, people with dyslexia often face prejudice.  
+
+Recent research has linked dyslexia to structural and functional changes in the visual thalamus, a brain region responsible for processing visual information. These changes, particularly evident in male dyslexics, were discovered using advanced MRI technology.  This finding paves the way for potential treatments and therapies, such as neurostimulation, to alleviate dyslexia symptoms.
+
 Sat, 14 Sep 2024 14:47:21 +0000
 ### [Behind Typhoon Yagi becoming the most powerful storm in Asia this year](https://indianexpress.com/article/explained/explained-climate/typhoon-yagi-9567876/)
 

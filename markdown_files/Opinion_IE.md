@@ -1,3 +1,14 @@
+Sun, 15 Sep 2024 11:51:45 +0000
+### [From the Opinion Editor: About bun, cream and GST](https://indianexpress.com/article/opinion/columns/bun-cream-gst-nirmala-sitharaman-annapoorna-9569345/)
+
+Businesses continue to face challenges due to the GST's multiple rate structure, as seen in discrepancies like the different tax rates on buns and cream buns. This has led to customer confusion and  businesses experiencing compliance burdens.  
+
+Examples of  rate anomalies include the differing GST on pizza eaten in vs. delivered, and the taxation of milk products. There's also criticism regarding the 18% GST on medical and life insurance.  
+
+The multiple-rate structure increases compliance issues, especially for small and medium enterprises, and raises concerns about rent-seeking and potential litigation. 
+
+While the GST Council has acknowledged the need for rate rationalization, there's been hesitation in making changes. This inaction contrasts with the simpler tax systems adopted by most countries worldwide.
+
 Sun, 15 Sep 2024 08:03:53 +0000
 ### [Supreme Court frees Arvind Kejriwal, but ties his hands](https://indianexpress.com/article/opinion/columns/supreme-court-frees-arvind-kejriwal-but-ties-his-hands-9568986/)
 

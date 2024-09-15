@@ -1,3 +1,23 @@
+Sun, 15 Sep 2024 17:31:53 +0530
+### [Why Ford now wants to make for the world from India](https://www.livemint.com/opinion/online-views/ford-india-re-entry-electric-vehicles-ev-exports-tamil-nadu-auto-manufacturing-hub-11726400861017.html)
+
+Ford Motor Co. is returning to India, reopening its Chennai manufacturing facility to serve as an export hub. While the company previously exited the Indian market in 2022 after accumulating losses, it maintained a presence through service and spare parts operations.  
+
+Ford's decision to return is largely driven by India's established automotive ecosystem, robust export infrastructure, and government incentives for EV manufacturing.  Although the specific focus of the Chennai plant is unclear, Ford is reportedly considering producing affordable electric vehicles there, capitalizing on the growing global demand for EVs.  
+
+India's vehicle exports reached $20 billion in 2023-24, solidifying its position as a significant player in the global automotive market. With a thriving manufacturing and supply chain network, Chennai, in particular, is a key export hub for passenger vehicles.
+
+Sun, 15 Sep 2024 16:00:03 +0530
+### [India’s FDI restrictions need a rethink for a competitive economy](https://www.livemint.com/opinion/online-views/indias-fdi-restrictions-need-a-rethink-for-a-competitive-economy-retail-online-platforms-digital-news-multibrand-retail-11726131474363.html)
+
+India's economic growth hinges on easing the process of doing business and welcoming Foreign Direct Investment (FDI).  While India has made strides in improving its ranking for ease of doing business, restrictive FDI policies in key sectors like insurance, media, and e-commerce are hindering progress. These limitations stifle competition, innovation, and consumer choice. 
+
+For instance, the 74% cap on foreign ownership in the insurance sector limits the entry and capital infusion of global players, potentially resulting in higher premiums and fewer options for consumers.  Similarly, restrictive FDI norms in the media and digital media sector stifle content diversity and innovation.  
+
+The e-commerce and retail sector faces further complexities with multiple, differing FDI regimes, creating uncertainty and discouraging foreign investment.
+
+To achieve its goal of becoming a $5 trillion economy, India must adopt bold reforms that relax FDI restrictions in key sectors.  This will attract foreign investment, technology, and expertise, boosting job creation, enhancing productivity, and ultimately leading to a more competitive and prosperous India.
+
 Sun, 15 Sep 2024 15:30:02 +0530
 ### [US presidential debate: Harris seemed from Earth and Trump from Alpha Centauri](https://www.livemint.com/opinion/online-views/us-presidential-debate-harris-seemed-from-earth-and-trump-from-alpha-centauri-climate-change-debate-renewable-energy-11726130525646.html)
 
