@@ -1,3 +1,28 @@
+Sun, 15 Sep 2024 15:30:02 +0530
+### [US presidential debate: Harris seemed from Earth and Trump from Alpha Centauri](https://www.livemint.com/opinion/online-views/us-presidential-debate-harris-seemed-from-earth-and-trump-from-alpha-centauri-climate-change-debate-renewable-energy-11726130525646.html)
+
+The article assesses the climate positions of Kamala Harris and Donald Trump during their recent debate. While acknowledging that Harris' stance is not perfect, the author argues that it is far better than Trump's.  Harris, though continuing to support increased domestic gas production, highlights the Inflation Reduction Act's benefits for clean energy. She also shies away from banning fracking. Trump, on the other hand, rambles incoherently about climate change,  making misleading claims about manufacturing jobs and renewable energy, and reverting to his "drill, baby, drill" mantra.  Although Harris's position could be seen as compromising, the author concludes that it is necessary to balance climate concerns with economic realities and preventing Trump's more damaging approach from taking hold.
+
+Sun, 15 Sep 2024 15:00:01 +0530
+### [Watch out, industrial strategy could leave us with a herd of white elephants](https://www.livemint.com/opinion/online-views/watch-out-industrial-strategy-could-leave-us-with-a-herd-of-white-elephants-chips-free-trade-national-security-11726129944681.html)
+
+This article argues that while "industrial strategy," a modern rebranding of industrial policy, has some merit in improving public governance, its interventionism in the private sector is dangerous. 
+
+The author critiques the idea of governments picking winners in industries like chip manufacturing, citing examples like the US's CHIPS and Science Act. He contends that these subsidies, while intended to boost domestic production and national security, distort markets, lead to inefficiencies, and stifle innovation. He believes that this approach ultimately harms the global economy, citing the resulting trade barriers and weakening of essential sectors like green technology.
+
+The article urges for a global dialogue on the appropriate role of industrial strategy, emphasizing the need to prioritize market-driven solutions and avoid the pitfalls of costly government interventions.
+
+Sun, 15 Sep 2024 14:00:00 +0530
+### [Manu Joseph: How unhealthy behaviour could deliver success](https://www.livemint.com/opinion/columns/manu-joseph-how-unhealthy-behaviour-could-deliver-success-drinking-socializing-social-group-human-behaviour-nature-11726126031886.html)
+
+This article explores the paradoxical relationship between success and unhealthy behavior. 
+
+The author argues that modern success often hinges on participating in social gatherings that involve excessive alcohol consumption, late nights, and unhealthy foods. This is because these activities are where powerful individuals network and build relationships, which are essential for career advancement.
+
+He acknowledges that prioritizing health, like former Starbucks CEO Laxman Narasimhan, can be seen as a deviation from this norm and may lead to professional isolation. 
+
+The author also observes that this culture of late-night socializing reinforces the idea that fun and connection happen outside of healthy habits, creating a social pressure to conform. He suggests that finding an ideal balance between health and success requires deliberate effort and may involve sacrificing some aspects of professional advancement.
+
 Sun, 15 Sep 2024 13:00:19 +0530
 ### [Will AI leave us humans jobless? Here’s why it’s very unlikely](https://www.livemint.com/opinion/online-views/will-ai-leave-us-humans-jobless-here-s-why-it-s-very-unlikely-nvidia-jobs-chatgpt-artificial-intelligence-employment-11726125615217.html)
 

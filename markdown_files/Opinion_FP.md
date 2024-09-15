@@ -1,3 +1,10 @@
+Sun, 15 Sep 2024 14:21:48 +0530
+### [The forgotten ‘Spy Princess’ of Second World War](https://www.firstpost.com/opinion/the-forgotten-spy-princess-of-second-world-war-13815483.html)
+
+The article tells the story of Noor Inayat Khan, a British resistance agent during World War II whose life ended tragically. Born in Moscow to Sufi musician Inayat Khan, Noor grew up in Paris and fled to England at the outbreak of war.  She joined the Special Operations Executive (SOE) and worked as a radio operator in German-occupied France, sending vital intelligence back to Britain.
+
+Despite facing constant danger, Noor refused to abandon her mission, even after her network was compromised. Captured by the Gestapo, she endured torture and solitary confinement before being executed at Dachau concentration camp in 1944. Despite her immense contributions to the Allied war effort, Noor is only remembered by a small stone tablet at her father's dargah in Nizamuddin, Delhi.
+
 Sun, 15 Sep 2024 13:24:36 +0530
 ### [Ramification | Sri Lanka: First presidential election after economic crisis and all weather Colombo-Delhi ties](https://www.firstpost.com/opinion/ramification-sri-lanka-first-presidential-election-after-economic-crisis-and-all-weather-colombo-delhi-ties-13815472.html)
 
