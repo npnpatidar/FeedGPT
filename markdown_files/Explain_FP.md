@@ -1,3 +1,12 @@
+Sun, 15 Sep 2024 09:32:34 +0530
+### [This Week in Explainers: Why did Trump claim that Haitian immigrants are ‘eating’ pets?](https://www.firstpost.com/explainers/this-week-in-explainers-why-did-trump-claim-that-haitian-immigrants-are-eating-pets-13814982.html)
+
+The article discusses several major events from the past week. 
+
+The first presidential debate between Kamala Harris and Donald Trump saw Harris widely perceived as the victor.  Trump made controversial claims, including a conspiracy theory about Haitian immigrants abducting and eating pets in Ohio. The 23rd anniversary of the 9/11 attacks saw continued skepticism surrounding official accounts in some circles.  International tensions escalated as Iran supplied Russia with ballistic missiles, prompting sanctions from the West. 
+
+Meanwhile, Pakistan discovered potentially massive oil and gas reserves, offering a glimmer of hope amidst economic difficulties. The article also covers a dangerous asteroid named Apophis, an "underwear crisis" in China, and reports on Typhoon Yagi's devastating impact on Southeast Asia.
+
 Sat, 14 Sep 2024 17:54:49 +0530
 ### [Jaishankar’s father was on the hijacked Indian Airlines Flight 421 in 1984: What happened then?](https://www.firstpost.com/explainers/jaishankars-father-was-on-the-hijacked-indian-airlines-flight-421-in-1984-what-happened-then-13815283.html)
 
