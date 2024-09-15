@@ -1,3 +1,12 @@
+Sun, 15 Sep 2024 19:29:48 +0530
+### [Royalty ruling: It’s ironic how a judgement can prove so taxing for an economy](https://www.livemint.com/opinion/online-views/royalty-ruling-it-s-ironic-how-a-judgement-can-prove-so-taxing-for-an-economy-supreme-court-tax-mining-iron-ore-11726232228077.html)
+
+A 1990 Supreme Court judgement, India Cement vs State of Tamil Nadu, incorrectly stated that mining royalty was a tax. This error, called an "inadvertent error" by the court itself, was only recognised in 2004. Despite this, the ruling remained in effect for decades, causing confusion and legal ambiguity. 
+
+A nine-judge bench finally overturned the India Cement decision in 2024, ruling that royalty is not a tax. The court attributed the initial error to a typographical mistake, but a dissenting opinion argued that the judges had intended royalty to be classified as a tax.  
+
+This decades-long situation highlights concerns about the Supreme Court's accountability and its handling of errors in its judgements. It raises questions about why it took so long to correct the mistake and the impact these errors have on the implementation of law and policy.
+
 Sun, 15 Sep 2024 17:31:53 +0530
 ### [Why Ford now wants to make for the world from India](https://www.livemint.com/opinion/online-views/ford-india-re-entry-electric-vehicles-ev-exports-tamil-nadu-auto-manufacturing-hub-11726400861017.html)
 

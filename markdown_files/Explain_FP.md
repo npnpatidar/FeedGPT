@@ -1,3 +1,14 @@
+Sun, 15 Sep 2024 18:03:52 +0530
+### [What’s the no-sleep challenge? How safe is it?](https://www.firstpost.com/health/whats-the-no-sleep-challenge-how-safe-is-it-13814190.html)
+
+Sleep is crucial for our health and well-being. Adults should aim for seven to nine hours of quality sleep per night.  Chronic sleep deprivation increases the risk of various health problems like depression, diabetes, obesity, heart disease, and stroke. 
+
+Sleep allows our bodies to rest, repair, and recover.  Different stages of sleep have specific functions, including regulating our  nervous system, boosting cognitive functions, and strengthening the immune system.
+
+Sleep deprivation, whether acute or chronic, can have severe consequences.  It impairs cognitive function, mood,  and  increases the risk of accidents.  Over time, it can lead to more serious health issues.  
+
+To prioritize sleep, maintain good sleep hygiene, create a relaxing bedtime routine, and avoid stimulants before bed.
+
 Sun, 15 Sep 2024 16:00:38 +0530
 ### [How unprotected sex is driving up STis in Europe](https://www.firstpost.com/health/how-unprotected-sex-is-driving-up-stis-in-europe-13814215.html)
 

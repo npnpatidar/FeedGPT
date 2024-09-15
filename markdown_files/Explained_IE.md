@@ -1,3 +1,12 @@
+Sun, 15 Sep 2024 13:03:54 +0000
+### [Will Turkey’s bid to join BRICS speed up EU accession?](https://indianexpress.com/article/explained/explained-global/turkey-brics-eu-accession-9569493/)
+
+Turkey has officially applied to join BRICS, a group of emerging economies dominated by Russia and China.  Turkish President Recep Tayyip Erdogan has expressed a desire to join the bloc, and Russian President Vladimir Putin supports Turkey's inclusion. 
+
+This move could signify a shift away from Turkey's EU accession talks, which have stalled due to concerns over media freedom, judicial independence, and the treatment of security forces. 
+
+While BRICS primarily focuses on economic cooperation, it is seen as a counterbalance to Western-led global institutions. Turkey's potential membership is met with mixed reactions, with some experts believing it could enhance Turkey's standing, while others fear it could strain relations with Western allies.  Turkey's actions, such as purchasing Russian oil and opposing sanctions against Russia, have already led to tension with its NATO partners.  Despite this, Turkey remains strategically important to the West, particularly in its role in managing migration flows.
+
 Sun, 15 Sep 2024 12:08:53 +0000
 ### [How the increased use of phosphoric acid has led to a food vs cars dilemma](https://indianexpress.com/article/explained/explained-economics/food-vs-cars-phosphoric-acid-9569174/)
 
