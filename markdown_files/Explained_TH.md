@@ -1,3 +1,8 @@
+Sun, 15 Sep 2024 10:00:00 +0530
+### [How Sunita Williams ended up stranded in space: The unexpected ordeal](https://www.thehindu.com/children/how-sunita-williams-ended-up-stranded-in-space-the-unexpected-ordeal/article68637763.ece)
+
+The Boeing Starliner mission, initially planned as a week-long test flight to the International Space Station (ISS), encountered numerous technical issues shortly after launch. These problems, including thruster malfunctions and helium leaks, prevented the Starliner from completing its objectives and forced astronauts Butch Wilmore and Sunita Williams into an extended stay aboard the ISS.  Due to the technical setbacks, NASA decided it was too risky to use the Starliner for the return trip, and the astronauts will now remain on the ISS until early 2025 when a SpaceX capsule will be available.  While the mission faced significant challenges, the astronauts adapted and continued their work on the ISS, demonstrating their resilience and professionalism. Although a setback for Boeing, NASA remains committed to the Starliner program and hopes for another crewed flight in the near future.
+
 Sun, 15 Sep 2024 03:43:00 +0530
 ### [What rights are queer couples fighting for?](https://www.thehindu.com/news/national/what-rights-are-queer-couples-fighting-for/article68642024.ece)
 
