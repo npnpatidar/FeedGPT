@@ -1,3 +1,13 @@
+Mon, 16 Sep 2024 00:47:00 +0530
+### [​For a fair probe: On the Kejriwal bail order and CBI conduct](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfor-a-fair-probe-the-hindu-editorial-on-the-kejriwal-bail-order-and-cbi-conduct/article68645544.ece)
+
+The Supreme Court granted bail to Delhi Chief Minister Arvind Kejriwal in the Delhi excise policy case. While both Justices Surya Kant and Ujjal Bhuyan agreed on granting bail, Justice Bhuyan expressed concern over the timing of Kejriwal's arrest by the CBI, questioning the urgency after he was granted bail in a related money-laundering case. He argued that the CBI's actions gave the impression of bias and  highlighted the importance of fair investigations and the accused's right to remain silent. The judgment also subtly criticized the Delhi High Court's initial refusal to grant bail to Kejriwal.
+
+Mon, 16 Sep 2024 00:37:00 +0530
+### [​Unrealistic expectations: On India and Russia-Ukraine peace](https://www.thehindu.com/opinion/editorial/%E2%80%8Bunrealistic-expectations-the-hindu-editorial-on-india-and-russia-ukraine-peace/article68645526.ece)
+
+India's National Security Adviser Ajit Doval's recent visit to Russia yielded significant outcomes.  Meetings with Russian President Vladimir Putin and Chinese Foreign Minister Wang Yi were crucial, taking place ahead of the expanded BRICS summit.  Doval and Wang agreed to prioritize disengagement along the Line of Actual Control (LAC), aiming for progress before a potential meeting between Modi and Xi at the summit. Doval's meeting with Putin, a rare protocol exception, suggests India's possible role in mediating the Ukraine conflict, but this requires  clear commitment and realistic expectations. The outcome of Modi's upcoming visits to the U.S., for UN meetings and potential Quad Summit, and then to Russia for the BRICS summit will be closely watched.
+
 Sat, 14 Sep 2024 00:20:00 +0530
 ### [​Last mile woes: On inflation data and the challenges](https://www.thehindu.com/opinion/editorial/%E2%80%8Blast-mile-woes-on-inflation-data-and-the-challenges/article68639297.ece)
 
