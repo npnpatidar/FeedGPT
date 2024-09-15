@@ -1,3 +1,17 @@
+Sun, 15 Sep 2024 03:43:00 +0530
+### [What rights are queer couples fighting for?](https://www.thehindu.com/news/national/what-rights-are-queer-couples-fighting-for/article68642024.ece)
+
+A recent Indian Finance Ministry advisory has clarified that LGBTQIA+ individuals and queer couples can open joint bank accounts and nominate each other as beneficiaries, addressing some legal hurdles they face. While the advisory provides some relief, it highlights the broader need for legal recognition of same-sex relationships. Queer couples currently lack rights in areas like inheritance, adoption, medical decision-making, and access to benefits like ration cards and insurance.  
+
+Although the Supreme Court refused to recognise same-sex marriage in October 2023, it acknowledged the need for  entitlements for queer couples and directed the government to set up a committee to define these rights. This committee is examining various aspects, including spouse recognition for ration cards, medical decision-making, and funeral rights. While government advisories can provide some immediate relief,  amendments to existing laws may be necessary for complete equality.
+
+Sun, 15 Sep 2024 03:25:00 +0530
+### [What are the issues faced by EPFO pensioners?](https://www.thehindu.com/news/national/what-are-the-issues-faced-by-epfo-pensioners/article68642018.ece)
+
+Nearly 78 lakh EPFO pensioners will be able to receive their pensions through any bank branch from January 1, 2025. This change, facilitated by the Centralised Pension Payment System (CPPS), will eliminate the need to transfer Pension Payment Orders (PPOs) across offices and provide a more seamless experience. While welcomed, some pensioners hope for a more substantial announcement, such as a unified pension scheme combining aspects of the Old Pension Scheme and the New Pension Scheme. 
+
+There are ongoing concerns regarding the minimum pension amount of ₹1,000 and the processing of applications for pensions based on higher wages.  The EPFO is facing criticism for its slow response to these demands, especially given the Supreme Court's ruling in 2022 that allows for pensions on wages exceeding the PF ceiling.
+
 Sun, 15 Sep 2024 03:05:00 +0530
 ### [Will Mission Mausam help tackle weather better?](https://www.thehindu.com/sci-tech/science/will-mission-mausam-help-tackle-weather-better/article68642014.ece)
 
