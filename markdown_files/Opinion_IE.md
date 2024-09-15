@@ -1,3 +1,10 @@
+Sun, 15 Sep 2024 08:03:53 +0000
+### [Supreme Court frees Arvind Kejriwal, but ties his hands](https://indianexpress.com/article/opinion/columns/supreme-court-frees-arvind-kejriwal-but-ties-his-hands-9568986/)
+
+The Supreme Court granted bail to Delhi Chief Minister Arvind Kejriwal, but imposed controversial conditions. These conditions prevent Kejriwal from visiting his office, holding meetings, or signing official files without the Lieutenant Governor's approval. 
+
+While one judge saw no issue with these restrictions, the other expressed strong reservations, believing they effectively prevent Kejriwal from functioning as Chief Minister. Critics argue that these conditions curtail the will of the Delhi electorate and hinder effective governance. They suggest that the law should evolve and not be bound by rigid interpretations of judicial discipline in the face of constitutional rights. The article raises questions about  the balance between bail conditions and the elected official's ability to serve their constituents.
+
 Sun, 15 Sep 2024 01:50:11 +0000
 ### [Vinesh Phogat readies for another bout](https://indianexpress.com/article/opinion/columns/vinesh-readies-for-another-bout-9568066/)
 

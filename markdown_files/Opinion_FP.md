@@ -1,3 +1,26 @@
+Sun, 15 Sep 2024 13:24:36 +0530
+### [Ramification | Sri Lanka: First presidential election after economic crisis and all weather Colombo-Delhi ties](https://www.firstpost.com/opinion/ramification-sri-lanka-first-presidential-election-after-economic-crisis-and-all-weather-colombo-delhi-ties-13815472.html)
+
+The Sri Lankan presidential election scheduled for September 2024 is highly anticipated,  coming after the economic crisis that led to the resignation of President Gotabaya Rajapaksa. 
+
+Incumbent President Ranil Wickremesinghe is seeking re-election, facing competition from Sajith Premadasa and Anura Kumara Dissanayake. While Wickremesinghe emphasizes economic stability achieved during his tenure, he faces challenges from the perception of his association with the Rajapaksa family, blamed for the country's economic woes. 
+
+Premadasa and Dissanayake offer alternative visions for the economy, with Premadasa advocating for a liberal approach and Dissanayake promoting a people-centric model.
+
+Regardless of the election outcome, India remains committed to supporting Sri Lanka's economic recovery through initiatives like financial aid, infrastructure projects, and enhanced security cooperation. India's actions are seen as a counterbalance to China's growing influence in the region. 
+   
+The implementation of the 13th Amendment to the Constitution, which promotes federalism, is another crucial issue for bilateral relations. 
+
+
+Regardless of the election outcome, India's "Neighbourhood First" policy and its SAGAR vision will continue to guide its engagement with Sri Lanka.
+
+Sun, 15 Sep 2024 11:48:52 +0530
+### [Aparajita: Why this is a Bill with no legal common sense](https://www.firstpost.com/opinion/aparajita-why-this-is-a-bill-with-no-legal-common-sense-13815450.html)
+
+This article discusses the low conviction rate for rape in India despite public outcry and calls for stricter laws.  The author uses the recent Aparajita Women and Child Bill in West Bengal as an example. While the bill aims to enhance penalties for sexual crimes, the author argues that its provisions may conflict with existing laws and be struck down by the Supreme Court.  
+
+The author points out the inherent limitations of mandating timeframes for investigations and trials, citing principles of natural justice. They suggest that the West Bengal government's move might be more about creating an impression of action rather than pursuing genuine reform.
+
 Sat, 14 Sep 2024 16:38:52 +0530
 ### [NATO member Turkey's bid to join BRICS: Erdogan will find it tough to balance West with East](https://www.firstpost.com/opinion/nato-member-turkeys-bid-to-join-brics-erdogan-will-find-it-tough-to-balance-west-with-east-13815203.html)
 

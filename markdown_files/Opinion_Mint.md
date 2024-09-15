@@ -1,3 +1,13 @@
+Sun, 15 Sep 2024 13:00:19 +0530
+### [Will AI leave us humans jobless? Here’s why it’s very unlikely](https://www.livemint.com/opinion/online-views/will-ai-leave-us-humans-jobless-here-s-why-it-s-very-unlikely-nvidia-jobs-chatgpt-artificial-intelligence-employment-11726125615217.html)
+
+Concerns are growing regarding the impact of artificial intelligence (AI) on labor displacement and income inequality. While AI tools offer efficiency in tasks and data analysis, they often lack transparency in their decision-making processes and may displace workers across various skill levels.  
+
+The article compares the current AI hype to the Y2K scare, suggesting that both may be overblown. Despite potential job losses in some sectors, the author argues that AI's reliance on human consumption will ultimately prevent complete labor redundancy.  Reallocation of labor, rather than complete displacement, is the likely outcome. 
+
+
+New technology creates new products and services, requiring human labor for consumption. As technology advances, this cycle continues, creating a dynamic where labor evolves rather than disappears.  The author concludes that while AI will undoubtedly reshape the job market, concerns about complete labor obsolescence are unfounded.
+
 Fri, 13 Sep 2024 15:00:14 +0530
 ### [A practitioner’s playbook for the cyber-ready CEO to tame this humongous threat](https://www.livemint.com/opinion/online-views/a-practitioner-s-playbook-for-the-cyber-ready-ceo-to-tame-this-humongous-threat-it-security-cio-cybercrimes-cyber-threat-11726207575045.html)
 
