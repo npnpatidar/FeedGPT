@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 12:37:36 +0000
+### [Welfare and not a yearning for popularity is what drives PM Modi, a rare thinker-leader](https://indianexpress.com/article/opinion/columns/welfare-popularity-pm-modi-rare-thinker-leader-9571008/)
+
+Prime Minister Narendra Modi's approach to governance is heavily centered around the power of ideas. He utilizes slogans and initiatives that inspire national unity, self-reliance, and progress.  Concepts like "Ek Bharat Shreshtha Bharat" and "Aatmanirbhar Bharat" aim to motivate citizens while addressing key development priorities. 
+
+Modi emphasizes inclusivity and citizen participation, as seen in slogans like "Sab Ka Sath, Sab Ka Vikas," and "Sab Ka Prayas."  He also promotes a positive outlook, replacing terms like "Most Backward District" with "Aspirational District" to foster hope and inspire growth. 
+
+Beyond slogans, Modi champions practical initiatives like "Swachh Bharat" and "Lifestyle for Environment" to encourage behavioral change and address environmental concerns. His focus on India's cultural heritage, as seen in initiatives like International Yoga Day and International Year of Millets, further demonstrates his commitment to integrating tradition with modernity.
+
 Mon, 16 Sep 2024 10:03:59 +0000
 ### [From iPhone 16 to paying too much for ‘bhutta’ — let’s stop calling our expensive indulgences ‘investments’](https://indianexpress.com/article/opinion/columns/iphone-16-paying-bhutta-stop-calling-expensive-indulgences-investments-9570757/)
 

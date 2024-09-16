@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 12:28:44 +0000
+### [All about Odisha’s Subhadra scheme, to be launched by PM Modi on his birthday](https://indianexpress.com/article/explained/odisha-subhadra-scheme-9570983/)
+
+The Odisha government, led by Chief Minister Mohan Charan Majhi, is launching the Subhadra Yojana on September 17th, Prime Minister Modi's 74th birthday. This scheme aims to provide financial assistance of Rs 10,000 annually to eligible women aged 21 to 60 for five years. Over one crore women are expected to benefit from this program. 
+
+Named after Goddess Subhadra, the scheme involves direct bank transfers of Rs 5,000 each on Rakhi Purnima and International Women’s Day. To be eligible, women must not belong to economically well-off families, be government employees, income-tax payees, or receive Rs 1,500 or more per month from other government schemes. 
+
+The government has allocated Rs 55,825 crore for the scheme over five years. The Subhadra Yojana was a key election promise of the BJP, designed to counter the BJD's long-standing Mission Shakti program which empowered women through self-help groups.
+
 Mon, 16 Sep 2024 11:30:02 +0000
 ### [5 things to know about Ryan Wesley Routh, suspect in possible Trump assassination attempt](https://indianexpress.com/article/explained/explained-global/ryan-wesley-routh-trump-9570919/)
 

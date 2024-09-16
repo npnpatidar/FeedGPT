@@ -1,3 +1,15 @@
+Mon, 16 Sep 2024 19:30:28 +0530
+### [What is 'dead butt syndrome' caused by sitting for too long?](https://www.firstpost.com/health/what-is-dead-butt-syndrome-caused-by-sitting-for-too-long-13815900.html)
+
+Dead butt syndrome, also known as gluteal amnesia, occurs when the gluteal muscles weaken due to prolonged sitting and "forget" how to function properly. This can lead to pain in the lower back, hips, and thighs, as well as instability in the pelvis.  
+
+The condition arises from an imbalance between the hip flexors and glutes, where sitting allows the hip flexors to shorten and tighten while the glutes become overstretched.  
+
+To test for dead butt syndrome, try standing on one leg for 30 seconds - if your pelvis drops, it suggests weakness. Another test involves performing glute bridges; if you feel strain in your hamstrings, your glutes may not be activating. 
+
+
+Prevention involves regular exercise focusing on glute strengthening, frequent movement, and lifestyle changes like standing desks and stretching.
+
 Mon, 16 Sep 2024 17:34:11 +0530
 ### [Two years after Mahsa Amini’s death: What has changed, what hasn’t in Iran?](https://www.firstpost.com/explainers/two-years-after-mahsa-aminis-death-what-has-changed-what-hasnt-in-iran-13815879.html)
 
