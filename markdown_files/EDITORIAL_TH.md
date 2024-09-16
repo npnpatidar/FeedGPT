@@ -1,3 +1,17 @@
+Tue, 17 Sep 2024 00:30:00 +0530
+### [Down to the wire: On the run-up to the U.S. presidential election](https://www.thehindu.com/opinion/editorial/down-to-the-wire-the-hindu-editorial-on-the-run-up-to-the-us-presidential-election/article68648506.ece)
+
+Donald Trump's second alleged assassination attempt, foiled by the Secret Service, has injected drama into the US Presidential race. While this may garner sympathy votes, its impact on the already tight race against Democratic rival Kamala Harris remains uncertain. Polls currently show Harris with a slim lead, but the margin falls within the statistical error range.  
+
+Past trends suggest higher voter turnout favors Democrats.  The 2022 midterms saw Democrats energized after the overturning of Roe v. Wade.
+
+Immigration, a contentious issue, was reignited by Trump's controversial statements during the first presidential debate. Harris faces the challenge of providing a reasonable and humane immigration policy while countering Trump's divisive rhetoric. The political climate calls for bipartisan solutions.
+
+Tue, 17 Sep 2024 00:15:00 +0530
+### [Clarity of vision: On eye drops for presbyopia and ‘claims’](https://www.thehindu.com/opinion/editorial/clarity-of-vision-the-hindu-editorial-on-eye-drops-for-presbyopia-and-claims/article68648543.ece)
+
+The Indian government suspended a pharmaceutical company's license to manufacture and market eye drops for presbyopia after the company made unsubstantiated claims about the product's ability to eliminate the need for reading glasses. The company, ENTOD Pharmaceuticals, argued that the claims stemmed from media reports and not their own marketing, but the Central Drugs Standard Control Organisation (CDSCO) cited public interest and the potential for misleading information. This incident highlights the ongoing issue of exaggerated medical claims in India, prompting the government to reiterate the importance of scientific evidence and caution against unsubstantiated advertising.
+
 Mon, 16 Sep 2024 00:47:00 +0530
 ### [​For a fair probe: On the Kejriwal bail order and CBI conduct](https://www.thehindu.com/opinion/editorial/%E2%80%8Bfor-a-fair-probe-the-hindu-editorial-on-the-kejriwal-bail-order-and-cbi-conduct/article68645544.ece)
 
