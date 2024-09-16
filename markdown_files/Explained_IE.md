@@ -1,3 +1,10 @@
+Sun, 15 Sep 2024 23:00:13 +0000
+### [Kejriwal to step down as CM: Amid worry over fallout of graft charges, bid to claim moral high ground](https://indianexpress.com/article/explained/explained-politics/kejriwal-to-step-down-as-cm-amid-worry-over-fallout-of-graft-charges-bid-to-claim-moral-high-ground-9569748/)
+
+Arvind Kejriwal's resignation as Delhi's Chief Minister is seen as a move to reclaim the moral high ground amidst corruption allegations and arrests. Kejriwal wanted to avoid resigning while in jail, signaling his continued fight.  He aims to let the people of Delhi reaffirm their trust in him through early elections. 
+
+There's internal discussion about the messaging change required with a new CM candidate. The Aam Aadmi Party is waiting for the Election Commission to announce a poll date, though they are prepared for elections sooner if called.
+
 Sun, 15 Sep 2024 13:03:54 +0000
 ### [Will Turkey’s bid to join BRICS speed up EU accession?](https://indianexpress.com/article/explained/explained-global/turkey-brics-eu-accession-9569493/)
 
