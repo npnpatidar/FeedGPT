@@ -1,3 +1,15 @@
+Mon, 16 Sep 2024 21:01:56 +0530
+### [Second assassination attempt on Donald Trump: Does ex-US president need more protection?](https://www.firstpost.com/world/united-states/second-assassination-attempt-on-donald-trump-does-ex-us-president-need-more-protection-13815991.html)
+
+While playing golf at his Florida club, former President Donald Trump was targeted by a man with an AK-style rifle. The Secret Service swiftly neutralized the threat, with one agent spotting the rifle and engaging the individual. 
+
+This incident raises questions about Trump's security protocols, particularly outside of official events. Law enforcement acknowledged that security measures for Trump are less stringent now that he is not in office. The Secret Service, while lauded for their quick response, is now facing scrutiny over whether Trump's protection measures are sufficient, especially considering his high profile and ongoing campaign for president.
+
+Mon, 16 Sep 2024 20:23:48 +0530
+### [Why Montreal by-election could be a ‘turning point’ for Justin Trudeau’s Liberals](https://www.firstpost.com/explainers/montreal-by-election-canada-pm-justin-trudeau-liberal-party-13815972.html)
+
+Canadian Prime Minister Justin Trudeau faces a critical test as his Liberal Party contests a special election in Montreal. Polling suggests a tight race between the Liberals, the Bloc Quebecois, and the NDP, with the Bloc Quebecois candidate leading. A loss in the Montreal district would be a significant setback for Trudeau, who has seen his popularity plummet amid economic concerns. The PM's absence from the campaign trail and mounting internal criticism reflect the challenges his government faces. The outcome could influence calls for Trudeau to step down and impact the Liberal Party's performance in the next general election, where they are predicted to lose to the Conservative Party.
+
 Mon, 16 Sep 2024 19:30:28 +0530
 ### [What is 'dead butt syndrome' caused by sitting for too long?](https://www.firstpost.com/health/what-is-dead-butt-syndrome-caused-by-sitting-for-too-long-13815900.html)
 
