@@ -1,3 +1,8 @@
+Mon, 16 Sep 2024 09:23:52 +0000
+### [Everything you need to know about the Emmy Awards](https://indianexpress.com/article/explained/explained-culture/emmy-awards-2024-9570668/)
+
+The 2024 Emmy Awards, held in Los Angeles, saw victories for shows like "Baby Reindeer," "The Bear," and "Shōgun." The Emmys, conceived in 1948, recognize excellence in television and emerging media.  There are various Emmy categories, including Primetime, International, Daytime, and Regional. These awards are governed by three organizations: The Television Academy, the National Academy of Television Arts & Sciences, and the International Academy of Television Arts & Sciences, each with its own voting members.  The name "Emmy" has no specific meaning and was initially considered "Immy" but changed to a more feminine-sounding name.
+
 Sun, 15 Sep 2024 23:00:13 +0000
 ### [Kejriwal to step down as CM: Amid worry over fallout of graft charges, bid to claim moral high ground](https://indianexpress.com/article/explained/explained-politics/kejriwal-to-step-down-as-cm-amid-worry-over-fallout-of-graft-charges-bid-to-claim-moral-high-ground-9569748/)
 

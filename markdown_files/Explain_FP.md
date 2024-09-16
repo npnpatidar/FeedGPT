@@ -1,3 +1,39 @@
+Mon, 16 Sep 2024 15:25:25 +0530
+### [Missiles, drones, and more: How Yemen’s Houthi rebels get their weapons](https://www.firstpost.com/explainers/yemen-houthi-rebels-weapons-stockpile-iran-israel-attack-13815821.html)
+
+Yemen's Houthi rebels fired a ballistic missile into Israel, marking a significant escalation in the ongoing conflict between Israel and Hamas. The attack, which caused no casualties but ignited panic in Israel, highlighted the militia's growing arsenal. 
+
+The Houthis possess an array of weapons, including drones, cruise and ballistic missiles, and anti-ship weapons, some of which are believed to have Iranian origins. These weapons have allowed them to target Saudi Arabia and commercial shipping in the Red Sea.  
+
+The Houthi's recent strike on Israel has raised concerns about a wider regional conflict, with experts emphasizing the group's close ties to Iran and its stated intentions to target Israel.
+
+Mon, 16 Sep 2024 14:37:06 +0530
+### [How fame is hurting Thailand’s viral baby pygmy hippo Moo Deng](https://www.firstpost.com/explainers/how-fame-is-hurting-thailands-viral-baby-pygmy-hippo-moo-deng-13815740.html)
+
+Moo Deng, a two-month-old baby pygmy hippo from Thailand, gained international fame through social media. Videos of her daily activities at the Khao Kheow Open Zoo  went viral, attracting thousands of visitors. However, the zoo has reported issues with some visitors throwing food and water at Moo Deng, prompting concerns about her well-being. The zoo director has warned visitors against such behavior and has taken measures to protect Moo Deng, including assigning an officer to watch over her and installing security cameras.  The incident highlights the importance of balancing public fascination with animal welfare.
+
+Mon, 16 Sep 2024 14:26:07 +0530
+### [Arvind Kejriwal to quit as Delhi CM: What happens next? Who is likely to replace him?](https://www.firstpost.com/explainers/arvind-kejriwal-resignation-delhi-cm-aap-successor-elections-13815780.html)
+
+Delhi Chief Minister Arvind Kejriwal announced his resignation, effective in two days. He stated his intention to step down until the public deems him honest following a corruption case. Kejriwal called for AAP legislators to meet to choose his successor. 
+
+Sunita Kejriwal, his wife, is a potential candidate despite not being an AAP member. Other frontrunners include Atishi, Gopal Rai, and Kailash Gahlot, all senior party members with experience in various portfolios. 
+
+The AAP aims to hold the Delhi Assembly elections in November, concurrent with Maharashtra, and intends for the new CM to be in place until then. The choice of successor will likely consider factors like community representation and the party's future prospects in Delhi.
+
+Mon, 16 Sep 2024 14:00:37 +0530
+### [What's happening in Jordan? Why did the PM resign days after elections?](https://www.firstpost.com/explainers/whats-happening-in-jordan-why-did-the-pm-resign-days-after-elections-13815792.html)
+
+Following parliamentary elections in Jordan where Islamist parties gained significant ground, Prime Minister Bisher al-Khasawneh resigned. King Abdullah II has appointed Jafar Hassan, his head of office and former planning minister, to form a new government.  
+The elections saw a 32% turnout and the Islamic Action Front, affiliated with the Muslim Brotherhood, emerged as the largest party. This outcome reflects voter dissatisfaction with economic struggles and the ongoing Israel-Gaza conflict, which significantly impacted Jordan's tourism industry. The new government faces the challenge of addressing these issues while navigating a more assertive Islamist opposition and potential pressure on IMF-led economic reforms.
+
+Mon, 16 Sep 2024 13:50:47 +0530
+### [Testing, 21-day quarantine: How Bengaluru airport is on high alert amid mpox outbreak](https://www.firstpost.com/explainers/testing-21-day-quarantine-how-bengaluru-airport-is-on-high-alert-amid-mpox-outbreak-13815711.html)
+
+Following the confirmation of India's first mpox case, Bengaluru's Kempegowda International Airport has implemented stricter health protocols. Four dedicated kiosks screen around 2,000 daily arriving passengers, particularly from African nations. Elevated temperatures are checked, and a designated officer oversees screening, testing, and tracking. 
+
+Passengers exhibiting symptoms such as fever, rashes, severe headaches, muscle stiffness, or back pain are advised to seek immediate medical attention.  Efforts include 21-day quarantine for confirmed cases, and rigorous re-testing upon recovery. The airport emphasizes the health and safety of passengers and staff, remaining committed to precautionary measures.
+
 Mon, 16 Sep 2024 13:30:40 +0530
 ### [Will Donald Trump benefit at the polls after second assassination attempt?](https://www.firstpost.com/world/united-states/donald-trump-second-assassination-attempt-florida-us-elections-impact-kamala-harris-13815736.html)
 

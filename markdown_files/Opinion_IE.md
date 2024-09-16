@@ -1,3 +1,10 @@
+Mon, 16 Sep 2024 10:03:59 +0000
+### [From iPhone 16 to paying too much for ‘bhutta’ — let’s stop calling our expensive indulgences ‘investments’](https://indianexpress.com/article/opinion/columns/iphone-16-paying-bhutta-stop-calling-expensive-indulgences-investments-9570757/)
+
+This article delves into the concept of paying for extravagant experiences and possessions, using the example of pricey restaurant dishes and Apple product launches.  The author argues that while these items are often marketed as status symbols or investments, they ultimately provide a feeling of indulgence that may not be objectively justifiable. 
+
+The piece draws parallels between the allure of high-end electronics and dining experiences, questioning the perceived value proposition behind such exorbitant prices. It suggests that consumers should be more transparent about their motivations for indulging in luxury, acknowledging that not every purchase or experience needs a deeper, more rational explanation.
+
 Mon, 16 Sep 2024 06:18:25 +0000
 ### [Of cats, cat ladies and Mr Trump](https://indianexpress.com/article/opinion/columns/of-cats-cat-ladies-and-mr-trump-9570343/)
 

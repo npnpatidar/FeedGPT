@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 15:00:18 +0530
+### [Regulators get tough: Big Tech’s easy ride is finally coming to an end](https://www.livemint.com/opinion/online-views/regulators-get-tough-big-tech-s-easy-ride-is-finally-coming-to-an-end-european-commission-apple-google-meta-regulation-11726232976337.html)
+
+Long considered untouchable by regulators, tech giants like Apple and Google are facing an era of accountability. European authorities have levied hefty fines against both companies for anticompetitive practices, including Apple's Irish tax avoidance and Google's preferential treatment of its own shopping service. 
+
+These decisions mark the end of prolonged legal battles and signal a shift towards quicker and more efficient enforcement of antitrust laws.  The EU's new Digital Markets Act (DMA), launched in March, provides a clear framework for dealing with monopolistic behavior, forcing companies like Apple and Google to allow app uninstallation and preventing biased search results. 
+
+While these companies may be able to weather the financial fallout, the DMA threatens their long-held advantages, potentially creating a more level playing field for smaller competitors and fostering innovation.
+
 Mon, 16 Sep 2024 12:30:15 +0530
 ### [US-China relations need a reset before we all end up paying a heavy price](https://www.livemint.com/opinion/online-views/uschina-relations-need-a-reset-before-we-all-end-up-paying-a-heavy-price-trade-tariffs-evs-climate-change-joe-biden-xi-11726410410201.html)
 
