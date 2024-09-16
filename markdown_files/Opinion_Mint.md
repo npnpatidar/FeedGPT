@@ -1,3 +1,10 @@
+Mon, 16 Sep 2024 08:30:09 +0530
+### [The US Fed is under watch for more than just its policy rate](https://www.livemint.com/opinion/online-views/the-us-fed-is-under-watch-for-more-than-just-its-policy-rate-federal-reserve-interest-rates-rate-cut-employment-11726406972776.html)
+
+The Federal Reserve (Fed) is widely expected to cut interest rates this week, marking a reversal from its previous hikes aimed at curbing inflation. While inflation is cooling closer to the Fed’s 2% target, the US economy is also showing signs of weakness, with job growth sputtering. This potential rate cut comes after a 30-month period of aggressive tightening, which has been credited with bringing inflation under control.
+
+The article highlights concerns about the potential aftermath of the Fed's easy money policies, particularly concerning inflated asset values and risks to financial stability. There are also questions about how effectively the extensive stimulus measures implemented during the pandemic have been utilized. As the Fed balances its dual mandate of price stability and maximum employment, it faces the challenge of preventing another economic downturn while also mitigating the potential consequences of its past policies.
+
 Mon, 16 Sep 2024 07:00:05 +0530
 ### [Mint Quick Edit | What fresh EV subsidies tell us about their market](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-what-fresh-ev-subsidies-tell-us-about-their-market-electric-vehicles-climate-change-green-mobility-11726406129134.html)
 

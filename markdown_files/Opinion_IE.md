@@ -1,3 +1,14 @@
+Mon, 16 Sep 2024 03:30:07 +0000
+### [September 16, 1984, Forty Years Ago: PM on governance](https://indianexpress.com/article/opinion/40-years-ago/september-16-1984-forty-years-ago-pm-on-governance-9569697/)
+
+Prime Minister Indira Gandhi affirmed her commitment to the existing parliamentary system of government, acknowledging public interest in discussing alternate systems like the presidential model.
+
+In a separate event, the Information and Broadcasting Minister addressed Doordarshan's silver jubilee, dismissing Opposition claims of unfair coverage while alleging the journalist's question reflected opposition viewpoints. 
+
+An all-party bandh in Andhra Pradesh, demanding the removal of the current government and reinstatement of the previous one, concluded peacefully. Meanwhile, flooding in Assam necessitated Army intervention in rescue and relief efforts.  
+
+A high-ranking official from ISRO expressed his personal belief that there is no life beyond earth, based on current scientific understanding and the absence of evidence for extraterrestrial life.
+
 Mon, 16 Sep 2024 02:26:59 +0000
 ### [Governments should encourage more players in the power sector, not less](https://indianexpress.com/article/opinion/columns/governments-should-encourage-more-players-in-the-power-sector-not-less-9569701/)
 
