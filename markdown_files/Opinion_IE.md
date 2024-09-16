@@ -1,3 +1,46 @@
+Mon, 16 Sep 2024 02:26:59 +0000
+### [Governments should encourage more players in the power sector, not less](https://indianexpress.com/article/opinion/columns/governments-should-encourage-more-players-in-the-power-sector-not-less-9569701/)
+
+India's shift to competitive bidding for electricity procurement has yielded progress with falling solar and wind tariffs and increased private sector investment. Recent innovations like storage-linked tenders address the intermittency of renewables. The sector's lower entry barriers encourage participation from various players, driving continuous learning and improvement. However, a new trend of composite bidding, combining coal and solar tenders, threatens this positive trajectory.
+
+These large-scale tenders pose challenges for smaller players due to the massive investments required and disadvantage developers lacking thermal power expertise. Concentrating procurement in large composite tenders risks stifling competition, innovation, and the potential for further tariff reductions.  A more diversified, phase-wise approach to procurement, utilizing annual procurement calendars, is recommended to maintain the progress made in the sector.
+
+Mon, 16 Sep 2024 02:25:55 +0000
+### [Behind Mamata Banerjee’s failure to read the protests, the establishment’s unfamiliarity with its new language](https://indianexpress.com/article/opinion/columns/mamata-banerjee-failure-protests-kolkata-establishment-9569700/)
+
+The article analyzes Mamata Banerjee's political career, focusing on the recent protests in Kolkata sparked by the rape and murder of a junior doctor. It highlights how Banerjee, previously known for her role as an anti-establishment figure, now faces criticism for her handling of the situation. The article contrasts her earlier image as a champion of the masses, who gained strength from her working-class background and outspoken nature, with her current position as the establishment leader, struggling to respond to the changing dynamics of protests and public discourse. 
+
+It discusses Banerjee's ability to connect with the people, particularly the urban intelligentsia and the agrarian population,  and her utilization of media to amplify her message. However, the article argues that her failure to anticipate and effectively address the current crisis reflects a growing disconnect between her and the people. It concludes by questioning whether she can recover from this setback and regain public trust.
+
+Mon, 16 Sep 2024 02:17:51 +0000
+### [Disbanding of committee on statistics: Undermining credibility, evading questions](https://indianexpress.com/article/opinion/editorials/disbanding-of-committee-on-statistics-undermining-credibility-evading-questions-9569699/)
+
+The Indian government disbanded the Standing Committee on Statistics (SCoS) citing similarity to the Steering Committee for National Sample Surveys. However, this move raises concerns as the committee's dissolution coincides with delays in conducting the decennial Census 2021.  A reliable census is crucial for accurate sample surveys which underpin various economic and social indicators like urbanization, consumption patterns, inflation, and poverty levels. The lack of updated data distorts the statistical framework, impacting policymaking. This incident further erodes the already declining credibility of India's statistical system, drawing attention to its reliability at a time of global economic scrutiny.
+
+Mon, 16 Sep 2024 02:15:37 +0000
+### [Ashok Gulati writes: Giving farms their due](https://indianexpress.com/article/opinion/columns/ashok-gulati-writes-giving-farms-their-due-9569711/)
+
+The Modi government, despite falling short of its election targets,  remains focused on its policy agenda.  Agriculture and rural development are key priorities.  
+
+The government has announced a new Union Minister with experience in agricultural development, alongside continued funding for the PM-KISAN scheme. They aim to implement seven new schemes totaling Rs 14,000 crore, covering areas like digitalization, climate-resilient agriculture, and rural infrastructure.
+
+Digitalization is seen as crucial, with efforts to better identify farmers, particularly tenants who lack access to credit and benefits.  The government plans to leverage data from various sources to improve efficiency in fertiliser and food subsidies. 
+
+Rural development initiatives include an additional 20 million houses and significant investment in rural roads, aiming to boost the rural economy and create jobs.
+
+Mon, 16 Sep 2024 02:13:15 +0000
+### [With Rahul Gandhi’s recent comments in the US, Congress has failed Sikhs again](https://indianexpress.com/article/opinion/columns/with-rahul-gandhis-recent-comments-in-the-us-congress-has-failed-sikhs-again-9569715/)
+
+Rahul Gandhi's recent comments about Sikhs in India have been met with disappointment and dismay. The author, a Sikh and a government minister, refutes Gandhi's assertion that Sikhs feel insecure in India, highlighting the deep connection Sikhs have to their homeland. The author criticizes Gandhi for these remarks and draws attention to the 1980s violence against Sikhs under the Congress party, including Indira Gandhi's Operation Blue Star and the subsequent anti-Sikh riots.  
+
+The author contrasts this by pointing to the current BJP government's efforts to support and empower the Sikh community, citing actions such as restoring the names of Sikhs who were blacklisted, facilitating the repatriation of Sikh families from Afghanistan, and acknowledging Sikh heritage.  
+The author concludes by condemning Gandhi's remarks as disgraceful and urging him to understand the history of the Congress party's treatment of Sikhs.
+
+Mon, 16 Sep 2024 01:55:21 +0000
+### [Express View on removal of export curbs on onion and basmati: Restoring balance](https://indianexpress.com/article/opinion/editorials/express-view-on-removal-of-export-curbs-on-onion-and-basmati-restoring-balance-9569698/)
+
+The Indian government recently eased export restrictions on onions and basmati rice, coinciding with upcoming elections in key agricultural states. Export duties were reduced, and import duties on vegetable oils were increased. These moves appear driven by both political and economic factors, aiming to bolster farmer incomes and address concerns over food inflation.  Soybean prices have been low, and a good monsoon is expected to yield abundant harvests. The government's agricultural trade policies have primarily favored consumers, with export curbs and import liberalization. Experts recommend a neutral approach, allowing for duty-free imports to manage prices and building buffer stocks.
+
 Sun, 15 Sep 2024 11:51:45 +0000
 ### [From the Opinion Editor: About bun, cream and GST](https://indianexpress.com/article/opinion/columns/bun-cream-gst-nirmala-sitharaman-annapoorna-9569345/)
 

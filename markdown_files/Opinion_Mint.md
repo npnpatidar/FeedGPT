@@ -1,3 +1,10 @@
+Mon, 16 Sep 2024 07:00:05 +0530
+### [Mint Quick Edit | What fresh EV subsidies tell us about their market](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-what-fresh-ev-subsidies-tell-us-about-their-market-electric-vehicles-climate-change-green-mobility-11726406129134.html)
+
+A new subsidy scheme aims to boost electric vehicle (EV) adoption in India by providing financial incentives of ₹10,000 for electric two-wheelers and ₹50,000 for three-wheelers until March 2025. While this is seen as a step in the right direction for decarbonizing transportation, the continued reliance on subsidies highlights the slow pace of EV adoption.  
+
+The scheme covers buses but excludes cars, despite their lagging transition. The lack of widespread charging infrastructure deters potential buyers.  The government remains hesitant about easing taxes on hybrids as a transitional step.  Increased competition in the EV market is seen as crucial for accelerating the shift, but progress in this area has been limited. Ultimately, the  success of India's EV transition may hinge on local technological advancements that make EVs more affordable and accessible.
+
 Sun, 15 Sep 2024 19:29:48 +0530
 ### [Royalty ruling: It’s ironic how a judgement can prove so taxing for an economy](https://www.livemint.com/opinion/online-views/royalty-ruling-it-s-ironic-how-a-judgement-can-prove-so-taxing-for-an-economy-supreme-court-tax-mining-iron-ore-11726232228077.html)
 

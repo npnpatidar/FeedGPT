@@ -69,6 +69,17 @@ More recently, Hindenburg made new accusations, alleging conflicts of interest a
 
 Despite these denials, Buch faces internal criticism within SEBI and opposition scrutiny, particularly concerning new regulations for foreign portfolio investors and derivatives trading. Some call for an independent review to clear Buch's name and restore trust in SEBI.
 
+Sat, 14 Sep 2024 07:09:20 +0530
+### [What are AM, FM, and signal modulation? | Explained](https://www.thehindu.com/sci-tech/science/what-are-am-fm-and-signal-modulation-explained/article68641239.ece)
+
+Signal modulation is a key technology in long-distance communication, allowing for the efficient transmission of information like sound and images. 
+
+Two common forms of modulation are amplitude modulation (AM) and frequency modulation (FM). In AM, the amplitude of the signal wave is varied to represent the information, while in FM, the frequency of the wave is varied. 
+
+Analog signals, like those used in AM and FM radio broadcasts, are continuous, while digital signals are discrete. Modulation allows multiple signals to be transmitted simultaneously over the same channel without interference.
+
+Operators prefer analog television and radio broadcasting because analog receivers are cheaper. However, the world is gradually transitioning to digital broadcasting due to the advantages of digital technology, such as improved sound and picture quality and resistance to noise.
+
 Fri, 13 Sep 2024 19:12:05 +0530
 ### [Supreme Court granting bail to Arvind Kejriwal in corruption case: Key takeaways](https://www.thehindu.com/news/national/arvind-kejriwal-bail-sc-verdict-corruption-case-key-takeaways/article68637876.ece)
 

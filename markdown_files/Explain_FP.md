@@ -1,3 +1,8 @@
+Mon, 16 Sep 2024 06:30:09 +0530
+### [FirstUp: Modi in Gujarat, Germany implements its widely-criticised border restrictions... Top headlines today](https://www.firstpost.com/explainers/firstup-modi-in-gujarat-germany-implements-its-widely-criticised-border-restrictions-top-headlines-today-13815234.html)
+
+On September 16, 2024 Germany expanded temporary border controls to all land borders for six months to address migration concerns.  Prime Minister Narendra Modi visited Gujarat, where he inaugurated several projects including the Ahmedabad Metro Rail Project, the country's first Vande Metro, and various renewable energy projects. Apple released iOS 18, featuring AI-driven functionalities, privacy enhancements, and cross-device integration. A hearing began into 115 charges against Manchester City related to alleged financial rule breaches in the Premier League.  Meanwhile, TikTok challenged a US law that could lead to a ban of the app in the US, arguing it violates free speech rights. Today also marked Mexican Independence Day and Eid-e-Milad-Un-Nabi, celebrated with festivities and religious observances.
+
 Sun, 15 Sep 2024 18:03:52 +0530
 ### [What’s the no-sleep challenge? How safe is it?](https://www.firstpost.com/health/whats-the-no-sleep-challenge-how-safe-is-it-13814190.html)
 
