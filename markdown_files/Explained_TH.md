@@ -1,3 +1,10 @@
+Mon, 16 Sep 2024 22:44:00 +0530
+### [Why is Tamil Nadu’s education funding on hold? | Explained](https://www.thehindu.com/education/why-is-tamil-nadus-education-funding-on-hold-explained/article68648084.ece)
+
+Tamil Nadu is in a standoff with the Centre over funding for the Samagra Shiksha education scheme. The Centre has withheld funds, linking their release to Tamil Nadu's full implementation of the National Education Policy (NEP) 2020, which includes a three-language formula. Tamil Nadu opposes this, preferring its existing two-language policy of Tamil and English. 
+
+The State has signed a modified Memorandum of Understanding (MoU) for the PM Schools for Rising India scheme, which is linked to Samagra Shiksha funding, but dropped the clause on full NEP implementation. This has led to an impasse, with Tamil Nadu accusing the Centre of withholding funds while the Centre maintains there is no quid pro quo.  The main point of contention is the NEP's three-language formula, which Tamil Nadu has historically resisted, citing its cultural and linguistic identity.
+
 Sun, 15 Sep 2024 22:40:43 +0530
 ### [A crucial election in Sri Lanka | Explained](https://www.thehindu.com/news/international/a-crucial-election-in-sri-lanka-explained/article68645207.ece)
 

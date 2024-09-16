@@ -9207,3 +9207,10 @@ Started at 2024-09-16 16:14:36
 Finished at 2024-09-16 16:15:09
 Total time taken: 33.68640375137329 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-16 18:16:08
+1 Feed entries have been written to feeds/Explained_TH.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-16 18:16:42
+Total time taken: 34.00262784957886 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
