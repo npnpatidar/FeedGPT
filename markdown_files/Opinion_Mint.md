@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 12:30:15 +0530
+### [US-China relations need a reset before we all end up paying a heavy price](https://www.livemint.com/opinion/online-views/uschina-relations-need-a-reset-before-we-all-end-up-paying-a-heavy-price-trade-tariffs-evs-climate-change-joe-biden-xi-11726410410201.html)
+
+The US-China relationship is currently strained, with key bilateral agreements, such as the US-China Science and Technology Agreement, allowed to lapse. Tensions have intensified due to US tariffs, export restrictions on technology, and accusations against Chinese firms for aiding Russia militarily. This deterioration is concerning as global challenges like climate change and economic instability demand cooperation between these two economic giants. 
+
+Despite the challenges, there are glimmers of hope. US National Security Advisor Jake Sullivan's recent visit to Beijing suggests a potential for dialogue. Future US administrations might prioritize rebuilding cooperation, starting with collaborative efforts on regulating artificial intelligence and tackling climate change.  
+
+China's expertise in green technology and the US's market influence present an opportunity to  forge a more balanced trade relationship and simultaneously reduce global carbon emissions. Another crucial area for collaboration is addressing low-income countries' debt burdens and managing competition in outer space. However, obstacles remain, including disagreements over human rights, Taiwan, Ukraine, and trade practices.
+
 Mon, 16 Sep 2024 10:30:13 +0530
 ### [How best to stop sexual violence in India isn’t obvious](https://www.livemint.com/opinion/columns/how-best-to-stop-sexual-violence-in-india-isn-t-obvious-crimes-against-women-rape-kolkata-sexual-assault-society-11726231351664.html)
 

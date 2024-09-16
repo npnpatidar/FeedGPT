@@ -1,3 +1,29 @@
+Mon, 16 Sep 2024 13:30:40 +0530
+### [Will Donald Trump benefit at the polls after second assassination attempt?](https://www.firstpost.com/world/united-states/donald-trump-second-assassination-attempt-florida-us-elections-impact-kamala-harris-13815736.html)
+
+The second assassination attempt targeting Donald Trump occurred while he was playing golf in Florida. The Secret Service neutralized the suspect, Ryan Wesley Routh, who was reportedly armed with an AK-47 style rifle. This follows a July incident where a gunman attempted to harm Trump at a campaign rally. 
+
+Trump and his supporters used the incident to further rally support ahead of the November 5 election.  
+
+Experts remain divided on the potential political impact of the shooting, noting that the context differs from the July incident. Some argue that the lack of audience and physical harm to Trump will diminish its ability to propel his campaign. Others believe that the heightened media attention surrounding the event could benefit him. 
+
+
+Regardless of its political ramifications, the shooting highlights the increasing political violence in the United States.
+
+Mon, 16 Sep 2024 12:01:46 +0530
+### [Europe floods: Why Storm Boris is so devastating](https://www.firstpost.com/explainers/europe-floods-why-storm-boris-is-so-devastating-13815651.html)
+
+Central and eastern Europe have been hit hard by Storm Boris, which has brought a month's worth of rain in just one day.   Countries like Poland, Romania, Austria, the Czech Republic, and Hungary have been severely affected, with towns and villages flooded, trees uprooted, and bridges damaged.  
+
+The storm's destructive power is attributed to a combination of warm, moist air from the Black Sea and Mediterranean, colliding with cold air from the north.  This weather pattern has led to record rainfall and flash flooding, resulting in a significant death toll and numerous missing persons.
+
+Mon, 16 Sep 2024 11:52:52 +0530
+### [Trump second assassination attempt: How US Secret Service saved the former president](https://www.firstpost.com/world/united-states/donald-trump-second-assassination-attempt-golf-course-flordia-us-secret-service-13815710.html)
+
+At Trump's golf club in West Palm Beach, Florida, former President Donald Trump was playing golf when a suspect identified as Ryan Wesley Routh was seen brandishing a rifle through the shrubbery. Secret Service agents, who were sweeping the course ahead of Trump, immediately engaged with the suspect. Routh fled the scene but was later apprehended by police after crossing into Martin County. No shots were confirmed to have been fired at Trump, and he emerged unharmed. 
+
+The FBI is leading the investigation, aided by the Secret Service, Palm Beach Sheriff's Office, and Martin County Sheriff's Office. The suspect was found to have a scope for the rifle and a GoPro camera at the scene. The motive behind the incident remains unclear.
+
 Mon, 16 Sep 2024 11:29:24 +0530
 ### [From Donald Trump to George W Bush, the assassination attempts on US leaders](https://www.firstpost.com/world/united-states/from-donald-trump-to-abraham-lincoln-the-assassination-attempts-on-us-leaders-13815689.html)
 

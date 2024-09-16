@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 06:18:25 +0000
+### [Of cats, cat ladies and Mr Trump](https://indianexpress.com/article/opinion/columns/of-cats-cat-ladies-and-mr-trump-9570343/)
+
+The article criticizes Donald Trump's claim that Haitian refugees are eating cats and dogs. It humorously explores the logistical absurdity of this scenario, highlighting the challenges of catching, killing, and cooking cats in a society with readily available resources. 
+
+The author argues that the claim reflects poorly on America, suggesting that if individuals are resorting to such measures, it indicates a failure of the nation's social safety net.
+
+The article concludes that the existence of "childless cat ladies" adequately protects cats from harm and satirizes Trump's remarks, implying they are illogical and nonsensical.
+
 Mon, 16 Sep 2024 03:30:07 +0000
 ### [September 16, 1984, Forty Years Ago: PM on governance](https://indianexpress.com/article/opinion/40-years-ago/september-16-1984-forty-years-ago-pm-on-governance-9569697/)
 
