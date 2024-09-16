@@ -1,3 +1,17 @@
+Mon, 16 Sep 2024 16:00:00 +0530
+### [Brace for GenAI letting the early adopters of this technology down](https://www.livemint.com/opinion/columns/brace-for-genai-letting-the-early-adopters-of-this-technology-down-ai-artificial-intelligence-11726233479837.html)
+
+This article discusses the potential challenges faced by IT service providers in implementing and monetizing Generative Artificial Intelligence (GenAI). 
+
+While GenAI offers promise, the author highlights issues such as factual inaccuracies (hallucinations) in GenAI outputs and the difficulty in integrating it seamlessly with existing IT systems. 
+
+The author argues that IT service providers' existing approaches to training their workforce and showcasing GenAI benefits are insufficient. 
+
+Furthermore, the author predicts that initial GenAI implementations will likely be limited to modest productivity improvements through automation, failing to meet the high expectations surrounding its potential.
+
+
+The author expresses concern that a lack of tangible results will lead to blame-shifting between clients and service providers, creating opportunities for third-party consultants.
+
 Mon, 16 Sep 2024 15:00:18 +0530
 ### [Regulators get tough: Big Tech’s easy ride is finally coming to an end](https://www.livemint.com/opinion/online-views/regulators-get-tough-big-tech-s-easy-ride-is-finally-coming-to-an-end-european-commission-apple-google-meta-regulation-11726232976337.html)
 

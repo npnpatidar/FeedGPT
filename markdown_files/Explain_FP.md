@@ -1,3 +1,34 @@
+Mon, 16 Sep 2024 17:34:11 +0530
+### [Two years after Mahsa Amini’s death: What has changed, what hasn’t in Iran?](https://www.firstpost.com/explainers/two-years-after-mahsa-aminis-death-what-has-changed-what-hasnt-in-iran-13815879.html)
+
+Two years after Mahsa Amini's death sparked nationwide protests in Iran, the government has intensified its crackdown on dissent. Despite initial calls for reform, the regime has executed protestors and imprisoned their families, while also enforcing stricter hijab regulations with increased surveillance. Security forces have employed violence against women, leaving many injured or paralyzed.
+
+While observers acknowledge the regime's success in restoring order, they believe Iranian society has been fundamentally altered by the protests, leaving a yearning for change and disillusionment with the current system. Despite the lack of a unified opposition, the movement exposed deep divisions within Iran and highlighted the government's shortcomings, suggesting potential for future upheaval.
+
+Mon, 16 Sep 2024 17:30:35 +0530
+### [Earth is set to get a 'mini-moon' for 56 days. What is this rare celestial event?](https://www.firstpost.com/explainers/earth-is-set-to-get-a-mini-moon-for-56-days-what-is-this-rare-celestial-event-13815804.html)
+
+A mini-moon, asteroid 2024 PT5, will orbit Earth from September 29 to November 25, 2024. This asteroid, about 33 feet in diameter, was discovered by NASA's ATLAS system and is believed to be from the Arjuna asteroid belt. While it won't complete a full revolution around Earth, it will perform a horseshoe loop before escaping Earth's gravitational pull.  
+
+Due to its faintness (magnitude 22), 2024 PT5 will only be observable with advanced telescopes. Although Earth has encountered mini-moons before, 2024 PT5 provides valuable data for astronomers studying gravitational interactions and predicting asteroid behavior.
+
+Mon, 16 Sep 2024 17:00:50 +0530
+### [Why is UK's PM Keir Starmer in trouble over his wife's clothes?](https://www.firstpost.com/explainers/why-is-uks-pm-keir-starmer-in-trouble-over-his-wifes-clothes-13815865.html)
+
+Sir Keir Starmer is facing an investigation for failing to declare gifts from Labour Party donor Lord Alli to his wife, Lady Victoria Starmer.  Lord Alli allegedly gave money to cover the costs of a personal shopper, new clothes, and alterations for Lady Starmer before and after the UK polls. This is problematic as MPs must declare gifts within 28 days, and Starmer only did so after receiving "fresh advice." 
+
+
+    
+The situation is further complicated as Starmer has already declared other gifts from Lord Alli, including $25,000 for clothes and glasses, and free accommodation worth over $26,000. The Conservatives are demanding a full investigation, calling the incident the "passes for glasses scandal."  
+Starmer and his supporters argue that the gifts were routine and that other world leaders also receive financial support for clothing expenses. They point to the US president having a clothing budget but not the First Lady.  Meanwhile, other countries like France and Germany do not provide specific clothing funds for their government officials' spouses.
+
+Mon, 16 Sep 2024 16:24:12 +0530
+### [Quicksplained: All about Namo Bharat Rapid Rail, India’s first Vande Bharat metro, flagged off by PM Modi](https://www.firstpost.com/explainers/quicksplained-namo-bharat-rapid-rail-indias-first-vande-bharat-metro-pm-modi-13815818.html)
+
+India's first Namo Bharat Rapid Rail, formerly known as Vande Metro, was launched by Prime Minister Narendra Modi in Gujarat. The Ahmedabad-Bhuj service, covering 360 kilometers, will complete the journey in 5 hours and 45 minutes at a speed of 110 kilometers per hour. The train will operate six days a week, stopping at nine stations. 
+
+It features 12 air-conditioned coaches with accommodations for 1,150 passengers and standing capacity for 2,058. Equipped with modern amenities like phone charging stations, CCTV, and panic buttons, the train prioritizes safety with advanced features like KAVACH for collision avoidance. Public service begins on September 17th, coinciding with PM Modi's birthday. Ticket fares range from a minimum of â¹30 to â¹455 for a one-way journey.
+
 Mon, 16 Sep 2024 15:25:25 +0530
 ### [Missiles, drones, and more: How Yemen’s Houthi rebels get their weapons](https://www.firstpost.com/explainers/yemen-houthi-rebels-weapons-stockpile-iran-israel-attack-13815821.html)
 

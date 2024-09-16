@@ -1,3 +1,21 @@
+Mon, 16 Sep 2024 16:29:00 +0530
+### [With Russia-Ukraine war entering final showdown, India has a critical role to play](https://www.firstpost.com/opinion/with-russia-ukraine-war-entering-final-showdown-india-has-a-critical-role-to-play-13815854.html)
+
+The Russia-Ukraine war has entered a critical phase, with Russia's threat to deploy nuclear weapons adding to global tension.  While Russia initially seemed to have a tactical advantage, Ukraine's recent attack on the Kursk region has changed the narrative.  
+
+Ukraine, bolstered by NATO's support and weapons supply, is seeking to negotiate a way out of the conflict through diplomacy.  India, meanwhile, has emerged as a key player in mediating the peace process, seeking dialogue and a resolution. The Indian Prime Minister visited both Russia and Ukraine, highlighting India's commitment to peace and a "not neutral" stance. 
+
+The war's escalation and possible expansion into a Russia-NATO conflict raises serious concerns. India's role in bringing Russia and Ukraine to the negotiating table is crucial in averting a catastrophic outcome.
+
+Mon, 16 Sep 2024 15:53:55 +0530
+### [What cards Sri Lankan presidential election will bring to India’s deck](https://www.firstpost.com/opinion/what-cards-sri-lankan-presidential-election-will-bring-to-indias-deck-13815844.html)
+
+Sri Lanka is heading towards a presidential election on September 21st, with a wide array of candidates vying for the top spot. Prominent figures include Ranil Wickremesinghe, seeking to secure his position after being appointed president in 2022; Sajith Premadasa, who boasts the support of a significant number of lawmakers; and Anura Dissanayake, a rising star from the JVP, leading the National People's Power.  
+
+The outcome remains highly unpredictable. While Dissanayake is gaining traction in polls, his lack of national political experience raises questions. Premadasa, backed by the Samagi Jana Balawegaya party, has pledged comprehensive implementation of the 13th Amendment, addressing Tamil concerns. 
+
+India is deeply invested in the election, as Sri Lanka holds strategic importance in its Indian Ocean Region strategy. Amidst economic distress and pressure from China, India seeks a stable and friendly government in Colombo.
+
 Mon, 16 Sep 2024 11:38:20 +0530
 ### [How millennials are revolutionising the travel and hospitality landscape](https://www.firstpost.com/opinion/how-millennials-are-revolutionising-the-travel-and-hospitality-landscape-13815716.html)
 

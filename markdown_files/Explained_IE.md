@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 11:30:02 +0000
+### [5 things to know about Ryan Wesley Routh, suspect in possible Trump assassination attempt](https://indianexpress.com/article/explained/explained-global/ryan-wesley-routh-trump-9570919/)
+
+Ryan Wesley Routh, a 58-year-old man from North Carolina, was arrested for allegedly attempting to assassinate former President Donald Trump. He was spotted with a rifle outside a Florida golf course where Trump was playing. 
+
+Routh, who had a history of run-ins with the law, was a vocal supporter of Ukraine and had traveled there to try to contribute to the war effort.  He also wrote a book about his experiences in Ukraine. 
+
+Prior to his legal issues, Routh was recognized as a hero for helping defend a woman against a rapist. He voted for Trump in 2016 but expressed disappointment in him on social media.
+
 Mon, 16 Sep 2024 09:23:52 +0000
 ### [Everything you need to know about the Emmy Awards](https://indianexpress.com/article/explained/explained-culture/emmy-awards-2024-9570668/)
 
