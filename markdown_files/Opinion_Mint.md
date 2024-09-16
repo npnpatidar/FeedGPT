@@ -1,3 +1,12 @@
+Mon, 16 Sep 2024 10:30:13 +0530
+### [How best to stop sexual violence in India isn’t obvious](https://www.livemint.com/opinion/columns/how-best-to-stop-sexual-violence-in-india-isn-t-obvious-crimes-against-women-rape-kolkata-sexual-assault-society-11726231351664.html)
+
+The article discusses the recurring problem of sexual assault in India, highlighting the cyclical response of outrage, temporary measures, and societal complacency that fails to address the root causes. The author argues that relying on punishments like capital punishment or increased security is ineffective and only treats the symptoms.
+
+Instead, the article emphasizes the need to acknowledge the deeper societal issues that contribute to sexual violence. These include condoning everyday harassment, failing to protect victims, and protecting perpetrators instead of holding them accountable. 
+
+The author points to the economic cost of sexual assault, as it restricts women's participation in the workforce and hinders national productivity. Ultimately, the article calls for a fundamental shift in societal attitudes and a commitment to zero tolerance towards any form of violence against women.
+
 Mon, 16 Sep 2024 08:30:09 +0530
 ### [The US Fed is under watch for more than just its policy rate](https://www.livemint.com/opinion/online-views/the-us-fed-is-under-watch-for-more-than-just-its-policy-rate-federal-reserve-interest-rates-rate-cut-employment-11726406972776.html)
 

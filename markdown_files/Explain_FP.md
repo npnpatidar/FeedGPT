@@ -1,3 +1,15 @@
+Mon, 16 Sep 2024 11:29:24 +0530
+### [From Donald Trump to George W Bush, the assassination attempts on US leaders](https://www.firstpost.com/world/united-states/from-donald-trump-to-abraham-lincoln-the-assassination-attempts-on-us-leaders-13815689.html)
+
+Former US President Donald Trump was the target of another assassination attempt on September 15th at his golf club in Florida.  A man armed with a rifle was seen near the club and shot at by Secret Service agents. The suspect, later identified as Ryan Routh, fled but left behind his weapon and other belongings.  He was arrested by the FBI. This incident follows a previous alleged assassination attempt on Trump during a July election rally in Pennsylvania. 
+
+Throughout US history, several presidents have faced similar threats. Notable examples include George W Bush who was the target of a hand grenade in 2005, and Ronald Reagan who was shot in 1981.  Tragically, presidents like Abraham Lincoln, John F. Kennedy, and Robert F. Kennedy were assassinated.
+
+Mon, 16 Sep 2024 09:49:12 +0530
+### [Who is Ryan Wesley Routh, the suspected gunman in Donald Trump’s second assassination attempt?](https://www.firstpost.com/world/united-states/donald-trump-second-assassination-attempt-ryan-wesley-routh-suspected-gunman-13815658.html)
+
+A 58-year-old man, identified by media reports as Ryan Wesley Routh, has been arrested following an incident where shots were fired near former President Donald Trump at his Mar-a-Lago resort in Florida.  Trump, unharmed in the incident, confirmed his safety and called it an attempted assassination. Routh, a North Carolina native with a history of minor offenses, had expressed strong support for Ukraine on social media, even attempting to recruit volunteers to fight there. He had also displayed support for Republican presidential candidates Vivek Ramaswamy and Nikki Haley while stating he lost faith in Trump after 2016. Routh's son, Oran, described his father as a loving and hardworking man and expressed hope that the situation was blown out of proportion.
+
 Mon, 16 Sep 2024 06:30:09 +0530
 ### [FirstUp: Modi in Gujarat, Germany implements its widely-criticised border restrictions... Top headlines today](https://www.firstpost.com/explainers/firstup-modi-in-gujarat-germany-implements-its-widely-criticised-border-restrictions-top-headlines-today-13815234.html)
 

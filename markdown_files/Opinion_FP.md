@@ -1,3 +1,19 @@
+Mon, 16 Sep 2024 11:38:20 +0530
+### [How millennials are revolutionising the travel and hospitality landscape](https://www.firstpost.com/opinion/how-millennials-are-revolutionising-the-travel-and-hospitality-landscape-13815716.html)
+
+Millennials are driving a revolution in the travel industry, prioritizing immersive experiences, cultural engagement, and sustainability. They seek unique, authentic, and luxurious trips, often venturing off-the-beaten-path to discover hidden gems. 
+
+Social media heavily influences their travel decisions, leading them to seek destinations and experiences that are visually appealing and shareable. They value personalized, meaningful experiences and are willing to pay more for sustainable practices. The hospitality sector must adapt to these preferences by offering eco-friendly options, authentic cultural experiences, and comfortable accommodations to cater to this demanding yet discerning generation.
+
+Mon, 16 Sep 2024 11:14:28 +0530
+### [Why China should fix its own house before commenting on Jaishankar](https://www.firstpost.com/opinion/why-china-should-fix-its-own-house-before-commenting-on-jaishankar-13815680.html)
+
+Recently, a Chinese publication criticized Indian External Affairs Minister S Jaishankar, accusing him of having a 'China problem'.  The article highlights Jaishankar's statement about the existence of a global "China problem," stating that this reflects India's adoption of anti-China policies.  
+
+The article also brings up the 2020 Ladakh standoff, where China initiated incursions, questioning whether Jaishankar was responsible for that.
+
+The piece further discusses China's internal issues, including the demotion of its defense minister and ongoing anti-corruption measures within the military.  These issues, coupled with military drills near Taiwan,  suggest China may be facing internal challenges and using external distractions to deflect attention. Finally, the article notes that  President Xi Jinping's emphasis on "self-revolution" within the Chinese Communist Party echoes the Maoist era and points to potential concerns about China's direction.
+
 Sun, 15 Sep 2024 17:20:28 +0530
 ### [REAIM Summit 2024: Forging global consensus on military AI](https://www.firstpost.com/opinion/reaim-summit-2024-forging-global-consensus-on-military-ai-13815530.html)
 
