@@ -1,3 +1,19 @@
+Tue, 17 Sep 2024 21:00:08 +0530
+### [Meet Ukraine’s ‘Bucha Witches’: Who are these women defending the skies against Russian drones?](https://www.firstpost.com/explainers/meet-ukraines-bucha-witches-who-are-these-women-defending-the-skies-against-russian-drones-13816346.html)
+
+In the aftermath of the Russian invasion and occupation of Bucha, a group of Ukrainian women formed an all-female air defense unit known as the "Bucha Witches." Comprised of volunteers aged 19 to 64, they have taken up arms to protect their community from Russian drone attacks. 
+
+Facing personal losses and trauma, these women undergo rigorous training with century-old Maxim machine guns to intercept Iranian-made Shahed and Russian Geran drones. Driven by a desire to defend their homes and loved ones, they demonstrate remarkable courage and resilience, shattering traditional gender roles in the Ukrainian military. Though unpaid, their commitment to the cause is unwavering.  The  "Bucha Witches" stand as symbols of Ukrainian strength and determination, proving that courage knows no gender.
+
+Tue, 17 Sep 2024 20:36:32 +0530
+### [Panic buttons, bulletproof glass: How US election officials are preparing to stay safe during polls](https://www.firstpost.com/world/panic-buttons-bulletproof-glass-how-us-election-officials-are-preparing-to-stay-safe-during-polls-13816399.html)
+
+Election security is a top priority this year, with authorities implementing heightened measures following threats and violence against election workers. 
+
+In response to incidents like gun threats, white powder laced with fentanyl, and swatting, election offices are receiving security assessments, funding for upgrades like bulletproof glass and badge readers, and training in de-escalation and active shooter response. 
+
+Local law enforcement will have a greater presence, particularly on election night and during result certification.  Measures like panic buttons, canine teams scanning mail ballots, and stricter observation protocols are also being implemented. These changes aim to ensure the safety of election workers and the integrity of the voting process while maintaining public trust and accessibility to polling places.
+
 Tue, 17 Sep 2024 19:03:56 +0530
 ### [After Namibia, why Zimbabwe is preparing to kill 200 majestic elephants](https://www.firstpost.com/explainers/after-namibia-why-zimbabwe-is-preparing-to-kill-200-majestic-elephants-13816309.html)
 
