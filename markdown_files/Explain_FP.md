@@ -1,3 +1,48 @@
+Tue, 17 Sep 2024 15:02:09 +0530
+### [Piyush Goyal wants a new Silicon Valley for India: The story of California’s famous tech hub](https://www.firstpost.com/world/united-states/piyush-goyal-wants-a-new-silicon-valley-for-india-the-story-of-californias-famous-tech-hub-13816232.html)
+
+Silicon Valley, located in the Santa Clara Valley of California, is renowned as a global center for innovation and technology. 
+
+Initially known for its fruit orchards, the area's transformation began with the establishment of Stanford University in 1891. The university's electrical engineering department, nurtured by faculty member Frederick Terman, fostered the growth of numerous tech companies. The invention of the transistor in 1941 and the founding of Hewlett-Packard in a Palo Alto garage marked significant milestones. By the 1960s, the development of integrated circuits and the rise of venture capital fueled  rapid expansion.  Key events like the creation of Arpanet (later the internet) and the emergence of companies like Intel, Atari, Apple, and Microsoft solidified Silicon Valley's position as a tech powerhouse.  The continued founding of iconic companies like Google, Amazon, and Meta in subsequent decades cemented its enduring impact on the global technological landscape.
+
+Tue, 17 Sep 2024 14:29:30 +0530
+### [How Atishi went from an academic to Delhi’s youngest chief minister](https://www.firstpost.com/explainers/arvind-kejriwal-atishi-delhi-youngest-chief-minister-aap-13816203.html)
+
+Atishi, an AAP leader and Oxford graduate, has been chosen as Delhi's new chief minister. She is known for her role in transforming Delhi's government schools and served as an advisor to Manish Sisodia in the education department. Atishi is the third woman to hold the position of Delhi CM. 
+
+The 43-year-old politician, considered a trusted lieutenant of Arvind Kejriwal,  entered AAP in 2013 and has consistently risen through the ranks. She is known for her communication skills and for effectively countering the BJP on various issues. Atishi's appointment comes at a time when Kejriwal is stepping down, and the party aims to project itself as gender-equal by choosing a female leader.
+
+Tue, 17 Sep 2024 14:24:12 +0530
+### [Meghan Markle reduces ‘grown men to tears’: Inside the bombshell report on Duchess of Sussex](https://www.firstpost.com/explainers/meghan-markle-reduces-grown-men-to-tears-inside-the-bombshell-report-on-duchess-of-sussex-13816125.html)
+
+A recent exposé by The Hollywood Reporter paints a negative picture of Meghan Markle's behavior, portraying her as a "dictator in high heels" who belittles and demands incessantly from her colleagues. The report also criticizes Prince Harry, calling him an "enabler" who is complicit in his wife's alleged poor decision-making.  A source close to the couple disputes these claims, suggesting they are fabricated by disgruntled former staff members.  This latest report adds fuel to the fire of continuous controversy surrounding the Sussexes,  especially regarding Markle's treatment of employees, which has led to a high turnover rate amongst her staff. Markle has previously denied allegations of bullying, calling them a calculated smear campaign. 
+
+
+
+ The couple continues to live in Montecito, California, with their two children, and speculation persists about potential regrets over their decision to step back from royal duties.
+
+Tue, 17 Sep 2024 14:13:59 +0530
+### [Who is Vineet Goyal, the Kolkata top cop sacked by CM Mamata Banerjee? Why did doctors demand his removal?](https://www.firstpost.com/explainers/who-is-vineet-goyal-kolkata-police-commissioner-removed-from-post-doctors-demand-his-removal-west-bengal-mamata-banerjee-13816116.html)
+
+Following protests from junior doctors in West Bengal, Kolkata Police Commissioner Vineet Goyal was removed from his position. The protests were sparked by the rape and murder of a postgraduate student at RG Kar Medical College.  
+ 
+Doctors accused Goyal of mishandling the situation and failing to address procedural lapses in the investigation. Goyal, a 1994-batch IPS officer with a decorated career, faced criticism for his handling of the vandalsim at RG Kar Hospital during a junior doctors' protest march. Although Goyal defended the police's actions, his explanations failed to satisfy the protesting doctors, who demanded his removal as part of their five-point charter.  
+
+
+Chief Minister Mamata Banerjee accepted several of the doctors' demands, including Goyal's removal and the transfer of other officials. A new Kolkata Police Commissioner is expected to be appointed soon.
+
+Tue, 17 Sep 2024 13:57:46 +0530
+### [Narendra Modi’s birthday: How the PM started the tradition of auctioning his mementos, gifts](https://www.firstpost.com/explainers/pm-narendra-modi-birthday-auction-of-mementos-gifts-13816177.html)
+
+Prime Minister Narendra Modi's 74th birthday marked the start of the sixth edition of an online auction featuring mementos he has received. The auction, which runs until October 2nd, includes items like sports memorabilia, religious artifacts, traditional arts and handicrafts, and art pieces. The proceeds from the auction will benefit the Namami Gange program, aimed at preserving and revitalizing the River Ganga. This practice, initiated in 2019, has seen over 7,000 mementos auctioned so far, raising significant funds for the program.
+
+Tue, 17 Sep 2024 13:56:15 +0530
+### [Who will control Rupert Murdoch's media empire? Why will the court decide on 'succession'?](https://www.firstpost.com/explainers/who-will-control-rupert-murdoch-media-empire-why-will-the-court-decide-on-succession-13816126.html)
+
+A legal battle is underway within the Murdoch family over control of Rupert Murdoch's vast media empire, valued at $14.9 billion. The 93-year-old media mogul seeks to amend the family trust to grant his eldest son, Lachlan Murdoch, greater control over News Corp and Fox Corp. His desire stems from his children's differing political views, with Lachlan aligning closely with his father's conservative ideology, while siblings James, Elisabeth, and Prudence hold more moderate stances.  
+
+Lachlan currently serves as CEO of Fox Corp and chair of News Corp, championing his father's conservative vision. The case revolves around the possibility of amending the 1999 trust, originally designed to give equal voting shares to all four eldest children. If successful, Lachlan will secure his position leading the empire, potentially solidifying the conservative slant of Fox News and other outlets. Conversely, a victory for the other siblings could shift the companies towards a more moderate direction, potentially leading to a sale of Fox News or a buyout. The crucial legal battle is being heard privately in Nevada, sparking controversy over its public interest.
+
 Tue, 17 Sep 2024 12:13:07 +0530
 ### [Arvind Kejriwal picks Atishi as new CM. But will Delhi see early elections?](https://www.firstpost.com/explainers/arvind-kejriwal-aap-atishi-new-cm-delhi-early-elections-13816132.html)
 

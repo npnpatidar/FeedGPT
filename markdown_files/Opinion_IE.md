@@ -1,3 +1,12 @@
+Tue, 17 Sep 2024 08:30:31 +0000
+### [Why the case against Wikipedia in India is a challenge to freedom of speech and information](https://indianexpress.com/article/opinion/columns/why-case-wikipedia-india-challenge-freedom-speech-information-9572234/)
+
+Wikipedia functions as a collaborative platform where volunteers strive to maintain accurate and neutral information. It relies on a system of sourcing and referencing, demanding verifiable information for all content.  Despite its strengths, Wikipedia acknowledges its limitations, recognizing the potential for bias in sources and the complexities of interpreting information.
+
+The platform actively combats misinformation through a combination of AI-driven tools and a vigilant community of editors who scrutinize edits and engage in discussions to ensure neutrality. 
+
+Recently, a legal challenge against Wikipedia in India raises concerns about freedom of speech and the platform's open editing model. The case highlights the importance of understanding Wikipedia's collaborative nature and its commitment to providing free access to information.
+
 Tue, 17 Sep 2024 06:33:44 +0000
 ### [Ahead of J&K Assembly elections, New Delhi’s latest political gambit — Engineer Rashid](https://indianexpress.com/article/opinion/columns/jammu-and-kashmir-assembly-elections-new-delhi-latest-gambit-engineer-rashid-9572028/)
 

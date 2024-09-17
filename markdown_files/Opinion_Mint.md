@@ -1,3 +1,30 @@
+Tue, 17 Sep 2024 15:00:18 +0530
+### [We do need tighter scrutiny of pricey deals by competition authorities](https://www.livemint.com/opinion/online-views/cci-competition-commission-of-india-dvt-deal-value-antitrust-regulation-competition-mergers-zomato-digital-sector-11726539144689.html)
+
+India has implemented a new competition law rule requiring mandatory review of deals valued over ₹2,000 crore, even if they don't meet established turnover or asset thresholds. This change aims to address concerns about "killer acquisitions" in the digital sector, where large companies may buy smaller startups to stifle competition. 
+
+Deal value is broadly defined and includes previous transactions between the same parties.  International deals won't be automatically caught if the target company lacks significant business operations in India.
+
+The Competition Commission of India (CCI) is adopting a proactive stance, using a 10% business nexus with India for digital services and applying a minimum turnover threshold for other sectors. The CCI's focus aligns with global trends of increased scrutiny of mergers and acquisitions in digital markets, aiming to protect innovation and fair competition. Industry is adapting by carefully assessing competition risks and revising deal documents to ensure timely closure.
+
+Tue, 17 Sep 2024 14:57:59 +0530
+### [Sebi's proposed changes can spruce up investment advisory regulations](https://www.livemint.com/opinion/columns/sebi-investment-advisory-ria-regulations-proposed-changes-criteria-relaxations-mutual-funds-financial-planning-11726128424533.html)
+
+India's market regulator, the Securities and Exchange Board of India (Sebi), proposed significant changes to the regulations for registered investment advisers (RIAs) and research analysts (RAs). These changes aim to relax many existing rules, potentially increasing the number of RIAs and widening the scope of regulated investment advice. 
+
+The proposals would  lower barriers to entry for RIAs,  allowing part-time advisors and individuals with  less experience to join the industry.  However, they also restrict RIAs from offering advice on products not regulated by Sebi, potentially impacting holistic financial planning. Sebi argues this protects clients by ensuring they have recourse to Sebi for grievance redressal on advice concerning regulated products. 
+
+Critics argue these restrictions fragment financial advice, as clients might need to consult multiple advisors for different aspects of their financial planning. They suggest the Financial Stability and Development Council (FSDC) could play a role in coordinating regulation across various financial sectors to ensure comprehensive and integrated financial advice.
+
+Tue, 17 Sep 2024 14:30:17 +0530
+### [Why the US Federal Reserve may go for a big rate cut this week](https://www.livemint.com/opinion/online-views/us-federal-reserve-interest-rate-cut-fed-meeting-us-recession-unemployment-inflation-jerome-powell-price-stability-11726561919451.html)
+
+The Federal Reserve faces a crucial decision this week: lower interest rates by 25 or 50 basis points. 
+
+Several factors suggest a 50 basis point cut is likely. Economic data indicates a slowing economy with moderate wage inflation and a cooling job market. This, coupled with market expectations for significant rate reductions by the end of 2024, makes a larger cut more suitable. 
+
+However, the Fed may hesitate due to concerns about perceived inflation reversal and potential accusations of manipulating the economy for political gain.  Despite these considerations, the author believes that Fed Chair Jerome Powell will favor an aggressive approach, leading to a 50 basis point reduction.  A larger cut will align better with market expectations and address the current tight monetary policy stance.
+
 Tue, 17 Sep 2024 12:30:15 +0530
 ### [India’s Unified Lending Interface is worth much more than it seems](https://www.livemint.com/opinion/online-views/unified-lending-interface-rbi-credit-worthiness-dpi-formal-lending-borrowers-cooperatives-innovation-11726536984913.html)
 
