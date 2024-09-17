@@ -9311,3 +9311,10 @@ Started at 2024-09-17 16:15:01
 Finished at 2024-09-17 16:15:37
 Total time taken: 36.22414302825928 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-17 18:16:21
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-17 18:16:55
+Total time taken: 33.713417530059814 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

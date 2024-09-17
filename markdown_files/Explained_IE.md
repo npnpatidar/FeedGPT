@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 17:31:01 +0000
+### [Lebanon attacks: Behind pager explosions across the country](https://indianexpress.com/article/explained/explained-global/lebanon-hezbollah-pagers-9573166/)
+
+Over 2,700 people were injured, eight fatally, in Lebanon after a wave of coordinated pager blasts.  Hezbollah,  a Lebanese militant group, blames Israel for the attacks, claiming they are retaliation for an alleged assassination attempt on a former top Israeli defense official. Israel has not officially responded to the allegations but has warned of potential military action against Hezbollah. The blasts, which involved Hezbollah's latest model pagers,  primarily caused injuries to the face, hands, and stomach. Hezbollah maintains its support for Palestine amid the ongoing conflict with Israel.
+
 Tue, 17 Sep 2024 12:42:14 +0000
 ### [Who is Rupert Murdoch, and why is there a major succession battle for his legacy?](https://indianexpress.com/article/explained/explained-global/rupert-murdoch-succession-9572633/)
 
