@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 18:41:36 +0000
+### [Exploding pagers in Lebanon: Supply chain tampering prime suspect in Hezbollah deaths](https://indianexpress.com/article/explained/explained-global/exploding-pagers-lebanon-supply-chain-hezbollah-9573222/)
+
+Hundreds of handheld pagers exploded in Lebanon and Syria, injuring 2,750 people and killing eight. The primary suspect is Israel, known for executing targeted attacks against adversaries. Hezbollah, an Iran-backed militant group, was the main target.  Early speculation pointed to a hack causing battery overheating, but experts suspect Israel infiltrated the supply chain, placing military-grade explosives in a recent batch of pagers.  There are theories about the mechanism of detonation, including a remote signal like a text message. The attacks, characterized as "criminal Israeli aggression",  occurred after Israel hinted at escalating its military campaign against Hezbollah.
+
 Tue, 17 Sep 2024 17:31:01 +0000
 ### [Lebanon attacks: Behind pager explosions across the country](https://indianexpress.com/article/explained/explained-global/lebanon-hezbollah-pagers-9573166/)
 

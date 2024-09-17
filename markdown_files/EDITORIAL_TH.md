@@ -1,3 +1,13 @@
+Wed, 18 Sep 2024 00:20:00 +0530
+### [A way out: On the government and doctor-led protests in West Bengal](https://www.thehindu.com/opinion/editorial/a-way-out-on-the-government-and-doctor-led-protests-in-west-bengal/article68652049.ece)
+
+The West Bengal government finally engaged in talks with protesting junior doctors after five attempts. The doctors, who have been on strike since August 9 demanding justice for a murdered colleague,  agreed to return to work following the government's concession to most of their demands, including the replacement of key police and health officials. The strike, supported by civil society, had significantly impacted government hospitals despite the efforts of other medical staff. The government has promised significant investments to improve hospital infrastructure and security, raising hopes for a resolution to the longstanding trust deficit between the government and doctors.
+
+Wed, 18 Sep 2024 00:10:00 +0530
+### [Third front: On the expanding nature of the conflict in West Asia](https://www.thehindu.com/opinion/editorial/third-front-on-the-expanding-nature-of-the-conflict-in-west-asia/article68652021.ece)
+
+The recent missile attack by Yemen's Houthi rebels on Israel marks a concerning escalation of the conflict. This follows a similar attack in July, highlighting the growing reach of Houthi weaponry. While Israel claims the missile fragmented mid-air, the incident raises security concerns as Israel is already engaged in protracted conflicts with Hamas and Hezbollah. The Houthis, backed by Iran, have proven resilient to previous airstrikes and their attacks on Israeli targets demonstrate their increasing capacity. Israel faces a predicament in countering the Houthis, who exploit the Palestinian cause for strategic advantage. Unless a ceasefire is reached in Gaza, the security situation in the region remains volatile, with multiple theaters of conflict unfolding simultaneously.
+
 Tue, 17 Sep 2024 00:30:00 +0530
 ### [Down to the wire: On the run-up to the U.S. presidential election](https://www.thehindu.com/opinion/editorial/down-to-the-wire-the-hindu-editorial-on-the-run-up-to-the-us-presidential-election/article68648506.ece)
 
