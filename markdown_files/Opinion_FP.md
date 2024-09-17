@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 19:03:19 +0530
+### [Dangerous lies: Why Khamenei should look at Iran’s own genocidal record before pointing fingers at India](https://www.firstpost.com/opinion/dangerous-lies-why-khamenei-should-look-at-irans-own-genocidal-record-before-pointing-fingers-at-india-13816379.html)
+
+Ayatollah Ali Khamenei, Iran's Supreme Leader, accused India of persecuting Muslims, equating India's treatment of its Muslim population to the plight of Muslims in Myanmar, Gaza, and other locations.  This assertion is refuted by the fact that India has a significant and growing Muslim population and has historically granted Muslims preferential treatment in areas such as education and religious institutions.  The article argues that Khamenei's claim is a deliberate attempt to bolster Iran's Islamist credentials and influence among Muslim countries while simultaneously avoiding criticism of China's human rights abuses against Uyghur Muslims in Xinjiang.  The author criticizes India's left-leaning liberals for overlooking Iran's problematic record and failing to recognize the potential threat posed by Iran's opportunistic stance towards India.  The article concludes by emphasizing the need for India to strengthen its ties with countries like Israel, who are demonstrably more reliable allies in times of crisis.
+
 Tue, 17 Sep 2024 17:28:42 +0530
 ### [Modi at 74: A decade of Bharat’s re-awakening](https://www.firstpost.com/opinion/modi-at-74-a-decade-of-bharats-re-awakening-13816333.html)
 

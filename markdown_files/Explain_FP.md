@@ -1,3 +1,31 @@
+Tue, 17 Sep 2024 19:03:56 +0530
+### [After Namibia, why Zimbabwe is preparing to kill 200 majestic elephants](https://www.firstpost.com/explainers/after-namibia-why-zimbabwe-is-preparing-to-kill-200-majestic-elephants-13816309.html)
+
+Zimbabwe, facing its worst drought in decades,  has authorized the culling of 200 elephants to address hunger.  The country, home to the second-largest elephant population in Africa, argues that its conservation efforts have resulted in overpopulation, exceeding park capacity and leading to resource scarcity and human-wildlife conflict. 
+
+The cull, the first in 40 years, is aimed at managing elephant numbers and providing food security for communities. However, it has sparked criticism from conservationists and animal rights activists who argue that culling elephants is unethical, damages Zimbabwe's image, and undermines efforts to protect the species.
+
+Tue, 17 Sep 2024 19:03:31 +0530
+### [Trump assassination attempt: How suspect Ryan Routh ‘links’ to Ukraine have become a geopolitical issue](https://www.firstpost.com/world/united-states/trump-assassination-attempt-how-suspect-ryan-routh-links-to-ukraine-have-become-a-geopolitical-issue-13816365.html)
+
+Ryan Routh, who was arrested near a Trump golf course with a rifle, is a vocal supporter of Ukraine and has made efforts to recruit soldiers there.  He expressed frustration with the West's response to the war and claimed to have helped Ukrainian efforts by seeking volunteers, including Afghan veterans.  Despite Routh calling Trump a "fool" in his book about Ukraine, Russia has implied a link between Routh and Kyiv, saying "playing with fire has consequences". However,  Ukraine has denied any connection to Routh. 
+
+
+
+The FBI is investigating the incident as an apparent assassination attempt on Trump.
+
+Tue, 17 Sep 2024 18:16:20 +0530
+### [In Graphics | The meteoric rise of Atishi, the new Delhi CM](https://www.firstpost.com/explainers/in-graphics-atishi-new-delhi-cm-aap-arvind-kejriwal-resignation-13816354.html)
+
+Atishi will become Delhi's new chief minister following Arvind Kejriwal's resignation.  Kejriwal stepped down on Tuesday after being granted bail in the excise policy case. Atishi, a 43-year-old AAP leader, was chosen by party MLAs and thanked Kejriwal for his trust. She will be the third woman to hold the position, following Sheila Dikshit and Sushma Swaraj.
+
+Tue, 17 Sep 2024 17:59:36 +0530
+### [How superbugs could kill nearly 40 million people by 2050](https://www.firstpost.com/health/how-superbugs-could-kill-nearly-40-million-people-by-2050-13816308.html)
+
+A global analysis predicts that antimicrobial resistance (AMR), also known as superbugs, will cause nearly 40 million deaths over the next 25 years.  While deaths from superbugs in children under five have decreased due to improvements in hygiene and immunization, deaths in over-70s have surged.  The study highlights that AMR mortality is rising rapidly, particularly in sub-Saharan Africa, southern and eastern Asia, and South Asian nations.  
+
+By 2050, the study estimates that  AMR could directly lead to two million deaths annually, and contribute to 8.2 million more. To mitigate this threat, the study emphasizes the need for improved care for severe infections and increased access to antimicrobial drugs.
+
 Tue, 17 Sep 2024 17:27:53 +0530
 ### [New XEC COVID variant spreads across the world: How contagious is it?](https://www.firstpost.com/health/xec-covid-variant-contagious-symptoms-experts-13816314.html)
 

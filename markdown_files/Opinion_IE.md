@@ -1,3 +1,10 @@
+Tue, 17 Sep 2024 13:48:09 +0000
+### [Kangana Ranaut writes on PM’s birthday: A life in service of the nation](https://indianexpress.com/article/opinion/columns/kangana-ranaut-writes-pm-birthday-life-service-nation-9572867/)
+
+Narendra Modi, a central figure in Indian politics, was born in 1950.  He joined the RSS at a young age and became involved in political activism against the Emergency declared by Indira Gandhi in 1975.  Modi joined the BJP in 1985 and rose through its ranks, playing a key role in its 1990s success. 
+
+He was elected Chief Minister of Gujarat in 2001 and led the BJP to a historic landslide victory in the 2014 Lok Sabha elections, becoming India's Prime Minister. His re-election in 2019 solidified his position as a dominant leader, known for economic reforms, social welfare programs, and a focus on national security. Modi led the BJP to another resounding victory in 2024, securing a third consecutive term as Prime Minister.  His journey, marked by dedication to India's progress and a vision for a "New India," continues to shape Indian politics and society.
+
 Tue, 17 Sep 2024 10:40:37 +0000
 ### [Is ‘The Bear’ a comedy? The Emmys thought so — and we can’t disagree](https://indianexpress.com/article/opinion/columns/bear-comedy-emmys-we-cant-disagree-9572438/)
 

@@ -1,3 +1,17 @@
+Tue, 17 Sep 2024 12:42:14 +0000
+### [Who is Rupert Murdoch, and why is there a major succession battle for his legacy?](https://indianexpress.com/article/explained/explained-global/rupert-murdoch-succession-9572633/)
+
+Media mogul Rupert Murdoch is in a legal battle over control of his vast media empire.  He wants to give his son Lachlan, whom he supports ideologically, the majority of voting shares in News Corp and Fox Corp.  This move goes against a pre-existing trust that was designed to split the shares equally among Murdoch's four children.  
+
+Rupert argues that Lachlan is best equipped to lead the companies and that the current trust structure could lead to  disagreements and potentially damage the businesses.  His other children,  especially James, have objected to this plan. 
+
+The dispute is being heard in Nevada, a state that offers favorable terms for family trusts. The court will decide if Murdoch's actions are in the best interest of all his heirs and the long-term stability of his media holdings.
+
+Tue, 17 Sep 2024 12:35:19 +0000
+### [As SC hears case on UP madrasa law, a profile of these institutions, their functioning](https://indianexpress.com/article/explained/supreme-court-madrasa-up-9572655/)
+
+The National Commission for Protection of Child Rights (NCPCR) argues that education in madrasas is incomplete and contradicts the Right to Education Act. They claim madrasa textbooks promote Islamic supremacy. The NCPCR made this statement in response to appeals challenging a High Court ruling that declared the Uttar Pradesh Board of Madarsa Education Act, 2004, unconstitutional. The High Court cited violations of secularism and fundamental rights. The Supreme Court has stayed the High Court's order, directing the state government to accommodate madrasa students in regular schools.
+
 Tue, 17 Sep 2024 12:04:10 +0000
 ### [Periyar’s 146th birth anniversary: The significance of the iconoclast social reformer](https://indianexpress.com/article/explained/explained-history/periyar-9572605/)
 
