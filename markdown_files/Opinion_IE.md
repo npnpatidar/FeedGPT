@@ -1,3 +1,52 @@
+Tue, 17 Sep 2024 02:01:58 +0000
+### [Express View on Mission Mausam: It will need to evolve with changing climate science](https://indianexpress.com/article/opinion/editorials/express-view-on-mission-mausam-it-will-need-to-evolve-with-changing-climate-science-9571392/)
+
+The Indian government has launched Mission Mausam, a Rs 2,000-crore initiative to enhance weather forecasting capabilities.  The mission aims to improve prediction accuracy for heavy rainfall, heatwaves, and sea-level changes by focusing on indigenous research and upgrading meteorological instruments. 
+
+It will involve installing advanced radar systems, wind profilers, and radiometers. The government recognizes the need for more precise weather predictions, especially considering the increasing impacts of climate change.  The mission also highlights the potential of AI in improving weather forecasting and the importance of understanding the complexities of climate science.
+
+Tue, 17 Sep 2024 02:00:25 +0000
+### [Himanta Biswa Sarma writes on Rahul Gandhi: Congress’s selective amnesia](https://indianexpress.com/article/opinion/columns/himanta-biswa-sarma-writes-on-rahul-gandhi-congresss-selective-amnesia-9571466/)
+
+Rahul Gandhi's recent US trip has sparked controversy due to his critical remarks about India's democracy, institutions, and social issues. Critics argue that his statements, made on foreign soil, paint an inaccurate picture of India and risk emboldening separatist movements.  Gandhi's comments about caste-based reservations, wealth inequality, and alleged restrictions on Sikhs have been seen as playing into the narratives of groups like the Khalistanis. His meeting with US Representative Ilhan Omar, who has introduced anti-India resolutions, further raised concerns about his judgment and potential impact on India's image abroad.  
+The article argues that Gandhi's rhetoric, while focused on social justice issues, overlooks the complexities of these problems in India and could have detrimental consequences for national unity and stability. The author emphasizes the need for introspection within the INDIA alliance and cautions against complacency on matters of national security and foreign perception.
+
+Tue, 17 Sep 2024 02:00:17 +0000
+### [The first 100 days of Modi 3.0](https://indianexpress.com/article/opinion/columns/the-first-100-days-of-modi-3-0-9571467/)
+
+The first 100 days of the Modi 3.0 government have been marked by a focus on development and welfare initiatives. Prime Minister Modi has launched various schemes, including those for free medical insurance, pension, farmers' welfare, housing for the poor, and green energy. He has also cleared infrastructure projects worth over Rs 3 lakh crore, including ports, rural roads, high-speed corridors, and new industrial cities. 
+
+In the agriculture sector, the government has increased MSP for Kharif crops and implemented schemes to boost productivity and irrigation.  PM Modi has also emphasized healthcare by approving the opening of 113 new medical colleges. 
+
+Internationally, PM Modi has strengthened India's global standing through diplomacy and garnered recognition for his role in potential peace efforts in the Russia-Ukraine conflict.
+
+Tue, 17 Sep 2024 02:00:06 +0000
+### [The Third Edit: Emmys show that cinema is now on the small screen](https://indianexpress.com/article/opinion/editorials/the-third-edit-emmys-show-that-cinema-is-now-on-the-small-screen-9571394/)
+
+The 76th Emmy Awards highlighted television's shift towards complex storytelling and recognition of diverse voices. FX's Shogun, a remake of the 1980 miniseries, made history as the first majority non-English-language show to win Outstanding Drama Series.  The show's success reflects a cultural moment emphasizing diversity and nuanced representation.  
+
+Other notable winners included The Bear, Baby Reindeer, Hacks, Slow Horses, and The Crown.  The Emmys showcased a departure from traditional genre shows, with a focus on serious comedy, witty drama, and historical epics, fulfilling a role reminiscent of film's earlier explorations of individual voices and unique perspectives.
+
+Tue, 17 Sep 2024 01:59:57 +0000
+### [Why Tavleen Singh is wrong about Rahul Gandhi’s remarks on elections and caste](https://indianexpress.com/article/opinion/columns/why-tavleen-singh-is-wrong-about-rahul-gandhis-remarks-on-elections-and-caste-9571349/)
+
+Tavleen Singh criticizes Rahul Gandhi for questioning the fairness of the 2024 election process. The authors argue that Gandhi's concern stems from genuine issues such as the freezing of Congress bank accounts, the targeting of opposition politicians, and a media landscape influenced by political bias. They draw parallels to the situation in Peru, where media manipulation played a role in consolidating power.  The authors defend Gandhi's call for a socio-economic caste census, pointing out the BJP's previous support for such an endeavor. They also criticize Singh's claim that education alone can solve societal problems, highlighting the persistent barriers faced by marginalized communities in accessing quality education. They conclude by suggesting that Singh's criticism of Gandhi is outdated and fails to recognize the growing public concern over issues like inequality and democratic erosion.
+
+Tue, 17 Sep 2024 01:59:46 +0000
+### [September 17, 1984, Forty Years Ago: Sri Lanka Relents](https://indianexpress.com/article/opinion/40-years-ago/september-17-1984-forty-years-ago-sri-lanka-relents-9571396/)
+
+The Sri Lankan government is planning to grant citizenship to 95,000 stateless people of Indian origin while also deporting 100,000 others who have opted for Indian citizenship. This decision comes after pressure from the president of the Ceylon Workers Congress (CWC), who had expressed concern about the delay in granting citizenship.  The government hopes to resolve the issue without interference from India.
+
+Tue, 17 Sep 2024 01:59:21 +0000
+### [Why Supreme Court must look into compensation for surrogates](https://indianexpress.com/article/opinion/columns/why-supreme-court-must-look-into-compensation-for-surrogates-9571347/)
+
+The Surrogacy (Regulation) Act, 2021 prohibits payment to surrogates, aiming to prevent exploitation. While this was enacted to address concerns about commodification, it has raised questions regarding the fairness of expecting women to act altruistically.  Advocates argue that women should be compensated for the physical and emotional labor involved in surrogacy, akin to compensation providing for death scenarios. Previous drafts of the Act proposed scheduled payments to address concerns about the sale of children.  However, the transition to a purely altruistic model has faced challenges, with reports of underground arrangements and difficulties for intending parents finding surrogates.  The Supreme Court's stance on the issue of fair compensation for surrogates remains to be seen.
+
+Tue, 17 Sep 2024 01:59:02 +0000
+### [Express View on women outnumbering men in medicine: Whole numbers, dark truths](https://indianexpress.com/article/opinion/editorials/express-view-on-women-outnumbering-men-in-medicine-whole-numbers-dark-truths-9571393/)
+
+The number of women studying medicine in India has been steadily increasing, closing the gap with male enrollment. This positive trend is evident across all medical fields, including traditionally male-dominated areas like cardiology, oncology, and neurology. Despite this progress, the medical system still lacks adequate support for women doctors. Issues such as sexism, insufficient facilities, and safety concerns remain prevalent. The rise in female medical professionals presents an opportunity to address these issues and create a more inclusive and supportive work environment for all.
+
 Mon, 16 Sep 2024 12:37:36 +0000
 ### [Welfare and not a yearning for popularity is what drives PM Modi, a rare thinker-leader](https://indianexpress.com/article/opinion/columns/welfare-popularity-pm-modi-rare-thinker-leader-9571008/)
 

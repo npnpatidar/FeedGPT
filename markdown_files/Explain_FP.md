@@ -1,3 +1,10 @@
+Tue, 17 Sep 2024 06:30:16 +0530
+### [FirstUp: Kejriwal's possible resignation, PM Modi in Odisha on birthday... Top news today](https://www.firstpost.com/explainers/firstup-kejriwals-possible-resignation-pm-modi-in-odisha-on-birthday-top-news-today-13815903.html)
+
+Delhi Chief Minister Arvind Kejriwal is scheduled to meet with Lieutenant Governor VK Saxena to tender his resignation. This comes after Kejriwal's announcement to step down following his release on bail in a corruption case. 
+
+Meanwhile, Prime Minister Narendra Modi celebrates his 74th birthday today. He will be in Odisha to launch the "SUBHADRA" scheme, a women-centric initiative, and will also release the first installment of financial assistance under PMAY-G. Additionally, the NDA government completes 100 days in office, with initiatives worth Rs 15 lakh crore launched during this period.
+
 Mon, 16 Sep 2024 21:01:56 +0530
 ### [Second assassination attempt on Donald Trump: Does ex-US president need more protection?](https://www.firstpost.com/world/united-states/second-assassination-attempt-on-donald-trump-does-ex-us-president-need-more-protection-13815991.html)
 

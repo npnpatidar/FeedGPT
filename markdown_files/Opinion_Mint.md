@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 07:00:06 +0530
+### [Mint Quick Edit | Sebi’s talks with employees are a good sign](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-sebi-employee-protest-madhabi-puri-buch-toxic-work-culture-congress-dhaval-buch-market-regulator-11726534851353.html)
+
+The Securities and Exchange Board of India (Sebi) is addressing concerns raised by its staff about a "toxic" work environment. Recognizing the validity of employee complaints, Sebi has withdrawn its earlier statement that blamed external elements for instigating the discontent.  Instead, the regulator plans to engage in internal discussions to understand the root causes of employee dissatisfaction and find solutions. This move follows allegations of conflict of interest against Sebi chief Madhabi Puri Buch, adding to the recent scrutiny faced by the organization.
+
 Mon, 16 Sep 2024 16:00:00 +0530
 ### [Brace for GenAI letting the early adopters of this technology down](https://www.livemint.com/opinion/columns/brace-for-genai-letting-the-early-adopters-of-this-technology-down-ai-artificial-intelligence-11726233479837.html)
 

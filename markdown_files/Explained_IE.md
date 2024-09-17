@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 01:54:46 +0000
+### [Arvind Kejriwal wants early elections to Delhi Assembly. What does the law say?](https://indianexpress.com/article/explained/explained-law/arvind-kejriwal-wants-early-elections-to-delhi-assembly-what-does-the-law-say-9571598/)
+
+Arvind Kejriwal is expected to resign as Delhi's Chief Minister following an alleged excise policy corruption case. However, he cannot force early elections as his term only ends in February 2025.  The Election Commission of India (ECI) has the authority to schedule elections, and must do so at least six months before the existing assembly's term ends. While  Kejriwal has requested early elections, he appears to be resigning and leaving the decision of dissolving the assembly to the Lieutenant Governor.
+
 Mon, 16 Sep 2024 12:28:44 +0000
 ### [All about Odisha’s Subhadra scheme, to be launched by PM Modi on his birthday](https://indianexpress.com/article/explained/odisha-subhadra-scheme-9570983/)
 
