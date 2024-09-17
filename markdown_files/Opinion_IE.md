@@ -1,3 +1,12 @@
+Tue, 17 Sep 2024 02:39:43 +0000
+### [Yogendra Yadav writes: Why its time to stop the conspiracy theories about EVMs](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-why-its-time-to-stop-the-conspiracy-theories-about-evms-9571458/)
+
+The article discusses the ongoing debate surrounding Electronic Voting Machines (EVMs) in India. It argues that the debate has become unproductive, focusing on unfounded suspicions of EVM manipulation rather than addressing more substantial electoral reforms. 
+
+The author points to the 2024 Lok Sabha elections, where the surprising outcome disproved widespread claims of EVM rigging. They criticize the Election Commission for failing to address concerns about discrepancies in vote counts and delays in declaring turnout figures, which have fueled conspiracy theories. 
+
+The article advocates for a national consensus on EVM reliability, suggesting solutions like voter verification methods and making VVPAT paper slips the official record. It emphasizes the need to shift focus from EVM debates to larger issues like unequal access to state power and media, which pose a greater threat to free and fair elections.
+
 Tue, 17 Sep 2024 02:01:58 +0000
 ### [Express View on Mission Mausam: It will need to evolve with changing climate science](https://indianexpress.com/article/opinion/editorials/express-view-on-mission-mausam-it-will-need-to-evolve-with-changing-climate-science-9571392/)
 

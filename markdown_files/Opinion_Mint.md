@@ -1,3 +1,10 @@
+Tue, 17 Sep 2024 08:30:09 +0530
+### [Hostile takeovers of faltering firms are integral to a competitive economy](https://www.livemint.com/opinion/online-views/cci-competition-commission-of-india-mergers-startups-hostile-takeovers-antitrust-competitive-economy-11726535656269.html)
+
+The Competition Commission of India (CCI) has loosened a rule regarding company takeovers, allowing firms to acquire up to 25% of a target's shares on the secondary market without prior approval. This move marks a shift away from the historical aversion to hostile takeovers in India, often driven by the prevalence of family-run businesses. 
+
+The CCI's decision aims to foster a more competitive environment, allowing for the reshuffling of assets and promoting efficiency. The CCI stresses that while this change is beneficial, it will continue to scrutinize mergers, especially in the digital sector, to prevent monopolistic practices and protect consumer interests.
+
 Tue, 17 Sep 2024 07:00:06 +0530
 ### [Mint Quick Edit | Sebi’s talks with employees are a good sign](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-sebi-employee-protest-madhabi-puri-buch-toxic-work-culture-congress-dhaval-buch-market-regulator-11726534851353.html)
 

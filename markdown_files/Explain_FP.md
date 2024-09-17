@@ -1,3 +1,19 @@
+Tue, 17 Sep 2024 09:38:21 +0530
+### [Why Iran’s Ayatollah Ali Khamenei’s ‘Muslims in India’ remark has angered New Delhi](https://www.firstpost.com/explainers/iran-ayatollah-ali-khamenei-muslims-india-remark-mea-response-13816063.html)
+
+Iranian Supreme Leader Ayatollah Ali Khamenei's recent remarks about the suffering of Muslims in India drew criticism from New Delhi. Khamenei, while addressing Prophet Muhammad's birthday, mentioned Myanmar, Gaza, and India as places where Muslims face hardship. The Indian Ministry of External Affairs condemned the comments as "misinformed" and "unacceptable," urging Iran to examine its own record before commenting on India's minorities. 
+
+This is not the first time Khamenei has commented on the situation of Muslims in India. He has previously expressed concern over the abrogation of Article 370 in Kashmir and the New Delhi riots. Despite the recent rebuke, India-Iran relations remain strong, with recent agreements on trade and port operations demonstrating continued cooperation.
+
+Tue, 17 Sep 2024 08:25:55 +0530
+### [PM Modi turns 74: How his governance has taken India forward](https://www.firstpost.com/explainers/pm-narendra-modi-birthday-india-government-achievements-13815910.html)
+
+Prime Minister Narendra Modi's government has focused on several key areas over the past decade.  Infrastructure development has seen significant expansion in areas like national highways, airports and railways.  The "Make in India" initiative aims to boost manufacturing and exports, with notable growth in the defense sector.  The government has also spearheaded India's digital revolution through initiatives like "Digital India" and UPI, fostering a thriving startup ecosystem.
+
+On the foreign policy front, India has strengthened ties with countries like the US, Saudi Arabia, and the UAE.  Additionally, India's role in the Global South has been amplified through its G20 presidency and the inclusion of the African Union in the G20.  
+
+Domestically, women's empowerment has been prioritized through schemes like "Beti Bachao Beti Padhao" and the Pradhan Mantri Ujjwala Yojana, leading to improvements in maternal health and access to clean cooking fuel.
+
 Tue, 17 Sep 2024 06:30:16 +0530
 ### [FirstUp: Kejriwal's possible resignation, PM Modi in Odisha on birthday... Top news today](https://www.firstpost.com/explainers/firstup-kejriwals-possible-resignation-pm-modi-in-odisha-on-birthday-top-news-today-13815903.html)
 

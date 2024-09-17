@@ -1,3 +1,15 @@
+Tue, 17 Sep 2024 02:30:29 +0000
+### [India had good rains this year. What’s the status of its reservoirs?](https://indianexpress.com/article/explained/good-rains-full-reservoirs-9571554/)
+
+India's monsoon season has brought an 8% surplus in rainfall as of September 12th, leading to improved reservoir levels compared to last year and the 10-year average.  Overall, 85% of the total live storage capacity in 155 major reservoirs is currently filled.  The best performance is seen in the West, with Gujarat and Maharashtra experiencing significant rainfall.  
+
+The Central region also exhibits strong reservoir storage levels, attributed to normal or excess rainfall.  South India has seen a considerable improvement in reservoir levels, with even areas that traditionally receive less southwest monsoon rainfall, benefiting this season.
+
+Tue, 17 Sep 2024 02:30:24 +0000
+### [Who is Laura Loomer and why are Republicans worried about her influence on Donald Trump?](https://indianexpress.com/article/explained/explained-global/laura-loomer-trump-9571254/)
+
+Laura Loomer, a far-right activist known for her controversial and inflammatory comments, has become a frequent presence in Donald Trump's inner circle. Her history includes racist, Islamophobic, and homophobic remarks, as well as actions like protesting a play about Julius Caesar for its portrayal of Trump. Despite her past and her losing bids for political office, Loomer has visited Trump's Mar-a-Lago resort multiple times and was almost hired for his 2024 campaign. Her proximity to Trump has alarmed Republican leaders concerned that Loomer's rhetoric could alienate key voters.  Loomer recently sparked criticism for a racist comment about Vice President Kamala Harris's Indian heritage, drawing condemnation from even some staunch Trump supporters.
+
 Tue, 17 Sep 2024 01:54:46 +0000
 ### [Arvind Kejriwal wants early elections to Delhi Assembly. What does the law say?](https://indianexpress.com/article/explained/explained-law/arvind-kejriwal-wants-early-elections-to-delhi-assembly-what-does-the-law-say-9571598/)
 

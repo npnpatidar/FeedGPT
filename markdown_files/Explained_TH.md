@@ -1,3 +1,22 @@
+Tue, 17 Sep 2024 08:30:00 +0530
+### [How do emergency provisions impact Centre-State relations?](https://www.thehindu.com/news/national/how-do-emergency-provisions-impact-centre-state-relations/article68648093.ece)
+
+The recent violence in Manipur has reignited discussions on Centre-State relations and the use of emergency provisions. India's Constitution gives states primary responsibility for maintaining law and order, while Article 355 mandates the Centre  to protect states from internal disturbances and ensure they function constitutionally.
+
+Article 356 allows the Centre to impose President's rule if a state government fails to do so. While intended as a last resort, Article 356 has been misused in the past.  The Supreme Court has since restricted its application, requiring a breakdown of constitutional machinery, not just law and order.
+
+Articles 355 and 356 are subject to judicial review, and commissions have emphasized using Article 356 sparingly.  The Manipur situation requires immediate action,  and while President's rule might not be appropriate, the Centre should utilize Article 355's provisions to restore normalcy.
+
+Tue, 17 Sep 2024 08:30:00 +0530
+### [What is the current status of the introduction of African cheetahs?](https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-current-status-of-the-introduction-of-african-cheetahs/article68649455.ece)
+
+India’s Cheetah Action Plan aims to introduce African cheetahs into its ecosystems.  Kuno National Park in Madhya Pradesh was selected for its suitable habitat and prey base. The plan emphasizes the importance of long-term commitment for the project's success, including financial, technical, and administrative support from various government bodies and institutions.
+
+Despite the plan's guidelines, several challenges have arisen.  Concerns have been raised about the prolonged captivity of the cheetahs, exceeding the recommended three-month period, potentially compromising their chances of successfully reintegrating into the wild.  Multiple cheetah deaths have occurred, both in captivity and in the wild, attributed to various causes including heat stroke, suspected hypokalaemia, septicemia, and drowning.
+
+The project has also faced criticism regarding its selection criteria for individual animals, with at least one cheetah imported with a pre-existing health condition. 
+Short-term goals like a 50% survival rate and successful reproduction in the wild have not been achieved due to the prolonged captivity. The long-term success of the project hinges on the establishment of a stable cheetah population, natural survival rates, improved habitat, and beneficial impacts on local economies.  There remain doubts about India’s ability to provide sufficient suitable habitat for a viable cheetah population.
+
 Mon, 16 Sep 2024 22:44:00 +0530
 ### [Why is Tamil Nadu’s education funding on hold? | Explained](https://www.thehindu.com/education/why-is-tamil-nadus-education-funding-on-hold-explained/article68648084.ece)
 
