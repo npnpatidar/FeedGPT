@@ -1,3 +1,20 @@
+Tue, 17 Sep 2024 12:04:10 +0000
+### [Periyar’s 146th birth anniversary: The significance of the iconoclast social reformer](https://indianexpress.com/article/explained/explained-history/periyar-9572605/)
+
+Periyar EV Ramasamy, a prominent social reformer,  was recognized on his 146th birth anniversary.  Known for his Self Respect Movement, Periyar advocated for the identity and self-worth of Tamils, challenging Brahmin dominance and promoting equality. He parted ways with the Congress over dining arrangements for students and joined the Justice Party, advocating for non-Brahmin reservations. Periyar gained national recognition through his participation in the Vaikom Satyagraha, fighting for the rights of lower caste individuals.  He restructured Tamil identity, emphasizing an egalitarian ideal separate from the Aryan influence he believed had introduced the caste system.  He founded the Dravidar Kazhagam, envisioning an independent Dravida Nadu. Periyar's legacy continues to shape Tamil Nadu's political landscape and culture, advocating for social equality, self-respect, and linguistic pride. His reform efforts addressed social, cultural, and gender inequalities, championing women's independence and questioning traditions.  He promoted inter-dining and challenged caste-based discrimination.
+
+Tue, 17 Sep 2024 10:43:39 +0000
+### [How is climate change impacting flooding around the world?](https://indianexpress.com/article/explained/explained-climate/climate-change-flooding-9572471/)
+
+Severe flooding events are increasing globally, driven by climate change which is causing heavier and more frequent rainfall.  Warmer air holds more moisture, leading to increased precipitation when it rains. This effect is amplified by a shift in precipitation patterns, with more rain falling instead of snow in high altitudes. Climate change is making these extreme rainfall events more likely and intense.  
+
+Globally, billions of people are at risk from flooding, particularly in low- and middle-income countries. Europe is also increasingly vulnerable, with rising flood risks and significant economic damages projected. Without action to limit global warming, the frequency and severity of floods are expected to worsen in the future.
+
+Tue, 17 Sep 2024 10:25:14 +0000
+### [CIA allegedly plotted to kill President Maduro: A look at CIA-led assassination attempts on three notable world leaders](https://indianexpress.com/article/explained/explained-global/cia-assassination-attempts-9571120/)
+
+The US State Department denied Venezuelan claims of a CIA assassination plot against President Nicolas Maduro.  The statement called the Venezuelan government's accusations "categorically false." Venezuela's Interior Minister had claimed the arrest of several individuals, including US, Spanish, and Czech citizens, alleging they were CIA agents plotting to destabilize the country.
+
 Tue, 17 Sep 2024 07:02:01 +0000
 ### [How much will the Fed cut? That is the question. Here’s why](https://indianexpress.com/article/explained/explained-economics/fed-rate-cut-how-much-why-9572086/)
 

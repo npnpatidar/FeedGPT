@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 10:40:37 +0000
+### [Is ‘The Bear’ a comedy? The Emmys thought so — and we can’t disagree](https://indianexpress.com/article/opinion/columns/bear-comedy-emmys-we-cant-disagree-9572438/)
+
+The 76th Emmy Awards, overshadowed by a previous ceremony earlier in the year, sparked debate about the categorization of "The Bear" as a comedy.  The traditional view of comedy stems from Aristotle's notion of it as an exaggeration of the mundane. Shows like "Seinfeld" and "The Office" fit this mold, but others like "The Sopranos" blur the lines. "The Bear", while intense, utilizes the characters' heightened reactions and the absurdity of their situations to induce humor.  This style of comedy, similar to dark humor found in shows like "Nanette" and "Baby Reindeer",  reframes comedy as a space that can be dark, existential, and tragicomic. Ultimately, the context and our perception determine whether something is funny or tragic.
+
 Tue, 17 Sep 2024 08:30:31 +0000
 ### [Why the case against Wikipedia in India is a challenge to freedom of speech and information](https://indianexpress.com/article/opinion/columns/why-case-wikipedia-india-challenge-freedom-speech-information-9572234/)
 

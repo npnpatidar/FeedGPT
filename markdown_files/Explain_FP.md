@@ -1,3 +1,26 @@
+Tue, 17 Sep 2024 17:27:53 +0530
+### [New XEC COVID variant spreads across the world: How contagious is it?](https://www.firstpost.com/health/xec-covid-variant-contagious-symptoms-experts-13816314.html)
+
+The XEC COVID-19 variant, a hybrid of KS.1.1 and KP.3.3, was first detected in Germany in June and has since spread to over 15 countries. Experts believe it could become the dominant strain this winter due to its potential for rapid spread. Symptoms of XEC are similar to those of the Omicron variant, including fever, cough, shortness of breath, and fatigue. 
+
+Vaccination, including the newer vaccines, is believed to offer some protection against the XEC variant.  Practicing good hygiene measures is also recommended to help prevent the spread of the virus.
+
+Tue, 17 Sep 2024 16:56:13 +0530
+### [The election of many firsts: Why Jammu and Kashmir Assembly polls matter](https://www.firstpost.com/explainers/jammu-and-kashmir-assembly-elections-significance-article-370-statehood-13816300.html)
+
+Jammu and Kashmir is holding Assembly elections after a decade, with the first phase scheduled for September 18th.  The elections hold significant importance as they are the first since the abrogation of Article 370 and the bifurcation of the erstwhile state into two Union Territories. Major parties in the fray include the National Conference, PDP, Congress, BJP, and AIP.  The outcome of these elections is expected to bring political stability and potentially pave the way for the restoration of statehood to Jammu and Kashmir, a key demand of many political parties and the people of the region.
+
+Tue, 17 Sep 2024 16:28:54 +0530
+### [In Graphics | 10 years, 70 countries... Tracking PM Modi's foreign visits](https://www.firstpost.com/explainers/in-graphics-pm-modi-foreign-visits-13816246.html)
+
+Since 2014, Prime Minister Narendra Modi has significantly increased India's global presence through extensive foreign trips. His visits have encompassed both strengthening ties with traditional partners like the US, Japan, and Russia, and forging new relationships with nations in Africa, Southeast Asia, and Latin America.  Modi's travels have covered over 70 countries on six continents, surpassing the number of visits made by his predecessor during his entire term.  These journeys have not only fortified bilateral relations but have also elevated India's image as a rising global leader.
+
+Tue, 17 Sep 2024 16:19:40 +0530
+### [Who is 11-year-old boy with a ‘kill list’ arrested in the US?](https://www.firstpost.com/world/united-states/who-is-11-year-old-boy-with-a-kill-list-arrested-in-the-us-13816226.html)
+
+Eleven-year-old Carlo "Kingston" Dorelli from Florida has been arrested and charged with making a written threat of a mass shooting.  Dorelli allegedly showed firearms and a list of names to friends during a video chat, stating he planned to shoot up either Creekside Middle School or nearby Silver Sands Middle School.  While he claimed the threat was a joke, authorities found replica weapons, knives, and a list with names on it bearing what appeared to be knife marks in his room. 
+Dorelli's arrest follows a sheriff's pledge to hold accountable any child making prank threats to schools, a promise spurred by numerous false tips following a recent school shooting in Georgia.
+
 Tue, 17 Sep 2024 15:02:09 +0530
 ### [Piyush Goyal wants a new Silicon Valley for India: The story of California’s famous tech hub](https://www.firstpost.com/world/united-states/piyush-goyal-wants-a-new-silicon-valley-for-india-the-story-of-californias-famous-tech-hub-13816232.html)
 

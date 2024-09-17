@@ -1,3 +1,14 @@
+Tue, 17 Sep 2024 17:28:42 +0530
+### [Modi at 74: A decade of Bharat’s re-awakening](https://www.firstpost.com/opinion/modi-at-74-a-decade-of-bharats-re-awakening-13816333.html)
+
+The article discusses Prime Minister Narendra Modi's achievements and his role in India's transformation, marking his 74th birthday and 100 days of his third term. 
+
+Modi is recognized as a charismatic and visionary global leader who led India to become the third largest major economy. His tenure is highlighted by initiatives like direct benefit transfers, infrastructure development, and a focus on self-reliance in defense manufacturing. 
+
+The article also mentions positive developments in India's relations with China, with border disputes being largely resolved.  It underscores Modi's efforts to build new transport corridors to Europe and strengthen trade ties with various nations.
+
+Additionally, the article praises Modi's commitment to religious tourism and his ambitious plans for the country's development, culminating in a vision for India as a prosperous nation by 2047.
+
 Tue, 17 Sep 2024 15:34:02 +0530
 ### [India emerges as a force for good irrespective of result as a mediator](https://www.firstpost.com/opinion/india-emerges-as-a-force-for-good-irrespective-of-result-as-a-mediator-13816268.html)
 
