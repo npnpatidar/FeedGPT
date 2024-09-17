@@ -1,3 +1,31 @@
+Tue, 17 Sep 2024 11:30:14 +0530
+### [What is Odisha’s Subhadra scheme that PM Modi will launch on his birthday today?](https://www.firstpost.com/explainers/odisha-subhadra-scheme-pm-modi-birthday-13816095.html)
+
+On his 74th birthday, Prime Minister Narendra Modi launched the Subhadra Yojana in Bhubaneswar, Odisha. This scheme aims to empower women financially and enhance their well-being. It will provide Rs 10,000 per year to more than one crore women in the state over five years, deposited in two installments on Rakhi Purnima and International Women's Day. The scheme is named after Goddess Subhadra, sister of Lord Jagannath, who is revered in the state.  Over 60 lakh women have already registered, and those who registered by September 15th will receive their first installment on Tuesday. The scheme requires e-KYC and beneficiaries will receive a Subhadra Debit Card. An additional incentive of Rs 500 will be given to the top 100 beneficiaries with the highest number of digital transactions in each gram panchayat and urban local body region.  Eligible women must be Odisha natives between 21 and 60 years old and meet specific income criteria. 
+
+
+The government has allocated Rs 55,825 crore for the scheme over five years, with Rs 10,000 crore allocated for the current fiscal year. The Subhadra Yojana is seen as a key initiative for the BJP, as it addresses a significant segment of voters after the party's victory in the state elections.
+
+Tue, 17 Sep 2024 11:00:07 +0530
+### [Is Elon Musk in trouble over his 'Biden, Harris' post after 'assassination' attempt on Trump?](https://www.firstpost.com/world/united-states/elon-musk-trouble-biden-harris-x-post-after-assassination-attempt-on-donald-trump-13816089.html)
+
+Following a suspected second assassination attempt on Donald Trump, Elon Musk made a controversial post on X (formerly Twitter) questioning why no one had attempted to assassinate Joe Biden or Kamala Harris.  Musk later deleted the post and claimed it was a joke, but the White House condemned it as "irresponsible" and the Secret Service confirmed it was investigating. 
+
+ This incident comes amid Musk's increasing alignment with far-right politics, marked by his criticism of the Democratic party and sharing of AI-generated images mocking Democrats.  The incident raised concerns about the potential for incitement of violence and the accountability of influential figures on social media.
+
+Tue, 17 Sep 2024 10:35:35 +0530
+### [100 days of Modi 3.0: From infrastructure to agriculture and empowerment of women, the report card](https://www.firstpost.com/explainers/100-days-of-modi-3-0-infrastructure-agriculture-report-card-13815940.html)
+
+Narendra Modi completed 100 days in his third term as Prime Minister, marking a period of significant initiatives across various sectors.  
+
+The government has focused heavily on infrastructure development, approving projects worth Rs 3 lakh crore, including road, rail, and port projects.  Efforts to boost agriculture include increased minimum support prices for crops, removal of export restrictions on certain agricultural products, and new agricultural schemes worth Rs 3,300 crore.
+
+Significant strides have been made in empowering women and youth, with the launch of various financial inclusion programs and skill development initiatives.
+
+The government has also introduced tax reforms, including abolishing the angel tax and simplifying income tax rules. Healthcare received attention with expanded coverage under the Ayushman Bharat scheme and a commitment to adding 75,000 new medical seats.   
+
+In addition, initiatives for promoting sustainable development, tribal empowerment, and enhancing cybersecurity have been implemented.
+
 Tue, 17 Sep 2024 09:38:21 +0530
 ### [Why Iran’s Ayatollah Ali Khamenei’s ‘Muslims in India’ remark has angered New Delhi](https://www.firstpost.com/explainers/iran-ayatollah-ali-khamenei-muslims-india-remark-mea-response-13816063.html)
 

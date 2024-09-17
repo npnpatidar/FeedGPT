@@ -1,3 +1,19 @@
+Tue, 17 Sep 2024 11:06:31 +0530
+### [Legislation is not a panacea for societal problems](https://www.livemint.com/opinion/online-views/social-media-children-restriction-cyberbullying-online-scams-addiction-grooming-social-evils-laws-australia-eu-11726549134354.html)
+
+Australia is aiming to be the first country to legally mandate a minimum age for social media access, potentially between 14 and 16 years old. While the intent is to address the documented mental health concerns and dangers of social media for young people, implementing such a law faces challenges. 
+
+Critics argue that restricting access could deprive children of valuable information and support, and that technical solutions for age verification are inadequate. 
+
+Furthermore, the article highlights that laws alone cannot solve societal problems, citing examples like underage drinking and child marriage, despite these practices being illegal. Ultimately, the article suggests that lasting solutions require widespread social consensus and action.
+
+Tue, 17 Sep 2024 10:30:13 +0530
+### [When will business books focus more on corporate failures than successes?](https://www.livemint.com/opinion/online-views/management-gurus-business-books-corporate-failures-business-success-family-owned-businesses-exxonmobil-11726536462943.html)
+
+This article discusses the prevalence of business books focusing on success stories while neglecting the reasons behind company failures. The author highlights the limited scope of these books, which often cherry-pick data to support pre-determined narratives. They argue that these simplistic explanations fail to capture the complex reality of business and rely on the human tendency to prefer clear-cut stories over nuanced truths. 
+
+The author suggests that focusing on failed companies could provide valuable insights and encourage more realistic assessments of success.  They also advocate for greater transparency in business books, urging authors to acknowledge the limitations of their research and avoid perpetuating the illusion of predictability in business.
+
 Tue, 17 Sep 2024 08:30:09 +0530
 ### [Hostile takeovers of faltering firms are integral to a competitive economy](https://www.livemint.com/opinion/online-views/cci-competition-commission-of-india-mergers-startups-hostile-takeovers-antitrust-competitive-economy-11726535656269.html)
 
