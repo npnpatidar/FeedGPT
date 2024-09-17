@@ -1,3 +1,14 @@
+Tue, 17 Sep 2024 12:30:15 +0530
+### [India’s Unified Lending Interface is worth much more than it seems](https://www.livemint.com/opinion/online-views/unified-lending-interface-rbi-credit-worthiness-dpi-formal-lending-borrowers-cooperatives-innovation-11726536984913.html)
+
+This article discusses the use of digital public infrastructure (DPI) to improve access to capital for small dairy farmers in India. 
+
+It highlights the challenges faced by these farmers who lack the collateral needed for traditional loans, despite the success of dairy cooperatives in empowering them. 
+
+The author argues that the newly launched Unified Lending Interface (ULI) by the Reserve Bank of India offers a solution by providing lenders with access to relevant non-financial data like milk production and quality from the National Dairy Development Board. 
+
+The ULI, through its interoperability with other DPI platforms, can potentially empower farmers with improved access to credit, allowing them to scale their operations and contribute further to the success of India's dairy sector.
+
 Tue, 17 Sep 2024 11:06:31 +0530
 ### [Legislation is not a panacea for societal problems](https://www.livemint.com/opinion/online-views/social-media-children-restriction-cyberbullying-online-scams-addiction-grooming-social-evils-laws-australia-eu-11726549134354.html)
 

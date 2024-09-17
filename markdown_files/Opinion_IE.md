@@ -1,3 +1,8 @@
+Tue, 17 Sep 2024 06:33:44 +0000
+### [Ahead of J&K Assembly elections, New Delhi’s latest political gambit — Engineer Rashid](https://indianexpress.com/article/opinion/columns/jammu-and-kashmir-assembly-elections-new-delhi-latest-gambit-engineer-rashid-9572028/)
+
+The political landscape of Jammu & Kashmir has undergone a significant shift since 2014, characterized by new political players and the erosion of established parties. New Delhi has actively engineered this change, favoring parties like Sajad Lone’s People’s Conference and Altaf Bukhari’s Apni Party while isolating the National Conference (NC) and People’s Democratic Party (PDP). The NC, with its deep roots and history, proved more resilient to these tactics. However, the recent entry of Engineer Rashid, released from jail to contest elections, has become a pivotal factor. New Delhi appears to be strategically utilizing Rashid to divide the opposition vote and consolidate its influence in Jammu. His entry into the fray has created an unpredictable political environment, potentially impacting the outcome of upcoming Assembly elections and shaping the future of J&K's politics.
+
 Tue, 17 Sep 2024 02:39:43 +0000
 ### [Yogendra Yadav writes: Why its time to stop the conspiracy theories about EVMs](https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-why-its-time-to-stop-the-conspiracy-theories-about-evms-9571458/)
 

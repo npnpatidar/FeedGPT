@@ -1,3 +1,12 @@
+Tue, 17 Sep 2024 07:02:01 +0000
+### [How much will the Fed cut? That is the question. Here’s why](https://indianexpress.com/article/explained/explained-economics/fed-rate-cut-how-much-why-9572086/)
+
+The Federal Open Market Committee (FOMC) is poised to cut interest rates for the first time since March 2020, ending a four-year period of hikes.  Market predictions favor a 50 basis-point cut, though economists remain divided.   
+
+The decision comes after Fed Chair Jerome Powell hinted at a rate cut in a recent speech, indicating a shift in focus from battling inflation to supporting employment.  Other central banks, including the European Central Bank, have already initiated rate cuts.  
+
+A US rate cut could have global implications, potentially boosting the US economy, encouraging currency carry trades, and impacting emerging market equities. The Reserve Bank of India, closely watching the Fed's move, may also be inclined towards a rate cut in the future.
+
 Tue, 17 Sep 2024 02:30:29 +0000
 ### [India had good rains this year. What’s the status of its reservoirs?](https://indianexpress.com/article/explained/good-rains-full-reservoirs-9571554/)
 

@@ -5,6 +5,21 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>India’s Unified Lending Interface is worth much more than it seems</title>
+			<link>https://www.livemint.com/opinion/online-views/unified-lending-interface-rbi-credit-worthiness-dpi-formal-lending-borrowers-cooperatives-innovation-11726536984913.html</link>
+			<description>This article discusses the use of digital public infrastructure (DPI) to improve access to capital for small dairy farmers in India. 
+
+It highlights the challenges faced by these farmers who lack the collateral needed for traditional loans, despite the success of dairy cooperatives in empowering them. 
+
+The author argues that the newly launched Unified Lending Interface (ULI) by the Reserve Bank of India offers a solution by providing lenders with access to relevant non-financial data like milk production and quality from the National Dairy Development Board. 
+
+The ULI, through its interoperability with other DPI platforms, can potentially empower farmers with improved access to credit, allowing them to scale their operations and contribute further to the success of India's dairy sector.</description>
+			<pubDate>Tue, 17 Sep 2024 12:30:15 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/17/1600x900/2-0-1236618851-hires2-0_1679621560201_1726537627364.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/17/1600x900/2-0-1236618851-hires2-0_1679621560201_1726537627364.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Legislation is not a panacea for societal problems</title>
 			<link>https://www.livemint.com/opinion/online-views/social-media-children-restriction-cyberbullying-online-scams-addiction-grooming-social-evils-laws-australia-eu-11726549134354.html</link>
 			<description>Australia is aiming to be the first country to legally mandate a minimum age for social media access, potentially between 14 and 16 years old. While the intent is to address the documented mental health concerns and dangers of social media for young people, implementing such a law faces challenges. 

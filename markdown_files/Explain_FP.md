@@ -1,3 +1,9 @@
+Tue, 17 Sep 2024 12:13:07 +0530
+### [Arvind Kejriwal picks Atishi as new CM. But will Delhi see early elections?](https://www.firstpost.com/explainers/arvind-kejriwal-aap-atishi-new-cm-delhi-early-elections-13816132.html)
+
+Arvind Kejriwal, after securing bail in a graft case, announced his resignation as Delhi chief minister. He cited his desire for a "certificate of honesty" from the people and requested early elections, ideally in November, following his release from jail.  He aims to address corruption allegations levelled against him by the BJP.  Despite Kejriwal's call, the Election Commission does not see urgency for early polls, citing the Assembly's term ending in February 2025 and the EC's current focus on other elections.  The EC emphasizes its schedule and the need for security arrangements and electoral roll revision, which would be challenging with an early poll. 
+ Atishi has been chosen as the new Delhi chief minister.
+
 Tue, 17 Sep 2024 11:30:14 +0530
 ### [What is Odisha’s Subhadra scheme that PM Modi will launch on his birthday today?](https://www.firstpost.com/explainers/odisha-subhadra-scheme-pm-modi-birthday-13816095.html)
 

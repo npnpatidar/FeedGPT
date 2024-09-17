@@ -1,3 +1,12 @@
+Tue, 17 Sep 2024 12:16:39 +0530
+### [Should India be part of Russia-China bid to have nuclear power plant on Moon?](https://www.firstpost.com/opinion/should-india-be-part-of-russia-china-bid-to-have-nuclear-power-plant-on-moon-13816149.html)
+
+Russia and China are partnering to build a nuclear power station on the Moon. The reactor, capable of generating half a megawatt, will provide a reliable power source for future lunar bases and operate even during the lunar night. 
+
+The project aligns with the International Lunar Research Station (ILRS) initiative, a collaboration between Russia and China that includes plans for robotic bases and future human habitation.  India expresses interest in joining this project, which could solidify a trilateral endeavor involving India, Russia, and China in lunar exploration. 
+
+This development comes as the U.S. also has its own ambitious program, Artemis, aiming to establish a sustainable human presence on the Moon.  While the U.S. focuses on permanent habitats, the Russo-Chinese reactor signals a shift towards utilizing nuclear power to support both robotic and human lunar operations. India, with its own nuclear energy program and growing space ambitions, is well-positioned to contribute to this evolving lunar landscape.
+
 Mon, 16 Sep 2024 17:59:21 +0530
 ### [Can a backchannel via Moscow help India address the China challenge?](https://www.firstpost.com/opinion/can-a-backchannel-via-moscow-help-india-address-the-china-challenge-13815897.html)
 
