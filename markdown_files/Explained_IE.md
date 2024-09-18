@@ -1,3 +1,14 @@
+Wed, 18 Sep 2024 09:55:02 +0000
+### [Who is Sean “Diddy” Combs and why is his arrest significant?](https://indianexpress.com/article/explained/explained-culture/sean-diddy-combs-arrest-9573118/)
+
+Sean "Diddy" Combs, a prominent hip-hop figure, faces serious charges of racketeering conspiracy, sex trafficking, and transportation for prostitution. If convicted, he could spend 15 years to life in prison.  Combs, who has built a billion-dollar empire through music, fashion, and other ventures, denies the allegations. 
+
+His legal troubles stem from several accusations of sexual assault and coercion, notably a lawsuit filed by his ex-girlfriend Cassie Ventura alleging rape and abuse. Video evidence has emerged supporting some of these claims, prompting a public apology from Combs. 
+     
+
+
+In addition to Ventura's allegations, other women have come forward accusing Combs of sexual misconduct.  Federal investigations, including raids on his properties, are ongoing, focusing on alleged sex trafficking activities.
+
 Wed, 18 Sep 2024 02:53:13 +0000
 ### [Low-cost diabetes drug can slow ageing in male monkeys: Study](https://indianexpress.com/article/explained/explained-health/low-cost-diabetes-drug-can-slow-ageing-in-male-monkeys-study-9573237/)
 

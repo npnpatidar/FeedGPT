@@ -1,3 +1,33 @@
+Wed, 18 Sep 2024 14:26:18 +0530
+### [Why pager explosions in Lebanon have dealt a big blow to Hezbollah](https://www.firstpost.com/explainers/why-pager-explosions-in-lebanon-have-dealt-a-big-blow-to-hezbollah-13816637.html)
+
+An attack involving hundreds of exploding pagers used by Hezbollah members in Syria and Lebanon has resulted in nine deaths and thousands of injuries.  The devices,  which Hezbollah adopted after its leader warned against using cellphones, were  reportedly rigged with explosives. 
+
+Experts believe the attack was planned and executed by Israel, who targeted Hezbollah’s communication strategy and inflicted both physical and psychological damage on the group.  
+
+This incident demonstrates the vulnerability of Hezbollah's communication systems and has sparked concerns about its operational capabilities. The attack also has wider geopolitical implications, escalating tensions in the region and raising questions about Israel's willingness to pursue a wider conflict.
+
+Wed, 18 Sep 2024 14:15:19 +0530
+### [Scientists discover new blood group, solve 50-year-old mystery. What does this mean for patients?](https://www.firstpost.com/health/scientists-discover-new-blood-group-solve-50-year-old-mystery-what-does-this-mean-for-patients-13816545.html)
+
+Researchers have identified a new blood group system called MAL, resolving a long-standing medical mystery. This discovery centers around the AnWj antigen, which was first detected in 1972 but remained poorly understood. Through advanced genetic analysis, scientists determined that the AnWj antigen is part of the MAL protein.  The MAL gene is responsible for producing the Mal protein, and those lacking this gene are AnWj-negative. 
+
+This breakthrough will allow for the development of genotyping tests to identify individuals with rare blood types like AnWj-negative, preventing potentially life-threatening transfusion reactions.  This discovery is expected to significantly improve medical care for patients with rare blood types, ensuring safer and more effective transfusions.
+
+Wed, 18 Sep 2024 14:07:00 +0530
+### [How Nipah virus re-emerged for the sixth time in Kerala](https://www.firstpost.com/health/how-nipah-virus-re-emerged-for-the-sixth-time-in-kerala-13816532.html)
+
+The Nipah virus has reappeared in Kerala, claiming the life of a 24-year-old student. This marks Kerala's sixth Nipah outbreak since 2018. The patient underwent treatment in four hospitals before being diagnosed with Nipah.  The state health department is closely monitoring the situation, having traced 175 individuals who came into contact with the deceased.  Containment zones have been established in five wards of Malappuram.  Kerala's vulnerability to Nipah outbreaks is attributed to factors like rapid urbanization and deforestation, which increase human interaction with potential virus carriers.  Social gatherings are restricted and masks are mandatory in the affected district.
+
+Wed, 18 Sep 2024 13:48:00 +0530
+### [Fact Check: Did Atishi’s parents ‘fight a long battle’ to stop Afzal Guru's hanging?](https://www.firstpost.com/explainers/delhi-cm-atishi-parents-afzal-guru-hanging-aap-swati-maliwal-13816603.html)
+
+Atishi's nomination as Delhi's chief minister has sparked controversy due to her parents' past actions. AAP Rajya Sabha MP Swati Maliwal criticized the decision, highlighting that Atishi's parents were among those who wrote a petition to the then-President, requesting that Afzal Guru's death sentence be dismissed. 
+
+Maliwal accused them of having close ties to SAR Geelani, who was arrested for organizing an event commemorating Afzal Guru's hanging. The BJP also condemned the AAP's choice,  asserting that Atishi's parents' actions demonstrate support for those who oppose capital punishment for terrorism-related cases. 
+
+Atishi has previously distanced herself from her parents' political stance, stating that she disagrees with their actions.
+
 Wed, 18 Sep 2024 13:37:27 +0530
 ### [Pager attacks in Lebanon, phones used for assassinations: When devices turned into deadly weapons](https://www.firstpost.com/explainers/pager-attacks-in-lebanon-phones-used-for-assassinations-when-devices-turned-into-deadly-weapons-13816552.html)
 

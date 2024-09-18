@@ -1,3 +1,14 @@
+Wed, 18 Sep 2024 14:19:31 +0530
+### [Pager attack on Hezbollah: A low-tech gadget blitz redraws the contours of the Israel-Iran conflict](https://www.thehindu.com/sci-tech/technology/pager-attack-on-hezbollah-a-low-tech-gadget-blitz-redraws-the-contours-of-the-israel-iran-conflict/article68655123.ece)
+
+Over 1,000 people were injured and at least nine killed in Lebanon after explosions targeting Hezbollah fighters. The blasts, captured on CCTV, occurred across the southern part of the country, a Hezbollah stronghold.  
+
+The shock came from the weapon used: pagers. These outdated devices, surpassed by smartphones, were repurposed to trigger the explosions. Their simplicity and lack of sophisticated technology like GPS made them ideal. 
+
+Pagers are known for their reliability in areas with weak cell service, being less susceptible to high-tech surveillance due to their lack of internet connectivity.  Their ability to be modified for covert operations, such as activating explosives with specific messages, was likely key to this attack.  
+
+While Israel remains silent, the pagers used bore branding from Gold Apollo, a Taiwanese company which denies responsibility. The incident heightens already strained tensions between Israel and Hezbollah.
+
 Wed, 18 Sep 2024 12:01:56 +0530
 ### [Jammu and Kashmir Assembly polls: What have parties promised in their manifestos?](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jammu-and-kashmir-assembly-polls-what-have-parties-promised-in-their-manifestos/article68652018.ece)
 

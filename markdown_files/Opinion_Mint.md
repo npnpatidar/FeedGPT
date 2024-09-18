@@ -1,3 +1,21 @@
+Wed, 18 Sep 2024 15:00:13 +0530
+### [At last, inflation seems set to soften and stay in a relatively cool range](https://www.livemint.com/opinion/online-views/food-inflation-cpi-rbi-interest-rate-headline-inflation-consumption-policy-easing-crude-oil-price-rainfall-pulses-11726600904026.html)
+
+India's inflation has eased from its peak in 2022-23, primarily due to easing supply chain disruptions, lower commodity prices, and a controlled increase in service sector costs. Despite a slight uptick in August, inflation is expected to remain within the 4.2-4.6% range for the year.
+
+Several factors contribute to this optimistic outlook: a good monsoon season, easing food prices, and benign core inflation. The Reserve Bank of India (RBI) is likely to maintain its policy rate for now due to these positive developments. However, potential future changes in the RBI's Monetary Policy Committee composition, the US Federal Reserve's actions, and upcoming domestic growth and inflation data could influence monetary policy decisions in the coming months.
+
+Wed, 18 Sep 2024 14:00:10 +0530
+### [Can GenAI really craft effective advertising campaigns?](https://www.livemint.com/opinion/online-views/genai-advertising-campaigns-human-creativity-artificial-intelligence-advertising-technology-emotions-ai-11726603360421.html)
+
+This article discusses the potential of generative AI (GenAI) in the advertising industry. While GenAI can quickly produce images, headlines, and basic ad copy, its lack of originality and understanding of nuanced human emotions presents a challenge.
+
+The author uses the example of the masala pouch in instant noodles to illustrate the need for human intervention. Just as adding masala enhances the taste, human creativity is crucial for crafting effective advertisements that resonate with consumers.
+
+The article argues that true creativity lies in identifying the right emotional stimuli to generate the desired response, something GenAI currently struggles with.  The successful "Shot on iPhone" campaign, with its evocative imagery and focus on emotional connection, is cited as an example of the power of human-driven creative intelligence in advertising. 
+
+The author concludes that GenAI can be a useful tool, but its success in advertising depends on human creativity guiding and enhancing its output.
+
 Wed, 18 Sep 2024 12:30:06 +0530
 ### [AI chatbots are beating humans at debunking conspiracy theories](https://www.livemint.com/opinion/online-views/ai-chatbots-conspiracy-theories-llm-evidence-rumors-trump-assassination-attempt-11726538241212.html)
 

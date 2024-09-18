@@ -5,6 +5,32 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>At last, inflation seems set to soften and stay in a relatively cool range</title>
+			<link>https://www.livemint.com/opinion/online-views/food-inflation-cpi-rbi-interest-rate-headline-inflation-consumption-policy-easing-crude-oil-price-rainfall-pulses-11726600904026.html</link>
+			<description>India's inflation has eased from its peak in 2022-23, primarily due to easing supply chain disruptions, lower commodity prices, and a controlled increase in service sector costs. Despite a slight uptick in August, inflation is expected to remain within the 4.2-4.6% range for the year.
+
+Several factors contribute to this optimistic outlook: a good monsoon season, easing food prices, and benign core inflation. The Reserve Bank of India (RBI) is likely to maintain its policy rate for now due to these positive developments. However, potential future changes in the RBI's Monetary Policy Committee composition, the US Federal Reserve's actions, and upcoming domestic growth and inflation data could influence monetary policy decisions in the coming months.</description>
+			<pubDate>Wed, 18 Sep 2024 15:00:13 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/17/1600x900/pulses-k44E--621x414LiveMint_1726601171698_1726601171834.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/17/1600x900/pulses-k44E--621x414LiveMint_1726601171698_1726601171834.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>Can GenAI really craft effective advertising campaigns?</title>
+			<link>https://www.livemint.com/opinion/online-views/genai-advertising-campaigns-human-creativity-artificial-intelligence-advertising-technology-emotions-ai-11726603360421.html</link>
+			<description>This article discusses the potential of generative AI (GenAI) in the advertising industry. While GenAI can quickly produce images, headlines, and basic ad copy, its lack of originality and understanding of nuanced human emotions presents a challenge.
+
+The author uses the example of the masala pouch in instant noodles to illustrate the need for human intervention. Just as adding masala enhances the taste, human creativity is crucial for crafting effective advertisements that resonate with consumers.
+
+The article argues that true creativity lies in identifying the right emotional stimuli to generate the desired response, something GenAI currently struggles with.  The successful "Shot on iPhone" campaign, with its evocative imagery and focus on emotional connection, is cited as an example of the power of human-driven creative intelligence in advertising. 
+
+The author concludes that GenAI can be a useful tool, but its success in advertising depends on human creativity guiding and enhancing its output.</description>
+			<pubDate>Wed, 18 Sep 2024 14:00:10 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/18/1600x900/oped5-krOE--621x414LiveMint_1726631821989_1726631822221.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/18/1600x900/oped5-krOE--621x414LiveMint_1726631821989_1726631822221.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>AI chatbots are beating humans at debunking conspiracy theories</title>
 			<link>https://www.livemint.com/opinion/online-views/ai-chatbots-conspiracy-theories-llm-evidence-rumors-trump-assassination-attempt-11726538241212.html</link>
 			<description>A study used a chatbot named GPT-4 Turbo to interact with over 2,000 volunteers about conspiracy theories. The results showed that the chatbot was surprisingly effective at persuading people to reconsider their beliefs in false information. On average, people's belief levels in conspiracy theories dropped by 20%, with a quarter of participants dropping their belief levels below 50%.  The chatbot's success was attributed to its ability to provide instant access to counter-evidence and logical reasoning, which outperformed human efforts in countering the often overwhelming amount of evidence believers present. This research suggests that evidence-based arguments can be effective in challenging conspiracy theories and may offer a path towards mitigating the spread of misinformation.</description>
