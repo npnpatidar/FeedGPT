@@ -1,3 +1,12 @@
+Wed, 18 Sep 2024 16:00:15 +0530
+### [It’s an age of leaderless movements but can they succeed in India?](https://www.livemint.com/opinion/online-views/kolkata-doctor-rape-case-protests-bangladesh-student-protests-leaderless-movements-arab-spring-social-change-dissent-11726601979093.html)
+
+This article explores the recent upsurge in leaderless mass movements, exemplified by events in Bangladesh, West Bengal, and other countries like Egypt, Bolivia, Hong Kong, and Myanmar. 
+
+These movements, driven by anger against corruption, political repression, and injustice, primarily rely on social media for organization and communication, lacking traditional leadership structures. While they can successfully topple regimes, as seen in Egypt, their sustainability and effectiveness are questionable.
+
+The article argues that in India, these movements are unlikely to cause a revolution due to the country's deeply divided social fabric. It suggests that a unifying economic crisis might be the catalyst for mass mobilization, but ultimately, achieving substantial change will likely require traditional political channels and established parties.  The author concludes that while dissent is essential in a democracy, it should be viewed as a warning signal to the ruling class rather than a harbinger of revolution in India's context.
+
 Wed, 18 Sep 2024 15:00:13 +0530
 ### [At last, inflation seems set to soften and stay in a relatively cool range](https://www.livemint.com/opinion/online-views/food-inflation-cpi-rbi-interest-rate-headline-inflation-consumption-policy-easing-crude-oil-price-rainfall-pulses-11726600904026.html)
 

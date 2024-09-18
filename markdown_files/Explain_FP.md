@@ -1,3 +1,32 @@
+Wed, 18 Sep 2024 16:52:43 +0530
+### [How could US Fed rate cut affect India’s stock market, IT sector and gold prices?](https://www.firstpost.com/world/united-states/how-could-us-fed-rate-cut-affect-indias-stock-market-it-sector-and-gold-prices-13816718.html)
+
+India's stock market showed cautiousness ahead of the anticipated US Federal Reserve rate cut. While a rate cut is generally expected to attract foreign investors to emerging markets like India, historical trends suggest Indian markets may react negatively. Experts predict the IT sector could be less impacted this time due to prior cost reductions. A significant rate cut could signal economic weakness, potentially leading investors to pull back from riskier assets.  Gold prices are likely to benefit from lower interest rates, as it is often seen as a safe investment during times of economic uncertainty. The Federal Reserve's decision and commentary will significantly influence India's stock market trajectory and foreign investment flows.
+
+Wed, 18 Sep 2024 16:34:02 +0530
+### [Quicksplained: Who is Squadron leader Mohana Singh, the first Indian woman to fly Tejas fighter jet?](https://www.firstpost.com/explainers/quicksplained-who-is-squadron-leader-mohana-singh-the-first-indian-woman-to-fly-tejas-fighter-jet-13816664.html)
+
+Squadron Leader Mohana Singh made history as the first woman fighter pilot to fly the Tejas fighter jet during a recent military exercise called ‘Tarang Shakti’ in Jodhpur.  Singh, who became one of India's first women fighter pilots eight years ago, was part of a historic flight alongside the Vice Chiefs of the Army and Navy. Singh's achievement showcases the Indian Air Force's commitment to gender equality.  She follows a distinguished path, having trained at the IAF base in Hakimpet, Telangana, and becoming the first female IAF fighter pilot to achieve full operational status on the Hawk Mk.132 advanced jet trainer in 2019.  Singh is currently stationed at the Naliya air base in Gujarat.
+
+Wed, 18 Sep 2024 15:59:27 +0530
+### [Why Delta Air Lines is reminding flight attendants to wear ‘proper’ underwear](https://www.firstpost.com/explainers/delta-air-lines-flight-attendants-undergarments-guidelines-13816611.html)
+
+Delta Air Lines has outlined stringent requirements for prospective flight attendants, emphasizing professionalism, neatness, and adherence to a specific dress code.  
+
+The guidelines cover attire, including a ban on athletic shoes and the mandatory wearing of heels, slingbacks, or closed-toe flats.  Dresses and skirts must reach the knees or lower, while male uniforms necessitate ties with button-down shirts. The document also details standards for hair color, nail polish, piercings, and tattoos, requiring natural-looking hair colors, minimal body piercings, and complete coverage of tattoos.  
+
+Delta aims to ensure its flight attendants present a polished visage, representing the airline brand and delivering a positive customer experience. The airline highlights the importance of these standards as flight attendants are the "face" of the company and interact most directly with customers.  
+
+Delta also notes a commitment to accommodating religious beliefs and practices within the framework of safety and operational requirements.
+
+Wed, 18 Sep 2024 15:43:19 +0530
+### [Is China building a heliport near Arunachal Pradesh? Should India be concerned?](https://www.firstpost.com/explainers/china-heliport-arunachal-pradesh-lac-border-dispute-india-13816663.html)
+
+Recent satellite images reveal China is constructing a heliport near the Line of Actual Control (LAC) in Arunachal Pradesh's "Fishtails" sector.  
+The heliport, with a 600-meter runway and multiple hangars, is expected to enhance China's intelligence gathering, surveillance, and troop mobilization capabilities in the region. Experts express concern that this development, coupled with China's ongoing construction of "Xiaokang" villages along the LAC, could be part of a strategy to assert territorial claims and alter the status quo. 
+
+India, meanwhile, has been bolstering its border presence with projects like the "Vibrant Villages" initiative and the construction of a trans-Arunachal highway and high-tech bunkers. While there has been no official response from India regarding the heliport, its strategic location raises concerns for New Delhi.
+
 Wed, 18 Sep 2024 14:26:18 +0530
 ### [Why pager explosions in Lebanon have dealt a big blow to Hezbollah](https://www.firstpost.com/explainers/why-pager-explosions-in-lebanon-have-dealt-a-big-blow-to-hezbollah-13816637.html)
 

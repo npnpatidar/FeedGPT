@@ -1,3 +1,19 @@
+Wed, 18 Sep 2024 10:53:34 +0000
+### [Kovind committee’s ‘One nation, one election’ recommendation gets Cabinet nod: What it will take to hold simultaneous elections in India](https://indianexpress.com/article/explained/explained-law/kovind-committee-one-nation-one-election-recommendation-gets-cabinet-nod-what-it-will-take-to-hold-simultaneous-elections-in-india-9574346/)
+
+The Union Cabinet has approved simultaneous elections in India, as recommended by a committee headed by former President Ram Nath Kovind.  This would involve holding Lok Sabha and state Assembly elections together, followed by local body elections within 100 days. 
+
+The committee suggested 15 constitutional amendments through two bills. The first bill, requiring no state ratification, focuses on transitioning to simultaneous elections and procedures for fresh elections before the completion of a five-year term. 
+
+The second bill, requiring ratification from over half the states, deals with municipal and panchayat elections, proposing a single electoral roll managed by the Election Commission of India. It also involves amendments to laws governing legislative assemblies in Union Territories to ensure they align with the simultaneous election plan.
+
+Wed, 18 Sep 2024 10:49:50 +0000
+### [India issues notice to Pakistan seeking review of Indus Water Treaty: Everything you need to know](https://indianexpress.com/article/explained/india-notice-pakistan-indus-water-treaty-9574375/)
+
+India has asked Pakistan to modify the Indus Waters Treaty, citing "fundamental and unforeseen" changes in circumstances. This follows a long-standing dispute over two hydroelectric projects that India is constructing on the Kishanganga and Chenab rivers. Pakistan has objected to these projects, leading to multiple failed attempts at resolution through the treaty's dispute mechanisms. 
+
+India believes Pakistan's request for a Court of Arbitration violates the treaty's sequential dispute resolution process, which starts with discussions between Indus Commissioners and progresses to a Neutral Expert and finally, the Court of Arbitration. The World Bank, which brokered the 1960 treaty, is currently trying to navigate the situation and appoint a Neutral Expert and chairman of the Court of Arbitration.
+
 Wed, 18 Sep 2024 09:55:02 +0000
 ### [Who is Sean “Diddy” Combs and why is his arrest significant?](https://indianexpress.com/article/explained/explained-culture/sean-diddy-combs-arrest-9573118/)
 
