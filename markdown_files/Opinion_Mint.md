@@ -1,3 +1,10 @@
+Wed, 18 Sep 2024 07:00:07 +0530
+### [Mint Quick Edit | Will Kejriwal’s poll tactic work?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-atishi-singh-arvind-kejriwal-resignation-delhi-chief-minister-politics-kejriwal-ed-case-delhi-assembly-11726597290622.html)
+
+Arvind Kejriwal resigned as Delhi's chief minister amidst corruption charges. This move, following his release on bail, allows him to maintain public visibility while preparing for the upcoming elections in 2025. 
+
+Atishi, a cabinet minister, has been chosen as the interim replacement. This transition allows for the resumption of governance in Delhi, addressing the public's growing concerns since Kejriwal's bail conditions restricted his official duties. While the change ensures  functional continuity, the political impact of Kejriwal's resignation remains to be seen.
+
 Tue, 17 Sep 2024 16:00:19 +0530
 ### [Healthcare for all: India could lead by shaping the future of AI and biotech](https://www.livemint.com/opinion/online-views/medical-research-health-technology-drug-discovery-ai-in-healthcare-alphafold-biotechnology-innovation-ai-regulation-11726566681719.html)
 

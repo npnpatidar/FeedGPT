@@ -1,3 +1,18 @@
+Wed, 18 Sep 2024 07:02:17 +0530
+### [Phase 1 of J&K Assembly election: The big battles and key candidates to watch out for](https://www.firstpost.com/explainers/jk-assembly-elections-phase-1-big-battles-key-candidates-to-watch-out-for-13816438.html)
+
+The first phase of Jammu and Kashmir's Assembly elections commenced with a total of 24 constituencies going to polls.  The major political battlegrounds include Pampore, Anantnag, Shangus-Anantnag East, Pulwama, Bijbehara-Srigufwara, Kulgam, Doda and Doda West, Kishtwar, and Inderwal. 
+
+Key contests include PDP's Zahoor Ahmad Mir against NC's Hasnain Masoodi in Pampore and Dr Mehboob Beigh of the PDP contesting for Anantnag against several other prominent candidates. Iltija Mufti, daughter of PDP Chief Mehbooba Mufti, is making her electoral debut from the family-held Bijbehara. 
+
+In Kishtwar, the BJP has fielded Shagun Parihar, a terror victim's daughter.  In Inderwal, a close contest is expected between Congress, BJP, and PDP candidates.
+
+Wed, 18 Sep 2024 06:30:01 +0530
+### [FirstUp: J-K goes to polls in Phase 1, FM Sitharaman to launch NPS Vatsalya Scheme... Big headlines today](https://www.firstpost.com/explainers/firstup-j-k-goes-to-polls-in-phase-1-fm-sitharaman-to-launch-nps-vatsalya-scheme-big-headlines-today-13816378.html)
+
+Jammu and Kashmir will undergo the first phase of assembly elections in a decade, with 219 candidates vying for 
+representation from seven districts.  Over 23 lakh voters are expected to participate. Additionally, Union Finance Minister Nirmala Sitharaman will launch the NPS Vatsalya Scheme, designed to encourage parents to invest in their children's future through a pension plan. The scheme allows for flexible contributions starting at Rs 1,000 annually. The Reserve Bank of India has shifted the Eid-e-Milad holiday to September 18th to avoid overlap with Anant Chaturdashi, following requests from the Muslim community.
+
 Tue, 17 Sep 2024 21:00:08 +0530
 ### [Meet Ukraine’s ‘Bucha Witches’: Who are these women defending the skies against Russian drones?](https://www.firstpost.com/explainers/meet-ukraines-bucha-witches-who-are-these-women-defending-the-skies-against-russian-drones-13816346.html)
 

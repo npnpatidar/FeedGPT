@@ -1,3 +1,46 @@
+Wed, 18 Sep 2024 02:30:02 +0000
+### [Sam Pitroda writes: What Rahul said in America](https://indianexpress.com/article/opinion/columns/rahul-gandhi-us-remarks-narendra-modi-us-visit-us-lawmakers-foreign-policy-9573395/)
+
+Rahul Gandhi's three-day visit to the US included engagements with US lawmakers,  policy experts from think tanks, and members of diverse groups like the Congressional Progressive Caucus and the India Caucus.  He discussed a range of topics, including India's economic vision, the need to empower marginalized communities, and the importance of preserving India's Constitution. Gandhi expressed support for the Modi government's stance on Russia and Ukraine, aligning it with previous Congress-led governments. He also emphasized the need to strengthen the strategic partnership between India and the US.  
+
+Gandhi highlighted opportunities for growth in India's textile industry and agriculture, advocating for technological advancement and investment.  He stressed the significance of countering China's economic model and promoting democratic values globally.
+
+Wed, 18 Sep 2024 02:26:04 +0000
+### [September 18, 1984, Forty Years Ago: Andhra Pradesh Chief Minister N T Rama Rao to seek vote of confidence](https://indianexpress.com/article/opinion/40-years-ago/september-18-1984-forty-years-ago-andhra-pradesh-chief-minister-n-t-rama-rao-to-seek-vote-of-confidence-9573294/)
+
+Andhra Pradesh Chief Minister N.T. Rama Rao announced a vote of confidence for his ministry on September 20th.  Pakistan's President Zia-ul-Haq addressed US reports of potential conflict with India, including attacks on nuclear facilities, stating Pakistan had taken measures to protect them. The fifth round of Sino-Indian official talks commenced, focusing on bilateral relations and the border issue.  In India, the Congress-controlled National Students Union of India (I) launched an investigation into violence and looting by its members.
+
+Wed, 18 Sep 2024 02:22:59 +0000
+### [The Third Edit: ‘Lord of the Flies’ completes 70 years. Its message still rings true](https://indianexpress.com/article/opinion/editorials/the-third-edit-lord-of-the-flies-completes-70-years-its-message-still-rings-true-9573293/)
+
+"Lord of the Flies", William Golding's 1954 debut novel, explores the dark side of human nature through the chilling tale of a group of stranded schoolboys who descend into savagery. Initially facing rejections, the novel's groundbreaking theme – the potential for chaos and moral decay even in innocent children –  eventually found publishing success. The first draft, alongside Golding's personal writings, will be showcased at the University of Exeter to celebrate the book's 70th anniversary. "Lord of the Flies" challenged the optimistic portrayal of children in similar stories, revealing their capacity for both kindness and cruelty, a theme that continues to resonate with readers today.
+
+Wed, 18 Sep 2024 02:20:54 +0000
+### [How a fertiliser cap can help fuel India](https://indianexpress.com/article/opinion/editorials/how-a-fertiliser-cap-can-help-fuel-india-9573292/)
+
+The increasing use of rock phosphate in electric vehicle batteries poses a threat to fertilizer production.  As demand for this raw material grows, less will be available for making phosphorus-based fertilizers. This "food versus cars" dilemma mirrors the "food versus fuel" debate arising from the use of crops for biofuels. India, heavily reliant on fertilizer imports, is particularly vulnerable to this trend.  
+
+Therefore, India needs to prioritize efficient nutrient application in agriculture.  The government should encourage the use of less nutrient-intensive fertilizers and promote good agricultural practices to reduce fertilizer consumption and import dependence.
+
+Wed, 18 Sep 2024 02:15:15 +0000
+### [Why extending national health insurance scheme to elderly is not enough](https://indianexpress.com/article/opinion/columns/why-extending-national-health-insurance-scheme-to-elderly-is-not-enough-9573246/)
+
+The government's decision to extend AB-PMJAY to older adults is a positive step towards mitigating the financial burden of healthcare, especially given the increasing prevalence of non-communicable diseases and inadequate social security measures for seniors. However, the allocated budget falls short of the estimated requirement to effectively cover the intended beneficiaries. 
+
+The scheme's focus on secondary and tertiary care excludes essential outpatient services crucial for preventive care and long-term management of chronic conditions. To achieve comprehensive healthy ageing, a substantial increase in public health spending is necessary, coupled with expanded public health infrastructure and a focus on primary healthcare.
+
+The current approach, reliant on insurance-based schemes, risks inflating healthcare costs and neglecting the need for a holistic, integrated approach to senior healthcare, similar to successful models in Canada, Europe, and Australia.
+
+Wed, 18 Sep 2024 01:48:19 +0000
+### [Chief Minister Atishi](https://indianexpress.com/article/opinion/editorials/chief-minister-atishi-9573247/)
+
+Arvind Kejriwal, the former chief minister of Delhi, is facing challenges to regain his political standing after his recent arrest in a corruption case. With the Delhi assembly elections scheduled for February 2025, Kejiwal is calling for early elections in November, positioning himself as a victim of political persecution. He wants a "certificate of innocence" from the people of Delhi.  However, this strategy has been criticized as a distraction from the AAP government's declining governance record. Despite controlling the Delhi government and the MCD, the AAP has been criticized for neglecting issues like urban decay, waterlogging, and disease outbreaks. Atishi, the new chief minister, faces the challenge of  reviving the government's focus on governance and addressing the pressing needs of Delhi's citizens.
+
+Wed, 18 Sep 2024 01:43:54 +0000
+### [C Raja Mohan writes: Joe Biden and India-US story](https://indianexpress.com/article/opinion/columns/india-us-relations-joe-biden-narendra-modi-indo-pacific-strategy-afghanistan-pakistan-china-9573393/)
+
+The article discusses the accomplishments of the Biden administration in strengthening the India-US relationship over the past four years. While there were initial doubts about Biden's commitment to the India-US partnership, his actions have exceeded expectations. The article highlights Biden's  continuation of Trump-era policies in Asia, such as withdrawal from Afghanistan, increased focus on China, and revitalization of the Quadrilateral partnership.  Biden has also fostered closer economic and technological ties with India, exemplified by the iCET initiative.  The strengthening relationship is characterized by cooperation in security, technological development, trade, and regional stability, despite facing challenges such as the Russia-Ukraine war and political differences.
+
 Tue, 17 Sep 2024 13:48:09 +0000
 ### [Kangana Ranaut writes on PM’s birthday: A life in service of the nation](https://indianexpress.com/article/opinion/columns/kangana-ranaut-writes-pm-birthday-life-service-nation-9572867/)
 

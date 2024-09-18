@@ -1,3 +1,17 @@
+Wed, 18 Sep 2024 01:45:11 +0000
+### [Polls underway, what powers will the new Jammu and Kashmir Assembly have?](https://indianexpress.com/article/explained/explained-law/nature-of-jk-assembly-9573231/)
+
+The upcoming Jammu and Kashmir assembly elections mark the first since the constitutional changes of 2019, resulting in a legislative assembly for a Union Territory rather than a state. The Jammu and Kashmir Reorganisation Act grants the Lieutenant Governor (LG) significant authority. 
+
+The LG controls public order, police, and the bureaucracy, including the anti-corruption bureau.  The Assembly has limited legislative power, excluding subjects like public order, police, and the Concurrent List.  
+
+Even for other matters,  financial bills require the LG's recommendation. The LG's discretion in matters outside the Assembly's purview is final. Recent administrative changes further strengthened the LG's powers, extending to the appointment of legal officers and influencing prosecution decisions.
+
+Wed, 18 Sep 2024 01:30:10 +0000
+### [Supreme Court’s 15-day pause on demolitions: In 2022, another bench had declined to stay demolitions](https://indianexpress.com/article/explained/in-2022-another-sc-bench-had-declined-to-stay-demolitions-9573255/)
+
+The Supreme Court has issued a 15-day stay on demolitions of properties belonging to individuals accused of crimes, emphasizing the need for court permission before such actions. This comes after two-and-a-half years of petitions challenging the legality of bulldozer demolitions, particularly in cases like the Jahangirpuri incident where demolitions occurred despite a court-ordered status quo.  Justice Gavai, who was on the bench during the 2022 hearing, now leads the court that has imposed the stay until October 31. The court's decision reflects growing concerns about the potential misuse of demolitions and the violation of citizens' rights.
+
 Tue, 17 Sep 2024 18:41:36 +0000
 ### [Exploding pagers in Lebanon: Supply chain tampering prime suspect in Hezbollah deaths](https://indianexpress.com/article/explained/explained-global/exploding-pagers-lebanon-supply-chain-hezbollah-9573222/)
 
