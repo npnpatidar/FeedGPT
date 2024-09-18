@@ -1,3 +1,10 @@
+Wed, 18 Sep 2024 14:13:46 +0000
+### [Manoj Jha writes: One Nation, One Election undermines the voter — and Indian democracy](https://indianexpress.com/article/opinion/columns/manoj-jha-writes-one-nation-one-election-undermines-voter-indian-democracy-9574798/)
+
+The article argues against the BJP-led NDA government's push for "One Nation, One Election,"  claiming it's a move to concentrate power and undermine democracy.  The author points out that while elections are crucial for democracy, they are only one aspect.  
+
+The author suggests that the government should address issues like the Model Code of Conduct and election spending through reforms rather than overhauling the entire system. They also warn that "One Nation, One Election" could benefit dominant parties, limit states' ability to hold governments accountable, and weaken  deliberation and responsiveness to citizen needs.
+
 Wed, 18 Sep 2024 13:30:41 +0000
 ### [What Ayatollah Khamenei doesn’t understand about the state of Indian Muslims](https://indianexpress.com/article/opinion/columns/ayatollah-khamenei-understand-state-indian-muslims-9574549/)
 
