@@ -1,3 +1,13 @@
+Wed, 18 Sep 2024 08:30:16 +0530
+### [Drones should be made wholly in India for the sake of our security](https://www.livemint.com/opinion/online-views/drones-manufacturing-pli-scheme-national-security-startups-localized-production-ukraine-war-drone-technology-bombs-11726597381834.html)
+
+An increasing number of drones are needed to meet the growing demands of various sectors. Recognizing India's need for self-sufficiency, the government is considering substantial funding for drone manufacturing and research. The focus should be on developing indigenous capabilities for all aspects of the drone ecosystem, including components like motors, sensors, cameras, batteries, and advanced electronics.
+
+This move will not only reduce dependence on foreign suppliers but also enhance national security by ensuring control over drone technology.  Supporting drone R&D could also have positive spillover effects on other sectors, such as electric vehicles. 
+
+
+Developing a robust testing infrastructure is crucial to identify vulnerabilities in drone software and prevent hacking. Funding startups to create locally developed components and encouraging the use of indigenous technology in drone manufacturing are essential steps in establishing a thriving domestic drone industry.
+
 Wed, 18 Sep 2024 07:00:07 +0530
 ### [Mint Quick Edit | Will Kejriwal’s poll tactic work?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-atishi-singh-arvind-kejriwal-resignation-delhi-chief-minister-politics-kejriwal-ed-case-delhi-assembly-11726597290622.html)
 

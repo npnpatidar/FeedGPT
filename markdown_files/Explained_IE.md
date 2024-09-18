@@ -1,3 +1,15 @@
+Wed, 18 Sep 2024 02:53:13 +0000
+### [Low-cost diabetes drug can slow ageing in male monkeys: Study](https://indianexpress.com/article/explained/explained-health/low-cost-diabetes-drug-can-slow-ageing-in-male-monkeys-study-9573237/)
+
+A new study published in Cell found that metformin, a common diabetes drug, can slow the aging process in male monkeys. Researchers at the University of Chinese Academy of Sciences gave older monkeys daily doses of metformin and observed that their brain activity resembled that of younger monkeys. The drug also slowed the aging of other tissues and reduced chronic inflammation. 
+
+Metformin has shown promise in slowing aging in other animal models, but this is the first study to directly test its effects in primates. While promising, more research is needed before metformin can be used to treat age-related diseases in humans. A 120-person trial is currently underway to assess metformin's impact on human aging.
+
+Wed, 18 Sep 2024 02:32:09 +0000
+### [Worshipping the Karam tree: Myth and farm practice in the tribal harvest festival of Karma](https://indianexpress.com/article/explained/explained-culture/karam-tree-festival-9573236/)
+
+Karma or Karam Parv, a harvest festival, was celebrated last week by tribal communities across several Indian states.  Central to the festival is the Karam tree, venerated as a symbol of strength and vitality.  Young women traditionally sow grains in sand and nurture them until the festival day. A Karam tree branch is then planted, worshipped with hibiscus flowers, and accompanied by singing and dancing. The branch is later immersed in water, and hibiscus flowers distributed among devotees.  The festival is believed to have originated from ancient agricultural practices, with the Karam tree representing good harvests and fertility.
+
 Wed, 18 Sep 2024 01:45:11 +0000
 ### [Polls underway, what powers will the new Jammu and Kashmir Assembly have?](https://indianexpress.com/article/explained/explained-law/nature-of-jk-assembly-9573231/)
 

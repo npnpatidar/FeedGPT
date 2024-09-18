@@ -5,6 +5,21 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_TH.xml</link>
 		<description>Explained TH</description>
 		<item>
+			<title>What is a telescope? How good are modern telescopes? | Explained</title>
+			<link>https://www.thehindu.com/sci-tech/science/what-is-a-telescope-how-good-are-modern-telescopes-explained/article68654399.ece</link>
+			<description>This article explains how telescopes work and the factors that determine their power. 
+
+Telescopes, primarily reflectors, utilize mirrors to focus light and magnify distant celestial objects.  The larger the telescope's aperture, the more light it gathers, making faint objects visible.  This is analogous to a larger container collecting more rainwater.
+
+The article further discusses the concept of limiting magnitude, which indicates the faintest object a telescope can detect.  Resolution, another crucial factor, refers to the ability to distinguish details between closely spaced objects.  Atmospheric turbulence hinders ground-based telescopes, while space telescopes, like Hubble, offer superior resolution by escaping atmospheric interference.
+
+The article concludes by highlighting advancements like adaptive optics, which correct for atmospheric distortions, and the construction of increasingly larger telescopes like the Extremely Large Telescope (ELT), pushing the boundaries of astronomical observation.</description>
+			<pubDate>Wed, 18 Sep 2024 08:52:29 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url=""></media:thumbnail>
+			<media:content url="" medium="image"></media:content>
+		</item>
+		<item>
 			<title>How do emergency provisions impact Centre-State relations?</title>
 			<link>https://www.thehindu.com/news/national/how-do-emergency-provisions-impact-centre-state-relations/article68648093.ece</link>
 			<description>The recent violence in Manipur has reignited discussions on Centre-State relations and the use of emergency provisions. India's Constitution gives states primary responsibility for maintaining law and order, while Article 355 mandates the Centre  to protect states from internal disturbances and ensure they function constitutionally.
