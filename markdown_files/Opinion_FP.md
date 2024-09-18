@@ -1,3 +1,20 @@
+Wed, 18 Sep 2024 18:43:24 +0530
+### [Zelensky’s Kursk operation can be a costly gambit as Putin targets eastern Ukraine](https://www.firstpost.com/opinion/zelenskys-kursk-operation-can-be-a-costly-gambit-as-putin-targets-eastern-ukraine-13816768.html)
+
+The article discusses the strategic significance of the ongoing battle for Pokrovsk in eastern Ukraine. If Russia captures this city, it would sever crucial supply lines for Ukrainian forces, leading to potential isolation and collapse of defenses in the Donetsk region. 
+
+While Ukraine launched a successful incursion into Russia's Kursk region, the article argues that this may be a deliberate diversionary tactic by Russia to draw Ukrainian resources away from key areas in eastern Ukraine.  
+
+The article also highlights concerns within the West about Ukraine's ability to sustain its counteroffensive with limited Western weaponry and concerns regarding the effectiveness and potential risks associated with using advanced Western equipment in the conflict.
+
+
+It concludes by mentioning  weakening support for Ukraine among some Western allies and suggests Ukraine needs a clearer strategy to prosecute the war within the existing constraints.
+
+Wed, 18 Sep 2024 18:15:27 +0530
+### [Abraham Accords need a Palestinian course correction](https://www.firstpost.com/opinion/abraham-accords-need-a-palestinian-course-correction-13816762.html)
+
+The Abraham Accords, signed in 2020, aimed to normalize relations between Israel and several Arab states.  However, the ongoing conflict between Israel and Hamas in Gaza has cast a shadow on this initiative.  The normalization agreements were predicated on the resolution of the Palestinian issue, which has unfortunately not occurred. Instead, the situation has escalated, with devastating consequences for Palestinians in Gaza and Israelis.  While trade between Israel and some Arab states continues, the broader context has become volatile, raising doubts about the future of regional cooperation and potentially pushing the Palestinian issue back to the forefront of Arab concerns.   The war has challenged the viability of the Accords as a platform for genuine peace and stability in the region.
+
 Wed, 18 Sep 2024 12:19:32 +0530
 ### [It’s the inflation, stupid: Trump still beats Harris on ‘bacon and eggs’](https://www.firstpost.com/opinion/its-the-inflation-stupid-trump-still-beats-harris-on-bacon-and-eggs-13816575.html)
 

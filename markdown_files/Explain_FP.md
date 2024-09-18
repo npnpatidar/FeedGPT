@@ -1,3 +1,34 @@
+Wed, 18 Sep 2024 19:07:43 +0530
+### [The Tupperware party is over: Why popular tiffin and bottle maker has gone bankrupt](https://www.firstpost.com/explainers/us-firm-tupperware-bankruptcy-filing-13816706.html)
+
+Tupperware Brands Corp, renowned for its airtight food storage containers, has filed for Chapter 11 bankruptcy protection.  The company attributed its decline to a challenging macroeconomic environment, rising costs, and a shift in consumer preferences towards more environmentally friendly options. Though the brand enjoyed success in the mid-20th century fueled by its iconic Tupperware parties, it struggled to adapt to changing times.  Despite efforts to reinvent itself and appeal to younger audiences through online platforms, declining sales and mounting debt ultimately led to the bankruptcy filing. Tupperware hopes to continue operating during the proceedings and sell its business to protect its brand.
+
+Wed, 18 Sep 2024 19:00:56 +0530
+### [Was sinking of Titan submersible 'inevitable'? Shocking revelations by Oceangate whistleblower](https://www.firstpost.com/world/united-states/was-sinking-of-titan-submersible-inevitable-shocking-revelations-by-oceangate-whistleblower-13816772.html)
+
+David Lochridge, the former operations director of OceanGate, stated that the sinking of the Titan submersible was "inevitable."  Lochridge claimed that he repeatedly raised safety concerns about the Titan with CEO Stockton Rush, but his warnings were disregarded. He accused Rush of prioritizing profit over safety and of making decisions that bypassed established industry standards.   Lochridge also alleged that Rush was arrogant and dismissive of expert advice. He testified that he believed the Titan's carbon fiber hull was inadequate and prone to failure. Lochridge was ultimately fired after clashing with Rush over safety issues.
+
+Wed, 18 Sep 2024 18:37:15 +0530
+### [In Photos: Jammu and Kashmir votes for the first time in 10 years](https://www.firstpost.com/photos/in-photos-jammu-and-kashmir-votes-for-the-first-time-in-10-years-13816714.html)
+
+Jammu and Kashmir held its first assembly elections in a decade, marking the first polls since the abrogation of Article 370.  The voting commenced in the first of three phases, covering 24 constituencies. A 58.9 percent voter turnout was recorded by 5 pm.  
+
+Security measures were extensive, involving multi-tier forces from the CAPF, J-K Armed Police, and J-K Police. Major political players include the National Conference, Peoples Democratic Party, Congress, Bharatiya Janata Party, and the Awami Ittehad Party.
+
+Wed, 18 Sep 2024 18:32:15 +0530
+### [Modi Cabinet clears ‘One Nation, One Election: How would it work?](https://www.firstpost.com/explainers/modi-cabinet-one-nation-one-election-work-ram-nath-kovind-panel-13816722.html)
+
+The Union Cabinet has approved the "One Nation, One Election" plan, which aims to hold simultaneous Lok Sabha and Assembly elections. This proposal, based on the recommendations of a panel headed by former President Ram Nath Kovind, is expected to be introduced in the upcoming winter session of Parliament.
+
+The government argues that simultaneous elections would significantly reduce election expenses, streamline governance, improve voter turnout, alleviate the burden on security forces, and potentially mitigate polarising campaigns. However, critics contend that it could disadvantage regional parties, overshadow state-specific issues, and necessitate substantial constitutional amendments.
+
+Wed, 18 Sep 2024 17:55:43 +0530
+### [Will Lebanon pager blasts trigger a full-scale conflict between Israel and Hezbollah?](https://www.firstpost.com/explainers/will-lebanon-pager-blasts-trigger-a-full-scale-conflict-between-israel-and-hezbollah-13816755.html)
+
+An Israeli attack on Hezbollah members via their pagers has significantly escalated tensions in the region.  The attack, which disrupted Hezbollah's communication network, resulted in numerous casualties and injuries.  Hezbollah has vowed revenge, raising the specter of a full-scale conflict involving the Iran-backed "Axis of Resistance."  
+
+The attack highlights the escalating tensions stemming from recent events, including Hamas's attacks on Israel. Israel aims to eliminate the Hezbollah threat, potentially leading to a wider regional conflict with implications for Iran and its allies.  The use of pagers, a less-targeted communication method, suggests a deliberate attempt to inflict maximum damage and sow panic. Any retaliation by Hezbollah, known for its military capabilities, could result in significant civilian casualties, potentially triggering a larger-scale war.
+
 Wed, 18 Sep 2024 16:52:43 +0530
 ### [How could US Fed rate cut affect India’s stock market, IT sector and gold prices?](https://www.firstpost.com/world/united-states/how-could-us-fed-rate-cut-affect-indias-stock-market-it-sector-and-gold-prices-13816718.html)
 

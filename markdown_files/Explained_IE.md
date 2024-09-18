@@ -1,3 +1,22 @@
+Wed, 18 Sep 2024 13:24:07 +0000
+### [Lebanon attacks: Why do people still use pagers?](https://indianexpress.com/article/explained/explained-sci-tech/lebanon-attacks-pagers-9574627/)
+
+The recent explosions in Lebanon, caused by pagers detonating simultaneously, remain shrouded in mystery.  While Israel is a potential suspect given its history and expertise in such attacks, no confirmation exists. The surprising aspect is the targeting of pagers, devices deemed relatively safe from remote control due to their limited functionality.
+
+Pagers, a precursor to mobile phones, operate on radio waves, allowing for group messages and private ones using unique pager numbers.  Their lack of transmitting capabilities makes them untraceable, a feature exploited by organizations like Hezbollah. Pagers require minimal power, are difficult to hack, and continue to be used in specific scenarios like surgeries or disaster management. 
+
+The theory of a hacking attack triggering the explosions has been largely dismissed due to pager technology's simplicity. The more plausible explanation involves pre-implantation of explosives, potentially triggered remotely, though the method remains unclear. Reports suggest the affected pagers were from a recent batch manufactured by a European distributor.
+
+Wed, 18 Sep 2024 13:00:30 +0000
+### [SC grants bail to ‘Pulsar’ Suni: All you need to know](https://indianexpress.com/article/explained/pulsar-suni-bail-9574482/)
+
+The Supreme Court granted bail to Sunil NS, aka 'Pulsar' Suni, the prime accused in the 2017 assault of a Malayalam actress. Suni's prolonged imprisonment of seven-and-a-half years and the slow pace of the trial, with 269 witnesses and over 1,800 pages of testimony, were cited as reasons for the decision. 
+
+The court also noted the delay caused by the extensive cross-examination of the investigating officer by Dileep's lawyer, and the fact that other accused in the case are already out on bail. The bail conditions will be finalized by the trial court within a week. 
+
+
+This is not Suni's first bail application; his lawyers have filed ten, with only one previously granted for the actor's father's last rites. The Kerala High Court had previously denied his bail and imposed a fine.
+
 Wed, 18 Sep 2024 10:53:34 +0000
 ### [Kovind committee’s ‘One nation, one election’ recommendation gets Cabinet nod: What it will take to hold simultaneous elections in India](https://indianexpress.com/article/explained/explained-law/kovind-committee-one-nation-one-election-recommendation-gets-cabinet-nod-what-it-will-take-to-hold-simultaneous-elections-in-india-9574346/)
 

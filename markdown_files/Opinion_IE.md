@@ -1,3 +1,27 @@
+Wed, 18 Sep 2024 13:30:41 +0000
+### [What Ayatollah Khamenei doesn’t understand about the state of Indian Muslims](https://indianexpress.com/article/opinion/columns/ayatollah-khamenei-understand-state-indian-muslims-9574549/)
+
+Iran's Supreme Leader Ayatollah Khamenei's declaration that true Muslims must acknowledge the suffering of Muslims in Gaza, Myanmar, and India has sparked international controversy.  This statement, viewed as an attempt to define a "true Muslim" and assert leadership over the global Muslim community, lacks the mandate associated with historical Islamic leadership roles. 
+
+India has  expressed strong disapproval, particularly regarding  comparisons of the situation of Indian Muslims with the Rohingya crisis and the Palestinian issue. 
+
+The statement has also been criticized for overlooking the plight of other minorities, particularly in Iran itself, where systemic discrimination against unrecognised religious and ethnic groups is prevalent. The Iranian government's actions contradict its pronouncements regarding the suffering of minorities worldwide. 
+
+
+
+
+
+This incident highlights the complex diplomatic realities India faces, particularly its multifaceted relationships with countries like the US, Israel, Iran, and Russia.  While India strives for de-hyphenated engagement, ill-conceived statements like Khamenei's can destabilize this delicate balance.
+
+Wed, 18 Sep 2024 11:59:16 +0000
+### [Why Taylor Swift is the perfect PR progressive for the Kamala Harris campaign](https://indianexpress.com/article/opinion/columns/taylor-swift-perfect-pr-progressive-for-kamala-harris-campaign-9574484/)
+
+The article discusses Taylor Swift's potential political influence, particularly in the context of the 2024 US election. 
+
+It argues that Swift embodies the brand of progressivism within the Democratic party, focusing on domestic issues while largely ignoring foreign policy concerns, such as the war in Gaza. Despite growing public awareness and activism surrounding the conflict, the article suggests that major political figures, including presidential candidates, are downplaying its significance on the campaign trail.  
+
+It criticizes this approach as enabling a narrow, self-absorbed perspective on progressive values that fails to address global issues and the realities of US foreign policy. The article concludes with a warning that ignoring the growing public concern about the war in Gaza could have significant political consequences.
+
 Wed, 18 Sep 2024 06:17:09 +0000
 ### [Talking about caste hasn’t helped – it has just created new inequalities](https://indianexpress.com/article/opinion/columns/talking-about-caste-hasnt-helped-it-has-just-created-new-inequalities-9573844/)
 
