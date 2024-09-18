@@ -1,3 +1,14 @@
+Wed, 18 Sep 2024 10:30:02 +0530
+### [A sovereign wealth fund can do plenty for India is a changed world](https://www.livemint.com/opinion/online-views/sovereign-wealth-fund-trade-deficit-swf-foreign-exchange-reserves-fiscal-deficit-development-investment-11726599191953.html)
+
+India is reportedly considering establishing its own sovereign wealth fund (SWF). This idea has been discussed before, notably in 2007-08 and 2010-11, but faced pushback due to India's current account and fiscal deficits, alongside a belief that domestic markets are sufficiently deep. 
+
+However, the author argues that the global landscape and India's aspirations have changed significantly.  An SWF could benefit India socially, politically, and economically, not just financially.  
+
+It could be used to attract specialized knowledge and critical technologies, boost India's global influence through infrastructure projects, and address concerns about resource dependence and economic coercion by nations like China.
+
+Moreover, an SWF could complement the Reserve Bank of India (RBI) with a distinct mandate focused on balancing liquidity, security, and returns.  The author concludes that defining India's SWF approach should be guided by the nation's future ambitions, not its current economic standing.
+
 Wed, 18 Sep 2024 08:30:16 +0530
 ### [Drones should be made wholly in India for the sake of our security](https://www.livemint.com/opinion/online-views/drones-manufacturing-pli-scheme-national-security-startups-localized-production-ukraine-war-drone-technology-bombs-11726597381834.html)
 

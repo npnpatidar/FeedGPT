@@ -1,3 +1,12 @@
+Wed, 18 Sep 2024 06:17:09 +0000
+### [Talking about caste hasn’t helped – it has just created new inequalities](https://indianexpress.com/article/opinion/columns/talking-about-caste-hasnt-helped-it-has-just-created-new-inequalities-9573844/)
+
+The article critiques the common understanding of caste as a rigid, hierarchical system. It argues that  real-world practices are more complex, with admixtures and fluidity between castes.  The author points out historical examples like the Nath Panthis and the Yadavs, demonstrating the fluidity of caste identity.
+
+The article further criticizes the political framing of caste as a tool for division and discrimination. It suggests that this approach,  popularized by British census records, obscures the more nuanced realities of caste in India. It  emphasizes that the focus on caste has diverted attention from building robust public institutions that could genuinely address social inequality.  
+ 
+Ultimately, the  article calls for a more nuanced understanding of caste that considers its historical complexities and challenges the simplistic binary of power structures.
+
 Wed, 18 Sep 2024 02:30:02 +0000
 ### [Sam Pitroda writes: What Rahul said in America](https://indianexpress.com/article/opinion/columns/rahul-gandhi-us-remarks-narendra-modi-us-visit-us-lawmakers-foreign-policy-9573395/)
 

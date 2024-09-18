@@ -1,3 +1,21 @@
+Wed, 18 Sep 2024 11:32:19 +0530
+### [10-year-old girl, Hezbollah MP's son killed: The victims of pager blasts in Lebanon](https://www.firstpost.com/explainers/10-year-old-girl-hezbollah-mp-son-killed-the-victims-of-pager-blasts-in-lebanon-13816497.html)
+
+Thousands of pagers used by Hezbollah members exploded across Lebanon on September 17, 2024, resulting in a significant loss of life and injuries.  At least 16 people were killed, including a young girl and the son of a Hezbollah MP, while over 2,750 were injured.  Iran's ambassador to Lebanon was also wounded in the attack. Hezbollah blamed Israel's intelligence agency, Mossad, for the coordinated attack, which they described as a "biggest security breach." Israel has not commented on the operation. The attack, which overwhelmed hospitals in Lebanon, highlights the vulnerability of Hezbollah's communication network and has further escalated tensions in the region.
+
+Wed, 18 Sep 2024 10:18:38 +0530
+### [Explained: Hezbollah pager blasts and Israel’s long history of complex operations](https://www.firstpost.com/explainers/hezbollah-pager-blasts-and-israels-long-history-of-complex-operations-13816489.html)
+
+A series of pager explosions in Lebanon, killing at least nine people and injuring nearly 3,000, has been widely blamed on Israel. Though Israel has not officially commented, its history of covert operations, including assassinations and cyberattacks targeting figures in Iran and Hezbollah, strongly suggests its involvement. The attack coincides with escalating tensions between Israel and Hezbollah following the Hamas attack on October 7th.  This recent incident adds to a long list of alleged Israeli operations, ranging from drone strikes and targeted killings to the Stuxnet virus attack on Iran's nuclear facilities.
+
+Wed, 18 Sep 2024 09:49:13 +0530
+### [Pager explosions in Lebanon: Why Hezbollah still uses pagers in the age of smartphones](https://www.firstpost.com/explainers/pager-explosions-lebanon-hezbollah-age-of-smartphones-13816496.html)
+
+On Tuesday, a series of pager explosions in Lebanon killed nine people and injured over 2,800. Hezbollah, which uses pagers for secure communication, blames Israel for the attack and has vowed retaliation. While the incident raises questions about how the old-technology devices could have been simultaneously detonated, it highlights Hezbollah's continued reliance on pagers for covert communication in the face of sophisticated surveillance technology. 
+
+
+Hezbollah prefers pagers over smartphones due to their untraceability and simplicity, making it harder for Israel to intercept communications. These devices also operate on messages, enabling the secure transmission of instructions.  While this preference enhances secrecy, it may hinder rapid communication between Hezbollah leadership and troops.
+
 Wed, 18 Sep 2024 07:02:17 +0530
 ### [Phase 1 of J&K Assembly election: The big battles and key candidates to watch out for](https://www.firstpost.com/explainers/jk-assembly-elections-phase-1-big-battles-key-candidates-to-watch-out-for-13816438.html)
 
