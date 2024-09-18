@@ -1,3 +1,13 @@
+Thu, 19 Sep 2024 00:20:00 +0530
+### [Party on the move: On the Aam Aadmi Party, its leader](https://www.thehindu.com/opinion/editorial/party-on-the-move-on-the-aam-aadmi-party-its-leader/article68656096.ece)
+
+Arvind Kejriwal has resigned as Delhi Chief Minister after securing bail in a corruption case. He has named AAP Minister Atishi as his replacement, a move seen as an attempt to reset the political landscape in Delhi and counter the BJP's strategy of targeting AAP's corruption claims.  Kejriwal's resignation comes at a time when the BJP is actively trying to undermine AAP's anti-corruption image and hinder its welfare programs ahead of the upcoming assembly elections.  AAP, however, aims to advance the election and combine it with the Maharashtra polls to avoid facing the BJP's full attention in Delhi. While Atishi serves as a temporary replacement, Kejriwal's focus is on a larger national role within the opposition camp.
+
+Thu, 19 Sep 2024 00:10:00 +0530
+### [A fair share: On the concerns of high performing States](https://www.thehindu.com/opinion/editorial/a-fair-share-on-the-concerns-of-high-performing-states/article68656154.ece)
+
+Opposition-ruled states are pushing for a higher share of tax revenue from the central government. They argue that the current 41% allocation, set by the Fifteenth Finance Commission, is insufficient, especially for states with strong economic performance.  They also want to limit the Centre's ability to collect cesses and surcharges, which often bypass devolution mechanisms. This demand comes amidst concerns about insufficient central funding for key state projects and the need for greater autonomy to address disaster relief and unique regional needs.
+
 Wed, 18 Sep 2024 00:20:00 +0530
 ### [A way out: On the government and doctor-led protests in West Bengal](https://www.thehindu.com/opinion/editorial/a-way-out-on-the-government-and-doctor-led-protests-in-west-bengal/article68652049.ece)
 
