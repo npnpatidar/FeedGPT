@@ -1,3 +1,10 @@
+Wed, 18 Sep 2024 12:01:56 +0530
+### [Jammu and Kashmir Assembly polls: What have parties promised in their manifestos?](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jammu-and-kashmir-assembly-polls-what-have-parties-promised-in-their-manifestos/article68652018.ece)
+
+The upcoming Jammu and Kashmir assembly elections have witnessed political parties releasing manifestos outlining contrasting visions for the state. The BJP, contesting alone, focuses on development and integration with the Union of India, promising economic benefits, security against terrorism, and infrastructure projects. 
+
+In contrast, the NC and PDP, while aligning with Congress, prioritize restoring J&K's special status and statehood, seeking to repeal stringent laws and initiate dialogue with Pakistan. The Congress manifesto offers a mix of Central schemes and local initiatives, focusing on statehood restoration, increased unemployment allowances, and improved connectivity. Other parties, like the J&K People's Conference and the Apni Party, have also released manifestos, outlining promises ranging from local reservation to amending state land laws.
+
 Wed, 18 Sep 2024 08:52:29 +0530
 ### [What is a telescope? How good are modern telescopes? | Explained](https://www.thehindu.com/sci-tech/science/what-is-a-telescope-how-good-are-modern-telescopes-explained/article68654399.ece)
 

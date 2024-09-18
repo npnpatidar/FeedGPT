@@ -1,3 +1,8 @@
+Wed, 18 Sep 2024 12:30:06 +0530
+### [AI chatbots are beating humans at debunking conspiracy theories](https://www.livemint.com/opinion/online-views/ai-chatbots-conspiracy-theories-llm-evidence-rumors-trump-assassination-attempt-11726538241212.html)
+
+A study used a chatbot named GPT-4 Turbo to interact with over 2,000 volunteers about conspiracy theories. The results showed that the chatbot was surprisingly effective at persuading people to reconsider their beliefs in false information. On average, people's belief levels in conspiracy theories dropped by 20%, with a quarter of participants dropping their belief levels below 50%.  The chatbot's success was attributed to its ability to provide instant access to counter-evidence and logical reasoning, which outperformed human efforts in countering the often overwhelming amount of evidence believers present. This research suggests that evidence-based arguments can be effective in challenging conspiracy theories and may offer a path towards mitigating the spread of misinformation.
+
 Wed, 18 Sep 2024 10:30:02 +0530
 ### [A sovereign wealth fund can do plenty for India is a changed world](https://www.livemint.com/opinion/online-views/sovereign-wealth-fund-trade-deficit-swf-foreign-exchange-reserves-fiscal-deficit-development-investment-11726599191953.html)
 

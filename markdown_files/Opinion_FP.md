@@ -1,3 +1,10 @@
+Wed, 18 Sep 2024 12:19:32 +0530
+### [It’s the inflation, stupid: Trump still beats Harris on ‘bacon and eggs’](https://www.firstpost.com/opinion/its-the-inflation-stupid-trump-still-beats-harris-on-bacon-and-eggs-13816575.html)
+
+The article discusses public perception of the economy and the impact of inflation on voters' decisions. While President Biden's economic policies have seen positive outcomes like job creation and GDP growth, high inflation remains a significant concern for voters. 
+
+Despite inflation easing recently, the prices of essential goods remain high, negatively influencing voters' perception of the economy. Donald Trump capitalizes on this sentiment, emphasizing his record of low inflation during his presidency and framing Biden's policies as responsible for the current economic challenges. This resonates with voters who prioritize economic stability and directly feel the impact of rising costs on their daily lives. Consequently, polls show a preference for Trump over Kamala Harris on handling the economy, highlighting the powerful influence of inflation on voter sentiment.
+
 Tue, 17 Sep 2024 19:03:19 +0530
 ### [Dangerous lies: Why Khamenei should look at Iran’s own genocidal record before pointing fingers at India](https://www.firstpost.com/opinion/dangerous-lies-why-khamenei-should-look-at-irans-own-genocidal-record-before-pointing-fingers-at-india-13816379.html)
 

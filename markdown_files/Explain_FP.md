@@ -1,3 +1,24 @@
+Wed, 18 Sep 2024 13:37:27 +0530
+### [Pager attacks in Lebanon, phones used for assassinations: When devices turned into deadly weapons](https://www.firstpost.com/explainers/pager-attacks-in-lebanon-phones-used-for-assassinations-when-devices-turned-into-deadly-weapons-13816552.html)
+
+On Tuesday, a series of pager explosions in Lebanon killed nine people, including a child, and injured over 2,500. Hezbollah, blaming Israel for the attack, stated it was the biggest security breach for the group in nearly a year of conflict. Israel's intelligence agency, Mossad, is suspected of having hidden explosive material within a new batch of Taiwanese-made pagers imported into Lebanon. This incident is not the first time communication devices have been used as weapons. Past examples include the killings of Hamas operatives and PLO representatives by Mossad agents via bomb-equipped phones.
+
+Wed, 18 Sep 2024 13:10:27 +0530
+### [What is the NPS Vatsalya? FM Sitharaman to launch pension plan for children](https://www.firstpost.com/explainers/nps-vatsalya-sitharaman-to-launch-pension-plan-for-children-13816522.html)
+
+The NPS Vatsalya scheme, launched by Union Finance Minister Nirmala Sitharaman, is an extension of the National Pension Scheme (NPS) designed specifically for children. 
+
+Parents can start saving for their child's retirement through this scheme, which functions similarly to the existing NPS.  Contributions are invested in market-linked securities, potentially yielding higher returns than traditional fixed-income options.  
+
+NPS Vatsalya  allows parents to make contributions as low as Rs 1,000 annually and choose from various investment options. 
+
+A partial withdrawal option is available after three years for specified purposes like education and medical treatment. Upon reaching 18, the child can withdraw the entire corpus if it's below Rs 2.5 lakh, or a lump sum of 20% and purchase an annuity for recurring income.  If the corpus exceeds Rs 2.5 lakh,  the child can withdraw 20% as a lump sum and invest 80% in an annuity.
+
+Wed, 18 Sep 2024 12:25:40 +0530
+### [Hezbollah pager explosions: How Israel could have ‘orchestrated’ the sophisticated attacks](https://www.firstpost.com/explainers/hezbollah-pager-explosions-lebanon-israel-idf-mossad-13816548.html)
+
+Hezbollah fighters' pagers started exploding across Lebanon, causing at least nine deaths and over 2,800 injuries. Hezbollah blames Israel for the attack,  which experts believe was a joint operation by the Israeli military and Mossad. The attack involved a recent shipment of 1,000 Taiwanese-made pagers, likely tampered with by Mossad before delivery. Israel is suspected of planting small explosives inside the devices, activated by a coded message. The attack comes amid heightened tensions between Israel and Hezbollah, following recent rocket exchanges and Israel's pledge to secure the return of its citizens near the Lebanon border. Hezbollah has threatened retaliation, raising concerns about further escalation.
+
 Wed, 18 Sep 2024 11:32:19 +0530
 ### [10-year-old girl, Hezbollah MP's son killed: The victims of pager blasts in Lebanon](https://www.firstpost.com/explainers/10-year-old-girl-hezbollah-mp-son-killed-the-victims-of-pager-blasts-in-lebanon-13816497.html)
 
