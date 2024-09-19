@@ -1,3 +1,24 @@
+Thu, 19 Sep 2024 15:05:00 +0530
+### [After Sun, Isro eyes Venus mission. But why does India want to study the planet?](https://www.firstpost.com/explainers/isro-venus-mission-india-study-planet-earth-space-13816975.html)
+
+India's space agency, Isro, will launch the Venus Orbiter Mission (VOM) by March 2028, aiming to study the planet's surface, atmosphere, and the Sun's influence.  The mission, estimated at Rs 1236 crore, will not include a landing on Venus.  The VOM is considered crucial for understanding Earth's evolution as Venus, while similar in size and mass to Earth, has become the hottest planet in our solar system due to a runaway greenhouse effect.  Studying Venus can provide valuable insights into planetary habitability and potential dangers facing Earth. Isro officials believe the mission will showcase India's technological and scientific capabilities.
+
+Thu, 19 Sep 2024 15:00:15 +0530
+### [Why is Canada further reducing study permits? How will this move affect Indians?](https://www.firstpost.com/explainers/why-is-canada-further-reducing-study-permits-how-will-this-move-affect-indians-13816923.html)
+
+The Canadian government is reducing the number of study permits for international students and tightening eligibility for work permits. Prime Minister Justin Trudeau's Liberal government aims to decrease the number of temporary residents, citing the need to address concerns around immigration and cost of living. The changes will see a significant reduction in the number of study permits issued annually, impacting a large number of Indian students who were drawn to Canada due to its favorable immigration policies. While the government emphasizes the need to prevent exploitation and fraud within the system, critics argue that the focus on reducing numbers ignores the crucial role migrants play in the Canadian economy and fails to address issues of worker exploitation. The policy changes come amidst growing public concern over rising inflation and housing costs, adding a layer of political complexity to the issue.
+
+Thu, 19 Sep 2024 14:35:24 +0530
+### [What is Israel’s Unit 8200, which ‘planned’ the Hezbollah devices attack in Lebanon?](https://www.firstpost.com/explainers/hezbollah-pager-walkie-talkie-blasts-lebanon-israel-idf-unit-8200-13816941.html)
+
+Lebanon has been hit by two days of deadly attacks involving explosives planted in pagers and walkie-talkies. Hezbollah and its allies blame Israel, which has remained silent, though reports suggest a joint operation by the Israeli military and Mossad.
+
+A key player is Israel's Unit 8200, an elite intelligence unit comparable to the US NSA. It's believed to have been involved in embedding the explosives, marking it as a sophisticated and secretive force. 
+
+Unit 8200 is renowned for its expertise in cyber warfare and data mining, playing a role in past operations like disrupting Iranian nuclear centrifuges and intercepting weapons shipments.  Despite its capabilities, the unit faced criticism for its failure to prevent the recent Hamas attacks.
+
+The unit recruits highly skilled individuals, boasts a culture of innovation, and has contributed significantly to Israel's high-tech industry.
+
 Thu, 19 Sep 2024 13:32:18 +0530
 ### [What is the Centre's new programme that lets you clear immigration faster?](https://www.firstpost.com/explainers/what-is-the-centres-new-programme-that-lets-you-clear-immigration-faster-13816899.html)
 

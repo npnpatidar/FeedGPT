@@ -1,3 +1,8 @@
+Thu, 19 Sep 2024 09:44:00 +0000
+### [Delhi, Bengaluru, Chennai and beyond — what Indian cities can do to cope with floods](https://indianexpress.com/article/opinion/columns/delhi-bengaluru-chennai-indian-cities-cope-with-floods-9576678/)
+
+Indian cities face increasing risks from flooding, exacerbated by climate change. While infrastructure is crucial, cities need to adapt, requiring both government action and citizen participation. Spatial planning is essential but many Indian cities lack active master plans. This lack of forward-looking planning hinders effective disaster management and limits the capacity to integrate green infrastructure. Citizen participation, vital for successful planning, is often absent due to a lack of recognition for cities as distinct governance units. Ward committees, envisioned in the 74th Constitutional Amendment Act, offer a platform for citizen engagement and hold potential for improving disaster preparedness. Devolving governance functions to city governments, as seen in other developing nations, could empower cities to prioritize local needs and enhance resilience against climate change-related disasters.
+
 Thu, 19 Sep 2024 06:18:30 +0000
 ### [Pager attack in Lebanon: Can nations be allowed to cause violence and death using digital techniques?](https://indianexpress.com/article/opinion/columns/pager-attack-in-lebanon-violence-digital-techniques-9576343/)
 

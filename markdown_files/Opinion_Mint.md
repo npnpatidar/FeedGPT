@@ -1,3 +1,24 @@
+Thu, 19 Sep 2024 15:00:09 +0530
+### [What exactly is a pregnancy brain? We may finally have some answers.](https://www.livemint.com/opinion/online-views/pregnancy-brain-hormonal-changes-cerebral-cortex-human-brain-pregnancy-brain-mapping-blood-pressure-depression-11726716611063.html)
+
+A new study published in Nature Neuroscience offers the first comprehensive look at the transformations the human brain undergoes during pregnancy. Researchers conducted MRI scans on pregnant women before conception, throughout pregnancy, and two years after birth, revealing significant changes in brain structure. 
+
+One key finding was a reduction in grey matter in almost all areas of the cortex, which persisted for years after childbirth. While this may sound concerning, the researchers suggest this could be a form of cortical refinement, optimizing brain function for motherhood. Other changes included transient increases in white matter quality during the second and third trimesters. 
+
+This research, led by Emily Jacobs from the University of California, Santa Barbara, aims to gain a better understanding of pregnancy complications like preeclampsia, migraines, and postpartum depression. Ultimately, the study highlights the dynamic nature of the female brain during pregnancy and emphasizes the need for more research on women's health.
+
+Thu, 19 Sep 2024 14:00:08 +0530
+### [Dani Rodrik: The world is haunted by a whole new trilemma](https://www.livemint.com/opinion/online-views/climate-change-globalization-middle-class-global-poverty-carbon-emission-developed-countries-export-manufacturing-jobs-11726716537923.html)
+
+This article discusses the trilemma of balancing global climate change mitigation, boosting the middle class in developed nations, and reducing global poverty. 
+
+The author argues that current policies create a conflict where pursuing two goals often comes at the expense of the third. For example, policies aimed at combating climate change may harm the economic prospects of developing countries seeking industrial growth. Similarly, prioritizing domestic economic recovery in developed nations could lead to job displacement and wage suppression in low-skilled sectors.
+
+However, the author suggests that some potential solutions exist.  They highlight that the service sector will be a key driver of job creation in both developed and developing economies.  Additionally, they emphasize the need for developed nations to cooperate with developing countries on climate change mitigation, framing it as mutually beneficial.  
+
+
+The author concludes by asserting that achieving all three goals requires innovative policymaking that transcends the current trilemma.
+
 Thu, 19 Sep 2024 12:30:06 +0530
 ### [What debate? Reducing debt is the same as tightening the fiscal deficit.](https://www.livemint.com/opinion/online-views/fiscal-deficit-debt-to-gdp-ratio-government-expenditure-inflation-government-debt-capital-expenditure-reserve-currency-11726715625294.html)
 
