@@ -1,3 +1,14 @@
+Thu, 19 Sep 2024 19:01:45 +0530
+### [New faces crop up as Japan searches for new PM](https://www.firstpost.com/opinion/new-faces-crop-up-as-japan-searches-for-new-pm-13817139.html)
+
+Japan is facing a crucial juncture in its political landscape with leadership contests underway in the ruling Liberal Democratic Party (LDP), the Constitutional Democratic Party of Japan (CDPJ), and their coalition partner Komeito. 
+
+Within the LDP,  Shigeru Ishiba, Sanae Takaichi, and Shinjiro Koizumi are considered the frontrunners. Ishiba, the most popular among the public, advocates for comprehensive reforms. Takaichi, aiming to be Japan's first female PM, focuses on strengthening national security and economic measures.  Koizumi, riding on his father's legacy and generational change appeal, promises political and regulatory reforms. 
+
+Meanwhile, the CDPJ leadership race pits Yukio Edano and Yushihiko Noda against each other, as the party seeks to reinvigorate itself and form a strong opposition coalition. Komeito, preparing for a generational shift, is likely to see Secretary-General Keiichi Ishii succeed Natsuo Yamaguchi. 
+
+These leadership changes come amidst growing public demand for younger, dynamic leaders, especially after recent political scandals. Japan's political future hinges on the next generation of leaders addressing both internal and external challenges.
+
 Thu, 19 Sep 2024 17:38:01 +0530
 ### [Musk, Trump and the social media blitz: Decoding an unlikely friendship](https://www.firstpost.com/opinion/musk-trump-and-the-social-media-blitz-decoding-an-unlikely-friendship-13817107.html)
 

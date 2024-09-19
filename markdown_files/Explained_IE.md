@@ -1,3 +1,13 @@
+Thu, 19 Sep 2024 12:23:25 +0000
+### [One Nation, One Election: What the ECI must do to hold simultaneous Lok Sabha and Assembly polls across India](https://indianexpress.com/article/explained/one-nation-one-election-eci-9577078/)
+
+The Union Cabinet has accepted recommendations to hold simultaneous elections for the Lok Sabha and state Assemblies, along with potential future elections for urban and rural local bodies.  This would require 18 amendments to existing laws, including 15 to the Constitution. Implementing simultaneous elections would necessitate significant logistical changes, requiring a large-scale procurement of EVMs and VVPATs at an estimated cost of Rs. 8,000 crore. 
+
+ The Election Commission of India (ECI) has expressed logistical difficulties and its requirement for additional funds to hold simultaneous elections. 
+While the ECI has previously expressed support for the concept, it has highlighted the challenges posed by the need for substantial EVM and VVPAT procurement, increased security requirements, and the impact of simultaneously scheduling assembly and Lok Sabha elections, as well as local body elections.
+
+Scheduling considerations include security requirements, weather conditions, festivals, and resource allocation. The ECI's recent decision to separate Haryana and Maharashtra elections demonstrates these logistical complexities.
+
 Thu, 19 Sep 2024 11:30:49 +0000
 ### [Explained: The lawsuit against Amazon and MrBeast, the biggest YouTuber in the world](https://indianexpress.com/article/explained/explained-global/mrbeast-beast-games-amazon-lawsuit-9576921/)
 

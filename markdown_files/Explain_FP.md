@@ -1,3 +1,19 @@
+Thu, 19 Sep 2024 18:17:23 +0530
+### [Long work hours, high pressure: How EY Pune employee’s death has bared toxic culture at Big 4 firms](https://www.firstpost.com/explainers/ey-pune-employee-death-big-4-firms-toxic-work-culture-13817113.html)
+
+The death of a 26-year-old chartered accountant at Ernst & Young in Pune, allegedly due to work stress, has sparked outrage and raised concerns about the toxic work culture prevalent at Big 4 companies in India. The employee's mother alleged that the long working hours and pressure at EY led to her daughter's death. 
+
+Following the viral letter by the grieving mother, investigations have been launched by both the Labour Ministry and EY itself. The incident has triggered widespread discussions about the exploitative work environment at these firms, with many former employees sharing their own experiences of overwork, pressure, and lack of work-life balance.
+
+The tragedy shines a light on a broader issue of toxic work culture, not just within the Big 4, but within many multinational corporations in India, which often prioritise overwork and profit over employee well-being.  Similar concerns have been raised about the Big 4 companies globally, with instances of overwork and employee burnout reported in countries like Spain and Australia.
+
+Thu, 19 Sep 2024 17:58:55 +0530
+### [Is Kamala Harris 'friends' with rapper Sean 'Diddy' Combs, arrested for sex trafficking?](https://www.firstpost.com/explainers/is-kamala-harris-friends-with-rapper-sean-diddy-combs-arrested-for-sex-trafficking-13816971.html)
+
+Sean "Diddy" Combs, a prominent figure in the music industry, faces serious legal charges, including kidnapping, sex trafficking, and racketeering. Accusations of abuse and assault have been made by several women, including his former girlfriend Cassie Ventura.  Federal investigators raided his homes, uncovering evidence linked to the allegations. 
+
+Combs has denied all charges and pleaded not guilty. This has led to renewed attention on a 2020 tweet by Vice President Kamala Harris thanking Diddy for hosting a fundraiser for her presidential campaign.  Social media users, particularly MAGA supporters,  have seized on this tweet, questioning Harris's association with Combs amidst the ongoing legal proceedings. A doctored photo falsely depicting Harris with Diddy has also circulated online.
+
 Thu, 19 Sep 2024 17:00:46 +0530
 ### [Why author John Grisham is batting for a death row convict in US](https://www.firstpost.com/explainers/author-john-grisham-batting-death-row-convict-us-13817014.html)
 
