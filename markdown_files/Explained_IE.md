@@ -1,3 +1,34 @@
+Thu, 19 Sep 2024 02:00:36 +0000
+### [SC hears UP madrasa law case: all you need to know about these institutions](https://indianexpress.com/article/explained/sc-hears-up-madrasa-law-case-all-you-need-to-know-about-these-institutions-9575079/)
+
+The National Commission for Protection of Child Rights (NCPCR) argues that education in madrasas is not comprehensive and violates the Right to Education Act because textbooks emphasize Islamic supremacy. This claim was made in a Supreme Court case challenging an Allahabad High Court ruling that declared the Uttar Pradesh Board of Madarsa Education Act unconstitutional. The High Court had ordered the state government to integrate madrasa students into regular schools. 
+
+
+ While the UP government defends its right to permit religious education, the Supreme Court initially stayed the High Court's order.  Madrasas are Islamic educational institutions that emerged in the 10th century, offering both religious and secular learning. 
+
+
+
+In India, there are two types of madrasas: Darse Nizami, which are independent and not bound by state curriculum, and Darse Aliya, affiliated with state madrasa boards. 
+Most madrasa boards now follow the NCERT curriculum, with subjects like mathematics, science, and languages, alongside optional religious studies.  Madrasas receive funding primarily from state governments, with a central scheme also providing assistance.
+
+Thu, 19 Sep 2024 01:45:08 +0000
+### [Why India wants ‘review & modification’ of Indus Waters Treaty](https://indianexpress.com/article/explained/why-india-wants-review-modification-of-indus-waters-treaty-9575076/)
+
+India has formally requested Pakistan to review and modify the 64-year-old Indus Waters Treaty. This follows a previous notice demanding modification and highlights India's concerns about population changes, environmental issues, clean energy development, and cross-border terrorism.  
+
+The request comes amid a long-standing dispute over two hydel power projects in India, which Pakistan claims violate the treaty.  India maintains that these projects are compliant and has rejected Pakistan's proposal to submit the dispute to the Permanent Court of Arbitration, arguing it contravenes the treaty's dispute settlement mechanism. 
+
+ A parliamentary committee has recommended renegotiating the treaty to address contemporary challenges like climate change, further adding to the complexity of the situation.
+
+Thu, 19 Sep 2024 01:30:02 +0000
+### [As Cabinet gives nods to simultaneous elections, what next?](https://indianexpress.com/article/explained/explained-law/as-cabinet-gives-nods-to-simultaneous-elections-what-next-9574979/)
+
+The Union Cabinet has approved a proposal for simultaneous elections to the Lok Sabha, state Assemblies, and local bodies.  This move follows the recommendations of the Ram Nath Kovind Committee, which suggested constitutional amendments to facilitate this. 
+
+The government plans to implement this in two phases: first, aligning Lok Sabha and Assembly elections, and second, conducting local body elections within 100 days. Achieving this requires the passage of two Constitution Amendment Bills, necessitating consensus among parties.  
+
+The transition will involve a "single electoral roll" and the dissolution of state Assemblies before their full five-year term in some cases. Mid-term elections will be held in these situations, with the newly elected assemblies serving until the next simultaneous elections.
+
 Wed, 18 Sep 2024 13:24:07 +0000
 ### [Lebanon attacks: Why do people still use pagers?](https://indianexpress.com/article/explained/explained-sci-tech/lebanon-attacks-pagers-9574627/)
 

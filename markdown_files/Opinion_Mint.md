@@ -1,3 +1,12 @@
+Thu, 19 Sep 2024 07:00:13 +0530
+### [Mint Quick Edit | ISRO’s boosters: What’s good for science is good for business](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-chandrayaan-4-isro-venus-orbiter-mission-space-station-gaganyaan-private-participation-space-sector-11726677511678.html)
+
+India's cabinet approved a space exploration program for the Indian Space Research Organisation (ISRO) including projects like a space station for the Gaganyaan human spaceflight initiative, Chandrayaan-4 lunar mission, and a mission to explore Venus. 
+
+The space station will enable valuable scientific research, Chandrayaan-4 will aim to return lunar samples, and the Venus mission will study the planet's surface and atmosphere, potentially offering insights into Earth's future. 
+
+The program aims to involve various industries, fostering economic spin-offs and encouraging private participation in the space sector.
+
 Wed, 18 Sep 2024 16:00:15 +0530
 ### [It’s an age of leaderless movements but can they succeed in India?](https://www.livemint.com/opinion/online-views/kolkata-doctor-rape-case-protests-bangladesh-student-protests-leaderless-movements-arab-spring-social-change-dissent-11726601979093.html)
 

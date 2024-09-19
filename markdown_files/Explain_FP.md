@@ -1,3 +1,12 @@
+Thu, 19 Sep 2024 06:30:29 +0530
+### [FirstUp: PM Modi's rally in Srinagar, EU chief to visit Poland amid devastating floods... The big news today](https://www.firstpost.com/explainers/firstup-pm-modis-rally-in-srinagar-eu-chief-to-visit-poland-amid-devastating-floods-the-big-news-today-13816775.html)
+
+Today is a busy day with several major events happening around the world. 
+
+Prime Minister Modi will hold a rally in Srinagar, marking the first major BJP event in Kashmir since the assembly elections were announced. The event comes after the first phase of polling saw a 58.85% voter turnout. Meanwhile, European Commission President Ursula von der Leyen will meet with leaders from several flood-stricken European nations in Poland, following last week's devastating storm. Vice President Kamala Harris will participate in an 'Unite for America' livestream event hosted by Oprah Winfrey, aiming to encourage voter participation. 
+
+The Bank of England will announce its interest rate decision, while Palestinian President Mahmud Abbas will visit Spain, marking the first visit since Spain formally recognized the Palestinian state.   Finally, the first Test match between India and Bangladesh will begin in Chennai, with Rishabh Pant making his return to the Indian squad after a two-year absence.
+
 Wed, 18 Sep 2024 19:07:43 +0530
 ### [The Tupperware party is over: Why popular tiffin and bottle maker has gone bankrupt](https://www.firstpost.com/explainers/us-firm-tupperware-bankruptcy-filing-13816706.html)
 
