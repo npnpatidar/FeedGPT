@@ -1,3 +1,8 @@
+Thu, 19 Sep 2024 21:35:27 +0000
+### [Why One Nation, One Election must be challenged](https://indianexpress.com/article/opinion/columns/why-one-nation-one-election-must-be-challenged-9577733/)
+
+The Union cabinet has approved a proposal for "One Nation, One Election" as suggested by a committee headed by former President Ram Nath Kovind. This proposal suggests holding simultaneous elections for the Lok Sabha and state assemblies, followed by elections to panchayats and municipalities within 100 days.  This move has raised concerns regarding its constitutionality and the potential impact on free and fair elections. The proposal bypasses the Election Commission, which is a constitutional authority, and has been criticized for lacking representation and expertise. Critics argue that the scheme disregards the federal structure and states' rights, particularly by suggesting amendments to the Constitution concerning state legislative assembly terms without ratification.  The proposal is expected to face legal challenges and strong opposition in Parliament and from the public.
+
 Thu, 19 Sep 2024 20:00:36 +0000
 ### [The Third Edit: On Booker shortlist, women aplenty](https://indianexpress.com/article/opinion/editorials/the-third-edit-on-booker-shortlist-women-aplenty-9577696/)
 
