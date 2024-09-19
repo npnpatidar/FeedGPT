@@ -1,3 +1,13 @@
+Thu, 19 Sep 2024 08:30:17 +0530
+### [Here’s how authorities ought to deal with India’s market froth](https://www.livemint.com/opinion/online-views/ipo-oversubscription-equity-market-stock-market-sebi-retail-investors-mutual-funds-market-valuation-11726678349798.html)
+
+The Indian stock market is experiencing a frenzy, fueled by retail investors pouring money into IPOs and penny stocks. This activity mirrors previous market bubbles and has alarmed regulators like Sebi, who fear potential manipulation and a market crash. The surge is partly driven by a shortage of alternative investment options offering competitive returns. This scarcity is also evident in the banking sector, where deposit growth lags behind credit growth, forcing banks to rely on expensive liabilities. Retail investors hungry for returns are further channeling money into IPOs through mutual funds, reinforcing an artificial valuation boom. There are concerns of collusion between institutional investors and shady issuers, further inflating valuations for the benefit of promoters and to the detriment of unsuspecting retail investors. 
+
+ 
+
+
+Regulators are advised to focus on raising awareness about market fragility and investor caution rather than resorting to heavy-handed administrative controls. They should also strengthen penalties for market misconduct to deter future transgressions and protect retail investors from potential losses.
+
 Thu, 19 Sep 2024 07:00:13 +0530
 ### [Mint Quick Edit | ISRO’s boosters: What’s good for science is good for business](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-chandrayaan-4-isro-venus-orbiter-mission-space-station-gaganyaan-private-participation-space-sector-11726677511678.html)
 

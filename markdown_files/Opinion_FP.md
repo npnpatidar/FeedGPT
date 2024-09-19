@@ -1,3 +1,10 @@
+Thu, 19 Sep 2024 08:27:27 +0530
+### [India becoming the propaganda battleground between Americans and Russians](https://www.firstpost.com/opinion/india-becoming-the-propaganda-battleground-between-americans-and-russians-13816848.html)
+
+The author argues that India is becoming a target of propaganda warfare from both the US and Russia, leveraging social media to influence public opinion.  Historically, India has been a battleground for CIA and KGB influence, but the rise of social media has given foreign powers new tools to manipulate narratives. The author points to the Meta ban on Russian state media as an example of how social media companies can be used to control information.  
+
+He criticizes the lack of control India has over its social media landscape, highlighting the concentration of media ownership in the US and the potential for biased reporting.  The author believes that India needs to create its own "Great Indian Firewall" to protect itself from foreign propaganda and maintain its independent voice.  He warns that failing to do so will allow the West to control India's narrative and ultimately undermine its sovereignty.
+
 Wed, 18 Sep 2024 18:43:24 +0530
 ### [Zelensky’s Kursk operation can be a costly gambit as Putin targets eastern Ukraine](https://www.firstpost.com/opinion/zelenskys-kursk-operation-can-be-a-costly-gambit-as-putin-targets-eastern-ukraine-13816768.html)
 

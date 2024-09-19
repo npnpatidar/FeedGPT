@@ -1,3 +1,13 @@
+Thu, 19 Sep 2024 09:18:01 +0530
+### [Tupperware files for bankruptcy protection | Explained](https://www.thehindu.com/business/Industry/tupperware-files-for-bankruptcy-protection/article68655937.ece)
+
+Tupperware, a food storage and homeware maker, filed for Chapter 11 bankruptcy protection citing a challenging macroeconomic environment.  The company stated its financial position had been severely impacted by the pandemic and the subsequent war in Ukraine.  Tupperware's reliance on a direct-selling model through freelance agents has been a drawback as consumer behavior shifted towards online shopping. The company aims to emerge as a digital-first entity through a restructuring process. Tupperware plans to continue operating during these proceedings and explore a sale to secure its future and transition to a more modern business model.
+
+Thu, 19 Sep 2024 08:30:00 +0530
+### [On Adani’s proposal to lease Kenya’s Nairobi airport | Explained](https://www.thehindu.com/news/international/on-adanis-proposal-to-lease-kenyas-nairobi-airport-explained/article68657262.ece)
+
+Kenyans are protesting a proposed 30-year lease of Jomo Kenyatta International Airport (JKIA) to India's Adani Group. The deal, revealed by a whistleblower, sparked outrage as it involves handing over control of a "strategic national asset".  Adani Airport Holdings Ltd. proposed a $1.85 billion investment for refurbishment, expansion, and operational control. Concerns have been raised over potential job losses,  a 10-year tax break for Adani, and a clause prohibiting airport development within a 100km radius of JKIA.  While the Adanis claim a Private Initiated Proposal (PIP) is beneficial, experts recommended an open tender process as per Kenya's PPP Act.  Legal challenges have been filed, and a court order has suspended further action on the deal pending a judicial review.
+
 Wed, 18 Sep 2024 14:19:31 +0530
 ### [Pager attack on Hezbollah: A low-tech gadget blitz redraws the contours of the Israel-Iran conflict](https://www.thehindu.com/sci-tech/technology/pager-attack-on-hezbollah-a-low-tech-gadget-blitz-redraws-the-contours-of-the-israel-iran-conflict/article68655123.ece)
 
