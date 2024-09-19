@@ -1,3 +1,10 @@
+Thu, 19 Sep 2024 14:25:49 +0000
+### [Chandrababu Naidu alleges animal fat in Lord’s laddu — here’s what goes into preparing Tirupati’s famous prasadam](https://indianexpress.com/article/explained/explained-culture/animal-fat-tirupati-laddu-controversy-9577404/)
+
+Andhra Pradesh Chief Minister N Chandrababu Naidu alleged that animal fat was used in the preparation of Tirupati laddu prasadam during the previous YSRCP regime. He claimed that the TDP-led government had improved the quality of the laddu. The YSRCP refuted the allegation, calling it malicious and stating that top-quality ghee from Rajasthan and Gujarat cows was used. They challenged Naidu to provide evidence. 
+
+Another former TTD chairman, Bhumana Karunakar Reddy, supported the YSRCP, stating that officials involved in ghee procurement had worked under both regimes without any previous questions raised.
+
 Thu, 19 Sep 2024 12:23:25 +0000
 ### [One Nation, One Election: What the ECI must do to hold simultaneous Lok Sabha and Assembly polls across India](https://indianexpress.com/article/explained/one-nation-one-election-eci-9577078/)
 

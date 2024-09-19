@@ -1,3 +1,8 @@
+Thu, 19 Sep 2024 20:53:33 +0530
+### [Why rich Indians are lining up to buy property in Greece](https://www.firstpost.com/explainers/indian-investors-greece-property-golden-visa-programme-13817174.html)
+
+Greece has seen a surge in Indian property investors in recent months, driven by the country's Golden Visa programme. This programme offers residency permits to foreign investors who make significant property investments. Before recent changes, the minimum investment requirement was €250,000, making Greece an attractive option for investors.  However, due to rising property prices, Greece raised the minimum investment threshold to €800,000 for popular areas like Athens, Mykonos and Santorini, and €400,000 for other regions.  This change, implemented in September, prompted a rush of Indian buyers who sought to take advantage of the lower threshold before it was revised.
+
 Thu, 19 Sep 2024 18:17:23 +0530
 ### [Long work hours, high pressure: How EY Pune employee’s death has bared toxic culture at Big 4 firms](https://www.firstpost.com/explainers/ey-pune-employee-death-big-4-firms-toxic-work-culture-13817113.html)
 
