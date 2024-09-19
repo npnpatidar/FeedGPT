@@ -1,3 +1,13 @@
+Thu, 19 Sep 2024 06:18:30 +0000
+### [Pager attack in Lebanon: Can nations be allowed to cause violence and death using digital techniques?](https://indianexpress.com/article/opinion/columns/pager-attack-in-lebanon-violence-digital-techniques-9576343/)
+
+In September 2023, attacks targeting Hezbollah personnel led to fatalities and injuries across Lebanon. Thousands of detonated pagers, followed by explosions in handheld radios, cellphones, and laptops, were attributed to Israeli agencies. This incident raises concerns about supply chain compromises and the growing threat of physical attacks enabled by cyber technology.  
+
+The use of explosives in devices compromised through remote triggers highlights the convergence of physical and cyber warfare.  This attack could signal a dangerous escalation in cyber warfare tactics, blurring the line between digital and physical realms and posing a significant risk to critical infrastructure and global security.  
+
+
+The incident emphasizes the ongoing need for international cooperation to define cyber warfare norms and establish legal frameworks to prevent such attacks. As technology advances, nations must work together to ensure that digital advancements are not exploited for violence and destruction.
+
 Thu, 19 Sep 2024 01:52:54 +0000
 ### [Express View: Two years of cheetahs in Kuno](https://indianexpress.com/article/opinion/editorials/express-view-two-years-of-cheetahs-in-kuno-9575122/)
 

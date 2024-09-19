@@ -1,3 +1,30 @@
+Thu, 19 Sep 2024 13:32:18 +0530
+### [What is the Centre's new programme that lets you clear immigration faster?](https://www.firstpost.com/explainers/what-is-the-centres-new-programme-that-lets-you-clear-immigration-faster-13816899.html)
+
+The Fast Track Immigration Trusted Traveller Programme (FTI-TTP), launched by the Ministry of Home Affairs, aims to streamline immigration for Indian nationals and OCI cardholders.  
+
+The program utilizes e-gates with biometric authentication, allowing registered travelers to bypass regular immigration lines and expedite clearance during both arrival and departure. Launched at Delhi Airport in 2022, it has expanded to other major airports and is expected to cover 21 airports nationwide.  
+
+Indian citizens and OCI cardholders can register online through a dedicated portal, after which they will undergo biometric verification. The program is currently free during its initial phase, and registration remains valid for up to five years or until passport expiry.
+
+Thu, 19 Sep 2024 13:03:05 +0530
+### [Can smartphones be turned into bombs like pagers and walkie-talkies in Lebanon?](https://www.firstpost.com/explainers/can-smartphones-be-turned-into-bombs-like-pagers-and-walkie-talkies-in-lebanon-13816912.html)
+
+Explosions of pagers and walkie-talkies used by Hezbollah in Lebanon, killing dozens and injuring thousands, have raised concerns about the vulnerability of lithium-ion batteries in other devices, such as smartphones.  While experts say it's technically possible to weaponize smartphones, it's significantly more difficult than pagers due to their sophisticated security features.  Smartphones have safety mechanisms like cooling systems and software shutdowns that prevent overheating and explosions.  
+
+Historically, Israel has used everyday items as weapons, but the complexity of modern smartphones makes them a less likely target for such attacks.  Experts emphasize the unlikelihood of a mass smartphone explosion but acknowledge the evolving threat of cyber-warfare and the potential for exploiting vulnerabilities in connected devices.  
+
+Despite the fears, smartphones remain relatively secure from this type of attack. Basic safety practices, such as using official chargers and avoiding extreme temperatures, are recommended.
+
+Thu, 19 Sep 2024 12:37:38 +0530
+### [Taiwan, Hungary, Japan… Where did Hezbollah’s exploding pagers, walkie-talkies come from?](https://www.firstpost.com/explainers/taiwan-hungary-japan-hezbollah-exploding-pagers-walkie-talkies-13816929.html)
+
+In Lebanon, a series of explosions targeting pagers and walkie-talkies, attributed to Hezbollah, have caused significant casualties. While no group has claimed responsibility, Israel is suspected. Investigations are ongoing to determine how the devices were tampered with and Israel's motives. 
+
+The exploding pagers were traced to Gold Apollo, a Taiwanese company, which initially claimed responsibility but later distanced themselves, stating they had licensed their brand to a European agent. The agent, BAC Consulting from Hungary, denied involvement and the Hungarian government has sought to minimize its connection to the incident.
+
+However,  the New York Times reports that BAC Consulting is believed to be a front for Israel. Investigations are also underway regarding the exploding walkie-talkies, attributed to Icom, a Japanese brand. Icom maintains the devices were likely counterfeits as they no longer produce that model and authentic ones bear a hologram sticker absent from the exploded devices.
+
 Thu, 19 Sep 2024 11:33:17 +0530
 ### [US Fed slashes rates by 50 bps: What does it mean for America and the global economy?](https://www.firstpost.com/explainers/us-fed-slashes-rates-by-50-bps-what-does-it-mean-for-america-and-the-global-economy-13816888.html)
 
