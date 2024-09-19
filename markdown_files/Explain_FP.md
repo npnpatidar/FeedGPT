@@ -1,3 +1,27 @@
+Thu, 19 Sep 2024 11:33:17 +0530
+### [US Fed slashes rates by 50 bps: What does it mean for America and the global economy?](https://www.firstpost.com/explainers/us-fed-slashes-rates-by-50-bps-what-does-it-mean-for-america-and-the-global-economy-13816888.html)
+
+The US Federal Reserve reduced its benchmark interest rate by 50 basis points to a range of 4.75% to 5.00%. This move, driven by easing inflation and a desire to support economic growth, marks a shift in the Federal Reserve's strategy. 
+
+Inflation has cooled to 2.5%, and while unemployment has risen slightly, it remains relatively strong. The rate cut was met with a weaker US dollar, rising gold prices, and gains in stock markets. 
+
+Global markets are watching closely for further impacts, including potential rate adjustments in countries tied to the US dollar.  The Federal Reserve signaled a potential future course of rate reductions, depending on economic data in the coming months.
+
+Thu, 19 Sep 2024 11:33:08 +0530
+### [Why EY is under spotlight after death of ‘overworked’ 26-year-old Pune employee](https://www.firstpost.com/explainers/ey-india-pune-employee-death-due-to-overwork-13816891.html)
+
+A 26-year-old employee at Ernst & Young (EY) in Pune, India, passed away due to work stress, according to her mother's letter to the company chairperson. Anna Sebastian Perayil had worked at EY for four months before her death. Her mother claims that Anna was given an overwhelming workload and faced pressure to work long hours, even on weekends.
+
+She alleged that managers dismissed Anna's concerns and encouraged a culture of overwork.  Anna's mother expressed her grief over her daughter's death and called for a change in EY's workplace culture to prioritize employee well-being. She highlighted the lack of support Anna received,  especially as a new employee, and the absence of colleagues at her funeral, which added to the family's pain. 
+
+
+EY responded with a statement expressing condolences and emphasizing the importance of employee well-being. They stated they would take the family's concerns seriously and continue to strive for a healthy workplace.
+
+Thu, 19 Sep 2024 10:12:17 +0530
+### [After pagers, walkie-talkies: What could be Israel's motive behind these attacks?](https://www.firstpost.com/explainers/pagers-walkie-talkies-explosions-israel-motive-hezbollah-war-13816872.html)
+
+Two separate explosions targeting Hezbollah's communications devices, pagers and walkie-talkies, killed dozens and injured hundreds in Lebanon. Israel is suspected of being behind the attacks, though it hasn't claimed responsibility. Several theories exist regarding Israel's motives. Some suggest the attacks were preemptive, designed to stop Hezbollah from discovering the explosives placed in their devices. Others believe the explosions were intended to boost Israeli domestic morale or send a message to Hezbollah about Israel's capabilities and willingness to escalate the conflict. The timing of the attacks, coinciding with the nearing anniversary of the Israel-Hamas war, adds another layer to the speculation. The incidents raise concerns about a further escalation of the conflict.
+
 Thu, 19 Sep 2024 06:30:29 +0530
 ### [FirstUp: PM Modi's rally in Srinagar, EU chief to visit Poland amid devastating floods... The big news today](https://www.firstpost.com/explainers/firstup-pm-modis-rally-in-srinagar-eu-chief-to-visit-poland-amid-devastating-floods-the-big-news-today-13816775.html)
 

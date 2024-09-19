@@ -1,3 +1,17 @@
+Thu, 19 Sep 2024 06:06:50 +0000
+### [Why Earth will temporarily get a ‘mini-moon’ in September](https://indianexpress.com/article/explained/everyday-explainers/earth-mini-moon-meaning-9576200/)
+
+In late September, the Earth will temporarily capture a small asteroid named 2024 PT5. 
+
+This phenomenon, known as a mini-moon, occurs when an asteroid's orbit brings it close enough to Earth for its gravity to take hold. 2024 PT5, discovered by the Asteroid Terrestrial-impact Last Alert System (ATLAS), is estimated to be 33 feet long. 
+
+While it won't complete a full orbit around Earth, its trajectory will bring it close enough to be studied by astronomers.  Observations of 2024 PT5 will contribute to our understanding of asteroids that approach and potentially collide with Earth.
+
+Thu, 19 Sep 2024 05:28:13 +0000
+### [As ‘Sector 36’ streams on Netflix, here is the true story of the Nithari killings](https://indianexpress.com/article/explained/sector-36-netflix-true-story-nithari-killings-9576090/)
+
+The Nithari serial killings, which took place in a village near Noida, India, between 2003 and 2006, involved the brutal murders of numerous women and children. Moninder Singh Pandher and his domestic worker, Surinder Koli, were implicated in the crimes. Despite initial police inaction, the case gained national attention when skeletal remains were discovered on Pandher's property. The Central Bureau of Investigation (CBI) took over the investigation, leading to Koli's confession and the indictment of both men.  While Pandher was acquitted and released in 2023, Koli remains imprisoned after a series of legal battles and appeals. The case highlighted the failings of the police and brought to light the horrific nature of the crimes.
+
 Thu, 19 Sep 2024 02:00:36 +0000
 ### [SC hears UP madrasa law case: all you need to know about these institutions](https://indianexpress.com/article/explained/sc-hears-up-madrasa-law-case-all-you-need-to-know-about-these-institutions-9575079/)
 

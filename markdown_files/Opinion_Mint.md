@@ -1,3 +1,10 @@
+Thu, 19 Sep 2024 10:30:02 +0530
+### [Nano businesses in India need special policy attention to flourish](https://www.livemint.com/opinion/online-views/nano-businesses-msmes-entrepreneurship-gst-employment-formal-credit-lending-policy-support-11726679009443.html)
+
+A significant portion of Indian MSMEs are "nano businesses," characterized by small operations typically run from homes, low access to credit, and informal structures.  While they employ a substantial number of people (estimated at 110 million) and contribute to the economy, they lack proper financial records and face challenges accessing formal loans. Policymakers struggle to adequately understand their unique needs due to limited data. 
+
+There is potential for nano businesses to drive inclusive growth and innovation, but they require targeted support in areas like financial inclusion, skill development, technology adoption, and regulatory simplification.  Creating a separate policy framework and possibly even a dedicated ministry for nano businesses could be crucial for unlocking their full potential.
+
 Thu, 19 Sep 2024 08:30:17 +0530
 ### [Here’s how authorities ought to deal with India’s market froth](https://www.livemint.com/opinion/online-views/ipo-oversubscription-equity-market-stock-market-sebi-retail-investors-mutual-funds-market-valuation-11726678349798.html)
 
