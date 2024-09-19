@@ -1,3 +1,20 @@
+Thu, 19 Sep 2024 17:38:01 +0530
+### [Musk, Trump and the social media blitz: Decoding an unlikely friendship](https://www.firstpost.com/opinion/musk-trump-and-the-social-media-blitz-decoding-an-unlikely-friendship-13817107.html)
+
+Elon Musk is providing ardent support for Donald Trump's presidential campaign on his platform X. Musk's actions, including defending Trump against criticism and engaging in provocative social media exchanges, have attracted significant attention.  Their relationship has evolved from initial disapproval to a close alliance, with Musk even suggesting a potential political role for himself should Trump win. This unexpected partnership highlights their shared business acumen, impulsive personalities, and reliance on social media.  Despite their differing views on issues like climate change and renewable energy, Musk's financial ties to government initiatives and his discontent with California's pandemic policies appear to have contributed to his alignment with Trump.
+
+Thu, 19 Sep 2024 17:20:12 +0530
+### [Quad summit in America will bolster security and cooperation in Indo-Pacific](https://www.firstpost.com/opinion/quad-summit-in-america-will-bolster-security-and-cooperation-in-indo-pacific-13817085.html)
+
+The upcoming Quad Summit in Delaware signifies a significant step forward for this initiative, proving the commitment of its members – the United States, India, Japan, and Australia – to peace and security in the Indo-Pacific region.  
+
+Since its revival in 2017, the Quad has made substantial progress, culminating in four in-person summits.  While China is not explicitly named, the Quad's actions and statements directly address China's assertive actions in the region, particularly in the South China Sea. The Quad's focus extends beyond maritime issues, encompassing cybersecurity, critical technologies, climate change, counterterrorism, and infrastructure development. 
+
+
+The Quad aims to counter China's influence through concrete cooperation, including expanding its maritime domain awareness program.  A notable development is the inclusion of references to the Permanent Court of Arbitration's 2016 ruling against China's claims in the South China Sea and calls for action against terrorist groups like LeT and JeM, demonstrating a growing boldness in challenging China and Pakistan.  
+
+The Quad strives to garner broader regional support, especially from ASEAN countries facing China's pressure.  Focusing on tangible benefits in areas like health and infrastructure will be crucial for strengthening ties and countering China's debt-trap diplomacy. As the Indo-Pacific navigates geopolitical complexities, the Quad plays a vital role in promoting stability and prosperity.
+
 Thu, 19 Sep 2024 08:27:27 +0530
 ### [India becoming the propaganda battleground between Americans and Russians](https://www.firstpost.com/opinion/india-becoming-the-propaganda-battleground-between-americans-and-russians-13816848.html)
 

@@ -1,3 +1,24 @@
+Thu, 19 Sep 2024 17:00:46 +0530
+### [Why author John Grisham is batting for a death row convict in US](https://www.firstpost.com/explainers/author-john-grisham-batting-death-row-convict-us-13817014.html)
+
+Robert Roberson, a 57-year-old man diagnosed with autism, is scheduled to be executed in Texas on October 17th for the death of his two-year-old daughter Nikki in 2002. The conviction was based on the now-discredited medical theory of shaken baby syndrome, which has been linked to numerous wrongful convictions.  Roberson's legal team argues there was no crime as Nikki's death was likely caused by undiagnosed pneumonia, medications, and a high fever, not shaking.
+
+The clemency petition highlights key lapses in the investigation, including the failure to review Nikki's medical history and the misinterpretation of Roberson's autistic traits as signs of guilt.  
+
+John Grisham, a renowned novelist and advocate for justice, has joined a growing chorus of prominent figures, including politicians, scientists, medical professionals, and autism advocacy groups, calling for Roberson's release. Grisham compares the case to that of Cameron Todd Willingham, who was executed in 2004 based on faulty forensic evidence.
+
+Thu, 19 Sep 2024 16:32:39 +0530
+### [How India inspired Prabowo Subianto's free meal plan for schoolchildren in Indonesia](https://www.firstpost.com/explainers/how-india-inspired-prabowo-subianto-free-meal-plan-for-school-children-in-indonesia-13817031.html)
+
+Indonesia is launching a free meal program for 82.9 million schoolchildren, inspired by India's mid-day meal scheme. The initiative, budgeted at 71 trillion rupiah (US$4.4 billion), aims to combat malnutrition but faces funding and nutritional challenges.  While the government initially allocated 15,000 rupiah (US$0.93) per child per meal, there are concerns about the potential for budget cuts.  An Indonesian delegation visited India to study its successful program, learning about logistics, nutritional quality, and the role of local governments.  The program considers incorporating "fish milk" as a dairy alternative, but its potential health effects and taste are debated.  The government aims to leverage community kitchens and village enterprises for ingredient sourcing to ensure both nutrition and cost-effectiveness. The program's success will depend on its ability to navigate these challenges and provide nutritious meals within budget constraints.
+
+Thu, 19 Sep 2024 15:49:10 +0530
+### [In Graphics | What is Hezbollah? And why is it Israel’s enemy?](https://www.firstpost.com/explainers/in-graphics-what-is-hezbollah-and-why-is-it-israels-enemy-13816976.html)
+
+Lebanon has experienced two days of attacks involving exploding pagers and walkie-talkies, which primarily targeted Hezbollah fighters.  At least 32 people were killed and thousands injured.  Hezbollah accuses Israel of responsibility for these attacks, calling it a "biggest security breach."
+
+The incidents have heightened fears of an escalation between Hezbollah and Israel, a long-standing conflict that intensified following the Hamas attack on Israel in early October. Hezbollah, part of the Iran-backed Axis of Resistance, has vowed retaliation.  The United States has urged de-escalation, and the UN Security Council is set to discuss the explosions.
+
 Thu, 19 Sep 2024 15:05:00 +0530
 ### [After Sun, Isro eyes Venus mission. But why does India want to study the planet?](https://www.firstpost.com/explainers/isro-venus-mission-india-study-planet-earth-space-13816975.html)
 

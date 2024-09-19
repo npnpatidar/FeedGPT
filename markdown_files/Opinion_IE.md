@@ -1,3 +1,10 @@
+Thu, 19 Sep 2024 12:16:30 +0000
+### [In death of young woman in Pune, a wake-up call for India Inc](https://indianexpress.com/article/opinion/columns/death-young-woman-pune-wake-up-call-india-inc-9577072/)
+
+The article discusses the negative impact of corporate culture in India, drawing parallels with its American counterpart.  It highlights the prevalence of long working hours, fueled by a  "boss culture" and societal acceptance of "putting company first."  The author cites statistics from the International Labour Organisation  showing a significant percentage of Indian employees work over 48 hours a week. 
+
+The article further discusses "quiet quitting" as a coping mechanism among Gen Z workers facing unreasonable pressure. It argues that this unsustainable work culture, which prioritizes endless work over employee well-being, ultimately harms economic growth and the  "demographic dividend." Citing examples from South Korea and Europe, the author advocates for institutional reforms, such as a 40-hour work week and the "right to disconnect," to ensure a healthier and more fulfilling work-life balance for Indian employees.
+
 Thu, 19 Sep 2024 09:44:00 +0000
 ### [Delhi, Bengaluru, Chennai and beyond — what Indian cities can do to cope with floods](https://indianexpress.com/article/opinion/columns/delhi-bengaluru-chennai-indian-cities-cope-with-floods-9576678/)
 

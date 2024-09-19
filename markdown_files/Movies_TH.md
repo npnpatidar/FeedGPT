@@ -1,3 +1,10 @@
+Thu, 19 Sep 2024 17:34:35 +0530
+### [‘Agatha All Along’ series premiere review: Kathryn Hahn’s campy resurgence is burdened by Marvel’s waning spell](https://www.thehindu.com/entertainment/movies/agatha-all-along-series-premiere-review-kathryn-hahns-campy-resurgence-is-burdened-by-marvels-waning-spell/article68659795.ece)
+
+"Agatha All Along," following Kathryn Hahn's popular portrayal of Agatha Harkness in "WandaVision," falls short of expectations.  The series, initially attempting a clever homage to "Mare of Easttown", quickly abandons this concept and stumbles into a series of tired witch tropes and corny one-liners.  
+
+While Hahn remains a charismatic presence, even her performance can't salvage the underwhelming writing. Agatha's motivations lack depth, the antagonist is unconvincing, and the stakes feel disconnected from the larger MCU.  Visually, the show is bland, failing to capture the essence of its campy inspiration. Despite a few bright spots, like a  memorable score and the intriguing presence of Joe Locke and Aubrey Plaza, "Agatha All Along" feels like a missed opportunity, contributing to the perception that Marvel's storytelling is losing its spark.
+
 Sat, 14 Sep 2024 15:42:16 +0530
 ### [‘Emily in Paris’ Season 4 (Part 2) series review: Mamma Mia! Is it going to be Roma for Emily?](https://www.thehindu.com/entertainment/movies/emily-in-paris-season-4-part-2-series-review-mamma-mia-is-it-going-to-be-roma-for-emily/article68641842.ece)
 

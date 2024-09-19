@@ -1,3 +1,8 @@
+Thu, 19 Sep 2024 11:30:49 +0000
+### [Explained: The lawsuit against Amazon and MrBeast, the biggest YouTuber in the world](https://indianexpress.com/article/explained/explained-global/mrbeast-beast-games-amazon-lawsuit-9576921/)
+
+A class action lawsuit has been filed against MrBeast and Amazon concerning their reality show "Beast Games." Five unnamed contestants allege exploitation, unsafe work conditions, sexual harassment, and unpaid labor. They claim they were misrepresented as contractors despite performing employee-like duties, were denied basic needs, and subjected to dangerous tasks.  The lawsuit also alleges a hostile work environment, with the show's handbook encouraging "childish" behavior that led to sexual harassment.  Contestants were reportedly expected to be available at all hours, with exorbitant expectations and a lack of support.
+
 Thu, 19 Sep 2024 06:06:50 +0000
 ### [Why Earth will temporarily get a ‘mini-moon’ in September](https://indianexpress.com/article/explained/everyday-explainers/earth-mini-moon-meaning-9576200/)
 
