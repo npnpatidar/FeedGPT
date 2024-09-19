@@ -1,3 +1,59 @@
+Thu, 19 Sep 2024 20:00:36 +0000
+### [The Third Edit: On Booker shortlist, women aplenty](https://indianexpress.com/article/opinion/editorials/the-third-edit-on-booker-shortlist-women-aplenty-9577696/)
+
+The 2024 Booker Prize shortlist features a historic five women authors, a stark contrast to the past where  gender inequality in literary awards was prevalent. Despite progress, literary awards like the Nobel and Booker Prize have historically favored male authors.  
+
+This discrepancy stems from societal biases that perceive female literature as less impactful or with a narrower scope compared to male writing.  Women's works are often categorized into niche genres, diminishing their recognition as equally valuable literary expressions.
+
+Thu, 19 Sep 2024 19:50:31 +0000
+### [Audacity, ambition and unity at the Paris 2024 Games](https://indianexpress.com/article/opinion/columns/audacity-ambition-and-unity-at-the-paris-2024-games-9577734/)
+
+The Paris 2024 Olympic and Paralympic Games were a historic event, celebrated for their inclusivity, diversity, and sustainability. They saw remarkable achievements from athletes and para-athletes from around the world, including India's first-ever gold medal in para archery. 
+
+The Games achieved gender parity, witnessed global participation with billions tuning in, and set new records for ticket sales.  Beyond athletic excellence, Paris 2024 made a significant contribution to society by promoting inclusivity for people with disabilities through accessible infrastructure and the creation of 'inclusive clubs'. 
+
+The Games also highlighted the unifying power of sport and its role in strengthening health and preventing illness. The legacy of Paris 2024 extends to its commitment to sustainability, with initiatives like the cleaning of the Seine River and the transformation of Olympic facilities into public green spaces.
+
+Thu, 19 Sep 2024 19:40:23 +0000
+### [Express View: The Fed’s pivot](https://indianexpress.com/article/opinion/editorials/express-view-the-feds-pivot-9577693/)
+
+The US Federal Reserve lowered interest rates by 50 basis points, marking the beginning of a rate cut cycle. This move reflects the Fed's confidence that inflation is heading towards its target and a focus on supporting employment, given a rising unemployment rate. The Fed projects further rate cuts in 2024 and 2025. 
+
+This action is expected to influence other central banks, including the RBI in India. The RBI's next monetary policy meeting will likely consider domestic and global economic factors, along with new members' perspectives, to determine its next steps.
+
+Thu, 19 Sep 2024 19:30:27 +0000
+### [New criminal codes, same old challenges of the justice system](https://indianexpress.com/article/opinion/columns/new-criminal-codes-same-old-challenges-of-the-justice-system-9577694/)
+
+The newly enacted Indian criminal laws, the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and the Bharatiya Sakshya Adhiniyam (BSA), aim to expedite trials and enhance public access to justice. However, there are concerns about the system's capacity to meet the stringent timelines, given the existing backlog of cases and understaffing in the judiciary. 
+
+The BNSS extends the provision for bail to first-time offenders, but concerns remain about the implementation of this right in practice. The new laws mandate videography for victim statements in sexual violence cases and search and seizures, but the lack of sufficient resources for forensic investigations raises questions about their effectiveness.  
+
+Implementation of these complex reforms necessitates substantial infrastructure upgrades, training for stakeholders, and addressing the existing shortage of judges and forensic personnel. Without prioritizing these crucial aspects, the potential benefits of the new laws may not be realized.
+
+Thu, 19 Sep 2024 19:25:24 +0000
+### [One Nation, One Election promises a more efficient democracy](https://indianexpress.com/article/opinion/columns/one-nation-one-election-promises-a-more-efficient-democracy-9577731/)
+
+India has witnessed a long democratic journey marked by both triumphs and challenges. While the country has made remarkable strides in strengthening its electoral processes, the frequency of elections poses significant drawbacks.
+
+Simultaneous elections, as recommended by the committee headed by former President Ram Nath Kovind, hold immense potential to address these issues. Holding elections for both Lok Sabha and state assemblies concurrently would reduce the burden on administrative resources, limit disruptions to development work, and enhance political stability. The proposal involves constitutional amendments to ensure consistent election schedules and has garnered support from a majority of political parties. Implementable from 2029, one nation, one election, aims to create a more effective, vibrant, and participative democracy, allowing citizens to directly influence their governance.
+
+Thu, 19 Sep 2024 19:15:32 +0000
+### [Express View on Indus Water Treaty: Tread cautiously](https://indianexpress.com/article/opinion/editorials/express-view-on-indus-water-treaty-tread-cautiously-9577695/)
+
+India has issued a notice to Pakistan demanding a review and modification of the Indus Waters Treaty (IWT).  The dispute centers around India's construction of hydroelectric projects on the Jhelum and Chenab rivers, which Pakistan argues violate the treaty. Despite a ruling by the Permanent Court of Arbitration in favor of India on one project, Pakistan has refused to engage in mediation. India emphasizes its need to develop clean energy as part of its climate action plans, citing the Ratle hydroelectric project as an example. While India maintains its right to utilize the rivers for non-consumptive purposes, the situation highlights the need for cooperation between the two countries to ensure the treaty's longevity in light of evolving circumstances.
+
+Thu, 19 Sep 2024 19:00:55 +0000
+### [Devdutt Pattanaik writes: Religion and the illusion of equality](https://indianexpress.com/article/opinion/columns/devdutt-pattanaik-writes-religion-and-the-illusion-of-equality-9577692/)
+
+The concept of equality, often attributed to Abrahamic religions, has significantly shaped modern thought and driven social progress. However, the article explores how the pursuit of equality is increasingly challenged, even in seemingly egalitarian systems. 
+
+It examines various societal structures, including religious practices, social gatherings, and economic systems, where inequality persists despite the ideal of equality. The author argues that human nature is inherently competitive, leading to a desire for status and preference, which manifests in various forms of social stratification.   The article concludes by highlighting the tension between the aspiration for equality and the reality of human behavior, questioning the true meaning and applicability of equality in contemporary society.
+
+Thu, 19 Sep 2024 18:31:54 +0000
+### [September 20, 1984, Forty Years Ago: Congress MP Expelled](https://indianexpress.com/article/opinion/40-years-ago/september-20-1984-forty-years-ago-congress-mp-expelled-9577698/)
+
+F M Khan, an MP, was expelled from the Congress for protesting against the handling of loyalists. This move is seen as an attempt to stifle a potential uprising from followers of Sanjay Gandhi, who have been sidelined since Rajiv Gandhi took over.  The UN Development Programme in India faces criticism for granting refugee status to three Afghan airline officials who defected.  The Akali Dal plans a march on October 1st to reclaim control of the Golden Temple complex, refusing to accept any government conditions. The Delhi Pradesh Youth Congress is grappling with a leadership crisis, with a convention called to oust the current president.
+
 Thu, 19 Sep 2024 12:16:30 +0000
 ### [In death of young woman in Pune, a wake-up call for India Inc](https://indianexpress.com/article/opinion/columns/death-young-woman-pune-wake-up-call-india-inc-9577072/)
 

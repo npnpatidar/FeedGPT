@@ -1,3 +1,13 @@
+Fri, 20 Sep 2024 00:20:00 +0530
+### [Milestones and U-turns: On the government in its third term](https://www.thehindu.com/opinion/editorial/milestones-and-u-turns-on-the-government-in-its-third-term/article68660309.ece)
+
+The Modi government and BJP are emphasizing continuity in their third term, highlighting achievements and portraying stability despite a coalition government.  Examples include pushing for simultaneous elections, a Uniform Civil Code, and Hindi expansion.  The government has demonstrated flexibility on certain policies, like the Waqf Act amendments and pension schemes,  after facing resistance from allies and the opposition. This shift towards compromise reflects a changing political landscape, where the BJP itself is becoming less of an ideological monolith and more of a coalition.
+
+Fri, 20 Sep 2024 00:10:00 +0530
+### [Wrong notion: On simultaneous elections](https://www.thehindu.com/opinion/editorial/wrong-notion-on-simultaneous-elections/article68660656.ece)
+
+The Indian government has decided to pursue simultaneous elections for the Lok Sabha and State Assemblies, based on the recommendations of a committee headed by former President Ram Nath Kovind. The government argues that this will save costs and reduce the prolonged campaign mode impacting governance. However, critics argue that there is no empirical data to support the cost-saving claim, and simultaneous elections could actually extend the election process. Additionally, they raise concerns about the infringement on federalism, as the tenure of elected assemblies might be cut short and the significance of local elections diminished.
+
 Thu, 19 Sep 2024 00:20:00 +0530
 ### [Party on the move: On the Aam Aadmi Party, its leader](https://www.thehindu.com/opinion/editorial/party-on-the-move-on-the-aam-aadmi-party-its-leader/article68656096.ece)
 
