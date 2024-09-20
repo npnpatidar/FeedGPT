@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 17:30:47 +0530
+### [Can India counter Pakistan's proxy play with Baloch card?](https://www.firstpost.com/opinion/can-india-counter-pakistans-proxy-play-with-baloch-card-13817460.html)
+
+This article argues that Pakistan's strategy of promoting separatism and terrorism in India has failed. 
+
+The author cites the example of Kashmir, where the revocation of Article 370 has led to improved security and prosperity for Kashmiri people. The article also criticizes Pakistan's support for the Khalistan movement, which aims to create an independent Sikh state in Punjab.
+
+The author contends that Pakistan is a deeply divided country with no real sense of national unity, and that its government uses terrorism as a distraction from its internal problems. They suggest that India should respond to Pakistan's aggression by exposing its dubious legitimacy and highlighting the potential consequences for Pakistan's own existence.
+
 Fri, 20 Sep 2024 15:09:55 +0530
 ### [How Bangladeshi Frankenstein may hurt its American, Chinese masters](https://www.firstpost.com/opinion/how-bangladeshi-frankenstein-may-hurt-its-american-chinese-masters-13817374.html)
 

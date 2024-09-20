@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 12:22:21 +0000
+### [One Nation One Election: Empowering the marginalised voter](https://indianexpress.com/article/opinion/columns/one-nation-one-election-empowering-marginalised-voter-9579120/)
+
+The One Nation, One Election (ONOE) proposal aims to synchronize elections in India, potentially increasing political participation, particularly among marginalized groups.  
+
+Frequent elections, with their associated campaigns and expenses, can lead to voter fatigue and a focus on short-term gains rather than long-term development. ONOE aims to address this by creating a more streamlined electoral process, potentially revitalizing the democratic process and aligning local and national development goals.  
+
+However, the success of ONOE depends on structural changes to ensure a fair and accessible electoral process, especially for migrant workers. Initiatives like multi-location voting, postal ballots, and Election Special Trains can ensure their participation without disrupting their work. Successful implementation of ONOE has the potential to strengthen civic engagement, foster a sense of belonging, and deepen democratic values in India.
+
 Fri, 20 Sep 2024 08:52:40 +0000
 ### [From Kerala film industry sexual harassment to P Diddy arrest: The perils and heartbreaks of seeing childhood heroes fall](https://indianexpress.com/article/opinion/columns/kerala-film-industry-sexual-harassment-diddy-arrest-9578681/)
 

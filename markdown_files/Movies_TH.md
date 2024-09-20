@@ -1,3 +1,24 @@
+Fri, 20 Sep 2024 17:22:05 +0530
+### [‘Kadha Innuvare’ movie review: An uninspiring romantic tale lacking any emotional connect](https://www.thehindu.com/entertainment/movies/kadha-innuvare-movie-review-an-uninspiring-romantic-tale-lacking-any-emotional-connect/article68663863.ece)
+
+"Kadha Innuvare", a Malayalam film directed by Vishnu Mohan, centers around four interwoven love stories. While the film initially attempts to portray these relationships in a hyperlink style, the writing and characterization fall short. The narratives lack depth and agency, with weak plotlines and stereotypical portrayals.  
+
+A contrived twist at the climax attempts to salvage the film, but ultimately fails to create a satisfying emotional impact. The forced injection of religious themes further detracts from the film's overall quality.  "Kadha Innuvare" disappoints with its lack of originality and emotional resonance.
+
+Fri, 20 Sep 2024 16:53:42 +0530
+### [‘Transformers One’ movie review: Rip-roaring Shakespearean genesis story sparks new life in beloved franchise](https://www.thehindu.com/entertainment/movies/transformers-one-movie-review-rip-roaring-shakespearean-genesis-story-sparks-new-life-in-beloved-franchise/article68663778.ece)
+
+"Transformers One" is a return to the origin story of the Autobots and Decepticons, charting their relationship from humble beginnings to leading rival factions. 
+
+The film explores the themes of betrayal, class struggle, and the tragedy of friendship on Cybertron, a world divided by social hierarchy and dwindling resources. 
+
+Chris Hemsworth and Brian Tyree Henry portray Orion Pax (Optimus Prime) and D-16 (Megatron) respectively, bringing depth and emotional weight to their complex bond.  Director Josh Cooley balances action sequences with introspective moments, resulting in a visually stunning film that honors the franchise's history while offering a fresh perspective on the iconic characters.
+
+Fri, 20 Sep 2024 16:52:11 +0530
+### [‘Yudhra’ movie review: Siddhant Chaturvedi struggles to rev up a ragged actioner](https://www.thehindu.com/entertainment/movies/yudhra-movie-review-siddhant-chaturvedi-struggles-to-rev-up-a-ragged-actioner/article68663757.ece)
+
+"Yudhra" is a Bollywood action film that follows Yudhra, a man born into violence who is trained to become a soldier. The film revolves around Yudhra infiltrating a drug cartel and seeking revenge. While Siddhant Chaturvedi delivers a convincing performance, the film falls short of delivering a satisfying action experience. The plot is predictable, the romance lacks depth, and the action sequences, though well-executed, lack originality.  The film relies on familiar tropes and dated dialogue, ultimately failing to leave a lasting impact.
+
 Fri, 20 Sep 2024 12:39:09 +0530
 ### [‘Nandhan’ movie review: Sasikumar’s anti-caste film is high-hearted, but lacks subtlety and finesse](https://www.thehindu.com/entertainment/movies/nandhan-movie-review-sasikumars-anti-caste-film-is-high-hearted-but-lacks-subtlety-and-finesse/article68659811.ece)
 

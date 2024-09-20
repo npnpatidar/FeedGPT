@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 10:13:54 +0000
+### [Why two dozen top scientists have expressed concern over the country’s flagship science awards](https://indianexpress.com/article/explained/india-science-awards-9578797/)
+
+Twenty-six Shanti Swarup Bhatnagar (SSB) award winners wrote to Principal Scientific Advisor (PSA) to the Prime Minister, Ajay Kumar Sood, expressing concern that three scientists recommended for the Rashtriya Vigyan Puraskar (RVP) had been excluded. 
+
+They alleged that the exclusion may be based on factors other than scientific merit, as two of the excluded scientists had been critical of government policies.  The PSA responded that the final decision on the awards rests with the Union Minister for Science and Technology,  as per the stated selection process.  This has sparked debate about transparency and potential influence in the award selection process.
+
 Fri, 20 Sep 2024 08:49:44 +0000
 ### [Why Ambedkar and Gandhi disagreed on question of separate electorates for Scheduled Castes](https://indianexpress.com/article/explained/explained-history/why-ambedkar-gandhi-disagreed-on-question-of-separate-electorates-for-scheduled-castes-9578680/)
 

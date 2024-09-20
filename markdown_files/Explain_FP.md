@@ -1,3 +1,27 @@
+Fri, 20 Sep 2024 17:31:01 +0530
+### [Modi to attend Quad at Biden's Wilmington home: The 3-bedroom residence dear to US president](https://www.firstpost.com/explainers/pm-modi-quad-joe-biden-wilmington-home-3-bedroom-residence-us-president-13817404.html)
+
+President Biden will host the Quad summit, including Prime Minister Modi, at his Wilmington, Delaware home.  The three-bedroom mansion, purchased by Biden and his wife in 1996, is situated on a four-acre plot and is estimated to be worth between $1-2 million. The house features a pool, a library, a sunroom overlooking a man-made lake, and was designed with personal touches by Biden himself.
+
+The Wilmington residence holds significant personal meaning for the Bidens, serving as the location for family events, including an intervention for Biden's son, Hunter, and where his granddaughter, Naomi, persuaded him to run for president in 2019. Despite its grandeur, Biden often retreats to Wilmington for relaxation and has conducted business there, including Zoom calls and fundraising events.  
+
+The house has also been in the news recently due to the discovery of classified documents from Biden's time as vice president.  Attorney General Merrick Garland appointed a special counsel to review the matter, who ultimately found insufficient evidence to pursue criminal charges.
+
+Fri, 20 Sep 2024 17:18:06 +0530
+### [Why a Karnataka HC judge has landed in soup over his ‘Pakistan’, ‘undergarments’ remarks](https://www.firstpost.com/explainers/karnataka-hc-judge-bengaluru-pakistan-undergarments-remarks-supreme-court-13817441.html)
+
+A Karnataka High Court judge, Justice Vedavyasachar Srishananda, is facing criticism for alleged controversial remarks made during court proceedings.  A video clip circulating online shows him seemingly referring to a Muslim-dominated area in Bengaluru as "Pakistan." Another clip shows him making sexist comments to a woman lawyer. Senior advocate Indira Jaising has called for suo motu action against the judge. Civil rights groups and activists have condemned his statements, calling them prejudiced and unconstitutional. They have urged the Supreme Court to take immediate action. Responding to the controversy, the Supreme Court has sought a report from the Registrar General of the Karnataka High Court and has asked Attorney General R Venkataramani and Solicitor General Tushar Mehta to assist in the matter.
+
+Fri, 20 Sep 2024 16:45:54 +0530
+### [Underground rave, sex party with friends: What Jay Varma, ex-NY Covid advisor, was doing during pandemic](https://www.firstpost.com/world/united-states/underground-rave-sex-party-with-friends-what-jay-varma-ex-ny-covid-advisor-was-doing-during-pandemic-13817438.html)
+
+Dr. Jay Varma, former advisor to the New York City administration on COVID-19, has been recorded admitting to attending underground raves and hosting a sex party with his wife and friends during the pandemic.  Varma, who was a public face of the city's COVID-19 response, made the admissions during encounters with a woman representing a right-wing activist group. He claims the recordings have been taken out of context and that he regrets his actions. Varma defends his work on the pandemic response and maintains he was upfront and honest during his time serving the city.  New York City Councilman Robert Holden has called for action against Varma, citing the hypocrisy of his actions given his public role advising the city during the pandemic.
+
+Fri, 20 Sep 2024 16:01:29 +0530
+### [How Chinese divorcees are paying big bucks to get their wedding photos shredded](https://www.firstpost.com/explainers/chinese-divorcees-shredding-wedding-photos-13817360.html)
+
+China is experiencing a decline in marriage rates and a surge in divorce rates. This cultural shift has led to a booming business in services related to divorce, including "divorce photography."  Studios now document couples signing divorce papers and posing with their certificates.  Additionally, a growing industry centers on ceremoniously destroying wedding photos and other mementos of past relationships, providing a sense of closure for those moving on.  Experts attribute the trend to younger generations prioritizing personal freedom and career advancement, coupled with economic pressures and a changing social stigma surrounding divorce.
+
 Fri, 20 Sep 2024 15:27:55 +0530
 ### [Why are millions of Americans voting early for the November 5 US presidential election?](https://www.firstpost.com/world/united-states/why-are-millions-of-americans-voting-early-for-the-november-5-2024-us-presidential-election-13817362.html)
 
