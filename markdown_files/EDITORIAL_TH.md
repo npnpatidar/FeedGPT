@@ -1,3 +1,13 @@
+Sat, 21 Sep 2024 00:20:00 +0530
+### [Staunch the breach: On India, Pakistan and the Indus Waters Treaty](https://www.thehindu.com/opinion/editorial/staunch-the-breach-india-pakistan-and-the-indus-waters-treaty/article68664422.ece)
+
+India has escalated its demand for renegotiating the 1960 Indus Waters Treaty with Pakistan, halting all meetings of the Permanent Indus Commission until negotiations commence.  This decision comes after six years of dispute over the Kishanganga and Ratle projects, which Pakistan escalated to a parallel  dispute process involving a neutral expert and the Permanent Court of Arbitration. India boycotted the PCA hearings, further straining the already tense relationship.  Historically considered a model water-sharing agreement, the IWT has faced challenges due to political tensions and escalating rhetoric, putting the future of the treaty in jeopardy.
+
+Sat, 21 Sep 2024 00:10:00 +0530
+### [Pivot to watch: On the U.S. Fed’s rate reduction, its impact](https://www.thehindu.com/opinion/editorial/pivot-to-watch-on-the-us-feds-rate-reduction-its-impact/article68664453.ece)
+
+The U.S. Federal Reserve lowered its benchmark interest rate for the first time in over four years, aiming to balance strong labor market growth with moderate GDP growth and a gradual decline in inflation.  The decision,  influenced by persistently high inflation and concerns about the global economy,  signals a shift in policy after a year of rate hikes. While the impact on the Indian economy may be limited, other emerging and developing economies are likely to see relief from the weakening pressure on their currencies and debt burdens.  However, the Fed's move could also be perceived as a warning about future economic challenges.
+
 Fri, 20 Sep 2024 00:20:00 +0530
 ### [Milestones and U-turns: On the government in its third term](https://www.thehindu.com/opinion/editorial/milestones-and-u-turns-on-the-government-in-its-third-term/article68660309.ece)
 

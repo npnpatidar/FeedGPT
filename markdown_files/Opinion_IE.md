@@ -1,3 +1,67 @@
+Fri, 20 Sep 2024 19:45:28 +0000
+### [Walking is not just personal, it is political — a symbol of resistance](https://indianexpress.com/article/opinion/columns/walking-is-not-just-personal-it-is-political-a-symbol-of-resistance-9579608/)
+
+Walking in India holds significant personal, physical, and political meaning.  
+
+Medical studies highlight the numerous health benefits of walking, including improved cardiovascular fitness, reduced risk of chronic diseases, and enhanced mental well-being. 
+
+Delhi's commitment to green spaces provides ample opportunities for leisurely walks amidst nature, fostering introspection and creative inspiration. Walking serves as a form of meditation and self-reflection, connecting individuals with their thoughts and surroundings. 
+
+Historically, walking has been a powerful symbol of political resistance in India, notably exemplified by Mahatma Gandhi's Salt March. 
+
+Gandhi's long walks, advocating for civil disobedience and social change, have influenced contemporary Indian politicians, who utilize walking campaigns to connect with the public and mobilize support. The article celebrates walking as a fundamental aspect of Indian culture, encompassing personal well-being, political activism, and a profound connection to the land.
+
+Fri, 20 Sep 2024 19:30:55 +0000
+### [It is the BJP that has repeatedly hurt Sikh sentiments](https://indianexpress.com/article/opinion/columns/it-is-the-bjp-that-has-repeatedly-hurt-sikh-sentiments-9579626/)
+
+This response addresses an article claiming the Sikh community is being marginalized. It asserts that while Sikhs contribute significantly to India, they face increasing subjugation from the ruling party.  
+
+The response highlights several incidents: the Lakhimpuri Kheri deaths, the Shubhkaran Singh killing, and police brutality against farmers during protests. It criticizes the BJP's labeling of dissenters as anti-national, their use of hate speech, and the alienation they cause among Sikhs.  
+
+The response concludes that the BJP's divisive agenda is a threat to India's pluralistic values and erodes trust, urging swift action against those who sow discord.
+
+Fri, 20 Sep 2024 19:30:26 +0000
+### [Ram Madhav writes: One Nation, One Election prioritises good governance, will ensure greater accountability](https://indianexpress.com/article/opinion/columns/ram-madhav-writes-one-nation-one-election-prioritises-good-governance-will-ensure-greater-accountability-9579607/)
+
+Democratic politics originated in ancient Athens with a negative voting system. Representative democracy evolved over centuries, gaining traction in Europe during the Enlightenment era. The USA became the first major non-European nation to adopt this system. India, a late entrant to democracy, adopted universal adult suffrage at its inception in 1950 and has since become a model for progressive democracy.  India pioneered electronic voting machines and the "None Of The Above" option, effectively managing elections for a billion citizens.  The country is now aiming to reintroduce "One Nation, One Election," a system practiced in its initial decades,  to reduce the frequency of elections and improve governance.  The move has faced opposition but is seen by proponents as a way to enhance accountability and better serve the electorate.
+
+Fri, 20 Sep 2024 19:30:20 +0000
+### [Express View on One Nation, One Election: Reject](https://indianexpress.com/article/opinion/editorials/express-view-on-one-nation-one-election-reject-9579603/)
+
+The Union cabinet has approved the "One Nation One Election" (ONOE) proposal, accepting the recommendations of the Ram Nath Kovind committee. The committee, seen by some as biased towards the government's agenda, lacked representation from regional parties and opposition leaders.
+
+Critics argue ONOE undermines the federal structure and the principle of responsive governance by prioritizing a fixed election calendar over the will of the people. They contend that the rationale for cost-cutting and administrative convenience lacks evidence and disrespects the dynamism of democracy.
+
+The opposition, now stronger after recent elections, needs to actively challenge the proposal, which requires a special majority in Parliament and ratification by state legislatures. They must highlight the dangers of imposing a fixed calendar  and reiterate the importance of elections as a vital expression of people's will.
+
+Fri, 20 Sep 2024 19:20:23 +0000
+### [The Third Edit: British drinkers don’t need a ‘fun police’](https://indianexpress.com/article/opinion/editorials/the-third-edit-british-drinkers-dont-need-a-fun-police-9579605/)
+
+A Cambridge University study has suggested reducing the standard pint size in the UK to three-quarters of a pint in an effort to improve public health. This proposal has sparked controversy, with some arguing it undermines a long-standing tradition while others believe portion control would be unnoticeable to consumers.  Supporters of the smaller serving size point to the psychological tendency for people to focus on the number of servings rather than their size.  However, health officials have stated they have no intention of dictating serving sizes, preferring to focus on alternative methods of improving public health.
+
+Fri, 20 Sep 2024 19:20:19 +0000
+### [With recent decisions, Supreme Court has deepened constitutional idea of personal liberty](https://indianexpress.com/article/opinion/columns/with-recent-decisions-supreme-court-has-deepened-constitutional-idea-of-personal-liberty-9579602/)
+
+A recent Supreme Court ruling emphasizes the continued importance of due process rights enshrined in Article 21 of the Indian Constitution.  The court,  in cases concerning the UAPA and PMLA,  stressed that statutory provisions cannot override fundamental rights, particularly the right to life and liberty.  
+
+Despite stringent bail provisions in certain laws, the court ruled that  unreasonable detention is not acceptable and a constitutional court, when faced with prolonged trials,  has the power to grant bail. This reaffirms the earlier principle that bail should be the rule, not the exception. These decisions symbolize a  movement towards revitalizing the pro-bail approach, upholding the vision of the Indian Constitution’s founding fathers who prioritized personal liberty.
+
+Fri, 20 Sep 2024 19:00:24 +0000
+### [September 21, 1984, Forty Years Ago: Andhra Pradesh Chief Minister N T Rama Rao won vote of confidence in Assembly](https://indianexpress.com/article/opinion/40-years-ago/september-21-1984-forty-years-ago-andhra-pradesh-chief-minister-n-t-rama-rao-won-vote-of-confidence-in-assembly-9579606/)
+
+Andhra Pradesh Chief Minister N T Rama Rao successfully passed a vote of confidence in the state Assembly.  In a separate development, India expressed its stance against discussing global monetary reforms in the World Bank's development committee, citing its structure and track record. 
+
+Meanwhile, expelled Congress MP F M Khan maintained his stance that party loyalists are being overlooked, while simultaneously expressing hope for a meeting with party president Indira Gandhi. 
+
+A suicide bomber attack on the US embassy annex in Beirut resulted in 23 fatalities and numerous injuries, including two Americans and the US and British ambassadors.  
+
+Finally, the Supreme Court raised concerns about last-minute alterations to the NEET-PG exam pattern, demanding a response from NBEMS and the Centre within a week.
+
+Fri, 20 Sep 2024 19:00:05 +0000
+### [Why women dominating Booker Prize shortlist is not the good news it seems](https://indianexpress.com/article/opinion/columns/why-women-dominating-booker-prize-shortlist-is-not-the-good-news-it-seems-9579597/)
+
+The author applauds the Booker Prize shortlist's inclusion of five women authors but questions the celebration as groundbreaking. They argue that while White women have been consistently represented in the prize, authors of color, especially Black authors, have been significantly overlooked.  Despite recent wins by Black authors, the author points to historical disparities and questions if the Booker truly reflects diversity.  They use the example of Bernardine Evaristo's win, highlighting that she had to share the prize with Margaret Atwood, whose own win was seen as less noteworthy compared to Evaristo's work.  The author concludes by asking writers to critically examine the complexities of identity and prioritize addressing power imbalances rather than seeking simply being recognized as "great."
+
 Fri, 20 Sep 2024 12:22:21 +0000
 ### [One Nation One Election: Empowering the marginalised voter](https://indianexpress.com/article/opinion/columns/one-nation-one-election-empowering-marginalised-voter-9579120/)
 
