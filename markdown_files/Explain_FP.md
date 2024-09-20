@@ -1,3 +1,15 @@
+Fri, 20 Sep 2024 11:20:10 +0530
+### [33-yr-old Rajasthan bureaucrat dies after botched surgery: What went wrong?](https://www.firstpost.com/explainers/rajasthan-bureaucrat-death-botched-surgery-13817271.html)
+
+Priyanka Bishnoi, a 2016 batch RAS officer in Jodhpur, passed away in Ahmedabad two weeks after undergoing surgery for a myoma at a private hospital in Jodhpur. Her family alleges medical negligence, claiming she was administered an excessive dose of anaesthesia during the surgery, which resulted in a coma.  
+
+The hospital denies negligence, stating there were no complications during the procedure and Bishnoi experienced an electrolyte imbalance post-surgery. They claim she was transferred to Ahmedabad against medical advice. An inquiry led by SNMC principal Bharti Saraswat has been launched into the allegations. Bishnoi's death has sparked outrage and calls for a CBI probe.
+
+Fri, 20 Sep 2024 09:58:40 +0530
+### [Do Tirupati temple laddus contain fish oil, beef tallow? The controversy explained](https://www.firstpost.com/explainers/tirupati-temple-laddus-animal-fat-ghee-fish-oil-beef-tallow-controversy-13817260.html)
+
+A row erupted in Andhra Pradesh after Chief Minister N Chandrababu Naidu alleged that the ghee used in Tirupati laddus contained animal fats during his predecessor's rule. TDP leader Anam Venkata Ramana Reddy released a lab report confirming the presence of beef tallow, lard, and fish oil in the ghee. This has caused outrage among Hindus, who consider cows sacred.  The YSR Congress, however, refuted the allegations, calling them malicious and politically motivated. They claim that Naidu is politicising the issue and damaging the temple's sanctity.  The Andhra Pradesh Congress has called for a high-level inquiry into the matter.
+
 Fri, 20 Sep 2024 08:30:22 +0530
 ### [Sri Lanka presidential election 2024: Who are the main contenders?](https://www.firstpost.com/explainers/sri-lanka-presidential-election-2024-main-contenders-parties-13816420.html)
 
