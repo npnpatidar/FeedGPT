@@ -1,3 +1,8 @@
+Fri, 20 Sep 2024 06:23:49 +0530
+### [FirstUp: UN emergency meet on Lebanon attacks, iPhone hits stores... The headlines today](https://www.firstpost.com/explainers/firstup-un-emergency-meet-on-lebanon-attacks-iphone-hits-stores-the-headlines-today-13817145.html)
+
+The UN Security Council will hold an emergency meeting to discuss a series of pager blasts in Lebanon targeting Hezbollah. UN Secretary-General António Guterres expressed concern, warning of a potential escalation and emphasizing the danger of weaponizing civilian objects. In India, the iPhone 16 series goes on sale starting today, featuring new designs, camera features, and the A18 Bionic chipsets.  Prime Minister Narendra Modi will visit Wardha, Maharashtra, to mark the first anniversary of the PM Vishwakarma Scheme, releasing certificates, loans, and launching new skill development initiatives.
+
 Thu, 19 Sep 2024 20:53:33 +0530
 ### [Why rich Indians are lining up to buy property in Greece](https://www.firstpost.com/explainers/indian-investors-greece-property-golden-visa-programme-13817174.html)
 
