@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 12:30:10 +0530
+### [Focus on foundational literacy and numeracy to improve educational outcomes](https://www.livemint.com/opinion/online-views/literacy-numeracy-school-education-students-teaching-ai-in-education-parent-teacher-meetings-quality-of-education-11726811884681.html)
+
+The National Education Policy (NEP) 2020 emphasized foundational literacy and numeracy (FLN) as crucial for education, leading to the NIPUN Bharat Mission aimed at ensuring all Grade 3 students achieve FLN skills by 2027.  States are adopting four key principles to drive change: aligning the system with clear goals; augmenting teaching practices through structured pedagogy, technology, and teacher training; utilizing low-stakes assessments to improve learning; and engaging parents and communities.
+
+Early successes include Madhya Pradesh, which has significantly improved Grade 2 students' reading and numeracy skills, and Uttar Pradesh, with 24% of its schools declared NIPUN, highlighting its effectiveness. To achieve the Sustainable Development Goal 4 of inclusive and equitable quality education for all,  it is crucial to continue energizing this system, augmenting processes, assessing progress, and involving parents and communities.
+
 Fri, 20 Sep 2024 09:00:05 +0530
 ### [Dear value investor, welcome to perplexing times](https://www.livemint.com/opinion/columns/value-investing-fed-interest-rate-cut-stock-markets-valuations-small-caps-mid-caps-large-caps-asset-allocation-11726736973060.html)
 

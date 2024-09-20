@@ -1,3 +1,17 @@
+Fri, 20 Sep 2024 12:03:07 +0530
+### [In Sri Lanka, presidential poll is more than a test for democratic resilience](https://www.firstpost.com/opinion/in-sri-lanka-presidential-poll-is-more-than-a-test-for-democratic-resilience-13817314.html)
+
+Sri Lanka is heading towards a historic presidential election marked by a three-way race between three formidable contenders.  Anura Kumara Dissanayake from the JVP-NPP alliance, Sajith Premadasa from the Samagi Jana Balawegaya (SJB), and incumbent President Ranil Wickremesinghe all aim to lead the nation.
+
+Public focus appears to have shifted from solely economic revival to broader governance concerns, with voters critical of corruption, nepotism, and lawlessness.  
+
+The contest is also complex due to shifting political allegiances.  Wickremesinghe, from the UNP, faces challenges from Premadasa, who hails from a breakaway faction of the same party.  The JVP, traditionally a left-nationalist force, has surprisingly gained traction amid economic woes.  The fate of the Tamil vote, traditionally split, remains uncertain, with a possibility of it significantly impacting the outcome.   
+
+However, the election's outcome remains unpredictable. While Dissanayake enjoys a strong lead in the race, it's unclear whether any candidate will secure a majority in the first round. A second and potentially protracted recount process could ensue leading to potential political instability. 
+
+
+ The choice before Sri Lankan voters is crucial, one that will determine the nation's direction for years to come.
+
 Fri, 20 Sep 2024 09:30:34 +0530
 ### [Trump assassination attempt: Toxic polarisation of American politics is a threat to democracies everywhere](https://www.firstpost.com/opinion/trump-assassination-attempt-toxic-polarisation-of-american-politics-is-a-threat-to-democracies-everywhere-13817256.html)
 

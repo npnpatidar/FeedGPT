@@ -1,3 +1,33 @@
+Fri, 20 Sep 2024 13:32:28 +0530
+### [What is ‘silent sacking’ that Amazon allegedly used to cut its workforce?](https://www.firstpost.com/explainers/silent-sacking-amazon-workforce-13817305.html)
+
+Amazon has been accused of using "silent sacking," a tactic where the company creates a negative work environment to push employees to resign. This strategy avoids the costs associated with traditional layoffs, including severance packages. 
+
+Former Amazon employees allege that the company implemented various phases, including return-to-office mandates and limiting job assignments for certain employees, to make working conditions unbearable and encourage employees to quit.  
+
+Amazon claims the return-to-office policy is aimed at fostering innovation and collaboration.  However, critics argue it's a cost-cutting measure driven by economic concerns and a desire to maximize tax benefits.
+
+Fri, 20 Sep 2024 13:20:06 +0530
+### [Did Hezbollah's explosive pagers come from Bulgaria?](https://www.firstpost.com/explainers/did-hezbollah-explosive-pagers-come-from-bulgaria-13817315.html)
+
+A Bulgarian company, Norta Global, is under investigation for its alleged role in supplying Hezbollah with weaponized pagers that exploded in Lebanon, causing casualties. The investigation has uncovered that Norta Global facilitated the sale of pagers manufactured by a Taiwanese company  to Hezbollah. European and Norwegian authorities are also involved in the probe, scrutinizing Norta Global's founder, Rinson Jose. Questions remain about the extent of Norta Global's involvement, the precise method used to weaponize the pagers, and the possible role of Israeli intelligence in the operation. The incident has highlighted the complexities of international arms trafficking and the potential for everyday items to be transformed into weapons.
+
+Fri, 20 Sep 2024 12:57:26 +0530
+### [Exploding pagers and walkie-talkies, bombing Lebanon: Is Israel readying for war with Hezbollah?](https://www.firstpost.com/explainers/exploding-pagers-walkie-talkies-bombing-lebanon-israel-war-hezbollah-13817329.html)
+
+Hostilities between Israel and Hezbollah have escalated following a series of explosions in Lebanon that killed over 30 people and injured nearly 3,000. Hezbollah blames Israel for the bombings, which targeted pagers and walkie-talkies. In response, Israel has conducted airstrikes in Lebanon and deployed troops to the border, signaling a possible wider conflict. Hezbollah leader Hassan Nasrallah, in his first address since the 2006 Lebanon war, vowed retaliation, albeit without specifying details. Experts believe these attacks are a prelude to a significant Israeli offensive against Hezbollah, potentially leading to a devastating war.  Israel, on the other hand, insists on its right to defend itself and claims the campaign is a necessary step to ensure the safety of its northern communities. The situation remains volatile, with both sides preparing for a potentially disastrous conflict.
+
+Fri, 20 Sep 2024 12:05:12 +0530
+### [Who is Anura Kumara Dissanayake, the Marxist who has emerged as a lead contender in Sri Lanka’s elections?](https://www.firstpost.com/explainers/sri-lanka-presidential-election-anura-kumara-dissanayake-marxist-jvp-13817028.html)
+
+Anura Kumara Dissanayake, leader of the Janatha Vimukthi Peramuna (JVP) party, is a frontrunner in Sri Lanka's upcoming presidential election.  
+
+Dissanayake, known for his humble background and political skills, has captured the attention of voters with promises to tackle corruption and renegotiate terms with the International Monetary Fund. He advocates for a return to parliamentary democracy and selective foreign investment.  
+
+Despite this popularity, Dissanayake faces considerable challenges. He seeks to break the dominance of established parties, lacks support from the country's elite, and must address concerns stemming from the JVP's violent past and strained relations with India and Tamil communities.  
+ 
+ his campaign focuses on alleviating public hardship and building a true Sri Lankan government. The outcome of the election will reveal whether his promises resonate with the Sri Lankan public.
+
 Fri, 20 Sep 2024 11:20:10 +0530
 ### [33-yr-old Rajasthan bureaucrat dies after botched surgery: What went wrong?](https://www.firstpost.com/explainers/rajasthan-bureaucrat-death-botched-surgery-13817271.html)
 

@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 07:06:01 +0000
+### [All about Sri Lanka’s presidential elections, why they matter to India](https://indianexpress.com/article/explained/explained-global/sri-lanka-elections-president-significance-9578471/)
+
+Sri Lanka is holding a presidential election on September 21st, the first since the 2022 protests that forced the Rajapaksa family from power. The economy remains a key issue for voters, although the situation has improved since the country's worst ever crisis.  Three candidates are considered frontrunners:
+
+Ranil Wickremesinghe, the current president,  emphasizes his economic recovery efforts. Marxist leader Anura Kumara Dissanayake, leads in opinion polls, promising poverty reduction and fighting corruption but raising concerns about his stance on Tamil separatism. Sajith Premadasa, of the main opposition party and son of a former president,  pledges to reduce living costs and promote tourism and agriculture. 
+
+India is watching the election closely, seeking to maintain its strategic influence in the region, with potential concerns about Dissanayake's pro-China leanings and his criticism of Indian firms operating in Sri Lanka.
+
 Fri, 20 Sep 2024 03:36:14 +0000
 ### [Gender-age divide in US politics: young women far more liberal](https://indianexpress.com/article/explained/explained-global/gender-age-divide-in-us-politics-young-women-far-more-liberal-9577879/)
 

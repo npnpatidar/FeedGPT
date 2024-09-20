@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 06:39:56 +0000
+### [In Bengaluru, a cautionary tale against the gig economy and how it does disservice – to workers and customers alike](https://indianexpress.com/article/opinion/columns/bengaluru-gig-economy-workers-9578450/)
+
+An incident in Bengaluru involving an auto-rickshaw driver and a student who cancelled a ride went viral, highlighting the complexities of the gig economy and the role of ride-hailing apps. The driver, allegedly assaulted the student, leading to his arrest and subsequent blacklisting by platforms. 
+
+The case sparked debate about women's safety, linguistic tensions, and the responsibilities of ride-hailing apps. Critics argue that apps, by prioritizing efficiency and impersonality, create a disconnect between drivers and passengers, potentially leading to frustration and aggression. They also point to the power dynamics inherent in the platform model, where algorithms control driver earnings and passenger ratings, leaving drivers with limited autonomy and vulnerability to customer actions.
+
 Thu, 19 Sep 2024 21:35:27 +0000
 ### [Why One Nation, One Election must be challenged](https://indianexpress.com/article/opinion/columns/why-one-nation-one-election-must-be-challenged-9577733/)
 
