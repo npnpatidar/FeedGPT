@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 15:09:55 +0530
+### [How Bangladeshi Frankenstein may hurt its American, Chinese masters](https://www.firstpost.com/opinion/how-bangladeshi-frankenstein-may-hurt-its-american-chinese-masters-13817374.html)
+
+The article argues that the US and China's actions in Bangladesh, aiming to destabilize India, will ultimately backfire.
+
+It criticizes the US for supporting  Muhammad Yunus' interim government, which has allegedly emboldened anti-India and anti-Hindu sentiments while neglecting the plight of minorities.  The article suggests that this interference, mirroring the US's past failures in conflict resolution, will create chaos and a civil war in Bangladesh, harming both the US and China.  It predicts that the Awami League, the previous governing party, may rise as opposition to Yunus' government and radical Islamist forces, potentially leading to further instability. The article concludes that this experiment will fail, leading to unintended consequences for all involved.
+
 Fri, 20 Sep 2024 12:03:07 +0530
 ### [In Sri Lanka, presidential poll is more than a test for democratic resilience](https://www.firstpost.com/opinion/in-sri-lanka-presidential-poll-is-more-than-a-test-for-democratic-resilience-13817314.html)
 

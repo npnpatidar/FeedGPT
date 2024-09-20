@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 08:52:40 +0000
+### [From Kerala film industry sexual harassment to P Diddy arrest: The perils and heartbreaks of seeing childhood heroes fall](https://indianexpress.com/article/opinion/columns/kerala-film-industry-sexual-harassment-diddy-arrest-9578681/)
+
+An article discusses the recent #MeToo movement resurgence in Kerala's film industry, highlighting accusations against prominent figures and the systemic issue of sexual entitlement within the industry. The author draws parallels to the arrest of Sean "Diddy" Combs, accused of leading a criminal enterprise that exploited women, emphasizing the prevalence of such abuse in various sectors. 
+
+Critiques are leveled at the media's hypocrisy in selectively pursuing justice and the likelihood of lenient consequences for the accused in Kerala, referencing the protracted legal proceedings against actor Dileep.  The article concludes by questioning the blind adoration of artists and suggesting a shift in focus towards addressing the underlying causes of such abuse rather than separating art from the artist.
+
 Fri, 20 Sep 2024 06:39:56 +0000
 ### [In Bengaluru, a cautionary tale against the gig economy and how it does disservice – to workers and customers alike](https://indianexpress.com/article/opinion/columns/bengaluru-gig-economy-workers-9578450/)
 

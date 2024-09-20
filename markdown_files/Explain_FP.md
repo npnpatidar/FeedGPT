@@ -1,3 +1,17 @@
+Fri, 20 Sep 2024 15:27:55 +0530
+### [Why are millions of Americans voting early for the November 5 US presidential election?](https://www.firstpost.com/world/united-states/why-are-millions-of-americans-voting-early-for-the-november-5-2024-us-presidential-election-13817362.html)
+
+Early voting has become a significant part of US elections, with over 100 million people voting early in 2020.  This trend was accelerated by the COVID-19 pandemic, as people sought safer voting options. Nearly every state now offers some form of early or mail-in voting.  While the process and eligibility criteria vary by state, early voting has become increasingly popular, with the percentage of ballots cast before Election Day steadily rising over the past two decades.  Officials are working to ensure secure and smooth voting operations, addressing concerns about potential election fraud and the reliability of the US Postal Service for mail-in ballots.
+
+Fri, 20 Sep 2024 14:38:03 +0530
+### [EY Pune employee death: How overworked are Indians and can this burden kill you?](https://www.firstpost.com/explainers/ey-pune-employee-death-india-overwork-stress-fatal-13817372.html)
+
+The death of a young EY employee in Pune, allegedly due to workload, has sparked discussions about overwork culture in India. While India's average working hours are already high,  concerns are amplified by the country's low minimum wage. 
+
+Prolonged overwork is linked to health risks like ischaemic heart disease, stroke, and mental health issues like anxiety, depression, and burnout. While death from overwork is rare, experts emphasize the potential dangers of chronic stress and unhealthy coping mechanisms resulting from excessive work hours.  
+ 
+Experts recommend managing stress through lifestyle changes, seeking support, and encouraging companies to prioritize employee well-being. It's crucial to shift the narrative away from glorifying overwork and prioritize a healthy work-life balance.
+
 Fri, 20 Sep 2024 13:32:28 +0530
 ### [What is ‘silent sacking’ that Amazon allegedly used to cut its workforce?](https://www.firstpost.com/explainers/silent-sacking-amazon-workforce-13817305.html)
 

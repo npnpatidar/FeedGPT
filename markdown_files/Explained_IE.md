@@ -1,3 +1,14 @@
+Fri, 20 Sep 2024 08:49:44 +0000
+### [Why Ambedkar and Gandhi disagreed on question of separate electorates for Scheduled Castes](https://indianexpress.com/article/explained/explained-history/why-ambedkar-gandhi-disagreed-on-question-of-separate-electorates-for-scheduled-castes-9578680/)
+
+Mahatma Gandhi and Dr. B.R. Ambedkar held differing views on the best way to address the issue of caste discrimination in India. Gandhi opposed separate electorates for Scheduled Castes, believing they would weaken Hinduism and play into British "divide and rule" tactics. Ambedkar, however, saw separate electorates as a necessary tool for empowering lower castes politically. 
+
+Their debate culminated in Gandhi's fast unto death in 1932.  Faced with this ultimatum, Ambedkar agreed to the Poona Pact, which secured reservations for Scheduled Castes but rejected separate electorates. 
+
+
+
+While many viewed Gandhi's fast as a victory for Indian unity, Ambedkar considered it a compromise that ultimately failed to address the root causes of caste inequality.
+
 Fri, 20 Sep 2024 07:06:01 +0000
 ### [All about Sri Lanka’s presidential elections, why they matter to India](https://indianexpress.com/article/explained/explained-global/sri-lanka-elections-president-significance-9578471/)
 
