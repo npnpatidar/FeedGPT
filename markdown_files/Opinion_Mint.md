@@ -1,3 +1,22 @@
+Fri, 20 Sep 2024 09:00:05 +0530
+### [Dear value investor, welcome to perplexing times](https://www.livemint.com/opinion/columns/value-investing-fed-interest-rate-cut-stock-markets-valuations-small-caps-mid-caps-large-caps-asset-allocation-11726736973060.html)
+
+The article discusses the challenges faced by value investors in the current Indian market. Despite the market reaching all-time highs, valuations are not considered excessively high. However, there's a lot of liquidity chasing mid and small-cap stocks, leading to stretched valuations in those segments. This situation squeezes value investors who follow strict criteria for identifying stocks, as fewer genuinely attractive options are available. 
+
+The author, while acknowledging the predicament, suggests staying disciplined with investment criteria and potentially considering booking profits if near-term liquidity needs arise. The article concludes by emphasizing the importance of asset allocation planning to navigate these perplexing market conditions.
+
+Fri, 20 Sep 2024 08:30:04 +0530
+### [Cycle lag effect: After the Fed's rate cut, RBI’s job gets tougher](https://www.livemint.com/opinion/online-views/us-federal-reserve-interest-rate-cut-policy-easing-rbi-employment-data-jerome-powell-inflation-monetary-policy-11726766810367.html)
+
+The US Federal Reserve has cut interest rates by half a percentage point, marking a shift in focus from inflation control to supporting economic growth. This move follows similar actions by other major central banks. 
+
+The Fed believes its 2% inflation target is achievable and aims to prevent a potential economic slowdown. Cheaper credit is expected to encourage consumer spending and business investment. 
+
+While the initial impact on financial markets was muted, the rate cut could potentially boost capital flows to emerging markets, including India, strengthening their currencies and assets. This could also attract foreign investment to Indian stocks and bonds. 
+
+
+ The Reserve Bank of India (RBI) may need to closely monitor the rupee's appreciation and manage liquidity to ensure stability.
+
 Fri, 20 Sep 2024 07:00:20 +0530
 ### [Mint Quick Edit | Exploding handsets: A new phase of West Asia’s war?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-pager-blast-walkie-talkie-hezbollah-israel-hamas-war-iran-west-asia-geopolitics-11726766776188.html)
 

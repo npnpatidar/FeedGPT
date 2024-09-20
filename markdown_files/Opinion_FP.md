@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 09:30:34 +0530
+### [Trump assassination attempt: Toxic polarisation of American politics is a threat to democracies everywhere](https://www.firstpost.com/opinion/trump-assassination-attempt-toxic-polarisation-of-american-politics-is-a-threat-to-democracies-everywhere-13817256.html)
+
+This article argues that the United States, under President Biden, is experiencing a decline in democratic norms and a rise in political violence. The author points to the alarming rhetoric from both sides of the political spectrum, culminating in assassination attempts against former President Trump, as evidence of a breakdown in civil discourse.  
+
+The piece contrasts this with India, which the author suggests has a stronger democratic framework despite facing challenges.  It expresses concern that the US's dysfunctional democracy could inspire other countries to embrace autocratic models.  The author blames the toxic media environment, particularly cable news and talk radio, for fueling polarization and animosity. 
+
+ Ultimately, the article paints a bleak picture of American democracy, fearing that the country's example could damage democratic values worldwide.
+
 Thu, 19 Sep 2024 19:01:45 +0530
 ### [New faces crop up as Japan searches for new PM](https://www.firstpost.com/opinion/new-faces-crop-up-as-japan-searches-for-new-pm-13817139.html)
 

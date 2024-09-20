@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 08:30:22 +0530
+### [Sri Lanka presidential election 2024: Who are the main contenders?](https://www.firstpost.com/explainers/sri-lanka-presidential-election-2024-main-contenders-parties-13816420.html)
+
+Sri Lanka is holding a presidential election on Saturday, September 21st, amidst an ongoing economic crisis.  Incumbent President Ranil Wickremesinghe, who took office following previous President Gotabaya Rajapaksa's resignation,  is seeking re-election.  He highlights economic improvements, including reduced inflation and increased foreign reserves, as achievements. 
+
+Sajith Premadasa, a key opposition figure and son of a former president, is challenging Wickremesinghe, promising to tackle corruption and adjust the IMF bailout program. Anura Kumara Dissanayaka from the National People's Power (NPP) coalition, a rising figure among younger voters, calls for addressing economic inequality and systemic issues. 
+
+Namal Rajapaksa, from the powerful Rajapaksa family, entered the race late as a candidate for the Sri Lanka Podujana Peramuna (SLPP), but his chances are considered slim. Given the large number of candidates, it's likely no individual will secure a majority, leading to a preferential vote count to determine the winner.  The election is viewed as a referendum on Wickremesinghe's economic policies and the future direction of Sri Lanka.
+
 Fri, 20 Sep 2024 06:23:49 +0530
 ### [FirstUp: UN emergency meet on Lebanon attacks, iPhone hits stores... The headlines today](https://www.firstpost.com/explainers/firstup-un-emergency-meet-on-lebanon-attacks-iphone-hits-stores-the-headlines-today-13817145.html)
 

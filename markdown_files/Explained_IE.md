@@ -1,3 +1,15 @@
+Fri, 20 Sep 2024 03:36:14 +0000
+### [Gender-age divide in US politics: young women far more liberal](https://indianexpress.com/article/explained/explained-global/gender-age-divide-in-us-politics-young-women-far-more-liberal-9577879/)
+
+A recent Gallup report reveals that American women aged 18-29 are increasingly adopting liberal political stances on issues like climate change, abortion rights, and gun control, outpacing their male counterparts in the same age group. This shift has widened the gender gap in political views among young Americans, with young women more likely to identify as liberal.  Key issues driving this change include dissatisfaction with the status quo regarding gun control, environmental concerns, and abortion laws.  
+
+While the exact reasons for this trend remain unclear,  events like the rollback of abortion protections and the #MeToo movement may be contributing factors.  This growing political divide among young women could have significant implications for the upcoming election.
+
+Fri, 20 Sep 2024 03:16:34 +0000
+### [The escalation in West Asia](https://indianexpress.com/article/explained/explained-global/israel-hezbollah-crisis-hamas-gaza-war-west-asia-9577885/)
+
+Recent coordinated attacks in Lebanon and Syria, involving the explosion of pagers and radios, have killed dozens and injured thousands. Hezbollah blames Israel, who hasn't confirmed involvement. This escalation comes amidst ongoing conflict between Israel and Hamas in Gaza. Israel views Hezbollah as a more significant threat and is shifting focus, targeting high-ranking Hezbollah members and their communication systems. Tensions are high, with potential for a wider conflict involving Iran, the US, and potentially, a ground invasion by Israel. This situation presents a serious diplomatic challenge for India, with concerns about its large diaspora in the region, energy security, and potential for violence spilling over.
+
 Fri, 20 Sep 2024 02:36:10 +0000
 ### [Why US Fed cut interest rates, how India could be impacted](https://indianexpress.com/article/explained/explained-economics/why-us-fed-cut-interest-rates-how-india-could-be-impacted-9577878/)
 

@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 08:30:00 +0530
+### [Sri Lankan polls: economy takes centre stage | Explained](https://www.thehindu.com/news/international/sri-lankan-polls-economy-takes-centre-stage-explained/article68661351.ece)
+
+Sri Lanka holds its presidential election amidst an ongoing economic recovery following the country's 2022 financial meltdown.  
+
+While the government headed by outgoing President Ranil Wickremesinghe highlights progress like stabilized inflation and increased foreign investment, the majority of Sri Lankans continue to grapple with the impact of the crisis. Austerity measures introduced as part of an IMF program have led to higher living costs and job losses, disproportionately affecting the poor. 
+
+Despite efforts to restructure debt and boost the struggling economy, unemployment remains high, food insecurity is widespread, and many households are burdened by debt and diminished earnings. The election presents a choice between "stability" and the lingering hardship faced by a nation still striving to recover.
+
 Fri, 20 Sep 2024 06:00:00 +0530
 ### [Haryana Assembly elections | An overview of the field ahead of the polls](https://www.thehindu.com/elections/haryana-assembly/haryana-assembly-elections-candidates-overview-ahead-of-the-polls/article68600306.ece)
 

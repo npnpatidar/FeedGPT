@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 09:14:18 +0530
+### [Column | When Harappans had unicorns](https://www.thehindu.com/opinion/columns/unicorn-seals-harappan-civilisation-devdutt-pattanaik-column/article68651571.ece)
+
+The Indus (Harappan) civilization was first discovered in 1924 based on similar seals found in Harappa and Mohenjo-daro.  These seals, often depicting a unicorn-like creature, provide evidence of mythic thinking and administrative technology. The Harappans traded valuable resources like lapis lazuli and tin, connecting them to Mesopotamia, Egypt, and Crete.  
+
+The unicorn imagery may represent wandering monks who regulated trade and conflict resolution in these egalitarian cities.  The theory connects Harappan culture to monasticism, which thrived alongside commerce in ancient India. The unicorn, being a mythical creature, symbolizes a state of transcendence beyond worldly concerns.
+
 Sat, 14 Sep 2024 20:16:27 +0530
 ### [Denialism and ‘assertism’ are two sides of the same coin](https://www.thehindu.com/opinion/columns/denialism-and-assertism-are-two-sides-of-the-same-coin/article68641356.ece)
 
