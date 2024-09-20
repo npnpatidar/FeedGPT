@@ -1,3 +1,13 @@
+Fri, 20 Sep 2024 20:23:55 +0530
+### [Alia Bhatt has attention deficit disorder: What is it? How common is it?](https://www.firstpost.com/health/alia-bhatt-attention-deficit-disorder-adhd-symptoms-13817525.html)
+
+Alia Bhatt, a Bollywood actor, revealed in an interview that she has ADD, a term now considered outdated for a type of ADHD.  She mentioned her difficulty concentrating, stating she can only tolerate 45 minutes in a makeup chair. Despite being on her wedding day, Bhatt refused to spend the usual two hours on makeup due to her condition. ADD, now replaced by "predominantly inattentive" ADHD, describes individuals with trouble focusing and difficulty completing tasks. This type of ADHD often goes undiagnosed in children as they may not exhibit disruptive behaviors common in other ADHD subtypes.
+
+Fri, 20 Sep 2024 20:09:27 +0530
+### [The divorce of Tatyana Bakalchuk, Russia’s richest woman, just turned deadly. Here’s what happened](https://www.firstpost.com/explainers/the-divorce-of-tatyana-bakalchuk-russias-richest-woman-just-turned-deadly-heres-what-happened-13817501.html)
+
+A bitter divorce and power struggle between  Vladislav and Tatyana Bakalchuk, the estranged husband and wife co-founders of Russian e-commerce giant Wildberries, has resulted in a deadly shootout at a Moscow office. Vladislav, who now owns just 1% of the company, has been charged with murder after the incident, in which a security guard was killed and seven others, including police, were wounded. Tatyana, Russia's first self-made female billionaire, accuses her husband and his associates of attempting to seize the office, while Vladislav claims he went there for a pre-arranged meeting and that the office staff fired first. The two have been publicly feuding since June when Wildberries announced its merger with Russ Group, reducing Tatyana's stake in the company and her overall wealth.
+
 Fri, 20 Sep 2024 18:58:47 +0530
 ### [Economic crisis, taxes and more... The key issues in Sri Lanka's presidential elections](https://www.firstpost.com/explainers/economic-crisis-taxes-and-more-the-key-issues-in-sri-lankas-presidential-elections-13817435.html)
 

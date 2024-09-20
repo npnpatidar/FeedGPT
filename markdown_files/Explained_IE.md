@@ -1,3 +1,12 @@
+Fri, 20 Sep 2024 14:34:10 +0000
+### [Bombay HC strikes down Centre’s ‘fake news’ fact check rule — why did it need the opinion of a third judge?](https://indianexpress.com/article/explained/explained-law/bombay-hc-fake-news-fact-check-rule-9579351/)
+
+The Bombay High Court ruled the amended Information Technology (IT) Rules, 2021, unconstitutional. These rules empowered a government-run "Fact Check Unit" (FCU) to identify and flag "fake news" on social media, potentially requiring removal by platforms. 
+
+Two judges on the court initially delivered split verdicts. Justice Gautam S Patel struck down the amendment, arguing it constituted censorship and violated fundamental rights to free speech and press. Justice Neela Gokhale, however, upheld the rules, stating they did not unduly restrict rights and provided recourse through grievance mechanisms.  
+
+Justice Atul S Chandurkar, assigned to deliver a final opinion, agreed with Justice Patel, resulting in a 2-1 majority against the amendment.  The government may challenge this decision in the Supreme Court.
+
 Fri, 20 Sep 2024 12:58:10 +0000
 ### [Why has Donald Trump called India ‘a very big abuser’ of tariff?](https://indianexpress.com/article/explained/explained-global/donald-trump-india-abuser-tariff-9579205/)
 
