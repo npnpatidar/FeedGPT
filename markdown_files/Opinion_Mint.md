@@ -1,3 +1,8 @@
+Fri, 20 Sep 2024 07:00:20 +0530
+### [Mint Quick Edit | Exploding handsets: A new phase of West Asia’s war?](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-pager-blast-walkie-talkie-hezbollah-israel-hamas-war-iran-west-asia-geopolitics-11726766776188.html)
+
+A series of explosions targeting Hezbollah in Lebanon, linked to remote-controlled explosives in walkie-talkies and previously pagers, has raised fears of escalation. Israel, while not directly claiming responsibility for the attacks, has indicated a "new phase" in the conflict. This event, potentially drawing Iran directly into hostilities, adds to the existing war between Israel and Hamas in Gaza.  With the uncertainty surrounding the US election and lack of a clear resolution plan, the situation threatens regional peace, though global markets remain relatively stable for now.
+
 Thu, 19 Sep 2024 16:00:13 +0530
 ### [Uniform civil code: Can AI help India find a real consensus?](https://www.livemint.com/opinion/online-views/uniform-civil-code-ai-chatgpt-inheritence-laws-patriarchy-marriage-laws-same-sex-marriage-divorce-laws-gender-equality-11726730341292.html)
 

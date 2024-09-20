@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 02:36:10 +0000
+### [Why US Fed cut interest rates, how India could be impacted](https://indianexpress.com/article/explained/explained-economics/why-us-fed-cut-interest-rates-how-india-could-be-impacted-9577878/)
+
+The US Federal Reserve cut its benchmark interest rate by 50 basis points to stimulate economic growth and job creation. This follows a period of aggressive rate hikes aimed at curbing high inflation.  The Fed hopes to achieve a "soft-landing" for the US economy, avoiding a recession while controlling inflation. This decision is expected to have a global impact, particularly on emerging economies like India. 
+
+Lower US interest rates may encourage foreign investment in India and potentially strengthen the Indian rupee against the US dollar. While the Reserve Bank of India (RBI) will likely consider these factors, it will likely prioritize its own domestic inflation targets and policy mandates.
+
 Thu, 19 Sep 2024 14:25:49 +0000
 ### [Chandrababu Naidu alleges animal fat in Lord’s laddu — here’s what goes into preparing Tirupati’s famous prasadam](https://indianexpress.com/article/explained/explained-culture/animal-fat-tirupati-laddu-controversy-9577404/)
 
