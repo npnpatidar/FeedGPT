@@ -1,3 +1,8 @@
+Fri, 20 Sep 2024 20:30:34 +0000
+### [How Starlink satellites are ‘blinding’ astronomers](https://indianexpress.com/article/explained/explained-sci-tech/starlink-satellites-elon-musk-radio-astronomy-electromagnetic-radiation-9579634/)
+
+A new study reveals that Starlink's growing constellation of satellites is significantly hindering radio astronomy observations. The satellites emit radio noise, or unintended electromagnetic radiation, which interferes with the detection of faint radio waves from celestial objects.  This interference is likened to trying to see a faint star next to a bright full moon, effectively blinding the radio telescopes.  The study also found that Starlink's newer generation satellites emit even more radio noise than the previous generation, despite earlier efforts to reduce it.  As the number of satellites in orbit continues to increase, experts emphasize the need for regulations to mitigate the impact of satellite radio noise on astronomical research.  Current approaches rely heavily on cooperation with satellite operators to minimize interference.
+
 Fri, 20 Sep 2024 14:34:10 +0000
 ### [Bombay HC strikes down Centre’s ‘fake news’ fact check rule — why did it need the opinion of a third judge?](https://indianexpress.com/article/explained/explained-law/bombay-hc-fake-news-fact-check-rule-9579351/)
 

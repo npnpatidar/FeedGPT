@@ -1,3 +1,8 @@
+Fri, 20 Sep 2024 20:15:21 +0000
+### [Why exploding devices attack in Lebanon blurs line between extremists’s methods, state action](https://indianexpress.com/article/opinion/editorials/why-exploding-devices-attack-in-lebanon-blurs-line-between-extremistss-methods-state-action-9579604/)
+
+The escalating conflict between Israel and its adversaries raises concerns about Israeli actions, which are becoming increasingly indiscriminate and harmful. The recent attack on a Hezbollah pager network in Lebanon, causing significant civilian casualties, highlights the disproportionate nature of the response and the risk of Israel mirroring the tactics of its enemies.  Even Israel's allies, such as the US, express alarm over the death toll in Gaza and the international community condemns the Israeli government's actions.  Public protests within Israel against the government's handling of the conflict underscore growing dissatisfaction. The situation is further complicated by Israel's military engagement beyond Gaza, expanding the potential for wider conflict.
+
 Fri, 20 Sep 2024 19:45:28 +0000
 ### [Walking is not just personal, it is political — a symbol of resistance](https://indianexpress.com/article/opinion/columns/walking-is-not-just-personal-it-is-political-a-symbol-of-resistance-9579608/)
 
