@@ -1,3 +1,15 @@
+Fri, 20 Sep 2024 18:58:47 +0530
+### [Economic crisis, taxes and more... The key issues in Sri Lanka's presidential elections](https://www.firstpost.com/explainers/economic-crisis-taxes-and-more-the-key-issues-in-sri-lankas-presidential-elections-13817435.html)
+
+Sri Lanka's upcoming election is focused on key economic issues facing the nation. The country is recovering from its 2022 financial crisis, but faces challenges like achieving sustainable growth, managing its debt restructuring, and providing relief to the struggling population.  Candidates have proposed solutions ranging from tax reforms to job creation initiatives.  The geopolitical landscape also plays a role, with Sri Lanka striving to balance relationships with key players like India, China, and Japan. Whoever wins will need to address these multifaceted challenges to secure Sri Lanka's economic future.
+
+Fri, 20 Sep 2024 18:29:25 +0530
+### [How is Tirupati laddu made? Who supplied ‘adulterated’ ghee for prasad?](https://www.firstpost.com/explainers/tirupati-laddus-adulterated-ghee-animal-fat-beef-tallow-supplier-13817473.html)
+
+The Tirupati laddu, a traditional sweet offering to Lord Venkateswara, has been embroiled in controversy.  Andhra Pradesh Chief Minister N Chandrababu Naidu alleged that the previous government used animal fat instead of ghee in its preparation.  The TDP government released a lab report supporting this claim. 
+
+The Tirupati Temple (TTD) manages the laddu production, utilizing a process involving numerous quality checks and tests.  They procure ghee through a six-monthly e-tender process. Karnataka Milk Federation (KMF), formerly a major ghee supplier, has distanced itself from the controversy. Amul and A R Dairy Food Private Limited are among the current ghee suppliers. A R Dairy Food has denied any involvement in the alleged adulteration.
+
 Fri, 20 Sep 2024 17:31:01 +0530
 ### [Modi to attend Quad at Biden's Wilmington home: The 3-bedroom residence dear to US president](https://www.firstpost.com/explainers/pm-modi-quad-joe-biden-wilmington-home-3-bedroom-residence-us-president-13817404.html)
 

@@ -1,3 +1,13 @@
+Fri, 20 Sep 2024 19:39:43 +0530
+### [‘Kadaisi Ulaga Por’ movie review: Hiphop Tamizha Adhi’s ambitious dystopian film bites more than it can chew](https://www.thehindu.com/entertainment/movies/kadaisi-ulaga-por-movie-review-hiphop-tamizha-adhis-ambitious-dystopian-film-bites-more-than-it-can-chew/article68664399.ece)
+
+"Kadaisi Ulaga Por"  sees Hiphop Tamizha Adhi attempt his most ambitious project yet, a post-apocalyptic tale set in 2028 where a new world order wreaks havoc on Tamil Nadu. The film features a unique narrative structure with a politically ambitious character, Natraj, serving as the narrator.  Despite ambitious elements like VFX work depicting a devastated Chennai, the film struggles with an identity crisis, attempting to balance high-concept ideas with commercial tropes like comedy, action, and romance. The rushed romance subplot and underdeveloped supporting characters detract from the overall impact. Despite flaws, the film offers a fresh take on the post-apocalyptic genre and hints at a more compelling future storyline in a potential sequel.
+
+Fri, 20 Sep 2024 18:26:50 +0530
+### [‘The Penguin’ series premiere review: Grab on to Colin Farrell’s coat-tails for an explosive ride](https://www.thehindu.com/entertainment/movies/the-penguin-series-premiere-review-grab-on-to-colin-farrells-coat-tails-for-an-explosive-ride/article68664097.ece)
+
+"The Penguin", a spin-off of "The Batman," delves into the rise of Oswald Cobblepot as a powerful crime lord in Gotham City. Colin Farrell delivers a captivating performance as the calculating and ruthless Cobb, exploring his ambition, vulnerabilities, and transformation. Following the events of "The Batman," Cobb navigates a fractured criminal world, battling rival factions and vying for control. He encounters a mix of allies and enemies, including members of the Falcone family, who pose both challenges and opportunities. The series is a noir-infused crime drama drenched in the atmosphere of Gotham, revealing Cobb's complex motivations and journey towards becoming "The Penguin".
+
 Fri, 20 Sep 2024 17:22:05 +0530
 ### [‘Kadha Innuvare’ movie review: An uninspiring romantic tale lacking any emotional connect](https://www.thehindu.com/entertainment/movies/kadha-innuvare-movie-review-an-uninspiring-romantic-tale-lacking-any-emotional-connect/article68663863.ece)
 

@@ -1,3 +1,16 @@
+Fri, 20 Sep 2024 12:58:10 +0000
+### [Why has Donald Trump called India ‘a very big abuser’ of tariff?](https://indianexpress.com/article/explained/explained-global/donald-trump-india-abuser-tariff-9579205/)
+
+Donald Trump criticized India's import tariffs, calling it a "very big abuser" and claiming they impose high tariffs on American products. He has repeatedly made similar statements, alleging that India is a "tariff king" and that its tariffs reach 100% on certain goods. Trump proposes reciprocal taxes if elected in 2024 to counter these tariffs. While India's average tariff rate is indeed higher than that of the US, Japan, and the EU, it is comparable to other emerging economies.  Experts argue that India's tariff structure is part of a broader strategy to protect domestic industries and that a free trade agreement would be a more effective way to address US concerns about market access.
+
+Fri, 20 Sep 2024 12:29:01 +0000
+### [The arithmetic of cost and supply: Why ghee is naturally prone to adulteration](https://indianexpress.com/article/explained/explained-economics/tirupati-laddoo-ghee-animal-fat-9579129/)
+
+The Tirumala Tirupati Devasthanams (TTD) is facing controversy over the alleged use of adulterated ghee in its laddus. Andhra Pradesh Chief Minister N Chandrababu Naidu made the allegation, suggesting that animal fats were used during the previous regime. Financial analysts point out that the supplier’s low bid of Rs 320 per kg for pure ghee is unlikely, given the cost of producing genuine ghee at around Rs 485-495 per kg. Unscrupulous manufacturers may be tempted to adulterate ghee due to the price difference between milk fat and cheaper vegetable oils and animal fats. 
+
+
+The high demand for ghee, with organized dairies producing only around 3.65 lakh tonnes annually, and established players prioritizing retail sales,  makes it difficult to source genuine ghee in bulk at competitive prices. This could explain the TTD's challenge in procuring high-quality ghee for its large-scale offering.
+
 Fri, 20 Sep 2024 10:13:54 +0000
 ### [Why two dozen top scientists have expressed concern over the country’s flagship science awards](https://indianexpress.com/article/explained/india-science-awards-9578797/)
 
