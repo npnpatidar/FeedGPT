@@ -9728,3 +9728,10 @@ Started at 2024-09-21 20:11:52
 Finished at 2024-09-21 20:12:32
 Total time taken: 39.64653515815735 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-21 22:10:59
+3 Feed entries have been written to feeds/Explained_TH.xml
+3 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-21 22:11:40
+Total time taken: 41.176891565322876 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

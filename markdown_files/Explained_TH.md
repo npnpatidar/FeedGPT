@@ -1,3 +1,25 @@
+Sun, 22 Sep 2024 02:43:00 +0530
+### [Is the spike in India’s trade deficit a worry?](https://www.thehindu.com/business/Economy/is-the-spike-in-indias-trade-deficit-a-worry/article68668475.ece)
+
+India's merchandise trade deficit widened to $29.7 billion in August, the second highest on record. While exports contracted in July and August, imports surged, driven by a significant increase in gold imports.  This surge was attributed to reduced import duties, rising gold prices, and festive season stocking.  Despite the widening deficit, economists don't see it as a major concern due to India's strong economic growth and healthy foreign exchange reserves. 
+
+Global trade challenges, including a slowdown in developed markets and geopolitical uncertainties, are expected to make the path for India's export growth difficult.
+
+Sun, 22 Sep 2024 01:52:00 +0530
+### [Jill Stein: Three’s not a crowd](https://www.thehindu.com/news/international/jill-stein-threes-not-a-crowd/article68668580.ece)
+
+Jill Stein, the Green Party's presidential candidate, is challenging the two-party system in the 2024 US election.  While her party is unlikely to win, Stein's stance against US arms support for Israel during the war on Gaza has resonated with some voters.  Stein, a physician and environmental activist, advocates for a Green New Deal and policies such as abolishing student debt and providing universal healthcare.  She has faced criticism from Democrats, including Vice President Kamala Harris, for her strong anti-war views and her labeling of US leaders as "war criminals." Despite her limited chances of victory, Stein's campaign is impacting the election, particularly among Muslim voters in key swing states.
+
+Sun, 22 Sep 2024 01:32:00 +0530
+### [Pokrovsk: The Russians are coming](https://www.thehindu.com/news/international/pokrovsk-the-russians-are-coming/article68668563.ece)
+
+Pokrovsk, a strategically important Ukrainian city in the Donetsk region, faces increasing pressure from advancing Russian troops.  The city, with its vital railway station and road intersections, has become a key target for Russia after capturing Avdiivka earlier this year.  
+
+Ukrainian President Zelenskyy describes the situation in Pokrovsk as "difficult" as Russian forces seek to encircle the city from both north and south. A Ukrainian cross-border attack on Russia's Kursk region aimed to divert troops from Pokrovsk, but Russia reinforced its Kursk defense and intensified its offensive towards the Ukrainian city.
+
+The capture of Pokrovsk would be a significant strategic victory for Russia, disrupting Ukrainian supply lines and putting other key towns at risk. It would also bring Russia closer to Ukraine's deep rear, advancing Putin's goal of full control over the Donbas region. 
+Despite being outnumbered and outgunned, Ukraine remains determined to defend Pokrovsk and is seeking long-range strike capabilities from NATO allies to counter Russian aggression.
+
 Sun, 22 Sep 2024 01:12:00 +0530
 ### [Atishi Marlena: From the backroom to the top](https://www.thehindu.com/news/national/atishi-marlena-from-the-backroom-to-the-top/article68668548.ece)
 
