@@ -1,3 +1,12 @@
+Sat, 21 Sep 2024 09:59:42 +0000
+### [How Earth may once have had a Saturn-like ring](https://indianexpress.com/article/explained/explained-climate/how-earth-may-once-have-had-a-saturn-like-ring-9580589/)
+
+A new study proposes that Earth may have had a ring system around 466 million years ago. This ring, formed by the gravitational breakup of an asteroid, would have consisted of debris orbiting Earth's equator. 
+
+Over time, the ring's material was pulled towards Earth, with smaller pieces burning up in the atmosphere and larger pieces creating impact craters. Analysis of these craters, concentrated near the equator and dating back to the Ordovician period, supports the existence of a ring.
+
+The presence of a ring would have significantly affected Earth's climate, potentially acting as a giant parasol and leading to global cooling. This coincides with the period of dramatic cooling and the Hirnantian Ice Age. Further research is needed to confirm the link between the ring and the Earth's climate change.
+
 Sat, 21 Sep 2024 02:35:25 +0000
 ### [Explained: Changes in Canada’s international work permit system to reduce immigration](https://indianexpress.com/article/explained/changes-canada-immigration-study-abroad-9579347/)
 

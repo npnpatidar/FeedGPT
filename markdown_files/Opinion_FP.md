@@ -1,3 +1,19 @@
+Sat, 21 Sep 2024 15:03:38 +0530
+### [Why PM Modi’s US visit is an ideal opportunity to capitalise on shared interests](https://www.firstpost.com/opinion/why-pm-modis-us-visit-is-an-ideal-opportunity-to-capitalise-on-shared-interests-13817685.html)
+
+Prime Minister Modi's visit to the US includes participation in the Quad summit, the Summit of the Future at the UN, and meetings with American CEOs and the Indian diaspora. While a meeting with Muhammad Yunus of Bangladesh is unlikely, India-US relations have seen advancements under the Biden administration, with a state visit by Modi, Congress address, and agreements on defense and critical technology cooperation. 
+
+Challenges remain, including US concerns about India's ties with Russia and human rights issues. Despite these differences, both administrations have valued the relationship, and India is committed to the Quad as a global good.
+
+Sat, 21 Sep 2024 14:33:15 +0530
+### [How Ayatollah Khamenei's remarks could derail Indo-Iranian cooperation](https://www.firstpost.com/opinion/how-ayatollah-khameneis-remarks-could-derail-indo-iranian-cooperation-13817674.html)
+
+Ayatollah Khamenei's statement about the suffering of Indian Muslims, comparing their situation to that of Palestinians and Rohingyas, has caused friction in India-Iran relations. 
+
+India's Ministry of External Affairs strongly criticized the remarks, calling them misinformed and unacceptable. Khamenei's statement, which some argue is posturing to portray Iran as the leader of the Muslim world, has raised concerns about public perception of India within Iran. 
+
+Despite previous gestures of goodwill from India, including vaccine assistance and support for the development of the Chabahar port, existing tensions, such as US sanctions and the insurgency in Iran's Sistan-Baluchistan province, further complicate the situation.
+
 Fri, 20 Sep 2024 17:30:47 +0530
 ### [Can India counter Pakistan's proxy play with Baloch card?](https://www.firstpost.com/opinion/can-india-counter-pakistans-proxy-play-with-baloch-card-13817460.html)
 

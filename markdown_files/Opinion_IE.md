@@ -1,3 +1,8 @@
+Sat, 21 Sep 2024 08:40:32 +0000
+### [What Pakistan’s press says about the Kashmir elections, and do Indians care about Sri Lankan polls?](https://indianexpress.com/article/opinion/columns/kashmir-elections-and-sri-lankan-polls-india-pakistan-9580495/)
+
+Sri Lanka holds a presidential election amid an ongoing economic crisis. Polls show potential frontrunners including Anura Kumara Dissanayake, Sajith Premadasa, Ranil Wickremesinghe, and Namal Rajapaksa. The election comes with high stakes, as citizens grapple with inflation, shortages, and power cuts. Media outlets urge voters to choose wisely and focus on economic recovery and combating corruption.
+
 Sat, 21 Sep 2024 06:29:37 +0000
 ### [Sri Lanka’s elections, a country at the crossroads: Is it time for radical change?](https://indianexpress.com/article/opinion/columns/sri-lanka-elections-9580113/)
 

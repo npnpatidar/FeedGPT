@@ -1,3 +1,13 @@
+Sat, 21 Sep 2024 15:21:40 +0530
+### [Who was Mohamed Al Fayed? Billionaire with ties to Princess Diana, now facing dark allegations](https://www.firstpost.com/explainers/who-was-mohamed-al-fayed-billionaire-with-ties-to-princess-diana-now-facing-dark-allegations-13817662.html)
+
+Mohamed Al Fayed, the former owner of Harrods, has faced posthumous accusations of sexual assault and rape from over 20 former employees. Spanning from 1985 to 2010, the allegations include incidents that occurred in various locations, such as London, Paris, Saint-Tropez, and Abu Dhabi.  Lawyers representing the victims claim that Harrods failed to prevent the abuse and may have even participated in cover-ups.  
+
+Harrods, now under new ownership, has condemned Al Fayed's actions and acknowledged their responsibility in failing to protect employees.  Ongoing legal investigations are taking place in both the UK and the US, with lawsuits targeting Al Fayed's estate and potentially the UK Metropolitan Police.
+
+
+Al Fayed, who gained international attention for his ownership of Harrods and the Ritz Paris, and also for his connection to Princess Diana, died in August 2023 at the age of 94.
+
 Sat, 21 Sep 2024 13:27:43 +0530
 ### [Will a far-right surge in Germany's Brandenburg election decide Olaf Scholz's fate?](https://www.firstpost.com/explainers/will-a-far-right-surge-in-germany-brandenburg-election-decide-olaf-scholz-fate-13817644.html)
 
