@@ -1,3 +1,8 @@
+Sat, 21 Sep 2024 19:14:18 +0530
+### [Book review | Rajiv Dogra’s ‘Autocrats’ bets on humanity amid all signs of authoritarianism](https://www.firstpost.com/opinion/book-review-rajiv-dogras-autocrats-bets-on-humanity-amid-all-signs-of-authoritarianism-13817778.html)
+
+The book "Autocrats: Charisma, Power and Their Lives" by Rajiv Dogra explores the origins and motivations of dictatorial figures.  Dogra examines various autocrats throughout history, such as Stalin, Hitler, and Saddam Hussein, analyzing their childhoods and how societal instability contributed to their rise.  The author also delves into the role of charisma and psychology, questioning whether these individuals are inherently born tyrants or shaped by their experiences. Dogra uses personal anecdotes from his diplomatic experience in Romania under Nicolae Ceausescu to illustrate the brutal consequences of dictatorship. He warns that the future may hold an even more sinister form of autocracy, driven by artificial intelligence. While acknowledging the bleak reality of history, Dogra maintains a glimmer of hope, believing that a better future is possible.
+
 Sat, 21 Sep 2024 17:29:50 +0530
 ### [A pale Beijing Xiangshan Forum shows China’s failure as a reliable global power](https://www.firstpost.com/opinion/a-pale-beijing-xiangshan-forum-shows-chinas-failure-as-a-reliable-global-power-13817743.html)
 

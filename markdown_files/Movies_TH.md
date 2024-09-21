@@ -1,3 +1,10 @@
+Sat, 21 Sep 2024 18:31:22 +0530
+### [Madhu Natraj’s ‘Kathas in Kathak’ showed how the dance form has evolved to tell new stories](https://www.thehindu.com/entertainment/dance/madhu-natrajs-kathas-in-kathak-showed-how-the-dance-form-has-evolved-to-tell-new-better/article68667056.ece)
+
+'Kathas in Kathak,' a performance by Natya STEM Dance Kampni, explored the history and evolution of the dance form. The show highlighted Kathak's resilience and adaptability, showcasing its transformation from temple dances to court dances. Through synchronized movements and storytelling, the performance depicted the form's ability to reflect historical context, social issues and even artistic innovations.  
+
+Celebrated as part of Natya Institute's 60th anniversary, the performance emphasized collaboration as a key element in keeping traditional dance forms alive and relevant. Madhu Natraj, the founder of Natya STEM Dance Kampni, stressed the importance of  pluralism and artistic dialogue in contemporary Kathak, ensuring that the dance form continues to evolve and connect with modern audiences.
+
 Sat, 21 Sep 2024 12:57:44 +0530
 ### [‘Never Let Go’ movie review: Halle Berry holds middling survival thriller together](https://www.thehindu.com/entertainment/movies/never-let-go-movie-review-halle-berry-holds-middling-survival-thriller-together/article68666839.ece)
 
