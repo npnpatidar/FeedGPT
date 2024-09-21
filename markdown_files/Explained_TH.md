@@ -1,3 +1,8 @@
+Sun, 22 Sep 2024 01:12:00 +0530
+### [Atishi Marlena: From the backroom to the top](https://www.thehindu.com/news/national/atishi-marlena-from-the-backroom-to-the-top/article68668548.ece)
+
+Atishi Marlena's journey from a backroom policy expert to Delhi's chief minister is marked by a combination of hard work, loyalty, and strategic maneuvering within the Aam Aadmi Party (AAP).  Her rise began after she joined the party in 2013, playing a key role in shaping its education policies. While initially a behind-the-scenes figure, she later faced a political test, aligning herself with the party leadership during a split with founding members. Her appointment as Education Minister witnessed her championing the AAP's ambitious education initiatives, earning her recognition and eventually the top job. Atishi's ascent coincides with  the party's increasing focus on Hindu nationalism and welfare measures, reflecting a calculated approach that aims to solidify their electoral base. In stepping down as chief minister after facing corruption allegations, Kejriwal entrusted the reins to Atishi, entrusting her with navigating the turbulent political landscape and heading into the upcoming elections. Atishi's future success hinges on her ability to maintain this balance between loyalty and her own political aspirations.
+
 Sat, 21 Sep 2024 12:40:41 +0530
 ### [What is California’s new anti-deepfake bill and can it stop manipulated political ads? | Explained](https://www.thehindu.com/sci-tech/technology/what-is-californias-new-anti-deepfake-bill-and-can-it-stop-manipulated-political-ads-explained/article68666857.ece)
 

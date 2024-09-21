@@ -1,3 +1,31 @@
+Sat, 21 Sep 2024 19:47:28 +0000
+### [The young girl’s world](https://indianexpress.com/article/opinion/columns/the-young-girls-world-9581114/)
+
+Changes Instagram is making to its platform, including default privacy for users under 18 and notifications ending at 10 pm, are an attempt to safeguard young people from the potential downsides of social media. However, the author argues that these changes don't address the deeper issue of social media's impact on childhood. 
+
+The author uses personal anecdotes to illustrate how social media, particularly influencer culture, is exposing young girls to beauty standards and consumerism at an increasingly younger age, influencing their perceptions of self-expression and leading to a focus on outward appearances. This, the author suggests, detracts from the innocence and freedom of preteen years, a time when self-discovery and exploration should be allowed to unfold naturally.
+
+Sat, 21 Sep 2024 19:46:30 +0000
+### [P Chidambaram writes | Kovind committee report: dead on arrival](https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-kovind-committee-report-dead-on-arrival-9581116/)
+
+The High Level Committee on Simultaneous Elections, led by Ram Nath Kovind, recommended holding elections to the Lok Sabha and state assemblies simultaneously every five years.  This recommendation, however, raises several concerns. 
+
+The committee's composition lacked substantial representation from constitutional experts, and the proposal itself deviates from established democratic models. Synchronized elections could force state assemblies elected in 2025-2028 to serve truncated terms, creating instability and disenfranchising voters. The idea also threatens the core principles of parliamentary democracy, responsible to the people's representatives daily, not on a fixed five-year term. 
+
+Moreover, the government's push for simultaneous elections faces significant opposition, as the amendments required would likely be defeated in Parliament. Critics argue that this move aims to impose a singular narrative on India's diverse populace.
+
+Sat, 21 Sep 2024 19:46:27 +0000
+### [Inside Track: Shift from Nagpur](https://indianexpress.com/article/opinion/columns/inside-track-shift-from-nagpur-9581113/)
+
+The RSS is  shifting its base of operations to Delhi, with new buildings housing organizational headquarters, publications, and guest accommodation. This move raises questions about the future role of the Nagpur headquarters, where the RSS Sarsanghchalak currently resides. Meanwhile, the RSS's involvement in the Khalistan movement is under scrutiny following reported instances of hate speech and cyberattacks targeting Indian institutions.  Despite the RSS's official stance against separatism, its alleged connections to groups promoting Khalistan have sparked concerns about potential instability.
+
+Sat, 21 Sep 2024 19:43:25 +0000
+### [Tavleen Singh writes: Kashmir and Pakistan](https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-kashmir-and-pakistan-9581112/)
+
+The article criticizes the language used by Prime Minister Modi and Home Minister Shah during the Jammu & Kashmir election campaign.  The author argues that portraying the opposition Congress as aligned with Pakistan is divisive and harmful.  They question the validity of these claims, highlighting the lack of evidence and the BJP's tendency to resort to baseless accusations.  
+
+The author also reflects on the improved security situation in Kashmir, but notes the underlying frustration among the population due to the denial of political rights.  They suggest that domestic policies play a larger role in the Kashmir conflict than external threats and urge the Indian government to acknowledge its own mistakes and work towards healing the wounds of the region.
+
 Sat, 21 Sep 2024 10:30:48 +0000
 ### [Sri Sri Ravi Shankar writes on the art of peace](https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-writes-art-peace-9580596/)
 

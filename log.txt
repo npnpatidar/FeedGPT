@@ -9720,3 +9720,11 @@ Started at 2024-09-21 18:15:00
 Finished at 2024-09-21 18:15:42
 Total time taken: 41.90490794181824 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-21 20:11:52
+1 Feed entries have been written to feeds/Explained_TH.xml
+4 Feed entries have been written to feeds/Opinion_IE.xml
+5 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-21 20:12:32
+Total time taken: 39.64653515815735 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
