@@ -67,6 +67,11 @@ Fri, 20 Sep 2024 19:00:05 +0000
 
 The author applauds the Booker Prize shortlist's inclusion of five women authors but questions the celebration as groundbreaking. They argue that while White women have been consistently represented in the prize, authors of color, especially Black authors, have been significantly overlooked.  Despite recent wins by Black authors, the author points to historical disparities and questions if the Booker truly reflects diversity.  They use the example of Bernardine Evaristo's win, highlighting that she had to share the prize with Margaret Atwood, whose own win was seen as less noteworthy compared to Evaristo's work.  The author concludes by asking writers to critically examine the complexities of identity and prioritize addressing power imbalances rather than seeking simply being recognized as "great."
 
+Fri, 20 Sep 2024 19:00:05 +0000
+### [Why women dominating Booker Prize shortlist is not the good news it seems](https://indianexpress.com/article/opinion/columns/women-dominating-booker-prize-shortlist-9579597/)
+
+The recent Booker Prize shortlist, featuring five women writers, has been celebrated as a milestone for gender equality in literature. However, the author argues that this celebration overlooks the ongoing underrepresentation of Black writers in the prize. Despite a history of White women authors being shortlisted and winning, it took until 1987 for a Black author to even make the shortlist.  The author emphasizes the need to address the privilege embedded within the  celebration of "female" authorship, particularly the  situation where White women's experiences are often prioritized over those of women of color. They urge for a more nuanced understanding of identity and power dynamics within the literary world.
+
 Fri, 20 Sep 2024 12:22:21 +0000
 ### [One Nation One Election: Empowering the marginalised voter](https://indianexpress.com/article/opinion/columns/one-nation-one-election-empowering-marginalised-voter-9579120/)
 

@@ -5,6 +5,15 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Explained_IE.xml</link>
 		<description>Explained IE</description>
 		<item>
+			<title>Explained: Changes in Canada’s international work permit system to reduce immigration</title>
+			<link>https://indianexpress.com/article/explained/changes-canada-immigration-study-abroad-9579347/</link>
+			<description>Canadian Prime Minister Justin Trudeau announced plans to reduce the number of international work permits issued. This includes a 35% decrease in student permits this year and another 10% next year, along with a reduction in low-wage, temporary foreign work permits. The government cites pressure on infrastructure, rising rents, and concerns about fraudulent asylum claims as reasons for the changes. These measures are part of a broader effort to limit temporary residents to 5% of Canada's population. The shift is expected to impact international students, particularly those in non-critical fields, who may face stricter eligibility requirements, including a new language proficiency test. The Canadian government aims to prioritize skilled workers and align immigration policies with long-term economic goals.</description>
+			<pubDate>Sat, 21 Sep 2024 02:35:25 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/2024-09-18T185530Z_2092937673_RC263AARC2F0_RTRMADP_3_CANADA-POLITICS.jpeg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/2024-09-18T185530Z_2092937673_RC263AARC2F0_RTRMADP_3_CANADA-POLITICS.jpeg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>A new White Revolution: where India stands, where it aims to be</title>
 			<link>https://indianexpress.com/article/explained/explained-economics/a-new-white-revolution-where-india-stands-where-it-aims-to-be-9579806/</link>
 			<description>India's dairy sector, currently the world's largest milk producer, aims to expand through "White Revolution 2.0". This initiative focuses on cooperative societies, which will procure 50% more milk by 2028-29. The government plans to establish  new dairy cooperatives, particularly in regions with limited coverage, and strengthen existing ones with advanced infrastructure.  
@@ -19,6 +28,17 @@ Funding will come from the National Programme for Dairy Development (NPDD) 2.0, 
 			<title>How Starlink satellites are ‘blinding’ astronomers</title>
 			<link>https://indianexpress.com/article/explained/explained-sci-tech/starlink-satellites-elon-musk-radio-astronomy-electromagnetic-radiation-9579634/</link>
 			<description>A new study reveals that Starlink's growing constellation of satellites is significantly hindering radio astronomy observations. The satellites emit radio noise, or unintended electromagnetic radiation, which interferes with the detection of faint radio waves from celestial objects.  This interference is likened to trying to see a faint star next to a bright full moon, effectively blinding the radio telescopes.  The study also found that Starlink's newer generation satellites emit even more radio noise than the previous generation, despite earlier efforts to reduce it.  As the number of satellites in orbit continues to increase, experts emphasize the need for regulations to mitigate the impact of satellite radio noise on astronomical research.  Current approaches rely heavily on cooperation with satellite operators to minimize interference.</description>
+			<pubDate>Fri, 20 Sep 2024 20:30:34 +0000</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://images.indianexpress.com/2024/09/starlink.jpg"></media:thumbnail>
+			<media:content url="https://images.indianexpress.com/2024/09/starlink.jpg" medium="image"></media:content>
+		</item>
+		<item>
+			<title>How Starlink satellites are ‘blinding’ astronomers</title>
+			<link>https://indianexpress.com/article/explained/explained-sci-tech/starlink-satellites-elon-musk-radio-astronomy-radiation-9579634/</link>
+			<description>A new study reveals that Starlink satellites, designed to provide internet access, are interfering with radio astronomy observations.  The satellites emit radio noise, which blinds radio telescopes much like bright lights hinder our vision.  This interference is significant because it makes it difficult for scientists to study celestial objects using radio waves. 
+
+The issue is amplified by the fact that Starlink's second-generation satellites are 32 times brighter than the first generation. With plans to launch thousands more satellites,  experts are calling for regulations to minimize radio noise from satellites, similar to those already in place for ground-based electronic sources.</description>
 			<pubDate>Fri, 20 Sep 2024 20:30:34 +0000</pubDate>
 			<ai_summary>True</ai_summary>
 			<media:thumbnail url="https://images.indianexpress.com/2024/09/starlink.jpg"></media:thumbnail>
