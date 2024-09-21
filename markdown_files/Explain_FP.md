@@ -1,3 +1,19 @@
+Sat, 21 Sep 2024 11:03:26 +0530
+### [How are Kerala-born techie and Hungarian businesswoman involved in Lebanon pager blasts?](https://www.firstpost.com/explainers/how-are-kerala-born-techie-and-hungarian-businesswoman-involved-in-lebanon-pager-blasts-13817618.html)
+
+A multinational investigation is underway following deadly pager explosions in Lebanon that killed dozens and injured over 3,000.  Authorities are focusing on Cristiana Barsony-Arcidiacono, an Italian-Hungarian businesswoman, and Rinson Jose, a Kerala-born Norwegian tech entrepreneur. 
+
+Barsony-Arcidiacono's company, BAC Consulting, licensed pager design from a Taiwanese manufacturer, while Jose's Bulgarian company, Norta Global Ltd., is suspected to have facilitated the sale of the pagers to Hezbollah. Both deny direct involvement in the explosions.  
+
+The investigation centers on how the pagers were weaponized, with theories ranging from interception and rigging to Israeli orchestration through a complex supply chain.  Authorities are still seeking answers about the weaponization process, Norta Global's financial dealings, and Jose's whereabouts.
+
+Sat, 21 Sep 2024 09:50:41 +0530
+### [This Week in India: How did Tirupati temple laddus get adulterated with animal fat?](https://www.firstpost.com/explainers/this-week-in-india-how-did-tirupati-laddus-get-adulterated-with-animal-fat-13817476.html)
+
+This week in India saw several prominent events.  A political row ignited after allegations of animal fat being used in the famous Tirupati Temple laddus, with the TDP releasing a report supporting the claims. In Delhi, Arvind Kejriwal resigned as chief minister, calling it an 'agnipariksha' and calling for early elections, followed by Atishi being appointed as the next CM. 
+
+Concerns about overworking culture in India were heightened after a mother's letter went viral, detailing her daughter's death and attributing it to the extreme workload at her firm.  Meanwhile, India reacted strongly to Ayatollah Ali Khamenei's remarks about the condition of Muslims in India, labelling them as "misinformed."  The first phase of Jammu and Kashmir elections after a decade took place, and Bengaluru airport  increased vigilance to prevent the spread of mpox.
+
 Sat, 21 Sep 2024 08:32:59 +0530
 ### [Sri Lanka presidential election today: What’s at stake for India?](https://www.firstpost.com/explainers/sri-lanka-presidential-election-2024-india-china-ties-13816788.html)
 
