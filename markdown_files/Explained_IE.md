@@ -1,3 +1,10 @@
+Fri, 20 Sep 2024 23:22:47 +0000
+### [A new White Revolution: where India stands, where it aims to be](https://indianexpress.com/article/explained/explained-economics/a-new-white-revolution-where-india-stands-where-it-aims-to-be-9579806/)
+
+India's dairy sector, currently the world's largest milk producer, aims to expand through "White Revolution 2.0". This initiative focuses on cooperative societies, which will procure 50% more milk by 2028-29. The government plans to establish  new dairy cooperatives, particularly in regions with limited coverage, and strengthen existing ones with advanced infrastructure.  
+
+Funding will come from the National Programme for Dairy Development (NPDD) 2.0, which will support village-level milk procurement systems, chilling facilities, and training programs.  White Revolution 2.0 targets increased milk procurement, greater employment opportunities, and empowerment of women in the sector.
+
 Fri, 20 Sep 2024 20:30:34 +0000
 ### [How Starlink satellites are ‘blinding’ astronomers](https://indianexpress.com/article/explained/explained-sci-tech/starlink-satellites-elon-musk-radio-astronomy-electromagnetic-radiation-9579634/)
 
