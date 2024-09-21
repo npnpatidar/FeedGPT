@@ -1,3 +1,10 @@
+Sat, 21 Sep 2024 08:32:59 +0530
+### [Sri Lanka presidential election today: What’s at stake for India?](https://www.firstpost.com/explainers/sri-lanka-presidential-election-2024-india-china-ties-13816788.html)
+
+Sri Lanka's upcoming presidential election is of significant interest to India due to both the island nation's strategic location and the changing geopolitical landscape in the region. India views a stable and friendly Sri Lankan government as crucial for its own security and economic interests, particularly given its concerns over China's growing influence in the Indian Ocean region.  
+
+The election outcome could influence India's relations with Sri Lanka, as well as its ability to counter Chinese influence in the strategically important Indian Ocean region. India is particularly concerned about the possibility of a victory by Anura Kumara Dissanayake, a candidate perceived as pro-China, as this could jeopardize its positive relationship with Sri Lanka.
+
 Fri, 20 Sep 2024 20:23:55 +0530
 ### [Alia Bhatt has attention deficit disorder: What is it? How common is it?](https://www.firstpost.com/health/alia-bhatt-attention-deficit-disorder-adhd-symptoms-13817525.html)
 
