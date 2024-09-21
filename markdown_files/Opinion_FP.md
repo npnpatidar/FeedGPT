@@ -1,3 +1,17 @@
+Sat, 21 Sep 2024 17:29:50 +0530
+### [A pale Beijing Xiangshan Forum shows China’s failure as a reliable global power](https://www.firstpost.com/opinion/a-pale-beijing-xiangshan-forum-shows-chinas-failure-as-a-reliable-global-power-13817743.html)
+
+Despite its growing economic and military power, China struggles to project itself as a peaceful and trustworthy actor on the world stage. The annual Xiangshan Forum, organized by China to rival the Shangri-La Dialogue, has failed to garner the same international attention and influence.  While China promotes initiatives like the Global Security Initiative, its actions in the region, such as military assertiveness in the Taiwan Strait and South China Sea, undermine its credibility.  The lack of enthusiasm and critical dialogue at the Xiangshan Forum highlights China's struggles to cultivate soft power and build genuine trust with other nations.  The limited media coverage reflects the forum's inability to achieve its stated aims of promoting peace and dialogue.
+
+Sat, 21 Sep 2024 16:29:23 +0530
+### [Harris vs Trump: US presidential election is a close race; it's a do or die moment](https://www.firstpost.com/opinion/harris-vs-trump-us-presidential-election-is-a-close-race-its-a-do-or-die-moment-13817707.html)
+
+The 2024 US presidential race is shaping up to be a closely contested affair between Kamala Harris and Donald Trump. While Harris currently holds a slight lead in national polls, the race is tighter in key battleground states. 
+
+The first and possibly only debate between the two candidates took place on September 10th. Harris was seen as the stronger performer, appearing confident and articulate, while Trump continued to make unsubstantiated claims and avoid direct answers. 
+
+Despite Trump's loyal base, Harris has garnered support from prominent Republicans and celebrities like Taylor Swift, potentially influencing undecided voters. The outcome hinges on a handful of purple states, with Pennsylvania being particularly crucial.  The race remains unpredictable, with any misstep potentially proving fatal for either candidate.
+
 Sat, 21 Sep 2024 15:03:38 +0530
 ### [Why PM Modi’s US visit is an ideal opportunity to capitalise on shared interests](https://www.firstpost.com/opinion/why-pm-modis-us-visit-is-an-ideal-opportunity-to-capitalise-on-shared-interests-13817685.html)
 

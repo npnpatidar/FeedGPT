@@ -1,3 +1,8 @@
+Sat, 21 Sep 2024 10:59:07 +0000
+### [As PM Modi leaves for summit in US: What is Quad?](https://indianexpress.com/article/explained/explained-global/pm-modi-us-summit-quad-9580686/)
+
+The Quad grouping, comprising India, the US, Japan, and Australia, was initially formed in 2007 to coordinate disaster relief efforts following the Indian Ocean tsunami. Resurfaced in 2017 amid growing concerns over China's regional influence, the Quad aims to enhance maritime security, address climate change, foster investment, and promote technological innovation in the Indo-Pacific region. The group operates through existing agreements and joint initiatives, avoiding a formal structure with a secretariat or collective defense provisions. While collaboration has expanded to include joint military exercises, the Quad's primary objective remains countering China's assertiveness. Despite its declared focus on a broader agenda, China views the Quad as a strategic encirclement effort and has consistently opposed its existence.
+
 Sat, 21 Sep 2024 09:59:42 +0000
 ### [How Earth may once have had a Saturn-like ring](https://indianexpress.com/article/explained/explained-climate/how-earth-may-once-have-had-a-saturn-like-ring-9580589/)
 

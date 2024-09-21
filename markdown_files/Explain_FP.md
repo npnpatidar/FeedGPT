@@ -1,3 +1,10 @@
+Sat, 21 Sep 2024 16:35:21 +0530
+### [In Graphics | What is Mossad, Israel's spy agency? How does it function?](https://www.firstpost.com/explainers/in-graphics-what-is-mossad-israel-spy-agency-how-does-it-function-13817719.html)
+
+Mossad, Israel's intelligence agency, has gained international attention for its alleged involvement in a covert attack against Hezbollah in Lebanon. The operation, reportedly utilizing explosive-laden pagers, demonstrates Mossad's renowned precision and ingenuity.  
+
+Established in 1949, Mossad's primary functions include intelligence gathering, counterterrorism, and conducting covert missions globally. The agency is known for its extensive human intelligence networks, advanced technology, and highly trained agents who operate in deep cover.  Mossad's history includes daring operations such as the capture of Adolf Eichmann and the neutralization of key figures in enemy nuclear programs.
+
 Sat, 21 Sep 2024 15:21:40 +0530
 ### [Who was Mohamed Al Fayed? Billionaire with ties to Princess Diana, now facing dark allegations](https://www.firstpost.com/explainers/who-was-mohamed-al-fayed-billionaire-with-ties-to-princess-diana-now-facing-dark-allegations-13817662.html)
 

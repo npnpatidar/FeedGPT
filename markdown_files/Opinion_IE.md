@@ -1,3 +1,8 @@
+Sat, 21 Sep 2024 10:30:48 +0000
+### [Sri Sri Ravi Shankar writes on the art of peace](https://indianexpress.com/article/opinion/columns/sri-sri-ravi-shankar-writes-art-peace-9580596/)
+
+This article argues that true world peace starts with individual peace. It emphasizes that  conflict arises from a breakdown in communication and a unwillingness to see the other side's perspective.  Dialogue is crucial for resolving conflict, as it allows parties to understand each other's motivations and find common ground.  The author highlights the importance of inner peace combined with  outer dynamism to effectively mediate peace.  Successful mediators should be unbiased, listen attentively, and guide parties toward creative solutions rather than imposing pre-determined outcomes.  Ultimately, the article calls for a collective commitment to internal peace as the foundation for a more peaceful world.
+
 Sat, 21 Sep 2024 08:40:32 +0000
 ### [What Pakistan’s press says about the Kashmir elections, and do Indians care about Sri Lankan polls?](https://indianexpress.com/article/opinion/columns/kashmir-elections-and-sri-lankan-polls-india-pakistan-9580495/)
 
