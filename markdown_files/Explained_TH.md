@@ -1,3 +1,12 @@
+Sat, 21 Sep 2024 12:40:41 +0530
+### [What is California’s new anti-deepfake bill and can it stop manipulated political ads? | Explained](https://www.thehindu.com/sci-tech/technology/what-is-californias-new-anti-deepfake-bill-and-can-it-stop-manipulated-political-ads-explained/article68666857.ece)
+
+Responding to the circulation of a deepfake video of Vice President Kamala Harris, California Governor Gavin Newsom signed three bills aimed at combating the spread of misleading AI-generated content in elections. The bills require online platforms to remove or label election-related deepfakes during specific periods, expand the timeframe during which it's prohibited to distribute deceptive AI-generated content, and mandate disclosures for electoral ads containing AI or altered content. 
+
+While the bills' efficacy and enforcement remain to be seen, they represent an effort to safeguard election integrity and combat the potential for AI-driven disinformation.  
+
+Musk, who initially shared the deepfake video, defended it as parody and claimed the governor's actions violated the Constitution.
+
 Fri, 20 Sep 2024 08:30:00 +0530
 ### [Sri Lankan polls: economy takes centre stage | Explained](https://www.thehindu.com/news/international/sri-lankan-polls-economy-takes-centre-stage-explained/article68661351.ece)
 

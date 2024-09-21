@@ -1,3 +1,8 @@
+Sat, 21 Sep 2024 12:57:44 +0530
+### [‘Never Let Go’ movie review: Halle Berry holds middling survival thriller together](https://www.thehindu.com/entertainment/movies/never-let-go-movie-review-halle-berry-holds-middling-survival-thriller-together/article68666839.ece)
+
+"Never Let Go" follows Halle Berry's character, Mother, who protects her twin sons in a post-apocalyptic world filled with monstrous creatures.   Living in a fortified farmhouse, the family relies on hunting and gathering while adhering to the strict rule of "never letting go" of the rope tied to the house. As a harsh winter approaches and doubts arise about the true nature of their world, they face a critical choice when a mysterious stranger arrives. Director Alexandre Aja crafts a tense atmosphere, exploring themes of trust, family bonds, and the thin line between reality and delusion.  Berry delivers a captivating performance, leaving viewers questioning the nature of the threats they face.
+
 Fri, 20 Sep 2024 19:39:43 +0530
 ### [‘Kadaisi Ulaga Por’ movie review: Hiphop Tamizha Adhi’s ambitious dystopian film bites more than it can chew](https://www.thehindu.com/entertainment/movies/kadaisi-ulaga-por-movie-review-hiphop-tamizha-adhis-ambitious-dystopian-film-bites-more-than-it-can-chew/article68664399.ece)
 

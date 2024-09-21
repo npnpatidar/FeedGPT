@@ -1,3 +1,19 @@
+Sat, 21 Sep 2024 13:27:43 +0530
+### [Will a far-right surge in Germany's Brandenburg election decide Olaf Scholz's fate?](https://www.firstpost.com/explainers/will-a-far-right-surge-in-germany-brandenburg-election-decide-olaf-scholz-fate-13817644.html)
+
+The Brandenburg state election is seen as a crucial test for German Chancellor Olaf Scholz and the Social Democratic Party (SPD).  The far-right AfD is leading in the polls, threatening the SPD's long-held dominance in the state. An AfD victory would be a blow to Scholz's leadership and could lead to calls for a change in leadership within the SPD. 
+
+The AfD's popularity stems from its nationalist rhetoric and opposition to immigration, wind farms, and Germany's support for Ukraine. However, even if the AfD wins, it faces obstacles in forming a government due to its extremist policies. The SPD's potential loss in Brandenburg could trigger internal discussions about a more assertive policy agenda and potential coalition instability, potentially leading to early national elections.
+
+Sat, 21 Sep 2024 11:55:23 +0530
+### [PM Modi leaves for US: What is Quad? What can we expect from sixth summit in Delaware?](https://www.firstpost.com/explainers/pm-narendra-modi-us-quad-summit-delware-india-us-australia-japan-13817379.html)
+
+Prime Minister Narendra Modi's three-day trip to the US includes attending the sixth Quad Summit in Wilmington, Delaware, hosted by US President Joe Biden.  The Quad, comprising India, the US, Japan, and Australia, aims to foster an open, stable, and prosperous Indo-Pacific region. 
+
+Although not a military alliance, the Quad conducts joint exercises and addresses regional challenges, including China's growing influence. The summit is expected to yield ambitious announcements on maritime security, infrastructure, and critical technologies, demonstrating the group's commitment to the Indo-Pacific. 
+
+Aside from the summit, Modi will have bilateral meetings with Biden,  Australian Prime Minister Albanese, and Japanese Prime Minister Kishida.
+
 Sat, 21 Sep 2024 11:03:26 +0530
 ### [How are Kerala-born techie and Hungarian businesswoman involved in Lebanon pager blasts?](https://www.firstpost.com/explainers/how-are-kerala-born-techie-and-hungarian-businesswoman-involved-in-lebanon-pager-blasts-13817618.html)
 

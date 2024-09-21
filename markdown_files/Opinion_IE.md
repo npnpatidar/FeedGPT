@@ -1,3 +1,12 @@
+Sat, 21 Sep 2024 06:29:37 +0000
+### [Sri Lanka’s elections, a country at the crossroads: Is it time for radical change?](https://indianexpress.com/article/opinion/columns/sri-lanka-elections-9580113/)
+
+The 2024 Sri Lankan presidential election is a pivotal moment for the nation, occurring amidst a severe economic crisis and widespread public dissatisfaction. 
+
+The election pits four leading candidates against each other, each offering a distinct vision for Sri Lanka's future. Ranil Wickremesinghe, the incumbent president, seeks to stabilize the economy through international loans and austerity measures, while Sajith Premadasa, leader of the centrist Samagi Jana Balawegaya (SJB), promises immediate economic relief and social welfare. Namal Rajapaksa, son of former President Mahinda Rajapaksa, represents the Sri Lanka Podujana Peramuna (SLPP), but faces challenges due to the party's dwindling support. Anura Kumara Dissanayake, leader of the leftist National People's Power (NPP), has gained significant traction by capitalizing on the "system change" demands that fueled the 2022 Aragalaya protests. 
+
+The winning candidate will face the daunting task of navigating economic recovery, public unrest, and international financial obligations. Whichever candidate emerges victorious, the 2024 election promises to reshape Sri Lanka's political landscape for years to come.
+
 Fri, 20 Sep 2024 20:15:21 +0000
 ### [Why exploding devices attack in Lebanon blurs line between extremists’s methods, state action](https://indianexpress.com/article/opinion/editorials/why-exploding-devices-attack-in-lebanon-blurs-line-between-extremistss-methods-state-action-9579604/)
 
