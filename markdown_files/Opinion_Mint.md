@@ -1,3 +1,26 @@
+Sun, 22 Sep 2024 15:30:02 +0530
+### [The US Fed’s uncertainty over a neutral rate is bad for bonds](https://www.livemint.com/opinion/online-views/fed-rate-cut-neutral-rate-us-federal-reserve-inflation-bond-market-unemployment-us-economy-jerome-powell-11726996505330.html)
+
+The US Federal Reserve lowered interest rates by half a percentage point, signaling progress in its fight against inflation. However, projections indicate that the "neutral" interest rate, where borrowing costs neither stimulate nor restrain the economy, is higher than previously estimated, possibly between 3% and 3.5%.  This suggests that longer-term bond yields may not fall significantly in the near future. Despite the rate cut, the Fed maintains a hawkish stance, emphasizing the need to monitor economic data and adjust policy accordingly. While inflation seems to be cooling down, the Fed acknowledges the ongoing uncertainty regarding the true "neutral" rate and remains focused on achieving its goals of stable prices and maximum employment.
+
+Sun, 22 Sep 2024 15:00:01 +0530
+### [Working conditions and human rights are two sides of the same coin](https://www.livemint.com/opinion/online-views/toxic-workplace-human-rights-udhr-work-culture-icai-70-hour-work-week-un-resolution-workplace-conditions-11726993760357.html)
+
+The death of a young chartered accountant employed at EY has reignited the debate on work-life balance and labor rights in India. The incident highlights the exploitation of employees through excessive working hours, raising concerns about their well-being and basic human rights. 
+
+Despite India being a signatory to the Universal Declaration of Human Rights, which guarantees the right to rest and leisure, including reasonable working hours, such provisions seem to be ignored in many sectors.  
+
+The article criticizes the silence of professional bodies like ICAI on this issue and the government's reluctance to enforce regulations safeguarding workers' rights. It draws parallels with countries like Australia and European nations, which have implemented policies promoting work-life balance, such as the right to disconnect from work after hours. 
+
+The author emphasizes the need for a shift in perspective, moving beyond the sole focus on market functions and acknowledging the broader social and ethical implications of workplace practices.
+
+Sun, 22 Sep 2024 14:00:00 +0530
+### [Manu Joseph: Nobody told us that Kashmiris are also ‘polarized’](https://www.livemint.com/opinion/online-views/kashmir-elections-article-370-abrogation-kashmiri-youth-polarization-politicians-corruption-voter-turnout-11726992809473.html)
+
+This article discusses the complexities of public opinion in Kashmir, challenging the notion that everyone there desires complete separation from India. The author argues that while some elements may call for revolution or "freedom," ordinary Kashmiris are often weary of conflict and yearn for normalcy. They express a desire for economic progress, social events like concerts and cricket matches, and a simple life. 
+
+These aspirations, the author contends, are often dismissed as shallow or frivolous by a vocal, elitist group who benefit from perpetuating the conflict narrative. The article calls for a more nuanced understanding of the Kashmiri people, recognizing the diverse range of views that exist beyond the simplistic binary of "pro-India" or "pro-independence."
+
 Sun, 22 Sep 2024 13:30:19 +0530
 ### [Traffic congestion is anti-national but there exists a way out](https://www.livemint.com/opinion/online-views/urban-traffic-congestion-social-capital-behavioural-changes-mumbai-traffic-pollution-bangalore-11726990119507.html)
 

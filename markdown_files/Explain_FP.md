@@ -1,3 +1,10 @@
+Sun, 22 Sep 2024 14:56:45 +0530
+### [What is Cancer Moonshot Initiative to which PM Modi has pledged at Quad?](https://www.firstpost.com/world/united-states/what-is-cancer-moonshot-initiative-to-which-pm-modi-has-pledged-at-quad-13817950.html)
+
+Quad leaders, including India's Prime Minister Modi, announced the Quad Cancer Moonshot Initiative to address cervical cancer in the Indo-Pacific region.  Inspired by the US Cancer Moonshot Initiative, the program aims to prevent over four million cancer deaths by 2047 and improve the patient experience. India pledged $7.5 million to support cancer testing, screening, and diagnostics, as well as contribute 40 million vaccines under Gavi and Quad initiatives.
+
+The initiative will focus on collaborations between hospitals, research centers, and cancer foundations, investment in screenings and treatments, research, and vaccination programs to improve cervical cancer prevention and care across the Indo-Pacific region. The Quad partners will also work with the UN and the International Atomic Energy Agency to lower screening costs and enhance access to quality medical imaging and radiation therapy.
+
 Sun, 22 Sep 2024 12:43:14 +0530
 ### [Silver train model for Joe Biden, Pashmina for Jill: The significance of PM Modi's gifts](https://www.firstpost.com/world/united-states/silver-train-model-for-joe-biden-pashmina-for-jill-the-significance-of-pm-modis-gifts-13817923.html)
 

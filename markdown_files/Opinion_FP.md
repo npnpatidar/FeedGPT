@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 15:24:06 +0530
+### [How CIA, Pentagon shape Hollywood narratives: Lessons for India](https://www.firstpost.com/opinion/how-cia-pentagon-shape-hollywood-narratives-lessons-for-india-13817957.html)
+
+Hollywood films often portray the US in a positive light, promoting American values and military strength.  This is partly due to the influence of the Pentagon and CIA, who have collaborated with filmmakers to shape narratives in their favor. 
+
+Movies like "Top Gun" and "Zero Dark Thirty" highlight this cooperation, with the military and intelligence agencies providing support and influencing storylines. This can be seen as a form of soft power, used to project a particular image of the US and garner public support for its actions. 
+
+Other countries, like China, have also recognized the power of Hollywood and exert their own influence on films to advance their interests. India, however, hasn't fully utilized the potential of cinema as a tool of soft power.
+
 Sat, 21 Sep 2024 19:14:18 +0530
 ### [Book review | Rajiv Dogra’s ‘Autocrats’ bets on humanity amid all signs of authoritarianism](https://www.firstpost.com/opinion/book-review-rajiv-dogras-autocrats-bets-on-humanity-amid-all-signs-of-authoritarianism-13817778.html)
 
