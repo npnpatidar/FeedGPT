@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 09:21:15 +0530
+### [This Week in Explainers: From Taiwan to Bulgaria, tracking origins of Hezbollah devices that exploded](https://www.firstpost.com/explainers/this-week-in-explainers-from-taiwan-to-bulgaria-tracking-origins-of-hezbollah-devices-that-exploded-13817446.html)
+
+Tensions are high in the Middle East as a series of explosions targeting Hezbollah fighters have occurred in Lebanon and Syria. Israeli authorities are suspected of being behind the attacks, which used pagers and walkie-talkies modified into bombs. Hezbollah leader Hassan Nasrallah has vowed revenge, and Israeli warplanes have conducted airstrikes in Beirut.  
+
+Meanwhile, former US president Donald Trump narrowly escaped an assassination attempt at his golf course in Florida. 
+
+In other news, Indian Prime Minister Narendra Modi participated in the Quad Summit in the US, meeting with President Joe Biden and attending a diaspora event. Sri Lanka held presidential elections with left-leaning candidate Anura Kumara Dissanayake leading the race.
+
 Sat, 21 Sep 2024 16:35:21 +0530
 ### [In Graphics | What is Mossad, Israel's spy agency? How does it function?](https://www.firstpost.com/explainers/in-graphics-what-is-mossad-israel-spy-agency-how-does-it-function-13817719.html)
 
