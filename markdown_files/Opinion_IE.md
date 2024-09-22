@@ -1,3 +1,26 @@
+Sun, 22 Sep 2024 22:00:05 +0000
+### [Express View: To move forward, Manipur needs dialogue among communities](https://indianexpress.com/article/opinion/columns/express-view-to-move-forward-manipur-needs-dialogue-among-communities-9582773/)
+
+Violence in Manipur has persisted despite calls for dialogue. A power struggle between the state administration and the Unified Command, headed by the Chief Minister's Security Advisor, further hampers security efforts. The state government's failure to prioritize dialogue and de-escalation has exacerbated ethnic tensions rooted in land, resources, and opportunity. The breakdown in command structure raises concerns about both internal stability and border security. A solution necessitates immediate de-escalation, inter-community dialogue, and a potential change in leadership to facilitate a collaborative approach and address the root causes of the conflict.
+
+Sun, 22 Sep 2024 21:30:17 +0000
+### [The Quad’s agenda may seem small, but its achievements are not](https://indianexpress.com/article/opinion/editorials/the-quads-agenda-may-seem-small-but-its-achievements-are-not-9582771/)
+
+The Quad, a forum comprising Australia, India, Japan, and the US, held its sixth summit emphasizing cooperation in various sectors, including cybersecurity, health, and technology. While some critics advocate for a stronger military focus within the Quad, especially against China's growing assertiveness, the group maintains a less confrontational approach, focusing on providing public goods in the Indo-Pacific.  
+
+India's preference for an informal alliance has shaped the Quad's expansive agenda, avoiding the perception of it being an "Asian NATO." The forum's light touch on security has garnered acceptance from ASEAN, while simultaneously allowing India to engage in deeper military cooperation with the US. Although not directly targeted at China, the Quad's rise in military capabilities, including the AUKUS pact and increased trilateral security cooperation, serves as a deterrent to Chinese expansionism.
+
+Sun, 22 Sep 2024 20:30:09 +0000
+### [September 23, 1984, Forty Years Ago: Lok Sabha polls to be held in December](https://indianexpress.com/article/opinion/40-years-ago/september-23-1984-forty-years-ago-lok-sabha-polls-to-be-held-in-december-9582774/)
+
+Indira Gandhi is set to call Lok Sabha elections in December, with an official announcement expected in October. Negotiations between the government and Akali leaders center on the rehabilitation of Baba Santa Singh, who was excommunicated for his actions at the Golden Temple. 
+
+In Andhra Pradesh, Chief Minister N T Rama Rao plans to review all decisions made during his brief absence, calling them "cheap gimmicks".
+
+Sino-Indian border negotiations in Beijing saw progress on guiding principles for a solution, though specific claims will be addressed in future rounds. 
+
+Meanwhile, the Indian women's chess team secured a gold medal at the Chess Olympiad after overcoming challenges without their top-ranked player.
+
 Sun, 22 Sep 2024 19:50:57 +0000
 ### [Taking stock of India’s military preparedness](https://indianexpress.com/article/opinion/columns/taking-stock-of-indias-military-preparedness-9582758/)
 
