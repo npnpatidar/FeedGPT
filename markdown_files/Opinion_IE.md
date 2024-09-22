@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 07:35:31 +0000
+### [Instagram Teen Accounts: Don’t put the burden on parents](https://indianexpress.com/article/opinion/columns/instagram-teen-accounts-burden-parents-9581900/)
+
+Meta has launched Instagram Teen Accounts, a new service designed to protect users aged 13 to 18 with  restrictions on contact and content exposure. This move follows years of criticism and legal action against Meta for its handling of Instagram's impact on young users' mental health. Some argue Meta's motives stem more from damage control than genuine concern for safety. 
+ 
+ Critics point to the reliance on parental controls, which may be ineffective in families with limited digital literacy or strained relationships, potentially widening the digital divide and creating safety disparities across different socioeconomic backgrounds and regions. 
+
+Meta's efforts are seen as insufficient without a broader redesign of the platform to prioritize positive online behavior and user safety for all, rather than just implementing limited protections for a subset of users.
+
 Sun, 22 Sep 2024 02:03:36 +0000
 ### [A little known chess story: The carpenter who won a silver at Olympiad](https://indianexpress.com/article/opinion/columns/a-little-known-chess-story-the-carpenter-who-won-a-silver-at-olympiad-9581428/)
 

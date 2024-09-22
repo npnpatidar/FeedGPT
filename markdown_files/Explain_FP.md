@@ -1,3 +1,15 @@
+Sun, 22 Sep 2024 12:43:14 +0530
+### [Silver train model for Joe Biden, Pashmina for Jill: The significance of PM Modi's gifts](https://www.firstpost.com/world/united-states/silver-train-model-for-joe-biden-pashmina-for-jill-the-significance-of-pm-modis-gifts-13817923.html)
+
+Prime Minister Modi gifted US President Joe Biden a silver train model handcrafted by artisans in Maharashtra. The model, made of 92.5% silver, features intricate filigree work and pays homage to the steam locomotive era. Inscribed on the carriage are "Delhi-Delaware" and "Indian Railways" reflecting the India-US relationship. This gift resonates with Biden's personal fondness for trains, earned him the nickname "Amtrak Joe."
+
+For First Lady Jill Biden, Modi chose a pashmina shawl, encased in a papier mache box. Pashmina, originating from the Changthangi goat's fleece in Ladakh, is celebrated for its exceptional softness and warmth. Traditionally packed in handcrafted papier mache boxes from Jammu and Kashmir, the shawl symbolizes India's rich handcraft legacy.
+
+Sun, 22 Sep 2024 11:47:21 +0530
+### [Are you gulping down water to get rid of a hangover? It's not the cure you think it is](https://www.firstpost.com/health/drinking-water-hangover-13816698.html)
+
+A new study suggests that drinking water does not effectively reduce hangover symptoms like nausea, headaches, or fatigue. While alcohol does dehydrate the body, researchers found that hydration did not significantly alleviate these symptoms.  Hangover symptoms are more likely due to alcohol's impact on metabolism,  oxidative stress, and the body's inflammatory response rather than solely dehydration. Currently, there is no proven cure for hangovers, but strategies like reducing alcohol consumption, getting sleep, and eating bland foods can provide some relief.
+
 Sun, 22 Sep 2024 11:08:07 +0530
 ### [PM Modi in US: From drone deal to support for India’s permanent UNSC seat, takeaways from day 1](https://www.firstpost.com/world/united-states/pm-modi-in-us-from-drone-deal-to-support-for-indias-permanent-unsc-seat-takeaways-from-day-1-13817906.html)
 

@@ -1,3 +1,8 @@
+Sun, 22 Sep 2024 13:30:19 +0530
+### [Traffic congestion is anti-national but there exists a way out](https://www.livemint.com/opinion/online-views/urban-traffic-congestion-social-capital-behavioural-changes-mumbai-traffic-pollution-bangalore-11726990119507.html)
+
+This article argues that traffic congestion in Indian cities like Bengaluru is not merely an economic or environmental problem, but a significant threat to social capital.  It explains how prolonged exposure to angry and aggressive driving behaviors damages social relationships and fosters distrust among citizens.  The author contends that this breakdown in social trust hinders cooperation and strengthens negative stereotypes, ultimately impeding the formation of a national consciousness that transcends divides based on caste, religion, or other social factors.  The article emphasizes the need for a collective shift in behavior, advocating for better public transportation and individual acts of civility as essential steps towards improving traffic conditions and fostering a more united and cooperative society.
+
 Fri, 20 Sep 2024 14:00:12 +0530
 ### [Success with services could make the elephant dance](https://www.livemint.com/opinion/online-views/service-sector-reform-manufacturing-gdp-services-policy-economic-growth-technology-globalization-supply-chain-11726815057980.html)
 

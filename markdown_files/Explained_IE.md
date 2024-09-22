@@ -1,3 +1,24 @@
+Sun, 22 Sep 2024 07:26:53 +0000
+### [Tupperware bankruptcy: How American women aided the brand’s early sales with home parties](https://indianexpress.com/article/explained/explained-culture/tupperware-bankruptcy-company-history-women-9581892/)
+
+Tupperware, a brand synonymous with iconic sealable plastic containers,  has filed for bankruptcy. The company, founded by Earl Tupper,  achieved global success in the mid-20th century through a revolutionary sales approach: Tupperware parties hosted by women in their homes.  
+
+ Brownies Wise, a marketing genius, spearheaded the strategy, empowering countless women as independent salespeople and consultants. This model, initially thriving in the post-World War II era, offered women a way to earn income while staying at home.  Despite its success,  Tupperware's reliance on this traditional model ultimately contributed to its decline, unable to attract younger generations.  
+
+
+Still, the brand's legacy endures, having influenced numerous other direct-selling companies and leaving an indelible mark on 20th-century history.
+
+Sun, 22 Sep 2024 06:21:18 +0000
+### [Quad summit with China as elephant in the room, Biden-Modi meeting: 7 takeaways from the PM’s US visit](https://indianexpress.com/article/explained/explained-global/quad-china-modi-biden-us-visit-9581744/)
+
+Prime Minister Narendra Modi and US President Joe Biden met in Wilmington, Delaware for the 6th Quad Leaders' Summit. The leaders emphasized that the Quad, consisting of India, US, Japan, and Australia, is not against any country but aims to promote a free and open Indo-Pacific region based on democratic values and international law. 
+
+They expressed concern about China's aggressive activities in the South China Sea, reaffirming the 2016 Arbitral Award as a significant milestone.  
+
+Several initiatives were announced, including a "Quad Cancer Moonshot" to combat cancer in the Indo-Pacific, a maritime observer mission, and a "Quad Ports of the Future Partnership" to enhance port resilience. 
+
+The leaders also discussed ways to further strengthen bilateral cooperation and global and regional issues.  Modi thanked Biden for returning 297 antiquities to India, strengthening cultural ties.
+
 Sat, 21 Sep 2024 10:59:07 +0000
 ### [As PM Modi leaves for summit in US: What is Quad?](https://indianexpress.com/article/explained/explained-global/pm-modi-us-summit-quad-9580686/)
 
