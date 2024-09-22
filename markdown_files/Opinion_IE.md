@@ -1,3 +1,10 @@
+Sun, 22 Sep 2024 02:03:36 +0000
+### [A little known chess story: The carpenter who won a silver at Olympiad](https://indianexpress.com/article/opinion/columns/a-little-known-chess-story-the-carpenter-who-won-a-silver-at-olympiad-9581428/)
+
+Before Viswanathan Anand's historic achievements, Mohamed Rafiq Khan made his mark in Indian chess history.  In 1980, Khan won a silver medal at the Chess Olympiad in Malta, India's first-ever medal in the prestigious event. Khan, a self-taught chess player who learned the game on the patiyas of Bhopal, never achieved the grandmaster title but was known for his practical playing style and earned the respect of "Ustaad" on the Madhya Pradesh chess scene. 
+
+He is remembered for his memorable victory over Belgian master Albéric O'Kelly de Galway twice using the O'Kelly Sicilian, a chess variation named after his opponent, highlighting Khan's talent and strategic brilliance.
+
 Sat, 21 Sep 2024 19:47:28 +0000
 ### [The young girl’s world](https://indianexpress.com/article/opinion/columns/the-young-girls-world-9581114/)
 

@@ -1,3 +1,10 @@
+Sun, 22 Sep 2024 07:33:12 +0530
+### [Haryana Assembly elections | What have parties promised in their manifestos?](https://www.thehindu.com/elections/haryana-assembly/haryana-assembly-elections-what-have-parties-promised-in-their-manifestos/article68666776.ece)
+
+The upcoming Haryana Assembly elections are witnessing a fierce contest between the incumbent Bharatiya Janata Party (BJP), the Congress party, and the Aam Aadmi Party (AAP).  The BJP is campaigning on a platform of freebies, job creation, and continuing its governance initiatives. The Congress, seeking to regain power, is heavily focused on 'freebies' and promises like a monthly allowance for women and the implementation of the Old Pension Scheme. AAP, despite its leader's recent incarceration, is aiming to make inroads with promises of free services and substantial economic benefits.  
+
+Other significant players in the fray include an alliance between the JJP and the ASP, and a coalition between the INLD and the BSP. These alliances are crucial as they aim to capitalize on the strong Dalit and Jat votes. With key issues like unemployment, farmers' welfare, and caste dynamics at the forefront, the elections are expected to be closely contested.
+
 Sun, 22 Sep 2024 02:43:00 +0530
 ### [Is the spike in India’s trade deficit a worry?](https://www.thehindu.com/business/Economy/is-the-spike-in-indias-trade-deficit-a-worry/article68668475.ece)
 
