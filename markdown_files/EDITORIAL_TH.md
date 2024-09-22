@@ -1,3 +1,15 @@
+Mon, 23 Sep 2024 00:20:00 +0530
+### [Unwarranted curbs: On the Centre’s move on a ‘fact-checking unit’](https://www.thehindu.com/opinion/editorial/unwarranted-curbs-on-the-centres-move-on-a-fact-checking-unit/article68670842.ece)
+
+The Bombay High Court has struck down the Centre's rule that empowered a fact-checking unit to order removal of 'fake' information from digital platforms.  Justice A.S. Chandurkar, in a tie-breaking ruling, agreed with Justice G.S. Patel that the rule violated freedom of expression due to vague definitions and lack of redress mechanisms. The government argued that the rule was necessary to tackle misinformation, but the court held that the government cannot be the judge in its own cause and that restricting speech based on truthfulness is not permissible under the Constitution.
+
+Mon, 23 Sep 2024 00:10:00 +0530
+### [Sri Lanka’s verdict: On the Island nation’s ninth Presidential election](https://www.thehindu.com/opinion/editorial/sri-lankas-verdict-on-the-ninth-presidential-election/article68671402.ece)
+
+Sri Lanka's ninth presidential election saw a victory for change with Anura Kumara Dissanayake of the National People’s Power (NPP) elected. Dissanayake, leader of the leftist JVP, secured a significant 42% of the vote share. The election reflects a shift away from traditional parties, amplified by the popular uprising "Aragalaya" which targeted economic woes.  
+
+Dissanayake, while advocating for a "system change,"  will face challenges in implementing his economic policies and promises, including the controversial abolishment of the executive presidency. While his manifesto indicates a commitment to  renegotiating the IMF bailout and a focus on foreign investment,  Dissanayake's stance on regional relations, particularly his perceived pro-China leanings, remains a point of interest. His pledge to hold provincial council elections offers hope for the Tamil community.
+
 Sat, 21 Sep 2024 00:20:00 +0530
 ### [Staunch the breach: On India, Pakistan and the Indus Waters Treaty](https://www.thehindu.com/opinion/editorial/staunch-the-breach-india-pakistan-and-the-indus-waters-treaty/article68664422.ece)
 

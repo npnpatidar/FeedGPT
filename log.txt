@@ -9813,3 +9813,11 @@ Started at 2024-09-22 18:14:46
 Finished at 2024-09-22 18:15:25
 Total time taken: 38.723376750946045 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-22 20:12:57
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+3 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-22 20:13:40
+Total time taken: 43.137484312057495 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

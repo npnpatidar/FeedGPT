@@ -1,3 +1,13 @@
+Sun, 22 Sep 2024 19:50:57 +0000
+### [Taking stock of India’s military preparedness](https://indianexpress.com/article/opinion/columns/taking-stock-of-indias-military-preparedness-9582758/)
+
+The inaugural Joint Commanders’ Conference (JCC), chaired by Defence Minister Rajnath Singh,  marks a significant step in fostering dialogue between the political leadership and the armed forces. While the annual Combined Commanders’ Conference (CCC) presided over by the Prime Minister focuses on broader strategic matters, the JCC offers a platform for in-depth discussions on professional matters.  The JCC’s theme, 'Transforming the Armed Forces,' reflects a longstanding Modi government priority. However, certain aspects of this transformation, such as the appointment of a retired three-star officer as  Chief of Defence Staff, have raised concerns about institutional norms.
+
+The state of the Indian military, including equipment modernization and manpower shortages, remains a pressing concern. The military faces significant gaps in its inventory and requires substantial modernization efforts. While initiatives like 'aatmanirbharata'  and private sector involvement are commendable, their long-term impact remains to be seen.
+
+
+The JCC's effectiveness in addressing these critical issues will be crucial in ensuring national security.
+
 Sun, 22 Sep 2024 13:43:01 +0000
 ### [Vandita Mishra writes: A new CM, a big-bang idea, read between the lines](https://indianexpress.com/article/opinion/columns/atishi-delhi-cm-one-nation-one-election-bjp-aap-9582437/)
 
