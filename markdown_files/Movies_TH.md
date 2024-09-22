@@ -1,3 +1,10 @@
+Sun, 22 Sep 2024 17:52:13 +0530
+### [‘His Three Daughters’ movie review: Elizabeth Olsen, Carrie Coon and Natasha Lyonne chart a soul-stirring sisterhood in devastating family drama](https://www.thehindu.com/entertainment/movies/his-three-daughters-movie-review-elizabeth-olsen-carrie-coon-and-natasha-lyonne-chart-a-soul-stirring-sisterhood-in-devastating-family-drama/article68670454.ece)
+
+"His Three Daughters" is a poignant film exploring the complex dynamics of familial grief. The story centers on three sisters who reunite in their childhood New York apartment to care for their dying father. Director Azazel Jacobs masterfully crafts a nuanced portrayal of their strained relationships, avoiding melodrama and focusing instead on the subtle tensions and unspoken resentments that linger between them.
+
+The film is driven by exceptional performances from the talented trio of Carrie Coon, Natasha Lyonne, and Elizabeth Olsen. Each sister grapples with grief in unique and compelling ways, revealing the multifaceted nature of loss and the enduring impact of childhood experiences.  Through intimate camerawork and a deliberate pace,  Jacobs invites viewers into the sisters' emotional turmoil, highlighting the honesty and rawness of their individual struggles.
+
 Sat, 21 Sep 2024 18:31:22 +0530
 ### [Madhu Natraj’s ‘Kathas in Kathak’ showed how the dance form has evolved to tell new stories](https://www.thehindu.com/entertainment/dance/madhu-natrajs-kathas-in-kathak-showed-how-the-dance-form-has-evolved-to-tell-new-better/article68667056.ece)
 

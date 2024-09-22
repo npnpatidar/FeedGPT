@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 13:43:01 +0000
+### [Vandita Mishra writes: A new CM, a big-bang idea, read between the lines](https://indianexpress.com/article/opinion/columns/atishi-delhi-cm-one-nation-one-election-bjp-aap-9582437/)
+
+This week's events highlight a theme of political parties prioritizing their agendas over the needs of the people. The Aam Aadmi Party's (AAP) new Delhi Chief Minister, Atishi, focused her oath ceremony on  paying respects to Arvind Kejriwal and declared her primary goal was to make him CM again, neglecting the city's issues. 
+
+Simultaneously, the BJP's acceptance of the Ram Nath Kovind committee's One Nation, One Election (ONOE) proposal raises concerns about prioritizing uniformity over the people's will. 
+
+Both the AAP, facing struggles with corruption allegations and limited election performance, and the BJP, grappling with a reduced majority and cracks in their image, are employing these strategies to distract from internal difficulties and maintain control.
+
 Sun, 22 Sep 2024 07:35:31 +0000
 ### [Instagram Teen Accounts: Don’t put the burden on parents](https://indianexpress.com/article/opinion/columns/instagram-teen-accounts-burden-parents-9581900/)
 

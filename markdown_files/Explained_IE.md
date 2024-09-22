@@ -1,3 +1,10 @@
+Sun, 22 Sep 2024 13:38:28 +0000
+### [Why the US Coast Guard has begun hearings into the Titan submersible implosion](https://indianexpress.com/article/explained/titan-sub-implosion-hearings-9582337/)
+
+Hearings are underway to investigate the implosion of the Titan submersible, which killed five people in June 2023. The US Coast Guard is examining evidence and testimony to determine the cause of the tragedy. 
+
+Testimonies have revealed that OceanGate, the company operating the submersible, had faced internal concerns regarding safety protocols and design.  Prior to the fatal dive, a malfunction was reported, and a former operations director stated that the company prioritized profit over scientific rigor. The Coast Guard noted that the submersible lacked independent review, which is standard practice.  The investigation aims to make safety recommendations to prevent future accidents in the burgeoning adventure tourism industry.
+
 Sun, 22 Sep 2024 07:26:53 +0000
 ### [Tupperware bankruptcy: How American women aided the brand’s early sales with home parties](https://indianexpress.com/article/explained/explained-culture/tupperware-bankruptcy-company-history-women-9581892/)
 
