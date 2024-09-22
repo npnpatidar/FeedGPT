@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 16:29:25 +0000
+### [Sri Lanka elections: How Marxist leader Dissanayake’s win reflects frustration with establishment politics](https://indianexpress.com/article/explained/explained-global/dissanayake-sri-lanka-elections-analysis-9582638/)
+
+Anura Kumara Dissanayake, representing the Marxist JVP party's National People’s Power, won the Sri Lankan presidential election. This victory signifies a shift in Sri Lanka's political landscape, with voters choosing an anti-establishment candidate amid widespread dissatisfaction.
+
+Dissanayake's win comes after years of economic crisis and mass protests that led to the resignation of former President Gotabaya Rajapaksa. The JVP played a crucial role in the protests, garnering significant support and ultimately securing the presidency.
+
+Dissanayake's victory poses some challenges for India, as his stance on issues like the 13th amendment and war crimes investigations diverges from India's interests. Negotiations and diplomacy are expected to be crucial in shaping the relationship between the two countries.
+
 Sun, 22 Sep 2024 13:38:28 +0000
 ### [Why the US Coast Guard has begun hearings into the Titan submersible implosion](https://indianexpress.com/article/explained/titan-sub-implosion-hearings-9582337/)
 
