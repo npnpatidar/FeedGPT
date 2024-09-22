@@ -1,3 +1,12 @@
+Sun, 22 Sep 2024 16:31:34 +0530
+### [Why has Sri Lanka’s vote gone to an unprecedented second count?](https://www.firstpost.com/explainers/why-has-sri-lankas-vote-gone-to-an-unprecedented-second-count-13817984.html)
+
+Sri Lanka is holding a second round of presidential election voting after no candidate secured the required 50 percent plus one vote in the initial round. Anura Kumara Dissanayake, a Marxist lawmaker,  is leading the race, followed by opposition leader Sajith Premadasa. Incumbent President Ranil Wickremesinghe was surprisingly eliminated in the first round. 
+
+This is the first time Sri Lanka has gone to a second round of presidential voting. 
+
+The electoral system allows voters to rank three candidates in order of preference. The votes of eliminated candidates will now be redistributed based on voter preference, ultimately determining the winner. The election is significant as Sri Lanka grapples with its worst economic crisis and seeks political stability.
+
 Sun, 22 Sep 2024 14:56:45 +0530
 ### [What is Cancer Moonshot Initiative to which PM Modi has pledged at Quad?](https://www.firstpost.com/world/united-states/what-is-cancer-moonshot-initiative-to-which-pm-modi-has-pledged-at-quad-13817950.html)
 
