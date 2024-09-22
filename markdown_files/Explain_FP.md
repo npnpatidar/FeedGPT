@@ -1,3 +1,15 @@
+Sun, 22 Sep 2024 11:08:07 +0530
+### [PM Modi in US: From drone deal to support for India’s permanent UNSC seat, takeaways from day 1](https://www.firstpost.com/world/united-states/pm-modi-in-us-from-drone-deal-to-support-for-indias-permanent-unsc-seat-takeaways-from-day-1-13817906.html)
+
+The first day of Prime Minister Narendra Modi's US visit focused on solidifying the Quadrilateral partnership, also known as the Quad.  
+
+The Quad leaders, including US President Joe Biden, emphasized the group's commitment to a rules-based international order and regional stability, particularly amidst China's growing assertiveness. Key takeaways include the strengthening of ties with a multi-billion dollar drone deal, US support for India's permanent seat at the UN Security Council, and the launch of a groundbreaking initiative to combat cervical cancer in the Indo-Pacific region. 
+
+Furthermore, the US and India announced plans to deepen cooperation on clean energy manufacturing and technology, aiming to mobilize $1 billion in investments and create a shared, resilient industrial base. 
+
+
+Other announced initiatives included maritime training, advanced shipbuilding, and digital public infrastructure development.
+
 Sun, 22 Sep 2024 09:21:15 +0530
 ### [This Week in Explainers: From Taiwan to Bulgaria, tracking origins of Hezbollah devices that exploded](https://www.firstpost.com/explainers/this-week-in-explainers-from-taiwan-to-bulgaria-tracking-origins-of-hezbollah-devices-that-exploded-13817446.html)
 
