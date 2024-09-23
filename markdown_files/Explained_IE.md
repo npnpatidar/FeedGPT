@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 08:56:52 +0000
+### [How global law enforcement agencies, from Europol to FBI, have collaborated against cybercrimes](https://indianexpress.com/article/explained/explained-sci-tech/ghost-europol-cybercrime-9582624/)
+
+Europol, in collaboration with nine countries, took down Ghost, an encrypted messaging platform widely used by criminal networks for activities like drug trafficking and money laundering.  The two-year operation resulted in the arrest of 51 suspects, seizure of weapons and drugs, and over €1 million in cash. This isn't the first time law enforcement agencies have targeted such platforms. 
+
+Previous successes include the takedown of Encrochat in 2020, resulting in over 6,500 arrests and €740 million seized, and ANOM in 2021, leading to 800 arrests and the busting of numerous drug labs. The closure of Sky ECC in 2021 also saw over 1,000 convictions and €183 million seized after Belgian, French, and Dutch authorities infiltrated the platform.
+
 Mon, 23 Sep 2024 02:30:08 +0000
 ### [Why Azerbaijan’s new climate fund may not be enough to plug finance gap](https://indianexpress.com/article/explained/explained-climate/why-azerbaijans-new-climate-fund-may-not-be-enough-to-plug-finance-gap-9582815/)
 

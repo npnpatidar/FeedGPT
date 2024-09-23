@@ -1,3 +1,33 @@
+Mon, 23 Sep 2024 15:26:15 +0530
+### [Is Sri Lanka’s new president Anura Kumara Dissanayake bad news for India?](https://www.firstpost.com/explainers/sri-lanka-new-president-anura-kumara-dissanayake-election-india-china-significance-13818240.html)
+
+Anura Kumara Dissanayake, a Marxist leader known as AKD, has become Sri Lanka's new president. His victory is seen as a challenge for India due to his perceived pro-China stance. AKD's party, the JVP, has a history of anti-India sentiment, and Sri Lanka's growing ties with China are a concern for New Delhi. 
+
+While AKD has toned down his anti-India rhetoric and expressed a desire to strengthen bilateral ties, India remains cautious. Experts say AKD's policies towards China and the Tamil population in Sri Lanka will be crucial factors in shaping India-Sri Lanka relations.
+
+Mon, 23 Sep 2024 14:30:51 +0530
+### [Did a pager explosion bring down the chopper of Iran’s Ebrahim Raisi?](https://www.firstpost.com/explainers/pager-explosion-iran-ebrahim-raisi-chopper-crash-13818186.html)
+
+An Iranian parliament member has suggested that a pager explosion may have caused the helicopter crash that killed former President Ebrahim Raisi in May. This theory emerged following recent attacks in Lebanon where  thousands of Hezbollah pagers detonated, allegedly carried out by Israel. The Iranian parliament member stated that Tehran was involved in purchasing the pagers used by Hezbollah militants and called for an investigation. 
+
+An official investigation previously concluded that Raisi's helicopter crash was due to challenging weather conditions, ruling out sabotage. The recent events have heightened tensions between Israel and Hezbollah, with both sides engaging in airstrikes and rocket fire.
+
+Mon, 23 Sep 2024 14:03:31 +0530
+### [PM Modi calls Indian diaspora country’s ‘strongest ambassadors’: Here’s why](https://www.firstpost.com/world/united-states/pm-modi-calls-indian-diaspora-countrys-strongest-ambassadors-heres-why-13818241.html)
+
+Prime Minister Narendra Modi lauded the Indian diaspora, emphasizing their significant contributions to the US economy and society. He highlighted their role as "strongest brand ambassadors," pointing to their high educational attainment, wealth, and entrepreneurial spirit. Indian-Americans constitute only 1.5% of the US population but contribute 6% of income taxes, amounting to $250-300 billion annually. 
+
+They are prominent in Fortune 500 companies, have founded numerous unicorn firms, and own a substantial share of hotels and convenience stores. The Indian community is also known for its charitable giving, academic achievements, and influence in politics. Modi's remarks underscore the substantial and multifaceted impact of the Indian diaspora in the US.
+
+Mon, 23 Sep 2024 13:49:47 +0530
+### [578 antiquities and counting… Inside India’s efforts to bring back its stolen treasures from the US](https://www.firstpost.com/explainers/stolen-antiquities-india-efforts-treasures-us-13818215.html)
+
+India has successfully repatriated 578 stolen antiquities, the most from any country, with the recent return of 297 items by the US during Prime Minister Modi's visit. These artifacts, dating back 4,000 years, span various materials and regions of India.  
+
+The return of these treasures is a result of concerted efforts by the Indian government, notably the Archaeological Survey of India (ASI) and agencies like the Tamil Nadu Idol Wing Criminal Investigation Department. 
+
+The India Pride Project, a voluntary group, has also played a significant role in tracking down and recovering stolen artifacts, collaborating with foreign law enforcement and Interpol.  This dedicated work aims to combat the illegal art market, estimated to be worth $6 billion annually. Experts emphasize the need for public awareness and increased investigation into these thefts to effectively protect India's cultural heritage.
+
 Mon, 23 Sep 2024 11:58:42 +0530
 ### [50 body pieces, foul smell: How shocking murder of Bengaluru woman found inside refrigerator unravels](https://www.firstpost.com/explainers/bengaluru-fridge-murder-woman-chopped-body-13818096.html)
 

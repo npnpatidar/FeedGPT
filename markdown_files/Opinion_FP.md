@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 14:37:37 +0530
+### [Quad is a tool for India to further its strategic interests](https://www.firstpost.com/opinion/quad-is-a-tool-for-india-to-further-its-strategic-interests-13818256.html)
+
+The recent Quad summit, where India reaffirmed the coalition's commitment to a rule-based order, highlighted  geopolitical tensions in the Indo-Pacific. While the group declaration avoided naming China, concerns about its assertiveness were evident, particularly from the US.  India's unique position as the only Quad member sharing a land border with China adds complexity to its approach. 
+
+The US-India relationship faces challenges, including differences over Russia sanctions, with the US expressing concerns about India's neutrality in the Ukraine conflict. However, both sides recognize the importance of their partnership.  India's strategic autonomy requires a delicate balancing act, particularly considering the recent thawing of ties between India and China.
+
 Mon, 23 Sep 2024 12:16:48 +0530
 ### [Why did American company block its website after Lebanon pager explosions?](https://www.firstpost.com/opinion/why-did-american-company-block-its-website-after-lebanon-pager-explosions-13818161.html)
 

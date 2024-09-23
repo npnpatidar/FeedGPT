@@ -1,3 +1,21 @@
+Mon, 23 Sep 2024 15:00:15 +0530
+### [Here’s how the US and China can see eye-to-eye on AI regulation](https://www.livemint.com/opinion/online-views/us-china-ai-regulation-tech-industry-algorithms-innovation-deepfakes-misinformation-11727066486935.html)
+
+Despite warnings about the potential dangers of artificial intelligence (AI), the US lacks federal regulations governing its development and use.  While some experts argue that regulation would stifle innovation and allow China to gain an advantage, China has been actively setting standards for AI, addressing concerns like deepfakes and copyright infringement.
+
+The US, on the other hand, is lagging behind, relying on lawsuits to address current AI harms. While some states like California are attempting to legislate AI safety, many tech companies oppose such measures, fearing they will hinder progress.
+
+Some AI pioneers urge for global cooperation to mitigate AI risks, emphasizing the potential for catastrophic outcomes if AI is misused. This call for international collaboration highlights the need for a unified approach to AI regulation, moving beyond the US-China rivalry.
+
+Mon, 23 Sep 2024 14:00:14 +0530
+### [India will have to innovate its way to developed country status](https://www.livemint.com/opinion/online-views/iit-research-funding-scientific-knowedge-iisc-patent-filing-innovation-private-sector-participation-11727058925395.html)
+
+Despite achievements like the Chandrayaan 3 moon mission and the contributions of Indian scientists to global research, India faces challenges in higher education and innovation.  While India has a strong presence in STEM fields, its universities lag behind global rankings.  Patent filings are significantly lower compared to leading nations.  
+
+The majority of Indian universities struggle to produce globally competitive research, often functioning as teaching-focused institutions.   The CSIR, a network of government laboratories, shoulders much of the innovation burden, but faces limitations in funding and resources.  India's private sector also contributes minimally to R&D.
+
+To transition to a knowledge economy, India needs to increase government funding for fundamental research and encourage greater private sector involvement.  The current system lacks flexibility for collaboration and requires structural changes to better nurture young scientists and support cutting-edge research.
+
 Mon, 23 Sep 2024 12:30:12 +0530
 ### [Eternal life on the cloud? It’s a path riddled with big questions.](https://www.livemint.com/opinion/online-views/brain-computer-interface-cloud-technology-ai-human-brain-digital-avatars-cryogenic-freezing-11727057366562.html)
 
