@@ -1,3 +1,12 @@
+Mon, 23 Sep 2024 00:10:47 +0000
+### [Why a grand GST bargain with states is needed](https://indianexpress.com/article/opinion/columns/why-a-grand-gst-bargain-with-states-is-needed-9582784/)
+
+The GST compensation cess, levied to compensate states for revenue losses after the implementation of GST, is set to end in March 2026.  The government will repay the Rs 2.7 trillion loan taken during the Covid period by  January 2026, leaving a surplus of around Rs 480 billion.  
+
+A Group of Ministers has been formed to decide the future of the cess after March 2026 and the utilization of the surplus.  Discontinuing the cess would significantly reduce tax rates on demerit goods, which seems unlikely as the government aims to discourage consumption of such goods.  Revamping the cess into a new cess, for example, a green cess, could be an option to fund green infrastructure projects.  
+
+The future of the cess is uncertain, but its discontinuation would necessitate finding alternative revenue sources for achieving government objectives.
+
 Mon, 23 Sep 2024 00:00:52 +0000
 ### [This is Rahul Gandhi’s period of reckoning. He, and Opposition, must be careful](https://indianexpress.com/article/opinion/columns/this-is-rahul-gandhis-period-of-reckoning-he-and-opposition-must-be-careful-9582778/)
 

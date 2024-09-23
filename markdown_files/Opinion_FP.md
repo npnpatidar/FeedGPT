@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 09:00:38 +0530
+### [Head-on | Israel-Saudi diplomacy blown up by pager attack](https://www.firstpost.com/opinion/head-on-israel-saudi-diplomacy-blown-up-by-pager-attack-13818095.html)
+
+Diplomatic relations between Israel and Saudi Arabia were close to being established before the Hamas attack on Israel.  The US had been attempting to forge this alliance for years, believing it would enhance Western security in the region and potentially lead to a two-state solution for the Israeli-Palestinian conflict.  However, the recent explosion of booby-trapped pagers and walkie-talkies linked to Mossad, killing and injuring Hezbollah fighters and civilians, has significantly damaged this prospect. Saudi Arabia has condemned the attacks and reaffirmed its stance that it will not normalize relations with Israel without a Palestinian state.
+
+The timing of the device explosions is seen as a deliberate tactic by Israeli Prime Minister Benjamin Netanyahu, who is seeking to prolong the Gaza war to avoid facing corruption charges.  The attacks also appear to be a message to future US presidents, signaling Israel's continued determination in the conflict. The international community has condemned the actions, calling them a violation of international law.
+
 Sun, 22 Sep 2024 17:02:27 +0530
 ### [PM Modi to address Summit of Future: How India leads Global South in climate diplomacy](https://www.firstpost.com/opinion/pm-modi-to-address-summit-of-future-how-india-leads-global-south-in-climate-diplomacy-13817995.html)
 

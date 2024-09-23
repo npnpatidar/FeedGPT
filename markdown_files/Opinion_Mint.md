@@ -1,3 +1,20 @@
+Mon, 23 Sep 2024 09:00:09 +0530
+### [The carry trade is dead. Long live the carry trade.](https://www.livemint.com/opinion/online-views/carry-trade-yen-carry-trade-stock-market-investing-punting-on-stocks-home-loan-sips-bank-fixed-deposits-fds-bull-market-11726819943433.html)
+
+This article discusses the concept of the carry trade, which involves borrowing money in a low-interest environment and investing it in an area with higher returns.  It highlights the historical example of Japan, where its low interest rates allowed for a profitable carry trade for years. However, the article suggests that this trend is changing as Japan raises interest rates and strengthens its currency.
+
+The article goes on to warn readers about various carry trades that individuals might be inadvertently engaging in, such as using home loans to invest in stocks or moving fixed income investments into the stock market. These strategies, while potentially profitable in a bull market, carry significant risks that could lead to substantial losses when market conditions reverse. 
+
+
+The author emphasizes the importance of understanding the risks associated with carry trades and stresses the need to avoid them, particularly in light of the potentially shifting economic landscape.
+
+Mon, 23 Sep 2024 08:30:08 +0530
+### [Why are so many rich Indians packing up to leave India?](https://www.livemint.com/opinion/online-views/golden-visa-emigration-millionaires-investment-real-estate-permanent-residency-11727055026171.html)
+
+The article discusses the increasing trend of wealthy Indians moving abroad, citing a recent surge in property purchases in Greece. 
+
+While  some attribute this to economic woes and asset protection, the author questions this, given that India's regulatory environment is comparatively less restrictive than China's. Theories offered include higher tax burdens, policy uncertainty, concerns about sector-specific protectionism, and general dissatisfaction with the prevailing conditions. The article stresses the urgency of identifying and addressing these underlying issues, highlighting the detrimental impact of losing skilled individuals on India's growth trajectory.
+
 Mon, 23 Sep 2024 07:15:04 +0530
 ### [Mint Quick Edit | The Quad’s agenda and India’s preference](https://www.livemint.com/opinion/quick-edit/quad-meeting-indo-pacific-region-semiconductors-geopolitics-australia-india-us-japan-port-development-11727054822753.html)
 

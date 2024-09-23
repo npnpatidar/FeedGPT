@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 08:30:00 +0530
+### [What is the controversy regarding Venezuela elections? | Explained](https://www.thehindu.com/news/international/what-is-the-controversy-regarding-venezuela-elections-explained/article68671739.ece)
+
+Venezuela held presidential elections on July 28, 2024, with incumbent Nicolas Maduro facing opposition candidate Edmundo Gonzalez. While the National Electoral Council declared Maduro the winner with 51.21% of the vote, the opposition claimed Gonzalez received 67% based on their tally of voting receipts from polling stations. Maduro refused to release the official polling station results, leading to widespread protests and a government crackdown that resulted in 24 deaths and over 2,000 arrests. 
+
+The opposition's allegation of a rigged election is supported by independent media outlets and has been condemned by many countries.  The situation highlights Venezuela's economic vulnerability as a petrostate reliant on oil exports, and the ongoing political instability that has characterized the country since Hugo Chavez's death in 2013.
+
 Sun, 22 Sep 2024 07:33:12 +0530
 ### [Haryana Assembly elections | What have parties promised in their manifestos?](https://www.thehindu.com/elections/haryana-assembly/haryana-assembly-elections-what-have-parties-promised-in-their-manifestos/article68666776.ece)
 
