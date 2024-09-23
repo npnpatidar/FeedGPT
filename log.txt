@@ -9919,3 +9919,10 @@ Started at 2024-09-23 18:16:23
 Finished at 2024-09-23 18:17:05
 Total time taken: 42.43571615219116 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-23 20:14:11
+2 Feed entries have been written to feeds/EDITORIAL_TH.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-23 20:14:53
+Total time taken: 41.90815281867981 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

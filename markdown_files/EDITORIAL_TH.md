@@ -1,3 +1,15 @@
+Tue, 24 Sep 2024 00:30:00 +0530
+### [Politicising the laddu: On the Tirupati laddu and its ‘adulteration’](https://www.thehindu.com/opinion/editorial/politicising-the-laddu-the-hindu-editorial-on-the-tirupati-laddu-and-its-adulteration/article68674887.ece)
+
+Serious allegations have been made regarding the adulteration of ghee used in Tirupati's famous laddu prasadam with 'foreign fat.'  These charges, brought by TDP leaders against the YSRCP, have sparked calls for independent investigations. However, the claims seem politically motivated, particularly due to their timing near state elections. 
+
+The quality test results, initially conducted in July, were announced in September and mention various types of 'foreign fat'  The extent of contamination remains unclear, and questions have been raised about the choice of laboratories used for analysis.  Amidst this controversy, calls to remove temple administration from state control are considered opportunistic and divisive.
+
+Tue, 24 Sep 2024 00:16:00 +0530
+### [Triumph squared: On India’s chess double win in Budapest](https://www.thehindu.com/opinion/editorial/triumph-squared-the-hindu-editorial-on-indias-chess-double-win-in-budapest/article68674372.ece)
+
+India's chess team achieved a historic double gold at the Olympiad in Budapest, a feat accomplished by only two other nations. The Indian men's team dominated the competition, securing a four-point margin over their closest rivals, the United States. The success was attributed to the country's talented young players, including D. Gukesh, Arjun Erigaisi, Divya Deshmukh, and Vantika Agrawal.  While the women's team faced some challenges, they ultimately secured a well-deserved gold. This victory reflects India's growing dominance in chess, signaling a bright future for the sport in the country.
+
 Mon, 23 Sep 2024 00:20:00 +0530
 ### [Unwarranted curbs: On the Centre’s move on a ‘fact-checking unit’](https://www.thehindu.com/opinion/editorial/unwarranted-curbs-on-the-centres-move-on-a-fact-checking-unit/article68670842.ece)
 
