@@ -1,3 +1,11 @@
+Mon, 23 Sep 2024 18:01:29 +0530
+### [Why Pakistan Army and establishment find itself in a Catch-22 situation while dealing with Imran Khan](https://www.firstpost.com/opinion/why-pakistan-army-and-establishment-find-itself-in-a-catch-22-situation-while-dealing-with-imran-khan-13818336.html)
+
+There is growing speculation about a possible deal between Imran Khan and Pakistan's establishment. This potential agreement is causing anxiety among ruling political parties who see maintaining friction between Khan and the establishment as their only chance of survival. The establishment, however, seeks a safe exit from the increasingly volatile situation. Following the violent events of May 9th, 2023, the focus has been on pinning responsibility on Khan. Despite being in custody at the time, he remains Pakistan's most popular leader, with widespread support across age, socio-economic, and ethnic divides. Khan's rise has challenged the status quo and the establishment's traditional control over Pakistani politics. His opponents and the establishment have attempted to discredit him through a series of legal cases, but their efforts have ultimately failed to diminish his popularity. 
+
+
+The writer argues that Khan's rejection of corruption and his unwavering commitment to his vision for Pakistan make him a threat to the existing political order.
+
 Mon, 23 Sep 2024 14:37:37 +0530
 ### [Quad is a tool for India to further its strategic interests](https://www.firstpost.com/opinion/quad-is-a-tool-for-india-to-further-its-strategic-interests-13818256.html)
 

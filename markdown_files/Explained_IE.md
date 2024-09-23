@@ -1,3 +1,8 @@
+Mon, 23 Sep 2024 13:39:14 +0000
+### [India to launch its first mission to Venus in 2028: Everything you need to know](https://indianexpress.com/article/explained/explained-sci-tech/india-venus-mission-9584146/)
+
+India's first mission to Venus, set to launch in March 2028, will study the planet's surface, atmosphere, ionosphere, and its interaction with the Sun.  This mission, following India's Mars Orbiter Mission, aims to understand the evolution of Earth by comparing Venus, which is similar in size and composition but has an extremely hot surface due to a runaway greenhouse effect. Venus's thick atmosphere, composed mainly of carbon dioxide, and slow rotation also make it a unique celestial body. The mission will employ aero-braking to adjust the satellite's orbit around Venus and carry various scientific instruments to analyze its environment.
+
 Mon, 23 Sep 2024 11:49:30 +0000
 ### [Who was Mary Poonen Lukose, Kerala’s first woman doctor & first woman member of legislative council](https://indianexpress.com/article/explained/explained-history/mary-poonen-lukose-keralas-first-woman-doctor-first-woman-member-of-legislative-council-9583997/)
 

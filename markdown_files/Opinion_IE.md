@@ -1,3 +1,12 @@
+Mon, 23 Sep 2024 12:48:02 +0000
+### [How Bengalis’ love for hilsa transcends the India-Bangladesh border](https://indianexpress.com/article/opinion/columns/how-bengalis-love-for-hilsa-transcends-the-india-bangladesh-border-9584080/)
+
+The debate on the best hilsa, whether from the Hooghly, the Ganga, or the Padma in Bangladesh, is a passionate one for Bengalis. However, ecological concerns and overfishing have led to supply constraints in India, making reliance on Bangladesh's export permissions, especially during Durga Puja, a necessity. 
+
+Padma ilish, an umbrella term for fish from various Bangladeshi rivers, evokes strong nostalgic connections for Bengalis, particularly those displaced by partition. The fish's versatility has led to its integration into diverse culinary traditions, from simple home-cooked meals to refined restaurant dishes.  
+
+While the popularity of Padma ilish has undoubtedly boosted its brand recognition, the escalating demand has raised concerns about overfishing. Bangladesh has implemented measures like fishing moratoriums and export restrictions to sustain hilsa stock, but India's engagement in these conservation efforts remains limited. As Bengalis continue their culinary discourse on the finest hilsa, there is a growing need to prioritize sustainable fishing practices and responsible consumption.
+
 Mon, 23 Sep 2024 11:41:10 +0000
 ### [Why India should not be worried about Sri Lanka’s new president](https://indianexpress.com/article/opinion/columns/why-india-should-not-be-worried-about-sri-lankas-new-president-9584001/)
 

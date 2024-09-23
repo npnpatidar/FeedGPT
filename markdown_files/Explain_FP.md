@@ -1,3 +1,20 @@
+Mon, 23 Sep 2024 19:30:25 +0530
+### [Pack your bags: How travelling can help keep you young](https://www.firstpost.com/health/how-travelling-can-help-keep-you-young-13818288.html)
+
+A new study from Edith Cowan University suggests that travel can make you look and feel younger. The research, applying the theory of entropy, proposes that positive travel experiences can counteract the natural process of ageing by reducing entropy and improving health. 
+
+Benefits of travel, such as new experiences, meeting new people, better sleep, and engaging in leisurely activities, can slow down premature ageing. Travel stimulates the body's self-organising mechanisms, increases metabolism, and reduces chronic stress. 
+
+While travel offers many advantages, it's important to be aware of potential risks like health hazards and negative experiences.
+
+Mon, 23 Sep 2024 18:29:58 +0530
+### [What is UN Summit of the Future that PM Modi will address today?](https://www.firstpost.com/world/united-states/what-is-un-summit-of-the-future-that-pm-modi-will-address-today-13818350.html)
+
+The UN Summit of the Future aims to create a new global consensus on addressing challenges such as climate change, AI, war, inequality, and poverty. Proposed by UN Secretary-General Antonio Guterres, the summit seeks to accelerate progress on existing commitments and  develop solutions for emerging issues. 
+
+The summit will result in a "Pact for the Future," committing world leaders to reform the Security Council, support nuclear disarmament, and govern the use of AI and autonomous weapons. 
+A Global Digital Compact will ensure responsible technology use, while a Declaration on Future Generations will prioritize the needs and rights of children and future generations.  World leaders are gathering to chart a course for a safer, more peaceful, and sustainable future.
+
 Mon, 23 Sep 2024 17:21:40 +0530
 ### [EY Pune employee death: Why is opposition targeting Nirmala Sitharaman?](https://www.firstpost.com/explainers/ey-pune-employee-death-nirmala-sitharaman-remarks-political-row-13818298.html)
 
