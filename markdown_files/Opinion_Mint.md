@@ -1,3 +1,14 @@
+Mon, 23 Sep 2024 12:30:12 +0530
+### [Eternal life on the cloud? It’s a path riddled with big questions.](https://www.livemint.com/opinion/online-views/brain-computer-interface-cloud-technology-ai-human-brain-digital-avatars-cryogenic-freezing-11727057366562.html)
+
+The article explores the concept of digital immortality, where consciousness is uploaded to a computer, essentially achieving digital immortality.  
+
+It outlines advancements like  Nectome's brain preservation technology and the EU's Human Brain Project, both aimed at simulating human consciousness in computers. 
+
+The article also discusses ethical concerns raised by digital immortality, questioning what constitutes "being you" in a digital form and the potential for inequality if only the wealthy can afford such technology.  
+
+Finally, it argues that true fulfillment comes from experiences and relationships in the physical world, rather than seeking indefinite digital existence.
+
 Mon, 23 Sep 2024 11:23:22 +0530
 ### [Raymond Group demerger: The hidden lesson for Indian family businesses](https://www.livemint.com/opinion/online-views/raymond-demerger-family-businesses-reliance-industries-itc-tata-motors-internal-conflicts-succession-planning-11727067801074.html)
 

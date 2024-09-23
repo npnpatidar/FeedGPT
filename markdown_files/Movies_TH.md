@@ -1,3 +1,12 @@
+Mon, 23 Sep 2024 13:10:32 +0530
+### [‘Monsters: The Lyle and Erik Menendez Story’ series review: Javier Bardem, Chloë Sevigny star in callous, confused storytelling mess](https://www.thehindu.com/entertainment/monsters-the-lyle-and-erik-menendez-story-series-review-javier-bardem-chlo%C3%AB-sevigny-star-in-callous-confused-storytelling-mess/article68670386.ece)
+
+Ryan Murphy's "Monsters: The Lyle and Erik Menendez Story" explores the infamous murder case of the Menendez brothers. The series delves into the events leading up to the murders, the brothers' aftermath, and their subsequent trial. While featuring a talented cast, including Javier Bardem and Chloë Sevigny, the show struggles to provide a definitive narrative.  
+
+Murphy and co-showrunner Ian Brennan attempt to explore the complexities of the case, including the sexual abuse allegations made by the brothers. However, the series ultimately falls into the trap of offering multiple, unsubstantiated theories without coming to any clear conclusions.  
+
+Despite its technical polish, the show lacks a satisfying ending and fails to provide a compelling resolution to the enduring mystery surrounding the Menendez murders.
+
 Sun, 22 Sep 2024 17:52:13 +0530
 ### [‘His Three Daughters’ movie review: Elizabeth Olsen, Carrie Coon and Natasha Lyonne chart a soul-stirring sisterhood in devastating family drama](https://www.thehindu.com/entertainment/movies/his-three-daughters-movie-review-elizabeth-olsen-carrie-coon-and-natasha-lyonne-chart-a-soul-stirring-sisterhood-in-devastating-family-drama/article68670454.ece)
 

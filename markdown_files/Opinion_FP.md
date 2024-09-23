@@ -1,3 +1,14 @@
+Mon, 23 Sep 2024 12:16:48 +0530
+### [Why did American company block its website after Lebanon pager explosions?](https://www.firstpost.com/opinion/why-did-american-company-block-its-website-after-lebanon-pager-explosions-13818161.html)
+
+An Israeli operation involving exploding pagers targeting Hezbollah operatives in Lebanon has garnered international attention. The pagers, manufactured by Taiwanese firm Gold Apollo, were laced with PETN explosives, killing and injuring hundreds. 
+
+Israel claims it acted to prevent Hezbollah from carrying out attacks, while Hezbollah leader Hassan Nasrallah had previously warned against using mobile phones for fear of Israeli surveillance.
+
+Gold Apollo initially denied involvement but later claimed a Hungarian company, BAC Consulting, was responsible for manufacturing the pagers under its brand. However, BAC is a shell company with minimal operations and is now denying any role in the incident. Another suspect, a Bulgarian company, Norta Global, has also vanished from public records, casting further suspicion on its connection to the explosive pagers. 
+
+Given the lack of transparency surrounding the origins of the pagers and the involvement of several shell companies, the incident raises concerns about accountability and the potential for exploitation of international trade for covert operations.
+
 Mon, 23 Sep 2024 10:16:18 +0530
 ### [White House meeting with Khalistanis just ahead of Modi’s visit is a provocation, humiliation and betrayal of trust](https://www.firstpost.com/opinion/white-house-meeting-with-khalistanis-just-ahead-of-modis-visit-a-provocation-humiliation-and-betrayal-of-trust-13818137.html)
 

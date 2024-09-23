@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 11:58:42 +0530
+### [50 body pieces, foul smell: How shocking murder of Bengaluru woman found inside refrigerator unravels](https://www.firstpost.com/explainers/bengaluru-fridge-murder-woman-chopped-body-13818096.html)
+
+A 29-year-old woman, H Mahalakshmi Das, was found murdered in her Bengaluru apartment. Her body was dismembered into approximately 50 pieces and placed inside a refrigerator.  Neighbors alerted her family after noticing a foul smell emanating from the apartment. The  incident occurred four to five days prior to the discovery. 
+
+The police have registered a case and formed special teams to investigate. Suspects include an employee of a nearby men's parlor who was allegedly close to the victim and her estranged husband. They are also investigating the possibility of multiple killers. While the motive remains unclear, similarities with the 2022 Shraddha Walkar case have drawn comparisons.
+
 Mon, 23 Sep 2024 10:30:39 +0530
 ### [Big investment in semiconductor sector, 2 new consulates in US… Takeaways from Day 2 of PM Modi’s visit](https://www.firstpost.com/explainers/semiconductor-investment-new-consulates-takeaways-day-2-pm-modi-us-visit-13818130.html)
 
