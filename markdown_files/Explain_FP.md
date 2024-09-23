@@ -1,3 +1,12 @@
+Mon, 23 Sep 2024 10:30:39 +0530
+### [Big investment in semiconductor sector, 2 new consulates in US… Takeaways from Day 2 of PM Modi’s visit](https://www.firstpost.com/explainers/semiconductor-investment-new-consulates-takeaways-day-2-pm-modi-us-visit-13818130.html)
+
+Indian Prime Minister Narendra Modi spent Day 2 of his US visit engaging with the Indian diaspora, world leaders, and tech CEOs. 
+
+ Modi addressed a large gathering of Indian-Americans in New York, highlighting the strong ties between India and the US. He outlined his blueprint for a developed India ("Viksit Bharat") and announced the opening of two new Indian consulates in Boston and Los Angeles.  
+
+He also held bilateral meetings with world leaders, including the Prime Minister of Nepal and the Palestinian President, discussing issues of peace and stability. A key event was a roundtable discussion with 15 tech CEOs, where Modi pledged a $15 billion investment in the semiconductor field and encouraged companies to take advantage of India's growing economic and technological landscape.
+
 Mon, 23 Sep 2024 06:30:58 +0530
 ### [FirstUp: PM Modi to address Summit of the Future at UN and other big news](https://www.firstpost.com/explainers/firstup-pm-modi-to-address-summit-of-the-future-at-un-and-other-big-news-13817495.html)
 

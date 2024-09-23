@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 06:07:09 +0000
+### [I am struggling to answer my son’s question: Why do men rape?](https://indianexpress.com/article/opinion/columns/struggling-answer-sons-question-why-do-men-rape-9583393/)
+
+The author grapples with explaining the prevalence of violence against women to her teenage son.  She acknowledges the limitations of her previous approach, focusing on positive messages about respect and equality without delving into the complexities of real-world situations.  
+
+She describes her son's exposure to misogyny in everyday life, highlighting the disconnect between his stated values and his observations.  The author explores various methods of educating her son, including hypothetical scenarios and questioning if she's burdening him with societal guilt. Ultimately, she seeks to impart practical understanding and encourage her son to act with respect towards all women.
+
 Mon, 23 Sep 2024 00:10:47 +0000
 ### [Why a grand GST bargain with states is needed](https://indianexpress.com/article/opinion/columns/why-a-grand-gst-bargain-with-states-is-needed-9582784/)
 

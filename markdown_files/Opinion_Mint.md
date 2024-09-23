@@ -1,3 +1,19 @@
+Mon, 23 Sep 2024 11:23:22 +0530
+### [Raymond Group demerger: The hidden lesson for Indian family businesses](https://www.livemint.com/opinion/online-views/raymond-demerger-family-businesses-reliance-industries-itc-tata-motors-internal-conflicts-succession-planning-11727067801074.html)
+
+The Raymond Group's recent announcement of a demerger into three entities highlights a growing trend among Indian businesses. Demergers are increasingly used to sharpen strategic focus, unlock shareholder value, and return to core competencies. 
+
+Several large companies, including Reliance, Tata Motors, and ITC, have pursued demergers in recent years, with positive market responses. For family businesses, demergers can offer a solution to internal conflicts and facilitate succession planning. 
+
+The Raymond case underscores the potential role of demergers in resolving family disputes and ensuring long-term stability for businesses navigating generational transitions. Examples like the Ambani family demonstrate how clear demarcation of responsibilities through demergers can pave the way for future growth and stability.
+
+Mon, 23 Sep 2024 10:30:10 +0530
+### [There are no shortcuts to leadership in the field of semiconductors](https://www.livemint.com/opinion/online-views/semiconductors-fabrication-units-chip-manufacturing-technology-innovation-engineering-talent-tsmc-samsung-11727056604354.html)
+
+India is striving to join the select club of nations capable of designing and manufacturing its own semiconductors.  Developing semiconductor fabrication (fab) capacity is a complex and expensive undertaking, requiring significant technological expertise and investment. 
+
+While India will likely start with mature semiconductor nodes, partnerships with industry leaders like Taiwan Semiconductor Manufacturing Company (TSMC) or Samsung Electronics could provide a faster route to cutting-edge technologies.  India's burgeoning tech sector and ambitions, coupled with positive geopolitical developments, position the country favorably for this ambitious endeavor.  Successful execution requires a concerted effort from both the government and industry to align resources and vision.  A self-reliant India, capable of designing and manufacturing its own chips,  would bolster its digital economy and geostrategic autonomy while also fostering a thriving engineering talent pool.
+
 Mon, 23 Sep 2024 09:00:09 +0530
 ### [The carry trade is dead. Long live the carry trade.](https://www.livemint.com/opinion/online-views/carry-trade-yen-carry-trade-stock-market-investing-punting-on-stocks-home-loan-sips-bank-fixed-deposits-fds-bull-market-11726819943433.html)
 

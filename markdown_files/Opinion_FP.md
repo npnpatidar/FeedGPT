@@ -1,3 +1,12 @@
+Mon, 23 Sep 2024 10:16:18 +0530
+### [White House meeting with Khalistanis just ahead of Modi’s visit is a provocation, humiliation and betrayal of trust](https://www.firstpost.com/opinion/white-house-meeting-with-khalistanis-just-ahead-of-modis-visit-a-provocation-humiliation-and-betrayal-of-trust-13818137.html)
+
+The article discusses the recent visit of Indian Prime Minister Narendra Modi to the United States, highlighting a perceived discrepancy between the positive portrayals of the relationship and actions that undermine trust.  
+
+While a semiconductor fabrication agreement and participation in the Quad Leaders' Summit are presented as achievements, the article criticizes a meeting between US National Security Council officials and Khalistani separatists prior to Modi's arrival. This meeting, considered a provocation by the author, is seen as a transgression of India's red lines and a signal of US containment strategies despite promoting strategic engagement. 
+
+The article further investigates the timing of the meeting,  suggesting a deliberate effort to challenge India's sovereignty and potentially embolden the Khalistani movement.  It questions the US's understanding and disregard for India's security concerns, emphasizing the negative impact of such actions on bilateral relations.
+
 Mon, 23 Sep 2024 09:00:38 +0530
 ### [Head-on | Israel-Saudi diplomacy blown up by pager attack](https://www.firstpost.com/opinion/head-on-israel-saudi-diplomacy-blown-up-by-pager-attack-13818095.html)
 
