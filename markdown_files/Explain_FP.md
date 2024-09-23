@@ -1,3 +1,19 @@
+Mon, 23 Sep 2024 06:30:58 +0530
+### [FirstUp: PM Modi to address Summit of the Future at UN and other big news](https://www.firstpost.com/explainers/firstup-pm-modi-to-address-summit-of-the-future-at-un-and-other-big-news-13817495.html)
+
+Prime Minister Narendra Modi is in the US for a visit concluding on September 23rd. He will address the Summit of the Future at the UN General Assembly and participate in discussions with American CEOs. 
+
+Meanwhile, a Delhi court will resume hearing the sexual harassment case filed by female wrestlers against former WFI chief Brij Bhushan Sharan Singh. 
+
+The judicial custody of former RG Kar Medical College principal Sandip Ghosh, arrested for a doctor's murder and financial irregularities, is also ending today. 
+
+US President Joe Biden will meet with  UAE President Sheikh Mohammed bin Zayed Al Nahyan to discuss the Gaza conflict, Sudan, responsible AI development, and strengthen bilateral ties. 
+
+
+The ninth round of India-EU free trade agreement negotiations will take place in New Delhi from September 23-27.  
+
+Finally, the judicial custody of AAP MLA Amanatullah Khan  is concluding today, and he is expected to appear in court in connection to a money laundering case linked to alleged irregularities at the Delhi Waqf Board.
+
 Sun, 22 Sep 2024 16:31:34 +0530
 ### [Why has Sri Lanka’s vote gone to an unprecedented second count?](https://www.firstpost.com/explainers/why-has-sri-lankas-vote-gone-to-an-unprecedented-second-count-13817984.html)
 

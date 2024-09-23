@@ -1,3 +1,10 @@
+Mon, 23 Sep 2024 07:15:04 +0530
+### [Mint Quick Edit | The Quad’s agenda and India’s preference](https://www.livemint.com/opinion/quick-edit/quad-meeting-indo-pacific-region-semiconductors-geopolitics-australia-india-us-japan-port-development-11727054822753.html)
+
+The recent Quad meeting, hosted by the US, suggests a shift towards civilian focus.  While the grouping remains focused on a free and open Indo-Pacific,  it is increasingly  emphasizing cooperation in areas like healthcare and disaster relief. India, in particular, showcased initiatives such as a cervical cancer vaccine program.  The Quad also pledged to enhance port resilience and logistics capabilities, including a shared airlift capacity for disaster response.  
+
+ While geopolitical considerations remain, India's approach appears to prioritize multi-faceted collaboration over rigid alignment with any one country.
+
 Sun, 22 Sep 2024 16:00:02 +0530
 ### [Debt relief for poor countries: Time for a whole new effort to be made?](https://www.livemint.com/opinion/online-views/debt-relief-imf-africa-multilateral-institutions-indebtedness-poor-countries-debt-unsustainability-world-bank-11726997685152.html)
 

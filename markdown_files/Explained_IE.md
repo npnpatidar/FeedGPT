@@ -1,3 +1,33 @@
+Mon, 23 Sep 2024 02:30:08 +0000
+### [Why Azerbaijan’s new climate fund may not be enough to plug finance gap](https://indianexpress.com/article/explained/explained-climate/why-azerbaijans-new-climate-fund-may-not-be-enough-to-plug-finance-gap-9582815/)
+
+Azerbaijan, the host of COP29, has proposed a new climate fund for developing nations, funded by voluntary contributions from fossil fuel producers. This proposal comes amidst stalled negotiations for a comprehensive climate finance agreement. 
+
+The agreement aims to clarify financial flows for climate action, addressing issues like definition of climate finance, double-counting, and the imbalance between mitigation and adaptation funding. Key challenges include reaching a consensus on the new quantum of climate finance, exceeding the current $100 billion target, and broadening the donor base beyond developed countries. 
+
+While Azerbaijan's fund is well-intentioned, its reliance on voluntary contributions raises concerns about its effectiveness, considering the underfunding of existing climate initiatives.
+
+Mon, 23 Sep 2024 01:41:50 +0000
+### [How Marxist Anura Kumara Dissanayake won Sri Lanka’s Presidency, erasing a violent past, balancing class struggle and pragmatism](https://indianexpress.com/article/explained/explained-global/marxist-anura-kumara-dissanayake-won-sri-lanka-presidency-violent-past-class-struggle-9583019/)
+
+Anura Kumara Dissanayake, a former agricultural minister, has been elected President of Sri Lanka, marking the first time in decades a Marxist party has taken the helm.  Dissanayake, born into a rural background, rose through the ranks of the Janatha Vimukthi Peramuna (JVP), a party long associated with armed uprisings. 
+
+After a period of violent struggles, the JVP transitioned to democratic politics, steering away from armed revolt. Dissanayake, who became party leader in 2014, is credited with modernizing its image and broadening its appeal. His focus on economic issues and anti-corruption resonated with voters disgruntled by Sri Lanka's economic crisis.
+
+Dissanayake's victory raises questions about the JVP's evolution and its relationship with major powers like India and China. The party historically held anti-Indian sentiments, stemming from opposition to Indian intervention in Sri Lanka's civil war. However, recent signals suggest a more pragmatic approach, with Dissanayake even meeting with Indian officials. The JVP's stance on Tamil nationalism, which it has historically opposed, also remains to be seen. Dissanayake's presidency signals a significant shift in Sri Lankan politics, with the outcome hinging on how effectively the JVP can govern and navigate its complex relationships.
+
+Mon, 23 Sep 2024 00:33:14 +0000
+### [Explained: Centre’s pro-farmer turn in edible oils](https://indianexpress.com/article/explained/explained-economics/centre-oilseeds-farmer-policy-9582520/)
+
+The Indian government has recently increased import duties on crude and refined palm, soyabean, and sunflower oils. This move aims to protect domestic oilseed farmers and comes after a period of high global oil prices. 
+
+The higher duties follow a decision to allow certain state governments to purchase soyabean from farmers at a minimum support price, further bolstering farmer incomes.  These actions have led to improved prices for oilseeds in the wholesale market, approaching the MSP level.
+
+The increase in import duties is seen as both economically and politically motivated. India witnessed an expansion in oilseed acreage this year, and lower global prices provide a favorable environment for domestic production. Politically, the move is seen as beneficial ahead of the Maharashtra Assembly elections, given the state's significance in soyabean cultivation.
+
+
+The government's aim is to reduce reliance on imports and encourage local production.  Increasing farmer income aligns with the government's broader agricultural agenda.
+
 Sun, 22 Sep 2024 16:29:25 +0000
 ### [Sri Lanka elections: How Marxist leader Dissanayake’s win reflects frustration with establishment politics](https://indianexpress.com/article/explained/explained-global/dissanayake-sri-lanka-elections-analysis-9582638/)
 
