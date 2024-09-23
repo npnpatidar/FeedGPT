@@ -1,3 +1,8 @@
+Mon, 23 Sep 2024 15:58:38 +0530
+### [‘Thalaivettiyaan Paalayam’ series review: Familiar delights in this Tamil remake of ‘Panchayat’](https://www.thehindu.com/entertainment/movies/thalaivettiyaan-paalayam-series-review-familiar-delights-in-this-tamil-remake-of-panchayat/article68673468.ece)
+
+"Thalaivettiyaan Paalayam," the Tamil adaptation of the popular Amazon Prime series "Panchayat," follows the story of Siddharth, an engineering graduate forced to take up a post as a panchayat secretary in a rural village. Like the original, the show aims to portray the lives of the villagers, filled with warmth, humor, and unique challenges. However, being a frame-by-frame remake, the Tamil version suffers from a lack of novelty, particularly due to Abishek Kumar's recognizable face replacing Jitendra Kumar's in the lead role.  While the show attempts to address social issues like caste and dowry, it does so superficially.  Ultimately, "Thalaivettiyaan Paalayam" offers a familiar journey for viewers who have already watched the original "Panchayat," while newcomers may find it a charming exploration of rural life.
+
 Mon, 23 Sep 2024 13:10:32 +0530
 ### [‘Monsters: The Lyle and Erik Menendez Story’ series review: Javier Bardem, Chloë Sevigny star in callous, confused storytelling mess](https://www.thehindu.com/entertainment/monsters-the-lyle-and-erik-menendez-story-series-review-javier-bardem-chlo%C3%AB-sevigny-star-in-callous-confused-storytelling-mess/article68670386.ece)
 
@@ -20,6 +25,15 @@ Sat, 21 Sep 2024 18:31:22 +0530
 'Kathas in Kathak,' a performance by Natya STEM Dance Kampni, explored the history and evolution of the dance form. The show highlighted Kathak's resilience and adaptability, showcasing its transformation from temple dances to court dances. Through synchronized movements and storytelling, the performance depicted the form's ability to reflect historical context, social issues and even artistic innovations.  
 
 Celebrated as part of Natya Institute's 60th anniversary, the performance emphasized collaboration as a key element in keeping traditional dance forms alive and relevant. Madhu Natraj, the founder of Natya STEM Dance Kampni, stressed the importance of  pluralism and artistic dialogue in contemporary Kathak, ensuring that the dance form continues to evolve and connect with modern audiences.
+
+Sat, 21 Sep 2024 18:31:22 +0530
+### [Madhu Nataraj’s ‘Kathas in Kathak’ showed how the dance form has evolved to tell new stories](https://www.thehindu.com/entertainment/dance/madhu-natarajs-kathas-in-kathak-showed-how-the-dance-form-has-evolved-to-tell-new-better/article68667056.ece)
+
+'Kathas in Kathak', a performance by Natya STEM Dance Kampni, explored the evolution and resilience of Kathak dance.  
+
+The performance, presented at the Bangalore International Centre, traced Kathak's journey through history, highlighting its transformations over time. From its origins in Vaishnavism to its adaptation under court patronage, the dancers showcased Kathak's ability to embody different cultural contexts. 
+
+Madhu Nataraj, founder of Natya STEM Dance Kampni, emphasized the dance form's richness and pluralism, its capacity to address social issues, and the importance of preserving its legacy. The event was part of the ongoing celebrations of 60 years of the Natya Institute, founded by Maya Rao and Kamaladevi Chattopadhyay.
 
 Sat, 21 Sep 2024 12:57:44 +0530
 ### [‘Never Let Go’ movie review: Halle Berry holds middling survival thriller together](https://www.thehindu.com/entertainment/movies/never-let-go-movie-review-halle-berry-holds-middling-survival-thriller-together/article68666839.ece)

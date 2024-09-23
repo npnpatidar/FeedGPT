@@ -1,3 +1,8 @@
+Mon, 23 Sep 2024 11:41:10 +0000
+### [Why India should not be worried about Sri Lanka’s new president](https://indianexpress.com/article/opinion/columns/why-india-should-not-be-worried-about-sri-lankas-new-president-9584001/)
+
+Anura Kumara Dissanayake’s victory as Sri Lanka's President marks a significant shift in the country's political landscape.  Despite limited parliamentary representation, the National People’s Power (NPP) secured an unprecedented win, relying on widespread public dissatisfaction with traditional parties. AKD's alliance with left-wing groups and diverse interests, including women, positions the NPP to address economic challenges and tackle corruption. AKD has assured India of non-anti-Indian sentiments and acknowledged India's critical support in 2022.  While environmental concerns may influence decision-making on projects like the Adani renewable energy plant, both nations aim for a balanced and collaborative approach. With the NPP emphasizing economic stability and good governance, the future of Sri-India relations appears promising.
+
 Mon, 23 Sep 2024 06:07:09 +0000
 ### [I am struggling to answer my son’s question: Why do men rape?](https://indianexpress.com/article/opinion/columns/struggling-answer-sons-question-why-do-men-rape-9583393/)
 

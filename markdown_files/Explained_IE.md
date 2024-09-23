@@ -1,3 +1,15 @@
+Mon, 23 Sep 2024 11:49:30 +0000
+### [Who was Mary Poonen Lukose, Kerala’s first woman doctor & first woman member of legislative council](https://indianexpress.com/article/explained/explained-history/mary-poonen-lukose-keralas-first-woman-doctor-first-woman-member-of-legislative-council-9583997/)
+
+Dr. Mary Poonen Lukose, born in 1886, made history as the first woman member of a legislative council in an Indian princely state.  She overcame numerous obstacles, including societal restrictions against women receiving higher education in medicine, by moving to London to complete her degree. Returning to Travancore, she pioneered innovative healthcare initiatives, including the first cesarean section in Kerala and a midwifery training program. 
+
+Her contributions to medicine earned her the title of surgeon general, a position she held until 1942.  A tireless advocate for public health, Dr. Lukose was elected to the Travancore Legislative Council in 1924, a milestone that opened doors for other women in politics. She continued serving in the council until 1937, influencing public health policy. Her legacy is celebrated today, with various programs and a documentary  highlighting her groundbreaking achievements.
+
+Mon, 23 Sep 2024 10:17:24 +0000
+### [Drought, deforestation, climate change: Why South America is burning](https://indianexpress.com/article/explained/explained-climate/south-america-wildfire-9583852/)
+
+South America is experiencing its worst wildfire season in almost two decades, with over 346,000 fire hotspots recorded so far this year. Brazil is the most affected country, followed by Bolivia and Peru. Millions of acres of forest have burned, including areas in the Amazon rainforest, Cerrado savanna, and Pantanal wetlands.  Drought conditions, deforestation, and the impact of climate change are contributing to the severity of the fires.  The smoke from the wildfires is affecting air quality across the region, leading to health concerns and respiratory issues. Scientists warn that extreme weather events linked to climate change will intensify in the coming years.
+
 Mon, 23 Sep 2024 08:56:52 +0000
 ### [How global law enforcement agencies, from Europol to FBI, have collaborated against cybercrimes](https://indianexpress.com/article/explained/explained-sci-tech/ghost-europol-cybercrime-9582624/)
 

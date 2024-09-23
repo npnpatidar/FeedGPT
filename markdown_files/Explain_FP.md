@@ -1,3 +1,22 @@
+Mon, 23 Sep 2024 17:21:40 +0530
+### [EY Pune employee death: Why is opposition targeting Nirmala Sitharaman?](https://www.firstpost.com/explainers/ey-pune-employee-death-nirmala-sitharaman-remarks-political-row-13818298.html)
+
+Nirmala Sitharaman, the Union Finance Minister, faced criticism for her remarks about the death of a 26-year-old EY employee, Anna Sebastian Perayil.  Sitharaman suggested that individuals can develop inner strength to handle pressure through "divinity," a comment interpreted by many as victim blaming. 
+
+The Congress and Shiv Sena (Uddhav Balasaheb Thackeray) strongly condemned her statement, arguing that it disregarded the toxic work culture prevalent in certain companies. They emphasized the need to address structural issues leading to employee stress and urged for  reforms to protect workers. The finance minister later clarified her intent, stating she was merely highlighting the importance of support systems for individuals facing difficulties.   The government has initiated an investigation into the circumstances surrounding Anna's death, and the Labor Minister promised action based on its findings.
+
+Mon, 23 Sep 2024 16:59:06 +0530
+### [Israel vs Hezbollah: What’s going on? Will Jewish nation invade Lebanon?](https://www.firstpost.com/explainers/israel-vs-hezbollah-whats-going-on-will-jewish-nation-invade-lebanon-13818301.html)
+
+Recent days have seen a serious escalation in tensions between Israel and Hezbollah. Following Israel's attacks on Hezbollah positions in Lebanon, Hezbollah responded with rocket attacks into northern Israel. This has led to a cycle of retaliation, with Israel intensifying its airstrikes on Lebanon and urging residents of southern Lebanon to evacuate their homes.  This heightened conflict has raised fears of a full-scale war, potentially drawing in other regional players and causing widespread devastation.  
+
+Experts believe this represents a new phase in the conflict, with Israel aiming to weaken Hezbollah's infrastructure and capability. While the US is actively engaged in diplomatic efforts to de-escalate the situation, there are concerns that the current trajectory could rapidly lead to a catastrophic all-out war.
+
+Mon, 23 Sep 2024 16:50:05 +0530
+### [How a boy abducted from California in 1951 was found more than 70 years later](https://www.firstpost.com/world/united-states/how-a-boy-abducted-from-california-in-1951-was-found-more-than-70-years-later-13818263.html)
+
+In February 1951, six-year-old Luis Armando Albino was kidnapped from a park in West Oakland, California. A woman lured him away with the promise of candy. Albino was raised by a couple on the East Coast, unaware of his true identity. In 2020, his niece, Alida Alequin, used a DNA test to discover a potential match and began a search to reunite with her uncle. With the help of police, the FBI, and the Department of Justice, she located Albino in June 2023. They were finally able to reunite, and Albino met his remaining family, including his older brother.
+
 Mon, 23 Sep 2024 15:26:15 +0530
 ### [Is Sri Lanka’s new president Anura Kumara Dissanayake bad news for India?](https://www.firstpost.com/explainers/sri-lanka-new-president-anura-kumara-dissanayake-election-india-china-significance-13818240.html)
 

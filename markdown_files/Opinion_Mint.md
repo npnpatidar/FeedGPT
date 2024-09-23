@@ -1,3 +1,13 @@
+Mon, 23 Sep 2024 16:00:16 +0530
+### [What the overhaul of India’s merger control regime means](https://www.livemint.com/opinion/online-views/cci-competition-commission-of-india-deal-value-threshold-mergers-and-acquisitions-cci-amendments-11727069430525.html)
+
+Starting September 10, 2024, significant changes to India's merger-control regime came into effect. These changes, driven mainly by sector-agnostic deal value thresholds, are set to see increased regulatory scrutiny and burden on companies.  
+
+Crucially, any deal exceeding ₹2,000 crore now requires approval from the Competition Commission of India (CCI), a move aligning India with jurisdictions like the US, Germany, and South Korea. These amendments also broaden the scope of 'control,' lowered the threshold for triggering regulatory scrutiny, and establish narrower exemptions for minority-stake acquisitions.
+
+
+While the changes aim to create a more transparent and efficient system, they also pose challenges for the CCI, requiring enhanced capacity to handle the expected surge in filings. To address this, the CCI must adapt to the increased workload and potentially establish a merger unit in Mumbai for greater regulatory efficiency.  The coming year will likely be marked by interpretational challenges regarding the new rules.
+
 Mon, 23 Sep 2024 15:00:15 +0530
 ### [Here’s how the US and China can see eye-to-eye on AI regulation](https://www.livemint.com/opinion/online-views/us-china-ai-regulation-tech-industry-algorithms-innovation-deepfakes-misinformation-11727066486935.html)
 
