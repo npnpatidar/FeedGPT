@@ -1,3 +1,15 @@
+Mon, 23 Sep 2024 00:00:52 +0000
+### [This is Rahul Gandhi’s period of reckoning. He, and Opposition, must be careful](https://indianexpress.com/article/opinion/columns/this-is-rahul-gandhis-period-of-reckoning-he-and-opposition-must-be-careful-9582778/)
+
+Rahul Gandhi's recent US visit and comments on reservation and his meeting with Ilhan Omar have sparked controversy. The BJP, using its media influence, has painted Gandhi in a negative light, claiming he damages India's image and aligns with anti-India forces. 
+
+Despite facing relentless attacks, Gandhi's stature has grown following the 2024 election. He is seen as the foremost voice against the BJP's ideology.  However, the Opposition needs to be mindful of the BJP's political maneuvering and effectively communicate its message to the electorate.  Leveraging the caste census issue and addressing the concerns of aspirational youth and the middle class will be crucial for the Opposition's success. While emphasizing the "idea of India," it's important to also respect Hindu beliefs and sensibilities. The Opposition's stand against the BJP's actions on issues like reservation resonates with many voters.
+
+Sun, 22 Sep 2024 22:40:02 +0000
+### [J Sai Deepak writes: The perception of justice is as important as justice itself](https://indianexpress.com/article/opinion/columns/j-sai-deepak-writes-the-perception-of-justice-is-as-important-as-justice-itself-9582772/)
+
+Contemporary democracies are struggling with a focus on individual personalities in politics over important issues. This trend, exacerbated by the explosion of media and social media, has led to a decline in the quality of public discourse and a rise in cynicism and apathy. The author argues that restoring respect for institutional boundaries and returning to foundational principles are crucial to addressing this issue. While political actors and the media are often driven by self-interest, independent constitutional institutions have a responsibility to lead by example and uphold the highest standards of probity and transparency.  They should serve as a model for others, inspiring confidence and public support. The author cites T.N. Seshan's tenure as Chief Election Commissioner as a prime example of this ideal, where individual integrity reinforced the institution's authority.  Ultimately, strong constitutional institutions are essential for safeguarding democracy and its core values.
+
 Sun, 22 Sep 2024 22:00:05 +0000
 ### [Express View: To move forward, Manipur needs dialogue among communities](https://indianexpress.com/article/opinion/columns/express-view-to-move-forward-manipur-needs-dialogue-among-communities-9582773/)
 
