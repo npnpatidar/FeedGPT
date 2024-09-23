@@ -1,3 +1,8 @@
+Mon, 23 Sep 2024 15:44:55 +0000
+### [Israeli strikes on southern Lebanon leave nearly 300 dead: What is happening?](https://indianexpress.com/article/explained/explained-global/israel-southern-lebanon-strikes-9584313/)
+
+Over 270 people have been killed and a thousand more injured in Israeli strikes on southern Lebanon. This follows escalating exchanges of fire between Israel and Hezbollah, the Lebanese militant group, which has been supporting Hamas following their attacks on Israel last year.  Israel launched air strikes after accusing Hezbollah of storing weapons in civilian areas, prompting a mass exodus of civilians from the south. Tensions have risen since Hezbollah launched rockets and drones towards Israel in retaliation for the killing of a senior Hezbollah commander. While both sides claim they don't seek war, Israel's superior military might could make a larger-scale conflict difficult for Hezbollah to withstand.  Hezbollah, backed by Iran, has faced criticism for its involvement in the conflict and accusations of terror activities.
+
 Mon, 23 Sep 2024 13:39:14 +0000
 ### [India to launch its first mission to Venus in 2028: Everything you need to know](https://indianexpress.com/article/explained/explained-sci-tech/india-venus-mission-9584146/)
 

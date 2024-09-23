@@ -1,3 +1,17 @@
+Mon, 23 Sep 2024 20:11:57 +0530
+### [In Graphics: The rise and rise of Sri Lanka's new president Anura Dissanyake](https://www.firstpost.com/explainers/in-graphics-sri-lanka-new-president-anura-kumara-dissanyake-13818374.html)
+
+Anura Kumara Dissanayake (AKD), the leader of the Janatha Vimukthi Peramuna (JVP), has been sworn in as Sri Lanka's new president after a landslide victory in the recent election. 
+
+Dissanayake, who hails from a humble background, has pledged to uphold democracy and foster a more transparent political culture. His victory comes as Sri Lanka grapples with the aftermath of a severe economic crisis. 
+
+Known for his close ties to China and his party's historically anti-India stance, AKD's approach to balancing relations with both nations remains to be seen.
+
+Mon, 23 Sep 2024 20:04:01 +0530
+### [Why Cathay Pacific has banned a couple over reclining seat dispute](https://www.firstpost.com/explainers/cathay-pacific-ban-couple-reclining-seat-dispute-13818360.html)
+
+A fight on a Cathay Pacific flight between a Hong Kong couple and a Chinese passenger over a reclining seat escalated into a xenophobic altercation. The Chinese woman recorded the incident, which went viral, showing the couple verbally abusing her and physically shoving her. Witnesses condemned the couple's behavior. Cathay Pacific responded by banning the couple from future flights, citing its zero-tolerance policy for disruptive behavior. The incident highlighted tensions between mainland Chinese and Hong Kongers.
+
 Mon, 23 Sep 2024 19:30:25 +0530
 ### [Pack your bags: How travelling can help keep you young](https://www.firstpost.com/health/how-travelling-can-help-keep-you-young-13818288.html)
 
