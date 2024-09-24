@@ -1,3 +1,19 @@
+Tue, 24 Sep 2024 13:53:55 +0000
+### [Why simultaneous polls will undermine women’s political participation at grassroots level](https://indianexpress.com/article/opinion/columns/women-political-participation-grassroots-level-9585954/)
+
+The 'One Nation, One Election' initiative, while aiming to streamline governance and reduce election costs, raises concerns about its potential impact on women's political participation. Local elections, which often act as a stepping stone for women in politics, would be synchronized with national and state elections, potentially diluting their visibility and focus. 
+
+Women have achieved significant representation in panchayats and municipalities, leading on critical local issues like education and sanitation. Merging elections with national and state campaigns could overshadow these women-centric priorities and create an uneven playing field, favoring candidates with greater resources and influence. This could exacerbate the gender gap in political representation, particularly in rural areas. 
+
+Rather than compromising grassroots leadership, efforts should focus on strengthening existing structures that encourage women's political participation, ensuring truly inclusive governance.
+
+Tue, 24 Sep 2024 13:04:21 +0000
+### [Zakia Soman writes to Chief Justice of India D Y Chandrachud: I feel let down](https://indianexpress.com/article/opinion/columns/zakia-soman-chief-justice-india-d-y-chandrachud-i-feel-let-down-9585811/)
+
+The author expresses deep disappointment and hurt to the Chief Justice of India regarding a photograph depicting a Ganesh Chaturthi celebration with the Prime Minister. They highlight the contrasting scenario of religious minorities facing restrictions and violence while celebrating their festivals. The author recalls  the Chief Justice's inspiring lecture on constitutional values and  justice for all, questioning their silence in the face of these injustices.  
+
+The letter details the challenges faced by Muslims in India, including lynchings, arrests for "love Jihad," and intimidation. The author criticizes the "celebrations" that take place near mosques, expressing the fear experienced by Muslims. Despite their despair, they hold onto hope in the humanity of ordinary Indians, but remain deeply let down by the Chief Justice's seeming indifference to their plight.
+
 Tue, 24 Sep 2024 09:07:18 +0000
 ### [Death of Ernst & Young employee: Hustle culture and over-work thrive in India because we let it](https://indianexpress.com/article/opinion/columns/death-ernst-young-employee-hustle-culture-over-work-india-9585515/)
 

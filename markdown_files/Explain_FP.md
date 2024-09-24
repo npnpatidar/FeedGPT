@@ -1,3 +1,29 @@
+Tue, 24 Sep 2024 19:32:10 +0530
+### [Bye bye Burberry: Why China is giving up luxury for dupes](https://www.firstpost.com/explainers/china-luxury-products-dupes-economic-crisis-unemployment-13818618.html)
+
+China, once a thriving market for luxury brands, is witnessing a shift in consumer behavior.  The rise of "pingti," or replicas of luxury goods, is gaining traction as Chinese consumers grapple with an economic downturn. 
+
+These dupes, often indistinguishable from the originals, cater to consumers seeking value for money amid reduced spending power. 
+
+High unemployment rates and a sense of "luxury shame" contribute to this trend.  Consumers are increasingly prioritizing rational shopping decisions and seeking out cheaper alternatives without blindly trusting established brands. 
+
+
+ Luxury brands have experienced declining sales in China, with retailers offering discounts to attract customers.  The preference for "pingti" shows a clear change in consumer values and a willingness to embrace more affordable alternatives.
+
+Tue, 24 Sep 2024 18:38:33 +0530
+### [In Graphics l How does Iron Dome, Israel's air defence system, work?](https://www.firstpost.com/explainers/in-graphics-l-how-does-iron-dome-israels-air-defence-system-work-13818675.html)
+
+Hezbollah launched nearly 200 rockets towards northern Israel in response to Israeli airstrikes that killed over 500 people in Lebanon.  Israel's Iron Dome air defense system intercepted a majority of the rockets, preventing significant damage.  Designed to protect populated areas and infrastructure, Iron Dome identifies incoming projectiles like rockets and artillery shells and intercepts those deemed dangerous. Israeli authorities had warned citizens about potential missile attacks, sounding air raid sirens in northern regions.  While Hezbollah’s barrage was significant, the Iron Dome proved effective in mitigating its impact.
+
+Tue, 24 Sep 2024 18:26:39 +0530
+### [Is Hezbollah using civilians as human shields against Israel? What does the law say?](https://www.firstpost.com/explainers/is-hezbollah-using-civilians-as-human-shields-against-israel-what-does-the-law-say-13818703.html)
+
+Israel has accused both Hezbollah and Hamas of using civilians as human shields, claiming they store weapons in populated areas and near civilian homes.  International law explicitly forbids the use of human shields, considering it a war crime. 
+
+Israel has presented images and videos as evidence of Hezbollah placing weapons in Lebanese homes. They've also issued warnings to civilians in Lebanon to evacuate, similar to their approach in Gaza. 
+
+However, experts argue that these warnings shift the responsibility of safety onto the civilians rather than the attacking forces. They also point out the inherent complexities of conflict zones, particularly densely populated areas like Gaza, where distinguishing combatants from civilians can be difficult.
+
 Tue, 24 Sep 2024 17:46:35 +0530
 ### [Quicksplained: All about India’s new airline, Shankh Air](https://www.firstpost.com/explainers/india-new-airline-shankh-air-13818661.html)
 
