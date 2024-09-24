@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 20:26:34 +0530
+### [Now mice on prasad packets of Mumbai's Siddhivinayak temple? What's the latest row?](https://www.firstpost.com/explainers/now-mice-on-prasad-packets-of-mumbais-siddhivinayak-temple-whats-the-latest-row-13818714.html)
+
+A video circulated online showing what appeared to be mice on torn packets of prasad at Mumbai's Siddhivinayak Temple. This sparked controversy and concern over hygiene practices. The temple trust denied the allegations, stating that the video was filmed outside the temple premises and was likely an attempt to defame them.  They launched an investigation, involving CCTV footage review and a high-ranking officer, promising action against those responsible. 
+
+The trust emphasized their strict hygiene standards, including thorough ingredient testing and a dedicated team of employees preparing the prasad. They assured the public that the prasad offered to devotees is pure.
+
 Tue, 24 Sep 2024 19:32:10 +0530
 ### [Bye bye Burberry: Why China is giving up luxury for dupes](https://www.firstpost.com/explainers/china-luxury-products-dupes-economic-crisis-unemployment-13818618.html)
 
