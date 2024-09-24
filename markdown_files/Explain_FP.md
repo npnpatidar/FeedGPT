@@ -1,3 +1,40 @@
+Tue, 24 Sep 2024 13:24:11 +0530
+### [Delhi is set to get its first air train between airport terminals. What is it?](https://www.firstpost.com/explainers/delhi-is-set-to-get-its-first-air-train-between-airport-terminals-what-is-it-13818496.html)
+
+DIAL is developing a futuristic air train system at Delhi's Indira Gandhi International Airport to improve passenger transfer between terminals. The air train, also known as a Sky Train, will operate on an Automated People Mover (APM) system, covering 7.7 km and connecting Terminal 2/3, Terminal 1, Aerocity, and Cargo City. 
+
+The project is expected to be completed by the end of 2027. Funding will be provided by DIAL's consultant GMR, and while passengers might not directly pay for the air train, associated costs could be recouped through aeronautical charges and User Development Fees (UDF).  The air train aims to ease congestion and enhance passenger convenience as passenger volume at the airport is projected to double in the coming years.
+
+Tue, 24 Sep 2024 12:45:33 +0530
+### [India reports first case of mpox clade 1 infection: What is this strain declared public health emergency by WHO?](https://www.firstpost.com/health/india-first-mpox-clade-1-infection-strain-public-health-emergency-who-13818527.html)
+
+In India, a 38-year-old man from Kerala has become the first person diagnosed with the more virulent clade 1b strain of mpox.  He recently returned from the United Arab Emirates. His condition is stable. This strain, first identified in the Democratic Republic of Congo, is considered more dangerous than the clade 2 strain that caused the 2022 global outbreak. Clade 1b  has a higher mortality rate and can cause more severe symptoms, including larger lesions and enlarged lymph nodes. 
+
+The WHO has declared mpox a Public Health Emergency of International Concern due to its spread.  Indian authorities are taking steps to contain the virus, including heightened surveillance, testing protocols, and isolation facilities.
+
+Tue, 24 Sep 2024 11:59:22 +0530
+### [A timeline of battles between Israel and Hezbollah amid massive attacks](https://www.firstpost.com/explainers/timeline-battles-israel-hezbollah-lebanon-attacks-13818492.html)
+
+Israel launched a series of air strikes on Lebanon, killing 492 people, including women and children, and injuring 1,645.  Israel's Prime Minister Benjamin Netanyahu stated that the attacks, targeting Hezbollah, would intensify.  This escalation comes amidst Israel's ongoing conflict with Hamas in Gaza and fears of a wider war. 
+
+Israel and Hezbollah have a history of violent clashes, with notable incidents occurring from 2007 to 2013, including border skirmishes and attacks on each other's positions. Tensions further heightened in 2014 and 2015 with targeted strikes and ambushes, and again in 2019 with drone and missile attacks. The situation intensified again in 2021 with cross-border artillery fire and airstrikes.
+
+
+The recent attacks follow the October 7, 2023, Hamas attack on Israel, resulting in an exchange of fire between Hezbollah and Israel,  leading to civilian casualties and escalating the regional conflict. These conflicts have resulted in significant human suffering and raised concerns about a full-blown war.
+
+Tue, 24 Sep 2024 11:46:58 +0530
+### [What is the Badlapur sexual assault case? What's the row over accused's death in encounter?](https://www.firstpost.com/explainers/badlapur-sexual-assault-case-row-over-accused-akshay-shindes-death-encounter-13818454.html)
+
+Akshay Shinde, accused of sexually assaulting two four-year-old girls in Maharashtra's Badlapur, was killed in a police encounter on Monday. The incident occurred while Shinde was being transported from Taloja jail to Badlapur for questioning in a fresh case filed by his ex-wife. 
+
+Police claim Shinde snatched an officer's gun and fired, leading to retaliatory fire that killed him. However, the opposition has condemned the incident, calling it a "fake encounter" and demanding a judicial probe. They question the circumstances leading to the encounter and allege a cover-up by the police and the school management. 
+
+The incident has heightened political tensions in Maharashtra, with the ruling coalition defending the police's actions while the opposition accuses them of a deliberate extrajudicial killing. The state government has ordered an inquiry into the incident. 
+
+
+The case sparked outrage due to the brutal nature of the crime and the initial delay by police in taking action. 
+It also highlighted concerns about the safety of children and the school's security measures. A Special Investigation Team (SIT) is investigating both the assault and the school's conduct.
+
 Tue, 24 Sep 2024 10:27:53 +0530
 ### [Did Israel hack Lebanon's communications to send evacuation warnings?](https://www.firstpost.com/explainers/did-israel-hack-lebanon-communications-to-send-evacuation-warnings-13818446.html)
 

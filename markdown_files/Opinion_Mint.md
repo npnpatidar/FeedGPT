@@ -1,3 +1,12 @@
+Tue, 24 Sep 2024 12:30:10 +0530
+### [Let’s see if AI can work its magic to close education deficiencies](https://www.livemint.com/opinion/online-views/ai-in-education-reading-comprehension-learning-outcomes-students-education-system-11727149735588.html)
+
+This article discusses the potential of AI to improve education, specifically focusing on the Mozhigal program in Tamil Nadu. 
+
+Children naturally learn to speak, but need to be taught how to read. The article highlights that a child's reading speed directly influences their comprehension and academic success. AI can personalize learning by identifying a child's specific reading challenges and tailoring practice material accordingly. 
+
+The Mozhigal program uses AI to assess children's reading aloud, pinpoint areas of difficulty, and create customized exercises. The AI adapts to each child's progress, gradually increasing the complexity of the material. Early results show promising improvements in reading speed and confidence among participating students.  The author concludes that AI has immense potential for enhancing education and cites Mozhigal as a successful example of this potential.
+
 Tue, 24 Sep 2024 09:45:06 +0530
 ### [Vivek Kaul: Today’s IPO frenzy can’t be attributed to India’s growth story](https://www.livemint.com/opinion/online-views/ipos-retail-investors-stock-market-gains-oversubscribed-ipos-shares-rbi-nse-reliance-power-ipo-11727118027708.html)
 

@@ -1,3 +1,13 @@
+Tue, 24 Sep 2024 13:27:06 +0530
+### [Sri Lanka: How Anura Dissanayake’s presidency will test India’s diplomatic agility](https://www.firstpost.com/opinion/sri-lanka-how-anura-dissanayakes-presidency-will-test-indias-diplomatic-agility-13818519.html)
+
+Anura Kumara Dissanayake's presidency of Sri Lanka presents India with a complex set of challenges. Dissanayake's leftist leanings and historical ties to China raise concerns about a potential shift in Sri Lanka's foreign policy, possibly deepening Chinese influence in the region. This could threaten India's strategic interests and its $4 billion investment in Sri Lanka. 
+
+Dissanayake's plans to renegotiate the IMF bailout also add uncertainty to the economic outlook, requiring India to navigate its investments and ensure regional stability.  India must also carefully monitor Sri Lanka's handling of Tamil grievances, as any escalation of their issues could have repercussions for India's Tamil population. 
+
+
+Additionally,  Dissanayake's past association with the JVP, a group known for violence, raises concerns about internal security in Sri Lanka, potentially impacting regional stability. India's response will require a delicate balance of supporting Sri Lanka's economic recovery while safeguarding its own strategic interests through diplomacy and intelligence cooperation.
+
 Tue, 24 Sep 2024 11:22:18 +0530
 ### [Narrow escape for foreign diplomats: How terror chickens are coming home to roost Pakistan](https://www.firstpost.com/opinion/narrow-escape-for-foreign-diplomats-how-terror-chickens-are-coming-home-to-roost-pakistan-13818490.html)
 
