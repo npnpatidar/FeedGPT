@@ -1,3 +1,8 @@
+Tue, 24 Sep 2024 05:30:43 +0000
+### [What exclusion of NEET student says about disability rights in medicine](https://indianexpress.com/article/opinion/columns/neet-student-disability-rights-in-medicine-9585051/)
+
+Three NEET students with hand impairments faced rejection from medical boards before seeking judicial review. While two were deemed eligible, Kabir, the highest scorer, was found unsuitable despite successfully performing a syringe task.  The AIIMS medical board cited assumptions about his limitations in performing medical procedures without actually testing him. This case highlights the pervasive ableism within the medical field, exemplified by historical biases and the failure to update guidelines despite technological advancements and the success of surgeons with disabilities.  The writer calls for a shift towards a disability rights model in medicine and urges the higher courts to intervene to correct these injustices.
+
 Tue, 24 Sep 2024 00:35:23 +0000
 ### [India at the Olympiad: The future of chess is increasingly looking Indian](https://indianexpress.com/article/opinion/editorials/india-at-the-olympiad-the-future-of-chess-is-increasingly-looking-indian-9584666/)
 

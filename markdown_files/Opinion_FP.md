@@ -1,3 +1,8 @@
+Tue, 24 Sep 2024 11:22:18 +0530
+### [Narrow escape for foreign diplomats: How terror chickens are coming home to roost Pakistan](https://www.firstpost.com/opinion/narrow-escape-for-foreign-diplomats-how-terror-chickens-are-coming-home-to-roost-pakistan-13818490.html)
+
+A recent IED attack in Swat, Pakistan, targeted a convoy escorting foreign diplomats, resulting in the death of a policeman and injuries to three others. The incident, though diplomats were unharmed,  negatively portrays Pakistan and raises concerns about the security of tourists. The Pakistani government has largely downplayed the incident, focusing on the loss of the policeman's life and avoiding mentions of the presence of diplomats. This incident impedes Pakistan's efforts to attract foreign investment and tourism, highlighting the country's ongoing struggles with terrorism. Despite the precarious situation, political maneuvering amidst the tragedy further complicates the fight against extremism.
+
 Tue, 24 Sep 2024 09:28:04 +0530
 ### [How Quad consolidates itself to counter growing Chinese hegemony](https://www.firstpost.com/opinion/how-quad-consolidates-itself-to-counter-growing-chinese-hegemony-13818448.html)
 

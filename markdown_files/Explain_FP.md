@@ -1,3 +1,17 @@
+Tue, 24 Sep 2024 10:27:53 +0530
+### [Did Israel hack Lebanon's communications to send evacuation warnings?](https://www.firstpost.com/explainers/did-israel-hack-lebanon-communications-to-send-evacuation-warnings-13818446.html)
+
+Israel has issued evacuation warnings to Lebanese civilians via phone calls, texts, and hacked radio broadcasts amid escalating tensions with Hezbollah. Warnings, delivered in Arabic, urge residents to distance themselves from Hezbollah strongholds, citing impending "extensive and precise" strikes. Concerns have been raised that Israel infiltrated Lebanon's telecommunications systems to reach civilians. Lebanese officials confirmed receiving messages, describing it as "psychological warfare." Israel's tactic mirrors past campaigns where warnings were used to minimize civilian casualties while demonstrating technological superiority.  Analysts believe Israel leverages sophisticated intelligence gathering capabilities, including potential access to landlines, car plate numbers, and mobile phone data, to target areas with Hezbollah activity.  This raises concerns about Lebanon's data privacy and security vulnerabilities.
+
+Tue, 24 Sep 2024 10:17:32 +0530
+### [Deadliest day of Israeli strikes in Lebanon since 2006 kills 492: What led to it?](https://www.firstpost.com/explainers/israel-airstrikes-deadliest-day-lebanon-2006-explained-13818458.html)
+
+Israel launched a major aerial offensive against Hezbollah in Lebanon, marking the deadliest day for Lebanon since the 2006 war. The strikes, which killed nearly 500 people, were in retaliation for a series of attacks on Israeli territory, including the explosion of pagers and walkie-talkies used by Hezbollah members. 
+
+Hezbollah retaliated by firing rockets deep into Israel.  This escalation has heightened fears of a wider regional conflict, prompting international calls for diplomacy. While the US is working to de-escalate the situation, Prime Minister Netanyahu has vowed to continue the operation, urging Lebanese civilians to evacuate. 
+
+Intensified tensions stem from a long-standing enmity between Israel and Hezbollah, rooted in the 2006 Lebanon War and ongoing support for Palestinian causes. The recent attacks mark the latest chapter in a volatile conflict that threatens regional stability.
+
 Tue, 24 Sep 2024 08:31:28 +0530
 ### [How Singapore’s S Iswaran is the first ever minister to be on trial for corruption](https://www.firstpost.com/explainers/singapores-s-iswaran-corruption-trial-case-explained-13818284.html)
 

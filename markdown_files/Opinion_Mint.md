@@ -1,3 +1,12 @@
+Tue, 24 Sep 2024 09:45:06 +0530
+### [Vivek Kaul: Today’s IPO frenzy can’t be attributed to India’s growth story](https://www.livemint.com/opinion/online-views/ipos-retail-investors-stock-market-gains-oversubscribed-ipos-shares-rbi-nse-reliance-power-ipo-11727118027708.html)
+
+India is currently experiencing an IPO frenzy, with numerous companies drawing bids exceeding their target amounts. Bajaj Housing Finance, PN Gadgil Jewellers, and Saraswati Saree Depot are examples of companies receiving significantly higher bids than their desired fundraising amounts.  
+
+Despite low profitability potential for many of these companies, this trend is attributed to the enduring "India growth story" narrative, which encourages investment in stocks, particularly amongst retail investors.   However, this exuberance may be unsustainable. This  period of high IPO activity resembles past market excesses, such as the 2007-2008 boom leading to a quieter period afterwards. 
+
+Experts suggest that the influx of capital into IPOs could signal a lack of diverse investment opportunities and a continuous pursuit of stock market returns driven by past performance.  Ultimately, the longevity of this trend remains uncertain. The article compares the current scenario to the dotcom bubble and notes the historical pattern of market excesses followed by periods of quieter activity.
+
 Tue, 24 Sep 2024 08:30:03 +0530
 ### [The Quad has served Beijing a veiled notice on the Indo-Pacific](https://www.livemint.com/opinion/online-views/quad-indo-pacific-india-australia-japan-us-china-military-alliance-defence-forces-theatre-commands-strategic-autonomy-11727117396476.html)
 

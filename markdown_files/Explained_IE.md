@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 05:13:05 +0000
+### [Was Karnataka Governor’s sanction to prosecute CM Siddaramaiah in the MUDA scam case legally valid? HC to decide](https://indianexpress.com/article/explained/explained-law/karnataka-governor-sanction-siddaramaiah-hc-9584970/)
+
+The Karnataka High Court is set to decide if Governor Thawarchand Gehlot properly sanctioned an investigation into Chief Minister Siddaramaiah regarding an alleged MUDA scam.  Three activists accused Siddaramaiah's wife of receiving land in exchange for a plot acquired illegally during the previous BJP government's tenure, leading to a financial loss for the state. 
+
+While the state Council of Ministers advised against the investigation, the Governor granted permission, citing a prima facie case against Siddaramaiah. The Chief Minister challenged the sanction, arguing the Governor disregarded the Council's advice and lacked justification for the investigation. The court will determine if the Governor acted appropriately based on legal precedent and the Council's resolution.
+
 Tue, 24 Sep 2024 03:18:48 +0000
 ### [Why dengue cases have surged this year](https://indianexpress.com/article/explained/explained-health/why-dengue-cases-have-surged-this-year-9584630/)
 
