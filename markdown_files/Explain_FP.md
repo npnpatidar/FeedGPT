@@ -1,3 +1,45 @@
+Tue, 24 Sep 2024 17:46:35 +0530
+### [Quicksplained: All about India’s new airline, Shankh Air](https://www.firstpost.com/explainers/india-new-airline-shankh-air-13818661.html)
+
+Shankh Air, a new airline in India, has received approval from the Union Aviation Ministry to commence operations. The airline plans to connect major cities across India with both interstate and intrastate routes, particularly focusing on regions with high demand for direct flights. Shankh Air will operate a fleet of new Boeing 737-800NG aircraft and has its main hubs in Lucknow and Noida, with its first flight anticipated to depart from Uttar Pradesh.  
+
+Before taking to the skies, Shankh Air still needs to obtain the Directorate General of Civil Aviation’s (DGCA) approval. 
+
+
+
+
+The Indian aviation market is witnessing significant growth, driven by a steady increase in domestic air traffic.  The market is currently led by IndiGo, followed by Air India, which is aggressively expanding its presence through acquisitions and fleet expansion.
+
+Tue, 24 Sep 2024 17:21:27 +0530
+### [What is MUDA scam case? Why has Karnataka High Court green-lit probe against CM Siddaramaiah?](https://www.firstpost.com/explainers/muda-scam-case-karnataka-high-court-cm-siddaramaiah-probe-corruption-charges-13818653.html)
+
+The Karnataka High Court has upheld the Governor's decision to grant sanction for an investigation against Chief Minister Siddaramaiah in the alleged MUDA scam. The case revolves around accusations that Siddaramaiah's wife, Parvathi, improperly benefitted from a land exchange scheme implemented by the MUDA. 
+
+Activists allege that Parvathi received 14 housing sites in exchange for a plot of land acquired by MUDA, resulting in a financial loss to the state. Siddaramaiah has defended his wife, stating she did not choose prime locations for the allotted sites and that the alternative plots were given during the previous BJP regime.  
+
+Despite the Karnataka Council of Ministers advising the Governor to withdraw the sanction notice, the Governor proceeded, granting permission for a probe under the Prevention of Corruption Act and the Bharatiya Nagarik Suraksha Sanhita.  The High Court, after acknowledging the seriousness of the allegations and upholding the Governor's decision, dismissed Siddaramaiah's plea against the sanction. 
+The BJP has demanded Siddaramaiah's resignation, while the Congress party maintains that the case is politically motivated.
+
+Tue, 24 Sep 2024 17:09:34 +0530
+### [14 lakh laddus sold in 4 days: Why devotees continue to buy Tirupati laddus amid animal fat row](https://www.firstpost.com/explainers/14-lakh-laddus-sold-in-4-days-why-devotees-continue-to-buy-tirupati-laddus-amid-animal-fat-row-13818557.html)
+
+The controversy surrounding the use of animal fat in Tirupati laddus has not affected sales, which remain steady at around 3.50 lakh laddus per day. Devotees continue to purchase the laddus, maintaining their faith in the prasadam.  Originally made with besan and jaggery, the recipe evolved over time to include dry fruits.  The laddus are a significant aspect of the temple's offerings and hold cultural and religious importance. The Tirupati Temple administration has assured devotees that quality control measures are in place to ensure the purity of the laddus.
+
+Tue, 24 Sep 2024 16:45:29 +0530
+### [Chennai infant suffers from rare black nose disease. What is it?](https://www.firstpost.com/health/chennai-infant-rare-black-nose-disease-13818569.html)
+
+A newborn baby girl in Chennai was recently diagnosed with a rare condition known as black nose disease, a new symptom of chikungunya. Doctors believe this pigmentation, often characterized by flat, speckled patches on the nose, is a result of post-inflammatory hyperpigmentation caused by the virus. 
+
+The baby’s mother had been diagnosed with chikungunya before giving birth. While the condition is harmless and typically fades on its own, it can sometimes persist for up to six months. Treatment involves using moisturizers and sunscreens to minimize pigmentation and speed up healing. 
+
+
+Black nose disease is thought to be a result of the chikungunya virus and post-inflammatory hyperpigmentation.
+
+Tue, 24 Sep 2024 16:16:11 +0530
+### [Who is Pakistan's new ISI chief Lt Gen Muhammad Asim Malik? Why is the post important?](https://www.firstpost.com/explainers/who-is-pakistans-new-isi-chief-lt-gen-muhammad-asim-malik-why-is-the-post-important-13818629.html)
+
+Lieutenant General Muhammad Asim Malik has been appointed as the new chief of Pakistan's Inter-Services Intelligence (ISI). Malik replaces Lt Gen Nadeem Anjum, who was appointed by former prime minister Imran Khan. Malik has a distinguished military career, having served in various high-ranking positions, including in volatile regions like Waziristan and Balochistan. He also received academic training at prestigious institutions in the United States and the United Kingdom.  The ISI chief is a powerful position with influence over domestic politics, the military, and foreign relations.
+
 Tue, 24 Sep 2024 15:39:14 +0530
 ### [Did Melania Trump charge a bomb to speak at a gay Republican event? The controversy explained](https://www.firstpost.com/world/united-states/melania-trump-republican-event-payment-donald-trump-campaign-13818561.html)
 

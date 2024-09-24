@@ -1,3 +1,19 @@
+Tue, 24 Sep 2024 16:56:11 +0530
+### [Why J&K Assembly election is a watershed event](https://www.firstpost.com/opinion/why-jk-assembly-election-is-a-watershed-event-13818660.html)
+
+The article discusses the history of Jammu and Kashmir, focusing on the events of 1948 when India appealed to the UN regarding Pakistan's invasion.  It argues that Nehru's decision to involve the UN was a "monumental blunder" that gave Pakistan undue leverage and led to a protracted conflict. The article criticizes British influence at the time, particularly Noel Baker's actions at the UN which favored Pakistan's position. It also mentions Sheikh Abdullah's advocacy for Kashmiri independence during UN proceedings.
+
+The author believes that the recent Assembly elections in Jammu and Kashmir are a step towards resolving the decades-old issue and hopes for the return of territories currently occupied by Pakistan.
+
+Tue, 24 Sep 2024 16:39:28 +0530
+### [Solar aatmanirbharta is vital for energy-secured Viksit Bharat](https://www.firstpost.com/opinion/solar-aatmanirbharta-is-vital-for-energy-secured-viksit-bharat-13818650.html)
+
+India aims to achieve its vision of 'Viksit Bharat' by 2047, and energy security is a crucial part of this transformation.  The country faces increasing energy demands driven by its growing population, demanding a balanced approach to sustainable energy production. 
+
+India has made significant strides in renewable energy, with solar power constituting a major portion of its generation capacity. Reaching the ambitious target of 500 GW non-fossil energy capacity by 2030 requires a comprehensive strategy encompassing grid integration, making solar technologies accessible to the masses, and curbing import dependence by boosting domestic production. 
+
+Achieving "Solar Aatmanirbharta" requires a  holistic ecosystem that is economically viable, environmentally responsible, and sustainable in the long run.
+
 Tue, 24 Sep 2024 13:27:06 +0530
 ### [Sri Lanka: How Anura Dissanayake’s presidency will test India’s diplomatic agility](https://www.firstpost.com/opinion/sri-lanka-how-anura-dissanayakes-presidency-will-test-indias-diplomatic-agility-13818519.html)
 

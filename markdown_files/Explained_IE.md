@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 11:07:36 +0000
+### [Why Andhra Pradesh govt reversed its decision to let nearly 80,000 state board students take CBSE exam](https://indianexpress.com/article/explained/andhra-pradesh-cbse-board-exam-9585727/)
+
+The Andhra Pradesh government reversed a decision to have 1,000 government high schools administer CBSE Class 10 exams. The change was implemented by the previous administration and aimed to enhance education quality. However, an August assessment revealed alarmingly poor student performance, with over 300 schools registering a zero pass percentage. Officials attributed the underperformance to the sudden shift to CBSE's critical thinking-based assessment style, which differed from the rote memorisation-focused state board system.  
+
+Teachers lacked training in the new system, and students had limited exposure to this type of assessment.  The government now plans a gradual transition to CBSE, starting with improving assessment standards in lower classes. They emphasize a phased approach to ensure teachers and students are adequately prepared for the switch.
+
 Tue, 24 Sep 2024 09:15:12 +0000
 ### [Explained: With ‘Laapataa Ladies’ as India’s official Oscars entry, a look at the selection process](https://indianexpress.com/article/explained/explained-culture/laapataa-ladies-oscar-entry-selection-process-9585517/)
 
