@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 09:07:18 +0000
+### [Death of Ernst & Young employee: Hustle culture and over-work thrive in India because we let it](https://indianexpress.com/article/opinion/columns/death-ernst-young-employee-hustle-culture-over-work-india-9585515/)
+
+The article discusses the prevalence of "hustle culture" in India, contrasting it with the global trend of shifting away from this relentless work ethic. It highlights the tragic case of an overworked employee in India, arguing that blaming companies alone is insufficient. The article points out India's long working hours and the recent proposal to increase the workday length, illustrating a cultural obsession with work.  
+
+The "work is worship" narrative is explored, emphasizing its deeply ingrained nature and the resulting burnout and health problems.  The article questions the value of hustling in an economy where traditional markers of success are inaccessible. It calls for accountability from managers, challenging the glorification of overwork, and encouraging individuals to re-evaluate their priorities and find meaning beyond their jobs.
+
 Tue, 24 Sep 2024 05:30:43 +0000
 ### [What exclusion of NEET student says about disability rights in medicine](https://indianexpress.com/article/opinion/columns/neet-student-disability-rights-in-medicine-9585051/)
 

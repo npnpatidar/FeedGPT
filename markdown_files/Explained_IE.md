@@ -1,3 +1,8 @@
+Tue, 24 Sep 2024 09:15:12 +0000
+### [Explained: With ‘Laapataa Ladies’ as India’s official Oscars entry, a look at the selection process](https://indianexpress.com/article/explained/explained-culture/laapataa-ladies-oscar-entry-selection-process-9585517/)
+
+Laapataa Ladies, directed by Kiran Rao, has been chosen as India's official entry for the Best International Feature Film category at the 97th Academy Awards.  The critically and commercially successful Hindi film tells the story of two newlywed women who get separated during a train journey.  The Film Federation of India (FFI) selected Laapataa Ladies from a pool of 29 films, including All We Imagine As Light and Aattam.  The FFI's selection process has faced criticism, particularly for the all-male jury.   Indian films have a history of representing India at the Oscars, with Mother India, Salaam Bombay!, and Lagaan receiving nominations.
+
 Tue, 24 Sep 2024 05:13:05 +0000
 ### [Was Karnataka Governor’s sanction to prosecute CM Siddaramaiah in the MUDA scam case legally valid? HC to decide](https://indianexpress.com/article/explained/explained-law/karnataka-governor-sanction-siddaramaiah-hc-9584970/)
 

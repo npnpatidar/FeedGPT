@@ -1,3 +1,37 @@
+Tue, 24 Sep 2024 15:39:14 +0530
+### [Did Melania Trump charge a bomb to speak at a gay Republican event? The controversy explained](https://www.firstpost.com/world/united-states/melania-trump-republican-event-payment-donald-trump-campaign-13818561.html)
+
+Melania Trump's limited involvement in Donald Trump's 2024 presidential campaign has sparked curiosity, especially regarding her $237,500 payment for speaking at a Republican fundraiser. This payment, made by an undisclosed source, has raised eyebrows as spouses of political candidates are generally not compensated for appearances during campaigns. 
+
+Experts point to the unusual nature of this payment and the lack of transparency surrounding it, suggesting potential ethical concerns and conflicts of interest. 
+
+Despite these events, Melania has released social media videos addressing topics like the shooting at a Trump rally and promoting her upcoming memoir. However, her overall absence from the campaign trail, including major events like the Republican National Convention and presidential debates, continues to fuel speculation about the state of their relationship and her level of support for his candidacy.
+
+Tue, 24 Sep 2024 14:32:54 +0530
+### [Why a full scale Israel-Hezbollah war may not be one-sided](https://www.firstpost.com/explainers/why-a-full-scale-israel-hezbollah-war-may-not-be-one-sided-13818571.html)
+
+Israel is facing a potential full-scale conflict with Hezbollah, which is armed with a vast arsenal of rockets, missiles, and drones. Hezbollah's capabilities have significantly increased since its last war with Israel in 2006, posing a serious threat despite Israel's superior military technology.
+
+Hezbollah has embraced asymmetric warfare tactics, targeting Israel's defenses and infrastructure. The group's potential for inflicting damage, combined with its standing within a wider network of militant groups aligned with Iran, raises concerns about a major escalation. While Israel possesses advanced weaponry and air superiority, Hezbollah's experience in guerrilla warfare and its ability to exploit its home territory present significant challenges. 
+
+The situation is further complicated by Israel's ongoing conflict in Gaza and its dependence on its military, which experts say is increasingly depleted.
+
+Tue, 24 Sep 2024 14:12:35 +0530
+### [What a chilling letter by suspect behind Trump assassination attempt reveals](https://www.firstpost.com/world/united-states/trump-assassination-suspect-letter-13818515.html)
+
+Ryan Wesley Routh, accused of attempting to assassinate former President Donald Trump at a Florida golf resort, had a handwritten list of Trump's scheduled appearances in his car. 
+
+Prosecutors presented this evidence, along with a notebook containing criticism of foreign governments and instructions for supporting Ukraine, in an effort to convince a judge that Routh posed a threat and should remain in custody.  Routh also sent a package containing a message outlining his plans to an unidentified person, offering a $150,000 bounty to anyone who completed the assassination.
+
+The Secret Service confronted Routh after he was seen with a rifle aimed at an agent. He fled but was apprehended. No shots were fired, and Trump was not in Routh's line of sight.
+
+Tue, 24 Sep 2024 13:54:12 +0530
+### [Cracks, water leaks & more: How extensive is the damage to Taj Mahal?](https://www.firstpost.com/explainers/taj-mahal-damage-cracks-water-leaks-asi-agra-rainfall-13818547.html)
+
+Recent heavy rainfall in Agra has caused damage to the Taj Mahal, including cracks in the marble facade, a broken lattice screen, and water seepage into the monument's interior.  Videos of a plant growing from a pillar of the Taj Mahal have also sparked concern about the monument's upkeep. 
+
+The Archaeological Survey of India (ASI), responsible for the Taj Mahal's preservation, claims there are no serious structural issues and attributes the damage to seepage and rust formation.  However, experts have expressed concerns about the long-term impact of plant roots growing into the monument and have called for smarter architecture and city planning to protect such heritage sites.
+
 Tue, 24 Sep 2024 13:24:11 +0530
 ### [Delhi is set to get its first air train between airport terminals. What is it?](https://www.firstpost.com/explainers/delhi-is-set-to-get-its-first-air-train-between-airport-terminals-what-is-it-13818496.html)
 

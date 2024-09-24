@@ -1,3 +1,23 @@
+Tue, 24 Sep 2024 15:00:12 +0530
+### [Lessons need to be drawn from wars waged by central banks against inflation](https://www.livemint.com/opinion/online-views/us-federal-reserve-inflation-european-central-bank-rbi-price-stability-central-banks-policy-rate-monetary-policy-11727121134097.html)
+
+The US Federal Reserve has initiated a new cycle of interest rate cuts, decreasing the key lending rate by 50 basis points. This move, exceeding expectations of a soft landing, signals a potential easing cycle below pre-pandemic levels by 2026. 
+
+While inflation has generally cooled globally, central bank actions remain divergent. Some like the US and Europe have lowered rates, while others like Japan and Brazil have tightened policy due to persistent inflation. 
+
+This divergence highlights the uneven global economic recovery and the challenges central banks face in navigating inflation while supporting growth.
+
+Tue, 24 Sep 2024 14:00:11 +0530
+### [Nike just did it: It replaced its CEO in the nick of time](https://www.livemint.com/opinion/online-views/nike-sneaker-sales-adidas-airforce-1-luxury-brand-new-balance-hoka-elliott-hill-retail-sales-shares-11727121996917.html)
+
+Nike has appointed Elliott Hill as its new CEO, replacing John Donahoe.  Hill, a veteran of the company, faces the challenge of reviving Nike's fortunes after a period of declining sales and market share. 
+
+Donahoe's strategy to position Nike as both a tech powerhouse and luxury brand has been met with mixed results. Over-reliance on Nike's own channels and a lack of fresh product releases led to lost sales to rivals like Adidas and emerging brands.
+
+Hill's priorities include developing compelling new sneakers, re-engaging with athletes, rebuilding relationships with retailers, and re-establishing Nike's iconic marketing mojo. 
+
+The sportswear market is increasingly competitive, and Nike needs to act swiftly to regain its dominance.
+
 Tue, 24 Sep 2024 12:30:10 +0530
 ### [Let’s see if AI can work its magic to close education deficiencies](https://www.livemint.com/opinion/online-views/ai-in-education-reading-comprehension-learning-outcomes-students-education-system-11727149735588.html)
 
