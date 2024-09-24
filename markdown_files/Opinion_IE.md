@@ -1,3 +1,29 @@
+Tue, 24 Sep 2024 21:41:18 +0000
+### [The Aruna Vasudev I knew](https://indianexpress.com/article/opinion/columns/the-aruna-vasudev-i-knew-9586371/)
+
+Aruna Vasudev was a multifaceted individual celebrated for her contributions to Asian cinema. She was passionate about showcasing the diverse sensibilities and artistry of Asian cinema on a global platform.  
+
+Vasudev treated her accolades with humility and  believed in fostering interactions between people from various backgrounds. Her home was a hub for intellectual and artistic discussions, bringing together individuals from politics, culture, and creative fields. Her commitment to promoting artistic expression transcended regional boundaries, making her a true cultural emissary.
+
+Rooted in Buddhism, Vasudev led a purposeful life that emphasized exploration, unity, and celebrating life's beauty.  She was a charismatic figure whose warmth and welcoming nature endeared her to many.  Her legacy as a pioneer in Asian cinema and a champion of cultural exchange endures.
+
+Tue, 24 Sep 2024 21:20:41 +0000
+### [Express View on ‘encounters’: In cold blood](https://indianexpress.com/article/opinion/editorials/express-view-on-encounters-in-cold-blood-9586376/)
+
+Three separate incidents of alleged police killings of accused criminals in Maharashtra, Uttar Pradesh, and Tamil Nadu highlight a concerning trend of police vigilantism. Despite the seriousness of the charges against the deceased, the killings raise questions about due process being short-circuited.  The article argues that this culture of impunity, encouraged by political rhetoric that celebrates the police as vigilantes,  criminalizes the police while making the public complicit.  The Supreme Court, having recently addressed "bulldozer justice," is urged to focus on curbing encounter killings and preventing the state from circumventing due process.
+
+Tue, 24 Sep 2024 20:30:37 +0000
+### [September 25, 1984, Forty Years Ago: Golden Temple Talks](https://indianexpress.com/article/opinion/40-years-ago/september-25-1984-forty-years-ago-golden-temple-talks-9586375/)
+
+Prime Minister Indira Gandhi met with President Zail Singh and Home Minister P.V. Narasimha Rao to discuss the Golden Temple complex issue. Over 30 Congress (I) MLAs urged the government to hand over the complex to the high priests and withdraw the Army. 
+
+Indira Gandhi emphasized the importance of increased vigilance in the Indian Ocean due to evolving security concerns, noting that the presence of multiple navies could threaten regional peace and stability.  The Andhra Pradesh Cabinet, in a historic move, adopted a resolution against former Governor Ram Lal for ignoring their advice. President Reagan signalled a shift in US policy by expressing openness to  "constructive negotiations" with the Soviet Union on arms control. 
+
+
+
+
+In Sri Lanka, President Anura Kumara Dissanayake dissolved Parliament and scheduled early elections for November 14th,  aiming to secure a majority. He also appointed Harini Amarasuriya as the country's first female Prime Minister in 24 years.
+
 Tue, 24 Sep 2024 18:52:30 +0000
 ### [What ‘Laapataa Ladies’ Oscar citation reveals about us](https://indianexpress.com/article/opinion/columns/what-laapataa-ladies-oscar-citation-reveals-about-us-9586373/)
 
