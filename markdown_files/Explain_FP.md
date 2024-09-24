@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 06:30:06 +0530
+### [FirstUp: Joe Biden's UNGA address, PM Modi returns after US visit... The big news today](https://www.firstpost.com/explainers/firstup-joe-bidens-unga-address-pm-modi-returns-after-us-visit-the-big-news-today-13818316.html)
+
+US President Joe Biden will address the United Nations General Assembly, focusing on international cooperation to address global challenges like economic growth, human rights, and security threats. This address comes during a crucial time as world leaders grapple with conflicts and climate change. Meanwhile, Prime Minister Narendra Modi will return to India after concluding his three-day US visit, which included the Quad Leaders' Summit and meetings with business leaders.  In Singapore, former transport minister S Iswaran will face trial on corruption charges. 
+ 
+Two asteroids, 2024 RO11 and 2020 GE, will safely pass by Earth.  The Supreme Court will hear pleas regarding the West Bengal school jobs row, where the Calcutta High Court nullified the appointment of 25,753 teachers. Lastly, Union Home Minister Amit Shah will begin a two-day visit to Maharashtra to meet BJP workers and finalize seat-sharing arrangements for the upcoming state Assembly elections.
+
 Mon, 23 Sep 2024 20:11:57 +0530
 ### [In Graphics: The rise and rise of Sri Lanka's new president Anura Dissanyake](https://www.firstpost.com/explainers/in-graphics-sri-lanka-new-president-anura-kumara-dissanyake-13818374.html)
 

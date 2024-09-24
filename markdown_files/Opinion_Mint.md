@@ -1,3 +1,8 @@
+Tue, 24 Sep 2024 07:00:19 +0530
+### [Mint Quick Edit | Will SpiceJet’s funding refill keep it airborne?](https://www.livemint.com/opinion/quick-edit/spicejet-qip-funding-grounded-flights-duopoly-indigo-air-india-aviation-sector-11727115226618.html)
+
+SpiceJet secured ₹3,000 crore through a qualified institutional placement, drawing investors like Goldman Sachs, Morgan Stanley, and Societe Generale. This influx of funds, supplemented by an earlier ₹736 crore, aims to revitalize the airline which saw its market share plummet to 2% from over 10% in 2021 due to pandemic-related challenges.  The additional capital is anticipated to help SpiceJet recover and contribute to a more competitive Indian aviation market, currently dominated by IndiGo and Tata-owned Air India.
+
 Mon, 23 Sep 2024 16:00:16 +0530
 ### [What the overhaul of India’s merger control regime means](https://www.livemint.com/opinion/online-views/cci-competition-commission-of-india-deal-value-threshold-mergers-and-acquisitions-cci-amendments-11727069430525.html)
 

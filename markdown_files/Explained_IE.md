@@ -1,3 +1,13 @@
+Tue, 24 Sep 2024 01:32:06 +0000
+### [How Supreme Court strengthened child pornography law](https://indianexpress.com/article/explained/explained-law/child-pornography-law-posco-act-supreme-court-9584617/)
+
+The Supreme Court clarified that viewing, possessing, and failing to report child pornography are punishable offenses under the POCSO Act, regardless of whether the material is shared. The court broadened the definition of "possession" to include "constructive possession" – having control over the material and knowledge of that control. 
+
+The ruling overturned a Madras High Court decision that had acquitted a man of possessing child pornography based on the absence of evidence of sharing or distribution. The Supreme Court emphasized that the law punishes "overt steps" toward committing a crime, including failing to delete, destroy, or report such material, as it may indicate intent to share. 
+
+
+The court stressed the importance of reporting child pornography and highlighted that even if the material is deleted before an FIR is filed, charges can still be brought if possession at any point is established.  they must also investigate all potential sub-sections under Section 15, even if an offence under one subsection is not evident.
+
 Mon, 23 Sep 2024 15:44:55 +0000
 ### [Israeli strikes on southern Lebanon leave nearly 300 dead: What is happening?](https://indianexpress.com/article/explained/explained-global/israel-southern-lebanon-strikes-9584313/)
 
