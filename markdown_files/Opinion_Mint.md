@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 08:30:03 +0530
+### [The Quad has served Beijing a veiled notice on the Indo-Pacific](https://www.livemint.com/opinion/online-views/quad-indo-pacific-india-australia-japan-us-china-military-alliance-defence-forces-theatre-commands-strategic-autonomy-11727117396476.html)
+
+The recent Quad summit, involving leaders of Australia, India, Japan, and the US, resulted in agreements focusing on various areas like healthcare, cybersecurity, and infrastructure development in the Indo-Pacific. While no explicit mention of China was made, the summit's outcomes aimed to counter Beijing's growing influence in the region.  The Quad, which emphasizes a rules-based international order and respect for sovereignty, seeks to enhance collaboration on dual-use capabilities while upholding UN Convention on the Law of the Sea.  
+
+The summit's focus on maritime security reflects China's assertive maritime claims, particularly concerning Taiwan. Although India maintains strategic autonomy and has not committed to a military alliance, the Quad strengthens its ability to deter potential Chinese misadventures. Despite the emphasis on maritime security, India recognizes the need to bolster its land borders, particularly after the Galwan clashes in 2020.
+
 Tue, 24 Sep 2024 07:00:19 +0530
 ### [Mint Quick Edit | Will SpiceJet’s funding refill keep it airborne?](https://www.livemint.com/opinion/quick-edit/spicejet-qip-funding-grounded-flights-duopoly-indigo-air-india-aviation-sector-11727115226618.html)
 

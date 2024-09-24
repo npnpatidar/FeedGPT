@@ -1,3 +1,13 @@
+Tue, 24 Sep 2024 03:18:48 +0000
+### [Why dengue cases have surged this year](https://indianexpress.com/article/explained/explained-health/why-dengue-cases-have-surged-this-year-9584630/)
+
+A significant surge in dengue cases has been observed globally, with over 12 million infections and 6,991 deaths recorded till August 2023. This represents more than double the cases reported in the entirety of 2022. Factors contributing to this rise include urbanization, climate change, and increased global travel, all of which favor the spread of the Aedes aegypti mosquito, the vector for dengue.  India is also experiencing a considerable increase in dengue cases, with the disease spreading to every state and union territory. Preventive measures like eliminating mosquito breeding grounds and using protective clothing are crucial. While vaccines are available globally, they are not yet approved in India.
+
+Tue, 24 Sep 2024 03:02:24 +0000
+### [How travel can slow process of ageing](https://indianexpress.com/article/explained/travel-aging-health-tourism-physical-activities-mental-health-9584631/)
+
+A new study suggests that travel can help slow down the aging process.  The researchers used the concept of "entropy increase", which refers to the natural decline in health and bodily function over time.  Positive travel experiences, such as exploring new environments, engaging in physical activities, and interacting with different cultures, can contribute to lower entropy and improved health.  Conversely, negative travel experiences, such as illness, accidents, or safety concerns, can accelerate entropy increase and have adverse health effects.  While aging is irreversible, the study indicates that travel can play a role in promoting well-being and slowing down the process.
+
 Tue, 24 Sep 2024 01:32:06 +0000
 ### [How Supreme Court strengthened child pornography law](https://indianexpress.com/article/explained/explained-law/child-pornography-law-posco-act-supreme-court-9584617/)
 

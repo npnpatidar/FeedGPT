@@ -1,3 +1,10 @@
+Tue, 24 Sep 2024 08:31:28 +0530
+### [How Singapore’s S Iswaran is the first ever minister to be on trial for corruption](https://www.firstpost.com/explainers/singapores-s-iswaran-corruption-trial-case-explained-13818284.html)
+
+S Iswaran, Singapore's former transport minister, is standing trial accused of accepting gifts worth over S$400,000 from two businessmen. The charges allege that he received these gifts, including luxury items and event tickets, in exchange for favoring their business interests.  
+
+This high-profile trial, the first of its kind involving a minister in nearly 50 years, has significant political implications for Singapore. It comes ahead of elections next year and has brought scrutiny to the ruling People's Action Party's reputation for incorruptibility. While some experts believe the trial could damage Singapore's image, others argue it is a rare occurrence that will not significantly impact public perception.
+
 Tue, 24 Sep 2024 06:30:06 +0530
 ### [FirstUp: Joe Biden's UNGA address, PM Modi returns after US visit... The big news today](https://www.firstpost.com/explainers/firstup-joe-bidens-unga-address-pm-modi-returns-after-us-visit-the-big-news-today-13818316.html)
 

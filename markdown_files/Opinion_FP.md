@@ -1,3 +1,12 @@
+Tue, 24 Sep 2024 09:28:04 +0530
+### [How Quad consolidates itself to counter growing Chinese hegemony](https://www.firstpost.com/opinion/how-quad-consolidates-itself-to-counter-growing-chinese-hegemony-13818448.html)
+
+The recent Quad Summit highlighted the group's growing strength and commitment to a free and open Indo-Pacific.  Despite not explicitly naming China, the summit messages clearly aimed to counter China's regional dominance.  
+
+Key areas of focus include maritime security, health cooperation, and infrastructure development. The Quad is enhancing maritime domain awareness, promoting disaster relief, and supporting vaccine initiatives. In infrastructure, they are working on projects for ports, cable connectivity, and disaster-resistant development. The Quad is also emphasizing open and transparent technologies, challenging China's dominance in this area.
+
+Through these initiatives, the Quad aims to offer viable alternatives to countries in the region, reducing their reliance on China and building a more secure and prosperous Indo-Pacific.
+
 Mon, 23 Sep 2024 18:01:29 +0530
 ### [Why Pakistan Army and establishment find itself in a Catch-22 situation while dealing with Imran Khan](https://www.firstpost.com/opinion/why-pakistan-army-and-establishment-find-itself-in-a-catch-22-situation-while-dealing-with-imran-khan-13818336.html)
 
