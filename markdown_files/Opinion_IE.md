@@ -1,3 +1,8 @@
+Tue, 24 Sep 2024 18:52:30 +0000
+### [What ‘Laapataa Ladies’ Oscar citation reveals about us](https://indianexpress.com/article/opinion/columns/what-laapataa-ladies-oscar-citation-reveals-about-us-9586373/)
+
+The article critiques the selection of "Laapataa Ladies" as India's official entry for the Oscars. The author finds the justification given in the citation to be superficial and lacking in insight, reducing Indian women to a simplistic duality of submission and dominance.  The author argues that the film, while commendable for its director Kiran Rao's achievement and well-intentioned messages, lacks the depth and cinematic brilliance to truly represent India's best on the global stage.  She suggests that the jury may have chosen "Laapataa Ladies" due to its seemingly safe and agreeable themes rather than its artistic merit. The author believes a more challenging and edgy film, such as "Aattam" or "All We Imagine As Light," would have been a stronger contender.
+
 Tue, 24 Sep 2024 13:53:55 +0000
 ### [Why simultaneous polls will undermine women’s political participation at grassroots level](https://indianexpress.com/article/opinion/columns/women-political-participation-grassroots-level-9585954/)
 

@@ -1,3 +1,15 @@
+Wed, 25 Sep 2024 00:20:00 +0530
+### [Visit wrap-up: On PM Modi’s U.S. visit, announcements](https://www.thehindu.com/opinion/editorial/visit-wrap-up-on-the-modi-us-visit-announcements/article68678481.ece)
+
+Prime Minister Modi's US visit focused on strengthening strategic ties and addressing global issues. The Quad Summit witnessed a strong stance against Chinese aggression in the South China Sea and Russia's invasion of Ukraine.  Significant bilateral meetings with President Biden resulted in progress on military cooperation and semiconductor fabrication. 
+
+While India affirmed its position as a "strong voice" of the Global South at the UN, the Pannun case caused some tension. Modi's discussions with Ukrainian President Zelenskyy centered around a potential second peace summit.  The next few months will be crucial for India to realize the outcomes of the visit's numerous announcements.
+
+Wed, 25 Sep 2024 00:10:00 +0530
+### [It is an offence: On Supreme Court clarification on online content on child sex abuse](https://www.thehindu.com/opinion/editorial/it-is-an-offence-on-court-clarification-on-online-content-on-child-sex-abuse/article68678001.ece)
+
+The Supreme Court of India has ruled that viewing or displaying child sexual abuse material online, even without possession or storage, constitutes "possession" under the POCSO Act. The court emphasized the legislative intent to penalize anyone accessing or viewing such content, rejecting a Madras High Court ruling that had acquitted an individual based on a narrow interpretation of the law. The court replaced the term "child pornography" with "Child Sexual Exploitative and Abuse Material" (CSEAM) to reflect the gravity of the offence. It also highlighted the importance of reporting such material and urged the government to implement comprehensive sex education programs.
+
 Tue, 24 Sep 2024 00:30:00 +0530
 ### [Politicising the laddu: On the Tirupati laddu and its ‘adulteration’](https://www.thehindu.com/opinion/editorial/politicising-the-laddu-the-hindu-editorial-on-the-tirupati-laddu-and-its-adulteration/article68674887.ece)
 
