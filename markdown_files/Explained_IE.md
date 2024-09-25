@@ -1,3 +1,8 @@
+Wed, 25 Sep 2024 02:31:15 +0000
+### [Why are European renewable giants fleeing Vietnam?](https://indianexpress.com/article/explained/explained-global/european-renewable-vietnam-9586122/)
+
+Vietnam is facing challenges in meeting its ambitious renewable energy goals. Major European investors, including Enel, Equinor, and Orsted, are withdrawing from projects due to regulatory hurdles, grid limitations, and funding constraints.  While the government aims for 31% renewable energy in the mix by 2030,  lack of clarity on offshore wind development guidelines,  inadequate grid capacity, and high reliance on coal pose significant obstacles. Investors are also concerned about energy reliability following recent power outages. Despite these challenges, Vietnam still has an opportunity to attract investment by prioritizing renewable energy in key industrial zones. Delaying action could see Vietnam lose its competitive edge in manufacturing to other Southeast Asian nations.
+
 Tue, 24 Sep 2024 11:07:36 +0000
 ### [Why Andhra Pradesh govt reversed its decision to let nearly 80,000 state board students take CBSE exam](https://indianexpress.com/article/explained/andhra-pradesh-cbse-board-exam-9585727/)
 

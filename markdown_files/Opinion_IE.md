@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 02:13:55 +0000
+### [Making campus equal, excellent](https://indianexpress.com/article/opinion/columns/india-higher-education-universities-public-funding-9586693/)
+
+The ideal of accessible, high-quality higher education is often challenged by the clash between affordability and excellence. Public funding, while desirable, faces limitations due to budgetary constraints.  A promising solution lies in a new wave of non-profit Indian universities.  These institutions are diversifying their funding sources through endowments, scholarships, and differential student fees, enabling them to cross-subsidize costs and offer quality education.  This model holds the potential to improve India's science and technology, reduce reliance on overseas universities, and attract international students. 
+
+The success of this approach hinges on securing funding for operating expenses, particularly attracting philanthropic support for faculty salaries.  The future of Indian higher education depends on empowering these non-profit universities to not only attract talent but also retain it within the country.
+
 Tue, 24 Sep 2024 22:58:36 +0000
 ### [C Raja Mohan writes: India’s tech diplomacy — from Nehru to Modi](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-indias-tech-diplomacy-from-nehru-to-modi-9586401/)
 

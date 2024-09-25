@@ -1,3 +1,15 @@
+Wed, 25 Sep 2024 07:32:53 +0530
+### [Jammu and Kashmir Assembly election phase 2 polling: The key contests to watch out for](https://www.firstpost.com/explainers/jammu-and-kashmir-assembly-election-phase-2-polling-key-contests-candidates-seats-13818724.html)
+
+The second phase of Jammu and Kashmir Assembly elections took place on September 25th, covering 26 seats across six districts. Central Kashmir's Ganderbal and Budgam are key constituencies, with former Chief Minister Omar Abdullah of the National Conference (NC) contesting in both. He faces challengers like Aga Syed Muntazir Mehdi of the Peoples Democratic Party (PDP) and Awami National Conference's Aga Syed Ahmad Moosvi in Budgam.  
+
+Other prominent contests include Tariq Hameed Karra, president of the Jammu and Kashmir Congress, from Central Shalteng in Srinagar, and Ravinder Raina, BJP president, seeking to retain the Nowshera seat in Rajouri. Altf Bukhari, founder of the Jammu and Kashmir Apni Party, is vying for Channapora. Notably, jailed separatist leader Sarjan Ahmad Wagay is challenging Omar Abdullah in Ganderbal.
+
+Wed, 25 Sep 2024 06:30:43 +0530
+### [FirstUp: Zelenskky to address UNGA, Phase 2 of J-K polls... The headlines today](https://www.firstpost.com/explainers/firstup-zelenskky-to-address-unga-phase-2-of-j-k-polls-the-headlines-today-13818698.html)
+
+Ukrainian President Volodymyr Zelenskyy will address the UN General Assembly, focusing on discussions with Ukraine's partners regarding Russia's invasion and potential access to weapons targeting deep Russian territory.  The second phase of Jammu and Kashmir's elections will take place in 26 constituencies, with over 2.5 million eligible voters. A Group of Ministers will meet to discuss revising GST tax slabs and rates. French President Emmanuel Macron will visit Canada to meet with Prime Minister Justin Trudeau and discuss support for Ukraine, emerging threats, and AI development. The Supreme Court will hear a plea from the Sharad Pawar-led NCP seeking new poll symbols for both factions ahead of the Maharashtra Assembly elections. Finally, Indian Finance Minister Nirmala Sitharaman will attend the AIIB annual meeting in Uzbekistan, participating in discussions on development issues and meeting with various leaders.
+
 Tue, 24 Sep 2024 20:26:34 +0530
 ### [Now mice on prasad packets of Mumbai's Siddhivinayak temple? What's the latest row?](https://www.firstpost.com/explainers/now-mice-on-prasad-packets-of-mumbais-siddhivinayak-temple-whats-the-latest-row-13818714.html)
 

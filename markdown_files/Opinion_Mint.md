@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 07:00:14 +0530
+### [Mint Quick Edit | China’s monetary stimulus: Can it fight deflation?](https://www.livemint.com/opinion/quick-edit/china-monetary-stimulus-central-bank-mortgage-rate-deflation-chinese-economy-gdp-stock-market-11727200253629.html)
+
+China's central bank implemented a new stimulus package to combat economic slowdown, including a rate cut and reduced bank reserve requirements. These measures aim to stabilize the property market and support equity values. 
+
+However, the package addresses only part of the problem. China faces deflation, which can lead to decreased consumer demand and harm business prospects. The effectiveness of these measures is uncertain due to unreliable economic data.
+
 Tue, 24 Sep 2024 17:20:56 +0530
 ### [India and the Quad: India needs to be watchful of China - and the US - in the neighbourhood](https://www.livemint.com/opinion/online-views/india-quad-china-us-indo-pacific-asia-joe-biden-narendra-modi-japan-australia-11727176922520.html)
 
