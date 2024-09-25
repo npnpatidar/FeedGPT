@@ -10130,3 +10130,11 @@ Started at 2024-09-25 20:13:55
 Finished at 2024-09-25 20:14:41
 Total time taken: 46.37990403175354 seconds
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Started at 2024-09-25 22:11:33
+1 Feed entries have been written to feeds/Explained_IE.xml
+1 Feed entries have been written to feeds/Opinion_IE.xml
+2 new entries have been added
+0 summaries have been updated
+Finished at 2024-09-25 22:12:18
+Total time taken: 45.36672520637512 seconds
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

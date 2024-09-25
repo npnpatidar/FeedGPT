@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 20:30:22 +0000
+### [Quota in PhD admissions at IIMA:  A change in stance over time](https://indianexpress.com/article/explained/quota-in-phd-admissions-at-iima-a-change-in-stance-over-time-9588329/)
+
+After a three-year legal battle, the Indian Institute of Management Ahmedabad (IIM-A) has decided to implement reservation in its PhD admissions starting in 2025.  This follows a public interest litigation filed in 2021 by a member of the Global IIM Alumni Network. IIM-A, the only premier management institute among 20 that hadn't implemented reservation, previously argued that PhD programmes were highly specialized and not mandated by law to have quotas. 
+
+The institute conceded  that it was facing challenges in determining a suitable methodology for implementing reservations, especially given the small number of PhD seats typically available.  An internal committee will work out the details, aiming to provide reservation without discriminating against any student.
+
 Wed, 25 Sep 2024 13:40:31 +0000
 ### [Who is Harini Amarasuriya, the new Sri Lankan Prime Minister?](https://indianexpress.com/article/explained/explained-global/who-is-harini-amarasuriya-the-new-sri-lankan-prime-minister-9587807/)
 

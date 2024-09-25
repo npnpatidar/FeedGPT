@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 20:45:30 +0000
+### [Express View on Sensex highs: Surge and risk](https://indianexpress.com/article/opinion/editorials/express-view-on-sensex-highs-surge-and-risk-9588223/)
+
+Indian markets have seen a significant surge in recent times, with the Sensex reaching record highs. The initial public offering market has also boomed, and the number of retail and mutual fund investors has grown considerably. Foreign portfolio investors have returned, driving net investments upwards. This positive sentiment has led to increased risk-taking by individual investors, particularly in the Futures and Options (F&O) market, despite a high rate of losses. 
+
+Concerns remain regarding valuations, and the upcoming RBI monetary policy review and corporate earnings season will likely influence market direction.  The demographic profile of F&O traders reveals a preponderance of young, lower-income individuals, highlighting potential risks associated with this trend.
+
 Wed, 25 Sep 2024 20:03:03 +0000
 ### [SC judgment on child sexual exploitation has right intent. But it also raises questions](https://indianexpress.com/article/opinion/editorials/sc-judgment-on-child-sexual-exploitation-has-right-intent-but-it-also-raises-questions-9588238/)
 
