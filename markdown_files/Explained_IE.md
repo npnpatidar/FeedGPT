@@ -1,3 +1,22 @@
+Wed, 25 Sep 2024 13:40:31 +0000
+### [Who is Harini Amarasuriya, the new Sri Lankan Prime Minister?](https://indianexpress.com/article/explained/explained-global/who-is-harini-amarasuriya-the-new-sri-lankan-prime-minister-9587807/)
+
+Dr. Harini Amarasuriya was appointed Sri Lanka's Prime Minister, marking the country's first female PM in 24 years. Amarasuriya, a former parliament member from the marxist party JVP, will also hold ministerial positions including Justice, Education, and Health.  Her appointment comes after a career as an academic and activist, with her work focusing on gender, class, employment, and conflict's impact. Amarasuriya is a vocal feminist who advocates for women's involvement in politics and has criticized the existing political culture as toxic and exclusive.
+
+Wed, 25 Sep 2024 12:45:37 +0000
+### [Project Cheetah: Where things stand after two years](https://indianexpress.com/article/explained/project-cheetah-where-things-stand-after-two-years-9587727/)
+
+Project Cheetah, implemented in 2021, aimed to establish a cheetah population in India and restore open ecosystems. While the project saw the successful breeding of cheetahs and the release of some individuals into the wild, challenges persist. Several cheetahs and cubs have died due to various reasons, including drowning and tick infestations. Concerns have been raised about the delay in releasing cheetahs into the wild and the adequacy of prey base in Kuno National Park. 
+
+The project has emphasized the need for interstate landscape conservation, spanning Kuno-Gandhi Sagar, to support a larger cheetah population. However, this requires robust prey management, interstate coordination, and habitat restoration, posing significant challenges.
+
+Wed, 25 Sep 2024 12:43:23 +0000
+### [Justice is key to tackling the climate crisis: What a new study says](https://indianexpress.com/article/explained/explained-climate/rich-climate-crisis-study-9587729/)
+
+A new study by the Earth Commission highlights the urgent need for a more equitable distribution of resources to ensure both human well-being and planetary health. The study, published in The Lancet Planetary Health, reveals that the overconsumption by a minority of the world's population is shrinking the "Safe and Just Space" – the space where everyone's needs can be met sustainably.  
+
+The research emphasizes that providing resources to those who lack them would be less harmful to the planet than the current situation of unequal consumption. It points to the detrimental effects of climate change and resource depletion on marginalized communities and warns that current economic growth trajectories threaten the global commons. The study calls for a shift towards more sustainable and equitable economic models and a reduction in consumption patterns of the wealthy to secure a safe and just future for all.
+
 Wed, 25 Sep 2024 11:54:02 +0000
 ### [Deendayal Upadhyaya’s birth anniversary: his doctrine of integral humanism, which BJP considers its ‘basic philosophy’](https://indianexpress.com/article/explained/explained-politics/deendayal-upadhyaya-integral-humanism-explained-9587650/)
 

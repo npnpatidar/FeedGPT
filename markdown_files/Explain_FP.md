@@ -1,3 +1,34 @@
+Wed, 25 Sep 2024 19:22:40 +0530
+### [Up, up and away: How has North Korea's trash balloons disrupted air travel in Seoul?](https://www.firstpost.com/explainers/up-up-and-away-how-has-north-koreas-trash-balloons-disrupted-air-travel-in-seoul-13819038.html)
+
+North Korea has been sending thousands of trash-filled balloons into South Korea in retaliation for the sending of K-pop leaflets and propaganda by South Korean activists. These balloons, carried by wind, have landed in Seoul and other cities, forcing the closure of runways at major airports like Incheon, disrupting flights and increasing fuel costs. South Korea's military views this action seriously and has warned of potential countermeasures, including loudspeaker broadcasts of propaganda back towards North Korea.  Despite threats from North Korea to increase balloon launches if the leaflets continue, activists have persisted, adding to the escalating tensions.
+
+Wed, 25 Sep 2024 18:37:12 +0530
+### [Can China’s gigantic Three Gorges Dam really slow down Earth’s rotation?](https://www.firstpost.com/explainers/can-chinas-gigantic-three-gorges-dam-really-slow-down-earths-rotation-13818967.html)
+
+The Three Gorges Dam, the world's largest hydroelectric dam, may be subtly affecting Earth's rotation.  NASA scientists suggest that the dam's massive reservoir of water shifts the planet's mass distribution, potentially lengthening a day by 0.06 microseconds and shifting the axis by 2 centimeters. This effect, while minute, highlights how human-made structures can influence planetary dynamics. 
+
+The dam's impact is smaller than that of natural disasters like earthquakes, which have been shown to alter Earth's rotation.  Climate change also plays a role, as melting polar ice caps and rising sea levels redistribute mass. These gradual changes may necessitate adjustments to ultra-precise timekeeping systems like atomic clocks in the future.
+
+Wed, 25 Sep 2024 18:00:25 +0530
+### [Could Badlapur 'encounter' be a boon for the ruling Shinde-Fadnavis NDA bloc in Maharashtra?](https://www.firstpost.com/explainers/badlapur-encounter-shinde-fadnavis-nda-bloc-maharashtra-13819013.html)
+
+Following the death in police custody of Akshay Shinde, accused in the Badlapur sexual assault case, Maharashtra has become embroiled in controversy.  Shinde died after allegedly snatching a police officer's gun and firing. The government maintains it was a case of self-defense, a claim disputed by the opposition and Shinde's family, who allege a "fake encounter."  
+
+The incident has become a major talking point in the lead-up to the crucial Maharashtra Assembly elections, with the ruling NDA bloc attempting to capitalize on the situation. Opposing parties are demanding a judicial probe and criticizing the government's handling of the case. 
+
+The Bombay High Court has raised questions about the circumstances surrounding Shinde's death, specifically about the police's actions and the weapon being discharged. 
+
+
+The government has ordered a CID investigation into the incident.
+
+Wed, 25 Sep 2024 17:53:21 +0530
+### [World Lung Day: Why respiratory health matters more than ever](https://www.firstpost.com/health/world-lung-day-respiratory-health-matters-graphics-13818970.html)
+
+World Lung Day on September 25th highlights the importance of lung health.  Lung diseases like asthma, COPD, and lung cancer are prevalent, with India bearing a significant global burden. Air pollution and tobacco use are major risk factors, contributing to millions of cases and deaths. 
+
+To combat this, reducing pollution, promoting cleaner energy, and supporting sustainable farming are crucial.  Effective tobacco cessation programs and public health campaigns are essential for raising awareness and protecting lung health, particularly among younger generations.
+
 Wed, 25 Sep 2024 17:40:15 +0530
 ### [The horrifying case of Colombian nanny who was secretly filmed nude by her boss](https://www.firstpost.com/explainers/the-horrifying-case-of-colombian-nanny-who-was-secretly-filmed-nude-by-her-boss-13818936.html)
 
