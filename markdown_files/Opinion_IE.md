@@ -1,3 +1,31 @@
+Wed, 25 Sep 2024 20:03:03 +0000
+### [SC judgment on child sexual exploitation has right intent. But it also raises questions](https://indianexpress.com/article/opinion/editorials/sc-judgment-on-child-sexual-exploitation-has-right-intent-but-it-also-raises-questions-9588238/)
+
+The Supreme Court ruled that viewing, possessing, or storing sexually explicit material involving minors is a crime under both the POCSO Act and the IT Act, regardless of sharing. This decision broadens the scope of legal action against child exploitation but raises concerns about potential overreach and burden of proof.  
+
+While the ruling emphasizes the gravity of child sexual exploitation and aims to protect victims, it risks criminalizing adolescent exploration of sexuality.  The judgment also lacks a framework for regulating "child sexual exploitative and abuse material" (CSEAM) and overlooks rehabilitation possibilities.  
+
+Effective implementation hinges on robust sex education, accessible counseling, and sensitized law enforcement to ensure the judgment protects rather than penalizes.
+
+Wed, 25 Sep 2024 19:17:17 +0000
+### [The Third Edit: The secret sauce of ramen’s success](https://indianexpress.com/article/opinion/editorials/the-third-edit-the-secret-sauce-of-ramens-success-9588236/)
+
+Ramen's global popularity stems from its convenience and adaptability. 
+
+From its origins as a post-World War II staple to its current status as a gourmet dish, ramen has evolved to suit diverse palates. Instant noodles, coupled with an array of customizable toppings from traditional to unconventional, have made it a beloved comfort food worldwide. India, in particular, has embraced ramen wholeheartedly, surpassing all other nations (excluding China and Indonesia) in its consumption. The noodle soup's versatility and ease of preparation contribute to its enduring appeal across cultures and generations.
+
+Wed, 25 Sep 2024 19:10:31 +0000
+### [September 26, 1984, Forty Years Ago: Popular rule may be restored in Punjab](https://indianexpress.com/article/opinion/40-years-ago/september-26-1984-forty-years-ago-popular-rule-may-be-restored-in-punjab-9588237/)
+
+The Indian government has announced its withdrawal of the Army from the Golden Temple complex following an agreement with five priests regarding control of the site. In Andhra Pradesh four legislators, including former minister P Ramaswamy and Majlis leader Sultan Salahuddin Owaisi, were arrested under the NSA in connection with a strike. Meanwhile, opposition parties are engaged in negotiations to form a united front against the Congress (I) in upcoming elections, with Lok Dal leader Charan Singh proposed as president.  The Election Commission informed the Supreme Court it will revise electoral rolls for Assam constituencies, undertaking intensive revisions where feasible.
+
+Wed, 25 Sep 2024 19:07:40 +0000
+### [Pratap Bhanu Mehta writes: Democracy’s blind eye](https://indianexpress.com/article/opinion/columns/pratap-bhanu-mehta-writes-democracys-blind-eye-9588222/)
+
+The article criticizes Israel's actions in Gaza and Lebanon, calling them disproportionate, morally reprehensible, and strategically flawed. It argues that Israel's military campaigns have not created security but rather fueled hostility and instability in the region. 
+
+The author questions Israel's goals, suggesting that its actions aim to sabotage diplomacy rather than promote peace.  The article further condemns the complicity of countries like the US and India in enabling Israel's actions, highlighting the negative consequences of US involvement in wars and India's abstention from UN resolutions calling for a ceasefire. The piece concludes with a pessimistic outlook on the state of international democracy, lamenting the role of Israel, the US, and India in perpetuating violence and undermining peace efforts.
+
 Wed, 25 Sep 2024 11:15:16 +0000
 ### [In Japan, the race to replace an unpopular leadership](https://indianexpress.com/article/opinion/columns/japan-race-replace-unpopular-leadership-9587576/)
 

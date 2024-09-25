@@ -1,3 +1,19 @@
+Thu, 26 Sep 2024 00:20:00 +0530
+### [​Kashmir conflict: On the J&K elections](https://www.thehindu.com/opinion/editorial/%E2%80%8Bkashmir-conflict-on-the-jk-elections/article68682097.ece)
+
+The first phases of the Jammu and Kashmir elections have highlighted the contrasting visions of national and regional parties. 
+
+The National Conference and Peoples Democratic Party  promise to reinstate Article 370 and 35A, release jailed youth, and repeal laws like the Public Safety Act. They also aim to address concerns over government employee terminations and restrictions on locals' employment and passport access.  Both parties prioritize statehood restoration and reviving dialogue with Pakistan. 
+
+The BJP, however, opposes the return of special status, framing it as a strategy to counter the Congress and regional parties. It focuses on its successful abrogation of Article 370 and utilizes it as a campaign tool. The Congress, aligned with the NC, seeks to balance its support for Kashmiri demands with a cautious stance on Article 370, while the BJP portrays their agenda as aligned with Pakistan's interests.
+
+Thu, 26 Sep 2024 00:10:00 +0530
+### [​Rogue state: On Israel’s conflict with Hezbollah](https://www.thehindu.com/opinion/editorial/%E2%80%8Brogue-state-on-israels-conflict-with-hezbollah/article68682136.ece)
+
+Escalating tensions in the Israel-Lebanon border exploded after Israel killed a senior Hezbollah commander. This act triggered a barrage of rockets from Hezbollah into Israel, leading to a massive Israeli air strike campaign in southern Lebanon, a Hezbollah stronghold. The Israeli offensive has resulted in a significant number of civilian casualties in Lebanon, prompting retaliatory rocket attacks from Hezbollah, including ballistic missiles targeting Tel Aviv. 
+
+The conflict has displaced thousands of Israelis, prompting Prime Minister Netanyahu to declare their safe return as a key objective. With a history of unsuccessful  invasions in Lebanon, Israel's current actions risk further destabilizing the region and escalating the wider conflict. The international community has urged a ceasefire in Gaza, but Israel continues its offensive against both Hamas and Hezbollah, raising concerns about a potential all-out war.
+
 Wed, 25 Sep 2024 00:20:00 +0530
 ### [Visit wrap-up: On PM Modi’s U.S. visit, announcements](https://www.thehindu.com/opinion/editorial/visit-wrap-up-on-the-modi-us-visit-announcements/article68678481.ece)
 
