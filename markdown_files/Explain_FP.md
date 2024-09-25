@@ -1,3 +1,35 @@
+Wed, 25 Sep 2024 11:04:19 +0530
+### [After Pune EY death, did Lucknow HDFC employee die because of work pressure?](https://www.firstpost.com/explainers/pune-ey-death-lucknow-hdfc-employee-dies-work-pressure-13818807.html)
+
+The article discusses two recent deaths of young women in India, both while working at their jobs, highlighting concerns about work pressure and work-life balance. 
+
+In Lucknow,  Sadaf Fatima, a 45-year-old additional deputy vice president at HDFC Bank, died after falling from her chair. While her colleagues suspect work pressure, her brother-in-law attributes her death to pre-existing blood pressure issues. 
+
+Another incident in Pune involved the death of a 26-year-old chartered accountant, Anna Sebastian Perayil, four months after joining EY. Her mother alleged the workload and long hours contributed to her death, prompting an investigation by authorities.
+
+
+The article cites a study linking overwork to higher rates of heart disease and stroke, and draws attention to India's long work hours and low minimum wage, suggesting these factors contribute to a toxic work culture across the country.
+
+Wed, 25 Sep 2024 11:02:57 +0530
+### [New Sri Lankan PM Harini Amarasuriya has old ties to India. Here's how](https://www.firstpost.com/explainers/new-sri-lanka-pm-harini-amarasuriya-has-old-ties-to-india-heres-how-13818822.html)
+
+Sri Lanka has appointed Harini Amarasuriya as its 16th prime minister, a historic first for a woman in over 20 years.  Amarasuriya, who studied at Delhi University's Hindu College, is seen as a potential bridge-builder between Sri Lanka and India.  Her appointment comes at a critical time for Sri Lanka, which is grappling with its worst economic crisis in decades.  
+
+The new government faces numerous challenges, including addressing the economic crisis, securing international financial assistance, and garnering support for reform measures.  Stability and recovery will depend on the success of Amarasuriya and President Anura Kumara Dissanayake's efforts to navigate these complex issues.
+
+Wed, 25 Sep 2024 10:04:19 +0530
+### [Ibrahim Qubaisi, Ibrahim Aqil and more... How Israel’s IDF is eliminating top Hezbollah leaders one by one](https://www.firstpost.com/explainers/ibrahim-qubaisi-ibrahim-aqil-israel-idf-eliminating-hezbollah-leaders-13818820.html)
+
+Israel continues its targeted airstrikes against Hezbollah in Lebanon. 
+
+The latest attack killed Ibrahim Qubaisi, Hezbollah's missile chief, and is part of a wider campaign that has targeted top Hezbollah commanders. 
+
+Israel claims Qubaisi was responsible for launching attacks on Israeli targets and had planned the kidnapping of IDF soldiers in 2000. 
+
+Previous strikes have also killed Ibrahim Aqil, the second-in-command of Hezbollah's armed forces, and Fuad Shukr, a senior Hezbollah commander who was responsible for acquiring advanced weapons for the group. 
+
+Israel maintains it will continue targeting Hezbollah until its activity ceases.
+
 Wed, 25 Sep 2024 09:25:47 +0530
 ### [US witnesses 5 executions in 1 week, the most in 20 years: Who are the convicts?](https://www.firstpost.com/explainers/us-executions-death-penalty-convicts-13818622.html)
 

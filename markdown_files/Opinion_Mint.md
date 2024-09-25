@@ -1,3 +1,13 @@
+Wed, 25 Sep 2024 10:30:04 +0530
+### [Three types of poverty and what traps the country in it](https://www.livemint.com/opinion/online-views/poverty-empathy-transportation-education-apathy-basic-amenities-urban-slums-development-11727204185078.html)
+
+This article describes the author's encounters with three distinct types of poverty in India. 
+
+The first type is characterized by extreme remoteness, making access to basic necessities like healthcare, education, and even transportation incredibly difficult. The second type, prevalent in densely populated areas, is heavily influenced by rigid social mores and structures that limit opportunities and perpetuate inequality.  The third type, often overlooked, involves people living in poverty in close proximity to affluence, their needs ignored due to societal apathy.  
+
+
+The author highlights the unique challenges posed by each type of poverty and emphasizes the urgent need to address them.
+
 Wed, 25 Sep 2024 09:00:19 +0530
 ### [Here’s the secret to acquiring a portfolio of multibagger stocks](https://www.livemint.com/opinion/online-views/stock-prices-hdfc-bank-stock-portfolio-investors-amazon-stocks-jeff-bezos-multibagger-stocks-11727202136062.html)
 

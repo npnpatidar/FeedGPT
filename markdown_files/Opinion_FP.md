@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 11:29:22 +0530
+### [Lebanon pager attacks show new dimensions of cyber warfare](https://www.firstpost.com/opinion/lebanon-pager-attacks-show-new-dimensions-of-cyber-warfare-13818848.html)
+
+On September 17, explosions ripped through Lebanon, killing nine and wounding over 2,800. The incidents involved handheld pagers used by Hezbollah,  prompting the group to blame Israel for what it called “criminal aggression.” Blasts were reported across the country, including the capital Beirut, with victims suffering severe injuries from the explosions. Hezbollah, which relies heavily on pagers for communication due to potential mobile phone surveillance, stated that the devices "belonged to employees of various Hezbollah units and institutions". 
+
+While Israel refused to comment directly, they confirmed increased readiness following the explosions. The incident coincides with escalating tensions in the region, fuelled by Hezbollah's attacks on Israel and Israel's response. Lebanese hospitals struggled to cope with the influx of casualties, leading to the redirection of patients to facilities outside Beirut. The global health organization offered support amidst the escalating crisis.
+
 Tue, 24 Sep 2024 16:56:11 +0530
 ### [Why J&K Assembly election is a watershed event](https://www.firstpost.com/opinion/why-jk-assembly-election-is-a-watershed-event-13818660.html)
 
