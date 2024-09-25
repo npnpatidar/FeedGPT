@@ -1,3 +1,22 @@
+Wed, 25 Sep 2024 15:14:52 +0530
+### [What’s the ‘nail salon’ conspiracy that Trump is sharing about Kamala Harris’ rallies?](https://www.firstpost.com/world/united-states/nail-salon-conspiracy-trump-kamala-harris-rallies-13818856.html)
+
+Donald Trump shared a baseless claim from an OnlyFans model alleging that people are paid to attend Kamala Harris campaign rallies. The claim originated from Samantha Gangewere, who posted a video on social media stating that her nail technician's cousin was receiving $700 a week for attending Harris's events.  
+
+Despite Gangewere's assertion that her story is genuine, there is no evidence to support the claim. This incident follows a pattern of Trump spreading unsubstantiated allegations about Harris and her campaign, including claims about falsified crowds and fabricated negotiations with Vladimir Putin. Trump's history of making misleading statements reflects a broader trend of his public rhetoric often lacking factual basis.
+
+Wed, 25 Sep 2024 14:48:31 +0530
+### [Hyundai Motors, Swiggy IPOs get Sebi nod: A look at India’s biggest share offerings](https://www.firstpost.com/explainers/hyundai-motors-swiggy-ipos-get-sebi-nod-a-look-at-indias-biggest-share-offerings-13818953.html)
+
+The Securities and Exchange Board of India has approved initial public offerings (IPOs) for both Swiggy and Hyundai Motors. Swiggy aims to raise $1-1.2 billion, targeting a valuation of $15 billion, while Hyundai Motors plans to raise $3 billion at a valuation of $20 billion. This would make Hyundai's IPO the largest in India's history.
+
+India's biggest IPO to date was Life Insurance Corporation of India (LIC) in 2022, which raised $2.45 billion. Other notable Indian IPOs include Paytm, Coal India, General Insurance Corp of India, SBI Cards, and Zomato.
+
+Wed, 25 Sep 2024 13:56:43 +0530
+### [Amid Tirupati laddu row, how Odisha’s Jagannath temple is ensuring prasad’s purity](https://www.firstpost.com/explainers/amid-tirupati-laddu-row-how-odishas-jagannath-temple-is-ensuring-prasads-purity-13818859.html)
+
+Following controversy over alleged laddu adulteration at the Tirupati temple, Odisha's Jagannath Temple authorities have decided to test the purity of ghee used in mahaprasad preparation. Despite no specific complaints, the temple administration initiated a state government-led investigation.  A district official stated that while Omfed ghee has been supplied to the temple for years, the testing aims to address concerns and maintain devotee trust.  The move comes after a temple servitor alleged previous instances of adulterated ghee being used for diyas.  The administration will collaborate with Omfed representatives and temple servitors to ensure the highest quality of ghee used in all temple offerings.
+
 Wed, 25 Sep 2024 13:35:39 +0530
 ### [Why Elon Musk’s removal of block function on X could make it a dangerous platform](https://www.firstpost.com/explainers/elon-musk-remove-block-function-x-dangers-13818901.html)
 

@@ -1,3 +1,12 @@
+Wed, 25 Sep 2024 09:37:59 +0000
+### [When did humans first ride horses? Here’s why the answer to this question may be more complicated than previously thought](https://indianexpress.com/article/explained/explained-history/humans-first-ride-horses-kurgan-hypothesis-9587320/)
+
+A new study challenges the long-held Kurgan hypothesis, which suggests humans domesticated horses around 3500 BCE.  
+
+While horseback riding does leave subtle marks on the skeleton, researchers found that similar changes can occur from other activities like cart riding. Previous research claimed to find evidence of horseback riding in the skeletons of the Yamnaya people, but the new study suggests these changes could be from other activities common to that era. 
+
+The study emphasizes the need to consider evidence from genetics, archaeology, and horse remains to confirm the exact timing of horse domestication.
+
 Wed, 25 Sep 2024 02:31:15 +0000
 ### [Why are European renewable giants fleeing Vietnam?](https://indianexpress.com/article/explained/explained-global/european-renewable-vietnam-9586122/)
 

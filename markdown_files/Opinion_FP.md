@@ -1,3 +1,12 @@
+Wed, 25 Sep 2024 14:03:41 +0530
+### [PM Modi’s US visit: A measured success amid tempered expectations](https://www.firstpost.com/opinion/pm-modis-us-visit-a-measured-success-amid-tempered-expectations-13818929.html)
+
+Narendra Modi's recent visit to the US was characterized by tempered expectations and modest deliverables. While the visit lacked the grand strategic outcomes of previous trips, it did advance Indo-Pacific cooperation through initiatives like the MAITRI program and a logistics agreement. 
+
+However, India-US relations remain complex, with US actions concerning Khalistani separatists and its support for certain regional actors posing challenges for India. The visit also highlighted the transactional nature of the relationship, evident in deals focused on semiconductor manufacturing and healthcare. 
+
+Ultimately, the visit served as a diplomatic gesture, demonstrating the need for deeper and sustained engagement to bridge the trust gap and facilitate India's rise as a major Asian power.
+
 Wed, 25 Sep 2024 11:29:22 +0530
 ### [Lebanon pager attacks show new dimensions of cyber warfare](https://www.firstpost.com/opinion/lebanon-pager-attacks-show-new-dimensions-of-cyber-warfare-13818848.html)
 

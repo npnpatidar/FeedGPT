@@ -1,3 +1,14 @@
+Wed, 25 Sep 2024 15:00:09 +0530
+### [Sri Lanka has a new ‘leftist’ leader. Can AKD get the economy right?](https://www.livemint.com/opinion/online-views/anura-kumara-dissanayake-sri-lanka-election-akd-bankruptcy-imf-bailout-foreign-debt-china-bri-11727248436361.html)
+
+Sri Lanka's new president, Anura Kumara Dissanayake (AKD), faces a daunting economic task. His predecessor's policies, heavily reliant on loans from China, led to massive debt and infrastructure projects with questionable financial viability. 
+
+Despite international concern and media labeling Dissanayake as a socialist, he  assumes office during a period of recovery aided by the IMF and Indian financial assistance. Tourist arrivals, though still low, are picking up.
+
+A real challenge awaits in 2028 when large capital repayments come due. Dissanayake must deftly negotiate with China regarding restructuring these debts. His political record, marked by a past associated with violence, has been softened by his recent parliamentary actions which have won him respect.
+
+While optimism exists, Dissanayake must navigate complex economic and political waters. His success hinges on balancing social spending with fiscal consolidation,  and securing a more sustainable future for Sri Lanka.
+
 Wed, 25 Sep 2024 12:30:06 +0530
 ### [AI alert: Market traders should resist falling in love with their machines](https://www.livemint.com/opinion/online-views/large-language-models-algorithms-ai-in-finance-market-traders-genai-openai-accountability-insider-trading-11727203028842.html)
 

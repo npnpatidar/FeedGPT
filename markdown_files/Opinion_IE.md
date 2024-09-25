@@ -1,3 +1,10 @@
+Wed, 25 Sep 2024 08:40:52 +0000
+### [Meditation, self-care and setting boundaries – why the mantras don’t work even for mid-career professionals](https://indianexpress.com/article/opinion/columns/work-mid-career-professionals-mantras-meditation-self-care-setting-boundaries-9587272/)
+
+This article focuses on the significant levels of stress experienced by the mid-career workforce in India, particularly those aged 45-55. This stress is not solely due to the pressures of work but is deeply rooted in economic anxieties, financial insecurity, and a sense of constant competition to remain relevant in a rapidly changing job market. 
+
+The article highlights how this generation, often accused of fostering "hustle culture," is now facing the consequences of their own relentless pursuit of success.  Ageism and a lack of social security further exacerbate their financial anxieties, leaving them with limited options to de-stress. The constant pressure to keep up leads to stress manifesting in physical and mental health problems, impacting their overall quality of life.
+
 Wed, 25 Sep 2024 02:13:55 +0000
 ### [Making campus equal, excellent](https://indianexpress.com/article/opinion/columns/india-higher-education-universities-public-funding-9586693/)
 
