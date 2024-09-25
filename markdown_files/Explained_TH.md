@@ -1,3 +1,14 @@
+Wed, 25 Sep 2024 15:31:06 +0530
+### [Mumbai police and encounters: From killing gangsters to staging deaths](https://www.thehindu.com/news/cities/mumbai/mumbai-police-and-encounters-from-killing-gangsters-to-staging-them/article68680650.ece)
+
+The death of Akshay Shinde, accused of sexually assaulting two minors in Badlapur, Maharashtra, has sparked controversy. The police claimed Shinde shot at them during a transfer, leading to a retaliatory killing. However, the opposition questioned the circumstances, demanding a judicial probe and alleging laxity in handling the case. 
+
+Chief Minister Eknath Shinde defended the police action, while Shiv Sena workers celebrated the killing. Shinde's family refuted the police narrative and accused them of pressuring him into a confession.  
+
+The incident brought to light the history of 'encounter killings' in Mumbai, often associated with officers like Pradeep Sharma and Sachin Waze.  While initially lauded for curbing crime, these encounters have faced criticism for alleged abuses and lack of accountability. The encounter killing of Disha, a doctor, and Vikas Dubey, a history-sheeter, are cited as examples of controversies surrounding these operations.  
+
+Despite guidelines for probe, police rarely face punishment. Experts like Julio Ribeiro have criticized the practice, calling for an end to extra-judicial killings.
+
 Wed, 25 Sep 2024 08:30:00 +0530
 ### [What are retractions and why do they matter? | Explained](https://www.thehindu.com/sci-tech/science/what-are-retractions-and-why-do-they-matter-explained/article68679230.ece)
 

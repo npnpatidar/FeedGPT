@@ -1,3 +1,12 @@
+Wed, 25 Sep 2024 17:20:50 +0530
+### [Chabahar and beyond: Would Iran be sabotaging its national interests to gain relevance in Muslim Ummah?](https://www.firstpost.com/opinion/chabahar-and-beyond-would-iran-be-sabotaging-its-national-interests-to-gain-relevance-in-muslim-ummah-13819029.html)
+
+Iran's Supreme Leader criticized India's treatment of its Muslim minority, drawing swift condemnation from India. India highlighted the hypocrisy of Iran's criticism, pointing to its own egregious record of persecuting religious and ethnic minorities within its borders, including Baháʼís, Christians, Jews, Zoroastrians, Kurds, Azeris, Baluchis, and Arabs.  
+
+Despite economic challenges stemming from US sanctions against Iran, India has continued to engage diplomatically with its neighbor. India's decision to stop importing Iranian oil was deemed a necessary move to balance global pressures with its own economic and security interests, explaining the significant decline in bilateral trade. 
+
+Iran's recent provocative comments about India are seen as potentially damaging to the relationship, especially given India's commitment to developing the strategic Chabahar port in Iran.  Experts question the motivation behind Iran's actions, suggesting a possible attempt to appease hardline factions within the country or a bid to assert its Muslim credentials.  India, on the other hand, remains focused on its pragmatic approach to security and economic stability, prioritizing its own national interests.
+
 Wed, 25 Sep 2024 14:03:41 +0530
 ### [PM Modi’s US visit: A measured success amid tempered expectations](https://www.firstpost.com/opinion/pm-modis-us-visit-a-measured-success-amid-tempered-expectations-13818929.html)
 

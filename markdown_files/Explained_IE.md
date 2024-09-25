@@ -1,3 +1,23 @@
+Wed, 25 Sep 2024 11:54:02 +0000
+### [Deendayal Upadhyaya’s birth anniversary: his doctrine of integral humanism, which BJP considers its ‘basic philosophy’](https://indianexpress.com/article/explained/explained-politics/deendayal-upadhyaya-integral-humanism-explained-9587650/)
+
+Pandit Deendayal Upadhyaya, a key figure in India's right-wing thought, advocated for Integral Humanism, a philosophy rooted in ancient Indian wisdom.  He believed this philosophy, centered on unity and harmony among individuals and society, offered a unique perspective compared to Western ideologies. Upadhyaya emphasized the development of the body, mind, intelligence, and soul as essential for a fulfilling life.  He also highlighted the importance of the four purusharths: dharma (righteousness), artha (material prosperity), kama (desire fulfillment), and moksha (liberation). The BJP considers Integral Humanism its guiding principle and believes it should inform policymaking and public life.
+
+Wed, 25 Sep 2024 11:47:29 +0000
+### [Why Karnataka HC upheld Governor’s nod to investigate Siddaramaiah in alleged MUDA scam case](https://indianexpress.com/article/explained/explained-law/karnataka-high-court-siddaramaiah-muda-9587591/)
+
+The Karnataka High Court has allowed an investigation against Chief Minister Siddaramaiah in an alleged MUDA land scam case. The court upheld Governor Thawarchand Gehlot's decision to grant sanction for the probe, considering the complaints filed by three anti-corruption activists. The case relates to alleged land irregularities involving the Chief Minister's wife, with accusations of land acquisition and loss to the state. 
+
+The court rejected Siddaramaiah's arguments that the Governor should have followed the Council of Ministers' advice against the probe and that he was not a public servant at the time of the alleged offence. It emphasized that the Governor could act independently in cases of "real likelihood of bias" from the state government.  The court also ruled that private individuals can file complaints under the Prevention of Corruption Act and that the Governor could grant sanction based on a prima facie case.
+
+Wed, 25 Sep 2024 11:33:58 +0000
+### [All about Neom, the controversial Saudi project that promises a desert utopia](https://indianexpress.com/article/explained/explained-global/neom-controversy-saudi-arabia-9587508/)
+
+Neom, a planned megacity in Saudi Arabia, is a centerpiece of the country's Vision 2030 plan.  Initially estimated at $500 billion, the project's cost has escalated to $1.5 trillion and is scheduled for completion in 2039.  
+
+Despite its ambitious goals, Neom has been plagued by controversies. These include allegations of forcible evictions and suppression of indigenous tribes, concerns over worker safety and the treatment of migrant labor, and criticisms of plans for a highly surveillant "cognitive city."  
+  There have also been doubts raised about the project's feasibility, with scaled-down plans and concerns about its readiness for the 2029 Asian Winter Games.
+
 Wed, 25 Sep 2024 09:37:59 +0000
 ### [When did humans first ride horses? Here’s why the answer to this question may be more complicated than previously thought](https://indianexpress.com/article/explained/explained-history/humans-first-ride-horses-kurgan-hypothesis-9587320/)
 

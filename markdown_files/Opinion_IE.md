@@ -1,3 +1,12 @@
+Wed, 25 Sep 2024 11:15:16 +0000
+### [In Japan, the race to replace an unpopular leadership](https://indianexpress.com/article/opinion/columns/japan-race-replace-unpopular-leadership-9587576/)
+
+Fumio Kishida's resignation  has triggered a leadership contest within Japan's ruling Liberal Democratic Party (LDP).  Multiple factors will influence the outcome, including factional dynamics, public appeal, and endorsements from key party figures. 
+
+Potential contenders range from established figures like Taro Kono and Ishiba Shigeru to rising stars like Takayuki Kobayashi and Shinjiro Koizumi.  There is also potential for Japan's first female Prime Minister with Takaichi Sanae or Yoko Kamikawa being strong contenders.
+
+Kishida's tenure was notable for economic policy aimed at tackling stagnation and increasing Japan's defense spending. While his foreign policy saw strengthened ties with allies like the US and South Korea, he faced criticism over political scandals and a decline in public support, ultimately leading to his resignation. The LDP must now decide between continuity and change, with the new leader expected to maintain key strategic alliances while addressing domestic challenges.
+
 Wed, 25 Sep 2024 08:40:52 +0000
 ### [Meditation, self-care and setting boundaries – why the mantras don’t work even for mid-career professionals](https://indianexpress.com/article/opinion/columns/work-mid-career-professionals-mantras-meditation-self-care-setting-boundaries-9587272/)
 

@@ -1,3 +1,15 @@
+Wed, 25 Sep 2024 16:00:10 +0530
+### [Here to stay: The Quad has defined a strategic agenda for the Indo-Pacific](https://www.livemint.com/opinion/online-views/quad-indo-pacific-china-healthcare-higher-education-semicondctors-maritime-security-11727250562283.html)
+
+The Quad, a grouping of India, the US, Japan, and Australia, is gaining momentum as a key player in the Indo-Pacific region.  During the recent Quad summit, the leaders emphasized the significance of the platform and its commitment to a free and open Indo-Pacific. 
+
+The Quad has made strides in various sectors, from healthcare and technology to maritime security and infrastructure development. Notable initiatives include a Cancer Moonshot program, efforts to enhance energy efficiency, and a new maritime training program.  
+
+China views the Quad with increasing concern, referring to it as a potential threat to regional stability. The Quad members, however, are resolute in their efforts to counter China's growing influence and have taken a more assertive stance on issues such as the South China Sea.
+
+
+The Quad's unique structure, bringing together countries with diverse strategic approaches, presents both opportunities and challenges. Despite criticisms regarding its broad agenda, the group has successfully established itself as a platform for cooperation and a counterbalance to China's growing assertiveness.
+
 Wed, 25 Sep 2024 15:00:09 +0530
 ### [Sri Lanka has a new ‘leftist’ leader. Can AKD get the economy right?](https://www.livemint.com/opinion/online-views/anura-kumara-dissanayake-sri-lanka-election-akd-bankruptcy-imf-bailout-foreign-debt-china-bri-11727248436361.html)
 
