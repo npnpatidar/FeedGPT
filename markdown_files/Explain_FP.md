@@ -1,3 +1,8 @@
+Wed, 25 Sep 2024 20:12:53 +0530
+### [Have hot weather and influx of tourists caused a rice shortage in Japan?](https://www.firstpost.com/explainers/have-hot-weather-and-influx-of-tourists-caused-a-rice-shortage-in-japan-13819072.html)
+
+Japan is facing a rice shortage due to several factors including hot weather leading to lower harvests, increased demand from a surge in foreign tourists, and the government's protectionist policies that limit rice imports.  Empty supermarket shelves and limited rice availability have prompted the government to warn against panic buying. While officials assure that existing inventories are sufficient, the shortage has raised concerns about food security in the country. The situation is exacerbated by a decline in rice consumption among the Japanese population due to a shrinking population and changing dietary preferences.
+
 Wed, 25 Sep 2024 19:22:40 +0530
 ### [Up, up and away: How has North Korea's trash balloons disrupted air travel in Seoul?](https://www.firstpost.com/explainers/up-up-and-away-how-has-north-koreas-trash-balloons-disrupted-air-travel-in-seoul-13819038.html)
 
