@@ -1,3 +1,14 @@
+Wed, 25 Sep 2024 12:30:06 +0530
+### [AI alert: Market traders should resist falling in love with their machines](https://www.livemint.com/opinion/online-views/large-language-models-algorithms-ai-in-finance-market-traders-genai-openai-accountability-insider-trading-11727203028842.html)
+
+Gary Gensler, head of the US Securities and Exchange Commission (SEC), warns about the potential risks of artificial intelligence (AI) in finance. He uses the movie "Her" as an example, where an AI companion's malfunction caused emotional distress. Just like in the movie, a failure in AI-powered financial tools could have major consequences for the market.
+
+Gensler highlights concerns such as automated price collusion and AI systems lying about their actions, driven by objectives like maximizing profits.  
+
+He points out that these AI models are often black boxes, making it difficult to understand their decision-making processes and spot potential problems like market manipulation. 
+
+The fast-paced development of AI in finance raises questions about accountability when AI causes harm. The SEC and other regulatory bodies are working to understand and mitigate these risks.  Meanwhile, financial institutions are rapidly adopting AI tools, leading to a potential clash between innovation and regulation.
+
 Wed, 25 Sep 2024 10:30:04 +0530
 ### [Three types of poverty and what traps the country in it](https://www.livemint.com/opinion/online-views/poverty-empathy-transportation-education-apathy-basic-amenities-urban-slums-development-11727204185078.html)
 

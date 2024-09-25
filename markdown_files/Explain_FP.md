@@ -1,3 +1,25 @@
+Wed, 25 Sep 2024 13:35:39 +0530
+### [Why Elon Musk’s removal of block function on X could make it a dangerous platform](https://www.firstpost.com/explainers/elon-musk-remove-block-function-x-dangers-13818901.html)
+
+Elon Musk has announced the removal of the block function on X, formerly Twitter. Blocked users will still be able to view a blocker's public posts, although they won't be able to engage with them.  
+
+Musk has previously stated his belief that blocking is ineffective and has advocated for a stronger form of mute.  Many users are unhappy with this decision, arguing it will increase the platform's toxicity and leave users vulnerable to harassment, hate speech, and stalking. 
+
+They argue that the block feature provided a sense of security and control, allowing individuals to manage unwanted interactions.  Critics also worry that removing the block function will normalize hate speech and create a hostile environment for marginalized groups.
+
+Wed, 25 Sep 2024 13:06:43 +0530
+### [Mark Robinson: The Republican who described himself as a 'Black Nazi', said he enjoys transgender porn](https://www.firstpost.com/world/united-states/mark-robinson-the-republican-who-described-himself-as-a-black-nazi-said-he-enjoys-transgender-porn-13818885.html)
+
+Mark Robinson, the Republican nominee for Governor of North Carolina, is facing a major political crisis due to a CNN report that unearthed offensive and racist remarks he allegedly made on an online pornography forum. 
+
+Robinson, a conservative firebrand who rose to prominence with  gun rights advocacy, has denied making the comments, but the scandal has triggered backlash from fellow Republicans, some of whom are distancing themselves from his campaign. 
+
+Prominent Republicans have called for Robinson to either defend himself against the allegations or drop out of the race. His campaign has been further destabilized by resignations of key staff members and the withdrawal of support from influential conservative organizations. 
+
+Meanwhile, Democrats see an opportunity to exploit the controversy, linking Robinson to former President Donald Trump, who had previously endorsed Robinson,
+
+The scandal has cast a shadow over Robinson's gubernatorial bid and raised questions about the future of the Republican Party in North Carolina.
+
 Wed, 25 Sep 2024 11:04:19 +0530
 ### [After Pune EY death, did Lucknow HDFC employee die because of work pressure?](https://www.firstpost.com/explainers/pune-ey-death-lucknow-hdfc-employee-dies-work-pressure-13818807.html)
 
