@@ -1,3 +1,8 @@
+Wed, 25 Sep 2024 09:25:47 +0530
+### [US witnesses 5 executions in 1 week, the most in 20 years: Who are the convicts?](https://www.firstpost.com/explainers/us-executions-death-penalty-convicts-13818622.html)
+
+Five executions are scheduled in the US over one week, the most in a week since 2003. South Carolina carried out the first execution, Freddie Owens, by lethal injection for the 1997 murder of a convenience store clerk.  Alabama will use nitrogen gas, a new method, for Alan Miller, convicted for a 1999 triple murder. Marcellus Williams in Missouri was executed for the 1998 murder of a reporter despite claims of innocence.   Oklahoma faces controversy over Emmanuel Littlejohn's execution for the 1998 murder, as the state's Pardon and Parole Board recommended clemency. Finally, Travis Mullis was executed in Texas for the 2008 murder of his infant son.
+
 Wed, 25 Sep 2024 07:32:53 +0530
 ### [Jammu and Kashmir Assembly election phase 2 polling: The key contests to watch out for](https://www.firstpost.com/explainers/jammu-and-kashmir-assembly-election-phase-2-polling-key-contests-candidates-seats-13818724.html)
 

@@ -1,3 +1,21 @@
+Wed, 25 Sep 2024 09:00:19 +0530
+### [Here’s the secret to acquiring a portfolio of multibagger stocks](https://www.livemint.com/opinion/online-views/stock-prices-hdfc-bank-stock-portfolio-investors-amazon-stocks-jeff-bezos-multibagger-stocks-11727202136062.html)
+
+This article argues that predicting future multibagger stocks is impossible. While the author shares examples of successful early investments in companies like Amazon and HDFC Bank, they emphasize that even the leaders of those companies couldn't have foreseen the exact magnitude of their future success.  
+
+The author cites Warren Buffett and Charlie Munger, acknowledging that even these legendary investors haven't consistently identified multibaggers. They suggest that focusing on a well-diversified portfolio of 25-30 stocks across sectors is a better strategy than trying to pinpoint the next big winner. 
+
+The key takeaway is that market success relies on probability, not guaranteed predictions.
+
+Wed, 25 Sep 2024 08:30:18 +0530
+### [What explains a calm oil market as the war in West Asia escalates?](https://www.livemint.com/opinion/online-views/west-asia-israel-hamas-war-lebanon-hezbollah-pager-blasts-houthis-oil-prices-opec-plus-countries-shale-price-11727200944157.html)
+
+Recent events in West Asia, including Israel's operations against Hamas and Hezbollah, haven't significantly impacted global oil prices. 
+
+This is primarily due to a balance of demand and supply. While China's economic slowdown has dampened demand, other major markets like the US and India are boosting consumption.  Furthermore, US shale oil production is filling the gap left by sanctions on Russian oil, limiting the influence of OPEC+. Despite internal divisions within the cartel, its ability to control prices has weakened. 
+
+Factors like OPEC+'s struggles to maintain output cuts and geopolitical tensions, including the potential for Iran's involvement, could lead to price volatility in the future. However, for now, the market appears calm.
+
 Wed, 25 Sep 2024 07:00:14 +0530
 ### [Mint Quick Edit | China’s monetary stimulus: Can it fight deflation?](https://www.livemint.com/opinion/quick-edit/china-monetary-stimulus-central-bank-mortgage-rate-deflation-chinese-economy-gdp-stock-market-11727200253629.html)
 

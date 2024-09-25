@@ -1,3 +1,20 @@
+Wed, 25 Sep 2024 08:30:00 +0530
+### [What are retractions and why do they matter? | Explained](https://www.thehindu.com/sci-tech/science/what-are-retractions-and-why-do-they-matter-explained/article68679230.ece)
+
+Paper retractions are becoming more common worldwide, highlighting a worsening research misconduct issue, particularly in India. Retraction Watch data shows an Indian scientist with 45 retracted papers and another researcher with 6 retracted papers, despite publishing nearly a paper a day. 
+
+Retraction can occur due to honest errors, but is more serious when deliberate manipulation is found. Historically, cases like John Darsee and Hwang Woo-suk have shocked the scientific community. 
+
+Between 2020 and 2022, retractions increased by 2.5 times compared to the previous period. Reasons include plagiarism, image manipulation, and the use of paper mills, enterprises that produce low-quality or fake papers.  The "publish or perish" culture, prioritizing publication count for career advancement, contributes to this problem. 
+
+
+Maintaining trust in scientific literature is crucial, and retractions are a way for science to self-correct. Addressing research misconduct requires finding ways to detect bad papers and evaluating research quality over quantity.
+
+Wed, 25 Sep 2024 08:30:00 +0530
+### [Why has Bombay HC invalidated Centre’s proposed ‘fact-checking’ unit? | Explained](https://www.thehindu.com/news/national/why-has-bombay-hc-invalidated-centres-proposed-fact-checking-unit-explained/article68668079.ece)
+
+The Bombay High Court has declared the amended Information Technology (IT) Rules, 2021, unconstitutional and vague. These rules aimed to empower the Centre to establish a Fact Check Unit (FCU) to identify "fake" online content about the government. Justice Atul Sharachchandra Chandurkar, after a split verdict by the original bench, upheld Justice Patel's view that the rules promoted censorship and exceeded reasonable restrictions under Article 19(2) of the Constitution. He criticized the lack of procedural safeguards and the vague definition of "fake" content, leaving room for misuse. The ruling has implications for similar fact-checking units in other states, and the government is likely to appeal the decision to the Supreme Court.
+
 Mon, 23 Sep 2024 08:30:00 +0530
 ### [What is the controversy regarding Venezuela elections? | Explained](https://www.thehindu.com/news/international/what-is-the-controversy-regarding-venezuela-elections-explained/article68671739.ece)
 
