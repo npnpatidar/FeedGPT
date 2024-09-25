@@ -1,3 +1,35 @@
+Tue, 24 Sep 2024 22:58:36 +0000
+### [C Raja Mohan writes: India’s tech diplomacy — from Nehru to Modi](https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-indias-tech-diplomacy-from-nehru-to-modi-9586401/)
+
+Prime Minister Narendra Modi's recent visit to the United States highlighted the pivotal role of technology in India-US relations.  
+
+This focus on technology is not new for India, with previous periods emphasizing its importance in economic and national development. However, past efforts faced internal and external constraints, hindering full realization of their potential.
+
+The current phase, driven by India's desire to build advanced technological capabilities and the US's pursuit of reliable partners amidst the China challenge, has seen significant progress. Key areas of collaboration include semiconductors, biotechnology, telecom, artificial intelligence, clean energy, and defense technologies.
+
+This momentum is further bolstered by shared geopolitical interests and the "brain drain" phenomenon, where Indian talent has contributed significantly to US technological advancements. 
+
+While this fourth phase holds promise, India needs to address internal bureaucratic challenges and reform its science and technology sectors to fully leverage the opportunities presented by this strategic partnership.
+
+Tue, 24 Sep 2024 22:41:22 +0000
+### [Vacancies in pollution control boards: A deeper malaise](https://indianexpress.com/article/opinion/editorials/vacancies-in-pollution-control-boards-a-deeper-malaise-9586372/)
+
+Research highlights the persistent issue of pollution in India, affecting both urban and rural areas. Despite existing environmental laws, weak implementation due to chronic understaffing in pollution control boards (SPCBs) is a major obstacle.  Vacancies in SPCBs, a shortage of independent scientists, short tenures of top officials, and a lack of long-term planning hinder effective pollution control. 
+
+While the government implements various cleanup projects,  attention to improving regulatory efficiency remains lacking.  Leveraging expertise from universities and technical institutions, along with enhancing financial and institutional autonomy of SPCBs, are crucial steps towards addressing this long-standing problem.
+
+Tue, 24 Sep 2024 22:15:27 +0000
+### [India at the UN Futures Summit: An advocate for peace, Global South](https://indianexpress.com/article/opinion/columns/india-at-the-un-futures-summit-an-advocate-for-peace-global-south-9586415/)
+
+The UN Summit of the Future adopted the Pact for the Future, Declaration on Future Generations, and Global Digital Compact, aiming for a collective vision of humanity's future. PM Modi emphasized India's contributions to SDGs and advocated for global solidarity, urging countries to match ambition with action.  
+
+The Summit highlighted global challenges like conflict, climate change, and terrorism, and acknowledged the UN's need for reform.  The PFF, while addressing key global issues, lacks concrete implementation plans.  India welcomed commitments against terrorism and UNSC reforms, but expressed the need for action on issues like SDG finance. The Global Digital Compact aligns with India's G20 focus on bridging the digital divide.  The Summit, while imperfect, provides a framework for collaborative action towards a shared future.
+
+Tue, 24 Sep 2024 22:10:33 +0000
+### [Moo Deng, the celebrity hippo](https://indianexpress.com/article/opinion/editorials/the-third-edit-moo-deng-the-celebrity-hippo-9586374/)
+
+Moo Deng, a baby pygmy hippo in Thailand, has become a viral sensation, inspiring fan art, memes, and makeup trends. Her zoo has capitalized on her fame with merchandise and limited meet-and-greets. However, the article suggests that this intense celebrity spotlight is likely to be temporary, as public attention will inevitably shift to another adorable animal.  While Moo Deng's future may involve a simpler life away from the spotlight, her brief moment of internet fame highlights the unpredictable nature of online trends.
+
 Tue, 24 Sep 2024 21:41:18 +0000
 ### [The Aruna Vasudev I knew](https://indianexpress.com/article/opinion/columns/the-aruna-vasudev-i-knew-9586371/)
 
