@@ -1,3 +1,10 @@
+Thu, 26 Sep 2024 08:56:54 +0530
+### [What happened to 43 students who disappeared from Mexico in 2014?](https://www.firstpost.com/explainers/what-happened-to-43-students-who-disappeared-from-mexico-in-2014-13818239.html)
+
+In 2014, 43 students from Ayotzinapa Rural Normal School disappeared in Iguala, Mexico. They were attacked by security forces linked to the Guerreros Unidos drug cartel. 
+
+While the Peña Nieto administration claimed the students were killed and their bodies burned, subsequent investigations revealed inconsistencies and evidence of torture. These investigations implicated members of Guerreros Unidos, local, state, and federal police, and the military. Despite numerous arrests and charges, no one has been convicted. The case remains unresolved, with families demanding accountability and access to military records. Concerns about a lack of political will and the potential for a cover-up persist, highlighting the deeply rooted issue of impunity in Mexico.
+
 Thu, 26 Sep 2024 06:30:16 +0530
 ### [FirstUp: Zelenskyy to meet Biden, PM Modi to inaugurate Pune's underground metro... The news today](https://www.firstpost.com/explainers/firstup-zelenskyy-to-meet-biden-pm-modi-to-inaugurate-punes-underground-metro-the-news-today-13819068.html)
 

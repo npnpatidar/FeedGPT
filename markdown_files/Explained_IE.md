@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 03:20:31 +0000
+### [Why Sri Lanka’s newly elected President dissolved Parliament](https://indianexpress.com/article/explained/explained-global/why-sri-lankas-newly-elected-president-dissolved-parliament-9588392/)
+
+Sri Lanka's newly elected President, Anura Kumara Dissanayake, dissolved Parliament and scheduled snap elections for November 14th. 
+
+Dissanayake, leader of the socialist National People's Power (NPP) alliance, campaigned on a promise to seek a fresh mandate after his victory. The NPP's rise in popularity was fueled by mass protests in 2022 against the Rajapaksa family's economic policies.  
+
+The previous Parliament, which was due to serve until 2025, held limited support for the NPP.  Dissanayake replaced the outgoing Prime Minister with Harini Amarasuriya, an NPP member, who will head the interim government until the election.
+
 Thu, 26 Sep 2024 02:32:50 +0000
 ### [What is Clause 6 of Assam Accord, which Himanta said state government will implement?](https://indianexpress.com/article/explained/explained-politics/what-is-clause-6-of-assam-accord-which-himanta-said-state-government-will-implement-9588374/)
 

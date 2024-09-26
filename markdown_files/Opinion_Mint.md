@@ -1,3 +1,10 @@
+Thu, 26 Sep 2024 08:30:15 +0530
+### [Genetically modified crops: Widen consultations to reduce food security risks](https://www.livemint.com/opinion/online-views/genetically-modified-crops-agriculture-food-security-gm-foods-crop-yield-food-production-supreme-court-crop-failures-11727313417715.html)
+
+India's Supreme Court has called for a national policy on genetically modified (GM) crops after hearing a case regarding approved GM mustard seeds. While the government has formed an expert committee, concerns about its neutrality and potential bias exist due to its opaque composition and the government's history of bypassing broader consultations.  
+
+The government's push for GM crops partly stems from food security worries considering India's growing population and the challenges facing its agricultural sector. However, critics argue that higher yields promised by GM crops oversimplify the issue and fail to address concerns about potential health and environmental risks, especially those associated with herbicide use. The Supreme Court's emphasis on wide stakeholder consultation is vital to ensure a comprehensive and responsible approach to GM crop policy.
+
 Thu, 26 Sep 2024 07:00:12 +0530
 ### [Mint Quick Edit | All that’s gold needn’t glitter: There’s paper gold](https://www.livemint.com/opinion/quick-edit/gold-yellow-metal-gold-prices-sovereign-gold-bond-scheme-festive-season-domestic-demand-foreign-exchange-11727312751412.html)
 
