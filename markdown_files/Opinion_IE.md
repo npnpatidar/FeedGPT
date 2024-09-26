@@ -1,3 +1,26 @@
+Thu, 26 Sep 2024 00:00:13 +0000
+### [Simultaneous elections can strengthen democracy](https://indianexpress.com/article/opinion/columns/simultaneous-elections-can-strengthen-democracy-9588264/)
+
+The article discusses the revival of the "One Nation One Election" (ONOE) debate following the Union Cabinet's acceptance of a report advocating for simultaneous Lok Sabha and state assembly elections.  India initially held simultaneous elections but this practice ended due to instances like premature dissolution of assemblies by central governments and the misuse of Article 356.  
+
+The article outlines the potential benefits of ONOE, including reduced logistical burden and expenses, a more level playing field for political parties, and alleviation of policy paralysis caused by frequent Model Code of Conduct impositions. It also addresses criticism that ONOE undermines democracy, arguing that it actually strengthens it by streamlining the electoral process.  The article concludes by emphasizing the need for parliamentarians to put aside partisan views and prioritize the national interest in considering this proposal.
+
+Wed, 25 Sep 2024 22:30:04 +0000
+### [Jobs of the future require upskilling workers](https://indianexpress.com/article/opinion/columns/jobs-of-the-future-require-upskilling-workers-9588256/)
+
+Employment data in India paints a mixed picture. While the RBI reports a 6% job growth for FY24, CMIE indicates a higher unemployment rate in June 2024.  To absorb the growing workforce, India needs to create approximately 1.2 crore jobs annually. However, with a 7% growth rate, it currently generates around 80-90 lakh jobs, leading to a gap of 30-40 lakh. 
+
+Discrepancies arise from differing definitions of employment used by various agencies.  Two major factors contribute to the mismatch: labor market imperfections causing rigidities and skill gaps, as well as technological advancements leading to declining employment elasticity. 
+
+Bridging these gaps requires educational and skilling reforms, emphasizing industry-relevant skills and addressing the aspirations of job seekers.  A two-pronged strategy involving promoting labor-intensive sectors and enhancing competitiveness in technology-intensive sectors is crucial for achieving a balance between economic and employment growth.
+
+Wed, 25 Sep 2024 22:17:19 +0000
+### [Sanjaya Baru writes: Is India-US partnership an uncertain love affair?](https://indianexpress.com/article/opinion/columns/sanjaya-baru-writes-is-india-us-partnership-an-uncertain-love-affair-9588262/)
+
+The India-US relationship has significantly strengthened, though recent events highlight areas needing clarification. Indian National Security Advisor Ajit Doval's absence from Prime Minister Modi's US visit, attributed to monitoring the situation in Kashmir,  is  likely due to a lawsuit filed against him in the US by a Khalistani activist. This incident, coupled with the White House meeting a Sikh delegation seeking protection from "transnational repression," raises questions about the scope of the "comprehensive and global strategic partnership."
+
+Beyond this case, differences on issues like defense equipment sales, emerging technologies, and foreign policy towards Russia and China necessitate more frank conversations. Currently, the relationship seems to lack the depth and honesty seen during earlier phases, relying more on mutual platitudes than substantive dialogue. For the partnership to truly thrive, both countries must engage in deeper, cross-partisan discussions that address fundamental differences and move beyond transactional interactions.
+
 Wed, 25 Sep 2024 20:45:30 +0000
 ### [Express View on Sensex highs: Surge and risk](https://indianexpress.com/article/opinion/editorials/express-view-on-sensex-highs-surge-and-risk-9588223/)
 
