@@ -1,3 +1,17 @@
+Fri, 27 Sep 2024 00:20:00 +0530
+### [​Embattled CM: On Karnataka Chief Minister Siddaramaiah](https://www.thehindu.com/opinion/editorial/%E2%80%8Bembattled-cm-on-the-karnataka-chief-minister/article68686447.ece)
+
+A Special Court in Bengaluru has ordered an investigation into corruption allegations against Karnataka Chief Minister Siddaramaiah. The case revolves around allegations that Siddaramaiah's wife received undue benefits from the allotment of 14 compensatory sites by the Mysuru Urban Development Authority (MUDA). The Karnataka High Court upheld Governor Thaawarchand Gehlot's decision to grant permission for the probe, rejecting Siddaramaiah's arguments regarding procedural irregularities and bias. The court recognized the Governor's authority to act independently and emphasized that private complainants also require sanction from the competent authority before initiating a corruption probe.  The verdict sets the stage for further legal proceedings, raising questions about the motivations behind the investigation and its potential impact on the political landscape.
+
+Fri, 27 Sep 2024 00:10:00 +0530
+### [​Judge and prejudice: On conduct in judicial proceedings](https://www.thehindu.com/opinion/editorial/%E2%80%8Bjudge-and-prejudice-on-conduct-in-judicial-proceedings/article68686279.ece)
+
+The Supreme Court of India has reprimanded judges for making biased and inappropriate remarks, emphasizing the importance of fairness and adherence to constitutional values.  
+
+High Court Judge V. Srishananda faced criticism for sexist comments and referring to a Muslim-dominated locality as 'Pakistan'. 
+
+The Supreme Court, while accepting his apology, highlighted the need for judicial proceedings to be free from prejudice and stereotypes.  It stressed the importance of transparency and accountability in the judicial system,  urging judges to be mindful of their conduct and the impact of their words.
+
 Thu, 26 Sep 2024 00:20:00 +0530
 ### [​Kashmir conflict: On the J&K elections](https://www.thehindu.com/opinion/editorial/%E2%80%8Bkashmir-conflict-on-the-jk-elections/article68682097.ece)
 
