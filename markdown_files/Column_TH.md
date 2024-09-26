@@ -1,3 +1,9 @@
+Thu, 26 Sep 2024 13:47:12 +0530
+### [Column | The wife who ‘quiet-quit’ after 60 years](https://www.thehindu.com/opinion/columns/phuphee-saba-mahjoor-column-wife-quiet-quit-60-years/article68676339.ece)
+
+An elderly woman asks for a divorce after 60 years of marriage, shocking her village. Phuphee, a respected elder, visits the woman and learns that she feels unrespected in the relationship.  Despite the husband's insistence that he loves his wife, Phuphee advises him to let her go, believing that respect is more crucial than love in a marriage. She explains that respect provides stability and nourishment, while love alone can be fleeting.
+Over time, the narrator, who initially favored the idea of constant love, comes to understand the importance of respect in sustaining relationships, realizing that it provides grounding and strength.
+
 Fri, 20 Sep 2024 09:14:18 +0530
 ### [Column | When Harappans had unicorns](https://www.thehindu.com/opinion/columns/unicorn-seals-harappan-civilisation-devdutt-pattanaik-column/article68651571.ece)
 

@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 14:08:45 +0530
+### [Bangladesh’s ‘new chapter’: Islamist forces will reign supreme, with India as their prime target](https://www.firstpost.com/opinion/bangladeshs-new-chapter-islamist-forces-will-reign-supreme-with-india-as-their-prime-target-13819281.html)
+
+Sheikh Hasina's ouster in Bangladesh signals a major geopolitical shift, posing significant threats to India's security and economic interests. The rise of Islamist forces, led by the banned Jamaat-e-Islami, raises concerns about the spread of religious extremism and terrorism in the region.  India shares a deep-rooted history with Bangladesh, including crucial support during its liberation war. The previous Hasina government had been a reliable partner, cooperating on counterterrorism efforts and sharing intelligence.
+
+However, Jamaat-e-Islami, with its known ties to terrorist groups and history of collaborating with Pakistani agencies, could significantly weaken India's security posture. Fears of instability and religious persecution could lead to an influx of refugees into India, further straining relations.
+
+The change in leadership also creates opportunities for India's adversaries, such as China and Pakistan, to exert greater influence in Bangladesh, potentially disrupting India's deep-sea drilling projects in the Bay of Bengal and hindering its regional economic goals.
+
 Thu, 26 Sep 2024 12:14:08 +0530
 ### [100 days of Modi 3.0 shows steady consolidation of gains in West Asia](https://www.firstpost.com/opinion/100-days-of-modi-3-0-shows-steady-consolidation-of-gains-in-west-asia-13819217.html)
 

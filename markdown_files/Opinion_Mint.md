@@ -1,3 +1,27 @@
+Thu, 26 Sep 2024 15:00:06 +0530
+### [Chip-maker Intel needs a turnaround, not a takeover by Qualcomm](https://www.livemint.com/opinion/online-views/chip-manufacturing-intel-takeover-qualcomm-revenue-growth-tsmc-nvidia-11727335729726.html)
+
+Intel is facing its toughest period, with shares down significantly and a reported approach from Qualcomm raising questions about a possible takeover. 
+
+Analysts believe the deal is unlikely due to regulatory hurdles and the complexity of integrating two giants in the chip industry. Qualcomm's interest appears focused on Intel's chip design arm, leaving the manufacturing side, which is undergoing a major turnaround under CEO Pat Gelsinger.
+
+Gelsinger's strategy involves cost cuts, factory delays, and spinning out the foundry business to attract clients like Amazon, which recently partnered with Intel for custom AI chips.  
+
+The revival of American chip manufacturing is a key focus of the US Chips and Science Act, which has earmarked billions of dollars in subsidies and grants for Intel. Experts believe that weakening Intel with a takeover would be detrimental to this effort. 
+
+Intel's turnaround, though challenging, shows signs of progress with recent wins like the Amazon partnership and potential government funding for the Secure Enclave project.
+
+Thu, 26 Sep 2024 14:00:05 +0530
+### [Encouraging hybrid vehicles will make climate change harder to fight](https://www.livemint.com/opinion/online-views/climate-change-strong-hybrid-cars-internal-combustion-engine-petrol-cars-plug-in-hybrid-cars-fssil-fuel-mileage-evs-11727315761735.html)
+
+The article discusses the automotive industry's shift from petrol vehicles (PVs) to electric vehicles (EVs) and the tactics employed by traditional manufacturers to slow down this transition.  
+
+While acknowledging the environmental benefits of EVs powered by renewable energy, some PV manufacturers have launched hybrid vehicles with marketing strategies that blur the lines between hybrids and true EVs.  They argue that these hybrids offer significant fuel efficiency and reduce greenhouse gas emissions, but the article points out these claims are often misleading.
+
+The article highlights various types of hybrids, including those with regenerative braking and mild or strong hybridization, which incorporate electric motors to assist the petrol engine. Plug-in hybrids (PHEVs) allow for limited electric-only driving but rely on petrol engines for longer journeys.
+
+The article criticizes manufacturers for using hybrid technology, especially PHEVs,  to obtain EV-like incentives while primarily continuing to rely on fossil fuels. It suggests that these strategies delay the necessary shift towards fully electric transportation and ultimately hinder efforts to mitigate climate change.  The author advocates for continued support and investment in EVs to ensure a sustainable future.
+
 Thu, 26 Sep 2024 12:30:03 +0530
 ### [Why climate policies have been unable to reduce the world’s carbon emissions](https://www.livemint.com/opinion/online-views/climate-change-carbon-emissions-cbam-climate-policy-intervention-carbon-pricing-developing-countries-11727314901330.html)
 

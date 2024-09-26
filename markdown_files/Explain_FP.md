@@ -1,3 +1,35 @@
+Thu, 26 Sep 2024 15:07:09 +0530
+### [Gold Play: What explains the record high in gold prices in India?](https://www.firstpost.com/explainers/gold-prices-surge-india-rbi-us-fed-rate-cut-west-asia-war-13819271.html)
+
+The price of gold has reached a record high globally, driven by several factors. The ongoing Israel-Hezbollah conflict has heightened concerns about geopolitical instability, making gold a safe haven investment.  A weaker US dollar, which is inversely related to gold prices, has also increased demand. 
+
+The US Federal Reserve's recent interest rate cut and expectations of further reductions have made gold more attractive to investors.  Additionally, China's central bank interest rate cuts are expected to boost Chinese demand for gold. The festive season in India is also contributing to  higher demand, despite some softness during the Shraadh period.  Analysts predict that high gold prices will likely persist in the coming months.
+
+Thu, 26 Sep 2024 14:15:43 +0530
+### [What is David's Sling, Israel's defence against Hezbollah's rain of missiles?](https://www.firstpost.com/explainers/what-is-davids-sling-israels-defence-against-hezbollahs-rain-of-missiles-13819275.html)
+
+Israel successfully intercepted a Hezbollah-fired Qader-1 ballistic missile aimed at a building near Tel Aviv using its David's Sling defense system.  This interception prevented any reported deaths or injuries. David's Sling, a joint Israeli-American development, is designed to counter tactical ballistic missiles,  rockets, aircraft, drones, and cruise missiles, including Scud missiles.  The system, operational since 2017, utilizes the Stunner missile, which relies on impact for target destruction,  and sophisticated sensors and radar for targeting. It is part of Israel's multi-layered air defense system, operating at a lower altitude than the Arrow missile systems but higher than the Iron Dome.
+
+Thu, 26 Sep 2024 14:08:25 +0530
+### [How Hurricane Helene, likely to be strongest storm to hit US in a year, could be catastrophic](https://www.firstpost.com/world/united-states/how-hurricane-helene-likely-to-be-strongest-storm-to-hit-us-in-a-year-could-be-catastrophic-13819220.html)
+
+Hurricane Helene is projected to become a dangerous Category 4 hurricane before making landfall on Florida's northwestern coast Thursday evening. The storm is expected to bring devastating winds, heavy rain, and an "unsurvivable" storm surge. 
+
+Florida's Apalachicola area is predicted to be the hardest hit, with storm surges potentially reaching up to six meters.  Heavy rainfall may cause flash flooding hundreds of miles inland across the Southeast.
+
+Helene has already caused disruption in Mexico and Cuba, with flooding and power outages reported. In anticipation of the storm, many schools and universities have closed, and Florida officials have issued evacuation orders.
+
+Thu, 26 Sep 2024 14:07:19 +0530
+### [As Israel fires missiles, why can't Lebanon act against Hezbollah?](https://www.firstpost.com/explainers/as-israel-fires-missiles-why-cant-lebanon-act-against-hezbollah-13819246.html)
+
+Israel is preparing a ground invasion of Lebanon following extensive airstrikes targeting Hezbollah strongholds.  Israel's military chief stated these strikes aim to prepare the way for a ground incursion while simultaneously weakening Hezbollah.
+
+Over 600 people have been killed in Lebanon due to the Israeli strikes, leading Beirut to seek US intervention.  
+
+Hezbollah's complex position within Lebanon, both as a political party and a powerful armed group with significant public support, makes it difficult for the Lebanese government to act against it. 
+
+Lebanon's political instability, marked by a vacant presidency and a fragmented parliament, further hinders any potential action against Hezbollah, despite its declaration of war on Israel in support of Hamas.
+
 Thu, 26 Sep 2024 13:36:02 +0530
 ### [Why over 50 common Indian drugs like paracetamol, antiacid have failed quality tests](https://www.firstpost.com/explainers/why-over-50-common-indian-drugs-like-paracetamol-antiacid-have-failed-quality-tests-13819193.html)
 
