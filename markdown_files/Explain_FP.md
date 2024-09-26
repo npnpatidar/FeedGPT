@@ -1,3 +1,19 @@
+Thu, 26 Sep 2024 06:30:16 +0530
+### [FirstUp: Zelenskyy to meet Biden, PM Modi to inaugurate Pune's underground metro... The news today](https://www.firstpost.com/explainers/firstup-zelenskyy-to-meet-biden-pm-modi-to-inaugurate-punes-underground-metro-the-news-today-13819068.html)
+
+Ukrainian President Volodymyr Zelenskyy will meet with US President Joe Biden and other US officials during his visit to the US. Zelenskyy plans to discuss his victory plan for Ukraine and further US support.  
+
+In India, Prime Minister Narendra Modi will inaugurate an underground metro corridor in Pune and lay the foundation for its expansion. He will also launch several other key initiatives, including a memorial dedicated to Jyotiba and Savitribai Phule.
+
+Congress leader Rahul Gandhi will begin his campaign in Haryana, two rallies in Assandh and Barwala, following a resolution of internal conflicts within the party. 
+
+ Former US First Lady Melania Trump will give her first interview in over two years on Fox & Friends. 
+
+
+The Delhi Assembly will hold a two-day special session with Chief Minister Atishi expected to address the issues facing Delhi.
+
+Finally, Japan will announce the verdict for Iwao Hakamada, the world's longest-serving death row inmate.
+
 Wed, 25 Sep 2024 20:12:53 +0530
 ### [Have hot weather and influx of tourists caused a rice shortage in Japan?](https://www.firstpost.com/explainers/have-hot-weather-and-influx-of-tourists-caused-a-rice-shortage-in-japan-13819072.html)
 

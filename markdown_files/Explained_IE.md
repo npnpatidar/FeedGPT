@@ -1,3 +1,10 @@
+Thu, 26 Sep 2024 02:32:50 +0000
+### [What is Clause 6 of Assam Accord, which Himanta said state government will implement?](https://indianexpress.com/article/explained/explained-politics/what-is-clause-6-of-assam-accord-which-himanta-said-state-government-will-implement-9588374/)
+
+The Assam government is implementing 52 recommendations of the Justice Biplab Sarma Committee report on Clause 6 of the Assam Accord.  The Accord, signed in 1985, aimed to protect the cultural, social, and linguistic identity of the Assamese people. The committee, formed in 2019, suggested specific safeguards, including land rights, language preferences, and cultural heritage preservation. 
+
+The government will focus on recommendations concerning land ownership, the official language status of Assamese, and support for cultural institutions. They have set a target of April 2025 for implementation. However, 15 recommendations requiring constitutional amendments will be addressed separately with the Centre's involvement. These include controversial proposals like Inner Line Permit implementation and extensive reservations for "Assamese people." The Assam government aims to resolve these matters collaboratively with the Centre and the All Assam Students' Union (AASU).
+
 Wed, 25 Sep 2024 20:30:22 +0000
 ### [Quota in PhD admissions at IIMA:  A change in stance over time](https://indianexpress.com/article/explained/quota-in-phd-admissions-at-iima-a-change-in-stance-over-time-9588329/)
 

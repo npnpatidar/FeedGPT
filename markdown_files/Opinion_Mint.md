@@ -1,3 +1,8 @@
+Thu, 26 Sep 2024 07:00:12 +0530
+### [Mint Quick Edit | All that’s gold needn’t glitter: There’s paper gold](https://www.livemint.com/opinion/quick-edit/gold-yellow-metal-gold-prices-sovereign-gold-bond-scheme-festive-season-domestic-demand-foreign-exchange-11727312751412.html)
+
+Gold prices are reaching record highs in India and globally, driven by factors like China's stimulus package, geopolitical tensions in West Asia, and softer US Treasury yields. Gold's appeal as a hedge against inflation and economic uncertainty, coupled with rising disposable incomes and increasing demand for jewelry, is contributing to price surges.  Additionally, India's recent budget duty cut has led to a rise in gold imports.  Experts suggest promoting the demonetization of gold by encouraging investors to opt for paper-based gold, which would reduce foreign exchange drain.
+
 Wed, 25 Sep 2024 16:00:10 +0530
 ### [Here to stay: The Quad has defined a strategic agenda for the Indo-Pacific](https://www.livemint.com/opinion/online-views/quad-indo-pacific-china-healthcare-higher-education-semicondctors-maritime-security-11727250562283.html)
 
