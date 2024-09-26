@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 18:09:35 +0530
+### [Cabinet approval for Chandrayaan-4: Great power competition heats up in space](https://www.firstpost.com/opinion/cabinet-approval-for-chandrayaan-4-great-power-competition-heats-up-in-space-13819419.html)
+
+The growing competition in space exploration, driven by nations like the US, China, Russia, and India, is transforming the domain into a potential military arena.  China's rapid advancements in satellite technology, exemplified by its Qianfan constellation, are seen as a response to the US’s SpaceX Starlink. Russia's history of anti-satellite testing and development of counter-space technologies raise concerns about weaponization.  
+
+While India historically focused on space for socio-economic development, its recent ASAT test indicates a shift towards bolstering national security through space capabilities. This rivalry threatens the legacy of international cooperation in space, as evidenced by the weakened Outer Space Treaty and difficulty in establishing frameworks for responsible behavior. 
+
+The rise of private space enterprises adds another layer of complexity to this evolving geopolitical landscape, raising questions about accountability and the balance between innovation and competition.
+
 Thu, 26 Sep 2024 16:55:29 +0530
 ### [Asia Power Index: Deepening bipolarity is a troubling proposition for India](https://www.firstpost.com/opinion/asia-power-index-deepening-bipolarity-is-a-troubling-proposition-for-india-13819371.html)
 

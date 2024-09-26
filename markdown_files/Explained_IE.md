@@ -1,3 +1,8 @@
+Thu, 26 Sep 2024 12:46:34 +0000
+### [How Kerala High Court cleared way for use of cooling films on car windscreens](https://indianexpress.com/article/explained/explained-law/how-kerala-high-court-cleared-way-for-use-of-sun-films-on-cars-9589640/)
+
+The Kerala High Court ruled in favor of vehicle owners' right to apply plastic film to their windscreens and windows, as long as it complies with VLT standards. This decision overturns a previous ban on sun films and clarifies the amended Motor Vehicle Rules of 2021. The court stated that it's impossible to determine if the film was installed by the manufacturer or the owner, making penalization based on that distinction unsustainable. The ruling allows vehicle owners nationwide to use sun films for heat and UV protection without fear of legal consequences, provided they meet the specified VLT requirements.
+
 Thu, 26 Sep 2024 11:17:07 +0000
 ### [Jhumpa Lahiri refuses US award over ‘keffiyeh’ ban: What is the Palestinian scarf?](https://indianexpress.com/article/explained/explained-global/jhumpa-lahiri-keffiyeh-palestine-history-9589375/)
 

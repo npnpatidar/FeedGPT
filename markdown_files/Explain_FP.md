@@ -1,3 +1,8 @@
+Thu, 26 Sep 2024 19:05:55 +0530
+### [Could Storm Helene affect Nasa’s plan to rescue Sunita Williams from ISS?](https://www.firstpost.com/world/united-states/could-storm-helene-affect-nasas-plan-to-rescue-sunita-williams-from-iss-13819414.html)
+
+The Crew-9 mission, scheduled to launch today, has been delayed to Saturday due to Hurricane Helene. The mission, which will send astronauts Nick Hague and Aleksandr Gorbunov to the International Space Station, was originally set for mid-August but was postponed to address issues with Boeing's Starliner spacecraft. The delay raises concerns for Sunita Williams and Butch Wilmore, who have been aboard the ISS since June, as they were scheduled to return home with Crew-9 in February 2025.  Due to uncertainties surrounding Starliner's functionality, NASA is considering alternative plans for their return.
+
 Thu, 26 Sep 2024 17:41:40 +0530
 ### [45-year-old woman dies after falling in drain: How Mumbai’s open manholes become ‘death traps’ during monsoon](https://www.firstpost.com/explainers/mumbai-rains-woman-death-drains-open-manhole-death-traps-monsoon-bmc-13819378.html)
 
