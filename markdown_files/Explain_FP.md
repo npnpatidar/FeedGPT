@@ -1,3 +1,25 @@
+Thu, 26 Sep 2024 13:36:02 +0530
+### [Why over 50 common Indian drugs like paracetamol, antiacid have failed quality tests](https://www.firstpost.com/explainers/why-over-50-common-indian-drugs-like-paracetamol-antiacid-have-failed-quality-tests-13819193.html)
+
+India's drug regulator, CDSCO, has flagged over 50 common medications for failing to meet safety and quality standards. This includes well-known brands like Paracetamol, Pan D, Shelcal, and others used to treat diabetes, blood pressure, and infections. The drugs were identified through random testing and the alert has caused concern among consumers and healthcare professionals. 
+
+Several pharmaceutical companies have denied producing the flagged batches, claiming they are counterfeit or spurious. Investigations are ongoing to determine the cause of the quality issues and hold responsible parties accountable.
+
+Thu, 26 Sep 2024 13:07:46 +0530
+### [Does woman’s death in Sarco suicide pod violate Switzerland’s laws on assisted dying?](https://www.firstpost.com/explainers/woman-death-sarco-suicide-pod-switzerland-law-assisted-dying-13819240.html)
+
+A 64-year-old American woman died in Switzerland using a Sarco suicide pod, marking the first known instance of this type of death. Swiss authorities have arrested four people in connection with the incident, opening criminal proceedings for incitement and aiding and abetting suicide.  The woman, who had suffered from health problems for many years, chose the Sarco capsule, a 3D-printed device that replaces oxygen with nitrogen, leading to death by hypoxia. The company behind the Sarco pod, Last Resort, maintains that they acted on legal advice, while Swiss authorities assert the capsule does not comply with product safety and chemical use regulations. The case highlights the complexities surrounding assisted suicide and euthanasia in Switzerland, where the law allows for assisted suicide but requires the individual to perform the act leading to their death.
+
+Thu, 26 Sep 2024 12:44:47 +0530
+### [Why author Jhumpa Lahiri declined an award from a New York museum](https://www.firstpost.com/explainers/why-author-jhumpa-lahiri-declined-an-award-from-a-new-york-museum-13819192.html)
+
+Jhumpa Lahiri has withdrawn her acceptance of the 2024 Isamu Noguchi Award from the Noguchi Museum in protest of its recent dress code policy. The policy, which bans political attire for staff, led to the firing of three employees who wore keffiyehs, scarves symbolising Palestinian solidarity. The museum claims the rule is necessary to avoid alienating visitors, but the firings sparked protests and an outrage among supporters who view the museum's actions as stifling dissent.  Lahiri, a Pulitzer Prize-winning author, joins a chorus of voices condemning the museum's decision.
+
+Thu, 26 Sep 2024 12:32:41 +0530
+### [The case of Iwao Hakamata: World’s longest-serving death row prisoner, acquitted after 50 years in Japan](https://www.firstpost.com/explainers/the-case-of-iwao-hakamata-worlds-longest-serving-death-row-prisoner-acquitted-after-50-years-in-japan-13819204.html)
+
+Iwao Hakamata, who spent over 48 years in prison for a quadruple murder, has been acquitted by a Japanese court. Hakamata,  once the world's longest-serving death row prisoner, was convicted in 1968 based on a coerced confession and questionable evidence.  Scientific testing later revealed inconsistencies in the bloodstain evidence, and the clothing presented at trial did not fit Hakamata. Despite his claims of innocence, Hakamata spent decades on death row, enduring solitary confinement and psychological torment. His sister tirelessly campaigned for his release, ultimately leading to a retrial and his  acquittal in 2024. The case highlights serious flaws in Japan's criminal justice system, particularly its reliance on confessions and the use of the death penalty.
+
 Thu, 26 Sep 2024 11:14:51 +0530
 ### [Bengaluru fridge murder: Why Mahalakshmi's 'lover' chopped her body and died by suicide days later](https://www.firstpost.com/explainers/bengaluru-fridge-murder-mahalakshmi-lover-suicide-13819155.html)
 

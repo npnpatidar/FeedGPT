@@ -1,3 +1,8 @@
+Thu, 26 Sep 2024 12:14:08 +0530
+### [100 days of Modi 3.0 shows steady consolidation of gains in West Asia](https://www.firstpost.com/opinion/100-days-of-modi-3-0-shows-steady-consolidation-of-gains-in-west-asia-13819217.html)
+
+India has built strong relationships in West Asia over the past decade, highlighted by strategic partnerships with key countries. The success stems from collaborations in energy, economics, fintech, and security.  Modi 3.0 is building upon this strong foundation, with the foreign minister visiting key nations like the UAE, Qatar, Kuwait and Saudi Arabia.  The relationship is multi-faceted, encompassing trade, investments, and a commitment to peacemaking in regional conflicts.  While challenges like India-Iran relations require careful navigation, the overall trajectory points towards a deepening partnership between India and West Asia.
+
 Thu, 26 Sep 2024 09:56:05 +0530
 ### [Sri Lanka’s ‘vote for change’ offers hopes, opportunities but also challenges](https://www.firstpost.com/opinion/sri-lankas-vote-for-change-offers-hopes-opportunities-but-also-challenges-13819161.html)
 

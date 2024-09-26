@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Why climate policies have been unable to reduce the world’s carbon emissions</title>
+			<link>https://www.livemint.com/opinion/online-views/climate-change-carbon-emissions-cbam-climate-policy-intervention-carbon-pricing-developing-countries-11727314901330.html</link>
+			<description>A new study analyzing climate policies from 1998 to 2022 found that only 4% had a substantial impact on carbon emissions.  The study, which examined over 1,500 policies in 41 countries including major emitters like China, the US, and India, revealed that policy mixes, particularly combining carbon pricing with regulatory instruments, were significantly more effective than standalone policies. 
+
+Carbon pricing, such as carbon taxes and emissions trading schemes, proved successful in developed economies, leading to emission reductions of up to 43% in some cases. However, regulatory measures like subsidies and energy efficiency mandates were more effective in developing economies due to structural challenges in implementing market-based solutions. 
+
+The study highlights the need for stronger regulatory frameworks in developing countries, while simultaneously preparing for market-based mechanisms.  It emphasizes data availability, clear policy signals, and institutional capacity as crucial factors to maximize the impact of climate policies.</description>
+			<pubDate>Thu, 26 Sep 2024 12:30:03 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/26/1600x900/54f34630-5f61-11ed-a688-0afbad3d396c_1667910898293_1727315331472.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/26/1600x900/54f34630-5f61-11ed-a688-0afbad3d396c_1667910898293_1727315331472.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Is artificial energy worth all the money and energy it’s guzzling?</title>
 			<link>https://www.livemint.com/opinion/columns/llma-data-centres-ai-energy-consumption-clean-power-microsoft-nvidia-fossil-fuels-11727314221057.html</link>
 			<description>The high energy demands of AI development, particularly for large language models, are prompting a surge in investment towards clean energy. Big Tech companies, facing pressure to meet their net-zero commitments, are seeking reliable green power sources.

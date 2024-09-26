@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 06:22:17 +0000
+### [The middle-management festival of sexism in corporate India](https://indianexpress.com/article/opinion/columns/the-middle-management-festival-of-sexism-in-corporate-india-9588863/)
+
+The death of a young chartered accountant has reignited the conversation surrounding employee wellbeing and workloads, particularly for women.  Data shows that women in India work the longest hours globally and shoulder a disproportionate share of unpaid domestic labor. This indicates that even with higher representation, true equality and equity at work may remain elusive.  
+
+Personal experience within the financial services industry reveals deeply ingrained biases among male managers who often cite long working hours as a deterrent to hiring women. These biases, ranging from unfounded concerns about female ability to handle demanding work to fears of sexual harassment accusations, are casually perpetuated despite contradictory evidence. 
+
+Furthermore, the exclusion of women from informal work networks, often justified with claims of maintaining a "masculine" environment, limits access to crucial professional opportunities and reinforces existing inequalities. This highlights the need for organizations to actively address sexism at all levels, including middle management, to create a truly inclusive and equitable workplace.
+
 Thu, 26 Sep 2024 00:00:13 +0000
 ### [Simultaneous elections can strengthen democracy](https://indianexpress.com/article/opinion/columns/simultaneous-elections-can-strengthen-democracy-9588264/)
 

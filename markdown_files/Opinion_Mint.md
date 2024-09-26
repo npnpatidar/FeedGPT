@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 12:30:03 +0530
+### [Why climate policies have been unable to reduce the world’s carbon emissions](https://www.livemint.com/opinion/online-views/climate-change-carbon-emissions-cbam-climate-policy-intervention-carbon-pricing-developing-countries-11727314901330.html)
+
+A new study analyzing climate policies from 1998 to 2022 found that only 4% had a substantial impact on carbon emissions.  The study, which examined over 1,500 policies in 41 countries including major emitters like China, the US, and India, revealed that policy mixes, particularly combining carbon pricing with regulatory instruments, were significantly more effective than standalone policies. 
+
+Carbon pricing, such as carbon taxes and emissions trading schemes, proved successful in developed economies, leading to emission reductions of up to 43% in some cases. However, regulatory measures like subsidies and energy efficiency mandates were more effective in developing economies due to structural challenges in implementing market-based solutions. 
+
+The study highlights the need for stronger regulatory frameworks in developing countries, while simultaneously preparing for market-based mechanisms.  It emphasizes data availability, clear policy signals, and institutional capacity as crucial factors to maximize the impact of climate policies.
+
 Thu, 26 Sep 2024 10:30:00 +0530
 ### [Is artificial energy worth all the money and energy it’s guzzling?](https://www.livemint.com/opinion/columns/llma-data-centres-ai-energy-consumption-clean-power-microsoft-nvidia-fossil-fuels-11727314221057.html)
 
