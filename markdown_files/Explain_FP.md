@@ -1,3 +1,40 @@
+Thu, 26 Sep 2024 17:41:40 +0530
+### [45-year-old woman dies after falling in drain: How Mumbai’s open manholes become ‘death traps’ during monsoon](https://www.firstpost.com/explainers/mumbai-rains-woman-death-drains-open-manhole-death-traps-monsoon-bmc-13819378.html)
+
+A 45-year-old woman in Mumbai died after falling into an overflowing drain during heavy rains. This incident follows 
+a pattern of fatal accidents caused by open drains in the city.  The Mumbai civic body, facing scrutiny, has launched several initiatives to address the issue, including installing safety nets and RFID-tagging manhole covers. Despite these efforts, open drains continue to pose a threat to residents, prompting concerns about the BMC's responsibility in preventing such tragedies.  Similar incidents have occurred in Delhi, highlighting the need for effective solutions to manage storm water drains and protect public safety.
+
+Thu, 26 Sep 2024 17:11:42 +0530
+### [Now Mira Murati is among top leaders exiting OpenAI. Who is she?](https://www.firstpost.com/explainers/now-mira-murati-is-among-top-leaders-exiting-openai-who-is-she-13819301.html)
+
+Mira Murati, OpenAI's chief technical officer and a key figure in the company's advancements, has resigned after six and a half years.  Murati, known for her work on projects like GPT-4 and DALL-E, cited a desire for personal exploration as her reason for leaving.  
+
+Murati's departure comes amid a period of significant change at OpenAI, including a rumored $6.5 billion funding round and the restructuring of the company into a for-profit entity. 
+
+
+OpenAI's founder, Sam Altman, expressed his gratitude for Murati's contributions and announced the appointments of Mark Chen and Josh Achiam to fill key leadership roles.  Murati's resignation is the latest in a string of high-profile departures from OpenAI, raising questions about the company's future direction and leadership.
+
+Thu, 26 Sep 2024 16:02:06 +0530
+### [Qantas’ 'ghost flights': How Australia’s iconic airline duped a million passengers](https://www.firstpost.com/explainers/qantas-ghost-flights-how-australia-iconic-airline-duped-a-million-passengers-13819306.html)
+
+Qantas Airways faced significant scrutiny and penalties for selling tickets for over 71,000 cancelled flights between 2022 and 2024. This affected approximately 884,000 passengers who were unaware their flights had been cancelled.  
+
+The airline admitted to misleading customers and agreed to pay A$120 million in fines and compensation. Court documents revealed senior management was aware of the systemic issues but no single individual was found to have full knowledge of the problem's extent. This incident severely damaged Qantas' reputation, leading to criticism for skyrocketing ticket prices, poor customer service, and the layoff of ground staff during the pandemic. 
+
+
+Qantas has since updated its systems and processes, aiming to prevent future occurrences and rebuild customer trust.  
+  
+"We know many of our customers were affected by our failure to provide cancellation notifications in a timely manner, and we are sincerely sorry," said CEO Vanessa Hudson.
+
+Thu, 26 Sep 2024 16:02:06 +0530
+### [Explained: Diplomatic row over Mexico's refusal to invite Spanish king for president's inauguration](https://www.firstpost.com/explainers/explained-diplomatic-row-over-mexicos-refusal-to-invite-spanish-king-for-presidents-inauguration-13819326.html)
+
+Tensions have erupted between Spain and Mexico after Mexico's incoming president, Claudia Sheinbaum,  excluded Spain's King Felipe VI from her inauguration list. 
+
+This decision stems from a past disagreement regarding Spain's colonial history in Mexico. Former Mexican President Andrés Manuel López Obrador had written to both the King and Pope Francis, requesting apologies for the atrocities committed during the conquest and urging recognition of indigenous rights. Spain rejected this request, arguing that historical events should not be judged by contemporary standards. 
+
+Spain's Prime Minister Pedro Sánchez considers the King's exclusion "unacceptable" and "inexplicable," leading to Spain's entire contingent boycotting the inauguration.  Sheinbaum maintains that the King's lack of direct response to López Obrador's 2019 letter prompted this decision.
+
 Thu, 26 Sep 2024 15:07:09 +0530
 ### [Gold Play: What explains the record high in gold prices in India?](https://www.firstpost.com/explainers/gold-prices-surge-india-rbi-us-fed-rate-cut-west-asia-war-13819271.html)
 

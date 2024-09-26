@@ -1,3 +1,19 @@
+Thu, 26 Sep 2024 11:17:07 +0000
+### [Jhumpa Lahiri refuses US award over ‘keffiyeh’ ban: What is the Palestinian scarf?](https://indianexpress.com/article/explained/explained-global/jhumpa-lahiri-keffiyeh-palestine-history-9589375/)
+
+Jhumpa Lahiri declined the 2024 Isamu Noguchi Award after the museum implemented a policy banning clothing with "political messages, slogans or symbols," which led to the firing of employees for wearing keffiyeh head scarves. The keffiyeh, traditionally a Middle Eastern garment, became associated with Palestinian solidarity in the 20th century.  Initially worn by lower classes for sun protection, its use as a symbol of national unity grew during resistance to British rule in Palestine. 
+
+Following the 1948 Arab-Israeli War, the keffiyeh became a symbol of resilience for Palestinians displaced from their homes, further popularized by figures like Yasser Arafat and Nelson Mandela. Its use as a symbol of Palestinian identity and opposition to Israeli action has led to bans in some institutions.
+
+Thu, 26 Sep 2024 10:54:37 +0000
+### [Senthil Balaji gets bail: what is the case in which the DMK leader was arrested](https://indianexpress.com/article/explained/explained-politics/senthil-balaji-bail-case-dmk-leader-was-arrested-9589348/)
+
+DMK leader Senthil Balaji was granted bail by the Supreme Court after being arrested in June 2022 on charges of corruption related to a cash-for-jobs scam when he served as transport minister in the AIADMK government.  Balaji's bail plea was denied multiple times by lower courts.
+
+The case originated from complaints alleging that Balaji and his associates demanded bribes from job seekers.  Initial investigations focused on lower-ranked officials but did not implicate Balaji in corruption. 
+
+The Enforcement Directorate entered the scene later, alleging a "compromise" between Balaji's aides and some victims furthered the investigation.  This culminated in the Supreme Court granting the ED the authority to continue its probe and dismissing Balaji's application for a Special Investigation Team.
+
 Thu, 26 Sep 2024 03:20:31 +0000
 ### [Why Sri Lanka’s newly elected President dissolved Parliament](https://indianexpress.com/article/explained/explained-global/why-sri-lankas-newly-elected-president-dissolved-parliament-9588392/)
 

@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 16:55:29 +0530
+### [Asia Power Index: Deepening bipolarity is a troubling proposition for India](https://www.firstpost.com/opinion/asia-power-index-deepening-bipolarity-is-a-troubling-proposition-for-india-13819371.html)
+
+The Lowy Institute's Asia Power Index highlights a rapidly evolving security landscape in Asia, dominated by the US and China. India, despite ranking third, lags significantly in its power projection compared to these two giants.
+
+The author argues that this bipolarity poses a threat to India's interests, illustrated by recent political shifts in Bangladesh and Myanmar, manipulated by the US-China rivalry.  
+
+India's economic and military capabilities, though growing, still fall short of challenging the dominant powers.  The author emphasizes the need for India to strengthen its national power to safeguard its interests in a multipolar world. While India has made strides in its economic and diplomatic outreach, nurturing its internal strengths and closing the power gap with the US and China remains critical.   The author views this as a defining moment for India, urging it to break free from the bipolar paradigm and emerge as a credible third power pole.
+
 Thu, 26 Sep 2024 14:08:45 +0530
 ### [Bangladesh’s ‘new chapter’: Islamist forces will reign supreme, with India as their prime target](https://www.firstpost.com/opinion/bangladeshs-new-chapter-islamist-forces-will-reign-supreme-with-india-as-their-prime-target-13819281.html)
 

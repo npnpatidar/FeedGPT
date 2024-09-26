@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 10:19:09 +0000
+### [SC ruling on child sexual exploitation material could criminalise normal adolescent behaviour](https://indianexpress.com/article/opinion/columns/sc-ruling-child-sexual-exploitation-material-criminalise-adolescent-behaviour-9589295/)
+
+The Supreme Court's ruling on Child Sexual Exploitation and Abuse Material (CSEAM) clarifies the legal position on possession, holding it as criminal liability.  The judgment emphasizes a broad interpretation, encompassing both physical and constructive possession.  
+
+While the ruling aims for victim-centricity, it overlooks complexities like adolescent behavior and consent in the digital age.   The blanket portrayal of all children as equally vulnerable to harm from CSEAM fails to acknowledge individual experiences and resilience. The judgment also assumes a direct link between viewing CSEAM and future abuse, oversimplifying human behavior.
+
+Furthermore, the emphasis on mandatory reporting raises concerns about the capacity of law enforcement to handle the increased volume of cases effectively. Victim support aspects like content takedown are also neglected. While the ruling rightly emphasizes the need for better terminology and raises awareness about sex education and consent, its implementation requires a more nuanced understanding of adolescent psychology, consent, and practical limitations of the current legal system.
+
 Thu, 26 Sep 2024 06:22:17 +0000
 ### [The middle-management festival of sexism in corporate India](https://indianexpress.com/article/opinion/columns/the-middle-management-festival-of-sexism-in-corporate-india-9588863/)
 

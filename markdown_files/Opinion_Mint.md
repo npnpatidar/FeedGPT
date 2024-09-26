@@ -1,3 +1,16 @@
+Thu, 26 Sep 2024 16:00:07 +0530
+### [Children’s literature is a generator of human capital](https://www.livemint.com/opinion/online-views/childrens-literature-books-authors-soft-power-human-capital-leisure-reading-education-textbooks-11727336894339.html)
+
+The article argues for increased investment in children's literature in India.  
+
+It points out that the current market for children's books is very small compared to other countries and that Indian children read less for pleasure.  
+
+This, the author claims, is linked to poor quality children's books and a focus on textbooks in education. 
+
+ The article suggests several solutions, including more investment in children's literature, better quality books, and initiatives to encourage reading for pleasure.  
+
+It concludes that improving children's literature is essential for India's future success.
+
 Thu, 26 Sep 2024 15:00:06 +0530
 ### [Chip-maker Intel needs a turnaround, not a takeover by Qualcomm](https://www.livemint.com/opinion/online-views/chip-manufacturing-intel-takeover-qualcomm-revenue-growth-tsmc-nvidia-11727335729726.html)
 

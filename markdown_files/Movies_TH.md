@@ -1,3 +1,8 @@
+Thu, 26 Sep 2024 17:16:43 +0530
+### [‘Wolfs’ movie review: George Clooney and Brad Pitt turn up the charm for this smooth operation](https://www.thehindu.com/entertainment/movies/wolfs-movie-review-george-clooney-and-brad-pitt-turn-up-the-charm-for-this-smooth-operation/article68686000.ece)
+
+"Wolfs", directed by Jon Watts, features George Clooney and Brad Pitt as professional fixers entangled in a messy situation. The film is a buddy comedy that leans heavily on the chemistry between the two stars, who deliver humorous banter and play off each other well. While their charisma is engaging, the plot itself is thin and the film lacks originality.  It feels like a nostalgic trip relying on star power rather than a compelling story.  Austin Abrams shines as "the Kid", injecting energy into the film with a frantic, drug-fueled monologue. Despite its homages to classic movies like "Pulp Fiction", "Wolfs" ultimately fails to deliver a memorable experience.
+
 Mon, 23 Sep 2024 15:58:38 +0530
 ### [‘Thalaivettiyaan Paalayam’ series review: Familiar delights in this Tamil remake of ‘Panchayat’](https://www.thehindu.com/entertainment/movies/thalaivettiyaan-paalayam-series-review-familiar-delights-in-this-tamil-remake-of-panchayat/article68673468.ece)
 
