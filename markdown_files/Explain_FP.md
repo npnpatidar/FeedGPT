@@ -1,3 +1,22 @@
+Thu, 26 Sep 2024 20:10:13 +0530
+### [0 admission in 5000 govt schools in Madhya Pradesh: Why no one wants to enrol in state-run institutions](https://www.firstpost.com/explainers/0-admission-in-5000-govt-schools-in-madhya-pradesh-why-no-one-wants-to-enrol-in-state-run-institutions-13819401.html)
+
+Thousands of government schools in Madhya Pradesh are facing alarmingly low student enrollment. More than 5,500 schools have no students in Class 1 for the 2024-25 academic year, and many others have only a handful of students. This exodus from government schools is attributed to factors like dilapidated buildings, a shortage of teachers, and a lack of basic amenities. Parents express concerns over the state of infrastructure and teaching staff, prioritizing private schools despite government incentives. The state government acknowledges the issue and plans initiatives to increase enrollment, including a drive to ensure all eligible children are enrolled in Class 1. Experts advocate for closing schools with minimal enrollment and redirecting resources for the betterment of students in functional schools.
+
+Thu, 26 Sep 2024 19:57:08 +0530
+### [Inside the world’s first 3-D printed hotel coming up in Texas](https://www.firstpost.com/explainers/3-d-printed-hotel-texas-us-el-cosmico-13819355.html)
+
+El Cosmico, a Texas hotel and campground, is expanding with 43 new hotel units and 18 residences, all built using 3-D printing technology. The project is a collaboration between El Cosmico owner Liz Lambert, ICON, a 3D printing company, and architectural firm BIG. The 3D-printed units offer unique curved designs and features not achievable with traditional construction. Amenities include an open-air bathhouse, a bar and restaurant, a communal kitchen, and a circular infinity pool. The expansion is expected to be completed by 2026, with units ranging in price from $200 to $450 per night.
+
+Thu, 26 Sep 2024 19:46:24 +0530
+### [Who is the Indian-American attorney representing Haitians, seeking Trump-Vance arrest?](https://www.firstpost.com/explainers/indian-american-attorney-haitians-trump-vance-arrest-13819293.html)
+
+Subodh Chandra, leader of a non-profit representing Haitians in Ohio, filed criminal charges against Donald Trump and JD Vance for spreading false claims about Haitian immigrants eating pets.  
+
+The charges, filed in Clark County Municipal Court, include disrupting public services, making false alarms, telecommunications harassment, aggravated menacing, and complicity. Chandra argues that Trump and Vance's statements, which fueled fear and threats in the community, constitute a knowing and willful flouting of criminal law.  
+
+The Trump campaign responded by claiming Trump was highlighting the failings of the immigration system. The controversy stems from unfounded rumors that Haitian immigrants in Springfield, Ohio, were killing and eating pets,  a narrative amplified by the Republican candidates despite a lack of evidence.  These claims led to numerous bomb threats, school closures, and heightened fear in the Haitian community.
+
 Thu, 26 Sep 2024 19:05:55 +0530
 ### [Could Storm Helene affect Nasa’s plan to rescue Sunita Williams from ISS?](https://www.firstpost.com/world/united-states/could-storm-helene-affect-nasas-plan-to-rescue-sunita-williams-from-iss-13819414.html)
 
