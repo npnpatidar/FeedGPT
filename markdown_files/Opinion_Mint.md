@@ -1,3 +1,12 @@
+Thu, 26 Sep 2024 10:30:00 +0530
+### [Is artificial energy worth all the money and energy it’s guzzling?](https://www.livemint.com/opinion/columns/llma-data-centres-ai-energy-consumption-clean-power-microsoft-nvidia-fossil-fuels-11727314221057.html)
+
+The high energy demands of AI development, particularly for large language models, are prompting a surge in investment towards clean energy. Big Tech companies, facing pressure to meet their net-zero commitments, are seeking reliable green power sources.
+
+While some renewables like wind and solar power are being adopted, their intermittency poses a challenge. This has led companies like Microsoft to explore other options, including reviving the mothballed Three Mile Island nuclear reactor and investing in nuclear fusion and small modular reactors.
+
+Despite the environmental concerns surrounding AI's energy consumption, proponents argue that its potential benefits, such as climate change mitigation and advancements in other fields, outweigh the costs. They believe the development of clean energy solutions necessary for AI will ultimately benefit the planet.
+
 Thu, 26 Sep 2024 08:30:15 +0530
 ### [Genetically modified crops: Widen consultations to reduce food security risks](https://www.livemint.com/opinion/online-views/genetically-modified-crops-agriculture-food-security-gm-foods-crop-yield-food-production-supreme-court-crop-failures-11727313417715.html)
 

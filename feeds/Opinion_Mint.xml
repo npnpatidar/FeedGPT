@@ -5,6 +5,19 @@
 		<link>https://npnpatidar.github.com/FeedGPT/feeds/Opinion_Mint.xml</link>
 		<description>Opinion Mint</description>
 		<item>
+			<title>Is artificial energy worth all the money and energy it’s guzzling?</title>
+			<link>https://www.livemint.com/opinion/columns/llma-data-centres-ai-energy-consumption-clean-power-microsoft-nvidia-fossil-fuels-11727314221057.html</link>
+			<description>The high energy demands of AI development, particularly for large language models, are prompting a surge in investment towards clean energy. Big Tech companies, facing pressure to meet their net-zero commitments, are seeking reliable green power sources.
+
+While some renewables like wind and solar power are being adopted, their intermittency poses a challenge. This has led companies like Microsoft to explore other options, including reviving the mothballed Three Mile Island nuclear reactor and investing in nuclear fusion and small modular reactors.
+
+Despite the environmental concerns surrounding AI's energy consumption, proponents argue that its potential benefits, such as climate change mitigation and advancements in other fields, outweigh the costs. They believe the development of clean energy solutions necessary for AI will ultimately benefit the planet.</description>
+			<pubDate>Thu, 26 Sep 2024 10:30:00 +0530</pubDate>
+			<ai_summary>True</ai_summary>
+			<media:thumbnail url="https://www.livemint.com/lm-img/img/2024/09/26/1600x900/data_1658421186601_1727314636255.jpg"></media:thumbnail>
+			<media:content url="https://www.livemint.com/lm-img/img/2024/09/26/1600x900/data_1658421186601_1727314636255.jpg" medium="image"></media:content>
+		</item>
+		<item>
 			<title>Genetically modified crops: Widen consultations to reduce food security risks</title>
 			<link>https://www.livemint.com/opinion/online-views/genetically-modified-crops-agriculture-food-security-gm-foods-crop-yield-food-production-supreme-court-crop-failures-11727313417715.html</link>
 			<description>India's Supreme Court has called for a national policy on genetically modified (GM) crops after hearing a case regarding approved GM mustard seeds. While the government has formed an expert committee, concerns about its neutrality and potential bias exist due to its opaque composition and the government's history of bypassing broader consultations.  

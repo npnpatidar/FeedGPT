@@ -1,3 +1,26 @@
+Thu, 26 Sep 2024 11:14:51 +0530
+### [Bengaluru fridge murder: Why Mahalakshmi's 'lover' chopped her body and died by suicide days later](https://www.firstpost.com/explainers/bengaluru-fridge-murder-mahalakshmi-lover-suicide-13819155.html)
+
+Mukti Ranjan Ray, the prime suspect in the murder of 29-year-old Bengaluru woman Mahalakshmi, was found dead in Odisha. Ray, who was Mahalakshmi's colleague and reportedly her lover, died by suicide.  A suicide note was recovered in which Ray allegedly confessed to the murder. Police believe that the couple had an argument over marriage and Ray killed Mahalakshmi at her residence. Mahalakshmi's body was discovered chopped into 59 pieces and stuffed into a refrigerator at her home. The gruesome murder shocked the city and has similarities to the 2022 Shraddha Walkar murder case in Delhi.
+
+Thu, 26 Sep 2024 11:08:25 +0530
+### [Canada’s Justin Trudeau survives first no-confidence vote. Why his government isn’t secure still](https://www.firstpost.com/explainers/canada-pm-justin-trudeau-survives-first-no-confidence-vote-why-his-liberal-government-still-not-secure-13819181.html)
+
+Canadian Prime Minister Justin Trudeau narrowly avoided a no-confidence vote brought forward by the Conservative party, which sought to trigger an early election. Despite slipping popularity and public concerns over the cost of living, Trudeau secured enough parliamentary support to remain in office. However, the victory was not decisive, with the opposition parties, particularly the Conservatives and the Bloc Québécois, continuing to pose a threat.
+
+The Bloc Québécois has set conditions for continued support, demanding the passage of two specific bills. Their ultimatum adds pressure to Trudeau's government, which remains vulnerable due to the loss of support from the New Democratic Party. 
+
+While an election is not immediately expected, the political climate in Canada remains highly uncertain. The Conservatives, currently leading in opinion polls, plan to continue their efforts to bring down Trudeau's government.
+
+Thu, 26 Sep 2024 10:11:45 +0530
+### [Explained: What happens if Israel invades Lebanon](https://www.firstpost.com/explainers/israel-ground-invasion-lebanon-hezbollah-war-13819166.html)
+
+Amid escalating tensions, Israel’s top general announced preparations for a potential ground invasion of Lebanon, intending to target Hezbollah positions and facilitate the return of displaced Israelis.  This move comes after days of intense Israeli airstrikes that have killed hundreds and displaced tens of thousands in Lebanon.
+
+Analysts express grave concern that a ground offensive could trigger a full-scale war between Israel and Hezbollah, potentially involving Iran and its regional allies.  Such a conflict is feared to be catastrophic, potentially favoring Hezbollah due to its knowledge of the terrain and significant fighting capacity. 
+
+Some speculate that the ground invasion threat is a tactic to pressure Hezbollah into negotiations, while others condemn it as a risky move that could further isolate Israel internationally. The situation remains highly volatile, with efforts underway to broker a ceasefire.
+
 Thu, 26 Sep 2024 08:56:54 +0530
 ### [What happened to 43 students who disappeared from Mexico in 2014?](https://www.firstpost.com/explainers/what-happened-to-43-students-who-disappeared-from-mexico-in-2014-13818239.html)
 
