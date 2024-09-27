@@ -1,3 +1,10 @@
+Fri, 27 Sep 2024 06:30:12 +0530
+### [FirstUp: Netanyahu to address UNGA, Japan's ruling party to pick new leader... The big news today](https://www.firstpost.com/explainers/firstup-israels-netanyahu-to-address-unga-japan-to-get-a-new-pm-the-big-news-today-13819399.html)
+
+Several key events are taking place around the world today. Israeli Prime Minister Benjamin Netanyahu will address the UN General Assembly amid ongoing conflict with Lebanon and Gaza.  India faces Bangladesh in the second Test match, holding a 1-0 series lead. Japan's ruling Liberal Democratic Party will elect a new leader, who will become the next prime minister. Delhi University Student Union elections will be held, with prominent student groups vying for key positions. 
+
+US Vice President Kamala Harris will visit the US-Mexico border, focusing on border security and immigration reform. In Delhi, Chief Minister Atishi is expected to seek a vote of trust in the Assembly. Finally, e-commerce giants Flipkart and Amazon India will launch their annual festive sales to the general public.
+
 Thu, 26 Sep 2024 20:10:13 +0530
 ### [0 admission in 5000 govt schools in Madhya Pradesh: Why no one wants to enrol in state-run institutions](https://www.firstpost.com/explainers/0-admission-in-5000-govt-schools-in-madhya-pradesh-why-no-one-wants-to-enrol-in-state-run-institutions-13819401.html)
 

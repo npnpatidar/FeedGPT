@@ -1,3 +1,10 @@
+Fri, 27 Sep 2024 07:00:04 +0530
+### [Mint Quick Edit | Pakistan's IMF bailout No. 24 and loan addiction](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-pakistan-imf-bailout-gdp-growth-unemployment-inflation-lending-fiscal-deficit-11727368911044.html)
+
+The IMF has approved a $7 billion loan for Pakistan, marking its 24th bailout since 1958. The previous loan, disbursed last year, is credited with helping to revive Pakistan's economy, leading to economic growth and a decline in inflation.
+
+This new loan comes with conditions, requiring Pakistan to boost tax collections by 3% of GDP over the next three years. This includes expanding the tax base to include farmers and raising domestic energy prices. These reforms are politically challenging but crucial for addressing Pakistan's fiscal deficit and tackling high inflation and unemployment.
+
 Thu, 26 Sep 2024 16:00:07 +0530
 ### [Children’s literature is a generator of human capital](https://www.livemint.com/opinion/online-views/childrens-literature-books-authors-soft-power-human-capital-leisure-reading-education-textbooks-11727336894339.html)
 

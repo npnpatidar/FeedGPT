@@ -1,3 +1,31 @@
+Fri, 27 Sep 2024 01:32:34 +0000
+### [Remembering Gursharan Singh, who took theatre to the rural masses of Punjab](https://indianexpress.com/article/explained/explained-culture/gursharan-singh-9589851/)
+
+Gursharan Singh, known as Bhai Manna Singh and Gursharan Bhaji, was a prominent figure in Punjabi theatre. He dedicated his life to bringing theatre to the people of Punjab, particularly in rural areas, believing they deserved access to cultural expression. Singh started his journey in theatre with the Amritsar Natak Kala Academy and later formed the Punjab Lok Sabhyacharak Manch (PLSM) to promote theatre across the state.  His plays often dealt with social issues, advocating for equality and the rights of women, Dalits, and landless individuals.  He was recognized for his contributions with the Sangeet Natak Akademi Award and his legacy continues to inspire theatre artists across Punjab.
+
+Fri, 27 Sep 2024 01:20:25 +0000
+### [How India-US ties progressed in the presidency of Joe Biden](https://indianexpress.com/article/explained/how-india-us-ties-progressed-in-the-presidency-of-joe-biden-9590338/)
+
+President Biden's tenure has significantly strengthened the relationship between India and the United States. Biden, a long-time proponent of closer ties between the two countries, worked to elevate the US-India relationship during his time as a Senator, Vice President, and Presidential nominee. 
+
+He continued this effort as President, strengthening the Quad grouping and focusing on collaborative efforts in technology, particularly with the Initiative for Critical and Emerging Technology (iCET).  Recent agreements, including a semiconductor fabrication plant in India, highlight this growing technological partnership.  
+
+Despite these advancements, challenges remain, notably concerning the alleged assassination plot against a pro-Khalistan separatist in the US. India needs to address these issues to maintain the trust and respect of its key strategic partner.  With Biden's term ending, India will be closely observing the US elections and the direction the relationship takes with the next administration.
+
+Fri, 27 Sep 2024 01:20:17 +0000
+### [Challenge for oil PSUs: How to get $900 million dividends out of Russia](https://indianexpress.com/article/explained/explained-economics/challenge-for-oil-psus-how-to-get-900-million-dividends-out-of-russia-9590341/)
+
+Indian public sector oil companies are facing challenges repatriating around $900 million in dividend income from Russian investments due to Western sanctions imposed after the war in Ukraine. The money, held in a Russian bank, cannot be easily used for further investment or operational expenses in existing projects. 
+
+While theoretically the dividend income could be used to purchase Russian oil, complexities arise due to jurisdictional issues, sanctions, and the involvement of overseas entities. A solution requires diplomatic efforts and commercial negotiations to navigate these challenges.
+
+Thu, 26 Sep 2024 23:23:01 +0000
+### [Why Pakistan needed another bailout from IMF, what this will entail](https://indianexpress.com/article/explained/explained-global/why-pakistan-needed-another-bailout-from-imf-what-this-will-entail-q-9589899/)
+
+The International Monetary Fund (IMF) approved a $7 billion Extended Fund Facility (EFF) for Pakistan to address its balance of payments issues. This program follows a period of economic crisis exacerbated by the pandemic, the Russia-Ukraine war, and devastating floods. 
+
+Pakistan took steps to stabilize its economy, including securing a short-term SBA from the IMF and implementing measures like increasing electricity prices and committing to tax reforms to widen its tax base. These reforms, however, have been met with criticism as potentially being harsh and unlikely to be successful. Pakistan still faces significant external debt obligations, prompting concerns about its long-term economic stability despite the IMF assistance.
+
 Thu, 26 Sep 2024 12:46:34 +0000
 ### [How Kerala High Court cleared way for use of cooling films on car windscreens](https://indianexpress.com/article/explained/explained-law/how-kerala-high-court-cleared-way-for-use-of-sun-films-on-cars-9589640/)
 

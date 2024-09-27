@@ -1,3 +1,15 @@
+Fri, 27 Sep 2024 01:05:59 +0000
+### [Why the young must draw red lines their bosses cannot cross](https://indianexpress.com/article/opinion/columns/why-the-young-must-draw-red-lines-their-bosses-cannot-cross-9590394/)
+
+This article examines workplace culture and the tragic death of Anna Sebastian Perayil, highlighting the need for change in corporate environments. The author argues that while companies often preach about employee well-being, their actions often prioritize profit over people. 
+
+The author encourages young professionals to challenge demanding work cultures and not accept mistreatment. They suggest employees speak up for their rights, demand respect, and prioritize their mental health. The author also emphasizes the importance of finding a workplace where values align and employees feel heard and valued.  Anna's death, the article states, should serve as a catalyst for meaningful change in how companies treat their employees.
+
+Fri, 27 Sep 2024 01:00:06 +0000
+### [The Third Edit: After brat summer, a Strega Nona moment](https://indianexpress.com/article/opinion/editorials/the-third-edit-after-brat-summer-a-strega-nona-moment-9590373/)
+
+Strega Nona September, an autumn social media trend, highlights the  wisdom found in the 1975 children's book featuring Strega Nona, a gentle witch doctor.  The story encourages mindfulness and embracing a slower pace of life, even amidst our  hustle-driven culture. Like Strega Nona, the trend advocates for finding joy in simplicity, taking breaks from performance, and cherishing personal delights.  It reminds us to  balance the frenetic energy of 'Brat Summer' with the restorative power of  calm and quiet, a lesson that resonates with anyone seeking peace and purpose.
+
 Fri, 27 Sep 2024 00:51:20 +0000
 ### [Derek O’Brien writes: An excess of cess](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-an-excess-of-cess-9590395/)
 
