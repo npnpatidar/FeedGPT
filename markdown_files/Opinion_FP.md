@@ -1,3 +1,10 @@
+Fri, 27 Sep 2024 17:26:27 +0530
+### [Why Quad will stay relevant in Indo-Pacific even beyond November](https://www.firstpost.com/opinion/why-quad-will-stay-relevant-in-indo-pacific-even-beyond-november-13819740.html)
+
+The Quad, an alliance of Australia, India, Japan, and the United States, has grown significantly since its revival in 2017.  The group's focus is on promoting freedom and prosperity in the Indo-Pacific region. At the recent Wilmington Summit, leaders emphasized adherence to international law in the South China Sea, condemning Chinese actions and reaffirming support for the 2016 Arbitral Award.  
+
+The Quad has expanded its areas of cooperation beyond its initial focus on supply chains and Covid vaccines to include maritime security, cancer research, infrastructure development, education, and disaster relief.  New initiatives like the Maritime Initiative for Training in the Indo-Pacific (MAITRI) and the Quad Ports of the Future Partnership were announced.  The future of the Quad appears strong, despite anticipated leadership changes in member countries, as leaders are committed to furthering its goals.
+
 Fri, 27 Sep 2024 15:32:18 +0530
 ### [Don’t let the chips fall: Why India’s semiconductor push is a step in right direction](https://www.firstpost.com/opinion/dont-let-the-chips-fall-why-indias-semiconductor-push-is-a-step-in-right-direction-13819688.html)
 

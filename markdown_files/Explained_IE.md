@@ -1,3 +1,20 @@
+Fri, 27 Sep 2024 12:02:19 +0000
+### [Shigeru Ishiba to become Japan’s next Prime Minister: 5 things you need to know](https://indianexpress.com/article/explained/explained-global/shigeru-ishiba-japan-next-prime-minister-9591407/)
+
+Shigeru Ishiba, whose victory signifies a potential shift in Japanese politics, replaces Fumio Kishida as Prime Minister.  Known for his contrarian views, Ishiba previously clashed with prominent figures like Shinzo Abe. This election, dubbed unpredictable, saw him triumph over Sanae Takaichi, a candidate backed by Abe’s legacy. Ishiba's stance on security aligns with Japan's growing assertiveness on the global stage, advocating for greater oversight of US military bases and a strengthened regional security alliance. His focus on national security and concerns about economic stagnation resonate with the public.  
+
+
+He pledges to address Japan’s economic challenges, including inflation and stagnation, by departing from traditional monetary easing policies. Ishiba's victory has prompted reactions in financial markets, reflecting his potential impact on Japan's economic direction.
+
+Fri, 27 Sep 2024 10:18:52 +0000
+### [Why are sea levels rising?](https://indianexpress.com/article/explained/explained-climate/sea-levels-rising-9591199/)
+
+Global sea levels are rising at unprecedented rates due to climate change.  Since 1880, they've risen over 20 cm, accelerating with each decade. This is primarily caused by the thermal expansion of warming ocean waters and the melting of ice sheets and glaciers.
+
+The impacts are widespread, threatening low-lying islands, coastal communities, and major cities. Areas with high populations near coastlines are most vulnerable, facing erosion, saltwater intrusion, flooding, and storm surges.
+
+While reducing global emissions is crucial to mitigate future sea level rise, adaptation measures are also needed. These include sea walls, improved drainage systems, nature-based solutions like mangrove regeneration, and in some cases, relocating entire communities.
+
 Fri, 27 Sep 2024 08:50:06 +0000
 ### [Karnataka government withdraws ‘general consent’ to CBI: What it means](https://indianexpress.com/article/explained/everyday-explainers/karnataka-withdraw-cbi-general-consent-9591040/)
 

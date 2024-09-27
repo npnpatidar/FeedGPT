@@ -1,3 +1,10 @@
+Fri, 27 Sep 2024 11:20:21 +0000
+### [Dhaka taught me to be brave, to believe that change is possible](https://indianexpress.com/article/opinion/columns/dhaka-change-possible-9591326/)
+
+The author reflects on her complex relationship with Dhaka, Bangladesh, where she was born and later returned after childhood moves around the country. Growing up, she experienced a sense of community but also the harsh realities of gender inequality in Bangladeshi society. 
+
+Returning to Dhaka as an adult brought both painful memories of a failed marriage and a newfound sense of purpose. Witnessing Dhaka's recent student-led protests for justice and equality inspired her to stand alongside them, finding strength and courage in their fight. Although Dhaka presented challenges, she ultimately considers it her home, a place where she has grown, faced adversity, and contributed to its evolution.
+
 Fri, 27 Sep 2024 06:33:04 +0000
 ### [Ahead of her birthday, remembering my sister and her ‘Narendra bhai’ – the bond between Lata Mangeshkar and PM Modi](https://indianexpress.com/article/opinion/columns/lata-mangeshkar-borthday-narendra-modi-relationship-9590840/)
 

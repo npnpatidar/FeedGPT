@@ -1,3 +1,26 @@
+Fri, 27 Sep 2024 16:57:56 +0530
+### [How India’s bid for permanent UNSC seat just got a big boost](https://www.firstpost.com/explainers/how-indias-bid-for-permanent-unsc-seat-just-got-a-big-boost-13819737.html)
+
+India's bid for a permanent seat on the United Nations Security Council (UNSC) is gaining momentum with support from prominent world leaders including the UK's Keir Starmer and France's Emmanuel Macron.  India views the current global order as unfair and outdated, advocating for a more diverse and equitable UNSC.  
+
+However, expansion faces several hurdles.  The UN Charter requires a two-thirds majority vote from member states and approval by all five existing permanent members (P5) - the US, UK, Russia, China and France.  China, in particular, opposes India's inclusion due to geopolitical rivalry in the region.  Additionally, the US and other P5 members have previously suggested new permanent members should not have veto power, a stipulation India strongly opposes.  Despite these challenges, India continues to push for UN reforms, emphasizing its large population,  commitment to peaceful conflict resolution, and its belief that a reformed UNSC is crucial for global peace and development.
+
+Fri, 27 Sep 2024 16:57:00 +0530
+### [Mpox in India: What are the new dos and dont's issued by the Centre?](https://www.firstpost.com/health/mpox-in-india-what-are-the-new-dos-and-donts-issued-by-the-centre-13819645.html)
+
+Following two mpox cases in Kerala, India, the Union Health Ministry has issued new advisories to states and territories. These advisories emphasize the need for enhanced infection prevention and control measures.  States are urged to increase public awareness about mpox, its transmission, and preventive measures.  
+
+Immediate isolation of suspected cases is crucial, along with the establishment of adequate isolation facilities.  States are also instructed to strengthen diagnostic capabilities by utilizing ICMR-approved laboratories and PCR kits. The Ministry is urging symptomatic treatment and immediate reporting of suspected cases to contain the spread of the virus.
+
+Fri, 27 Sep 2024 16:28:44 +0530
+### [Israel-Hezbollah conflict: How countries are preparing to evacuate nationals from war-torn Lebanon](https://www.firstpost.com/explainers/israel-hezbollah-conflict-evacuation-operations-lebanon-13819656.html)
+
+The escalating conflict between Israel and Hezbollah in Lebanon has prompted numerous countries to initiate evacuation plans for their citizens.  Countries like India, Australia, France, and the United Kingdom have issued advisories urging their nationals to leave Lebanon immediately.  
+
+Cyprus and potentially Turkey are seen as primary options for evacuation, with countries like the US and Canada making arrangements for maritime evacuations.  
+
+France, the UK, and the US have deployed troops and resources to the region, while Greece and Japan are assisting with their citizens' departure. Meanwhile, Israel continues its military operations despite international calls for a ceasefire, raising concerns about a potential regional war.
+
 Fri, 27 Sep 2024 15:43:30 +0530
 ### [What are the Param Rudra supercomputers that India has developed?](https://www.firstpost.com/explainers/param-rudra-supercomputers-india-13819593.html)
 

@@ -1,3 +1,33 @@
+Fri, 27 Sep 2024 17:44:59 +0530
+### [‘Hitler’ movie review: Vijay Antony’s revenge drama is outdated and ordinary](https://www.thehindu.com/entertainment/movies/hitler-movie-review-vijay-antonys-revenge-drama-is-outdated-and-ordinary/article68690091.ece)
+
+"Hitler", Vijay Antony's latest film, unfortunately follows the pattern of his recent works, prioritizing quantity over quality. The film relies on a predictable plot and familiar tropes, reminiscent of older vigilante movies. While it attempts to introduce some twists, they lack impact and add little to the overall narrative. 
+
+Despite a decent performance by Riya Suman as the female lead, Vijay Antony's portrayal of Selva comes across as unconvincing. Charanraj, returning to Tamil cinema after a long break, plays a one-dimensional politician whose actions appear comical rather than menacing.  The film fails to delve into its political backdrop effectively, resulting in a watered-down vigilante actioner that lacks both substance and entertainment value.
+
+Fri, 27 Sep 2024 17:22:14 +0530
+### [‘Cup’ movie review: An uninspiring sports drama that lacks any flair](https://www.thehindu.com/entertainment/movies/cup-movie-review-an-uninspiring-sports-drama-that-lacks-any-flair/article68690176.ece)
+
+"Cup", a Malayalam sports drama, follows Nidhin Babu, a young badminton player striving to become district champion. Despite the film exploring themes of friendship, romance, and familial support, it lacks compelling conflict and emotional depth. The obstacles Nidhin faces feel manufactured, and the supporting characters, including Basil Joseph and Namitha Pramod, are underutilized. While attempting to depict the world of badminton, the film's portrayal of the sport itself is lackluster and devoid of excitement. Overall, "Cup" fails to deliver a captivating sports drama experience.
+
+Fri, 27 Sep 2024 16:58:46 +0530
+### [‘Binny And Family’ movie review: Anjini Dhawan and Pankaj Kapur bridge the generation gap in this heartfelt family drama](https://www.thehindu.com/entertainment/movies/binny-and-family-movie-review-anjini-dhawan-and-pankaj-kapur-bridge-the-generation-gap-in-this-heartfelt-family-drama/article68690117.ece)
+
+"Binny And Family" explores the dynamics of an immigrant family in London.  Binny, a teenager on the cusp of adulthood, navigates the balance between her ambitions and her family's traditional values. 
+
+The arrival of her grandparents adds a new layer of complexity, forcing the family to confront their cultural identity and expectations. A health scare brings a deeper understanding of their bond. 
+
+Through relatable conversations and honest performances, the film underlines the importance of respecting elders and embracing change.  Anjini Dhawan's debut is promising, and Pankaj Kapur delivers a nuanced portrayal of a grandfather. Despite some predictable moments, "Binny And Family" offers a heartwarming reflection on family, culture, and generational understanding.
+
+Fri, 27 Sep 2024 16:36:17 +0530
+### [‘All We Imagine as Light’ movie review: Payal Kapadia’s radiant ode to a city and its outsiders](https://www.thehindu.com/entertainment/movies/all-we-imagine-as-light-movie-review-payal-kapadias-radiant-ode-to-a-city-and-its-outsiders/article68689006.ece)
+
+Payal Kapadia's debut feature, "All We Imagine as Light," shifts the focus from the romanticized image of Mumbai's resilience to the lives of its marginalized inhabitants. The film centers around three women—Malayali nurses Prabha and Anu, and Parvaty, an hospital employee—who navigate the city's complexities and personal struggles. 
+
+While their work and daily challenges are present, the film delves deeper into their inner lives, exploring desires, disappointments, and societal pressures.
+
+Their individual experiences, ranging from Prabha's faded love to Anu's budding romance and Parvaty's imminent eviction, highlight the diverse realities of those who call Mumbai home. Despite their personal adversities, the women find solace and strength in their shared experiences, forming a bond that transcends their individual struggles. The film blends lyrical introspection with glimpses of Mumbai's vibrant cityscape, leaving the audience with a poignant reflection on the city's essence and the resilience of its outsiders.
+
 Fri, 27 Sep 2024 14:40:30 +0530
 ### [‘Devara: Part 1’ movie review: Jr NTR and Anirudh amp up the intensity in an overstretched action drama](https://www.thehindu.com/entertainment/movies/devara-part-1-movie-review-jr-ntr-and-anirudh-amp-up-the-intensity-in-an-overstretched-action-drama/article68685830.ece)
 
