@@ -1,3 +1,8 @@
+Fri, 27 Sep 2024 09:00:18 +0530
+### [How Laurene Powell Jobs, Steve Jobs’ widow, has played a role in the rise of Kamala Harris](https://www.firstpost.com/explainers/laurene-powell-jobs-steve-jobs-widow-kamala-harris-rise-us-presidential-election-13819444.html)
+
+Laurene Powell Jobs, a billionaire philanthropist and longtime friend of Kamala Harris, has reportedly played a significant role in Harris's political ascent. Powell Jobs, founder of Emerson Collective, has provided financial support and counsel to Harris for many years,  beginning with Harris's first run for office.  She has organized fundraisers, made substantial campaign donations, and is said to have encouraged female tech leaders to support Harris. The New York Times reports that Powell Jobs also played a behind-the-scenes role in encouraging Joe Biden to step aside during the 2020 presidential race, paving the way for Harris to become the Democratic nominee.
+
 Fri, 27 Sep 2024 06:30:12 +0530
 ### [FirstUp: Netanyahu to address UNGA, Japan's ruling party to pick new leader... The big news today](https://www.firstpost.com/explainers/firstup-israels-netanyahu-to-address-unga-japan-to-get-a-new-pm-the-big-news-today-13819399.html)
 

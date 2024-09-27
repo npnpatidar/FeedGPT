@@ -1,3 +1,8 @@
+Fri, 27 Sep 2024 08:30:08 +0530
+### [Coldplay fans have a point: There must be a better way to sell gig tickets](https://www.livemint.com/opinion/online-views/coldplay-concert-tickets-bookmyshow-scalped-tickets-diljit-dosanjh-ticket-prices-ed-sheeran-dua-lipa-taylor-swift-ai-11727368961141.html)
+
+The high demand for Coldplay concert tickets in India led to a surge in prices, leaving many fans frustrated. While primary tickets were expensive, scalpers further inflated prices, making it unaffordable for many. This situation raises questions about the balance between market forces and ensuring access for budget-bound fans.  The article discusses various attempts by artists like Taylor Swift and Coachella to combat scalping, but notes the challenges involved. It suggests exploring innovative systems that combine auction-style pricing with fan-loyalty programs, potentially aided by AI, to create a fairer ticketing system.
+
 Fri, 27 Sep 2024 07:00:04 +0530
 ### [Mint Quick Edit | Pakistan's IMF bailout No. 24 and loan addiction](https://www.livemint.com/opinion/quick-edit/mint-quick-edit-pakistan-imf-bailout-gdp-growth-unemployment-inflation-lending-fiscal-deficit-11727368911044.html)
 
