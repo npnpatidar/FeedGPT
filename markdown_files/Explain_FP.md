@@ -1,3 +1,20 @@
+Fri, 27 Sep 2024 19:34:33 +0530
+### [How supermodel Noami Campbell spent charity funds on spas, cigarettes](https://www.firstpost.com/explainers/how-supermodel-noami-campbell-spent-charity-funds-on-spas-cigarettes-13819790.html)
+
+A UK watchdog investigation found that Naomi Campbell's charity, Fashion for Relief, diverted funds intended for poverty relief towards personal expenses for Campbell, including spa treatments, luxury hotel stays, and cigarettes. The Charity Commission criticized the organization's poor governance and financial management, stating that only a small percentage of the charity's earnings went to its intended causes. As a result, Campbell has been banned from leading any charity in England and Wales for five years. Two co-trustees have also been banned from serving as trustees for several years. The charity has since been dissolved. Campbell expressed concern over the findings and claimed to be investigating the matter.
+
+Fri, 27 Sep 2024 19:31:20 +0530
+### [Why approval of KarXT, the first new drug for schizophrenia in decades, is a big deal](https://www.firstpost.com/world/united-states/why-approval-of-karxt-the-first-new-drug-for-schizophrenia-in-decades-is-a-big-deal-13819853.html)
+
+The US FDA has approved KarXT (Cobenfy), a new antipsychotic drug for schizophrenia, offering hope for patients as the first new type of treatment in decades. Unlike existing antipsychotics that target dopamine receptors and often cause side effects like weight gain and movement disorders, KarXT works differently by addressing acetylcholine levels.  Clinical trials showed a significant reduction in schizophrenia symptoms for patients taking KarXT compared to a placebo. Experts are hopeful, calling it a potential "game changer," but more research is needed on its long-term efficacy and possible side effects. Concerns remain about the twice-daily dosing schedule and high cost. While not a cure, KarXT provides a promising new avenue for managing schizophrenia.
+
+Fri, 27 Sep 2024 18:03:36 +0530
+### [Presidents of the United States: Joe Biden, a life of tragedy and service to country](https://www.firstpost.com/world/united-states/presidents-of-the-united-states-joe-biden-a-life-of-tragedy-and-service-to-country-13819802.html)
+
+Joseph Robinette Biden Jr., the 46th President of the United States, is marked by a life defined by tragedy and service. Born in Scranton, Pennsylvania, he served as a prosecutor before entering politics and becoming a senator in 1972. His career was impacted by the devastating loss of his wife and daughter in a car accident, but he persevered.  Biden's time in the Senate was notable, particularly his chairmanship of the Foreign Relations Committee. His presidential aspirations faced setbacks, including a plagiarism scandal in 1988 and an unsuccesful 2008 campaign. 
+
+His role as Barack Obama's vice president from 2009 to 2017 significantly raised his national profile, particularly among Black voters. His candidacy in 2020 struggled initially but gained momentum after securing Black support and the backing of the Democratic establishment. He defeated Donald Trump in a closely contested election, marked by the COVID-19 pandemic. As president, Biden prioritized healing political divisions, enacting the Inflation Reduction Act, and revitalizing the economy. His age ultimately led to him forgoing a re-election bid.
+
 Fri, 27 Sep 2024 16:57:56 +0530
 ### [How India’s bid for permanent UNSC seat just got a big boost](https://www.firstpost.com/explainers/how-indias-bid-for-permanent-unsc-seat-just-got-a-big-boost-13819737.html)
 
