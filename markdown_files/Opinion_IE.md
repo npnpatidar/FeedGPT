@@ -1,3 +1,51 @@
+Fri, 27 Sep 2024 00:51:20 +0000
+### [Derek O’Brien writes: An excess of cess](https://indianexpress.com/article/opinion/columns/derek-obrien-writes-an-excess-of-cess-9590395/)
+
+The article criticizes the increasing use of cesses by the Union government, arguing that it undermines federalism and reduces the financial autonomy of states. It points out that while the 14th Finance Commission recommended increasing tax devolution to states, the rise in cess has effectively shrunk the divisible pool of taxes. 
+
+The article cites CAG reports highlighting the improper utilization of cess funds and the fact that the government has withheld significant sums collected through cesses. It also argues that despite the increased reliance on cess, the Union government's revenue receipts have not seen substantial growth.
+
+The writer concludes by referencing the recommendations of past commissions, which advocated for limiting the use of cesses and surcharges, and laments the disregard for these recommendations.
+
+Fri, 27 Sep 2024 00:30:54 +0000
+### [Avijit Pathak writes on toxic work culture: Imagine a life outside the office](https://indianexpress.com/article/opinion/columns/avijit-pathak-writes-on-toxic-work-culture-imagine-a-life-outside-the-office-9590393/)
+
+A letter cautions ambitious young adults against solely pursuing work and materialistic success. It urges them to prioritize meaningful work, self-reflection, and experiences beyond the corporate world. Citing the tragic death of a young accountant, the letter warns of the dehumanizing nature of a work culture focused on "productivity" and "efficiency." It challenges the definition of success and questions whether material possessions and achievements truly bring fulfillment.  The letter encourages readers to distinguish between genuine needs and artificial desires, and to value experiences that nourish the soul and connect them to something greater.
+
+Fri, 27 Sep 2024 00:16:35 +0000
+### [Express View on 2020 Delhi riot cases: Delayed and denied](https://indianexpress.com/article/opinion/editorials/express-view-on-2020-delhi-riot-cases-delayed-and-denied-9590372/)
+
+The justice system's principle of "innocent until proven guilty" is often ignored, as seen in the prolonged bail hearings of those accused in the 2020 Delhi riots. Despite Supreme Court rulings emphasizing bail as the norm, these individuals have been incarcerated for over four years without their trials commencing.  The Delhi High Court's delays and reserved verdicts  contradict the Supreme Court's expectations for safeguarding citizens' liberty and ensuring a timely resolution to legal proceedings. The new bench presiding over the bail pleas must expedite its decision, upholding the principles of justice and timely adjudication.
+
+Fri, 27 Sep 2024 00:14:13 +0000
+### [Express View on employment data: The elusive jobs](https://indianexpress.com/article/opinion/editorials/express-view-on-employment-data-the-elusive-jobs-9590371/)
+
+The Indian economy is projected to grow at 7.2%, with positive forecasts for the coming years. However, concerns about the quality of job creation persist.  The Indian labour force participation rate has increased, largely driven by a surge in female participation, particularly in rural areas.  A significant proportion of women are engaged in self-employment, indicating a lack of formal job opportunities. A majority of the workforce is employed in the informal sector, with agriculture still employing a considerable share while manufacturing remains stagnant.  Although unemployment has declined, youth and educated unemployment rates remain high. The key challenge for India is to create more remunerative and productive job opportunities to address these concerns.
+
+Fri, 27 Sep 2024 00:11:37 +0000
+### [How to deal with the national security risk from FDI and trade](https://indianexpress.com/article/opinion/columns/how-to-deal-with-the-national-security-risk-from-fdi-and-trade-9590370/)
+
+India's approach to managing foreign direct investment (FDI) through national security concerns lacks a comprehensive legal framework. While the government has implemented measures like Presidential Order 3 (PN3) to regulate FDI from land-bordering countries, these measures are enforced under the Foreign Exchange Management Act (FEMA), a law primarily focused on foreign exchange management.  
+
+This lack of a dedicated national security law creates a legal vacuum, making India vulnerable to challenges at international courts. Unlike India, many liberal democracies have specific laws enabling them to screen and potentially block FDI deemed detrimental to national security.  This legislative gap is further underscored by India's international treaty obligations, which often contain separate provisions addressing both exchange control and national security concerns in investment agreements.  
+
+Therefore, it's crucial for India to enact a dedicated law addressing national security risks posed by FDI and international trade to ensure a robust and legally sound approach to managing these concerns.
+
+Fri, 27 Sep 2024 00:04:56 +0000
+### [A rape accused was killed in a police vehicle. That’s not the end of the story](https://indianexpress.com/article/opinion/columns/a-rape-accused-was-killed-in-a-police-vehicle-thats-not-the-end-of-the-story-9590295/)
+
+The killing of a rape accused inside a police vehicle in Thane has raised serious questions. The accused, a janitor at a school for young girls, was arrested after two four-year-old students reported being raped. Public anger against the government intensified after the incident. 
+
+The incident took place amidst political campaigning for the Maharashtra state assembly elections. The ruling Mahayuti coalition, facing accusations of failing to protect women and children, saw an opportunity for political gain when the accused was killed in a staged encounter.  
+
+Publicly, the police claimed the encounter happened when the accused snatched the officer's pistol, however, this explanation is widely considered unbelievable and amateurish.  The incident echoes a similar case in Hyderabad where alleged rapists were killed by police, although it ultimately backfired with the ruling party losing subsequent elections. This Thane case also raises concerns about the validity and justice of these encounters, questioning the motives behind the alleged killing and highlighting potential abuses of power.
+
+Fri, 27 Sep 2024 00:00:28 +0000
+### [September 27, 1984, Forty Years Ago: Zail Singh Cleared](https://indianexpress.com/article/opinion/40-years-ago/september-27-1984-forty-years-ago-zail-singh-cleared-9590374/)
+
+The Sikh high priests cleared President Zail Singh of the charges against him, accepting his explanation and ending the "tankhaiya" declaration. India and China are exchanging ambassadors, with Li Liangqing heading to India and K P S Menon going to China. Congress-I MP S S Mohapatra faces disciplinary action for criticizing Chief Minister J B Patnaik. 
+To address conflicts in the Delhi Pradesh Congress Committee (I), Prime Minister Indira Gandhi and Rajiv Gandhi will address a convention on September 28th.
+
 Thu, 26 Sep 2024 13:10:26 +0000
 ### [I’m childfree, not childless. This is what it means](https://indianexpress.com/article/opinion/columns/im-childfree-not-childless-this-is-what-it-means-9589771/)
 
