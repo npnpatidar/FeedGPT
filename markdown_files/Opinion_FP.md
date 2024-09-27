@@ -1,3 +1,12 @@
+Fri, 27 Sep 2024 11:44:23 +0530
+### [How India can learn from Israel that terror cannot be tolerated](https://www.firstpost.com/opinion/how-india-can-learn-from-israel-that-terror-cannot-be-tolerated-13819590.html)
+
+Both Israel and India face significant and constant terror threats, sponsored by Iran and Pakistan respectively.  For years, they accepted terrorism as a reality, but recent events have forced a shift in Israel's approach. 
+
+Israel's past strategy of "mowing the grass" – periodically degrading terror capabilities – proved ineffective. The recent Hamas attack led Israel to adopt a more assertive approach, including targeted assassinations and disrupting terror infrastructure. This strategy, combined with concrete intelligence gathering,  is disrupting Hamas and Hezbollah, showcasing the  limited effectiveness of the old approach.
+
+The article challenges Indian policymakers to  adopt a similar approach, strategically eliminating terror leaders and disrupting the network of terror sponsors like Pakistan.  Assassination and targeted disruption,  it argues, are more effective than inaction or limited counterterrorism measures.
+
 Thu, 26 Sep 2024 18:09:35 +0530
 ### [Cabinet approval for Chandrayaan-4: Great power competition heats up in space](https://www.firstpost.com/opinion/cabinet-approval-for-chandrayaan-4-great-power-competition-heats-up-in-space-13819419.html)
 

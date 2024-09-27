@@ -1,3 +1,26 @@
+Fri, 27 Sep 2024 11:30:39 +0530
+### [Pressure of marriage, fights... What brew between Mahalakshmi, lover before Bengaluru murder?](https://www.firstpost.com/explainers/marriage-pressure-fights-mahalakshmi-bengaluru-fridge-murder-13819537.html)
+
+Mukti Ranjan Ray, 30, murdered Mahalakshmi, a 29-year-old colleague and romantic partner, in Bengaluru. The couple had been involved in a tumultuous relationship marked by constant fights and Ray's alleged mental harassment for marriage. Ray struck Mahalakshmi on the head during a heated argument and murdered her on September 3 and 4.
+
+He dismembered her body into 59 pieces and stored them in a refrigerator. After confessing to his brother, Ray fled Bengaluru and subsequently committed suicide in Odisha on September 25. In his suicide note, Ray expressed frustration with Mahalakshmi's constant fights and demands, stating that he was "fed up" with her.
+
+Fri, 27 Sep 2024 11:18:56 +0530
+### [Hurricane Helene to cause 20-foot storm surge in Florida? What is it? How dangerous is this threat?](https://www.firstpost.com/world/united-states/hurricane-helene-to-cause-20-foot-storm-surge-in-florida-what-is-it-how-dangerous-is-this-threat-13819559.html)
+
+Hurricane Helene made landfall in Florida as a Category 4 storm, bringing winds up to 140 mph and a life-threatening storm surge of up to 20 feet. Officials urged immediate evacuations for low-lying areas from Tallahassee to Sarasota. The storm surge, fueled by record-high ocean temperatures, is expected to cause catastrophic damage and flooding. Helene also carries the threat of damaging winds, flash flooding, and tornadoes across the southeastern US. Over 1 million homes and businesses in Florida have lost power, with widespread outages reported in Georgia.  Two people have already been killed in Georgia, and one in Florida.  The combination of high winds, storm surge, and heavy rain threatens to turn the Florida coastline into a disaster zone.
+
+Fri, 27 Sep 2024 10:41:49 +0530
+### [From luxury travel to illegal donations, the corruption charges against New York Mayor Eric Adams](https://www.firstpost.com/explainers/new-york-city-mayor-eric-adams-corruption-charges-us-indictment-13819558.html)
+
+New York City Mayor Eric Adams faces charges of bribery and fraud stemming from allegations of accepting luxury travel and illegal campaign contributions from Turkish individuals.  The 57-page indictment details trips Adams reportedly received in exchange for favors, including pressuring a fire department official to expedite the opening of a Turkish consular building.  Adams, who vehemently denies the charges, faces a maximum sentence of decades in prison if convicted. 
+
+Calls for his resignation have grown, with New York Governor Kathy Hochul vowing to "review my options and obligations." Adams, however, maintains his innocence and insists on remaining in office to lead the city. 
+
+
+
+The case has significant implications for Adams' political future, potentially complicating his reelection bid in 2025.  He is scheduled to appear in court to address the charges.
+
 Fri, 27 Sep 2024 09:00:18 +0530
 ### [How Laurene Powell Jobs, Steve Jobs’ widow, has played a role in the rise of Kamala Harris](https://www.firstpost.com/explainers/laurene-powell-jobs-steve-jobs-widow-kamala-harris-rise-us-presidential-election-13819444.html)
 
