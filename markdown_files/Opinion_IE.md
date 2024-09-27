@@ -1,3 +1,10 @@
+Fri, 27 Sep 2024 06:33:04 +0000
+### [Ahead of her birthday, remembering my sister and her ‘Narendra bhai’ – the bond between Lata Mangeshkar and PM Modi](https://indianexpress.com/article/opinion/columns/lata-mangeshkar-borthday-narendra-modi-relationship-9590840/)
+
+Hridaynath Mangeshkar describes the profound bond between his sister, Lata Mangeshkar, and Prime Minister Narendra Modi, which extended beyond admiration and into a familial connection. They shared a deep respect for India and personal interests like cricket and food. Modi always called Lata Didi , affectionately, and she, in turn, extended rakhis to him. Their final phone call, on Lata Didi's 90th birthday, was filled with emotion and highlighted Modi's admiration for her musical legacy.  Modi, who considered "Aye Mere Watan Ke Logon" a particularly special song, demonstrated his care by sending doctors to examine her when she had health issues. He supported her vision of having Narendra Modi as India's leader, which later came true. 
+
+After Lata Mangeshkar's passing, Modi personally oversaw the creation of a memorial in Ayodhya and awarded her with the first Lata Mangeshkar Award. This continued support for her legacy, manifested in personal attention and actions, deeply touched the family and solidified the unique bond between them.
+
 Fri, 27 Sep 2024 01:05:59 +0000
 ### [Why the young must draw red lines their bosses cannot cross](https://indianexpress.com/article/opinion/columns/why-the-young-must-draw-red-lines-their-bosses-cannot-cross-9590394/)
 

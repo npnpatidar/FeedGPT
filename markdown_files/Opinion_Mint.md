@@ -1,3 +1,20 @@
+Fri, 27 Sep 2024 12:48:13 +0530
+### [Ritesh Agarwal's ambitions for Oyo are still intact](https://www.livemint.com/opinion/online-views/ritesh-agarwal-oyo-ipo-motel-6-hotel-blackstone-nykaa-policybazaar-cartrade-zomato-11727419049268.html)
+
+Oyo's recent acquisition of Motel 6 for $525 million from Blackstone is strategically significant.  The deal significantly expands Oyo's presence in the US market and is projected to boost its profitability in the near term. The expectation is for Motel 6 to contribute ₹630 crore to Oyo's EBITDA by FY26, pushing the company's overall EBITDA to ₹2,000 crore. This improved financial performance positions Oyo well for a successful public listing in the coming years, especially given the recent positive turnaround in the stock market performance of Indian internet companies.
+
+
+Despite facing setbacks and a significant decline in valuation since its 2019 peak, Oyo has stabilized under the leadership of Ritesh Agarwal. Its first annual net profit last year indicates a positive trajectory, further strengthened by the Motel 6 acquisition. While a full recovery to the 2019 valuation may take several years, the company's focus on profitability and strategic expansion through acquisitions suggests a promising future for Oyo.
+
+Fri, 27 Sep 2024 12:30:14 +0530
+### [Time for India to revamp the Income Tax Act and ease compliance burdens](https://www.livemint.com/opinion/online-views/income-tax-act-tax-filing-taxation-tax-compliance-taxpayers-tax-revenue-litigation-indian-economy-11727417030912.html)
+
+The Income-tax Act, 1961, which has governed India's income taxation for over six decades, is set for a comprehensive review. The government aims to simplify the Act, making it more concise, lucid, and easier to understand.  This move is intended to reduce tax disputes and litigation, improve compliance, and provide certainty for taxpayers. 
+
+This isn't the first attempt at reforming the Act. Previous drafts and committees have proposed changes, and recent budgets have introduced certain simplifications like the simplified tax regime. Despite these efforts, India's tax legislation remains complex, leading to ongoing disputes and legal challenges. 
+
+The government has taken steps to mitigate litigation, including simplifying procedures and offering settlement mechanisms like Vivad Se Vishwas.  Tax authorities have also adopted technology to enhance monitoring and taxpayer convenience.  The proposed revamp of the Income-tax Act is crucial for a more efficient and taxpayer-friendly tax system that supports India's economic growth.
+
 Fri, 27 Sep 2024 08:30:08 +0530
 ### [Coldplay fans have a point: There must be a better way to sell gig tickets](https://www.livemint.com/opinion/online-views/coldplay-concert-tickets-bookmyshow-scalped-tickets-diljit-dosanjh-ticket-prices-ed-sheeran-dua-lipa-taylor-swift-ai-11727368961141.html)
 

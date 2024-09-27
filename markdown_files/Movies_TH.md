@@ -1,3 +1,17 @@
+Fri, 27 Sep 2024 12:56:11 +0530
+### [‘Meiyazhagan’ movie review: Karthi and Arvind Swami shoulder this spirited bromance drama](https://www.thehindu.com/entertainment/movies/meiyazhagan-movie-review-karthi-and-arvind-swami-shoulder-this-spirited-bromance-drama/article68688040.ece)
+
+"Meiyazhagan" is a character-driven drama that explores the nuances of human emotions and relationships. Directed by C Prem Kumar, the film follows Arul, a reticent urban man who returns to his hometown after years.  He encounters his cousin, whose carefree nature contrasts sharply with Arul's reserved personality.  
+
+As they navigate their shared past and present, their unlikely bond deepens.   Prem Kumar's direction is meticulous, with beautiful cinematography and a lilting score. The film excels in showcasing the complexities of interpersonal connections, highlighting both moments of joy and sorrow.  Arvind Swami and Karthi deliver powerful performances, bringing depth and nuance to their characters. While some may find the runtime excessive and the ending predictable, "Meiyazhagan" is ultimately a heartfelt and well-crafted film that lingers in the mind long after the credits roll.
+
+Fri, 27 Sep 2024 12:32:39 +0530
+### [‘Love, Sitara’ movie review: Pre-wedding blues with Sobhita Dhulipala](https://www.thehindu.com/entertainment/movies/love-sitara-movie-review-pre-wedding-blues-with-sobhita-dhulipala/article68689328.ece)
+
+"Love, Sitara" follows Tara, a successful interior designer, and Arjun, a chef, as they navigate their tumultuous relationship leading up to a planned marriage.  When Tara discovers she's pregnant, she proposes marriage, leading to a series of family gatherings and concealed truths.  The film delves into Tara's internal conflict and the unraveling of her family's dynamics. 
+
+While the film features strong performances, particularly from Sobhita Dhulipala and Ikhlaque Khan, the writing is inconsistent, wavering between English and Hindi and leaning towards  clichéd dialogue. The portrayal of family drama feels artificial, lacking the depth explored in director Vandana Kataria's previous work.
+
 Thu, 26 Sep 2024 17:16:43 +0530
 ### [‘Wolfs’ movie review: George Clooney and Brad Pitt turn up the charm for this smooth operation](https://www.thehindu.com/entertainment/movies/wolfs-movie-review-george-clooney-and-brad-pitt-turn-up-the-charm-for-this-smooth-operation/article68686000.ece)
 

@@ -1,3 +1,22 @@
+Fri, 27 Sep 2024 13:40:03 +0530
+### [Why China seethes as Indian team names Arunachal peak after Dalai Lama](https://www.firstpost.com/explainers/china-indian-mountaineering-team-arunachal-pradesh-peak-dalai-lama-india-tibet-13819626.html)
+
+China objects to an Indian mountaineering team naming a peak in Arunachal Pradesh after the 6th Dalai Lama. Beijing claims the entire state, which it calls "Zangnan," as its own territory and considers the naming of the peak a violation of its sovereignty. This incident is part of a larger dispute between India and China over Arunachal Pradesh, which India considers an integral part of its territory. 
+
+China's reaction is particularly sensitive as the Dalai Lama is a revered figure in Tibet, which China annexed in 1951.  China sees the Dalai Lama as a separatist and seeks to control the selection of his reincarnation, believing it holds significant sway over Tibetan sentiment.
+
+Fri, 27 Sep 2024 13:28:31 +0530
+### [Why ‘sinking’ of China’s new nuclear submarine is a big blow to its navy](https://www.firstpost.com/explainers/why-sinking-of-china-new-nuclear-submarine-is-a-big-blow-to-its-navy-13819596.html)
+
+China's ambitious naval expansion suffered a setback when its newest nuclear-powered attack submarine, the Zhou-class, reportedly sank at a shipyard in May or June 2024. While the exact cause remains unclear, the incident, confirmed by US intelligence sources, has raised concerns about the PLA Navy's training standards, equipment quality, and internal oversight. 
+
+This setback comes as China aims to increase its submarine fleet to 80 by 2035 as part of its strategy to challenge US naval dominance, particularly in the Pacific. Although experts believe the submarine can be salvaged and repaired, the incident is likely to delay China's progress in achieving maritime superiority. Despite this, China continues to develop its military capabilities, including its nuclear program.
+
+Fri, 27 Sep 2024 13:15:33 +0530
+### [Quicksplained: Who is Ankush Sachdeva, youngest entrepreneur on the Hurun U-35 India list?](https://www.firstpost.com/explainers/quicksplained-who-is-ankush-sachdeva-youngest-entrepreneur-on-the-hurun-u-35-india-list-13819579.html)
+
+Ankush Sachdeva, a 31-year-old IIT Kanpur graduate, is making waves as the youngest Indian on Hurun's Under-35 Entrepreneurs List. He is the co-founder and CEO of ShareChat, a social media platform valued at Rs 40,000 crore, built after 17 previous entrepreneurial attempts failed.  ShareChat, which boasts 500 million downloads and offers a user-friendly experience in 15 Indian languages, addressed the language barrier faced by Indians on mainstream platforms.  Sachdeva's success also extends to Moj, India's answer to TikTok, which has garnered over 100 million downloads. This recognition builds on his previous accolades, including a spot on Forbes' 30 under 30 Asia list.  Sachdeva's journey embodies perseverance and innovation, making him a prominent figure in India's entrepreneurial landscape.
+
 Fri, 27 Sep 2024 11:30:39 +0530
 ### [Pressure of marriage, fights... What brew between Mahalakshmi, lover before Bengaluru murder?](https://www.firstpost.com/explainers/marriage-pressure-fights-mahalakshmi-bengaluru-fridge-murder-13819537.html)
 
