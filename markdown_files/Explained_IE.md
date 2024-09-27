@@ -1,3 +1,11 @@
+Fri, 27 Sep 2024 14:15:51 +0000
+### [Explained: In sentencing of Hong Kong journalists, fears of increasing Chinese control](https://indianexpress.com/article/explained/explained-global/hong-kong-stand-news-china-9591647/)
+
+Two editors of the now-defunct Hong Kong news outlet Stand News were sentenced for sedition and participating in the 2019 protests. The case highlights the shrinking space for free expression in Hong Kong since China imposed a national security law in 2020. Stand News, known for its investigative reporting, faced scrutiny from authorities after covering the 2019 protests against a proposed extradition bill and perceived Chinese encroachment on Hong Kong's autonomy. The judge rejected the defense's argument that the journalists were fulfilling their duty to report diverse views, stating they were participating in the "resistance." 
+
+
+This sentencing further raises concerns about media freedom in Hong Kong, with the Hong Kong Journalists Association emphasizing the need for open discourse alongside national security measures.
+
 Fri, 27 Sep 2024 12:02:19 +0000
 ### [Shigeru Ishiba to become Japan’s next Prime Minister: 5 things you need to know](https://indianexpress.com/article/explained/explained-global/shigeru-ishiba-japan-next-prime-minister-9591407/)
 

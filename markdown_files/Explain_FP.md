@@ -1,3 +1,8 @@
+Fri, 27 Sep 2024 20:26:33 +0530
+### [In Graphics l From banker to Japan's next PM, the rise of Shigeru Ishiba](https://www.firstpost.com/explainers/in-graphics-l-from-banker-to-japans-next-pm-the-rise-of-shigeru-ishiba-13819860.html)
+
+Shigeru Ishiba has been elected leader of Japan's Liberal Democratic Party, making him the country's next prime minister. He defeated Sanae Takaichi, who was seeking to become Japan's first female prime minister, in a close runoff election. Ishiba, a 67-year-old former defence minister, is a senior party member and a vocal critic of former Prime Minister Shinzo Abe.  This election followed Prime Minister Fumio Kishida's announcement that he would not seek re-election due to fundraising scandals and low approval ratings.
+
 Fri, 27 Sep 2024 19:34:33 +0530
 ### [How supermodel Noami Campbell spent charity funds on spas, cigarettes](https://www.firstpost.com/explainers/how-supermodel-noami-campbell-spent-charity-funds-on-spas-cigarettes-13819790.html)
 
