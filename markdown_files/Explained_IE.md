@@ -1,3 +1,8 @@
+Fri, 27 Sep 2024 08:50:06 +0000
+### [Karnataka government withdraws ‘general consent’ to CBI: What it means](https://indianexpress.com/article/explained/everyday-explainers/karnataka-withdraw-cbi-general-consent-9591040/)
+
+The Karnataka government has withdrawn its general consent to the Central Bureau of Investigation (CBI). This decision, made during a Cabinet meeting, means the CBI will now need to seek consent on a case-by-case basis to conduct investigations in the state. The Law Minister stated the move was not connected to a recent High Court verdict against the Chief Minister. Karnataka joins seven other states, mostly those governed by non-BJP parties, which have also withdrawn general consent from the CBI. This trend began in 2015 with Mizoram, and has been attributed to concerns about the CBI being misused for political purposes. The withdrawal of consent does not entirely prevent CBI investigations, as court rulings have allowed for probes in certain instances. However, it significantly hinders the agency's ability to operate freely in these states.
+
 Fri, 27 Sep 2024 01:32:34 +0000
 ### [Remembering Gursharan Singh, who took theatre to the rural masses of Punjab](https://indianexpress.com/article/explained/explained-culture/gursharan-singh-9589851/)
 

@@ -1,3 +1,17 @@
+Fri, 27 Sep 2024 15:32:18 +0530
+### [Don’t let the chips fall: Why India’s semiconductor push is a step in right direction](https://www.firstpost.com/opinion/dont-let-the-chips-fall-why-indias-semiconductor-push-is-a-step-in-right-direction-13819688.html)
+
+The US and India have partnered to establish a semiconductor fabrication unit focused on national security. This is a significant move as it is the first time the US military has partnered with India on such a large scale.  India aims to build a robust domestic chip manufacturing ecosystem, highlighting its vision to have Indian-made chips in every device globally. The initiative is part of a broader effort to stay ahead in technological advancements, including 5G, 6G, and quantum computing. While India faces challenges like a need for vast capital investment and skilled labor, the government is actively addressing these through financial support, workforce development programs, and research initiatives.  The government also emphasizes the strategic importance of semiconductor manufacturing, citing global dynamics and the potential for long-term economic benefits. 
+
+Despite the challenges, India's efforts in the semiconductor industry hold promise for its future growth and position in the global market.
+
+Fri, 27 Sep 2024 13:46:55 +0530
+### [Air Taxis by 2026: How aviation will transform India’s urban mobility](https://www.firstpost.com/opinion/air-taxis-by-2026-how-aviation-will-transform-indias-urban-mobility-13819638.html)
+
+India is gearing up for the launch of air taxis by 2026, starting in heavily congested cities like Delhi and Mumbai. The Directorate General of Civil Aviation (DGCA) has established rules for Vertiports, specialized hubs for takeoff and landing of air taxis. Urban Air Mobility (UAM) involves the use of small, automated aircraft for passenger or cargo transport at low altitudes. 
+
+Many companies worldwide are developing UAM prototypes, aiming for a future where air travel is as convenient as ride-hailing services. Challenges remain in areas like public acceptance, noise concerns, and safety regulations.  India's involvement in UAM is growing, with IndiGo partnering with Archer Aviation to acquire 200 electric air taxis. The success of UAM depends on addressing these challenges, ensuring safety, and providing a seamless integration into existing transportation systems.
+
 Fri, 27 Sep 2024 11:44:23 +0530
 ### [How India can learn from Israel that terror cannot be tolerated](https://www.firstpost.com/opinion/how-india-can-learn-from-israel-that-terror-cannot-be-tolerated-13819590.html)
 

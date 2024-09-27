@@ -1,3 +1,14 @@
+Fri, 27 Sep 2024 15:00:17 +0530
+### [The economics of concert ticket prices: Lessons from the Coldplay sellout](https://www.livemint.com/opinion/online-views/concert-ticket-coldplay-ticket-prices-dua-lipa-taylor-swift-diljit-dosanjh-event-management-11727420304354.html)
+
+The article explores the complex dynamics of pricing concert tickets, using the example of Coldplay's recent sell-out shows in Mumbai. 
+
+It highlights several factors that influence pricing, including supply and scarcity (Coldplay's long absence from India), the target audience's purchasing power (young, affluent fans), and the venue's location and popularity.  
+
+The article argues that the pricing of concert tickets is not guided by traditional supply and demand economics, but by psychological factors like the Veblen effect (higher price equalling higher quality) and the bandwagon effect. 
+
+Ultimately, the author concludes that ticket pricing is a highly subjective process influenced by a multitude of variables, making it difficult to predict the right price.
+
 Fri, 27 Sep 2024 12:48:13 +0530
 ### [Ritesh Agarwal's ambitions for Oyo are still intact](https://www.livemint.com/opinion/online-views/ritesh-agarwal-oyo-ipo-motel-6-hotel-blackstone-nykaa-policybazaar-cartrade-zomato-11727419049268.html)
 

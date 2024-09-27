@@ -1,3 +1,33 @@
+Fri, 27 Sep 2024 15:43:30 +0530
+### [What are the Param Rudra supercomputers that India has developed?](https://www.firstpost.com/explainers/param-rudra-supercomputers-india-13819593.html)
+
+Prime Minister Narendra Modi launched three indigenously developed supercomputers named Param Rudra. These high-performance computing systems, built at a cost of Rs 130 crore, are deployed in Pune, Delhi, and Kolkata to accelerate scientific research. 
+
+Param Rudra supercomputers have a capacity of 838 terraflops and will be used in various fields like astronomical research, atomic physics, material science, and cosmology. 
+
+The launch signifies India's progress towards self-reliance in computing and its ambition to become a global hub for technological innovation. These supercomputers will empower young scientists and researchers to conduct cutting-edge research in their respective fields.
+
+Fri, 27 Sep 2024 15:35:00 +0530
+### [Is Bitcoin about to break its September jinx? What is that?](https://www.firstpost.com/explainers/is-bitcoin-about-to-break-its-september-jinx-what-is-that-13819641.html)
+
+Bitcoin is defying its typical September decline, with a performance exceeding 10% for the month. This positive trend is attributed to several factors: global interest rate cuts encouraging investor risk-taking, reduced selling pressure from major players like the German government and Mt. Gox, and a strong base of long-term Bitcoin holders.  The potential for further interest rate cuts and US regulatory clarity further boost Bitcoin's outlook. While analysts remain cautious,  Bitcoin's performance  has surpassed initial expectations, potentially signaling a shift in the cryptocurrency's historical September trends.
+
+Fri, 27 Sep 2024 15:13:38 +0530
+### [‘Eating The Cats’: What’s the parody song poking fun at Donald Trump that’s garnering millions of views?](https://www.firstpost.com/world/united-states/eating-the-cats-whats-the-parody-song-poking-fun-at-donald-trump-thats-garnering-millions-of-views-13819665.html)
+
+A parody song by South African musician David Scott has gained immense popularity online. The song, created under the band name 'The Kiffness', humorously addresses Donald Trump's unfounded claim about Haitian immigrants in Ohio eating cats and dogs. The lyrics, set to toe-tapping music, urge people not to eat cats and offer an alternative menu. 
+
+The video, which features amusing animal sounds, has garnered millions of views on YouTube and sparked widespread discussion. Scott emphasizes that his intention is not to attack anyone but to use humor to unite people and encourage positive change. He plans to donate all the earnings from the song to animal welfare organizations in Springfield.
+
+Fri, 27 Sep 2024 13:58:20 +0530
+### [Who is Shigeru Ishiba, Japan’s next PM? What changes will be bring to country?](https://www.firstpost.com/explainers/who-is-shigeru-ishiba-japans-next-pm-what-changes-will-be-bring-to-country-13819652.html)
+
+Shigeru Ishiba, a prominent member of Japan's Liberal Democratic Party (LDP), has been chosen as the successor to Prime Minister Fumio Kishida. Ishiba, a seasoned politician with experience as defense minister and a known advocate for national security, aims to revive the LDP's image, which has been tarnished by recent scandals. 
+
+He is considered a moderate within the party and has differentiated himself through his outspoken criticism of former Prime Minister Shinzo Abe's policies. Ishiba has expressed a desire for Japan to become more assertive on the international stage, including exploring the possibility of an "Asian NATO" and advocating for a stronger military response to territorial violations. He also emphasizes the importance of bolstering Japan's economy through investments in technological sectors and addressing the country's declining birth rate.  
+
+Despite his past conflicts with party colleagues, Ishiba's popularity among the general public and his emphasis on reform have likely contributed to his victory. His leadership will significantly shape Japan's future direction in domestic and foreign policy.
+
 Fri, 27 Sep 2024 13:40:03 +0530
 ### [Why China seethes as Indian team names Arunachal peak after Dalai Lama](https://www.firstpost.com/explainers/china-indian-mountaineering-team-arunachal-pradesh-peak-dalai-lama-india-tibet-13819626.html)
 

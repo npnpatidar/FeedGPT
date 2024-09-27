@@ -1,3 +1,12 @@
+Fri, 27 Sep 2024 14:40:30 +0530
+### [‘Devara: Part 1’ movie review: Jr NTR and Anirudh amp up the intensity in an overstretched action drama](https://www.thehindu.com/entertainment/movies/devara-part-1-movie-review-jr-ntr-and-anirudh-amp-up-the-intensity-in-an-overstretched-action-drama/article68685830.ece)
+
+"Devara: Part 1", a Telugu film starring NTR Jr, Saif Ali Khan, and Janhvi Kapoor, follows the story of Devara, a mysterious figure in a fictional coastal region. The film explores human behavior and courage, setting its narrative against the backdrop of the erra samudram (red sea). 
+
+While the film boasts impressive technical aspects with captivating cinematography by Rathnavelu and energetic music by Anirudh Ravichander, it falters in its writing. The narrative is engaging for the first hour but loses steam in the later portions with a predictable romance track and a stereotypical portrayal of Bhaira (Saif Ali Khan). 
+
+Despite some noticeable flaws, Jr NTR delivers a compelling performance as both Devara and his son Vara. The film ends with a cliffhanger, leaving viewers to wonder about the continuation of the story in a potential sequel.
+
 Fri, 27 Sep 2024 12:56:11 +0530
 ### [‘Meiyazhagan’ movie review: Karthi and Arvind Swami shoulder this spirited bromance drama](https://www.thehindu.com/entertainment/movies/meiyazhagan-movie-review-karthi-and-arvind-swami-shoulder-this-spirited-bromance-drama/article68688040.ece)
 
