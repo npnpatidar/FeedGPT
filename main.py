@@ -38,6 +38,8 @@ def fetch_article_text(url):
     
 def summarise(article_text):
 
+    #wait for 10 seconds
+    time.sleep(10)
 
     load_dotenv()
 
